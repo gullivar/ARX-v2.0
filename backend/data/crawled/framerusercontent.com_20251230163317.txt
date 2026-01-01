@@ -1,0 +1,659 @@
+Log in
+Sign up
+
+Copy
+
+Logo as SVG
+
+Brand
+
+Guidelines
+
+Product
+Teams
+Resources
+Community
+Support
+Enterprise
+Pricing
+
+2025 Framer Awards
+
+Submissions now open
+
+Build better sites, faster
+
+Framer is the site builder trusted by startups
+to Fortune 500. Build fast and scale with an integrated CMS, SEO, Analytics, and more.
+
+Start for free
+
+Start with AI
+
+Create, collaborate, and go live
+AI
+
+Generate site layouts and advanced components in seconds with AI, so you can skip the blank canvas and start designing with confidence.
+
+Learn more
+Design
+
+Craft responsive layouts and bring them to life with smooth effects, interactions, and animations. Build exactly what you imagine, visually.
+
+Learn more
+CMS
+
+Manage and update your content effortlessly with a built-in CMS. Keep your site fresh without touching code.
+
+Learn more
+Collaborate
+
+Whether you’re collaborating on the canvas or editing copy directly on the page, updates are seamless and handoff-free.
+
+Learn more
+
+Wireframer
+
+I created three unique landing pages in dark mode for your modern design startup: a main landing page, a creative-focused page, and a studio showcase page.
+
+Landing Page 1
+
+Landing Page 2
+
+Landing Page 3
+
+
+
+
+100%
+
+Benjamin
+
+Paul
+
+100%
+
+Title
+
+Image
+
+Date
+
+Category
+
+Slug
+
+Search 153 items…
+
+Plugins 3.9: Collections
+
+Dec 18, 2025
+
+Plugins
+
+plugins-3-9
+
+Custom Code
+
+Dec 15, 2025
+
+Publishing
+
+custom-code
+
+Flow Effect
+
+Dec 11, 2025
+
+Effects
+
+flow-effect
+
+Localized Page Paths
+
+Dec 11, 2025
+
+Localization
+
+localized-page-paths
+
+December Update: Squircle
+
+Dec 10, 2025
+
+Design
+
+december-update-2025
+
+Masonry Grids
+
+Nov 27, 2025
+
+Design
+
+masonry
+
+Font Drop 16
+
+Nov 21, 2025
+
+Design
+
+font-drop-16
+
+Ticker Effect
+
+Nov 13, 2025
+
+AI
+
+ticker-effect
+
+Relative Dates
+
+Nov 11, 2025
+
+CMS
+
+relative-dates
+
+Auto Rename
+
+Nov 11, 2025
+
+AI
+
+auto-rename
+
+Title
+
+Plugins 3.9: Collections
+
+Image
+
+plugins-3-9.jpg
+
+Categories
+
+Plugins
+
+Slug
+
+plugins-3-9
+
+framer.com/updates/plugins-3-9
+
+Content
+
+Paragraph
+
+
+This release is led by the new Create Collection API, which lets plugins create CMS collections, immediately focus them, and continue workflows like importing data without requiring any other manual collection setup. The rest of the update focuses on user experience improvements and reliability across plugins and CMS syncing. It also adds new layout and navigation capabilities, including overflow and text truncation support, plus the improved zoomIntoView behavior. We hope these updates help you to build even more powerful plugins. For more details, click here.
+
+General
+
+Added z-index support for plugins to control stacking order
+
+Added overflow support for better scrolling & clipping control
+
+Added support for setting a background message for plugins
+
+Added text truncation support to improve UI layout in plugins
+
+Added API for creating CMS collections createCollection 
+
+Added skipIfVisible to zoomIntoView and navigateTo 
+
+Allowed disabling “Edit via Plugin” for Code Components
+
+Fixed duplicate items during managed collection syncs
+
+Fixed Collection.setAsActive() when plugin closes
+
+Increased the plugin SVG size limit from 4KB to 10KB
+
+Plugins
+
+CMS Import: Now auto-detects markdown for rich text
+
+CSV Import: Plugin can now select/create collections
+
+Recruitee: Import now supports optional offer fields
+
+Notion: Formulas can now be used as the slug field
+
+Notion: Improved handling of the API rate limiting
+
+
+
+
+baseform.framer.website
+
+Baseform®
+
+Art Direction
+
+Visual Design
+
+Work,
+
+Archive,
+
+Profile,
+
+Journal
+
+Let's Talk
+
+|
+Latest News
+
+View All Posts
+
+→
+
+Click to edit
+
+·
+
+Changes are auto-saved
+
+Site saved
+
+·
+
+Collaborators are notified. Changes will be visible once the project is published.
+
+Open in Framer
+
+Finish Editing
+
+Scale without switching tools
+Analytics & insights
+
+Track traffic, measure performance, and monitor conversions.
+
+Learn more
+
+Pageviews
+
+258,156
+
+Visitors
+
+85,458
+
+Overview
+
+Live Visitors
+
+400
+
+Unique Visitors
+
+1.7M
+
+Total Pageviews
+
+3.2M
+
+330k
+
+Sources
+
+Referrer
+
+google.com
+
+436K
+
+chatgpt.com
+
+189K
+
+linkedin.com
+
+96K
+
+youtube.com
+
+82K
+
+bing.com
+
+71K
+
+x.com
+
+49K
+
+Pages
+
+All
+
+Home
+
+1.8M
+
+/pricing
+
+156K
+
+/gallery
+
+91K
+
+/updates
+
+44K
+
+/features/design
+
+39K
+
+/features/cms
+
+27K
+
+A/B Testing & optimization
+
+A/B testing, funnels, and built-in growth insights.
+
+Learn more
+
+Pages
+
+Layers
+
+Assets
+
+Design
+
+Pages
+
+Home
+
+A
+
+Control
+
+B
+
+Version B
+
+C
+
+Version C
+
+/pricing
+
+A
+
+B
+
+/features
+
+/blog
+
+/about
+
+/404
+
+Desktop
+
+·
+
+1200
+
+SEO & performance
+
+Optimize every page with built-in SEO settings, metadata, and blazing-fast hosting.
+
+Learn more
+
+Google Lighthouse
+
+0
+
+SEO
+
+0
+
+Performance
+
+0
+
+Accessibility
+
+Powering ambitious teams worldwide
+
+“With Framer, our designers can ship updates daily. No dev handoff. No staging hassle.”
+
+Jelle Prins
+
+Co-Founder at Cradle
+
+Read more
+
+“Framer allowed us to ship high-performing, beautifully designed pages at record speed, all while keeping design control in-house.”
+
+Radoslav Bali
+
+Design Lead at Miro
+
+Read more
+
+“Framer gives us everything we need to move fast. We don’t wait on dev. We don’t compromise on design.”
+
+Henry Modisett
+
+Head of Design at Perplexity
+
+Read more
+
+“Launching on Framer was seamless. Live in no time, no friction.”
+
+Colin Dunn
+
+Co-Founder at Visual Electric
+
+Read more
+
+“Framer gave us full creative freedom. No code limits, no handoffs. We shipped an immersive brand site in days.”
+
+Adam Jiwa
+
+Partnerships at Metalab
+
+Read more
+
+Perplexity
+Visual Electric
+Biograph
+Cradle
+Miro
+Get pro help from handpicked experts
+
+Get matched
+
+Find an Expert
+
+Launch faster with community resources
+
+Templates
+
+Plugins
+
+Components
+
+View Component
+
+Image Slider
+
+Component
+
+Before and after images
+
+View Template
+
+Milo
+
+Template
+
+Furniture shop website
+
+View Plugin
+
+Notion
+
+Plugin
+
+Sync with Notion
+
+View Component
+
+Hover Zoom
+
+Component
+
+Zoom and pan on hover
+
+View Template
+
+Archer
+
+Template
+
+Creative portfolio
+
+View Plugin
+
+Workshop
+
+Plugin
+
+Turn ideas into components
+
+View Component
+
+Digital Rotary Radio
+
+Component
+
+Fully functional radio
+
+View Template
+
+Apex Films
+
+Template
+
+Multimedia portfolio
+
+View Component
+
+Flip Card
+
+Component
+
+Drag to flip cards
+
+View Component
+
+Animated Gradients
+
+Component
+
+Image reveal effect
+
+View Plugin
+
+JSON Sync
+
+Plugin
+
+Import & export CMS with JSON
+
+View Template
+
+Baseform
+
+Template
+
+Modern design portfolio
+
+Design bold. Launch fast.
+
+Start for free
+
+Start with AI
+
+Loading status
+Loading
+
+CCPA
+
+Product
+AI
+Design
+Publish
+CMS
+Scale
+SEO
+
+NEW
+
+Collaborate
+Business
+Pricing
+Switch
+Startups
+Agencies
+Enterprise
+Compare
+Figma
+Webflow
+Wordpress
+Squarespace
+Unbounce
+Wix
+Solutions
+Figma to HTML
+Website builder
+Portfolio maker
+Landing pages
+UI/UX design
+No-code
+Resources
+Templates
+Components
+Plugins
+Vectors
+Marketplace
+Downloads
+Developers
+Wallpapers
+Newsletter
+Updates
+Support
+Contact
+Brand
+Blog
+Company
+Meetups
+Careers
+Security
+Abuse
+Media
+Legal
+Store
+
+NEW
+
+Programs
+Affiliates
+Experts
+Creators
+Students
+Ambassadors
+                

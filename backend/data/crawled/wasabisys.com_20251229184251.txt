@@ -1,0 +1,269 @@
+Skip to content
+
+NEWS: 
+
+Introducing Covert Copy: An innovative new take on the virtual air-gap. Only from Wasabi!
+
+Read More >
+Search
+English
+Sign In
+Products
+Pricing
+Solutions
+Partners
+Resources
+Company
+Contact Us
+Try Free
+Your Critical AI Data Just Got a 
+Security Upgrade
+Introducing Covert Copy. It’s not just immutable. It’s Invisible.
+Learn More
+Keep your GPUs fed with Fire
+
+Ignite your AI data pipeline with Wasabi Fire, our new all-NVMe storage designed for the most demanding high-throughput, low-latency workloads.  S3-compatible, with no fees for egress or API requests, Fire frees your data to fuel what’s next.
+
+Discover Fire
+Ideal for AI pipelines, from ingest to archive 
+
+Free up budget. Access your AI data fast and free of charge. Rest easy knowing your vital AI training and inference data are protected with best-in-class, multilayered security. 
+
+Lowest TCO
+
+Avoid hidden costs that can nearly double TCO in AI workflows​​ 
+
+
+
+Up to 80% less than hyperscaler storage
+ 
+
+Predictable costs make it easier to scale AI initiatives with confidence 
+
+
+
+
+
+Calculate Your TCO
+Always Hot
+
+Data is hot and ready for immediate use​ 
+
+
+
+High-performance architecture supports rapid ingest and retrieval​ 
+
+
+
+Zero fees for egress, reads, or writes across your AI pipeline
+
+
+
+
+
+Hot Cloud Storage
+Cyber-resilient
+
+Immutability and Multi-User Authentication protect against ransomware
+
+
+
+
+SOC-2 , ISO 27001 and PCI-DSS-certified data centers 
+
+
+
+
+Built-in compliance for HIPAA, GDPR, FERPA, and more
+
+
+
+Become Cyber Resilient
+Start a 30-day free trial or buy now
+
+Store it all, securely and affordably
+
+Wasabi is a new breed of cloud storage that empowers you to not just store more but to do more with your data. Wasabi costs up to 80% less than the hyperscalers, and unlike our big competitors, we never charge for egress or API requests.
+
+It's your data. Feel free to use it.
+
+Try Wasabi Free
+Lower your total cost of ownership 
+
+Nearly half of the total cost of hyperscale cloud storage is spent on fees instead of actual storage capacity. Fees for access, transport, API requests, egress—so many fees, it’s impossible to understand, let alone predict, what your ultimate cloud storage spend will be. Until now.
+
+Find your TCO
+Technology Alliance Partners
+TECHNOLOGY ALLIANCE PARTNER
+IBM
+
+Wasabi and IBM enable fast and flexible hybrid cloud workload management, positioning enterprises to run applications across any environment—on-premises, in the cloud or at the edge—and enabling users to cost efficiently access and use key business data and analytics in real time.
+
+Read More
+Dell Technologies
+
+Dell and Wasabi offer customers a powerful and cost-effective alternative to traditional cloud storage solutions to extend
+on-premises storage into the cloud, whether for data protection,
+long-term retention, or seamless hybrid workflows.
+
+Dell PowerProtect | Dell PowerScale | ObjectScale
+
+Read More
+Next slide
+Previous slide
+Seamless connections and compatibilities 
+
+Our validated integrations with the industry’s most popular S3-compatible applications ensure a smooth, simple, and optimized user experience. 
+
+Find a Partner
+
+
+
+
+RESELL WASABI
+
+Delight your customers
+and your CFO
+
+Wasabi enables resellers and service providers to easily increase revenues and profit margins while increasing customer satisfaction. Plus, you get access to world-class co-marketing support and a single pane of glass to manage all your Wasabi accounts.
+
+Become a Partner
+Global reach. 
+Local performance. 
+
+With 16 enterprise-class storage regions worldwide, Wasabi puts your data exactly where you need it for lightning-fast access, redundancy, control, and compliance. Every region is housed in a secure, SOC-2, ISO 27001, and PCI-DSS certified data center, giving you peace of mind without compromise.
+
+Learn More
+The world's top companies trust 
+Wasabi with their data
+Imperial College Healthcare NHS Trust
+
+We compared AWS, Azure, and the cost of maintaining racks of on-prem storage and Wasabi was significantly more cost-effective.
+
+Yusuf Mangera
+Technical Architect
+
+Read More
+Cornell University
+
+The fact that we have about two petabytes of storage in Wasabi, and I’ve had fewer tickets than I have fingers on one hand is a true testament to just how well everything’s put together.
+
+David Beardsley
+Senior Storage Architect, Cornell University
+
+Read More
+Boston Bruins & TD Garden
+
+Wasabi’s reliable, affordable cutting-edge cloud data services are helping me innovate a guest experience that’s really going to wow our fans.
+
+Josh Carley
+Vice President of Technology, TD GardenSports
+
+Read More
+Next slide
+Previous slide
+Expanding what’s possible 
+
+Wasabi makes storage easy so you can focus on what you do best.
+
+Backup & recovery 
+
+Affordable and secure offsite copies, available at a moment’s notice with no fees for testing, retrieval, or immutability. 
+
+Backup better
+Active media storage 
+
+Fast, fee-free access to your media. Ideal for cloud tiering, archiving, and accelerating your media workflows. 
+
+Free your files
+Video surveillance 
+
+Protect your surveillance footage, extend your on-prem capacity, and meet the most stringent compliance demands.
+
+Store more footage
+Data migration tools 
+
+Whether you’re pushing petabytes off-prem or want out from expensive hyperscale clouds, we make it fast and affordable. We’ll even take care of your egress fees. 
+
+Migration made easy
+Multi-tenant management 
+
+Sell, provision, and manage multiple sub-accounts. Wasabi Account Control Manager can even be customized with your logo and brand identity. 
+
+Made for MSPs
+Flexible payment models 
+
+Enjoy low, predictable pricing whether you pay as you go or pay by PO. Choose Reserve Capacity Storage in 1,3, or 5-year increments and save even more. 
+
+Pay your way
+What's new at Wasabi
+PRESS RELEASE
+
+Wasabi Launches Covert Copy, a Completely Invisible and Indestructible Copy of Data for a Higher Level of Cloud Storage Security.
+
+PRESS RELEASE
+
+Wasabi Introduces High-Performance Class and Expands into Silicon Valley to Take on AI’s Rising Data Storage Costs.
+
+ARTICLE
+
+Everyone’s Talking About AI Compute—But It All Starts With Storage
+
+ARTICLE
+
+Why most AI projects flop - and how your business can beat the odds
+
+PRESS RELEASE
+
+Wasabi Technologies Achieves ISO/IEC 27001 Certification
+
+Next slide
+Previous slide
+Join the Wasabi revolution
+
+Haven't tried Wasabi yet? What are you waiting for?
+Try it free for 30 days.
+
+Contact Sales
+Free Trial
+Company
+About Wasabi
+Storage Regions
+Newsroom
+Press Releases
+Trust Center
+Leadership Team
+Careers
+Contact
+Learn
+All Resources
+Blog
+Case Studies
+Webinars
+Product Updates
+Documentation
+Integrations
+Cloud 101
+Support
+Popular
+Wasabi Hot Cloud Storage
+Storage Management Tools
+Security
+Compliance
+Cyber Resilience
+Backup and Recovery
+Become a Partner
+System Status
+Privacy Policy
+Terms of Use
+Legal
+Web Accessibility Statement
+Cookies Settings
+
+© 2025 Wasabi Technologies
+
+We Value Your Privacy
+
+We’re in the business of protecting data, so you better believe we’ll protect your privacy. By continuing to browse this site, you agree to the use of cookies to help us enhance and personalize your user experience. For you “high verify” types, here’s our privacy policy.Privacy Policy
+
+Cookies Settings

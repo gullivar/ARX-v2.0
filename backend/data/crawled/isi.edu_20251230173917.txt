@@ -1,0 +1,207 @@
+Skip to content
+ 
+ 
+ISI NEWSROOM
+Information Sciences Institute
+ 
+Search ISI
+About ISI
+Research
+Results
+People
+Careers
+Donate
+Contact
+Latest News
+Why Talk About AI Governance if AI Isn’t Governable?
+
+Mayank Kejriwal of USC ISI makes the case for a new national policy focused on academic-industry partnerships to close the gap between rapid commercial deployment and the under-invested fields of AI safety and interpretability.
+
+Source: Science & Diplomacy 
+What Would It Take to Eat Breakfast on the Moon?
+Scientists Create Ultra Fast Memory Using Light
+Bridging the Valley of Death: ISI’s Computational Systems Division and the DREAMS Evolution
+X reveals where some users are based. It might backfire
+AI’s Promise and Peril: USC Experts Navigate the Breakneck Pace of Artificial Intelligence
+USC Researcher Wins Prestigious Computing Award for Scientific Workflow Innovations
+California Semiconductor Workforce Data Reveals Major Gap Between Industry Projections and Reality
+AI Is Powering the Search for America’s Critical Minerals
+VIEW ALL NEWS
+UPCOMING EVENTS
+JAN 9
+Teledyne GaN-on-SiC Device Library for Advanced RF and Power Conversion Applications
+
+Dr. Keisuke Shinohara, Principal Scientist, Teledyne
+
+12:00pm - 1:00pm
+
+JAN 15
+Artificial Intelligence, Innovation Governance, and Organizational Change
+
+Bowen Lou, USC
+
+11:00am - 12:00pm
+
+JAN 16
+Distributed and Integrated Sensing and Communication: Beamforming, Estimation, Learning and More
+
+Professor Nuria Gonzalez Prelcic, UCSD
+
+12:00pm - 1:00pm
+
+VIEW ALL EVENTS
+@ISI.EDU FEED
+USC Information Sciences Institute
+December 15
+Such a cool technology invented by Berok Khoshnevis, professor at USC who worked with USC Information Sciences Institute to create large scale and address the crisis. "One house a day might not be so far-fetched". Watch the video below for the whole story.
+
+Contour Crafting Corporation, USC Viterbi School of Engineering, University of Southern California
+USC Professor Berok Khoshnevis of the @[USC Sonny Astani Dept of Civil & Environmental Engineering](urn:li:organization:89769615) invented buildings. Watch this video to learn how he invented contour crafting 30 years ago and pioneered the entire field of large-scale 3D printing. Contour Crafting Corporation
+VIEW FULL POST
+USC Information Sciences Institute
+December 15
+ISI's Terry Benzel Featured in IEEE Computer Society's 2025 Reflection
+
+We're proud to celebrate our Managing Director, Terry Benzel, who has been featured as one of the IEEE Computer Society's Vice Presidents in their landmark 2025 Reflection article, published in the December issue of their Computer Magazine.
+
+Alongside fellow Vice Presidents Nils Aschenbruck, Andrew Seely and Dr. Cyril Onwubiko, Charles Hansen and Edward Au, Terry contributed to a comprehensive review of what the IEEE Computer Society describes as "one of its most active years in nearly 80 years of history." The reflection piece examines the remarkable programs and activities that defined 2025 while charting an ambitious course toward the Society's 80th anniversary.
+
+Terry's inclusion in this distinguished leadership group underscores her significant contributions to advancing computer science and cybersecurity research on a global scale.
+
+The full reflection article is available in the December issue of IEEE Computer Magazine, offering insights into the initiatives and innovations that have positioned the IEEE Computer Society at the forefront of the computing field.
+Congratulations, Terry, on this well-deserved recognition of your leadership and impact!
+VIEW FULL POST
+USC Information Sciences Institute
+December 15
+Breakthrough in photonic computing!
+
+Scientists at USC Information Sciences Institute and the University of Wisconsin-Madison have developed the first regenerative photonic memory on a commercial foundry platform, solving a critical bottleneck in light-based computing.
+
+The challenge: As AI and data center demands surge, traditional electronic systems are hitting hard limits. Metal wires can only move data so fast before resistance and heat become barriers. Light-based computing promises dramatically faster speeds, but we've lacked one crucial component: memory that operates entirely in the optical domain.
+
+The innovation: Our team, led by Director of Advanced Electronics Ajey Jacob and UW-Madison Professor Akhilesh R Jaiswal, created a "photonic latch", an optical memory cell that stores data as light, just like standard RAM but faster.
+
+What makes this significant? It was built using GlobalFoundries' Fotonix™ platform, meaning it's ready for commercial-scale manufacturing today.
+
+Impact: This technology could enable optical processor caches running 50-60 GHz—up to 20x faster than today's electronic caches—ideal for data centers and high-performance computing.
+
+Presented at IEEE IEDM Conference 2025, December 6-10 in San Francisco.
+Read more: https://lnkd.in/gdTdGEgw
+USC Viterbi School of Engineering University of Southern California
+VIEW FULL POST
+USC Information Sciences Institute
+December 13
+Welcome to the team GURKAN COLAK !
+I’m happy to share that I started a new position as RF/Analog IC Design and Layout Engineer at USC Information Sciences Institute! I’m grateful to be working under the leadership of Rehan Kapadia as my director and Jeung Hun Park as my manager.
+
+I’d also like to extend my heartfelt thanks to Chris Hughes, Stephen Wyatt, and chris clark for their incredible support and mentorship during my time at  ASIC North It was a pleasure working with Chris Hughes and Stephen Wyatt as my managers — I truly appreciated the opportunity to learn, grow, and collaborate with such talented professionals.
+VIEW FULL POST
+USC Information Sciences Institute
+December 9
+Congratulations Mayank Kejriwal for this editorial on the front page of Science & Diplomacy (AAAS)!
+
+In this piece, Mayank "makes the case for a new national policy focused on academic-industry partnerships to close the gap between rapid commercial deployment and the under-invested fields of AI safety and interpretability."
+
+Check it out: https://lnkd.in/ghFFJUBD
+VIEW FULL POST
+VIEW OUR FEED
+DELIVERING THE FUTURE
+
+ISI's mission is to advance society through pioneering research and technological innovation. We cultivate an intellectually vibrant environment where researchers are empowered to imagine bold solutions to complex problems and to develop into world-class leaders. Guided by integrity, inclusion, and a commitment to excellence, we create unprecedented capabilities that harness information to transform lives.
+
+Research & Development
+
+Part of the University of Southern California’s Viterbi School of Engineering, ISI is a pioneer in research and development across an exceptionally wide range of advanced information processing, computer, and communications technologies.
+
+Our broad expertise spans artificial intelligence, computational systems and technology, space engineering, informatics systems research, and networking and cybersecurity. Bridging multiple technology disciplines through both academic and industry expertise, ISI continues to shape the technologies of tomorrow.
+
+Explore ISI R&D
+
+Centers
+
+ISI Centers are internationally renowned for pioneering research in a multitude of areas and disciplines, with collaborations with Lockheed Martin, Raytheon, Northrop Grumman, and numerous other organizations. From quantum computing to global space applications, ISI Centers push forward the boundaries of innovation.
+
+Discover ISI's Centers
+
+MOSIS
+
+In 1981, a request from DARPA led to USC establishing The MOSIS Service at ISI — a silicon prototyping and low volume production service for custom and semicustom integrated circuits.
+
+Over the past 40 years, The MOSIS Service has collaborated with over 50 US government laboratories and agencies, 800 domestic and foreign colleges and Universities, and more than 100 commercial companies, and continues to support the advancement of microelectronics.
+
+Learn More About MOSIS
+
+Join the Future
+
+To build upon its successes and global reach, ISI actively recruits exceptional talent. We are dedicated to investing in tomorrow’s leaders, providing numerous internship, job, and program opportunities for students, as well as unique opportunities for exceptional researchers in information sciences and related fields.
+
+Explore Opportunities at ISI
+
+FEATURED JOB OPENINGS
+
+To build upon its successes and global reach, ISI actively recruits exceptional talent. We are dedicated to investing in tomorrow’s leaders, providing numerous internship, job, and program opportunities for students, as well as unique opportunities for exceptional researchers in information sciences and related fields.
+
+Analog Design & Layout Engineer
+
+Marina del Rey, CA
+
+In Office
+
+Seeking an engineer skilled in analog/RF and digital circuit design, and physical layout. The role involves working with MOSIS 2.0 customers, supporting USC’s tape out classes, and contributing to funded research projects in the USC ECE department.
+
+VIEW JOB
+EDA Infrastructure Engineer
+
+USC University Park Campus
+
+In Office
+
+Manage and support multi-vendor EDA tool flows with a focus on digital design. Oversee cloud platforms for tool access and IP repositories, providing support to internal and external users in a collaborative, cloud-based EDA ecosystem.
+
+VIEW JOB
+ASIC/FPGA Research Engineer - Digital Design
+
+Arlington, VA
+
+Hybrid Eligible
+
+Perform front-end digital design of advanced ASIC or FPGA-based prototypes addressing problems of national importance while developing novel computer architectures, RTL models, and systems-on-chip.
+
+VIEW JOB
+EXPLORE ALL OPENINGS
+DID YOU KNOW
+?
+ISIers, including Jon Postel, were heavily involved in creating the specification documents of the Internet that make global networking possible: TCP/IP. Postel was so involved, in fact, that the final TCP/IP documents published in 1981 were “prepared for DARPA by ISI” with Postel listed as the Editor.
+NEXT FACT
+ISI SEMINAR SERIES
+
+Keep up-to-date with the ISI seminar series by subscribing below.
+
+You will have the option of subscribing to individual seminar topics.
+
+SUBSCRIBE TO NOTIFICATIONS
+INFORMATION SCIENCES INSTITUTE
+
+As a world-class institution, ISI offers a prestigious, intellectually vibrant environment, combining the best of major research universities and industry labs on both coasts.
+
+ISI is committed to forging a better future. Please visit our careers web page to learn how you can become a part of the ISI community.
+
+Headquarters
+4676 Admiralty Way, Suite 1001
+Marina del Rey, CA 90292
+310-822-1511
+Bluesky Twitter Instagram Facebook Youtube LinkedIn
+Contact Us
+Newsroom
+Locations
+Careers
+University of Southern California
+Viterbi School of Engineering
+Privacy Policy Legal Disclaimer© 2025 USC Information Sciences Institute
+Subscribe to the ISI Newsletter
+
+Get the latest ISI tech news delivered to you every month!
+
+Email Address
+ SUBSCRIBE
+Don't ask me again for a year.

@@ -1,0 +1,142 @@
+Research starts here
+Pro
+Sources
+Filter
+Try a Deep Search
+Draft an outline
+Create a table
+Try the Consensus Meter
+TRY ASKING ABOUT...
+History
+🇫🇷
+Did women play a key role in the french revolution?
+🖌️
+What were the technological advancements during the Renaissance?
+📉
+Compare the economic impacts of the Great Depression in the USA and Europe
+Computer Science
+📊
+Compare the performance of different algorithms for sorting large datasets
+📡
+Are there vulnerabilities in RFID systems that compromise security?
+🔎
+Compare BM25 and LLM-based vector embeddings for information retrieval
+AI and Machine Learning
+🎨
+Is AI capable of creative tasks?
+🚗
+How do AI models handle ethical dilemmas in autonomous vehicles?
+📊
+Create a table comparing different AI model architectures, including key features, use cases, and performance metrics
+Sociology
+🧠
+Compare the psychological impacts of social media usage among different cultures
+🏥
+Review the relationship between healthcare access and multicultural families
+🫂
+How much does social support influence health?
+Fitness and Exercise
+⏱️
+Does HIIT burn more fat than MICT workouts?
+🏃
+List the benefits of regular cardiovascular workouts
+🧊
+What are the most effective recovery methods after high-intensity workouts? Make a table showing the effectiveness, time required, and common drawbacks of each method
+Sleep
+💤
+Can glycine supplementation improve sleep?
+⏰
+Discuss the importance of consistent sleep timing for health
+🧘
+Is MBSR effective for improving sleep outcomes?
+Skin Care
+👴
+Write a blog on the most effective topical treatments to reduce wrinkles
+🌍
+What is the lowest SPF sunscreen recommended for daily use?
+👵
+Can hyaluronic acid reduce signs of aging?
+Education and Learning Strategies
+🏫
+Compare evidence for active vs. passive learning in classroom setting
+🎮
+Can gamification enhance student engagement and learning?
+💻
+What are the benefits and drawbacks of online versus in-person learning? Generate a table outlining key factors such as flexibility, cost, and student outcomes
+Supplements
+🧠
+Does b vitamin and omega 3 supplementation reduce the risk of dementia?
+🥛
+Compare whey protein vs. plant based protein supplements
+🌈
+Can Zinc help treat depression?
+Patient Care
+💉
+What are the latest advancements in insulin delivery systems for diabetes?
+🧬
+Is there a genetic predisposition to developing type 2 diabetes?
+⚖️
+Weigh the benefits and risks of proton pump inhibitors for acid reflux
+Mental Health
+🏃
+Can exercise improve mental well-being?
+📱
+Does social media negatively impact mental health?
+💊
+Which supplements can boost the effects of antidepressants?
+Psychology
+🧬
+Examine the role of genetics in the development of bipolar disorder
+🧠
+What are the long-term effects of chronic stress on the brain?
+🔒
+Are personality traits static and unchangeable throughout a person's life?
+Business
+🚧
+Does project management software save time?
+🇰🇷
+Write a review on the challenges of gender-responsive budgeting in South Korea
+🎯
+Do OKRs improve business outcomes?
+Pharma and Biotech
+🌍
+Do GWAS studies predict risk of type 2 diabetes in different ethnic populations?
+🧪
+What are genetic markers that predict response to rheumatoid arthritis medications?
+🎯
+Discuss the pros and cons of using nanoparticles for targeted drug delivery
+Nutrition and Diet
+⚠️
+Are there any risks associated with a ketogenic diet?
+🌾
+Does high fiber intake improve gut health?
+🌱
+Compare the nutritional value of plant-based proteins vs. animal-based proteins
+Parenting and Child Development
+🌐
+Can bilingualism improve cognitive abilities in children?
+🧠
+What is the impact of prenatal stress on fetal brain development?
+📚
+Are there benefits to early childhood education?
+Economics
+💵
+Can universal basic income reduce poverty levels?
+💼
+Does increasing the minimum wage lead to higher unemployment?
+📉
+How do quantitative easing policies influence long-term interest rates?
+Environmental Science
+💵
+Outline a lit review on pm2.5 pollution's effects on local economies
+🌍
+Write a blog on innovative methods for reducing plastic waste
+🌳
+What are the impacts of deforestation on biodiversity?
+Medicine and Healthcare
+🤧
+Does zinc help with cold symptoms?
+📱
+Are telemedicine services effective for patient care?
+🧠
+Does mental health affect pain perception?

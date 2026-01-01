@@ -1,0 +1,2 @@
+/ssl - to install your Charles install's SSL certificate
+/ .pac - a proxy autoconfiguration file for Charles running on the given IP address (and optional port).

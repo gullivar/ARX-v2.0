@@ -1,0 +1,110 @@
+[TESTNET]
+[BUILD]
+[RESEARCH]
+[DISCOVER]
+MegaETH Home
+THE FIRST REAL-TIME BLOCKCHAIN
+100,000+ TRANSACTIONS PER SECOND,
+10+ GGAS PER SECOND,
+SUB 10-MS BLOCKTIMES,
+SETTLED ON ETHEREUM.
+READ THE WHITE PAPER
+>100K
+TRANSACTIONS PER SECOND
+<0.01S
+BLOCK TIMES
+ABOUT US
+BLOG & NEWS
+VIDEOS
+MEGA DRIP
+2025/11/04
+THE LAST MILE
+01
+Shuyao explains why realtime infrastructure is the "Last Mile" in crypto
+2025/9/8
+MEGAETH INTRODUCES USDM
+02
+In partnership with Ethena, MegaETH is launching USDm to align incentives across the network, run the sequencer at cost, and deliver the lowest fees for users and builders.
+2025/10/16
+ENDGAME: HOW MEGAETH BRIDGES THROUGHPUT AND DECENTRALIZATION
+03
+MegaETH bridges throughput and decentralization with stateless validation—letting anyone verify blocks with low specs, reinforced by Pi Squared’s semantic validation.
+2025/10/22
+THE MEGAETH PUBLIC SALE: A REMINDER TO STAND ON BUSINESS
+04
+Namik outlines how MegaETH’s public sale on Sonar aligns users and investors—building a community defined by conviction.
+2025/10/16
+MEGAETH INTRODUCES NATIVE ORACLE
+05
+Chainlink Data Streams are now natively integrated on MegaETH via a precompile, delivering ultra-low latency market data onchain to power next‑gen real-time DeFi.
+2025/10/10
+YOUR DREAMS DON’T HAVE TO DIE (PT. 2)
+06
+Mafia 2.0 captures MegaETH’s A24 ethos—curating distinct builders across DeFi, culture, and gaming who share a creative instinct.
+2025/9/10
+YOUR DREAMS DON'T HAVE TO DIE
+07
+Mafia 2.0 showcases a new generation of onchain builders proving the onchain frontier isn’t closed--with apps that turn everyday behaviors into viral, real-time experiences powered by MegaETH’s unlocks.
+2025/9/2
+ENDGAME: HOW SALT BREAKS THE BOTTLENECK THAT'S BEEN STRANGLING BLOCKCHAINS
+08
+MegaETH introduces SALT (Small Authentication Large Trie)—the breakthrough state architecture that eliminates disk I/O by keeping the entire authentication structure in RAM
+2025/8/13
+THE HARDER SECOND ACT
+09
+Shuyao reflects on her MegaMafia 2.0 offsite experience
+VIEW ALL
+MEGAMAFIA
+MegaMafiaisacollectiveofearly-stagefoundersbuildingnet-newappsthatshowcasethepowerofcryptowithoutconstraints.Thegroupco-livesandco-buildsalongsideMegaETH'scoreteamandadvisorsallovertheworld,rangingfromisolatedoffsitestoindustry-widegatherings.
+[
+BUILD ON MEGA
+]
+[
+JOIN US
+]
+BUILD THE WORLD IN REAL TIME
+
+ABOUT
+
+ABOUT MEGAETH
+ABOUT MEGAETH
+CAREERS
+CAREERS
+PRIVACY POLICY
+PRIVACY POLICY
+COOKIE POLICY
+COOKIE POLICY
+TERMS OF USE
+TERMS OF USE
+
+RESEARCH
+
+ARTICLES
+ARTICLES
+
+BUILDER
+
+PROJECT
+PROJECT
+APP SUBMISSION
+APP SUBMISSION
+
+COMMUNITY
+
+BLOG & NEWS
+BLOG & NEWS
+VIDEOS
+VIDEOS
+MEGA DRIP
+MEGA DRIP
+BRAND KIT
+BRAND KIT
+© 2025 MEGAETH. ALL RIGHTS RESERVED.
+
+By clicking "Accept", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our Cookies Policy for more information.
+
+[
+COOKIES POLICY
+]
+REJECT
+ACCEPT

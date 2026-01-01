@@ -1,0 +1,185 @@
+Skip to content
+Docker Hardened Images are now FREE for every developer. Read blog.
+✕
+AI
+Products
+Developers
+Pricing
+Support
+Blog
+Company
+Search
+Sign In
+Get Started
+A safer container ecosystem, for everyone
+Free hardened images give every developer a trusted starting point, with enterprise options for SLAs, compliance, and extended lifecycle security.
+Start building with DHI
+Download Docker Desktop
+Security
+MCP
+Agents
+Containers
+Near-zero CVE images, now accessible to everyone
+Open-source, Apache 2.0–licensed images built for trust while delivering near-zero CVEs, complete SBOMs, and SLSA Level 3 provenance. Upgrade to DHI Enterprise for SLAs, customization, and compliance, with extended lifecycle support for EOL images available as an add-on.
+Learn more about Docker Hardened Images
+Apache 2.0 freedom
+
+Docker Hardened Images are fully open source and free to use, share, and build on, with no licensing surprises and complete transparency.
+
+Minimal and distroless images
+
+Ultra-minimal distroless Debian and Alpine images that remove everything you don’t need, shrinking footprint and attack surface by up to 97%.
+
+Up to 95% CVE reduction
+
+Eliminate vulnerabilities before they reach production with continuously rebuilt images from Docker’s hardened pipeline and verified SBOMs.
+
+Extended Lifecycle Support for long-term protection
+
+Add-on protection after upstream support ends, with multi-year CVE patches, updated SBOMs, and verifiable provenance that eliminate long windows of unpatched risk.
+
+Start secure, customize easily
+
+Add your own tools, packages, certificates, or settings while inheriting Docker’s hardened pipeline, signed builds, and secure defaults.
+
+1000+ images and applications
+
+Continuously growing catalog of FIPS and STIG ready languages, frameworks, databases, application images and Helm charts, all signed and verified with SLA-backed security.
+
+Frictionless for devs, secure for teams, a joy for everyone
+
+“You’re not having to pay a security team to do all the things required for securing a container image because it’s already being done for you. The images are trusted, the software verified for minimal CVEs.”
+
+Cameron Griffin
+
+Sr. Cloud Security Engineer at GuidePoint Security
+
+Watch video
+Security and speed are not a paradox anymore
+Now free for all developers. Docker delivers enterprise security without slowing developers. Hardened images, automated scans, and verified provenance turn open source into your advantage.
+Five pillars of supply chain security
+
+Docker’s approach rests on five pillars: minimal images, signed provenance, complete SBOMs, VEX insights, and transparent verification.
+
+Discover Docker’s approach
+Run Helm charts, hardened by Docker
+
+Use Helm charts powered by Docker Hardened Images to deploy secure, compliant Kubernetes apps with confidence.
+
+Explore Helm Charts in Docker Hub
+Join the move to a safer container ecosystem
+
+DHI is now free for everyone. Start building with hardened, distroless, provenance-verified images trusted by teams across the world.
+
+Learn core concepts of Docker security
+Get access to industry-leading CVE remediation SLA
+30-day free trial
+Sign in to try DHI Enterprise
+
+“We evaluated multiple options for hardened base images and chose Docker Hardened Images (DHI) for its alignment with our supply chain security posture, developer tooling compatibility, Docker’s maturity in this space, and integration with our existing infrastructure. Our focus was on balancing trust, maintainability, and ecosystem compatibility.”
+
+Vikram Sethi
+
+Principal Scientist at Adobe
+
+Accelerate every workflow. From apps to agents.
+The fastest path from idea to running software. Whether you’re building agents or containers.
+Start building with Docker Desktop
+Build once, run anywhere
+
+From your first line of code to production, containers make every environment consistent so you can move faster, debug less, and ship more confidently.
+
+Containers + MCP: better together
+
+Spin up and connect to containerized MCP servers like GitHub or Browserbase in seconds, right from Docker Desktop. Build smarter agents faster with no setup.
+
+From client to server: the new kinds
+
+Build smarter agents faster by spinning up and connecting to MCP servers. Interface with them with your favorite clients like Cursor or Claude directly from Docker Desktop.
+
+“Docker enables us to do so much, and it’s constantly improving. And every time I look at the docs, I’m like, this is new. I didn’t know about this.”
+
+Sanchita Agarwal
+
+Senior Software Engineer at Cloudflare
+
+Share AI agents just like you share containers.
+Docker Hub now hosts MCP servers, AI models, and agent blueprints, alongside 20 million containers. Find what you need. Publish what you’ve built.
+Go to Docker Hub
+Where developers build, share, and run secure software
+14M+
+
+images
+
+11B+
+
+monthly downloads
+
+24M+
+
+users
+
+Build better, together
+Download Docker Desktop now to get started, or choose a plan that’s right for you.
+Choose plan
+Download Docker Desktop
+Products
+Products Overview
+Docker Desktop
+Docker Hub
+Docker Scout
+Docker Build Cloud
+Testcontainers Desktop
+Testcontainers Cloud
+Docker MCP Catalog and Toolkit
+Docker Hardened Images
+Features
+Command Line Interface
+IDE Extensions
+Container Runtime
+Docker Extensions
+Trusted Open Source Content
+Secure Software Supply Chain
+Developers
+Documentation
+Getting Started
+Trainings
+Extensions SDK
+Community
+Open Source
+Preview Program
+Newsletter
+Pricing
+Personal
+Pro
+Team
+Business
+Premium Support and TAM
+Pricing FAQ
+Contact Sales
+Company
+About Us
+What is a Container
+Blog
+Why Docker
+Trust
+Customer Success
+Partners
+Events
+Docker System Status
+Newsroom
+Swag Store
+Brand Guidelines
+Trademark Guidelines
+Careers
+Contact Us
+Languages
+English
+日本語
+© 2025 Docker Inc. All rights reserved
+Terms of Service
+Privacy
+Legal
+Cookies Settings
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings Reject All Accept All Cookies

@@ -1,0 +1,122 @@
+Products
+Why SendGrid
+Resources
+Developers
+Pricing
+Contact us
+Sign in
+Start for free
+Twilio SendGrid
+Turn emails into revenue with a fully integrated email platform
+
+With 99% deliverability and infrastructure that sends 148+ billion emails every month, Twilio's all-in-one customer engagement platform gives you everything you need to deliver email at scale. The result: increased customer engagement and higher ROI. 
+
+Start for free
+See plans & pricing
+
+No credit card required 
+Get started quickly 
+Access to all Twilio products
+
+Email API and SMTP service for developers
+
+Trusted API for email delivery at scale.
+
+Learn more
+Email campaigns for marketers
+
+Tools to create engaging email campaigns.
+
+Learn more
+The Twilio SendGrid difference
+Proven deliverability
+
+The tools and expertise you need to optimize your inbox delivery rate.
+
+Reach the inbox
+Scale with confidence
+
+Send on a world-class platform that delivers more than 100 billion emails every month.
+
+Send & grow
+Email expertise
+
+Experts can help you optimize your program, troubleshoot, and resolve issues.
+
+Work with experts
+The email API by developers for developers
+
+Integrate and deliver in minutes with our RESTful APIs and SMTP, libraries to support your programming language, and interactive documentation.
+
+Learn more
+Take a tour
+// using Twilio SendGrid's v3 Node.js Library
+// https://github.com/sendgrid/sendgrid-nodejs
+const sgMail = require('@sendgrid/mail');
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
+const msg = {
+  to: 'test@example.com',
+  from: 'test@example.com',
+  subject: 'Sending with Twilio SendGrid is Fun',
+  text: 'and easy to do anywhere, even with Node.js',
+  html: '<strong>and easy to do anywhere, even with Node.js</strong>',
+};
+sgMail.send(msg);
+Intuitive email marketing campaigns for marketers
+
+Build meaningful connections with easy-to-use email marketing tools that streamline everything from design to send.
+
+Learn more
+Take a tour
+Free trial
+Start sending email with SendGrid for free
+
+Sign up for a free trial to experience SendGrid’s reliable, scalable email delivery.
+
+
+Start for free
+View pricing
+Products
+Email Marketing
+Email API
+Twilio Programmable SMS
+Expert Services (Twilio Professional Services)
+One Platform Solution
+Pricing
+View all products
+SendGrid is For
+Startups
+Enterprises
+High Volume Senders
+Marketers
+Ecommerce
+Developers
+Our customers
+Resources
+Guides
+Blog
+Knowledge Center
+Status
+Email Deliverability Guide
+State of Customer Engagement
+Contact support
+Developers
+Start in 5 minutes
+API Reference
+SMTP Service
+Libraries
+Event Webhook
+Integration & Partners
+Go to docs
+Company
+About Twilio SendGrid
+Our Team
+Our Customers
+Careers at Twilio
+Twilio Press & Media
+Trust & Security
+Contact us
+Sitemap
+Privacy
+Terms
+Copyright 2025 SendGrid

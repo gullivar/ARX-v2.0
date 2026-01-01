@@ -1,0 +1,229 @@
+Blog
+Wiki
+Resources
+Shop
+Get Support
+ Download
+ Say Hello to AlmaLinux OS 9.7 and  AlmaLinux OS 10.1! Please register to join us  AlmaLinux Day: Tokyo!
+Free Linux OS for the community, by the community
+
+An Open Source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is binary compatible with RHEL®.
+
+ Contribute
+ Download
+ Migrate
+GitHub
+
+Our GitHub organization contains source code and tools used to build AlmaLinux OS and related infrastructure.
+
+Explore
+Reddit
+
+Join our vibrant Reddit community, interact with other AlmaLinux OS users, receive updates, find and provide help.
+
+Join
+Community chat
+
+Join a real time discussion with other AlmaLinux OS community members, governance team and AlmaLinux OS developers.
+
+Engage
+Community forums
+
+Ask questions, get answers and contribute community support to others in AlmaLinux OS community and developers alike.
+
+Discover
+About AlmaLinux OS
+
+AlmaLinux OS is an open-source, community-driven Linux operating system that fills the gap left by the discontinuation of the CentOS Linux stable release. AlmaLinux OS is an Enterprise Linux distro, binary compatible with RHEL®, and guided and built by the community.
+
+As a standalone, completely free OS, AlmaLinux OS enjoys $1M in annual sponsorship from CloudLinux Inc. and support from more than 25 other sponsors. Ongoing development efforts are governed by the members of the community.
+
+The AlmaLinux OS Foundation is a 501(c)(6) non-profit created for the benefit of the AlmaLinux OS community.
+
+Get AlmaLinux OS
+ISO Images
+AlmaLinux supports 4 architectures:
+x86_64
+aarch64
+ppc64le
+s390x
+Download ISO from mirrors
+Cloud Images
+
+AlmaLinux provides official images for cloud providers:
+
+Amazon AWS
+Generic Cloud
+Google Cloud
+Microsoft Azure
+OpenNebula
+Oracle Cloud Infrastructure
+
+
+Container Images
+
+AlmaLinux provides official OCI, Docker and UBI compatible images.
+
+Get Docker Image
+Get OCI Image from Quay.io
+Get OCI Image from GitHub
+
+Live Media
+
+AlmaLinux builds Live Media images for GNOME, GNOME Mini, KDE, XFCE and MATE options.
+
+Get Live Media Image
+
+Vagrant Boxes
+AlmaLinux provides official images for Vagrant:
+Libvirt
+VirtualBox
+Hyper-V
+VMWare
+Parallels
+Get AlmaLinux on HCP Vagrant Registry
+Incus and LXC
+
+AlmaLinux images are available for Incus and LXC.
+
+Get Incus and LXC Images
+
+Raspberry Pi
+
+AlmaLinux builds Raspberry Pi images, and also with GNOME desktop environment.
+
+Get Raspberry Pi Image
+
+WSL
+
+Run the AlmaLinux terminal environment on Windows.
+
+Get AlmaLinux for WSL
+
+Security
+Errata
+
+AlmaLinux OS Foundation publishes Errata to help users to determine what updates such as security issues and fixed bugs are available and their importance based on analysis.
+
+OpenSCAP and OVAL
+
+AlmaLinux OS provides SCAP and SCAP Workbench packages to audit your AlmaLinux system for security compliance alongside OVAL streams.
+
+Software Bill of Materials
+
+AlmaLinux OS has implemented SBOM into AlmaLinux Build System to make the build process more secure and possible to trace.
+
+
+
+
+AlmaLinux OS provides a set of security features: Errata, GPG keys, Mailing Lists, OpenSCAP, OVAL, SBOM, and Secure Boot- read more.
+
+Backed by
+Production-ready
+
+AlmaLinux OS is an enterprise-grade server OS and a stable Linux distribution with regular releases that come with a long support windows. You can rely on AlmaLinux OS to run any and every critical workloads.
+
+Fully supported, always free
+
+AlmaLinux OS Foundation members, sponsors and partners back the AlmaLinux OS with investments and long support commitments to ensure the distribution is free of limitations, fees and charges.
+
+Effortless to switch to
+
+Switching distributions is usually costly and time-consuming, but that's not the case when switching from CentOS and other RHEL® derivatives to AlmaLinux OS. Switching is easy - read how.
+
+Commercial Support
+
+Minimize your risk while getting the most out of your AlmaLinux systems
+
+Platinum Sponsor
+
+Cybertrust Japan is a provider of a comprehensive security certification services to various public and private entities globally, and offers comprehensive support for AlmaLinux users. Have also produced MIRACLE LINUX for nearly 20 years.
+
+
+
+Get support
+
+Platinum Sponsor, Founder
+
+TuxCare, a division of CloudLinux Inc., the founding sponsor of the AlmaLinux OS Project, provides tailored support for projects of any complexity. Enhance the performance, security, and reliability of your workloads with extended updates, seamless FIPS compliance, and flexible pay-as-you-go technical support bundles.
+
+
+
+Get support
+
+Get FIPS
+
+Answers to Key Questions
+Who is AlmaLinux OS for?
+Anyone that requires an enterprise-grade linux distribution, without the need for a commercial license agreement. AlmaLinux OS is also a perfect replacement for anyone who has historically relied on the CentOS Linux releases to achieve computing objectives, and for whom CentOS Stream is not the right solution.
+What does binary compatible with RHEL mean?
+Is AlmaLinux OS FIPS-140 compliant?
+Why did we call it AlmaLinux OS?
+What motivated us?
+How is the community protected from future course changes for AlmaLinux OS?
+I want to convert from CentOS to AlmaLinux OS. How do I do it?
+Can I really port an entire fleet of servers from CentOS to AlmaLinux OS with a single command?
+When will support for AlmaLinux OS 8 and 9 reach end of life?
+What is AlmaLinux OS Kitten?
+AlmaLinux OS in the Press
+One of the most significant features of AlmaLinux is its binary compatibility with Red Hat Enterprise Linux (RHEL). This compatibility ensures that software developed and tested on RHEL can be easily deployed on AlmaLinux without modifications, making it an attractive choice for businesses seeking a seamless migration path.
+Frankie Stein @ FILM DAILY - AlmaLinux: A Robust and Secure Alternative to CentOS
+Despite Red Hat’s actions, it appears at least one of the RHEL clones is thriving and showing how open source can deal with similar threats.
+Matt Milano @ WebPros News - AlmaLinux Maintain RHEL Compatibility As Promised
+Joe Brockmeier, an open-source community expert, and former Red Hatter, appreciates what AlmaLinux is doing. 'The AlmaLinux community has chosen to be the friendly fork.'
+Steven Vaughan Nichols @ ZDNet - Make Linux, not war? AlmaLinux opts for kinder, gentler course in RHEL clone conflict
+AlmaLinux announced that the distro’s latest and greatest, AlmaLinux 9.2, now has FIPS 140-3 certification, which means it has passed the Federal Information Processing Standard’s latest benchmark for validating the effectiveness of cryptographic hardware.
+Christine Hall @ FossForce - AlmaLinux Is Now FIPS Certified
+AlmaLinux was one of the first such alternatives, and it has quickly risen to the top of the heap.
+Jack Wallen @ The New Stack - Linux and Cloud Native Security: AlmaLinux
+AlmaLinux very quickly became the CentOS replacement to beat. 48 hours after Red Hat released version 8.5 of Red Hat Enterprise Linux (RHEL), the developers released version 8.5 of AlmaLinux.
+Jack Wallen @ The New Stack - Linux Distros: Year in Review
+Stay updated!
+
+Subscribe to our newsletter mailing list and never miss out on the latest in AlmaLinux OS news, and sign up for any other updates on lists.almalinux.org!
+
+AlmaLinux Newsletter Signup
+AlmaLinux OS Foundation
+20791 Three Oaks Pkwy, #980
+Estero, FL 33929
+hello@almalinux.org
+Resources
+Wiki
+Certification
+ALESCo
+GitHub
+Bugs
+Repository
+Downloads
+Membership
+ELevate
+security.txt
+Mailing Lists
+Status Page
+openQA
+Build System
+Security
+Community
+Get Support
+Chat
+Forums
+SIG and ALESCo meetings
+Reddit
+Twitter
+Mastodon
+Facebook
+LinkedIn
+#almalinux IRC
+Legal
+Legal Notice
+Privacy Policy
+Terms of Service
+Licensing Policy
+Trademark Usage Policy
+Foundation Bylaws
+Board Operations and Code of Ethics
+Membership Committee
+
+The AlmaLinux OS Foundation is a registered 501(c)(6) organization under US law (Tax ID 86-2791864).
+
+Contributions to the foundation are typically not considered charitable contributions, and would not be tax deductible as such. Please contact your financial or tax advisor for specific guidance.

@@ -1,0 +1,150 @@
+Skip to main content
+
+developers.google.com uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Products
+Developer Program
+Solutions
+Events
+More
+/
+Sign in
+Meet Gemini 3 Flash
+
+Frontier intelligence that scales with you. Available across many of our products, APIs and throughout the ecosystem.
+
+Start building
+Trending news
+Meet Google's new agentic developer platform
+Introducing Google Antigravity, evolving the IDE to elevate all aspects of development.
+Learn more
+Introduce Chrome DevTools MCP to your AI agent
+Use Chrome DevTools MCP to have your AI agent run performance traces, inspect the DOM, and debug pages.
+Learn more
+Android Studio Otter is now available
+Take advantage of the newest features by downloading the latest version of Android Studio.
+Download now
+Notes from Google Play
+Your innovation fuels our commitment to make Play more rewarding. See how we evolved the store, added powerful new tools to save you time, and worked with you to build a safer ecosystem in 2025.
+Watch now
+Start building today
+
+Android
+
+Modern tools to help you build experiences that people love across every Android device.
+
+Chrome
+
+Build apps faster, make smarter business decisions, and connect people everywhere.
+
+Google Play
+
+Grow your business, improve app quality, engage your audience, and earn revenue.
+
+Google AI Studio
+
+Build generative AI applications quickly with Gemini in Google AI Studio.
+
+Firebase
+
+Google's mobile and web app development platform that helps developers build apps and games that users will love.
+
+Flutter
+
+Build, test, and deploy beautiful web, mobile, desktop and embedded apps from one codebase.
+
+Google Antigravity
+
+An agentic development platform, evolving the IDE into the agent-first era. Build with agents elevating all aspects of software development.
+
+Gemini API
+
+Build and deploy production ready generative AI experiences, enhanced by Gemini models. Get started for free!
+
+Gemini CLI
+
+Free and open source, Gemini CLI brings Gemini directly into your terminal — with unmatched access for individuals.
+
+Gemini Code Assist
+
+Gemini 2.5 in your IDE, with code-aware chat and completion.
+
+Google Cloud
+
+Build apps faster, make smarter business decisions, and connect people everywhere.
+
+Colab
+
+Colab notebook is an intelligent partner for your data analysis, model experimentation, and rapid prototyping.
+
+View all developer products
+Sharpen your AI skills
+Invest in your development journey with exclusive benefits and resources designed to help you learn, build, and grow with Google.
+Learn more
+Explore accelerator programs
+Accelerators empower startups, developers, and nonprofits to better solve the world's biggest challenges.
+Learn more
+Find an event
+Grow your knowledge through online and in-person developer events.
+View events
+Join a community
+Meet a diverse network, no matter where you are on your developer journey.
+Explore communities
+Follow Google for Developers
+
+YouTube
+
+Subscribe to join a community of creative developers and learn the latest in Google technology.
+
+Bluesky
+
+Stay updated with the latest developer news, tips, and community highlights.
+
+Instagram
+
+Follow and discover developer resources, community events, and inspirational stories.
+
+LinkedIn
+
+Join a community of creative developers and learn how to use the latest in technology.
+
+X
+
+Join the conversation to discover the latest developer tools, resources, events, and announcements.
+
+Connect
+Blog
+Bluesky
+Instagram
+LinkedIn
+X (Twitter)
+YouTube
+Programs
+Google Developer Program
+Google Developer Groups
+Google Developer Experts
+Accelerators
+Google Cloud & NVIDIA
+Developer consoles
+Google API Console
+Google Cloud Platform Console
+Google Play Console
+Firebase Console
+Actions on Google Console
+Cast SDK Developer Console
+Chrome Web Store Dashboard
+Google Home Developer Console
+Android
+Chrome
+Firebase
+Google Cloud Platform
+Google AI
+All products
+Terms
+Privacy
+Manage cookies
+Info
+Chat
+API

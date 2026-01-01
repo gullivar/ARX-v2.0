@@ -1,0 +1,11 @@
+RevenueCat Backup Servers: 8-lives-cat.io 8-lives-cat.io 8 Lives Cat RevenueCat's Backup Server System What is this? If you've noticed network calls to 8-lives-cat.io in your app, 
+                don't worry, this is expected behavior . This domain hosts RevenueCat's backup servers . When our primary infrastructure 
+                experiences issues, our SDK automatically and seamlessly switches to these backup servers to keep 
+                your app's subscription features running smoothly. ✨ Why "8 Lives Cat"? You know how cats have nine lives?* Well, if you're seeing traffic to this domain, 
+                it means our primary servers (the cat) have temporarily lost one life. But don't panic, there are still 8 lives left ! 
+                Our backup system is here to keep things running while we sort out any issues with the main servers. 😿 😺 😺 😺 😺 😺 😺 😺 😺 🔧 For Developers This backup domain is yet another layer in our multi-layered approach to reliability, 
+                working alongside our Offline Entitlements and RC Fortress systems. 
+                It handles scenarios like: DNS propagation issues with our primary domain CDN or infrastructure outages Regional connectivity problems The switch happens automatically and is completely transparent to your users. 
+                No action is required on your part. Curious about how we protect your revenue? Read more: Introducing Offline Entitlements Building the RC Fortress *Depending on where you're from, you might have heard that cats have 9 lives (English-speaking countries), 
+                7 lives (Spain, Portugal, Brazil), or even 6 lives (Turkish and Arabic traditions). 
+                We went with 9 because we have the best cats

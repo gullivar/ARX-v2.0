@@ -1,0 +1,1 @@
+{"code":500,"errno":500,"error":"Actix Web error: WebSocket upgrade is expected"}

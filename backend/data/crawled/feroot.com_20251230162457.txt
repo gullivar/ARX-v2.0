@@ -1,0 +1,205 @@
+From Capitol Hill to Series A: Feroot Secures $14M to Scale AI-Powered Compliance Platform.
+
+Read the news.
+Read more about From Capitol Hill to Series A: Feroot Secures $14M to Scale AI-Powered Compliance Platform.
+Product
+Solutions
+Plans
+Free Tools
+Resources
+About
+Log In
+Schedule a Demo
+Make payment pages
+PCI DSS 4.0.1 compliant
+
+Detect unauthorized scripts and keep your websites and apps compliant with
+PCI DSS Req. 6.4.3 and 11.6.1, HIPAA, GDPR, and 50+ privacy laws.
+
+Schedule a Demo
+TRUSTED BY INDUSTRY LEADERS OF ALL SIZES
+COMPLIANCE AUTOPILOT
+Always-on Compliance and Security.
+
+Feroot AI takes the burden off your plate with automated compliance that runs quietly in the background.
+
+100%
+Client-side visibility
+90%
+Less compliance overhead than traditional tools
+45
+seconds
+Risk detection in seconds, not days
+0
+sick days
+AI Agents work 24/7/365
+BUILDING A SAFER WEB
+Feroot’s AI automation tools secure over 3 million web pages to date.
+
+We’re on a mission to secure half a billion web pages by 2028 – including yours.
+
+Start your compliance check
+Support for 50+ leading compliance frameworks
+The Feroot AI Agent Platform
+FEROOT PAYMENTGUARD AI
+One-click PCI DSS 4.0.1 compliance for websites, web pages, and payment iframes.
+Automate PCI DSS Req. 6.4.3 and 11.6.1.
+Create automatic script inventory.
+Monitor third-party script behavior.
+Detect changes in real-time.
+Generate audit-ready reports.
+Learn More
+FEROOT HEALTHDATA SHIELD AI
+Safeguard patient data and ensure HIPAA compliance for healthcare websites.
+
+Monitor and control online tracking technologies (OTTs).
+Discover and protect Protected Health Information (PHI).
+Automate BAA enforcement.
+Implement controls seamlessly.
+Learn More
+FEROOT ALPHAPRIVACY AI
+Keep your websites compliant with privacy laws in every state, province, and country.
+Enforce cookie consent choices.
+Detect and block unauthorized trackers.
+Automate multi-jurisdiction compliance.
+Generate audit-ready reports.
+Learn More
+FEROOT CODEGUARD AI
+Defend the frontend software supply chain from runtime threats.
+Monitor third-party script and data flows.
+Analyze software composition and SBOM.
+Identify malicious scripts in real time.
+Block third and fourth-party data sharing.
+Learn More
+
+“A day doesn’t go by that you don’t hear about a new JavaScript-based attack on a company’s website or web application. We’re seeing attackers pivoting from traditional server-side attacks to client-side attacks. To protect our business from server-side threats, we needed to enhance our client-side security capabilities to stay ahead of the threat.”
+
+Read the case study
+
+Frederick “Flee” Lee
+
+Chief Security Officer at Gusto
+
+See for yourself what Feroot can do.
+Get a free, personalized walkthrough with a Feroot security expert.
+Request a Demo
+Popular reads
+FREE REPORT
+How to Automate Compliance with Requirements 6.4.3 and 11.6.1
+Instant Access
+WEBINAR
+HIPAA compliance alert: Avoid breaches from online trackers on health websites.
+Jim Buda | Insight Assurance
+Practitioner in Cybersecurity, Audit and Compliance
+Jason Frame | Southern Nevada Health District
+Chief Security Officer
+Ivan Tsarynny | Feroot Security
+CEO
+Access the recording
+FROM THE BLOG
+Texas Data Privacy and Security Act (TDPSA): Website Requirements 2026
+Read on the blog
+FREE TOOL
+Audit your website instantly with our free chrome extension.
+Audit for free now
+FREE TOOL
+Review the comprehensive glossary of web trackers, pixels, scripts.
+Browse the data
+Log In
+Schedule a Demo
+
+Products
+
+PRODUCT
+
+PaymentGuard AI
+HealthData Shield AI
+AlphaPrivacy AI
+CodeGuard AI
+MobileGuard AI
+Plans
+
+FEATURES
+
+Platform Overview
+Inspector
+PageGuard
+DomainGuard
+GRC AI
+Trust Center
+
+USE CASES
+
+PCI DSS 4.0.1: Req. 6.4.3 & 11.6.1
+Merchants SAQ A-EP
+Merchants SAQ D
+Payment Processors SAQ D
+HIPAA Online Tracking Rules
+AppSec: Client-Side and JS
+Data Discovery
+Privacy Policy Compliance
+Consent Management Audit
+Web Visitor Journey Compliance
+
+Solutions
+
+BY INDUSTRY
+
+e-Commerce and Retail
+Entertainment and Gaming
+Financial Services
+Healthcare
+Payment Processors
+SaaS/Tech
+Telehealth and Pharmacies 
+
+BY FRAMEWORK
+
+PCI DSS 4.0.1
+HIPAA
+GDPR
+OWASP
+Privacy Compliance
+Australian Privacy Act
+U.S. Privacy Laws (CCPA/CPRA+)
+CIPA
+UK DPA
+GLBA
+COPPA
+PIPEDA
+DORA
+NIST
+
+Resources & Company
+
+RESOURCES
+
+Blog
+Events
+Resource Library
+Case Studies
+Education center
+News & Press
+
+ABOUT
+
+About Us
+Become a Partner
+Careers
+Media Center
+System Status
+
+FREE TOOLS
+
+Feroot PageScanner
+Web Tracker Database
+
+© 2025 Feroot Security
+
+GDPR
+Privacy Policy
+Terms of Use
+Sitemap
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Accept All Cookies Reject All
+Cookies Settings

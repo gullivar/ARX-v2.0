@@ -1,0 +1,21 @@
+What's my IP? Speed Test IP Modification Options Articles
+Your Tunneled IP
+59.15.130.228
+Location
+Guro-gu, Seoul, South Korea
+
+
+Read more about internet security practices:
+A Primer on Port Forwarding
+A Primer On Private IP Addresses
+A Guide to Service Agreements
+A Primer on Data Encryption
+What is my IP Address?
+
+An IP address, or Internet Protocol address, is a number chain that is assigned to every computer that the computer then uses when it accesses the internet. Online, your presence is detected by websites not through you as an individual, but rather the computer with which you are using the internet.
+
+IP addresses allow websites to send information to you over the web, so without them accessing the internet would be impossible. There is no one online without an IP address, as they are our primary identifying tool and serve as both a connector between networks and hosts, as well as location identifiers.
+
+Privacy & Cookie Policy
+Disclaimer
+Opt-Out

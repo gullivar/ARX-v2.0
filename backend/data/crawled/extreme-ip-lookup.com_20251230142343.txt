@@ -1,0 +1,532 @@
+Log-in
+IP Lookup Geolocation API
+IP Address:	59.15.130.228
+IP Type:	Business / Education / Residential
+Business:	-
+Website:	-
+IP Name:	-
+ISP:	Korea Telecom
+Organisation:	Korea Telecom
+	
+City:	Seongnam-si
+Country:	South Korea 
+Region:	Gyeonggi-do
+Continent:	Asia
+Latitude:	37.43861
+Longitude:	127.13778
+
+Click for sample Business IPClick for sample Education IP
+** How to get Service Provider back in Google Analytics 4 **
+With Residential, Business and Education Visitor Type!
+	
+Pro Package
+Up to 5 Websites & 5 Servers
+Unlimited Requests
+EUR 20/month
+
+	
+Ultra Package
+Unlimited Websites & Servers
+Unlimited Requests
+EUR 80/month
+Your email address
+Yearly:  EUR 20/month
+Monthly:  EUR 25/month
+Billing Cycle
+Business name
+Street + Nr
+Postcode
+City
+United States
+Canada
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech Republic
+Croatia
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+United Kingdom
+Australia
+New Zealand
+Andorra
+United Arab Emirates
+Afghanistan
+Antigua and Barbuda
+Anguilla
+Aland Islands
+Albania
+Armenia
+Netherlands Antilles
+Angola
+Antarctica
+Argentina
+American Samoa
+Austria
+Australia
+Aruba
+Azerbaijan
+Bosnia and Herzegovina
+Barbados
+Bangladesh
+Belgium
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Bermuda
+Brunei Darussalam
+Bolivia
+Brazil
+Bahamas
+Bhutan
+Bouvet Island
+Botswana
+Belarus
+Belize
+Canada
+Cocos (Keeling) Islands
+Congo, The Democratic Republic of the
+Central African Republic
+Congo
+Switzerland
+Cote D'Ivoire
+Cook Islands
+Chile
+Cameroon
+China
+Colombia
+Costa Rica
+Cuba
+Cape Verde
+Christmas Island
+Curacao
+Sint Maarten
+Serbia and Montenegro
+Cyprus
+Czech Republic
+Germany
+Djibouti
+Denmark
+Dominica
+Dominican Republic
+Algeria
+Ecuador
+Estonia
+Egypt
+Western Sahara
+Eritrea
+Spain
+Ethiopia
+Finland
+Fiji
+Falkland Islands (Malvinas)
+Micronesia, Federated States of
+Faroe Islands
+France
+France, Metropolitan
+Gabon
+United Kingdom
+Grenada
+Georgia
+French Guiana
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guernsey
+Guinea
+Guadeloupe
+Equatorial Guinea
+Greece
+South Georgia and the South Sandwich Islands
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hong Kong
+Heard Island and McDonald Islands
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+Isle of Man
+India
+British Indian Ocean Territory
+Iraq
+Iran, Islamic Republic of
+Iceland
+Italy
+Jamaica
+Jersey
+Jordan
+Japan
+Kenya
+Kyrgyzstan
+Cambodia
+Kiribati
+Comoros
+Saint Kitts and Nevis
+Korea, Democratic People's Republic of
+Korea, Republic of
+Kuwait
+Cayman Islands
+Kazakhstan
+Lao People's Democratic Republic
+Lebanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Libyan Arab Jamahiriya
+Morocco
+Monaco
+Moldova, Republic of
+Madagascar
+Marshall Islands
+Macedonia, the Former Yugoslav Republic of
+Mali
+Myanmar
+Mongolia
+Macao
+Northern Mariana Islands
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Montenegro
+Namibia
+New Caledonia
+Niger
+Norfolk Island
+Nigeria
+Nicaragua
+Netherlands
+Norway
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+French Polynesia
+Papua New Guinea
+Philippines
+Pakistan
+Poland
+Saint Pierre and Miquelon
+Pitcairn
+Puerto Rico
+Palestinian Territory, Occupied
+Portugal
+Palau
+Paraguay
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saudi Arabia
+Solomon Islands
+Seychelles
+Serbia
+Sudan
+Sweden
+Singapore
+Saint Helena
+Saint Martin
+Slovenia
+Svalbard and Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Sao Tome and Principe
+El Salvador
+Syrian Arab Republic
+Swaziland
+Turks and Caicos Islands
+Chad
+French Southern Territories
+Togo
+Thailand
+Tajikistan
+Tokelau
+East Timor
+Turkmenistan
+Tunisia
+Tonga
+Turkey
+Trinidad and Tobago
+Tuvalu
+Taiwan
+Tanzania, United Republic of
+Ukraine
+Uganda
+United States Minor Outlying Islands
+United States
+Uruguay
+Uzbekistan
+Vatican City State
+Saint Vincent and the Grenadines
+Venezuela
+Virgin Islands, British
+Virgin Islands, U.S.
+Vietnam
+Vanuatu
+Wallis and Futuna
+Samoa
+Yemen
+Mayotte
+Yugoslavia
+South Africa
+Zambia
+Zaire
+Zimbabwe
+Country
+Setup!
+By subscribing you agree to our Terms & Privacy Policy.
+We will only use your data to enable our service.
+Cancel anytime!
+
+Loved by!
+IP Location API Usage
+
+Very simple. Get all geolocation information about an IP address in JSON, JSONP and CSV format through our API.
+
+You need an API key to make requests.
+
+Sign-up for a Package to get your API Key.
+
+We block IPs and websites going over the limits, get the Pro/Ultra Package if your requests are important!
+
+What sets us apart from the other IP location lookup API services?
+
+We return back the IP Type which can be 'Business', 'Education' or 'Residential'. As well as the full resolved IP Name. If the IP is a business or education we also return the Business/Edu Name and Business/Edu Website when available.
+
+Use it for:
+Geolocating
+Serve different content to different geo regions
+Show regional languages and currencies
+Personalize with extra local info, eg. 'Available in Los Angeles'
+Geofencing
+Add Geolocation data to Matomo and other analytics software
+Extend traffic and server logs with Geolocation data
+Use our IP API in Google Optimize, Optimizely, VWO and many others
+Business
+Show extra or different content to Business Visitors
+Auto-fill or add assists to contact forms with:
+Company Name
+Company Website
+Company Email address
+Add hidden input fields with company details to:
+Newsletter Signup Forms
+MailChimp Signup Forms
+Download Forms
+Lead Generation Forms
+Extend traffic and server logs
+Analyze server logs, filter out just the companies using your website or service
+Email yourself when a Business is visiting your website
+Add Business visitor data to Google Analytics and other analytics software
+Extend traffic and server logs with Business data
+How to Exclude and Block ISP and Bots in Google Analytics
+How to get Service Provider back in Google Analytics 4
+How to get Business Leads Reported in Google Analytics 4
+
+Want assistance implementing this? Send us an email.
+
+JSON URL:
+extreme-ip-lookup.com/json/?key=demo2
+Returns JSON data about the IP of the client.
+
+Replace key=demo2 with your API key: Get your API key.
+extreme-ip-lookup.com/json/63.70.164.200?key=demo2
+Returns JSON data about the 63.70.164.200 IP.
+
+Replace key=demo2 with your API key: Get your API key.
+JSONP URL:
+
+getIP = Javascript function to call when loaded.
+
+extreme-ip-lookup.com/json/?callback=getIP&key=demo2
+Returns JSONP data about the IP of the client.
+
+Replace key=demo2 with your API key: Get your API key.
+extreme-ip-lookup.com/json/63.70.164.200?callback=getIP&key=demo2
+Returns JSONP data about the 63.70.164.200 IP.
+
+Replace key=demo2 with your API key: Get your API key.
+CSV URL:
+extreme-ip-lookup.com/csv/?key=demo2
+Returns CSV data about the IP of the client
+status, query, ipName, ipType, businessName, businessWebsite, continent, countryCode, country, region, city, lat, lon, org, isp.
+
+Replace key=demo2 with your API key: Get your API key.
+extreme-ip-lookup.com/csv/63.70.164.200?key=demo2
+Returns CSV data about the 63.70.164.200 IP
+status, query, ipName, ipType, businessName, businessWebsite, continent, countryCode, country, region, city, lat, lon, org, isp
+
+Replace key=demo2 with your API key: Get your API key.
+Output Schema:
+query	Client IP address or IP address specified
+ipType	Business, Education or Residential
+(Residential is an IP address from an Internet, Hosting or Cloud provider)
+businessName	Name of Business / Education Organization
+businessWebsite	Website domain of Business / Education Organization
+asn	Pro & Ultra Feature! Autonomous System Number (ASN)
+asnName	Pro & Ultra Feature! ASN Name
+asnOrg	Pro & Ultra Feature! ASN Organization
+continent	Name of the Continent
+countryCode	Two-letter ISO 3166-1 alpha-2 country code
+country	Name of the country
+region	Name of the region
+city	Name of the city
+lat	Latitude
+lon	Longitude
+ipName	Resolved IP Name
+org	Organization Name
+isp	ISP Name
+timezone	Pro & Ultra Feature! Samples: America/Chicago, Europe/London, see all on Wikipedia
+utcOffset	Pro & Ultra Feature! Samples: -10:00, +02:00
+status	Success or fail
+message	Extra status message if fail
+Businesses in the following countries are recognized:
+
+Our IP API returns geo information from every country in the world. The ipType will return Business or Education only for the following countries:
+
+North America	Europe	Oceania
+ United States
+ Canada	 Austria
+ Belgium
+ Denmark
+ Finland
+ France
+ Germany
+ Greece
+ Ireland	 Italy
+ Luxembourg
+ Netherlands
+ Portugal
+ Spain
+ Sweden
+ United Kingdom	 Australia
+ New Zealand
+IP Lookup with Javascript using JSONP:
+<div id="ipLookup"></div>
+<script>
+ function getIP(json) {
+   if (json.country && json.city) {
+    var div = document.getElementById('ipLookup');
+    div.innerHTML='Location of '+json.query+': '+json.city+', '+json.country+'';
+   }
+  }
+</script>
+<script src="https://extreme-ip-lookup.com/json/?callback=getIP&key=demo2" async defer></script>
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with JQuery using JSON:
+<div id="ipLookup"></div>
+<script>
+ $(function() {
+ $.getJSON("https//extreme-ip-lookup.com/json/?key=demo2",
+  function(json) {
+   if (json.country && json.city) {
+    $('#ipLookup').html('Location of '+json.query+': '+json.city+', '+json.country+'');
+   }
+  }
+ );
+ });
+</script>
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with PHP using JSON:
+<?php
+ $user_ip = getenv('REMOTE_ADDR');
+ $geo = json_decode(file_get_contents("https://extreme-ip-lookup.com/json/$user_ip?key=demo2"));
+ $country = $geo->country;
+ $city = $geo->city;
+ $ipType = $geo->ipType;
+ $businessName = $geo->businessName;
+ $businessWebsite = $geo->businessWebsite;
+
+ echo "Location of $user_ip: $city, $country\n";
+?>
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with Python 3 using JSON:
+import json
+from urllib.request import urlopen
+
+response = urlopen("https://extreme-ip-lookup.com/json/63.70.164.200?key=demo2")
+geo = json.load(response)
+print(geo["country"])
+print(geo["ipType"])
+print(geo["city"])
+print(geo["businessName"])
+
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with Python < 3 using JSON:
+import urllib2
+import json
+
+response = urllib2.urlopen("https://extreme-ip-lookup.com/json/63.70.164.200?key=demo2")
+geo = json.load(response)
+print geo["country"]
+print geo["ipType"]
+print geo["city"]
+print geo["businessName"]
+
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with Perl using JSON:
+use LWP::UserAgent;
+use JSON;
+
+$ua = new LWP::UserAgent();
+$get = $ua->get('https://extreme-ip-lookup.com/json/63.70.164.200?key=demo2')->content;
+$geo = decode_json $get;
+print "Location of $geo->{'query'}: $geo->{'city'}, $geo->{'country'}\n";
+
+Replace key=demo2 with your API key: Get your API key.
+IP Lookup with Curl using CSV:
+curl 'https://extreme-ip-lookup.com/csv/63.70.164.200?key=demo2'
+success,63.70.164.200,proxy.sandhills.com,Business,"Sandhills Publishing Company",www.sandhills.com,"North America",US,"United States",Nebraska,Lincoln,40.8615,-96.7119,"Sandhills Publishing Company","Sandhills Publishing"
+Replace key=demo2 with your API key: Get your API key.
+Geelvinckssteeg 32, 1017 BE Amsterdam, Netherlands
+© 1998-2025 eXTReMe digital.
+Terms & Privacy Policy
+
+Log-in Questions? Email us!

@@ -1,0 +1,118 @@
+jQuery
+jQuery UI
+jQuery Mobile
+Sizzle
+QUnit
+Plugins
+Contribute
+Events
+Support
+OpenJS Foundation
+jQuery UI
+Demos
+Download
+API Documentation
+Themes
+Development
+Support
+Blog
+About
+
+jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.
+
+Download jQuery UI 1.14.1
+Custom Download
+
+Quick Downloads:
+
+Stable
+v1.14.1
+jQuery 1.12+ / 2.2+ / 3.6+ / 4.0+
+Old/Unsupported
+v1.13.3
+jQuery 1.8+
+Developer Links
+Source Code (GitHub)
+jQuery UI Git (WIP Build)
+Theme (WIP Build)
+Bug Tracker
+Submit a New Bug Report
+Discussion Forum
+Using jQuery UI
+Developing jQuery UI
+Development Planning Wiki
+Roadmap
+Browser Support
+Previous Releases
+Changelogs
+Upgrade Guides
+What's New in jQuery UI 1.14?
+
+Compatibility with recent jQuery versions (up to 3.7): Usage of deprecated jQuery APIs have been removed. jQuery UI 1.14.1 triggers no jQuery Migrate warnings when running its test suite against jQuery 3.7.1 with jQuery Migrate 3.5.2, i.e. the latest versions at the moment of its release. Support for very old jQuery versions has been dropped, except for the latest releases in each major jQuery line. See the changelog of a specific jQuery UI version to see which jQuery versions have been tested with it.
+
+Dropped support: IE & Edge Legacy: Only the latest version of Chrome, Firefox, Safari & Edge are officially supported.
+
+Interested in the full details of what changed? Check out the 1.14 upgrade guide, 1.14.0 changelog.
+
+, and 1.14.1 changelog.
+
+Dive In!
+
+jQuery UI is built for designers and developers alike. We've designed all of our plugins to get you up and running quickly while being flexible enough to evolve with your needs and solve a plethora of use cases. If you're new to jQuery UI, check out our getting started guide and other tutorials. Play around with the demos and read through the API documentation to get an idea of what's possible.
+
+Stay informed about what's going on with jQuery UI by subscribing to our blog and following us on Twitter.
+
+Interactions
+Draggable
+Droppable
+Resizable
+Selectable
+Sortable
+Widgets
+Accordion
+Autocomplete
+Button
+Checkboxradio
+Controlgroup
+Datepicker
+Dialog
+Menu
+Progressbar
+Selectmenu
+Slider
+Spinner
+Tabs
+Tooltip
+Effects
+Add Class
+Color Animation
+Easing
+Effect
+Hide
+Remove Class
+Show
+Switch Class
+Toggle
+Toggle Class
+Utilities
+Position
+Widget Factory
+BOOKS
+jQuery UI in Action
+
+TJ VanToll
+jQuery UI Themes
+Adam Boduch
+jQuery UI Cookbook
+Adam Boduch
+Learning Center
+ 
+Chat
+ 
+Twitter
+ 
+GitHub
+
+Copyright 2025 OpenJS Foundation and jQuery contributors. All rights reserved. See jQuery License for more information. The OpenJS Foundation has registered trademarks and uses trademarks. For a list of trademarks of the OpenJS Foundation, please see our Trademark Policy and Trademark List. Trademarks and logos not indicated on the list of OpenJS Foundation trademarks are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. OpenJS Foundation Terms of Use, Privacy, and Cookie Policies also apply.
+
+Web hosting by Digital Ocean | CDN by Fastly | Powered by WordPress

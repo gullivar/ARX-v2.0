@@ -1,0 +1,25 @@
+Welcome to packages.microsoft.com
+This content is public by design, and is meant to be consumed programmatically, via Linux packaging clients (apt, dnf, yum, etc).
+This HTML interface (provided via "Directory Browsing") is deliberately enabled for the convenience of our users.
+However, the composition of the underlying HTML, and the paths to individual packages, are subject to change without notice.
+Please refer to the docs if you have questions on the supported and unsupported interfaces for packages.microsoft.com.
+    
+alma/                                              30-Jan-2024 22:00                   -
+amazonlinux/                                       11-Jul-2023 16:52                   -
+azurelinux/                                        15-Feb-2024 22:00                   -
+cbl-mariner/                                       08-Dec-2021 21:27                   -
+centos/                                            10-Mar-2020 15:06                   -
+clamav/                                            18-Nov-2022 19:01                   -
+config/                                            26-Feb-2020 01:35                   -
+debian/                                            16-Aug-2021 20:26                   -
+docs/                                              04-Nov-2022 19:08                   -
+fedora/                                            03-May-2022 23:54                   -
+keys/                                              26-Feb-2020 03:07                   -
+opensuse/                                          25-Feb-2020 19:22                   -
+repos/                                             15-Sep-2022 19:40                   -
+rhel/                                              03-May-2022 21:20                   -
+rocky/                                             30-Jan-2024 22:00                   -
+sles/                                              25-Feb-2020 19:06                   -
+ubuntu/                                            15-Sep-2022 19:59                   -
+yumrepos/                                          03-Oct-2022 19:52                   -
+    

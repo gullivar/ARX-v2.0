@@ -1,0 +1,452 @@
+Capabilities
+Pricing
+Solutions
+Why VWO?
+Resources
+Partners
+Contact
+Login
+EN
+Optimize digital experiences & maximize conversions
+
+Your customer is evolving every day. Decode their evolving behaviors, fine-tune with robust A/B testing, and personalize experiences that hit home. Boost conversions across your websites and mobile apps through data-driven UI and server-side enhancements.
+
+Explore for Free
+Request Demo
+             Explore for Free         
+             First name*         
+             Email*         
+             Organisation Size         
+ConversionRate (%)
+Form Submissions
+37%
+             Test         
+             B         
+             A         
+             Explore for Free         
+             First name*         
+             Email*         
+             Phone number*         
+             Organisation Size         
+             Drop off         
+             89%         
+             Time Spent         
+             34s         
+             Insights         
+             Personalize         
+                 Subscribe             
+                 Extra 15 days free!             
+Thousands of businesses use VWO to analyze, optimize, and personalize their websites, apps, and features.
+Comprehensive Experimentation Platform
+
+End-to-end optimization of entire digital user journeys to deliver exactly what your customers want.
+
+My business needs:
+
+Build a complete optimization program
+Experiment
+
+Test anything across your digital properties. Seamlessly integrate your customer data to run targeted experiments that align with your unique business goals.
+
+Web Testing
+
+Mobile App Testing
+
+Feature Testing
+
+Observe
+
+Utilize qualitative customer analytics to understand evolving user behavior. Transform these insights into actionable, testable hypotheses.
+
+Personalize
+
+Build tailored experiences for specific user segments by using customer data from your data sources, applications, and analytics.
+
+Want to understand how VWO can help you?
+
+Book a Personalised Demo
+Fueled by robust customer data platform 
+
+VWO's agile, event-driven architecture seamlessly blends with your websites, apps, and code bases, offering a holistic 360-degree view of your customer. Make instant decisions with real-time customer data at your fingertips. Get insights from unified data provided by VWO and other platforms you use to deliver delightful experiences.
+
+Integrations 
+Data API 
+Offline Data
+Powered by VWO’s cutting-edge tech 
+
+Experience lightning-fast optimization, driven by our dynamic CDN technology and the robust Google Cloud Platform (GCP). VWO is engineered to minimize payloads, improve latency, and compute only what's crucial for your campaigns. Ensure precise results with unrivaled speed, leveraging GCP's secure and scalable infrastructure.
+
+VWO Copilot
+Work smarter. Scale faster.
+
+VWO Copilot takes over the heavy lifting of optimization—suggesting what to test, creating variations, and revealing key insights—so your team can focus on making strategic decisions that drive results.
+
+Explore AI-Driven Optimization
+Discover user insights and optimization ideas
+
+VWO Copilot analyzes user behavior patterns using AI, delivers interesting insights and proposes actionable optimization ideas.
+
+Quickly turn ideas into new experiences
+
+Turn ideas, whether AI-generated or written in natural language, into experiments and personalized experiences instantly.
+
+Unlock hidden segments & opportunities
+
+VWO Copilot digs deep into data to uncover hidden segments and untapped optimization opportunities.
+
+Build your optimization program across all teams
+
+An impactful optimization program extends across teams and benefits the whole organization. Our platform is designed to empower all teams by solving problems specific to them.
+
+UX & Analytics
+Identify roadblocks in the buying journey.
+Rectify bottlenecks by testing images, layouts, and placements.
+Test to build low friction scroll experience.
+
+VWO helps us get real results with tangible insights for our clients. Flexibility to set up as many goals on the fly is incredibly valuable to get the most out of an experiment.
+
+Brandon Gentry
+
+Director, User Experience
+
+Product Managers
+Optimize to make sticky apps and features.
+Test and rollout features progressively.
+Measure the engagement, adoption, loyalty, and conversion of your product users.
+
+I really like that we can use VWO across every department. It's user-friendly, straightforward, and test results are easily comprehensible even for non-testing individuals.
+
+Marc Sandifer
+
+Senior Product Manager
+
+Engineers
+Ship features with confidence.
+Reduce risk with the progressive deployment of features.
+Use easy-to-configure SDKs.
+Get an SDK for every stack & device.
+
+With VWO, we have executed and implemented numerous A/B tests that have helped improve overall CRO architecture across our website.
+
+Phillip Roberts
+
+Web Developer
+
+Growth Marketers
+Create and optimize omnichannel experiences that are hyper-targeted to user personas.
+Track CTR, AOV, and forms filled for your visitors.
+Test and personalize without going to your developer.
+
+Using VWO, we are able to swiftly launch A/B tests, tackle data trends and customer problems. We merge VWO reports with our tools for complete insights into user behavior.
+
+Molly Parker
+
+Sr. Director, Site Content & Creative Operations
+
+UX & Analytics
+Identify roadblocks in the buying journey.
+Rectify bottlenecks by testing images, layouts, and placements.
+Test to build low friction scroll experience.
+
+VWO helps us get real results with tangible insights for our clients. Flexibility to set up as many goals on the fly is incredibly valuable to get the most out of an experiment.
+
+Brandon Gentry
+
+Director, User Experience
+
+Product Managers
+Optimize to make sticky apps and features.
+Test and rollout features progressively.
+Measure the engagement, adoption, loyalty, and conversion of your product users.
+
+I really like that we can use VWO across every department. It's user-friendly, straightforward, and test results are easily comprehensible even for non-testing individuals.
+
+Marc Sandifer
+
+Senior Product Manager
+
+Engineers
+Ship features with confidence.
+Reduce risk with the progressive deployment of features.
+Use easy-to-configure SDKs.
+Get an SDK for every stack & device.
+
+With VWO, we have executed and implemented numerous A/B tests that have helped improve overall CRO architecture across our website.
+
+Phillip Roberts
+
+Web Developer
+
+Growth Marketers
+Create and optimize omnichannel experiences that are hyper-targeted to user personas.
+Track CTR, AOV, and forms filled for your visitors.
+Test and personalize without going to your developer.
+
+Using VWO, we are able to swiftly launch A/B tests, tackle data trends and customer problems. We merge VWO reports with our tools for complete insights into user behavior.
+
+Molly Parker
+
+Sr. Director, Site Content & Creative Operations
+
+UX & Analytics
+Identify roadblocks in the buying journey.
+Rectify bottlenecks by testing images, layouts, and placements.
+Test to build low friction scroll experience.
+
+VWO helps us get real results with tangible insights for our clients. Flexibility to set up as many goals on the fly is incredibly valuable to get the most out of an experiment.
+
+Brandon Gentry
+
+Director, User Experience
+
+Product Managers
+Engineers
+Growth Marketers
+UX & Analytics
+Book a Personalised Demo
+Deliver experiences that your users love
+
+VWO products empower you to create and rollout great digital experiences using a suite of products built for your entire optimization program for any application. Understand user behavior with qualitative insights. Validate your optimization hypothesis with testing. Know what works for a specific audience. Personalize it at the right place, right time. All using one platform.
+
+Create wow experiences using your user data
+
+Observe user behavior and events, and track key attributes to understand how your customer behavior is evolving. So that you can evolve your digital experiences as per your user’s expectations. You can also use this data to build effective hypotheses for testing. And to optimize any visitor data segment, whether from your application, third-party sources, or offline data.
+
+User Attributes
+User Events
+Third Party Data
+Offline Data
+Optimize what matters to you
+
+Optimize experiences on any device. Track and understand your user behavior on websites and mobile apps. Use this customer data to test and personalize UX, content, feature variables, server-side functionality, or any complex use case.
+
+Any
+Metric
+Device
+Stack
+Metric
+Device
+Stack
+Metric
+Device
+Stack
+Metric
+Device
+Stack
+Metric
+Device
+Stack
+Metric
+TV
+Desktop
+Mobile
+OTT
+Console
+Frontend
+Server-side
+Feature
+Standard Events
+Custom Events
+Pin down friction areas by observing user behavior
+
+Take a closer look at digital user journeys and identify conversion roadblocks using heatmaps, session recordings, funnels, form analytics, and surveys.
+
+Discover growth opportunities in your website and mobile app
+Observe to generate informed ideas and hypotheses to test
+See how visitors engage with your test campaigns
+Build experiences using high-performance script and SDKs
+
+Start testing without breaking a sweat. We are easy to configure and get started.
+
+Web Script
+
+VWO SmartCode powers your entire experimentation cycle singlehandedly. It also has the least impact on Total Blocking Time (TBT) on your website and offers the best performance in the industry.
+
+SmartCode 
+Asynchronous SmartCode
+SDK and APIs
+
+VWO’s secure, lightweight SDKs in 8+ languages enable you to run complex back-end tests while ensuring that your visitors have a seamless experience across devices even when they are part of a test. You can also track their on-app behavior using our mobile insights SDK.
+
+Feature Testing
+Mobile App Testing
+Mobile App Insights
+Run unlimited optimization at scale
+
+Optimize as much as you want, with no limit on variations, account users, metrics, session recordings, or integrations to your user data source.
+
+Users
+Concurrent
+campaigns
+Session
+recordings
+Integrations
+Metrics
+Test everything under one roof
+
+Whether you have a website or mobile app, we provide SDK-based testing for all technologies. For non-techies, our powerful, no-code visual editor is all you need to get started with testing (without any engineering support).
+
+Code Editor
+SDK-based Testing
+Visual Editor
+Code Editor
+SDK-based Testing
+Visual Editor
+Code Editor
+SDK-based Testing
+Visual Editor
+Code Editor
+SDK-based Testing
+Identify changes that boost your key metrics
+
+Did an experiment unexpectedly impact conversions or customer behavior? Use VWO’s accurate, real-time reporting using Bayesian Statistics to discover it easily. VWO's reports help you answer business questions by giving you insights into whether your variations are better than control, equivalent to control, or worse than control.
+
+Over a decade of experience in optimization
+170Bn
++
+Experiences Optimized
+2Mn
++
+Experiments Run
+675k
++
+Websites Powered
+40,000
++
+Customers Served
+190
++
+Countries
+15
++
+Years
+Zero compromises on privacy, security, and compliance
+
+At VWO, we take a privacy-first approach to building world-class products.
+
+Secure
+
+VWO hosts all your data on the Google Cloud Platform. No employee of VWO can physically access the data.
+
+Know more
+Private
+
+Our privacy-first approach ensures that your website visitors’ privacy is respected and your data is safe.
+
+Know more
+Compliant
+
+We update our security controls with evolving regulations and reforms so that your optimization program is always compliant.
+
+Know more
+Designed to be enterprise-ready and scalable
+
+VWO Platform has everything large businesses need: top-notch features, strong security, easy accessibility, and excellent performance.
+
+Built to scale
+
+Billions of requests daily with 100% uptime. Scale your CRO program to any level without worries.
+
+Know more
+Unmatched performance
+
+VWO’s Asynchronous SmartCode and our optimized SDKs ensure no lag in your website load time. Ever.
+
+Know more
+Industry best support
+
+Dedicated 24*7 support, seamless onboarding, and end-to-end consultation.
+
+Know more
+	Industry	
+CSAT	94%	99%
+First Response Time	2.6 hrs	45 mins
+
+As per Zendesk Benchmark
+
+e-book
+Experimentation Program Maturity Report 2024
+
+VWO & Speero by CXL joined forces to analyze data from 200+ testing programs, unveiling 18 pivotal insights to enhance the effectiveness of your CRO strategies. Get a download of all ideas in this detailed report.
+
+Get a Copy Now
+Get started with VWO today
+Explore for Free
+Request Demo
+Footer Navigation
+POPULAR
+IN-DEPTH
+GUIDES
+A/B Testing
+Cart Abandonment
+Conversion Rate Optimization
+Customer Data Platform
+Customer Engagement
+Customer Experience Optimization
+Customer Retention
+Feature Rollout
+Grow Website Traffic
+Landing Page Optimization
+Mobile App A/B Testing
+Multivariate Testing
+Push Notifications
+Server-Side Testing
+Session Recording
+Usability Testing
+Visitor Behavior Analysis
+Web Form Analytics
+Website Heatmaps
+Website Optimization
+Website Personalization
+Website Redesign
+Website Surveys
+PRODUCTS
+VWO Testing
+VWO Insights
+VWO Data360
+VWO Personalize
+VWO Plan
+VWO Web Rollouts
+COMPARE
+VWO vs. Optimizely
+VWO vs. Google Optimize
+Google Optimize vs. Optimizely
+Google Optimize 360 vs. Optimizely
+Adobe Target vs. Google Optimize
+Google Optimize vs. Optimize 360
+Google Optimize vs. Kameleoon
+Optimizely vs. Kameleoon
+Kameleoon vs. AB Tasty
+Kameleoon vs. Optimize 360
+AB Tasty vs. Optimize 360
+RESOURCES
+Blog
+Product Updates
+Success Stories
+eBooks
+Webinars
+Events
+Glossary
+Inside VWO
+Masters of Conversion
+Popular In-Depth Guides
+GET HELP
+Knowledge Base
+FREE TOOLS
+A/B Test Significance Calculator
+A/B Test Duration Calculator
+Web Push ROI Calculator
+Cart Abandonment Calculator
+Landing Page Analyzer
+AI-Powered Heatmap Generator
+CRO Experimentation Checklist
+ABOUT US
+Our Company
+Careers
+Media Kit
+VWO Partners
+Affiliate Program
+Contact Us
+Newsroom
+Follow us and stay on top of everything CRO
+© 2025 Copyright Wingify. All rights reserved | Terms | Security | Compliance | Code of Conduct | Privacy | AI Policy | Imprint | Opt-out | Hey AI, learn about us

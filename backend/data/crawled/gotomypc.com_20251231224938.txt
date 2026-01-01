@@ -1,0 +1,172 @@
+Features
+How it Works
+Pricing
+Resources
+Start for Free
+Buy Now
+Log In
+Access your Mac or PC from anywhere, on any device
+
+Connect to office files, data, and applications on the go with award-winning remote desktop software.
+
+See Plans and Pricing
+MEET GOTOMYPC
+
+Remote computer access — simple, more secure, and more cost-effective than ever
+
+Get more done, no matter where work happens. GoToMyPC’s remote desktop software lets you instantly connect to your home or office computer’s files, applications, programs, and network — just as if you were at your desk.
+
+Easy device access
+Get an instant view of your computer from any PC, Mac, iOS, Android, Linux, or Chromebook device. It’s like you’re sitting in front of your host desktop.
+Enhanced security
+Stay secure with free antivirus, multifactor authentication, SSO, account security scoring, host access codes, banking-grade 256-bit AES encryption, and more.
+Increased productivity
+Easily complete tasks and keep clients happy with award-winning productivity tools — from file manager to guest access to remote printing, and more.
+HOW IT WORKS
+The industry standard for remote computer access for 20+ years.
+
+What sets GoToMyPC apart from other remote desktop solutions:
+
+Ease of Use
+
+Once GoToMyPC is installed on your desktop, you can start a remote PC connection from any device via the online portal. Just press Connect, and your files, applications and network will appear as if you were sitting right in front of your computer. It’s really that simple.
+
+Reliability
+
+GoToMyPC just works – whether you’re working from another office, a hotel, or even a public computer. With a protocol design that’s compatible with dynamic and static IP addresses, network and port address translation (NAT/PAT) and firewalls, GoToMyPC integrates with any existing network and security infrastructure.
+
+Flexible Features
+
+Get fast remote computer access, every time. GoToMyPC highly compresses data to minimize lag time, so you’ll feel just like you’re sitting in front of your host desktop. And with features like screen-sharing viewer, drag-and-drop file transfer, remote printing, guest invite, and active connectivity monitoring, you can stay truly flexible.
+
+Quick Setup
+
+Setup is automatic, no training is necessary and free customer support is available 24/7
+
+MOBILE APPS
+
+Total mobility. Total freedom.
+
+Stay connected wherever you go with the device of your choice.
+
+Stay productive on-the-go with your preferred mobile device. With GoToMyPC mobile apps, now you can work from any iPad, iPhone, Android, or other mobile devices, connecting over 3G, 4G, and WiFi — wherever you are. You can even incorporate mouse control, screen zoom, and full keyboard access.
+
+Learn More →
+
+TOP-RATED FOR SMALL BUSINESSES
+GoToMyPC is voted a remote access software leader
+
+Choose top-rated remote computer access software with leading customer support.
+
+SUCCESS STORIES
+
+Why our customers choose GoToMyPC
+"What I love best about GoToMyPC is that it’s simple, easy to use and very reliable."
+Linda Lubitz Boone, The Lubitz Financial Group
+FREQUENTLY ASKED QUESTIONS
+
+Show All  Hide All
+What is GoToMyPC?
+GoToMyPC is a web-based remote desktop software that allows you to access your computer from any other Internet-connected device in the world. With GoToMyPC, you have the flexibility to work where, when, and how you want. Use your computer’s data and applications, read and send email, edit files, and access network resources as if you were sitting in front of it.
+I need remote access for myself. How do I purchase GoToMyPC?
+Choose the right subscription for your needs on our GoToMyPC plans and pricing page.
+Can I use GoToMyPC for technical support?
+
+You can use GoToMyPC for both remote access and remote administration on any computer simply by installing the GoToMyPC software on those devices and ensuring they stay online and connected to the Internet. If your customers use GoToMyPC or the device has not been added to your account, you can support via the Guest Invite feature, which enables them to invite you to view and control their computers.
+
+If you provide extensive technical support, you should consider GoTo Resolve Remote Support, which allows you to remotely view and control anyone’s computer via the web. Visit https://www.goto.com/it-management/resolve for more information.
+
+What can I do with GoToMyPC?
+GoToMyPC’s remote computer access software lets you instantly connect to your home or office computer’s files, applications, programs, and network the same as if you were at your desk. With GoToMyPC you can connect to your computer from any other device with an Internet connection. You have full access to everything on your computer with no compromise on speed or functionality. And that’s not all – GoToMyPC has easy to use features that enhance your remote work experience like file transfer, remote printing, remote sound, complimentary antivirus, and more.
+Can I use GoToMyPC to access a Mac from a PC? Or a PC from a Mac?
+Yes, once GoToMyPC is set up and running on your host computer, you can immediately access it from almost any other Mac or Windows computer that is connected to the Internet. You can use GoToMyPC to access your Mac from a PC, your PC from a Mac, your Mac from a Mac or your PC from a PC.
+Why choose remote access software over a VPN tool?
+A VPN, or virtual private network, creates a secure connection between a device and a network. Remote access solutions like GoToMyPC can be more secure than VPN tools. Like GoToMyPC, remote access software can enforce strict access controls and device checks. We also offer multi-factor authentication (MFA) for enhanced protection that VPNs can’t always match. MFA provides a second layer of security — outside of your username and password — to protect the privacy of your credentials when logging into your account.
+How do I connect to my computer from my iPad, iPhone or Android device?
+
+Get an instant view of your desktop from any PC, Mac, iPad, iPhone, Kindle Fire, or Android device included in any GoToMyPC subscription. If you haven’t already, sign up for GoToMyPC at www.gotomypc.com and install it on the computer you want to access.
+
+Before using your mobile device, be sure your host computer (the computer you want to access) is turned on and connected to the Internet.
+
+Install the GoToMyPC application from the App Store or Google Play on your mobile device.
+Tap the GoToMyPC icon on your device and log in.
+Tap the Connect button next to the computer you wish to access.
+Enter your access code and tap OK. Your host computer’s desktop will now appear on your mobile device’s screen.
+Is GoToMyPC secure?
+
+Yes, your GoToMyPC remote access sessions are completely private and secure. All data, including screen images, file transfers, keyboard and mouse input and chat text, is fully encrypted from end to end using 256-bit Advanced Encryption Standard (AES) encryption. No unencrypted information is ever stored on our system. Read our Security White Paper on our Security & Reliability White Paper for more.
+
+GoToMyPC uses a number of conventions to protect access to your computers.
+
+Multiple Passwords: To access a computer running GoToMyPC, you must have the email address associated with your account and 2 passwords. You first log in to the secure website at gotomypc.com using your email address and personal password. Then, when you select the computer, you want to access, you must enter a second password, the computer’s unique access code you’ve created, to complete the connection. An access code is required for all connections. To provide machine-level security, the computer’s unique access code resides on the computer and is never transmitted or stored on our servers.
+Strong Password Requirements: GoToMyPC requires that passwords be at least 8 characters long and contain both letters and numbers. These strict requirements protect you from using easily compromised or common passwords.
+Multi-Factor Authentication: Also known as Two-Step Verification. An added level of security, providing a more robust level of user authentication using something you know (like a password) and something you have (like a text message code)
+Single Sign-On (SS): Users can securely log in from other applications with their corporate emails.
+Limited Number of Log-In Attempts: To protect against hacker attacks, GoToMyPC limits the number of times you can attempt to log in.
+End-to-End Authentication: Authentication occurs with a challenge/response mechanism using a secure MD5 methodology.
+Complimentary Antivirus Powered by Bitdefender: You can take control and mitigate the risk of cyber-threats, including malware, viruses, and sophisticated online threats. Our market-leading antivirus solution delivers peace-of-mind for customers looking to protect their valuable data.
+Blank Host Computer Screen: Depending on your host computer configuration, you can blank the screen of your host computer while you are remotely connected so anyone walking by can’t see what you are working on.
+Lock Device on Remote Disconnect: Once you disconnect from a remote session, your host computer or the computer you were remotely accessing will automatically lock to keep your device secure.
+Lock Keyboard and Mouse: You can lock your host computer’s mouse and keyboard while connected in a GoToMyPC session.
+One-Time Passwords: You can generate a list of One-Time Passwords to further protect your host computer. Each password allows you to access your computer just once.
+How it works
+See how easy remote computer access can be when you use GoToMyPC.
+Learn More
+Explore features
+Explore the features that make remote work simpler than ever for your business.
+Learn More
+See pricing
+Start a free trial or learn more about our flexible pricing plans.
+Learn More
+Try it free for 7 days. No credit card. No commitments.
+
+Join the almost-1,000-weekly new customers who sign up to try GoToMyPC’s remote access software.
+
+Start My Free Trial
+Questions? Need a hand?
+Support is here to help.
+Your Choices Regarding Cookies on this Site
+This website uses cookies and other technologies to function, personalize your experience, analyze how users engage with us, and tailor advertising to you. To learn more about how we use cookies, please refer to our Privacy Policy. Clicking the "x" to close this banner or interacting with our website without interacting with this banner will accept all cookies and other tracking technologies.
+Manage Settings
+Accept All
+Reject Optional
+Powered by:
+Company
+About Us
+Corporate Site
+Careers
+Security & Privacy
+Affiliate Partners
+GoToMyPC
+How it Works
+Plans & Pricing
+Mobile Apps
+Resources
+Contact Sales
+Customer Support
+FAQs
+GDPR
+Site Map
+More Products from GoTo
+Business Communications
+GoTo Connect
+GoTo Connect CX
+GoTo Contact Center
+GoTo Meeting
+GoTo Webinar
+GoTo Training
+Grasshopper
+LogMeIn Product Family
+LogMeIn Rescue
+LogMeIn Resolve
+LogMeIn Central
+LogMeIn Pro
+LogMeIn Miradore
+Connect With Us
+Terms of Service
+Privacy Policy
+Anti-Spam Policy
+Trademark
+Cookie Preferences
+Do Not Sell or Share My Personal Info
+© 2025 GoTo | All Rights Reserved

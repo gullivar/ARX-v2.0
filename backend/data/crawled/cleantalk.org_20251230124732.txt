@@ -1,0 +1,234 @@
+CleanTalk
+click to trigger searching
+Anti-Spam
+Security
+Block lists
+Uptime Monitoring
+Help
+Log in
+Sign Up
+Spam protection for WordPress, Joomla, Drupal, and any other websites
+WordPress,
+Joomla,
+Drupal,
+
+No Captcha, no questions, no counting animals, no puzzles, no math. Fight spam!
+
+Email address
+Website address
+I agree with the Privacy policy
+Create account
+Website Uptime Monitoring
+
+Is website UP or DOWN? How fast is it for everyone?
+
+Check
+Do not show the results in the list "Recently Scanned"
+
+1,046,985 +
+
+Join 1 047 000+ websites that trust CleanTalk!
+
+Check IP, email for known spam and abuse activity
+
+CleanTalk provides not only Anti-Spam plugins for websites. CleanTalk compiles own database of spam IPs and Emails Database. You can check any IP or Email with the Block Lists Database, it allows you to block spammers or other malicious activity. So, you can upload spammer email or IP spam list. Each record of the database has been reported as spam by our plugins and API from several websites. You can report a spam IP or email address that has spam activity on your website.
+
+New spam bots IP Addresses
+189.150.82.205
+40.192.39.48
+94.77.147.206
+50.117.28.1
+117.196.96.28
+2.58.74.99
+171.6.105.92
+102.32.120.51
+125.160.161.252
+69.73.207.39
+171.43.65.111
+184.82.244.229
+3.84.208.86
+83.27.244.129
+157.15.67.49
+3.90.38.122
+119.8.35.190
+212.15.87.5
+119.13.84.14
+3.85.139.173
+203.150.113.103
+159.138.23.16
+103.154.76.26
+38.76.140.173
+49.48.48.29
+23.94.52.223
+14.255.160.200
+120.232.242.86
+171.4.16.212
+157.15.212.43
+54.198.137.217
+23.81.227.109
+64.129.120.103
+223.205.116.161
+175.137.29.80
+74.7.227.36
+167.0.250.166
+170.239.42.240
+155.254.104.158
+120.255.40.251
+106.225.168.108
+49.151.113.242
+54.162.100.237
+54.81.120.180
+4.213.180.179
+100.30.239.238
+3.237.76.254
+184.73.45.120
+13.223.186.104
+155.254.104.157
+89.205.200.208
+178.236.137.137
+108.147.197.41
+12.75.46.41
+107.170.8.15
+142.93.1.78
+157.245.175.11
+45.56.69.101
+157.230.129.124
+165.227.82.204
+204.48.30.143
+161.35.117.177
+165.22.157.105
+2 days TOP 25 spam bots IP Addresses
+191.101.31.36
+199.167.138.22
+173.244.207.11
+178.159.37.17
+212.102.57.215
+196.196.53.9
+196.196.53.139
+191.101.31.29
+173.244.207.104
+185.39.19.49
+104.193.252.131
+185.39.19.97
+173.244.207.12
+88.218.64.8
+185.39.19.48
+178.20.44.140
+173.244.207.6
+185.39.19.43
+89.234.157.254
+185.192.69.81
+185.39.19.47
+212.102.57.23
+146.59.44.6
+185.11.61.87
+45.86.202.70
+2 days TOP 25 IP Addresses of security activity
+45.157.54.19
+170.254.126.99
+103.186.54.3
+131.226.103.190
+112.110.146.30
+49.204.105.249
+177.162.7.240
+136.158.79.51
+189.113.68.51
+194.141.86.36
+106.215.146.144
+103.121.16.51
+182.48.213.161
+49.43.241.154
+79.186.76.181
+156.146.63.201
+131.226.101.40
+189.130.197.35
+138.94.76.51
+114.130.188.192
+138.255.144.104
+83.175.73.112
+110.235.179.42
+191.178.177.145
+218.255.160.111
+See all
+Trigger cookie opening
+
+ Our site uses cookies
+
+We use cookies to provide our services and analyze site usage in accordance with our Privacy Policy. By choosing "Accept", you agree to the storage of all types of cookies used on the site. If you do not wish to use optional cookies, please read our Privacy Policy.
+
+Reject all
+Accept all
+Anti-Spam for websites
+Anti-Spam plugin for WordPress
+Anti-Spam plugin for Joomla 3.X, 4.X
+Anti-Spam plugin for Drupal 9,10
+Anti-Spam plugin for phpBB 3.1, 3.2 phpbb31
+Anti-Spam plugin for Simple Machines Forum
+Anti-Spam plugin for IPS Community Suite 4
+Anti-Spam plugin for OpenCart
+Anti-Spam plugin for XenForo 2 xenforo2
+Anti-Spam plugin for MyBB 1.x
+Anti-Spam plugin for ModX Revolution
+Anti-Spam plugin for MediaWiki
+Anti-Spam plugin for XenForo xenforo
+Anti-Spam plugin for PrestaShop
+Anti-Spam plugin for Magento 2.x magento2
+Anti-Spam plugin for IP.Board
+Anti-Spam plugin for IPS Community Suite 5
+Anti-Spam plugin for Craft CMS craftcms
+Anti-Spam plugin for vBulletin 5
+Anti-Spam plugin for OpenCart 4-1.0
+Anti-Spam plugin for WooCommerce
+Anti-Spam plugin for Universal Anti-Spam Plugin
+Stop spam emails in Contact form 7 (CF7)
+Stop spam in Elementor form builder
+Stop spam in WPForms
+The Real Person
+Security for websites
+Security plugin for WordPress
+Malware Web Scanner
+Malware Removal
+Major signs of Malware on WordPress
+Online services
+All Plugins releases
+Anti-Spam API
+Dashboard
+Pricing
+Spam Stats
+IP info & Whois
+My IP Info
+Other services for websites
+doBoard - Project management software
+SSL Certificates
+Uptime Monitoring
+Block Lists
+Report IP/Email
+Submitted today
+Updated today
+Weekly TOP20 records
+Block Lists Database
+Email Checker
+Spam IP & Email DataBase
+Autonomous systems (AS)
+Company
+About
+Team
+How it works?
+Privacy policy
+Refund policy
+Copyright
+License agreement
+Social media
+Blog
+Facebook
+GitHub
+Telegram. Research team
+X
+Help
+Support
+Contact us
+Press kit
+© CleanTalk Inc. All Rights Reserved.
+EN
+RU
+Back to top

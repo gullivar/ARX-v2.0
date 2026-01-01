@@ -1,0 +1,5 @@
+Authenticate using one of the following domains: corp.nekki.ru, nekki.com
+
+Sign in with Keycloak
+
+Secured with OAuth2 Proxy version v7.7.1

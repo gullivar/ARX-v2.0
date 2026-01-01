@@ -1,0 +1,220 @@
+Skip to main content
+TypeScript
+Download
+Docs
+Handbook
+Community
+Playground
+Tools
+TypeScript is JavaScript with syntax for types.
+
+TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+
+Try TypeScript Now
+Online or via npm
+Editor Checks
+Auto-complete
+Interfaces
+JSX
+const user = {
+  firstName: "Angela",
+  lastName: "Davis",
+  role: "Professor",
+}
+ 
+console.log(user.name)
+Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.
+Property 'name' does not exist on type '{ firstName: string; lastName: string; role: string; }'.
+ 
+
+TypeScript 5.9 is now available
+
+What is TypeScript?
+JavaScript and More
+
+TypeScript adds additional syntax to JavaScript to support a tighter integration with your editor. Catch errors early in your editor.
+
+A Result You Can Trust
+
+TypeScript code converts to JavaScript, which runs anywhere JavaScript runs: In a browser, on Node.js, Deno, Bun and in your apps.
+
+Safety at Scale
+
+TypeScript understands JavaScript and uses type inference to give you great tooling without additional code.
+
+Get Started
+Handbook
+Learn the language
+Playground
+Try in your browser
+Download
+Install TypeScript
+Adopt TypeScript Gradually
+
+JavaScript file
+
+Apply types to your JavaScript project incrementally, each step improves editor support and improves your codebase.
+
+Let's take this incorrect JavaScript code, and see how TypeScript can catch mistakes in your editor.
+
+function compact(arr) {
+    if (orr.length > 10)
+        return arr.trim(0, 10)
+    return arr
+}
+
+No editor warnings in JavaScript files
+
+This code crashes at runtime!
+
+// @ts-check
+ 
+function compact(arr) {
+  if (orr.length > 10)
+Cannot find name 'orr'.
+Cannot find name 'orr'.
+    return arr.trim(0, 10)
+  return arr
+}
+
+Adding this to a JS file shows errors in your editor
+
+the param is arr, not orr!
+
+// @ts-check
+ 
+/** @param {any[]} arr */
+function compact(arr) {
+    if (arr.length > 10)
+      return arr.trim(0, 10)
+Property 'trim' does not exist on type 'any[]'.
+Property 'trim' does not exist on type 'any[]'.
+    return arr
+  }
+
+Using JSDoc to give type information
+
+Now TS has found a bad call. Arrays have slice, not trim.
+
+function compact(arr: string[]) {
+  if (arr.length > 10)
+    return arr.slice(0, 10)
+  return arr
+}
+
+TypeScript adds natural syntax for providing types
+
+Describe Your Data
+
+Describe the shape of objects and functions in your code.
+
+Making it possible to see documentation and issues in your editor.
+
+interface Account {
+  id: number
+  displayName: string
+  version: 1
+}
+ 
+function welcome(user: Account) {
+  console.log(user.id)
+}
+type Result = "pass" | "fail"
+ 
+function verify(result: Result) {
+  if (result === "pass") {
+    console.log("Passed")
+  } else {
+    console.log("Failed")
+  }
+}
+TypeScript becomes JavaScript via the delete key.
+type Result = "pass" | "fail"
+ 
+function verify(result: Result) {
+  if (result === "pass") {
+    console.log("Passed")
+  } else {
+    console.log("Failed")
+  }
+}
+ 
+
+TypeScript file.
+
+type Result = "pass" | "fail"
+ 
+function verify(result: Result) {
+  if (result === "pass") {
+    console.log("Passed")
+  } else {
+    console.log("Failed")
+  }
+}
+ 
+
+Types are removed.
+
+ 
+ 
+function verify(result) {
+  if (result === "pass") {
+    console.log("Passed")
+  } else {
+    console.log("Failed")
+  }
+}
+ 
+
+JavaScript file.
+
+TypeScript Testimonials
+
+First, we were surprised by the number of small bugs we found when converting our code.
+
+Second, we underestimated how powerful the editor integration is.
+
+TypeScript was such a boon to our stability and sanity that we started using it for all new code within days of starting the conversion.
+
+Felix Rieseberg at Slack covered the transition of their desktop app from JavaScript to TypeScript in their blog
+
+Read
+Loved by Developers
+
+Voted 2nd most loved programming language in the Stack Overflow 2020 Developer survey
+
+TypeScript was used by 78% of the 2020 State of JS respondents, with 93% saying they would use it again.
+
+TypeScript was given the award for “Most Adopted Technology” based on year-on-year growth.
+
+Get Started
+Handbook
+Learn the language
+Playground
+Try in your browser
+Download
+Install TypeScript
+
+Made with ♥ in Redmond, Boston, SF & Dublin
+
+© 2012-2025 Microsoft
+PrivacyTerms of Use
+
+Using TypeScript
+Get Started
+Download
+Community
+Playground
+TSConfig Ref
+Code Samples
+Why TypeScript
+Design
+Community
+Get Help
+Blog
+GitHub Repo
+Community Chat
+@TypeScript
+Mastodon
+Stack Overflow
+Web Repo

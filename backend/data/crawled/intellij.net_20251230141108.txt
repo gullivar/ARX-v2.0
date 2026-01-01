@@ -1,0 +1,312 @@
+AI
+Developer Tools
+Team Tools
+Education
+Solutions
+Support
+Store
+IntelliJ IDEA
+JetBrains IDEs
+What's New
+Features
+Resources
+Pricing
+Download
+IntelliJ IDEA
+The Leading IDE for Professional Development
+
+in Java and Kotlin
+
+Download
+
+IntelliJ IDEA goes AI
+
+Discover more
+
+Less routine, more coding joy.
+All refined JetBrains AI tools – right in your IDE, for free.
+
+Coding Agent
+Unlimited Code Completion
+Offline Mode
+Latest AI Models
+Codebase Context
+Multi-File Edits
+VCS Assistance
+Why IntelliJ IDEA
+Productive development
+
+IntelliJ IDEA helps you write code faster with tools that eliminate tedious tasks and let you focus on what matters – building great software.
+
+Code quality
+
+Get everything you need to write quality code, minimize bugs, and reduce technical debt so you can spend more time on innovation instead of troubleshooting.
+
+Ready for all your dev tasks
+
+Supporting you at every stage from design and development to testing and deployment, it provides everything you need to get the job done efficiently.
+
+Cutting-edge technology support
+
+With cutting-edge technology support from the start, IntelliJ IDEA keeps you ahead of the curve in a rapidly evolving tech landscape.
+
+Ultimate comfort
+
+Designed for ultimate comfort, it offers a smooth, enjoyable workflow that helps you stay in the flow.
+
+Privacy and security
+
+IntelliJ IDEA offers clear consent options for data collection, storage, and sharing, ensuring your information is used only for agreed-upon purposes.
+
+The Ultimate Experience
+Smart editor
+Run and debug
+ULTIMATE
+Web development
+ULTIMATE
+Profiler
+ULTIMATE
+Spring / Jakarta EE
+ULTIMATE
+Database Tools
+ULTIMATE
+Cloud and deployment
+ULTIMATE
+Remote development
+Download
+
+78%
+
+of Java developers choose IntelliJ IDEA
+
+Our customers say
+More testimonials
+Mary Grygleski
+
+Senior Developer Advocate,
+Java Champion
+
+IntelliJ IDEA is undoubtedly the top-choice IDE for software developers.
+
+Mohamed Taman
+
+Owner/CEO,
+Java Champion
+
+I always feel happy and at home when working on my projects using IntelliJ IDEA.
+
+Josh Long
+
+Spring Developer Advocate,
+Java Champion
+
+I use IntelliJ IDEA and haven't looked back.
+
+Angie Jones
+
+Global Vice President of Developer Relations,
+Java Champion
+
+I've been using it extensively and love how efficient it makes me as a developer.
+
+Dr Heinz Kabutz
+
+Publisher of The Java Specialists' Newsletter,
+Java Champion
+
+It's so much more pleasant to work with IntelliJ IDEA than anything else I've tried.
+
+Daniel Terhorst-North
+
+Founder, Dan North & Associates Limited,
+IT Consultant
+
+There's practically no other software I use that feels as natural.
+
+Hemant Gaur
+
+Software Engineer,
+Technical Architect and Founder at APPBUDDY TECHNOLOGIES
+
+It makes life easier by providing the right tool for developers and removing many developer pain points while coding.
+
+Neha Sardana
+
+Software Developer,
+JUG leader
+
+I regret that I haven't used it before. The things that I've learned so far have made me a more productive developer both at work and in my personal projects.
+
+Nikhil Nanivadekar
+
+Project lead Eclipse Collections,
+Java Champion
+
+It took about two or three days to get familiar with IntelliJ IDEA, and then I was absolutely blown away by the productivity that I was gaining.
+
+Nicolai Parlog
+
+Java Enthusiast
+
+It's a tool I use every day, and I enjoy using it.
+
+Brian Vermeer
+
+Staff Developer Advocate,
+Java Champion
+
+It simply works.
+
+1/4
+Companies worldwide trust IntelliJ IDEA
+
+Proven compliance and security
+
+JetBrains tools adhere to industry-leading security standards, including SOC 2 certification, ensuring your organization’s data is protected and our products are compliant with global regulations.
+
+What's new
+Command completion
+
+Forget about shortcuts and use code native patterns to harness the power of your favorite IDE! To help keep you in the flow, IntelliJ IDEA 2025.3 introduces command completion – a new way to access context-aware actions directly from code completion.
+
+Type . to see code completion and postfix completion suggestions, as well as actions.
+Type .. to filter the results to actions only.
+Select an action to see the exact context and preview what the action will do if applied.
+
+This refinement makes development more comfortable and efficient, as you no longer need to decide between multiple ways to find and invoke actions in a given situation.
+
+For details, check out the blog post.
+
+Spring Boot 4 and Spring Framework 7 Ultimate
+
+IntelliJ IDEA 2025.3 helps you stay at the cutting edge of development in the Spring ecosystem. First-class support for the latest improvements in Spring Framework 7 and Spring Boot 4 simplifies application development while also reducing friction in your developer experience. Improvements to REST API versioning, programmatic bean registration, and declarative HTTP service clients keep you in the flow and focused on your most important tasks, rather than stuck with setup.
+
+Spring Debugger updates Ultimate
+
+The Spring Debugger plugin now has over 250,000 users, and your feedback has allowed us to continue improving it to help you better understand what's happening inside your Spring applications. Right after the plugin's release, the top question was "Can I debug remote applications?" We're now happy to say that the answer is: "Absolutely!" Simply start your app with a debug port open, and then attach from the IDE. That's it – you're all set.
+
+We've also added another highly anticipated feature: IntelliJ IDEA can now automatically connect to your database when the application starts.
+
+Make sure to update your Spring Debugger plugin to the latest version to get these improvements and other fixes.
+
+Java 25
+
+Released in September 2025, Java 25 is the next Long-Term Support (LTS) version of the Java platform. IntelliJ IDEA has supported Java 25 from day one of its release, ensuring developers could immediately benefit from the latest language, runtime, and tooling enhancements.
+
+In this release, we are adding the finishing touches to this support – making sure all bundled tools and libraries, including Async Profiler 4.1 and JaCoCo, are compatible with Java 25 runtimes.
+
+JDK 25 builds from all major vendors – Oracle OpenJDK, IBM Semeru J9, GraalVM, and Microsoft Build of OpenJDK – are available for download directly from IntelliJ IDEA.
+
+For details about the features and improvements introduced between Java 21 and Java 25, check out this detailed blog post.
+
+All new features
+Product news
+
+December 23, 2025
+
+Thread Dumps and Project Loom (Virtual Threads)
+
+If you’ve been keeping up with Java virtual threads, you already know that this hot new feature significantly improves hardware utilization for parallel I/O-bound operations. Virtual threads map mult
+
+December 18, 2025
+
+IntelliJ IDEA 2025.3.1 Is Out!
+
+IntelliJ IDEA 2025.3.1 is out with a number of useful fixes. You can update to this version from inside the IDE, using the Toolbox App, or using snaps if you are a Ubuntu user. You can also downloa
+
+December 8, 2025
+
+IntelliJ IDEA 2025.3 Is Out Now!
+
+IntelliJ IDEA 2025.3 has arrived!  This version brings significant updates designed to streamline your productivity and help you confidently adopt the latest innovations across the Java ecosys
+
+All product news
+Tell me about new product features as they come out
+I agree that my personal data will be processed for this purpose.
+Submit
+Follow us
+Community forum
+@IntelliJIDEA on X
+Bug and issue tracker
+Facebook
+IntelliJ IDEA blog
+YouTube
+Plugin Marketplace
+LinkedIn
+Bluesky
+AI
+JetBrains AI
+AI Assistant
+Junie
+AI in IDEs
+AI Enterprise
+AI News
+Developer Tools
+All Products
+IDEs
+.NET and Visual Studio
+Team Tools
+Plugin Marketplace
+Toolbox App
+Solutions
+Business
+Data
+IDE Services
+Remote Development
+Game Development
+DevOps
+Initiatives
+Kotlin
+Open Source
+JetBrains Research
+JetBrains Mono
+MPS
+Education
+Students
+Teachers
+Bootcamps
+Teams
+Course Catalog
+University Programs
+Store
+Plans and Pricing
+All Products Pack
+dotUltimate
+Partners and Resellers
+Customers and Awards
+Support
+Technical Support
+Contact Sales
+Documentation
+JetBrains Account
+Resources
+Blog
+Early Access
+Events and Livestreams
+Newsletters
+Industry Reports
+Inspectopedia
+Desktop Art
+Community
+User Groups
+Open-Source Partnerships
+Developer Recognition
+Content Creators
+Company
+About
+Contacts
+Careers
+Brand Assets
+Merchandise
+Trust Center
+Republic of Korea
+English
+Privacy and Security
+Privacy Notice
+Terms of Use
+Attributions
+Legal
+Genuine Tools
+Opt-Out
+Copyright © 2000-2025 JetBrains s.r.o.
+Developed with drive and IntelliJ IDEA

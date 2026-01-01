@@ -1,0 +1,269 @@
+Skip to content →
+Product
+Resources
+Pricing
+Customers
+Now
+Contact
+Log in
+Sign up
+Linear is a purpose-built tool for planning and building products
+Linear is a purpose-built tool for planning and building products
+
+Meet the system for modern software development. Streamline issues, projects, and product roadmaps.
+
+Start building
+New: Linear agent for Slack
+
+Powering the world’s best product teams.
+From next-gen startups to established enterprises.
+
+Meet our customers
+Made for modern product teams
+
+Linear is shaped by the practices and principles that distinguish world-class product teams from the rest: relentless focus, fast execution, and a commitment to the quality of craft. Make the switch
+
+Purpose-built for product development
+Designed to move fast
+Crafted to perfection
+Artificial intelligence
+AI-assisted product development
+
+Linear for Agents. Choose from a variety of AI agents and start delegating work, from code generation to other technical tasks.
+
+Learn more
+Cursor
+Agent
+Cursor
+Agent
+GitHub Copilot
+Agent
+Sentry
+Agent
+Leela
+Codex
+Agent
+Conor
+Self-driving product operations
+
+Streamline your product development workflows with AI assistance for routine, manual tasks.
+
+Triage Intelligence
+Suggestions
+nan
+Mobile App Refactor
+Slack
+Duplicate of
+ENG-1419
+Loading spinner keeps running on startup
+Related to
+ENG-1820
+Mobile app takes a long time to open
+nan
+Why this assignee was suggested
+
+This person was the assignee on previous issues related to performance problems in the mobile app launch flow
+
+Alternatives
+yann
+erin
+Mobile App Refactor
+Optimize mobile app performance
+In Progress
+Medium
+Why this project was suggested
+
+The current issue seems to be a mobile app related bug that would fit well within the scope of this project.
+
+Issue Type
+Bug
+Why this label was suggested
+This appears to be a bug in the mobile app
+A similar issue 
+ENG-2029 iOS app
+keeps freezing
+ is also labeled as Bug
+Accept suggestion
+Linear MCP
+
+Connect Linear to your favorite tools including Cursor, Claude, ChatGPT, and more.
+
+Project and long-term planning
+Set the product direction
+
+Align your team around a unified product timeline. Plan, manage, and track all product initiatives with Linear’s visual planning tools.
+
+Manage projects end-to-end
+
+Consolidate specs, milestones, tasks, and other documentation in one centralized location.
+
+Project Overview
+Properties
+In Progress
+ENG
+Resources
+Exploration
+User interviews
+Milestones
+Design Review 100%
+Internal Alpha 100% of 10
+GA 25% of 53
+Project updates
+
+Communicate progress and project health with built-in project updates.
+
+Off track
+Unexpected roadblocks forced us to take a different…
+Oct 27
+At risk
+Progress slowed down last week because…
+Oct 27
+On track
+We are ready to launch next Thursday
+Sep 8
+Ideate and specify what to build next
+Collaborative documents
+Inline comments
+Text-to-issue commands
+Collaborate on
+zoe
+ ideas
+Write down product ideas and work together on feature specs in realtime, multiplayer project 
+quinn
+documents. Add **style** and ##structure with rich-text formatting options.
+Initiatives
+Coordinate strategic product efforts.
+Cross-team projects
+Collaborate across teams and departments.
+Milestones
+Break projects down into concrete phases.
+Progress insights
+Track scope, velocity, and progress over time.
+Task tracking and sprint planning
+Issue tracking you’ll enjoy using
+
+Optimized for speed and efficiency. Create tasks in seconds, discuss issues in context, and breeze through your work in views tailored to you and your team.
+
+Build momentum with Cycles
+
+Create healthy routines and focus your team on what work should happen next.
+
+Cycle 55
+Scope
+Started
+Completed
+Manage incoming work with Triage
+
+Review and assign incoming bug reports, feature requests, and other unplanned work.
+
+Triage
+Users report unexpected rate limiting
+tom
+RangeError: Index 0 out of range
+romain
+Pressing "Enter" quickly when logging in via email generates multiple emails
+tuomas
+Accept
+Mark as duplicate
+Decline
+Linear Insights
+
+Take the guesswork out of product planning with realtime analytics and reporting dashboards.
+
+Learn more
+Tailored workflows
+Track progress across custom issue flows for your team.
+Custom views
+Switch between list and board. Group issues with swimlanes.
+Filters
+Refine issue lists down to what’s most relevant to you.
+SLAs
+Automatically apply deadlines to time-sensitive tasks.
+Workflows and integrations
+Collaborate across tools and teams
+
+Expand the capabilities of the Linear system with a wide variety of integrations that keep everyone in your organization aligned and focused.
+
+Customer Requests
+
+Build what customers actually want
+
+Powerful git workflows
+
+Automate pull requests and commit workflows
+
+Linear Mobile
+
+Move product work forward from anywhere
+
+Linear Asks
+
+Turn workplace requests into actionable issues
+
+Linear integrations
+
+100+ ways to enhance your Linear experience
+
+Figma integration
+
+Bridge the gap between engineering and design
+
+Built for developers
+
+Build your own add-ons with the Linear API
+
+Under the hood
+Built on strong foundations
+
+Linear is so simple to use, it’s easy to overlook the wealth of complex technologies packed under the hood that keep Linear robust, safe, and blazing fast.
+
+Linear Sync Engine
+Built with a high-performance architecture and an obsessive focus on speed.
+Enterprise-ready security
+Best-in-class security practices keep your work safe and secure at every layer.
+Engineered for scale
+Built for teams of all sizes. From early-stage startups to global enterprises.
+SOC 2
+GDPR
+HIPAA
+Plan the present. Build the future.
+Contact sales
+Get started
+Features
+Plan
+Build
+Insights
+Customer Requests
+Linear Asks
+Security
+Mobile
+Product
+Pricing
+Method
+Integrations
+Changelog
+Documentation
+Download
+Switch
+Company
+About
+Customers
+Careers
+Now
+README
+Quality
+Brand
+Resources
+Developers
+Status
+Startups
+Report vulnerability
+DPA
+Privacy
+Terms
+Connect
+Contact us
+Community
+X (Twitter)
+GitHub
+YouTube

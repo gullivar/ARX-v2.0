@@ -1,0 +1,105 @@
+   OnlineGDB
+online compiler and debugger for c/c++
+code. compile. run. debug. share.
+IDE
+My Projects
+Classroom new
+Learn Programming
+Programming Questions
+Sign Up
+Login
+About • FAQ • Blog • Terms of Use • Contact Us • GDB Tutorial • Credits • Privacy
+© 2016 - 2025 GDB Online
+ 
+ Run
+Toggle Dropdown
+  Debug  Stop  Share  Save { } Beautify 
+Toggle Dropdown
+Language 
+-- select --
+C
+C++
+C++ 14
+C++ 17
+C++ 20
+C++ 23
+C (TurboC)
+C++ (TurboC)
+Java
+Python 3
+Kotlin
+PHP
+C#
+OCaml
+VB
+HTML,JS,CSS
+Ruby
+Perl
+Pascal
+Cobol
+R
+Fortran
+Haskell
+Assembly(GCC)
+Objective C
+SQLite
+Dart
+C3
+Lua
+Zig
+Javascript(Rhino)
+Javascript(Node)
+Prolog
+Swift
+Rust
+Go
+Bash
+  
+source code
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+/******************************************************************************
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+*******************************************************************************/
+#include <stdio.h>
+int main()
+{
+    printf("Hello World");
+    return 0;
+}
+close ad [x]
+    
+input
+Command line arguments:
+
+
+Standard Input:  Interactive Console  Text
+
+×
+Call Stack
+#	Function	File:Line
+Local Variables
+Variable	Value
+Registers
+Register	Value
+Display Expressions
+Expression	Value	
+Breakpoints and Watchpoints
+	#	Description	

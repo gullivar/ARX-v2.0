@@ -1,0 +1,6 @@
+Stretchoid is a platform that helps identify an organization's online services.
+
+Sometimes this activity is incorrectly identified by security systems, such as firewalls, as malicious. Our activity is completely harmless. However, if you would prefer that we do not scan your infrastructure, please submit the following information:
+
+Name:  Email:  CIDR Block:
+ Additional Information:  Opt Out

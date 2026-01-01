@@ -1,0 +1,307 @@
+Products
+Pricing
+Use cases
+Locations
+Resources
+Book a Demo
+Create Account
+Login
+Excellent
+Trustpilot
+Proxy Infrastructure Built for Scale and Speed
+
+Own your infrastructure. Avoid vendor lock‑in. Stay in control of performance and costs. No credit card required. Instant full access.
+
+Buy Now
+Sign up with Google
+No credit card required. Instant full access.
+Recognized by
+
+As seen on
+
+Best proxy servers 2025
+
+Solutions for Every Use Case
+from $1.75/GB
+32M+ proxy pool
+Residential
+
+Ideal for anonymous high-volume web scraping, SEO monitoring, and geo-targeted research at scale.
+
+from $2.00/proxy
+500K+ unique IPs
+ISP
+
+Great for ecommerce automation, ad verification, and long-session reliability. Think datacenter speed with residential proxy anonymity.
+
+from $1.39/proxy
+60+ locations
+Datacenter
+
+Best for speed-critical use cases like software testing, scraping, and infrastructure monitoring.
+
+from $10.11/day
+4.5M+ IPs
+Mobile
+
+Perfect for social platforms, mobile app QA, and regional ad testing with a network of over 4.5 million real mobile IPs.
+
+from $1.00/1000 requests
+AI
+Web Unblocker
+
+Ideal for automated web scraping, bypassing blocks, and reliable access to geo-restricted content.
+
+Everything You Need for Hassle-Free Web Scraping
+Value
+Scalability
+Security
+Value
+Spend Smarter, Scale Faster
+
+Non-expiring traffic, transparent pricing, and usage-based plans mean you control spend without losing unused data.
+
+Integrations & API
+Built to Integrate. Ready to Automate.
+
+Connect IPRoyal to the tools you already use. Or build your own automations with our powerful API.
+
+Integrations
+third-party
+650+ tools supported
+Seamless setup with scrapers, browsers, automation tools
+Full compliance with the latest standards
+See All Integrations
+Powerful API
+Residential
+ISP
+Datacenter
+Mobile
+cURL
+PHP
+Python
+Node.js
+Java
+C#
+GO
+curl -X GET https://resi-api.iproyal.com/v1/me \
+     -H "Authorization: Bearer <your_api_token>"
+
+Copy
+Programmatic ordering & user management
+Multi-location support
+Advanced geo-targeting (city/state)
+Explore API Docs
+Features
+Reliable Tools for Industry Leaders
+
+Manage proxies at scale with secure access, user roles, detailed logs, and API-first workflows.
+
+Access
+Tools
+Workspace Controls
+
+Add and manage team members with granular user roles and permissions.
+
+Built-in 2FA Security
+
+Enable two-factor authentication (2FA) and manage access across your organization.
+
+Billing, Your Way
+
+Flexible invoicing and spend tracking for company-level account management.
+
+Extensive Documentation
+
+Full developer and team documentation for quick setup and scaling.
+
+Updates & Alerts
+
+In-dashboard notifications keep your team updated on usage, updates, and account activity.
+
+Your Feedback, Built In
+
+We prioritize what matters. Many features are developed directly from customer suggestions.
+
+How Companies Use Our Proxies
+Privacy Advantages
+
+Stay anonymous online, mask your real IP, and keep sensitive research or testing activities private across devices and networks.
+
+Learn more
+Email Protection
+
+Stay one step ahead of email scammers and keep your enterprise IT infrastructure from getting compromised by malware, ransomware, and other attacks.
+
+Learn more
+SEO Proxies for SERP Scraping
+
+Track keyword positions across locations and devices with reliable, block-free proxy access to real-time SERP data.
+
+Learn more
+Price Monitoring Proxies
+
+Track competitor pricing, product availability, and retail trends across regions in real time without blocks or throttling.
+
+Learn more
+Proxies to Unblock Restricted Websites
+
+Unblock any website that has placed restrictions with our residential or datacenter proxies.
+
+Learn more
+Ad Verification
+
+Verify ad placement, targeting, and visibility from any region using stable, location-accurate proxy connections.
+
+Learn more
+Market Research
+
+Collect real-time data from global sources to inform product strategy, brand positioning, and competitive research.
+
+Learn more
+Brand Protection
+
+Detect IP misuse and brand infringement using reliable proxy-powered web scraping, without worrying about blocks or CAPTCHAs.
+
+Learn more
+Review Monitoring
+
+Keep track of customer feedback from different sources (search engines, social media, forums, retail websites). Respond promptly and improve your brand reputation.
+
+Learn more
+Social Media
+
+Manage your social media presence and promote your business without worrying about bans. Easily reach new markets without geographic restrictions.
+
+Learn more
+Stock Market Data Collection
+
+Get real-time insight into the current state of different global markets. Monitor stock market trends and price updates to optimize your investments.
+
+Learn more
+All Use Cases
+Enterprise Solutions to Everyday Proxy Challenges
+Scalable Control & Insights
+
+Take full control of your proxy usage with real-time analytics, project-based tracking, and granular team permissions. Easily monitor bandwidth, set limits, and manage access from one centralized dashboard.
+
+Enterprise-Grade Uptime
+
+Run high-volume scraping, testing, and automation without interruptions. Built-in redundancy and zero third-party dependencies ensure 99.9% uptime for all your projects.
+
+Pinpoint Geo-Targeting
+
+Get city- and state-level precision across Residential, ISP, and Datacenter proxies. Whether you’re running localized campaigns or testing geo-sensitive platforms, you get total targeting control.
+
+Buy Now
+Case Study
+Backed by Partners Across Industries
+
+We tested IPRoyal proxies across tens of thousands of websites and achieved a success rate of over 95%. It was a substantial improvement over our previous average of 80%. A success rate this high gave us the confidence to rely on IPRoyal’s solutions rather than building our own proxy layer in-house.
+
+Srijan Subedi
+Co-founder of Reworkd
+All Case Studies
+Awards
+Trusted & Secured Proxy Network
+
+Why Trust IPRoyal?
+
+Compliance You Can Trust
+
+Every IP in our 34M+ network is ethically sourced through clear, transparent agreements. No shady apps or grey areas. We follow a strict KYC policy to ensure safe, responsible use. We are also actively working towards SOC 2 and ISO 27001 certification as part of our broader security commitment. You can follow our progress in the Trust Center.
+
+Top Proxy Locations
+United States
+3,450,886 IPs
+United Kingdom
+1,421,770 IPs
+Germany
+1,439,883 IPs
+Netherlands
+382,025 IPs
+Italy
+1,393,154 IPs
+France
+1,418,633 IPs
+All Locations
+Have a Large Project?
+
+Our proxy experts are always available to help you find the right solution for any need.
+
+Register
+Book a Demo
+
+PRODUCTS
+
+Residential Proxies
+Popular
+ISP Proxies
+Datacenter Proxies
+Mobile Proxies
+Web Unblocker
+Enterprise Proxies
+Subnets
+
+TOOLS
+
+Google Chrome Extension
+Firefox Proxy Add-on
+Proxy Tester
+Proxy Checker
+IP Lookup
+TCP/IP Fingerprint Test
+WebRTC Leak Test
+
+RESOURCES
+
+Blog
+Documentation
+Quick-Start Guides
+Integrations
+Whats New
+Network Status
+Help Center
+
+Customer Support
+
+LOCATIONS
+
+United States
+United Kingdom
+Germany
+India
+China
+All Locations
+
+COMPANY
+
+About Us
+Newsroom
+Careers
+Affiliate Program
+Referral Program
+Reviews
+Case Studies
+Proxy Credits Program
+
+LEGAL
+
+KYC Policy
+Proxy Sourcing
+Data Processing Agreement
+Terms of Service
+Privacy Policy
+Cookie Policy
+Acceptable Use Policy
+Trust Center
+English
+support@iproyal.com
+info@iproyal.com
+media@iproyal.com
+
+IPRoyal (Headquarters), BLB-BC5-641 (5th floor), AMC - BOULEVARD-B Building, 143 AL HASSAN AL BASRI STREET, JURF 2, Ajman, United Arab Emirates
+
+IPRoyal (NYC Office), 530 5th Ave, 9th floor, New York, NY 10036, United States
+
+© Copyright 2025 IPRoyal.com | All rights reserved

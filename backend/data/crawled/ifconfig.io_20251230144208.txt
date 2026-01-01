@@ -1,0 +1,48 @@
+What is my ip address? - ifconfig.io
+Your Connection
+IP Address
+59.15.130.228
+Remote Host
+59.15.130.228
+Country Code
+KR
+User Agent
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Port
+9970
+Language
+Referer
+Method
+GET
+Encoding
+gzip, br
+MIME Type
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Forwarded-For
+59.15.130.228
+Simple cURL API!
+$ curl ifconfig.io
+59.15.130.228
+$ curl ifconfig.io/ip
+59.15.130.228
+$ curl ifconfig.io/host
+59.15.130.228
+$ curl ifconfig.io/country_code
+KR
+$ curl ifconfig.io/ua
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+$ curl ifconfig.io/port
+9970
+$ curl ifconfig.io/lang
+$ curl ifconfig.io/encoding
+gzip, br
+$ curl ifconfig.io/mime
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+$ curl ifconfig.io/forwarded
+59.15.130.228
+$ curl ifconfig.io/all
+$ curl ifconfig.io/all.xml
+$ curl ifconfig.io/all.json
+$ curl ifconfig.io/all.js
+
+© 2014 - 2025 ifconfig.io

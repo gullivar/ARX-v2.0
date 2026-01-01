@@ -1,0 +1,165 @@
+menu
+Home
+Get Premium
+Login
+Register
+Questions & Answers
+Apps
+Theme
+Speedtest
+API
+Filesystem Guide
+Acknowledgements
+DMCA and abuse
+Server Status
+Not logged in
+
+Pixeldrain offers services for efficiently moving and storing digital files on the internet.
+
+What pixeldrain is good at
+Serving large files to millions of people worldwide
+Storing files for less money than all the competition
+Things we take very seriously
+Performance - Slow software is a waste of time. We don't want to make you wait, so pixeldrain is completely tuned for maximum performance
+Privacy - There is too much tracking on the web nowadays. Pixeldrain goes in the other direction, this site does not contain any advertisements or third party tracking scripts
+Bullet lists
+Pricing
+(Prepaid plan. For monthly subscriptions, look further below)
+Storage pricing
+€ 4 / TB / month
+Egress pricing
+€ 1 / TB
+Minimum fee *
+€0.01 / day
+
+* The minimum fee is only charged when daily usage is less than €0.01
+
+What you get
+Unlimited storage space
+Cloud storage with rclone and FTPS support
+Customizable download pages (custom branding colours, header and background images)
+Fault tolerance for up to four storage server failures
+1.6 Terabits per second of total bandwidth capacity
+Twenty-three high-performance caching servers optimized for data transfer over long distances
+File caching in Portland, Querétaro, New York, São Paulo, Frankfurt and Singapore
+What you don't get
+Data backups - Please keep a local copy of everything you store in case of emergency
+Commercial support - If you have a question, please check the Q&A page first. If that doesn't answer it, try the support channel on Discord.
+Get started
+login
+Login
+ 
+how_to_reg
+Register
+E-mail or username
+Password
+A password is not required to log in. If your account has an e-mail address configured you can just enter that and press login.
+send Login
+
+
+
+If you log in with just your e-mail address then a login link will be sent to your inbox. Click the link to log in to your account. If the link did not arrive, please check your spam folder. Your account needs a verified e-mail address for this login method to work.
+
+If you have lost your password you can use this method to log in. Please configure a new password after logging in.
+
+Subscription plans
+
+Pixeldrain features two different payment modes. We offer a monthly subscription which is managed by Patreon, and a Prepaid subscription which supports a dozen different payment providers. With Prepaid you pay in advance to charge your credit, then usage will be subtracted from your account credit. For low usage Prepaid is usually better as the monthly fee is much lower.
+
+Free
+Pro
+Prepaid
+Recurring price
+None
+info
+€4 / month or €40 / year
+info
+€0.01 / day minimum
+Transfer limit
+info
+6 GB per day
+info
+4 TB per 30 days
+info
+€1 per TB transferred
+Hotlinking
+Hotlinking not supported
+Hotlinked files get blocked
+Hotlinking supported
+Hotlinking uses your transfer limit
+Storage
+No limit
+Files expire when they are not downloaded
+€4 / TB / month
+No limit, you pay for what you use
+File expiry
+info
+120 days (4 months)
+info
+240 days (8 months)
+info
+Files do not expire
+Download page customization
+None
+None
+Theme, background, header and footer image can be customized
+File embedding
+No
+info
+Yes
+Max file size
+20 GB per file
+100 GB per file
+Payment processors
+None
+PayPal, Credit/debit
+PayPal, Bitcoin, Litecoin, Monero, Dogecoin
+Free
+€ 4 per month or € 40 per year!
+(Excluding tax)
+Subscription managed by Patreon
+Account required
+
+login
+Log in or 
+how_to_reg
+Register
+Payments processed by Mollie
+No recurring payments
+Other plans available on Patreon
+Persistence
+€ 8 / month
+100 GB max file size
+Files never expire
+8 TB transfer limit
+4 TB storage space
+File viewer branding: Set a custom theme and header, footer and background images on the download pages for your files
+File embedding: You can embed files in your own website
+Tenacity
+€ 16 / month
+100 GB max file size
+Files never expire
+16 TB transfer limit
+8 TB storage space
+File viewer branding
+File embedding
+Eternity
+€ 32 / month
+100 GB max file size
+Files never expire
+32 TB transfer limit
+16 TB storage space
+File viewer branding
+File embedding
+Infinity
+€ 64 / month
+100 GB max file size
+Files never expire
+64 TB transfer limit
+32 TB storage space
+File viewer branding
+File embedding
+Pixeldrain is a product by Fornaxian Technologies
+ Patreon |  Discord |  Reddit |  GitHub |  Mastodon
+Server speed: 54.43 Gbps | Cache cluster: 609.9 Gbps | Storage cluster: 66.61 Gbps
+page rendered by sg01

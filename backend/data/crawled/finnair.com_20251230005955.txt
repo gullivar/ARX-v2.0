@@ -1,0 +1,43 @@
+Flight bookings | select country and language | Finnair
+Skip to main content
+Hi! Please set your location and language.
+Location *
+Finland (EUR €)
+Australia (AUD $)
+Austria (EUR €)
+Belgium (EUR €)
+Canada (CAD $)
+China (CNY ¥)
+Czech Republic (CZK Kč)
+Denmark (DKK kr)
+Estonia (EUR €)
+France (EUR €)
+Germany (EUR €)
+Hong Kong, China (HKD $)
+Hungary (HUF Ft)
+Iceland (EUR €)
+India (INR ₹)
+Ireland (EUR €)
+Israel (USD $)
+Italy (EUR €)
+Japan (JPY ¥)
+Korea (KRW ₩)
+Latvia (EUR €)
+Lithuania (EUR €)
+The Netherlands (EUR €)
+Norway (NOK kr)
+Poland (PLN zł)
+Russia
+Singapore (SGD $)
+Spain (EUR €)
+Sweden (SEK kr)
+Switzerland (CHF Fr)
+Thailand (THB ฿)
+United Kingdom (GBP £)
+United States (USD $)
+International
+Language *
+-
+Apply preferences
+Your country wasn't listed?
+Go to the international site

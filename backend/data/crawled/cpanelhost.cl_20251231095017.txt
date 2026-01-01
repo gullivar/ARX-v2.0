@@ -1,0 +1,280 @@
+Planes de Hosting
+Servidores Dedicados
+Operaciones y Soporte Online
+Operaciones Servicio de Hosting
+Cambiar Plan de Hosting
+Obtener Datos de Acceso a cPanel
+Editar Datos de Titular, Contacto y Facturación
+Cambiar Dominio Principal Asociado
+Recuperar Información desde Respaldo
+Operaciones Servidores Dedicados (VPS)
+Reiniciar VPS Activo (Modo Forzado)
+Pagar Servicio
+Ubicación y Contacto
+
+
+
+Hosting
+Estándar
+Potencia x1
+Hosting Alta
+Performance
+Potencia x4
+Hosting VPS
+Potencia x20
+	
+Previous
+32GB
+32GB Disco duro
+40 Cuentas de correo
+8 Bases MySQL
+50.000 pesos
++ IVA anual
+32GB Disco duro
+80 Cuentas de correo
+8 Bases MySQL
+123.000 pesos
++ IVA anual
+32GB Disco duro
+160 Cuentas correo
+8 Bases MySQL
+492.000 pesos
++ IVA anual
+64GB
+64GB Disco duro
+80 Cuentas de correo
+10 Bases MySQL
+85.000 pesos
++ IVA anual
+64GB Disco duro
+160 Cuentas correo
+10 Bases MySQL
+224.000 pesos
++ IVA anual
+64GB Disco duro
+320 Cuentas correo
+10 Bases MySQL
+896.000 pesos
++ IVA anual
+128GB
+128GB Disco duro
+160 Cuentas correo
+12 Bases MySQL
+145.000 pesos
++ IVA anual
+128GB Disco duro
+320 Cuentas correo
+12 Bases MySQL
+400.000 pesos
++ IVA anual
+128GB Disco duro
+640 Cuentas correo
+12 Bases MySQL
+1.600.000 pesos
++ IVA anual
+4GB
+4GB Disco duro
+5 Cuentas de correo
+2 Bases MySQL
+10.500 pesos
++ IVA anual
+4GB Disco duro
+10 Cuentas de correo
+2 Bases MySQL
+28.000 pesos
++ IVA anual
+4GB Disco duro
+20 Cuentas de correo
+2 Bases MySQL
+112.000 pesos
++ IVA anual
+8GB
+8GB Disco duro
+10 Cuentas de correo
+4 Bases MySQL
+18.000 pesos
++ IVA anual
+8GB Disco duro
+20 Cuentas de correo
+4 Bases MySQL
+42.000 pesos
++ IVA anual
+8GB Disco duro
+40 Cuentas de correo
+4 Bases MySQL
+168.000 pesos
++ IVA anual
+16GB
+16GB Disco duro
+20 Cuentas de correo
+6 Bases MySQL
+29.000 pesos
++ IVA anual
+16GB disco duro
+40 Cuentas de correo
+6 Bases MySQL
+72.000 pesos
++ IVA anual
+16GB Disco duro
+80 Cuentas de correo
+6 Bases MySQL
+288.000 pesos
++ IVA anual
+32GB
+32GB Disco duro
+40 Cuentas de correo
+8 Bases MySQL
+50.000 pesos
++ IVA anual
+32GB Disco duro
+80 Cuentas de correo
+8 Bases MySQL
+123.000 pesos
++ IVA anual
+32GB Disco duro
+160 Cuentas correo
+8 Bases MySQL
+492.000 pesos
++ IVA anual
+64GB
+64GB Disco duro
+80 Cuentas de correo
+10 Bases MySQL
+85.000 pesos
++ IVA anual
+64GB Disco duro
+160 Cuentas correo
+10 Bases MySQL
+224.000 pesos
++ IVA anual
+64GB Disco duro
+320 Cuentas correo
+10 Bases MySQL
+896.000 pesos
++ IVA anual
+128GB
+128GB Disco duro
+160 Cuentas correo
+12 Bases MySQL
+145.000 pesos
++ IVA anual
+128GB Disco duro
+320 Cuentas correo
+12 Bases MySQL
+400.000 pesos
++ IVA anual
+128GB Disco duro
+640 Cuentas correo
+12 Bases MySQL
+1.600.000 pesos
++ IVA anual
+4GB
+4GB Disco duro
+5 Cuentas de correo
+2 Bases MySQL
+10.500 pesos
++ IVA anual
+4GB Disco duro
+10 Cuentas de correo
+2 Bases MySQL
+28.000 pesos
++ IVA anual
+4GB Disco duro
+20 Cuentas de correo
+2 Bases MySQL
+112.000 pesos
++ IVA anual
+8GB
+8GB Disco duro
+10 Cuentas de correo
+4 Bases MySQL
+18.000 pesos
++ IVA anual
+8GB Disco duro
+20 Cuentas de correo
+4 Bases MySQL
+42.000 pesos
++ IVA anual
+8GB Disco duro
+40 Cuentas de correo
+4 Bases MySQL
+168.000 pesos
++ IVA anual
+16GB
+16GB Disco duro
+20 Cuentas de correo
+6 Bases MySQL
+29.000 pesos
++ IVA anual
+16GB disco duro
+40 Cuentas de correo
+6 Bases MySQL
+72.000 pesos
++ IVA anual
+16GB Disco duro
+80 Cuentas de correo
+6 Bases MySQL
+288.000 pesos
++ IVA anual
+Next
+1
+2
+Todos nuestros Planes de hosting incluyen:
+	Primeros 30 días gratis, sin pago anticipado ni restricciones técnicas.
+	Activación inmediata.
+	Certificados SSL gratis, implementación automática.
+	Discos duros de estado sólido (SSD). 5 veces más rápidos que de tipo estándar.
+	Respaldos automáticos, para restablecer un sitio web dañado o recuperar correos eliminados.
+	Múltiples versiones de PHP, selecionables por el usuario.
+	Cortafuegos para detener ataques de pruebas de contraseña.
+	Transferencia de datos mensual ilimitada.
+
+
+Limitaciones:
+	Cada plan permite el alojamiento de un solo sitio web.
+	No está permitido el envío de SPAM o publicidad masiva.
+	Está prohibido el alojamiento de sitios web con contenido malicioso o phishing. En caso de detección, el servicio será suspendido.
+	Debe utilizar nuestros servidores DNS en la configuración del dominio. Esto para un continuo y correcto funcionamiento tanto del sitio web, como del servicio de correo electrónicos.
+	Nuestro servicio de hosting compartido NO ESTÁ DISEÑADO para alojar sistemas informáticos, aplicaciones o sitios de misión crítica. En caso de fallas, cPanel recupera el contenido desde respaldos efectuados en la madrugada, con la consecuente pérdida de datos.
+
+
+
+
+Diferencias Hosting Estándar v/s Alta Performance
+ 	Estándar	Alta Performance
+		
+Velocidad de acceso desde el extranjero (compartida)	1 MB/Seg.	10 MB/Seg.
+		
+Velocidad de lectura/escritura de disco duro (compartida)	150 MB/Seg.	800 MB/Seg.
+		
+Memoria RAM total asignada a cada cuenta de hosting	1 GigaByte	3 GigaBytes
+		
+Cuentas de hosting Alojadas en cada Servidor	1700 cuentas	400 cuentas
+		
+Software instalador de CMS (Joomla, Wordpress, Prestashop y otros)	No	Si (Softaculous)
+		
+Servicio óptimo para ejecutar software CMS	No	Si
+		
+Número de scripts PHP simultáneos en ejecución permitidos	5 Scripts	15 Scripts
+		
+Protección contra intentos de autentificación en el administrador Wordpress	No	Si
+		
+Envío de correos permitidos por hora a cada dominio	200 Correos	400 Correos
+		
+Envío de correos simultáneos permitidos por script PHP	20 Correos	40 Correos
+		
+Proceso de respaldo completo de todas las cuentas de hosting	Cada Domingo
+(2:00-6:00 AM)	Todos los días
+(2:00-4:00 AM)
+		
+Respaldos guardados disponibles para restauración de información	» Día 15 más reciente
+» Día 15 penúltimo	» Día de hoy
+» Día de ayer
+» Día 15 más reciente
+» Día 15 penúltimo
+» Día 15 antepenúltimo
+		
+
+
+
+Badajoz 45 piso 17 - Las Condes - Santiago - Email: ventas@cpanelhost.cl

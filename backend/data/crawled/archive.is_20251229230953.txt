@@ -1,0 +1,19 @@
+archive.today
+webpage capture
+	emailask meFAQ
+My url is alive and I want to archive its content
+Archive.today is a time capsule for web pages!
+It takes a 'snapshot' of a webpage that will always be online even if the original page disappears.
+It saves a text and a graphical copy of the page for better accuracy
+and provides a short and reliable link to an unalterable record of any web page
+including those from Web 2.0 sites:
+https://archive.is/2020.04.21/rt.live/
+https://archive.is/2014.06.26/google.com/maps/…
+This can be useful if you want to take a 'snapshot' of a page which could change soon: price list, job offer, real estate listing, drunk blog post, ...
+Saved pages will have no active elements and no scripts, so they keep you safe as they cannot have any popups or malware!
+I want to search the archive for saved snapshots
+search queries by example
+microsoft.comfor snapshots from the host microsoft.com
+*.microsoft.comfor snapshots from microsoft.com and all its subdomains (e.g. www.microsoft.com)
+http://twitter.com/burgerkingfor snapshots from exact url (search is case-sensitive)
+http://twitter.com/burg*for snapshots from urls starting with http://twitter.com/burg

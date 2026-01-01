@@ -1,0 +1,346 @@
+Skip to main content
+Sign up
+Deutsch
+Français
+Features
+The account
+	
+About us
+More on Posteo
+	
+Newsroom
+Blog & press
+	
+Background info
+On privacy etc
+	
+Help
+with all questions
+	
+Contact
+We're here for you
+Posteo: Green, Secure, Ad-free
+Posteo Login
+Email
+Password
+Sign up
+Forgotten password?
+ECO switch
+(Show login only)
+Login
+	
+Forgotten password?
+Features
+POSTEO: EMAIL, CALENDAR, ADDRESS BOOK, NOTES
+GREEN, SECURE, AD-FREE
+2 GB email account, upgradeable
+Two-factor authentication (TOTP)
+1 Euro per month, free support
+Registration without personal details, no tracking
+100% real green energy from Green Planet Energy
+All data can be encrypted at the touch of a button
+POSTEO: EMAIL, CALENDAR, ADDRESS BOOK, NOTES
+NEW: MANY COLORS AND DARK MODE
+12 different colors
+Dark Mode based on device settings
+Two levels of contrast per color
+All colors and Dark Mode
+Dark Mode for all colors
+also in the Web App
+POSTEO: YOUR PERSONAL
+EMAIL ACCOUNT
+Ad-free, no tracking, no user profiling: We stand for maximum privacy.
+2 GB storage, upgradeable
+2 alias addresses included, upgradeable
+Compatible with all devices and apps (IMAP, POP3)
+Convenient webmail, Posteo web app
+Many encryption options for laypeople and professionals
+Professional spam and virus protection
+Attachment browser with photo stream
+Individual support including all devices and apps
+POSTEO: YOUR CONVENIENT
+CALENDAR
+Posteo calendars can be synchronised with most apps and shared with other people.
+3 calendars included, upgradeable
+Synchronise via CalDAV and share via ICS link
+Calendar encryption at the touch of a button
+Subscribe to external calendars in Posteo webmail
+Migration support for calendar data
+Import and export ICS files
+Reminders via email
+Display birthdays from your address book
+POSTEO: ENCRYPT YOUR
+ADDRESS BOOK
+Manage your contacts professionally with your Posteo address book
+Synchronisation via CardDAV (iOS, Android, ...)
+Address book encryption at the touch of a button
+Migration support for contact data
+Import and export VCF files
+Display birthdays in your calendar
+POSTEO: SINCE 2009
+SUSTAINABLE
+Since 2009, we have been providing an impetus for more sustainability in the internet and standing for resolute and sustainable business practices.
+100% green energy from Green Planet Energy
+No business flights since our founding in 2009
+Organic, vegetarian canteen, sustainable workplace
+Finances with Umweltbank and GLS Bank
+Facilitation of public transportation and bicycles for workers
+Conserving resources with appropriately sized servers
+Energy efficiency through optimised programming
+Regular donations to NGOs
+POSTEO: MAXIMUM
+PRIVACY
+We do not collect any personal data to protect you from theft and to support your right of informational self-determination.
+No collection of personal data
+No connection of payment data to an account
+No tracking, no user profiling, no trading of customer data
+Stored data can be encrypted at the touch of a button
+Security backups, highly efficient virus filter
+No collection of personal IP addresses
+Servers located in highly secured German data centres
+POSTEO: INNOVATIVE
+ENCRYPTION
+We have a comprehensive encryption and security concept. All data can be encrypted at the touch of a button - even for laypeople.
+Secure transport route encryption (TLS, DANE and more)
+TLS-receiving and TLS-sending guarantee (mandatory TLS)
+Inbound encryption with PGP or S/MIME
+Crypto mail storage for the entire mailbox
+Two-factor login with additional email account protection
+Encryption of calendars, address book and notes
+PGP in webmail interface, key directory
+Encrypted hard drives
+POSTEO: GUARANTEED
+AD-FREE
+We are 100% financed by our users. This enables us to operate independently - and to refrain from using ad partners, tracking or having investors.
+100% independent and financed by our users
+No ad partners, no trading of customer data
+Ad-free website, no tracking, no user profiling
+No analysis of user behaviour
+No integration of social media plug-ins or Google products
+We do not send any advertisement emails
+Professional spam filter
+POSTEO: SELF-DEVELOPED
+MIGRATION SERVICE
+Our free migration service transfers your existing mailbox over an encrypted connection directly to Posteo - without any third-parties involved.
+3 migrations per account
+Data migration with just a few clicks - even for laypeople
+Migration of emails, appointments and addresses from many providers
+Entire mailboxes including folder structures can be transferred
+Collect emails from previous providers (email collector)
+Guaranteed encrypted transfer of your data
+No third-party providers involved in data transfer
+Migration serviceIntroColors
+OPEN AN ACCOUNT
+
+Sign up now.
+
+Your email account for
+1 EUR per month.
+
+Here you can open your account for 1 EUR per month and use it straight away. We do not collect any of your personal information during signup.
+
+Continue to signup
+
+We are delighted about the German Fairness Award 2025 for Posteo
+
+POSTEO BLOG
+The latest about Posteo
+and your account.
+Blog 04.12.2025
+Gifting Posteo vouchers
+Info 19.06.2025
+New at Posteo: The Cleanup Tool for email attachments
+Blog 14.05.2025
+Girls'Day 2025 at Posteo
+Posteo Blog
+NEWSROOM
+Latest
+News.
+
+Our newsroom reports on a daily basis about digital culture, internet regulation, surveillance, human rights and the environment. We work to uphold high quality journalistic standards. We do not have any advertising or use any tracking whatsoever and are independent of external financing.
+
+News 18.12.2025
+Canada: Privacy commissioner investigating billboards with built-in cameras
+News 17.12.2025
+Ethiopia: Deutsche Welle correspondents permanently suspended
+News 16.12.2025
+Nobel laureate Mohammadi detained
+News 15.12.2025
+British Home Office admits to problems with facial recognition
+More News
+PRESS REVIEWS
+
+Indeed, the company has been a global leader in rolling out secure technologies.
+
+The Guardian
+
+Make an account with German service Posteo instead of with Googlemail.
+
+Planet Wissen
+
+With Posteo, the user sets up their account anonymously and also pays anonymously. Posteo even implements two-factor authentication (2FA, a security feature) anonymously.
+
+Stiftung Warentest
+
+Berlin company Posteo has this Monday presumably become the first email provider in the world to implement modern DANE technology, which ensures encrypted transport of emails.
+
+Heise
+
+Posteo is not merely a commercial project. Its absolute commitment to privacy shows that communications providers can also think and act politically.
+
+Deutschlandfunk
+
+Posteo works with all current encryption methods. Above all else, it collects as little data as possible from its customers.
+
+FAZ
+
+There are many email providers, but Posteo stands out from the crowd. The small Berlin company not only operates with optimum security and privacy, but also has an especially sustainable philosophy.
+
+Ökotest Verlag (Markt und Medien)
+
+Certificate pinning is a relatively new standard, which works towards restoring trust in encryption on the web. (...) Posteo is now the first larger German provider to test this concept in practice.
+
+Heise
+
+As an alternative to the main email providers, WDR internet expert Jörg Schieb recommends an account with the German service "Posteo", which is completely ad-free and highly values the privacy of data and personal information.
+
+ard.de
+
+To establish trust in the company's integrity, Posteo in May 2014 became the first German email provider to publish a transparency report on requests from authorities.
+
+Technology Review
+
+The former Greenpeace activists at Posteo comply with applicable laws with more discipline than the investigative authorities prefer to.
+
+Technology Review
+
+Posteo is one of the most unusual German start-ups: The email provider declines to use advertising and wants to collect as little data from its users as possible.
+
+c't magazin
+
+Posteo, on the other hand, impressed. The small email provider was the only German email service to offer encryption with Forward Secrecy for all email protocols.
+
+c't magazin
+
+Berlin-based provider Posteo offers a lot of comfort, great features and a high security standard, for little money.
+
+Computerbild
+
+Posteo operates with green energy, its own capital and permanent employee contracts in order to offer secure email accounts. The Berlin company is up with the times.
+
+Tagesspiegel
+
+Crypto mail storage provides Posteo customers with personalised encryption of their entire email data at the click of a button.
+
+Linux-Magazin
+
+Well before the NSA scandal, a small team in Berlin had already thought about secure – and above all else, truly private – email communication, founding the email service Posteo in 2009.
+
+Chip
+
+Most reports and articles concentrate almost exclusively on Posteo's stance on privacy and data security. The plan to establish an alternative email provider originally arose out of an ecological motivation.
+
+Stiftung Futur Zwei
+
+The transparency report presented today by Posteo levels fierce criticism at the practice of requests from authorities.
+
+netzpolitik.org
+
+One distinctive feature is that with Posteo, address books and calendars added online can be encrypted by the user.
+
+Spiegel Online
+
+An account with 2 GB storage space costs 1 EUR per month – for that fee it is ad-free, the servers are run using green energy from Greenpeace Energy, and support by email is free of charge.
+
+SZ
+
+One special feature is that Posteo allows its users to save their complete email, address book and calendar data in encrypted stores.
+
+c't magazin
+
+Those who wish to open an entirely anonymous email account can do so knowing that the payment information isn’t associated with the account.
+
+Irish Times
+
+The account costs 1 EUR per month, for which the customer receives 2 GB storage space and the assurance of being with a company that uses green energy and an account with the GLS Bank.
+
+Berliner Zeitung
+
+Accessing emails, appointments and contact information is possible on all platforms such as OS X, iOS, Android and Windows.
+
+Macwelt
+
+In Germania va forte Posteo, un servizio di email ultra sicuro che promette di non conservare alcune informazione identificativa relativa ai messaggi scambiati
+
+La Stampa
+
+La start-up berlinoise, spécialisée dans les boîtes mails sécurisées et payantes est devenue en quelques années le leader mondial du secteur.
+
+ParisBerlin Magazine
+
+Privacy-oriented email provider Posteo has introduced password-based encryption of entire accounts on its servers. This is activated by the user in the settings and then occurs automatically with the user's password.
+
+N24
+
+Privacy is ensured by encryption and IP stripping, whereby Posteo’s server replaces your IP with theirs anytime you send an email. Also, no ads are served nor is user data tracked.
+
+Irish Times
+
+Your environmental conscience can also be improved with a Posteo account, as the company places particular value in energy efficiency and protecting the environment.
+
+Macwelt
+ABOUT POSTEO
+
+“We are an independent email service based in Berlin and are highly concerned with sustainability, security, privacy and usability. Posteo is completely ad-free and 100% powered by green energy from Green Planet Energy. We advocate for “informational self-determination”: In these times of network surveillance, Posteo protects the privacy of its users with a modern and innovative encryption and security model.” Read on >>
+
+ 
+			
+ 
+INFO NAVIGATOR
+Preview the service
+
+Would you like to look at the Posteo webmail interface before you open an account? In Features we provide a set of images, so that you can gain a first impression.
+
+Unanswered questions
+
+If you have questions before registering for a Posteo account, have a look at our FAQ. We provide answers to the most frequently asked questions.
+
+Sustainability
+
+You can find out more about our dedication to sustainability on our Sustainability page. You can also find a brief overview of this topic under Features.
+
+Account features
+
+Under Features you can find a summary of all features. Further information on specific features can also be found in our Help section.
+
+Privacy
+
+Would you like to learn more about our privacy policy, anonymous payment or encryption? You can find this information on our Privacy page, our Encryption page, in the privacy policy in the FAQ and under Features.
+
+Press reviews
+
+On our What others say page we have compiled articles and reports about Posteo. Have fun digging around in the archive.
+
+We use:
+GREEN ENERGY FROM GREEN PLANET ENERGY
+DATA REDUCTION
+AD-FREEDOM
+ENCRYPTION
+ANONYMOUS SIGNUP AND PAYMENT
+SYNCHRONISATION
+SUSTAINABLE OPERATION
+AND MUCH MORE...
+Cancel email account
+Contact
+Legal notice
+Jobs
+Transparency report
+Terms / Privacy policy
+Javascript license information
+About us / Support us
+Help
+Blog
+Features
+Press reviews
+Anti-abuse team / Security Transparency
+To the top

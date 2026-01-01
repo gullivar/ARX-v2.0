@@ -1,0 +1,26 @@
+Panix - Public Access Networks Corporation Panix, the oldest commercial Internet provider in New York,
+     is dedicated to providing stable and reliable Internet access,
+     email, netnews and UNIX computing services to the public. We
+     started in 1989, before the Internet even went commercial,
+     and we're still going strong. Today we're a full service provider, offering V-Colo virtual private servers (VPS), mailboxes and other email services ,
+     assorted domain services, web hosting , real and
+     virtual colocation , Internet access (T3s, T1s, 
+     and national dialup), and web
+     programming and network
+     consulting services .  We also specialize in Unix shell access , from
+     anywhere on the Internet, anywhere in the world. New V-Colo LV service levels added! Need a really large V-Colo?  Check these out at V-Colo plans . An SPF generator is available for domains whose DNS is hosted
+  at Panix. Click the 'Generate an SPF record' tab in the DNS control panel. DKIM signing is now available for outgoing mail in your domain. Check the DKIM signing page at config.panix.com/mail/dkim Convenient DMARC record generator now available for domains hosted at
+  Panix Click the 'Generate a DMARC record' tab in the DNS control panel. [ Site Map ] [ Subscribing ] [ Contact Info ] [ About Us ] [ Online Options ] [ Support ] only search panix.com General Information Panix has always taken an active role in protecting 
+    free speech and privacy on the
+    Internet, and in improving Internet
+    security . Full List of Panix Services Everything we offer, on one page for easy
+       access. Domain Services Internet access and presence, sized for
+       business of all sizes and people with their own domains. Shell Accounts Internet access, Web pages, UNIX shell
+       accounts. Panix V-Colo VPS Panix VPS run under Xen; frequent new 
+           features Phone Numbers Voice lines ; Dialup and ISDN 
+       connections in the 48 contiguous states and Hawaii. Panix Help System How to keep your Panix service running
+       smoothly. Panix Rules We try to keep our regulations to a
+       minimum. Here they are. System Status Messages (MOTDs) Messages and announcements about the system Online Options Sign Up with Panix! How to subscribe to our services. Configure and manage your Panix account Change your password, update your credit card or your contact information, view your current bill, etc. Log in to webmail All accounts have webmail access.  Don't
+        forget to use your full email address. Log in to Panix shell servers Use shellinabox to log into a shell host. Contacting Panix Email: staff@panix.com SSH: shell.panix.com World Wide Web: https://www.panix.com (this page) Finger: info@panix.com Voice: +1 (212) 741-4400 Dialup: See Panix Phone Numbers staff@panix.com Last Modified: 
+Tuesday, 01-Jul-2025 16:28:20 EDT © 2000 - 2021,
+Public Access Networks Corporation 127 W 83rd St #219, New York, NY 10024

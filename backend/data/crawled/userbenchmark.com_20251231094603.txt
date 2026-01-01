@@ -1,0 +1,293 @@
+UserBenchmark  KOR-User  
+kr
+us
+uk
+ca
+es
+fr
+de
+it
+CPU GPU SSD HDD RAM USB EFPS FPS SkillBench
+COMPARE BUILD TEST ABOUT
+ 
+UserBenchmark
+Speed test your PC in less than a minute
+ 72,154,032 PCs	 Free Download
+2,451,902 Components     361,892,867 Benchmarks     3,701,788 Votes
+CPU	
+GPU	
+SSD	
+HDD	
+RAM	
+USB
+New Hardware
+ 
+Nvidia RTX 5060 ₩360,458
+Nvidia’s 5000 series GPUs are around 20% faster than their corresponding 4000 series counterparts (4060, 4060 Ti, 4090, 4080, 4070 Ti, 4070). Supply is almost non-existent at the moment so value for money considerations are not possible. Over the last five years, aggressive marketing through platforms like Reddit, YouTube, and forums—combined with subpar products—has crippled the credibility of AMD’s Radeon brand. Meanwhile, Intel has yet to release a truly competitive discrete GPU, though the B580 is getting close. As a result, once again, Nvidia only have themselves to compete with so it might take longer than usual for the 5000 series models to come into stock. Gamers that own a 3060 or better GPU need not rush to upgrade as dropping settings to medium/high rarely detracts much from real-world gameplay. Rather than overpaying scalpers for scarce stock, it’s worth waiting for prices to drop to MSRP. Users looking for the best price/performance should wait for the $300 USD 8GB 5060 cards, anticipated to “launch” in May 2025. Lately, influencers have been fixated on VRAM—mainly because it's one of the few specs their sponsors can actually compete on. However, 8GB of VRAM is still more than enough for most gamers, who are normally best off playing at 1080p either way. Although AMD’s influencers universally trashed the 4060, gamers quickly made it a global bestseller—a sign that even first time buyers are wising up to the scammers. [May '25 GPUPro]
+AMD RX 9070-XT 
+If you are considering an AMD 9000 series GPU because you have been influenced by Reddit, Twitter or a wealthy tech YouTuber, it’s worth understanding AMD’s track record. While their GPUs are often great at beating cherry-picked benchmarks, they normally fall short in real-world gaming performance. Every year, an army of influencers target first-time buyers declaring AMD a godsend for PC gamers. Every year a small percentage of users get duped. Since almost all PC gamers use Steam, the February 2025 Steam statistics are relevant: AMD’s combined market share for discrete 5000/6000/7000 series GPUs is 3%. Meanwhile, Nvidia’s 4060 alone has 9% market share. This reality starkly contrasts with influencer hype. The reason is simple: influencers rarely play games and gamers rarely buy AMD GPUs. Experienced gamers know all too well that high average fps are worthless when they are accompanied with stutters, random crashes, black screens, excessive noise and a limited feature set. It’s notable that AMD’s GPUs have not historically had these problems in consoles because, unlike PCs, consoles operate in a closed environment which is less dependent on robust drivers. Using influencers for hardware performance data is less effective than using foxes to babysit chickens. [Mar '25 GPUPro]
+ 
+ 
+AMD Ryzen 7 9800X3D ₩594,111
+AMD’s 7800X3D and 9800X3D CPUs, priced over $400 USD, are widely marketed as “the best gaming CPUs in the world”. This is demonstrated at low resolutions with a 4090-class GPU. Under cherry-picked cache-bound conditions the X3D chips do excel, but there’s a trade-off: the additional cache results in 6% lower boost clocks and 50% to 80% higher prices than their regular counterparts (9700X and 7700X). As with their Radeon GPUs, AMD is looking to drive demand through advanced marketing rather than delivering real-world performance. While Nvidia has effectively countered AMD’s marketing in the GPU space, Intel's marketers remain asleep (terminally?) at the wheel. Nevertheless, the 13600K and 14600K still deliver almost unparalleled real-world gaming performance for around $200 USD. Spending more on a gaming CPU is often pointless, as games are normally limited by the GPU. Without significant improvements in social media marketing: forums, reddit, youtube etc., Intel now face the very real risk of bankruptcy (third worst-performing S&P500 stock from Jan to Aug 2024). Since this summary was published just two days ago, hundreds of twitter threads, thousands of “pcmasterrace” reddit posts, multiple magazine articles, and several youtube videos have emerged in unanimous support for the $480 USD 9800X3D. All of these supposedly disinterested actors are working the weekend to convince you to pay their favourite billion-dollar brand an extra $280 USD this holiday season. [Nov '24 CPUPro]
+Intel Core Ultra 9 285K ₩679,542
+These early benchmarks, which were probably leaked by marketers, indicate the best-case scenario for Intel’s new Arrow Lake desktop processors. The new chiplet-based design results in around 90 ns of memory latency, compared to around 60 ns on Intel’s 12th, 13th and 14th generations. Consequently, gaming performance on the 200 series (like AMD Ryzen) is susceptible to frame drops. Meanwhile, Intel’s 13600K and 14600K continue to offer almost unparalleled real-world gaming performance for around $200 USD. Spending more money on a gaming CPU is normally a waste of money as games are rarely CPU bound under real-world conditions. Without significant improvements in social media marketing: forums, reddit, youtube etc., Intel now faces the very real risk of bankruptcy (third worst-performing S&P500 stock from Jan to Aug 2024). [Oct '24 CPUPro]
+ 
+1423 Processors Compared
+ 
+Intel Core i5-13600K ₩425,890
+Intel’s 13th gen. Raptor Lake CPUs offer around 10% faster gaming and 45% faster multi-core performance than their predecessors. The new CPUs are compatible with DDR4 memory and Z690/B660 ($150) motherboards. New high-end gaming builders need look no further than the 13600K. The 13600K beats AMD’s flagship 7950X in gaming and almost matches the 7900X in multi-core performance. Extreme workstation users may find value in the 13700K or 13900K. Gamers on a tight budget can save $40 USD with a 13600KF which is a 13600K without integrated graphics. Although Ryzen 7000 has weaker multi-core, weaker single-core, higher platform costs and higher unit prices AMD have a 3D joker up their sleeve (7800X3D est. 2023). Via “Advanced Marketing” on youtube, forums, reddit, and twitter AMD will demonstrate that their upcoming CPU is the “best in the world” and offer “proof” by way of a small handful of obscure workloads. Games that few people play e.g. (Factorio, SotTR) will be cherry picked, video footage of the gameplay/settings won’t be provided and frame drops will be conveniently ignored. This playbook has easily outsold Intel in recent years but with every overhyped release, consumers lose trust in AMD. Based on social media/press coverage, you would never guess that the combined market share for all of AMD’s Radeon 5000 and 6000 GPUs amongst PC gamers is just 2.12% (Steam stats). Meanwhile Nvidia’s RTX 2060 alone accounts for a whopping 5.03%. Largely thanks to marketing incompetence, Intel is existentially motivated to deliver material annual performance improvements. Consumers can look forward to Meteor Lake (14th gen) in less than a years time. [Oct '22 CPUPro]
+AMD Ryzen 5 9600X ₩261,676
+The Ryzen 9000 CPUs have the same integrated graphics, PCIe lanes, USB support and DRAM controller as the Ryzen 7000 series. The only difference is improved cores which have moved from TSMC's 5 nm process to 4 nm. The new cores offer 15% more performance under cherry-picked conditions but for latency-sensitive workloads, like gaming, they are just few percent faster. The 9600X, 9700X, 9900X, and 9950X are priced at $280, $360, $500, and $650, respectively, making them $80-$200 USD more expensive than the 7000 series. Since the 7000 series flopped (7800X3D somewhat excluded) due to unrealistic pricing, slow boot times, high platform costs and windows gamebar requirements etc., the 9000 series is more or less DOA. When the 9000X3D variants launch (expected in early 2025) gamers who play cache sensitive games such as SoTTR or Factorio with a 4090 and don’t mind frame drops, may find value in the 9800X3D. Meanwhile, Intel’s 12th and 13th gen CPUs continue to offer the best value for money in today’s market. Furthermore, Intel is scheduled to launch Arrow-Lake (est. +10% performance vs 14th gen) and Lunar-Lake (snapdragon competitive x86 battery life) this year, but they face serious challenges due to reliance on marketers who are mostly funded by AMD. Even if Arrow and Lunar Lake deliver stellar performance, without significant improvements in social media marketing: forums, reddit, youtube etc., Intel now face the very real risk of bankruptcy (third worst-performing S&P500 stock from Jan to Aug 2024). [Aug '24 CPUPro]
+ 
+453 Graphics Cards Compared
+ 
+Nvidia RTX 4090 ₩2,598,533
+The RTX 4090 is based on Nvidia’s Ada Lovelace architecture. It features 16,384 cores with base / boost clocks of 2.2 / 2.5 GHz, 24 GB of memory, a 384-bit memory bus, 128 3rd gen RT cores, 512 4th gen Tensor cores, DLSS 3 and a TDP of 450W. Performance gains will vary depending on the specific game and resolution. With a 4090 tier card 1080p in-game fps will often get CPU bottlenecked which prevents the GPU from delivering higher fps. At higher (often sub-optimal) resolutions (1440p, 4K etc) the 4090 will show increasing improvements compared to lesser cards. When fps are not CPU bottlenecked at all, such as during GPU benchmarks, the 4090 is around 75% faster than the 3090 and 60% faster than the 3090-Ti, these figures are approximate upper bounds for in-game fps improvements. The fact that the 4090 is currently the fastest performing graphics card available is reflected in its jaw-dropping MSRP of $1,600. Since PC gamers rarely buy AMD GPUs, Nvidia only have themselves to compete with. Surprisingly, $1,600 is actually reasonable value for money, when compared to previous gen. flagship cards. Prospective buyers will need a top of the line system to extract maximum performance from the 4090 and because of its monstrous dimensions, many will also need a new PC case. Consumers that demand value for money, should wait a few more months for the 4060 / 4070 models by which time AMD's 7900 series will also probably be heavily discounted. Alternatively, shoppers looking to buy in the near term should consider the last gen. 3060-Ti, which offers excellent real-world (1080p) performance at a fraction of the price ($400 USD). [Oct '22 GPUPro]
+Nvidia RTX 4060 ₩400,524
+The RTX 4060 is based on Nvidia’s Ada Lovelace architecture. It features 3,072 cores with base / boost clocks of 1.8 / 2.5 GHz, 8 GB of memory, a 128-bit memory bus, 24 3rd gen RT cores, 96 4th gen Tensor cores, DLSS 3 (with frame generation), a TDP of 115W and a launch price of $300 USD. The 4060 is around 20% faster than the 3060 at a 10% lower MSRP and offers similar performance to the 3060-Ti at a 30% lower MSRP. 8GB of memory is more than enough for most gamers, who are best off playing at 1080p. First time buyers tempted to consider the RX 7600 by AMD’s army of Advanced Marketing scammers (youtube, reddit, twitter, forums etc.) should be aware that AMD have a history of releasing benchmark busting, heavily marketed, sub standard products. The 4060 is more power efficient (quieter), has a broader feature set (RT/DLSS 3.0) and offers far better game compatibility (drivers). PC gamers looking to join AMD’s “2%” GPU club (Steam stats: 5000/6000/7000 series combined mkt share) need to work on their critical thinking skills: Influencers (posing as reviewers) are paid handsomely to scam users into buying inferior products. [Jun '23 GPUPro]
+ 
+1095 Solid State Drives Compared
+ 
+WD Black SN850X M.2 1TB ₩191,571
+The WD Black SN850X has a superb consumer performance profile. As well as offering solid burst speeds of 5 GB/s, the SN850X also offers respectable out of cache performance. At current prices (1TB $90 USD, 2TB $145 USD and 4TB $290 USD) the WD Black SN850X is our top value pick at every capacity. [Jun '24 SSDrivePro]
+Samsung 990 Pro M.2 1TB ₩146,845
+The Samsung 990 Pro has a strong consumer performance profile. It offers burst read speeds of 3 GB/s and burst write speeds of 5 GB/s. The 990 Pro also offers respectable out of cache performance. At current prices (1TB $120 USD, 2TB $165 USD and 4TB $320 USD) the Samsung 990 Pro offers worse value for money than the WD Black SN850X. Samsung’s superior SSD technology allowed them to dominate the consumer market since SSDs became mainstream in 2010. However, in today’s market, their technology no longer justifies a price premium. [Jun '24 SSDrivePro]
+ 
+PC CPU GPU SSD RAM HDD USB
+72,154,032 PCs tested
+	
+PC
+Score 	
+PC
+Status
+
+ 6 secs ago
+Skytech KING 95
+	UFO	42%
+
+ 7 secs ago
+ROG STRIX B650E-F GAMING WIF...
+	UFO	69%
+
+ 11 secs ago
+GA-B650 AORUS ELITE AX
+	UFO	58%
+
+ 26 secs ago
+Envy x360 2-in-1 Laptop 14-e...
+	Gunboat	43%
+
+ 27 secs ago
+Gigabyte GA-Z97X-UD3H-CF
+	Aircraft carrier	38%
+
+ 39 secs ago
+GA-Z390 I AORUS PRO WIFI-CF
+	UFO	69%
+
+ 43 secs ago
+PRO B840-VC WIFI (MS-7E57)
+	UFO	34%
+
+ 48 secs ago
+Dell OptiPlex 7050
+	Battleship	69%
+
+ 55 secs ago
+GA-X870 AORUS ELITE WIFI7 IC...
+	UFO	80%
+
+ 1 min ago
+Asus ROG STRIX Z390-F GAMING
+	UFO	66%
+
+ 1 min ago
+ROG STRIX X870E-E GAMING WIF...
+	UFO	46%
+
+ 1 min ago
+ABS Gaming PC
+	UFO	40%
+
+ 1 min ago
+Asus PRIME B840-PLUS WIFI
+	UFO	73%
+
+ 1 min ago
+MPG X870E CARBON WIFI (MS-7E...
+	UFO	84%
+
+ 1 min ago
+Lenovo 83RU
+	Nuclear submarine	49%
+
+ 1 min ago
+GA-B650 GAMING X AX V2
+	UFO	56%
+
+ 1 min ago
+ROG STRIX Z790-E GAMING WIFI
+	UFO	59%
+
+ 2 mins ago
+Gigabyte GA-H87M-D3H
+	Aircraft carrier	53%
+
+ 2 mins ago
+B450 TOMAHAWK MAX (MS-7C02)
+	Nuclear submarine	66%
+
+ 2 mins ago
+Gigabyte GA-Z790 UD AX
+	UFO	49%
+TEST
+YOUR PC
+VOTES
+↑  Nvidia GTX 1080-Ti
+USA-User, 1 min ago.
+
+↑  Vengeance LPX DDR4 3200 C16 ...
+USA-User, 15 mins ago.
+
+↑  Nvidia RTX 3060
+USA-User, 24 mins ago.
+
+↑  Nvidia GTX 1080-Ti
+AUS-User, 43 mins ago.
+
+↑  AMD Ryzen 5 9600X
+USA-User, 1 hr ago.
+
+↑  AMD Ryzen 7 5800X
+GBR-User, 1 hr ago.
+
+↑  Nvidia RTX 5060
+CAN-User, 1 hr ago.
+
+↑  Nvidia RTX 5060
+USA-User, 1 hr ago.
+
+↓  Nvidia RTX 5070-Ti
+CAN-User, 1 hr ago.
+
+↑  Nvidia RTX 5070-Ti
+USA-User, 1 hr ago.
+
+↑  AMD Ryzen 5 5600X
+IRN-User, 2 hrs ago.
+
+↓  Intel Core i5-13600K
+IRN-User, 2 hrs ago.
+
+↓  Intel Core i5-12400F
+IRN-User, 2 hrs ago.
+
+↑  AMD Ryzen 5 3600
+IRN-User, 2 hrs ago.
+
+↓  Intel Core i5-12600K
+IRN-User, 2 hrs ago.
+
+↓  Intel Core i7-14700K
+IRN-User, 2 hrs ago.
+
+↑  AMD Ryzen 7 9800X3D
+IRN-User, 2 hrs ago.
+
+↓  Intel Core i5-14600K
+IRN-User, 2 hrs ago.
+NEW PRODUCTS
+›  AMD Ryzen 7 9800X3D
+CPUPro, 13 days ago.
+
+›  WD Black SN8100 M.2 1TB
+SSDrivePro, 1 month ago.
+
+›  WD Black SN8100 M.2 4TB
+SSDrivePro, 1 month ago.
+
+›  WD Black SN8100 M.2 2TB
+SSDrivePro, 1 month ago.
+
+›  Nvidia RTX 5050
+GPUPro, 5 months ago.
+
+›  Nvidia RTX 5060
+GPUPro, 7 months ago.
+
+›  Nvidia RTX 5060-Ti
+GPUPro, 8 months ago.
+
+›  Nvidia RTX 5070
+GPUPro, 9 months ago.
+
+›  Nvidia RTX 5070-Ti
+GPUPro, 10 months ago.
+
+›  Nvidia RTX 5090
+GPUPro, 11 months ago.
+
+›  Nvidia RTX 5080
+GPUPro, 11 months ago.
+
+›  Samsung 990 Evo Plus M.2 4TB
+SSDrivePro, 13 months ago.
+
+›  Samsung 990 Evo Plus M.2 2TB
+SSDrivePro, 13 months ago.
+
+›  Samsung 990 Evo Plus M.2 1TB
+SSDrivePro, 13 months ago.
+
+›  Intel Core Ultra 7 265K
+CPUPro, 14 months ago.
+
+›  Intel Core Ultra 5 245K
+CPUPro, 14 months ago.
+
+›  Intel Core Ultra 9 285K
+CPUPro, 14 months ago.
+
+›  AMD Ryzen 9 9950X
+CPUPro, 16 months ago.
+
+›  AMD Ryzen 9 9900X
+CPUPro, 16 months ago.
+ Why does UserBenchmark have a bad reputation on reddit?
+ Why does UserBenchmark need so many captchas?
+ Why don’t youtubers promote UserBenchmark?
+ Why does UserBenchmark have negative trustpilot reviews?
+ Why is UserBenchmark the gold standard for users?
+The Best
+CPU	GPU	SSD
+AMD Ryzen 5 9600X $196	Nvidia RTX 5060 $270	WD Black SN8100 M.2 2TB $259
+AMD Ryzen 7 9800X3D $445	Nvidia RTX 5060-Ti $340	WD Black SN850X M.2 2TB $240
+Intel Core i5-14600K $335	Nvidia RTX 5070 $540	WD Black SN8100 M.2 4TB $550
+Today's hottest 
+Amazon 
+Ebay 
+ deals 
+CPU	GPU	SSD	HDD	USB	RAM	MBD
+If you buy something via a price link, UserBenchmark may earn a commission
+Build 
+Test 
+EFps
+Can You Run It?
+►
+
+YouTube
+*NEW*	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+About  •  User Guide  •  FAQs  •  Email  •  Privacy  •  Developer  •  YouTube
+ Feedback

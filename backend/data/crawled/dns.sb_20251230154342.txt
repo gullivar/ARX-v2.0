@@ -1,0 +1,75 @@
+You are not using DNS.SB :( Your ISP can monitor and track your DNS requests.
+
+IP: 59.15.130.228Location: South KoreaISP: KT
+
+Skip to Content
+DNS.SB
+Why DNS.SB
+Using DNS.SB
+DNS over TLS
+DNS over HTTPS
+FAQ
+About
+⌘
+K
+System
+Copy page
+Browse Internet,
+Faster
+ and More Private
+
+Tailor your internet experience to meet your needs with DNS.SB's extremely fast and stable DNS resolver services.
+
+185.222.222.222
+Privacy First: Guaranteed
+
+DNS.SB believes that without privacy, there is no human dignity. DNS.SB is designed with one goal in mind: to protect your personal DNS data—no logs, forever.
+
+We don’t want to know what you do on the Internet. And we’ve taken the technical steps to ensure we can’t.
+
+Easy to Remember, Just like Tic-Tac-Toe
+
+We have the shortest IPv6 address in the world.
+Damn, we actually have two of them.
+
+Our IPv4 addresses are also very easy to remember.
+
+185.222.222.222
+
+45.11.45.11
+
+2a09::
+
+2a11::
+
+Speed Is the Key
+
+Since nearly everything you do on the Internet starts with a DNS request, a fast, performant DNS can accelerate almost everything you do online.
+
+Built on top of xTom's massive global anycast network, DNS.SB operates at 30 locations across 6 continents, resolving queries from anywhere in the world.
+
+Your DNS, Now Encrypted
+
+Ensuring secure navigation with key controls built into the service to protect you from threats online and potential prying eyes.
+
+Encrypted DNS services increase user privacy and security by preventing eavesdropping and manipulation of DNS data via man-in-the-middle attacks.
+
+DNS over HTTPS
+
+Performing remote DNS resolution via the encrypted HTTPS protocol
+
+DNS over TLS
+
+Encrypting and wrapping DNS queries and answers via the TLS protocol
+
+Browse a faster, more private Internet.
+Get Started
+Last updated on December 21, 2025
+Terms of Services
+Privacy Policy
+Sponsors
+Contact Us
+X
+GitHub
+Mastodon
+Copyright © 2019 - 2025 xTom | Impressum | All rights reserved.

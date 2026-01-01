@@ -1,0 +1,40 @@
+Security
+Sicherheitsüberprüfung
+
+Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem Roboter gesendet werden.
+
+Bitte klicken Sie hier, wenn Sie kein Roboter sind.
+
+
+
+Security Check
+
+Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.
+
+Please click here to verify that you are not a bot.
+
+ 
+
+Browser
+Working
+
+ 
+
+Myra
+Working
+
+Host
+Working
+
+What happened?
+
+You ran into a security check to verify the validity of your request.
+
+What can I do?
+If you are a visitor of this website:
+
+You must confirm that you are human.
+
+If you are the owner of this website:
+
+Please check your security settings.

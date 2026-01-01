@@ -1,0 +1,130 @@
+Skip to content
+ 
+
+discover. interact. personalize.
+
+Home
+ 
+Use Cases
+Market Overview
+Occupancy & User Presence
+QuickSet for TV
+QuickSet For Set-top Box
+QuickSet for Smart Home Hubs & Assistants
+ 
+Product
+QuickSet®
+QuickSet Technology
+QuickSet In Action
+nevo®
+nevo.ai
+Nevo Butler
+Virtual Tour
+Nevo Butler Kits
+Evolution of nevo
+Evolution Of Nevo SL
+NevoStudio
+QuickSet® homeSense
+QuickSet® Widget
+Virtual Agent
+Device Knowledge Graph
+Media
+ 
+Developers
+ 
+Blog
+ 
+Works with QuickSet®
+Scroll down to content
+Smart Home Interoperability, Occupancy & Presence Detection, Entertainment Control and Content Services - For Connected TV, Energy Management and Home Automation Device Manufacturers
+DEVICE DISCOVERY
+
+Powered by a comprehensive device knowledge graph, automatically discovers devices in the home and uncovers information such as type, brand, model details, and control information. Recognition is done using device fingerprints across popular networks in the home including HDMI video networks, IP networks such as Wi-Fi, and other wireless networks used for entertainment control and home automation such as Zigbee rf4ce.
+
+INTEROPERABILITY
+
+Delivered as a managed service, breaks down the boundaries between entertainment and home automation devices. Interoperability is now a key factor in purchase decisions. Works across brands with what consumers care about, interacts with virtually every device within the home through a single point ( a universal remote control, a voice assistant, or a mobile application), enabled across multiple control mediums and protocols.
+
+DEVICE MANAGEMENT
+
+QuickSet Cloud  and native QuickSet SDKs deliver a complete framework for IoT Edge connectivity and management including secure cloud communications, remote access, offline scripting, rules and templates, and management dashboard modules. Network device cataloging and expanded monitoring capabilities also address the missing features in technical support tools.
+
+Products
+
+QuickSet is Universal  Electronics’  software product family and the de facto solution for simplifying universal discovery, control, and interaction of devices within the home. First introduced in September 2009, QuickSet solution is a widely deployed technology powering major consumer electronic brands including set-top boxes,  televisions, gaming consoles, smartphones, and tablets to enable effortless configuration and control of nearly any connected home entertainment device as well as an expanding range of popular home automation devices.
+
+QuickSet Cloud takes advantage of scalability and infinite processing power of the cloud platform. QuickSet discovery and control capabilities are available as simple web-based APIs enabling flexible integration, including server-to-server for cloud video delivery platforms, resource-constrained IoT devices, and cross-platform mobile applications. With a near real-time update cycle and access to the full device knowledge graph, this solution provides the best coverage, up-to-date features and highest accuracy.
+
+Learn More >
+
+Native QuickSet SDKs jump-start the application development for mainstream platforms by offering QuickSet features as easy-to-integrate embedded APIs that perform complex logic in the background. Supports a range of  platforms including Linux, Android, as well as optimized services for RDK and Android TV platforms. Built using QuickSet engines and leveraging QuickSet Cloud, it enables manufacturers and providers to build the best smart home and TV watching experience for consumers.
+
+Learn More >
+
+nevo® is a digital assistant platform optimized for smart home applications, powered by QuickSet Cloud and offered as a white label solution to accelerate introduction of new services.
+
+Learn More >
+
+QuickSet homeSense is a software solution designed to enable any smart device to learn and adapt to the home environment. By turning existing radios in a device into sensors, it monitors the home environment to detect anomalies and recognize patterns including home occupancy, user presence and movement, and much more.
+
+Learn More >
+
+Nevo Butler
+A NEW KIND OF SMART HOME HUB WITH BUILT-IN NEVO.AI DIGITAL ASSISTANT
+QuickSet Solutions
+QUICKSET FOR TV
+
+QuickSet enables a Smart TV to automatically discover the content source devices and display them as another app or channel, and direct tune into content with a single touch. A Smart TV can also discover an expanded set of meta data from devices to provide a personalized experience, and interact with other smart home devices.
+
+Read More >
+
+QUICKSET FOR SET-TOP BOX
+
+QuickSet enabled set-top boxes remove the friction for the consumers to start watching TV without the overwhelming number of manual steps. With a single keypress or spoken command, it takes them to the desired content source, aka  One Touch View. A set-top box can also act as a hub to access smart home devices combined with the entertainment service to provide a unified experience.
+
+Read More >
+
+QUICKSET FOR VOICE ASSISTANTS & HUBS
+
+QuickSet addresses fundamental shortcomings of today's voice assistants by providing the much-needed compatibility and context as it relates to existing installed base of devices within the home and their current status, such that a spoken word can take users to their desired content by putting the entire system in the configuration necessary to achieve that. As an example a ‘Watch Netflix’ command will turn on the TV, switch the input to the proper content source, launch Netflix application, and set lighting in the room to the movie scene.
+
+Read More >
+
+SUCCESSFUL DEPLOYMENTS ACROSS USE CASES, DEVICE TYPES, OPERATING SYSTEMS, AND ARCHITECTURES...
+
+QuickSet powers over 500 Million devices globally
+
+ 
+
+Run rate of 67 Billion transactions on QuickSet Cloud per year and growing
+
+123456789101112
+WANT TO ENSURE COMPATIBILITY WITH THE GROWING LIST OF QUICKSET POWERED DEVICES?
+
+Works with QuickSet is a certification program for entertainment and smart home device manufacturers who want to ensure compatibility for their products in the home, and generate new revenue opportunities by expanding product offerings into new channels.
+
+Learn More >
+
+OPENING THE DOOR TO MILLIONS OF HOMES TO EXPERIENCE SMART HOME FOR THE FIRST TIME
+
+Works with QuickSet is a curated ecosystem blending the entertainment and smart home experiences. Ensuring a product is compatible with what consumers already have in their home including existing smart home hubs and entertainment devices like a smart speaker as well as those Powered by QuickSet.
+
+Become part of our Works with QuickSet ecosystem.
+
+
+What are you waiting for? Get started today!
+Blend your Smart Home product with the entertainment experience on the big screen
+Remove friction from using your entertainment product with leading brands
+
+Unlock new distribution channels, bundling and revenue potential
+
+We do the heavy lifting, no applications to develop and maintain
+
+Increase global reach and first time users being introduced to smart home
+
+Universal Electronics Inc. has been at the forefront of developing entertainment and smart home control technologies for over three decades. We were the first to introduce voice-enabled remote control technology and advanced features such as automated setup and universal control of connected devices through our award-winning QuickSet® Cloud platform. Works with QuickSet is a curated ecosystem for entertainment and smart home device manufacturers including leading global brands such as Samsung, Sony and LG.
+
+Developer Portal
+Everything you need to start building better products with QuickSet
+Developer Portal
+Privacy Policy

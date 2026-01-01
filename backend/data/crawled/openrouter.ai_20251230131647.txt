@@ -1,0 +1,164 @@
+Introducing Structured Output Response Healing: Learn More
+Skip to content
+OpenRouter
+/
+Models
+Chat
+Rankings
+Enterprise
+Pricing
+Docs
+Sign up
+The Unified Interface For LLMs
+
+Better prices, better uptime, no subscriptions.
+
+Get API Key
+Explore Models
+
+25T
+
+Monthly Tokens
+
+5M+
+
+Global Users
+
+60+
+
+Active Providers
+
+500+
+
+Models
+
+One API for Any Model
+
+Access all major models through a single, unified interface. OpenAI SDK works out of the box.
+
+Browse all
+anthropic/claude-opus-4.5
+Higher Availability
+
+Reliable AI models via our distributed infrastructure. Fall back to other providers when one goes down.
+
+Learn more
+Price and Performance
+
+Keep costs in check without sacrificing speed. OpenRouter runs at the edge for minimal latency between your users and their inference.
+
+Learn more
+Custom Data Policies
+
+Protect your organization with fine grained data policies. Ensure prompts only go to the models and providers you trust.
+
+View docs
+Featured Models
+
+500+ active models on 60+ providers
+
+View all
+Claude Opus 4.5
+
+by anthropic
+
+Tokens
+193.6B
+Weekly Trend
+-16.85%
+GPT-5.2
+
+by openai
+
+Tokens
+80.4B
+Weekly Trend
+-45.08%
+Gemini 3 Pro Preview
+
+by google
+
+Tokens
+107.6B
+Weekly Trend
+-30.56%
+Featured Agents
+
+250k+ apps using OpenRouter with 4.2M+ users globally
+
+View all
+Replit
+
+The easiest way to go from idea to app
+
+BLACKBOXAI
+
+AI agent for builders
+
+Kilo Code
+
+Everything you need for agentic development
+
+1
+Signup
+
+Create an account to get started. You can set up an org for your team later.
+
+2
+Buy credits
+
+Credits can be used with any model or provider.
+
+Apr 1
+$99
+Mar 30
+$10
+3
+Get your API key
+
+Create an API key and start making requests. Fully OpenAI compatible.
+
+OPENROUTER_API_KEY
+••••••••••••••••
+Explore Models
+
+Discover AI models across our collection, from all major labs and providers.
+
+View models
+Model & App Rankings
+
+Explore token usage across models, labs, and public applications.
+
+View rankings
+Recent Announcements
+View all
+Distillable Models and Synthetic Data Pipelines with NeMo Data Designer
+
+How to generate license-safe synthetic data workflows for model specialization
+
+12/24/2025
+New
+Response Healing: Reduce JSON Defects by 80%+
+
+Today we're launching Response Healing, a new feature on OpenRouter that automatically fixes malformed JSON responses from LLMs before they reach your application
+
+12/18/2025
+New
+The 2025 State of AI Report
+
+Introducing the 2025 State of AI report, in partnership with a16z. The largest empirical look yet at how developers and organizations use language models in the real world.
+
+12/4/2025
+Status
+Announcements
+Docs
+Support
+About
+Partners
+Enterprise
+Careers
+Pricing
+Privacy
+Terms
+ 
+© 2025 OpenRouter, Inc

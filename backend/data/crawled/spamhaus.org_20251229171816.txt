@@ -1,0 +1,129 @@
+Resources
+Reputation Data
+About Us
+Threat Intel Community
+Free Datasets and Tools
+Strengthening trust and safety across the internet
+
+Spamhaus Project is the authority on IP and domain reputation. This intelligence enables us to shine a light on malicious activity, educate and support those who want to change for the better and hold those who don't to account. We do this together with a like-minded community.
+
+7,500,000
+IPs analyzed every 24 hours
+3,000,000
+Domains processed every 24 hours
+4,500,000,000
+Protected User Mailboxes
+1,500
+Active botnet command and controllers detected
+Global internet traffic changes daily, as do the activities of adversaries. These statistics are indicators based on daily averages; actual daily figures will fluctuate.
+Are you
+Listed
+in one of Spamhaus' blocklists
+?
+
+Do you have problems sending email? Do you need to check if an IP address or domain name is on one of our blocklists?
+
+Submit malicious activity
+to the Threat Intel Community Portal
+
+Be part of our community; share IPs, domains, URLs or raw source of potentially malicious activity or threats.
+
+Submit
+Spotlight on Spamhaus data reputation statistics
+Last updated: 19th December 2025
+ccTLDs
+Most improved
+.ge
+-62%
+Largest % decrease in malicious domains
+Least improved
+.ir
++172%
+Largest % increase in malicious domains
+December 2025
+Registrars
+Most improved
+成都飞数科技有限公司
+-58%
+Largest % decrease in phishing domains
+Least improved
+Metaregistrar BV
++226%
+Largest % increase in phishing domains
+December 2025
+Countries
+Most improved
+Estonia
+-80%
+Hosting botnet command and controllers
+Least improved
+Slovenia
++900%
+Hosting botnet command and controllers
+December 2025
+Networks
+Most improved
+amazon.com
+-61%
+Largest decrease in exploited IPs
+Least improved
+plainproxies .com
++1,565%
+Largest increase in exploited IPs
+December 2025
+gTLDs
+Most improved
+.icu
+-40%
+Largest % decrease in spam-related domains
+Least improved
+.wiki
++111%
+Largest % increase in spam-related domains
+December 2025
+View ranking charts
+News feed
+10 days ago
+12 days ago
+13 days ago
+14 days ago
+18 days ago
+View more
+Follow us
+
+Resources
+
+Resource Hub
+Events
+FAQs
+Glossary
+
+Reputation Data
+
+About the Research
+Reputation Statistics
+
+About Us
+
+Who Is Spamhaus?
+History
+Media Centre
+Affiliates
+Contact Us
+
+Threat Intel Community
+
+Community Home
+Guest Submission
+Login
+
+Free Datasets and Tools
+
+Blocklists
+Commercial Datasets
+Network Protection
+Reputation Checker
+Privacy Notice
+Cookie Policy
+Terms & conditions
+Site map

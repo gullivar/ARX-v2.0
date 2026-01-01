@@ -1,0 +1,146 @@
+Free IP API Documentation Pricing Status Rate Limit Contact Blog Login Docs Pricing Status Rate Limit Blog Contact Login Free IP API Free, Fast and Reliable IP Geolocation API Easy to use and available in JSON and XML formats. Card JSON Version IP Geo Location Country Name Country Code Capital new Phone Codes new Timezones Zip Code City Region Region Code new Continent Continent Code Currencies Languages ASN new ASN Organization new Proxy Get unlimited access Documentation Features Explore our comprehensive suite of APIs designed to provide accurate and reliable geolocation data
+                    and related information for your applications. IP Geolocation Get detailed geolocation information for any IPv4 or IPv6 address. Includes country, city, region,
+                    coordinates, timezone, currency, and more. Available in JSON and XML formats. Countries API Access comprehensive country information including name, code, capital, and more. Query all
+                    countries or get details for a specific country by code. Phone Codes Get international dialing codes for countries worldwide. Retrieve all phone codes or look up
+                    specific codes by country. Essential for international communication features. Timezones Query timezone information for any location. Get timezone offset, abbreviation, and DST information.
+                    Perfect for scheduling and time conversion applications. Distance Calculator Calculate the distance between two IP addresses' geographic coordinates. Returns distance in
+                    kilometers and miles. Useful for location-based services and proximity calculations. Proxy Detection Detect if an IP address is using a proxy, VPN, or hosting service. Enhance security and prevent
+                    fraud with accurate proxy detection included in geolocation responses. Bulk IP Lookup Process multiple IP addresses in a single request (up to 50 IPs). Perfect for batch operations,
+                    analytics, and processing large datasets efficiently. Languages API Access language information by country or language code. Discover which countries use specific
+                    languages. Essential for internationalization and localization projects. How it works? FreeIPAPI is a free service for commercial and non-commercial uses. We're using multiple data sources and various ways of calculations, to provide this API. Since we're running servers to provide this
+                    service, to prevent heavy loads on our servers we apply a limit of 60 requests per minute. However,
+                    if you need more, you can subscribe to our paid plan. How to use? The API accepts GET and POST methods and you can pass ip field as body or query param. However, If
+                    you don't pass the ip field we'll use the sender's ip address to extract the information. Here you
+                    can find some sample codes to use it however, you can read our documentation PHP Curl Python Java JS (Node.js) JS (JQuery) Go Ruby C# Rust <?php
+
+$ipAddress = "{IP-ADDRESS}";
+$url = "https://free.freeipapi.com/api/json/$ipAddress";
+
+$response = file_get_contents($url);
+$data = json_decode($response, true);
+
+print_r($data); # Get the ip info
+curl https://free.freeipapi.com/api/json/1.1.1.1
+
+# Get only public ip address
+curl https://free.freeipapi.com import requests
+
+ip_address = "{IP-ADDRESS}"
+url = f"https://free.freeipapi.com/api/json/{ip_address}"
+
+response = requests.get(url)
+data = response.json()
+
+print(data) import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        String ipAddress = "{IP-ADDRESS}";
+        String urlString = "https://free.freeipapi.com/api/json/" + ipAddress;
+
+        URL url = new URL(urlString);
+        HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+        connection.setRequestMethod("GET");
+
+        BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
+        StringBuilder response = new StringBuilder();
+        String line;
+        while ((line = reader.readLine()) != null) {
+            response.append(line);
+        }
+        reader.close();
+
+        System.out.println(response.toString());
+    }
+} const axios = require('axios');
+
+const ipAddress = "{IP-ADDRESS}";
+const url = `https://free.freeipapi.com/api/json/${ipAddress}`; // to get specific ip's info
+// const url = `https://free.freeipapi.com/api/json`; // to get current request's ip info
+
+axios.get(url)
+    .then(response => {
+        const data = response.data;
+        console.log(data);
+    })
+    .catch(error => {
+        console.error(error);
+    }); const url = `https://free.freeipapi.com/api/json`; // get current request's ip info
+
+$.get(url, function (data) {
+    console.log(data);
+}); package main
+
+import (
+	"fmt"
+	"io/ioutil"
+	"net/http"
+)
+
+func main() {
+	ipAddress := "{IP-ADDRESS}"
+	url := fmt.Sprintf("https://free.freeipapi.com/api/json/%s", ipAddress)
+
+	response, err := http.Get(url)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	defer response.Body.Close()
+
+	body, err := ioutil.ReadAll(response.Body)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	fmt.Println(string(body))
+} require 'net/http'
+require 'json'
+
+ip_address = "{IP-ADDRESS}"
+url = URI.parse("https://free.freeipapi.com/api/json/#{ip_address}")
+http = Net::HTTP.new(url.host, url.port)
+http.use_ssl = true
+
+request = Net::HTTP::Get.new(url.request_uri)
+response = http.request(request)
+data = JSON.parse(response.body)
+
+puts data using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+
+class Program
+{
+    static async Task Main()
+    {
+        string ipAddress = "{IP-ADDRESS}";
+        string url = $"https://free.freeipapi.com/api/json/{ipAddress}";
+
+        using (HttpClient client = new HttpClient())
+        {
+            HttpResponseMessage response = await client.GetAsync(url);
+            string responseBody = await response.Content.ReadAsStringAsync();
+
+            Console.WriteLine(responseBody);
+        }
+    }
+} use reqwest;
+
+#[tokio::main]
+async fn main() -> Result<(), Box> {
+    let ip_address = "{IP-ADDRESS}";
+    let url = format!("https://free.freeipapi.com/api/json/{}", ip_address);
+
+    let response = reqwest::get(&url).await?.text().await?;
+    println!("{}", response);
+
+    Ok(())
+} Pricing FreeIPAPI is still FREE with no account required! We're introducing subscriptions for users who want
+                    to increase the request limit to more than 60 requests per minute Free €0 / Month 60 Requests per minute IPv4 and IPv6 Regularly updated database Commercial use allowed TLS/SSL support Servers in Europe only IP & Domain White Listing API Keys Bulk IP Lookups Email Support Documentation Unlimited €9.90 / Month Unlimited Requests per minute IPv4 and IPv6 and other APIs Regularly updated database Commercial use allowed TLS/SSL support Servers across the world IP & Domain White Listing API Keys Bulk IP Lookups Email Support Subscribe Unlimited Yearly 2 months free €99.00 / Year Unlimited Requests per minute IPv4 and IPv6 and other APIs Regularly updated database Commercial use allowed TLS/SSL support Servers across the world IP & Domain White Listing API Keys Bulk IP Lookups Email Support Subscribe Browser Extensions We have browser extensions for most of the popular browsers, This is the easiest way you can find
+                    information about your IP address without visiting the website or using the API. Chrome Firefox Edge Brave Opera All rights reserved © 2025 Privacy Terms of Use Rate Limit X This website is using cookies OK Read more

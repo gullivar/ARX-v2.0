@@ -1,0 +1,93 @@
+首頁
+礦池
+搜 索
+幣種
+	
+活躍礦工
+	
+獎勵
+	
+工作量
+	
+礦池算力
+	
+全網算力
+	
+區塊數量
+	
+收益率
+
+No Data
+
+探索
+
+讓宇宙不再神秘
+
+產品
+C3Pool 礦池
+幫助
+更多使用教程
+關於
+關於我們隱私政策服務協議免責聲明
+合作機構
+MinerBoxXeggex记账宝SoonBlog
+繁體中文
+
+© 2018-2024 C3Pool INC. All rights reserved.
+
+矿池信息/Pool Info
+loading...
+新功能上线：支持USDT(TRC20)地址挖矿
+New Feature: USDT(TRC20) Address Mining Support
+1 / 2
+🎉 重大功能更新！/ Major Feature Update!
+✨ 新增功能 / New Feature:
+
+💰 USDT(TRC20)地址挖矿支持 / USDT(TRC20) Address Mining Support:
+现已支持使用USDT(TRC20)地址进行挖矿！
+Now supporting mining with USDT(TRC20) addresses!
+
+⚡ 自动转换功能 / Auto Conversion:
+挖矿收益将自动转换为USDT(TRC20)支付给您！
+Mining rewards will be automatically converted to USDT(TRC20) for payment!
+
+🚀 如何使用 / How to Use:
+
+1. 在矿池配置中，使用您的USDT(TRC20)钱包地址替代传统钱包地址
+In pool configuration, use your USDT(TRC20) wallet address instead of traditional wallet address
+
+2. 矿池地址保持不变：auto.c3pool.org:19999
+Pool address remains unchanged: auto.c3pool.org:19999
+
+3. 系统将自动识别USDT(TRC20)地址并进行相应处理
+System will automatically recognize USDT(TRC20) addresses and process accordingly
+
+💡 优势特点 / Advantages:
+
+• 稳定币收益，避免币价波动风险
+• Stablecoin rewards, avoiding price volatility risks
+
+• 支付更加便捷，全球通用
+• More convenient payments, globally accepted
+
+• 自动转换，无需手动操作
+• Automatic conversion, no manual operation required
+
+技术支持 / Technical Support:
+如有任何问题，请联系 support@c3pool.com
+For any questions, please contact support@c3pool.com
+
+体验稳定币挖矿的便利！/ Experience the convenience of stablecoin mining!
+
+不再显示此公告
+下一个 立即体验 / Try Now
+
+
+
+提示
+
+本人在此確認並申明:本人非古巴、伊朗、朝鮮、敘利亞以及其他受到相關國家或政府或國際機構管理或執行的制裁的國家或地區居民。C3Pool提供的礦池服務在本人所在的國家或地區是符合法律法規和相關政策的
+
+ 由於本人所在的國家或地區使用C3Pool提供的服務系違法導致的所有法律風險和責任將完全由本人獨立承擔。
+
+確 認

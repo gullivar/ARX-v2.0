@@ -1,0 +1,31 @@
+Apple Developer
+News
+Discover
+Design
+Develop
+Distribute
+Support
+Account
+WeatherKit
+Overview
+Get started with WeatherKit
+
+WeatherKit brings valuable weather information to your apps and services through a wide range of data that can help people stay up to date, safe, and prepared. It’s easy to use WeatherKit in your apps on Apple platforms with a Swift API, and on any other platform with a REST API.
+
+Powered by Apple Weather
+
+WeatherKit is powered by the Apple Weather service, a state-of-the-art global weather forecast that provides all of the data you need to power your app with timely, hyperlocal weather information. This enables your app to offer current weather conditions and 10-day hourly forecasts for temperature, precipitation, wind, UV Index, and more. Minute-by-minute precipitation for the next hour and severe weather alerts are available for select regions.
+
+Easy to use
+
+WeatherKit includes a Swift API that leverages modern Swift syntax. And with Swift concurrency, it’s easy to request weather data with just a few lines of code. WeatherKit is also customizable, so you can request just the data you need. And because WeatherKit is built on time-tested Foundation and CoreLocation APIs, it’s simple to format measurements, convert units, and get location information.
+
+Privacy first
+
+In keeping with Apple’s commitment to privacy, WeatherKit is designed to give hyperlocal forecasts without compromising user data. Location information is used only to provide weather forecasts, is not associated with any personally identifiable information, and is never tracked between requests.
+
+What’s new
+Add details to the daily forecast, including snowfall total, sleet total, maximum and minimum visibility, and forecasts for daytime and overnight.
+Add cloud cover percentage by cloud layer to the current weather forecast.
+Provide additional context to current weather with comparisons to historical averages.
+Help users better prepare for tomorrowʼs weather with information about s

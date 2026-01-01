@@ -1,0 +1,162 @@
+×
+
+We use cookies to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media and analytics partners. Details here.
+
+Send feedback
+Forums
+Help
+Blog
+Pricing & signup
+Log in
+Host, run, and code Python in the cloud!
+
+Get started for free. Our basic plan gives you access to machines with a full Python environment already installed. You can develop and host your website or any other code directly from your browser without having to install software or manage your own server.
+
+Need more power? Upgraded plans start at $5/month.
+
+Start running Python online in less than a minute! »
+
+
+Watch our short video »
+
+Not convinced? Read what our users are saying!
+
+Start hosting quickly
+
+Just write your application. No need to configure or maintain a web server — everything is set up and ready to go.
+
+More »
+
+Develop anywhere
+
+Take your development environment with you! If you have a browser and an Internet connection, you've got everything you need.
+
+More »
+
+Teach and learn
+
+PythonAnywhere is a fully-fledged Python environment, ready to go, for students and teachers — concentrate on teaching, not on installation hassles.
+
+More »
+
+Amazing support
+
+Need help with PythonAnywhere? If you get in touch, you can talk directly with the development team. Help for developers, from developers.
+
+More »
+
+Get a Python website in minutes
+
+We make a normally complicated process very simple, letting you focus on creating exciting applications for your users. Launching a new Django project is a simple process taking just a couple of minutes. No need to manage a web server or maintain a Linux machine. No need to install security patches. It just works.
+
+Your choice
+
+We have quickstart installers for Django, web2py, Flask, and Bottle — we can also handle any other WSGI web framework that you want to use, and it's probably already installed.
+
+Absolutely loving PythonAnywhere — it's been a total game changer for us! We're Python developers building AI apps, and we're using PythonAnywhere to host our Flask API app. ... We're genuinely impressed with the platform, and it's accelerating our development and capabilities tenfold. We'll definitely continue migrating more of our processes over to PythonAnywhere.
+
+Eddie Baliviera, Caelus Labs
+
+13 January 2025
+
+Your website
+
+Want to host your own domain at PythonAnywhere? Our paid accounts do that for you. And free users don't get left out — http://yourusername.pythonanywhere.com/ works for everyone.
+
+Easy scaling
+
+A $5 Hacker account at PythonAnywhere can easily support a 10,000 hit/day website. But when your site grows and you need to support 100 times that traffic, we're still there — you just need to upgrade your account.
+
+Sign up and try it out! »
+
+Python coding on the web: 44,245,850 consoles served!
+
+PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session from any modern web browser. There's storage space on our servers, and you can preserve your session state and access it from anywhere, with no need to pay for, or configure, your own server. Start work on your work desktop, then later pick up from where you left off by accessing exactly the same session from your laptop.
+
+Sign up and try it out! »
+
+PythonAnywhere is the perfect fit for us as we want to scale up our SaaS product as more customers are arriving. The server is super easy to set up and there are plenty of blog posts for when you get stuck.
+
+Teun Kortekaas
+
+5 September 2023
+
+Batteries included
+
+With Python versions 2.7, 3.6, 3.7, 3.8, 3.9 and 3.10, and all the goodies you normally find in a Python installation, PythonAnywhere is also preconfigured with loads of useful libraries, like NumPy, SciPy, Mechanize, BeautifulSoup, pycrypto, and many others. Check out our full list of batteries included.
+
+Powerful servers
+
+PythonAnywhere runs on super-powerful servers hosted by Amazon EC2, and you can take full advantage of that. Without paying a penny, you can run simple Python programs to help you explore your ideas. For heavy-duty processing, you only pay for what you use, so you can get access to teraflops of power without needing to explain yourself to the electricity company.
+
+Coding on the go
+
+It's hard to write programs or play with ideas on the go. Because PythonAnywhere runs on our servers and displays in your web browser, you can write Python applications from your iPad, phone, or smart TV just as easily as you can from your computer. It works on the iPad, and we are in beta for Android devices.
+
+Your files, everywhere
+
+It's easy to get your stuff into and out of PythonAnywhere — you can upload and download files from our web UI, or bring up a command line to work with your git, mercurial or subversion projects from GitHub, Bitbucket, or from any public source code repository. With 512Mb of free disk space, you don't need to worry about running out of space. And paying users can get more space, and use scp and SFTP.
+
+Simple automation
+
+Use PythonAnywhere's scheduled tasks to run your Python scripts periodically. Scrape websites, archive tweets, connect back to your home automation system to turn the toaster on... the choice is yours!
+
+A Python learning environment with everything ready to go
+
+Python is a great language for teaching, but getting it installed and set up on all your students' computers can be less than easy. PythonAnywhere provides an environment that's ready to go — including a syntax-highlighting, error-checking editor, Python 2 and 3 consoles, and a full set of batteries included. Avoid all the hassles of getting Python installed on everyone's laptop, and making sure everyone can pip install all the right packages.
+
+Distributing assignments and monitoring progress is easy
+
+Once a student has nominated you as their teacher, you can see their files and Python consoles, so you can help them more easily. You can copy files into their accounts so that you can give them a starting point for their assignments, and you can see their solutions.
+
+We can even create student accounts in bulk for you, and pre-populate them with files that you provide — just let us know!
+
+All your students have the same environment
+
+The same operating system, the same console, the same text editor — save yourself from having to customise your lessons and instructions for Windows/Mac/Linux, and from having to debug issues in different shells and editors.
+
+...and they can work together
+
+Your students can choose to share their consoles with each other, too — so they can work on group projects remotely, or help each other in-class.
+
+I teach large worldwide online courses that cover Python, Django, and PostgreSQL ... By using PythonAnywhere beginner accounts in those courses there is nothing to install and everything works in a browser. PythonAnywhere is a great resource that lets me teach these these courses to over 100,000 students around the world for free.
+
+Chuck Severance
+
+25 October 2020
+
+Sign up and try it out! »
+
+PythonAnywhere education help pages »
+
+Start work at work or at school, and continue at home
+
+Because PythonAnywhere is web-based, it can follow you around on any computer (or iPad, or Chromebook) with a browser, so you or your students can work from wherever you like.
+
+What does it cost?
+
+It's free! Our basic accounts are free, and we only charge for more advanced services (like professional web app hosting, or big number-crunching requirements), none of which are needed for basic "intro to programming" type courses. If you need larger amounts of processing power, then get in touch — you can also get an idea of our prices on the pricing page.
+
+Limitations
+
+Our education support is evolving rapidly, and there are a few limitations right now; check out this help page for the current list.
+
+Tech support for developers, from developers
+
+7 days a week, 365.242 days a year, we're there for you. Got a question or a comment about PythonAnywhere? Need some help? Just post in our forums, drop a line to PythonAnywhere Support <liveusercare@pythonanywhere.com>, or send us feedback, and one of our dev team will get back to you right away.
+
+PythonAnywhere is the perfect place for hosting projects ... Excellent customer support and prompt issue resolution contribute to a pleasant user experience. I highly recommend it! 10 out of 10.
+
+Dmitry Korshunov
+
+15 November 2023
+
+ 
+About PythonAnywhere - Media Resources - Jobs - Testimonials
+ 
+ 
+
+Copyright © 2011-2025 PythonAnywhere LLP — Terms — Privacy & Cookies
+"Python" is a registered trademark of the Python Software Foundation.
+
+ 

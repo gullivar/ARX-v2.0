@@ -1,0 +1,34 @@
+Develop me
+Home
+ 
+GitHub
+New
+more
+
+LLM은 이미 정답을 알고 있다. 가장 중요한 건 필요한 지식을 꺼내 쓸 방법 - Poetiq AI
+
+간간히 최신 논문과 최전선 AI 모델을 적절히 섞어서 기술 칼럼(?) 느낌으로 써볼까 합니다.앞으로 졸업하고도 흐름을 놓치지 않으려면 이런 작업이 중요할 것 같아서 해보려 합니다. 이번 글은 기존의 LLM을 잘 활용하는 것만으로도 ARG-AGI-2와 같은 어려운 벤치마크 성능을 끌어올릴 수 있다는 post에 관한 글입니다. Traversing the Frontier of SuperintelligencePoetiq is proud to announce a major milestone in AI reasoning. We have established a new state-of-the-art (SOTA) on the ARC-AGI-1 & 2 benchmarks, significantly advancing bo..
+
+Original 2025.11.28
+
+25년 10월, 근황과 AI에 대한 생각들
+
+정말 오랜만에 쓰는 글.. 마지막 글을 쓰고 1년 반이 흘렀습니다.정신 없이 사는 동안 정말 많은 위기와 기회와 결과가 제 곁을 지나간 듯 합니다.아주 가끔 이 블로그에 들어와 제가 남겼던 글들을 읽을 때면 그때의 독기와 노력들이 안쓰럽기도 하면서 이제는 추억할 일이 되어버린 것 같기도 합니다.어린 시절의 나태를 속죄하고자 전역하고 이를 악물고 살았었는데, 그나마 그 덕에 제가 누리고 있는 것들이 참 많은 듯 합니다.지난 시간동안 많은 고민과 도전을 했고 최종적으로는 올해 3월 계약학과 대학원에 진학했습니다.부족한 탓에 많은 기회를 놓쳤고, 또 한 편으로는 운이 좋게 계약학과 입시에서는 제가 걸어온 길에 대해 조금의 인정을 받은 것 같습니다.얼마 전에는 정말 운 좋게도 탑 컨퍼런스에 논문 submissi..
+
+Original 2025.10.03
+
+ROS2 + UR3e + Intel RealSense + CenterPose 신발 정리 수행하기
+
+이번 글은 Docker 컨테이너 내부에서 ROS2 UR3e를 이용하여 Intel RealSense 기반으로 Categorized Object Pose Estimation 알고리즘인 Centerpose를 수행하여신발을 정리한 과정에 대해 작성하도록 하겠습니다.  연구원에서의 마지막 정리 글은 소감도 함께 담고 싶습니다.두 달 동안 많다면 많고, 적다면 적은 여러 task 들을 수행해보았습니다.초기에 목표로 했던 신발 정리를 하는 로봇 팔에 결론적으로는 도달했지만한편으로는 아쉬운 마음이 들기는 합니다. 뭔가를 시작할 때 항상 마스터피스를 내놓고 싶은데,어느 순간부터 현실과 타협하는 저를 보며 아쉬운 마음이 많이 들긴했습니다.물론 두 달이라는 시간이 부족한 감도 없지 않았습니다. 누군가가 제가 써온 글을 보시..
+
+Project 2024.02.27
+
+Docker 컨테이너 내부에 ROS2 UR3e 연결하기
+
+지난 글에서 docker 컨테이너 내에서 Intel Real sense를 이용하여Object Pose Estimation을 수행하는 과정을 작성했습니다. RealSense 기반 ROS2 에서 Real Time CenterPose 실행지난 글에서 Isaac ROS CenterPose 를 이용하여 ROS2 docker 환경에서 Object Pose Estimation 이 가능하도록 빌드하였습니다. ROS2 기반 Isaac ROS CenterPose Example 수행하기 Categorized Object Pose Estimation 이 가능한 CenterPcobang.tistory.com 특히 신발에 대하여 Categorized 된 CenterPose를 이용했습니다.제가 최종적으로 Object Pose Es..
+
+ROS2 + 예제 2024.02.27
+
+RealSense 기반 ROS2 에서 Real Time CenterPose 실행
+
+지난 글에서 Isaac ROS CenterPose 를 이용하여 ROS2 docker 환경에서Object 

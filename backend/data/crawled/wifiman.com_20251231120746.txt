@@ -1,0 +1,7 @@
+WiFiman
+Ubiquiti collects certain data through the speed test service that may be considered personally identifiable information, such as IP address or device identifier.
+Such information may be shared with third parties, such as your Internet provider to help them create a faster or better Internet. Privacy Policy.
+OK
+Starting test…
+You are connected via an unknown ISP.
+Resolving your IP...

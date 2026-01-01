@@ -1,0 +1,9 @@
+Site-ul a blocat accesul dumneavoastra din motive de securitate (403 Forbidden). Acest lucru apare, de obicei, daca incercarea de acces este considerata potential periculoasa.
+
+Ce puteti face pentru a rezolva acest aspect:
+
+Verificati conexiunea la Internet si asigurati-va ca aceasta este stabila si sigura.
+Incercati sa accesati site-ul dintr-un alt browser sau de pe alt dispozitiv.
+Daca folositi un software de blocare a reclamelor, dezactivati-l temporar.
+Daca utilizati un program de protectie, cum ar fi un VPN sau firewall personal, dezactivati-l temporar si reincercati.
+Daca ati efectuat o actiune neobisnuita (ex. trimiterea rapida de cereri multiple), incercati sa accesati site-ul mai tarziu.

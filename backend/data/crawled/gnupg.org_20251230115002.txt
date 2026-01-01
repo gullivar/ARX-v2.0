@@ -1,0 +1,155 @@
+ 
+Home Donate Software Download Documentation Blog
+The GNU Privacy Guard
+
+GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
+
+Since its introduction in 1997, GnuPG is Free Software (meaning that it respects your freedom). It can be freely used, modified and distributed under the terms of the GNU General Public License .
+
+The current version of GnuPG is 2.4.8. See the download page for other maintained versions.
+
+Gpg4win is a Windows version of GnuPG featuring a context menu tool, a crypto manager, and an Outlook plugin to send and receive standard PGP/MIME mails. The current version of Gpg4win is 4.4.1.
+
+Reconquer your privacy
+
+Arguing that you don't care about the right to privacy because you have nothing to hide is no different from saying you don't care about free speech because you have nothing to say. – Edward Snowden
+
+Using encryption helps to protect your privacy and the privacy of the people you communicate with. Encryption makes life difficult for bulk surveillance systems. GnuPG is one of the tools that Snowden used to uncover the secrets of the NSA.
+
+Please visit the Email Self-Defense site to learn how and why you should use GnuPG for your electronic communication.
+
+News
+
+The latest blog entries:
+
+Cleartext Signatures Considered Harmful
+New GnuPG Repositories for Debian, Ubuntu, and Devuan: Stable and Development Branches Available
+Sequoias need for churn
+
+The latest release news:
+(all news)
+
+GnuPG 2.5.14 released (2025-11-19)
+
+We are pleased to announce the availability of a new GnuPG release: Version 2.5.14. This release adds new features and fixes a couple of bugs. New Debian packages are also also availabe; see repos.gnupg.org.
+
+Note that this 2.5 series is fully supported and thus ready for production use. This means we won't break anything but may add some more features before 2.6.
+
+{Read more}
+
+GnuPG 2.5.13 and gpg4win 5.0.0-beta395 released (2025-10-22)
+
+We are pleased to announce the availability of a new GnuPG release: Version 2.5.13. This release adds new features and fixes a couple of bugs.
+
+Along with this GnuPG version we also released a another beta version of Gpg4win 5.0.
+
+Note that this 2.5 series is fully supported and thus ready for production use. This means we won't break anything but may add some more features before 2.6.
+
+{Read more}
+
+GnuPG 2.5.12 released (2025-09-02)
+
+We are pleased to announce the availability of a new GnuPG release: Version 2.5.12. This release adds new features and fixes two regressions.
+
+Note that this 2.5 series is fully supported and thus ready for production use. This means we won't break anything but may add some more features before 2.6.
+
+{Read more}
+
+New GnuPG merchandise available (2025-09-01)
+
+We have launched a new web shop where you can find merchandise to show your support for GnuPG. We have been planning to offer merchandise again for a long time, and this print-on-demand service enables us to offer a wide range of products, so we hope there is something for everyone. Please contact us if you can't find what you're looking for. You can get a 25% discount for orders within the next 9 days!
+
+GnuPG 2.5.9 with Debian packages released (2025-07-14)
+
+We are pleased to announce the availability of a new GnuPG release. Version 2.5.9 which will soon lead us to the new stable 2.6 series. This release mostly fixes regression in the previous releases. We now also provide packages for Debian, Devuan, and Ubuntu in addition to the usual Gpg4win beta installer.
+
+{Read more}
+
+GnuPG 2.5.8 released (2025-05-20)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.8. This release is another one in a series of public testing releases eventually leading to a new stable version 2.6. Do not hesitate to use this new version; it is fully functional and maintained.
+
+{Read more}
+
+GnuPG 2.5.6 and Gpg4win 5.0.0-Beta190 released (2025-05-09)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.6. This release is the third of a series of public testing releases eventually leading to a new stable version 2.6.
+
+Along with this GnuPG version we also released a another beta version of Gpg4win 5.0.
+
+{Read more}
+
+GnuPG 2.5.5 and Gpg4win 5.0.0-beta145 released (2025-03-10)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.5. This release fixes a couple of problems found in the previous 2.5 versions.
+
+Along with this GnuPG version we also released another beta version of Gpg4win 5.0.
+
+{Read more}
+
+GnuPG 2.5.2 and Gpg4win 5.0.0-Beta32 released (2024-12-06)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.2. This release is the third of a series of public testing releases eventually leading to a new stable version 2.6.
+
+Along with this GnuPG version we also released a first beta version of Gpg4win 5.0.
+
+{Read more}
+
+GnuPG 2.4.7 and Gpg4win 4.4.0 released (2024-11-27)
+
+We are pleased to announce the availability of a new stable GnuPG release: version 2.4.7. This version fixes a couple of bugs. Along with this release we also released a new version of Gpg4win: version 4.4.0.
+
+{Read more}
+
+GnuPG 2.4.6 released (2024-10-29)
+
+We are pleased to announce the availability of a new stable GnuPG release: version 2.4.6. This version fixes a couple of bugs, comes with a few new features, and has now full support for Portuguese.
+
+{Read more}
+
+GnuPG 2.5.1 released with FIPS-203 support (2024-09-12)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.1. This release is the second of a series of public testing releases eventually leading to a new stable version 2.6.
+
+The main features in the 2.6 series are improvements for 64 bit Windows and the introduction of a PQC encryption algorithm.
+
+{Read more}.
+
+Our FTP server has been discontinued (2024-08-20)
+
+For technical and organisational reasons we recently shutdown our FTP server. Instead of using ftp.gnupg.org please use https://gnupg.org/ftp/ .
+
+GnuPG 2.5.0 released for public testing (2024-07-05)
+
+We are pleased to announce the availability of a new GnuPG release: version 2.5.0. This release is the first of a series of public testing releases eventually leading to a new stable version 2.6.
+
+The main features in the 2.6 series are improvements for 64 bit Windows and the introduction of a PQC encryption algorithm.
+
+{Read more}.
+
+Libgcrypt 1.11 is the new stable branch (2024-06-19)
+
+Although we will keep on maintaining the 1.8 and 1.10 branch for some more time, the new stable branch is now 1.11. Version 1.11.0 comes with a lot of performance improvements, new interfaces, and now supports common quantum-resistant algorithms. It provides full API and ABI compatibility to previous versions. {more}
+
+GnuPG 2.4.5 and Gpg4win 4.3.1 released (2024-03-12)
+
+We are pleased to announce the availability of a new stable GnuPG release: version 2.4.5. This version fixes a couple of bugs and comes with some new features. {more}
+
+Security advisory for smartcard keys with backup   important
+
+GnuPG versions 2.4.2, 2.4.3, and 2.2.42 had a regression in the default way to create smartcard keys. If you created a key with the –edit-key command using one of these versions, please head over to our security advisory:
+
+https://gnupg.org/blog/20240125-smartcard-backup-key.html
+
+GnuPG 2.4.4 released (2024-01-25)
+
+We are pleased to announce the availability of a new stable GnuPG release: version 2.4.4. This version fixes a couple of bugs, comes with some new features. A smartcard related security bug is also fixed and a tool to check for this flaw is provided. {more}
+
+Privacy Policy
+Imprint
+Archive
+Sitemap
+Blog
+Files
+
+  These web pages are Copyright 1998--2020 The GnuPG Project and licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. See copying for details. Page source last changed on 2025-11-27.

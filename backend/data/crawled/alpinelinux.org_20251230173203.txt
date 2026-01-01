@@ -1,0 +1,51 @@
+About
+ 
+Downloads
+ 
+Releases
+ 
+Community
+ 
+Sponsors
+ 
+Donate
+docs
+ 
+wiki
+ 
+git
+ 
+issues
+ 
+packages
+ 
+mirrors
+ 
+security
+Small. Simple. Secure.
+Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
+ ALPINE NEWS
+2025-12-17 Alpine 3.23.2 released
+2025-12-03 Alpine 3.23.0 released
+2025-10-08 Alpine 3.19.9, 3.20.8, 3.21.5 and 3.22.2 released
+2025-10-01 Implementing /usr merge in Alpine
+2025-08-30 New Alpine Developers onboarding process
+2025-07-15 Alpine 3.19.8, 3.20.7, 3.21.4 and 3.22.1 released
+2025-05-30 Alpine 3.22.0 released
+2025-02-13 Alpine 3.18.12, 3.19.7, 3.20.6 and 3.21.3 released
+2025-02-03 Seeking Support After Equinix Metal Sunsets
+2025-01-30 Alpine Linux joins Open Collective
+Read more
+ LATEST DEVELOPMENT
+2025-12-30 community/xremap-wlr: upgrade to 0.14.8
+2025-12-30 community/netbird: upgrade to 0.61.0
+2025-12-30 community/trealla: upgrade to 2.88.3
+2025-12-30 community/inko: upgrade to 0.19.1_git20251227
+2025-12-30 community/stellarium: disable on aarch64
+2025-12-30 community/stellarium: patch CMakeLists.txt for bumped $_qxlsx
+2025-12-30 community/stellarium: bump $_qxlsx to fix build with qt 6.10.0
+2025-12-30 community/fast_float: add !check on s390x
+2025-12-30 community/stellarium: upgrade to 25.4
+2025-12-30 main/debian-devscripts: upgrade to 2.25.33
+Read more
+© Copyright 2025 Alpine Linux Development Team all rights reserved | Privacy Policy

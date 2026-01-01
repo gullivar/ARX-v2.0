@@ -1,0 +1,348 @@
+Looker
+Features
+How It Works
+Common Uses
+Reduce cross-cloud spending
+Analyze marketing data
+Create custom data and AI applications
+Monetize your business data
+More productive collaboration
+A dynamic data analytics powerhouse
+Generate a solution
+Pricing
+Looker Product Documentation
+Looker Release Notes
+Looker Training
+
+Gartner recognizes Google as a Leader in the 2025 Magic Quadrant™ for Analytics and Business Intelligence Platforms.
+
+Looker
+Analyze governed data, deliver business insights, and build AI-powered applications
+
+Build the foundation for responsible data insights with Looker. Leveraging Google’s deep roots and track record of AI-led innovation, Looker delivers the most intelligent BI solution by combining foundational AI, cloud-first infrastructure, industry leading APIs, and our flexible semantic layer.
+
+Try it free
+Request demo
+Product highlights:
+
+API-first platform with composable BI
+
+Business-friendly AI powered analytics with governed, modeled data
+
+Open and trusted semantic model
+
+Google-easy dashboarding
+
+Unleash Data's Full Potential: The Looker Story
+
+1:43 video
+
+FEATURES
+
+Transform your data landscape into a unified, trusted source for AI and human analysis alike with Looker’s universal semantic modeling layer
+
+Looker’s trusted modeling layer provides a single place to curate and govern the metrics most important to your business. This means that users will see consistent results regardless of where they are consumed. In order for you to use this consistent trustworthy information in your tools of choice, we have opened up the Looker modeling layer to our ecosystem and are actively engaged with our partners to ensure the information in your Looker platform doesn’t stay there. 
+
+The Foundation of Trustworthy AI
+
+4:02
+
+Conversational Analytics to talk with and trust your data
+
+Conversational Analytics is a chat-with-your-data feature that is powered by Gemini for Google Cloud. Conversational Analytics empowers users to go beyond static dashboards and ask data-related questions in regular, natural language, even with little or no expertise in business intelligence. You can also leverage Google’s latest Gemini models with your own custom applications through the Conversational Analytics API.
+
+Looker Conversational Analytics
+
+5:16
+
+Build custom data experiences and data apps with Looker’s powerful embedded capabilities
+
+Embedded analytics goes beyond placing dashboards in apps. It's about transforming data into deeply integrated, value-driving experiences. With Looker, fully interactive dashboards can be seamlessly integrated into your applications. The robust API coverage allows you to do just about anything from the UI through API. This unlocks limitless possibilities to create data experiences beyond a Looker dashboard. In addition, Looker extensions integrate directly with Vertex AI, enabling powerful custom AI workflows and advanced analytics within your Looker instance.
+
+Looker's Embedded Analytics
+
+2:28
+
+Simplify and secure your analytics with Looker on Google Cloud
+
+Looker on Google Cloud takes the existing powerful capabilities from the Looker platform and seamlessly integrates it into the secure Google Cloud ecosystem. Features our customers have come to love and expect in all Google Cloud products are now also available with Looker on Google Cloud, including SSO with Google Cloud IAM, private networking, seamless integration with BigQuery, and a unified Terms of Service.
+
+Looker Core on Google Cloud
+
+2:29
+
+Bring your insights to life with out-of-the-box visual, real-time, and self-service analytics
+
+Looker offers enterprise dashboards that are real-time, built on governed data, offers repeatable analysis, and inspires in-depth understanding of the data. Users can explore existing tiles, asking new questions, expanding filters, and drilling down to row level detail to fully understand the data behind a metric.
+
+Looker Studio offers interactive, collaborative, and ad hoc reports and dashboards, with access to over 1,000 data sources and connectors and a flexible drag-and-drop canvas. You have the option to perform ad hoc analysis on both governed and unmodeled data. It's free, fast, and easy to start. 
+
+HOW IT WORKS
+
+Looker is Google for your business data and enables you to make your organization's information accessible and useful. Looker Studio enables you to tell impactful, insightful stories with engaging reports and data visualizations.
+
+Together, you put inspiration and opportunity into the hands of the people who make things happen.
+
+Get started with Looker
+Looker: Google for your business data
+
+COMMON USES
+
+Reduce cross-cloud spending
+Tutorials, quickstarts, & labs
+
+Looker for cloud cost management
+
+Many large companies now use multiple cloud platforms (multicloud or hybrid cloud). This leads to complex billing from multiple providers, and current solutions often lack transparency or are too expensive. Companies need a cost-effective way to gain insights into their cross-cloud spending and optimize their costs.
+
+With Looker, you get robust out-of-the-box reporting for your day-to-day needs and long-term optimization initiatives. Looker helps you easily identify the one-off high cost problems faster and slow burn global inefficiencies sooner.
+
+Looker for cloud cost management
+Analyze marketing data
+Tutorials, quickstarts, & labs
+
+Looker for Google Marketing Platform
+
+Marketers need to analyze and activate their first-party data but lack a friendly, interactive UI from which to do it from. While this has always been a desire/need, the shifts in data regulations and browser privacy has made this a must-solve problem.
+
+Looker acts as a user interface for this solution. With out-of-the-box analytics (data exploration and dashboards), you can build custom segments from first party data. Looker also offers packaged activation paths to places like Google Analytics, so you can activate those segments.
+
+Looker for Google Marketing Platform
+Looker for Google Marketing Platform
+Create custom data and AI applications
+Tutorials, quickstarts, & labs
+
+Looker for gen AI applications
+
+Companies are eager to increase data analytics adoption, but the technical learning curve hinders widespread use. While generative AI (gen AI) promises to transform data interaction, businesses struggle to get started and have concerns about the reliability of AI-generated results.
+
+Looker adds an API-first platform that is easy to create and customize data applications, a semantic layer to provide trusted metrics, an in-database architecture to optimize the performance and scalability of the cloud, and gen AI integration to provide a natural language interface into the application.
+
+Looker gen AI extension on GitHub
+Explore Assistant Demo
+Monetize your business data
+Tutorials, quickstarts, & labs
+
+Looker for data monetization
+
+Data monetization is the process of leveraging the data your organization already collects to create new revenue streams or business value. Looker is ideal for data monetization because it allows you to create tailored data products, embed analytics seamlessly, scale with your business, and maintain data security.
+
+Monetize data with embedded analytics
+Data Monetization GIF
+More productive collaboration
+Tutorials, quickstarts, & labs
+
+Looker for Workspace
+
+Customers struggle to understand the usage of productivity and collaboration solutions like Google Workspace across the organization, and are often unprepared for security audits of these tools. With the Looker Block for Workspace, you get modeled schemas for Gmail, login, Drive, Meet, and rules. In addition, you get two out-of-the-box dashboards on Security Audit and Adoption and Collaboration, where you can drill down to row level audit log details.
+
+Other Looker for Workspace solutions include: Looker for Connected Sheets, to explore modeled data from Looker within Sheets and bring the power of LookML to the spreadsheet, and Looker Studio integration with Google Sheets, transforming Sheets data into interactive visualizations.
+
+Visit the Looker Marketplace
+Looker for Workspace
+A dynamic data analytics powerhouse
+Tutorials, quickstarts, & labs
+
+Looker for BigQuery
+
+Looker and BigQuery together form a dynamic data analytics powerhouse, transforming raw information into actionable insights that drive business growth. BigQuery's unparalleled ability to store and process massive datasets seamlessly integrates with Looker's intuitive, Google-friendly platform.
+
+With Looker's semantic modeling layer, complex data relationships are simplified, ensuring a single source of truth and fostering collaboration across your organization. From interactive dashboards and custom applications to real-time insights and AI-powered analytics, Looker and BigQuery empower you to make smarter decisions, faster, and stay ahead of the competition.
+
+Unlock BigQuery's full potential with Looker
+Looker for BigQuery
+GENERATE A SOLUTION
+What problem are you trying to solve?
+
+Generate solution
+shuffle
+Surprise me
+What you'll get:
+check_small
+Step-by-step guide
+check_small
+Reference architecture
+check_small
+Available pre-built solutions
+This service was built with Vertex AI. You must be 18 or older to use it. Do not enter sensitive, confidential, or personal info.
+
+PRICING
+
+Looker pricing	Looker pricing has two components: platform pricing and user pricing. Contact sales to identify a solution that works for you.
+Looker product	Details	Cost
+
+
+Looker (Google Cloud core)
+
+	
+
+Platform pricing is the cost to run a Looker (Google Cloud core) instance and includes platform administration, integrations, and semantic modeling capabilities.
+
+User pricing is the cost for licensing individual users to access the Looker platform. These costs will vary based on the type of user and their permissions within the Looker (Google Cloud core) platform.
+
+	
+
+Work with sales to identify a solution that works for you.
+
+
+
+
+Edition pricing
+
+	
+
+Standard: A Looker (Google Cloud core) product for small organizations or teams with fewer than 50 users that includes one production instance, 10 standard users, 2 developer users, upgrades, up to 1,000 query-based API calls per month, and up to 1,000 administrative API calls per month.
+
+	
+
+Annual commitment. Work with sales to identify a solution that works for you.
+
+
+
+
+Enterprise: A Looker (Google Cloud core) product with enhanced security features for a wide variety of internal BI and analytics use cases that includes one production instance, 10 standard users, 2 developer users, upgrades, up to 100,000 query-based API calls per month, and up to 10,000 administrative API calls per month.
+
+	
+
+Annual commitment. Work with sales to identify a solution that works for you.
+
+
+
+
+Embed: A Looker (Google Cloud core) product for deploying and maintaining external analytics and custom applications at scale that includes one production instance, 10 standard users, 2 developer users, upgrades, up to 500,000 query-based API calls per month, and up to 100,000 administrative API calls per month.
+
+	
+
+Annual commitment. Work with sales to identify a solution that works for you.
+
+
+
+
+User licensing
+
+	
+
+Developer user: An end user provisioned on a Looker (Google Cloud core) platform for access to any combination of Looker interfaces including Administration, LookML Models (including Development Mode), Folders, Boards, Dashboards, Looks (individual reports and charts), Explore, SQL Runner, Scheduling, the Looker API interfaces, and access to Support.
+
+	
+
+Connect with our sales team to get a custom quote for your organization.
+
+
+
+
+Standard user: An end user provisioned on a Looker (Google Cloud core) platform for access to Folders, Boards, Dashboards, Looks (individual reports and charts), Explore, SQL Runner, and Scheduling Looker interfaces. Standard user privileges include data filtering, drill-to-row-level-detail, data downloads, Dashboard or Look creation, and view-only access to LookML. Standard user privileges do not include access to Development Mode, Administration, the Looker API interfaces, or Support.
+
+	
+
+Connect with our sales team to get a custom quote for your organization.
+
+
+
+
+Viewer user: An end user provisioned on a Looker (Google Cloud core) platform for access to Folders, Boards, Dashboards, and Looks (individual reports and charts) Looker interfaces. Viewer User privileges include data filtering, drill-to-row-level-detail, Scheduling, data downloads, and view-only access to LookML. Viewer user privileges do not include Dashboard or Look creation, or access to Development Mode, Administration, SQL Runner, Explore, the Looker API interfaces, or Support.
+
+	
+
+Connect with our sales team to get a custom quote for your organization.
+
+Learn more about Looker pricing. View all pricing details
+
+
+
+
+PRICING CALCULATOR
+Estimate your monthly Looker costs.
+Estimate your costs
+CUSTOM QUOTE
+Connect with our sales team to get a custom quote for your organization.
+Request a quote
+Start your proof of concept
+Request a demo
+Request a demo
+Have a unique project or use case?
+Contact sales
+Learn how to send and share content in Looker
+Read guide
+Learn how to create and edit dashboards and reports in Looker
+Read guide
+Learn how to use embedding and the API in Looker
+Read guide
+Overview
+Solutions
+Products
+Pricing
+Resources
+
+search_spark
+send_spark
+Docs
+Support
+Sign in
+Looker
+Start free
+Contact us
+Why Google
+Choosing Google Cloud
+Trust and security
+Modern Infrastructure Cloud
+Multicloud
+Global infrastructure
+Customers and case studies
+Analyst reports
+Whitepapers
+Blog
+Products and pricing
+Google Cloud pricing
+Google Workspace pricing
+See all products
+Solutions
+Infrastructure modernization
+Databases
+Application modernization
+Smart analytics
+Artificial Intelligence
+Security
+Productivity & work transformation
+Industry solutions
+DevOps solutions
+Small business solutions
+See all solutions
+Resources
+Google Cloud Affiliate Program
+Google Cloud documentation
+Google Cloud quickstarts
+Google Cloud Marketplace
+Learn about cloud computing
+Support
+Code samples
+Cloud Architecture Center
+Training
+Certifications
+Google for Developers
+Google Cloud for Startups
+System status
+Release Notes
+Engage
+Contact sales
+Find a Partner
+Become a Partner
+Events
+Podcasts
+Developer Center
+Press Corner
+Google Cloud on YouTube
+Google Cloud Tech on YouTube
+Follow on X
+Join User Research
+We're hiring. Join Google Cloud!
+Community forums
+About Google
+Privacy
+Site terms
+Google Cloud terms
+Our third decade of climate action: join us
+Sign up for the Google Cloud newsletter
+Subscribe
+language
+‪English‬

@@ -1,0 +1,531 @@
+ 
+Products
+Open Source
+Solutions
+Learn
+Docs
+Pricing
+Downloads
+Contact us
+Sign in
+
+Grafana Cloud
+
+Monitor, analyze, and act faster with AI-powered observability.
+
+Grafana Cloud overview
+
+LGTM+ STACK
+
+Logs
+
+Grafana
+
+Traces
+
+Metrics
+
+KEY CAPABILITIES
+
+AI/ML insights
+
+Contextual root cause analysis
+
+SLO management
+
+Alerting
+
+Plugins
+
+OBSERVABILITY SOLUTIONS
+
+Application Observability
+
+Infrastructure observability
+
+TESTING
+
+Performance testing
+
+Synthetic Monitoring
+
+IRM
+
+Incident response
+
+On-call management
+
+The actually useful free plan
+
+Grafana Cloud Free Tier
+
+10k series Prometheus metrics
+
+50GB logs, 50GB traces, 50GB profiles
+
+500VUh k6 testing
+
+20+ Enterprise data source plugins
+
+100+ pre-built solutions
+
+Create account
+
+Grafana Loki
+
+Multi-tenant log aggregation system
+
+Grafana
+
+Query, visualize, and alert on data
+
+Grafana Tempo
+
+High-scale distributed tracing backend
+
+Grafana Mimir
+
+Scalable and performant metrics backend
+
+Grafana Pyroscope
+
+Scalable continuous profiling backend
+
+Grafana Beyla
+
+eBPF auto-instrumentation
+
+Grafana Faro
+
+Frontend application observability web SDK
+
+Grafana Alloy
+
+OpenTelemetry Collector distribution with Prometheus pipelines
+
+Grafana k6
+
+Load testing for engineering teams
+
+Prometheus
+
+Monitor Kubernetes and cloud native
+
+OpenTelemetry
+
+Instrument and collect telemetry data
+
+Graphite
+
+Scalable monitoring for time series data
+
+All
+
+COMMUNITY RESOURCES
+
+Dashboard templates
+Try out and share prebuilt visualizations
+Prometheus exporters
+Get your metrics into Prometheus quickly
+
+END-TO-END SOLUTIONS
+
+Opinionated solutions that help you get there easier and faster
+
+Kubernetes Monitoring
+
+Get K8s health, performance, and cost monitoring from cluster to container
+
+Application Observability
+
+Monitor application performance
+
+Frontend Observability
+
+Gain real user monitoring insights
+
+Incident Response & Management
+
+Detect and respond to incidents with a simplified workflow
+
+MONITOR INFRASTRUCTURE
+
+Out-of-the-box KPIs, dashboards, and alerts for observability
+
+Linux
+Windows
+Docker
+Postgres
+MySQL
+AWS
+Kafka
+Jenkins
+RabbitMQ
+MongoDB
+Microsoft Azure
+Google Cloud
+
+VISUALIZE ANY DATA
+
+Instantly connect all your data sources to Grafana
+
+MongoDB
+AppDynamics
+Oracle
+GitLab
+Jira
+Salesforce
+Splunk
+Datadog
+New Relic
+Snowflake
+All monitoring and visualization solutions
+
+COMMUNITY AND EVENTS
+
+Events
+
+ObservabilityCON 2025
+
+GrafanaCON 2026
+
+ObservabilityCON on the Road
+
+Community
+
+Community forums
+
+RESOURCES
+
+Blog
+
+4th annual Observability Survey
+
+Benefits of Observability
+
+Success stories
+
+HOW-TO
+
+Documentation
+
+Webinars and videos
+
+Tutorials
+
+Workshops
+
+Learning Journeys
+
+Professional Services
+
+FEATURED WEBINAR
+
+Getting started with managing your metrics, logs, and traces using Grafana
+
+Learn how to unify, correlate, and visualize data with dashboards using Grafana.
+
+Learn more →
+EN
+Actually useful AI
+
+No panel? No data? This is what it sounds like when devs cry. Good thing Grafana Assistant, an LLM agent built directly into Grafana Cloud, can fix it for you. (Or let’s go crazy: make it purple.)
+
+Learn more
+Centralized observability managed for you for LE$$
+
+Metrics, logs, traces, and profiles, oh my! Gazillions of pre-built solutions to try. So much to explore, with capabilities galore. OTel me more.
+
+Learn more
+Your first, last, or everything pane of glass.
+
+Visualize & monitor almost anything. From AWS to Zabbix and everything in between, can’t get enough of your graphs, babe.
+
+Data sources
+AI-powered observability as easy as chat
+
+Ask the Grafana Assistant, a context-aware LLM agent built directly into Grafana Cloud, to fix your dashboards or even make changes to your stack.
+
+Learn more
+Centralized observability managed for you
+
+Named a Leader in the Gartner® Magic Quadrant™ for Observability Platforms. Pick what you want, from K8s and application observability to incident response. Plus native support for Prometheus and OTel.
+
+Learn more
+Your single or first pane of glass
+
+Visualize and monitor almost anything. From AWS to Zabbix and 100s of other sources, bring them together in one place.
+
+Data sources
+Fun
+Serious
+The actually useful free plan
+Grafana Cloud Free Tier
+10k series Prometheus metrics
+50GB logs, 50GB traces, 50GB profiles
+500VUh k6 testing
+20+ Enterprise data source plugins
+100+ pre-built solutions
+Create account
+Put the credit card away.
+
+Trusted by 25M+ users worldwide
+
+Success stories →
+
+Your tools / data
+
+Query /
+
+keep data where it is
+
+Your environment
+
+Applications and infrastructure
+
+Send data to backends
+
+Open standards: OTel, Prometheus
+
+Visualization
+Testing
+Performance testing
+Synthetic monitoring
+Observability solutions
+Frontend
+Application
+Infrastructure
+Incident response management
+On-call management
+Incident management
+Key capabilities
+AI insights
+Contextual root cause analysis
+Cost management
+SLO management
+Alerting
+Security and governance
+Building blocks: telemetry databases (LGTM+)
+
+Mimir
+
+Metrics
+
+Loki
+
+Logs
+
+Tempo
+
+Traces
+
+Pyroscope
+
+Profiles
+
+No lock-in
+
+Open standards: OTel, Prometheus
+
+What can Grafana Cloud help you do?
+Troubleshoot faster
+
+Contextual alerts integrated into Grafana Cloud’s workflows for application, Kubernetes, and infrastructure observability – and more – speed up root cause analysis.
+
+At BlackRock, this “put our telemetry into action and ultimately resolved issues faster,” Head of Observability Olin Gay said at ObservabilityCON.
+
+Watch demo
+Read the docs
+Learn more
+Reduce telemetry costs
+
+Using machine learning under the hood, the Adaptive Telemetry features aggregate unused metrics and optimize log volumes.
+
+“It not only saves us hundreds of thousands of dollars a year, but it’s also a forcing function for us to look closely at our metrics to find additional opportunities for time series reduction and cardinality improvements,” said Mux Senior Engineering Manager Ron Lipke.
+
+Watch demo
+Adaptative Metrics
+Adaptative Logs
+Manage your incident response, all in Grafana Cloud
+
+The IRM solution provides workflows to create alerts and SLOs, manage on-call and incident response, and learn from postmortems – all within the context of your observability stack.
+
+“Getting on-call notifications and paging integrated closer to the dashboards and data that help developers diagnose and resolve issues will greatly improve on-call workflows,” said The Trade Desk Staff Software Engineer Nathan Bellowe.
+
+Watch demo
+Read the docs
+Learn more
+Play around with the Grafana Stack
+
+Experience Grafana for yourself, no registration or installation needed.
+
+Grafana showcase
+Watch
+0:14
+
+Grafana sandbox
+
+Upcoming and recent events
+ 2026-01-07
+Webinar
+Getting started with Grafana dashboard design
+
+In this webinar, you'll learn how to design stylish and easily accessible Grafana dashboards that tell a story.
+
+Register now →
+ 2026-01-14
+Meetup
+Grafana & Friends Madrid - Grafana & Friends @ Sirviendo Código
+Learn more →
+ 2026-01-14
+Webinar
+How to get started with OpenTelemetry and Grafana
+
+This webinar covers the essentials of instrumentation and demonstrates how to visualize OpenTelemetry data seamlessly within Grafana and Grafana …
+
+Register now →
+All upcoming events On-demand webinars and videos
+Grafana Labs Blog
+
+News, announcements, articles, metrics & monitoring love
+
+2025-12-12
+   |   
+Martin Falch
+How to use AI to analyze and visualize CAN data with Grafana Assistant
+2025-12-11
+   |   
+Grafana Labs Team
+‘Grafana’s Big Tent’ podcast: Welcome to season 3!
+2025-12-11
+   |   
+Kristin Knapp
+Grafana Labs: Top 10 moments of 2025
+What's new from Grafana Labs
+Suggested dashboards now available
+Grafana Cloud
+Available in public preview
+Open source
+Enterprise
+Available in public preview 
+Dashboards and visualizations
+Release date: 2025-12-19
+Stay informed about incident with threaded status updates
+Grafana Cloud
+Generally Available
+IRM
+Release date: 2025-12-19
+Instrumentation Hub in Grafana Cloud
+Grafana Cloud
+Available in public preview
+Release date: 2025-12-17
+Filter query variable values more effectively with regex patterns
+Grafana Cloud
+Generally Available
+Open source
+Enterprise
+Generally Available 
+Dashboards and visualizations
+Release date: 2025-12-16
+Fleet Management adds visual indicators and error mapping for remote configuration errors
+Grafana Cloud
+Generally Available
+Fleet Management
+Alloy
+Release date: 2025-12-12
+Grafana Assistant help with configuration pipelines
+Grafana Cloud
+Generally Available
+Fleet Management
+Alloy
+Machine learning
+Release date: 2025-12-12
+View all
+Sign up for Grafana stack updates
+Subscribe
+Note: By signing up, you agree to be emailed related product-level information.
+Products
+Grafana Cloud
+Grafana Enterprise Stack
+Grafana visualizations
+Plugins
+Grafana Cloud Logs
+Grafana Cloud Metrics
+Grafana Cloud Traces
+Grafana Cloud Profiles
+AI/ML tools for observability
+Application Observability
+Frontend Observability
+Grafana Cloud Asserts
+Grafana IRM
+Grafana k6
+Grafana SLO
+Synthetic Monitoring
+Solutions
+Pricing
+Open Source
+Grafana
+Grafana Alloy
+Grafana Beyla
+Grafana Faro
+Grafana k6
+Grafana Loki
+Grafana Mimir
+Grafana OnCall
+Grafana Pyroscope
+Grafana Tanka
+Grafana Tempo
+Graphite
+OpenTelemetry
+Prometheus
+Dashboard templates
+Downloads
+  GitHub
+Learn
+Documentation
+Grafana Labs blog
+Webinars and videos
+Tutorials
+Workshops
+Events
+Community
+Professional Services
+Community forums
+Community Slack
+Grafana Champions
+Community organizers
+Observability Survey Report 2025
+OSS vs Cloud
+Writers' Toolkit
+Plugin development
+Load testing
+OpenTelemetry Report
+Log monitoring
+Company
+Partnerships
+Our team
+Careers
+Success stories
+Newsroom
+Contact us
+Getting help
+Merch
+Open positions 
+
+WE'RE HIRING
+
+The Story of Grafana
+Compare
+Grafana vs. Datadog
+Localized content
+Japanese pages
+German pages
+French pages
+Spanish pages
+Portuguese pages
+Grafana Cloud status
+Legal and Security
+Terms of Service
+Privacy Policy
+Trademark Policy
+Copyright 2025 © Grafana Labs

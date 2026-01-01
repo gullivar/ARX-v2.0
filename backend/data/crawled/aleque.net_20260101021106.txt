@@ -1,0 +1,22 @@
+superplate
+
+The frontend boilerplate with superpowers!
+
+Docs
+Building a side project?
+
+Meet the headless, React-based solution to build sleek CRUD applications. With refine, you can be confident that your codebase will always stay clean and boilerplate-free.
+
+Try refine to rapidly build your next CRUD project, whether it's an admin panel, dashboard, internal tool or storefront.
+
+React-Bootstrap
+
+Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit.
+
+CSS / styled-jsx
+
+Next.js comes with built-in support for CSS and styled-jsx. Styled-jsx is full, scoped and component-friendly CSS support for JSX (rendered on the server or the client).
+
+React Redux
+
+Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.

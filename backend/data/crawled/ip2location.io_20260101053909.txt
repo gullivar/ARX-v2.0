@@ -1,0 +1,163 @@
+ip2location.io 
+Solutions
+Localization
+Security
+Marketing
+Pricing
+Demo
+Resources
+API Documentation
+IP2Location.io API
+IP2Location.io Bulk API
+Domain WHOIS API
+Hosted Domain API
+Libraries
+Integrations
+Integrately
+Make
+Pabbly
+Pipedream
+Spring
+Steampipe
+Zapier
+Command Line
+Webex
+Quickwork
+Maltego
+Viasocket
+OttoKit
+ChatGPT
+MCP Server
+Log In
+ Remember Me
+Log In
+OR
+Forgot password?
+Resend verification email
+Log In
+Sign Up For Trial
+Geolocate Your User's Location
+
+IP2Location.io provides a fast and accurate IP Geolocation API tool to determine a user's location and use the geolocation information in different use cases.
+
+Create A Free Account No credit card required
+
+Loading...
+
+This API's JSON results are generated using the IP2Location.io Security Plan, which is available for as low as $499 per month.
+
+Trusted by Leading Enterprises
+IP Geolocation Information
+Fast & Reliable
+IP2Location.io offers real-time IP Geolocation API and returns geolocation information.
+Security
+IP2Location.io secures all data via SSL encryption. These location data are safe with us.
+Multiple Granularity
+IP2Location.io provides different plans with different granular level of geolocation data.
+Domain WHOIS Information
+Domain Lookup
+Domain WHOIS API returns comprehensive WHOIS data. Get up to 500 queries free each month.
+Hosted Domain
+Hosted Domain API retrieves list of domain names by IP address. Get up to 50 queries free each month.
+Adapt IP Geolocation API & Domain WHOIS API to Your Workflow based on use cases
+Redirection Blocking Security Marketing
+Redirection
+
+Geolocation IP redirection is a technique which redirects users to desired or targeted destinations based on their IP address locations such as country, state, city and many more by using IP geolocation technology. Nowadays, this technique has become significant and useful as it provides a personalized experience to the users that visits your website. For instance, IP2Location.io will get the IP address of users and show them the relevant page which suits their preferences or needs. Merchants or shop owners can learn how to use geolocation IP redirection to enhance user experiences and thus increase their website traffic.
+
+Learn More  
+Blocking
+
+Geolocation IP blocking is a technique used to block visitors from accessing certain pages or contents by geolocation information like country, state, city and so on based on IP address. This technique is useful as it can manage and block unwanted visitors like those from blacklisted countries from visiting your website. For instance, an user from country A will be blocked from viewing the main page of the website. By using geolocation IP blocking, merchants can now reduce spam and unwanted traffic to their websites.
+
+Learn More  
+Security
+
+IP Geolocation API is helpful in combating fraud and securing your online business. As we know, it is very concerning as fraud cases are on the rise. Further actions are needed before it is too late to reduce chargebacks and fraud losses. Fraud investigators or merchants can obtain geographical and network information related to visitors IP addresses including proxies or crawlers by using IP geolocation API. These location data provided by IP2Location.io can be used to secure your business from online fraud.
+
+Domain WHOIS API helps enforce cybersecurity. WHOIS information provided by Domain WHOIS API can help cybersecurity specialists examine hackers' origins and techniques once they have identified the malicious websites. Malicious IP addresses can be identified and blocked based on the Domain WHOIS API information.
+
+Learn More  
+Advertising
+
+Geolocation advertising is a powerful tool for online marketers as it can help in analyzing customer behavior to drive engagement and display relevant advertisements based on customer preferences. By using the IP geolocation data, online marketers can show relevant information to their potential customers based on their current or past locations. For instance, an advertisement related to sports will be recommended and displayed for a customer who viewed sports activities over the past few days. By doing so, customers' insight for potential leads, brand awareness and website traffic can be increased by using the geolocation information.
+
+Domain WHOIS API Lookup helps to find out if the domain name has been registered before or not. A good and unique domain name can help in domain reputation, SEO rankings, branding and marketing.
+
+Learn More  
+Integrations
+
+Integrately
+
+Make
+
+Pabbly
+
+Pipedream
+
+Spring
+View More  
+Choose the Right IP Geolocation Solution
+Get IP geolocation data your way — via real-time API or downloadable database.
+
+Remotely-Hosted IP API
+
+Instantly retrieve IP geolocation data via REST API. Ideal for web apps, fraud checks, and live user insights.
+
+Claim Your Free Trial
+
+Self-Hosted IP Data
+
+Get full geolocation databases to host locally. Perfect for bulk processing, secure environments, or custom applications.
+
+Explore For More
+
+IP2Location.io provides IP geolocation API to perform geolocation lookup.
+
+Navigation
+Solutions
+Pricing
+Demo
+Resources
+API Documentation
+Libraries
+Integrations
+IP2Location.io API Status
+Blog
+Campaigns
+Sponsorship
+AI Information
+Support
+Contact Us
+© 2025 IP2Location.io. IP2Location® is a registered trademark of IP2Location.com.
+
+Terms of Service | Privacy Policy | Cookie Notice | Service Level Agreement
+
+Review us on 
+
+Passkey Authentication
+ Email Address
+PASSKEY SIGN IN
+Manage Cookies
+
+We utilize different types of cookies to enhance your experiences on our website. Data collected is utilized for analytics, personalization, advertising, and to facilitate specific functions. Click on categories below to learn more about their purposes and choose which types of cookies to allow based on your preferences.
+
+Strictly Necessary
+
+Strictly necessary cookies are essential for the basic functioning of a website such as navigation, access to secure areas, and ensuring the website operates correctly.
+
+Preferences
+
+Preferences cookies hold data that alters a website's functionality or appearance, like language choices or personalized settings.
+
+Statistics
+
+Statistics cookies gather user interaction data on websites to help owners analyze performance, identify popular pages, and enhance user experience.
+
+Marketing
+
+Marketing cookies track users across websites to create user profiles and display personalized ads based on browsing behavior and interests.
+
+DECLINE ALLACCEPT ALLDISCARD CHANGESSAVE CHANGES
+We uses cookies to ensure that you get the best experience on our websites. By clicking "Accept Cookies", you consent to our use of cookies. You can customize the cookie settings by clicking "Manage Cookies". To learn more on the data collected, please visit our Cookie Policy.
+ACCEPT COOKIESMANAGE COOKIES

@@ -1,0 +1,38 @@
+Pallets
+Donate
+Contributing
+Ecosystem
+Blog
+Contact
+
+Pallets is the open source community organization that develops and supports popular Python frameworks. The goal of Pallets is to grow the community around these projects to create a sustainable group of maintainers, contributors, and users.
+
+The following projects are the Pallets core libraries. We also provide support for community maintenance of our extension ecosystem.
+
+ Flask
+
+ Quart
+
+ Jinja
+
+ Click
+
+ Werkzeug
+
+ ItsDangerous
+
+ MarkupSafe
+
+Policies
+Security
+Releases
+Versions
+Code of Conduct
+Elsewhere
+Pallets on GitHub
+Pallets on PyPI
+Pallets-Eco on GitHub
+Pallets-Eco on PyPI
+Support Us
+Donate
+Funding Sources

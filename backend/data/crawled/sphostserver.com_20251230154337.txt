@@ -1,0 +1,5 @@
+Reserved domain for customers' server dedicated hostname
+
+Service Provider: Server Plan S.r.l
+
+Abuse contact: abuse@serverplan.com or https://www.serverplan.com/abuse-contact

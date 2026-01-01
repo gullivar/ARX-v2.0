@@ -1,0 +1,9 @@
+WAF Forbidden
+Application: orenburg-gov.ru
+Request ID: e1b0bd8f-e9a1-464d-92c1-e9154eab46dd
+Client IP: 221.138.189.189
+Запрос заблокирован, ВЕРОЯТНЕЕ ВСЕГО У ВАС ИСПОЛЬЗУЕТСЯ VPN ПРИЛОЖЕНИЕ, ДЛЯ ДОСТУПА К РЕСУРСУ ОТКЛЮЧИТЕ ЕГО, если вы находитесь не на территории Российской Федерации, то оставьте заявку через специального телеграмм чат-бота по ссылке или в службу технической поддержки help.orb.ru по ссылке в отдел "Кибербезопасности" с указанием Request ID и Application в текстовом виде.
+
+
+Please leave a request via a special telegram chatbot by link or contact the technical support service by link in the "Cybersecurity. Information protection" specifying the Request ID and Application in text format.
+SOC Protected

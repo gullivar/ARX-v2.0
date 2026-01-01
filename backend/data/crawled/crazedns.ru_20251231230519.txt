@@ -1,0 +1,12 @@
+ 
+?
+EN
+EN
+RU
+CrazeDNS is a domain name service that provides a permanent name for secure access to your Keenetic device from anywhere in the world. It is essentially the full analogue of KeenDNS, but runs on infrastructure updated for EAEU countries to ensure stability even when global Internet services are unavailable.
+With CrazeDNS you can easily connect to your Keenetic applications and home network devices by choosing your unique domain name of the kind home.netcraze.link or sweethome.crazedns.ru. Like KeenDNS, CrazeDNS is free and provides remote access even if your Keenetic does not have a public IP address (e.g. when connected via a 4G modem).
+Read more:
+KeenDNS Quick Start Guide
+Wi-Fi for Your Smart Home and Business
+© 2010-2025 NETCRAZE LLC
+Legal Information

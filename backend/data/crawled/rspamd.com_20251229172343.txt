@@ -1,0 +1,296 @@
+Features
+Open Source
+Pricing
+Testimonials
+Documentation
+Open Source Spam Filtering
+Fast, Free, Efficient Email Protection
+
+Rspamd is a fast, free and open-source spam filtering system with cutting-edge filtering technology, high performance and precise spam detection.
+
+Get Started Free
+View Premium Plans
+Need Enhanced Protection?
+
+Get premium fuzzy databases, stable packages, and dedicated support starting at £7/month.
+
+Start with Personal Plan
+Compare All Plans
+✓
+
+100+ enterprise users
+
+★
+
+100k+ open source users
+
+Key Advantages
+
+Blazing-fast performance, flexible configuration, and powerful filtering
+
+⚡
+High Performance
+~100 msg/sec
+🔧
+Lua Scripting
+Flexible Rules
+🚀
+Processing Power
+C/Lua Framework
+
+"Rspamd can process up to 100 messages per second on a single core, outperforming other spam filters by a significant margin."
+
+— Performance metrics from rspamd.com
+
+Key Features
+Powerful Open Source Spam Filtering
+
+Rspamd provides state-of-the-art spam protection with a focus on performance, flexibility and ease of use. Leveraging AI, machine learning, and advanced analytics for comprehensive email security.
+
+Advanced Protection
+
+Multi-layered filtering including SPF, DKIM, DMARC validation, URL black lists, pattern detection, and machine learning techniques.
+
+AI & LLM Integration
+
+Leverage Large Language Models and AI for advanced spam detection, content analysis, and intelligent filtering decisions.
+
+High Performance
+
+Written in C with event-driven architecture, achieving processing rates of hundreds of messages per second using modest hardware.
+
+Advanced Analytics
+
+Powerful data analysis with ClickHouse and Elasticsearch integration for deep insights into email patterns and threats.
+
+Easy Integration
+
+Works with major MTAs including Postfix, Exim, Sendmail and has native support in many mail server solutions.
+
+Web Interface
+
+User-friendly web interface for monitoring, configuration and checking message status in real time.
+
+Machine Learning
+
+Advanced neural networks and statistical analysis for adaptive spam detection that improves over time.
+
+Extensible Architecture
+
+Modular design with plugin support and Lua scripting for creating custom rules and integrations.
+
+Comprehensive Documentation
+
+Detailed user guides, configuration examples, and development resources to help you get the most out of Rspamd.
+
+Open Source
+Community-Driven Development
+
+Rspamd is 100% free and open source software released under the Apache 2.0 license. Join our community of contributors and users helping to make email safer for everyone.
+
+Powerful Core Features
+
+Benefit from years of development with comprehensive spam filtering capabilities, including content analysis, RBLs, SPF, DKIM, DMARC, and much more.
+
+ClickHouse & Redis Integration
+
+Store and analyze large volumes of email metadata using ClickHouse integration, and benefit from high-performance Redis backend for caching and data storage.
+
+Web Interface & Advanced Tooling
+
+Manage your installation through an intuitive web interface and leverage advanced tooling for configuration, monitoring, and fine-tuning of spam filtering rules.
+
+Antivirus Engine Support
+
+Seamlessly integrate with popular antivirus engines to enhance email security and detect malicious attachments before they reach users' inboxes.
+
+Personal Settings & Customization
+
+Tailor Rspamd to your specific needs with extensive personalization options, custom rules, and per-user settings for optimal filtering performance.
+
+GitHub Repository
+Documentation
+Project Statistics
+Active Contributors
+20+
+GitHub Stars
+2,200+
+First Released
+2008
+
+Rspamd is regularly updated with the latest spam-fighting techniques and security patches. The project is driven by both community contributions and professional developers.
+
+Buy Rspamd Premium
+
+By using commercial support, you directly sponsor and encourage Rspamd development as an Open Source project. Get enhanced features, priority support, and exclusive access to premium fuzzy databases.
+
+Monthly
+Yearly
+Features	
+Personal
+	
+Most Popular
+Starter
+	
+Scale
+	
+Enterprise
+
+Emails per Day	2K	30K	100K	1M+
+
+Open Source Project Support
+?
+Your subscription directly funds Rspamd open source development and maintenance
+	
+	
+	
+	
+
+
+Access to Fuzzy Premium Database
+?
+Access to enhanced fuzzy hash database with longer retention, more sources, and higher accuracy
+	
+	
+	
+	
+
+
+Access to Stable Packages Repository
+?
+Access to stable package repositories with long-term support and conservative updates
+	
+	
+	
+	
+
+
+Access to Fuzzy Bulk Service
+?
+Advanced service to distinguish bulk emails from direct messages for better filtering
+	
+	
+	
+	
+
+
+Scalable to your demands
+?
+Ability to customize email volume limits and features based on your specific requirements
+	
+	
+	
+	
+
+
+Priority Support
+?
+Fast-track support with guaranteed response times and direct access to experts
+	
+	
+	
+	
+
+
+Service Level Agreement (SLA)
+?
+Formal agreement guaranteeing specific response times and service availability
+	
+	
+	
+	
+
+
+Custom Development and Consulting
+?
+Dedicated development work and expert consulting for your specific use case
+	
+	
+	
+	
+
+
+Training Opportunities
+?
+Access to exclusive training sessions, webinars, and best practices guidance
+	
+	
+	
+	
+
+Pricing	
+£7 + VAT/month
+	
+£25 + VAT/month
+	
+£50 + VAT/month
+	
+Custom
+
+	Buy now	Buy now	Buy now	Contact Sales
+Why Choose Rspamd Premium?
+Enhanced Fuzzy Database
+
+Access to premium fuzzy hashes with longer retention, more sources, and higher accuracy.
+
+Open Source Support
+
+Your subscription directly funds Rspamd development and keeps the project thriving.
+
+Professional Support
+
+Get help from the experts who built Rspamd, with SLA options for enterprise users.
+
+Stable Packages
+
+Access to stable package repositories with long-term support and conservative updates.
+
+Need help choosing the right plan? Tip: If you prefer user count, divide the email numbers by 20 to get an estimation.
+
+Contact Sales for Custom Solutions
+Customer Stories
+Trusted by Security-Conscious Organizations
+
+See why IT security leaders choose Rspamd Pro for their critical email infrastructure.
+
+"Beyond the Rspamd's performance can be only compared with some extremely expensive brands available on the market, it has a bunch of powerful features and algorithms that constitute an amazing tool against Spam and other email abuses. Rspamd is broadly customizable and allows multiple strategies to avoid Spam and false positives. In conclusion, Rspamd team is not only giving an incredible support for Locaweb but it has also been a great partner."
+
+Rafael Abdo
+
+Computer Security Incident Coordinator, Locaweb
+
+Previous testimonial
+Next testimonial
+Ready to Secure Your Email Infrastructure?
+
+Join thousands of organizations already protecting their communications with Rspamd. Get started today with our free open source solution.
+
+Download Now
+Read Documentation
+Rspamd
+
+Enterprise-grade spam filtering solution built on open source technology.
+
+Twitter
+GitHub
+Telegram
+Email
+Product
+Features
+Open Source
+Commercial
+Testimonials
+Resources
+Documentation
+Blog
+Open Source
+Community
+Company
+Contact
+Terms of Service
+
+© 2025 Rspamd Ltd. All rights reserved.
+
+Privacy
+Terms
+Cookies

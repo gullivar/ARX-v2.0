@@ -1,0 +1,227 @@
+Skip to content
+Solutions
+Why Vercara
+Plans
+Partners
+Resources
+Company
+Search
+Support
+Login
+SPEAK TO SALES
+
+ULTRADNS
+
+Vercara's Authoritative DNS Server
+
+Hosted DNS for secure, fast, and accurate query responses to websites and other vital online assets.
+
+SEE DEMO
+LEARN MORE
+Vercara >
+Solutions >
+Authoritative DNS
+Hosted DNS Services That Make Your Online Life Easier
+
+Transform your online experience with Vercara UltraDNS – the leading choice for enterprise DNS hosting. Our cloud-based service includes authoritative DNS servers, ensuring seamless and secure management for your digital infrastructure.
+
+Ensure uninterrupted access to your online assets with a service designed for 100% SLA for DNS resolution, keeping your business running smoothly.
+Trust your DNS management to a reliable provider with over 20 years of proven experience, ensuring peace of mind.
+Protect your infrastructure with built-in security features like DDoS protection and DNSSEC management, safeguarding against online threats.
+Access dedicated support 24/7 x365 from our team of DNS experts, providing assistance whenever you need it to keep your online presence at its best.
+Optimize your website’s performance with advanced traffic management services, delivering a seamless user experience.
+Easily manage changes through a user-friendly web-based portal or REST API, saving time and streamlining processes.
+Enhance website performance by reducing DNS latency, ensuring faster loading times for your visitors.
+Our Customers Have Spoken.
+UltraDNS Is the Best Choice for Your Business
+
+With near-zero response times and handling up to 100 billion global authoritative DNS queries daily, our nodes ensure optimal speed and reliability for businesses prioritizing performance. But don’t take our word for it. An independent survey* of over 15,000 UltraDNS and UltraDNS2 customers speaks for itself.
+
+96%
+
+Extremely satisfied with
+
+Availability
+
+95%
+
+Extremely satisfied with
+
+Reliability
+
+95%
+
+Extremely satisfied with
+
+Performance
+
+* 2024 independent survey of Vercara customers conducted by Enterprise Research Group.
+
+The Best DNS Hosting Service for Your Business
+
+Offering cloud-based DNS services with unmatched performance, availability, and security features, including built-in DDoS protection.
+
+TALK TO AN EXPERT
+Performance
+
+Designed for near-zero response times.
+
+Manage up to 100 billion global authoritative DNS queries per day with our trusted authoritative networks that use BGP and IP anycast routing schemes. Our DNS nodes are co-located with Vercara’s recursive and top-level-domain (TLD) servers, providing near-zero latency responses and instant cache updates for the zones that Vercara hosts.
+
+Availability
+
+Engineered for 100% availability.
+
+Have confidence that your website and other online assets are always available with our 100% uptime guarantee and industry-leading SLAs, our DNS services offer a global platform that is highly redundant with up to 47 nodes across 6 continents. 
+
+24x7x365 Support
+
+Dedicated expertise.
+
+Know that we are here for you, 24x7x365, with support from a team of dedicated DNS experts with years of experience supporting DNS for the world’s largest brands.
+
+Security
+
+Built-in layered protection.
+
+
+Protect against online internet threats with both UltraDNS and UltraDNS2 — DNS services engineered as a proprietary non-open-source. Nameserver segmentation and DNSSEC support add an additional layer of protection that prevents malicious activity.
+
+ 
+
+Flexible Options for Every Business
+
+Digicert offers an affordable, comprehensive cloud-based security packages tailored for small to mid-sized businesses, combining reliable DNS, effective DDoS protection, and an intuitive WAF.
+
+SPEAK TO SALES
+Deliver DNS Services Seamlessly
+
+Whether you’re looking for a primary, secondary, or dual primary managed DNS solution, we can meet your needs with customizable packages – utilizing two fully redundant networks that can work together to deliver DNS services seamlessly. Our services come with built-in security protections and provide highly reliable.
+
+REQUEST A DEMO
+UltraDNS Private Data Lake
+
+Simplify managing and analyzing DNS trends and support operations through deeper insights and strategic data. UltraDNS Private Data Lake provides a secure and private environment for analyzing DNS data, giving you unparalleled control and intelligence.
+
+LEARN MORE
+UltraDNS Multi-CDN Management
+
+Optimize content delivery and ensure uninterrupted uptime with multi-CDN management. UltraDNS’s solution intelligently distributes traffic across multiple CDN providers, preventing downtime, reducing latency, and enhancing global performance. Gain enterprise-grade redundancy, failover protection, and real-time insights for seamless and resilient content delivery.
+
+LEARN MORE
+UltraDNS SiteBacker – Monitoring & Failover
+
+Protect your mission-critical operations with UltraDNS SiteBacker, a cost-effective monitoring and failover solution that deploys quickly without additional hardware. It scales seamlessly to meet the demands of both local and global infrastructures.
+
+LEARN MORE
+UltraDNS Traffic Controller – Weighted Load Balancing
+
+Gain the ability to define weighted or round robin load balancing of your web and application traffic without the need for in-house hardware costs or management with UltraDNS Traffic Controller. UltraDNS Traffic Controller comes with UltraDNS SiteBacker for dynamically modifying weighted traffic away from unresponsive servers.
+
+LEARN MORE
+UltraDNS Directional DNS – Geolocation Based Routing
+
+Improve website performance and user experience by sending your visitors to specific servers based on their geographic locations, IP addresses, or IP address block with UltraDNS Directional DNS. With this feature, you can also protect your applications by blocking traffic from unwanted regions, countries, or provinces.
+
+LEARN MORE
+UltraDNS Health Check
+
+Ensure that your DNS is protected from misconfiguration, remains in-line with best practices, and is compliant with all RFCs and industry standards with UltraDNS HealthCheck.
+
+LEARN MORE
+DNSSEC
+
+DNSSEC provides one-click protection to ensure the integrity of your DNS from malicious attacks, such as cache poisoning and DNS hijacking.
+
+LEARN MORE
+UltraDNS Terraform – Infrastructure Automation
+
+Define cloud and on-prem resources in human-readable configuration files that can be versioned, reused, and shared with UltraDNS Terraform, an infrastructure-as-code (IaC) capability used widely in devops.
+
+LEARN MORE
+Apex Alias
+
+Use DNS CNAME functionality at the apex (or root) of a domain with Apex Alias and utilize CDNs and outsourced cloud environments as the apex of a domain to resources outside of the domain.
+
+See more UltraDNS features. 
+
+UltraDNS2
+More Protection with DNS Service Redundancy
+
+Add on this option with your UltraDNS deployment to get the highest degree of service-level redundancy with two separate DNS anycast resolution networks that deliver exponential value with all of the above features and more:  
+
+Distinct network and routing policies and diverse network operations 
+Capabilities for the most demanding business continuity requirements 
+18 additional global DNS nodes 
+Advanced DNS features that work seamlessly across two diverse networks 
+Administrative simplicity through a single pane of glass solution 
+Business continuity, disaster recovery, and compliance  
+LEARN MORE
+
+“I would absolutely recommend UltraDNS to anyone, without any thought. DNS is critical for any website. There’s no doubt about that, and no room for poor service.”
+
+Vikram Gaur
+Associate VP for Cloud Infrastructure, Public Cloud, DevOps, and Enterprise Systems at Snapdeal
+
+READ THE STORY
+Professional Services
+Maximize the Value of UltraDNS’ Secure DNS Service with Expert Insights
+
+Authoritative DNS is critical to ensuring that customers can find you. Our DNS experts provide insights to maximize the value of UltraDNS to ensure the security and health of your DNS footprint.
+
+DNS Zone Migrations – seamless integration to the UltraDNS platform
+DNS Assessment – maximize DNS performance while minimizing potential downtime
+Product guidance – leverage our team of experts for guidance on implementing best practices for optimizing your Vercara solutions to meet your specific business and security needs
+
+To find out more about Vercara Professional Services, reach out to your account executive or complete the contact form below.
+
+
+FIND OUT MORE
+Navigating DNS Management: Scaling, Securing, and Complying with Ease!
+
+Navigating the complexities and challenges of DNS management has become a critical concern for organizations in the rapidly evolving digital landscape. This recorded webinar explores organizations’ multifaceted difficulties in managing their DNS infrastructure.
+
+WATCH THE WEBINAR
+Interested in Learning More?
+Discover UltraDNS
+GET THE SOLUTION SHEET
+UltraDNS
+VIEW THE FAQS
+Weekly Updates on the Cyber Threat Landscape
+VIEW THE REPORTS
+VIEW ALL AUTHORITATIVE DNS CONTENT
+Securing the online experience.
+
+Cloud infrastructure and cybersecurity services for DNS, DDoS and web applications.
+
+FOLLOW US
+ 
+ 
+
+Solutions
+
+UltraSecure
+Managed DNS
+Authoritative DNS
+Protective DNS
+DDoS Protection
+Web Appliation Firewall
+
+Industries
+
+eCommerce
+Financial Services
+Healthcare
+Online Gaming & Gambling
+Registry & Registrar
+Communication Service Providers
+Travel & Tourism
+
+General
+
+Resources
+About
+Careers
+Contact
+Support
+© 2025 DigiCert, Inc. All rights reserved.     Privacy Policy   |   Legal   |  Cookie Settings  |   Do Not Sell My Personal Info  |   Sitemap

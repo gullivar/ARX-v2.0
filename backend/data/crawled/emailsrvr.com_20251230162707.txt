@@ -1,0 +1,15 @@
+
+
+emailsrvr.com
+
+emailsrvr.com is a carrier grade email hosting service focused on high standards of abuse prevention, detection, and response. We provide a completely white-label email hosting service used by businesses world-wide. We use multiple third-party blacklists to block spam at our network edge.
+
+If you need assistance with your email which is hosted by emailsrvr.com, please contact your administrator.
+
+If you have any questions regarding mail delivery to emailsrvr.com, please send an email to postmaster@emailsrvr.com or visit our postmaster website at https://postmaster.emailsrvr.com/.
+
+If you need to report abuse originating from emailsrvr.com, please send an email to abuse@emailsrvr.com.
+
+If you have questions regarding your DMARC report, please send an email to dmarc_reports@emailsrvr.com.
+
+Looking for your webmail login? You can find it at https://webmail.emailsrvr.com

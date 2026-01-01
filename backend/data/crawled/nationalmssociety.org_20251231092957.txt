@@ -1,0 +1,46 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZZLD89'); window.addEventListener('pushdatalayer', function(event) {
+        const section = event.detail?.siteSection;
+        const subsection = event.detail?.siteSubsection;
+    	const pageUrl = event.detail?.pageUrl;	
+        const pageTitle = event.detail?.pageTitle;
+    	const promptSelection = event.detail?.promptSelection;
+    	const formId = event.detail?.formId;
+        const dataLayerEvent = {
+            event: event.detail.eventName,
+            eventCallback: function () {
+                document.dispatchEvent(new CustomEvent('postdatalayerpush', {
+                    bubbles: true,
+                    composed: true,
+    				detail: event.detail,
+                }));
+            },
+        };
+        if (section) {
+    	    dataLayerEvent['site_section'] = section;
+        }
+        if (subsection) {
+        	dataLayerEvent['site_subsection'] = subsection;
+        }
+    	if (pageUrl) {
+    	    dataLayerEvent['pageUrl'] = pageUrl;
+        }
+     	if (pageTitle) {	
+    	    dataLayerEvent['pageTitle'] = pageTitle;
+        }
+    	if(promptSelection){
+    		dataLayerEvent['promptSelection'] = promptSelection;
+    	}
+    	if(formId){
+    		dataLayerEvent['form_ID'] = formId;
+    	}
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push(dataLayerEvent);
+    }); document.addEventListener('checkcookie', () => {
+        var hasCookie = document.cookie.split(';')
+            .some((cookie) => cookie.trim().startsWith('CookieConsent='));
+    	document.dispatchEvent(new CustomEvent('hascookie', { detail: hasCookie }));
+    });

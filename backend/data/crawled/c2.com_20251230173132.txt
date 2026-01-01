@@ -1,0 +1,32 @@
+Cunningham & Cunningham, Inc.
+
+We are a small consultancy that has specialized in object-oriented programming. We are not now taking on new clients as our principals are busy doing other things. We have closed our office on SW 40th Avenue. We are happy to correspond by email at the contact address below. We continue to operate this site and are happy to provide its services to the community for the foreseeable future.
+
+We have a sampling of papers, talks and position statements we've written over the years and some new pages composed just for the web.
+
+Published Papers
+Original Web Pages
+
+Of the many fine interviews that have probed our work these stand out as both insightful and accessible.
+
+By John Gage (1 hr 44 min video)
+By Bill Venners (5 parts text)
+by Doug Bernard (15 min video)
+
+We are proud to host and edit the Portland Pattern Repository which is an online journal for patterns about programs and the de facto home of the extreme programming discipline.
+
+Portland Pattern Repository's Wiki
+Extreme Programming Roadmap
+Environmental Structure Research Group (ESRG)
+
+We created the biologically inspired Cybords to stretch our programming experience. Ward explains this to folks that are proud to do strange things with electricity in this 30 min video from DorkbotPDX 0x1:
+
+
+
+
+We provide space and assistance to a few worthwhile projects and are sometimes confused with others.
+
+Kaweah River Page
+English Sports Car: C2.COM
+Optical Tracking of Apollo Spacecraft
+Address questions or comments to ward@c2.com @.

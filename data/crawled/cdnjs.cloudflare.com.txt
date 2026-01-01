@@ -1,0 +1,37 @@
+Cloudflare
+cdnjs.cloudflare.com
+Introduction
+
+cdnjs.cloudflare.com is an ultra-fast, reliable, globally available content delivery network for open-source libraries.
+
+Cloudflare works with the maintainers of the cdnjs project and distributes the latest versions as they are released.
+
+What else should I know about cdnjs.cloudflare.com?
+
+You can find the libraries made available through cdnjs.cloudflare.com by searching on the cdnjs project's website.
+
+To load a distributed library, copy and paste the HTML snippet for that library in your web page. For instance, to load jQuery, embed the snippet in your web page: <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+cdnjs.cloudflare.com files are served with NEL headers and allowed to be cached for a 1 year period. The NEL headers are used solely to measure the performance and stability of our content delivery network.
+
+What terms apply to cdnjs.cloudflare.com?
+
+Your use of cdnjs.cloudflare.com is subject to our Terms. By using cdnjs.cloudflare.com, you agree to our Terms, and our standard abuse process.
+
+What about the privacy of my users?
+
+cdnjs.cloudflare.com is governed by our Privacy Policy. We are committed to keep your personal information personal and private. We will not sell or rent your personal information to anyone.
+
+Please note that Cloudflare will provide the cdnjs project with anonymized and aggregated usage data regarding cdnjs.cloudflare.com that will be made publicly available, as indicated here.
+
+Have any feature suggestions for the cdnjs project?
+
+You can create an issue on the cdnjs project's GitHub page here.
+
+© 2025 Cloudflare, Inc.
+
+Privacy
+ 
+Terms
+ 
+Abuse

@@ -1,0 +1,478 @@
+Best Products
+Launches
+News
+Forums
+Advertise
+Subscribe
+Sign in
+Welcome to Product Hunt!
+The place to launch and discover new tech products.
+Take a tour.
+Top Products Launching Today
+For the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more
+GitHub Wrapped 2025
+Your Year in Code 2025
+Open Source
+•
+GitHub
+•
+Tech
+
+2
+
+—
+
+Giselle
+Build and run AI workflows. Open source.
+Productivity
+•
+Open Source
+•
+Artificial Intelligence
+
+7
+
+—
+
+ExtraBar
+Build precise Mac actions and trigger them from the bar
+Mac
+•
+Productivity
+•
+Menu Bar Apps
+
+1
+
+—
+
+Dropstone
+The Recursive Swarm IDE. 10,000 Agents in one tab
+Productivity
+•
+Developer Tools
+•
+Artificial Intelligence
+
+2
+
+—
+
+InstallKit
+Set up your new Mac in minutes, not hours.
+Mac
+•
+Open Source
+•
+GitHub
+
+2
+
+—
+
+Get the best of Product Hunt, directly in your inbox.
+Sign Up
+Plannotator
+Annotate, review, and share Claude Code plans. (Plugin/Hook)
+Software Engineering
+•
+Artificial Intelligence
+•
+GitHub
+
+1
+
+—
+
+NotebookLM Tools Chrome Extension
+Chrome extension for NotebookLM productivity utilities
+Chrome Extensions
+•
+Artificial Intelligence
+
+0
+
+—
+
+BetaCircle
+Get 12 android testers for 14 days in Closed Testing
+Android
+•
+Developer Tools
+
+1
+
+—
+
+Time
+Time Zones and Meetings in your macOS menu bar
+Time Tracking
+•
+Meetings
+•
+Menu Bar Apps
+
+3
+
+—
+
+AssemblyAI
+Build Voice AI Apps With One API
+Promoted
+API
+•
+Developer Tools
+•
+Artificial Intelligence
+
+12
+
+844
+
+BizCard
+Kill LinkedIn QR contacts. Make real connections instead.
+Hardware
+•
+Artificial Intelligence
+•
+Social Networking
+
+10
+
+—
+
+Molmo 2
+SOTA video understanding, pointing, and tracking VLM
+Open Source
+•
+Artificial Intelligence
+
+1
+
+—
+
+See all of today's products
+Yesterday's Top Products
+1. VibrantSnap
+Create & Share Videos That Convert
+Design Tools
+•
+Productivity
+•
+Sales
+
+17
+
+304
+
+2. Tweny
+Focus timer that actually cares about your eyes
+iOS
+•
+Health & Fitness
+•
+Productivity
+
+13
+
+249
+
+3. HMPL
+Lightweight server-oriented template language for JavaScript
+Open Source
+•
+Developer Tools
+•
+GitHub
+
+6
+
+228
+
+4. Kardy
+The most funnest group card eva (typos included)
+Messaging
+•
+Business
+•
+Entertainment
+
+6
+
+180
+
+AssemblyAI
+Build Voice AI Apps With One API
+Promoted
+API
+•
+Developer Tools
+•
+Artificial Intelligence
+
+12
+
+844
+
+5. Linkeddit
+Find Your Next Customers on Reddit Who Are Ready To Buy Now
+Sales
+•
+Marketing
+•
+reddit
+
+17
+
+174
+
+See all of yesterday's top products
+Last Week's Top Products
+1. Surgeflow
+Automate your browser tasks with a single command
+Browser Extensions
+•
+Chrome Extensions
+•
+Productivity
+
+139
+
+664
+
+2. Typeless for iOS
+AI voice keyboard now on iPhone
+iOS
+•
+Productivity
+•
+Artificial Intelligence
+
+146
+
+656
+
+3. ConnectMachine
+A private AI agent that manages your network and connections
+Android
+•
+iOS
+•
+Artificial Intelligence
+
+97
+
+601
+
+4. /agent by Firecrawl
+Gather structured data wherever it lives on the web
+Developer Tools
+•
+Artificial Intelligence
+•
+Data
+
+32
+
+514
+
+AssemblyAI
+Build Voice AI Apps With One API
+Promoted
+API
+•
+Developer Tools
+•
+Artificial Intelligence
+
+12
+
+844
+
+5. Super Agents by ClickUp
+Tag, message, + manage AI agents across your daily workflows
+Productivity
+•
+Artificial Intelligence
+
+55
+
+514
+
+Get the best of Product Hunt, directly in your inbox.
+Sign Up
+See all of last week's top products
+Last Month's Top Products
+1. Guideflow
+The AI demo automation platform for SaaS
+Sales
+•
+Marketing
+•
+Artificial Intelligence
+
+635
+
+1,296
+
+2. Welltory
+Stop energy drain
+iOS
+•
+Health & Fitness
+•
+Productivity
+
+578
+
+1,023
+
+3. Talo
+All‑in‑one AI translator: calls, events, streaming & API
+SaaS
+•
+Artificial Intelligence
+
+215
+
+867
+
+4. Gemini 3
+Bring any idea to life with multimodal capabilities
+Artificial Intelligence
+
+18
+
+952
+
+AssemblyAI
+Build Voice AI Apps With One API
+Promoted
+API
+•
+Developer Tools
+•
+Artificial Intelligence
+
+12
+
+844
+
+5. TrustMRR
+The database of verified startup revenues
+Marketing
+•
+SaaS
+
+68
+
+841
+
+See all of last month's top products
+Trending Forum Threads
+p/producthunt
+🔥 Best AI Automation Tools: Nominate Your Favorites for the Product Hunt Orbit Awards
+Upvote
+(267)
+•
+35
+p/bult-ai
+Importance of usage metrics
+Upvote
+(45)
+•
+0
+p/savvyshot
+🎉 New Year Sale - 40% OFF Savvyshot
+Upvote
+(14)
+•
+0
+p/product-hunt-wrapped-2025
+#1 Product of the Day! 🏆 2025 Wrapped & What’s Next
+Upvote
+(13)
+•
+3
+View all
+Start new thread
+Top Product Categories
+Engineering & Development
+Vibe Coding Tools
+AI Coding Agents
+AI Code Editors
+LLMs
+AI Chatbots
+AI Infrastructure Tools
+Prompt Engineering Tools
+Productivity
+AI notetakers
+Note and writing apps
+Team collaboration software
+Search
+Marketing & Sales
+Lead generation software
+Marketing automation platforms
+Design & Creative
+Video editing
+Design resources
+Graphic design tools
+AI Generative Media
+Social & Community
+Social Networking
+Professional networking platforms
+Community management
+Finance
+Accounting software
+Fundraising resources
+Investing
+AI Agents
+AI Voice Agents
+AI Agent Automation
+See All Categories >>
+Trending categories
+Vibe Coding Tools
+AI Dictation Apps
+AI notetakers
+Code Review Tools
+No-code Platforms
+Figma Plugins
+Static site generators
+Top reviewed
+Lovable
+n8n
+Attio
+PostHog
+Vapi
+Granola
+Raycast
+Supabase
+Trending products
+Lovable
+Screen Studio
+bolt.new
+Wispr Flow
+Framer
+Replit
+Vapi
+Granola
+Top forum threads
+Cursor or Claude Code?
+POLL: Domain or product first?
+YC deadline in <2 weeks; Who's applying?
+We Got into YC, Got Kicked Out, and Fought Our Way Back
+How Wispr Flow found PMF through pivot
+Best Vibe Coding tool so far?
+Landing page roast - 48 hours only
+Fix your tagline with the PH CEO
+© 2025 Product Hunt
+Newsletter
+Apps
+About
+FAQ
+Terms
+Privacy & Cookies
+Privacy Choices
+Advertise
+llms.txt
+Contact us: hello@producthunt.com

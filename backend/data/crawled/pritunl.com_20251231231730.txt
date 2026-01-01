@@ -1,0 +1,297 @@
+Pritunl - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server pritunl Toggle navigation VPC Peering Single Sign-On Infrastructure Security Platforms Documentation Docs Contact Support Support Forum Enterprise Distributed OpenVPN, IPsec and WireGuard Server Virtualize your private networks across datacenters and provide simple remote access in minutes Demo Simple Virtual Private Networks Create a cloud vpn with complex site-to-site links, gateway links and provide local network access to remote users. Protect your network traffic and remote users connecting over public connections with secure encryption. All from a simple web interface The Most Secure VPN Server Pritunl provides innovative security features not available from any other provider. Including TPM and Apple Secure Enclave device authentication, a dynamic firewall, SELinux policies, dual web server design and self shutdown notification system Explore Security Features Pritunl Zero Open source BeyondCorp server is also available from Pritunl providing zero trust security for privileged access to ssh and web applications Pritunl Zero AWS VPN Server Interconnect AWS VPC networks across AWS regions and provide reliable remote access with automatic failover that can scale horizontally Explore AWS integration Single Sign-On Securely deploy remote access to thousands of users using their existing company account with support for several single sign-on providers and protocols See all providers Multi-Cloud VPC Peering Create multi-cloud site-to-site links with VPC peering. VPC peering available for AWS, Google Cloud, Azure and Oracle Cloud Learn more Infrastructure Quickly scale to thousands of users with high availability in a cloud environment without the need for expensive proprietary hardware Learn more Platform and Device Support Pritunl supports all OpenVPN clients and has official clients for several devices and platforms View all platforms WireGuard Support Clients can choose between connecting with OpenVPN and WireGuard. All networking features are available with the WireGuard protocol WireGuard documentation Advanced Security Pritunl is the most secure VPN server available and the only VPN server to offer up to five layers of authentication See all security features Plugin System Highly customizable Python plugin system to allow expanding and modifying Pritunl. Plugins can be created to support custom authentication systems and custom access control systems Learn more about plugins Aviatrix Alternative A faster and more secure alternative to Aviatrix with more features and no per-connection pricing Pulse Secure Alternative Lower cost and more customizable alternative to Pulse Secure with transparent pricing Tailscale Alternative Lower cost and more customizable WireGuard server alternative to Tailscale Open Source Alternative Pritunl is the best open source alternative to proprietary commercial vpn products such as Aviatrix and Pulse Secure. Create larger cloud vpn networks supporting thousands of concurrent users and get more control over your vpn server without any per-user pricing Get Started Open Source All source code for Pritunl is publicly available on GitHub. Allowing for complete transparency and customization. Free to Use Free and open source alternative to Aviatrix and Pulse Secure. No registration or credit card necessary. Easy Configuration All configuration is done from a web interface allowing easy management of large organizations and complex configurations. Security All traffic between clients and the server is encrypted. Optional two-step authentication is available using Google Authenticator. Multiple Protocols Pritunl supports both OpenVPN and WireGuard clients. IPsec is used for site-to-site links and VPC peering. REST API Easily integrate and configure Pritunl with other services using the REST API. Documentation is available in the platforms section. GitHub Project Follow Pritunl Examples Getting Started View Tutorial Replicated Servers View Tutorial Secure Access to a Private Network View Tutorial Site-to-Site Configuration View Tutorial Distributed and Scalable Scale Easily Pritunl servers can be easily distributed across multiple servers and different datacenters for improved performance, high availability and automatic failover when an instance fails. Simple Distribution All server communication and interconnecting is done with MongoDB allowing servers to be quickly connected without having to modify firewalls for inter-server communication. High Availability All Pritunl servers are equal in the cluster and can run independently in the event of other instances failing. Distributed and Scalable Subscription Plans Pritunl is free to use with optional monthly subscriptions available to purchase for additional features. The enterprise license may be used on all the servers in the cluster and does not require a individual license for each server. Contact Support Subscribe to Substack Free Single server Run a single Pritunl instance Unlimited users No limit on the number of users created or users connected Unlimited devices No limit on the number of devices that each user has
+                  connected $0/month Premium 7 Day Free Trial Billing per host Each Pritunl host is billed at $10/month. The host can
+                  contain an unlimited number of VPN servers and unlimited
+                  number of users or connections Unlimited users No limit on the number of users created or users connected Unlimited devices No limit on the number of devices that each user has
+                  connected Port forwarding Forward ports to vpn clients Gateway links Create a gateway link to route traffic for a local network
+                  to a vpn client. Allowing the vpn clients to access the
+                  remote network that is available to the linked vpn client Failover gateway links Connect multiple gateway links to a Pritunl server and when
+                  a link goes down another available link will automatically
+                  be used Bypass secondary auth Per-user option to bypass secondary authentication such as
+                  two-factor authentication. For server users that can't
+                  provide a two-factor code Chromebook support Easily connect Chromebook users with ChromeOS compatible
+                  vpn profiles Configuration sync When clients connect with a Pritunl client, vpn setting
+                  changes such as port/protocol will be updated to allow the
+                  client to connect without needing to download a new
+                  configuration Email user keys Email users a link to download vpn profiles using a
+                  configured SMTP server Additional themes Change the interface to light or dark theme $10/month Subscribe Enterprise 7 Day Free Trial All Premium features All of the features included with a Premium subscription Billing per host Each Pritunl host is billed at $70/month. The host can
+                  contain an unlimited number of VPN servers and unlimited
+                  number of users or connections Single sign-on Single sign-on with SAML, Google Apps, Duo Security and
+                  Radius TPM device authentication Device authentication with TPM and Apple Secure Enclave Automatic failover When a Pritunl instance fails the vpn servers running on the
+                  instance will automatically failover to another available
+                  Pritunl instance Replicated servers Replicate a vpn server accross multiple Pritunl instances to
+                  easily scale horizontally to handle more user connections VXLan support Automatic VXLan management for replication across
+                  availability zones without layer 2 connectivity while
+                  still maintaining client-to-client communication AWS VPC integration Integrate with AWS VPC to allow Pritunl to dynamically
+                  control the VPC routing table Site-to-site VPN Easily create a site-to-site link between two Pritunl
+                  instances without any complicated configuration Server route NAT control Enable or disable NAT for server routes DNS mapping Map connected vpn clients to dns domains such as
+                  user0.org0.vpn using a custom dns server
+                  that runs along with the Pritunl server DNS forwarding Forward dns queries to a dns server on a remote network
+                  such as a consul server on an AWS VPC Monitoring Monitor server and user metrics with InfluxDB Advanced auditing Optional advanced auditing of user and
+                  administrator related events for improved
+                  security and intrusion detection Bridged VPN mode Create tap servers that bridge the vpn clients to the servers
+                  local network interface. Allowing vpn clients to get an ip
+                  address on the servers local network Multiple administrators Allow multiple administrators to manage the Pritunl server User pin policy Control over requiring users to set a pin before they are
+                  able to connect to a vpn server Plugin system Integrate Pritunl with other systems using plugins writen in
+                  Python API access Manage Pritunl cluster using RESTful API with support for
+                  multiple API keys IPsec site-to-site links Site-to-site links with IPsec using pritunl-link client. Link client does not require database connection Multi-Cloud VPC peering Simple VPC peering and hybrid cloud with Pritunl link client Automated link failover Link failover with automated routing table management and automated port forwarding for Unifi links $70/month Subscribe Enterprise+ 7 Day Free Trial All Premium features All of the features included with a Premium subscription All Enterprise features All of the features included with a Enterprise subscription Unlimited links No limit on the number of Pritunl link clients in a single Pritunl cluster IPsec site-to-site links Site-to-site links with IPsec using pritunl-link client. Link client does not require database connection Multi-Cloud VPC peering Simple VPC peering and hybrid cloud with Pritunl link client Automated link failover Link failover with automated routing table management and automated port forwarding for Unifi links $100/month Subscribe Documentation Install Select a Linux distribution below and run the commands to install Pritunl. After installing no setup is necessary simply open the web interface at https://SERVER_IP/ in your web browser and login with the default username and password which is "pritunl". Arch Linux AmazonLinux 2023 AlmaLinux 8 AlmaLinux 9 Debian 12 Oracle Linux 8 Oracle Linux 9 Ubuntu 22.04 Ubuntu 24.04 Arch Linux sudo tee -a /etc/pacman.conf << EOF
+[pritunl]
+Server = https://repo.pritunl.com/stable/pacman
+EOF
+
+sudo pacman-key --keyserver hkp://keyserver.ubuntu.com -r 7568D9BB55FF9E5287D586017AE645C0CF8E292A
+sudo pacman-key --lsign-key 7568D9BB55FF9E5287D586017AE645C0CF8E292A
+sudo pacman -Sy
+sudo pacman -S --noconfirm pritunl openvpn
+sudo systemctl start mongodb pritunl
+sudo systemctl enable mongodb pritunl AmazonLinux 2023 sudo tee /etc/yum.repos.d/mongodb-org.repo << EOF
+[mongodb-org]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/amazon/2023/mongodb-org/8.0/x86_64/
+gpgcheck=1
+enabled=1
+gpgkey=https://www.mongodb.org/static/pgp/server-8.0.asc
+EOF
+
+sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/amazonlinux/2023/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo yum -y remove iptables-services
+sudo systemctl stop firewalld.service
+sudo systemctl disable firewalld.service
+
+sudo dnf -y install epel-release
+sudo dnf -y install pritunl mongodb-org pritunl-openvpn
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl AlmaLinux 8 sudo tee /etc/yum.repos.d/mongodb-org.repo << EOF
+[mongodb-org]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/redhat/8/mongodb-org/8.0/x86_64/
+gpgcheck=1
+enabled=1
+gpgkey=https://www.mongodb.org/static/pgp/server-8.0.asc
+EOF
+
+sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/almalinux/8/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo yum -y remove iptables-services
+sudo systemctl stop firewalld.service
+sudo systemctl disable firewalld.service
+
+sudo dnf -y install epel-release
+sudo dnf -y install pritunl mongodb-org pritunl-openvpn
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl AlmaLinux 9 sudo tee /etc/yum.repos.d/mongodb-org.repo << EOF
+[mongodb-org]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/redhat/9/mongodb-org/8.0/x86_64/
+gpgcheck=1
+enabled=1
+gpgkey=https://www.mongodb.org/static/pgp/server-8.0.asc
+EOF
+
+sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/almalinux/9/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo yum -y remove iptables-services
+sudo systemctl stop firewalld.service
+sudo systemctl disable firewalld.service
+
+sudo dnf -y install epel-release
+sudo dnf -y install pritunl mongodb-org pritunl-openvpn wireguard-tools
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl Debian Bookworm sudo tee /etc/apt/sources.list.d/mongodb-org.list << EOF
+deb [ signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.org/apt/debian bookworm/mongodb-org/8.0 main
+EOF
+
+sudo tee /etc/apt/sources.list.d/openvpn.list << EOF
+deb [ signed-by=/usr/share/keyrings/openvpn-repo.gpg ] https://build.openvpn.net/debian/openvpn/stable bookworm main
+EOF
+
+sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt bookworm main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor --yes
+curl -fsSL https://swupdate.openvpn.net/repos/repo-public.gpg | sudo gpg -o /usr/share/keyrings/openvpn-repo.gpg --dearmor --yes
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+
+sudo ufw disable
+sudo apt update
+sudo apt --assume-yes install pritunl mongodb-org wireguard-tools
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl Oracle Linux 8 sudo tee /etc/yum.repos.d/mongodb-org.repo << EOF
+[mongodb-org]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/redhat/8/mongodb-org/8.0/x86_64/
+gpgcheck=1
+enabled=1
+gpgkey=https://www.mongodb.org/static/pgp/server-8.0.asc
+EOF
+
+sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/oraclelinux/8/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo yum -y remove iptables-services
+sudo systemctl stop firewalld.service
+sudo systemctl disable firewalld.service
+
+sudo dnf -y install epel-release
+sudo dnf -y install pritunl mongodb-org pritunl-openvpn
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl Oracle Linux 9 sudo tee /etc/yum.repos.d/mongodb-org.repo << EOF
+[mongodb-org]
+name=MongoDB Repository
+baseurl=https://repo.mongodb.org/yum/redhat/9/mongodb-org/8.0/x86_64/
+gpgcheck=1
+enabled=1
+gpgkey=https://www.mongodb.org/static/pgp/server-8.0.asc
+EOF
+
+sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/oraclelinux/9/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo yum -y remove iptables-services
+sudo systemctl stop firewalld.service
+sudo systemctl disable firewalld.service
+
+sudo dnf -y install epel-release
+sudo dnf -y install pritunl mongodb-org pritunl-openvpn wireguard-tools
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl Ubuntu 22.04 sudo tee /etc/apt/sources.list.d/mongodb-org.list << EOF
+deb [ signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0 multiverse
+EOF
+
+sudo tee /etc/apt/sources.list.d/openvpn.list << EOF
+deb [ signed-by=/usr/share/keyrings/openvpn-repo.gpg ] https://build.openvpn.net/debian/openvpn/stable jammy main
+EOF
+
+sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt jammy main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor --yes
+curl -fsSL https://swupdate.openvpn.net/repos/repo-public.gpg | sudo gpg -o /usr/share/keyrings/openvpn-repo.gpg --dearmor --yes
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+
+sudo ufw disable
+sudo apt update
+sudo apt --assume-yes install pritunl mongodb-org wireguard-tools
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl Ubuntu 24.04 sudo tee /etc/apt/sources.list.d/mongodb-org.list << EOF
+deb [ signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/8.0 multiverse
+EOF
+
+sudo tee /etc/apt/sources.list.d/openvpn.list << EOF
+deb [ signed-by=/usr/share/keyrings/openvpn-repo.gpg ] https://build.openvpn.net/debian/openvpn/stable noble main
+EOF
+
+sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/unstable/apt noble main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor --yes
+curl -fsSL https://swupdate.openvpn.net/repos/repo-public.gpg | sudo gpg -o /usr/share/keyrings/openvpn-repo.gpg --dearmor --yes
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+
+sudo ufw disable
+sudo apt update
+sudo apt --assume-yes install pritunl mongodb-org wireguard-tools
+sudo systemctl start mongod pritunl
+sudo systemctl enable mongod pritunl pritunl client Open Source OpenVPN and WireGuard Client Free and open source cross platform OpenVPN and WireGuard client. Connect to any OpenVPN server with a secure open source client. Additonal integration available when connecting to a Pritunl server. Free and open source alternative to Viscosity. Visit Client Homepage Linux Arch Linux AlmaLinux 10 Debian 13 Oracle Linux 10 Fedora 43 Ubuntu 22.04 Ubuntu 24.04 Ubuntu 25.10 Arch Linux sudo tee -a /etc/pacman.conf << EOF
+[pritunl]
+Server = https://repo.pritunl.com/stable/pacman
+EOF
+
+sudo pacman-key --keyserver hkp://keyserver.ubuntu.com -r 7568D9BB55FF9E5287D586017AE645C0CF8E292A
+sudo pacman-key --lsign-key 7568D9BB55FF9E5287D586017AE645C0CF8E292A
+sudo pacman -Sy
+sudo pacman -S pritunl-client-electron AlmaLinux 10 sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/almalinux/10/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo dnf install pritunl-client-electron Debian 13 sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt trixie main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+sudo apt update
+sudo apt install pritunl-client-electron Oracle Linux 10 sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/oraclelinux/10/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo dnf install pritunl-client-electron Fedora 43 sudo tee /etc/yum.repos.d/pritunl.repo << EOF
+[pritunl]
+name=Pritunl Repository
+baseurl=https://repo.pritunl.com/stable/yum/fedora/43/
+gpgcheck=1
+enabled=1
+gpgkey=https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc
+EOF
+
+sudo dnf install pritunl-client-electron Ubuntu 22.04 sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt jammy main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+sudo apt update
+sudo apt install pritunl-client-electron Ubuntu 24.04 sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt noble main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+sudo apt update
+sudo apt install pritunl-client-electron Ubuntu 25.10 sudo tee /etc/apt/sources.list.d/pritunl.list << EOF
+deb [ signed-by=/usr/share/keyrings/pritunl.gpg ] https://repo.pritunl.com/stable/apt questing main
+EOF
+
+sudo apt --assume-yes install gnupg
+curl -fsSL https://raw.githubusercontent.com/pritunl/pgp/master/pritunl_repo_pub.asc | sudo gpg -o /usr/share/keyrings/pritunl.gpg --dearmor --yes
+sudo apt update
+sudo apt install pritunl-client-electron macOS Apple Silicon + Intel version: v1.3.4392.66 SHA-256 Checksum Download Pkg Windows x86 + ARM version: v1.3.4392.66 SHA-256 Checksum Download Installer Pritunl, Inc. 1700 7th Ave Ste 116-211 Seattle, WA 98101 (206) 202-2276 Pritunl, Inc © 2025 Terms Privacy ‡ AVIATRIX and logo Reg. U.S. Pat. & Tm. Off. ‡ PULSE SECURE and logo Reg. U.S. Pat. & Tm. Off. ‡ TAILSCALE and logo Reg. U.S. Pat. & Tm. Off. ‡ WIREGUARD is a registered trademark of Jason A. Donenfeld

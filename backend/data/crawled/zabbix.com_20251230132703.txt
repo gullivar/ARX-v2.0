@@ -1,0 +1,275 @@
+Zabbix
+PRODUCT
+	
+SOLUTIONS
+	
+SUPPORT & SERVICES
+	
+TRAINING
+	
+PARTNERS
+	
+COMMUNITY
+	
+ABOUT US
+GET ZABBIX
+Zabbix Academy - your pace, your schedule. Find out more!Blog Documentation  
+English (US)
+ Customer Login
+The universal, open-source observability solution for IT & OT 
+
+Monitor everything - the cloud, networks, services, IoT, and more.
+Available on-premise or in the cloud. Anytime, anywhere. 
+
+Start Monitoring Watch Demo
+100%
+open-source
+20+
+years of experience
+300 000+
+deployments in 190+ countries
+Tune in to our free online meetup on January 8
+
+Let's discuss migration wins, new JSON tricks,
+and Promabbix in action.
+
+Register now
+TRUSTED BY
+Adaptable & enterprise-ready
+Exceptionally low TCO
+
+Enjoy predictable, fixed support pricing — no license fees, no per-device charges, no matter the size of your environment.
+
+ 
+Trusted by the Fortune 500
+
+Zabbix is a trusted partner to the world’s leading enterprises — reliable, sustainable, and built for the long haul.
+
+ 
+Secure by design
+
+Trusted by enterprises worldwide — with top-tier security, full compliance, and rock-solid reliability. 
+
+ 
+Always available
+
+Engineered for scalability and stability — ensuring efficient operations and zero downtime for your business-critical systems.
+
+ 
+Built for what’s next
+
+With a scalable architecture and ongoing innovation, Zabbix is fully equipped to support your long-term vision. 
+
+ 
+MSP friendly
+
+Designed with Managed Service Providers in mind, Zabbix enables efficient multitenant operations and growth at scale.
+
+Leaders in every vertical rely on Zabbix. You can, too.
+SEB, one of the largest banks in the Baltics and part of the Swedish SEB Group, turned to Zabbix for a reliable and unified log monitoring platform. The result was a powerful, customized Zabbix solution tailored to the needs of SEB and its customers.
+Read more →
+The European Space Agency (ESA) relies on Zabbix to monitor the Columbus lab aboard the International Space Station (ISS). With real-time tracking and automated discovery, Zabbix guarantees seamless research and experiments.
+Read more →
+QU!CK Scan & Go, a company specializing in self-service markets, turned to Zabbix for reliable 24/7 store monitoring. By anticipating power outages and taking prompt action, they reduced perishable product losses by 75% and ensured a seamless customer experience.
+Read more →
+fTLD Registry, a global coalition of banks managing the .Bank and .Insurance domains, trust Zabbix to ensure a multi-layered domain defense, strengthening compliance and protecting financial institutions and their customers.
+Read more →
+Linx, a Latin American retail tech leader, turned to Zabbix for scalable monitoring, gaining real-time visibility, reduced downtime, and improved reliability in the process.
+Read more →
+Freedom at the core
+
+Zabbix brings unified observability to every environment — from your data centers to the cloud and the edge.
+
+Free & Open-source
+Zabbix On-Premise
+Get full control by deploying Zabbix on your infrastructure — completely free as an open-source solution.
+Download
+View benefits
+Benefits:
+Full ownership and autonomy
+Ideal for high-security and regulated industries
+Maximum control and data privacy
+Fully-managed SaaS platform
+Zabbix Cloud
+Let us take care of the hosting, scaling, and security, and gain more time for other aspects of your venture.
+Free trial
+View benefits
+Benefits:
+Scalability on demand
+Built-in security and compliance features
+Quick setup and zero maintenance
+Zabbix on your cloud of choice
+Third-Party Cloud
+Get full monitoring capabilities on AWS, Azure, Google Cloud, and more.
+Get started
+View benefits
+Benefits:
+Seamless integration into your existing cloud environment
+Cloud-native services and infrastructure
+Single pane of glass
+Zabbix gives you complete visibility into every layer of your IT and OT infrastructure, while integrating smoothly with your existing systems. 
+Explore more
+We support your success
+
+Backed by 20 years of experience, a global partner network, and worldwide support, we make sure your monitoring challenges are resolved quickly and reliably.
+
+Response time that sets the standard
+
+Get instant access to the Zabbix team of professionals – 24/7 support guaranteed with an average response time of 12 minutes. 
+
+Find out more →
+Offices worldwide
+260+ partners (and counting)
+ 
+Enterprise users choose Zabbix
+Zabbix
+
+"It is an excellent monitoring and observability tool, with many tools to maintain the entire infrastructure."
+
+IT Services Associate – IT Services
+Gartner® and Peer Insights™ are trademarks of Gartner, Inc. and/or its affiliates. All rights reserved. Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences, and should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose.
+Zabbix
+
+"Integration with other products like Service Now via webhooks really creates simple integrations, we also integrated zabbix with other systems to make it a complete solution."
+
+IT Manager - Manufacturing
+Gartner® and Peer Insights™ are trademarks of Gartner, Inc. and/or its affiliates. All rights reserved. Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences, and should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose.
+Zabbix
+
+"In my opinion, Zabbix is without a doubt the most powerful and versatile monitoring platform available."
+
+Director of Engineering - Travel and Hospitality
+Gartner® and Peer Insights™ are trademarks of Gartner, Inc. and/or its affiliates. All rights reserved. Gartner Peer Insights content consists of the opinions of individual end users based on their own experiences, and should not be construed as statements of fact, nor do they represent the views of Gartner or its affiliates. Gartner does not endorse any vendor, product or service depicted in this content nor makes any warranties, expressed or implied, with respect to this content, about its accuracy or completeness, including any warranties of merchantability or fitness for a particular purpose.
+   
+Fuelled by knowledge, driven by people
+With offices in every time zone, our team keeps the momentum going — ensuring continuous creativity and innovation.
+What I love most about working at Zabbix is the opportunity to develop and grow professionally in an environment that allows me to experience different cultures and challenges.
+Fernanda Moraes
+Head of Marketing, Zabbix Latin America
+It’s incredibly rewarding to be a Zabbix engineer and support a large number of users in an environment that values teamwork and indiviaduality.
+Osamu Uehara
+Support Engineer, Zabbix Japan
+I have the best colleagues – friendly and very professional ones. As Zabbix trainer I can travel the world and see a lot of distant places, meet new people and share my experience with them.
+Kaspars Mednis
+Training Project Manager, Zabbix
+Working at Zabbix has been the best way to measure the great sense of community instilled by Zabbix’s open-source framework.
+Julia Valim
+Partner Relationship Manager, Zabbix Latin America
+There are so many reasons why I love working at Zabbix that it's difficult to choose one! I take great pride in looking into the problems our users face and helping them find solutions.  
+Kazuhiro Mizutani
+Support Engineer, Zabbix Japan
+Here in Zabbix, we are a team of highly qualified professionals, making a product for highly qualified professionals all around the world.
+Vjaceslavs Bogdanovs
+UX/UI and Integration Technical Lead, Zabbix
+All our team is setting the bar not only for IT infrastructure monitoring, but even much more – design, service, informal events etc. This is the place where you can share and actually realize your greatest ideas.
+Zane Lasmane
+Head of Marketing, Zabbix
+Join our team!
+USA
+Europe
+Japan
+China
+Argentina
+Brazil
+Chile
+Colombia
+México
+USA
++1 877-4-ZABBIX
+ 
+EUROPE
++371 6778-4742
+ 
+JAPAN
++81 3-4405-7338
+ 
+CHINA
++86 021-6978-6188
+ 
+ARGENTINA
++54 11 3989-4060
+ 
+BRAZIL
++55 11 4210-5104
+ 
+CHILE
++56 44 890 9410
+ 
+COLOMBIA
++57 1 3819310
+ 
+MÉXICO
++52 55 8526 2606
+Find a local partner Contact us
+PRODUCT
+Features
+What's new in Zabbix 7.4
+Integrations
+System requirements
+Lifecycle & Release Policy
+License
+Documentation
+Roadmap
+ 
+SOLUTIONS
+By Topic
+By Industry
+For Enterprises
+Case studies
+Customers and Users
+ 
+SERVICES
+Support
+Consulting
+Turnkey Solution
+Template Building
+Upgrade
+Development
+Integration
+Migration
+ 
+TRAINING
+Core courses
+Upgrade courses
+Extra courses
+Zabbix Academy New
+Testimonials
+Training FAQ
+Application form
+Free webinars
+ 
+PARTNERS
+Partner Program
+Become a Partner
+Strategic Partners
+Distributors
+Map of partners
+ 
+COMMUNITY
+Events
+Forum
+Zabbix Blog
+Bugs and Feature Requests
+Developers
+Community templates
+Newsletters
+ 
+COMPANY
+About Us
+Career
+Contacts
+Pressroom
+Trademark
+Join us! We're hiring!
+Join 30,000+ Zabbix news readers 
+ 
+	
+	
+	
+	
+Security Policy
+Privacy Policy
+Trademark Policy
+Legal Request
+
+© 2001-2025 by Zabbix LLC. All rights reserved.

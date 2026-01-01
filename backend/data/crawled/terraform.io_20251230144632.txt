@@ -1,0 +1,154 @@
+Skip to main content
+Terraform
+Install
+Tutorials
+Documentation
+Sandbox
+Registry
+(opens in new tab)
+Try Cloud
+(opens in new tab)
+Search
+Command or control key
+K key
+Terraform
+Terraform
+Install
+Intro to Terraform
+Tutorials
+Documentation
+Documentation
+Configuration Language
+Terraform CLI
+HCP Terraform
+Terraform Enterprise
+Terraform MCP Server
+BETA
+BETA
+Terraform Migrate
+Provider Use
+Plugin Development
+Registry Publishing
+Integration Program
+Resources
+Tutorial Library
+Certifications
+Sandbox
+Community Forum
+(opens in new tab)
+Support
+(opens in new tab)
+GitHub
+(opens in new tab)
+Terraform Registry
+(opens in new tab)
+Developer
+Terraform
+Automate Infrastructure on Any Cloud
+ 
+Install
+ 
+Tutorials
+ 
+Documentation
+What is Terraform?
+
+Terraform is an infrastructure as code tool that lets you build, change, and version infrastructure safely and efficiently. This includes low-level components like compute instances, storage, and networking; and high-level components like DNS entries and SaaS features.
+
+Learn more
+Get Started
+
+Follow a code-complete, hands-on tutorial to learn the Terraform basics with your favorite infrastructure provider.
+
+ 
+Amazon Web Services
+ 
+Azure
+ 
+HCP Terraform
+ 
+Google Cloud Platform
+ 
+Oracle Cloud
+ 
+Docker
+ 
+HCP Terraform
+Automate your infrastructure provisioning at any scale
+Try HCP Terraform for free
+Sandbox
+ 
+Terraform sandbox
+The Terraform sandbox contains preinstalled tools and services for you to experiment with Terraform.
+Best Practices
+ 
+Terraform style guide
+Learn recommended style conventions for Terraform configuration and workflows.
+ 
+Phases of Terraform adoption
+Design your Terraform workflows for scale.
+Featured Documentation
+ 
+Configuration Language
+Describe infrastructure in Terraform configuration language.
+ 
+Terraform CLI
+Learn Terraform's CLI-based workflows.
+ 
+HCP Terraform
+Collaborate with your team to provision infrastructure.
+Popular Use Cases
+ 
+25min
+Deploy federated multi-cloud Kubernetes clusters
+Use Terraform to provision Kubernetes clusters in the Azure and AWS clouds, deploy Consul Helm charts enabling Consul federation, and deploy an example application on both clusters.
+Terraform
+Consul
+ 
+25min
+Create preview environments with Terraform, GitHub Actions, and Vercel
+Configure HCP Terraform and GitHub Actions to create frontend and backend preview environments for your application. Dynamically create and destroy preview environments by opening, merging and closing pull requests.
+Terraform
+ 
+43min
+Build a golden image pipeline with HCP Packer
+Create a golden image pipeline with HCP Packer. Build an application image on the base with Packer and provision it on AWS with Terraform.
+Terraform
+Packer
+Get Certified
+ 
+3 tutorials
+Prepare for the Terraform Associate (003) Certification Exam
+Follow these materials to prepare for the Terraform Associate 003 exam. If you plan to take your exam after January 8, 2026, switch to the Terraform Associate 004 study materials from the left menu. Choose to follow an in-depth guide or to review select exam topics depending on the kind of preparation support you need. Then review sample questions to learn what to expect on exam day.
+Terraform
+ 
+33 tutorials
+Terraform Associate (003) Tutorials
+Progress through these tutorials to prepare for the Terraform Associate (003) certification exam.
+Terraform
+
+On this page:
+
+What is Terraform?
+Get Started
+Sandbox
+Best Practices
+Featured Documentation
+Popular Use Cases
+Get Certified
+Theme
+Dark
+Light
+System
+Certifications
+System Status
+Cookie Manager
+Terms of Use
+Security
+Privacy
+Trademark Policy
+Trade Controls
+Accessibility
+Give Feedback
+(opens in new tab)
+stdin is not a tty

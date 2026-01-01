@@ -1,0 +1,94 @@
+Home
+News
+Compare browsers
+About
+October 11, 2025 - Site update: web-features now included + new feature list functionality
+Can I use 
+Search
+ ?  Settings
+Home
+Index of features
+ Filter features
+Latest features
+CSS if() function
+View Transitions (cross-document)
+WebAssembly Import/Export of Mutable Globals
+WebAssembly Multi-Value
+WebAssembly BigInt to i64 conversion in JS API
+Most searched features
+WebP image format
+Flexbox
+CSS Grid
+gap property for Flexbox
+dvh (Small, Large, and Dynamic viewport units)
+Test a feature
+
+Our partnership with BrowserStack now lets you test your website for compatibility across 2,000+ real browsers and devices.
+
+Test on:
+
+IE 11
+Safari 17
+Safari on iPhone 14
+Chrome on Galaxy S23
+Did you know?
+Next
+
+If a feature you're looking for is not available on the site, you can vote to have it included. Better yet, if you've done the research you can even submit it yourself!
+
+Third party tools
+The CanIUse Embed — Add support tables to your site
+Caniuse Component — Add support tables to your presentations
+Caniuse command line tool
+Doiuse...? — Lint your CSS to check what features work
+I want to use — Select multiple features and see what % of users can use them
+
+See full list
+
+Browser scores
+Current version Dev version
+Chrome 143: 438
+Safari 26.2: 413
+Firefox 146: 418
+About these scores
+Other support sites
+Can I email... — Support tables for HTML & CSS in emails
+Accessibility Support — Support information for web accessibility features in assistive technologies
+Can I Webview — Documentation for WebView capabilities, limitations & features
+Can I use...
+
+Browser support tables for modern web technologies
+
+Created & maintained by @Fyrd, design by @Lensco.
+
+Support data contributions by the GitHub community.
+
+Usage share statistics by StatCounter GlobalStats for November, 2025
+
+Location detection provided by ipinfo.io.
+
+Browser testing done via 
+
+Support via Patreon
+
+Become a caniuse Patron to support the site and disable ads for only $1/month!
+
+or Log in
+
+Site links
+Home
+Feature index
+Browser usage table
+Feature suggestion list
+Caniuse data on GitHub
+Legend
+Green
+= Supported
+Red
+= Not supported
+Greenish yellow
+= Partial support
+Gray
+= Support unknown
+
+Enable color-blind friendly colors

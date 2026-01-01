@@ -1,0 +1,39 @@
+Contact Us
+Privacy Tech Solutions for TV Advertising
+
+Vault is purposefully built for TV advertising, enhancing privacy while unlocking the full value of inventory for media owners and brands.
+
+Vault Data Clean Room
+
+The Vault Data Clean Room is an interoperable privacy solution for TV that allows media owners and advertisers to share sensitive consumer data securely while providing a way to measure results and assess return on ad spend across ad buys.
+
+The Vault DCR offers a privacy-enhanced tokenization process using Experian’s LUID, a unique identifier that allows for direct data sharing and matching in an anonymized fashion.
+
+Why Vault DCR?
+
+Media owners who choose off-the-shelf data clean rooms are creating a challenging scenario for both advertisers and platforms that buy and measure their inventory. Each DCR that a publisher uses would require a separate integration, potentially straining resources for buyers.
+
+The Vault DCR is the first compatible solution that allows CTV media owners and ad buyers to share data in a tokenized fashion, solving the problem of fragmentation for both sides and enhancing privacy compliance. This ensures that advertisers can measure their results and assess their return on ad spend across all ad buys. Media owners in turn get proper credit for aiding in those outcomes while meeting the spirit and letter of privacy standards. Above all, the Vault DCR helps avoid interruption in measurement capabilities as new privacy laws and regulations go into effect in the future.
+
+Integrate with ease
+
+Quickly and easily integrate with our data clean room. No extra work is needed, simply integrate with our API to start anonymizing your user’s data.
+
+Unlock audience insights
+
+Enrich your 1st party data with Experian LUIDs to unlock valuable audience insights. Use these insights to create optimized strategies, including creating custom audiences for precise targeting.
+
+Preserve measurement
+
+With our advanced data clean room, advertisers can continue to effectively measure results across channels while media owners achieve maximum profitability.
+
+How Does Vault DCR Work?
+
+Ready to learn more?
+
+Contact Us
+Legal
+
+Privacy Policy
+
+2025 Tatari Inc. All rights reserved.

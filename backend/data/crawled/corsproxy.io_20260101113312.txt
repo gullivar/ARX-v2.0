@@ -1,0 +1,43 @@
+CorsProxy | Fix CORS Errors in Seconds We are celebrating the biggest update to our platform! Get 20% off on all plans for a limited time! 🎉 Home Demo Cache New Pricing Affiliates Documentation Dashboard Home Demo Cache New Pricing Affiliates Documentation Dashboard Fix CORS Errors in seconds, not hours. CorsProxy allows web applications to securely access resources from different domains, overcoming browser restrictions. https://corsproxy.io/?url= https://example.com/api/ 5 Billion Requests per Month 1 PB Bandwidth per Month 25 ms Response Time 99.9% Uptime per Year Trusted by thousands of developers at companies like View all Requests in your Dashboard The top notch CORS solution that devs and companies trust and love CorsProxy is built on a highly reliable infrastructure designed to
+            deliver consistent performance and maximum uptime. Global Edge Network Our service leverages a global edge network of 330+ data centers in over 50 countries , ensuring ultra-low latency and exceptional availability Industry-leading technologies CorsProxy is built on a highly reliable infrastructure designed
+                  to deliver consistent performance, maximum uptime, low latency
+                  and high availability. Secure by design All data transmitted through CorsProxy is encrypted with industry-standard protocols , ensuring your information remains secure and private. What is a CORS Error? Every JavaScript developer has faced the frustration of dealing
+              with Cross-Origin Resource Sharing (CORS) issues. It's one of the
+              most common and annoying errors in web development, blocking your
+              app from accessing APIs and resources on different domains. CorsProxy allows web applications to securely access resources
+              from different domains, overcoming browser restrictions. It
+              simplifies API integration, enhances security, and improves user
+              experience by enabling seamless interaction with third-party
+              services. Access to XMLHttpRequest at 'https://api.example.com' from origin
+            'http://localhost:8100' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No
+            'Access-Control-Allow-Origin' header is present on the requested
+            resource. 10,000+ Projects use CorsProxy.io Over 4,600 of them are open source. View them on GitHub . Try for free Customer Stories See how leading companies use CorsProxy.io to power their applications "Uniswap serves 4 Million Requests per month, by proxying Cryptocurrency Icons from their Web App." Read the full story "Freenet serves 8 Million requests per month by proxying news content in their Webmail Dashboard." Read the full story Frequently asked questions Answers to the most frequently asked questions. Is CorsProxy free to use? Yes! You can use CorsProxy to develop your application for
+                  free and without the need of creating an account. You only
+                  need an account and a paid subscription if you want to use
+                  CorsProxy on a production site. Can I use corsproxy.io directly without an account? Yes! You can use CorsProxy like this:
+                  https://corsproxy.io/?url=https://example.com But without an
+                  account, you can use CorsProxy only for development and won't
+                  be able to access analytics. So we would recommend to create a
+                  free account. How do I monitor my usage? You can monitor your usage by logging into the CorsProxy
+                  Dashboard. There you will find detailed analytics on the
+                  number of requests made, bandwidth used, and the most accessed
+                  urls. What happens if I exceed my usage limits? If you exceed your usage limits, you will receive an email
+                  notification. Depending on your subscription plan. Can I track usage for multiple projects under one account? Yes, you can add multiple subdomains for different projects
+                  under a single account. Each subdomain will have its own set
+                  of analytics, allowing you to monitor and manage the usage
+                  separately. How secure is my data with CorsProxy? Security is a top priority for CorsProxy. We use
+                  industry-standard encryption for data in transit and at rest.
+                  Additionally, we offer features like API key management and
+                  allowed referrers to ensure that your usage is secure. What measures are in place to ensure the reliability of
+                CorsProxy? CorsProxy operates on a highly available infrastructure with
+                  redundant systems to ensure maximum uptime. We continuously
+                  monitor our services and perform regular maintenance to
+                  maintain reliability. How can I upgrade, downgrade or cancel my subscription plan? You can manage your subscription plan from the "Billing"
+                  section in the Dashboard. Here, you can upgrade or downgrade
+                  your plan based on your usage needs. Changes to your
+                  subscription will take effect immediately. Are there any restrictions on the types of content that can be
+                proxied through CorsProxy? While CorsProxy supports a wide range of content, it is
+                  important to comply with our terms of service. Prohibited
+                  content includes anything illegal, harmful, or malicious.
+                  Refer to our terms of service for a complete list of
+                  restrictions. Privacy Policy Terms of Service DMCA Contact System Status ↗

@@ -1,0 +1,14 @@
+Connections ECI DCA Connection Requirements ECI DCA requires connectivity to the PrintFleet Central service and your PrintFleet Optimizer server. ECI DCA is designed to work on most networks with no additional configuration, but if the network has
+                connection restrictions in place (such as restrictive firewall and/or proxy), the firewall/proxy settings may
+                need to be adjusted to allow ECI DCA to connect to the services listed on this page. Inbound Connections There are no inbound connections from the internet to ECI DCA. Outbound Connections Service Port Connection To Data Upload 443/tcp (HTTPS) Your PrintFleet Optimizer Server Software Updates 443/tcp (HTTPS) PrintFleet Central Registration (fallback) 53/udp (DNS) Local Network DNS server (primary) PrintFleet Central (fallback) PrintFleet Optimizer Server All collected data is sent to the PrintFleet Optimizer server where it is made available for reporting and alerting.
+                ECI DCA connects to your PrintFleet Optimizer server using HTTPS (port 443/tcp ). Please contact your PrintFleet solution
+                administrator for information on domain names and IP address(es) used by your server. This connection is protected by industry standard TLS (Transport Layer Security). This connection stays open the entire time ECI DCA is running.
+                Normally a WebSocket connection is used, but in some situations ECI DCA may fall back to using either server-sent events or HTTP long polling . PrintFleet Central PrintFleet Central is a service run by PrintFleet to facilitate
+                DCA registration, automatic software updates, and DCA installations (this site), and is required for ECI DCA operation.
+                Note that ECI DCA doesn't send any collected device or configuration data to PrintFleet Central. Software Updates ECI DCA auto-updates itself by downloading updates published on https://updates.printfleetcdn.com/ .
+                Connections are always made on the standard HTTPS port 443/tcp . Registration ECI DCA uses DNS requests to *.reg.pf-d.ca to register. It will first try to do this using the local
+                network DNS servers, and then fall back to talking directly to PrintFleet Central IP addresses (using port 53/udp ).
+                The firewall only needs to permit this connection to PrintFleet Central if local DNS server(s) don't resolve the registration requests. Service Region ECI DCA is routed to the region to which it has the lowest network latency and based on service
+                availability. In certain locations, the region being used may change over time as activity on
+                the global internet infrastructure can affect latency. Support Please contact PrintFleet Support if you have additional questions
+                about connectivity or are running into any registration or installation problems.

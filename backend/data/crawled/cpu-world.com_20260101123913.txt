@@ -1,0 +1,9 @@
+Access denied
+This IP address is blocked.
+
+We deny access to:
+
+Open proxies
+Addresses within data center IP ranges
+Automated requests and most types of bots
+Visitors that post spam in comments and/or forums, attempt to circumvent site security, or scrap the content of our site.

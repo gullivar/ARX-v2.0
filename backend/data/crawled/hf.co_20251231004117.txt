@@ -1,0 +1,280 @@
+Hugging Face
+Models
+Datasets
+Spaces
+Community
+Docs
+Pricing
+Log In
+Sign Up
+The AI community building the future.
+
+The platform where the machine learning community collaborates on models, datasets, and applications.
+
+Explore AI Apps
+or
+Browse 2M+ models
+Trending on
+this week
+Models
+zai-org/GLM-4.7
+Updated 7 days ago
+•
+29.5k
+•
+1.26k
+MiniMaxAI/MiniMax-M2.1
+Updated 3 days ago
+•
+93.4k
+•
+658
+Qwen/Qwen-Image-Edit-2511
+Updated 7 days ago
+•
+25.1k
+•
+550
+Qwen/Qwen-Image-Layered
+Updated 11 days ago
+•
+16.4k
+•
+850
+lightx2v/Qwen-Image-Edit-2511-Lightning
+Updated about 13 hours ago
+•
+158k
+•
+248
+Browse 2M+ models
+Spaces
+Wan2.2 Animate
+👁
+3.23k
+
+Wan2.2 Animate
+
+TRELLIS.2
+🏢
+649
+
+High-fidelity 3D Generation from images
+
+Qwen Image Edit 2511
+🏆
+158
+
+Generate edited images based on a prompt and input image
+
+Omni Image Editor
+🖼
+313
+
+Image edit, text to image, face swap, image upscale
+
+Qwen Image Layered
+🚀
+336
+
+Decompose an image into layers and export as PPTX or ZIP
+
+Browse 1M+ applications
+Datasets
+bigai/TongSIM-Asset
+Updated 1 day ago
+•
+10.3k
+•
+244
+MiniMaxAI/VIBE
+Updated 7 days ago
+•
+4.86k
+•
+214
+facebook/research-plan-gen
+Updated 2 days ago
+•
+491
+•
+123
+FutureMa/DramaBench
+Updated 1 day ago
+•
+179
+•
+99
+nvidia/NitroGen
+Updated 12 days ago
+•
+3.82k
+•
+162
+Browse 500k+ datasets
+The Home of Machine Learning
+
+Create, discover and collaborate on ML better.
+
+The collaboration platform
+
+Host and collaborate on unlimited public models, datasets and applications.
+
+Move faster
+
+With the HF Open source stack.
+
+Explore all modalities
+
+Text, image, video, audio or even 3D.
+
+Build your portfolio
+
+Share your work with the world and build your ML profile.
+
+Sign Up
+Accelerate your ML
+
+We provide paid Compute and Enterprise solutions.
+
+Team & Enterprise
+
+Give your team the most advanced platform to build AI with enterprise-grade security, access controls and dedicated support.
+
+Getting started
+
+Starting at $20/user/month
+
+Single Sign-On
+Regions
+Priority Support
+Audit Logs
+Resource Groups
+Private Datasets Viewer
+Inference Providers
+
+Access 45,000+ models from leading AI providers through a single, unified API with no service fees.
+
+Explore Models
+Compute
+
+Deploy on optimized Inference Endpoints or update your Spaces applications to a GPU in a few clicks.
+
+View pricing
+
+Starting at $0.60/hour for GPU
+
+More than 50,000 organizations are using Hugging Face
+Ai2
+Team
+Non-Profit • 841 models • 4.97k followers
+AI at Meta
+Enterprise
+Company • 2.29k models • 10.4k followers
+Amazon
+Enterprise
+Company • 21 models • 3.69k followers
+Google
+Enterprise
+Company • 1.07k models • 40.7k followers
+Intel
+Company • 264 models • 3.32k followers
+Microsoft
+Enterprise
+Company • 431 models • 17.5k followers
+Grammarly
+Team
+Company • 11 models • 200 followers
+Writer
+Enterprise
+Company • 32 models • 372 followers
+Our Open Source
+
+We are building the foundation of ML tooling with the community.
+
+Transformers
+154,417
+
+State-of-the-art AI models for PyTorch
+
+Diffusers
+32,273
+
+State-of-the-art Diffusion models in PyTorch
+
+Safetensors
+3,573
+
+Safe way to store/distribute neural network weights
+
+Hub Python Library
+3,198
+
+Python client to interact with the Hugging Face Hub
+
+Tokenizers
+10,348
+
+Fast tokenizers optimized for research & production
+
+TRL
+16,833
+
+Train transformers LMs with reinforcement learning
+
+Transformers.js
+15,145
+
+State-of-the-art ML running directly in your browser
+
+smolagents
+24,651
+
+Smol library to build great agents in Python
+
+PEFT
+20,375
+
+Parameter-efficient finetuning for large language models
+
+Datasets
+21,033
+
+Access & share datasets for any ML tasks
+
+Text Generation Inference
+10,717
+
+Serve language models with TGI optimized toolkit
+
+Accelerate
+9,412
+
+Train PyTorch models with multi-GPU, TPU, mixed precision
+
+System theme
+Website
+Models
+Datasets
+Spaces
+Changelog
+Inference Endpoints
+HuggingChat
+Company
+About
+Brand assets
+Terms of service
+Privacy
+Careers
+Press
+Resources
+Learn
+Documentation
+Blog
+Forum
+Service Status
+Social
+GitHub
+Twitter
+LinkedIn
+Discord

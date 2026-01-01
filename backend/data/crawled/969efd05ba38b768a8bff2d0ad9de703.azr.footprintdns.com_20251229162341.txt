@@ -1,0 +1,1 @@
+sg1 sg1prdapp02 sg1prdapp02-canary VmssX64 4 4 ba767e86-8c34-4735-b442-8bfb44c82b74 10.1.0.43 1.0.5.1355

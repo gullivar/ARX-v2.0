@@ -1,0 +1,32 @@
+Content Security Policy
+Introduction
+Why CSP
+Strict CSP
+Adopting CSP
+FAQ
+Resources
+This documentation is outdated and available for historical reasons only. To learn how to enable strict Content Security Policy in your application, visit web.dev/strict-csp.
+Introduction
+
+Content Security Policy is a mechanism designed to make applications more secure against common web vulnerabilities, particularly cross-site scripting. It is enabled by setting the Content-Security-Policy HTTP response header.
+
+The core functionality of CSP can be divided into three areas:
+
+Requiring that all scripts are safe and trusted by the application owner (ideally by making sure they match an unpredictable identifier specified in the policy called the CSP nonce),
+
+Ensuring that page resources, such as images, stylesheets, or frames, are loaded from trusted sources,
+
+Miscellaneous other security features: preventing the application from being framed by untrusted domains, transparently upgrading all resource requests to HTTPS, and others.
+
+By adopting a strict policy, which prevents the loading of untrusted scripts or plugins, an application can add an important defense-in-depth layer against markup injection attacks. This documentation focuses on the XSS mitigation aspect of CSP because XSS is one of the most common and dangerous web vulnerabilities.
+
+An application can define a policy by setting the following header:
+
+Content-Security-Policy: default-src https:; script-src 'nonce-{random}'; object-src 'none'
+
+
+This policy will require all resources to be loaded over HTTPS, allow only <script> elements with the correct nonce attribute, and prevent loading any plugins.
+
+Note: Real policies are a bit more complicated for compatibility and security reasons; see this example.
+
+CSP support is available in several popular template systems and frameworks (for example, Closure Templates can automatically add CSP nonces). Several helper tools can assist you in building a secure policy, identifying any 

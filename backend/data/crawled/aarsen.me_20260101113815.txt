@@ -1,0 +1,5 @@
+Home - Arsen Arsenović Navigation Home Blog archive Contact information About Hi! I’m Arsen Arsenović. I’m involved in a variety of Free Software projects,
+including, but not limited to, Gentoo , Managarm , and GCC . Note This page is still under construction. The source code of this website is available on sr.ht .
+	All code generating the page is licensed under the GNU Affero General Public License, version 3 , all code samples are licensed under the BSD 3-clause license ,
+	and all other text is licensed under CC0 and the public domain.
+	Some icons are provided by Bootstrap.

@@ -1,0 +1,139 @@
+crates.io
+The Rust community’s crate registry
+Submit
+Change color scheme
+Browse All Crates
+|
+Log in with GitHub
+Install Cargo
+Getting Started
+Instantly publish your crates and install them. Use the API to interact and find out more information about available crates. Become a contributor and enhance the site with your work.
+213,151,514,788
+Downloads
+214,149
+Crates in stock
+New Crates
+product-farm-json-logic
+v0.1.0
+product-farm-core
+v0.1.0
+simple-groq-rs
+v0.1.0
+libgm
+v0.1.0
+libgm-macros
+v0.1.0
+pico-animation
+v0.2.0
+pico-transform
+v0.2.0
+rustapi-rs
+v0.1.1
+rustapi-core
+v0.1.1
+claude-code-status-line
+v1.0.0
+Most Downloaded
+syn
+hashbrown
+bitflags
+proc-macro2
+quote
+libc
+base64
+getrandom
+rand_core
+rand
+Just Updated
+mockforge-kafka
+v0.3.19
+oci-api
+v0.4.2
+rustapi-rs
+v0.1.1
+mockforge-ftp
+v0.3.19
+rustapi-macros
+v0.1.1
+rigscribe
+v0.1.4
+mockforge-amqp
+v0.3.19
+nhl_api
+v0.7.1
+mahc
+v1.17.0
+pkgsrc
+v0.5.4
+Most Recent Downloads
+hashbrown
+syn
+getrandom
+windows-sys
+bitflags
+itertools
+libc
+indexmap
+rand_core
+thiserror-impl
+Popular Keywords
+cli
+8,322 crates
+async
+3,690 crates
+api
+3,502 crates
+parser
+2,827 crates
+web
+2,338 crates
+database
+2,264 crates
+wasm
+2,162 crates
+blockchain
+2,088 crates
+http
+2,031 crates
+crypto
+2,025 crates
+Popular Categories
+Command line utilities
+14,946 crates
+Development tools
+14,077 crates
+No standard library
+9,853 crates
+Web programming
+7,810 crates
+API bindings
+7,431 crates
+Network programming
+6,970 crates
+Data structures
+6,529 crates
+Cryptography
+5,818 crates
+Asynchronous
+5,597 crates
+Science
+5,566 crates
+Rust
+rust-lang.org
+Rust Foundation
+The crates.io team
+Get Help
+The Cargo Book
+Support
+System Status
+Report a bug
+Policies
+Usage Policy
+Security
+Privacy Policy
+Code of Conduct
+Data Access
+Social
+rust-lang/crates.io
+#t-crates-io
+@cratesiostatus

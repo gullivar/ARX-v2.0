@@ -1,0 +1,7 @@
+We have been having distributed denial of service attacks done against our site on a regular basis. We have also blocked a number of countries due to fraud and phishing attacks against people using the site. br> If you are seeing this message, you may be trying to connect to the site on a proxy/tor/vpn node that has attacked the site in the recent past.
+Please wait a few seconds and then try to refresh the page, if you still get this message, please try to connect through another vpn node.
+If you're not using a vpn node, we have gradually improved our security systems and we expect to be opening up to the world very soon.
+
+
+
+221.138.189.189

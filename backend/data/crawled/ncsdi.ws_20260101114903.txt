@@ -1,0 +1,1 @@
+Connection denied by Geolocation Connection denied by Geolocation Setting. Reason: Blocked country: South Korea The connection was denied because this country is blocked in the Geolocation settings. Please contact your administrator for assistance. WatchGuard Technologies, Inc.

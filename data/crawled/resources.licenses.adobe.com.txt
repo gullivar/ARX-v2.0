@@ -1,0 +1,11 @@
+Test results
+
+Suite	Passed	Failed	Skipped	testng.xml
+Total	2	1	0	 
+lm-slr-service-api-tests	2	1	0	Link
+
+[OCR Content]
+Test results
+Suite                                                          Passed                       Failed                          Skipped                                testng.xml
+Total                                                              2                               i                                  0
+Im-shi-service-api-tests                                              2                            1                               내                                     Link

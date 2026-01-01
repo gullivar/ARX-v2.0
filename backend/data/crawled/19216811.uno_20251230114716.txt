@@ -1,0 +1,114 @@
+Skip to content
+Router IP Addresses
+Router Brands
+Default Router Passwords
+Tools
+Internet Speed Test
+What is my IP address?
+
+
+192.168.1.1
+
+192.168.1.1 is a private IP address used to login the admin panel of a router. 192.168.l.l is pre-specified by the router companies as the default gateway address and can be used to make different changes to the router’s settings.
+
+192.168.1.1 Login
+
+How to login to 192.168.1.1?
+Connect to the router’s network via Wi-Fi or Ethernet cable.
+Open a browser and type http://192.168.1.1 in the address bar.
+Enter the Username and Password and click Login.
+You will now be logged in into the admin panel of the router.
+
+Note: To access 192.168.1.1, make sure that your router IP Address is 192.168.1.1, and you are connected to the router’s Wi-Fi network, otherwise the page won’t load. Learn how to find your router’s IP address or try using a different IP address – 192.168.0.1 or 10.0.0.1.
+
+Forgot IP Address Username and Password?
+
+If you have forgotten the IP Address Username and Password or if they are not working then you can –
+
+Look at the manual/box or back of router. (or check default username and password list).
+If you changed the password and have lost it or forgotten it then you need to perform a factory reset. To do that, look for a small hidden RESET button on the back of your router. Press and hold that button for about 10-15 seconds using a paper clip or a needle. The router will reboot itself and will be back to default settings.
+How to Change Router IP Address?
+
+The default gateway IP address comes pre-assigned by your internet service provider, however, a user can configure it par to needs. It is often changed to prevent bad guys access your admin panel, prevent DDoS attacks, or just to add an additional layer of safety. Here’s how to do it –
+
+TP-Link: 
+
+Login to your default admin panel at 192.168.0.1 or 192.168.1.1 (admin/admin is username and password)
+Go to Advanced settings > Network > LAN.
+Under “IP Address” field you may change it to your desired address such as 192.168.1.2.
+
+Save it and the router will reboot to apply the changes.
+
+D-Link: 
+
+Login to your router configuration page (username: admin & password: admin/blank)
+Go to Setup > Network Settings.
+Now you will find Router IP Address field.
+
+Change it as preferred and Save Settings.
+
+NETGEAR:
+
+Login to NetGear router settings page via 192.168.1.1 or 192.168.0.1 or you can access via http://www.routerlogin.net or http://www.routerlogin.com.
+By default, the username is admin and password is password.
+Once logged in navigate to Advanced > from left side menu go to “Setup” > LAN Setup.
+Under LAN TCP/IP Setup, you will see IP Address. Change 10.10.10.1 as preferred.
+
+Apply Changes and the system will reboot to update settings.
+
+In any case during the process something goes wrong, then you may reset your router to default factory settings so all customization will be reverted back.
+
+Protecting your WiFi network is important to prevent unauthorized access. Follow basic rules such as enabling WPA2 encryption, setting up strong password, disabling WPS adds more security since it is an old method of synchronization between networks, enable MAC-address filtering and update your router firmware occasionally. Here is a complete guide on how to protect your WiFi network.
+
+ NOTE: To access a router’s default IP address, your device must be connected to the router’s Wi-Fi network. If it is not loading, check your network settings and make sure that you are using the correct web address. For more information, see: How do I find my router’s IP address and I cannot access my router web interface.
+
+Router IP Address
+
+192.168.1.1
+
+192.168.0.1
+
+192.168.100.1
+
+192.168.1.254
+
+10.0.0.1
+
+More IP Addresses
+Router Brands
+
+TP-Link
+
+D-Link
+
+NETGEAR
+
+Tenda
+
+ZTE
+
+Huawei
+
+More Router Brands
+Related Links
+
+How to change Wi-Fi password?
+
+Default Router Passwords
+
+Internet Speed Test
+
+How to find router IP address?
+
+What is an IP address?
+
+How to block a Wi-Fi user?
+
+How to protect your Wi-Fi network?
+
+How to reset router to default settings?
+
+Terms and Conditions
+Privacy Policy
+Contact Us
+Disclaimer: All trademarks and logos are property of their respective owners.

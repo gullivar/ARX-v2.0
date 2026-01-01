@@ -1,0 +1,21 @@
+Explore projects · GitLab Admin message There are only a few days left to help us reach our goal for the 2025 donation campaign! Your donations enable us to offer Framagit and around twenty other services, free of charge to everyone : support.framasoft.org ! Il ne reste plus que quelques jours pour nous aider à atteindre notre objectif pour la campagne de don 2025 ! Vos dons nous permettent de proposer Framagit et une vingtaine d'autres services, gratuitement et pour tout le monde : soutenir.framasoft.org ! Explore projects Most starred Trending Active Inactive All View eff_tracker project E jcleng
+/ eff_tracker 0 Updated Dec 31, 2025 0 0 0 0 Updated Dec 31, 2025 View LinkR-website project InterHop / LinkR
+/ LinkR-website LinkR website built with the Hugo Docsy template 0 Updated Dec 31, 2025 0 0 0 4 Updated Dec 31, 2025 View Godot Nightly Fedora project G teromene
+/ Godot Nightly Fedora 0 Updated Dec 31, 2025 0 0 0 0 Updated Dec 31, 2025 View Mobilizon project Kaihuri
+/ Mobilizon Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool. https://mobilizon.org Discuss at https://app.element.io/#/room/#mobilizon:matrix.org Join the forum: https://framacolibri.org/c/mobilizon/39 decentralized Meetup activitypub + 4 more federation Mobilizon Elixir Events 149 Updated Dec 31, 2025 149 129 13 390 Updated Dec 31, 2025 View hubzilla-addons project Harald Eilertsen
+/ hubzilla-addons Official addons for Hubzilla 0 Updated Dec 30, 2025 0 0 0 0 Updated Dec 30, 2025 View yyghub project Y yyg
+/ yyghub 0 Updated Dec 30, 2025 0 0 Updated Dec 30, 2025 View nixos-config project N gaelle
+/ nixos-config 1 Updated Dec 30, 2025 1 0 0 0 Updated Dec 30, 2025 View ethiciel-site project E Éthiciel
+/ ethiciel-site 0 Updated Dec 30, 2025 0 0 0 Updated Dec 30, 2025 View Mobile project M partymaps
+/ Mobile 0 Updated Dec 30, 2025 0 0 Updated Dec 30, 2025 View mobilizon-documentation project M Kaihuri
+/ mobilizon-documentation Documentation for Mobilizon 6 Updated Dec 30, 2025 6 41 3 11 Updated Dec 30, 2025 View agenda-libre-ruby project agenda-libre
+/ agenda-libre-ruby A calendar management project, for events and activities related to communities fighting for freedoms. This can be related to software, art, data, hardware, content, commons, internet. ruby-on-rails Events 21 Updated Dec 30, 2025 21 15 0 8 Updated Dec 30, 2025 View ALLEZLUA project A Philippe RIO
+/ ALLEZLUA Adaptation en Lua du compilateur OBERON-0 du professeur WIRTH décrit dans "Compiler Construction". Ce Transpiler (langage source vers langage source)  traduit  des  programmes écrits en langage OBERON-0 en deux étapes.  Lors de la première passe (front-end)  il sérialise l'arbre syntaxique et la table des symboles dans un fichier, lui même en langage Lua. La seconde passe (back-end) recharge ce fichier (AST) et génère le code cible en langage GO. 0 Updated Dec 30, 2025 0 0 0 0 Updated Dec 30, 2025 View backend project B partymaps
+/ backend 0 Updated Dec 30, 2025 0 0 Updated Dec 30, 2025 View Caisse BASE project Alternatiba / Grenoble
+/ Caisse BASE 0 Updated Dec 30, 2025 0 0 0 4 Updated Dec 30, 2025 View play.it - Installer for DRM-free commercial games project Antoine Le Gonidec
+/ play.it - Installer for DRM-free commercial games ./play.it: Installer for DRM-free commercial games - Mirror of https://git.dotslashplay.it/play.it/about/ 18 Updated Dec 30, 2025 18 Updated Dec 30, 2025 View joinpeertube project Framasoft / PeerTube
+/ joinpeertube 12 Updated Dec 30, 2025 12 32 0 8 Updated Dec 30, 2025 View Pelican-mountaintop project P Jerry Magnin
+/ Pelican-mountaintop 0 Updated Dec 30, 2025 0 0 0 0 Updated Dec 30, 2025 View la chariotte project la chariotte
+/ la chariotte 1 Updated Dec 30, 2025 1 2 13 72 Updated Dec 30, 2025 View flyctl project F fodenf
+/ flyctl The not-offical read-only flyctl mirror repo: https://github.com/superfly/flyctl 0 Updated Dec 30, 2025 0 Updated Dec 30, 2025 View youki project Y fodenf / containers
+/ youki The not-offical read-only youki mirror github: https://github.com/containers/youki site: https://containers.github.io/youki/ 0 Updated Dec 30, 2025 0 0 Updated Dec 30, 2025 Previous Next

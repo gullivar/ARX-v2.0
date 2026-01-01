@@ -1,0 +1,298 @@
+Menu
+Sign In Now
+Close
+NEWS
+PC HARDWARE
+SUBMENU
+SOFTWARE
+SUBMENU
+OPERATING SYSTEMS
+SUBMENU
+DEVICES
+SUBMENU
+HOME
+SUBMENU
+GAMING
+SUBMENU
+Sign In
+Newsletter
+🎁 Best Holiday Deals
+ESP32
+Windows 11
+NotebookLM
+Gaming
+Forums
+PYTHON
+5 Python libraries that completely changed how I automate tasks
+SOFTWARE AND SERVICES
+One of Windows 11's coolest mods gets seriously powerful
+PC
+Your PC's hardware might not age badly, but the default settings can
+NETWORK
+I learned more from packet loss than from speed tests
+By 
+Dhruv Bhutani
+1
+SCREENSHOT
+Snipping Tool has come a long way, but it still can't match this third-party alternative
+By 
+Kazim Alvi
+GAMING HANDHELDS
+Ayaneo learns from its Pocket DMG pricing woes with the new, cheaper Pocket Vert
+By 
+Simon Batt
+GAMING
+This Breath of the Wild VR mod is coming out real soon, but you will need a beefy PC
+By 
+Simon Batt
+15 HOURS AGO
+This self-hosted RSS reader finally got me off social media for news
+16 HOURS AGO
+I spent less than $150 to build a Proxmox home server with an SBC
+17 HOURS AGO
+Group Policy saved my Windows 11 install from Microsoft's terrible defaults
+17 HOURS AGO
+Before Resident Evil Requiem launches, play these 4 Resident Evil games
+19 HOURS AGO
+I ditched VS Code and Cursor for Google’s Antigravity, and I am not going back
+20 HOURS AGO
+These 5 games are 15 years old, and they still hold up as masterpieces in 2025
+21 HOURS AGO
+Running Proxmox VMs with GPU passthrough is much easier than it used to be
+22 HOURS AGO
+I stopped using compressed air to clean my PC and you should too
+23 HOURS AGO
+I didn't quit Chrome for privacy, I quit it for performance
+MORE
+News
+SEE MORE
+Dec 29, 2025
+Someone made Cyberpunk 2077 look like an awesome 80s VHS tape using Reshader
+By 
+Simon Batt
+2
+Dec 28, 2025
+This versatile 16-inch convertible laptop is gaining more attention thanks to its hefty price cut
+By 
+Timi Cantisano
+Dec 28, 2025
+This is the game controller to get for some weekend fun
+By 
+Timi Cantisano
+Dec 28, 2025
+You can score a cool $700 off this RTX 5070 Ti laptop, if you're quick
+By 
+Simon Batt
+Dec 28, 2025
+This awesome live map of the Washington Metro makes for a cool Raspberry Pi project
+By 
+Simon Batt
+Must-Reads
+SEE MORE
+Imagor is a self-hosted image gallery and editor, running entirely in your browser
+Why your "fast" SSD still feels slow
+2025 proved what the worst thing is about modern AAA horror games
+PC Hardware
+SEE MORE
+I'm automating my entire home network with Ansible
+By 
+Joe Rice-Jones
+Dec 28, 2025
+The $50 CPU cooler that beats your $150 AIO
+1
+By 
+Jasmine Mannan
+Dec 28, 2025
+Your motherboard is too expensive: Why a B-series board is the pro move
+1
+By 
+Jasmine Mannan
+Dec 28, 2025
+Devices
+SEE MORE
+Dec 27, 2025
+This $300 AIO PC might be just what you're looking for
+Dec 27, 2025
+Your NAS feels slow because your files are too small
+Dec 27, 2025
+Don’t save for a Steam Machine if you have an AM4 PC
+Latest
+All
+Windows
+Software
+Components
+Home
+Devices
+Gaming
+This self-hosted RSS reader finally got me off social media for news
+
+Reclaiming time and attention
+
+By 
+Samir Makwana
+15 hours ago
+I spent less than $150 to build a Proxmox home server with an SBC
+
+No, it's not the Raspberry Pi
+
+By 
+Ayush Pande
+16 hours ago
+Group Policy saved my Windows 11 install from Microsoft's terrible defaults
+
+I wish every Windows 11 PC had this
+
+By 
+João Carrasqueira
+17 hours ago
+Before Resident Evil Requiem launches, play these 4 Resident Evil games
+
+With Resident Evil Requiem coming out in 2026, fans of the series will want to play these Resident Evil games before it releases soon!
+
+By 
+Jakejames Lugo
+17 hours ago
+I ditched VS Code and Cursor for Google’s Antigravity, and I am not going back
+
+Antigravity is far ahead the competition
+
+7
+By 
+Anurag Singh
+19 hours ago
+These 5 games are 15 years old, and they still hold up as masterpieces in 2025
+
+These games are almost old enough to drive, and they still occupy the masterpiece mantles in our libraries.
+
+By 
+Samarveer Singh
+20 hours ago
+Running Proxmox VMs with GPU passthrough is much easier than it used to be
+
+You even have a few methods to choose from
+
+By 
+Ayush Pande
+21 hours ago
+I stopped using compressed air to clean my PC and you should too
+
+It's not the best PC cleaning tool
+
+By 
+Ali Tauseef
+22 hours ago
+I didn't quit Chrome for privacy, I quit it for performance
+
+You're better off with anything but Chrome
+
+1
+By 
+Anurag Singh
+23 hours ago
+I tried running my smart home without Wi-Fi devices
+
+Get ready to repurchase your tech if you want to go this way
+
+By 
+Joe Rice-Jones
+1 day ago
+This unusual graphics design tool is PowerPoint on steroids and I can’t recommend it enough
+
+Move over, Microsoft
+
+By 
+Parth Shah
+1 day ago
+Stop chasing 8,000MHz: Why 'Sweet Spot' RAM is all you need
+
+No need to spend hundreds on memory
+
+By 
+Jasmine Mannan
+1 day ago
+5 Raspberry Pi 5 accessories that turn it into a rock-solid home server
+
+These Raspberry Pi 5 accessories turn a bare board into a rock solid home server you can actually trust with your data and day to day automations.
+
+By 
+Jeff Butts
+1 day ago
+I automated my backups with Restic, and I finally sleep better at night
+
+You don't realize how much time you can save with automated backups
+
+1
+By 
+Anurag Singh
+1 day ago
+Flathub breaks its previous record of yearly app downloads for 2025
+
+It also shared some insight into how we used it over the year.
+
+By 
+Simon Batt
+1 day ago
+Calibre-Web is like Jellyfin for ebooks, and it turned my unorganized collection into a personal library
+
+It's an all-in-one platform for managing my ebook library
+
+4
+By 
+Ayush Pande
+1 day ago
+Modern GPUs are incredible, but they broke the idea of sensible upgrades
+
+A GPU upgrade doesn't feel like one anymore, at least not the way we remember
+
+3
+By 
+Tanveer Singh
+1 day ago
+Give Star Wars Outlaws a second chance now that it's discounted for the Steam Winter Sale
+
+The Steam Winter Sale has Star Wars Outlaws on a good discount. Now is the best time to give it another chance if you skipped over it before.
+
+By 
+Jakejames Lugo
+2 days ago
+I finally mapped my home network and found problems I didn’t know existed
+
+Assumptions are the bane of my existence
+
+By 
+Joe Rice-Jones
+2 days ago
+Forget AI note summaries, this is where NotebookLM actually shines
+
+You're probably missing out on a whole host of features
+
+By 
+Jasmine Mannan
+2 days ago
+SEE MORE
+Today's Best Deals
+This is the $10 mouse that you'll always pack with you
+2 days ago
+This is the simple and affordable way to upgrade your PC audio setup
+2 days ago
+You can't go wrong with this 2K pan-and-tilt camera that's just $15
+2 days ago
+See More
+Trending Now
+I automated my Proxmox home lab with Terraform
+Who needs Proxmox templates? I built my own base image instead
+6 quality-of-life Docker containers I use everyday
+Join Our Team
+Our Audience
+About Us
+Press & Events
+Media Coverage
+Contact Us
+Follow Us
+Advertising
+Careers
+Terms
+Privacy
+Policies
+XDA is part of the Valnet Publishing Group
+Copyright © 2025 Valnet Inc.

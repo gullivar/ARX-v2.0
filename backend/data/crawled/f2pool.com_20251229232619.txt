@@ -1,0 +1,187 @@
+Transaction Accelerator
+PoW Rankings
+Mining 
+Staking
+ 
+Create Account Sign In
+Closing KDA mining pool More >
+Enjoy the new mining experience
+ iOS Download  Android Download
+USD
+	Daily Revenue	Pool Hashrate	Hashrate	Price	Algo	Help
+
+BTC
++ HTR , ELA , NMC , FB
+	$ 0.0372 /T	107.35EH/s	
+1099.89EH/s
+	
+$87214.72 
+	
+SHA256d
+	Tutorial Popular Miners More 
+
+
+LTC
++ DOGE , BELLS , LKY , PEP , JKC , DINGO , SHIC , CRC , TRMP
+	$ 0.7069 /G	758.81TH/s	
+2388.18TH/s
+	
+$77.37 
+	
+Scrypt
+	Tutorial Popular Miners More 
+
+
+ZEC
+	$ 0.0497 /K	2578.89Msol/s	
+14.09Gsol/s
+	
+$522.00 
+	
+Equihash
+	Tutorial Popular Miners More 
+
+
+KAS
++ CAU
+	$ 0.3317 /T	82.53PH/s	
+418.08PH/s
+	
+$0.0439 
+	
+kHeavyHash
+	Tutorial Popular Miners More 
+
+
+ETC
+	$ 0.0007 /M	73.32TH/s	
+206.63TH/s
+	
+$11.91 
+	
+Etchash
+	Tutorial Popular Miners More 
+
+
+ETHW
+	$ 0.0011 /M	1207.97GH/s	
+6170.81GH/s
+	
+$0.5282 
+	
+Ethash
+	Tutorial Popular Miners More 
+
+
+BCH
+	$ 0.0372 /T	191.05PH/s	
+6418.97PH/s
+	
+$601.27 
+	
+SHA256d
+	Tutorial Popular Miners More 
+
+
+ALEO
+	$ 0.0107 /M	806.93Gproof/s	
+4079.13Gproof/s
+	
+$0.1297 
+	
+zkSNARK
+	Tutorial Popular Miners More 
+
+
+SC
+	$ 0.3898 /T	6488.44TH/s	
+15.45PH/s
+	
+$0.0015 
+	
+Blake2B
+	Tutorial Popular Miners More 
+
+
+CKB
+	$ 0.0974 /T	57.87PH/s	
+155.97PH/s
+	
+$0.0025 
+	
+Eaglesong
+	Tutorial Popular Miners More 
+
+
+DASH
+	$ 0.0060 /G	872.50TH/s	
+2658.75TH/s
+	
+$42.40 
+	
+X11
+	Tutorial Popular Miners More 
+
+
+CFX
+	$ 0.0033 /M	180.80GH/s	
+2441.18GH/s
+	
+$0.0708 
+	
+Octopus
+	Tutorial Popular Miners More 
+
+
+NEXA
+	$ 0.0017 /M	6685.72MH/s	
+2331.92GH/s
+	
+$5.78E-07 
+	
+NexaPow
+	Tutorial Popular Miners More 
+
+
+ALPH
+	$ 0.0001 /G	6715.62TH/s	
+12.18PH/s
+	
+$0.1141 
+	
+Blake3
+	Tutorial Popular Miners More 
+
+
+SPACE
+	$ 0.0264 /T	3310.61TH/s	
+7215.35TH/s
+	
+$0.1028 
+	
+SHA256d
+	Tutorial Popular Miners More 
+
+Important Reminder
+f2pool solely provides mining pool services that are only accessible through our official website: www.f2pool.com. We do not offer any investment opportunities, financial services, or cloud mining products. Kindly ensure you verify before taking any actions.
+OK
+© 2013–2025 F2Pool. All rights reserved.
+Products
+App Download
+PoW Rankings
+Popular Miners
+Transaction Accelerator
+Services
+API Docs
+Helps
+Mining Tutorial
+Announcements
+FAQ
+Submit Request
+About F2Pool
+About Us
+Join Us
+Terms of Service
+Partnerships
+Contact Us
+Media Kit

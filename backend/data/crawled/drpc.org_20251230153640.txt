@@ -1,0 +1,165 @@
+For dApps
+For chains
+Chainlist
+Pricing
+Resources
+Connect
+AI-Powered Infrastructure for dApps and Chains
+Modular RPC solutions to launch, scale, and monitor your Web3 infra
+Modular RPC Solutions Built for Scale
+For dApps
+For Chains
+NodeCloud
+150+ networks. From $10 — full speed. No limits
+100+ Chains APIs
+8 Geo-distributed Clusters
+Low Latency
+Pay-As-You-Go Pricing
+Explore
+Supported chains
+Compare to NodeCore
+NodeCore
+Open Source RPC. Total control. Real performance
+Smart Routing Engine
+Deploy Anywhere
+Connect Any Node
+Optimized for Performance at Scale
+Explore NodeCore
+NodeCraft
+When NodeCore alone is not enough
+NodeCraft delivers tailored solutions built on NodeCore - routing, fallback, observability, compliance - whatever your stack requires
+Coming Soon
+NodeHaus
+Full-stack Infrastructure for Blockchain Foundations
+RPC Health Dashboard
+Provider Comparison
+Add Nodes & Regions
+Dev Onboarding Toolkit
+Explore NodeHaus
+Powered by dRPC
+dApps
+Chains
+dRPC's work has been exceptional and we couldn't be happier. They provide excellent customer support and high quality service with the networks we need. dRPC has been an invaluable partner in making our relationship enjoyable and cost effective.
+Sowmay Jain, CEO at Instadapp
+We chose dRPC for 3 reasons: their solution optimizes our budget through their cost effectiveness, we get access to a distributed network of providers ensuring efficient workload handling, and they guarantee reliable service with low latency, improving the management of our infrastructure.
+Matthew Lilley, CTO at SushiSwap
+dRPC delivered the most reliable solution for handling complex RPC calls with unmatched latency performance. It enabled us to eliminate external APIs and centralised dependencies entirely from our app.
+Zoomer, Aerodrome
+Why You Need This
+RPC isn't optional — it's your app's lifeline
+If it's slow, spotty, or breaks under traffic, your users feel it first. Most teams wait too long to fix it — until latency kills conversions or outages damage trust. We excel at providing:
+Get Help
+Find Your Fit
+Reliable access at scale, across 100+ chains and 8 regions
+Observability over your full RPC setup, internal or external
+Tailored tools that grow with your app and infra complexity
+Flexibility to self-host, go cloud, or customize as you scale
+What We Have Built
+Together, these products form a modular RPC infrastructure stack — optimised for speed, scale, and flexibility across any environment
+For dApps
+NodeCloud
+Multichain cloud RPC
+Zero infra overhead
+Fast setup, no config
+Usage insights built in
+Explore
+Calculate Your Spending
+For Chains
+NodeHaus
+Public endpoints setup
+Branded faucet
+Infra dashboard
+dRPC-managed with full support
+Explore
+For dApps + Chains
+NodeCore
+Open source stack
+Self-hosted RPC infrastructure
+Modular and customisable
+Control every layer
+Explore
+For dApps + Chains
+NodeCraft
+Custom routing logic
+Private endpoints
+Regional optimisations
+Built on NodeCore
+Coming Soon
+Why dRPC?
+We're not just another gateway — we're the full stack. dRPC is battle-tested infrastructure trusted by builders and chains alike, with unmatched flexibility and pricing transparency
+AI-powered load balancing for performance and uptime
+Multichain Support 100+ chains across 190+ networks
+Covering 4 continents with 8 geo clusters
+Backed by 60+ RPC providers under the hood
+Open source or cloud — you choose how to run it
+4B+ requests served daily to power 4000+ dApps
+Ethereum
+BNB Smart Chain
+Polygon
+Arbitrum One
+Optimism
+zkSync Era
+Solana
+Starknet
+Linea
+Base
+Fantom
+Avalanche
+Gnosis
+Scroll
+Mantle
+100+ chains across 190+ networks.
+View all
+Need Help Choosing?
+Our team will guide you based on your stage, team, and tech stack
+Talk to Our Team
+FAQs
+Help Me Understand What I Need
+I just need reliable multichain access without running any infrastructure — what should I use?
+We need full control of our stack and want to self-host RPC infra — what fits best?
+We use NodeCore but have complex needs — can you help us implement them?
+I manage infrastructure for a blockchain — how can I track and optimize RPC for our builders?
+Understand Each Product's Core Capabilities
+What makes NodeCloud different from other RPC providers?
+What does NodeCore include out of the box?
+What can be customised with NodeCraft?
+What does the NodeHaus dashboard show us?
+Building Trust & Long-Term Confidence
+Who's behind dRPC?
+Is dRPC open source?
+What if we need support or help scaling later?
+How do we know dRPC will be around long-term?
+Unlock growth with
+solid infrastructure.
+Get started!
+Talk to Our Team
+Privacy Policy
+Terms & Conditions
+Status
+Brand Kit
+Docs
+Blog
+© 2025 dRPC. All rights reserved
+CLOSE
+New network request
+Would you like to add a new network to our Chainlist? Fill out the form below and we will contact you shortly.
+Submit
+By pressing Submit you agree that you have read and accept Terms & Conditions and Privacy policy
+CLOSE
+Join dRPC providers
+Thank you for your interest in our community, please fill in the form so we can contact you.
+Notify me about updates and new features
+Submit
+By pressing Submit you agree that you have read and accept Terms & Conditions and Privacy policy
+CLOSE
+Get in touch
+Please fill out the form below, and we'll get in touch with you shortly.
+Submit
+We use cookies to collect anonymous site visitation data to improve the performance of our website. Privacy policy
+Reject
+Accept
+
+How would you rate your experience?
+Hate
+Love
+Next

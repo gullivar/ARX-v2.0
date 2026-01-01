@@ -1,0 +1,63 @@
+To main content
+	
+USE CASESPRICINGHOW IT WORKSBLOGDOCS
+	
+Log in
+	
+Sign up
+	
+The future of content delivery for OTT video streaming
+Distributed video delivery solution for OTT media helping them stream to the unlimited number of concurrent viewers with the highest video quality at the lowest cost
+Try for free
+Contact us
+Discover unlimited video delivery with Teleport Media
+How it works
+Scale to millions of viewers
+
+Unlike traditional CDNs, which always have a limited number of servers, Teleport Media P2P CDN scales in align with the audience growth. Be sure your streaming website and application will handle audience spikes of any size, even unexpected and record-breaking ones.
+Grow your streaming business with Teleport Media
+Provide best quality for every viewer
+
+We help you keep consistently high quality, no matter how many viewers are watching your video. Get rid of rebuffering and playback failures to make your viewers happy. Outperform your competitors by introducing higher bitrates with zero investments in your existing CDN.
+Protect your content against piracy
+
+The video that is streamed through Teleport Media is secured against illegal re-streaming with a combination of DRM, encryption, forensic watermarks and unique patented serverless CAS. Now you can maximize your profits from the premium content.
+Save your content delivery budget
+
+We bring the majority of video traffic into peer-to-peer network, decreasing the load on in-house CDN so it can serve 5x times larger audience with the same amount of servers and bandwidth. It also decreases traffic flow from external CDN, so Teleport Media saves up to 50% of CDN budget.
+Teleport Media Resource Hub
+Get closer look at what Teleport Media destributed delivery solution is and how it helps OTT business today
+Teleport Media news & events
+Video
+Bitmovin x Teleport Media: How to provide better visual quality & decrease costs by half
+View more
+Online TV case
+How to transform the quantity into quality and decrease buffering 50%
+View more
+White paper
+Five scenarios of protection against stream swapping and unauthorized use in P2P CDN
+View more
+Case study
+Improved delivery with the architectural approach during EURO 2020
+View more
+Subscribe
+We will send a digest once a month. By clicking the "Subscribe" button, you agree to the Privacy Policy.
+Let's talk video delivery!
+We will help
+Book a consultation with our online video expert
+Portfolio company of Blockchain Valley Ventures
+© 2023 Teleport Global AG. All rights reserved.
+c/o eMBe Finanz GmbH, Bahnhofstrasse 20,
+6300 Zug, Switzerland
+sales@teleport.media
+USE CASES
+
+Online TV
+
+PRICING
+HOW IT WORKS
+DOCUMENTATION
+BLOG
+Sport Broadcast
+OTT Solution Provider
+LEGAL

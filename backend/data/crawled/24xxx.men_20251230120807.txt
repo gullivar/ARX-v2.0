@@ -1,0 +1,1 @@
+Ошибка: Невозможно установить соединение с MySQL. Код ошибки errno: 1044 Текст ошибки error: Access denied for user 'dbuser'@'localhost' to database '24xxx'

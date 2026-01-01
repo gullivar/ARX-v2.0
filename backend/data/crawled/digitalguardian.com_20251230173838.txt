@@ -1,0 +1,218 @@
+___
+This website uses cookies. You may change your settings at any time.
+ACCEPT REJECT ALL MANAGE COOKIES
+Skip to main content
+Secondary Navigation
+Contact Us
+Support
+Partners
+PRICING
+PLATFORM
+TOGGLE DROPDOWN
+SOLUTIONS
+TOGGLE DROPDOWN
+RESOURCES
+TOGGLE DROPDOWN
+ABOUT
+TOGGLE DROPDOWN
+Digital Guardian is now Fortra DLP
+The most comprehensive DLP, from endpoint to cloud
+
+Fortra DLP protects your organization’s most sensitive data from insider and external threat, regardless of where it is or where it moves.
+
+Powered by
+
+Image
+
+REQUEST A DEMO 
+
+Image
+Fortra DLP
+
+Data Loss Prevention (DLP) that gives you immediate visibility into your organization’s critical assets, protecting data and IP wherever it lives. Our platform makes it easier to see, understand, and block threats to your sensitive information. Available as a Software-as-a-Service or managed service deployment, our pre-built dashboards and compliance policies help you get started faster, so you can see results and mitigate risk quickly. Fortra’s deep visibility and ability to work with existing data classification tools give you greater deployed efficacy without compromising on the flexibility you need to match your enterprise needs
+
+Image
+Text
+Fortra DLP Components
+Analytics & Reporting
+
+Powered by AWS, Fortra Analytics and Reporting Cloud (ARC) gives you quick and deep visibility to DLP actions so you can detect and respond to threats faster and more efficiently, regardless of the threat.
+
+Endpoint Agent
+
+Gain the highest level of visibility into an endpoint, allowing you to discover, monitor, and block threats to your data. Our cross-platform coverage provides support for Windows, macOS, and Linux operating systems.
+
+Network Appliance
+
+Ensure compliance by actively monitoring and controlling sensitive data across your network, email, and web channels. Fortra’s advanced Database Record Matching (DBRM) technology enhances accuracy and significantly reduces false positives.
+
+Management Console
+
+Our intuitive dashboards deliver instant visibility into your data landscape. The Management Console streamlines agent deployment and empowers you to easily configure policies, set alerts, and generate reports across your entire environment.
+
+Data Discovery
+
+Discover and protect your sensitive data at rest across cloud and on-premises environments, including laptops, servers, and databases. 
+
+Data Classification
+
+Enhance security efficiency by organizing and prioritizing data, allowing your organization to focus protection efforts on your most valuable assets. Its automated classification promotes consistency and accelerates implementation, while native integration with Office applications ensures minimal disruption to existing workflows.
+
+Network DLP
+
+Fast deployment, streamlined compliance, and customizable DLP controls protect your sensitive data across endpoints. Fortra enables accurate data discovery and classification, reduces false alarms and maintenance, and prevents unauthorized data transfers through granular permissions.
+
+Cloud Data Protection
+
+Integrate with Fortra’s Cloud Data Protection Solutions — including DSPM, CASB, SWG, and ZTNA  — to extend endpoint security to cloud, web, and private applications. This combined approach enhances visibility into your activity across environments, secures data in both managed and unmanaged cloud apps, supports remote access management, and protects sensitive data throughout its lifecycle by detecting and mitigating internet-based threats.
+
+Managed Detection and Response
+
+Expert-led cybersecurity protection delivers real-time threat detection and mitigation. Fortra provides immediate access to advanced defense strategies without the delay of ramping up a new SOC. Managed Detection and Response protects sensitive data from insider and outsider threats, including zero-day attacks, polymorphic and fileless malware, and ransomware.
+
+DLP for Immediate Visibility and On-Demand Scalability
+SEE RESULTS QUICKLY
+
+Intuitive, out-of-the-box dashboards provide immediate visibility into threats and help identify data egress.
+
+GREATER DEPLOYED EFFICACY
+
+Establish a strong foundation for your organization’s future security operations with accelerated deployment that drives faster progress toward solution maturity.
+
+PROTECT DATA
+
+Discover, monitor, log, and block threats to your data with pre-built policies that can help you avoid gaps and comply with evolving regulatory changes.
+
+CROSS-PLATFORM COVERAGE
+
+Support for hybrid environments provides coverage for Windows, macOS, or Linux operating systems, browsers, and applications.
+
+INTEROPERABLE
+
+Fortra operates with existing data classification tools to allow for granular policies and advanced detection, reducing false positives and adding context to data.
+
+MEET REGULATORY REQUIREMENTS
+
+DLP helps identify sensitive data throughout your organization, classify it accurately, and make sure it’s controlled properly.
+
+Text
+High-Powered DLP, Supported by Experts Who Have Your Back
+Image
+
+ 
+
+Text
+Image
+Image
+Our market-leading DLP, deployed via Saas, gives you immediate visibility into your organization's assets, blocking threats to your data sensitive before it's lost.
+ 
+
+ 
+4.933 Ratings on Gartner Peer Insights
+As of 30 Dec 2025
+Image
+Why "Free" DLP Isn’t Enough
+
+So-called "free" solutions with hidden fees may seem cost-effective at first glance, but their limited capabilities often undercut efforts to protect against the complex risks of AI-driven data loss—that is, unless you pay up for extra features. 
+
+Read our datasheet to discover why purpose-built DLP with predictable, transparent pricing and robust features is the best way to protect your data and budget.
+
+READ DATASHEET
+
+Protect Critical Data and IP Wherever It Lives
+Market-leading DLP, deployed via SaaS, giving you immediate visibility into your organization’s assets
+
+ 
+
+Endpoint DLP
+
+eDLP protects data at its creation and during use, ensuring its continuous protection even when users are off the corporate network.
+
+Our cross-platform, lightweight agent captures and records all system, user, and data events including actions like file creation, copy/paste, printing, and more. But unlike basic DLP tools that only alert you after data is compromised, our agent can be configured to automatically log, block, and/or require justification for suspicious or unauthorized activity before a potential security incident occurs.
+
+Learn more >
+
+Network DLP
+
+nDLP supports compliance and reduces the risk of data loss by monitoring and controlling the flow of sensitive information across networks, email, and web channels. It can be deployed within hours and requires no dedicated resources for ongoing management. Our network DLP appliances inspect all network traffic and enforce security policies with actions such as allow, block, encrypt, reroute, and quarantine. This delivers powerful protection without the complexity or need for dedicated resources.
+
+Learn more >
+
+Cloud DLP
+
+Cloud DLP protects sensitive data throughout its lifecycle: at rest, in use, or in motion.
+
+The integrated SSE solution combines cloud access security broker (CASB), zero trust network access (ZTNA), and secure web gateway (SWG) to deliver unified visibility and control from endpoint to cloud. These natively integrated solutions deliver comprehensive protection with streamlined management.
+
+Learn more >
+
+Analytics
+
+Powered by Amazon AWS, Fortra’s Analytics & Reporting Cloud (ARC) delivers deep visibility into endpoint and network activity by correlating system, user, and data events. This powerful analysis provides the context needed to quickly detect and respond to both internal and external threats.
+
+Learn more >
+
+ 
+
+Image
+Real data protection with proven capabilities and expert guidance
+
+Our market-leading DLP is backed by decades of focus, solving real use cases.
+
+VIEW BROCHURE
+
+DLP Benefits by Role
+
+See how Fortra DLP can benefit users by most common roles:
+
+CISO
+
+Fortra unifies DLP and MDR, enabling you and your teams to consolidate and simplify your security program.
+
+SECURITY ANALYST
+
+See your data; protect your data from all threats, with the deepest visibility available on the market.
+
+INCIDENT REPORTER
+
+Identify, investigate, and neutralize faster - all from one place.
+
+THREAT HUNTER
+
+Seek, pivot, & identify unknown threats to your sensitive data - all from one place. 
+
+Protect Critical Data and IP
+
+Gain immediate visibility into your organization's assets.
+
+REQUEST A DEMO
+CONTACT US >
+Find us on X
+Find us on LinkedIn
+Find us on Youtube
+Find us on Reddit
+Footer menu
+AREAS OF EXPERTISE
+Infrastructure Protection
+Email Security & Anti-Phishing
+Data Protection
+Managed Security
+Compliance
+Managed File Transfer
+IBM Power Solutions
+ABOUT
+Security & Trust Center
+Newsroom
+Partners
+Careers
+Our Team
+Our Products
+Our Solutions
+GET IN TOUCH
+Support
+Request Pricing
+info@fortra.com
+Join Our Mailing List
+PRIVACY POLICY COOKIE POLICY TERMS OF SERVICE 
+COOKIE PREFERENCES
+ ACCESSIBILITY IMPRESSUM Copyright © Fortra, LLC and its group of companies. Fortra®, the Fortra® logos, and other identified marks are proprietary trademarks of Fortra, LLC.

@@ -1,0 +1,51 @@
+SSL Certificates protect customers’ data when they browse or shop online.
+
+Our SSL Certificates protect a single domain or multiple domains websites
+SSL CERTIFICATES DOCUMENTATION
+SHOP SSL CERTIFICATES
+Display the secure padlock icon with an SSL Certificate
+
+Let customers know their private details are safe.
+
+
+
+
+Our SSL Certificates protect a single domain or multiple domains websites. We use strong SHA-2 and 2048-bit encryption that’s virtually uncrackable. A Standard Domain Validated SSL Certificate takes just a few minutes to issue. 
+
+SEE DOCUMENTATION
+How Does an SSL Benefit Me?
+SSL Benefits
+
+Protect all sensitive data passing through the website
+Increase sales transactions
+Build customer confidence and trust
+Boost organic search ranking on Google
+
+Our SSL certificates include:
+
+Domain validation (DV) 
+Organization validation (OV
+Extended validation (EV)
+Multiple domains support (SANs/UCC)
+SHA-2 and 2048-bit encryption
+Unlimited servers support
+Trusted site sealt
+24/7 customer support
+
+How Does My Customer Know My Site Is Secure?
+
+Once a visitor is on an SSL-protected page, the following visual indicators appear to let them know your site is secure.
+
+HTTPS prefix in the URL (vs. non-secure HTTP)
+Padlock icon in the browser's status bar
+Trusted "Verified and Secure" site seal
+
+COPYRIGHT © 2025 STARFIELD TECHNOLOGIES - ALL RIGHTS RESERVED.
+
+Terms and ConditionsPrivacy PolicyHelp/Report An Issue
+This website uses cookies.
+
+We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
+
+DECLINE
+ACCEPT

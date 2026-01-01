@@ -1,0 +1,192 @@
+Skip to Main Content
+Why Go
+arrow_drop_down
+Learn
+Docs
+arrow_drop_down
+Packages
+Community
+arrow_drop_down
+Why Go
+navigate_next
+navigate_beforeWhy Go
+Case Studies
+Use Cases
+Security
+Learn
+Docs
+navigate_next
+navigate_beforeDocs
+Go Spec
+Go User Manual
+Standard library
+Release Notes
+Effective Go
+Packages
+Community
+navigate_next
+navigate_beforeCommunity
+Recorded Talks
+Meetups open_in_new
+Conferences open_in_new
+Go blog
+Go project
+Get connected
+Build simple, secure, scalable systems with Go
+An open-source programming language supported by Google
+Easy to learn and great for teams
+Built-in concurrency and a robust standard library
+Large ecosystem of partners, communities, and tools
+Get Started
+Download
+
+Download packages for Windows 64-bit, macOS, Linux, and more
+
+The go command by default downloads and authenticates modules using the Go module mirror and Go checksum database run by Google. Learn more.
+
+Companies using Go
+
+Organizations in every industry use Go to power their software and services View all stories
+
+“At the time, no single team member knew Go, but within a month, everyone was writing in Go and we were building out the endpoints. It was the flexibility, how easy it was to use, and the really cool concept behind Go (how Go handles native concurrency, garbage collection, and of course safety+speed.) that helped engage us during the build. Also, who can beat that cute mascot!”
+
+— Jaime Enrique Garcia Lopez, Senior Software Development Manager at Capital One
+
+"A small language that compiles fast makes for a happy developer. The Go language is small, compiles really fast, and as a result it lets your mind focus on the actual problem and less on the tool you are using to solve it. Code, test, debug cycles are so quick that you forget you are not working with an interpreted language. Looking at our code, you see less boilerplate and more business logic."
+
+— Clayton Coleman, Lead Engineer, Open Shift at RedHat
+
+“Go has excellent characteristics for scalability and services written using it typically have very small memory footprints. Because code is compiled into a single static binary, services can also be containerised with ease, making it much simpler to build and deploy. These attributes make Go an ideal choice for companies building microservices, as you can easily deploy into a highly available and scalable environment such as Kubernetes.”
+
+— Matt Boyle, Lead Software Engineer at Curve
+
+"In our tightly managed environments where we run Go code, we have seen a CPU reduction of approximately 10% with cleaner and maintainable code."
+
+— Bala Natarajan, Sr. Director of Engineering, Developer Experience at PayPal
+
+"Tooling has always been a problem with our legacy code base... but we have found that Go has excellent tooling, plus built-in testing, benchmarking, and profiling frameworks. It is easy to write efficient and resilient applications. After working on Go, most of our developers don't want to go back to other languages."
+
+— Benjamin Cane, Vice President and Principal Engineer at American Express
+
+"...when a programming language is designed for exactly the environment most of us use right now—scalable, cloud-based servers that are optimized for performance—a lot can go right."
+
+— John Biggs and Ben Popper, at Stack Overflow
+navigate_next
+Try Go
+Press Esc to move out of the editor.
+Hello, 世界
+
+Program exited.
+Hello, World!
+Conway's Game of Life
+Fibonacci Closure
+Peano Integers
+Concurrent pi
+Concurrent Prime Sieve
+Peg Solitaire Solver
+Tree Comparison
+Run
+Share Tour
+What’s possible with Go
+
+Use Go for a variety of software development purposes
+
+Cloud & Network Services
+
+With a strong ecosystem of tools and APIs on major cloud providers, it is easier than ever to build services with Go.
+
+ Popular Packages:
+cloud.google.com/go
+aws/client
+Azure/azure-sdk-for-go
+Learn More
+arrow_forward
+Command-line Interfaces
+
+With popular open source packages and a robust standard library, use Go to create fast and elegant CLIs.
+
+ Popular Packages:
+spf13/cobra
+spf13/viper
+urfave/cli
+delve
+chzyer/readline
+Learn More
+arrow_forward
+Web Development
+
+With enhanced memory performance and support for several IDEs, Go powers fast and scalable web applications.
+
+ Popular Packages:
+net/http
+html/template
+flosch/pongo2
+database/sql
+elastic/go-elasticsearch
+Learn More
+arrow_forward
+DevOps & Site Reliability
+
+With fast build times, lean syntax, an automatic formatter and doc generator, Go is built to support both DevOps and SRE.
+
+ Popular Packages:
+open-telemetry/opentelemetry-go
+istio/istio
+urfave/cli
+Learn More
+arrow_forward
+More use cases arrow_forward
+Get started with Go
+
+Explore a wealth of learning resources, including guided journeys, courses, books, and more.
+
+Get Started Download Go
+RESOURCES TO START ON YOUR OWN
+Guided learning journeys
+Step-by-step tutorials to get your feet wet
+Online learning
+Browse resources and learn at your own pace
+Featured books
+Read through structured chapters and theories
+Cloud Self-paced labs
+Jump in to deploying Go apps on GCP
+IN-PERSON TRAININGS
+Ardan Labs
+Offering customized on-site live training classes.
+Gopher Guides
+Customized In-person, remote, and online training classes. Training for Developers by Developers.
+Boss Sauce Creative
+Personalized or track-based Go training for teams.
+Shiju Varghese
+On-site classroom training on Go and consulting on distributed systems architectures, in India.
+Why Go
+Use Cases
+Case Studies
+Get Started
+Playground
+Tour
+Stack Overflow
+Help
+Packages
+Standard Library
+About Go Packages
+About
+Download
+Blog
+Issue Tracker
+Release Notes
+Brand Guidelines
+Code of Conduct
+Connect
+Twitter
+GitHub
+Slack
+r/golang
+Meetup
+Golang Weekly
+Copyright
+Terms of Service
+Privacy Policy
+Report an Issue
+go.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more.
+Okay

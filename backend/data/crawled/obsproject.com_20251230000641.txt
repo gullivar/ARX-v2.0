@@ -1,0 +1,90 @@
+OBS
+Open Broadcaster Software
+®️
+Discord
+Twitter
+Mastodon
+GitHub
+Contribute
+Home
+Download
+News
+Help
+Forum
+OBS Studio
+Latest Releases 32.0.4 32.0.4 32.0.2
+Windows
+Supports Windows 10 and Windows 11
+ macOS
+Supports macOS 12.0 or newer
+ Linux
+
+Free and open source software for video recording and live streaming.
+
+Download and start streaming quickly and easily on Windows, Mac or Linux.
+
+The OBS Project is made possible thanks to generous contributions from our sponsors and backers. Learn more about how you can become a sponsor.
+
+
+
+PREMIER TIER SPONSORS
+DIAMOND TIER SPONSORS
+GOLD TIER SPONSORS
+Features
+
+High performance real time video/audio capturing and mixing. Create scenes made up of multiple sources including window captures, images, text, browser windows, webcams, capture cards and more.
+
+Set up an unlimited number of scenes you can switch between seamlessly via custom transitions.
+
+Intuitive audio mixer with per-source filters such as noise gate, noise suppression, and gain. Take full control with VST plugin support.
+
+Powerful and easy to use configuration options. Add new Sources, duplicate existing ones, and adjust their properties effortlessly.
+
+Streamlined Settings panel gives you access to a wide array of configuration options to tweak every aspect of your broadcast or recording.
+
+Modular 'Dock' UI allows you to rearrange the layout exactly as you like. You can even pop out each individual Dock to its own window.
+
+OBS supports all your favorite streaming platforms and more.
+
+Create Professional Productions
+
+Choose from a number of different and customizable transitions for when you switch between your scenes or add your own stinger video files.
+
+Set hotkeys for nearly every sort of action, such as switching between scenes, starting/stopping streams or recordings, muting audio sources, push to talk, and more.
+
+Studio Mode lets you preview your scenes and sources before pushing them live. Adjust your scenes and sources or create new ones and ensure they're perfect before your viewers ever see them.
+
+Get a high level view of your production using the Multiview. Monitor 8 different scenes and easily cue or transition to any of them with merely a single or double click.
+
+Collaborative Creativity
+
+OBS Studio is equipped with a powerful API, enabling plugins and scripts to provide further customization and functionality specific to your needs.
+
+Utilize native plugins for high performance integrations or scripts written with Lua or Python that interface with existing sources.
+
+Work with developers in the streaming community to get the features you need with endless possibilities.
+
+Browse or submit your own in the Resources section
+
+OBS Project
+OBS Studio
+Download
+Ideas
+Privacy Policy
+Contribute
+GitHub
+Open Collective
+Patreon
+Support
+Knowledge Base
+Discord
+Forums
+Help Portal
+
+© 2012 - 2025. OBS and OBS Studio are created and maintained by Lain. Development by OBS Studio Contributors.
+Website designed and created by Warchamp7, powered by Kirby CMS. Downloads powered by Fastly.
+
+
+
+
+Čeština Dansk Deutsch Español Euskara Suomi Français Magyar 日本語 한국어 Português do Brasil ру́сский Svenska Türkçe українська 中文(简体)

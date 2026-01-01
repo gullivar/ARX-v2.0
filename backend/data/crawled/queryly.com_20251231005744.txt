@@ -1,0 +1,69 @@
+Queryly Search + Ask Cloud helps your users find more relevant content instantly. We bring the power of Google and ChatGPT to your site.
+
+
+
+SEARCH CLOUD
+CUSTOMERS
+PRIVACY
+FREE DEMO
+LOGIN
+Free demo over Zoom/Meet
+Ready to see a demo?
+
+Please fill out the info below. Our dev guy will contact you and walk you through a free demo over Zoom or Google Meet.
+
+Our customers
+Who are our clients?
+
+Publishers are very important to us because 100% of our clients happen to be publishers. We know what they want and we build our technology to meet their needs. We are innovators. When customers work with us, they are buying the innovation over the long run.
+
+Our Search + AI technology
+in the cloud
+How do we do it?
+
+At Queryly we develop the technology stack to understand your content. Our services run in the cloud and are built on advanced search algorithms and LLM (Large Language Model) to make your content smarter. It is plug-and-play. You can set it up within 24 hours.
+
+Search
+
+Queryly brings your audience the most compelling search experience on the web. It makes searching on your site fast, relevant and visually appealing. You also have options to promote your own video and content as part of results.
+
+Instantly Fast Search API
+Queryly brings a "search as you type" experience to your audience. it is lightning fast and delivers instant gratification of content discovery at your fingertips, literally.
+Aesthetics and Custom Search Design
+Queryly displays results beautifully. When people enjoy the search experience, they will search more and discover more.
+Relevant Results
+Queryly's semantic engine processes every single article and extracts key concepts and knowledge to make search results more relevant.
+Real Time Search Analytics
+People communicate their interests and demands through search. Queryly's dashboard helps you better understand what your users are looking for in real time.
+Ask
+
+Unlock the full potential of AI with Queryly Ask — a solution built to provide fast, intelligent, and privacy-centric responses. Queryly Ask ensures every answer is rooted in your content, enhancing relevancy while minimizing hallucinations.
+
+Relevant answers with citations
+Say goodbye to vague or unreliable AI responses. Queryly Ask delivers accurate answers backed by citations from your trusted content. This ensures users not only get the information they need but also the confidence of knowing where it comes from.
+Built-in Chatbot and Ask API
+Connect with your audience in new ways through our intuitive chatbot interface. Plus, the Ask API enables seamless integration into your existing systems, providing you with the tools to enhance your applications with new AI capabilities.
+On-Prem solution for privacy
+Your data is your greatest asset. Our On-Prem deployment ensures your sensitive information stays within your environment.
+Discovery
+
+Queryly Discovery is a smart recommendation service that generates related stories for every single article on the site. It takes an algorithmic approach and analyzes every single word in every article to determine relevance. It requires no human intervention and improves itself over time as more people use it.
+
+Relevant
+By leveraging our semantic engine and users' inputs, Discovery brings truly relevant recommendations based on each article to keep audience more engaged.
+Recommendation Widgets
+Their UX and behavior are fully customizable with standard HTML, JavaScript and CSS.
+API support
+Developers can build more engaging applications on top of Discovery API.
+About Queryly
+Who are we?
+
+Searching for content on Google/Bing is great, but finding content on media sites is not. The search experience is lacking and makes it harder for audience to find anything, so we develop technology that help publishers improve search and discovery of their digital content. At Queryly, we have a few ideas on how to make content more discoverable. We truly believe Queryly will improve the way each one of us finds information online.
+
+
+
+
+Contact:
+
+Our office: 111 Town Square Place, STE 1203 Jersey City, NJ 07310
+Email: xchen(at)queryly.com

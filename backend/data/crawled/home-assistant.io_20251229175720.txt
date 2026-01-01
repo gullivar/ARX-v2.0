@@ -1,0 +1,182 @@
+2025.12.4
+ 
+Getting started
+Documentation 
+Our hardware 
+Integrations
+Blog
+Need help?
+Awaken
+
+your home
+
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts.
+
+GET STARTED 
+View live demos Browse 3300+ integrations
+
+Top open source project by contributors in 2025
+
+ Release Notes
+2025.12: Triggering the holidays 🎄
+December 3, 2025
+2025.11: Pick, automate, and a slice of pie 🥧
+November 5, 2025
+ Recent Blog Posts
+Music Assistant 2.7 - Taking over the airwaves
+December 17, 2025
+More devices, more choice: celebrating a massive year for certification
+December 9, 2025
+The best gets better - Home Assistant Connect ZBT-2
+November 19, 2025
+ELTAKO joins Works with Home Assistant
+October 29, 2025
+
+We are a non-profit and can't be sold or acquired.
+
+Home Assistant is a project by the Open Home Foundation.
+
+Read our founder's vision for the perfect home automation
+
+ Alexa, turn on the lights
+Use Alexa to control Home Assistant.
+LEARN MORE
+ Ok Google, turn off the AC
+Use Google Assistant to control Home Assistant.
+LEARN MORE
+ Join The Community
+Our vibrant community is very active and super friendly. We love to talk and share our passion for home automation.
+ FORUMS  CHAT  NEWSLETTER
+ 
+Home Assistant Connect ZBT-2
+The easiest way to start with Zigbee or Thread is now even better.
+Home Assistant Connect ZWA-2
+The ultimate way to connect Z-Wave devices to Home Assistant.
+Home Assistant Voice Preview Edition
+Bring choice to voice - the best way to get started with voice
+Home Assistant Green
+The easy-to-use, versatile, and trustworthy smart home hub for everyone.
+Home Assistant Yellow
+Home Assistant Yellow is your Matter-ready, upgradeable, and extendable smart home hub. You won't need anything else.
+Home Assistant Connect ZBT-1
+Best way to add Zigbee and Thread to Home Assistant
+ 
+State of the Open Home 2025
+Learn about our progress so far and also the roadmap for this year.
+Control your home with Assist
+Our private, insanely fast, voice assistant running on affordable hardware. Now supporting wake words.
+Home Energy Management
+Monitor your energy usage, transition to sustainable energy and save money
+Features
+Works with over 1000 brands
+
+Home Assistant integrates with over a thousand different devices and services.
+
+Once started, Home Assistant will automatically scan your network for known devices and allow you to easily set them up.
+
+EXPLORE INTEGRATIONS
+Powerful automations
+
+Once you have integrated all your devices at home, you can unleash Home Assistant’s advanced automation engine to make your home work for you.
+
+Turn on the light when the sun sets or when coming home
+Alert you when you leave your garage door open.
+EXPLORE AUTOMATIONS
+Versatile dashboards
+
+Home Assistant dashboards allow you to display information about your smart home. Dashboards are customizable and provide a powerful way to manage your home from your mobile or desktop.
+
+Easily create and customize your dashboards with drag-and-drop.
+Different card types to visualize your data and control your smart home devices.
+EXPLORE DASHBOARDS
+Assist, our voice assistant
+
+Assist allows you to control Home Assistant using natural language. It is built on top of an open voice foundation and powered by knowledge provided by our community.
+
+Customize your voice assistant and experiment with AI conversations.
+Use Assist everywhere on your mobile phone, tablets, smartwatches, and even old-school telephones.
+EXPLORE ASSIST
+Extend your system with add-ons
+
+Home Assistant is not just limited to Home Assistant. Easily install other applications that will help you manage your home.
+
+Run AdGuard, a DNS-based ad blocker
+Run third party automation engines like NodeRed
+Turn Home Assistant into a Spotify Connect target
+EXPLORE ADD-ONS
+All your smart home data stays local
+
+Home Assistant keeps your data local, no need for a cloud.
+
+Home Assistant communicates with your devices locally, and will fallback to pulling in data from the cloud if there is no other option. No data is stored in the cloud, and everything is processed locally.
+
+Companion Mobile Apps
+
+Use the official Home Assistant apps, a convenient companion to quickly control your devices and be notified when things happen in your home, even on your wrist using the Apple Watch.
+
+The apps can also be used to send your location home to use presence detection as part of your automations. Data is sent directly to your home, no access by third-parties.
+
+DOWNLOAD APPS
+Home Energy Management
+
+Home Assistant allows you to get on top of your energy use with its home energy management feature. Gain new insights, optimize your solar panel production, plan energy usage and save money.
+
+LEARN MORE
+Home Assistant Cast
+
+Take over all the screens. Home Assistant Cast makes every TV a display for dashboards.
+
+LEARN MORE
+NFC Tags
+
+Use NFC to bring music to your life or automate the mundane.
+
+LEARN MORE
+In the press
+
+Trusted by home automation experts and more than a million households.
+
+The Home Assistant project is sponsored by
+
+Home Assistant is a project from the Open Home Foundation, sponsored by Nabu Casa.
+
+ 
+JOIN US AND CONTRIBUTE!
+GitHub repo 
+Developers Portal 
+Design Portal 
+Data Science Portal 
+Community Forum 
+Creator Network 
+Works With Home Assistant 
+Our community
+Reporting issues
+SYSTEM STATUS
+Integration Alerts 
+Security Alerts
+System Status 
+ 
+COMPANION APPS
+iOS and Apple devices
+Android and Wear OS
+...and more!
+GOVERNANCE
+Privacy Notices
+Contributor License Agreement
+Terms of Service
+Code of Conduct
+Credits
+License
+ 
+FOLLOW US
+
+Sign up for our newsletter 
+
+  
+  
+  
+
+For partnership inquiries please check out Works With Home Assistant. For media, get in touch here. For other questions, you can contact us here (No technical support!)
+
+Website powered by Jekyll
+Originally based on the Oscailte theme

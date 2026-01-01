@@ -1,0 +1,11 @@
+Error 1009 Ray ID: 9b6a405c9e1fe620 • 2025-12-31 13:51:23 UTC
+Access denied
+What happened?
+
+The owner of this website (p2elite.com) has banned the country or region your IP address is in (KR) from accessing this website.
+
+Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1009/ for more details.
+
+Was this page helpful? Yes No
+
+Cloudflare Ray ID: 9b6a405c9e1fe620 • Your IP: Click to reveal • Performance & security by Cloudflare

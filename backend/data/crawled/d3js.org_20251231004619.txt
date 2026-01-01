@@ -1,0 +1,77 @@
+Skip to content
+D3
+Search
+K
+7.9.0
+GitHub️ 111.9k
+
+The JavaScript library for bespoke
+ data visualization
+
+Create custom dynamic visualizations with unparalleled flexibility
+
+Get started
+What is D3?
+Examples
+Selections and transitions
+
+Create, update, and animate the DOM based on data without the overhead of a virtual DOM.
+
+Scales and axes
+
+Encode abstract data into visual values such as position, size, and color. Explain position encodings with axes.
+
+Shapes
+
+Render arcs, areas, curves, lines, links, pies, stacks, symbols… and any geometric primitive you might need to visualize data.
+
+Interactions
+
+Facilitate exploration with reusable interactive behaviors, including panning, zooming, brushing, and dragging.
+
+Layouts
+
+Treemaps, trees, force-directed graphs, Voronoi, contours, chords, circle-packing… a library of layout algorithms at the ready.
+
+Geographic maps
+
+More spherical projections than you can shake a stick at, with arbitrary aspects, adaptive sampling, and flexible clipping.
+
+… and much more!
+
+CSV parsing, localized date parsing and formatting, color spaces, calendar math, statistics, and can I stop listing features now?
+
+Powering Observable Plot
+
+The D3 team also builds Observable Plot, a high-level API for quick charts built on top of D3.
+
+Try Observable Plot
+
+Built by Observable
+
+D3 is developed by Observable, the platform for collaborative data analysis.
+
+Visit Observable
+
+Build your best work with D3 on Observable
+The only data workflow platform capable of supporting the full power of D3
+Connect to your data instantly
+Pull live data from the cloud, files, and databases into one secure place — without installing anything, ever.
+Code faster than you thought possible
+Get everything you need and none of what you don’t with lightweight automatic versioning, instant sharing, and real-time multiplayer editing.
+Accelerate your team’s analysis
+Create a home for your team’s data analysis where you can spin up charts, maps, and data apps to explore, analyze, and iterate on together.
+Build with D3 on Observable →
+Resources
+Forum
+Slack
+Discussions
+Releases
+Observable
+Product
+Plot
+Integrations
+Pricing
+Enterprise
+© 2025 Mike Bostock and Observable, Inc.
+ISC License

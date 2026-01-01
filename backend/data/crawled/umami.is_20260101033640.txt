@@ -1,0 +1,143 @@
+umami
+FeaturesBlogDocsPricingContact
+31K
+Log inSign up
+The modern analytics platform
+for effortless insights.
+
+Umami makes it easy to collect, analyze, and understand your website data — so you can focus on growth
+
+Get started
+Trusted by thousands of companies
+Web Analytics
+A complete analytics solution with all the features you need.
+
+Umami is packed with amazing features that enable you to better understand your website traffic.
+
+Traffic analysis
+
+Get insights into your traffic so you optimize for growth. Easily see all your metrics at a glance.
+
+Visitor analysis
+
+Get detailed breakdowns about your visitors including where they are located and what device they used.
+
+Custom events
+
+Track more than just pageviews. Capture any event on your website like button clicks and form entries.
+
+Powerful filters
+
+Dive deeper into your data using easy to apply filters. Segment your users by any metric such as browser, OS, and country.
+
+Realtime data
+
+Get a realtime view of your current website traffic. See the exact pages where your visitors are landing.
+
+Trend detection
+
+Compare date periods to discover key trends in your traffic. Easily measure the success of your campaigns.
+
+Explore more features 
+Product analytics
+Turn user behavior into insights
+
+Umami helps you understand why your users do what they do, so you can optimize your conversion paths.
+
+User journeys
+
+Understand how users navigate through your product.
+
+User retention
+
+Measure your website stickiness by tracking how often users return.
+
+Funnels
+
+Understand the conversion and drop-off rate of users.
+
+Simple setup
+Get up and running in minutes
+1
+Sign up
+Create a free account on Umami Cloud.
+2
+Install tracking code
+Add our privacy-friendly tracking code to your website.
+3
+View your data
+Data will start appearing on your dashboard immediately. It's that easy.
+Get started
+Contribute
+Powered by open source
+
+Umami is proudly open source. Thousands of developers worldwide can share and contribute to the Umami experience.
+
+Read documentationView code repository
+20M+
+Downloads
+31K+
+GitHub stars
+280+
+Contributors
+Connect
+Join our community
+
+Come share your Umami experience with our vibrant community of users and developers.
+
+khoi
+@khoiuna
+
+Just set up my umami.is self-hosted analytics page. It took me less than 10 min to set up! Super simple!
+
+Great Google Analytics alternative from @umami_software!
+
+Sylvain
+@_maoosi
+
+Umami (@umami_software) is my new go-to platform for analytics!
+
+Fantastic open source product, privacy-focused, and they just released the most attractive pricing model out there for hosted analytics!
+
+Pauline AI
+@Pauline_Cx
+
+Umami should deserve more visibility
+
+It's open source, GDPR compliant, and better than Google Analytics
+
+Install it on @vercel, host database on @supabase and you have a complete analytics solution for your apps, for FREE.
+
+Abdullah Bashir
+@digitaldrreamer
+
+Tried Umami today for a change. The simplicity is addictive 🙃. Good enough for me. Can't wait to integrate into my project.
+
+Oh, and the API is as simple as the UI. Bye bye 46kb Google analytics script 😤🏃🏃 @umami_software 🤟🤟
+
+Filip @ Studio
+@filipatstudio
+
+Installed @umami_software on my server today for studio.dev and rectangles.dev
+
+Easy-peasy installation. Love the docs! 💅
+
+Nice and beautiful software fitting my needs 🤝
+
+Stefan Judis
+@stefanjudis
+
+On the weekend I set up umami.is to enable tracking that is not based on Google Analytics. It took only an hour. 👏
+
+Thanks @umami_software for building it! 🙇‍♂️
+
+Are you ready for better analytics?
+Try 14-day free trial
+umami
+Product
+FeaturesPricingCloud
+Resources
+DocumentationGuidesAPI ReferenceRelease NotesCommunitySupport
+Company
+AboutBlogContactPrivacyTermsDPA
+© 2026 Umami Software, Inc.

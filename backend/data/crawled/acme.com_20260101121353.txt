@@ -1,0 +1,61 @@
+	
+ACME Laboratories
+Graphics * Unix * Networks * Fun
+	
+Purveyors of fine freeware since 1972. On the net since 1991.
+ACME Updates.
+ACME Labs maps, including:
+The ACME Mapper.
+ACME GeoRSS Map Viewer.
+Paris Metro map.
+ACME Planimeter.
+The ACME Labs freeware library.
+e - tiny EMACS-like text editor.
+thttpd - tiny/turbo/throttling web server.
+mini_httpd - simple web server that does HTTPS.
+micro_httpd - world's smallest web server?
+spfmilter - SPF mail filter module.
+pbmplus - toolkit for converting image file formats.
+The currently-lit face of the Earth, in ASCII.
+The current phase of the Moon, in ASCII.
+The ACME JavaScript utilities.
+The ACME Java pages.
+The current phase of the Moon, in Java.
+A Java printf()-equivalent.
+A GIF encoder!
+PostScript-like graphics.
+A simple web server in Java.
+Tutorials and resources:
+The ACME Comment Weblet.
+Web API Demonstrations.
+HTML5 Canvas.
+Learn how to filter out emailed spam.
+The ACME Caption Maker.
+The ACME Chartmaker.
+The ACME Annotator.
+Twoday, shows you what you tweeted on this day in past years.
+Learn how to set up a FreeBSD firewall.
+An HTML sampler, and a colormap sampler.
+Unicode characters.
+Unicode Transformations.
+Unicode Decoder.
+One Month, a single calendar page.
+Toys and amusements:
+The ACME Label Maker.
+The ACME License Maker.
+Just for Valentine's Day: the ACME Heart Maker.
+The ACME ChuMaker.
+The ACME Chocolate Registry.
+ACME Labs Calendar.
+ACME News, a free web conferencing system.
+Jef Poskanzer's personal page.
+acme.com's hardware.
+What does ACME mean?
+Other ACMEs on the web.
+ACME Labs Freeware License.
+ACME Labs Privacy Policy.
+Donate $5 to help support ACME Labs.
+
+Note: the only affiliation between ACME Laboratories and Warner Brothers is that I've been a fan of Wile E. Coyote for decades.
+
+

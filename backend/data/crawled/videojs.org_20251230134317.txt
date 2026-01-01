@@ -1,0 +1,186 @@
+Video.js - HTML5 Video Player
+GET STARTED
+GUIDES
+API DOCS
+BLOG
+GITHUB
+Make your player yours
+with the world's most popular open source HTML5 video player
+Play Video
+GET STARTED
+DEMOS
+SWAP THEME
+CITY
+FANTASY
+FOREST
+SEA
+FEATURES
+
+Why Video.js?
+
+Video.js is the open-source HTML5 video player for the modern web: embed html5 video easily, support all major formats, and style it your way.
+
+It supports video playback on desktop and mobile devices. The project was started mid 2010, and now has hundreds of contributors and has been used on over 3,000,000 websites.
+
+Plays anything
+
+Plays “traditional” file formats such as MP4 and WebM, but also supports adaptive streaming formats such as HLS and DASH. There’s even a special UI for live streams!
+
+Easy to style
+
+Video.js is designed to be a reliable and consistent base to build on top of. The player looks great out of the box, but can be easily styled with a little bit of extra CSS.
+
+100s of plugins
+
+When you need to add additional functionality, a well-documented plugin architecture has your back. The community has already built hundreds of skins and plugins that you can install, such as Chromecast, IMA, even VR.
+
+Supported everywhere
+
+Your video should work everywhere your app does. The team makes an effort to support every modern browser we can, including desktop and mobile.
+
+USED BY
+
+Built by the community, used by the professionals
+
+EXAMPLE
+
+Playlist plugin
+
+The advanced example includes the playlist plugin, along with some useful details such as what all of the player properties are, and what events have fired and how often.
+
+Volume
+100
+Playback Rate
+1
+Controls
+Fluid
+Mute
+Loop
+Play Video
+Now Playing
+Disney's Oceans
+Up Next
+Sintel
+14:48
+Advanced Bip Bop
+30:00
+Elephant's Dream (HLS with captions, audio description and chapters)
+10:53
+Elephant's Dream (mp4 with separate text track audio description, captions, and chapters)
+10:53
+Tears of Steel
+12:13
+Big Buck Bunny
+9:56
+errornull
+src//vjs.zencdn.net/(…)oceans.mp4
+currentSrc//vjs.zencdn.net/(…)oceans.mp4
+crossOrigin
+networkState2
+preload"auto"
+buffered[0.00, 0.00]
+readyState1
+seekingfalse
+currentTime0
+duration46.613333
+pausedtrue
+defaultPlaybackRate1
+playbackRate1
+played
+seekable[0.00, 46.61]
+endedfalse
+autoplayfalse
+loopfalse
+controlstrue
+volume1
+mutedfalse
+audioTracks{"length":0}
+videoTracks{"length":0}
+textTracks{"length":0}
+width0
+height0
+currentWidth912
+currentHeight521.141
+videoWidth960
+videoHeight400
+poster//vjs.zencdn.net/(…)oceans.png
+readyState1
+loadstart1
+suspend1
+abort0
+error0
+emptied0
+stalled0
+loadedmetadata1
+loadeddata1
+canplay1
+canplaythrough1
+playing0
+waiting0
+seeking0
+seeked0
+ended0
+durationchange1
+timeupdate0
+progress1
+play0
+pause0
+ratechange0
+resize1
+volumechange0
+SPONSORS
+
+The folks who help make this happen
+
+The role of Corporate Shepherd is held by the company that has been elected by the Video.js Technical Steering Committee (TSC) to be a steward of the project and make significant investment into the development of Video.js. The role is currently held by Mux, taking over for Brigthcove in 2025. Mux is a leader in streaming video technology and was founded by Steve Heffernan, the creator of Video.js.
+
+CORPORATE SHEPHERD
+CDN
+EMERITUS SPONSOR
+DEVICE TESTING
+STATIC HOSTING
+IMPLEMENTATION
+
+When to use Video.js over the <video> element?
+
+Feature	Video.js	HTML5
+Cross-browser "Skins"	
+Looks good everywhere with CSS-based Skins
+	
+Looks different in every browser
+
+Adaptive Streaming (adjusting to the viewer’s bandwidth)	
+HLS supported everywhere. DASH supported everywhere but iOS Safari.
+	
+HLS and DASH not playable in Chrome or Firefox by default.
+
+Social Video Platforms	
+Play Youtube, Vimeo, and more with added plugins.
+	
+Not supported
+
+Community-built Plugins	
+Hundreds!
+	
+Probably?
+
+Browser API Inconsistencies	
+Makes them disappear
+	
+Many
+GET INVOLVED
+
+We make it easy for anyone to jump in and be a part of the Video.js community.
+
+VIDEO JS SLACK
+VIDEO-DEV / #VIDEOJS
+VIDEO JS TWITTER
+CODE OF CONDUCT
+DEMUXED CONFERENCE
+GET STARTEDGUIDESAPI DOCSBLOGGITHUBPRIVACY
+
+Video.js is a free and open source HTML5 video player.
+
+© 2010-present Video.js contributors | Sponsored by Mux
+
+VIDEO.JS is a registered trademark of Brightcove Inc.

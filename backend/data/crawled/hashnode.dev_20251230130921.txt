@@ -1,0 +1,273 @@
+Products
+Editor
+Pricing
+Changelog
+Sign in
+Create, collaborate, and scale your blogs and docs.
+
+Effortlessly build blogs, API docs, and product guides with Hashnode, with the flexibility of a headless CMS and more.
+
+Sign up for free
+Talk to founders
+
+No credit card required.
+
+Trusted by top engineering teams worldwide.
+
+The modern content engine for API docs and product guides.
+
+Create and scale dynamic developer docs and API references. Built for teams needing full control and customization — no heavy lifting, no upkeep, no reinventing the wheel.
+
+Explore docs
+Unlimited guides and API references in a single project.
+Use custom domains and sub-paths.
+Go headless and fully customize the UI to match your brand.
+Sync with GitHub for open-source contributions.
+Collaborate easily — involve the entire team, not just developers.
+“Hashnode's doc creation and collaboration tool is 10x easier, with a top-tier editor and beautiful UI—excited to launch alongside their release!”
+Brandon Strittmatter
+Co-Founder & CEO, Outerbase
+The best blogging platform for developers and teams.
+
+Effortlessly run your blog, solo or with a team. Customize everything — map a domain, subdomain, or use a company sub-path. Already loved by millions of devs worldwide.
+
+Learn more
+Block-based WYSIWYG Markdown editor.
+Map custom domains and sub-paths like /blog.
+Go headless and fully customize the UI to match your brand.
+SEO-optimized and lightning-fast out of the box.
+Collaborate with your team — inline comments, real-time editing.
+“The freeCodeCamp community makes heavy use of Hashnode's publishing workflow to collaborate on books and tutorials. This has boosted our productivity and saved us a ton of time.”
+Quincy Larson
+Founder, FreeCodeCamp
+Do more with Hashnode AI.
+The 
+ AI-powered content stack for everyone on your team.
+
+Hashnode's AI tools help your team move quickly to deliver docs and blogs that your users will love. Built-in features to make your team 100x more productive.
+
+AI-assisted writing tools.
+
+Generate polished content, rephrase to fit your brand's voice, and research topics — all within the editor.
+
+AI-powered docs search.
+
+Deliver the right answer to your users with Hashnode's AI-driven chat search. It searches through guides, endpoints, and API reference examples.
+
+AI-sidekick.
+
+A ChatGPT-like assistant built into the editor, helping your team get more from their drafts. Turn articles into tweets, find info from the web—it understands the full context of what's written.
+
+3 reasons to choose Hashnode.
+No context switching — One platform for blogs, and docs.
+
+Set up blogs, API docs, or product guides effortlessly on Hashnode, and keep your team on the same page. No more context switching—less to learn, more to get done.
+
+Customize and match your design with headless mode.
+
+Launch a hosted blog or docs, or go fully custom with headless mode—a treat for developers. No need to reinvent the wheel.
+
+Cost-effective with no infrastructure to maintain
+
+Focus on building, not hosting. We handle your blog and docs while your team creates great content—saving you time and costs.
+
+We're the most loved developer platform worldwide.
+600,000+
+Registered blogs
+3.5M
+Unique reads per month
+1B+
+API calls this year
+1M
+Registered users
+
+“It's amazing to see how fast devs go from 0 to Blog under a domain they own on Hashnode 🤯. It reminds me a lot of what Substack did for journalists.”
+
+Guillermo Rauch
+CEO, Vercel
+
+“Hashnode's writing editor is the best on the internet.””
+
+Costa Tin
+Marketing Lead, MindsDB
+
+“It took a single developer an afternoon to integrate.”
+
+Kevin Van Gundy
+CEO, Hypermode
+
+“Hashnode is incredibly easy to integrate into an existing CMS.”
+
+Amy Dutton
+Lead Maintainer Core Team, Redwoodjs
+
+“Setting up a base blog for our company was super easy.”
+
+Chris Battarbee
+CEO, Metoro
+
+“Hashnode has made doc creation and collaboration 10x easier than our previous docs which required manual deployments. Their editor is best-in-class, and the UI is beautiful!”
+
+Brandon Strittmatter
+Co-Founder & CEO, Outerbase
+
+“Hashnode's best-in-class docs editor, modern frontend, and fantastic support make managing Requestly's documentation seamless and hassle-free.”
+
+Sahil Gupta
+Co-founder, Requestly
+
+“The freeCodeCamp community makes heavy use of Hashnode's publishing workflow to collaborate on books and tutorials. This has boosted our productivity and saved us a ton of time.”
+
+Quincy Larson
+Founder, FreeCodeCamp
+Recent on the blog
+Browse all posts
+From ChatGPT for Testing to Full Automation: Why I Built My Own AI Testing Tool
+
+I got tired of pasting DOM snippets, so I built a tool that uses video to generate Playwright scripts. If you are any…
+
+Syed Fazle Rahman
+•
+Nov 20, 2025
+#ChatGPT for Testing
+#Vibe Testing Tool
+#AI Testing Tools
+Tech's secret weapon: A complete guide to the Forward Deployed Engineer (Role, salary, & interviews)
+
+Forget the common job titles. In today's tech world, as AI and data platforms get impossibly complex, one high-impact…
+
+Syed Fazle Rahman
+•
+Nov 05, 2025
+#AI
+#Forward-Deployed Engineer
+#openai
+How AI is transforming QA testing: from manual tests to fully autonomous agents
+
+Software teams have automated almost everything, except QA. Even with modern tools, testing slows releases, breaks pi…
+
+Syed Fazle Rahman
+•
+Nov 04, 2025
+#Forward-Deployed Engineer
+#FDE
+#AI QA Testing
+AI QA Engineer: Definition, jobs, and the Rise of Intelligent Testing
+
+TL;DR: The AI QA Engineer is the next evolution of software testing. It's an AI-native system that replaces slow, exp…
+
+Syed Fazle Rahman
+•
+Oct 17, 2025
+#Browser Testing Automation
+#Spur AI QA Engineer
+#Bug0
+Best AI Testing Tools in 2025 — From Autonomous Agents to Human-Assisted QA
+
+If you just want the highlights, here’s a quick summary before we dive in 👇 TL;DR AI testing tools now range from A…
+
+Syed Fazle Rahman
+•
+Oct 14, 2025
+#AI
+#AI QA
+#AI Testing Tools
+Writing Great API Documentation: Best Practices with OpenAPI and Hashnode's Docs Product
+
+If you are a devtool company or any tech company catering to developers and you provide APIs, the most effective way …
+
+Haimantika Mitra
+•
+Oct 30, 2024
+#Developer
+#Technical writing
+#APIs
+Getting Started with OpenAPI: How Hashnode's new docs product can simplify your API documentation
+
+OpenAPI is the go-to standard for defining and documenting APIs. It helps streamline API integration, makes everythin…
+
+Hashnode
+•
+Oct 21, 2024
+5 must-haves for open-source success: how great docs and community drive developer adoption
+
+Building and maintaining an open-source project is hard. It is even harder when you are a solo maintainer or have a v…
+
+Haimantika Mitra
+•
+Oct 17, 2024
+#Open Source
+#community
+#Developer
+Automate TL;DR posts on X using Hashnode Webhooks and Vercel AI
+
+AI has fascinated us since last year, and as developers, we have been using it to automate or simplify tasks that wou…
+
+Haimantika Mitra
+•
+Sep 26, 2024
+#Web Development
+#AI
+#Next.js
+Setup a rich API playground documentation for developers with one click from OpenAPI specification.
+
+This article will show you how to create a rich API playground for your product’s documentation using OpenAPI or Swag…
+
+Syed Fazle Rahman
+•
+Sep 24, 2024
+#api documentation
+#documentation
+#Hashnode
+5 tips to write good developer documentation
+
+All developer tools go through five stages: discover, evaluate, learn, build, and scale. While you are in the discove…
+
+Haimantika Mitra
+•
+Sep 24, 2024
+#APIDocumentation
+#documentation
+#Hashnode
+GraphQL 101: Learn to Build with GraphQL APIs
+
+Whether you are someone who is getting started with tech or a junior software engineer, APIs are something that you w…
+
+Haimantika Mitra
+•
+Sep 12, 2024
+#APIs
+#GraphQL
+#Beginner Developers
+Give your team a modern content engine for blogs and docs.
+Start in 30 seconds
+Hassle-free blogging platform that developers and teams love.
+Product
+Docs by Hashnode
+Blogs
+AI Markdown Editor
+GraphQL APIs
+Open source Starter-kit
+Explore
+My feed
+AI QA Engineer
+Company
+About Hashnode
+Logos and media
+Changelog
+Feature Requests
+Blogs
+Official Blog
+Engineering Blog
+Hashnode Townhall
+Support
+Support docs
+Contact
+Join discord
+Fix your developer hub
+
+© Hashnode 2025 — LinearBytes Inc.
+
+Privacy Policy
+Terms
+Code of Conduct

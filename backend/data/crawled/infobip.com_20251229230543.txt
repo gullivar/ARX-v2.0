@@ -1,0 +1,498 @@
+Consent
+Details
+About
+This website uses cookies
+We use necessary cookies to make our website and web-based interface work. With your permission we will set optional cookies to provide social media features, to show you personalised ads relevant to your interests, and to analyse our traffic. We won't set optional cookies unless you enable them. To get more information about these cookies, how and why we use them and how you can change your settings, check our Cookie Policy. 
+Use necessary cookies only
+Customize
+Allow all cookies
+SERVICE STATUS
+EXTERNAL CONNECTIVITY STATUS
+STARTUPS
+SUPPORT CENTER
+SITE LANGUAGE:
+EN
+LOGIN
+Products
+Solutions
+Telecoms
+Partnerships
+Developers
+Company
+Pricing
+Try for free
+Contact us
+Reach more customers wherever they are, whatever they’re on
+
+Engage them on every channel, in every scenario – from our platform or yours
+
+Try for free
+Contact an expert
+Two teams.
+One obsession.
+
+Performance through innovation
+
+Discover more
+
+A LEADER AGAIN
+
+2025 Gartner®
+Magic Quadrant™
+for CPaaS
+
+Positioned furthest for our Completeness of Vision!
+
+Get the report
+Verticalized & AI use cases
+Design customer journeys
+
+Build any use case on messaging or voice channels for your industry e.g. Finance, Healthcare, retail, using AI and our conversational experience platform
+
+Explore
+Composable CX modules
+Create conversations that click
+
+Enable dynamic two-way interactions for marketing and customer support through messaging or programmable voice
+
+Explore
+Programmable Channels
+Connect on any channel
+
+Effortlessly deliver messages across all channels from a unified messaging platform using the most advanced channel APIs in the world
+
+Explore
+Network and APIs
+Secure and scale every interaction
+
+Protect your customers and their data with authentication tools or simply build communication workflows on our secure, flexible CPaaS APIs, and the most powerful network in the world
+
+Explore
+Build any use case or conversational scenario
+Finance
+Retail & eCommerce
+Telecoms
+Healthcare
+Transportation
+Travel
+Easy-to-use cloud products for marketing, sales, and support 
+Moments
+Customer engagement
+platform
+Conversations
+Cloud contact center
+solution
+Answers
+Chatbot Building
+Platform
+People
+Customer data
+platform
+Your customers. Their channels.
+
+It’s easier to get the attention of your customers when you meet them where they are.
+You focus on the message; we get it delivered loud and clear.
+
+SMS
+
+API
+
+MMS
+
+API
+
+Voice API
+
+API
+
+Live Chat
+
+API
+
+RCS
+
+API
+
+Email
+
+API
+
+Instagram
+
+API
+
+WhatsApp
+
+API
+
+Messenger
+
+API
+
+Telegram
+
+API
+
+Viber for Business
+
+API
+
+Apple messages for business
+
+API
+Explore all channels
+Build flexible workflows with industry-leading CPaaS APIs 
+JavaScript
+JavaScript
+Rust
+Rust
+Go
+Go
+SMS
+WhatsApp
+const { Infobip, AuthType } = require(‘@infobip-api/sdk’);
+const infobip = new Infobip({
+  baseUrl: ‘{baseUrl}’,
+  apiKey: ‘{authorization}’,
+  authType: AuthType.ApiKey,
+});
+infobip.channels.sms.send({
+  messages: [{
+    destinations: [{
+      to: “41793026727”
+    }],
+    from: “InfoSMS”,
+    text: “This is a sample message”,
+  }]
+});
+Code your own solutions
+
+Integrate your customers’ favorite channels and build experiences your customers want, the way you want. 
+
+Explore docs
+Explore APIs
+Authentication
+
+Fully automated, cost-effective way to authenticate your customers, with multistep failover that leaves no message undelivered
+
+Explore Authentication
+CPaaS X
+
+New and enhanced APIs designed to make the Infobip platform more scalable and modular for diverse customer use cases.
+
+Explore CPaaS X
+Network APIs
+
+Making it easier for developers to access advanced network capabilities, helping them build better apps faster.
+
+Explore Network API
+Scalable, secure and compliant with our hyper network
+1300+
+
+Physical servers
+
+40+
+
+Data centers and auxiliary locations
+
+17K+
+
+Virtual machines
+
+1600
+
+Service types
+
+15K +
+
+Application instances
+
+800+
+
+Engineers
+
+7bn
+
+End user touchpoints
+
+1000
+
+Deployments daily
+
+Head into the conversational future with a trusted partner 
+
+95% of global businesses will be using conversational solutions by 2025. We’re here to help you build leading conversational experiences in your market. 
+
+Explore partnership
+Become a partner
+Compose your own tech stack by integrating our solutions with any app 
+
+With our wide range of integration options, you can use any of our solutions to enhance your customer experience on your existing systems. 
+
+Explore all integrations
+Transforming 10,000+ businesses worldwide 
+Explore customer stories
+
+Nissan Saudi Arabia: Mastering lead generation with an AI-powered voice game over WhatsApp
+.
+
+80%
+
+session engagement rate
+.
+
+84%
+
+were first-time participants
+.
+
+93%
+
+delivery rate across campaigns
+.
+
+Uber: Capitalizing on the global expansion of the ride-sharing phenomenon
+.
+
+90%
+
+of global calls anonymized
+.
+
+UNICEF: Turning caring people into regular givers with omnichannel customer engagement
+.
+
+7.8%
+
+increase in donor retention
+.
+
+33.3%
+
+decrease in churn rate
+.
+
+4%
+
+conversion rate on cart abandonment flow
+.
+
+DPD: Improving delivery experiences and cutting costs with Viber and SMS
+.
+
+20%
+
+reduction in cost
+.
+Stay on top of every tech trend: Explore our resources 
+Posted on
+December 22, 2025
+.
+WhatsApp data security: Encryption & API best practices 
+.
+
+Explore how WhatsApp encryption works, the security risks introduced at the API layer, and best practices for protecting customer data while maintaining compliance and trust.
+
+Tags:
+BLOG
+.
+BEST PRACTICES
+.
+WHATSAPP BUSINESS
+.
+CUSTOMER SECURITY
+.
+Posted on
+December 17, 2025
+.
+History of RCS Messaging: When did RCS come out?
+.
+
+Discover when RCS was created, how Google and Apple shaped its evolution, and why it’s transforming mobile messaging beyond SMS.
+
+Tags:
+TRENDS AND INSIGHTS
+.
+RCS
+.
+Posted on
+December 16, 2025
+.
+SMS marketing KPIs: Key metrics you should track
+.
+
+Are your SMS marketing campaigns performing? To answer that, you need KPIs. Here are the ones you should be tracking.
+
+Tags:
+BLOG
+.
+BEST PRACTICES
+.
+SMS
+.
+MARKETING
+.
+Posted on
+December 16, 2025
+.
+How to build an IVR system for contact centers
+.
+
+Master how to create an IVR system with our user-friendly guide and step-by-step instructions for a seamless caller experience.
+
+Tags:
+BEST PRACTICES
+.
+VOICE
+.
+Posted on
+December 12, 2025
+.
+Club Med: Advancing CX for travel with WhatsApp and AI
+.
+
+Discover how Club Med is improving customer experience by meeting travelers where they already are – on WhatsApp. With AI-powered messaging, the brand sets a new standard for modern, conversational CX.
+
+Tags:
+BLOG
+.
+TRENDS AND INSIGHTS
+.
+WHATSAPP BUSINESS
+.
+SPOTLIGHT
+.
+Posted on
+December 11, 2025
+.
+A guide to Viber chatbots and how to build one
+.
+
+Join us for an introduction to Viber chatbots, including key features, what they can be used for, and most importantly – how to build one without needing to be a developer.
+
+Tags:
+BLOG
+.
+BEST PRACTICES
+.
+VIBER FOR BUSINESS
+.
+Posted on
+December 11, 2025
+.
+WhatsApp statistics 2025: Global usage & market overview
+.
+
+Explore the most updated WhatsApp statistics, covering global usage, engagement, demographics, and business adoption trends for 2025. 
+
+Tags:
+TRENDS AND INSIGHTS
+.
+WHATSAPP BUSINESS
+.
+Posted on
+December 10, 2025
+.
+The ultimate guide to generative AI chatbots for customer service
+.
+
+Learn how generative AI, agentic AI, and agentic RAG technology are transforming CX. Explore use cases, benefits, risks, and best practices.
+
+Tags:
+BLOG
+.
+BEST PRACTICES
+.
+ANSWERS – CHATBOT BUILDER
+.
+CUSTOMER SERVICE
+.
+Posted on
+December 10, 2025
+.
+WhatsApp Business backup: How to back up & restore data
+.
+
+Learn how to back up and restore WhatsApp Business data on Android and iPhone. Protect chats, enable encrypted backups, and prevent data loss easily.
+
+Tags:
+BLOG
+.
+AWARENESS
+.
+WHATSAPP BUSINESS
+.
+Posted on
+December 9, 2025
+.
+RCS read receipts: What they are and how they work
+.
+
+A clear guide to RCS read receipts, how they work on Android and iPhone, and how brands can use them to track engagement.
+
+Tags:
+TRENDS AND INSIGHTS
+.
+RCS
+.
+CONVERSATIONAL EXPERIENCE
+.
+Get the latest insights and tips to elevate your business
+Subscribe
+
+By subscribing, you consent to receive email marketing communications from INFOBIP. You have the right to withdraw your consent at any time using the unsubscribe link provided in all INFOBIP’s email communications. For more information please read our Privacy Notice
+
+Business
+All products
+Customer engagement
+Cloud contact center
+Chatbot building
+Customer data platform
+Customer stories
+Blogs
+Documentation
+Downloads
+Startup Tribe
+Solutions
+Conversational solutions
+B2B platforms
+Digital natives
+Enterprise
+Wholesale
+Government
+Transportation
+Healthcare
+Financial services
+Retail & e-Commerce
+Company
+About us
+Certificates
+News & press
+Offices
+Policies
+Privacy
+Law enforcement requests
+Infobip Foundation
+Careers
+Infobip Research Projects
+Code of conduct
+Infobip position paper
+Service status
+External connectivity status
+Infrastructure
+Brandbook
+Glossary
+Contact
+Copyright @ 2006-2025 Infobip ltd.
+Terms & Conditions
+Privacy Notice
+Short Code
+Terms of Use
+UK Tax Strategy
+Facebook
+X (formerly Twitter)
+LinkedIn
+YouTube
+Instagram
+Site language:
+English

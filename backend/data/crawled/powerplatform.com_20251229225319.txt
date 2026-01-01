@@ -1,0 +1,238 @@
+주 콘텐츠로 건너뛰기
+Microsoft
+Power Platform
+Power Platform 정보 제품 가격 책정 리소스
+무료로 시작
+
+Microsoft가 후원하는 Power Platform 커뮤니티 컨퍼런스에 직접 참여하여 전문가와 함께 로우 코드와 AI 에이전트를 살펴보세요.
+
+지금 등록
+MICROSOFT POWER PLATFORM
+혁신 가속화
+로우코드 도구로 비용과 개발 시간을 절감하세요.
+가이드 투어 둘러보기
+이점
+왜 Power Platform인가
+분석자 보고서
+고객 스토리
+리소스
+제품
+시작
+혜택
+비즈니스 전반에서 혁신 추진
+Microsoft Power Platform 정보
+Microsoft Power Platform을 사용할 이유
+개요
+조직의 모든 사용자가 로우코드 도구를 사용하여 솔루션을 개발할 수 있도록 합니다.
+Microsoft Dataverse
+보안 및 거버넌스
+커넥터
+혜택 섹션의 탭으로 돌아가기
+왜 POWER PLATFORM인가
+기업이 Microsoft Power Platform을 선택하는 이유
+로우코드 솔루션이 팀 전체에서 혁신을 촉진하는 방법을 알아봅니다.
+Microsoft Power Platform
+분석자 보고서
+업계 연구 및 인사이트 살펴보기
+Microsoft가 2024 Gartner® Magic Quadrant™ for Enterprise Low-Code Application Platforms에서 리더로 선정된 이유를 알아보세요.2
+보고서 읽기
+분석가 보고서 섹션의 탭으로 돌아가기
+고객 스토리
+훌륭한 아이디어를 영향력 있는 솔루션으로 전환
+슬라이드 {0} {1} 표시기
+"우리는 중앙의 지침과 감독을 유지하면서 분산형 거버넌스 모델을 구축했습니다."
+Mirco Calbucci, Zurich Insurance Group의 협업 서비스 책임자
+제품
+Power Apps
+Microsoft Copilot Studio
+스토리 읽기
+모든 사례 읽기
+"일반적으로 생성 및 구성에 최소 4시간이 걸리는 흐름을 Power Automate의 Copilot을 사용하면 40분 만에 완료할 수 있습니다."
+ Jakub Skalbania, Netwise의 CGO, Nsure의 현역 CTO
+60%
+Power Automate의 Copilot으로 시간 절약
+50%
+Power Automate의 Copilot으로 비용 절약
+제품
+Power Automate
+Microsoft Copilot Studio
+Power Apps
+스토리 읽기
+모든 스토리 읽기
+"보안은 우리에게 매우 중요합니다... Center of Excellence를 통해 Power Platform 개발에 거버넌스와 구조를 도입하고 데이터를 보호할 수 있습니다."
+ Thomas Bilbo, PG&E의 Principal Product Owner
+4,200
+생성된 Power Automate 흐름
+2,000
+ 생성된 Power Apps 애플리케이션
+제품
+Power Apps
+Microsoft Copilot Studio
+Power Automate
+스토리 읽기
+모든 스토리 읽기
+"Power Platform에 대한 BCP의 경험은 디지털 혁신이 규정 준수를 유지하면서 성장과 혁신을 촉진하는 전략적 이점이 될 수 있음을 보여줍니다."
+ Ivan Contreras Olortegui, Banco de Crédito del Perú의 클라우드 Center of Excellence 리드
+USD$80,000
+연간 예상 절감액
+33%
+판매 증가
+제품
+Power Apps
+Power Automate
+스토리 읽기
+모든 스토리 읽기
+"Power Platform과 함께 일한 이후로 협업이 이렇게 활발했던 적은 없었습니다... 모두가 함께 매력적인 비즈니스 솔루션을 계획하고 빌드하고 있습니다."
+Colt Coan, Senior Manager of Rapid Development, Epiq
+2,000
+매월 절약된 시간
+USD$500,000
+연간 예상 절감액
+제품
+Microsoft Copilot Studio
+Power Apps
+Power Automate
+Power BI
+사례 읽기
+모든 사례 읽기
+고객 사례 섹션으로 이동
+리소스
+Microsoft Power Platform에 대한 자세한 내용 읽기, 시청 및 살펴보기
+추천 소식
+뉴스 및 학습
+eBook과 인포그래픽
+6개 슬라이드 중 1~2번 표시 중
+이전 슬라이드
+다음 슬라이드
+Microsoft AI Tour
+비즈니스를 AI 최전선으로 이끌어 보세요
+비용 없이 몰입형 환경에서 Microsoft AI 기술을 직접 체험해 보세요.
+자세한 정보
+블로그
+Power Platform은 사용자-에이전트 협업을 재정의합니다.
+Power Apps에서 최종 사용자를 위해 에이전트와 앱을 더 가깝게 연결하여 앱 구축 환경을 개선하세요.
+블로그 읽기
+블로그
+이제 사용 가능: Power Platform Copilot 허브
+관리자를 위한 새로운 중앙 위치에서 사용량을 모니터링하고, Copilot 설정을 구성하고, 키 설명서에 액세스하세요.
+자세한 정보
+블로그
+모델 기반 앱을 더 빠르게 빌드
+Power Apps에서 Copilot을 사용하여 앱에 양식 및 기타 구성 요소를 빠르게 추가하는 방법을 알아보세요.
+자세한 정보
+블로그
+Power Platform에서 Copilot 혁신 발표
+AI 에이전트 빌더, 확장된 Copilot 기능 및 Azure 통합을 비롯한 최신 업데이트 정보를 살펴보세요.
+자세한 정보
+블로그
+Power Platform 보안 강화
+새롭게 디자인된 관리 센터와 향상된 모니터링을 통해 AI 투자를 안전하게 관리하세요.
+자세히 알아보기
+캐러셀 탐색 컨트롤로 돌아가기
+리소스 섹션으로 돌아가기
+제품
+혁신적인 엔드투엔드 비즈니스 솔루션 살펴보기
+Power Platform
+로우코드 도구를 사용하여 조직 전체에서 앱 및 워크플로를 만듭니다.
+Microsoft Power BI
+조직 전반에 걸쳐 놀라운 보고서와 실시간 인사이트를 사용하여 의사 결정을 안내합니다.
+자세한 정보
+Microsoft Power Apps
+전문가급 앱을 빌드 및 시작하고 추가 코딩 없이 워크플로를 자동화합니다.
+자세한 정보
+Microsoft Power Automate
+프로세스 자동화를 통해 반복적인 작업 및 워크플로를 자동화하여 생산성을 높입니다.
+자세히 알아보기
+Microsoft Power Pages
+데이터를 안전하게 저장하고 관리하면서 웹 사이트 및 고객 솔루션을 빠르게 만듭니다. 
+자세히 알아보기
+Microsoft Copilot Studio
+사용자 지정 Copilot을 빌드하여 고객 및 직원 경험을 혁신합니다.
+자세한 정보
+시작
+Microsoft Power Platform 사용해 보기
+각 제품에 대한 무료 평가판이 포함된 로우코드 도구 Microsoft Power Platform 제안을 살펴보세요.
+평가판 시작
+[1]
+Microsoft Power Platform의 The Total Economic Impact™, Forrester Consulting이 Microsoft의 의뢰를 받아 실시한 연구, 2024년 7월. 데이터는 복합 조직에 Power Platform 기능을 채택한 3년 ROI 및 순 현재 가치를 반영합니다.
+[2]
+
+Gartner, Magic Quadrant for Enterprise Low-Code Application Platforms, Oleksandr Matvitskyy, Kyle Davis, Akash Jain, 2024년 10월 16일.
+
+ 
+
+Gartner는 미국 및 기타 국가에서 Gartner, Inc. 및/또는 해당 계열사의 등록 상표 및 서비스 표시이며, Magic Quadrant는 Gartner, Inc. 및/또는 해당 계열사의 등록 상표이고, 허가받아 여기에 사용되었습니다. All rights reserved.
+
+ 
+
+Gartner는 연구 간행물에 설명된 어떠한 공급업체, 제품 또는 서비스도 보증하지 않으며 기술 사용자에게 가장 높은 평가를 받거나 기타 지정을 받은 공급업체만 선택하도록 권장하지 않습니다. Gartner 연구 간행물에는 Gartner 연구 조직의 의견이 반영되어 있으며, 이를 사실에 대한 진술로 해석해서는 안 됩니다. Gartner는 본 연구와 관련하여 상업성 또는 특정 목적에의 적합성에 대한 보증을 비롯해 모든 명시적 또는 묵시적 보증을 부인합니다.
+
+
+Power Platform 팔로우  
+새로운 기능
+Surface Pro
+Surface Laptop
+조직용 Copilot
+개인 사용자용 Copilot
+Microsoft 365
+Microsoft 제품 살펴보기
+Windows 11 앱
+Microsoft Store
+계정 프로필
+다운로드 센터
+Microsoft Store 지원
+반품/환불
+주문 조회
+교육
+Microsoft Education
+교육용 장치
+교육용 Microsoft Teams
+Microsoft 365 Education
+Office Education
+교육자 트레이닝 및 개발
+학생 및 학부모용 특가 혜택
+Azure for students
+기업 고객
+Microsoft Cloud
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft 365 Copilot
+Microsoft Teams
+개발자 및 IT
+Microsoft 개발자
+Microsoft Learn
+AI 마켓플레이스 앱 지원
+Microsoft Tech 커뮤니티
+Microsoft Marketplace
+Microsoft Power Platform
+Visual Studio
+회사
+채용 정보
+Microsoft 정보
+회사 뉴스
+Microsoft 개인 정보 보호
+투자자
+지속 가능성
+한국어(대한민국)
+개인 정보 선택 사항
+소비자 상태 개인정보처리방침
+Microsoft에 문의 개인정보처리방침 및 위치정보이용약관 사용약관 상표 광고 정보 © Microsoft 2025
+
+한국마이크로소프트(유)
+
+대표이사: 조원우
+
+주소: (우)110-150 서울 종로구 종로1길 50 더 케이트윈타워 A동 12층
+
+전화번호: 02-531-4500, 메일: ms-korea@microsoft.com
+
+사업자등록번호: 120-81-05948 사업자정보확인
+
+호스팅서비스 제공자: Microsoft Corporation
+
+통신판매신고: 제2013-서울종로-1009호
+
+사이버몰의 이용약관: Microsoft Store 판매 약관

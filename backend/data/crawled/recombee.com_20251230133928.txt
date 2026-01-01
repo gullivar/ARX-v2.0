@@ -1,0 +1,180 @@
+Product
+Case Studies
+Pricing
+Resources
+Company
+Sign In
+Request Demo
+Start Free
+THE NEXT-GEN
+AI Recommendations and Search
+
+Become the architect of your success with our AI personalization engine designed to align with the visionary strategy of product managers and tech teams.
+
+Start FreeRequest Demo
+and 10,000+ other sites and apps.
+Empower your Platform with AI Personalization
+
+Explore feature-rich Recommender & Search solution tailored for your unique use case.
+
+Video
+E-commerce
+Articles, News, Media
+Deal Aggregators
+Music, Podcasts
+Real Estate
+P2P Marketplaces
+Travel, Trips
+Job Boards, HR, Networking
+Other Industries
+VIDEO PERSONALIZATION
+Boost Engagement With Real-time Video Recommendations
+
+Become your user’s favorite platform! Employ personalization software and add to your watch time and create a foundation of loyal viewers.
+
+Explore More
+Watch Demo
+Apply for
+Fully Personalized Homepage
+Similar Movies/Series
+Editors’ Picks For You
+Search Movies/Series
+Personalized Emailing
+Watch Next
+and a lot more...
+Personalization Powerhouse
+Recommendations
+
+Match your user’s tastes with real-time personalized recommendations across all platforms - website, app, or email.
+
+Increase your KPIs by choosing an ensemble of models tuned for your use case. Explore more
+Recommend anything from individual products or content to categories, brands, or even order of rows on your homepage. Explore more
+Enjoy cutting-edge improvements in the field thanks to our successful research
+Explore Recommendations
+Search
+
+Enhance your search capabilities by taking into account the user’s behavioral data.
+
+Personalize search results for each user
+Boost specific content or products in the results according to your business needs
+Search in a variety of languages, even with typos
+Explore Search
+Real-Time Analytics & Insights
+
+Take a deep dive into your data using our advanced real-time analytics tool called Insights within the Recombee Admin UI.
+
+Understand how users interact with the recommendations and your product in general
+Choose from a library of analytical views or create your graphs and reports
+Using the analytical data, adjust the rules and let the recommender engine follow your product vision
+Explore Insights
+Watch How Personalization Works
+Content Recommendations
+Product Recommendations
+Explore Content Recommendations
+Why Companies Choose Recombee
+Explore Success Stories
+Christoph Haas
+EVP Product & Platform Engineering at DAZN
+At DAZN, being the Global Home of Sports means delivering the right matches, highlights, and moments to audiences in 200+ markets - bringing fans even closer to the live game. That’s why we’ve teamed up with Recombee to personalize experiences at scale. Their tech enables us to connect each viewer on any device with the right game or clip in real time through flexible solution built for growth. This partnership sets the pace for a smarter, more connected global sports experience.
+Full Control
+
+Follow your product vision by setting specific behavior for each box with recommendations.
+
+Choose the behavior of the model, what can be recommended, and what shall be boosted
+Express your custom filters and boosters using our flexible ReQL language
+Use our AI ReQL Assistant to create any rules with ease
+Explore Full Control
+Easy Integration
+
+Enjoy a 30-day unlimited free trial to implement and test our solution with no risk.
+
+Use SDK in your programming language to call our REST API
+Or integrate using an HTML No-Code solution
+Take advantage of our extensive documentation and get help from our support team whenever needed. Explore documentation
+Explore Integration
+Cutting Edge AI & Research
+
+Benefit from unique features and inventions developed by our data scientists.
+
+Our data scientists frequently contribute to the most prestigious conferences in the field
+We transform the latest innovations from our data scientists and the scientific community into product solutions
+We ensure the highest quality of our recommendations through automatic hyper-parameter optimization
+Explore Our AI & Machine Learning
+Scalability
+
+Thanks to our horizontally scalable infrastructure, we recommend over a billion products, videos, articles, and other pieces of content every day.
+
+We can handle over 30k recommendations per second
+We support large catalogs with tens of millions of items
+We ensure low network latency to your servers and customers by having multiple data centers strategically situated across the globe.
+Explore Scalability
+Quick and Easy Integration
+into Your Environment
+
+The recommendation engine is provided via a RESTful API, No-Code Widgets and SDKs for multiple programming languages.
+
+No-Code Widgets
+
+The easiest way how to get recommendations into your site.
+
+Documentation
+
+Explore our documentation and guides on how to start personalizing fast.
+
+Implementation in 5 Minutes
+
+Watch the process of implementing Recombee into your solution.
+
+JavaScript
+const client = new recombee.ApiClient('database-id', dbPublicToken);
+
+// Send a view of item 'item_x' by user 'user_42'
+client.send(new recombee.AddDetailView('user_42', 'item_x'));
+
+// Get 5 recommended items for user 'user_42'. Recommend only items which haven't expired yet.
+const recommended = await client.send(
+   new recombee.RecommendItemsToUser('user_42', 5, {filter: "'expires' > now()"})
+);
+See Recombee API Client for JavaScript on Github
+Awards
+Deloitte Technology Fast 50 CE, 2020
+#23rd position
+Deloitte Technology Fast 50 CE, 2019
+#14th position in Rising Stars
+AI Awards 2018 in Czech Republic
+Finalist - AI Company of the Year
+Try the World’s Best Recommender Engine
+Free for 30 Days
+
+Increased Conversion Rate · Improved User Experience · Higher Profits · Increased Loyalty
+
+Start FreeContact Us
+Our Academic Partners
+Our Technology Partners
+More Partners
+Navigation
+Features
+How It Works
+Technology
+Admin UI
+Where to Use
+Success Stories
+Partnerships
+Pricing
+FAQ
+About Us
+Contact
+Blog
+For Developers
+Documentation
+API Reference
+ReQL
+Github
+Stay in Touch
+Product & Businessbusiness@recombee.com
++420 604 499 078
+Technical Supportsupport@recombee.com
+
+© Recombee 2015-2025, Prague, Czech Republic
+
+Terms of UseGDPRCookie PolicyManage Cookie Preferences

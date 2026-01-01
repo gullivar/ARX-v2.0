@@ -1,0 +1,138 @@
+Prevent the use shadow AI It’s easy for shadow AI to go undetected. Learn how to detect it. 
+Home
+Products
+Trusteer
+IBM Trusteer Solutions
+
+Authenticate customers, detect fraud and protect against malicious users across all channels
+
+Access the Leadership Compass report
+Optimize security and customer experience
+
+IBM® Trusteer® is a family of cloud services and endpoint device software that uses cloud-based intelligence, AI and machine learning to help assess risk, detect fraud, establish identity and authenticate users.
+
+ 
+
+Establish continuous trust
+
+Use real-time risk assessment throughout a user's digital journey to monitor for suspicious activity.
+
+Respond to the latest fraud threats
+
+A global intelligence network of millions of devices and world-class fraud researchers is at your fingertips.
+
+Enable a unified fraud detection solution
+
+Enable cross-channel coverage for mobile devices and web platforms, from account opening to daily user journeys.
+
+Scale with an agile cloud platform
+
+Establish cross-organizational, actionable insights that can scale with your business.
+
+Cost of a Data Breach Report 2025
+
+AI is transforming business but it’s also introducing risk. 97% of organizations that experienced an AI-related security incidents lacked proper access controls. 
+
+Get the report
+Trusteer product family
+IBM® Trusteer® Pinpoint Detect
+Outsmart account takeover attempts with AI, behavioral biometrics and machine learning.
+IBM® Trusteer® Pinpoint Assure
+Help power digital transformations by seamlessly assessing the risk of new and guest digital identities.
+IBM® Trusteer® Mobile
+Enhance your mobile growth with real-time accurate device hygiene and session risk assessment.
+IBM® Trusteer Rapport®
+Detect and remediate malware and identify phishing attacks.
+0%
+
+156% ROI driven by Trusteer, as documented in the Forrester TEI report.¹
+
++0%
+
+Over 90% fraud detection rate of account takeover.
+
++0%
+
+Over 80% fraud detection rate for overlays and scams.
+
+Multilayered risk assessment
+Device
+Network
+User biometrics
+Account data
+Global intelligence
+
+IBM Trusteer analyzes devices on several levels. Device attributes are reviewed and checked for spoofing and abnormalities. Devices are then checked for malware before being scanned for other cybercriminal tools such as emulators, screen overlays and remote access tools.
+
+Network information is crucial in determining the risk associated with a potential fraudulent activity. Trusteer checks for the location, carrier or hosting service while also detecting whether a VPN is being used or a call is in progress on the device because these are common social engineering techniques.
+
+Behavior of a user can be assessed by looking at behavioral biometrics such as swipes, keystrokes, mouse movements, session length and more. These can be compared to previous user sessions and flagged if discrepancies are detected.
+
+Data relating to the user’s accounts can be key in determining whether a cybercriminal is performing fraudulent activities. Transactional data such as amounts, targeted accounts and transactional types alongside account opening data can be analyzed and used to prevent funneling of funds to criminals.
+
+IBM Trusteer employs a team of world-class threat experts that constantly monitor the dark web to identify emerging threats and devise ways to detect them. In addition, they tap into a global intelligence network of millions of devices across 190 countries by using a unique and persistent fingerprint for every device.
+
+Case studies
+
+Hundreds of leading organizations rely on Trusteer to help secure their customers’ digital journeys and support business growth.
+
+Faced with increased fraud attempts affecting the banking sector, BoursoBank armed itself with Trusteer to best protect its customers.
+Banco Santander used Trusteer Rapport to help customers keep their details safe.
+Take the next step
+
+Discuss your fraud detection and digital identity trust use case with a Trusteer expert.
+
+Access the Leadership Compass report
+More ways to explore
+Documentation
+Blog
+Support
+Fraud prevention solutions
+Footnotes
+
+1 "The Total Economic Impact™ of IBM Trusteer", Forrester Research, March 2020
+
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+ 
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+ 
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+ 
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+×
+현재 지역:
+미국 (영어)
+
+대한민국에서 방문하시는 것 같습니다. 지역 제품, 가격 및 콘텐츠를 볼 수 있도록 현지 사이트로 전환하시겠어요?
+
+취소
+업데이트
+About cookies on this site
+Our websites require some cookies to function properly (required). In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising. For these purposes, IBM may share the personal information collected through cookies with IBM subsidiaries and third parties globally.
+For more information, please review yourcookie preferences options. By visiting our website, you agree to our processing of information as described in IBM’sprivacy statement. 
+To provide a smooth navigation, your cookie preferences will be shared across the IBM web domains listed here.
+Accept all
+Required only

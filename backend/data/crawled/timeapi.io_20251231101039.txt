@@ -1,0 +1,10 @@
+TimeAPI | A Better Way to Access Time and Timezone Information API Docs Resources menu_book Documentation Learn more about how to use TimeAPI. API
+                                                        Documentation IANA Timezones Support check_circle API Status library_books API Changelog FAQs Open main menu API Docs IANA Timezones Support API Changelog FAQs Time API | Time Zone API Our time and timezone APIs offer accurate and reliable time information for any location in the world.
+            Say goodbye to time zone confusion and hello to easy time tracking with our Time API. Get Started View Docs Our Features Time Zone API Our Time Zone API offers a comprehensive suite of features for developers and businesses
+                        looking to manage time across different locations.
+                        With our API, you can easily access information about time zones, convert time between time
+                        zones, and track daylight saving time. Time API Whether you need to know the current time in New York or the time in Tokyo, our API has you
+                        covered. Our time API is perfect for developers looking to add time functionality to their
+                        applications, as well as for businesses that need to track and manage time across different
+                        locations. Swagger Documentation API documentation should be clear and easy to understand, that's why we make use of Swagger.
+                        Via our Swagger UI, you can quickly get up to speed with our Time and Timezone APIs. Multiple Calenders We currently support ISO 8601, Unix Time and Julian Day. Use Our API To Get World Wide Time & Time Zone Data 250M Monthly Requests <1 ms Response Time 99.99% Uptime America/Los Angeles 15:41:44 December 19, 2022 Europe/Berlin 00:41:44 December 20, 2022 Asia/Singapore 07:41:44 December 20, 2022 © 2022 TimeAPI

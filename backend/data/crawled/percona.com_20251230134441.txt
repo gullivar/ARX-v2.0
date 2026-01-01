@@ -1,0 +1,205 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics personalization, and marketing. By continuing to use our website, you acknowledge having read and understood our You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+Manage Preferences
+Accept All
+Reject Non-Essential
+ 
+Solutions
+MySQL
+MongoDB
+PostgreSQL
+Cloud Native
+Valkey/Redis
+Monitoring
+Percona Toolkit
+Support
+Managed Services
+Consulting
+Policies
+Training
+Emergency Support
+High-Traffic Events
+Performance Tuning
+Business Continuity
+Migrations
+Upgrades
+Security
+ 
+Resources
+ 
+Community
+ 
+About
+Blog
+Contact us
+Your Databases at Their Best
+
+Manage, optimize, and scale on any environment with zero lock-in or licensing fees. Power AI and analytic workflows with open source databases built for scale, speed, and freedom.
+
+Get in touch
+Scale and innovate with speed (and without limits)
+Open source, enterprise-grade software backed by expert support and services.
+Optimize performance while dramatically reducing total cost of ownership.
+MySQL
+Improve the scalability
+and performance of your MySQL deployments.
+Support and Services
+Software
+MongoDB
+Run MongoDB at peak performance on any infrastructure.
+Support and Services
+Software
+PostgreSQL
+Innovate freely with production-ready PostgreSQL out of the box.
+Support and Services
+Software
+Cloud Native
+Confidently run and manage databases in cloud production environments.
+Support and Services
+Software
+Valkey
+Secure, certified software and services backed by
+a trusted Valkey partner and contributor.
+Support and Services
+Software
+Compare our software to leading database solutions
+Learn More
+Empowering Thousands of Businesses to Achieve Database Excellence
+Plan, Compare, and Save Across Databases
+MongoDB Savings Calculator
+Learn More
+Plan Your Optimal PostgreSQL Infrastructure
+Learn More
+Redis-to-Valkey Savings and Performance Calculator
+Learn More
+Your biggest database
+challenges – solved
+On-demand expertise for MySQL, PostgreSQL,
+MongoDB, Valkey, and MariaDB.
+	
+High-Traffic Events
+
+Ensure your infrastructure can handle any increase in demand
+
+Learn More
+	
+Migrations
+
+Ensure minimal disruption while transitioning away from proprietary databases.
+
+Learn More
+	
+Security
+
+Get peace of mind knowing your data handling is truly secure and compliant.
+
+Learn More
+	
+Emergency Support
+
+Immediate assistance for database outages and urgent performance issues.
+
+Learn More
+	
+Performance Tuning
+
+Proactive database optimization and query tuning for today and tomorrow.
+
+Learn More
+	
+Upgrades
+
+Streamline and simplify open source database upgrades.
+
+Learn More
+	
+Cost Savings
+Reduce total cost of ownership without sacrificing performance or security.
+Learn More
+Expert Solutions for All Your Database Needs
+
+We’re here to solve all your database needs, no matter the size or complexity.
+
+Support
+On-demand, consultative expertise for technical
+challenges.
+Learn More
+Managed Services
+Proactive database management at a fraction
+of the cost of a full-time DBA
+Learn More
+Consulting
+Custom-scoped services for transformative
+projects.
+Learn More
+Training
+Instructor-led, hands-on database training. Onsite or remote.
+Learn More
+Loved by the open source community.
+Trusted by leading organizations worldwide.
+Percona is the authority on MySQL performance and scalability. Having the most knowledgeable team on our side is the reason we chose Percona to support our production database infrastructure.
+Tim Mirecki   Vice President of Technology
+Hear more
+Working with Percona has helped Peak maintain and improve our database pipelines, keeping millions of daily active users enjoying a fast, uninterrupted, gaming experience.
+Krisztian Banhidy  Senior DevOps Engineer
+Hear more
+Percona are the MySQL experts and the support their team can provide is invaluable during times of crisis…We’ve used Percona for everything from finding a bad configuration to validating and submitting MySQL bug reports, and ensuring that mission-critical projects around data come off without a hitch.
+Russ Smith  Database Reliability Engineer
+Hear more
+Ready to get started?
+
+Discover how our expert support, services, and enterprise-grade open source database software can make your business run better.
+
+Contact us
+
+Follow us for updates
+Twitter
+Facebook
+LinkedIn
+Instagram
+GitHub
+Featured
+MySQL 5.7 End of Life
+Learn
+Downloads
+Resources
+Docs
+Products
+MySQL
+MongoDB
+PostgreSQL
+Cloud Native
+Monitoring
+Percona Toolkit
+Services
+Support
+Managed Services
+Consulting
+Policies
+Training
+Use Cases
+Emergency Support
+High-Traffic Events
+Performance Tuning
+Migrations
+Upgrades
+Security
+Discover
+Blog
+Community
+Percona Community Forum
+Events
+About
+About Percona
+Partners
+In The News
+Careers
+Also of InterestDatabase Expertise Professional ServicesSoftware for MySQLSupport and Services for MongoDB
+Terms of Use
+Privacy
+Copyright
+Legal
+Security Center
+
+MySQL, PostgreSQL, InnoDB, MariaDB, MongoDB and Kubernetes are trademarks for their respective owners.
+
+Copyright © 2006-2025 Percona LLC.

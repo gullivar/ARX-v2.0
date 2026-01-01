@@ -1,0 +1,352 @@
+AI
+AI TOOLS & SERVICES
+JetBrains AIJetBrains' AI ecosystem for software development
+AI in IDEsAll JetBrains AI features ‒ right in your IDE
+MatterAI development companion for product teams
+AI EnterpriseFine-grained control over AI tools for businesses
+AI AssistantIntelligent coding assistance built into your workflow
+JunieSmart coding agent in your IDE
+AI BlogOur latest AI news and product updates
+JetBrains AI
+
+Customize your workflow with AI built for you
+
+Developer Tools
+JETBRAINS IDEs
+All IDEs
+CLion
+DataGrip
+DataSpell
+Fleet
+GoLand
+IntelliJ IDEA
+PhpStorm
+PyCharm
+Rider
+RubyMine
+RustRover
+WebStorm
+PLUGINS & SERVICES
+All Plugins
+AI in IDEs
+IDE Themes
+Big Data Tools
+Code With Me
+RiderFlow
+Scala
+Toolbox App
+Grazie
+Junie
+.NET & VISUAL STUDIO
+Rider
+ReSharper
+ReSharper C++
+dotCover
+dotMemory
+dotPeek
+dotTrace
+.NET Tools Plugins
+LANGUAGES & FRAMEWORKS
+Kotlin
+Koog
+Ktor
+Exposed
+MPS
+Compose Multiplatform
+Not sure which tool is best for you?
+
+Whichever technologies you use, there's a JetBrains tool to match
+
+Find your tool
+DataGrip
+
+Feel the difference with one tool for many databases
+
+Junie by JetBrains
+
+Your smart coding agent for JetBrains IDEs
+
+Team Tools
+IN-CLOUD AND ON-PREMISES SOLUTIONS
+DataloreYour data team's platform for exploring, analyzing, visualizing, and sharing data
+TeamCityPowerful Continuous Integration out of the box
+MatterAI development companion for product teams
+YouTrackPowerful project management for all your teams
+QodanaThe code quality platform for teams
+EXTENSIONS
+TeamCity Plugins
+YouTrack Extensions
+JetBrains Hub
+Datalore
+
+Feel the difference in collaborative analytics
+
+YouTrack
+
+Powerful project management for all your teams
+
+Education
+LEARN
+Course catalog130+ courses to learn programming, AI, data science, and more
+University programsStudy in Europe with JetBrains scholarships
+InternshipsApply now to join our team
+For teamsProject-based learning to upskill your team
+TEACH
+Teaching with JetBrains IDEsCreate courses for the next generation of developers
+Kotlin for educationTeach computer science with Kotlin
+FREE LICENSES
+For students
+For teachers
+For educational institutions
+For bootcamps and courses
+COMMUNITY
+ICPC collaborationEvents, news, and offers
+JetBrains Academy
+
+Jump-start your career with essential developer skills
+
+Solutions
+BY INDUSTRY & TECHNOLOGY
+Remote DevelopmentTools for remote development for you and your team
+Game DevelopmentTools for game development for any platform
+DevOpsTools and integrations for any infrastructure
+JetBrains Kotlin EcosystemUnified tech stack to build for your target platforms
+Automotive DevelopmentTools for automotive development for any platform
+JetBrains AI Solutions AI-powered developer tooling
+JetBrains for DataIntelligent tools for your entire data workflow
+JetBrains IDE ServicesDeveloper productivity at the scale of an organization
+Multiplatform DevelopmentFlexible cross-platform development with Kotlin
+RECOMMENDED
+JetBrains Tools for Business
+All Products Pack
+.NET Tools
+All JetBrains Products
+JetBrains Marketplace
+Developer Tools for Your Business
+
+Professional tools for productive development
+
+JetBrains for Data
+
+Feel the difference in every data task
+
+Support
+PRODUCT & TECHNICAL SUPPORT
+Support Center
+Product-Specific Information
+Product Documentation
+Livestreams
+Newsletters
+Early Access
+Blog
+FREQUENT TASKS
+Manage your account
+Manage your licenses
+Contact Sales
+Licensing FAQ
+Download and Install
+Contact us
+Store
+DEVELOPER TOOLS
+For Individual Use
+For Teams and Organizations
+Special offers & programs
+SERVICES & PLUGINS
+JetBrains AI
+Marketplace
+LEARNING TOOLS
+JetBrains Academy
+TEAM TOOLS
+TeamCity
+YouTrack
+Datalore
+Qodana
+COLLABORATIVE DEVELOPMENT
+Code With Me
+SALES SUPPORT
+Contact Sales
+Purchase Terms
+FAQ
+Partners and Resellers
+All Products Pack
+
+Get all JetBrains desktop tools including 11 IDEs,
+2 profilers, and 3 extensions
+
+More
+AI
+AI TOOLS & SERVICES
+JetBrains AIJetBrains' AI ecosystem for software development
+AI in IDEsAll JetBrains AI features ‒ right in your IDE
+MatterAI development companion for product teams
+AI EnterpriseFine-grained control over AI tools for businesses
+AI AssistantIntelligent coding assistance built into your workflow
+JunieSmart coding agent in your IDE
+AI BlogOur latest AI news and product updates
+JetBrains AI
+
+Customize your workflow with AI built for you
+
+Developer Tools
+JETBRAINS IDEs
+All IDEs
+CLion
+DataGrip
+DataSpell
+Fleet
+GoLand
+IntelliJ IDEA
+PhpStorm
+PyCharm
+Rider
+RubyMine
+RustRover
+WebStorm
+PLUGINS & SERVICES
+All Plugins
+AI in IDEs
+IDE Themes
+Big Data Tools
+Code With Me
+RiderFlow
+Scala
+Toolbox App
+Grazie
+Junie
+.NET & VISUAL STUDIO
+Rider
+ReSharper
+ReSharper C++
+dotCover
+dotMemory
+dotPeek
+dotTrace
+.NET Tools Plugins
+LANGUAGES & FRAMEWORKS
+Kotlin
+Koog
+Ktor
+Exposed
+MPS
+Compose Multiplatform
+Not sure which tool is best for you?
+
+Whichever technologies you use, there's a JetBrains tool to match
+
+Find your tool
+DataGrip
+
+Feel the difference with one tool for many databases
+
+Junie by JetBrains
+
+Your smart coding agent for JetBrains IDEs
+
+Team Tools
+IN-CLOUD AND ON-PREMISES SOLUTIONS
+DataloreYour data team's platform for exploring, analyzing, visualizing, and sharing data
+TeamCityPowerful Continuous Integration out of the box
+MatterAI development companion for product teams
+YouTrackPowerful project management for all your teams
+QodanaThe code quality platform for teams
+EXTENSIONS
+TeamCity Plugins
+YouTrack Extensions
+JetBrains Hub
+Datalore
+
+Feel the difference in collaborative analytics
+
+YouTrack
+
+Powerful project management for all your teams
+
+Education
+LEARN
+Course catalog130+ courses to learn programming, AI, data science, and more
+University programsStudy in Europe with JetBrains scholarships
+InternshipsApply now to join our team
+For teamsProject-based learning to upskill your team
+TEACH
+Teaching with JetBrains IDEsCreate courses for the next generation of developers
+Kotlin for educationTeach computer science with Kotlin
+FREE LICENSES
+For students
+For teachers
+For educational institutions
+For bootcamps and courses
+COMMUNITY
+ICPC collaborationEvents, news, and offers
+JetBrains Academy
+
+Jump-start your career with essential developer skills
+
+Solutions
+BY INDUSTRY & TECHNOLOGY
+Remote DevelopmentTools for remote development for you and your team
+Game DevelopmentTools for game development for any platform
+DevOpsTools and integrations for any infrastructure
+JetBrains Kotlin EcosystemUnified tech stack to build for your target platforms
+Automotive DevelopmentTools for automotive development for any platform
+JetBrains AI Solutions AI-powered developer tooling
+JetBrains for DataIntelligent tools for your entire data workflow
+JetBrains IDE ServicesDeveloper productivity at the scale of an organization
+Multiplatform DevelopmentFlexible cross-platform development with Kotlin
+RECOMMENDED
+JetBrains Tools for Business
+All Products Pack
+.NET Tools
+All JetBrains Products
+JetBrains Marketplace
+Developer Tools for Your Business
+
+Professional tools for productive development
+
+JetBrains for Data
+
+Feel the difference in every data task
+
+Support
+PRODUCT & TECHNICAL SUPPORT
+Support Center
+Product-Specific Information
+Product Documentation
+Livestreams
+Newsletters
+Early Access
+Blog
+FREQUENT TASKS
+Manage your account
+Manage your licenses
+Contact Sales
+Licensing FAQ
+Download and Install
+Contact us
+Store
+DEVELOPER TOOLS
+For Individual Use
+For Teams and Organizations
+Special offers & programs
+SERVICES & PLUGINS
+JetBrains AI
+Marketplace
+LEARNING TOOLS
+JetBrains Academy
+TEAM TOOLS
+TeamCity
+YouTrack
+Datalore
+Qodana
+COLLABORATIVE DEVELOPMENT
+Code With Me
+SALES SUPPORT
+Contact Sales
+Purchase Terms
+FAQ
+Partners and Resellers
+All Products Pack
+
+Get all JetBrains desktop tools including 11 IDEs,
+2 profilers, and 3 extensions
+
+Login

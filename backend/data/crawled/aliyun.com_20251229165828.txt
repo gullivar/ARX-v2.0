@@ -1,0 +1,235 @@
+Overview
+Products
+Solutions
+Pricing
+Learn
+Partners
+Support
+AI Search
+EN
+Docs
+Contact Us
+Console
+Log In
+Free Trial
+Free Trial
+Complete Sign Up
+Claim $200 instant credits without minimum spend. Unlock up to $5K more.
+Claim Now
+Everything You Need in One Powerful AI Cloud Platform
+Start For Free
+1 Million AI tokens
+80+ Cloud Products
+Expert-Led Training
+Trusted by 38% of Fortune 500 companies
+Recognized by Forrester
+Recognized by Gartner
+#1 most downloaded open-source LLM model in 2024
+Official Cloud Partner of the Olympics
+Integrated with the world's #1 CRM
+Limited Time 50% off
+Enjoy discount on your first order, save up to $100！
+1 Million Free Tokens
+Try out 80+ Cloud products for free. Get 1 million AI tokens per models.
+Sec-CMA 2.0: Fast & Secure
+Three-Carrier Cross-Border Acceleration & DDoS Protection with Low Latency.
+Join Our AI Video for Business Competition
+Compete for a Grand Prize of USD 1000 for the most visionary entry.
+Introducing Our Best-in-Class AI QWEN
+Qwen: The backbone behind our cutting-edge AI products
+
+Full Stack
+
+From development to deployment
+
+Open Source
+
+Accessible and adaptable
+
+Multi-Modal
+
+Handles text, image, and video inputs
+
+119 Languages
+
+Supports multiple languages and dialects
+Lingma
+Lingma is an AI coding assistant that boosts productivity with features like code autocompletion, AI chat, multi-file editing, and task automation, all within a secure and customizable development environment.
+Learn More
+AI Doc
+AI Doc transforms digital document management by leveraging LLMs like Qwen models to extract and generate information from various documents. It seamlessly integrates with business systems for efficient, accurate document processing.
+Learn More
+Model Studio
+Model Studio enables fast development of Gen AI apps using foundational models like Qwen-Max and Qwen-VL. Developers can focus on building without worrying about infrastructure, with secure workloads running in isolated VPC networks for data privacy.
+Learn More
+Platform for AI
+Platform for AI (PAI) is Alibaba Cloud's scalable, cost-effective platform for machine learning and deep learning. It offers tools for the entire AI development cycle, from data labeling and model building to training, optimization, and deployment.
+Learn More
+Learn How To Use Model Studio
+Learn To Build an AI Chatbot in 60 Mins
+Try Our Generative AI Tool for Free
+Explore Our AI Doc Assistant
+End-to-End AI and Cloud Solutions For All Your Needs
+Selected Products
+AI
+Computing
+Storage
+Networking
+Security
+Database
+Analytics Computing
+Container & Middleware
+Elastic Compute Service (ECS)
+Host your website and scale enterprise workloads anywhere
+Simple Application Server (SAS)
+All-in-one services for fast deployment
+Container Service for Kubernetes (ACK)
+Run and scale containerized applications on managed Kubernetes infrastructure
+Platform for AI (PAI)
+Perform end-to-end AI engineering tasks
+Elastic IP Address (EIP)
+Manage your public IPs independently to improve internet network quality
+Certificate Management Service (Original SSL Certificate)
+Create a safe and secure connection between your website and users
+Object Storage Service (OSS)
+Store large amounts of data in the cloud and access it anywhere, anytime
+ApsaraDB RDS
+Store and manage your business data, with automated monitoring and backups
+Domain Names and Website
+Get the perfect domain name to suit your every need
+
+All Products
+
+Start Your Free Trial
+Try out 80+ Cloud products for free. Get 1 million AI tokens.
+Start For Free
+Discover the Right Solution for Your Business
+View all solutions
+FSI
+Retail
+Media
+Games
+ISV
+Risk Management For Banks
+Optimize credit scoring, fraud detection, and compliance with AI-driven risk management.
+Personalized Insurance Solutions
+With AI and data, you can offer tailored policies and streamline claims processes.
+Capital Market Insights
+Use AI-driven analytics for faster trading, market trend analysis, and data-driven decisions.
+Scalable FinTech Transactions
+Ensure fast, secure, and scalable transaction processing, supporting global FinTech growth.
+Learn More
+Free Expert-Led Training to Accelerate Your Growth
+Get Started For Free
+Leverage 180+ free, on-demand training courses on various cloud technologies
+Start Learning
+AI Training for Everyone
+Stay updated in the world of AI with training delivered by expert instructors.
+Start Learning
+Professional Certifications
+Validate your Cloud and AI skills with industry-recognized credentials
+Get Started
+Loved by Global Businesses
+All Over the World
+Discover how Duolingo partners with Alibaba Cloud to improve app performance for its 300 million learners globally.
+Related Products
+CDN
+CEN
+Discover how Ford used Alibaba Cloud to build a new digital platform, "Ford Mall", in less than six months. 
+Related Products
+ECS
+Server Load Balancer
+Discover how Align Technology uses Alibaba Cloud to enable their doctors to access and update patient records efficiently.
+Related Products
+ECS
+OSS
+CDN
+Discover how Shiseido and Drunk Elephant use Alibaba Cloud's AI for personalized skincare advice and product recommendations via WeChat.
+Related Products
+Qwen
+Model Studio
+ACK
+Discover how Piufoto leverages Alibaba Cloud's AI and security solutions to deliver seamless, real-time live-photo experiences.
+Related Products
+ECS
+ACK
+OSS
+SLB
+PolarDB
+Tair (Redis® OSS-Compatible)
+Discover how Futureverse uses Alibaba Cloud's AI infrastructure to enhance AI-generated music and drive innovation in the metaverse.
+Related Products
+PAI-Lingjun
+Our Leadership Status Awarded by Global Analysts
+View More Analyst Reports
+Leader in Public Cloud Platform
+Forrester Wave, Public Cloud Platforms, Q4 2024
+Open for Business Globally 24/7
+29
+Global Data Center Regions
+92
+Available Zones
+3200+
+CDN Nodes
+Explore our Global Footprint
+#1 most compliant cloud platform in Asia with 150+ certificates
+100+ security features including data encryption, vulnerability scanning and MFA
+Marketplace
+Contact Sales
+Free Trial
+
+WHY ALIBABA CLOUD
+
+About Alibaba Cloud
+Asia Accelerator
+Our Global Network
+Global Offices
+Trust Center
+Case Studies
+Analyst Reports
+
+PRODUCTS & PRICINGS
+
+Pricing Calculator
+ECS
+SAS
+Model Studio
+Database
+Security
+SMS
+
+SOLUTIONS
+
+Financial Services
+Retail Services
+Media Services
+Gaming Services
+ISV Solutions
+
+ENGAGE
+
+Developer Community
+Partner Network
+Startups
+Marketplace
+Join Alibaba Cloud
+
+RESOURCES & SUPPORT
+
+Developer Learning Hub
+Documentation Center
+Training & Certification
+Service Notices
+Submit a Ticket
+Security Report
+    
+© 2009-2025 Copyright by Alibaba Cloud All rights reserved
+Careers
+About Us
+Privacy Policy
+Legal
+Integrity Compliance Reporting Channel
+Service Notices
+Links
+This site uses cookies and related technologies, as described in our Cookies Notice, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Settings Accept Decline All Cookies Notice

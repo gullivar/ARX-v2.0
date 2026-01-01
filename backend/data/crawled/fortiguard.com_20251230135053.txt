@@ -1,0 +1,174 @@
+Research
+Services
+Threat Intelligence
+Support
+Resources
+About
+Fortiguard Labs
+FortiGuard Threat Intelligence
+
+Cut through the noise, act with clarity and confidence on what matters most.
+
+GET STARTED
+Latest Reports
+
+ Outbreak Alert
+
+Cisco ASA And FTD Firewall RCE
+Dec 18, 2025 
+
+Critical zero-day vulnerabilities affecting Cisco Secure Firewall Adaptive Security Appliance (ASA) and Cisco Secure Firewall Threat Defense (FTD) software have been actively exploited in the...
+
+ Threat Signal Report
+
+Cisco AsyncOS Zero-Day
+Dec 18, 2025 
+
+Cisco has confirmed the active exploitation of a critical zero-day vulnerability in AsyncOS, tracked as CVE-2025-20393, affecting Cisco Secure Email Gateway (SEG) and Secure Email and Web Manager...
+
+ Threat Signal Report
+
+Gladinet CentreStack & Triofox Insecure Cryptography Vulnerability
+Dec 16, 2025 
+
+CVE-2025-14611 is a high-severity insecure cryptography vulnerability affecting Gladinet CentreStack and Triofox products prior to version 16.12.10420.56791. The flaw stems from hardcoded AES...
+
+ Threat Research Blog
+
+Uncovering Hidden Forensic Evidence In Windows: The Mystery Of AutoLogger-Diagtrack-Listener.Etl
+Dec 09, 2025 
+
+FortiGuard IR uncovers forensic insights in Windows AutoLogger-Diagtrack-Listener.etl, a telemetry artefact with untapped investigative value.      
+
+ Outbreak Alert
+
+React2Shell Remote Code Execution
+Dec 05, 2025 
+
+React2Shell is a critical unauthenticated remote code execution (RCE) vulnerability affecting React Server Components (RSC) and frameworks that implement the Flight protocol, including specific...
+
+ Threat Research Blog
+
+UDPGangster Campaigns Target Multiple Countries
+Dec 04, 2025 
+
+FortiGuard Labs uncovers UDPGangster campaigns linked to MuddyWater, using macro-laden phishing lures, evasion techniques, and UDP backdoors to target multiple countries      
+
+ Threat Research Blog
+
+New EBPF Filters For Symbiote And BPFdoor Malware
+Dec 02, 2025 
+
+FortiGuard Labs discovered new Symbiote and BPFDoor variants exploiting eBPF filters to enhance stealth through IPv6 support, UDP traffic, and dynamic port hopping for covert C2 communication.      
+
+ Outbreak Alert
+
+UNC1549 Critical Infrastructure Espionage Attack
+Dec 02, 2025 
+
+A suspected Iran-linked espionage group tracked as UNC1549 is actively targeting aerospace, defense, and telecommunications organizations across Europe and other regions. The threat actor employs...
+
+ Threat Research Blog
+
+ShadowV2 Casts A Shadow Over IoT Devices | FortiGuard Lab
+Nov 26, 2025 
+
+ShadowV2, a new Mirai-based botnet targeting IoT devices, surfaced during the recent AWS outage. FortiGuard Labs examines its propagation, DDoS capabilities, and global footprint.      
+
+ Threat Research Blog
+
+Cyberthreats Targeting The 2025 Holiday Season: What CISOs Need To Know
+Nov 25, 2025 
+
+Cybercriminal activity is surging ahead of the 2025 holiday season. Deceptive domains, stolen accounts, and e-commerce attacks are accelerating. Here’s what leaders need to know.      
+
+ Threat Signal Report
+
+Oracle Identity Manager Pre-Auth RCE
+Nov 25, 2025 
+
+CVE-2025-61757 is a critical pre-authentication remote code execution vulnerability in Oracle Identity Manager’s REST WebServices. This vulnerability allows an unauthenticated attacker to exploit...
+
+ Threat Signal Report
+
+Npm (Shai-Hulud) Supply Chain Attack
+Nov 25, 2025 
+
+On November 24, 2025, Shai Hulud launches a second supply-chain attack, compromising Zapier, ENS, AsyncAPI, PostHog, and Postman, along with over 25,000 affected repositories across ~350 unique...
+
+ Outbreak Alert
+
+Akira Ransomware
+Nov 13, 2025 
+
+FortiGuard Labs continue to observe detections in the wild related to the Akira ransomware group. According to the new report by CISA it has targeted over 250 organizations since the past year,...
+
+ Threat Signal Report
+
+EDR-Freeze Bypass Technique
+Nov 12, 2025 
+
+EDR‑Freeze is a proof‑of‑concept technique that leverages legitimate Windows Error Reporting (WER) components to suspend (place into a ‘frozen’ state) endpoint protection processes from user mode....
+
+ Threat Signal Report
+
+RunC Container Escape Vulnerabilities
+Nov 06, 2025 
+
+High-severity vulnerabilities in runc (CVE-2025-31133, CVE-2025-52565, CVE-2025-52881) were disclosed in early November 2025. A malicious or compromised container image can abuse how runc handles...
+
+ Threat Signal Report
+
+WatchGuard Fireware OS IKEv2 Out-Of-Bounds Vulnerability
+Nov 05, 2025 
+
+A critical Out-of-Bounds Write vulnerability (CVE-2025-9242) exists in the WatchGuard Fireware OS iked process, which handles IKEv2 VPN connections. The flaw allows a remote, unauthenticated...
+
+ Threat Signal Report
+
+Microsoft Windows Server Update Service Remote Code Execution Vulnerability
+Nov 03, 2025 
+
+CVE-2025-59287 is a critical unauthenticated remote code execution (RCE) vulnerability affecting Windows Server Update Services (WSUS). The flaw stems from unsafe deserialization of untrusted...
+
+ Threat Research Blog
+
+Cloud Abuse At Scale
+Oct 31, 2025 
+
+FortiGuard Labs analyzes TruffleNet, a large-scale campaign abusing AWS SES with stolen credentials and linked to Business Email Compromise (BEC).      
+
+Services
+Network
+Cloud and Web Application
+Files and Endpoint
+Security Operations
+
+Select one for more details:
+
+Anti-recon and Exploit
+
+Botnet Domain Reputation DB
+
+Data Loss Prevention
+
+Indicators of Compromise
+
+Intrusion Protection
+
+IP Reputation/Anti-Botnet
+
+Internet Services
+
+Secure DNS
+
+Certifications
+
+Contact Us  Legal  Privacy  Partners  Feedback
+    
+
+Copyright © 2025 Fortinet, Inc. All Rights Reserved.
+
+This site uses cookies. Some are essential to the operation of the site; others help us improve the user experience. By continuing to use the site, you consent to the use of these cookies. To learn more about cookies, please read our privacy policy.
+
+Accept

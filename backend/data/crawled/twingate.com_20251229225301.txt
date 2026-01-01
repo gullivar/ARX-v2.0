@@ -1,0 +1,737 @@
+Live Onboarding Sessions
+
+Workshop
+
+Ongoing
+
+Register
+
+Try Twingate
+
+Request a Demo
+
+Product
+
+Docs
+
+Resources
+
+Partners
+
+Customers
+
+Pricing
+
+Product
+
+Docs
+
+Customers
+
+Resources
+
+Partners
+
+Pricing
+
+Sign in
+
+Request Demo
+
+Try for Free
+
+New
+
+Twingate MSP Portal
+
+Security, Performance,
+Simplicity. 
+Pick Three.
+Identity-based access for users, services, and AI agents that deploys in minutes, scales to every resource, and finally lets you retire your VPN.
+
+Try Twingate for Free
+
+Request a Demo
+
+Device
+
+User
+
+Resource
+
+Context
+
+Zero Trust with No Boundaries
+
+Protect Every Click
+
+Democratize Privileged Access
+
+Zero Trust with No Boundaries
+
+Powerful Control
+
+Robust device security, dynamic policy administration, flexible least privilege access with full and granular auditability.
+
+High Performance
+
+No tunnels or bottlenecks, direct-to-resource connectivity, fully cloud-agnostic, and virtually invisible to your distributed development groups.
+
+Simple to Manage
+
+Intuitive admin console, single customizable policy engine, seamless integration with leading security and identity suites. 
+
+The Twingate Zero Trust Platform
+
+Zero Trust Network Access
+
+Remote access built for the modern workforce
+
+Learn more
+
+VPN Replacement
+
+Remotely access the office network, cloud VPCs, and other private  resources.
+
+Least Privilege Access
+
+Powerful, automated access controls at the network layer.
+
+Intelligent Device Controls
+
+Precisely control access based on specific device requirements.
+
+A
+
+Autoco
+
+autoco.twingate.com
+
+Recent Activity
+
+Updated 2 minutes ago
+
+All Activity
+
+Alex Marshall
+
+accessed
+
+Airflow
+
+Show details
+
+2 mins ago
+
+Sadie Kirlin
+
+failed to connect to
+
+Gitlab
+
+Show details
+
+8 mins ago
+
+Joel Thiel
+
+accessed
+
+Prod Cluster
+
+Show details
+
+16 mins ago
+
+Nolan Wright
+
+accessed
+
+Airflow
+
+Show details
+
+34 mins ago
+
+Angela Bower
+
+accessed
+
+Prod Cluster
+
+Show details
+
+48 mins ago
+
+Sadie Kirlin
+
+failed to connect to
+
+Prod DB
+
+Show details
+
+1 hour ago
+
+To view more activity, generate a report.
+
+Internet Security
+
+Secure internet access from anywhere
+
+Learn more
+
+DNS Filtering
+
+Automatically flag, detect, and block malicious web threats. 
+
+Content Filtering
+
+Proactively block access to inappropriate or unwanted web-based content.
+
+Network Intelligence
+
+Leverage rich DNS log data to identify trends, reduce risk, and protect your end users.
+
+Blocked Domains
+
+Domains blocked by Security, Privacy, or manually denied.
+
+amazon.com
+
+202
+
+paypal.com
+
+41
+
+facebook.com
+
+22
+
+snapchat.com
+
+17
+
+tiktok.com
+
+10
+
+4 Security Filters Enabled
+
+An extensive set of filtering rules to block ads, trackers, and other risky domains in all countries.
+
+Threat Intelligence Feeds
+
+Cryptojacking Protection
+
+Google Safe Browsing
+
+Typosquatting Protection
+
+Identity Firewall
+
+Identity-Aware Access at Every Layer
+
+Learn more
+
+Unified Identity
+
+Users and Agents access what they need, when they need it.
+
+Dynamic Enforcement
+
+Least Privileged Access enforced at every resource, database, and application.
+
+Complete Visibility
+
+Auditable user-specific activity with forensic detail and granularity.
+
+Kubernetes Cluster
+
+GCP Remote Network
+
+my-cluster
+
+192.168.1.0/24
+
+Alias
+
+Ports
+
+Proxy Address
+
+pam-proxy.default.svc
+
+CA Certificate
+
+Additional Controls
+
+Default Policy
+
+Auto-Lock
+
+Add Tag
+
+Create Resource
+
+Powerful security deployed in minutes
+90%
+
+reduction in deployment time
+
+Learn more
+
+99.99%
+
+reliability
+
+Learn more
+
+86%
+
+faster than VPN
+
+Learn more
+
+We’ve helped thousands of companies stay secure and innovate faster
+
+Explore Customer Stories
+
+Blend
+
+•
+
+Fin-tech
+
+Blend uses Opal and Twingate to implement a holistic Zero Trust strategy
+
+Kooapps
+
+•
+
+Gaming & Entertainment
+
+Twingate helps Kooapps to create mobile games enjoyed by millions
+
+MHC Software
+
+•
+
+Technology
+
+MHC Software reduces their attack surface and powers automation with Twingate
+
+Read all reviews
+
+4.9
+
+Based on 50+ G2 reviews
+
+Bob Bousquet
+
+Director of IT
+
+“Twingate had faster speeds than any other solution we evaluated. They make zero trust easy and our users are loving the experience.”
+
+Luis Zaldivar
+
+SRE Manager
+
+“We got set up in literally 30 minutes and Twingate has easily scaled to manage our most complex workflows. Even our engineers love it - and that's a high bar.”
+
+Emery Wells
+
+CEO
+
+“Our old VPN was giving us serious issues and causing flaky Zoom calls with everyone working remotely. It drove me and my team crazy. Twingate couldn't come soon enough.”
+
+Christian Trummer
+
+CTO
+
+“We evaluated several competing vendors for zero trust and Twingate was clearly the easiest to deploy. We got Twingate up in minutes.” 
+
+Paul Guthrie
+
+Information Security Officer
+
+“We've invested heavily in automation at Blend and Twingate is a powerful platform that allows us to programmatically deploy and maintain a zero trust approach to our infrastructure.”
+
+Cameron Perry
+
+Staff Site Reliability Engineer
+
+“I was waiting for the ball to drop, it was almost too easy. Twingate just worked like magic.”
+
+Neel Palrecha
+
+CTO
+
+“WFH made it clear that our old solution wasn't going to scale. We were surprised at how easy it was to get Twingate up, and we're excited to roll it out to the whole company.“
+
+Joey Benamy
+
+Senior SRE
+
+Implementing and managing Twingate is a DevOps engineer's dream. From highly relevant and technical documentation to solid IaC providers… the team at Twingate have made it so easy to deploy and automate Twingate at any scale. 
+
+Stuart Robinson
+
+CTO & Co-founder
+
+“When a product works, you don’t notice it — it just works. In the past, I’ve always known about when I’m on VPN because it’s annoying. It’s been very smooth sailing with Twingate. We don’t even notice it.”
+
+Luis Zaldivar
+
+SRE Manager
+
+“We got set up in literally 30 minutes and Twingate has easily scaled to manage our most complex workflows. Even our engineers love it - and that's a high bar.”
+
+Christian Trummer
+
+CTO
+
+“We evaluated several competing vendors for zero trust and Twingate was clearly the easiest to deploy. We got Twingate up in minutes.” 
+
+andrew-fong
+
+CEO at Prodvana
+
+Twingate solved our production access problems in less than a day.
+
+We were able to get access to different k8s clusters in different VPCs without complex configurations. Getting that time back to focus on development was amazing.
+
+Twingate helped us set up least privilege access controls in a much more streamlined way than any of us were used to. The sigh of relief when we realized we didn’t need to configure anything else in GCP was palpable. :)
+
+They need to work on their marketing, but their product is phenomenal. If you are looking to ditch VPNs, check out Twingate.
+
+mang-git-ng
+
+CEO at Anvil
+
+Anvil just implemented Twingate to manage our remote access controls. Best / easiest 15min spent securing our systems.
+
+ian-calderbank
+
+Network Architecture Consultant
+
+Outbound tunnels only, no incoming attack surface exposed, tunnel stitching in their cloud, per device, per user and per application authorisation, integration with common major Identity providers, what's not to like.
+
+It took me 20 minutes to get it working for a sample SME (myself). Docker to deploy the connector to an on-prem box (a NAS), all autoconfigured once the necessary authorisation keys were pasted in. Microsoft 365 for the identity, Linux packages for the endpoint. 
+
+Job done!
+
+u-nimajalali
+
+r/sysadmin contributor
+
+Twingate has massive flexibility when it comes to routing. You can route by IP or DNS. They even let you get down to the protocol and port level. Mostly overkill but could be useful in a bind with older networks and older systems.
+
+a-k-singh
+
+@itsatulkumar
+
+VPNs were good until Twingate arrived. Such an impressive tool.
+
+joey-benamy
+
+SRE, OncoLens
+
+Implementing and managing Twingate is a devops engineer's dream. From highly relevant and technical documentation to solid IaC providers, Peter Ahn, Tony Huie, Alex M. and the team at Twingate have made it so easy to deploy and automate Twingate at any scale. OncoLens is looking forward to getting more users and resources on Twingate and trying out the upcoming features on the roadmap! #devops #sase #zerotrust
+
+alex-bovee
+
+CEO at ConductorOne
+
+Push Verification and TOTP just aren’t good enough anymore. Webauthn / FIDO2 authenticators such as Yubikeys (Yubico) are the solve for phishing as they’re cryptographically verified against the issuing domain. They’re pretty close to perfect authenticators.
+
+The problem is that many existing tools, like VPNs, control the credential verification and depend on protocols such as RADIUS to authenticate users. This means Push and TOTP are the “best” multi-factor verification methods we have – but they are clearly vulnerable to at-scale phishing and social engineering attacks. There are companies that are solving this problem – Twingate and Tailscale are two great examples. They let you embrace both better credential verification natively and IdP led flows for authenticating users.
+
+All up, it’s scary to see the impact of the Uber hack, but I am optimistic that we’re making the right investments as an industry to help companies be more secure.
+
+robbert-r
+
+@RobbertR1971
+
+Experimenting with Twingate in combination with a Pi clone. First impression is very good. What a relief compared to the setup of a regular VPN.
+
+erik-caligo
+
+ErikCaligo
+
+I've tried Twingate in my home lab, since I was fed up with the abysmal performance of VPN, and I must say, I was more than positively surprised by the performance. Even with a sketchy connection, I could work with Remote Desktop set at full quality.
+
+Furthermore, you can create security policies and device checks (e.g. only allow Windows machines that with enabled firewall, hard drive encryption, and antivirus installed), 2FA for every connection attempt, etc.
+
+You don't even have to open a port in your firewall for this, since you'll install a connector within your network that opens a secure outbound connection for which then is matched with the client outside your network.
+
+frank
+
+@CompWizard18219
+
+Twingate works amazing. I use it to access my Plex media server outside of my home network!
+
+vishal-k-c
+
+Security Researcher | Aspiring Pentester | Red Team| Newbie | SIEM | Seceon | SolarWinds | NOC | SOC | Nessus | Nexpose |
+
+to be honest, I think it is better to switch to Zero Trust ,though it comes with the risk , we need to be taking the proper action for the prevention of exploitation,
+
+I recently saw NetworkChuck has showed a ZT With the Collab with Twingate which provide a next level of ZT .
+
+I think ZT is gonna be the upgrade and easy way for VPN replacement for sure.
+
+Cameron Perry
+
+Staff Site Reliability Engineer
+
+“I was waiting for the ball to drop, it was almost too easy. Twingate just worked like magic.”
+
+Neel Palrecha
+
+CTO
+
+“WFH made it clear that our old solution wasn't going to scale. We were surprised at how easy it was to get Twingate up, and we're excited to roll it out to the whole company.“
+
+Joey Benamy
+
+Senior SRE
+
+Implementing and managing Twingate is a DevOps engineer's dream. From highly relevant and technical documentation to solid IaC providers… the team at Twingate have made it so easy to deploy and automate Twingate at any scale. 
+
+Stuart Robinson
+
+CTO & Co-founder
+
+“When a product works, you don’t notice it — it just works. In the past, I’ve always known about when I’m on VPN because it’s annoying. It’s been very smooth sailing with Twingate. We don’t even notice it.”
+
+Luis Zaldivar
+
+SRE Manager
+
+“We got set up in literally 30 minutes and Twingate has easily scaled to manage our most complex workflows. Even our engineers love it - and that's a high bar.”
+
+Christian Trummer
+
+CTO
+
+“We evaluated several competing vendors for zero trust and Twingate was clearly the easiest to deploy. We got Twingate up in minutes.” 
+
+Bob Bousquet
+
+Director of IT
+
+“Twingate had faster speeds than any other solution we evaluated. They make zero trust easy and our users are loving the experience.”
+
+Luis Zaldivar
+
+SRE Manager
+
+“We got set up in literally 30 minutes and Twingate has easily scaled to manage our most complex workflows. Even our engineers love it - and that's a high bar.”
+
+Emery Wells
+
+CEO
+
+“Our old VPN was giving us serious issues and causing flaky Zoom calls with everyone working remotely. It drove me and my team crazy. Twingate couldn't come soon enough.”
+
+Christian Trummer
+
+CTO
+
+“We evaluated several competing vendors for zero trust and Twingate was clearly the easiest to deploy. We got Twingate up in minutes.” 
+
+Paul Guthrie
+
+Information Security Officer
+
+“We've invested heavily in automation at Blend and Twingate is a powerful platform that allows us to programmatically deploy and maintain a zero trust approach to our infrastructure.”
+
+Zero Trust as Code
+
+Automate your journey to Zero Trust
+
+Twingate's API-first design easily integrates with your stack, no changes to infrastructure needed. Just choose your IaC, choose your VPC, and deploy.
+
+"Twingate is a powerful platform that allows us to programmatically deploy and maintain a zero trust approach to our infrastructure."
+
+Paul Guthrie
+
+Information Security Officer, Blend
+
+Terraform
+
+Pulumi
+
+API
+
+provider "twingate" {
+  api_token = var.tg_api_key
+  network   = var.tg_network
+}
+
+resource "twingate_remote_network" "data_network" {
+  name = "data-engineering"
+}
+
+resource "twingate_groups" "devops" {
+  name = "DevOps"
+}
+
+resource "twingate_resource" "resource" {
+  name              = "Prod Cluster"
+  address           = "prod.ops.int"
+  remote_network_id = twingate_remote_network.data_network.id
+  protocols = {
+    allow_icmp = true
+    tcp        = { policy = "RESTRICTED", ports = ["443"] }
+  }
+  access_group { group_id = twingate_group.devops.id }
+}
+
+Deploy with Terraform
+
+Integrations
+
+Build a best-in-class security ecosystem
+
+Twingate is a central Zero Trust orchestration layer, so you can create a best-in-class security ecosystem without having to recut your network. Leverage out-of-the-box integrations with major IdPs, MDM/EDRs, SIEMs, DOH providers, and more.
+
+Explore Integrations
+
+CrowdStrike
+
+Verify Devices
+
+Intune
+
+Verify Devices
+
+Kandji
+
+Verify Devices
+
+Jamf
+
+Verify Devices
+
+Azure AD
+
+Sync Users & Groups
+
+Okta
+
+Sync Users & Groups
+
+Google Workspace
+
+Sync Users & Groups
+
+OneLogin
+
+Sync Users & Groups
+
+KeyCloak
+
+Sync Users & Groups
+
+JumpCloud
+
+Sync Users & Groups
+
+Pulumi
+
+Automate Deployment
+
+Terraform
+
+Automate Deployment
+
+NextDNS
+
+Filter & Encrypt DNS
+
+News and insights from our blog
+
+Read Twingate Blog
+
+The VPN replacement your workforce will love.
+
+Try Twingate for Free
+
+Request a Demo
+
+Solutions
+
+Zero Trust Access
+
+Documentation
+
+Quick Start
+
+Use Cases
+
+Architecture
+
+API
+
+Twingate Labs
+
+Resources
+
+Blog
+
+Customers
+
+Whitepaper
+
+Changelog
+
+Company
+
+About
+
+Careers
+
+Pricing
+
+Partners
+
+Terms
+
+Privacy
+
+Your Privacy Choices
+
+Support
+
+Contact Sales
+
+Get Help
+
+FAQ
+
+Try for Free
+
+Request Demo
+
+Download
+
+Copyright © 2025 Twingate.
+
+Status page↗
+
+macOS
+
+Windows
+
+Linux
+
+Chrome
+
+iOS
+
+Android
+
+                                                              

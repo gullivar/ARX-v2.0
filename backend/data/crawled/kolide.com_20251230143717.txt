@@ -1,0 +1,96 @@
+Announcing 1Password®
+Extended Access Management
+Kolide Device Trust is now part of 1Password® Extended Access Management. Check out the blog post by former Kolide CEO Jason Meller to learn about the next evolution in user-first security.
+Read the Announcement
+Use Cases Features Pricing Resources Watch Demo Talk To Sales Sign In
+Self-Remediation via Okta
+Engage end-users during auth to self-remediate issues
+Security & Compliance Checks
+Monitor your entire Linux, Mac, and Windows fleet
+Device Inventory
+Your fleet represented in thousands of data points
+Implement Zero Trust Access
+Prevent unsecure devices from accessing your apps
+Achieve 100% Device Compliance
+Measure, achieve, and maintain your compliance goals
+Gain Fleet Visibility
+Become "all knowing" across Linux, Mac, and Windows
+Help / Docs
+Product Changelog
+App Security
+Company
+From the blog
+Introducing Mobile Checks
+Better Together: New 1Password Checks
+Introducing 1Password® Extended Access Management With Kolide
+Kolide ensures that
+if a device isn't secure,
+it can't access your apps.
+Achieve Zero Trust Access
+Device Posture for Okta Users
+Works on Mac, Windows, Linux, iOS, & Android
+Watch The Demo
+People really feel empowered about their devices. They understand what's failing, why it's failing, why that's important, and how to fix it.
+Tim Fitzgerald - Manager, IT Systems
+Watch the Customer Interview
+User-first security that works with employees
+Kolide doesn't just block users, it teaches them how to fix security problems, getting them back to work without needing help from IT.
+Conditional Access Management with Kolide
+macOS: Filevault Not Enabled On Primary Disk
+Why is this a problem?
+
+FileVault full-disk encryption (FileVault 2) helps prevent unauthorized access your startup disk. Disk encryption is a basic requirement for devices that may contain proprietary information like intellectual property or customer data. Even if your device does not have this data today, you are still strongly encouraged to encrypt your device as soon as you can.
+
+How do I fix this?
+
+To fix this problem, follow these simple steps...
+
+Device Health
+A complete picture
+of your fleet
+A single platform with thousands of data points and device posture checks across your entire fleet.
+Device Posture with Kolide
+How it Works
+Look under
+the hood
+Our docs answer your questions about how to implement, manage, and customize Kolide.
+Read the Docs
+Serious about security and privacy.
+Kolide believes Zero Trust works best when it respects end-user privacy and agency.
+Read Honest Security
+More From Kolide
+Deep-dives, tutorials, and thought leadership.
+DEEP DIVES
+Can BYOD Policies Be Compatible With Good Security?
+Elaine Atwell
+TUTORIALS
+How to Use Kolide to Patch Vulnerable Macs
+Jason Meller
+DEEP DIVES
+What Is Device Trust?
+Elaine Atwell
+Get Started
+Ready to see Kolide in action?
+Watch The Demo
+  
+GET STARTED
+Watch The Demo
+Talk To Sales
+Honest Security
+COMMUNITY
+Blog / Changelog
+Open-Source
+Macadmins Slack
+PRODUCT
+Get Compliant
+Fleet Visibility
+Checks
+Inventory
+RESOURCES
+Status
+Product Docs
+Pricing
+App Security
+About Us
+© Copyright 2025 Kolide, Inc. All Rights Reserved.
+Sign In Privacy Policy Terms

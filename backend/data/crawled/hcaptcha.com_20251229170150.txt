@@ -1,0 +1,164 @@
+From the blog:
+Browser Agent Safety is an Afterthought for Vendors →
+Accessibility
+Pricing
+Pro
+Enterprise
+MFA
+User Journeys
+Docs
+Blog
+Contact Sales
+Sign Up
+Log In
+hCaptcha Enterprise
+Understand intent. Stop abuse.
+
+Protect your services from automated and human threats, while preserving user privacy.
+Get Started
+or Contact Sales
+Looking for hCaptcha Free or Pro?
+compare plans
+Bot Detection
+Fraud Protection
+Account Defense
+Private Learning
+AI Bot Detection
+The world’s most accurate bot detection. Stay ahead of persistent threat actors while preserving user privacy.
+Learn More
+Protecting category leaders in every industry
+hCaptcha Enterprise is the leader in privacy-first online security, used to protect hundreds of millions of people around the world.
+Deploy in minutes
+Switch from reCAPTCHA with two lines of code.
+Universal Support: Hundreds of plugins and native integrations simplify rollout.
+Comprehensive Security On Demand
+One integration, many use cases
+Bad Bots
+Human Abuse
+Account Takeovers
+Credential Stuffing
+Purchase Fraud
+Card Testing
+Chargeback Fraud
+SMS Tolling Fraud
+Platform Abuse
+Affiliate Fraud
+Ultra low friction, fully customizable
+With passive and No-CAPTCHA modes, server side API protection and more, hCaptcha Enterprise is a complete security platform. From threat models to custom themes, get exactly the behavior you want.
+Compliant and Universal
+Works in every country
+Unique Zero PII features simplify global compliance for regulated industries. Enable trust and safety while exceeding privacy standards like GDPR, CCPA, and HIPAA.
+Designed for accessibility
+Flexible options to meet both your security and WCAG 2.1 accessibility requirements, from text-based challenges to our passive Universal Accessibility system.
+Request a VPAT
+A new kind of MFA. Zero tolling attacks.
+We flipped the script on SMS
+Stronger Verification
+Unlike push-based SMS, hCaptcha MFA uses a pull-based approach that simplifies the user experience and eliminates toll fraud, making it more secure by design.
+Richer Signals for ATO Detection
+SMS alone is unreliable. Combining pull-based SMS with Account Defense gives you a deeper, more accurate picture of account takeover attempts.
+Find Threats Without Fingerprinting Your Users
+Traditional fingerprints are becoming useless for stopping attacks. Browser makers are working to break them, and attackers can easily emulate them.
+Use Advanced Threat Signatures
+Our Advanced Threat Signatures are a breakthrough in security ML, clustering attackers across thousands of IPs and devices while separating all good traffic into just one or a few signatures.
+Stop Account Takeovers
+hCaptcha Enterprise is not just a great way to stop credential stuffing and other high volume attacks. Find post-login and intra-session attacks, without sharing user data or personal information with us.
+Find Human Fraud and Abuse Fast
+Private Learning is a Revolution in Security ML
+Learn why over 60% of the top online payment processors choose hCaptcha Enterprise to detect fraud and abuse. Our models deliver unparalleled precision with nearly zero false positives and no PII.
+Run it on the web, in apps, or entirely server-side.
+Risk Insights Powers Analysis and Your Own ML
+A novel approach to signal enrichment, our scoped and blinded signals help your ML models stay compliant with global privacy laws while benefiting from our unique detection and risk analysis.
+Who uses hCaptcha?
+hCaptcha is the largest independent service of its kind. From Global 2000 to startups, thousands of enterprises choose hCaptcha to protect their online services.
+e-Commerce
+Finance
+Technology
+Gaming
+Government
+Telecom
+Privacy
+
+"Why do we use hCaptcha? No one else could deliver on the features and performance we need."
+
+— Alex M., Product Manager @ Shopify
+
+Leading e-commerce platforms like Shopify use hCaptcha Enterprise to protect customers while preserving privacy.
+Enterprise Features
+hCaptcha Enterprise delivers unparalleled accuracy and power to solve trust and safety issues.
+
+From automated attacks to human abuse, our complete security platform gives you the tools you need.
+
+World-class bot protection
+Battle-tested at web scale.
+High accuracy risk scores
+Detect bad actors of many different types.
+Zero friction and 99.9% passive modes
+Challenge less than 0.1% of legitimate users.
+Control challenge types shown
+Wide library of types to choose from.
+Control challenge content used
+Stay on brand with a consistent user experience.
+Enterprise SLAs
+Guaranteed reliability and fast 24/7 on-call support.
+Legacy browser support
+Compatible all the way back to Internet Explorer 8.
+Support for non-JavaScript clients.
+Advanced reporting dashboards and API
+See what’s happening across all your sites and apps.
+Works in every country
+Unlike reCAPTCHA, we work in every country.
+GDPR, CCPA, and LGPD-friendly privacy policy
+Designed for privacy from day one.
+Strong Data Processing Agreement.
+Fine-grained difficulty levels
+Dial this in to exactly fit your use case.
+First-party hosting
+All requests and assets go to hcaptcha.yourdomain.com
+Multi-user dashboards
+Share management across your team.
+SAML SSO integration with Identity Providers like Okta or Azure AD.
+Sophisticated RBAC access restrictions available.
+Instant Verification
+0ms latency: verify hCaptcha tokens with no API call.
+Mobile (iOS and Android) Integration
+Seamless experience across web, native mobile, mobile web.
+Pre-built integrations and native SDKs available.
+Customized Terms and Privacy Guarantees
+Satisfy your legal needs when other companies cannot.
+Ready to see what we can do for you? Contact us today to get a demo or start a pilot.
+Contact Sales
+Our Expertise is Applied 24/7
+Empower your SOC with Security ML, or let us manage response
+From real-time detection to 24/7/365 SOC coverage by ML and our trained experts, hCaptcha Enterprise lets you rapidly respond to new threats, whether human or automated.
+
+Let us manage the details, or supercharge your own SOC with powerful new tools.
+See hCaptcha Enterprise in Action
+Get a demo or start a pilot today.
+Get Started
+Company
+About
+Jobs
+Trademarks
+AI Ethics
+Press
+Compliance
+Resources
+Status
+Documentation
+Report a Bug
+Accessibility
+Cyberattacks 101
+GDPR
+Contact
+Support
+Contact Support
+Sales
+Contact Sales
+Blog
+Terms
+Privacy
+DMCA
+Attribution
+hCaptcha is a registered trademark of Intuition Machines, Inc.
+©2025 Intuition Machines, Inc.

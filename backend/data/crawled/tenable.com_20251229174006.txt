@@ -1,0 +1,326 @@
+Skip to Main Navigation
+Skip to Main Content
+Skip to Footer
+Platform
+Products
+Solutions
+Why Tenable
+Resources
+Partners
+Support
+Company
+contact_icon
+Try
+Buy
+TENABLE NAMED A LEADER
+In the 2025 Gartner® Magic Quadrant™ for Exposure Assessment Platforms
+
+Get the report
+
+Exposure management news and resources
+Prev
+Next
+Product announcement
+Extend vulnerability management to the cloud with Tenable Cloud VM
+Learn more
+Announcement
+Tenable announces the Exposure Mangement Leadership Council
+Discover the mission
+Analyst research
+New study from Tenable and Enterprise Strategy Group
+Download the report
+Announcement
+Explore the exposure management resource center
+Get started
+Event
+Bring clarity to chaos with Exposure 2026 - The exposure management summit
+Register now
+Announcement
+Tenable announces agreement with GSA OneGov for Tenable Cloud Security
+Learn more
+Product announcement
+Extend vulnerability management to the cloud with Tenable Cloud VM
+Learn more
+Announcement
+Tenable announces the Exposure Mangement Leadership Council
+Discover the mission
+Analyst research
+New study from Tenable and Enterprise Strategy Group
+Download the report
+Announcement
+Explore the exposure management resource center
+Get started
+Event
+Bring clarity to chaos with Exposure 2026 - The exposure management summit
+Register now
+Announcement
+Tenable announces agreement with GSA OneGov for Tenable Cloud Security
+Learn more
+Product announcement
+Extend vulnerability management to the cloud with Tenable Cloud VM
+Learn more
+Announcement
+Tenable announces the Exposure Mangement Leadership Council
+Discover the mission
+Analyst research
+New study from Tenable and Enterprise Strategy Group
+Download the report
+Announcement
+Explore the exposure management resource center
+Get started
+Event
+Bring clarity to chaos with Exposure 2026 - The exposure management summit
+Register now
+Announcement
+Tenable announces agreement with GSA OneGov for Tenable Cloud Security
+Learn more
+Product announcement
+Extend vulnerability management to the cloud with Tenable Cloud VM
+Learn more
+Announcement
+Tenable announces the Exposure Mangement Leadership Council
+Discover the mission
+Analyst research
+New study from Tenable and Enterprise Strategy Group
+Download the report
+Announcement
+Explore the exposure management resource center
+Get started
+Event
+Bring clarity to chaos with Exposure 2026 - The exposure management summit
+Register now
+Announcement
+Tenable announces agreement with GSA OneGov for Tenable Cloud Security
+Learn more
+Product announcement
+Extend vulnerability management to the cloud with Tenable Cloud VM
+Learn more
+Announcement
+Tenable announces the Exposure Mangement Leadership Council
+Discover the mission
+Mitigate business-impacting cyber risk with Tenable One
+
+Stop chasing disconnected cybersecurity alerts. Get business context, threat intelligence and unified visibility to find and fix your highest-priority exposures across your entire attack surface — all in one exposure management solution.
+
+See how
+
+Tenable One
+
+AI-Powered Exposure Management Platform
+
+E
+X
+P
+O
+S
+U
+R
+E
+A
+I
+Comprehensive asset inventory
+Dynamic attack path mapping
+Predictive prioritization
+Orchestration and remediation
+Advanced analytics and reporting
+Exposure data fabric
+NORMALIZE CONTEXTUALIZE CORRELATE
+Exposure intelligence
+Third-party connectors
+Native sensors
+Cloud Exposure
+Vulnerability Exposure
+Identity Exposure
+OT Exposure
+AI Exposure
+
+Accelerate search, insight and action with generative AI that uncovers hidden risks and amplifies security expertise across your environment.
+
+Gain a unified view of all your assets and risk across your attack surface: unseen assets, IT, OT, IoT, cloud, identities and applications.
+
+Understand attacker accessibility through visualizations of cross-domain relationships, so you can block your most critical attack paths.
+
+Focus your efforts on what matters most: the critical exposures attackers are most likely to exploit.
+
+Accelerate response with automated workflows and prescriptive guidance that streamline remediation efforts.
+
+Streamline measurement and communication of cyber exposure with business-aligned views to optimize decision making and investments.
+
+Tap into the most comprehensive threat and vulnerability knowledgeable, combining insights from Tenable Research, the National Vulnerability Database (NVD) and trusted third-party sources.
+
+Use native attack surface discovery for cloud, identities, IT, IoT, OT, AI, applications, containers and Kubernetes that Tenable product sensor fuel.
+
+Seamlessly connect asset and exposure data from your existing tools to enrich Tenable intelligence and get comprehensive exposure context.
+
+Leverage the world’s largest repository of asset, exposure, and threat context that powers ExposureAI’s unparalleled insights.
+
+Organize data to reduce redundancy and improve integrity, consistency and efficiency.
+
+Enrich data with additional insights, making it more actionable and useful.
+
+Identify and surface critical relationship context to core business services and functions.
+
+Integrate powerful capabilities for comprehensive exposure management
+
+Reduce your attack surface with specialized Tenable One exposure management capabilities that find, prioritize and fix critical exposures for all your assets across all your environments.
+
+Cloud security
+Vulnerability management
+OT security
+Identity security
+Close cloud exposure
+
+With the actionable cloud security platform for cloud risk
+
+Know your cloud resources
+Collapse fragmented views and reveal your 360-degree cloud security posture.
+Expose critical cloud risks
+Use integrated cloud security tools, like a cloud-native application protection platform (CNAPP), cloud security posture management (CSPM) and cloud workload protection (CWP) to see how cloud risks combine and escalate across your attack surface.
+Reduce cloud risk
+Close priority cloud exposures by enforcing zero-trust principles like least privilege and just-in-time access.
+See how 
+Request a demo
+Recognized as a Leader in exposure management by industry analysts
+Tenable is a Leader in the 2025 Gartner® Magic Quadrant™ for Exposure Assessment Platforms
+Read the report
+Tenable named a leader in the IDC MarketScape Worldwide Exposure Management 2025 Vendor Assessment
+Read the report
+Tenable named a leader in The Forrester Wave™: Unified Vulnerability Management Solutions, Q3 2025
+Read the report
+More awards and recognitions
+See what customers are saying about Tenable's exposure management solutions
+
+According to reviews on Gartner Peer Insights™
+
+Turn threat intelligence into actionable remediation
+
+Of the thousands of vulnerabilities analysts discover each year, how do you find the ones that truly matter? Tenable Research reveals the truth: only 3% are true exposures that actually put your business at risk.
+
+As the industry's largest exposure management research organization, Tenable Research helps you cut through that noise. Review common vulnerabilities and exposures (CVEs) from around the world and access the threat intelligence, data science insights, alerts and security advisories that matter, so you can focus on the critical few that matter.
+
+Explore the latest research
+65 K
+
+Vulnerabilities assessed with 295,000+ plugins
+
+434
+
+Vulnerabilities disclosed by Tenable Research
+
+< 14 hrs
+
+Median time for coverage of high-profile issues
+
+Tenable One
+Exposure Management Platform
+
+Exposure management unifies visibility, insight, and action across your entire attack surface. You get technical and business context to prioritize which vulnerabilities pose the greatest risk and understand how threats combine to increase risk. With automated remediation and orchestration, your team can quickly fix exposures and close priority security gaps before they become a breach.
+
+Learn more
+See Tenable in action
+
+Want to see how Tenable can help your team expose and close the priority cyber weaknesses that put your business at risk?
+
+Complete this form for more information.
+
+First Name
+Last Name
+Email Address
+Phone
+Title
+Company
+Company Size
+Select...
+1-9
+10-49
+50-99
+100-249
+250-499
+500-999
+1,000-3,499
+3,500-4,999
+5,000-10,000
+10,000+
+I am interested in:
+Select...
+Tenable One Exposure Management Platform
+Tenable Vulnerability Management
+Tenable Patch Management
+Tenable Identity Exposure
+Tenable Attack Surface Management
+Tenable Cloud Security
+Tenable Web App Scanning
+Tenable Enclave Security
+Nessus Expert
+Nessus Professional
+Tenable OT Security
+Tenable Security Center
+Training
+Comments (Limited to 255 characters):
+Submit
+Featured products
+Tenable One Exposure Management Platform
+Tenable Cloud Security (CNAPP)
+Tenable Cloud Vulnerability Management
+Tenable CIEM
+Tenable Vulnerability Management
+Tenable Security Center
+Tenable Web App Scanning
+Tenable Patch Management
+Tenable Enclave Security
+Tenable Attack Surface Management
+Tenable Nessus
+Tenable AI Exposure
+Tenable OT Security
+Tenable Identity Exposure
+View all
+Featured solutions
+Active Directory
+Building management systems
+Cloud security posture management
+Compliance
+Exposure management
+Banks and financial services
+Generative AI
+Healthcare
+Hybrid cloud security
+IT/OT
+Ransomware
+State / Local / Education
+US federal
+Vulnerability management
+Zero trust
+View all
+Customer resources
+Resource library
+Exposure management resources
+Community & support
+Customer education
+Tenable Research
+Documentation
+Cybersecurity guide
+Why Tenable
+Trust
+System status
+Connections
+Blog
+Contact us
+Careers
+Investors
+Tenable Ventures
+Events
+Media
+Privacy policy
+Do not sell/share my personal information
+Legal
+508 compliance
+
+© 2025 Tenable®, Inc. All rights reserved
+
+×
+Contact our sales team
+Site available in another language
+
+We noticed you are accessing our website from a different country. We have a version of our website in Korean. Would you like to visit the site?
+
+Go to the siteStay here

@@ -1,0 +1,1 @@
+Welcome to Nginx Server 🚀 🚦 It works! Nginx is running 🚀 This is your custom Nginx HTML page . Put your files here: /usr/share/nginx/html/ (or your root dir) Server by nginx • Powered by Clicterra

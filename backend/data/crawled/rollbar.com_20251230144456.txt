@@ -1,0 +1,230 @@
+Every error.
+
+Every release.
+
+Under control.
+
+Code-first observability that connects errors, replays, and releases in one place.
+
+Get started in minutes
+
+Plans starting at $0. Get a 14-day free trial to see how Rollbar fits your workflow.
+
+COMING SOON
+
+Rollbar
+
+Resolve
+
+Our new AI agent, Resolve, reviews your code, identifies what’s breaking, and opens a pull request with a fix. All you have to do is approve it.
+
+
+
+
+Fewer firefights. Faster feedback. More time to build what matters.
+
+Learn more & sign up →
+
+Error Monitoring
+
+Know what broke
+
+and
+
+why.
+
+Rollbar shows you the moment something breaks, groups similar issues automatically, and helps you pinpoint the cause fast. With deep context, source control integration, and smart notifications, you’ll spend less time sifting and more time fixing.
+
+See how monitoring works →
+
+Session Replay
+
+See what
+
+your
+
+users saw.
+
+Rollbar’s session replay lets you watch what actually happened in the browser, right next to the related errors. Rewind any user journey to understand how frontend issues unfolded, what triggered them, and how they affected your users.
+
+See how replays work →
+
+Platform
+
+Insight that
+
+helps you
+
+deliver.
+
+Rollbar gives your team the insight to stay focused, solve faster, and make better decisions about your code. From real-time signals to deep investigation with RQL or our Model Context Protocol (MCP), the platform keeps you grounded in what’s running now and ready for what comes next.
+
+See the platform in action →
+
+Built for how you build.
+
+Great software teams don’t just react. They observe, learn, and improve with every release. Rollbar supports that process by guiding you through each step in your workflow.
+
+Monitor
+
+Get real-time alerts from your running code. See what broke as it happens.
+
+Understand
+
+Replay sessions, inspect context, and uncover the root cause in seconds.
+
+Triage
+
+Filter the noise. Prioritize issues. Assign the right owners automatically.
+
+Solve
+
+Track what’s resolved, what’s improving, and what’s ready to ship.
+
+See how Rollbar fits your workflow →
+
+Reliable, fast, and
+
+built for growth.
+
+Whether you’re sending thousands of errors or millions, Rollbar handles it without delay. Our infrastructure is designed for speed, reliability, and data integrity at scale.
+
+<3 sec
+
+from occurrence to alert
+
+2B+ errors
+
+processed each month
+
+99.9% uptime
+
+across environments
+
+SOC2 & ISO27001
+
+certified
+
+Rollbar works with 
+
+the tools you
+
+already use.
+
+Whether you’re launching something new or scaling what’s already live, Rollbar keeps you close to what’s happening in production. Our lightweight SDKs integrate seamlessly with the tools you already use, allowing you to get started in minutes and stay focused on building software you believe in.
+
+See supported frameworks →
+
+Build with
+
+confidence.
+
+Release with
+
+clarity.
+
+Rollbar helps you track what breaks, understand why, and improve what comes next.
+
+5K occurrences + 1K replays free per month
+
+14-day full access trial
+
+Easy and quick installation
+
+Get started in minutes
+
+Plans starting at $0. Get a 14-day free trial to see how Rollbar fits your workflow.
+
+PLATFORM
+
+Error Monitoring
+
+Session Replay
+
+Pricing
+
+Integrations
+
+Changelog
+
+Roadmap
+
+LANGUAGES
+
+JavaScript
+
+iOS
+
+Next.js
+
+React
+
+React Native
+
+Rails
+
+Django
+
+Go
+
+Java
+
+.Net
+
+Node.js
+
+PHP
+
+Python
+
+More...
+
+DOCUMENTATION
+
+Overview
+
+Setting up Rollbar
+
+Notifications
+
+Deploy tracking
+
+Telemetry
+
+Security & compliance
+
+API
+
+COMPANY
+
+About us
+
+Careers
+
+Contact us
+
+© 2012-2025 Rollbar Inc.
+
+Privacy Policy
+
+Terms of Service
+
+Platform
+
+Languages
+
+Integrations
+
+Pricing
+
+Company
+
+Docs
+
+Log in
+
+Try free
+
+              
+
+We use cookies to personalize content, run ads, and analyze traffic.

@@ -1,0 +1,31 @@
+Details
+
+Hostname: fen-hoothoot-asia-east1-v5pm
+Datacenter: gce-asia-east1
+
+404 Not Found
+What's this domain?
+
+This domain, hosted by Admiral (getadmiral.com) on behalf of digital publishers, provides copyright access control in accordance with the Digital Millennium Copyright Act and related international copyright laws, enabling privacy consent, including for GDPR, and supporting subscriptions and donations.
+
+This service is provided on an "AS IS" basis without warranties of any kind.
+
+Privacy
+
+Third-party cookies are not used and cross-site tracking cannot be performed.
+
+Admiral is a processor of any requests, similar to other cloud providers who are not typically visited directly. A digital publisher utilizing this domain has authority over the information collected and used. More information can be found in their Privacy Policy.
+
+Examples of requests to this domain could include checking whether a visitor meets criteria for access to copyrighted content, logging into their subscription, recording consent, or configuring website features. All requests must abide by applicable laws.
+
+Any violation of these policies should be reported to Admiral support.
+
+Security
+
+This domain uses industry-standard controls to require encryption and certificates are rotated frequently.
+
+Content served by this domain consists exclusively of JavaScript, HTML, CSS, and media.
+
+No executable files or downloads are hosted and all content endpoints and services are continuously and routinely scanned for and audited. There are no installers, spyware, extensions, archives, or other potentially malicious files hosted on this domain.
+
+Admiral takes security seriously and any vulnerabilities can be reported via email to security at getadmiral.

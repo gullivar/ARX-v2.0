@@ -1,0 +1,96 @@
+Skip to main content
+
+opensource.google uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Events
+Projects
+Programs and services
+More
+/
+Sign in
+Google Open Source
+
+We bring all the value of open source to Google and all the resources of Google to open source.
+
+Learn more
+Everyone benefits
+
+Google believes open source solves real-world problems for everyone. Google's Open Source Programs Office supports open source innovation, collaboration, and sustainability through our programs and services.
+
+Use
+Open source is at the core of the products we build.
+Release
+We continue to release code under open source licenses for all to use.
+Support
+We foster inclusive environments to support healthy ecosystems.
+Google Open Source programs
+
+Google Open Source programs support open source projects through enabling new contributors, building mentorship, and supporting documentation.
+
+Google Summer of Code
+Google Summer of Code is a global, online program focused on bringing new contributors into open source software development. GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
+
+See program timeline
+View all programs
+Projects
+
+At Google, we use open source to innovate and we release open source to share our innovations. We encourage you to browse through our featured projects to find work to use, share, and build on!
+
+Chromium
+
+Chromium is the web browser that Google Chrome is built on. It is meant to feel lightweight (cognitively and physically) and fast. When released, it brought a sandbox security model, minimalist user interface, and tabbed window manager that many other browsers have since adopted.
+
+WebJavaObjective-CC++
+View Project
+Android
+
+Android is an operating system and software stack created for an array of devices with different form factors, including phones, tablets, wearables, TVs, automobiles, and connected devices. The primary purposes of Android are to create an open platform available for carriers, OEMs, and developers to make their ideas a reality and to provide a successful, real-world product that improves the mobile experience for users.
+
+MobileJavaC
+View Project
+Kubernetes
+
+Kubernetes is a cluster management system for managing containerized applications across multiple hosts, providing mechanisms for deployment, maintenance, and scaling of applications. It groups containers that make up an application into logical units for easy management and discovery.
+
+ContainersCloud
+View Project
+TensorFlow
+
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML, and gives developers the ability to easily build and deploy ML-powered applications.
+
+C++PythonJavaJavaScript
+View Project
+View all projects
+Featured blogs
+
+On the Google Open Source blog, you'll find exciting news about Google releases, projects, and program updates, as well as guest posts from our project partners and program participants.
+
+How JAX makes high-performance economics accessible
+
+John Stachurski, QuantEcon &amp; Srikanth Kilaru, Google ML Frameworks JAX is widely recognized for its power in training large-scale AI models, but its core design as a system for composable function transformations unlocks its potential in a much
+
+Read more
+Unleashing autonomous AI agents: Why Kubernetes needs a new standard for agent execution
+
+Joan Kallogjeri &amp; Tomer Glottmann, GCP Google Kubernetes Engine The arrival of autonomous AI Agents capable of reasoning, planning, and executing actions by generating their own code and interacting with the runtime environment marks a paradigm
+
+Read more
+Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust
+
+Elie Bursztein, Julien Cretin, and Yanick Fratantonio, Applied Cybersecurity Research Early last year, we open sourced Magika, Google's AI-powered file type detection system. Magika has seen great adoption by open source communities since that alpha
+
+Read more
+This Week in Open Source #11
+
+A look around the world of open source by Daryl Ducharme &amp; amanda casari, Google Open Source Happy Halloween. Here is your treat in the form of news and events from the world of open source. What spooky open source events and news are you being
+
+Read more
+View all blogs
+YouTube
+X
+LinkedIn
+Terms
+Privacy
+Manage cookies

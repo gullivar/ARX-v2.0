@@ -1,0 +1,142 @@
+API Doc
+Help
+Browse
+Sign In
+Find OSS Components
+
+As stewards of Central for nearly 20 years and inventors of both software supply chain management and Nexus Repository, Sonatype knows that the integrity of your build is critical.
+
+No Results Found
+Advanced Options
+Partner-Backed Support for OSS Component Security
+NEW
+
+Get expert-backed security support for both current and end-of-life OSS components—ensuring protection, compliance, and continuity through trusted Maven Central partners. Learn More
+
+Look for the alert below to identify components backed by our first support partner, HeroDevs.
+
+EOL Security Fixes Available
+HeroDevs
+Sonatype Partner
+
+Never-Ending Support (NES) by HeroDevs means you can stay secure, compatible, and compliant without migrating away.
+
+Visit HeroDevs
+Sonatype MCP Server
+Stop Reworking AI Code.
+Start Shipping It.
+
+No more cleaning up after AI. Get AI-generated code that performs like your best developers and passes security reviews — thanks to smart guardrails and high-quality OSS dependencies.
+
+Try It Free
+Quality at the Source
+
+Ensure only actively maintained, secure, and properly licensed components end up in your code.
+
+Less Rework, More Flow
+
+Start with clean dependencies and skip fixes and rework that can slow delivery.
+
+Consistency Across Tools
+
+Apply the same rules across tools, whether you're using Copilot, Claude, or other IDE agents.
+
+Most Popular Packages in Last 90 Days
+commons-dbcp2
+Version:
+2.14.0
+View all
+Published:
+18 days ago
+Used in:
+8 projects
+org.apache.commons
+commons-jexl3
+Version:
+3.6.1
+View all
+Published:
+20 days ago
+Used in:
+22 projects
+org.apache.commons
+commons-pool2
+Version:
+2.13.0
+View all
+Published:
+23 days ago
+Used in:
+85 projects
+org.apache.commons
+commons-text
+Version:
+1.15.0
+View all
+Published:
+25 days ago
+Used in:
+775 projects
+org.apache.commons
+Most Popular Namespaces in Last 90 Days
+org.apache.commons
+150 projects
+org.slf4j
+25 projects
+com.fasterxml.jackson.core
+3 projects
+commons-io
+1 project
+com.google.guava
+21 projects
+commons-codec
+1 project
+Popular Categories
+#
+Build Tools
+#
+Other
+#
+MULTI-PROJECT
+#
+Data Management
+#
+Programming Language Utilities
+#
+Cloud Computing
+#
+Developer Tools
+#
+Data Transport
+#
+Web Frameworks
+#
+Monitoring and Management
+#
+Software Development Kit
+#
+Database
+2024 State of the Software Supply Chain
+
+Open source consumption has exploded, with estimates placing this year’s downloads at over 6.6 trillion. This reliance on open source components, now making up to 90% of the modern software application, has ushered in both unprecedented innovation and complex challenges for software supply chains.
+
+View the Report
+Company
+Products
+Copyright 2025
+Search
+Browse
+Publish
+Namespace
+Support
+API Documents
+Getting Started
+Help
+Partners
+End of Life Partners
+Become a Partner
+Validate
+Privacy Policy
+Terms of Service
+Log in
+Sign in

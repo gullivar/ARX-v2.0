@@ -1,0 +1,177 @@
+Nylas | Email, Calendar & Meeting APIs for Developers Products Products Email API Calendar API Contacts API Scheduler Notetaker API Integrations Google email & calendar integration￼ Outlook email & calendar integration IMAP integration Google Meet integration Zoom integration Microsoft Teams integration Blog @nylas/connect: A JavaScript library for connecting grants from the browser Read more Talk to an expert Solutions Developers Documentation Docs SDKs Tutorials Support API status Changelog Support Blog @nylas/connect: A JavaScript library for connecting grants from the browser Read more See the docs Resources Connect Blog Events Guides Inspiration gallery About Nylas Build vs. buy Customer stories Security & Compliance Why Nylas Newsroom Podcasts Exploring how APIs, AI, and automation are reshaping SaaS platforms, CRMs, and the future of connected work. Read more Talk to an expert Pricing Contact sales Log in Build for free Integrate inbox , calendar and meetings into your app Nylas is the API that lets you integrate with Gmail, Microsoft, IMAP, Zoom, and 250+ mail, calendar and meeting providers in 5 minutes . Get API Key Documentation Send an Email on behalf of your user Node.js Ruby Python Kotlin cURL import Nylas from 'nylas' ; const nylas = new Nylas ({ apiKey: '<NYLAS_API_KEY>' }); const sentMessage = await nylas . messages . send ({ identifier: < USER_GRANT_ID > requestBody: { to : [{ name: '<RECIPIENT_NAME>' , email: '<RECIPIENT_EMAIL>' }], subject : '<EMAIL_SUBJECT>' , body : '<EMAIL_BODY>' } }); require 'nylas' nylas = Nylas :: Client . new ( api_key: "<NYLAS_API_KEY>" ) request_body = { subject: '<EMAIL_SUBJECT>' , body: '<EMAIL_BODY>' , to: [{ name: '<RECIPIENT_NAME>' , email: '<RECIPIENT_EMAIL>' }] } email, response = nylas. messages . send ( '<USER_GRANT_ID>' , request_body) from nylas import Client nylas = Client ( api_key = '<NYLAS_API_KEY>' ) message = nylas.messages. send ( '<USER_GRANT_ID>' , request_body = { "to" : [{ "name" : '<RECIPIENT_NAME>' , "email" : '<RECIPIENT_EMAIL>' }], "subject" : '<EMAIL_SUBJECT>' , "body" : '<EMAIL_BODY>' } ) import com.nylas.NylasClient val nylas = NylasClient (apiKey = '<NYLAS_API_KEY>' ) val recipients = listOf ( EmailName ( '<RECIPIENT_EMAIL>' , '<RECIPIENT_NAME>' )) val requestBody = SendMessageRequest. Builder (recipients) . subject ( '<EMAIL_SUBJECT>' ) . body ( '<EMAIL_BODY>' ) . build () val emailResponse = nylas. messages (). send ( '<USER_GRANT_ID>' , requestBody) curl --request POST \ --url "api.nylas.com/${< USER_GRANT_ID >}/messages/send" \ --header "Authorization: Bearer ${ NYLAS_API_KEY }" \ --header "Content-Type: application/json" \ --data '{ "subject": "<EMAIL_SUBJECT>", "body": "<EMAIL_BODY>", "to": [{"name": "<RECIPIENT_NAME>", "email": "<RECIPIENT_EMAIL>"}] }' Send a Calendar Event invite on behalf of your user Node.js Ruby Python Kotlin cURL import Nylas from 'nylas' ; const nylas = new Nylas ({ apiKey: '<NYLAS_API_KEY>' }); const event = await nylas . events . create ({ identifier: < USER_GRANT_ID > requestBody: { title : '<EVENT_TITLE>' , when : { startTime: '<START_TIME>' , endTime: '<END_TIME>' }, location : '<EVENT_LOCATION>' }, queryParams: { calendarId : '<USER_CALENDAR_ID>' } }); require 'nylas' nylas = Nylas :: Client . new ( api_key: '<NYLAS_API_KEY>' ) event, _ = nylas. events . create ( identifier: '<USER_GRANT_ID>' , query_params: { calendar_id: '<USER_CALENDAR_ID>' }, request_body: { title: '<EVENT_TITLE>' , when: { start_time: '<START_TIME>' , end_time: '<END_TIME>' }, participants: [{ name: '<RECIPIENT_NAME>' , email: '<RECIPIENT_EMAIL>' , status: '<REPLY_STATUS>' }] } ) from nylas import Client nylas = Client ( api_key = '<NYLAS_API_KEY>' ) event = nylas.events. create ( '<USER_GRANT_ID>' , request_body = { "title" : '<EVENT_TITLE>' , "when" : { "start_time" : '<START_TIME>' , "end_time" : '<END_TIME>' }, "participants" : [{ "email" : '<RECIPIENT_EMAIL>' , "name" : '<RECIPIENT_NAME>' }], }, query_params = { "calendar_id" : '<USER_CALENDAR_ID>' } ) val nylas = NylasClient (apiKey = '<NYLAS_API_KEY>' ) val participants = listOf (CreateEventRequest. Participant ( '<RECIPIENT_EMAIL>' , ParticipantStatus.NOREPLY, '<RECIPIENT_NAME>' )) val requestBody = CreateEventRequest ( timespan, '<EVENT_TITLE>' , '<EVENT_LOCATION>' , "Discuss project timeline and milestones" , participants) val queryParams = CreateEventQueryParams ( '<USER_CALENDAR_ID>' ) val response = nylas. events (). create ( '<USER_GRANT_ID>' , requestBody, queryParams) curl --request POST \ --url "api.nylas.com/${< USER_GRANT_ID >}/events?calendar_id=${< USER_CALENDAR_ID >}" \ --header "Authorization: Bearer ${< NYLAS_API_KEY >}" \ --header "Content-Type: application/json" \ --data '{ "title": "<EVENT_TITLE>", "when": {"start_time": "<START_TIME>", "end_time": "<END_TIME>"}, "participants": [ {"email": "<RECIPIENT_EMAIL>", "name": "<RECIPIENT_NAME>"}] }' Create a new Contact on behalf of your user Node.js Ruby Python Kotlin cURL const nylas = new Nylas ({ apiKey: process . env . < NYLAS_API_KEY > }); const contact = await nylas . contacts . create ({ identifier: < USER_GRANT_ID > requestBody: { givenName : '<CONTACT_GIVEN_NAME>' , surname : '<CONTACT_SURNAME>' , emails : [{ email: '<CONTACT_EMAIL>' , type: '<EMAIL_TYPE>' }], phoneNumbers : [{ number: '<CONTACT_PHONE_NUMBER>' , type: '<PHONE_TYPE>' }], companyName : '<COMPANY_NAME>' } }); nylas = Nylas :: Client . new ( api_key: '<NYLAS_API_KEY>' ) request_body = { given_name: '<CONTACT_GIVEN_NAME>' , surname: '<CONTACT_SURNAME>' , emails: [{ email: '<CONTACT_EMAIL>' , type: '<EMAIL_TYPE>' }], phone_numbers: [{ number: '<CONTACT_PHONE_NUMBER>' , type: '<PHONE_TYPE>' }], } contact, _ = nylas. contacts . create ( identifier: '<USER_GRANT_ID>' , request_body: request_body ) nylas = Client ( api_key = '<NYLAS_API_KEY>' ) contact = nylas.contacts. create ( < USER_GRANT_ID > request_body = { "given_name" : '<CONTACT_SURNAME>' , "surname" : '<CONTACT_SURNAME>' , "emails" : [{ "email" : '<CONTACT_EMAIL>' , "type" : '<EMAIL_TYPE>' }], "phone_numbers" : [{ "number" : '<CONTACT_PHONE_NUMBER>' , "type" : '<PHONE_TYPE>' }], "company_name" : '<COMPANY_NAME>' } ) val nylas = NylasClient (apiKey = '<NYLAS_API_KEY>' ) val contactRequest = CreateContactRequest. Builder () . givenName ( '<CONTACT_GIVEN_NAME>' ) . surname ( '<CONTACT_SURNAME>' ) . emails ( '<CONTACT_EMAIL>' ) . phoneNumbers ( '<CONTACT_PHONE_NUMBER>' ) . companyName ( '<COMPANY_NAME>' ) . jobTitle ( '<JOB_TITLE>' ) . build () val contact = nylas. contacts (). create ( '<USER_GRANT_ID>' , contactRequest) curl --request POST \ --url "api.us.nylas.com/${ USER_GRANT_ID }/contacts" \ --data '{ "given_name": "<CONTACT_GIVEN_NAME>", "surname": "<CONTACT_SURNAME>", "emails": [{"email": "<CONTACT_EMAIL>", "type": "<EMAIL_TYPE>"}], "phone_numbers": [{"number": "<CONTACT_PHONE_NUMBER>", "type": "<PHONE_TYPE>"}], "company_name": "<COMPANY_NAME>", "job_title": "<JOB_TITLE>" }' Create a Event Scheduler on behalf of your user import React from 'react' ; import { NylasScheduling } from "@nylas/react" ; function MeetingBooker () { // Displays a Calendar scheduler component that // lets users choose from open meeting slots return ( < NylasScheduling configurationId = { "<SCHEDULER_CONFIG_ID>" } /> ); } export default MeetingBooker ; Invite Notetaker to join meetings curl --request POST \ --url "https://api.us.nylas.com/v3/grants/{email}/notetakers" \ --header "Authorization: Bearer {NYLAS_API_KEY}" \ --header "Content-Type: application/json" \ --data '{ "meeting_link": "<MEETING_URL>", "notetaker_name": "<NOTETAKER_NAME>" }' ❮ ❯ Meet Nylas A developer-first solution for custom communication experiences Securely integrate with every email, calendar, and contacts provider using a single interface to streamline your users’ workflows. Build real-time, bi-directional communications in your app up to 40x faster , saving months of development time. Email API Sync, send, and receive messages to build contextual email , automated outreach, and other in-app experiences. Explore the Email API Calendar API Retrieve and manage calendars and events to build scheduling automation , calendar management , and other scheduling experiences. Explore the Calendar API Notetaker API Join , record , and transcribe meetings across platforms to build AI-powered meeting and notes experiences. Explore the Notetaker API Powerful APIs for any industry Embed email and scheduling in your CRM Simplify client communications and scheduling by seamlessly integrating with all email providers in your CRM, boosting customer interactions and team efficiency. Learn More Revolutionize the real estate software experience Seamlessly elevate your real estate platform with Nylas’ streamlined communication, data-driven client management, and automated virtual tour scheduling all in one place. Learn More Accelerate time-to-hire Enhance your application tracking system with automated email and scheduling features that take the pain out of hiring. Learn More Enhance e-sign workflows across all email providers Boost document delivery while maintaining end-user trust with secure and reliable contextual email capabilities. Learn More For developers Speed up your development with easy-to-use APIs Nylas APIs simplifies integration complexities, offering a unified API solution tailored for developers. Developer-friendly Leverage Nylas Docs, SDKs, CLI, and code samples to reduce time building and maintaining infrastructure. Reliable performance Ship features faster with security, scalability, and performance with a 99.9% guaranteed uptime. Instant responses Instant email and event data as soon as your users connect, with no sync delays. Webhooks Receive real-time notifications to your application that will scale with you. Get the last 5 email messages from a user’s inbox Get the last 5 events from a user’s calendar Node.js Ruby Python Java Curl Response const messages = await nylas.messages.list({
+  identifier,
+  queryParams: {
+    limit: 5,
+  }
+}) require 'nylas'
+
+nylas = Nylas::Client.new(api_key: 'API_KEY')
+query_params = { limit: 5 }
+messages, _ = nylas.messages.list(identifier: '<GRANT_ID>', query_params: query_params)
+
+messages.each {|message|
+    puts "[#{Time.at(message[:date]).strftime("%d/%m/%Y at %H:%M:%S")}] \
+           #{message[:subject]}"
+} messages = nylas.messages.list(
+  grant_id,
+  query_params={
+    "limit": 5
+  }
+) import com.nylas.NylasClient;
+import com.nylas.models.*;
+import java.text.SimpleDateFormat;
+
+public class ReadInbox {
+    public static void main(String[] args) throws NylasSdkTimeoutError, NylasApiError {
+        NylasClient nylas = new NylasClient.Builder("<API_KEY>").build();
+        ListMessagesQueryParams queryParams = new 
+        ListMessagesQueryParams.Builder().limit(5).build();
+        ListResponse<Message> message = nylas.messages().list("<GRANT_ID>", queryParams);
+
+        for(Message email : message.getData()) {
+            String date = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").
+                format(new java.util.Date((email.getDate() * 1000L)));
+
+            System.out.println("[" + date + "] | " + email.getSubject());
+        }
+    }
+} curl --request GET \
+  --url "https://api.us.nylas.com/v3/grants/GRANT_ID/messages?limit=5" \
+  --header 'Accept: application/json' \
+  --header 'Authorization: Bearer <API_KEY_OR_ACCESS_TOKEN>' \
+  --header 'Content-Type: application/json' {
+    "request_id": "d0c951b9-61db-4daa-ab19-cd44afeeabac",
+    "data": [
+        {
+            "starred": false,
+            "unread": true,
+            "folders": [
+                "UNREAD",
+                "CATEGORY_PERSONAL",
+                "INBOX"
+            ],
+            "grant_id": "1",
+            "date": 1706811644,
+            "attachments": [
+                {
+                    "id": "1",
+                    "grant_id": "1",
+                    "filename": "invite.ics",
+                    "size": 2504,
+                    "content_type": "text/calendar; charset=\"UTF-8\"; method=REQUEST"
+                },
+                {
+                    "id": "2",
+                    "grant_id": "1",
+                    "filename": "invite.ics",
+                    "size": 2504,
+                    "content_type": "application/ics; name=\"invite.ics\"",
+                    "is_inline": false,
+                    "content_disposition": "attachment; filename=\"invite.ics\""
+                }
+            ],
+            "from": [
+                {
+                    "name": "Nylas DevRel",
+                    "email": " [email protected] "
+                }
+            ],
+            "id": "1",
+            "object": "message",
+            "snippet": "Send Email with Nylas APIs",
+            "subject": "Learn how to Send Email with Nylas APIs",
+            "thread_id": "1",
+            "to": [
+                {
+                    "name": "Nyla",
+                    "email": " [email protected] "
+                }
+            ],
+            "created_at": 1706811644,
+            "body": "Learn how to send emails using the Nylas APIs!"
+        }
+    ],
+    "next_cursor": "123"
+} Node.js Ruby Python Java Curl Response const events = await nylas.events.list({
+  identifier: 1,
+  queryParams: {
+    calendarId: 2
+  }
+}) require 'nylas'
+
+nylas = Nylas::Client.new(api_key: "<API_KEY>")
+
+# Call a list of calendars
+calendars, _request_ids = nylas.calendars.list(identifier: "<GRANT_ID>", query_params: {limit: 5})
+
+calendars.each {|calendar|
+    puts calendar
+} events = nylas.events.list(
+  grant_id,
+  query_params={
+    "calendar_id": 1
+  }
+) import com.nylas.NylasClient;
+import com.nylas.models.*;
+import java.util.List;
+
+public class read_calendars {
+    public static void main(String[] args) throws NylasSdkTimeoutError, NylasApiError {
+        NylasClient nylas = new NylasClient.Builder("<API_KEY>").build();
+        ListCalendersQueryParams listCalendersQueryParams = new  
+        ListCalendersQueryParams.Builder().limit(5).build();
+        List<Calendar> calendars = nylas.calendars().list(dotenv.get("CALENDAR_ID"), 
+        listCalendersQueryParams).getData();
+
+        for (Calendar calendar : calendars) {
+            System.out.println(calendar);
+        }
+    }
+} curl --request GET \
+--url https://api.us.nylas.com/v3/grants/<GRANT_ID>/events
+--header 'Accept: application/json' \
+--header 'Authorization: Bearer <API_KEY_OR_ACCESS_TOKEN>' \
+--header 'Content-Type: application/json' {
+    "type": "event.created1",
+    "data": {
+      "object": {
+        "busy": true,
+        "calendar_id": "mock-name%40nylas.com",
+        "created_at": 1234567890,
+        "description": "mock description",
+        "hide_participants": false,
+        "ical_uid": " [email protected] ",
+        "id": "mock-data-id",
+        "object": "event",
+        "owner": "Mock Owner ",
+        "organizer": {
+          "name": "mock organizer name",
+          "email": " [email protected] "
+        },
+        "participants": [
+          {
+            "email": " [email protected] ",
+            "name": "mockParticipantsA",
+            "status": "yes"
+          },
+          {
+            "email": " [email protected] ",
+            "name": "mockParticipantsB",
+            "status": "noreply"
+          }
+        ],
+        "read_only": false,
+        "reminders": null,
+        "status": "confirmed",
+        "title": "mock_title",
+        "updated_at": 1234567890,
+        "when": {
+          "start_time": 1234567890,
+          "start_timezone": "America/Edmonton",
+          "end_time": 1234567890,
+          "end_timezone": "America/Edmonton",
+          "object": "timespan"
+        }
+      }
+    }
+  } View on Github Customers Powering the world’s best product teams Trusted by 250,000+ developers and growing. Crunchbase increases sales productivity and bookings with Nylas “Adding bi-directional email sync provides our users with a way to increase their productivity within the Crunchbase platform [while encouraging upsells to a new pricing tier with premium features]” Monika Abraham, Product Ops Manager @ Crunchbase Product used Calendar API 1 new pricing tier added to increase revenue $75k saved from Google security review Read the full story Dialpad launches secure, reliable contact sync while saving developer resources “One of the advantages of integrating with Nylas was how straightforward it was to sync contacts across multiple service providers and regardless of which version of Exchange our customers use.” Stefan Roesch Software Engineer @ Dialpad Products used Email API Calendar API Contact API 2 days to launchable code with Nylas 6+ months cut from development timelines Read the full story Ceridian reduces manual work for recruiters with interview scheduling “By partnering with Nylas we were able to solve technical obstacles that would’ve taken us a lot longer on our own and required a much larger investment of resources.” John Whyte Director of Product Management @ Ceridian Products used Calendar API 1 year saved in development time and resources 1 API all major calendar providers Watch the video Security Security built into the foundation of our platform Our enterprise-grade security is backed by compliance with industry-leading standards . 34.5B+ API transactions and 200TB of data processed daily. 99.99% historical uptime for Nylas services. Save 50% of dev resources to focus on core product functionality. Start building the future Get your API key and connect up to 5 accounts for free. Build for free Contact sales Contact Request a demo Contact Sales Support Products Email API Calendar API Scheduler Contacts API Notetaker API Pricing Savings calculator Solutions Calendar management Embedded email Scheduling automation Automated outreach Industries Telehealth Marketplaces Recruiting Document management Real estate Communications software Productivity Developers Build for free Docs SDKs Tutorials API status Changelog Support Developer forums Company About us Leadership Careers Diversity Podcasts Newsroom Blog Security © 2025 Nylas. All rights reserved. Terms of Service Privacy Policy Privacy Settings Copyright Policy Do Not Sell or Share My Personal Information

@@ -1,0 +1,88 @@
+ pixelfed
+Login Sign up
+About
+Explore
+
+pixelfed.social
+
+Decentralized photo sharing social media powered by Pixelfed
+
+18M
+
+Posts
+
+73K
+
+Active Users
+
+512K
+
+Total Users
+
+Managed By
+
+dansup
+
+@dansup
+
+Contact
+
+hello@pixelfed.org
+About
+
+The original Pixelfed instance, operated by the main developer @dansup
+
+Server Rules
+1
+No racism, sexism, homophobia, transphobia, xenophobia, or casteism, including targeted misgendering, deadnaming, or promotion of so-called "conversion therapy"
+2
+No incitement of violence or promotion of violent ideologies
+3
+No harassment, dogpiling or doxxing of other users
+4
+While English is our primary language, you are free to use any language here! We will translate reported posts in other languages to English.
+5
+No explicit content, such as pornography or graphic violence. Mark any mature content as sensitive using the platform's content warning features
+6
+Do not post or share personal information about others without their explicit consent
+7
+Respect the privacy settings of users' posts and profiles
+8
+Do not engage in manipulative practices to inflate engagement or follower counts
+9
+Users must comply with local and international laws regarding online conduct and acceptable content. Prohibited content includes anything related to illegal activities or substances
+10
+Do not share copyrighted material without authorization or proper attribution
+11
+Creating accounts for the purpose of impersonating others is prohibited
+Supported Features
+Photo Posts
+Photo Albums
+Photo Filters
+Collections
+Comments
+Hashtags
+Likes
+Notifications
+Shares
+
+You can share up to 20 photos* or 1 video* at a time with a max caption length of 2000 characters.
+
+* - Maximum file size is 15 MB
+
+Federation
+Mobile App Support
+Stories
+Videos
+Help
+·
+Terms
+·
+Privacy
+·
+Mobile Apps
+© 2026 pixelfed.social
+·
+Powered by Pixelfed
+·
+v0.12.6

@@ -1,0 +1,242 @@
+Feeling stuck with Segment? Take back control with RudderStack today.
+
+🚀 Get a demo
+
+Products
+
+Solutions
+
+Integrations
+
+Docs
+
+Resources
+
+Pricing
+
+Log In
+
+Try for free
+
+Get
+
+more
+
+
+
+
+from your customer data
+
+RudderStack combines bomb proof customer data infrastructure with flexible tools built for one thing: to help you drive better outcomes with your data.
+
+Request a demo
+Try for free
+POWERING INNOVATION AT ANY SCALE
+Move fast with warehouse-native control
+
+Data teams choose RudderStack because it helps them move faster, scale confidently, and supercharge every use case without sacrificing flexibility or giving up control.
+
+
+Adapt quickly
+
+Meet evolving business requirements with speed and agility using flexible, code-based tools.
+
+Protect privacy
+
+Keep full ownership of your data and automate consent flows across your stack.
+
+Build data trust
+
+Control data quality from capture to delivery so every team can drive results with clean data.
+
+The real-time data foundation for competitive advantage
+
+Data solutions
+
+Team outcomes
+
+Collection and Integration
+
+Simplify real-time, first-party data collection and integration.
+
+AI and ML
+
+Build powerful AI & ML models on clean customer data.
+
+Identity Resolution
+
+Solve identity resolution and customer 360 in your data cloud.
+
+Data Cloud Activation
+
+Sync data from your data cloud to marketing and product tools.
+
+Data Quality
+
+Deliver clean, trustworthy event data to every team.
+
+Compliance
+
+Ensure regulatory compliance with GDPR, HIPPA, and more.
+
+Download The Data Maturity Guide
+
+A practical four-stage guide to driving impact with customer data. Complete with case studies and implementation strategies.
+
+Email
+Download the free guide
+Central command for the customer data lifecycle
+
+RudderStack provides all the tools you need to turn raw customer data into a competitive advantage for every team in your business.
+
+Capture the full customer journey
+
+Establish a unified data layer to collect standardized events from every channel with our high performance SDKs for web, mobile, and server-side sources. Easily build your own custom sources with webhooks.
+
+Explore RudderStack Event Stream
+Integrate in real-time without maintenance
+
+Rely on 200+ pre-built integrations to deliver customer signals to every business system, ad platform, and analytics tool in real time. Centralize events in your data cloud, and even pipe events into streaming systems like Kafka.
+
+Explore the integration library
+Govern your data  in pipeline
+
+Enforce data quality and compliance before data gets downstream. Integrated tools for schema management, event validation, consent automation, and PII handling help you meet complex requirements with streamlined workflows.
+
+Explore the Data Quality Toolkit
+Explore the Data Compliance Toolkit
+Democratize rich customer intelligence
+
+Use RudderStack Profiles to build a rich customer 360 with all of the data in your data cloud. Then use Reverse ETL to deliver unified profiles directly to all the tools your frontline teams use every day so they can drive more impact.
+
+Explore RudderStack Profiles
+Explore Reverse ETL
+Real-world outcomes with real-world data
+
+Here's how our customers use RudderStack to increase efficiency and drive better business outcomes.
+
+Explore all case studies
+
+"I was pleasantly surprised that [fifty-five] was able to turn on the next markets pretty quickly. That demonstrated the value of RudderStack for me. There was a longer delay to get the API key than for fifty-five to enable the market."
+
+Rama Annaswamy
+
+VP of Technology at MANSCAPED
+
+37% boost in ad-driven revenue
+
+Learn how Manscaped used RudderStack to send better conversion data to ad platforms and significantly improve ROAS.
+
+Read the case study
+
+“RudderStack saves us engineering time and allows our downstream teams to work and iterate faster. We’re excited about using RudderStack to realize our event-driven architecture vision.”
+
+Brett Trani
+
+Director of Analytics at Joybird
+
+93% time savings on data integration
+
+Learn how the team at Joybird drastically reduced the time their data engineers spend building and maintaining integrations so they can deliver business value faster.
+
+Read the case study
+
+"We use RudderStack to power a deeply personalized experience and execute engaging campaigns across all of our digital properties. Its powerful, engineering-friendly features help us punch above our weight."
+
+Ricardo Pinho
+
+Data Engineer at Phantom
+
+#1 in the app store
+
+Learn how Phantom’s data team used RudderStack to power real-time personalization for an in app engagement campaign that vaulted them to the #1 spot in the app store.
+
+Read the blog
+
+"Migrating to Rudderstack was a no-brainer. We found it to be the better tool, it was cheaper, and the migration was so easy."
+
+Louis Herr-Fender
+
+Team Manager, Product Data Analytics at Aircall
+
+85% productivity gain
+
+Learn how Aircall migrated to RudderStack in 30 days, drastically reducing event instrumentation time and enabling business teams to action on data from the entire customer journey.
+
+Read the case study
+
+"I was pleasantly surprised that [fifty-five] was able to turn on the next markets pretty quickly. That demonstrated the value of RudderStack for me. There was a longer delay to get the API key than for fifty-five to enable the market."
+
+Rama Annaswamy
+
+VP of Technology at MANSCAPED
+
+37% boost in ad-driven revenue
+
+Learn how Manscaped used RudderStack to send better conversion data to ad platforms and significantly improve ROAS.
+
+Read the case study
+
+“RudderStack saves us engineering time and allows our downstream teams to work and iterate faster. We’re excited about using RudderStack to realize our event-driven architecture vision.”
+
+Brett Trani
+
+Director of Analytics at Joybird
+
+93% time savings on data integration
+
+Learn how the team at Joybird drastically reduced the time their data engineers spend building and maintaining integrations so they can deliver business value faster.
+
+Read the case study
+RudderStack doesn’t store your data and puts privacy controls in your hands
+Get started today
+
+Start driving better business outcomes with your customer data in less than a week
+
+Book a demo
+
+Explore use cases with an expert and see RudderStack in action.
+
+Implement RudderStack
+
+Start collecting and enabling real-time customer data everywhere it's needed.
+
+Drive better outcomes
+
+Supercharge your analytics, product, growth, and AI teams.
+
+Request a demo
+
+© RudderStack Inc.
+
+Company
+About
+Contact us
+Partner with us
+🚀 We’re hiring!
+Privacy policy
+Terms of service
+Vulnerability disclosure policy
+Products
+Integrations library
+Customer Data Platform
+Event Stream
+Profiles
+Reverse ETL
+Transformations
+Data Compliance Toolkit
+Data Quality Toolkit
+Security
+System status
+Read our documentation
+Go to Docs
+Resources
+Blog
+Live tech sessions
+Technical documentation
+Learning center
+Case studies
+Segment comparison
+The Data Stack Show podcast
+Join the conversation
+Join our Community

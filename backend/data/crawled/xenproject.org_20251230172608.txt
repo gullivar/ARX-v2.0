@@ -1,0 +1,221 @@
+Meet Xen.
+The world's most secure, stable, and performant open source hypervisor.
+Scroll down to meet your guide...
+...the Xen Panda travels through the universe, guiding users through the wonders of Xen virtualization.
+Planet Data Center
+Xen brings virtualization to a wide range of server environments, from data centers to enterprise IT, edge deployments, and labs. As an Open Source hypervisor, Xen powers a variety of platforms supported by both community and commercial contributors. Sub-projects like XCP-ng offer a drop-in solution built on Xen for those seeking a fully open and stable virtualization stack. Commercial offerings from Xen partners provide additional features, support, and long-term stability, all built on the same trusted core. Whether you're managing thousands of virtual machines or a single node on-premises, Xen provides the flexibility and stability to meet your needs.
+Planet Automotive
+Xen is powering innovation in automotive computing by enabling secure, efficient virtualization across in-vehicle systems. From dashboards and infotainment to safety-critical functions, Xen consolidates multiple operating systems onto a single SoC while preserving isolation and performance. It plays a key role in the Automotive Grade Linux Software-Defined Vehicle reference platform, supporting mixed-criticality workloads with VirtIO and real-time OSes like Zephyr. With long-term security support and a rigorous open CI system, Xen provides a trusted foundation for next-generation vehicles. Automotive partners across manufacturing and component sectors collaborate within the Xen ecosystem to advance software-defined mobility.
+Planet Industrial
+Xen is transforming industrial computing by enabling secure, efficient virtualization across embedded controllers, robotics, factory automation systems, and energy infrastructure. With real-time performance, low and deterministic interrupt latency, strong isolation, and minimal overhead, Xen allows manufacturers and operators to consolidate workloads and extend device lifecycles. The open CI network ensures compatibility with real-world hardware while supporting robust validation workflows essential in mission-critical environments, enabling predictive maintenance strategies. Industrial and energy sector partners can contribute and test directly within the Xen ecosystem, helping shape a resilient and flexible virtualization platform for modern operations.
+Planet Consumer
+Xen isn't just for servers and vehicles, it's empowering end-user systems too. Renowned security-focused projects like Qubes OS and OpenXT rely on Xen to provide hardware-enforced isolation on desktops and laptops, ensuring privacy and protection for advanced users and developers. Contributors from these communities even provide test hardware to the Xen CI network, reinforcing the platform's real-world reliability. Xen also powers home labs, small businesses, and university research environments, offering a secure, flexible virtualization stack for experimentation and innovation.
+Where will Xen take you?
+Xen
+Projects
+Contribute
+Documentation
+Resources
+About
+A LINUX FOUNDATION PROJECT
+Bring the power of
+open virtualization
+everywhere.
+
+The Xen Project team is a global open source community that develops the Xen Project Hypervisor and its associated subprojects.
+
+Our mission is to advance virtualization technology across a wide range of commercial and open-source domains.
+
+Open-source
+
+Wide variety of vendors and individuals opens new opportunities for the hypervisor and provides end-users with numerous places to find support.
+
+Reliable
+
+Over 10 million people use Xen with an ecosystem of more than 2000 commercially certified partners.
+
+Flexible
+
+Architecture enables vendors to create Xen-based products and services for servers, cloud, desktop, embedded, and security-first environments.
+
+Support
+
+Hypervisor supports multiple guest operating systems and cloud platforms.
+
+Secure
+
+Minimal attack surface with key security features like KCONFIG and Virtual Machine Introspection.
+
+Modular
+
+Architecture enables a degree of scalability, robustness, and security suitable for large, critical, and extremely secure environments.
+
+A virtualization revolution
+
+The Xen Project focuses on revolutionizing virtualization by providing a versatile and powerful hypervisor that addresses the evolving needs of diverse industries :
+
+Empower Innovation: Tailored virtualization to drive progress across various domains.
+Enhance Cloud Ecosystems: Elevate cloud capabilities with high-performing, reliable virtualization.
+Secure Critical Systems: Safeguard data and applications through industry-leading security.
+Revolutionize Embedded Technologies: Transform embedded and automotive sectors with mature, safe, secure solutions.
+Embedded & Automotive
+Maturity, isolation, security features, real-time support, fault-tolerance, and a flexible architecture make the Xen Project Hypervisor a perfect match for embedded and automotive systems.
+Discover 
+HVMI
+Explore Xen Project's Hypervisor Memory Introspection (HVMI). Learn how HVMI enhances security by providing real-time monitoring and protection for virtualized environments.
+Discover 
+Hypervisor
+Discover Xen Hypervisor, the open-source virtualization platform.
+Discover 
+Mirage OS
+MirageOS is a library operating system that constructs unikernels for secure, high-performance, low-energy footprint applications.
+Discover 
+Unikraft
+Unikraft is an open-source project for building efficient, secure unikernels. It provides customizable libraries and tools to create lightweight, single-purpose operating systems.
+Discover 
+Windows PV Drivers
+Windows PV Drivers enhance the performance and efficiency of Windows virtual machines. Access documentation and support for seamless integration.
+Discover 
+XAPI
+The XAPI project is an enterprise-ready toolstack for use with the Xen Project hypervisor.
+Discover 
+XCP-ng
+XCP-ng (Xen Cloud Platform – new generation) is a turnkey virtualization platform built on the Xen Project Hypervisor and using the Xen API (XAPI). It is typically managed with Xen Orchestra, an agentless, multi-cluster web interface that provides management, monitoring, and backup capabilities.
+Discover 
+
+Discover all projects 
+
+Latest news Read all news 
+OSS Japan 2025: A Breakthrough Year for Open Automotive Innovation
+2025-12-16
+
+The Xen Project is back from Open Source Summit Japan and Automotive Linux Summit 2025. This year’s event felt like a true watershed moment for the automotive industry and for open source. Across talks, demos, and hallway conversations, one thing was clear: open source is now a foundational pillar for the future of software defined vehicles. The conference halls were packed with engineers from many different organizations, all collaborating toward a shared goal: powering the next generation of
+
+Read more 
+🛠️ Engineering Trust: How Xen’s Open CI Powers Global, Hardware-Level Testing
+2025-07-10
+2025 embedded hardware open source
+
+In safety-critical industries like automotive and industrial systems, trust is non-negotiable. When building software that controls critical hardware, like braking systems or factory automation, you need confidence. The software must behave exactly as intended. Every time. On the actual device. That's why the Xen Project is investing in a new kind of continuous integration (CI). A CI that is open, transparent, and global. 🧠The Xen Project is hosted by the Linux Foundation, ensuring the pr
+
+Read more 
+🛠️ Xen Summit 2025: Find Your Place in the Future of Virtualization
+2025-06-27
+summit tech conference Xen Summit XenSummit
+
+The annual Xen Summit is right around the corner, and there has never been a more exciting time to be part of the Xen Project. As enterprise and industrial needs shift and proprietary vendors rethink their licensing, the industry is ready for strong, open alternatives. Xen stands out not only as a reliable solution, but as a versatile, battle-tested, and community-driven hypervisor that’s ready to meet the computing needs of the future. Whether you’re building for the cloud, the car, or the ne
+
+Read more 
+Let’s Grow Xen Together!
+2025-03-19
+2025 Community Colllaboration
+
+Xen is open, secure, and built for the future. As the new Community Manager, I’m focused on growing the Xen community, welcoming new contributors, and ensuring a thriving ecosystem. Let’s build the future of virtualization together!
+
+Read more 
+Xen Project 4.20: A Step Forward in Open Source Virtualization
+2025-03-11
+Announcements Releases 2025 xen 4.20
+
+The Xen Project has released Xen 4.20 🎉! This release introduces a range of enhancements that further solidify its position as the premier open-source hypervisor. It delivers important security updates, improved performance, and broader hardware support. Xen has doubled down as the best choice for cloud providers, enterprise users, and embedded system developers. 💡Why Xen? With strong security, high performance, and cross-architecture support, Xen remains the go-to choice for cloud provider
+
+Read more 
+Xen Project Winter Meetup
+2025-02-13
+
+We just wrapped up the Xen Winter Meetup 2025. It was an amazing opportunity to push Xen forward in a way that can only happen when people get together in person. Organized by Vates, we hosted it at the University of Grenoble IMAG building, a great spot for cutting-edge research in computer science and virtualization. Our goal? Accelerate Xen’s development, bring in fresh minds, and foster stronger ties between industry and academia. 🐼 Why we did it The idea for this meetup started at the la
+
+Read more 
+Welcome Honda to the Xen Project Board
+2024-12-09
+Announcements
+
+We're excited to announce our newest Advisory Board Member Honda, to Xen Project. Since its foundation, Honda has been committed to "creating a society that is useful to people" by utilizing its technologies and ideas. Honda also focuses on environmental responsiveness and traffic safety, and continue to take on the challenge of realizing a sustainable future. I am sure that the community will agree that this is a huge step and achievement for our open source project. Honda's investment into
+
+Read more 
+Say hello to our new website
+2024-12-06
+Announcements
+
+Hello Xen Community, You may have noticed something different... We've refreshed our existing website! Why did we do this? Well, all these new changes are part of an ongoing effort to increase our visibility and make it easier to find information on pages. We know how important it is for both users and wider stakeholders to learn about project, progress and ways to contribute. Our documentation will still link to our old wiki for now, as this is where most of our guides are stored. However,
+
+Read more 
+Xen Project Announces Performance and Security Advancements with Release of 4.19
+2024-08-05
+Announcements
+
+New release marks significant enhancements in performance, security, and versatility across various architectures.  SAN FRANCISCO – July 31st, 2024 – The Xen Project, an open source project under the Linux Foundation, is proud to announce the release of Xen Project 4.19. This release marks a significant milestone in enhancing performance, security, and versatility across various architectures, including Arm, PPC, RISC-V, and x86, altogether providing a robust and secure hypervisor solution
+
+Read more 
+Upcoming Closure of Xen Project Colo Facility
+2024-07-10
+
+Dear Xen Community, We regret to inform you that the Xen Project is currently experiencing unexpected changes due to the sudden shutdown of our colocated (colo) data center facility by Synoptek. This incident is beyond our control and will impact the continuity of OSSTest (the gating Xen Project CI loop), which we heavily rely on as a project. We understand the inconvenience this may cause to our users and stakeholders, and we are working diligently to consider different solutions as swift
+
+Read more 
+Governed by Xen project members
+Board members can propose and vote upon changes to the Xen Project.Members also gain valuable strategic insight into project plans and future scope.
+
+Join the advisory board 
+
+Led by a dedicated community
+The Xen community is a dynamic and collaborative ecosystem comprised of developers, researchers, and enthusiasts dedicated to advancing open-source virtualization technology. With diverse backgrounds and expertise, members actively contribute to Xen's evolution, fostering innovation, sharing knowledge, and supporting one another through continuous development efforts.
+
+Get started 
+
+About Xen Project
+The mission of the Xen Project is to advance virtualisation technology across a wide range of commercial and open-source domains.
+
+Learn about Xen Project
+
+About Xen Project
+
+The mission of the Xen Project is to advance virtualization technology across a wide range of commercial and open-source domains.
+
+A Linux Foundation Project
+
+The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects.
+
+Visit the Linux Foundation 
+
+Privacy Policy 
+
+Terms of Use 
+
+Projects
+All projects
+Hypervisor
+Embedded & Automotive
+HVMI
+Mirage OS
+Unikraft
+Windows PV Drivers
+XAPI
+XCP-ng
+Contribute
+Get started
+Contribution guidelines
+Continuous Integration
+CI status dashboard
+Xen Project Code of Conduct
+Documentation
+Resources
+Use cases
+Xen Spring Meetup 2026
+Academic Research
+Downloads
+Blog
+Matrix
+Past Events
+Join mailing lists
+About
+About Xen Project
+Xen Project members
+Become a member
+Governance
+Security policy
+Contact us
+More
+Releases
+Xen Project branding
+xenproject.org © 2025 by Xen Project is licensed under CC BY 4.0  

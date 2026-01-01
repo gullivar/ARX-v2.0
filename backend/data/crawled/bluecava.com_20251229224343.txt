@@ -1,0 +1,42 @@
+Adstra Online ID Opt-Out
+
+Adstra Opt-out Preferences
+Choice Mechanisms
+
+Adstra wants you to be in control of your experience while online. We help our Clients provide you with digital advertising that’s meaningful and supports the Sites you use for free, so everyone wins. We offer two choice mechanisms: an opt-out mechanism as well as the ability to reset your Adstra advertising ID. If you want to exercise choice via either or both mechanisms, please follow the instructions below. To learn more about our technology platform, please visit our privacy policy.
+
+Opt Out Of Being Tracked
+
+If you choose to opt out we will not share the identity of your device with our Clients for the purpose of enabling online behavioral advertising. Note that we do have some Clients who use our technology on their own web sites, including for things like fraud prevention, which are not subject to opt-out choice. To opt-in or out of tracking click the button to the right.
+
+Reset Your Advertising ID
+
+You can reset the advertising ID we generate when we recognize your device. This will unlink your device from any of the data that has been accumulated and assigned to that ID. The effect is the same as if you had just gotten a new computer or phone. To reset your advertising ID click the button to the right. Note, that if you reset your advertising ID we will automatically apply the opt-out setting from the old ID to the new one when we create the new one, so if you have opted out above you won’t have to do that again.
+
+Your ID: Loading...
+
+
+Do Not Track, Other Choice Mechanisms
+
+Our Technology is designed to recognize a Do Not Track (DNT) signal, but we do not control how our Clients respond to DNT signals.
+To opt-out from other companies that provide online behavioral advertising services, you can visit the following online advertising industry websites.
+
+The Digital Advertising Alliance: http://www.aboutads.info/choices/
+The Network Advertising Initiative: http://www.networkadvertising.org/choices/
+
+
+
+
+
+
+Contact Us:
+
+750 College Rd E Suite 201
+Princeton, NJ 08540
+609.508.2800
+
+
+CONTINUE TO ADSTRA
+		
+ 
+© 2023 Adstra All Rights Reserved | 

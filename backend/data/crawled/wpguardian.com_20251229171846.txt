@@ -1,0 +1,118 @@
+BENEFITS
+FEATURES
+SOLUTIONS
+PRICING
+FAQ
+LOGIN
+TRY NOW
+Effective Security for WordPress Sites
+Your All Seeing Eye to proactively scan & identify threats
+TRY NOW
+Flexible updates & security management
+Non-intrusive virtual patching
+
+Protection for Multiple WordPress sites
+Complete infrastructure analysis
+Eliminate Support Requests Related to Hacked
+WordPress Sites
+Keep all your WordPress sites up-to-date and protected. Embrace proactive security to maintain control and visibility over the status of both sites and servers, all in one place.
+Why WP Guardian?
+Stay ahead of threats to WordPress sites with continuous vulnerability monitoring and effective mitigation strategies.
+Holistic Security Management for Sites Built with WordPress
+Take control of security for websites powered by WordPress.
+Vulnerability
+Scans & Reporting
+Scan connected servers, and identify & report vulnerabilities to keep your infrastructure secure.
+Comprehensive
+Protection
+Manual & auto-updates, virtual patches, and continuous vulnerability monitoring.
+Panel-Agnostic
+Solution
+Designed to secure various control panels, ensuring flexibility across different platforms.
+Smooth Updates with
+Built-in Checks
+Perform checks before, during, and after updates for a smooth and safe updating process.
+Request a trial
+Protect your infrastructure for WordPress sites. Try WP Guardian today.
+TRY NOW
+Vulnerability Protection
+Non-intrusive virtual patching
+
+Block malicious requests, and mitigate vulnerabilities without modifying website code or affecting site performance. Protect servers and sites built with WordPress software without installing any updates. Embrace the ultimate solution to actively block the exploitation of identified threats.
+How does WP Guardian work?
+1
+Connect
+
+Installs the agent that communicates with the platform via API.
+
+2
+Detect
+
+Detects sites built with WordPress software and scans them for vulnerabilities.
+
+3
+Protect
+
+Automates updates installation or applies non-intrusive virtual patches.
+
+1
+Connect
+
+Installs the agent that communicates with the platform via API.
+
+2
+Detect
+
+Detects sites built with WordPress software and scans them for vulnerabilities.
+
+3
+Protect
+
+Automates updates installation or applies non-intrusive virtual patches.
+
+1
+Connect
+
+Installs the agent that communicates with the platform via API.
+
+2
+Detect
+
+Starts detecting WordPress-based sites and scans them for vulnerabilities.
+
+3
+Protect
+
+Automates updates installation or applies non-intrusive virtual patches.
+
+Who is WP Guardian for?
+Empower your business with game-changing security for WordPress sites.
+FOR HOSTERS
+FOR MANAGED HOSTING PROVIDERS
+FOR YOUR CUSTOMERS
+FOR RESELLERS
+Pricing
+Select the amount of sites managed
+I need to manage 10 sites
+Sites:	Price:	 
+1	$5/mo	Price per website: $5
+5	$15/mo	Price per website: $3
+10	$25/mo	Price per website: $2.5
+30	$65/mo	Price per website: $2.17
+50	$100/mo	Price per website: $2
+BUY NOW
+More than
+50 sites?
+CONTACT US
+FAQs
+How does WP Guardian work for hosting providers?
+Do you need a control panel to use WP Guardian?
+How can I perform a test?
+Does WP Guardian affect the performance of my sites?
+Where can I find the WP Guardian documentation?
+Is there an API for WP Guardian?
+WP Guardian is an independent product and is not affiliated with or endorsed by the WordPress Foundation.
+Terms of Use
+Privacy Policy
+© 2025 WebPros International GmbH · Vordergasse 59 8200 Schaffhausen · Switzerland
+WP Guardian is an independent product and is not affiliated with or endorsed by the WordPress Foundation.

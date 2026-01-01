@@ -1,0 +1,23 @@
+turns your mailing list into a searchable archive
+Search the archived lists
+Search the archived lists
+Search
+
+Search 190365425 archived postings, 2126 active mailing lists.
+
+Archive your mailing list
+
+Looking for an easy way to turn your mailing list into a searchable archive? Just add The Mail Archive as a member to your mailing list as described in the how-to-guide.
+
+Recently Updated Lists
+gcc-bugs gcc.gnu
+django-updates googlegroups
+python-checkins python
+indology list.indology
+kde-bugs-dist kde
+commits tooling.apache
+notifications superset.apache
+commits pulsar.apache
+issues jena.apache
+github datafusion.apache
+FAQ Support Privacy

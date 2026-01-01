@@ -1,0 +1,174 @@
+Datadog named a Leader in the Gartner® Magic Quadrant™ for Digital Experience Monitoring
+PRODUCT
+CUSTOMERS
+PRICING
+SOLUTIONS
+DOCS
+ABOUT
+BLOG
+LOGIN
+GET STARTED FREE
+AI-Powered Observability and Security
+See inside any stack, any app, at any scale, anywhere.
+FREE TRIAL
+SEE THE PLATFORM
+THOUSANDS OF CUSTOMERS LOVE & TRUST DATADOG
+DASH is Back on June 9-10, 2026
+
+Join thousands of engineers, developers, and security experts in New York City for Datadog's annual conference—two days of hands-on learning, meaningful connections, and new ideas to keep you ahead in observability, security, and AI. Registration opens soon.
+
+SAVE THE DATE
+DevSecOps 성숙도 모델
+Datadog의 성숙도 모델을 사용해 여러분의 DevSecOps 역량을 평가해보세요.
+더 알아보기
+Products
+Infrastructure
+From overview to deep details, fast
+Learn more
+Log Management
+APM
+Security Monitoring
+Network Monitoring
+Synthetic Monitoring
+Real User Monitoring
+Serverless
+READ THE REPORT
+State of Containers and Serverless
+
+We analyze cloud compute trends, from containers to serverless to rising GPU and Arm adoption, as organizations seek efficiency and cost control.
+
+LEARN MORE
+CAREERS
+Join Our Pack
+
+We are building the monitoring and security platform for developers, IT operations teams and business users in the cloud age. And we need talented people like you to join our team.
+
+LEARN MORE
+Want to learn more about Datadog?
+Datadog hosts events both online and in-person. See all that Datadog has to offer by visiting our Events & Webinars hub.
+LEARN MORE
+FREE TRIAL
+
+Download mobile app
+
+PRODUCT
+
+Infrastructure Monitoring
+Network Monitoring
+Container Monitoring
+Serverless
+Cloud Cost Management
+Cloudcraft
+Kubernetes Autoscaling
+Application Performance Monitoring
+Software Catalog
+Universal Service Monitoring
+Data Streams Monitoring
+Data Jobs Monitoring
+Database Monitoring
+Continuous Profiler
+Dynamic Instrumentation
+Log Management
+Sensitive Data Scanner
+Audit Trail
+Observability Pipelines
+Cloud Security
+Cloud Security Posture Management
+Workload Protection
+Cloud Infrastructure Entitlement Management
+Vulnerability Management
+Compliance
+App and API Protection
+Software Composition Analysis
+Code Security
+Static Code Analysis (SAST)
+Runtime Code Analysis (IAST)
+IaC Security
+Cloud SIEM
+Browser Real User Monitoring
+Mobile Real User Monitoring
+Product Analytics
+Session Replay
+Synthetic Monitoring
+Mobile App Testing
+Continuous Testing
+Error Tracking
+CloudPrem
+Internal Developer Portal
+CI Visibility
+Test Optimization
+Feature Flags
+Service Level Objectives
+Incident Response
+Event Management
+Case Management
+Bits AI Agents
+Bits AI SRE
+Metrics
+Watchdog
+LLM Observability
+AI Integrations
+Workflow Automation
+App Builder
+CoScreen
+Teams
+Dashboards
+Notebooks
+Mobile App
+Fleet Automation
+Access Control
+OpenTelemetry
+Alerts
+Integrations
+IDE Plugins
+API
+Marketplace
+Security Labs Research
+Open Source Projects
+Storage Management
+DORA Metrics
+Secret Scanning
+
+RESOURCES
+
+Pricing
+Documentation
+Support
+Services & Enablement
+Product Preview Program
+Certification
+Open Source
+Events and Webinars
+Security
+Privacy Center
+Knowledge Center
+Learning Resources
+
+ABOUT
+
+Contact Us
+Partners
+Press
+Leadership
+Careers
+Legal
+Investor Relations
+Analyst Reports
+ESG Report
+Vendor Help
+Trust Hub
+
+BLOG
+
+The Monitor
+Engineering
+AI
+Security Labs
+ 
+English
+© Datadog 2025
+Terms
+ | 
+Privacy
+ | 
+Cookies

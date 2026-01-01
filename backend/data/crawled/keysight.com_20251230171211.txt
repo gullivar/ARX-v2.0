@@ -1,0 +1,368 @@
+Enable accessibility
+
+귀하의 위치와 관련된 콘텐츠를 보려면 국가 또는 지역을 선택하십시오.
+
+ Korea  
+Contact Us
+Products
+Solutions
+Learn
+Buy
+Support
+Get Quote
+Stream 120 MHz I/Q Data to Your Laptop in the Field
+
+Pinpoint interference with post-processing spectrum management software in the lab.
+
+Meet the New FieldFox
+Validate Faster with Automated Multi-kW Testing
+
+Emulate full-scale satellite and network power conditions before deployment.
+
+Watch the Webinar
+Now You Can Run Fast, Accurate Tests up to 192 kW
+
+Our New High-Density ATE Power Supplies End Trade-Offs Between Test Throughput and Precision
+
+See What's New
+
+Slide 1
+Slide 2
+Slide 3
+
+Design, Emulation, and Test Solutions to Connect and Secure the World
+
+
+Oscilloscopes
+
+Spectrum analyzers
+
+Signal generators
+
+Network emulators
+
+All software
+
+DC power supplies
+
+Network analyzers
+
+Digital multimeters
+
+See Our Latest New Products
+
+Keysight FieldFox Handheld Analyzers
+
+
+Stream 120 MHz I/Q data to your laptop in the field. 
+
+Learn More
+High-Power ATE System Supplies
+
+
+Validate complex multi-kilowatt devices faster in less space with no compromises on performance.
+
+Discover Power Without Compromise
+PNA-X Pro
+
+
+Cut RF test complexity and increase performance with our most integrated network analyzer.
+
+
+Learn More
+Smart Bench Essentials Plus
+
+
+Advance your basic test bench with proven pro-level measurement technologies.
+
+Explore the Products
+Optically Isolated Differential Probe
+
+
+Perform high-side measurements safely and accurately with isolation you can trust.
+
+
+Explore Probe
+Keysight AI (KAI) Data Center Builder
+
+
+Emulate every part of your data center infrastructure using real-world AI workloads.
+
+
+Learn More
+
+Slide 1
+Slide 2
+Slide 3
+Slide 4
+Slide 5
+Slide 6
+
+Let Our Service Be Your Strategic Advantage
+
+Empower your engineers to innovate boldly with strategic services across
+the life cycle.
+
+
+View Services
+Automate Intelligence with Insights Across Your Workflow
+View All Software
+
+EDA software
+
+Instrument software
+
+Software testing
+
+Find Your Solution
+ 
+
+Test EV charging conformance
+
+Emulate EV charging infrastructure to verify standard conformance.
+
+See Test Setup
+Find Your Solution
+ 
+
+Characterize 6G components
+
+Perform S-parameter and wideband modulated measurements.
+
+
+See Test Setup
+Find Your Solution
+ 
+
+Measure RF phase noise
+
+Optimize RF transmissions with direct spectrum measurement.
+
+
+See Test Setup
+
+Slide 1
+Slide 2
+Slide 3
+
+Explore the Next Generation of Technology Innovation
+Discover 6G insights
+
+Explore how 6G technology is changing wireless communications.
+
+Learn More
+Learn with Keysight
+
+Access e-learning for RF design, EDA, 5G, 6G, quantum computing, AV, EV, and test equipment.
+
+Explore Bootcamps
+Explore our events
+
+Join us online or in person at conferences, trade shows, and webinars around the world.
+
+View Calendar
+Read Our Reviews
+
+“Innovation in 5G technology is only possible when working side-by-side with partners like Keysight. Samsung has been at the forefront of 5G modem technology and with Keysight's emulators and test platforms, we are able to quickly develop and evaluate 5G NTN connections using our Exynos Modem development platform.”
+
+Huiwon Je
+Vice President, Modem Development Team
+Samsung Electronics
+
+Read Our Reviews
+
+"We are delighted to have Keysight join the Intel Foundry Services EDA Alliance, enabling a range of RF simulation, design, and test capabilities from which IFS customers will benefit."
+
+
+Rahul Goyal
+Vice President, Product and Design Ecosystem Enablement
+Intel
+
+Read Our Reviews
+
+“Our customers rely on our security solutions to protect them against threats. Keysight’s advanced test, visibility, and security will be welcomed by our customers looking for additional levels of protection.”
+
+Rob Daniels
+General Manager, Portfolio Strategy and Cybersecurity
+BT Security
+
+Read Our Reviews
+
+“We were impressed with Keysight’s ability to thoroughly simulate real-world attack and traffic volume in the lab, helping us to identify and isolate issues quickly.”
+
+Stuart Reid
+Vice President of Engineering
+Corsa Technology
+
+Read Our Reviews
+
+“Working with Keysight enabled us to meet the market demands on early creation and support for testing of NB-IoT devices with a powerful test solution for evaluating IoT device performance, which is particularly in challenging link budget conditions.”
+
+Klas Arvidsson
+Product Manager for OTA Solutions
+Bluetest AB
+
+Slide 1
+Slide 2
+Slide 3
+Slide 4
+Slide 5
+
+Learn what's new at Keysight
+
+Press Release
+
+Keysight Joins Forces with Singapore's Quantum Leaders to Advance Capabilities in the Design and Control of Qubits
+
+Signs a five-year Master Research Collaboration Agreement (MRCA) with Singapore’s leading quantum research institutions to advance capabilities in quantum computing
+
+ 
+
+Press Release
+
+Keysight Accelerates Electronic Design Productivity with Secure AI-Powered Assistants
+
+AI Chat and Copilot virtual assistants empower faster user experience with Keysight’s Advanced Design System software
+
+ 
+
+Press Release
+
+Keysight Accelerates Automotive Innovation from Design to Defense at CES 2026
+
+Showcases a comprehensive ecosystem of automotive design, development, validation, and cybersecurity solutions, demonstrating how automakers and suppliers can accelerate innovation from early design to full-scale deployment
+
+ 
+
+Press Release
+
+Keysight and KT SAT Achieve Industry-First Multi-Orbit NTN Handover Between GEO Satellite and Emulated LEO Link
+
+Live multi-orbit proof-of-concept shows session continuity from a geostationary earth orbit to an emulated low Earth orbit link, validating a core 6G capability
+
+ 
+
+Press Release
+
+Keysight Recognized for Corporate Social Responsibility Efforts
+
+Continued inclusion in World’s Most Sustainable Companies by Time and listed on the JUST 100 Ranking for eighth consecutive year 
+
+ 
+
+Press Release
+
+Keysight Introduces New Handheld Analyzer Enabling 120-MHz IQ Streaming for Gap-Free Signal Capture
+
+High-precision, high-speed architecture delivers the visibility engineers need to navigate increasingly crowded and complex RF landscapes
+
+ 
+
+Press Release
+
+Keysight Technologies Reports Fourth Quarter and Fiscal Year 2025 Results
+
+Robust demand and strong execution deliver above guidance results and strong order growth; Announces New $1.5 Billion Share Repurchase Program
+
+ 
+
+Press Release
+
+Keysight Announces New Board Member
+
+Appoints Keith Jensen as a director, effective immediately.
+
+ 
+
+Press Release
+
+Keysight Introduces Scalable In-Line Flash Programming System for High-Volume Electronics Manufacturing
+
+System scales up to 112 parallel channels to maximize throughput and reduce bottlenecks in high-volume production.
+
+ 
+
+Press Release
+
+Keysight Introduces Scalable, Modular, All-in-One Testing Solution to Accelerate High-Volume PCBA Manufacturing 
+
+Compact, modular system with integrated multi-test capability and up to 20-core parallel testing for high-volume efficiency.
+
+ 
+
+Press Release
+
+Keysight and HEAD acoustics Achieve Successful Interoperability Test for Next Generation eCall Systems 
+
+Collaboration demonstrates end-to-end validation of Next Generation eCall functionality across 4G and 5G networks, supporting global automotive safety standards.
+
+ 
+
+Press Release
+
+Keysight Named a Leader in 2025 Gartner® Magic Quadrant™ for AI-Augmented Software Testing Tools
+
+Gartner evaluates technology providers based on their vision and execution in the rapidly evolving market for AI-driven testing solutions.
+
+ 
+
+Press Release
+
+Keysight Recognized with 2025 TSIA STAR Award for Excellence in Omnichannel Customer Experience Optimization 
+
+Award recognizes Keysight’s leadership in delivering a unified, AI-driven customer support experience that accelerates customer success and satisfaction
+
+ 
+
+ 
+
+More news
+Celebrating A Decade of Innovation
+
+At Keysight, we empower innovators to explore, design, and bring world-changing technologies to life. Our software-centric solutions serve across the design and development environment, enabling you to deliver tomorrow’s breakthroughs at speed and with reduced risk.
+
+Push the boundaries of engineering by quickly solving design, network emulation, and test challenges to create the best product experiences. Improve your design and development process, optimize your network, and harness AI and digital twins to develop new solutions around 5G and 6G, EV and AV, IoT, and quantum computing. With Keysight at your side, forge ahead with confidence knowing your innovations will perform brilliantly in our connected and dynamic world.
+
+
+Play Video
+Work with Us
+
+Keysight is always looking for people who share a passion for technology and innovation to join our team. At Keysight, you’ll work with the foremost experts in test and measurement science from around the world in a culture that embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.
+
+Search Jobs
+
+EXPLORE
+
+Products and Services
+Use Cases
+Solutions
+Keysight Learn
+Used Equipment
+Partners
+
+SUPPORT
+
+Product Support
+Manage Software Licenses
+Product Order Status
+Parts
+
+ABOUT
+
+Newsroom
+Investor Relations
+Quality and Security
+Corporate Social Responsibility
+Modern Slavery Act Transparency Statement
+Careers
+
+FOLLOW US
+
+© Keysight Technologies 2000–2025
+ Privacy
+ Sitemap
+ Terms
+ Trademark Acknowledgements
+ Feedback
+ Accessibility Statement
+United States

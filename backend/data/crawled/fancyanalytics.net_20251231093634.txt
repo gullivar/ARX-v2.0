@@ -1,0 +1,115 @@
+More from FancyInnovations
+Plugins
+FancyNpcs
+FancyHolograms
+FancyDialogs
+Links
+Website
+Docs
+Github
+Discord
+DONATE
+FancyAnalytics 
+BETA
+SERVERS
+PLUGINS
+Introducing ...
+FancyAnalytics
+
+The analytics platform for Minecraft servers and plugins.
+
+"Transforming data into innovation and success."
+
+For server owners
+
+FancyAnalytics enables you to view analytics about your server’s health, activity, efficiency, and stability. You can also customize your metrics to suit your server’s needs. To use FancyAnalytics, you only need to install the FancyAnalytics plugin on your server. You can view your reported data in a custom dashboard on the FancyAnalytics website, which can contain many charts.
+
+Server Health - View your server’s health, including CPU, memory, disk and network usage
+Server Stability - View your server’s stability, including the number of crashes and errors
+Server Activity - View your server’s activity, including player count, loaded chunks and TPS
+Plugin Metrics - View your plugin’s custom metrics, like the number of players in a minigame or the number of created skyblock islands
+
+
+Getting started as a server owner
+Create an account on the FancyAnalytics website
+Install the FancyAnalytics plugin on your server
+Configure the plugin with your API key
+View your server’s metrics on the FancyAnalytics website
+
+
+
+Find a more detailed introduction here
+
+For plugin developers
+
+FancyAnalytics allows you to access detailed analytics about your plugin’s performance, usage, compatibility, and errors. You can also customize your metrics to track specific data that matter to you. To use FancyAnalytics, you only need to shade the FancyAnalytics library into your plugin.
+
+
+
+Plugin Usage - View your plugin’s usage, including the number of servers and players using your plugin
+Plugin Version - View your plugin’s version usage, including the number of servers using each version of your plugin
+Plugin Errors - View your plugin’s errors, including the number of errors and the stack traces of the errors
+Custom Metrics - View your plugin’s custom metrics, like the total number of created skyblock islands over all the servers using your plugin
+Getting started as a plugin developer
+Create an account on the FancyAnalytics website
+Shade the FancyAnalytics API in your plugin
+Include an access token
+View your plugin’s metrics on the FancyAnalytics website
+
+
+
+Find a more detailed introduction here
+
+FAQ
+What is FancyAnalytics?
+Is FancyAnalytics open source?
+How does FancyAnalytics work?
+How can server owners benefit from FancyAnalytics?
+How can plugin developers benefit from FancyAnalytics?
+
+Register now to get access to the beta phase
+
+REGISTER NOW
+Info & Docs
+
+About us
+
+GitHub
+
+Downloads
+
+Docs page
+
+Java SDK
+
+Minecraft plugin
+
+
+
+
+© 2021 - 2025 FancyInnovations
+
+Contact
+
+Discord server
+
+
+
+
+Main developer:
+
+Discord: real_oliver
+
+oliver@fancyinnovations.com
+
+Support us
+
+Buy me a coffee
+
+Spread the word about FancyAnalytics
+
+Contribute to the project
+
+Report bugs
+
+Give feedback

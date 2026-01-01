@@ -1,0 +1,107 @@
+home
+datafeed
+about
+usage
+mirrors
+rss feeds
+help us
+links
+contact
+faq
+
+	
+
+	login | register | lookup uri | submit uri
+ 
+News
+August 10th, 2022: Intra2net testing
+
+Public blacklist testing results cant be found at Intra2net. The numbers are updated weekly.
+
+Here you can compare URIBL and other RHSBL results: URIBL Black vs Spamhaus DBL vs SURBL
+
+
+
+
+
+
+
+
+Old News
+October 8, 2018: Missing new TLDs?
+
+If you are receiving spam with new TLDs such as .ICU, please make sure you are running SpamAssassin v3.4.1 or higher, and have executed an sa-update to get the latest 20_aux_tlds.cf.
+
+[root@mail updates_spamassassin_org]# grep icu 20_aux_tlds.cf 
+no matches
+[root@mail updates_spamassassin_org]# sa-update
+[root@mail updates_spamassassin_org]# grep icu 20_aux_tlds.cf 
+util_rb_tld ice icu id ie ieee ifm ikano il im imamat imdb immo immobilien in inc 
+
+For those that cannot update spamassassin versions, please see old news below April 6, 2015: New TLD Spam for details on how to update your TLDs.
+
+October 9, 2015: Improve URIBL hitrates w/ SMTP delays
+
+As discussed below, the short lived, high-volume campaigns are becoming a new norm to try to avoid RBLs and URIBLs alike. Because real-time blacklist services are mostly reactive in nature, these short high volume campaigns can sneak by 10-30% of the spam run before blacklistings kick in.
+
+A nice tactic to counter these efforts, is to use SMTP delays. By introducing a delay, you allow real-time blacklists a small window for identification and publication of the new information. It will also drop quite a few spam bots which dont want to hang around that long for an SMTP banner. Not all MTA's may have this ability, but if you run Exim, its super easy. Just add to your acl_smtp_connect in /etc/exim.conf
+
+ delay = 60s
+
+Note, this will effectively delay all your incoming mail by 60 seconds, and may increase your SMTP concurrencies, so please monitor accordingly.
+
+In postfix 2.3+ you can inject sleep in your smtpd_client_restrictions to induce some delay, but that will only help DNS lookups that occur after rcpt to: (ie SpamAssassin at queue level). To give delay to connection time RBL lookups prior to EHLO, you will want to move to postfix 2.8+ and use postscreen (greet pause) to accomplish this.
+
+If you have implemented SMTP delays on other MTAs and would like to share them with us, please contact us and let us know.
+
+July 8, 2015: Reduction in list time latency
+
+The spam trend of late has been to use short lived, high-volume campaigns in order to capitalize on the reactive nature of blacklist services. In the past, it could take up to 4 minutes for us to identify, list, rebuild, and syncronize the update. Recent campaigns we have investigated have sent 80-90% of their payload within 3 minutes.
+
+Because of this, we have made a handful of enhancements to improve our identification speed and reduce the list time latency. As a result, we have reduced identification times by up to 100 seconds for new spam campaigns, by improving the speed at which we deliver live query data into our system. All users should see immediate results from these changes.
+
+For Datafeed over DNS users, we have taken this one step further by rolling out a realtime blacklist publication system. This system can reduce list time latency on new spam campaigns by up to 90 seconds, as there is no waiting for rebuilding or resyncronizing of the zone files. Because of this, Datafeed over DNS is now far superior to Datafeed over RSYNC in terms of list time latency. With Datafeed over RSYNC, you will still have to wait for zones to rebuild, and then rsync them from us. If list time latency has an impact on your spam catch rates, you should consider switching from RSYNC over to DNS.   trump@icudp.com
+
+
+June 30, 2015: New TLD Spam (Cont..)
+
+SpamAssassin 3.4.1 uses a new RegistryBoundaries module to support automatic updates of newly released TLDs via a config file (20_aux_tlds.cf) and sa-update. It is recommended that you upgrade to v3.4.1 to allow your SpamAssassin to query blacklist services for domains using these TLDs. If you cannot upgrade from an older version, see the news below about updating just your old RegistrarBoundaries.pm file.
+
+April 6, 2015: New TLD Spam
+
+If you are using SpamAssassin, and are currently receiving spam with new TLDs such as .LINK, .SCIENCE, .CRICKET, .NINJA, .XYZ, .CLICK (and others), it is because those URLs are not being checked against URIBL. In order to lookup these URLs, you will need to upgrade your RegistrarBoundaries.pm.
+
+If you are running a SpamAssassin such as v3.3.2 or v3.4 that uses Util/RegistrarBoundaries.pm vs the new RegistryBoundaries.pm, simply download the updated RegistrarBoundaries.pm provided below and replace the one you currently have installed. Restart spamd (if you run it) for the change to take effect.
+
+Link to RegistrarBoundaries.pm:
+https://uribl.com/tools/RegistrarBoundaries.pm.txt
+
+December 27th, 2012: Datafeed over DNS Available
+
+For those who want to take advantage of datafeed service, but cannot or do not want to setup their own rbl instance, URIBL now offers Datafeed over DNS. If you have been blocked for high query volume, Datafeed over DNS will allow you to resume sending those high volume queries against the public mirrors. For those who currently use public DNS, Datafeed over DNS provides additional zone information not publicly available, a faster refresh rate, and real-time list publication for improved spam accuracy. See Requesting the Data Feed Service for more information.     trump@sarules.com
+
+January 23rd, 2012: Blocked due to excessive queries?
+
+If you are receiving a bounce message saying your email was blocked due to excessive queries, you should contact your email provider, as they have not correctly implemented URIBL lookups. In the event a high volume nameserver is blocked, a 127.0.0.1 response may be received to indicate the nameserver is sending high volume queries. Service providers who have implemented URIBL lookups outside of SpamAssassin should read https://uribl.com/about.shtml#implementation and correctly implement URIBL lookups. Those effected should also read https://uribl.com/about.shtml#abuse for more information. The limits in effect are by nameservers, not individual mailservers, as the DNS requests will be coming from your resolvers.
+
+December 13th, 2011: Heavy Hitter block response change
+
+We have changed the blocked response A record from 127.0.0.255 to 127.0.0.1 per the request of SpamAssassin (bug #6724). This will allow the engine to identify high volume nameservers that we refuse to answer by firing on a new rule which looks for bit 1 set in the response, and not create false positives. Our Abuse page has been updated to reflect this change.
+
+December 1st, 2011: Negative TTL reduction
+
+Today we have lowered our negative TTL cache times from 300 seconds to 60 seconds. For those using the public mirrors for resolution, this will result in a nice increase in spam accuracy on short spam runs, as it will reduce the amount of time your DNS server returns a cached NXDOMAIN response to you after the domain has been listed. For datafeed users, there will be no change, as your zone files do not include SOA entries, which allows full control to customize the SOA settings as needed. It is worth checking into what your ncache-ttl setting is currently set at, and adjusting it as necessary. A ncache-ttl setting of 0 would yeild best results, but higher DNS volumes will result from it.
+
+February 26th, 2009: Heavy Hitter ACL changes
+
+URIBL.COM has recently introduced a Split-horizon DNS system at the root level to restrict queries from heavy hitters. All Positive ACLs (those which previously returned 127.0.0.255) have been disabled and moved into the split-horizon filtering system. People using nameservers that have been ACL'd can still contact URIBL.COM via the web or by email, but DNS resolution to the URIBL lists will timeout. See About->Abuse for more details on testing your nameserver if you suspect your nameserver has been blocked.
+
+January 26th, 2009: Decreased Replication Delay = Increased Accuracy
+
+In an effort to help combat the short spam campaigns, we are in the process of making key changes that will decrease the replication delay for new listings. We have already made changes at the core that allow us to publish the public zone files 3x more often! We have decreased our negative cache time (ncache-ttl) on multi from 600 seconds to 300 seconds. Also, we have asked all public mirrors to increase their polling frequency by more than double. Between these changes, we have effectively reduced the average listing latency for new domains from 6.5 minutes down to just over 2 minutes. Possibly more on this to come! Stay tuned...
+
+
+ 	
+Copyright 2005-2025 URIBL.COM All rights reserved
+Read the License and Disclaimer before using our service..
+webmaster@uribl.com

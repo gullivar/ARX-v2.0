@@ -1,0 +1,330 @@
+1
+
+Don't miss a byte of Chocolatey goodness! Explore our livestream events now!
+
+Main
+Community
+Docs
+Blog
+Install
+ 
+About 
+Product 
+Connect 
+Try It Now
+
+Benefits
+
+Features
+
+Integrations
+
+Pricing
+
+The Package Manager for Windows
+Modern Software Automation
+Schedule A Demo Get Started
+Looking for Packages?
+Trusted by 500+ Companies
+Learn More
+
+Past Event from May 2025
+
+Learn More
+Watch On-Demand
+Subscribe on YouTube
+Follow on Twitch
+Community Chat on Discord
+
+Unwrapping Chocolatey
+
+Is delivering driver updates a pain in the rear? It doesn't have to be, and in this edition of Unwrapping Chocolatey, we’ll show you how to make driver management a treat!
+
+Proactively manage the complete lifecycle
+of your software packages
+
+Packaging Tools
+
+Chocolatey for Business offers Package Creation, Package Internalizer, Package Audit, Package Synchronizer, Self-Service Installer.
+
+"The two things I love the most are Package Builder and Package Internalizer. Both have saved us time and effort to bring the tools in to a non-interconnected area."
+
+Dwight Bragdon
+
+Senior Staff IT Engineer, Qualcomm
+
+Complete Software Management
+
+Chocolatey for Business provides improved security, enhanced productivity features, and enables enhanced visibility.
+
+Chocolatey for Business
+
+Chocolatey for Business (C4B) has helped hundreds of system admins save time, reduce downtime, and accelerate deployment.
+
+Explore Chocolatey for Business
+We wanted to make sure our user experience was seamless. We wanted to provide a service, software, configuration- without user intervention, without restarts...
+
+Chocolatey allowed our engineers to build the products, to build the pipeline and deliver just that.
+
+Ryan de Temple at Yelp
+
+Package Builder
+
+Generate Software Packages in Seconds
+
+Automatically creates high-quality packages in seconds, supporting various installer types and eliminating the time-consuming and inconsistent process of manual package creation.
+
+Package Audit
+
+Comprehensive Software Audit
+
+Gain insights on software installation history, identify out-of-date software, and target package upgrades for the next scheduled maintenance window.
+
+Package Reducer
+
+Automatically Optimize Your Deployments
+
+Optimizes Chocolatey's use of system space by substantially reducing package size and enabling automatic self-cleanup after package installation, resulting in a minimized footprint on endpoints.
+
+Chocolatey Central Management
+
+Real-Time Insights and Deployments
+
+Provides organizational-level software visibility, allowing users to quickly see all software packages and deployments, generate reporting in PDF and Excel formats, and securely manage endpoints, all through an easy-to-use web interface.
+
+Package Internalizer
+
+Convert Community Packages to 100% Offline & Reliable Use
+
+Enables the use of over 7,500 existing Chocolatey packages without relying on external sources, by downloading the package and all its remote resources, recompiling it to use those resources internally, and providing the option to host packages on private internal repositories.
+
+Package Synchronizer
+
+Improve Accuracy & Simplify Software Management
+
+Brings all software installed in Programs & Features under Chocolatey management, ensures accurate inventory, auto-synchronization, and enables consistent management and tracking of all software on a system, even if it doesn't have a native installation visible in system installation.
+
+Seamless Integration
+Chocolatey Integrates with nearly everything, whether through a custom integration or through simple PowerShell/batch scripts.
+See Integrations
+Simple Pricing That Scales
+Chocolatey for Business Annual Subscription Prices
+Number of Windows Servers / Desktops Managed?
+500
+
+Support Type 
+
+No Support
+Standard
+Premium
+
+Custom Packaging 
+
+0
+1
+2
+3
+4
+5
+
+Additional Pricing Options
+
+Non-Profit
+Perpetual
+
+$8,550*/year
+
+500-1,999 Nodes at $17.10 Per Node
+
+Get Started Purchase Now
+What's Included
+
+300-50,000 Nodes
+
+Standard Support
+Intro Call and Demo
+8 Cases Per Month
+2 (Negotiable) Technical Contacts
+Response Times 
+P1: 3 Business Hours
+P2: 6 Business Hours
+P3: 12 Business Hours
+
+* Sales tax / VAT not included, but may be required. Have more questions? Visit our FAQ or reach out.
+
+"Truly a revolutionary solution to a problem that has plagued Windows since inception."
+
+We were looking for an efficient and seamless way to deploy software on servers and workstations without hindering user experience. Chocolatey has definitely helped us a great deal with automated deployments. The package builder is also a great way of creating custom install packages for business-specific software. Overall it has saved us a lot of time and hassle.
+
+THE TRICORE TEAM
+
+Tricore
+
+In the SMB market we just don't have the resources to dedicate an entire FTE to managing a complex configuration management tool. As a result, these types of monumental products tend to fail monumentally. Chocolatey is allowing us to leverage modular DevOps practices in a much more economical way. It’s well worth investing in Chocolatey for Business, which provides the extra tooling we need to realize our DevOps goals faster.
+
+DAVE NEGROTTO
+
+TSenior Manager, IT at The J. Craig Venter Institute
+
+The I.T. department staff at P.R.I.D.E., Inc. were early adopters of Chocolatey and the product had become an integral part of processes. Chocolatey improves our efficiency, increases consistency across workstations, and provides easy access to software that is vital to our engineers daily workflow. Truly a revolutionary solution to a problem that has plagued Windows since inception.
+
+KEITH DAVIS
+
+IT Director at P.R.I.D.E
+
+Chocolatey has gone from a convenience to a necessity. It has helped us automate third party software updates, which has improved end user experiences and our on-site security. It has saved time by reducing the volume of calls to our help desk for simple issues like Flash Player updates, so we can focus on other issues. Chocolatey has helped us wrangle all of the applications we use into one manageable and automation friendly interface.
+
+ALEX MARKESSINIS
+
+Senior Network Administrator at The Sage Colleges
+
+We were looking for an efficient and seamless way to deploy software on servers and workstations without hindering user experience. Chocolatey has definitely helped us a great deal with automated deployments. The package builder is also a great way of creating custom install packages for business-specific software. Overall it has saved us a lot of time and hassle.
+
+THE TRICORE TEAM
+
+Tricore
+
+In the SMB market we just don't have the resources to dedicate an entire FTE to managing a complex configuration management tool. As a result, these types of monumental products tend to fail monumentally. Chocolatey is allowing us to leverage modular DevOps practices in a much more economical way. It’s well worth investing in Chocolatey for Business, which provides the extra tooling we need to realize our DevOps goals faster.
+
+DAVE NEGROTTO
+
+TSenior Manager, IT at The J. Craig Venter Institute
+
+The I.T. department staff at P.R.I.D.E., Inc. were early adopters of Chocolatey and the product had become an integral part of processes. Chocolatey improves our efficiency, increases consistency across workstations, and provides easy access to software that is vital to our engineers daily workflow. Truly a revolutionary solution to a problem that has plagued Windows since inception.
+
+KEITH DAVIS
+
+IT Director at P.R.I.D.E
+
+Chocolatey has gone from a convenience to a necessity. It has helped us automate third party software updates, which has improved end user experiences and our on-site security. It has saved time by reducing the volume of calls to our help desk for simple issues like Flash Player updates, so we can focus on other issues. Chocolatey has helped us wrangle all of the applications we use into one manageable and automation friendly interface.
+
+ALEX MARKESSINIS
+
+Senior Network Administrator at The Sage Colleges
+
+We were looking for an efficient and seamless way to deploy software on servers and workstations without hindering user experience. Chocolatey has definitely helped us a great deal with automated deployments. The package builder is also a great way of creating custom install packages for business-specific software. Overall it has saved us a lot of time and hassle.
+
+THE TRICORE TEAM
+
+Tricore
+
+In the SMB market we just don't have the resources to dedicate an entire FTE to managing a complex configuration management tool. As a result, these types of monumental products tend to fail monumentally. Chocolatey is allowing us to leverage modular DevOps practices in a much more economical way. It’s well worth investing in Chocolatey for Business, which provides the extra tooling we need to realize our DevOps goals faster.
+
+DAVE NEGROTTO
+
+TSenior Manager, IT at The J. Craig Venter Institute
+
+The I.T. department staff at P.R.I.D.E., Inc. were early adopters of Chocolatey and the product had become an integral part of processes. Chocolatey improves our efficiency, increases consistency across workstations, and provides easy access to software that is vital to our engineers daily workflow. Truly a revolutionary solution to a problem that has plagued Windows since inception.
+
+KEITH DAVIS
+
+IT Director at P.R.I.D.E
+
+Chocolatey has gone from a convenience to a necessity. It has helped us automate third party software updates, which has improved end user experiences and our on-site security. It has saved time by reducing the volume of calls to our help desk for simple issues like Flash Player updates, so we can focus on other issues. Chocolatey has helped us wrangle all of the applications we use into one manageable and automation friendly interface.
+
+ALEX MARKESSINIS
+
+Senior Network Administrator at The Sage Colleges
+
+We were looking for an efficient and seamless way to deploy software on servers and workstations without hindering user experience. Chocolatey has definitely helped us a great deal with automated deployments. The package builder is also a great way of creating custom install packages for business-specific software. Overall it has saved us a lot of time and hassle.
+
+THE TRICORE TEAM
+
+Tricore
+
+In the SMB market we just don't have the resources to dedicate an entire FTE to managing a complex configuration management tool. As a result, these types of monumental products tend to fail monumentally. Chocolatey is allowing us to leverage modular DevOps practices in a much more economical way. It’s well worth investing in Chocolatey for Business, which provides the extra tooling we need to realize our DevOps goals faster.
+
+DAVE NEGROTTO
+
+TSenior Manager, IT at The J. Craig Venter Institute
+
+The I.T. department staff at P.R.I.D.E., Inc. were early adopters of Chocolatey and the product had become an integral part of processes. Chocolatey improves our efficiency, increases consistency across workstations, and provides easy access to software that is vital to our engineers daily workflow. Truly a revolutionary solution to a problem that has plagued Windows since inception.
+
+KEITH DAVIS
+
+IT Director at P.R.I.D.E
+
+Chocolatey has gone from a convenience to a necessity. It has helped us automate third party software updates, which has improved end user experiences and our on-site security. It has saved time by reducing the volume of calls to our help desk for simple issues like Flash Player updates, so we can focus on other issues. Chocolatey has helped us wrangle all of the applications we use into one manageable and automation friendly interface.
+
+ALEX MARKESSINIS
+
+Senior Network Administrator at The Sage Colleges
+
+Massive reduction in effort
+Improved speed of deployment
+High reliability
+Comprehensive reporting
+Massive reduction in effort
+Improved speed of deployment
+High reliability
+Comprehensive reporting
+Massive reduction in effort
+Improved speed of deployment
+High reliability
+Comprehensive reporting
+Experience Chocolatey
+Schedule A Demo Get Started
+Signup for the Newsletter!
+Subscribe
+
+Be the first to know about upcoming features, security releases, and news about Chocolatey.
+
+Overview
+About
+Getting Started Guide
+Why Chocolatey
+How Chocolatey Works
+Security
+Privacy Policy
+Kickstarter
+Partner
+Customer Stories
+Terms of Use
+Product
+Solution: Self-Service Anywhere
+Solution: Central Management Deployments
+Solution: Secure Offline Deployments
+Chocolatey for Business
+Pro Edition
+Open Source
+C4B Trial
+Pricing
+Support
+Community Packages
+Events
+Learn
+Resource Library
+Events
+COVID-19 Resources
+Docs
+Videos
+Case Studies
+Courses
+Media Kit
+Sitemap
+Blog
+Connect
+Contact Us
+Support
+Newsletter
+Shop
+Report a Bug
+Status
+Careers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2025 Chocolatey Software, Inc.
+Generated by Statiq
+Deployed from 0b9c56fa
+
+chocolatey.org uses cookies to enhance the user experience of the site.
+
+I accept

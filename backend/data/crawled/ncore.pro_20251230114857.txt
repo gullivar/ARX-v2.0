@@ -1,0 +1,5 @@
+Felhasználónév		
+Jelszó		Jelszó-emlékeztető
+Bejelentkezés kétlépcsős azonosítással
+Csökkentett biztonság	  (Mi ez?)	 
+		[hu] [en]

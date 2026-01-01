@@ -1,0 +1,25 @@
+BlueCows Technical Services - Home BlueCows Technical Services Home Contact Partners Products Services Shop Web Mail Search: Google Search Navigation Home Contact Partners Products Services Shop Web Mail Skip to navigation BlueCows Technical Services BCTS is committed to helping any individual, small business or
+      educational institution excel in today's global network. We specialize
+      in making existing technical infrastructures more productive or building
+      entirely new ones for greater compatibility and potential. Offering a
+      full mesh of services from technical consulting to retail sales, we 
+      strive to provide the system enhancement or knowledge boost needed to
+      keep pace with current and emerging technologies. We are a proud supporter of the Open Source Community and all of
+      our own infrastructure is based on the Debian Linux operating system
+      with Open Source software on Intel and AMD processors. We support several
+      Linux distributions along with Microsoft Windows®, BSD, Solaris,
+      OpenSolaris and MacOS on various hardware platforms. We also support
+      and engineer Cisco-based networks. We can help you with most of your Open Source technical needs, from
+      a simple explanation of a technical term, to the hardware, software,
+      support and information necessary to build or rebuild an entire network
+      or server farm. Please visit our Contact page to ask
+      a question or tell us your current technical needs. In many cases we
+      will be able to assist you at absolutely no charge. If a request for
+      technical support should go beyond the scope of our free offerings or
+      require long-term commitment, a support specialist will help you get
+      set up with an affordable Platinum Support plan for your organization.
+      Please visit the Products page for more
+      information. Consulting, remote system administration, network engineering and
+      network monitoring projects are also available for reasonable rates.
+      Please consult our Services information
+      for a fee schedule. Technologies & Solutions As a modern Managed Service Provider (MSP), we deliver comprehensive IT solutions across multiple platforms and technologies: Cloud & Infrastructure AWS, Azure, Google Cloud VMware & Hyper-V Virtualization Docker & Kubernetes Infrastructure as Code (Terraform, Ansible) Hybrid Cloud Architecture Security & Compliance Zero Trust Network Access SIEM & Security Monitoring Endpoint Detection & Response Penetration Testing SOC 2, HIPAA, PCI-DSS Compliance Collaboration & Productivity Microsoft 365 Administration Google Workspace Slack & Microsoft Teams VoIP & Unified Communications Video Conferencing Solutions Backup & Disaster Recovery Automated Cloud Backups Business Continuity Planning Disaster Recovery as a Service Data Replication & Redundancy Ransomware Protection Monitoring & Management 24/7 Network Monitoring Remote Management & Maintenance Patch Management Performance Optimization Help Desk Support Operating Systems & Platforms Linux (Ubuntu, Debian, RHEL, Rocky) Windows Server 2016-2025 macOS & iOS Management BSD & Unix Systems Network Appliances (Cisco, Ubiquiti) Links Skip to navigation Please check out our partner specials Partner advertising space available BlueCows Technical Services 11279 Lawrence 2150, Mount Vernon, Missouri, 65712-8352 Email: support@bluecows.com | Web: www.bluecows.com Copyright © 2004-2026 BlueCows Technical Services. All Rights Reserved.

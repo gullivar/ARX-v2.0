@@ -1,0 +1,16 @@
+Emulab.Net - Emulab Toggle navigation Log In Docs Request an Account A time- and space-shared platform
+	  for research, education, and development in distributed systems and
+	  networks. Emulab's primary goals are ease of use, control, and
+	  realism, achieved through consistent use of virtualization
+	  and abstraction. Emulab is a network testbed, giving researchers a wide range of
+      environments in which to develop, debug, and evaluate their systems.
+      The name Emulab refers both to a facility and to a software system .
+      The primary Emulab installation is run
+      by the Flux Group , part of the School of Computing at the University of Utah .
+      There are also installations of the Emulab software at more than two
+        dozen sites around the world, ranging from testbeds with a handful
+      of nodes up to testbeds with hundreds of nodes.
+      Emulab is widely used by computer science researchers in the fields of networking and
+      distributed systems.
+      It is also designed to support education , and has been used to teach
+        classes in those fields. Emulab Wiki How to Get Started Acceptable Use Policy Administrative Policies Security Policies Hardware Overview of the Utah cluster What happened to the old Emulab? Cluster Status Active Experiments: 24 Type Free % Inuse d430 98 39% inuse d710 53 67% inuse d820 6 63% inuse dl360 0 100% inuse nuc8259 2 0% inuse pc3000 89 43% inuse Activity Projects 1586 Users 5199 Profiles 2846 Experiments 101607 Looking for the old Emulab frontpage?

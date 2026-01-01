@@ -1,0 +1,103 @@
+Home Games
+Our Games
+Web Game Archive
+Blog Watch Support
+Account
+Sign In Register Account
+Submit a Request
+Home Our Games Web Game Archive Blog Watch Support
+Sign In Register Account Submit a Request
+Support
+Ninja Kiwi
+General
+General
+Common Issues - Network Unavailable / Please Check Your Connection
+Alan
+1 year ago
+Updated
+
+ 
+
+The most common reasons for seeing a network connection error is due to our domains being blocked by Firewalls, Parental Controls or DNS level filtering. Depending on the game you may see a message such as: 
+
+- Connection Issue
+
+- Unavailable
+
+- Please check your internet connection and try again....
+
+- Loading game data...
+
+- Requires internet connection
+
+- Unleashing Monkey Sun God....failed
+
+ 
+
+⚠️ EduRoam & University Wifi ⚠️
+
+Recently we've been made aware that one of our domains "nkstatic.com" has been flagged by a number of Universities and Colleges. If you are using Eduroam or a network connection provided by your institution, please ask your network operator to ensure that the following domains (and all sub-domains) are not blacklisted as this will cause our games to fail. 
+
+- ninjakiwi.com
+
+- nkstatic.com
+
+ 
+
+DNS blocking
+
+Below is a table of the most common domain names used by Ninja Kiwi games. Please ensure that you can access each domain. It's normally best to use a program such as nslookup (windows) or dig (macos) to ensure that you are able to resolve these domain. You can also try clicking the "test" links below to ensure that you can load the domain through your browser.
+
+- api.ninjakiwi.com [test]
+
+- moab.ninjakiwi.com [test]
+
+- analytics.ninjakiwi.com [test]
+
+- guts.ninjakiwi.com [test]
+
+- static-api.nkstatic.com [test]
+
+- priority-static-api.nkstatic.com [test]
+
+- btd6-assets.nkstatic.com [test]
+
+- bundles.nkstatic.com [test]
+
+ 
+
+Parental Controls
+
+Some mobile platforms have parental controls which limit which domains can be accessed. This can cause issues with our games if they are not able to access the domains. 
+
+We find that the most common issue is due to Apple's iOS Parental controls. You can read up about how to Use Parental Controls on Apple's website. Normally it's enough to whitelist the following domains
+
+- ninjakiwi.com
+
+- nkstatic.com
+
+ 
+
+Firewall 
+
+Some firewalls will block our game clients from communicating with our services. Loading the domains in a web browser will succeed because that browser has been put on an allow list in the past. This sometimes makes it tricky to diagnose why you can't connect. 
+
+ 
+
+We recommend that you whitelist the game executable manually. The method of whitelisting and the exact locations of the game executable can change depending on the device but in general you can find the game folders here:
+
+- Steam - C:\Program Files (x86)\Steam\steamapps\common
+
+- Epic - C:\Program Files\Epic Games
+
+Need more help? Submit a ticket here
+Articles in this section
+How to redeem a code in Bloons TD 6! Common Issues - Network Unavailable / Please Check Your Connection Open Data API How do I cancel in-app purchase subscriptions? Can't download a game: Error Code 18 or 963 or 907 I've purchased an item but didn't receive it. What should I do if I encounter a hacker? I've lost my data! Can I sync my game data between the web and mobile versions of the games? I have more than one device, can I play with the same save on both?
+Games|
+Blog|
+Watch|
+Community|
+Support
+Terms | Privacy
+
+2020 Ninja Kiwi Ltd.

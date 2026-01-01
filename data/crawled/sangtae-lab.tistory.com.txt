@@ -1,0 +1,47 @@
+ 
+상태의 연구소
+search
+close
+
+상태의 연구소
+
+github: @denev6
+
+분류 전체보기 (27)
+Robot (10)
+Robotics (0)
+Reinforcement Learning (3)
+Deep Learning (1)
+Computer Vision (3)
+Computer Network (2)
+Generative AI (1)
+Paper (0)
+Programming (7)
+C,C++ (7)
+python (0)
+ROS2 (0)
+pytorch (0)
+프로젝트 (4)
+6족보행로봇 프로젝트 (4)
+이모저모 (5)
+생각 정리 (0)
+독후감 (5)
+홈
+[Deep Learning] 기초 개념 정리
+
+Weight Initialization가중치를 어떻게 초기화하냐도 중요한 문제인데, 0으로 초기화하는 경우, 모델이 동일한 특징(symmetry feature)에 집중할 수 있어, 0으로 일괄적으로 초기화하는 것은 좋지않다. 따라서, 특정 initialization 방법을 사용하는게 좋다. Xavier initialization은 가중치 초기화시 in_features와 out_features를 모두 고려한 방식이며, He initialization은 in_features만을 고려한 방식이다. nn.Linear : pytorch에서는 in_features 수를 활용한 uniform distribution 활용 (bias도 똑같이 함)nn.Conv2d : ​He initialization에서는 in_feat..
+
+format_list_bulleted Deep Learning · 2025. 11. 14.
+[Generative AI] VAE
+
+Intro나는 로봇지능에 관심이 많기 때문에 생성형 AI, Representation learning과 같은 것들은 나랑 거리가 뭔 컴공님들이 하는 것들인 줄 알았다. 하지만 최근에 비디오를 통한 로봇학습이 많이 이루어지고 있는데 이때 작업에 대한 Representation을 뽑는 방법으로 생성형 AI 기법 혹은 contrastive learning과 같은 self-supervised learning 방식이 많이 사용되고있다. 피상적으로 이해하고 있던 것들이었는데 대학원 진학을 결심해서 이번 기회에 제대로 이해해보고자한다. 생성형 AI 계보가 VAE에서 시작하고, 비슷한 증명과 같은 것들을 DDPM에서 본 거 같아 아마 잘 공부해놓으면 유용하지싶다. 또한 Groot N1 논문을 읽는데 VQ-VQE를 사용..
+
+format_list_bulleted Generative AI · 2025. 11. 5.
+[Computer Network] TCP/UDP
+
+TCP IntroductionTCP통신은 신뢰할 수 있는 통신을 위한 연결형 프로토콜이다. TCP통신은 세그먼트가 제대로 전송이 안됐으면 이를 파악해 다시 보내기도하며, 요청이 너무 많으면 전송량을 조절하는 혼잡제어도 수행하며, 처리할 수 있는 만큼의 데이터를 주고 받을 수 있도록 흐름제어도 수행한다.TCP통신은 프로토콜이기에 데이터가 구성되어져있는 형식이 존재한다. 형식은 아래와 같다. TCP헤더가 총 20byte로 이루어져있고, 나머지는 데이터로 이루어져있다. TCP프로토콜을 구성하는 Sequence number, Acknowledgement number, control bits, window등에 대해서 알아야한다.데이터를 한 번에 다 보낼 수 없기때문에 분할해서 보내는데 각각의 요소를 세그먼트라고 ..
+
+format_list_bulleted Computer Network · 2025. 10. 18.
+[Computer Network] HTTP/TLS/HTTPS
+
+DNS(Domain Name System)네트워크상의 어떤 호스트를 특정하기 위해서는 IP주소를 사용한다. 하지만 브라우저에서 특정 웹사이트에 접근하기위해 해당 사이트의 IP주소를 외우고 있는 것은 상당히 번거로운 일이다. 따라서, IP주소의 별명과 같은 도메인 네임을 사용하고, 도메인 네임을 관리하는 시스템이 DNS이다. 내 컴퓨터에서 www.google.com에 접속한다고 가정하자

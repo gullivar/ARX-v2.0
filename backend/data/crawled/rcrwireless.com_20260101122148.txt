@@ -1,0 +1,106 @@
+RCR Wireless News - Intelligence on All Things Wireless | RCR Wireless News Facebook Linkedin RSS Twitter Youtube Subscribe News Channels 5G 5G Testing 6G AI Infrastructure IoT Network Infrastructure Open RAN Private 5G Telco AI Telco Cloud Resources Reports White papers Webinars AI Fundamentals Fundamentals 5G NR Release 17 5G Testing 6G AI Open RAN Private Networks Podcasts Let’s Get Digital with Carrie Charles Wireless Connectivity to Enable Industry 4.0 for the Middleprise Well Technically… Will 5G Change the World Accelerating Industry 4.0 Digitalization Qualcomm 5G Insights Qualcomm – Going Beyond 5G Huawei Content Hub Programs Events RCRtv Search RCR Wireless News Intelligence on all things wireless. Search Subscribe Advertise/Sponsor Rss Facebook Twitter Linkedin Youtube Subscribe Advertise/Sponsor Editorial Calendar White Papers Analyst Angle Rss Facebook Twitter Linkedin Youtube RCR Wireless News Intelligence on all things wireless. News Channels 5G 5G Testing 6G Carriers IoT Network Infrastructure Open RAN Private 5G Sustainable Networks Telco AI Telco Cloud Resources Reports Webinars White papers AI Fundamentals Analyst Angle Deep Dive Cloud RAN Deep Dive Telco AI Deep Dive Editorial Calendar Fundamentals 5G NR Release 17 AI Telco AI in 2025 Podcasts Let’s Get Digital with Carrie Charles Wireless Connectivity to Enable Industry 4.0 for the Middleprise Well Technically… Will 5G Change the World Accelerating Industry 4.0 Digitalization Events AI Infrastructure Telecom RCRtv Programs YOU ARE AT: RCR Wireless News - Intelligence on All Things Wireless Qualcomm 5G Insights Qualcomm – 6G Blueprint Huawei Content Hub AI Infrastructure Newsletter Qualcomm 5G Insights Qualcomm – 6G Blueprint Huawei Content Hub AI Infrastructure Newsletter News Telco AI Telco AI startups to watch Christian de Looper - December 22, 2025 Telco AI HCLTech acquires HPE telco unit AI-Machine-Learning Ookla on the network trends shaping 2026 AI Infrastructure AI infrastructure predictions round-up — what 2026 will demand RCRtv Ericsson on the convergence of AI, cloud and connectivity Cohere Technologies is working to deliver on 6G today GSMAi on the state of NTNs RCRtv RCRtv Ericsson on the convergence of AI, cloud and connectivity RCR Wireless News Telco AI Telco AI startups to watch Christian de Looper - December 22, 2025 There are plenty of exciting new startups to keep an eye on
+
+
+
+The telco AI sector is going through massive growth. According to a Presedence Research report, while representing a $2.66 billion market today, the telco AI market is projected to reach $50.21... Read more Telco AI HCLTech acquires HPE telco unit Christian de Looper - December 19, 2025 HCLTech moves toward a future of AI-driven growth
+
+
+
+In sum - what we know:
+
+
+
+
+The deal - HCLTech acquires HPE's Telco Solutions business for up to $160 million, absorbing 1,500 specialists across 39 countries and IP serving over 1 billion devices.
+
+
+
+An AI... Read more AI-Machine-Learning Ookla on the network trends shaping 2026 RCR Wireless News - December 19, 2025 How does Ookla expect networks to evolve in 2026 to support new applications, devices, and usage patterns?
+
+
+
+RCR Wireless News spoke with Kerry Baker, who leads Ookla’s research and content efforts in North America, to learn more about how networks... Read more AI Infrastructure AI infrastructure predictions round-up — what 2026 will demand RCR Wireless News - December 19, 2025 Predictions from Zayo, Digital Infrastructure, and Mission Critical Group about what to expect from AI infrastructure in 2026
+
+
+
+As AI workloads scale and infrastructure cycles compress, the pressure on networks, power systems, and physical deployment models is intensifying. By 2026,... Read more Network Infrastructure Seven geospatial breakthroughs reshaping telecom networks (Reader Forum) Jesse Lynch, Senior Manager of Partnerships and Alliances, Ocient - December 19, 2025 Geospatial analytics is now a strategic asset for network planning, customer insights, and AI-driven operations
+
+
+
+In the race to deliver faster, smarter, and more resilient networks, CSP and telco leaders are finding a powerful ally in geospatial innovation. Once used... Read more AI-Machine-Learning 2026 predications — from Enea John Hughes, Head of Network Security, Enea - December 19, 2025 A forward-looking snapshot from Enea of the trends, tensions, and technologies set to shape the year ahead
+
+
+
+As telecom heads into 2026, several themes are converging: satellite connectivity moving into the mainstream, AI shifting from customer-facing tools into core network... Read more AI-Machine-Learning How will your company be noticed at CES 2026 over AI noise? (Analyst Angle) Jeff Kagan - December 19, 2025 The pace of change, thanks to AI, is breathtaking at CES 2026
+
+
+
+CES 2026 is coming quickly. This time around, things will be very different thanks to AI. With all the noise and chaos, just getting noticed will be tougher... Read more AI-Machine-Learning The mobile core’s dynamic future: AI, edge, disaster protection, and non-terrestrial networks (Reader Forum) Joachim Ungruh, Head of Core Portfolio Management, Cloud and Network Services, Nokia - December 19, 2025 2026 promises to be a pivotal year across four key technologies in the mobile core — AI, edge access, disaster protection, and non-terrestrial networks
+
+
+
+When T-Mobile US launched the world’s first nationwide 5G Standalone (5G SA) network in 2020, followed... Read more Analyst Angle Wi-Fi 2026 predictions: What to expect in the year ahead (Analyst Angle) Adlane Fellah - December 19, 2025 The intersection of AI and Wi-Fi will be the dominant theme in 2026 and beyond
+
+
+
+As 2025 draws to a close, I had the opportunity to speak with three of the most influential voices shaping the future of Wi-Fi technology:... Read more 6G 2026 6G predictions from Keysight (Reader Forum) Jessy Cavazos, 6G Solutions Expert, Keysight Technologies - December 19, 2025 6G is expected to embed intelligence and sensing directly into the radio layer
+
+
+
+The transition from 5G to 6G is about much more than just faster speeds. It will fundamentally change how networks are designed, operated, and monetized. 6G is... Read more Test & Measurement Year in review: Test & Measurement’s top stories Sulagna Saha - December 18, 2025 As the year winds down, here’s a look back at some of the leading stories covering the biggest highlights of test and measurement in 2025
+
+
+
+2025 was a momentous year. Not in the same way every year feels in retrospect... Read more Telco AI How “sovereign AI” could shape telecom Christian de Looper - December 17, 2025 Nations will continue to build out AI infrastructure, with telcos at the center
+
+
+
+Artificial intelligence is becoming a core pillar of economic competitiveness, national security, and daily life. That reality is prompting governments worldwide to rethink their reliance on foreign... Read more AI-Machine-Learning Wi-Fi in the AI era: Can seamless and secure coexist? (Reader Forum) D Matthew Landry, VP of Product Management, Cisco Wireless - December 17, 2025 Navigating the complexity of Wi-Fi connectivity with dynamic segmentation for user-friendly wireless access
+
+
+
+In the AI era, both the demand for connectivity and the diversity of connectivity needs are expanding dramatically. Organizations must now support a wide spectrum of users... Read more Analyst Angle Thoughts on Verizon growth under new CEO Dan Schulman (Analyst Angle) Jeff Kagan - December 17, 2025 New Verizon CEO Dan Schulman is very busy reinventing the company
+
+
+
+Something is starting to happen at Verizon, and so far, while it is still very early, I like what I am seeing. Historically, Verizon has always seemed to battle... Read more 5G Why agile platforms, not rebuilds, are key to telecom transformation (Reader Forum) Harris S. Razak, President, Americas, Circles - December 17, 2025 According to a recent report,  75% of telco CEOs believe legacy IT systems hinder rapid innovation
+
+
+
+The telecommunications industry is undergoing significant change. Connectivity is increasingly commoditized, 5G is broadly deployed, and 6G is on the horizon. Yet revenue... Read more 6G Despite the hype, 6G’s AI impact remains uncertain Catherine Sbeglia Nin - December 17, 2025 The results of a recent IEEE survey indicates that 6G remains more of a research topic than a near-term business priority
+
+
+
+The Institute of Electrical and Electronics Engineers (IEEE) recently conducted a survey of tech leaders about the impact of... Read more Test & Measurement Cellular beats Wi-Fi in most US airports: Ookla report Sulagna Saha - December 17, 2025 Mobile services offer flyers much better speed than airport Wi-Fi — sometimes reaching up to 2x the performance
+
+
+
+In sum — what to know:
+
+
+
+Cellular outperforms Wi-Fi in U.S. airports: Ookla found that in a majority of U.S airports, cellular is... Read more Private 5G “Ask if they’ve deployed at scale” – Ericsson pushes back on private 5G challengers James Blackman - December 17, 2025 As private 5G matures, Ericsson highlights convergence as a key enterprise theme: bringing together dedicated private networks and neutral-host indoor coverage; the firm also pushes back against claims that its telco heritage leaves it out of step with enterprise... Read more Sponsored Hybrid home gateways for a mission-critical world James Chen, MediaTek Vice President of Product and Technology Marketing - December 17, 2025 In a world where everything is mission-critical, no one can afford a failed connection
+
+
+
+Every access technology fails — fiber cuts, power outages, overloaded 5G cells. Further, user expectations have changed; home connectivity today is mission-critical: remote work, school assignments,... Read more Podcast TrueMetal™ and True Innovation: Jeremy Pease on Redefining Custom Infrastructure Carrie Charles - December 17, 2025 In this episode, Jeremy Pease, CEO of Hivelocity, shares how a non-traditional path from teenage tech enthusiast to data center executive led him to the forefront of edge infrastructure innovation. From skipping college to coding at Microsoft and rising... Read more AI Infrastructure Dell Technologies and AMD deliver telecom infrastructure for the AI-era RCR Wireless News and Dell Technologies and AMD Sponsored - December 17, 2025 Combining Dell’s hardware, software, services and ecosystem with AMD’s advanced CPUs and GPUs, CSPs can build a future-ready foundation to capitalize on AI 
+
+
+
+Communications service providers (CSPs) operate networks that power the world’s digital data flow. Now that the initial... Read more Telco AI How telcos can use AI to predict and prevent customer churn Christian de Looper - December 16, 2025 Customer churn remains a huge issue for telcos. Could AI actually help?
+
+
+
+Customer churn remains one of the telecom industry's most persistent and expensive problems. Annual churn rates typically land somewhere between 15–30%, with prepaid markets seeing even higher turnover... Read more Telco AI Privacy vs innovation: How will telcos manage data in the AI era? Christian de Looper - December 16, 2025 AI represents a big opportunity for telcos, who already have access to huge troves of data
+
+
+
+Telecommunication companies are sitting on some of the most valuable data in any industry. As AI becomes more embedded in network operations, fraud detection,... Read more Fundamentals Three scenarios for global 6 GHz adoption — always ‘a degree of fragmentation’ Catherine Sbeglia Nin - December 16, 2025 Global 6 GHz harmonization will be a key determinant of Wi-Fi 8’s performance, adoption curve, and competitiveness
+
+
+
+The 6 GHz band (5925–7125 MHz) has become the defining spectrum layer for next-generation Wi-Fi, enabling the performance, reliability, and intelligence required for... Read more Reader Forum Connectivity at a crossroads: Why the industry must get AI right (Reader Forum) Ryan Serpan, Executive Head of Customer Experience, Blend - December 16, 2025 When AI falters in telecom, the ripple effects extend across entire economies
+
+
+
+The telecom industry stands at a defining moment for AI-driven transformation. Whileevery sector experiments with AI, telecom operators face uniquely high stakes:networks form society's digital backbone, yet customers... Read more Editorial Reports Industrial Wireless Market Pulse Report Editorial Report: Building an AI-ready infrastructure from the data center to the edge Market Pulse Report: Open RAN in 2026 White Papers ENEA White Paper: Why Open Gateway/CAMARA Isn’t Plug-and-Play for MNOs Quectel White Paper: What are the advantages of using an end-to-end IoT solutions provider? GSMA Case Study: How GSMA Device Check provides Alomobile’s customers with confidence in their second hand devices Webinars Webinar: AI infrastructure as a growth catalyst for telco operators GSMA Webinar: Branded Calling – Building Trust in Telco Communications Webinar: Global 6 GHz spectrum policy and the outlook for Wi-Fi 8 SureCall Webinar: Redefining Enterprise DAS: Solving In-Building Challenges with Hybrid Fiber GSMA Webinar: The Programmable Network: API-Driven Value for the Entire Ecosystem ABOUT US Since 1982, RCR Wireless News has been providing wireless and mobile industry news, insights, and analysis to mobile and wireless industry professionals, decision makers, policy makers, analysts and investors. FOLLOW US Rss Facebook Twitter Linkedin Youtube © 2025 RCR Wireless News Powered by Eight Hats Subscribe About RCR Wireless News Contact Us Advertise Editorial Calendar Archive RSS Wireless News Archive

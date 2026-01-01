@@ -1,0 +1,11 @@
+Your web app is running and waiting for your content
+Your web app is live, but we don’t have your content yet. If you’ve already deployed, it could take up to 5 minutes for your content to show up, so come back soon.
+Supporting Node.js, Java, .NET and more
+
+Haven’t deployed yet?
+Use the deployment center to publish code or set up continuous deployment.
+Deployment center
+
+Starting a new web site?
+Follow our Quickstart guide to get a web app ready quickly.
+Quickstart

@@ -1,0 +1,1189 @@
+Red Canary: Find and stop cyber threats anywhere Skip Navigation Get a Demo Products Solutions Resources Why Red Canary Company Get a Demo 2022 Threat Detection Report PDF 2022 Executive Summary PDF Intro Past Reports Threats Techniques Introduction Ransomware Supply Chain Compromises Vulnerabilities Affiliates Crypters-as-a-Service Common Webshells User-Initiated Initial Access Malicious macOS Installers Remote Monitoring and Management Abuse Linux Coinminers Abusing Remote Procedure Calls Defense Validation and Testing Top Threats Rose Flamingo Silver Sparrow Bazar Latent Threats Cobalt Strike Impacket SocGholish Yellow Cockatoo Gootkit BloodHound Top Techniques Command and Scripting Interpreter Signed Binary Proxy Execution Windows Management Instrumentation OS Credential Dumping Ingress Tool Transfer Process Injection Scheduled Task/Job Obfuscated Files or Information Masquerading Hijack Execution Flow Impair Defenses The Red Canary Difference Atomic Red Team Integrations Our partners Named a leader in MDR &#160BY DOMAIN Identity Protect users and SaaS apps Email Stop BEC and phishing Endpoint Stop ransomware and malware Cloud Protect multicloud environments &#160BY TECHNOLOGY</span><ul class="menu"><li class="menu-item "> <a href="/integrations/microsoft-security/" >Microsoft</a></li><li class="menu-item "> <a href="/integrations/crowdstrike/" >CrowdStrike</a></li><li class="menu-item "> <a href="/integrations/sentinelone/" >SentinelOne</a></li><li class="menu-item "> <a href="/integrations/vmware-carbon-black/" >Carbon Black</a></li><li class="menu-item "> <a href="/integrations/palo-alto-networks/" >Palo Alto Networks</a></li><li class="menu-item "> <a href="/integrations/aws-cybersecurity/" >AWS</a></li><li class="menu-item "> <a href="/integrations/gcp-cybersecurity/" >Google</a></li><li class="menu-item "> <a href="/solutions/kubernetes-and-linux-security/" >Linux & Kubernetes</a></li></ul></div><div class="column"> <span class="label">&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160By Industry</span><ul class="menu"><li class="menu-item "> <a href="/solutions/industry/financial-services/" >Financial Services</a></li><li class="menu-item "> <a href="/solutions/industry/healthcare/" >Healthcare</a></li><li class="menu-item "> <a href="/solutions/industry/technology-industry/" >Technology</a></li><li class="menu-item "> <a href="/solutions/industry/manufacturing-services/" >Manufacturing</a></li><li class="menu-item "> <a href="/solutions/industry/education/" >Education</a></li><li class="menu-item "> <a href="https://redcanary.com/solutions/industry/state-and-local-government/" >Government</a></li></ul></div></div> <a data-bg="https://redcanary.com/wp-content/uploads/2024/05/product-cta4.jpg" class="dropdown-cta-box rocket-lazyload" href="/resources/webinars/identity-theft-is-not-a-joke-how-to-detect-business-email-compromise/" style=""><p><b>On-demand Webinar</b><br><br>How to detect business email compromise</p> <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 45.2 22.3" style="enable-background:new 0 0 45.2 22.3;" xml:space="preserve"> <polygon points="38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 "/> <rect class="st3" x="2.2" y="9.8" width="37" height="3"/> </svg> </a></div><div class="dropdown column-1 arrow-left has-cta" id="dropdown-resources" data-menuitem="resources" style="right: 400px;"><div class="columns-wrapper cols-1"><div class="column"><ul class="menu"><li class="menu-item "> <a href="https://redcanary.com/resources-center/category/blog/" >Blog</a></li><li class="menu-item "> <a href="https://redcanary.com/resources-center/category/guides-&-overviews/" >Guides & Overviews</a></li><li class="menu-item "> <a href="https://redcanary.com/resources-center/category/case-studies/" >Case Studies</a></li><li class="menu-item "> <a href="https://redcanary.com/resources-center/category/videos/" >Videos</a></li><li class="menu-item "> <a href="https://redcanary.com/resources-center/category/webinars/" >Webinars</a></li><li class="menu-item "> <a href="/cybersecurity-101" >Cybersecurity 101</a></li><li class="menu-item "> <a href="/resources/?type=events" >Events</a></li><li class="menu-item "> <a href="https://docs.redcanary.com/" target="_blank">Documentation</a></li><li class="menu-item "> <a href="/demo-video-hub/" >Demo Video Hub</a></li><li class="menu-item "> <a href="https://redcanary.com/resources-center/" >View All Resources</a></li></ul></div></div> <a data-bg="https://redcanary.com/wp-content/uploads/2025/03/TDR-nav-feature-background2.jpg" class="dropdown-cta-box rocket-lazyload" href="https://redcanary.com/threat-detection-report/" style=""><p><b>2025 Threat Detection Report</b><br><br>Read our latest analysis of security trends and the rise of identity-based threats.</p> <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 45.2 22.3" style="enable-background:new 0 0 45.2 22.3;" xml:space="preserve"> <polygon points="38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 "/> <rect class="st3" x="2.2" y="9.8" width="37" height="3"/> </svg> </a></div><div class="dropdown column-1 arrow-right has-cta" id="dropdown-company" data-menuitem="company" style="right: 85px;"><div class="columns-wrapper cols-1"><div class="column"><ul class="menu"><li class="menu-item "> <a href="/company/" >About Us</a></li><li class="menu-item "> <a href="/news-events/" >News & Press</a></li><li class="menu-item "> <a href="/careers/" >Careers - We're Hiring!</a></li><li class="menu-item "> <a href="/trust-center/" >Trust Center and Security</a></li></ul></div></div> <a data-bg="https://redcanary.com/wp-content/uploads/2024/05/product-cta4.jpg" class="dropdown-cta-box rocket-lazyload" href="/contact-us/" style=""><p><b>Contact Us</b><br><br>How can we help you?</p> <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 45.2 22.3" style="enable-background:new 0 0 45.2 22.3;" xml:space="preserve"> <polygon points="38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 "/> <rect class="st3" x="2.2" y="9.8" width="37" height="3"/> </svg> </a></div><div class="dropdown column-1 arrow-right " id="dropdown-beats" data-menuitem="beats" style="right: 305px;"><div class="columns-wrapper cols-1"><div class="column"><ul class="menu"><li class="menu-item "> <a href="/threat-sounds/" >Liner Notes</a></li><li class="menu-item "> <a href="/threat-sounds/#side1" >Side 1: Trends</a></li><li class="menu-item "> <a href="/threat-sounds/#side2" >Side 2: Threats</a></li><li class="menu-item "> <a href="/threat-sounds/#bonus" >Bonus Tracks: Techniques</a></li></ul></div></div></div><div class="dropdown column-2 arrow-left has-cta" id="dropdown-products" data-menuitem="products" style="right: 400px;"><div class="columns-wrapper cols-2"><div class="column"><ul class="menu"><li class="menu-item "> <a href="/products/managed-detection-and-response/" >Managed Detection and Response<span class="subtext">Find and stop threats 24x7 across your IT environment</span></a></li><li class="menu-item "> <a href="/products/ai-agents/" >AI Agents<span class="subtext">Unlock speed and expertise at scale</span></a></li><li class="menu-item "> <a href="/products/threat-intelligence/" >Threat Intelligence<span class="subtext">Improve operations with research, insights, and threat hunting</span></a></li><li class="menu-item "> <a href="/products/automation/" >Automation<span class="subtext">Respond faster with customizable, easy-to-use playbooks</span></a></li></ul></div><div class="column"><ul class="menu"><li class="menu-item "> <a href="/products/security-data-lake/" >Security Data Lake<span class="subtext">Cut log storage spend while boosting security</span></a></li><li class="menu-item "> <a href="/products/managed-phishing/" >Managed Phishing Response<span class="subtext">Respond to every reported phishing email</span></a></li><li class="menu-item "> <a href="/products/cybersecurity-readiness/" >Training & Tabletops<span class="subtext">Prepare for cybersecurity incidents with interactive experiences</span></a></li><li class="menu-item "> <a href="/products/new-features/" >What's New<span class="subtext">Check out our latest capabilities</span></a></li></ul></div></div> <a data-bg="https://redcanary.com/wp-content/uploads/2024/05/product-cta4.jpg" class="dropdown-cta-box rocket-lazyload" href="/pricing/" style=""><p><b>Plans</b><br><br>Packages for companies of every size</p> <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 45.2 22.3" style="enable-background:new 0 0 45.2 22.3;" xml:space="preserve"> <polygon points="38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 "/> <rect class="st3" x="2.2" y="9.8" width="37" height="3"/> </svg> </a></div></div></nav></header><div class="mobileNav-wrapper" id="mobileNav-wrapper"><div class="mobileNav-content-wrapper"><div id="mobileNav" class="navbar-nav-wrapper"><ul id="menu-mobile" class="nav navbar-nav ml-auto"><li class='menu-item'><a href='#' >Products</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='/products/managed-detection-and-response/' >Managed Detection and Response</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/ai-agents/' >AI Agents</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/threat-intelligence/' >Threat Intelligence</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/automation/' >Automation</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/security-data-lake/' >Security Data Lake</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/managed-phishing/' >Managed Phishing Response</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/cybersecurity-readiness/' >Training & Tabletops</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/products/new-features/' >What's New</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/pricing/' >Plans</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li><li class='menu-item'><a href='#' >Solutions</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='#' >By domain</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='/solutions/identity-threat-detection-and-response/' >Identity</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/business-email-compromise/' >Email</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/endpoint-and-network-threat-protection/' >Endpoint</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/cloud-detection-and-response/' >Cloud</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li><li class='menu-item'><a href='#' >By technology</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='/integrations/microsoft-security/' >Microsoft</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/integrations/crowdstrike/' >CrowdStrike</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/integrations/sentinelone/' >SentinelOne</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/integrations/vmware-carbon-black/' >Carbon Black</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/integrations/palo-alto-networks/' >Palo Alto Networks</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/integrations/aws-cybersecurity/' >AWS</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/integrations/gcp-cybersecurity/' >Google</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/kubernetes-and-linux-security/' >Linux & Kubernetes</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li><li class='menu-item'><a href='#' >By Industry</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='/solutions/industry/financial-services/' >Financial Services</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/industry/healthcare' >Healthcare</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/industry/technology-industry/' >Technology</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/industry/manufacturing-services/' >Manufacturing</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/solutions/industry/education' >Education</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/solutions/industry/state-and-local-government/' >Government</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li></ul></li><li class='menu-item'><a href='https://redcanary.com/resources/' >Resources</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='https://redcanary.com/resources-center/category/blog/' >Blog</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources-center/category/guides-&-overviews/' >Guides & Overviews</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources-center/category/case-studies/' >Case Studies</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources-center/category/videos/' >Videos</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources-center/category/webinars/' >Webinars</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/cybersecurity-101/' >Cybersecurity 101</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources/?type=events' >Events</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://docs.redcanary.com/' >Documentation</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='/demo-video-hub/' >Demo Video Hub</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/resources-center/' >View All Resources</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li><li class='menu-item'><a href='#' >Why Red Canary</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='https://redcanary.com/the-red-canary-difference/' >The Red Canary Difference</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/atomic-red-team/' >Atomic Red Team</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/integrations/' >Integrations</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/partners/' >Our partners</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li><li class='menu-item'><a href='https://redcanary.com/company/' >Company</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li><ul class="sub-menu"><li class='menu-item'><a href='https://redcanary.com/company/' >About Us</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/news-events/' >News & Press</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/careers/' >Careers - We're Hiring!</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/trust-center/' >Trust Center and Security</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li><li class='menu-item'><a href='https://redcanary.com/contact-us/' >Contact Us</a><svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 45.2 22.3' style='enable-background:new 0 0 45.2 22.3;' xml:space='preserve'><polygon points='38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 '/><rect class='st3' x='2.2' y='9.8' width='37' height='3'/></svg></li></li></ul></li></ul></div></div></div><div id="skipnavigation" style="display: block; height: 0px; width: 0px; opacity: 0; z-index: -1; font-size: 0px; overflow: hidden;">&nbsp;</div><section class="global-hero layout-foreground_image "
+ ><div class="hero-square-top">&nbsp;</div><div class="hero-square-middle">&nbsp;</div><div class="hero-square-bottom">&nbsp;</div><div class="hero-square-bottom-2">&nbsp;</div><div class="hero-square-left">&nbsp;</div><div class="hero-square-right">&nbsp;</div><div class="arrows">&nbsp;</div><div class="container-fluid"><div class="row global-hero__content"><div class="col-md-10 offset-md-1"><h2 class="header-intro h6">Modernize Your SOC</h2><h1 class="h1 hero-title">Detect 4x more threats.</h1><div class="content-styled hero-subtitle"><p>Human-led, AI-powered MDR that finds what matters, and filters out what doesn&#8217;t.</p><p><a class='btn btn-full' href='/products/ai-agents/' target='_self'>Meet our Ai agents <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a><a class='btn btn-full' href='/resources/webinars/mdr-demo-in-action/' target='_self'>Watch Demo <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></p></div></div></div></div><div class="wistia-embed-wrapper"><script src="https://fast.wistia.com/embed/medias/od5clryuqh.jsonp" async></script> <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script> <div class="wistia_responsive_padding" style="padding: 56.25% 0 0 0; position: relative;box-shadow: none !important;"><div class="wistia_responsive_wrapper" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%;border-radius: 10px !important;box-shadow: 0 0 9px 3px #0000004d !important;"><div class="wistia_embed wistia_async_od5clryuqh seo=true videoFoam=true" style="height: 100%; position: relative; width: 100%;"></div></div></div></div></section><main class="global-main"><div class="pagebuilder"><section
+ class="featured_content_tdr background-white padding-top-none padding-bottom-small boxed-"
+ style=""
+><div class="container-fluid"><div class="row justify-content-center featured-content-tdr-wrapper"><div class="col-lg-12"><div class="row featured-content-tdr-container"><div class="col-lg-6 col-md-12 featured-content-tdr-column featured-primary"><div class="featured-content-tdr-info"> <a href="https://redcanary.com/blog/news-events/g2-summer-2025-mdr-reports/"><div class="featured-content-tdr-image"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/10/G2-tile-800px.webp"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/10/G2-tile-800px.webp" alt=""></noscript></div><div class="feature-content-tdr-content"><div class="featured-content-tdr-subtitle">Report</div><div class="featured-content-tdr-title" style="max-width:92%;">Red Canary named #1 in enterprise customer satisfaction in G2’s Summer 2025 MDR Report</div></div> </a></div></div><div class="col-lg-6 col-md-12 featured-content-tdr-column featured-content-tdr-column2"><div class="add-content-dr-info"> <a href="https://redcanary.com/resources/guides/cybersecurity-operations-trends-report/"><div class="add-content-tdr-content"><div class="add-content-tdr-subtitle">Security operations trends report</div><div class="add-content-tdr-title">Discover key insights from 500+ security leaders</div></div> </a></div><div class="add-content-dr-info"> <a href="https://redcanary.com/resources/guides/incident-response-preparedness-guide/"><div class="add-content-tdr-content"><div class="add-content-tdr-subtitle">Incident Response Guide</div><div class="add-content-tdr-title">Equip your team with the latest incident response strategies</div></div> </a></div><div class="add-content-dr-info"> <a href="https://redcanary.com/resources-center/category/office-hours/"><div class="add-content-tdr-content"><div class="add-content-tdr-subtitle">Fresh Insights & Industry news</div><div class="add-content-tdr-title">Catch up on the latest episodes of Red Canary Office Hours</div></div> </a></div></div></div></div></div></div></section><section class="horizontal-tabs background-transparent" style="padding-top:50px;padding-bottom:px;"><div class="container-fluid"><div class="row horizontal-tabs-content-wrapper"><div class="col-lg-8 col-md-12 horizontal-tab-header-wrapper"><div class="horizontal-tab-header"><h4>THE RED CANARY DIFFERENCE</h4><h2>There’s MDR. Then there’s Red Canary.</h2></div><div class="horizontal-tab-content"><p><p>A true security partner dedicated to improving your outcomes—integrating with your existing tools, backed by 24×7 expert support, and focused on stopping threats before they can do harm.</p> <a class='btn btn-full' href='/the-red-canary-difference/' target='_self'>See The Red Canary Difference <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></p></div></div></div><div class="row"><div class="col-lg-12 col-md-12 horizontal-tabs-wrapper"><div class="acf-tabs horizontal-tabs-title-wrapper"><ul class="tab-titles"><li class="tab-title active" data-tab="tab-0"> Unmatched threat detection</li><li class="tab-title" data-tab="tab-1"> Actionable intelligence</li><li class="tab-title" data-tab="tab-2"> Expert-driven response</li><li class="tab-title" data-tab="tab-3"> Seamless integration</li></ul><div class="tab-contents"><div class="tab-content active" id="tab-0"><div class="row horizontal-two-columns"><div class="horizontal-tab-left-column col-md-6"><h4>Find 4x more threats. Miss nothing.</h4><p>Go beyond legacy alerts to find what your other security tools miss. Our unique combination of detection-as-code detection engineering, proactive threat hunting, and agentic AI uncovers critical threats deep within your environment before they cause harm.</p></div><div class="horizontal-tab-right-column col-md-6"><p><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/07/layers_of_defense_RedCanary.jpg" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/07/layers_of_defense_RedCanary.jpg" /></noscript></p></div></div></div><div class="tab-content" id="tab-1"><div class="row horizontal-two-columns"><div class="horizontal-tab-left-column col-md-6"><h4>Get intelligence you can act on—fast.</h4><p>Generic threat feeds often create more confusion than clarity. Our renowned in-house intelligence team provides tactical insights tailored to your unique environment, helping you understand the adversaries you face, their specific tactics, and how to stop them.</p></div><div class="horizontal-tab-right-column col-md-6"><p><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/07/DetectedThreatsTopObsTools_1200x628_RedCanary.jpg" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/07/DetectedThreatsTopObsTools_1200x628_RedCanary.jpg" /></noscript></p></div></div></div><div class="tab-content" id="tab-2"><div class="row horizontal-two-columns"><div class="horizontal-tab-left-column col-md-6"><h4>Shut down attacks 10x faster.</h4><p>A slow response gives adversaries the advantage. We help you slash your mean time to respond (MTTR) by detecting threats early, investigating with precision, and enabling rapid expert-led and automated containment.</p></div><div class="horizontal-tab-right-column col-md-6"><p><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/ForresterWave_Quote_2_RedCanary.jpg" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/06/ForresterWave_Quote_2_RedCanary.jpg" /></noscript></p></div></div></div><div class="tab-content" id="tab-3"><div class="row horizontal-two-columns"><div class="horizontal-tab-left-column col-md-6"><h4>Get more value from your existing security stack.</h4><p>Red Canary continuously analyzes your critical data to detect and stop more threats, with the option to add our Security Data Lake for cost-effective compliance and investigation.</p></div><div class="horizontal-tab-right-column col-md-6"><p><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/07/SecOps_1200x628_RedCanary-1200x628-1.jpg" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/07/SecOps_1200x628_RedCanary-1200x628-1.jpg" /></noscript></p></div></div></div></div></div></div></div></div></section> <script>document.addEventListener('DOMContentLoaded', function () {
+        const tabTitles = document.querySelectorAll('.tab-title');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabTitles.forEach(tab => {
+            tab.addEventListener('click', () => {
+                const target = tab.getAttribute('data-tab');
+
+                tabTitles.forEach(t => t.classList.remove('active'));
+                tabContents.forEach(c => c.classList.remove('active'));
+
+                tab.classList.add('active');
+                document.getElementById(target).classList.add('active');
+            });
+        });
+    });</script> <style>.horizontal-tabs {width:100%;padding:20px 0 0;background-image:url('https://redcanary.com/wp-content/uploads/2025/06/Crop_RCDifference_RedWave.svg');
+        background-repeat:no-repeat;background-position:bottom right;background-size:600px;}
+    horizontal-tabs:after {content:'';background-image:url('https://redcanary.com/wp-content/uploads/2025/06/Crop_RCDifference_RedWave.svg');}
+    .horizontal-tabs .horizontal-tab-header-wrapper {margin:0 auto;}
+    .horizontal-tabs .horizontal-tabs-content-wrapper {text-align:center;margin-bottom:25px;}
+    .horizontal-tabs .horizontal-tabs-content-wrapper h4 {font-size:20px;color:#d61e2a;}
+    .horizontal-tabs .horizontal-tabs-content-wrapper h2 {font-size:32px;color:black;}
+    .horizontal-tabs .horizontal-tabs-content-wrapper p {font-size:20px;}
+    .horizontal-tabs .horizontal-tabs-wrapper {margin:0 auto;max-width:1400px;}
+    .horizontal-tabs .tab-titles {display:flex;justify-content:space-between;list-style:none;margin:0;padding:0;border-bottom:2px solid #ccc;margin-bottom:25px;}
+    .horizontal-tabs .tab-title {flex:1;text-align:center;padding:10px 20px 20px;cursor:pointer;border:none;border-bottom:none;background:transparent;font-weight:bold;}
+    .horizontal-tabs .tab-title.active {color:#d61e2a;border-bottom:2px solid #d61e2a;}
+    .horizontal-tabs .tab-content {display:none;padding:20px 0;}
+    .horizontal-tabs .tab-content.active {display:block;}
+    .horizontal-tabs .tab-content h4 {font-size:24px;}
+    .horizontal-tabs .tab-content p {font-size:18px;}
+    .horizontal-tabs .horizontal-two-columns {display:flex;gap:20px;padding:20px 0 0;align-items:flex-start;position:relative;overflow:visible;}
+    .horizontal-tabs .horizontal-two-columns img {border:1px solid #e7e5df;border-radius:20px;box-shadow:-1px 2px 4px #3d363666;display:block;width:100%;max-width:100%;}
+    .horizontal-tabs .horizontal-two-columns .horizontal-tab-left-column, .horizontal-tabs .horizontal-two-columns .horizontal-tab-right-column {flex:1;}
+    .horizontal-tabs .horizontal-two-columns .horizontal-tab-left-column {margin-top:15px;}
+    .horizontal-tabs .horizontal-two-columns .horizontal-tab-left-column p {margin-top:15px;}
+    .horizontal-tabs .horizontal-two-columns .horizontal-tab-right-column {position:relative;z-index:1;}
+    .horizontal-tabs .horizontal-two-columns .horizontal-tab-right-column p {margin:0;}
+    .horizontal-tabs a.btn.btn-full {border-radius: 20px !important;margin: 10px 0;}
+    @media (max-width:1230px) { .horizontal-tabs {background-size:550px;} }
+    @media (max-width: 1130px) { .horizontal-two-columns {display:block!important;} .horizontal-two-columns .col-md-6 {max-width:100%;} .horizontal-tab-left-column {margin-bottom:40px;} .horizontal-two-columns img {max-width:600px!important;margin:0 auto;} }
+    @media (max-width: 997px) { .full_width .overlap-above {padding-top:30px;} }
+    @media (max-width: 768px) {.horizontal-tabs .tab-titles {flex-wrap:wrap;}.horizontal-tabs .two-columns {flex-direction:column;}}
+    @media (max-width: 715px) { .horizontal-tabs .tab-titles {display:flex;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}
+    .horizontal-tabs .tab-titles::-webkit-scrollbar {display:none;} .horizontal-tabs .tab-title {flex:0 0 auto;min-width:120px;text-align:center;padding:12px 10px;border:1px solid #ccc;border-bottom:none;background:#f7f7f7;white-space:nowrap;} }
+    @media (max-width: 550px) { .horizontal-tabs {background-image:none!important;} }</style><section class="pain-points background-black" 
+style="padding-top:0px;padding-bottom:75px;"><div class="container-fluid"><div class="pain-points-wrapper"><div class="row"><div class="left-column col-md-6 col-sm-12"><div class="pain-point-left-wrapper"><h6>YOUR TOP SECURITY CHALLENGES, SOLVED</h6><h4><span class="title-lite">Every security team has one goal:</span><br><span class="title-bold">Don’t get breached</span>.</h4><div class="pain-point-content"><p>With Red Canary’s managed detection and response (MDR), you get everything you need to detect critical threats across your endpoints, identities, and cloud; respond with confidence; and understand your true risk—all backed by our 24×7 team of experts.</p></div></div></div><div class="right-column col-md-6 col-sm-12"><div class="pain-point-toggle"><div class="pain-point-header"><div class="pain-point-icon"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/icon_alert_notification.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/icon_alert_notification.png"></noscript></div><div class="pain-point-toggle-body"> <button class="pain-point-toggle-button" type="button"> <span class="pain-point-title">Eliminate false positives and accelerate investigations</span> <span class="pain-point-arrow">+</span> </button><div class="pain-point-toggle-content"><div class="pain-point-blurb"><p>Focus on stopping real threats, not chasing alerts. Our blend of human expertise and agentic AI delivers confirmed detections with the full context you need to act quickly and decisively.</p></div></div><div class="pain-point-toggle-cta"> <a href="https://redcanary.com/threat-detection-report/">Get the latest threat intel</a></div></div></div></div><div class="pain-point-toggle"><div class="pain-point-header"><div class="pain-point-icon"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/icon_team_empowered-support-2.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/icon_team_empowered-support-2.png"></noscript></div><div class="pain-point-toggle-body"> <button class="pain-point-toggle-button" type="button"> <span class="pain-point-title">Reclaim your team’s focus and prove your security ROI</span> <span class="pain-point-arrow">+</span> </button><div class="pain-point-toggle-content"><div class="pain-point-blurb"><p>Retain top talent by offloading detection, investigation, and response to our experts, freeing your analysts to focus on high-impact work and prove your program’s value.</p></div></div><div class="pain-point-toggle-cta"> <a href="https://redcanary.com/resources/guides/cybersecurity-roi/">Gain higher ROI from your security program</a></div></div></div></div><div class="pain-point-toggle"><div class="pain-point-header"><div class="pain-point-icon"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/icon_data_presentation.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/icon_data_presentation.png"></noscript></div><div class="pain-point-toggle-body"> <button class="pain-point-toggle-button" type="button"> <span class="pain-point-title">Measure, communicate, and actively reduce risk</span> <span class="pain-point-arrow">+</span> </button><div class="pain-point-toggle-content"><div class="pain-point-blurb"><p>Make defensible decisions, communicate to the board, and measurably lower your cyber risk with trusted, executive-level visibility and high-fidelity threat detection.</p></div></div><div class="pain-point-toggle-cta"> <a href="https://redcanary.com/resources/guides/cybersecurity-operations-trends-report/ ">See what 700 security leaders say about SecOps </a></div></div></div></div></div></div></div></div></section> <script>// document.addEventListener('DOMContentLoaded', function () {
+    //     document.querySelectorAll('.pain-point-toggle-button').forEach(button => {
+    //         button.addEventListener('click', function () {
+    //             const wrapper = this.closest('.pain-point-toggle-body');
+    //             const content = wrapper.querySelector('.pain-point-toggle-content');
+    //             const arrow = this.querySelector('.pain-point-arrow');
+    //             const isOpen = content.classList.contains('open');
+
+    //             content.classList.toggle('open');
+    //             arrow.textContent = isOpen ? '⋁' : '⋀';
+    //         });
+    //     });
+    // });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const buttons = document.querySelectorAll('.pain-point-toggle-button');
+
+        buttons.forEach(button => {
+            button.addEventListener('click', function () {
+                const currentWrapper = this.closest('.pain-point-toggle-body');
+                const currentContent = currentWrapper.querySelector('.pain-point-toggle-content');
+                const currentArrow = this.querySelector('.pain-point-arrow');
+
+                const isOpen = currentContent.classList.contains('open');
+
+                document.querySelectorAll('.pain-point-toggle-content.open').forEach(content => {
+                    if (content !== currentContent) {
+                        content.classList.remove('open');
+                        const arrow = content.closest('.pain-point-toggle-body').querySelector('.pain-point-arrow');
+                        if (arrow) arrow.textContent = '+';
+                    }
+                });
+
+                if (isOpen) {
+                    currentContent.classList.remove('open');
+                    currentArrow.textContent = '+';
+                } else {
+                    currentContent.classList.add('open');
+                    currentArrow.textContent = '-';
+                }
+            });
+        });
+    });</script> <style>.pain-points.background-black {background:transparent;}
+    .pain-points .container-fluid {padding-left:40px;padding-right:40px;}
+    .pain-points.background-black .pain-points-wrapper {background:#011E23;}
+    .pain-points {display:flex;}
+    .pain-points-wrapper {padding:60px 40px;background:#e8e5e0;border-radius:20px;}
+    .pain-points .pain-points-wrapper .row {align-items:center;margin:0;}
+    .pain-points .pain-point-left-wrapper {max-width:85%;width:100%;padding-left:10px;}
+    .pain-points .pain-point-left-wrapper h6 {font-size:16px;color:#d61e2a;}
+    .pain-points.background-black .pain-point-left-wrapper h6 {color:#d61e2a;}
+    .pain-points .pain-point-left-wrapper h4 {font-size:28px;}
+    .pain-points .pain-point-left-wrapper .title-lite {font-weight:200;}
+    .pain-points .pain-point-left-wrapper .title-bold {font-weight:600;}
+    .pain-points .pain-point-left-wrapper p {font-size:18px;}
+    .pain-points .left-column, .pain-points .right-column {flex:1;}
+    .pain-points .pain-point-toggle {border-bottom:1px solid #F3F2EF;padding:25px 0;}
+    .pain-points .pain-point-header {display:flex;align-items:flex-start;gap:25px;}
+    .pain-points .pain-point-icon img {width:50px;height:50px;}
+    .pain-points .pain-point-toggle-body {flex:1;}
+    .pain-points .pain-point-toggle-button {background:none;border:none;display:flex;align-items:flex-start;justify-content:space-between;width:100%;padding:0;margin:0.5rem 0;cursor:pointer;font-size:22px;font-weight:600;line-height:1.3;text-align:left;}
+    .pain-points .pain-point-toggle-button .pain-point-arrow {display:inline-block; transition:tranform 0.3s ease;font-weight:200;}
+    .pain-points.background-black .pain-point-toggle-button .pain-point-arrow {color:white;}
+    .pain-points .pain-point-toggle-button .pain-point-title {width:85%;}
+    .pain-points.background-black .pain-point-toggle-button .pain-point-title {color:white;}
+    .pain-points .pain-point-toggle-content {margin-bottom:0.5rem;max-height:0;overflow:hidden;transition:max-height 0.4s ease;}
+    .pain-points .pain-point-toggle-content.open {max-height:fit-content;}
+    .pain-points .pain-point-toggle-content.open ~ .cta .arrow {transform:rotate(180deg);}
+    .pain-points .pain-point-toggle-content p {font-size:16px;margin:10px 0 0 0;}
+    .pain-points .pain-point-toggle-cta {margin-top:15px;}
+    .pain-points .pain-point-toggle-cta a {font-weight:600;padding-top:10px;}
+    .pain-points .pain-point-toggle-cta a:after {background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-red.svg);background-position: 50%;background-repeat: no-repeat;background-size: 6px auto;
+    content: "";display: inline-block;height: 11px;margin-left: 7px;transition: .3s ease-out;width: 6px;}
+    .pain-points .pain-point-toggle-cta a:hover {color:#d61e2a!important;}
+    .pain-points .pain-point-toggle-cta a:hover:after {transform: translateX(4px);}
+    .pain-points .pain-point-cta {display:inline-block;}
+    @media (max-width: 1165px) { .pain-points .container-fluid {padding:0 20px!important;}.pain-points-wrapper .row {display:block;} .pain-points-wrapper .row .col-md-6 {max-width:100%;} 
+    .pain-point-left-wrapper {text-align:center;margin:0 auto;padding-bottom:40px;max-width:100%!important;} } 
+    @media (max-width: 600px) { .pain-point-header {display:block!important;} .pain-point-icon {margin-bottom:20px;} .pain-points-wrapper {padding-left:20px;padding-right:20px;} .pain-points-wrapper .left-column {padding:0!important;} }</style><section
+ class="full_width  background-grey padding-top-small padding-bottom-small"
+ style=""
+><div class="container-fluid"><div class="row justify-content-lg-center"><div class="col-lg-8 col-12"><div class="content-styled"><h4 class="overlap-above">“A 24×7 extension of my team”—that’s what true peace of mind feels like.</h4><p>Hunt down hidden threats, automate investigations, and get intel you can act on—all from a trusted team of experts acting as an extension of your own.</p></div></div></div></div></section><section
+ class="columns background-grey padding-top-custom padding-bottom-large boxed-"
+ style="padding-top: 30px; "
+><div class="container"><div class="row justify-content-center"><div class="col-lg-12"><div class="row justify-content-center"><div class="col-md-4"><div class="content-styled match-height"><div class="primary-img"> <a href="https://redcanary.com/resources/guides/incident-response-preparedness-guide/"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/EliteOperators-1200x628-RedCanary.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/EliteOperators-1200x628-RedCanary.png" alt=""></noscript> </a></div><div class="columns-title match-height-secondary"><a href="https://redcanary.com/resources/guides/incident-response-preparedness-guide/"></a></div><div class="columns-subtitle"></div><div class="columns-content"><h4>Elite operators</h4><p>Get peace of mind with 24/7 pro coverage from detection to remediation.</p></div><div class="columns-cta"> <a href="https://redcanary.com/resources/guides/incident-response-preparedness-guide/" target="_self" class="btn">Build your IR plan <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 6.4 9.9" style="enable-background:new 0 0 6.4 9.9;" xml:space="preserve"> <polygon points="1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 "/> </svg></a></div></div></div><div class="col-md-4"><div class="content-styled match-height"><div class="primary-img"> <a href="https://redcanary.com/products/ai-agents/"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/ExpertAIAgents-1200x628-RedCanary.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/ExpertAIAgents-1200x628-RedCanary.png" alt=""></noscript> </a></div><div class="columns-title match-height-secondary"><a href="https://redcanary.com/products/ai-agents/"></a></div><div class="columns-subtitle"></div><div class="columns-content"><h4>Expert AI agents</h4><p>Reduce noise, respond faster, and unlock expert analysis for every threat.</p></div><div class="columns-cta"> <a href="https://redcanary.com/products/ai-agents/" target="_self" class="btn">Explore AI agents <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 6.4 9.9" style="enable-background:new 0 0 6.4 9.9;" xml:space="preserve"> <polygon points="1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 "/> </svg></a></div></div></div><div class="col-md-4"><div class="content-styled match-height"><div class="primary-img"> <a href="https://redcanary.com/resources/?type=case-studies"> <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/06/CustomerExperiencePros-1200x628-RedCanary.png"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/06/CustomerExperiencePros-1200x628-RedCanary.png" alt=""></noscript> </a></div><div class="columns-title match-height-secondary"><a href="https://redcanary.com/resources/?type=case-studies"></a></div><div class="columns-subtitle"></div><div class="columns-content"><h4>Customer experience pros</h4><p>Gain a strategic partner dedicated to your long-term security success.</p></div><div class="columns-cta"> <a href="https://redcanary.com/resources/?type=case-studies" target="_self" class="btn">See success stories <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 6.4 9.9" style="enable-background:new 0 0 6.4 9.9;" xml:space="preserve"> <polygon points="1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 "/> </svg></a></div></div></div></div></div></div></div></section><section
+ class="full_width  background-transparent padding-top-small padding-bottom-none"
+ style=""
+><div class="container-fluid"><div class="row justify-content-lg-center"><div class="col-lg-12 col-12"><div class="content-styled"><h4 class="custReview">Analysts call us a leader. Customers call us a partner.</h4><p class="custReview">With a 99% customer satisfaction score and over a decade of experience, see why thousands of organizations have put their trust in our team.</p></div></div></div></div></section><section
+ class="full_width  background-transparent padding-top-custom padding-bottom-small"
+ style="padding-top: 25px; "
+><div class="container-fluid"><div class="row justify-content-lg-center"><div class="col-lg-12 col-12"><div class="content-styled"> <noscript><link media='all' rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css"></noscript><link media='print' onload="this.onload=null;this.media='all';" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css"><div class="contianer"><div class="row"><div class="col-md-12"><div id="testimonial-slider" class="owl-carousel"><div class="testimonial"><div class="pic"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/02/forrester-logo-black-and-white-1.png" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/02/forrester-logo-black-and-white-1.png" /></noscript></div><div class="testimonial-content"><p><b>“Red Canary stands out for customers looking for a provider with superior detection and response capabilities that remains flexible to the unique needs of their organization.”</b></p></div><h3 class="testimonial-title"><small><i>The Forrester Wave™: Managed Detection And Response Services, Q1 2025</i></small> <a class='btn btn-full' href='https://redcanary.com/resources/guides/forrester-wave-mdr/' target='_self'>Learn More <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></h3></div><div class="testimonial"><div class="pic"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/02/DuPont-Logo-1.png" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/02/DuPont-Logo-1.png" /></noscript></div><div class="testimonial-content"><p><b>&#8220;Red Canary caught something that we would have otherwise missed. There’s a capability gap in current security solutions, and only one of our tools is capable of filling that gap. Red Canary is the only one I know of that could have detected the suspicious activity we saw.”</b></p></div><h3 class="testimonial-title"><small><i>CIRT TEAM MEMBER, DUPONT</i></small> <a class='btn btn-full' href='https://redcanary.com/resources/case-studies/dupont-phishing-prevention/' target='_self'>Learn More <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></h3></div><div class="testimonial"><div class="pic"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/02/Ansys_logo_2019.svg-1.png" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/02/Ansys_logo_2019.svg-1.png" /></noscript></div><div class="testimonial-content"><p><b>“Red Canary acts as a filter for us: they bubble up the most pressing things to the top, and it’s very easy to collaborate with them within their portal. We get the most pressing alerts passed to our response team, and they get actioned first.&#8221;</b></p></div><h3 class="testimonial-title"><small>DAVE COUGHANOUR, CISO, ANSYS</small> <a class='btn btn-full' href='https://redcanary.com/resources/case-studies/ansys-microsoft-defender-e5/' target='_self'>Learn More <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></h3></div><div class="testimonial"><div class="pic"><img decoding="async" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/02/GetLogoFileById-1.png" /><noscript><img decoding="async" src="https://redcanary.com/wp-content/uploads/2025/02/GetLogoFileById-1.png" /></noscript></div><div class="testimonial-content"><p><b>“With the steps Red Canary took after detection, we felt safe almost immediately. We were back to normal that morning. They were following up with us all day and even proposed follow-up items to make us safer going forward. It was an awesome experience.”</b></p></div><h3 class="testimonial-title"><small>MIKE MARSTRELL, INFRASTRUCTURE MANAGER, SCHUMACHER HOMES</small> <a class='btn btn-full' href='https://redcanary.com/resources/case-studies/red-canary-reduces-time-to-threat-remediation/' target='_self'>Learn More <svg class='svg' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 6.4 9.9' style='enable-background:new 0 0 6.4 9.9;' xml:space='preserve'><polygon points='1.5,9.7 0.2,8.3 3.5,5 0.2,1.6 1.5,0.2 6.2,5 '/></svg></a></h3></div></div></div></div></div></div></div></div></div></section></div></main><section data-bg="https://redcanary.com/wp-content/uploads/2022/12/globe-white-right-1.webp" class="footer-cta rocket-lazyload" style=""><div class="container-fluid"><div class="row"><div class="col-md-1 spacer">&nbsp;</div><div class="col-md-6 col-12"><h2 class="title">See Red Canary in action</h2><h5 class="subtitle">Watch the 10-minute demo now.</h5></div></div> <a class="cta-box red" href="/resources/webinars/mdr-demo-in-action/">Watch the demo <svg class="svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 45.2 22.3" style="enable-background:new 0 0 45.2 22.3;" xml:space="preserve"> <polygon points="38.4,12.8 31.4,19.7 33.5,21.9 44.1,11.3 33.5,0.7 31.4,2.9 38.4,9.8 "/> <rect class="st3" x="2.2" y="9.8" width="37" height="3"/> </svg></a></div></section><section id="newFooterPreview" class="globalSubscription"><div class="footerSub"><div class="footSub-container"><div class="footSub-item"><h3>Security gaps? We got you.</h3><p>Sign up for our monthly email newsletter for expert insights on MDR, threat intel, and security ops—straight to your inbox.</p></div><div class="footSub-item"><div class="form-container"><form id="mktoForm_1035"></form> <script>MktoForms2.loadForm("//resource.redcanary.com", "003-YRU-314", 1035);</script> </div></div></div></div></section><div class="divideLine"><hr></div><footer class="globalFooter"><section class="footer-grid-container"><div class="footer-grid-item"><h4>Products</h4><ul><li><a href="https://redcanary.com/products/managed-detection-and-response/">Managed Detection and Response</a></li><li><a href="https://redcanary.com/products/security-data-lake/">Security Data Lake</a></li><li><a href="https://redcanary.com/products/cybersecurity-readiness/">Training & Tabletops</a></li><li><a href="https://redcanary.com/products/threat-intelligence/">Threat Intelligence</a></li><li><a href="https://redcanary.com/products/automation/">Automation</a></li><li><a href="https://redcanary.com/atomic-red-team/">Atomic Red Team</a></li><li><a href="https://redcanary.com/pricing/">Plans</a></li><li><a href="https://redcanary.com/products/new-features/">What's New?</a></li></ul></div><div class="footer-grid-item"><h4>Documentation</h4><ul><li><a href="https://docs.redcanary.com/#doc_main_content" target="_blank">Products and Solutions</a></li><li><a href="https://docs.redcanary.com/docs/administration" target="_blank">Administration</a></li><li><a href="https://docs.redcanary.com/docs/api-extensibility" target="_blank">APIs and Extensibility</a></li><li><a href="https://docs.redcanary.com/docs/endpoint-usage-how-licensing-and-endpoint-usage-is-determined" target="_blank">Licensing and Usage</a></li><li><a href="https://docs.redcanary.com/docs/red-canary-release-notes" target="_blank">Release Notes</a></li><li><a href="https://docs.redcanary.com/docs/supported-integrations" target="_blank">Supported Integrations</a></li></ul></div><div class="footer-grid-item"><h4>Partners</h4><ul><li><a href="https://redcanary.com/partners/">Overview</a></li><li><a href="https://redcanary.com/partners/incident-response/">Incident Response</a></li><li><a href="https://redcanary.com/partners/cyber-insurance-and-risk/">Insurance and Risk</a></li><li><a href="https://redcanary.com/partners/managed-service-providers/">Managed Service Providers</a></li><li><a href="https://redcanary.com/partners/solution-providers/">Solution Providers</a></li><li><a href="https://redcanary.com/partners/technology/">Technology Partners</a></li><li><a href="https://redcanary.com/partners/become-a-partner/">Apply to Become a Partner</a></li></div><div class="footer-grid-item"><h4>Support</h4><ul><li><a href="https://support.redcanary.com/hc/en-us" target="_blank">Support Article</a></li><li><a href="https://docs.redcanary.com/docs/getting-help" target="_blank">Getting Help</a></li><li><a href="https://go.my.redcanary.co/saml/create?RelayState=https%3A%2F%2Fsupport.redcanary.com%2Fhc%2Fen-us%2Frequests%2Fnew&brand_id=360004622793&SAMLRequest=hZFLT8MwEITv%2FArLdydOmr6sJlXUCilSQagFDtxcZ6tG%2BBG8Tmn59aiBSuUA%0AXHfn08zOzuZHo8kBPDbO5jSJOJ0XNzOURrei7MLeruGtAwzkaLRF0S9y2nkr%0AnMQGhZUGUAQlNuXdSqQRF613wSmn6RXyNyERwYfGWUqqZU7PgGdbPkxgNwG2%0A5dMRywaDMZOD7ZRNphnPJtMsqWFMSYXYQWUxSBtymvJ0yPiQpfwxGYmEC569%0AUPJ8uS6NOCXlxWzhLHYG%2FAb8oVHwtF7ldB9CiyKOPdRKWulPe9Bt9AG2BnyN%0AlDOxVAoQ43NGWvQ9iT6DL%2F5lZ%2FG1%2FLvje2mgWj443agTKbV27wsPMkBOg%2B%2BA%0AklvnjQy%2F95dEST9parbrpQKMbHRZ1x4QaVx8uf58ZnHzCQ%3D%3D%0A" target="_blank">Contact Support</a></li><li><a href="https://go.my.redcanary.co/saml/create?RelayState=https%3A%2F%2Fsupport.redcanary.com%2Fhc%2Fen-us%2Frequests&brand_id=360004622793&SAMLRequest=hZHNT8JAEMXv%2FBXN3rfdFhGyoSUNxIQEjcGPg7fpdhoa96PubBH86w1VEjyo%0A15n3y3vzZr44GB3t0VPrbM7SWLBFMZoTGN3Jsg87u8W3HilEB6MtyWGRs95b%0A6YBakhYMkgxKPpS3G5nFQnbeBaecZhfI3wQQoQ%2Btsyxar3J2AjwfC8BsViOv%0AmmzGr5rpjENTjXkGMEUQk6qpBIvWRD2uLQWwIWeZyCZcTHgmHtNrmQqZTl9Y%0A9Hy%2BLosFi8qz2dJZ6g36B%2FT7VuHTdpOzXQgdySTxWCuw4I871F38gbZGeo2V%0AMwkohUTJKSMrhp7kkMEX%2F7Lz5FL%2B3fEdGFyv7p1u1TEqtXbvS48QMGfB98ii%0AG%2BcNhN%2F7S%2BN0mLQ1bwapRAOtLuvaIxFLii%2FXn88sRp8%3D%0A" target="_blank">Manage Tickets</a></li></ul></div><div class="footer-grid-item"><h4>Company</h4><ul><li><a href="https://redcanary.com/company/">About Us</a></li><li><a href="https://redcanary.com/blog-subscription/">Subscribe to Blog</a></li><li><a href="https://redcanary.com/the-red-canary-difference/">The Red Canary Difference</a></li><li><a href="https://redcanary.com/news-events/">News and Press</a></li><li><a href="https://redcanary.com/careers/">Careers - We're Hiring!</a></li><li><a href="https://redcanary.com/contact-us/">Contact Us</a></li></ul></div></section><section><div class="footer-copyright"><div class="footer-copyright-container"><div class="footer-copyright-item"> <a href="https://redcanary.com"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" style="margin-bottom:15px;" data-lazy-src="https://redcanary.com/wp-content/uploads/2025/08/Red-Canary_x_Zscaler_logo.svg"><noscript><img src="https://redcanary.com/wp-content/uploads/2025/08/Red-Canary_x_Zscaler_logo.svg" style="margin-bottom:15px;"></noscript></a> <a href="https://x.com/redcanary" target="_blank"><svg version="1.1" id="twitter-footer-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"> <path d="M495.7,96.4c-13.7,20.4-30.5,37.8-50.5,52.2c0.2,3.9,0.3,8.2,0.3,13.1c0,27-3.9,54-11.8,81.1c-7.9,27.1-19.9,53-36.1,77.7
+ c-16.2,24.8-35.5,46.7-57.8,65.8c-22.4,19.1-49.3,34.3-80.7,45.7c-31.4,11.4-65.1,17-101,17c-56.1,0-107.7-15.1-154.9-45.4
+ c8.4,0.9,16.4,1.4,24.1,1.4c46.8,0,88.7-14.4,125.5-43.3c-21.8-0.4-41.4-7.1-58.7-20.2c-17.3-13-29.2-29.7-35.7-50
+ c6.4,1.2,12.8,1.8,19,1.8c9,0,17.9-1.2,26.6-3.5c-23.3-4.7-42.6-16.3-58-34.8c-15.4-18.5-23-39.9-23-64.2v-1.3
+ c14.3,7.9,29.6,12.1,45.8,12.6c-13.8-9.2-24.7-21.2-32.8-36C28,151.4,24,135.4,24,118.2c0-18.2,4.6-35.1,13.7-50.8
+ c25.3,31.1,56,55.9,92.1,74.6c36.1,18.6,74.8,28.9,116.1,31c-1.8-7.3-2.6-15-2.6-23c0-27.9,9.9-51.7,29.6-71.4
+ C292.5,58.9,316.3,49,344.2,49c29.2,0,53.8,10.6,73.8,31.9c22.8-4.5,44.2-12.7,64.1-24.5c-7.7,24.2-22.5,42.8-44.4,55.9
+ C457.8,109.9,477.2,104.6,495.7,96.4L495.7,96.4z"></path> </svg></a> <a href="https://www.linkedin.com/company/redcanary/" target="_blank"><svg version="1.1" id="facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"> <g> <path id="LinkedIn" d="M446.1,274.5v145.1H362V284.2c0-34-12.1-57.2-42.6-57.2c-23.3,0-37.1,15.6-43.1,30.7
+ c-2.2,5.4-2.8,13-2.8,20.5v141.2h-84.1c0,0,1.1-229.2,0-253h84.1v35.9c-0.1,0.2-0.4,0.6-0.6,0.8h0.6v-0.8
+ c11.2-17.2,31.1-41.8,75.8-41.8C404.7,160.6,446.1,196.7,446.1,274.5z M101.4,44.7c-28.8,0-47.6,18.8-47.6,43.7
+ c0,24.2,18.2,43.7,46.4,43.7h0.6c29.3,0,47.5-19.4,47.5-43.7C147.9,63.5,130.2,44.7,101.4,44.7z M58.8,419.4H143V166.6H58.8V419.4z
+ "></path> </g> </svg></a> <a href="https://www.youtube.com/@RedCanary" target="_blank"><svg version="1.1" id="facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"> <path d="M495.7,268.7v-37.4c0-39.7-4.8-79.6-4.8-79.6s-4.8-34-19.6-48.8c-18.7-19.6-39.7-19.6-49.2-20.7C353.3,77,250,77,250,77
+ h-0.1c0,0-103.3,0-172.1,5c-9.5,1-30.7,1.3-49.2,20.7c-14.8,14.9-19.6,48.8-19.6,48.8s-4.8,39.8-4.8,79.6v37.3
+ c0,39.7,4.8,79.6,4.8,79.6s4.8,34,19.6,48.8c18.8,19.7,43.4,19,54.3,21.1c39.4,3.8,167.3,5,167.3,5s103.4-0.1,172.2-5.2
+ c9.5-1,30.7-1.3,49.2-20.7c14.8-15,19.6-48.8,19.6-48.8s4.8-39.8,4.8-79.6h-0.3V268.7z M199.2,313.9V175.6L332,245L199.2,313.9z"></path> </svg></a></div><div class="footer-copyright-item"><p><a href="mailto:info@redcanary.com">info@redcanary.com</a> | <a href="tel:+1-855-977-0686">+1-855-977-0686</a> | <a href="https://redcanary.com/privacy-policy/">Privacy Policy</a> <br> © 2014-2025 Red Canary. All rights reserved. | <a href="https://redcanary.com/trust-center/">Trust Center and Security</a> | <button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button></p></div></div></div></section></footer><div id="video-popup" class="video-popup-wrapper"><div class="overlay close-popup">&nbsp;</div><div class="close-popup close-icon"> <svg class="svg" version="1.1" id="close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"> <path d="M499.9,29.3L470.5-0.1L250,220.6L29.4,0L0,29.4L220.6,250L0,470.7l29.4,29.4L250,279.4L470.6,500l29.4-29.4L279.4,250
+ L499.9,29.3z"/> </svg></div><div class="popup-content-wrapper"><div class="popup-content">&nbsp;</div></div></div><div id="image-popup" class="image-popup-wrapper"><div class="overlay close-popup">&nbsp;</div><div class="close-popup close-icon"> <svg class="svg" version="1.1" id="close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"> <path d="M499.9,29.3L470.5-0.1L250,220.6L29.4,0L0,29.4L220.6,250L0,470.7l29.4,29.4L250,279.4L470.6,500l29.4-29.4L279.4,250
+ L499.9,29.3z"/> </svg></div><div class="popup-content-wrapper"><div class="popup-content">&nbsp;</div></div></div> <script type="speculationrules">{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/redcanary\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}</script> <script type="text/javascript" id="theme_js-js-extra">var theme_ajax_object = {"ajax_url":"https:\/\/redcanary.com\/wp-admin\/admin-ajax.php"};</script> <script>window.lazyLoadOptions = [{
+                elements_selector: "img[data-lazy-src],.rocket-lazyload",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }},{
+				elements_selector: ".rocket-lazyload",
+				data_src: "lazy-src",
+				data_srcset: "lazy-srcset",
+				data_sizes: "lazy-sizes",
+				class_loading: "lazyloading",
+				class_loaded: "lazyloaded",
+				threshold: 300,
+			}];
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (var i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                continue;
+                            }
+
+                            if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                continue;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script> </div>  <script id="teknklFormsPlus-Util-1.0.5" src="//s3-us-west-2.amazonaws.com/s.cdpn.io/250687/teknkl-formsplus-1.0.5.js"></script> <script>MktoForms2.whenReady(function(form) {
+   var fieldFillRules = [      
+      {
+         name : "mktoUTMSource",
+         channel: "query",
+         selector: "utm_source"
+      },
+      {
+         name : "mktoUTMMedium",
+         channel: "query",
+         selector: "utm_medium"
+      },
+      {
+         name : "mktoUTMCampaign",
+         channel: "query",
+         selector: "utm_campaign"
+      },
+      {
+         name : "GCLID__c",
+         channel: "query",
+         selector: "gclid"
+      }
+   ];
+   var liveChannels = {
+       cookie : FormsPlus.util.Cookies.get(),
+       query : FormsPlus.util.URI.URI().search(true),
+       referrerQuery : FormsPlus.util.URI.URI(document.referrer).search(true),
+       localStorage : localStorage,
+       sessionStorage : sessionStorage
+   }; 
+   var mktoFields = fieldFillRules
+         .reduce(function(acc, fieldDescriptor) { 
+            if( !acc[fieldDescriptor.name] ){
+              acc[fieldDescriptor.name] = fieldDescriptor.channel == "constant"
+               ? fieldDescriptor.selector
+               : liveChannels[fieldDescriptor.channel][fieldDescriptor.selector];
+            }   
+            return acc;
+         }, {});
+   form.addHiddenFields(mktoFields);
+});</script>  <script>(function (){
+  var invalidDomains = ["@gmail.","@yahoo.","@hotmail.","@live.","@aol.","@outlook.","@msn.net","@comcast.","@infomagicsys.in","@zohomail.in","@aionwave.com","@kuti.in","@GMAIL.","@YAHOO.","@HOTMAIL.","@LIVE.","@AOL.","@OUTLOOK.","@MSN.NET","@COMCAST.","@INFOMAGIGSYS.IN","@ZOHOMAIL.IN","@AIONWAVE.COM","@KUTI.IN","@cloudmdrive.my.id","@driveplus.my.id","@temporary-mail.net","@dermawise.id","@capas.my.id","@company.com","@meniti.my.id","@yourdomain.com","@gregorianpublicschoolmaharashtra.com","@business.com","@bussines.com","@busines.com","@email.com","@drivem.my.id","@mdriveku.my.id","@ghtygp.com","@bozztirex.us","@bozztirex.com","@icloud.com","@vivaldigital.com","@putrajayabaya.skom.id","@noreply","bozzcello.com"];
+  var excludedIDs = ["mktoForm_2706","mktoForm_2709","mktoForm_2705","mktoForm_1221","mktoForm_2396","mktoForm_1034", "mktoForm_1148", "mktoForm_1664", "mktoForm_1760", "mkto_Form_1885", "mktoForm_2567", "mktoForm_2724", "mktoForm_2067", "mktoForm_3124", "mktoForm_3123", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3466", "mktoForm_3232", "mktoForm_3281", "mktoForm_3283", "mktoForm_3292", "mktoForm_3466", "mktoForm_3365", "mktoForm_3551", "mktoForm_3700"];
+  MktoForms2.whenReady(function (form){
+    if (!excludedIDs.includes(jQuery('.mktoForm').attr('id'))) {
+      form.onValidate(function(){
+        var email = form.vals().Email;
+        if(email){
+          if(!isEmailGood(email)) {
+            form.submittable(false);
+            var emailElem = form.getFormElem().find("#Email");
+            form.showErrorMessage("Please enter your business email address.", emailElem);
+          } else {
+            form.submittable(true);
+          }
+        }
+      });
+    }
+  });
+  function isEmailGood(email) {
+    for(var i=0; i < invalidDomains.length; i++) {
+      var domain = invalidDomains[i];
+      if (email.indexOf(domain) != -1) {
+        return false;
+      }
+    }
+    return true;
+  }
+})();</script>  <script src="https://redcanary.com/wp-content/themes/redcanary/algolia-search.js"></script> <script src="https://redcanary.com/wp-content/themes/redcanary/algolia-autocomplete.js"></script> <noscript><link media='all' rel="stylesheet" href="https://redcanary.com/wp-content/themes/redcanary/algolia-style.css"></noscript><link media='print' onload="this.onload=null;this.media='all';" rel="stylesheet" href="https://redcanary.com/wp-content/themes/redcanary/algolia-style.css">  <script>window.uetq=window.uetq||[];
+  window.uetq.push('set', { 'pid': {
+    'em': emailAddressVariable,
+    'ph': phoneNumberVariable
+  }});</script>  <script>MktoForms2.whenReady(function(form) {
+ form.onSuccess(function(values, followUpUrl) {
+var emailVariable = values.Email || "";
+var phoneVariable = values.Phone || "";
+console.log("Submitted Email is: ", emailVariable);
+console.log("Submitted Phone is: ", phoneVariable);
+
+var userData = {}
+
+if (emailVariable) {
+userData.email = emailVariable;
+}
+if (phoneVariable) {
+userData.phone_number = phoneVariable;
+}
+
+gtag('set', 'user_data', userData);
+
+gtag('event', 'form_submit', {'send_to': 'AW-759876114'});
+
+return true;
+});
+});</script> <style>.mobile-hero-text {display:none;}
+
+.hero-title {display:block!important;}
+
+.header-intro, .global-hero h2 {color:#d1212f!important;}
+
+body .global-hero .header-intro:before {
+background-color:#d1212f!important;}
+
+.global-hero a.btn.btn-full {
+    border-radius: 50px ! Important;
+margin-bottom:20px !important;
+}
+
+.global-hero a.btn.btn-full:nth-child(2) {
+    background-color: white !important;
+    border: 3px solid #d1212f ! Important;
+    color: #d1212f !important;
+}
+
+.global-hero a.btn.btn-full:nth-child(2):after {
+    background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-red.svg);
+}
+
+.global-hero a.btn.btn-full:nth-child(1) {
+    margin-right: 10px;
+}
+
+
+.global-hero .container-fluid {padding:0 30px!important;}
+
+.add-content-dr-info:nth-child(1) .add-content-tdr-content:before {content:'New!';font-size:15px;font-weight:700;background:#4564ed;color:white;border-radius:7.4px;position:absolute;top:10px;right:10px;padding:2px 10px;}
+
+.add-content-dr-info:nth-child(2) .add-content-tdr-content:before {content:'Recently updated';font-size:15px;font-weight:700;background:#4564ed;color:white;border-radius:7.4px;position:absolute;top:10px;right:10px;padding:2px 10px;}
+
+#wistia_chrome_23 {border-radius:10px !important;}
+
+wistia-player {border-radius:10px!important;box-shadow:0 0 9px 3px #0000004d !important;}
+
+.global-hero .wistia-embed-wrapper {
+background-image: none !important;
+right:0!important;
+}
+
+.pagebuilder .product_features .split-images-wrapper .split-images-item.type-screenshot:after {
+    background-color: #000;
+    opacity: 0;
+}
+
+body .global-hero.layout-foreground_image .hero-subtitle {
+padding-left:0px!important;padding-right:0px!important;}
+
+body .global-hero.layout-foreground_image .global-hero-anchor-full {margin-left:0!important;}
+
+body .global-hero.layout-foreground_image .hero-subtitle:before {display:none!important;}
+
+body .global-hero {padding-top:180px;padding-bottom:0;}
+
+body .global-hero .wistia-embed-wrapper {padding-top:70px;text-align:center!important;background:transparent!important;}
+
+body .global-hero .wistia-embed-wrapper  img {max-width:80%!important;}
+
+
+
+@media (max-width: 1309px)  {
+body .global-hero {padding-top: 130px;padding-bottom: 140px;}
+}
+
+@media (max-width: 1023px) {
+.horizontal-tabs {background-image:none!important;}
+}
+
+@media (max-width: 1330px) and (min-width: 1024px) {
+body .global-hero .col-md-10 {margin-left:10px!important;}
+}
+
+@media (max-width: 460px) {
+.infostealers {display:block;}
+}
+
+@media (min-width: 1024px) {
+.wistia-embed-wrapper {
+right:0!important;
+top:70px!important;
+}
+
+}
+
+@media (min-width:524px) {
+.defenses {display:block;}
+.nonePast {display:block;}
+}
+
+@media (max-width: 460px) {
+.nonePast {display:block;}
+}
+
+@media (max-width: 992px) {
+.wistia-embed-wrapper {margin-bottom:100px!important;}
+.body .global-hero .wistia-embed-wrapper img {max-width:90%!important;}
+.global-hero .content-styled p {
+margin: 20px 0 30px 0 !important;
+}
+.desktop-hero-text {display:none!important;}
+.mobile-hero-text {
+display:block!Important;
+}
+}
+
+@media (min-width: 1420px) {
+.global-hero .container-fluid {padding:0 50px!important;}
+}
+
+@media (max-width: 1023px) {
+.global-hero .col-md-10 {
+margin:0 auto!important;
+text-align:center;
+}
+.global-hero h2 {
+width:fit-content;
+margin:0 auto 10px;
+}
+.typewriter-wrapper {
+height:2em!important;
+}
+.typewriter-text {margin:0 auto!important;}
+
+}
+@media (max-width: 1800px) and (min-width: 1025px) {
+}
+@media (min-width: 1801px) {
+.typewriter-wrapper {height:88px!important;}
+}
+.global-hero .btn-full {margin-bottom:20px!important;}
+
+
+@media (max-width: 520px) {
+.global-hero h2:before {display:none!important;}
+.global-hero h2 {padding:0!important;}
+.global-hero a.btn.btn-full:nth-child(1) {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+}
+
+.pain-points {margin-top:-50px;}
+.full_width.background-black {background:#011E23;}
+
+.columns.background-grey,.full_width.background-grey {background:#e7e5df;}
+
+.columns img {border-top-right-radius:15px;border-top-left-radius:15px;}
+
+.columns .col-md-4 {padding:0 10px!important;}
+
+.columns .content-styled {border-radius:15px;background:white;}
+
+.columns .columns-content, .columns .columns-cta {padding:0 15px;}
+
+.columns .columns-title {display:none;}
+
+.columns h4 {font-size:22px;margin:25px 0 5px;}
+
+.columns p {font-size:16px;margin-bottom:0!important;}
+
+.columns img {
+    margin: 10px 0;
+}
+
+.columns .columns-cta a {margin-bottom:25px!important;}
+
+.full_width h4 {text-align:center;}
+
+.full_width p {font-size:20px;text-align:center;}
+
+
+
+
+
+/* Testimonial Slider */
+
+.testimonial {
+	text-align: center;
+	color: black;
+	margin: 80px 30px;
+	padding: 30px 40px;
+	border-radius: 30px;
+	position: relative;
+	z-index: 1;
+}
+
+.testimonial:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #f7f5f5;
+	border-radius: 30px;
+	z-index: -3;
+}
+
+.testimonial:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #d61e2a;
+	border-radius: 30px;
+	transform: rotate(-4deg);
+	z-index: -4;
+}
+
+.testimonial .pic {
+	display: inline-block;
+	margin-bottom: 10px;
+	max-width: 200px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.testimonial .pic img {
+	width: 100%;
+	height: 100%;
+	margin: 0 !important;
+}
+
+.testimonial .testimonial-content {
+	font-size: 22px;
+	letter-spacing: 1px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+
+.testimonial .testimonial-content p {
+	font-size: 22px;
+	color: black !important;
+}
+
+.testimonial .testimonial-title a {
+	display: inline-block;
+	color: #FB8C00;
+	font-size: 20px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.testimonial .testimonial-title a {
+	margin: 25px 0 0 0 !important;
+	border-radius: 40px !important;
+	font-size: 16px;
+}
+
+.testimonial .testimonial-title small {
+	color: black;
+	font-size: 15px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	line-height: 2;
+	display: block;
+}
+
+.testimonial .testimonial-title {
+	color: black;
+	margin-top: 50px !important;
+}
+
+.owl-theme .owl-controls {
+	margin-top: 0px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+	display: inline-block;
+	opacity: 1;
+	background: #f7f5f5;
+	color: #d61e2a;
+	border-radius: 0;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	margin-right: 5px;
+        border-radius:7.4px;
+}
+
+.owl-prev:before {
+	content: "<";
+	font-size: 20px;
+}
+
+.owl-next:before {
+	content: ">";
+	font-size: 20px;
+}
+
+.full_width.background-black:after {
+	display: none;
+}
+/* End Testimonial Slider */
+
+.featured_content_tdr {
+    background: url(https://redcanary.com/wp-content/uploads/2025/03/Grid.svg);
+    background-size: cover;
+    background-position-y: 285px;
+    background-repeat: no-repeat;
+}
+
+.featured_content_tdr .featured-primary {
+    background:#011E23;
+    border-radius:7.4px;
+}
+
+.featured_content_tdr .featured-primary .feature-content-tdr-content {
+    padding:20px;
+}
+
+.featured_content_tdr .featured-content-tdr-wrapper, .featured_content_tdr .block-title {
+    margin:0 30px;
+}
+
+.featured_content_tdr .featured-content-tdr-container {
+    display:flex;
+    gap:20px;
+}
+
+.featured_content_tdr .featured-content-tdr-image {
+    width:100%;
+}
+
+.featured_content_tdr .featured-content-tdr-image img {
+    padding:0 0 15px 0;
+    border-top-left-radius:7.4px;
+    border-top-right-radius:7.4px;
+}
+
+.featured_content_tdr .featured-content-tdr-container .featured-content-tdr-column {
+    flex:1;
+    display:flex;
+    padding:0;
+}
+
+.featured_content_tdr .featured-content-tdr-container .featured-content-tdr-column2 {
+    flex-direction:column;
+    justify-content:space-between;
+}
+
+.featured_content_tdr .featured-content-tdr-container .add-content-tdr-content {
+    background:#E7E5DF;
+    padding:20px;
+}
+
+.featured_content_tdr .add-content-tdr-content {
+    border-radius:7.4px;
+}
+
+.featured_content_tdr .add-content-tdr-subtitle, .featured_content_tdr .featured-content-tdr-subtitle {
+    font-size: 14px;
+    color: black;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.featured_content_tdr .add-content-tdr-title {
+    font-size: 22px;
+    color: black;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.featured_content_tdr .featured-content-tdr-subtitle {
+    font-size: 14px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.featured_content_tdr .add-content-tdr-subtitle, .featured_content_tdr .add-content-tdr-title {
+    width:85%;
+}
+
+.featured_content_tdr .featured-content-tdr-title {
+    font-size: 22px;
+    color: white;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom:30px;
+}
+
+.featured_content_tdr .block-title {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 30px;
+    margin-bottom:20px;
+}
+
+@media (max-width: 1200px) {
+    .featured_content_tdr .add-content-tdr-subtitle {
+        margin-bottom:10px;
+    }
+    .featured_content_tdr .add-content-tdr-title {
+        font-size:18px!important;
+    }
+}
+
+@media (max-width: 992px) {
+    .featured_content_tdr .featured-content-tdr-container .featured-content-tdr-column {
+        flex:none;
+    }
+    .add-content-tdr-content {
+        margin-bottom:20px;
+    }
+    .add-content-dr-info .add-content-tdr-content:after {
+        right: 18px;
+        bottom: 35px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .add-content-tdr-content {
+        min-height:140px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .add-content-tdr-content {
+        min-height:125px;
+    }
+}
+
+@media (max-width: 767px) {
+    .featured_content_tdr .block-title, .featured_content_tdr .featured-content-tdr-wrapper {
+        margin-left:0!important;
+        margin-right:0!important;
+    }
+.columns .col-md-4 {padding:0 40px!important;}
+}
+
+.pagebuilder-featured_columns {display:none;}
+
+.global-hero .container-fluid {background:url('https://redcanary.com/wp-content/uploads/2025/07/Crop_HomepageHero_BlueWave.svg');background-repeat:no-repeat; background-position:bottom right;}
+
+@media (min-width: 1023px) and (max-width: 1359px) {
+.global-hero .container-fluid {padding-bottom:40px!important;}
+}
+
+@media (max-width: 1309px) {
+body .global-hero {padding-bottom:0!important;}
+}
+
+@media (max-width: 1023px) {
+.global-hero .container-fluid {background:none!important;}
+.pain-points {margin-top:70px;}
+}
+
+.global-header a.btn.btn-full {border-radius:30px!important;}
+
+.footer-cta {background-color:#031e22!important;background-image:url('https://redcanary.com/wp-content/uploads/2025/07/Flock_HomepageFooter_RedCanary.svg')!important;    background-size: 20% !important;
+    background-position-x: 80% !important;}
+
+.custReview {color:black!important;text-align:center;}
+
+.full_width.background-transparent {background-color: #4564ed;!important;}
+
+
+.add-content-tdr-content {position:relative;} 
+
+.add-content-dr-info .add-content-tdr-content:after {
+    content: "";
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #d1212f;
+    border-radius: 50%;
+    background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-white.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 30%;
+    background-position-x: 15px;
+}
+
+.add-content-dr-info .add-content-tdr-content:hover:after { background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-white.svg);animation: fillBackground 1s forwards;
+}
+
+.featured-content-tdr-info .feature-content-tdr-content:after {
+    content: "";
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+    background-color: #d1212f;
+    border-radius: 50%;
+    background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-white.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 30%;
+    background-position-x: 15px;
+}
+
+.featured-content-tdr-info:hover .feature-content-tdr-content:after { background-image: url(/wp-content/themes/redcanary/assets/img/button-right-arrow-red.svg);animation: fillBackgroundDark 1s forwards;
+}
+
+
+@keyframes fillBackground {
+0% {
+background-size: 30%;
+background-color: #d1212f;
+background-position:left center;
+}
+100% {
+background-color: #011E23;
+background-position-x: 15px;
+}
+}
+
+@keyframes fillBackgroundDark {
+0% {
+background-size: 30%;
+background-color: #d1212f;
+background-position:left center;
+}
+100% {
+background-color: #E7E5DF;
+background-position-x: 15px;
+}
+}
+
+@media (max-width: 991px) {
+h1 {font-size:32px!important;}
+}</style> <script>document.addEventListener("DOMContentLoaded", function() {
+        new Swiper(".swiper", {
+            slidesPerView: 1.1,
+            spaceBetween: 20,
+            centeredSlides: true,
+            loop: true,
+            navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+            },
+            breakpoints: {
+                1024: { slidesPerView: 1.2 },
+                768: {slidesPerView: 2 },
+                480: {slidesPerView: 1.3 }
+            }
+        });
+    });</script> <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script> <script>$(document).ready(function() {
+        $('#testimonial-slider').owlCarousel({
+            items: 1,
+            itemsDesktop: [1000,1],
+            itemsDesktopSmall: [979,1],
+            itemsTablet: [768, 1],
+            pagination: false,
+            navigation: true,
+            navigationText: ["",""],
+            slideSpeed: 5000,
+            autoPlay: true
+        });
+    });</script> <a class="to-top" href="#backtotop" style="display: block; height: 0px; width: 0px; opacity: 0; z-index: -1; font-size: 0px; overflow: hidden;">Back to Top</a> <script>window.uetq=window.uetq||[];
+  window.uetq.push('set', { 'pid': {
+    'em': "Email",
+    'ph': "Phone"
+  }});</script> <script>$(window).on('load', function() {
+            setTimeout(function() {
+                $('.match-height-package-list').matchHeight({
+                byRow: true,
+                property: 'min-height',
+                target: null,
+                remove: false
+            });   
+            console.log('matched'); 
+            }, 1000);
+        });</script> <script>(function() {
+
+    const UTM_COOKIE_EXPIRATION_HOURS = 1;
+    const UTM_COOKIE_EXPIRATION_MS = UTM_COOKIE_EXPIRATION_HOURS * 60 * 60 * 1000;
+    const SESSION_COOKIE_NAME = 'utm_session_set';
+
+    // Manage Cookies
+    function setCookie(name, value, expirationMs) {
+        const date = new Date();
+        date.setTime(date.getTime() + expirationMs);
+        document.cookie = `${name}=${value}; expires=${date.toUTCString()}; path=/`;
+    }
+
+    // Get Cookies
+    function getCookie(name) {
+        const match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+        return match ? match[2] : null;
+    }
+
+    // Delete Cookie
+    function deleteCookie(name) {
+        document.cookie =  `${name}=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/`;
+    }
+
+    // Get UTM Parameters
+    function getUTMParameters() {
+        const urlParams = new URLSearchParams(window.location.search);
+        return {
+            utm_source: urlParams.get('utm_source'),
+            utm_medium: urlParams.get('utm_medium'),
+            utm_campaign: urlParams.get('utm_campaign'),
+            utm_term: urlParams.get('utm_term'),
+            utm_content: urlParams.get('utm_content')
+        };
+    }
+
+    // Check if There is already a UTM Cookie
+    function isUTMInCookie() {
+        return getCookie('utm_source') && getCookie('utm_medium') && getCookie('utm_campaign');
+    }
+
+    // Set Referral Source
+    function getReferralSource(referrer) {
+        if(referrer.includes('google.com')) return 'Google';
+        if(referrer.includes('yahoo.com')) return 'Yahoo';
+        if(referrer.includes('bing.com')) return 'Bing';
+        if(referrer.includes('facebook.com')) return 'Facebook';
+        if(referrer.includes('t.co')) return 'Twitter';
+        if(referrer.includes('linkedin.com')) return 'LinkedIn';
+        return null
+    }
+
+    function setUTMCookies(source, medium, campaign) {
+        setCookie('utm_source', source, UTM_COOKIE_EXPIRATION_MS);
+        setCookie('utm_medium', medium, UTM_COOKIE_EXPIRATION_MS);
+        setCookie('utm_campaign', campaign, UTM_COOKIE_EXPIRATION_MS);
+    }
+
+    // Check for UTM's, if none then set UTM values accordingly
+    (function checkUTMCookies() {
+
+        // Check if there is already a UTM session set
+        if (getCookie(SESSION_COOKIE_NAME)) {
+            console.log('There is already a cookie session');
+            return;
+        }
+
+        const utmParams = getUTMParameters();
+
+        // Check to see if there are utm values in the cookies, if there aren't then check if there are utm values in the url. 
+        if (utmParams.utm_source || utmParams.utm_medium || utmParams.utm_campaign) {
+            if (!isUTMInCookie()) {
+                if (utmParams.utm_source) setCookie('utm_source', utmParams.utm_source, UTM_COOKIE_EXPIRATION_MS);
+                if (utmParams.utm_medium) setCookie('utm_medium', utmParams.utm_medium, UTM_COOKIE_EXPIRATION_MS);
+                if (utmParams.utm_campaign) setCookie('utm_campaign', utmParams.utm_campaign, UTM_COOKIE_EXPIRATION_MS);
+                if (utmParams.utm_term) setCookie('utm_term', utmParams.utm_term, UTM_COOKIE_EXPIRATION_MS);
+                if (utmParams.utm_content) setCookie('utm_content', utmParams.utm_content, UTM_COOKIE_EXPIRATION_MS);
+
+                console.log('UTMs Values In URL Are: ' + utmParams.utm_source + ', ' + utmParams.utm_medium + ', ' + utmParams.utm_campaign + ', ' + utmParams.utm_term + ', ' + utmParams.utm_content);
+            }
+        } else {
+
+        //If there are no UTM Values in the URl or cookies, check for a referral url and then set UTM values accordingly 
+        const referrer = document.referrer;
+
+        if (!referrer || referrer.startsWith('https://redcanary.com')) {
+
+            setUTMCookies('redcanary.com', 'direct', 'Not-Provided');
+            console.log('There was either no referal URL or the referal URL was RC Related');
+
+        } else if (referrer.startsWith('https://docs.redcanary.com')) {
+
+            setUTMCookies('docs.redcanary.com', 'direct', 'Not-Provided');
+            console.log('The referal URL was from the RC docs site');
+
+        } else {
+            const source= getReferralSource(referrer);
+            if (source === 'Google' || source === 'Yahoo' || source === 'Bing') {
+                setUTMCookies(source, 'organicsearch', 'Not-Provided');
+                console.log('There Referall URL is: ' + source + '. Meaning the medium is Organic Search.');
+            } else if (source === 'Facebook' || source === 'Twitter' || source === 'LinkedIn') {
+                setUTMCookies(source, 'organicsocial', 'Not-Provided');
+                console.log('There Referall URL is: ' + source + '. Meaning the medium is Organic Social.');
+            } else {
+                setUTMCookies(referrer, 'referral', 'Not-Provided');
+                console.log('The referall URL is: ' + referrer);
+            }
+        }
+    }
+
+        // Set the cookie session so they are not re-set
+        setCookie(SESSION_COOKIE_NAME, 'true', UTM_COOKIE_EXPIRATION_MS);
+    })();
+
+    // Observer function to look for Marekto form load
+    const observer = new MutationObserver((mutations, observer) => {
+        const form = document.querySelector('form.mktoForm');
+
+        if (form) {
+            setTimeout(() => {
+                form.querySelector('input[name="mktoUTMSource"]').value = getCookie('utm_source') || '';
+                form.querySelector('input[name="mktoUTMMedium"]').value = getCookie('utm_medium') || '';
+                form.querySelector('input[name="mktoUTMCampaign"]').value = getCookie('utm_campaign') || '';
+                const utmTermInput = form.querySelector('input[name="mktoUTMTerm"]');
+                if (utmTermInput) {
+                    utmTermInput.value = getCookie('utm_term') || '';
+                }
+                // form.querySelector('input[name="mktoUTMTerm"]').value = getCookie('utm_term') || '';
+                const utmContentInput = form.querySelector('input[name="mktoUTMContent"]')
+                if (utmContentInput) {
+                    utmContentInput.value = getCookie('utm_content') || '';
+                }
+                // form.querySelector('input[name="mktoUTMContent"]').value = getCookie('utm_content') || '';
+
+                observer.disconnect();
+            }, 3000);
+        }
+    });
+
+    // Begin the Observation function
+    observer.observe(document.body, {childList: true, subtree: true});
+
+})();</script> <script>function populateUTMFields() {
+		const utmFieldMapping = {
+			'utm_source': 'mktoUTMSource',
+			'utm_medium': 'mktoUTMMedium',
+			'utm_campaign': 'mktoUTMCampaign',
+			'utm_term': 'mktoUTMTerm',
+			'utm_content': 'mktoUTMContent'
+		};
+		
+		console.log('Here are the fields ' + utmFieldMapping);
+		
+		for (let utmParam in utmFieldMapping) {
+			let cookieValue = getCookie(utmParam);
+			if (cookieValue !== null) {
+				let fieldName = utmFieldMapping[utmParam];
+				let input = document.querySelector(`input[name="${fieldName}"]`);
+				if (input) {
+					if (!input.value) {
+						console.log(`Setting Value for ${fieldName}: ${cookieValue}`);
+						input.value = cookieValue;
+					} else {
+						console.log(`Field ${fieldName} already has a value, not setting cookie value.`);
+					}
+				} else {
+					console.log(`UTM Input field not found: ${fieldName}`);
+				}
+			}
+		}
+	}
+	
+	function observeFormLoad() {
+		const observer = new MutationObserver((mutations, observer) => {
+			let form = document.querySelector('form.mktoForm');
+			if (form) {
+				console.log('Marketo Form detected in DOM');
+				
+				setTimeout(() => {
+					console.log('3 seconds Passed, Populating UTM Fields');
+					populateUTMFields();
+				}, 3000);
+				
+				observer.disconnect();
+			}
+		});
+		
+		observer.observe(document.body, {childList: true, subtree: true });
+	}
+	
+	getUTMParameters();
+	observeFormLoad();</script> <script>window.onload = function() {
+		  const getURLGCLIDParam = location.search.split('gclid=')[1];
+          // Check if Cookie Exists
+          function checkCookieExists(cookieName) {
+              var cookies = document.cookie.split("; ");
+              for (var i = 0; i < cookies.length; i++) {
+                  var cookie = cookies[i].split("=");
+                  if (cookie[0] === cookieName) {
+              return true;
+              }
+              }
+              return false;
+          }
+
+          // Check if input exists
+          function checkInputExists(inputName) {
+              var input = document.querySelector('input[name="' + inputName + '"][type="hidden"]');
+              return input !== null;
+          }
+
+          // Get Cookie Value
+          function getCookie(name) {
+          var cookies = document.cookie.split("; ");
+          for (var i = 0; i < cookies.length; i++) {
+              var cookie = cookies[i].split("=");
+              if (cookie[0] === name) {
+              return decodeURIComponent(cookie[1]);
+              }
+          }
+          return null;
+          }
+	
+          var cookieExists = checkCookieExists("gclid");
+          var inputExists = checkInputExists("GCLID__c");
+          var cookieValue = getCookie("gclid");
+
+          // If input and cookie exists, set cookie value as input value
+          if(getURLGCLIDParam){
+            document.cookie = "gclid=" + getURLGCLIDParam; 
+          }
+
+
+          if(cookieExists){
+            console.log("Cookie Exists. " + cookieValue);
+          } else{
+
+            console.log("Cookie does not exist.");
+          }
+
+          if(inputExists){
+            console.log("Input Exists.");
+          } else{
+
+            console.log("Input does not exist.");
+          }
+
+          if (inputExists && cookieExists) {
+              document.querySelector('input[name="GCLID__c"][type="hidden"]').value = cookieValue;
+          } else {
+              console.log("Input and Cookie does not exist.");
+          }
+      }</script>  <script>document.addEventListener("DOMContentLoaded", function() {
+		const scopeSelectors = [
+			'main a[href]',
+			'.tdr-main-wrapper a[href]',
+			'.global-hero a[href]'
+		];
+		
+		const anchors = document.querySelectorAll(scopeSelectors.join(','));
+		anchors.forEach(anchor => {
+			const href = anchor.getAttribute('href');
+			if (
+			href &&
+			!href.startsWith('https://redcanary.com/') &&
+			!href.startsWith('#') &&
+			!href.startsWith('/') &&
+			!href.startsWith('javascript:')
+			) {
+				anchor.setAttribute('target', '_blank');
+				anchor.setAttribute('rel', 'noopener noreferrer');
+			}
+		});
+	});</script> <script defer src="https://redcanary.com/wp-content/cache/autoptimize/js/autoptimize_7b38ca29273224c4ecb2a43fdd286ea7.js"></script></body></html><style>@media (max-width: 992px) {body.home .global-hero .wistia-embed-wrapper {margin-bottom:50px!important;} body.home .featured_content_tdr {padding-top:50px!important;}}</style>

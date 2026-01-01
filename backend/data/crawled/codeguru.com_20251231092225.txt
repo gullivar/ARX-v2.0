@@ -1,0 +1,208 @@
+facebook
+linkedin
+x
+SUBSCRIBE
+NEWS
+C++
+C#
+.NET
+VISUAL BASIC
+JAVA
+DATABASE
+AZURE
+IOT
+MOBILE
+RESEARCH
+MORE
+FORUMS
+RECENT HIGHLIGHTS
+TOOLS
+A Hands-On Test of GoDaddy vs Squarespace: Click-to-Ship or Code-to-Shine?
+
+TL;DR for developers Need a site up before lunch? GoDaddy’s new Airo AI builder asks a handful of questions, spins up copy, images, a logo, and even basic marketing emails. Design-heavy or code-curious? Squarespace still wins with full CSS/JS injection, Developer Mode, and gorgeous templates that beg for custom flourishes. Squarespace’s revamped 2025 plans bake […]
+
+JULIANNE NNGIRNGIR
+JUN 20, 2025
+TOOLS
+Wix vs. GoDaddy: Which Builder Actually Lets You Code?
+JULIANNE NNGIRNGIR
+MAY 22, 2025
+TOOLS
+Wix vs Squarespace: The Developer Verdict You Actually Need
+COREY NOLES
+MAY 22, 2025
+C#
+VIEW ALL
+C#
+C# vs Java
+NICHOLAS RINI
+MAR 24, 2023
+C#
+C# versus C
+NICHOLAS RINI
+MAR 22, 2023
+.NET
+Different Types of JIT Compilers in .NET
+TARIQ SIDDIQUI
+MAR 17, 2023
+C#
+Middleware in ASP.NET Core
+TARIQ SIDDIQUI
+MAR 16, 2023
+C#
+Overview of Access Modifiers in C#
+JOYDIP KANJILAL
+MAR 1, 2023
+C#
+An Overview of Properties in C#
+JOYDIP KANJILAL
+FEB 26, 2023
+POPULAR ARTICLES
+How to Use Excel for Project Management
+TOOLS
+Tips for Creating Effective Presentations in PowerPoint
+TOOLS
+An Overview of C# Encapsulation
+C#
+C++
+VIEW ALL
+C++
+Video Game Careers Overview
+CODEGURU STAFF
+SEP 18, 2022
+.NET
+Dealing with non-CLS Exceptions in .NET
+HANNES DUPREEZ
+AUG 5, 2022
+C++
+Online Courses to Learn Video Game Development
+RONNIE PAYNE
+JUL 8, 2022
+C++
+Best Online Courses to Learn C++
+CODEGURU STAFF
+JUN 25, 2022
+.NET
+VIEW ALL
+.NET
+Intro to Intel oneDAL and ML.NET
+HANNES DUPREEZ
+JAN 16, 2023
+.NET
+Types of Query Execution in LINQ
+TARIQ SIDDIQUI
+DEC 15, 2022
+.NET
+Best Microsoft Certifications for Developers
+ENRIQUE STONE
+NOV 1, 2022
+.NET
+Working With Cookies in ASP.NET 6 Core
+JOYDIP KANJILAL
+OCT 18, 2022
+.NET
+How to Create Razor Pages in .NET Core
+TARIQ SIDDIQUI
+OCT 9, 2022
+.NET
+.NET Core versus .NET Framework
+TARIQ SIDDIQUI
+SEP 17, 2022
+AZURE
+AZURE
+Create and Configure Azure Network Watcher
+
+An Azure network watcher is a feature in Azure that enables developers to monitor and troubleshoot applications in the Azure Virtual Network. Azure network watchers also provide tools to monitor, diagnose, view metrics, and enable (or disable) logs for resources in an Azure Virtual Network. It is designed to monitor and repair the network health […]
+
+TAPAS PAL
+|
+JUN 7, 2022
+Create a Dedicated SQL Pool in Azure
+DATABASE
+How to Migrate On-premise SQL Database to Azure
+AZURE
+Create An Azure File Sync Service
+AZURE
+Azure Storage Account Replication Types
+AZURE
+Configuring Security Rules In Azure Firewall
+AZURE
+Create a Dedicated SQL Pool in Azure
+DATABASE
+How to Migrate On-premise SQL Database to Azure
+AZURE
+Create An Azure File Sync Service
+AZURE
+Azure Storage Account Replication Types
+AZURE
+Configuring Security Rules In Azure Firewall
+AZURE
+Create a Dedicated SQL Pool in Azure
+DATABASE
+How to Migrate On-premise SQL Database to Azure
+AZURE
+Create An Azure File Sync Service
+AZURE
+TOOLS
+VIEW ALL
+TOOLS
+Top Free Web Hosting Services in 2025: What Devs Need to Know
+JULIANNE NNGIRNGIR
+APR 24, 2025
+TOOLS
+Shopify vs Squarespace: The Developer Verdict You Actually Need
+COREY NOLES
+APR 17, 2025
+TOOLS
+Bluehost vs GoDaddy: Which Web Host is Right for You?
+COREY NOLES
+MAR 31, 2025
+TOOLS
+Web Hosting for Small Business: Which is Best for Pricing, Tools, Performance, and Flexibility?
+JULIANNE NNGIRNGIR
+MAR 25, 2025
+TOOLS
+Microsoft Office 365 Review
+ENRIQUE STONE
+MAR 24, 2023
+TOOLS
+Microsoft Teams Tips and Tricks
+ENRIQUE STONE
+MAR 10, 2023
+GET THE FREE NEWSLETTER!
+
+Subscribe to Developer Insider for top news, trends & analysis
+
+By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy.
+JOIN FOR FREE
+
+CodeGuru covers topics related to Microsoft-related software development, mobile development, database management, and web application programming. In addition to tutorials and how-tos that teach programmers how to code in Microsoft-related languages and frameworks like C# and .Net, we also publish articles on software development tools, the latest in developer news, and advice for project managers. Cloud services such as Microsoft Azure and database options including SQL Server and MSSQL are also frequently covered.
+
+facebook
+linkedin
+x
+COMPANY
+Contact us
+Advertise with us
+CATEGORIES
+News
+C++
+C#
+.NET
+Visual Basic
+Java
+Database
+Azure
+IoT
+Mobile
+Research
+Tools
+Blog
+
+Property of TechnologyAdvice. © 2025 TechnologyAdvice. All Rights Reserved
+
+Advertiser Disclosure: Some of the products that appear on this site are from companies from which TechnologyAdvice receives compensation. This compensation may impact how and where products appear on this site including, for example, the order in which they appear. TechnologyAdvice does not include all companies or all types of products available in the marketplace.
+
+TERMS OF SERVICE
+PRIVACY POLICY
+CALIFORNIA - DO NOT SELL MY INFORMATION

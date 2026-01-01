@@ -1,0 +1,402 @@
+Sign up
+Sales: 007-9814-2030-192
+Platform
+Connectivity cloud
+Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance services.
+Enterprise
+For large and medium organizations
+Small business
+For small organizations
+Partner
+Become a Cloudflare partner
+
+USE CASES
+
+Modernize applications
+
+Accelerate performance
+Ensure app availability
+Optimize web experience
+
+Modernize security
+
+VPN replacement
+Phishing protection
+Secure web apps and APIs
+
+Modernize networks
+
+Coffee shop networking
+WAN modernization
+Simplify your corporate network
+
+CXO TOPICS
+
+Adopt AI
+Bring AI into workforces and digital experiences
+AI security
+Secure agentic AI and GenAI applications
+Data compliance
+Streamline compliance and minimize risk
+Post-quantum cryptography
+Safeguard data and meet compliance standards
+
+Industries
+
+Healthcare
+Banking
+Retail
+Gaming
+Public sector
+
+Resources
+
+Product guides
+Reference architectures
+Analyst reports
+
+Engage
+
+Events
+Demos
+Webinars
+Workshops
+Request a demo
+Products
+
+PRODUCTS
+
+Workspace security
+
+Zero trust network access
+Secure web gateway
+Email security
+Cloud access security broker
+
+Application security
+
+L7 DDoS protection
+Web application firewall
+API security
+Bot management
+
+Application performance
+
+CDN
+DNS
+Smart routing
+Load balancing
+
+Networking and SASE
+
+L3/4 DDoS protection
+NaaS / SD-WAN
+Firewall-as-a-service
+Network Interconnect
+
+PLANS & PRICING
+
+Enterprise plans
+Small business plans
+Individual plans
+Compare plans
+
+GLOBAL SERVICES
+
+Support and success bundles
+Optimized Cloudflare experience
+Professional services
+Expert-led implementation
+Technical account management
+Focused technical management
+Security operations service
+Cloudflare monitoring and response
+Domain registration
+Buy and manage domains
+1.1.1.1
+Free DNS resolver
+
+Resources
+
+Product guides
+Reference architectures
+Analyst reports
+Product demos and tours
+Help me choose
+Developers
+
+DOCUMENTATION
+
+Developer library
+Documentation and guides
+Application demos
+Explore what you can build
+Tutorials
+Step-by-step build tutorials
+Reference architecture
+Diagrams and design patterns
+
+PRODUCTS
+
+Artificial Intelligence
+
+AI Gateway
+Observe, control AI apps
+Workers AI
+Run ML models on our network
+
+Compute
+
+Observability
+Logs, metrics, and traces
+Workers
+Build, deploy serverless apps
+
+Media
+
+Images
+Transform, optimize images
+Realtime
+Build real-time audio/video apps
+
+Storage & database
+
+D1
+Create serverless SQL databases
+R2
+Store data without costly egress fees
+
+PLANS & PRICING
+
+Workers
+Build and deploy serverless apps
+Workers KV
+Serverless key-value store for apps
+R2
+Store data without costly egrees fees
+Explore projects
+Customer stories
+AI Demo in 30 seconds
+Quick guide to get started
+Explore Workers Playground
+Build, test, and deploy
+Developers Discord
+Join the community
+Start building
+Partners
+Partner Network
+Grow, innovate and meet customer needs with Cloudflare
+Partner Portal
+Find resources and register deals
+
+PARTNERSHIP TYPES
+
+PowerUP Program
+Grow your business while keeping your customers connected and secure
+Technology Partners
+Explore our ecosystem of technology partners and integrators
+Global System Integrators
+Support seamless large-scale digital transformation
+Service Providers
+Discover our network of valued service providers
+Self-serve agency program
+Manage Self-Serve Accounts for your clients
+Peer-to-peer portal
+Traffic insights for your network
+Find a partner
+PowerUP your business - connect with Cloudflare Powered+ partners.
+Resources
+
+ENGAGE
+
+Demos + product tours
+On-demand product demos
+Case studies
+Driving success with Cloudflare
+Webinars
+Insightful discussions
+Workshops
+Virtual forums
+Library
+Helpful guides, roadmaps, and more
+Reports
+Insights from Cloudflare’s research
+Blog
+Technical deep dives and product news
+Learning center
+Educational tools and how-to content
+
+BUILD
+
+Reference architecture
+Technical guides
+Solution + product guides
+Product documentation
+Documentation
+Developer documentation
+
+EXPLORE
+
+theNET
+Executive insights for the digital enterprise
+Cloudflare TV
+Innovative series and events
+Cloudforce One
+Threat research and operations
+Radar
+Internet traffic and security trends
+Analyst reports
+Industry research reports
+Events
+Upcoming regional events
+Trust, privacy, and compliance
+Compliance information and policies
+
+Support
+
+Contact us
+Community forum
+Lost account access?
+Developers Discord
+Get help
+Company
+
+COMPANY INFO
+
+Leadership
+Meet our leaders
+Investor relations
+Investor information
+Press
+Explore recent news
+Careers
+Explore open roles
+
+TRUST, PRIVACY, & SAFETY
+
+Privacy
+Policy, data, and protection
+Trust
+Policy, process, and safety
+Compliance
+Certification and regulation
+Transparency
+Policy and disclosures
+
+PUBLIC INTEREST
+
+Humanitarian
+Project Galileo
+Government
+Athenian Project
+Elections
+Cloudflare For Campaigns
+Health
+Project Fair Shot
+Global network
+Global locations and status
+Log in
+Contact sales
+Browsing Experience Security Check
+How secure is your browsing experience?
+When you browse websites, there are several points where your privacy could be compromised, such as by your ISP or the coffee shop owner providing your WiFi connection. This page automatically tests whether your DNS queries and answers are encrypted, whether your DNS resolver uses DNSSEC, which version of TLS is used to connect to the page, and whether your browser supports securing the Server Name Indication (SNI) using Encrypted Client Hello (ECH).
+Check My Browser
+What do the results mean?
+If I pass all four tests, am I secure no matter which site I browse?
+Secure DNS
+
+Return to top
+
+Traditionally, DNS queries are sent in plaintext. Anyone listening on the Internet can see which websites you are connecting to.
+
+To ensure your DNS queries remain private, you should use a resolver that supports secure DNS transport such as DNS over HTTPS (DoH) or DNS over TLS (DoT).
+
+The fast, free, privacy focused 1.1.1.1 resolver supports DNS over TLS (DoT), which you can configure by using a client that supports it. For a list of these take a look here. DNS over HTTPS can be configured in Firefox today using these instructions. Both will ensure your DNS queries remain private.
+
+DNSSEC
+
+Return to top
+
+DNSSEC allows a user, application, or recursive resolver to trust that the answer to their DNS query is what the domain owner intends it to be.
+
+Put another way: DNSSEC proves authenticity and integrity (though not confidentiality) of a response from the authoritative name server. Doing so makes it much harder for a bad actor to inject malicious DNS records into the resolution path through BGP leaks and cache poisoning. This type of tampering can allow an attacker to divert all traffic to a server they control or stop the encryption of SNI, exposing the hostname you are connecting to.
+
+Cloudflare provides free DNSSEC support to everyone. You can read more about DNSSEC and Cloudflare at https://www.cloudflare.com/learning/dns/dnssec/how-dnssec-works/.
+
+TLS 1.3
+
+Return to top
+
+TLS 1.3 is the latest version of the TLS protocol and contains many improvements for performance & privacy.
+
+If you're not using TLS 1.3, then the certificate of the server you are connecting to is not encrypted, allowing anyone listening on the Internet to discover which websites you are connecting to.
+
+All websites on Cloudflare get TLS 1.3 support enabled as default - you can check your setting at any time by visiting the crypto section of the Cloudflare dashboard. To read more about TLS 1.3 visit https://www.cloudflare.com/learning/ssl/why-use-tls-1.3/
+
+As a website visitor you should ensure you are using a browser which supports TLS 1.3 today by visiting this page and choosing a compatible browser.
+
+Secure SNI
+
+Return to top
+
+Encrypted Client Hello (ECH) is an extension of the TLS handshake protocol that prevents privacy-sensitive parameters of the handshake from being exposed to anyone between you and Cloudflare. This protection extends to the Server Name Indication (SNI), which would otherwise expose the hostname that you want to connect to when establishing a TLS connection.
+
+
+ECH is not yet widely available for web services behind Cloudflare, but we are working closely with browser vendors on the implementation and deployment of this important privacy enhancement for TLS. Read more in the blog post introduction to ECH and our more recent update on the process of making this protection more widespread.
+
+GETTING STARTED
+
+Free plans
+Small business plans
+For enterprises
+Get a recommendation
+Request a demo
+Contact sales
+
+SOLUTIONS
+
+Connectivity cloud
+Application services
+SASE and workspace security
+Network services
+Developer platform
+
+SUPPORT
+
+Help center
+Customer support
+Community forum
+Developers Discord
+Lost account access?
+Cloudflare status
+
+COMPLIANCE
+
+Compliance resources
+Trust
+GDPR
+Responsible AI
+Transparency report
+Report abuse
+
+PUBLIC INTEREST
+
+Project Galileo
+Athenian Project
+Cloudflare for Campaigns
+Project Fairshot
+
+COMPANY
+
+About Cloudflare
+Network map
+Our team
+Logos & press kit
+Diversity, equity, & inclusion
+Impact/ESG
+© 2025 Cloudflare, Inc.
+Privacy Policy
+Terms of Use
+Report Security Issues
+Cookie Preferences
+Trademark

@@ -1,0 +1,129 @@
+Home Warranty Plans by American Home Shield® /* ======== Begin temporary promo banner 1650 fix ===== */
+@media screen and (min-width: 1650px) {
+ .hero-promo-slidedown-banner .promo-drawer  {
+    max-width:1650px;
+ }
+}
+/* ===== End temporary promo banner 1650 fix =========*/
+/* ======== Begin temporary app padding callout fix ===== */
+.ahs-home-warranty-plans {
+    padding-bottom: 0;
+ }
+@media screen and (min-width: 768px) {
+ .ahs-home-warranty-plans {
+    padding-bottom: 70px;
+ }
+}
+/* ===== End temporary app padding callout fix =========*/
+
+.ahs-what-is-home-warranty {
+    padding: 75px 0;
+}
+
+@media screen and (min-width: 1650px){
+.ahs-what-is-home-warranty {
+    padding: 90px 0 130px;
+}
+}
+@media screen and (max-width: 768px) {
+  [data-g="promo-link"] {
+    display: none;
+  }    
+  .ahs-promo-banner--slim__grid .ahs-text-content--l{
+  font-size: 1.3rem!important;
+  }
+  .ahs-promo-banner--slim__grid{
+  display: flex!important;
+  justify-content: center!important;
+  width: 100%!important
+  }
+}
+
+/* ============= Meclabs ================ */
+/* Make dagger smaller on mobile and superscript */
+.dagger-superscript {
+   font-size: .85rem;
+}
+@media screen and (max-width: 768px) {
+  .dagger-superscript {
+    font-size: .6rem!important;
+  }    
+}
+/* ============ Sitewide Permanent ============= */
+/*Asterisk in homepage hero title*/
+ .lg-heading > sup {
+       vertical-align:top;
+       font-size: 1rem;
+}
+@media screen and (max-width: 768px) {
+    .lg-heading > sup {
+        font-size: 0.7rem; /*make asterisk in homepage hero title smaller on mobile*/
+  }   
+}
+@media screen and (max-width: 375px) {
+    #sticky-promo div.promo-drawer.promo-drawer-open div.img > img {
+        display:none; /*hide sticker on really small mobile devices */
+  }   
+}
+/* ============ Sitewide Temp ============= */
+.promo-heading .subtitle {
+    color: #1D1363!important; /* font color of 1st line of hero text */
+}
+.hero-promo-slidedown-banner .grid-container {
+    background-color: #F7F6F1!important; /*bg color of dropdown */
+}
+#sticky-promo div.limited {
+    color: #1D1363!important; /* limited text in dropdown */
+}
+#sticky-promo div.title {
+    color: #182AF0!important; /* title text in dropdown */
+}
+#sticky-promo div.cta > a {
+     background-color: #F31A1A!important; /* CTA bg color */
+     border: #F31A1A!important;
+     color: #fff!important; 
+} × Great! We have coverage in Providing your address ensures an accurate price Address Address is required. Please enter your address. Zip Code Zipcode is required. Please enter your zipcode. Zipcode is out of area. Email Email address is required. Please enter your email address. Phone Phone number is required. Please enter your phone number. Get Started Please confirm your address This is the address you entered: , Edit Address Use You are requesting information from AHS regarding our products and services. By clicking the button, you consent to receive email at the email address you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. You are requesting information from AHS regarding our products and services. By clicking the button above, you consent to receive email at the email address provided, as well as phone calls and text messages (including prerecorded, autodialed and/or AI-generated calls and texts) at the phone number you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. Or call 888-682-1043 for a free quote. Skip to main content 1-888-682-1043 Log In Become a Pro Contact Us Request Service Cotizar en Espanol Home Warranty Details Why AHS Blog FAQs Log In Shop Plans Warranty Services: 1-888-682-1043 Customer Support: 1-800-858-1922 We value your privacy We use cookies and other technologies for tracking, analytics and
+      personalizing the ads or content you see. By using this website, you
+      consent to our use of these technologies. For more information, please
+      visit our Privacy Policy . Limited time: 50% off* select plans LIMITED TIME OFFER Start the New Year with 50% off* select plans Enjoy special savings, and let us handle covered home hassles. Claim Offer Hide offer × Congratulations, you are eligible for coverage in . We’ll show you a detailed comparison chart with current pricing in your area. You can also view a sample agreement. Just provide the basic info below: Address Address is required. Please enter your address. Zip Code Zipcode is required. Please enter your zipcode. Zipcode is out of area. Email Email address is required. Please enter your email address. Phone Phone number is required. Please enter your phone number. Get Started Please confirm your address This is the address you entered: 123 Sunny street Pittsburgh , PA 15101 Edit Address Use You are requesting information from AHS regarding our products and services. By clicking the button below, you consent to receive email at the email address you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. You are requesting information from AHS regarding our products and services. By clicking the button below, you consent to receive email at the email address provided, as well as prerecorded messages, autodialed phone calls and text messages at the phone number you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. American Home Shield® Home Warranty Your home's future is bright 50% off * select plans No system or appliance is too old for AHS home warranty coverage and all of our plans include our 30-day workmanship guarantee. Find coverage in your area Enter Zip Code Shop Plans Consumer Affairs "Buyer's Choice" Winners across all 3 2025 Categories × Congratulations, you are eligible for coverage in . We’ll show you a detailed comparison chart with current pricing in your area. You can also view a sample agreement. Just provide the basic info below: See all covered items See key differences between each plan See your add-on options Address Address is required. Please enter your address. Zip Code Zipcode is required. Please enter your zipcode. Zipcode is out of area. Email Email address is required. Please enter your email address. Phone Phone number is required. Please enter your phone number. Get Started Please confirm your address This is the address you entered: 123 Sunny street Pittsburgh , PA 15101 Edit Address Use You are requesting information from AHS regarding our products and services. By clicking the button, you consent to receive email at the email address you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. You are requesting information from AHS regarding our products and services. By clicking the button above, you consent to receive email at the email address provided, as well as phone calls and text messages (including prerecorded, autodialed and/or AI-generated calls and texts) at the phone number you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. Or call 888-682-1043 for a free quote. Our plans Whether you need protection for major parts of home systems or a plan for appliances, roof leaks and more — we have you covered. Find the option that fits your needs, and stress less knowing the items you use every day are protected. Shield Silver ™ ShieldSilver protects parts of 19 major systems (HVAC, plumbing, electrical) to help keep your home running. $50,000 total limit / agreement term $5,000 per covered HVAC system Partner discounts and offers for home services and essentials See Pricing Most Popular Shield Gold ™ ShieldGold protects parts of 28 major systems and appliances in your home for more coverage and less worries. New Benefit: Video chat with live repair Experts for real time help at no extra cost* $50,000 total limit / agreement term $5,000 per covered HVAC system $2,000 per covered appliance Partner discounts and offers for home services and essentials See Pricing Shield Platinum ™ ShieldPlatinum protects 29 items, including roof leak repair, plus other premium member perks like one, free HVAC tune-up. New Benefit: Video chat with live repair Experts for real time help at no extra cost* $50,000 total limit / agreement term $5,000 per covered HVAC system $4,000 per covered appliance $1,000 roof leak repair limit Unlimited AC refrigerant Partner discounts and offers for home services and essentials See Pricing See the plan agreement for coverage details, including service fees, limitations and exclusions. Coverage limits and charges for non-covered items may apply. *Video chat available as a member benefit with select AHS plans. Video chat hours are from 8AM - 9PM CST, 7 days/week. Subject to change. Home warranty plan finder Fortune favors the covered. Not sure which home warranty plan is right for you? Fear not, Warrantina can help. Consult the cards to quickly reveal the plan that's best for your home. Find My Plan What elements of your home worry you most? Choose up to 3 cards to reveal the plan that best meets your needs. We sense a home warranty in your future... You have chosen wisely There are certain systems that keep your home balanced like HVAC,
+						plumbing, and electrical. With a Shield Silver plan
+						you can achieve inner peace knowing your home's basic needs are
+						covered. Your home's systems and appliances work their magic to keep things
+						running smoothly. Shield yourself from the misfortune of a covered
+						breakdown with a Shield Gold plan. A lot can go wrong with a home - leaky roof, faulty refrigerator, HVAC
+						mishaps... luckily Shield Platinum provides our most
+						comprehensive coverage for peace of mind. Consult the cards again Shield Silver ™ Covers the hardworking basics. ShieldSilver protects parts of 19
+									major systems to keep your home running. See Pricing What's covered: Heating and AC Systems Electrical Systems Plumbing Systems Up to $5,000 for Heating and AC Systems Member benefits*: Offers for home services such as HVAC Tune-ups*, Rekey and
+										more Partner discounts See Pricing See the plan agreement for coverage
+								details, including service fees, limitations and exclusions.
+								Coverage limits and charges for non-covered items may apply. *Heating or Cooling System Tune-ups are available seasonally
+								(spring: AC, fall: heating) and provided by Frontdoor Pro. For
+								license numbers, please visit Frontdoor Pro Licensing Information.
+								Service dates are limited and may vary based on location. Most Popular Shield Gold ™ If more coverage means less worries, ShieldGold is for you. It
+									protects parts of 28 major home systems and appliances in your
+									home. See Pricing What's covered: Heating and AC Systems Electrical Systems Plumbing Systems Kitchen Appliances Laundry Appliances Up to $5,000 in Coverage for Heating and AC Systems for Repair
+										or Replacement Up to $2,000 in Coverage per Appliance for Repair or
+										Replacement Member benefits*: Offers for home services such as HVAC Tune-ups**, Rekey and
+										more Partner discounts You can now video chat with LIVE repair Experts for real-time
+										help at no extra cost. See Pricing See the plan agreement for coverage
+								details, including service fees, limitations and exclusions.
+								Coverage limits and charges for non-covered items may apply. *Video chat available as a member benefit with select AHS plans.
+								Video chat hours are from 8AM - 9PM CST, 7 days/week. Subject to
+								change. **Heating or Cooling System Tune-ups are available seasonally
+								(spring: AC, fall: heating) and provided by Frontdoor Pro. For
+								license numbers, please visit Frontdoor Pro Licensing Information.
+								Service dates are limited and may vary based on location. Shield Platinum ™ Total peace of mind feels good. ShieldPlatinum protects parts of
+									29 systems and appliances, including roof leak repair coverage
+									and other member perks. See Pricing What's covered: Heating and AC Systems Electrical Systems Plumbing Systems Kitchen Appliances Laundry Appliances Up to $5,000 in Coverage for Heating and AC Systems for Repair
+										or Replacement Up to $4,000 in Coverage per Appliance for Repair or
+										Replacement Up to $1,000 in Coverage for Roof Leak Repairs Up to $250 in Coverage for Code Violations, Permits, and
+										Modifications Unlimited AC Refrigerant Member benefits*: FREE HVAC Tune-up** Offers for home services such as Rekey and more Partner discounts You can now video chat with LIVE repair Experts for real-time
+										help at no extra cost. See Pricing See the plan agreement for coverage
+								details, including service fees, limitations and exclusions.
+								Coverage limits and charges for non-covered items may apply. *Video chat available as a member benefit with select AHS plans.
+								Video chat hours are from 8AM - 9PM CST, 7 days/week. Subject to
+								change. **Heating or Cooling System Tune-ups are available seasonally
+								(spring: AC, fall: heating) and provided by Frontdoor Pro. For
+								license numbers, please visit Frontdoor Pro Licensing Information.
+								Service dates are limited and may vary based on location. Consult the cards again Providing your address ensures an accurate price We’ll show you a detailed comparison chart with current pricing in your area . You can also view a sample agreement. Just provide the basic info
+						below: See all covered items See key differences between each plan See your add-on options Address Address is required. Please enter your address. Zip Code Zipcode is required. Please enter your zipcode. Zipcode is out of area. Email Email address is required. Please enter your email address. Phone Phone number is required. Please enter your phone number. Get Started Please confirm your address This is the address you entered: , Edit Address Use You are requesting information from AHS regarding our products and services. By clicking the button, you consent to receive email at the email address you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. You are requesting information from AHS regarding our products and services. By clicking the button above, you consent to receive email at the email address provided, as well as phone calls and text messages (including prerecorded, autodialed and/or AI-generated calls and texts) at the phone number you provided. You agree to our Privacy Policy and Terms of Use . You understand that your consent is not a condition of purchase. Or call 888-682-1043 for a free quote. Understanding home warranties: how they protect your home Homeowners insurance protects you from things like fires and floods, but what about everyday system and appliance problems? Home warranties cover what your insurance doesn't — like improper maintenance and normal wear-and-tear of the items you rely on most. From HVAC system and plumbing problems to appliance issues, unexpected breakdowns caused by normal wear and tear can be costly and stressful. American Home Shield's reliable home warranty plans help take care of covered repair costs and keep homeowners happy. Common Issue Hassle-free Solution Ancient AC gone kaput? Fridge on the fritz? We cover important parts of systems and appliances of all ages — no maintenance records required. Reading through dozens of reviews to find the right contractor? One company to contact: AHS will send a qualified, independent Pro when you need help. Worried about paying for expensive, surprise repairs? If we can't fix a covered item, we'll replace it — and you can request service 24/7. See the plan agreement for coverage details, including service fees, limitations and exclusions. Coverage limits and charges for non-covered items may apply. Help control out-of-pocket expenses. Without a home warranty, it can cost a lot to repair or replace the systems and appliances you rely on.* Air Conditioning can cost you up to $6,000 Heating can cost you up to $5,600 Appliances can cost you up to $1,800 Plumbing can cost you up to $2,000 *Repair/replacement cost is the eightieth percentile as reported in a nationwide survey of homeowners conducted in 2024 by ClearVantage for American Home Shield. You could pay thousands for a single repair or replacement — or a fraction of that cost for an entire year of coverage with AHS. We sweat the small stuff for you. Rest easy. With our Shield Assurances , we take care of things other home warranty companies might not, like: Normal wear-and-tear, no matter the age of a covered item Unknown, pre-existing breakdowns Items without maintenance records Duplicates of the same item, like that extra AC unit Removal of defective equipment Refrigerant recapture, reclaim and disposal Breakdowns caused by improper installations or repairs, insufficient maintenance; rust, corrosion and sediment; and mismatched HVAC systems 30-Day Workmanship Guarantee If you have an issue with your completed repair within 30 days of service, we’ll send a Pro back out for free. See the plan agreement for coverage details, including service fees, limitations and exclusions. Coverage limits and charges for non-covered items may apply. Shop Plans Tiny Homes, Big Warranties Follow along as we tour tiny home communities, talk home warranties, and help provide tiny homes to veterans in need of safe, stable housing. Take the tiny tour Frequently Asked Questions Check out our list of FAQs if you need to know about home warranty plans, claims and coverage, you're looking for info on membership, costs and payments, or you simply have general AHS questions. What is a home warranty? A home warranty is an annual, renewable service contract that provides peace of mind and protection. When a covered home system or appliance breaks down, your home warranty plan covers the repair costs. It complements your homeowners insurance by protecting things your insurance doesn’t. In addition to helping with the cost and hassle to repair or replace parts of covered home systems and appliance that break down over time due to normal wear and tear, our home warranty plans also offer American Home Shield members exclusive pricing on home maintenance services, new appliances and HVAC systems, and more – from tech and smart home installation services to pre-season HVAC tune-ups , and more Why do I need a home warranty? A home warranty is a smart way to avoid unexpected and expensive home system and appliance repair costs. When a covered item breaks down due to normal wear and tear, we’ll help cover the repair cost and you have the added convenience of only one company to contact. No more searching for the right home repair professional . We’ll assign a qualified Pro from our network to your service request who will get the job done right. With American Home Shield, you don’t have to face home repairs alone. You can leave the stress to us. What’s covered by a home warranty? We offer three different home warranty plan options so you can choose the one that’s best for you and your home. Our entry level plan, Shield Silver covers the parts and components of your heating and AC, plumbing , and electrical systems . Our ShieldGold plan covers your systems and hardworking kitchen and laundry appliances like your dishwasher , refrigerator , washer and dryer, and more. And finally, our ShieldPlatinum plan covers your systems and appliances, but also includes roof leak repair coverage, unlimited AC refrigerant, and more member perks. With American Home Shield, it’s easy to cover the items that keep your home running smoothly and choose a plan that’s right for you. How much does a home warranty cost? Every home is unique, so it’s only fitting that every home warranty plan is too. We use three key factors to determine the cost of your plan . Size and location of your home – Depending on where you live, your cost could include state or local taxes. We use the details that you provide when you request a quote to inform you of your full plan costs upfront. Plan type – The home warranty plan you select factors into the cost. We offer three plan options, so you simply need to choose the plan that best meets your home’s needs. Service Fee – You will pay a Service Fee each time you place a service request. It’s the standard cost that covers the time your repair Pro spends assessing the issue and figuring out how to fix it. You get to choose your Service Fee amount when your purchase your home warranty plan. It's easy to get a free home warranty quote in minutes by entering your zip code at the top of this page. Is a home warranty worth it? If you like to save time and money, a home warranty is for you . When a covered system or appliance breaks down, you could pay thousands* for a single repair or replacement, or you could get a home warranty plan starting at less than $1 a day with American Home Shield. Plus, there’s only one company to contact when you have a breakdown, and we find the right repair Pro for the job. American Home Shield gives you peace of mind. *Repair/replacement cost is the eightieth percentile as reported in a nationwide survey of homeowners conducted in 2022 by ClearVantage for AmericanHome Shield. Why is American Home Shield the best choice for home warranty coverage? American Home Shield provides industry-leading home warranty coverage at the best price. We’ve paid over $4 billion to repair or replace our members’ systems and appliances since 2017. We’re here so you don’t have to face home repairs alone. Don’t just take our word for it—check out our member testimonials . See All Home Warranty FAQs † New Jersey Residents: The product being offered is a service contract and is separate and distinct from any product or service warranty which may be provided by the home builder or manufacturer. Sales: 1-888-682-1043 Support: 1-800-858-1922 Home Warranty Plans Real Estate Plans Our Sample Contracts Our Coverage Home Warranty Cost Warranty Renewal Promos & Discounts About AHS Member Testimonials Careers Contact Us FAQs Site Map Log In Blog Real Estate Pros Pro Portal Supplier Relations Frontdoor © Brands Frontdoor ® Home Repair HSA ℠ Home Warranty Landmark ® Home Warranty OneGuard ® Home Warranty + Service Plans *Offer expires 1/12/26. Pricing available to new members for first-year ShieldGold™ and ShieldSilver™ base plans only. Appliance coverage not included in ShieldSilver™. Discount cannot be applied to previous purchases or combined with other offers. Not valid in conjunction with a real estate transaction. Discount only available for single-family homes under 5,000 sq. ft. (includes condos and townhomes). Coverage not available in all areas. ©2026 American Home Shield Corporation. All Rights Reserved. American Home Shield, AHS, “Be sure with the Shield" and the shield logo are registered trademarks of American Home Shield Corporation. Privacy Policy Terms of Use

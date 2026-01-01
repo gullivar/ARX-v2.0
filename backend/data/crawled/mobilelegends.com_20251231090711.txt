@@ -1,0 +1,275 @@
+1766041200000
+EN
+en
+Login
+Hero Ranking
+Hero strength ranking
+Payment
+Recharge methods
+Redeem
+Redeem game rewards
+Fan Art
+Player created designs
+NEWS
+For You
+Patch
+Events
+Esports
+Bulletin
+MORE
+2.1.40 PATCH NOTES
+Patch
+4529
+2025-12-26 01:00:00
+SORA GUIDE LONG IMAGE
+Guide
+36689
+2025-12-16 01:00:00
+FREYA GUIDE LONG IMAGE
+Guide
+21565
+2025-11-01 01:00:00
+Revamped Freya Design Concept
+17019
+2025-10-27 17:00:00
+How to Get The Aspirants Skins & Exclusive Items
+40612
+2025-09-30 17:00:00
+Revamped Alice Guide
+Guide
+14768
+2025-09-15 17:00:00
+HERO
+Suyou
+Assassin
+Fighter
+Chase
+Burst
+Transient Immortal
+Tap-casting any skill will put Suyou in his Mortal form, granting him 40 Movement Speed and decreasing the interval between Basic Attacks.
+Hold-casting any skill will put Suyou in his Immortal form, increasing the damage of Basic Attacks to 125% and granting him 20% Physical Damage Reduction. In this form, for every 20 extra Physical Attack Suyou has, he gains 1% Physical Damage Reduction (up to 40%).
+Blade Surge
+Tap: Suyou throws his weapon in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies in its path. Suyou then blinks to the weapon's location, catches it, and performs a slash in the opposite direction, dealing 375 (+150% Extra Physical Attack) Physical Damage.
+Hold: Suyou channels the Immortal's power and charges in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies along the path. When hitting an enemy hero, he stops and stuns enemies in a rectangular area in front for 0.6s. The charge distance increases with the hold time.
+Suyou can be controlled while charging, but the skill cannot be interrupted.
+Soul Sever
+Tap: Suyou performs a sweeping attack with his weapon, dealing Physical Damage equal to 300 (+200% Extra Physical Attack) plus 15% of target's Lost HP to enemies in a fan-shaped area.
+Hold: Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 250 (+80% Extra Physical Attack) Physical Damage each, while the final strike deals 400 (+128% Extra Physical Attack) Physical Damage and recovers 150 (+50% Extra Physical Attack) HP for himself.
+Evil Queller
+Tap: Suyou glides backward and swings his weapon in the target direction, dealing 420 (+120% Extra Physical Attack) Physical Damage to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s.
+Hold: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580 (+165% Extra Physical Attack) Physical Damage to the target hit. The range increases with the hold time.
+Suyou can be controlled while charging, but the skill cannot be interrupted.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Sora
+Fighter
+Assassin
+Charge
+Burst
+Mystic Surge
+Sora can ascend to Thunder or Torrent by using his Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of Cloudstep. At 5 stacks, he unlocks his True Art.
+Thunder: Converts 30% Max HP into Physical Attack at 10% ratio, adopting an assassin style.
+Torrent: Converts each point of 30% Physical Attack into 10 Max HP, adopting a tank style.
+Sundering Strike
+Sora strikes twice, dealing 140 (+50% Total Physical Attack) Physical Damage, then lunges forward, dealing 240 (+5% Total HP) Physical Damage. He can dash after striking.
+Windstride
+Sora leaps forward, dealing 140 (+55% Total Physical Attack) Physical Damage. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional 140 (+8% Total HP) Physical Damage and slowing them by 40% for 0.5s. Successful hits reduce the cooldown by 2s.
+Shifting Skies
+Swipe left to ascend into Thunder for 10s. Sora gains a brief bonus Movement Speed and becomes untargetable. He then summons lightning to strike nearby enemies 3 time(s), each dealing 140 (+50% Total Physical Attack) Physical Damage.
+
+Swipe right to ascend into Torrent for 10s. Sora gains Control Immunity. After a short delay, he pulls nearby enemies in and deals 250 (+8% Total HP) Physical Damage.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Obsidia
+Marksman
+Finisher
+Damage
+Return to Bone
+Obsidia gains Bone Energy whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps.
+
+When Bone Energy reaches 30, it forms a Bone Shard, up to 25 shards. Killing an enemy hero directly grants 1 Bone Shard(s). When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (+7% Total Physical Attack) Physical Damage and inheriting 7% Attack Effects.
+
+Obsidia's Basic Attacks deal 80 (+70% Total Physical Attack) Physical Damage, inheriting 70% Attack Effects.
+Abyssal Bone Needle
+Obsidia launches an Abyssal Bone Needle, dealing 325 (+80% Total Physical Attack) Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero struck.
+Phantom Shadowmeld
+Obsidia descends into the Abyss and enters Shadowmeld Form, gaining 500% Movement Speed for 0.3s.
+Hunt of Bone
+Obsidia shoots Bones of Wrath in the target direction, dealing 125 (+60% Extra Physical Attack) Physical Damage, briefly stunning the first enemy hero hit, and pulling herself to the target. The Bones of Wrath then tether Obsidia to the enemy, preventing her from moving more than 4 units away. While tethered, the enemy cannot use displacement skills, and their movement will drag Obsidia along. During this time, Obsidia gains 5 temporary Bone Shard(s) and 30% Attack Speed. This effect lasts 3s.
+
+While tethered, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is enhanced, with its duration increased to 1s and cooldown reduced to 33%.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Zetian
+Mage
+Damage
+Crowd Control
+Celestial Armament
+Phoenix Crown: When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 1% Spell Vamp for 5s, stacking up to 10 times.
+Celestial Robe: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who dares approach her while dealing 90(+10*Hero Level) (+50% Total Magic Power) Magic Damage to them. She also gains a 300(+20*Hero Level) (+50% Total Magic Power) Shield that lasts 3s. This effect has a 120s cooldown.
+Phoenix Strike
+Zetian unleashes a Phoenix Wave in the target direction. If it hits an enemy, she automatically casts another wave, up to 3 times. While casting, Zetian can use other skills.
+
+The 1st, 2nd, and 3rd Phoenix Waves deal 150 (+50% Total Magic Power) Magic Damage, 150 (+50% Total Magic Power) Magic Damage, and 360 (+120% Total Magic Power) Magic Damage, respectively. The third wave has a larger area and pulls enemies toward the cast direction (not considered a control effect).
+
+The Spell Vamp ratio is limited to 65% against Minions.
+Phoenix Descent
+Zetian summons a Phoenix Spirit at the target location, dealing 150 (+45% Total Magic Power) Magic Damage and applying a brief 50% slow effect to enemies in the area. The Phoenix Spirit hovers at the location for 3s, dealing 20 (+10% Total Magic Power) Magic Damage every 0.5s and reducing enemies' Magic Defense by 10% while revealing their surrounding area.
+While the Phoenix Spirit is active, Zetian can use this skill again to command it to charge toward a designated location, dealing 150 (+45% Total Magic Power) Magic Damage and applying a brief 50% slow effect upon arrival.
+Fury of the Phoenix
+Zetian calls upon her divine mandate and the hearts of her people, granting all allied heroes 40% Movement Speed that gradually decays over 3s, while bringing divine retribution upon all enemy heroes, dealing 400 (+100% Total Magic Power) Magic Damage and stunning them for 0.8s. Zetian gains vision of all enemy heroes during this time.
+Zetian can cast other skills while channeling this skill.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Kalea
+Support
+Fighter
+Control
+Regen
+Surge of Life
+After casting a skill, Kalea creates a Water Zone on the ground. When Kalea casts a skill within this zone, she will absorb the Water Zone to enhance her next three Basic Attacks with different effects:
+First Basic Attack: Kalea dashes to the target, dealing (+100% Total Physical Attack) Physical Damage.
+Second Basic Attack: Kalea unleashes a flurry of attacks, dealing 200 (+100% Total Physical Attack) Physical Damage and recovering 40 (+10% Total HP) (+60% Total Magic Power) HP for herself and the nearby ally with the lowest HP.
+Third Basic Attack: Kalea uses her tail to strike the area around her target, dealing 100 (+100% Total Physical Attack) Physical Damage and creating a new Water Zone. Enhanced Basic Attacks are not affected by Attack Speed.
+Wavebreaker
+Kalea slams her fist into the ground, creating a wave that deals 200 (+5% Total HP) Physical Damage to nearby enemies and slows them by 40% for 1.5s.
+Tidal Strike
+Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s (unaffected by Resilience) while dealing 150 (+60% Total Physical Attack) Physical Damage.
+If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing 150 (+60% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s (unaffected by Resilience).
+Tsunami Slam
+Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300 (+80% Total Physical Attack) Physical Damage to the target and nearby enemies.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Lukas
+Fighter
+Regen
+Damage
+Hero's Resolve
+Lukas gains 0.5 Resolve per second and an additional 2 Resolve when attacking heroes.
+
+Lukas consumes 10 Resolve per second while in [Sacred Beast] form.
+Flash Combo
+Passive: Basic Attacks enhance Flash Combo up to 2 times, lasting 4s.
+Lukas consumes all Vigor to unleash Pulverize, dealing 220 (+120% Total Physical Attack) Physical Damage and recovering 8% of his Max HP when hitting a hero.
+1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal 100 (+45% Total Physical Attack) Physical Damage 3 times, pulling the enemy toward him.
+2 Stacks: Lukas briefly stuns the target and follows up with 2 attacks that deal 50 (+20% Total Physical Attack) Physical Damage per hit. He will then spin his tonfa hammers to deal 100 (+45% Total Physical Attack) Physical Damage 3 times, gaining Control Immunity during this period.
+Flash Step
+Lukas dashes in the target direction and turns his next Basic Attack within 4s into Flash Strike.
+Flash Strike: Lukas blinks behind the enemy, dealing 60 (+125% Total Physical Attack) Physical Damage. He then gains increased Attack Range, 20% Movement Speed and Attack Speed, and his Basic Attacks trigger lightning storms to deal 50 (+25% Total Physical Attack) extra Physical Damage, lasting for 4s.
+Unleash the Beast
+Lukas transforms into his Sacred Beast form (briefly gains Control Immunity). His base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.
+Use Again: Fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing 450 (+155% Total Physical Attack) Physical Damage.
+All attributes: HP, Physical Attack, Attack Speed, Physical & Magic Defense, and Attack Range.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Suyou
+Assassin
+Fighter
+Chase
+Burst
+Transient Immortal
+Tap-casting any skill will put Suyou in his Mortal form, granting him 40 Movement Speed and decreasing the interval between Basic Attacks.
+Hold-casting any skill will put Suyou in his Immortal form, increasing the damage of Basic Attacks to 125% and granting him 20% Physical Damage Reduction. In this form, for every 20 extra Physical Attack Suyou has, he gains 1% Physical Damage Reduction (up to 40%).
+Blade Surge
+Tap: Suyou throws his weapon in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies in its path. Suyou then blinks to the weapon's location, catches it, and performs a slash in the opposite direction, dealing 375 (+150% Extra Physical Attack) Physical Damage.
+Hold: Suyou channels the Immortal's power and charges in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies along the path. When hitting an enemy hero, he stops and stuns enemies in a rectangular area in front for 0.6s. The charge distance increases with the hold time.
+Suyou can be controlled while charging, but the skill cannot be interrupted.
+Soul Sever
+Tap: Suyou performs a sweeping attack with his weapon, dealing Physical Damage equal to 300 (+200% Extra Physical Attack) plus 15% of target's Lost HP to enemies in a fan-shaped area.
+Hold: Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 250 (+80% Extra Physical Attack) Physical Damage each, while the final strike deals 400 (+128% Extra Physical Attack) Physical Damage and recovers 150 (+50% Extra Physical Attack) HP for himself.
+Evil Queller
+Tap: Suyou glides backward and swings his weapon in the target direction, dealing 420 (+120% Extra Physical Attack) Physical Damage to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s.
+Hold: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580 (+165% Extra Physical Attack) Physical Damage to the target hit. The range increases with the hold time.
+Suyou can be controlled while charging, but the skill cannot be interrupted.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+Sora
+Fighter
+Assassin
+Charge
+Burst
+Mystic Surge
+Sora can ascend to Thunder or Torrent by using his Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of Cloudstep. At 5 stacks, he unlocks his True Art.
+Thunder: Converts 30% Max HP into Physical Attack at 10% ratio, adopting an assassin style.
+Torrent: Converts each point of 30% Physical Attack into 10 Max HP, adopting a tank style.
+Sundering Strike
+Sora strikes twice, dealing 140 (+50% Total Physical Attack) Physical Damage, then lunges forward, dealing 240 (+5% Total HP) Physical Damage. He can dash after striking.
+Windstride
+Sora leaps forward, dealing 140 (+55% Total Physical Attack) Physical Damage. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional 140 (+8% Total HP) Physical Damage and slowing them by 40% for 0.5s. Successful hits reduce the cooldown by 2s.
+Shifting Skies
+Swipe left to ascend into Thunder for 10s. Sora gains a brief bonus Movement Speed and becomes untargetable. He then summons lightning to strike nearby enemies 3 time(s), each dealing 140 (+50% Total Physical Attack) Physical Damage.
+
+Swipe right to ascend into Torrent for 10s. Sora gains Control Immunity. After a short delay, he pulls nearby enemies in and deals 250 (+8% Total HP) Physical Damage.
+Durability
+Offense
+Ability Effects
+Difficulty
+More Info
+MORE
+VIDEOS
+For You
+Hot
+Heroes
+Patch
+Skins
+MORE
+426
+M7 Excellent Events | Events Preview | Mobile Legends: Bang Bang
+396
+2025 StarLight Fest Skin | Sun "Queller of Chaos" | Mobile Legends: Bang Bang
+17135
+Chasing the Cloud | New Hero Sora Design Micro-variety Show | Mobile Legends: Bang Bang
+1799
+Time for a Cloud-chase | New Hero Sora Design Concept Teaser | Mobile Legends: Bang Bang
+1958
+The Cloud Among Us | New Hero Sora Cinematic Trailer | Mobile Legends: Bang Bang
+1916
+A Cloudy Day | New Hero Sora Trailer | Mobile Legends: Bang Bang
+Privacy Policy
+|
+Terms Of Service
+Contact Us < mobilelegendsgame@moonton.com >
+© Moonton. All rights reserved
+https://www.facebook.com/MobileLegendsTC/?brand_redir=1212826968780074
+https://twitter.com/MobileLegendsOL
+https://www.instagram.com/mobilelegendsgame/
+https://www.tiktok.com/@mlbbttofficial?source=h5_m
+https://www.youtube.com/channel/UCqmld-BIYME2i_ooRTo1EOg
+https://www.instagram.com/mgl_mlbb/
+Accept cookies from Moonton on this browser?
+We use cookies and similar technologies to operate and improve your browsing experience, analyse and measure how our services are used, market our website and measure the effectiveness of such campaigns. By clicking "Accept All" below, you are giving us consent to use all cookies, including non-essential cookies. You may decline all non-essential cookies by clicking the "Reject All"to your left. Go to our Cookie Policy to learn how we use cookies and similar technologies and "Cookie Settings" to learn how to manage your cookie preferences at any time.
+Accept All
+Reject All
+Cookie Settings
+Privacy Policy Update
+
+We are updating our Terms of Service and Privacy Policy to include more information about:
+
+- how we use your information;
+
+- how we share your information; and
+
+- where we store and how we transfer your information.
+
+Click here to review our updated Terms of Service and Privacy Policy

@@ -1,0 +1,189 @@
+Learn more.
+We’ve launched new Solana infra with up to 20x faster archive data than other providers. Learn more.
+Platform
+Solutions
+Developers
+Resources
+Pricing
+Contact sales
+Sign in
+Powering 71% of top crypto apps
+
+The complete blockchain developer platform trusted by leading fintechs and developers worldwide.
+
+Get your API key
+Talk to sales
+
+Alchemy in the news
+
+Solana Infra for Institutional Scale
+
+Alchemy delivers 20x faster speeds and near-zero downtime as ETF inflows surge.
+
+J.P. Morgan’s USD Deposit Token
+
+J.P. Morgan to deploy onchain deposits with no gas fees and total compliance.
+
+Alchemy on CNBC: Fast Money
+
+Alchemy to support new types of financial products with stablecoins.
+
+Powered by Cortex
+One integrated platform
+
+Powered by Cortex, the world’s first intelligent blockchain engine. Get 13x more throughput and 5x more reliability than other providers.
+
+$150B+
+
+transactions annually
+
+100M+
+
+humans using crypto
+
+$1B+
+
+gasless transactions
+
+Infrastructure
+99.99% uptime
+
+Build and scale the fastest and most reliable apps on proven industry-leading blockchain infrastructure, powered by Cortex.
+
+• Node RPC API: Real-time, block-perfect data
+
+• Rollups: Launch your own custom chain
+
+Get started
+Learn about Cortex
+Wallets
+Secure assets
+
+Securely embed crypto wallets into your app with custodial and non-custodial models.
+
+• Embedded wallets: User-controlled wallets
+
+• Server wallets: Developer-controlled wallets
+
+Get started
+Explore docs
+Orchestration
+Move money
+
+Swap, mint, and stake at lightning speed with no gas fees or multi-step approvals.
+
+• Gasless transactions: Sponsor gas for your users
+
+• Stablecoins: Orchestrate payments onchain
+
+• DeFi: Swap, earn, and stake
+
+Get started
+Learn more
+Data
+Grow revenue
+
+Leverage real-time and historical blockchain data to understand, engage, and monetize your users.
+
+• Webhooks: Stream push notifications
+
+• Portfolio APIs: Query transaction history
+
+• Token APIs: Real-time price data for any token
+
+Explore docs
+Devtools
+Go to market in minutes
+
+Dead simple APIs and SDKs that help you deploy production-ready experiences with no blockchain complexity.
+
+8 years building crypto infrastructure at scale. Best-in-class debugging tools. World-class support, 24/7/365.
+
+Create your account
+Make your first API call
+Trusted by leaders succeeding at scale
+
+Learn how industry-defining companies go from first deploy to scaling applications that handle millions of users and billions in volume.
+
+POWERING
+
+Scaling World Chain to 23M people globally
+
+#1
+
+rollup on a RaaS
+
+500+ ETH
+
+sequencer revenue
+
+47M
+
+monthly user ops
+
+"World needed more than just a vendor—we needed someone who would be there for any challenge..."
+
+Steven Smith
+-
+VP of Engineering, Protocol
+
+Read the case study
+Build blockchain magic
+
+Get started for free
+
+The web3 development platform
+
+Supercharge your inbox
+
+Sign up for our developer newsletter.
+
+Subscribe
+Products
+Cortex
+RPC API
+Smart Wallets
+Rollups
+NFT API
+Webhooks
+Websockets
+Transfers API
+Token API
+Bundler API
+Gas Manager API
+Developers
+Sign Up
+Status
+Docs
+Support
+Faucets
+Gwei Calculator
+Chain Resource Directory
+Request a Chain
+Snapshots
+Community
+Alchemy University
+Blog
+Case Studies
+Overviews
+Dapp Store
+Events
+Newsletter
+Startup Program
+Offchain Bug Bounties
+Onchain Bug Bounties
+Company
+About Us
+Careers
+Customers
+Newsroom
+Press Kit
+Security
+Legal
+Contact
+Sales
+Press
+Email
+Discord
+
+2025 Alchemy Insights, Inc. · Legal

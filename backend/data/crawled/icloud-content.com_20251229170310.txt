@@ -1,0 +1,146 @@
+Apple Developer
+News
+Discover
+Design
+Develop
+Distribute
+Support
+Account
+iCloud
+Overview
+CloudKit
+Telemetry
+Logs
+Dashboards
+Resources
+View CloudKit Console
+CloudKit Console
+
+Watch the latest videos about iCloud and CloudKit
+
+iCloud for developers
+
+iCloud securely stores your users’ data and seamlessly keeps it up to date across their devices, so they’ll have a great experience no matter which device they use. And with powerful and intuitive tools, such as CloudKit Console, you can focus on delivering great apps while iCloud handles the details of scaling, consistency, and security.
+
+Display curated data with Dashboards
+
+Surface trends from Telemetry and usage data with Dashboards. Use customizable widgets to display only the most relevant data to help you identify and resolve issues within your CloudKit containers and push notification-enabled apps.
+
+Learn about Dashboards
+
+Build apps using CloudKit
+
+Develop apps with world-class authentication, privacy, security, and syncing using the same technologies used by Apple in its most popular cloud offerings. CloudKit provides a robust framework and a comprehensive set of tools that make it easy for you to develop powerful apps that seamlessly sync across iOS, iPadOS, macOS, tvOS, watchOS, visionOS and the web.
+
+Learn about CloudKit
+
+Gain insights with Telemetry
+
+Tailor your apps for responsiveness and relevance to your users by measuring user activity, CloudKit database usage, and trends over time. With Telemetry’s monitoring and analytics features, you can visualize aggregate behavior across all of your users’ devices for all of the data coming into your container.
+
+Learn about Telemetry
+
+Access logs that respect user privacy
+
+Easily collect, process, and analyze data while keeping your users’ data private. CloudKit’s detailed logs of server activity don’t contain any personal or private data, so you’ll have everything you need to debug and analyze your app while ensuring sensitive user data stays safe and secure.
+
+Learn about logs
+
+Send, validate, and monitor push notifications
+
+Use the interactive web interface to send test push notifications to Apple devices through the Apple Push Notifications service (APNs). Review and manage the channels you use for broadcast push notifications. Access logs that provide insights into the delivery process and leverage tools to generate and validate tokens. Aggregated metrics give you insights into various statistics for device push notifications, including a detailed breakdown based on push type and priority.
+
+Learn about Push Notifications
+
+Resources
+
+Find the tools and documentation you need to build apps that use CloudKit.
+
+View resources
+
+Developer Footer
+
+Apple
+Developer
+iCloud
+Platforms
+iOS
+iPadOS
+macOS
+tvOS
+visionOS
+watchOS
+Tools
+Swift
+SwiftUI
+Swift Playground
+TestFlight
+Xcode
+Xcode Cloud
+Icon Composer
+SF Symbols
+Topics & Technologies
+Accessibility
+Accessories
+Apple Intelligence
+App Store
+Audio & Video
+Augmented Reality
+Business
+Design
+Distribution
+Education
+Fonts
+Games
+Health & Fitness
+In-App Purchase
+Localization
+Maps & Location
+Machine Learning & AI
+Open Source
+Security
+Safari & Web
+Resources
+Documentation
+Sample Code
+Tutorials
+Downloads
+Forums
+Videos
+Support
+Support Articles
+Contact Us
+Bug Reporting
+System Status
+Account
+Apple Developer
+App Store Connect
+Certificates, IDs, & Profiles
+Feedback Assistant
+Programs
+Apple Developer Program
+Apple Developer Enterprise Program
+App Store Small Business Program
+MFi Program
+Mini Apps Partner Program
+News Partner Program
+Video Partner Program
+Security Bounty Program
+Security Research Device Program
+Events
+Meet with Apple
+Apple Developer Centers
+App Store Awards
+Apple Design Awards
+Apple Developer Academies
+WWDC
+Get the Apple Developer app.
+Light
+Dark
+Auto
+English
+简体中文
+日本語
+한국어
+Copyright © 2025 Apple Inc. All rights reserved.
+Terms of Use Privacy Policy Agreements and Guidelines

@@ -1,0 +1,3 @@
+Flags API & CDN – Flagcdn.com Flags API & CDN Flagcdn.com is a free service created by Flagpedia.net hosted on Cloudflare .
+			It provides an easy solution to embed flags on your website or for programmatically download to keep flags in your projects up-to-date. includes all 254 country flags , 50 flags of the U.S. states , EU & UN based on vector files from Wikipedia Commons PNG, WebP, SVG (best lossless compression) or JPEG (100% quality) always up-to-date flags we appreciate backlink to https://flagpedia.net See usage About us Contact Privacy Policy Cookie Policy Terms of Use © 2008 - 2024 Flagpedia.net,
+			All Rights Reserved.

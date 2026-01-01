@@ -1,0 +1,8 @@
+Home - Autonomic Welcome Autonomic was founded in 2016 and acquired by Ford Motor Company in 2018 as a fully-owned independent subsidiary. In 2023,
+                  Autonomic became fully integrated with Ford Motor Company. What is the TMC? The Transportation Mobility Cloud (TMC) is one of the largest
+                connected vehicle cloud platforms in production. Autonomic built
+                the TMC so developers could revolutionize the vehicle ownership
+                experience. With its API-driven design, the TMC simplifies how
+                applications interact with vehicles by abstracting away the
+                complexities of communicating with different vehicle models and
+                connectivity devices. A platform that enables innovation. Simply. © 2023 Autonomic, LLC. All Rights Reserved. Privacy Policy Your Privacy Choices

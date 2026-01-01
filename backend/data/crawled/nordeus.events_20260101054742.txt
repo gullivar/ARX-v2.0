@@ -1,0 +1,1 @@
+{"message":"RESTEASY003650: No resource method found for GET, return 405 with Allow header"}

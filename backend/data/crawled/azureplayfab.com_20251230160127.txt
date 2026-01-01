@@ -1,0 +1,172 @@
+Skip to main content
+Microsoft
+Azure
+Explore Products Solutions Pricing More
+LearnSupportContact SalesGet started with AzureSign in
+Azure PlayFab
+
+Everything you need to build and operate a live game on one platform.
+
+Try Azure for free Sign in to PlayFab
+Azure PlayFab
+Overview
+Features
+Security
+Get started
+Resources
+FAQ
+Keep your players coming back for more
+
+Build and operate live games on a single platform. PlayFab gives you everything you need—game services, data analytics, and live operations tools—to launch faster, extend your game’s lifecycle, and reduce costs.
+
+Games that run on PlayFab
+Multiplayer Services
+
+Cross-network identity, multiplayer servers, and accessible party chat to help grow your live games.
+
+Analytics
+
+Real-time data analytics to understand and react to player behavior in live games.
+
+LiveOps
+
+Live operations to run your game as a service and keep players coming back.
+
+Build faster and launch more cost-effective games with Multiplayer Services
+Optimize your game with Analytics
+Run your game as a service and keep your players coming back for more with LiveOps
+Multiplayer Servers
+
+Dynamically scale dedicated Multiplayer Servers to deliver low-latency, high-reliability real-time multiplayer gameplay.
+
+Party networking and chat
+
+Help players build relationships and communities with PlayFab Party's seamless player-to-player communication powered by Azure AI Services.
+
+Matchmaking and groups
+
+Help players find new friends and competitors, and give players at all levels faster, higher-quality matches for more exciting and rewarding play.
+
+Leaderboards and statistics
+
+Track, compare, and reward player success with tournaments, leaderboards, and prizes.
+
+Cross-network identity and data
+
+Meet players on the platforms they use and let them link accounts to roam across Xbox, PSN, Nintendo, and beyond.
+
+Learn more about Multiplayer Services
+Back to tabs
+PlayFab works with all major platforms, engines, stores, and more
+Comprehensive security and compliance, built in
+
+Microsoft invests more than $1 billion annually on cybersecurity research and development.
+
+We employ more than 3,500 security experts who are dedicated to data security and privacy.
+
+Learn more about security on Azure
+Get started with an Azure free account
+
+1
+
+Start free. Get $200 credit to use within 30 days. While you have your credit, get free amounts of many of our most popular services, plus free amounts of 55+ other services that are always free.
+
+2
+
+After your credit, move to pay as you go to keep building with the same free services. Pay only if you use more than your free monthly amounts.
+
+3
+
+After 12 months, you'll keep getting 55+ always-free services—and still pay only for what you use beyond your free monthly amounts.
+PlayFab developer resources
+Role-based guides
+
+Get to know PlayFab based on what you do.
+
+Getting started for developers
+
+Getting started with business intelligence
+
+Guide to LiveOps
+
+Quickstarts, SDKs, and more
+
+Jump right into PlayFab and start developing now.
+
+PlayFab overview
+
+Get started with game manager
+
+Make your first API call
+
+PlayFab Multiplayer Services
+
+PlayFab data
+
+PlayFab economy
+
+See all documentation
+
+Keep in touch with PlayFab
+Blog
+Frequently asked questions about PlayFab
+Expand all
+|
+Collapse all
+How can I find out more about the PlayFab pricing model, including pricing meters?
+How can I estimate my cost?
+What is development mode?
+How do I change my plan?
+How does pricing work for PlayFab Insights?
+What kind of support do I get with PlayFab?
+How does pricing work for PlayFab Multiplayer Servers?
+Where do I view the usage for my account?
+Get started with Azure PlayFab
+Try Azure for free
+Explore Azure
+What is Azure?
+Get started with Azure
+Global infrastructure
+Datacenter regions
+Trust your cloud
+Azure Essentials
+Customer stories
+Products and pricing
+Products
+Azure pricing
+Free Azure services
+Flexible purchase options
+FinOps on Azure
+Optimize your costs
+Solutions and support
+Solutions
+Resources for accelerating growth
+Solution architectures
+Support
+Azure demo and live Q&A
+Partners
+Software Development Companies
+Microsoft Marketplace
+Find a partner
+Resources
+Documentation
+Blog
+Developer resources
+Students
+Events and Webinars
+Analyst reports, white papers, and e-books
+Videos
+Cloud computing
+What is cloud computing?
+What is multicloud?
+What is machine learning?
+What is deep learning?
+What is AIaaS?
+What are LLMs?
+What is a container?
+What is RAG?
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap Contact Microsoft Privacy Terms of use Trademarks Safety & eco Recycling About our ads © Microsoft 2025
+Ask Microsoft​

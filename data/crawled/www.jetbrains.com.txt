@@ -1,0 +1,91 @@
+AI
+Developer Tools
+Team Tools
+Education
+Solutions
+Support
+Store
+Junie
+Your smart coding agent
+
+Make coding productive and enjoyable with an AI agent: explain your task, let Junie collect the context, write code and run tests for you.
+
+Try now for free
+See plans and pricing
+For developers
+For teams
+For businesses
+For {developers}
+
+Enjoy building software
+
+A rich suite of tools that provide an exceptional developer experience
+IntelliJ IDEA
+
+IDE for Java and Kotlin
+
+PyCharm
+
+IDE for Python
+
+Free for non-commercial use
+DataGrip
+
+Tool for multiple databases
+
+Free for non-commercial use
+WebStorm
+
+IDE for JavaScript
+
+Free for non-commercial use
+Rider
+
+IDE for .NET and game dev
+
+Free for non-commercial use
+CLion
+
+IDE for C and C++ developers
+
+Explore JetBrains IDEs and code authoring tools
+Trusted by more than 15M developers
+Ready for actual use right out of the box
+
+Mission-critical tools and a wide variety of supported languages and frameworks are at your fingertips – no plugin hassle included.
+
+Complex tasks become easy
+
+The IDE knows everything about your code and uses this knowledge to offer blazing-fast navigation and relevant suggestions in every context.
+
+Built-in tools
+
+Run, debug, and test your applications without leaving the IDE and the code view. All important tools are within a hand’s reach.
+
+Customizable and extendable
+
+Your IDE is ready to be configured to match your taste and preferences and help you stay in the zone during all your coding sessions.
+
+PyCharm
+The JetBrains Kotlin
+Ecosystem
+
+A powerful set of tools, libraries, and integrations built around the Kotlin programming language to help you develop modern applications efficiently.
+
+Explore
+For  teams
+
+Minimize friction and increase productivity
+
+Ensure efficient collaboration and maintain quality codebases with a fast software delivery flow
+TeamCity
+
+Powerful Continuous Integration out of the box
+
+YouTrack
+
+Project management for all your teams
+
+Qodana
+
+Code quality platform powered by advanced stati

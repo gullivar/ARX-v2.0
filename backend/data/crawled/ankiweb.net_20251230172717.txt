@@ -1,0 +1,14 @@
+AnkiWeb 
+Log In
+Sign Up
+
+AnkiWeb is a free companion to the computer version of Anki. AnkiWeb can be used to review online when you don't have access to your home computer, and can be used to keep your cards synchronized across multiple machines.
+
+AnkiWeb is intended to be used in conjunction with the computer version of Anki. While it is possible to create basic text-only cards and review them using only AnkiWeb, to download shared decks, take advantage of multimedia features and so on, you will need to use the free computer version as well. If you have not used Anki before, please start with the computer version.
+
+Apps
+About
+Support
+Terms
+Privacy
+About - AnkiWeb

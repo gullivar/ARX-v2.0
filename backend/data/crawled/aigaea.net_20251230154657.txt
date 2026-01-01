@@ -1,0 +1,151 @@
+EMO LAB
+GODHOOD
+NFT
+MISSIONS & REWARDS
+MILESTONES
+ENGINE
+GET STARTED
+LINKED
+AUDIOVISUAL
+Camera-based micro-expression sensing with on-device, real-time facial expression analysis to deeply understand people's reactions and emotions.
+LINKED
+LANGUAGE
+From text dialogue, surface emotion intent/empathy cues and deliver measurable empathy to AI.
+MAINTENANCE
+PHYSIOLOGICAL
+Continuous,cross-device acquisition of physiological data, producing actionable emotion labels and events to support large-model training and evaluation.
+ENGINE
+Anxiety
+Envy
+Jealousy
+Loneliness
+Despair
+Contempt
+Pride
+Anguish
+Panic
+Boredom
+Resentment
+Frustration
+Regret
+Humiliation
+Joy
+Gratitude
+Love
+Excitement
+Hope
+Serenity
+Pleasure
+Amusement
+Interest
+Optimism
+Anger
+Awe
+Ambivalence
+Relief
+Compassion
+Infatuation
+Elation
+Surprise
+Curiosity
+Anticipation
+Ambivalence
+Confusion
+Nostalgia
+Detachment
+Sadness
+Contentment
+Shame
+Fear
+TOTAL USERS
+810616
+ON-CHAIN
+420.0K
+BLOCKCHAIN
+Base Mainnet
+CONTRACT
+0x85***67a
+SOUL POINTS (TOTAL)
+45.9M
+SOUL POINTS (24H)
+27.4K
+POSITIVE RATIO
+43.18%
+NEGATIVE RATIO
+23.11%
+Negative
+0x2dc31e99ee***8820476
+Negative
+0x8cdf280959***479dfc6
+Neutral
+0x51138a901d***27b2727
+Neutral
+0x4ab18b39e4***cfc0b79
+Neutral
+0x59d6e8a09d***a9d5bab
+Neutral
+0x097b189426***cdb0284
+Negative
+0xbd51e7e9ab***c6707ee
+Positive
+0xb38dfcd04a***f8f9381
+Positive
+0x44a562350b***61bc6a7
+Positive
+0xb5f47ef6f6***86606ba
+Negative
+0xe45570de02***10a4541
+Neutral
+0x565125988b***2ce5f52
+Neutral
+0xb1484178fe***bf704b3
+Negative
+0x5d057533c8***896780f
+Negative
+0x3c9ea6574c***d26640f
+Negative
+0x6984e6b5db***0eadfdd
+Neutral
+0x8f827f02fc***88da342
+Positive
+0xe236dbf3cb***508c6f0
+Positive
+0x69c689ce97***856653f
+Neutral
+0xba03b04da3***18a3750
+PRODUCTS
+›
+SDK
+›
+Commercial API
+›
+GAEA Psyche
+ABOUT
+›
+Docs
+›
+Whitepaper
+›
+Godhood
+›
+Medium
+COMMUNITY
+›
+X
+›
+Discord
+›
+Telegram
+›
+Join us
+LEGAL
+›
+Terms of Use
+›
+Privacy Policy
+CONTACT US
+›
+Business
+›
+Support
+© 2025 GAEA FOUNDATION. ALL RIGHTS RESERVED.

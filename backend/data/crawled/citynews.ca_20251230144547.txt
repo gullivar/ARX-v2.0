@@ -1,0 +1,13 @@
+Select your CityNews
+
+This sets your default page, the next time you come back to CityNews.ca.
+
+Calgary
+Edmonton
+Halifax
+Kitchener
+Montreal
+Ottawa
+Toronto
+Vancouver
+Winnipeg

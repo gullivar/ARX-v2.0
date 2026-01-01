@@ -1,0 +1,236 @@
+Da bin ich mir sicher - Lebensmittel zum HOFER Preis | HOFER Ihre Privatsphäre-Einstellungen Wir setzen Cookies und ähnliche Technologien ein, um unsere Website bestmöglich an Ihre Bedürfnisse anpassen zu können. Diese Technologien ermöglichen beispielsweise die Verwendung bestimmter Features und das Teilen auf sozialen Netzwerken. Bei Nutzung dieser Technologien kann es zu einer Datenübermittlung an Anbieter in Drittstaaten, wie insbesondere die USA kommen. Da die USA laut Europäischem Gerichtshof kein angemessenes Datenschutzniveau aufweist, bestehen aufgrund der Übermittlung Risiken (Zugriff auf Daten durch US-Behörden, fehlende Rechtsbehelfe). Ihr Einwilligung umfasst gemäß Art. 49 Abs. 1 lit. a DSGVO diese Übermittlung in Drittstaaten. Nähere Informationen zum Datenschutz und den Widerrufsmöglichkeiten Wir setzen Cookies und ähnliche Technologien ein, um unsere Website bestmöglich an Ihre Bedürfnisse anpassen zu können. Diese Technologien ermöglichen beispielsweise die Verwendung bestimmter Features und das Teilen auf sozialen Netzwerken. Bei Nutzung dieser Technologien kann es zu einer Datenübermittlung an Anbieter in Drittstaaten, wie insbesondere die USA kommen. Da die USA laut Europäischem Gerichtshof kein angemessenes Datenschutzniveau aufweist, bestehen aufgrund der Übermittlung Risiken (Zugriff auf Daten durch US-Behörden, fehlende Rechtsbehelfe). Ihr Einwilligung umfasst gemäß Art. 49 Abs. 1 lit. a DSGVO diese Übermittlung in Drittstaaten. Nähere Informationen zum Datenschutz und den Widerrufsmöglichkeiten Notwendige Cookies Diese Cookies sind für die Funktionalität der Webseite notwendig, sodass Sie diese nicht deaktivieren können. Mehr erfahren Diese Cookies sind für die Funktionalität der Webseite notwendig, sodass Sie diese nicht deaktivieren können. Mehr erfahren Marketing- und Personalisierungs-Cookies Diese Cookies ermöglichen es Ihnen, auf Ihr Nutzerverhalten abgestimmte Webseiten-Inhalte zu erhalten und bieten uns die Möglichkeit, unsere Webseite auf Basis von Nutzungsstatistiken optimal auf die Interessen unserer Kunden anzupassen. Mehr erfahren Diese Cookies ermöglichen es Ihnen, auf Ihr Nutzerverhalten abgestimmte Webseiten-Inhalte zu erhalten und bieten uns die Möglichkeit, unsere Webseite auf Basis von Nutzungsstatistiken optimal auf die Interessen unserer Kunden anzupassen. Mehr erfahren Drittanbieter Durch diese Funktionen können Sie zusätzliche Dienste bzw. Technologien von Drittanbietern nutzen und uns sowie Dritten weitere Personalisierungen ermöglichen. Mehr erfahren Durch diese Funktionen können Sie zusätzliche Dienste bzw. Technologien von Drittanbietern nutzen und uns sowie Dritten weitere Personalisierungen ermöglichen. Mehr erfahren Auswahl bestätigen Alle bestätigen Wir weisen darauf hin, dass durch das Starten des Videos Daten an den jeweiligen Anbieter übermittelt werden. Es kann daher auch zu einer Datenübermittlung in Drittstaaten, wie insbesondere die USA, kommen. Da die USA laut Europäischem Gerichtshof kein angemessenes Datenschutzniveau aufweist, bestehen aufgrund der Übermittlung Risiken (Zugriff auf Daten durch US-Behörden, fehlende Rechtsbehelfe). Ihre Einwilligung umfasst gemäß Art. 49 Abs. 1 lit. a DSGVO diese Übermittlung in Drittstaaten. Weitere Informationen finden Sie in unserem Datenschutzhinweis . Akzeptieren Verwerfen Menüleiste überspringen HOFER Filialen HOFER REISEN HoT HOFER FOTOS HOFER GRÜNSTROM Karriere Hilfe & Kontakt Mein Profil Abmelden Anmelden Registrieren Suchbegriff zurücksetzen Suche starten Meine Liste {% set isVisible = totalUnitCount != 0 %} {{totalUnitCount}} {{subtotal}} {% if cartEntries.length %} Kürzlich hinzugefügt {% for cartEntry in cartEntries %}
+                {% if loop['index'] < 4 %} {{cartEntry.pdpUrl|getProductPathOnBasket(cartEntry.assetUrl,cartEntry.name,cartEntry.ancestorDisplayName)}}
+                            {% if cartEntry.relatedServices.length %} {{cartEntry.totalWithServices}} {% else %} {{cartEntry.price}} {% endif %} {{cartEntry.unitPrice}} {% if cartEntry.wasPrice %} Statt {{cartEntry.wasPrice}} {% elseif cartEntry.uvp %} UVP {{cartEntry.uvp}} ** ** Empfohlener Verkaufspreis des Herstellers {% elseif cartEntry.wasPriceLast30Days %} Statt {{cartEntry.wasPriceLast30Days}} ** ** Niedrigster Preis der letzten 30 Tage {% elseif cartEntry.wasPriceLastCampaign && cartEntry.wasPriceLastCampaignDateFrom %} {{cartEntry.wasPriceLastCampaign}} ** ** Preis von unserer Vorjahresaktion von {{cartEntry.LastCampDateFrom}} {% endif %} Anzahl: {{cartEntry.qty}} {% for variant in cartEntry.entryVariantsSelected %} {{variant}} {% if !loop.last %}, {% endif %}
+                                {% endfor %} {% if cartEntry.relatedServices.length %} {% for service in cartEntry.relatedServices %}{% if loop.first %}+ {% else %}, {% endif %}{{service.name}}{% endfor %} {% endif %} {% endif %}
+            {% endfor %} {{ "Zeige {0} von {1} Artikeln"|replace('\{0\}', miniCartItems, 'g')|replace('\{1\}', totalUnitCount, 'g') }} {% if bottlesRule.bottles.length %} {% for bottle in bottlesRule.bottles %}
+                    {% set imgSrc = "/apps/aldi/settings/wcm/designs/images/" + bottle + ".svg" %} {{imgSrc|img('', '', '8', '')}} {% endfor %} {{ "Um den Bestellvorgang abzuschließen, noch mindestens {0} oder mehr Flaschen hinzufügen."|replace('\{0\}',bottlesRule.neededBottles, 'g') }} Wein einkaufen {% endif %}
+
+        {% if promotion %} {{promotion.message}} {% endif %} Zwischensumme {{subtotal}} (inkl. Mehrwertsteuer ) Warenkorb ansehen {% if errors.length > 0 %} Zur Kasse {% else %} Zur Kasse {% endif %} {% endif %} Angebote ab Donnerstag, 08.01.2026 ab Montag, 05.01.2026 ab Freitag, 02.01.2026 ab Donnerstag, 01.01.2026 ab Mittwoch, 31.12.2026 ab Montag, 29.12.2026 TIEFPREIS AKTIONEN aktuelle Flugblätter und Broschüren Technik & Haushalt Handys & Router Angebote im Überblick HOFER Preis DAUERHAFT GÜNSTIGER Damenhygiene Sortiment Produktsortiment Brot und Backwaren Kühlung Fleisch und Fisch Vorratsschrank Süßes und Salziges Tiefkühlung Getränke Drogerie Haushalt Pfandartikel HOFER Eigenmarken Zurück zum Ursprung BACKBOX BIO FairHOF Vinothek SODA STAR ALMARE BARISSIMO CACHET CHOCEUR CUCINA FERREX FLYING POWER GOURMET HOFER Marktplatz LACURA LE GUSTO LYTTOS MAMIA MILSANI MOSER ROTH MY VAY! SNACK FUN TANDIL Weihnachtssortiment Bewusste Ernährung BIO High Protein Veganes Sortiment HOFER Gutscheinwelt Gutschein Großbestellung Gutscheinkarten & Ladebons Gutscheinwert prüfen HOFER Warengutscheine online bestellen Testurteile Silvestersortiment Österreichs Frische-Diskonter Online Shop Online Shop Aktionsartikel Alle Online Shop Artikel Elektronik & Multimedia Garten Haushalt & Küche Heimwerken Sport & Freizeit Wohnen SALE Dauerhaft erhältlich Lebensmittel online bestellen Warengutscheine online bestellen und Freude schenken HOFER REISEN, HoT, FOTOS, GRÜNSTROM Zu HOFER REISEN Zu HoT Zu HOFER FOTOS Zu HOFER GRÜNSTROM Mein HOFER. Meine Einkäufe. Services Bestandsabfrage FAQs Heimbringservice Gutscheinwert prüfen HOFER Garantieportal Bargeldservice HOFER WhatsApp Service HOFER Newsletter HOFER App Check Your Product Fleisch Fisch Soja Ticketeinlösung Themenwelt Ostern Rezepte Ostern - Kulinarischer Genuss zum Frühlingsfest Osterfeiertage & Symboliken Osterdeko – Dekoideen zum Frühling Bastelideen zu Ostern Ostergeschenk –Frühlingshafte Geschenkideen Garten Gartenarbeit Gartengestaltung Gartenkalender Gartentipps Kräuterkunde Gartenparty Gartendekoration Naturpool Schwimmteich Pflanzen für drinnen Grillen Grillparty Grillspezialitäten Grillen am Lagerfeuer Grillen im Winter Grillgut richtig zubereiten Richtig grillen Grillreinigung Grillzubehör Sicherheit Grillarten Bewegung & Sport Sportarten Ausrüstung Motivation Sporternährung Advent & Weihnachten Weihnachten mit Kindern Weihnachtsdeko Christbaum schmücken Weihnachtsgeschenke Das Christkind Christkindlmarkt Weihnachten in aller Welt Adventkalender Entspannung für die Weihnachtszeit Silvester Dekoration Menü Neujahrsvorsätze Glücksbringer Waschen, Putzen, Reinigen Obst & Gemüse Gesund durch den Winter Saisonkalender Life Hacks Alte Gemüsesorten Nährstoffschonende Lagerung Iss-Reif Kochen & Ernährung Kochen Ernährung Vegane Ernährung Liebensmittel aus Österreich Heimwerken Heimwerken mit Kindern Kreatives Heimwerken Upcycling Sicherheitstipps Basteln Weitere besondere Anlässe Valentinstag Schulbeginn Halloween Muttertag Vatertag Rezeptwelt Alle Rezepte Übersicht Alle Rezeptkategorien Menüart Vorspeisen & Suppen Hauptspeisen Dessert Frühstück Backen Snacks & Jause Getränke Salate Hauptzutat Fisch Obst Milchprodukte Nudeln Reis Kartoffeln Fleisch Gemüse Spargel Kürbis Apfel Erdbeeren Pilze Brot und Gebäck Ernährungsform Vegetarisch Vegan Superfood Low Carb Glutenfrei Laktosefrei Basisch Proteinreich Bewusste Ernährung Saisonen Frühling Sommer Herbst Winter Spezielles und Saisonales Grillen Einkochen Regionales und Saisonales Hausmannskost Garten & Kräuter Kochen mit Airfryer Anlässe Valentinstag Ostern Muttertag Halloween Advent & Weihnachten Silvester Regionen Internationale Küche Österreich Asien Italien Europa Familien-Gerichte Familien-Rezepte Kochen für Kinder Babynahrung Günstig kochen Schnell und Einfach Einfach Kochen 15-Minuten-Rezepte Rezepte mit wenigen Zutaten Heute für Morgen Gemeinsam spenden Ziele Expert:innen Tierwohl Einkaufspolitik Eigenmarken mit Tierwohlstandards Lebensmittelverschwendung Regionalität Fleisch & Wurst aus Österreich Klima-und Umweltschutz Maßnahmen Verpackungsmission Biodiversität Landwirtschaft der Zukunft Lieferkette Eier Fisch Holz & Papier Kaffee Tee Kakao Blumen & Pflanzen Palmöl Baumwolle Wasser Obst und Gemüse Sozial- und Umweltstandards Verantwortungsbewusst leben Bio Ernährungsformen Gentechnikfreiheit Qualität und Sicherheit Soziales Engagement Spendenprojekte Hilfe für die Ukraine Förderrichtlinien Awards Anmelden Registrieren Mein Profil HOFER Filialen HOFER REISEN HoT HOFER FOTOS HOFER GRÜNSTROM Karriere Hilfe & Kontakt Abmelden Suchbegriff zurücksetzen Suche starten Änderung der Bestellung Änderung abschließen Möchten Sie Ihre Bestelländerung wirklich verwerfen? Wenn Sie Ihre Bestellung ändern möchten, wird diese vorübergehend wieder in Ihren Warenkorb gelegt. Sie können Mengen ändern, Produkte hinzufügen oder entfernen und die Bestellung erneut abschließen. Sie haben jederzeit die Möglichkeit, diese Änderung zu beenden und Ihre Bestellung so zu belassen, wie sie vorher war. Ihr aktueller Warenkorb wird gespeichert und steht Ihnen nach der Änderung wieder zur Verfügung. Abbrechen Mit der Änderung Ihrer Bestellung fortfahren Zeitüberschreitung bei Bestelländerung Ihre Sitzung ist abgelaufen Weiter Ihre Sitzung läuft bald ab Bitte die Änderungen schnell abschließen, ansonsten werden diese verworfen. Weiter Zum Warenkorb hinzugefügt Es sind noch Artikel im Warenkorb. Abmelden Produkte ansehen Lieferkosten x Wir haben geöffnet: 31.12.2025 bis 15:00 Uhr Bei der Verwendung der automatischen Ausfüllhilfe stimmen Sie unseren Datenschutzhinweis zu. Ich stimme zu. Angebote Flugblatt WhatsApp WhatsApp Newsletter Garten Haushalt und Küche Heimwerken Sport und Freizeit Elektronik und Multimedia Wohnen Sale Dauerhaft erhältlich Trettraktor Steyr 6165 CVT € 89,99 per Stück {% if wishlist && wishlist['entry_000000000000652685'] && wishlist['isCrossed_000000000000652685'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} Gymnastikgriffe inkl. Seile € 49,99 Statt € 99,95 per Stück verfügbar ab 05.01.2026 {% if wishlist && wishlist['entry_000000000000642507'] && wishlist['isCrossed_000000000000642507'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %}
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    {% endif %} Sprossenwand aus Holz € 149,00 Statt € 229,99 per Stück verfügbar ab 05.01.2026 {% if wishlist && wishlist['entry_000000000000642546'] && wishlist['isCrossed_000000000000642546'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %}
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    {% endif %} CHRISTOPEIT Walking Pad 4.1 € 199,00 per Stück {% if wishlist && wishlist['entry_000000000000702697'] && wishlist['isCrossed_000000000000702697'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} Tisch Madrid € 279,00 per Stück {% if wishlist && wishlist['entry_000000000000631894'] && wishlist['isCrossed_000000000000631894'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} Stuhl Madrid Uni-Grau gemustert, Doppelpkg. € 279,00 per Stück {% if wishlist && wishlist['entry_000000000000631802'] && wishlist['isCrossed_000000000000631802'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} SCHEPPACH Benzin Schneefräse ST570 € 599,00 Statt € 799,99 per Stück {% if wishlist && wishlist['entry_000000000000621737'] && wishlist['isCrossed_000000000000621737'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} GORENJE Waschmaschine € 399,00 Statt € 749,00 per Stück {% if wishlist && wishlist['entry_000000000000715892'] && wishlist['isCrossed_000000000000715892'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} ACER Aspire Notebook A17-51M-95X6 € 999,00 per Stück {% if wishlist && wishlist['entry_000000000000713851'] && wishlist['isCrossed_000000000000713851'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "true" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Zum Warenkorb hinzufügen {% endif %} MONARC Gefüllter Baumbehang, Eierlikör € 2,49 per Packung
+                                
+                                    (100 per Gramm = € 1,66 ) {% if wishlist && wishlist['entry_000000000110620004'] && wishlist['isCrossed_000000000110620004'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} CHOCEUR Winter Schokoriegel, Kipferl € 2,19 per Packung
+                                
+                                    (100 per Gramm = € 1,10 ) {% if wishlist && wishlist['entry_000000000113579002'] && wishlist['isCrossed_000000000113579002'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} MONARC Bunte Schirmchen, Rose-Perglanz € 4,79 per Packung
+                                
+                                    (100 per Gramm = € 3,94 ) {% if wishlist && wishlist['entry_000000000657709004'] && wishlist['isCrossed_000000000657709004'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} MONARC Baumkuchenspitzen, Irish Cream € 2,99 per Packung
+                                
+                                    (100 per Gramm = € 1,99 ) {% if wishlist && wishlist['entry_000000000110846003'] && wishlist['isCrossed_000000000110846003'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} GOURMET FINEST CUISINE Chocolate Sticks Deluxe, Orange € 2,49 per Packung
+                                
+                                    (100 per Gramm = € 1,99 ) {% if wishlist && wishlist['entry_000000000280150002'] && wishlist['isCrossed_000000000280150002'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} CHOCEUR Milch Maus Schneebälle, Milch Haselnuss € 2,69 per Stück
+                                
+                                    (100 per Gramm = € 2,07 ) {% if wishlist && wishlist['entry_000000000643505001'] && wishlist['isCrossed_000000000643505001'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} MONARC Mini Weihnachtsfiguren, Bär € 2,99 per Packung
+                                
+                                    (100 per Gramm = € 2,39 ) {% if wishlist && wishlist['entry_000000000111338003'] && wishlist['isCrossed_000000000111338003'] === 'false' %}
+                    {{ 'heart-dark'|getIcon() }} {% else %}
+                    {{ 'heart'|getIcon() }} {% endif %} {% set isAddToBagButton = "false" %}
+                    {% if isAddToBagButton == "true" && cartEntries.length == 1 %}
+                    {% for cartEntry in cartEntries %} Im Warenkorb {% if cartEntry.minOrderQuantity == cartEntry.qty && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') != cartEntry.sku
+                            || cartEntry.qty == 1 && window.sessionStorage.getItem('CartContextPINAlreadyOnCart') == cartEntry.sku %} {{ 'trash' | getIcon('ico-trash') }} {% else %} {{ 'minus' | getIcon('ico-minus') }} {% endif %} {{cartEntry.qty |getInput('form-control buy_amount basket_product_quantity custom-quantity at-productquantity_txt',
+                                'buy_amount',"Anzahl der Produkte")}} {% set sumQtyTmp = Math.abs(cartEntry.entryStockLevel) + cartEntry.reservedAmount %}
+                            {% set isMaxQtyReached = cartEntry.qty == cartEntry.maxAvailableQuantity || cartEntry.qty == sumQtyTmp %}
+                            {% set isOutOfStock = cartEntry.entryStockLevelStatus == "outofstock" %}
+                            {% set isOrderable = !isMaxQtyReached && !isOutOfStock %}
+                            {% if isOrderable %} {{ 'plus'|getIcon() }} {% else %} {{ 'plus'|getIcon() }} {% endif %} {% endfor %}
+                    {% else %}
+                    {% if itemsNr %} Im Warenkorb {% endif %} Mehr Informationen {% endif %} Unsere Vorteile mit dem HOFER Online Shop Zustellung inklusive Einfacher Rückversand Bequemer Bestellprozess Sicher bestellen und bezahlen ÜBER HOFER ALDI International Unternehmen HOFER Qualität Meine Meinung. Mein HOFER. Mein HOFER. Meine Einkäufe. Karriere Presse HOFER WhatsApp Service HOFER App Verfügbarkeitsabfrage Garantieportal Bestellcode einlösen hofer.at INFORMATIONEN AGB Nutzungsbedingungen Datenschutzhinweis / Impressum Security Policy Barrierefreiheitserklärung Cookie-Einstellungen anpassen HOFER Newsletter Jetzt für den HOFER Newsletter anmelden und keine Angebote mehr verpassen! Ich möchte Informationen zum Produkt- und Dienstleistungsangebot der HOFER KG per Mail erhalten und bin mit der damit verbundenen Verarbeitung meiner personenbezogenen Daten gemäß dem Datenschutzhinweis zum Punkt Newsletter einverstanden. Anmelden Vielen Dank für Ihre Anmeldung zum HOFER Newsletter. Die HOFER Newsletter Anmeldung ist leider fehlgeschlagen. Bitte versuchen Sie es in 5 Minuten erneut. Die HOFER Newsletter Anmeldung ist leider fehlgeschlagen. Bitte versuchen Sie es in 24 Stunden erneut. Folgen Sie uns: Copyright © HOFER 2025 Anmelden E-Mail-Adresse und Passwort stimmen nicht überein. Bitte überprüfen Sie Ihre Eingabe. Möglicherweise entspricht Ihr Passwort nicht unseren neuen Sicherheits-Anforderungen. In diesem Fall klicken Sie bitte auf "Passwort vergessen?" um ein neues zu erstellen. Ihr Profil wurde vorübergehend gesperrt. Bitte versuchen Sie es später erneut. Ihr Profil wurde noch nicht aktiviert. Verifizierung fehlgeschlagen Sie wurden aus Sicherheitsgründen abgemeldet. Melden Sie sich bitte erneut an. E-Mail-Adresse Passwort Passwort anzeigen Passwort verbergen Angemeldet bleiben Passwort vergessen? Anmelden Oder: Mit Facebook anmelden Mit Google anmelden Mit Apple anmelden Wir weisen darauf hin, dass es zu einer Datenübermittlung in Drittstaaten, wie insbesondere die USA, kommen kann. Da die USA laut Europäischem Gerichtshof kein angemessenes Datenschutzniveau aufweist, bestehen aufgrund der Übermittlung Risiken (Zugriff auf Daten durch US-Behörden, fehlende Rechtsbehelfe). Ihre Einwilligung umfasst gemäß Art. 49 Abs. 1 lit. a DSGVO diese Übermittlung in Drittstaaten. Weitere Informationen finden Sie in unserem Datenschutzhinweis . Ich stimme zu. , I agree {{modal_title}} {% if modal_title2 %} {{modal_title2}} {% endif %}
+                    {% if modal_subtitle %} {{modal_subtitle}} {% endif %}
+                    {% if modal_subtitle2 %} {{modal_subtitle2}} {% endif %}
+                    {% if modal_data %} Vorname (optional) Nachname (optional) {% endif %}
+                    {% if modal_com_acc %} Benutzername (optional) {% endif %} E-Mail-Adresse {{ modal_disabled_email|getEmailInput(modal_email, "E-Mail-Adresse eingeben",
+                        "Ungültige E-Mail-Adresse", "Bitte überprüfen Sie Ihre Eingabe. Die eingegebene E-Mail-Adresse darf nur Kleinbuchstaben enthalten." ) }} {% if modal_password %} Passwort Passwort anzeigen Passwort verbergen Passwort vergessen? {% endif %}
+                    {% if modal_privacy %} Ich stimme den Nutzungsbedingungen zu. Ich habe den Datenschutzhinweis zur Kenntnis genommen. Ich möchte die besten Angebote nicht verpassen und stimme zu, dass meine Daten von der HOFER KG für Direktmarketing (z. B. Zusendung individualisierter Werbung per E-Mail) verwendet werden dürfen. (optional) {% endif %} {{modal_cancel_label}} {{modal_submit_label}} Noch nicht registriert?

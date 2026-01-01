@@ -1,0 +1,220 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. If you continue to use the site without a selection, your consent to cookies is implied.
+Show details
+Allow all cookies
+Use necessary cookies only
+Sign In
+ 
+Product Support
+ 
+Contact Us
+ 
+Features
+ 
+Industry
+ 
+Pricing
+ 
+Partners
+ 
+Resources
+ 
+Demo
+ 
+Free trial
+Secure Cloud Print Management
+Cloud-based print management software, flexible, scalable and easy to use. Easily manage and maintain complex print environments with modern hybrid printing features all users & organizations need.
+Start Your Free Trial
+Modern Cloud Printing
+Print anytime, anywhere from any device to any printer
+
+PRINT-READY CONVENIENCE
+
+Easily onboard new employees and support roaming users with print-ready universal configurations.
+
+
+GLOBAL SECURE PRINT
+
+Release print jobs from any printer using browser or smartphone, or by card or ID code on many models.
+Printix App. | Printix Go
+
+
+DIRECT & MOBILE PRINT
+
+Windows, Mac, Chromebook, iOS & Android.
+Printix Mobile Print
+
+HYBRID CLOUD PRINT ENABLEMENT
+
+Add public-cloud based auditable home & remote printing to any on-premise or private cloud print management system.
+Hybrid Cloud Print
+
+
+WINDOWS ARM PROCESSOR SUPPORT
+
+Enable printing on Windows Arm-based devices, including Microsoft Surface devices with Snapdragon processors, ensuring compatibility across your device fleet.
+
+Printix lets you easily setup and manage any print environment
+
+See it in action with our free demo, or chat with a sales rep to see a personalized demo
+
+View Demo
+Chat with Sales
+Modern Print Management
+N
+	
+Fast onboarding
+
+Deploy automatically with Microsoft Endpoint Manager
+
+N
+	
+Inexpensive to use
+
+Only pay per active users
+
+N
+	
+Central web-based management
+
+Configure and control printers, print queues, print drivers and more
+
+N
+	
+Supports any printer
+
+No need to invest in a new certified printers or print connectors
+
+N
+	
+Print-ready setup
+
+Automatic location and group policy installed print environment. Auto install & auto cleanup.
+
+N
+	
+Content-Aware Printing
+
+Provide a smarter way to print by applying real-time content controls that protect IP, reduce risk, and deliver peace of mind (additional licensing required).
+
+According to Quocirca’s Print 2025 study, 73% of respondents expect to increase the use of cloud-based print management by 2025.
+
+Tungsten, Featuring Printix, Named an IDC Leader in Print Management for Its Hybrid Cloud Capabilities!
+
+Explore the latest IDC MarketScape report for insights, expert advice, and a complete overview of our Hybrid Cloud Print solutions.
+
+Get Your Copy
+Enjoy significant savings
+
+With Printix software as a service, you will significantly reduce the cost of print operations and relieve IT burden. Customers will typically see ROI inside 6-12 months.
+
+No print servers required
+Remove on premise hardware
+Remove license cost
+Remove server administration
+Eliminate time-consuming print administration
+Automated queue and driver installation
+Enable self service
+
+Printix offers a free one-month trial with all features included and monthly or annual subscriptions. For Enterprise, Education or Non-profits request a quote.
+
+Start Your Free Trial
+See Pricing
+Introducing Printix Capture
+
+Capture content from MFP or mobile device to email and cloud destinations.
+
+Customize workflows based on your organizations needs.
+
+Learn more
+Thousands of businesses love Printix, you will too
+See Our Testimonials
+Secure by design
+N
+	
+Single Sign-On with Entra ID, Google Workspace, Okta, OneLogin
+N
+	
+Print jobs stay on local network
+N
+	
+Documents encrypted and stored locally
+N
+	
+Monitor usage and activity with tracking reports
+N
+	
+Document names can only be seen by the owner of the document
+N
+	
+GDPR compliant
+Learn more
+Printix Integrations
+
+Printix integrates seamlessly with Microsoft Entra ID and Google Workspace so you’re up and running immediately.
+
+Microsoft integration
+Single Sign-On in with Microsoft
+Deploy with Endpoint Manager
+Entra ID groups
+Azure Blob Storage
+Microsoft Power BI
+Learn more
+Google integration
+Single Sign-On in with Google
+Deploy with MSI file
+Google groups
+Google Cloud Storage
+Printix for Chromebook
+Learn more
+Need Help?
+
+
+Here are our most common issues and how to resolve them
+
+See FAQ’s
+
+Search for product documentation and help files
+
+Find Help Docs
+
+Contact Printix Technical Support and open a case
+
+Contact Support
+Get started with Printix for Free
+
+Test drive your complete cloud-managed print infrastructure and secure printing environment. Full feature access. No credit card required.
+
+Start Your Free Trial
+Printix Features
+Hybrid Cloud Printing
+Mobile Printing
+Home Office printing
+Azure Printing
+Chrome Printing
+Capture
+Power BI Report
+Printix for
+Business
+Education
+Nonprofits
+Partners
+Become a Partner
+Partner Login
+Help & Support
+FAQs
+Documentation
+Knowledgebase
+Contact Support
+Integrations
+Microsoft
+Google
+Learn More
+Free Trial
+Pricing
+Free Demo
+Testimonials
+About us
+Contact Us
+Terms of Service Privacy Trust / Security
+© 2025 Tungsten Automation Corporation

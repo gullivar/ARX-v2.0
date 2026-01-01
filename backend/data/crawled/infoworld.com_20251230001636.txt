@@ -1,0 +1,368 @@
+Topics
+Spotlight: Cloud Computing
+Latest
+Newsletters
+Resources
+Latest from today
+HOW-TO
+Get started with Python’s new native JIT
+
+The native just-in-time compiler in Python 3.15 can speed up code by as much as 20% or more, although it’s still experimental.
+
+By Serdar Yegulalp
+Dec 24, 2025
+6 mins
+Programming Languages
+Python
+Software Development
+FEATURE
+8 old programming languages developers won’t quit
+By Peter Wayner
+Dec 22, 2025
+7 mins
+C++
+Java
+Python
+ANALYSIS
+Reader picks: The most popular Python stories of 2025
+By Serdar Yegulalp
+Dec 26, 2025
+3 mins
+Python
+Rust
+Web Development
+NEWS
+Microsoft is not rewriting Windows in Rust
+By Peter Sayer
+Dec 24, 2025
+2 mins
+Artificial Intelligence
+Development Tools
+Generative AI
+OPINION
+A small language model blueprint for automation in IT and HR
+By Muddu Sudhakar
+Dec 25, 2025
+6 mins
+Artificial Intelligence
+Generative AI
+Software Development
+REVIEWS
+AI power tools: 6 ways to supercharge your terminal
+By Matthew Tyson
+Dec 24, 2025
+11 mins
+Artificial Intelligence
+Development Tools
+Generative AI
+NEWS
+Rust vision group seeks enumeration of language design goals
+By Paul Krill
+Dec 23, 2025
+3 mins
+Programming Languages
+Rust
+Software Development
+ANALYSIS
+When is an AI agent not really an agent?
+By David Linthicum
+Dec 23, 2025
+7 mins
+Artificial Intelligence
+Generative AI
+Technology Industry
+ANALYSIS
+Agents, protocols, and vibes: The best AI stories of 2025
+By Josh Fruhlinger
+Dec 19, 2025
+4 mins
+Development Tools
+Devops
+Technology Industry
+More top stories
+OPINION
+6 AI breakthroughs that will define 2026
+
+The most significant advances in the coming year won’t come from building larger models.
+
+By Dwarak Rajagopal
+Dec 22, 2025
+5 mins
+Artificial Intelligence
+Generative AI
+Technology Industry
+OPINION
+Stop letting ‘urgent’ derail delivery. Manage interruptions proactively
+
+A simple mechanism to protect your teams’ roadmap, deliverables and productivity when the next fire drill hits.
+
+By Priyank Desai and Shubham Amilkanthwar
+Dec 22, 2025
+6 mins
+Careers
+IT Jobs
+IT Leadership
+OPINION
+Building AI agents the safe way
+
+The best defense against prompt injection and other AI attacks is to do some basic engineering, test more, and not rely on AI to protect you.
+
+By Matt Asay
+Dec 22, 2025
+7 mins
+Code Security
+Generative AI
+Technology Industry
+FEATURE
+InfoWorld’s 2025 Technology of the Year Award winners
+
+The InfoWorld Technology of the Year Awards recognize the year’s best and most innovative products in AI, cloud, data analytics, devops, and software development.
+
+By InfoWorld Awards Team
+Dec 15, 2025
+48 mins
+APIs
+Application Security
+DevSecOps
+ANALYSIS
+What’s next for Azure infrastructure
+
+Azure CTO Mark Russinovich’s annual “Inside Azure Innovations” presentations give us a look at cooling innovations, bare-metal servers, and better storage.
+
+By Simon Bisson
+Dec 18, 2025
+9 mins
+Cloud Computing
+IaaS
+Microsoft Azure
+HOW-TO
+High-performance programming with Java streams
+
+Learn how to use advanced techniques like short-circuiting, parallel execution, virtual threads, and stream gatherers to maximize Java stream performance.
+
+By Rafael del Nero
+Dec 18, 2025
+15 mins
+APIs
+Java
+Programming Languages
+SHOW MORE
+VIEW ALL
+Dev with Serdar
+VIDEO
+How to generate C-like programs with Python
+
+You might be familiar with how Python and C can work together, by way of projects like Cython. The new PythoC project has a unique twist on working with both languages: it lets you write type-decorated Python that can generate entire standalone C programs, not just importable Python libraries written in C. This video shows a few basic PythoC functions, from generating a whole program to using some of PythoC’s typing features to provide better memory management than C alone could.
+
+Dec 16, 2025
+5 mins
+Python
+Zed Editor Review: The Rust-Powered IDE That Might Replace VS Code
+Dec 3, 2025
+5 mins
+Python
+Python vs. Kotlin
+Nov 13, 2025
+5 mins
+Python
+Hands-on with the new sampling profiler in Python 3.15
+Nov 6, 2025
+6 mins
+Python
+SEE ALL VIDEOS
+Explore a topic
+
+Analytics
+Artificial Intelligence
+Careers
+Cloud Computing
+Data Management
+Databases
+Development Tools
+Devops
+Emerging Technology
+Generative AI
+Java
+JavaScript
+Microsoft .NET
+Open Source
+VIEW ALL TOPICS
+Spotlight: Making the most of multicloud
+ARTICLES
+BUYER’S GUIDE
+
+For IT leaders navigating multicloud environments, success depends on strategic alignment across business units, robust governance frameworks, and proactive security postures. While multicloud offers agility and vendor flexibility, it also introduces challenges in visibility, compliance, and developer productivity. In this special report, you’ll learn how to take advantage of benefits of using multiple clouds, avoid common pitfalls, and ensure that multicloud is worth the investment.
+
+VIEW ALL
+Popular topics
+Artificial Intelligence
+OPINION
+AI’s trust tax for developers
+By Matt Asay
+Dec 29, 2025
+6 mins
+Developer
+Development Tools
+IT Skills and Training
+ANALYSIS
+4 New Year’s resolutions for devops success
+By Isaac Sacolick
+Dec 29, 2025
+10 mins
+Development Tools
+Devops
+Technology Industry
+NEWS
+Microsoft previews C++ code editing tools for GitHub Copilot
+By Paul Krill
+Dec 22, 2025
+2 mins
+C++
+Generative AI
+Programming Languages
+VIEW TOPIC
+Cloud Computing
+NEWS
+Snowflake software update caused 13-hour outage across 10 regions
+By Gyana Swain
+Dec 19, 2025
+5 mins
+Analytics
+Cloud Storage
+Data Warehousing
+ANALYSIS
+Why your next cloud bill could be a trap
+By David Linthicum
+Dec 19, 2025
+7 mins
+Analytics
+Generative AI
+Predictive Analytics
+FEATURE
+Cloud native explained: How to build scalable, resilient applications
+By Scott Carey and Josh Fruhlinger
+Dec 19, 2025
+11 mins
+Agile Development
+Cloud Computing
+Devops
+VIEW TOPIC
+Data Management
+NEWS
+High severity flaw in MongoDB could allow memory leakage
+By Lynn Greiner
+Dec 26, 2025
+2 mins
+Databases
+NoSQL Databases
+Vulnerabilities
+OPINION
+Before you build your first enterprise AI app
+By Matt Asay
+Dec 15, 2025
+8 mins
+Analytics
+Data Quality
+Data Science
+OPINION
+Document databases – understanding your options
+By Radek Szulgo
+Dec 11, 2025
+8 mins
+Databases
+Document Databases
+NoSQL Databases
+VIEW TOPIC
+Software Development
+NEWS
+React2Shell: Anatomy of a max-severity flaw that sent shockwaves through the web
+By Shweta Sharma
+Dec 29, 2025
+6 mins
+Development Tools
+Security
+Vulnerabilities
+NEWS
+Deno adds tool to run NPM and JSR binaries
+By Paul Krill
+Dec 23, 2025
+3 mins
+JavaScript
+TypeScript
+WebAssembly
+NEWS
+WhatsApp API worked exactly as promised, and stole everything
+By Shweta Sharma
+Dec 23, 2025
+4 mins
+APIs
+Security
+Software Development
+VIEW TOPIC
+Spotlight Story
+FEATURE
+10 principles for creating a great developer experience
+
+Tech leaders who maximize developer satisfaction and minimize frustration reap the rewards in hiring, retaining, and delivering results from their dev teams.
+
+By Isaac Sacolick
+May 6, 2024
+12 mins
+Engineer
+Software Development
+Technology Industry
+Show me more
+LATEST
+ARTICLES
+VIDEOS
+NEWS BRIEF
+Cursor owner Anysphere agrees to buy Graphite code review tool
+By InfoWorld.com staff
+Dec 22, 2025
+1 min
+Artificial Intelligence
+Generative AI
+Software Development
+VIDEO
+How to make local packages universal across Python venvs
+Nov 4, 2025
+4 mins
+Python
+VIDEO
+X-ray vision for your async activity in Python 3.14
+Oct 21, 2025
+4 mins
+Python
+
+Sponsored Links
+
+Solve your most complex IT challenges with solutions that simplify your modernization journey.
+About
+About Us
+Advertise
+Contact Us
+Editorial Ethics Policy
+Foundry Careers
+Reprints
+Newsletters
+BrandPosts
+Policies
+Terms of Service
+Privacy Policy
+Cookie Policy
+Copyright Notice
+Member Preferences
+About AdChoices
+Your California Privacy Rights
+Privacy Settings
+Our Network
+CIO
+Computerworld
+CSO
+Network World
+Facebook
+X
+YouTube
+Google News
+LinkedIn
+© 2025 FoundryCo, Inc. All Rights Reserved.

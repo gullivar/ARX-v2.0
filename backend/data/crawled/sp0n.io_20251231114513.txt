@@ -1,0 +1,2 @@
+Grafana If you're seeing this Grafana has failed to load its application files This could be caused by your reverse proxy settings. If you host grafana under a subpath make sure your grafana.ini root_url setting
+              includes subpath. If not using a reverse proxy make sure to set serve_from_sub_path to true. If you have a local dev build make sure you build frontend using: yarn start , or yarn build . Sometimes restarting grafana-server can help. Check if you are using a non-supported browser. For more information, refer to the list of supported browsers .

@@ -1,0 +1,205 @@
+We use cookies to ensure that we give you the best experience on our website. Cookies may be used in order to complete transactions or to analyze traffic on our site. You must consent to cookies if you continue to use this website. Privacy Policy
+Decline
+Allow Cookies
+Allow all cookies
+Cookie settings:
+Necessary
+Statistics
+Marketing
+Solutions
+Products
+Support
+Partners
+Open Source
+LiteSpeed Web Server
+Enterprise v6.3
+Major Features:
+Namespace containers
+Cgroup resource limits
+Advanced anti-DDoS
+Firewall controller
+Improved HTTP2/HTTP3 engine
+Learn More Now
+The FASTEST WordPress Stack
+ 
+
+LiteSpeed Web Server
+
+Fastest Built-in Cache
+
+Superior performance and accuracy with ESI-enabled server level caching.  
+
+ 
+
+LSCache for WordPress
+
+Intelligence + Optimization
+
+The best WordPress cache plugin with PageSpeed optimization.
+5-out-of-5 Stars!  
+
+ 
+
+QUIC.cloud CDN
+
+Complete Acceleration
+
+A global CDN that caches ALL of WordPress, not just images and static content.  
+
+
+
+Learn More Now
+Compatible Control Panels   
+One Click in the Cloud   
+LiteSpeed HTTP/3 Solutions   
+
+HTTP/3 is available in LiteSpeed products across the board, with rock-solid stability and unbeatable performance.
+
+HTTP/3 Ready Products
+      
+Open Source HTTP/3 Library
+
+LSQUIC Project on  
+
+HTTP/3 Ready CDN
+
+QUIC.cloud  
+
+HTTP/3 Testing Tool
+
+http3check.net  
+
+
+
+[ Try LiteSpeed For FREE Today! ]
+Unbeatable Performance  
+
+Testimonials  
+
+Litespeed cache is truly a masterpiece!
+
+—  Joe George (a.k.a Digital Joe George), Digital Innovator of Cubitize
+ 
+
+It is great to apply all our hosting servers with LiteSpeed web server system in Taiwan.
+
+Although it cost us extra license fee and not cheap, but it help our clients to get better page load speed, especially with LSCache for WordPress...
+
+—  CH LIN., CEO
+ 
+
+Litespeed currently offers the best and most up-to-date solution in the market, whereas other similar products fail to deliver. Furthermore, Litespeed’s vibrant team is always available to answer your diverse questions or help you achieve your goals.
+
+—  Dragomir Z., CEO
+ 
+
+LiteSpeed makes WordPress websites fly!
+
+—  Jim W., Service Manager
+ 
+
+Its anti-flood technologies, additional attention to security and DDoS protection features have proven invaluable in continuing to provide a solid platform.
+
+—  Jesse M., COO
+ 
+
+We have tried optimizing Apache and Nginx for Magento customers, but Litespeed always wins hands down. The customization that Litespeed offers is second to none and we have huge flexibility in changing the LiteSpeed config.
+
+—  Nick P., Director
+ 
+
+In conclusion, do you know any other websites in the Alexa top 300 that run on three old web servers?
+
+—  PopAds.net
+ 
+
+Its a good investment if you plan to increase your server's performance, but don't want to upgrade hardware.
+
+—  Alex B., Executive Officer
+ 
+What's New on our Blog  
+2025 So Far...
+Jul 22nd, 2025
+
+Between cache plugins, servers, and control panel plugins, we've updated a lot of products so far in 2025. Is your…
+
+Why You Need LSCache Plugins
+Jun 30th, 2025
+
+Do you know why you should cache your apps? Or why LSCache plugins are uniquely capable of delivering website content…
+
+AVIF support in LSCWP v7.0
+Mar 27th, 2025
+
+Now you can generate next-generation AVIF format images with the LiteSpeed Cache plugin for WordPress
+
+Partners  
+
+Our products have been battle-tested in the most demanding of environments.
+LiteSpeed has earned the trust of Hosting Providers around the world. How to Become A Partner 
+
+ 
+ 
+ 
+ 
+ 
+ 
+RESOURCES
+Downloads
+Benchmarks
+Case Studies
+Testimonials
+Affiliate Program
+Media Kit
+Glossary
+WordCamp Asia 2024
+Services
+SOLUTIONS
+WordPress Hosting
+Agencies
+Hosting Providers
+Site Owners
+Anti-DDoS Solutions
+One Click in the Cloud
+Application Servers
+Cluster Managers
+Mass Hosting
+Redis Cache Management
+WEB APP CACHING
+WordPress
+Magento
+Joomla
+Prestashop
+OpenCart
+Drupal
+XenForo
+Laravel
+Shopware
+MediaWiki
+PRODUCTS
+LiteSpeed Web Server
+LiteSpeed Web ADC
+LSCache Plugins
+ 
+OPEN SOURCE
+OpenLiteSpeed
+QUIC and HTTP/3 Library
+LiteSpeed Server API
+SUPPORT
+User Manual
+Wiki
+Documentation
+Forum
+Submit a Ticket
+Premium Support
+Video Instructions
+COMPANY
+About Us
+Blog
+Pricing
+Latest Technologies
+Careers
+Contact Us
+[Get LiteSpeed For FREE Today! ]
+
+Copyright  2013-2025 LiteSpeed Technologies Inc. All Rights Reserved. (Privacy Policy)

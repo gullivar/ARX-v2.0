@@ -1,0 +1,57 @@
+Skip to main content
+Microsoft
+Graph Dev Center
+Explore Graph Explorer Docs API Learn Developer Program Support
+All Microsoft
+Developer
+Microsoft 365
+Microsoft Graph
+Microsoft Graph is the unified API for modern work
+
+Use the data and intelligence in Microsoft 365 to build apps that reach millions of users.
+
+Get started Read documentation
+What can I do with Microsoft Graph?
+
+Use the Microsoft Graph REST API to build apps that access, analyze, and augment data from Microsoft 365.
+
+Explore the Microsoft Graph REST API
+Get started with the Microsoft Graph API
+Build a sample app in minutes
+
+Choose a language, get a client ID, and download a working sample that calls Microsoft Graph.
+
+Try the Quick Start
+
+Or, follow along step-by-step to build your sample.
+
+View the tutorials
+Try the API in your browser without writing any code
+Try Graph Explorer
+Ground Microsoft 365 Copilot in more of your organization's content
+
+Use Microsoft Graph connectors to bring data from external sources into Microsoft Graph, making more of your organization's content and context available to Copilot.
+
+Explore Microsoft Graph connectors
+
+
+Simplify deployment of Microsoft Graph resources by using templates
+
+Bicep and Terraform templates make it easy for you to deploy Microsoft Graph resources throughout your development lifecycle as part of your infrastructure-as-code solution.
+
+Learn more about templates
+Learn on your own schedule
+Microsoft Graph fundamentals
+Learn more
+Develop apps with Microsoft Graph Toolkit
+Learn more
+Explore Microsoft Graph scenarios for JavaScript development
+Learn more
+Explore Microsoft Graph scenarios for ASP.NET Core development
+Learn more
+Scale access to Microsoft 365 data for insights and analytics
+
+Access Microsoft 365 data on Microsoft Graph at scale while ensuring security and governance in every step of the process. Streamline the delivery of this data into Microsoft Fabric in Delta Parquet format.
+
+Explore Microsoft Graph Data Connect
+Get the latest Microsoft Gra

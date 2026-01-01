@@ -1,0 +1,1 @@
+{"error": "Welcome. Get started with our API by visiting https://developer.mixpanel.com/"}

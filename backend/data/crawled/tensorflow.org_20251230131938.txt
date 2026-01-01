@@ -1,0 +1,178 @@
+Skip to main content
+
+www.tensorflow.org uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Install
+Learn
+API
+Ecosystem
+More
+/
+GitHub
+Sign in
+An end-to-end platform for machine learning
+Install TensorFlow
+Get started with TensorFlow
+
+TensorFlow makes it easy to create ML models that can run in any environment. Learn how to use the intuitive APIs through interactive code samples.
+
+View tutorials 
+import tensorflow as tf
+mnist = tf.keras.datasets.mnist
+
+(x_train, y_train),(x_test, y_test) = mnist.load_data()
+x_train, x_test = x_train / 255.0, x_test / 255.0
+
+model = tf.keras.models.Sequential([
+  tf.keras.layers.Flatten(input_shape=(28, 28)),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dropout(0.2),
+  tf.keras.layers.Dense(10, activation='softmax')
+])
+
+model.compile(optimizer='adam',
+  loss='sparse_categorical_crossentropy',
+  metrics=['accuracy'])
+
+model.fit(x_train, y_train, epochs=5)
+model.evaluate(x_test, y_test)
+Run quickstart 
+Solve real-world problems with ML
+
+Explore examples of how TensorFlow is used to advance research and build AI-powered applications.
+
+TENSORFLOW.JS
+Catch up on the latest from the Web AI Summit
+
+Explore the latest advancements in running models client-side with speakers from Chrome, MediaPipe, Intel, Hugging Face, Microsoft, LangChain, and more.
+
+Watch now 
+TENSORFLOW GNN
+Analyze relational data using graph neural networks
+
+GNNs can process complex relationships between objects, making them a powerful technique for traffic forecasting, medical discovery, and more.
+
+Learn about TF GNN 
+TENSORFLOW AGENTS
+Build recommendation systems with reinforcement learning
+
+Learn how Spotify uses the TensorFlow ecosystem to design an extendable offline simulator and train RL Agents to generate playlists.
+
+Read the blog 
+What's new in TensorFlow
+
+Read the latest announcements from the TensorFlow team and community.
+
+What's new in TensorFlow 2.20
+
+Updated August 20, 2025
+
+What's new in TensorFlow 2.19
+
+Updated March 14, 2025
+
+Moreexpand_more
+Explore the ecosystem
+
+Discover production-tested tools to accelerate modeling, deployment, and other workflows.
+
+LIBRARY
+
+TensorFlow.js
+
+Train and run models directly in the browser using JavaScript or Node.js.
+
+LIBRARY
+
+LiteRT
+
+Deploy ML on mobile and edge devices such as Android, iOS, Raspberry Pi, and Edge TPU.
+
+API
+
+tf.data
+
+Preprocess data and create input pipelines for ML models.
+
+LIBRARY
+
+TFX
+
+Create production ML pipelines and implement MLOps best practices.
+
+API
+
+tf.keras
+
+Create ML models with TensorFlow's high-level API.
+
+RESOURCE
+
+Kaggle Models
+
+Find pre-trained models ready for fine-tuning and deployment.
+
+RESOURCE
+
+TensorFlow Datasets
+
+Browse the collection of standard datasets for initial training and validation.
+
+TOOL
+
+TensorBoard
+
+Visualize and track development of ML models.
+
+ML models & datasets
+
+Pretrained models and ready-to-use datasets for image, text, audio, and video use cases.
+
+Libraries & extensions
+
+Packages for domain-specific applications and APIs for languages other than Python.
+
+Developer tools
+
+Tools to evaluate models, optimize performance, and productionize ML workflows.
+
+Join the community
+
+Collaborate, find support, and share your projects by joining interest groups or attending developer events.
+
+Get involved 
+Learn ML
+
+New to machine learning? Begin with TensorFlow's curated curriculums or browse the resource library of books, online courses, and videos.
+
+Explore resources 
+Stay connected
+
+Learn the latest in machine learning and TensorFlow by following our channels or signing up for the newsletter. View past newsletters in the archive.
+
+Forum
+X
+YouTube
+Linkedin
+Start building with TensorFlow
+Install TensorFlow 
+Explore tutorials 
+Stay connected
+Blog
+Forum
+GitHub
+Twitter
+YouTube
+Support
+Issue tracker
+Release notes
+Stack Overflow
+Brand guidelines
+Cite TensorFlow
+Terms
+Privacy
+Manage cookies
+Sign up for the TensorFlow newsletter
+Subscribe

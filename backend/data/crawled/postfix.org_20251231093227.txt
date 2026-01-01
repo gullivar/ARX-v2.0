@@ -1,0 +1,13 @@
+The Postfix Home Page QUICK LINKS Home Announcements Feature overview Web sites (text) Download (source) Mailing lists Press and Interviews Documentation Add-on Software Packages and Ports Becoming a mirror site The Postfix Home Page All programmers are optimists -- Frederick P.
+Brooks, Jr. First of all, thank you for your interest in the Postfix project. What is Postfix? It is Wietse Venema's mail
+server that started life at IBM
+research as an alternative to the widely-used Sendmail program.  After eight
+years at Google, Wietse continues to maintain Postfix . Postfix attempts to be fast, easy to administer, and secure.
+The outside has a definite Sendmail-ish flavor, but the inside is
+completely different. About this website This website has information about the Postfix source code
+distribution. Built from source code, Postfix can run on UNIX-like
+systems including AIX, BSD, HP-UX, Linux, MacOS X, Solaris, and
+more. Postfix is also distributed as ready-to-run code by operating
+system vendors, appliance vendors, and other providers.  Their
+versions may have small differences with the software that is
+described on this website.

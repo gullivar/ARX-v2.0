@@ -1,0 +1,237 @@
+	
+	
+HOME
+EXTENSIONS
+TEMPLATES
+DOCUMENTATION
+DOWNLOAD
+DEMO
+NEWS
+BLOG
+FORUM
+Latest News
+Phoca Email Version 6.0.0 Released (Joomla 6)
+Phoca Documentation Version 6.0.0 Released (Joomla 6)
+Phoca Cart 6.0.0 Beta has been released
+Phoca Filter Options System Plugin 6.0.0 Released
+Phoca Maps Version 6.0.1 Released (Joomla 6)
+Latest Blog Articles
+Building a One-Page Website with Joomla CMS
+Connecting AI and CMS: Building Websites with AI and Maintaining It in Joomla CMS
+5 Extensions to Boost Your Joomla 6 Administration Workflow
+Joomla - Feedback and Ideas For Improving The Work in the Administration In Future Versions For a More Efficient Experience
+Inkscape - Place Text Behind Object
+Latest Ecommerce Blog Articles
+Klarna Payments HPP for Phoca Cart Released
+NorrNext Expands Its Portfolio with New Payment Plugins for Phoca Cart
+JPro Studio Releases AcyMailing Phoca Cart Integration
+NorrNext Updates Its Portfolio and Now Offers 5 Payment Plugins for Phoca Cart
+Phoca Cart – Translate It All. Instantly.
+Phoca Forum - Latest Topics
+reCaptcha does not work
+on 29 Dec 2025 23:53 by Benno
+Feature Request: Shipping Integration for UPS, Canada Post & FedEx
+on 29 Dec 2025 23:50 by trisha
+Joomla 6.01 Phoca 6.01 error by 'new' image
+on 29 Dec 2025 16:17 by christine
+Newsletter subscription is disabled
+on 29 Dec 2025 15:27 by Benno
+Attribute update price
+on 29 Dec 2025 13:12 by mjmartino
+Phoca Extensions
+Powerful extensions for Joomla! CMS
+Discover powerful Phoca extensions designed for Joomla or WordPress websites.Joomla templates
+Phoca Cart
+Phoca Cart is a shopping cart solution for Joomla! CMS. It extends Joomla! with new e-commerce features.
+3.10
+4.x
+5.x
+6.x
+Phoca Gallery
+Phoca Gallery is an image gallery for Joomla! CMS. It includes component, modules and plugins and allows users to display images or Youtube videos in many different styles.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+6.x
+Phoca Download
+Phoca Download is a download manager for Joomla! CMS. It includes component, modules and plugins and allows to add files to the site which can be downloaded by other users.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+6.x
+Phoca Restaurant Menu
+Phoca Restaurant Menu is a Joomla! component and allows creating menus for restaurant, cafeteria, fast food, school canteen, buffet, wineroom, etc. Menus can be displayed on a website, printed or emailed to customers.
+1.5Joomla CMS solutions
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+6.x
+Phoca Guestbook
+Phoca Guestbook is a guestbook component for Joomla! CMS. It includes different Captcha methods, bad words filter and option to block defined IP adresses. Users can leave messages with help of user friendly HTML editor.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+Phoca Photo
+Phoca Photo is Joomla! CMS component. It extends Phoca Gallery with new design features.
+3.10
+4.x
+5.x
+Phoca PDF
+Phoca PDF is a Joomla component. This component allows you to create PDF documents in Joomla CMS.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+6.x
+Phoca Commander
+Phoca Commander is Joomla! CMS component - it is dual panel file manager working in Joomla! cms.
+3.10
+4.x
+5.x
+5.x
+6.x
+Phoca Maps
+Phoca Maps is Joomla! CMS component. It displays maps on your site.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.x
+5.x
+6.x
+Phoca Documentation
+Phoca Documentation is a Joomla!
+componentWebsite development service
+template override to display Joomla's articles, categories and sections as a documentation site, e.g. as User Manual, User guide, etc.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.3
+5.x
+Phoca Favicon
+Phoca Favicon is a Joomla! component. It is a simple component that generates favicon (favicon.ico) on your Joomla! site. You can change the favicon of your site whenever you like.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.3
+Phoca Panorama
+Phoca Panorama is Joomla! CMS component - it displays panoramic images or interactive virtual tours.
+3.x
+Phoca Email
+Phoca Email is a Joomla! component. It is very simple component with minimum features. Phoca Email is used for sending emails from other components like e.g. sending Invoice, Delivery Note or Receipt from VirtueMart component or it can be used to quickly send emails from Joomla! administration site.
+1.5Joomla templates
+1.6
+1.7
+2.5
+3.10
+4.3
+5.x
+6.x
+Phoca Font
+Phoca Font is a Joomla! component. This component adds support for using downloadable fonts in your Joomla! site. You can upload and select your own .ttf or .otf font files. Font included in this font file will be rendered on your site.
+1.5
+1.6
+1.7
+2.5
+3.10
+4.3
+Phoca Install
+Phoca Install is a Joomla! component. It is designed for developers or administrators. It is a base for creating advanced component which will have the following features: Copy stored files from installation ZIP package to Joomla! site and run SQL queries (listed in installation XML file) in Joomla! site.
+1.5
+1.6
+1.7
+2.5
+3.x
+4.x
+5.x
+6.x
+Phoca SEF
+Phoca SEF is a Joomla! component. This component doesn't create SEF links. It is a small component which has three main functions. It stores links from sites which end with 404 Error. It can redirect such links. It stores referring sites.
+1.5Plugin development service
+100+
+GitHub ProjectsJoomla CMS solutions
+Arctic Code
+Vault Contributor
+12 Million+
+Downloads
+70 000+
+Answered Questions
+2 700+
+Planted Trees
+
+    
+ Phoca News
+ Phoca Latest Files
+Subscribe to our newsletter
+
+Subscribe
+Misc
+Joomla! Framework API
+Phoca Cart API
+Phoca Gallery API
+Phoca Download API
+Color Scheme Generator
+CSS Flags
+Flag Icons
+Wallpapers
+Newsletter
+Support
+Development
+Phoca Team
+Ecommerce Blog
+Books
+Documentation
+Documentation
+Phoca Cart documentation
+Phoca Gallery documentation
+Phoca Download documentation
+Phoca Restaurant Menu documentation
+Download
+Download site
+Phoca Cart download
+Phoca Gallery download
+Phoca Download download
+Phoca templates download
+Demo
+Extension demo
+Extension Demo (Joomla 3)
+E-commerce demo
+Phoca Cart demo
+Wallpapers demo
+Stock photo demo
+Restaurant Menu demo
+Phoca
+Documentation
+Download
+Forum
+News
+Cookie Policy
+Privacy Policy (GDPR)
+Contact
+© Phoca 2025Joomla templates
+Phoca and this site is not affiliated with or endorsed by The Joomla! Project™.
+Any products and services provided through this site are not supported or warrantied by The Joomla! Project or Open Source Matters, Inc.
+Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.

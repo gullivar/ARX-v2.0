@@ -1,0 +1,33 @@
+EN
+Log in
+Contact sales
+The AI customer
+experience platform
+delight.ai
+
+An AI concierge that provides hyper-personalized customer experiences across the entire customer journey.
+
+Explore
+
+Memory
+
+Sendbird communications API
+
+The world’s most trusted communication infrastructure, powering billions of conversations every month.
+
+Explore
+let params = DialParams(calleeId: calleeId)
+SendBirdCall.dial(with: params) { directCall, error in
+// The call was made to callee.}
+
+Can you start by telling me a bit about your financial goals?
+
+Terms of service
+Privacy notice
+Your privacy choices
+Your privacy choices
+Sub-processors
+© 2025 Sendbird, Inc.
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.Privacy policy
+Accept cookies
+Your privacy choices

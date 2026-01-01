@@ -1,0 +1,87 @@
+Overview 
+Hardware 
+Code
+Documentation 
+Case studies
+Community 
+Blog
+Keil Studio Cloud
+
+ Important update: Arm Announces End of Life Timeline for Mbed. This site will be archived in July 2026. Read the full announcement.
+
+Mbed
+Rapid IoT device development
+
+Mbed gives you a free open source IoT operating system with connectivity, security, storage, device management and machine learning. Build your next product with free development tools, thousands of code examples and support for hundreds of microcontroller development boards.
+
+Sign up for free
+9,940
+
+compilations in the last 7 days
+
+What is Mbed?
+Mbed makes device development quicker
+Operating system
+Mbed OS
+
+Mbed OS provides a well-defined API to develop your C++ application, plus free tools and thousands of code examples, libraries and drivers for common components. With a built-in security stack, core components such as storage, and several connectivity options, you can focus on the code.
+
+Getting started Explore APIs
+Discover Hardware
+
+Mbed Enabled hardware comes in many shapes and sizes. Whether you're building your first prototype or are ready to start mass production, we have the hardware you need to build connected devices.
+
+Learn more
+Compiler & IDE
+Keil Studio Cloud
+The easiest way to get started.
+
+A modern, zero-installation Mbed development environment in your browser, with code highlighting, WebUSB flash and debug and version control. Create an account to get started.
+
+Learn more
+Mbed Studio
+The desktop IDE for Mbed OS.
+
+Mbed Studio is an IDE for application and library development. A single environment with everything you need to create, compile and debug your Mbed programs.
+
+Learn more
+Mbed CLI
+The command line tool for Mbed OS.
+
+Integrate Mbed functionality into your preferred editor, or enhance your automation setup by using Mbed CLI, our command line interface.
+
+Learn more
+Security
+
+Arm Mbed TLS provides a comprehensive SSL/TLS solution and makes it easy for developers to include cryptographic and SSL/TLS capabilities in their software and embedded products. As an SSL library, it provides an intuitive API, readable source code and a minimal and highly configurable code footprint.
+
+Learn more
+Built with Mbed
+Discover what thousands of professional IoT engineers are creating with Mbed
+Smart Street Lighting
+
+The Aaeon Node is a small device that allows Facilities Managers to easily control lighting from a city-wide single platform. Operational efficiency can be gained by simply plugging the node into an industry standard NEMA 7-pin socket found on most street lights. Over 4,000 Aaeon Nodes have been deployed across the city of Taipei growing to an expected deployment of 25,000 by the end of 2020.
+
+Learn more
+Smart City Bike Lights
+
+See.Sense's Smart City Bike Lights conserve power, but brighten when it’s essential to alert drivers to a cyclist’s presence. Accelerometers monitor various conditions including swerving, sudden braking, road surface condition and falls. City planners are using this data to improve road safety, reduce surface repair costs and support cycle track planning.
+
+Learn more
+Industrial Asset Monitor
+
+The Agora EPM2M-AG-CELL epSensor is a flexible multi-sensor device designed to be used as a module by OEMs to be added to a system or as a complete solution for monitoring air quality, temperature/humidity, motion detection, audio detection, light sensing, accelerometer and time of flight. Cellular connectivity allows the epSensor to be used in locations without Ethernet or Wi-Fi.
+
+Learn more
+ Twitter  YouTube  Forum  Blog
+Copyright © 2025 Arm Limited (or its affiliates).
+Home
+Website Terms
+Privacy
+Cookies
+Trademarks
+Important Information for this Arm website
+
+This site uses cookies to store information on your computer. By continuing to use our site, you consent to our cookies. If you are not happy with the use of these cookies, please review our Cookie Policy to learn how they can be disabled. By disabling cookies, some features of the site will not work.
+
+Accept and hide this message

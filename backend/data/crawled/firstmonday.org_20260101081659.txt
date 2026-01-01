@@ -1,0 +1,64 @@
+Skip to main content Skip to main navigation menu Skip to the current issue Skip to site footer
+Open Menu
+First Monday
+About
+About the Journal
+Editorial Team
+Privacy Statement
+Contact
+Search
+Current
+Archives
+Announcements
+Submissions
+Search
+Register
+Login
+Current Issue
+Volume 30, Number 12 - 1 December 2025
+Published: 2025-12-13
+Facebook’s data enclave and the woes of researching social media recommendation algorithms: A reflection on methods
+Aanila Kishwar
+HTML
+PDF
+Students' perception of a leaderboard-based mathematics game
+Camryn E. Thompson, Kimberly Cervello Rogers, Fei Gao
+HTML
+PDF
+The rise of John “Q” Public: Conspiracy theories as the public sphere
+Matthew Hannah
+HTML
+PDF
+Why do I insist on buying my music when everybody knows it’s free? Ten rationales for an alternative to streaming music consumption
+Ofer Bergman
+HTML
+PDF
+Fed up: /r/antiwork and the efficacy of digital labor resistance
+Ian Dunham
+HTML
+PDF
+Misleading information visualisations as a tool of info-warfare: How the same visualisations attract floating narratives of the Russia-Ukraine war parties
+Elena Aversa, Anja Bechmann
+HTML
+PDF
+View All Issues
+	This month: December 2025
+Facebook’s data enclave and the woes of researching social media recommendation algorithms: A reflection on methods
+Over the past decade, social media platforms have grown to dominate online communication, yet researchers’ access to platform data has become increasingly limited. The shutdown of application programming interfaces (APIs) and the discontinuation of CrowdTangle have significantly narrowed the avenues available for data collection. At the same time, heightened verification requirements for account creation and activity have introduced additional barriers to studying the recommendation algorithms that shape what users see and engage with. This paper takes Facebook as a focal case to document the shrinking opportunities for independent data collection. It presents a case study of an algorithmic audit project that proved feasible in its pilot phase but collapsed under tightened verification regimes. The current research environment is not only volatile but also inequitable: while billions of people communicate on social media, the conditions for independent oversight have been systematically eroded. Platforms tightly guard their black-boxed algorithmic systems, selectively granting meaningful access only to internal teams or a narrow circle of affiliated scholars, leaving much of the academic field, especially early-career researchers, without viable tools for audit studies.
+
+	Also this month
+Students’ perception of a leaderboard-based mathematics game
+In gamification, the leaderboard is a game design element that visually displays rankings based on relative progress during an activity. Through the lens of self-determination theory (SDT), this study was designed around the leaderboard to examine the intersections between students’ perceived competence, autonomy, relatedness, and enjoyment during a leaderboard-based mathematics game. After participating in a leaderboard activity during a quantitative reasoning class, students responded to open-ended questions to articulate their perceptions. These responses reveal a correlation between students’ perceived need satisfaction and their enjoyment, aligning with SDT and informing what types of students benefit from the use of a leaderboard and what characteristics need to be considered during design.
+ 	 
+ 	 
+
+
+
+ 
+
+Developed By
+Open Journal Systems
+
+A Great Cities Initiative of the University of Illinois at Chicago University Library.
+
+© First Monday, 1995-2025. ISSN 1396-0466.

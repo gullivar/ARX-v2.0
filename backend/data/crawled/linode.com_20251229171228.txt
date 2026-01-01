@@ -1,0 +1,605 @@
+Skip to main content
+Search
+Docs
+Blog
+Support
+Sales
+Log in
+English
+Explore
+Products
+Solutions
+Pricing
+Resources
+Partners
+Sign up
+FEATURED
+Hero Forge
+Secure, accessible GPU instances.
+Unleash millions of adventures.
+Read story
+Lower costs
+Lower latency
+Cloud portability
+Global scale
+Our platform
+Support experience
+FEATURED
+GPU acceleration
+Power AI and media workloads with on-demand NVIDIA™ GPUs at cost-effective pricing.
+View product details
+View all products
+COMPUTE
+Essential Compute
+GPU
+Accelerated Compute
+Kubernetes
+App Platform
+STORAGE
+Block Storage
+Object Storage
+Backups
+NETWORKING
+Cloud Firewall
+DNS Manager
+NodeBalancers
+Private Networking
+DATABASES
+Managed Databases
+SERVICES
+Linode Managed
+FEATURED
+Portability in the cloud
+Best practices for building SaaS-based applications.
+Get your copy
+SOLUTIONS
+AI inferencing
+Ecommerce
+Gaming
+Managed hosting
+Media
+SaaS
+FEATURED
+Cloud computing calculator
+Estimate your cloud costs. Price and configure cloud features to match your needs.
+Launch calculator
+PRICING
+Pricing list
+Cloud computing calculator
+FEATURED
+Developer hub
+Comprehensive guides, documentation, and endpoints. Everything you need to get started.
+Visit hub
+LIBRARY
+White paper, ebooks, videos…
+TECHNICAL RESOURCES
+Developer hub
+Documentation
+Guides
+Reference architectures
+COMMUNITY
+Community Q&A
+Beta program
+Startup program
+MARKETPLACE
+Browse apps
+WHAT'S NEW
+Blog
+Events and workshops
+The World's Most Distributed Cloud Computing Platform
+Build and deliver low-latency, edge native applications on Akamai Cloud
+Sign up with Google
+Github
+Email
+
+By providing your email address or using a single sign-on provider to create an account, you agree to our Terms of Service and have reviewed our Privacy Policy and Cookie Policy.
+
+The State of Enterprise AI: Gaining Experience and Managing Risks
+
+
+A Forrester consulting study, commissioned by Akamai, explores how enterprises are boosting CX and managing AI risks in 2025.
+
+Read study
+What's new
+Akamai + Fermyon Wasm function-as-a-service
+
+Innovate and execute lightweight code at the edge                                                              
+
+Learn more
+Optimizing AI inference: Build a foundation for scalability and efficiency
+
+Discover cost-saving strategies for AI inference, including edge deployment, model optimization, and FinOps best practices to scale efficiently.
+
+Download white paper
+Distributed Cloud: Taking AI to the Edge research study
+
+A 2024 Forrester Consulting study, commissioned by Akamai, explores distributed cloud interest among cloud strategy decision-makers.
+
+Read study
+AI inference efficiency: Spend less and do more
+
+As demonstrated using the Stable Diffusion model on Akamai Cloud, AI inference costs can be reduced by up to 86%. Discover strategies to optimize performance and lower expenses.
+
+Download white paper
+Learn how we cut our public cloud spend by 40% in one year
+
+Read the Project Cirrus brief for insights on business objectives, cloud risk management, and our five-step migration process.
+
+Read brief
+The cloud of the future, today
+
+Essential strategies for optimizing your cloud infrastructure and enhancing application performance.
+
+Lower your cloud bills
+
+Budgeting for cloud infrastructure should be easy. Enjoy flat, predictable pricing with low egress fees and a free egress allowance.
+
+Explore costs
+Deploy low-latency apps
+
+Enhance the performance of your VMs, containers, storage, and databases with support from our Qualified Compute Partners or our popular marketplace apps.
+
+Explore low-latency
+Scale across the globe
+
+Control where data is managed and scale to meet demand in key global customer markets.
+
+Explore scalability
+Get real cloud portability
+
+Choose the right technologies to power different workloads. Eliminate the need to use proprietary services.
+
+Explore portability
+Get up to US$5,000 in cloud credits*
+
+
+See how Akamai’s public cloud can help your business run better. Reduce costs, increase reliability, and drive results. Offer available to new and existing enterprise customers.
+
+Apply now
+
+*See Promotion Redemption Rules and Conditions
+
+Explore our products
+
+
+Build and deploy on the world’s most distributed platform.
+
+See all products
+Essential Compute
+
+Match Shared CPU, Dedicated CPU, or High Memory compute plans to your applications’ needs and budget.
+
+View product details
+App Platform
+
+Deploy powerful cloud native applications on Kubernetes in minutes with automated infrastructure.
+
+View product details
+GPU
+
+Parallel process workloads including machine learning, scientific computing, and video processing.
+
+View product details
+Linode Kubernetes Engine
+
+Managed K8s container orchestration engine for containerized workloads.
+
+View product details
+Managed Databases
+
+Fully managed database service for MySQL and PostgreSQL. Deploy a managed database cluster in production.
+
+View product details
+Object Storage
+
+Store your data for high availability, durability, or distribution.
+
+View product details
+Cloud Computing Foundations Certification
+
+Develop a foundational understanding of cloud computing and explore Akamai’s cloud computing ecosystem.
+
+View details
+Start learning
+Learn more
+Pricing
+
+CPU, transfer, storage, and RAM bundled into one flat price.
+
+See pricing
+Support experience
+
+Get expert advice and assistance whenever you need it from our award-winning support team of highly trained service professionals.
+
+Explore support
+Developer portal
+
+Comprehensive guides, documentation, and endpoints.
+
+Explore hub
+Ready to get started or have questions?
+
+
+Set up your free account today or contact a sales consultant to learn more.
+
+Create account
+Contact us
+See if you qualify for up to US$5,000 in cloud credits
+
+
+We’re here to help you with large deployments, migrations, app optimization, architecture assessments, security and reliability audits, and much more. For support or account issues, please visit our support page.
+
+*
+First Name:
+*
+Last Name:
+*
+Business Email Address:
+*
+Company:
+*
+Department:
+IT: Applications/App Owners
+IT: Architect
+IT: Data Center
+IT: Developer
+IT: Engineering
+IT: General
+IT: Network/Architecture/Infrastructure
+IT: Operations
+IT: Program/Project Manager
+IT: Security
+Analyst
+Content Production
+Consultant
+Digital/Internet Entertainment
+Engineering
+Finance
+HR
+Legal
+Marketing
+Media
+Operations
+Product Management
+Production
+Sales
+Student
+Web
+*
+Title:
+Staff
+Consultant
+Manager
+Director
+VP/Executive
+C-Level
+*
+Country:
+United States
+Canada
+United Kingdom
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (the Democratic Republic of the)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of North Macedonia
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania, United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+US Minor Outlying Islands
+US Virgin Islands
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+*
+Time Frame for Addressing Your Challenge:
+Currently evaluating solutions
+1-3 months
+3-6 months
+6-12 months
+12-18 months
+More than 18 months
+*
+What is your organization's monthly compute spend (USD) across all cloud providers?
+Select...
+0 - 1,000
+1,001 - 5,000
+5,001 - 10,000
+10,000+
+*
+Phone Number:
+I’d like to receive more information from Akamai. By submitting this form, I am providing consent to receive marketing communications and I understand and agree to the usage of my corporate contact information in accordance with Akamai’s privacy statement.
+Submit
+PRODUCTS
+Products Overview
+Essential Compute
+GPU
+Accelerated Compute
+Kubernetes
+App Platform
+Block Storage
+Object Storage
+Backups
+Cloud Firewall
+DNS Manager
+NodeBalancers
+Private Networking
+Managed Databases
+Linode Managed
+Distributions
+Kernels
+COMPANY
+About Akamai
+History
+Leadership
+Facts and Figures
+Awards
+Board of Directors
+Investor Relations
+Corporate Responsibility
+Ethics
+Locations
+Vulnerability Reporting
+Accessibility Commitment
+CAREERS
+Careers
+Working at Akamai
+Students and Recent Grads
+Workplace Diversity
+Search Jobs
+Culture Blog
+NEWSROOM
+Newsroom
+Press Releases
+In the News
+Media Resources
+LEGAL & COMPLIANCE
+Linode Legal
+Akamai Legal
+Linode Terms of Service (MSA)
+EU Digital Services Act (DSA)
+Information Security Compliance
+Privacy Trust Center
+Cookie Settings
+GLOSSARY
+What Is Cloud Security?
+What Is Cloud Redundancy?
+What Is Cloud Computing Security?
+What is Cloud Portability?
+What Is Event-Driven Architecture?
+See all
+Cookie Preferences
+Support
+Contact Us
+System Status
+Site Map
+© 2003-2025 Linode LLC. All rights reserved.

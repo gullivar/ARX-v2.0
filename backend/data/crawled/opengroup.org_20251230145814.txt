@@ -1,0 +1,264 @@
+Skip to main content
+User menu - for logged out user
+Log In
+Create Account
+About Us
+»
+Who We Are
+»
+Executive Team
+Governing Board
+Elected Member Representatives
+Forum and Work Group Officers
+Offices and Contacts
+Recruitment
+What We Do
+»
+Vision & Mission
+Technology Standards
+Services
+Certifications
+»
+Certifications Overview
+»
+Enhance your Career
+HR-Resources
+Open Badges
+Professional Certification - Knowledge Based
+»
+Knowledge-Based Certification Services
+Find a Training Course
+Virtual Training Resources
+Prepare for your Knowledge-Based Certification
+Enterprise Architecture - TOGAF Certification Portfolio
+Modeling Language - ArchiMate® Certification
+Open Agile Architecture™ Certification
+Risk Analysis - Open FAIR™ Certification
+Digital Practitioner Certification
+Managing Digital Products - IT4IT™ Certification
+Complete your Certification
+Frequently Asked Questions
+Take an Exam
+Professional Certification - Experience based
+»
+Prepare for Certification
+Certified Architect (Open CA)
+Certified Data Scientist (Open CDS)
+Certified Technical Specialist (Open CTS)
+Certified Trusted Technology Practitioner (Open CTTP)
+Certification Program Accreditation
+Certification and Accreditation Registers
+Product | Tool | Processes Certification
+»
+ArchiMate® Tool Certification
+O-PAS Certification
+O-TTPS Certification
+POSIX®
+TOGAF® Tools
+UNIX® Systems
+Training Course Accreditation
+»
+Become an Accredited Training Course Provider
+FACE® Accredited Training
+Contact Us
+Events
+»
+Upcoming Events & Webinars
+»
+Toolkit Tuesday Broadcast Series
+The Open Group Event | February 2 - 3, 2026
+The Open Group European Summit | April 27 - 30, 2026
+The Open Group Event | July 27 - 29, 2026
+The Open Group U.S. Summit | October 26 - 29, 2026
+On-Demand
+»
+Podcasts by The Open Group
+Open Comments Podcast
+The Open Group Channel | YouTube
+Webinars
+Sponsor & Exhibitor Opportunities
+Call for Submissions
+Previous Events | Proceedings
+»
+The Open Group U.S. Summit | November 3 - 6, 2025
+The Open Group In-Person Event, Riyadh | July 28-29, 2025
+The Open Group Amsterdam Summit | May 19 - May 22, 2025
+The Open Group Virtual Event | February 3 - 4, 2025
+The Open Group Houston Summit, USA | October 28 - 31, 2024
+The Open Group FACE® and SOSA™ Consortia Technical Interchange Meeting (TIM): MOSA in Practice | September 16, 2024
+The Open Group New Delhi and India Awards | July 29 - 31, 2024
+The Open Group Virtual Summit | January 29 - January 31, 2024
+The Open Group APAC Awards
+The Open Group Houston, Texas | October 30 - November 2, 2023
+FACE and SOSA TIM and Expo Proceedings
+The Open Group India Awards for Innovation and Excellence, July 27, 2023
+The Open Group Virtual Event | July 25 - 27, 2023
+The Open Group London, UK | April 17-20, 2023
+Partners and Industry Events
+»
+Association of Enterprise Architects
+Industry Events Featuring The Open Group
+Membership
+»
+Member Newsletters
+»
+Regional Newsletters
+Forum/Consortium Newsletters
+Become a Member
+»
+Academic Membership (faculty)
+Benefits & Entitlements
+Membership FAQs
+Membership | Commercial License
+Member Spotlights
+Membership List
+Standards Process
+Company Reviews (Member Log In Required)
+Members Collaboration Portal (Log In)
+»
+Member Code of Conduct
+Contribution Awards
+Forums
+»
+Forums
+»
+ArchiMate® Forum
+Architecture Forum
+Exploration, Mining, Metals & Minerals Forum
+Healthcare Forum
+IT4IT™ Forum
+Open Digital Transformation™ Forum
+Open Footprint® Forum
+Open Process Automation™ Forum
+OSDU® Forum
+Open Trusted Technology Forum
+Real-time & Embedded Systems Forum
+Security Forum
+The Open Group Platform Forum
+Work Groups
+»
+Digital Portfolio Work Group
+The Open Group Semantic Interoperability Work Group
+The Open Group India Academic Initiative In Architecture (INITIATE) Work Group
+The Open Group Government EA Work Group
+The Open Group Commercial Aviation Work Group
+The Open Group Service Oriented Architecture Work Group
+Consortia
+»
+Energistics Consortium
+Future Airborne Capability Environment®, FACE® Consortium
+Industrial Advanced Nuclear™ Consortium (IANC)
+Sensor Open Systems Architecture® or SOSA® Consortium
+Data Science Community
+Library
+»
+Standards
+Certifications
+Guides
+Data Sheets
+Webinars
+White Papers
+ArchiMate® Library
+DPBoK™ Library
+IT4IT™ Library
+Security Library
+TOGAF® Library
+More Subject Areas
+Shop
+Search
+
+ Search
+
+Latest Announcements
+
+The Open Group Launches the Industrial Advanced Nuclear™ Consortium
+
+The Open Group Updates
+
+Join us at The Open Group London Event, February 2 - 3, 2026!
+
+The Open Group Blog
+
+OSDU® Forum Highlights from The Open Group Houston Summit 2025
+The TOGAF® Standard, a standard of The Open Group
+
+The TOGAF® Standard, a standard of The Open Group, is a proven Enterprise Architecture methodology and framework used by the world’s leading organizations to improve business efficiency.
+
+The standard is constantly evolving as a result of the work delivered by members of The Open Group Architecture Forum and TOGAF certification has been achieved by nearly 150,000 individuals worldwide.
+
+Learn More
+
+The Portfolio of Digital Open Standards
+
+While all standards of The Open Group® can and are adopted and used independently of one another, the greatest value for an organization can be derived when they are used in unison – the sum of the parts should be greater than the whole. The “Portfolio of Digital Open Standards” is a collection of open standards developed by The Open Group, a global consortium that promotes and develops best practices to support organizations through their journey to become digital.
+
+By using The Portfolio of Digital Open Standards, organizations will find guidance on how to transform their business and operational models to deliver and support digital products using digital platforms reducing  complexity and pursuing consistency. 
+
+Learn More
+
+The Open Group Library
+
+The Open Group Library offers a wide range of publications including standards, guides, webinars, white papers, and more. You can search by category and titles. 
+
+Create your own personal library of The Open Group content you value most. Save it on your dashboard and make it your own.
+
+Browse
+
+The Architect's Toolkit
+
+At The Open Group, we have a proud record of creating and maintaining Standards, Frameworks, Reference Architectures, Tools, Models, and Guides that have proven to be invaluable to the Enterprise Architects community, whether they are industry-wide or aligned to specific vertical sectors.
+
+In The Architect's Toolkit, we have collated a portfolio of the most pertinent ones for Architects together in one place.
+
+Learn More
+
+Certifications
+
+Our certification programs for Enterprise Architects and IT specialists provide worldwide professional credentials for knowledge, skills, and experience. For technology products, services and processes, they offer a worldwide guarantee of conformance.
+
+Explore
+
+About Us
+
+The Open Group is a global consortium that enables the achievement of business objectives through technology standards and open source initiatives by fostering a culture of collaboration, inclusivity, and mutual respect among our diverse group of 900+ memberships. Our Membership includes customers, systems and solutions suppliers, tool vendors, integrators, academics, and consultants across multiple industries.
+
+Learn More
+
+ 
+Discover
+
+
+News
+
+
+Blog
+
+
+On-Demand
+
+ 
+
+
+
+
+The Open Group: Leading the development of open, vendor-neutral technology standards and certifications
+
+ 
+
+Boundaryless Information Flow™ achieved through global interoperability in a secure, reliable, and timely manner
+The Open Group Platinum Members
+ 
+Members of The Open Group
+
+FOOTER_MENU
+Contact
+Standards Process
+Privacy
+Legal
+Sitemap
+System Status
+linkedIn
+youtube
+twitter
+
+© 1995-2025 The Open Group

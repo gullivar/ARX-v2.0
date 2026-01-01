@@ -1,0 +1,202 @@
+Apple Developer
+News
+Discover
+Design
+Develop
+Distribute
+Support
+Account
+WeatherKit
+Overview
+Get started with WeatherKit
+
+WeatherKit brings valuable weather information to your apps and services through a wide range of data that can help people stay up to date, safe, and prepared. It’s easy to use WeatherKit in your apps on Apple platforms with a Swift API, and on any other platform with a REST API.
+
+Powered by Apple Weather
+
+WeatherKit is powered by the Apple Weather service, a state-of-the-art global weather forecast that provides all of the data you need to power your app with timely, hyperlocal weather information. This enables your app to offer current weather conditions and 10-day hourly forecasts for temperature, precipitation, wind, UV Index, and more. Minute-by-minute precipitation for the next hour and severe weather alerts are available for select regions.
+
+Easy to use
+
+WeatherKit includes a Swift API that leverages modern Swift syntax. And with Swift concurrency, it’s easy to request weather data with just a few lines of code. WeatherKit is also customizable, so you can request just the data you need. And because WeatherKit is built on time-tested Foundation and CoreLocation APIs, it’s simple to format measurements, convert units, and get location information.
+
+Privacy first
+
+In keeping with Apple’s commitment to privacy, WeatherKit is designed to give hyperlocal forecasts without compromising user data. Location information is used only to provide weather forecasts, is not associated with any personally identifiable information, and is never tracked between requests.
+
+What’s new
+Add details to the daily forecast, including snowfall total, sleet total, maximum and minimum visibility, and forecasts for daytime and overnight.
+Add cloud cover percentage by cloud layer to the current weather forecast.
+Provide additional context to current weather with comparisons to historical averages.
+Help users better prepare for tomorrowʼs weather with information about significant temperature and precipitation changes.
+Inform users about past temperature and precipitation statistics with historical averages by month and day of year.
+
+Available in iOS 18, iPadOS 18, macOS 15, watchOS 11, tvOS 18, and visionOS 2.
+
+Requirements
+Apple Developer Program membership
+
+Access to WeatherKit is included in the Apple Developer Program, which also provides the tools, resources, and support you need to develop and distribute apps — including access to beta software, app services, testing tools, app analytics, and more.
+
+Software
+
+WeatherKit requires iOS 16, iPadOS 16, macOS 13, tvOS 16, visionOS 1.0, or watchOS 9 or later. REST APIs can be used for websites and other platforms.
+
+Availability and pricing
+
+WeatherKit provides up to 500,000 API calls a month per Apple Developer Program membership. If you need additional API calls, the Account Holder of your Apple Developer Program membership can subscribe in the Account tab of the Apple Developer app. Subscription plans are priced in U.S. dollars, or in local currency where available.
+
+500,000 calls/month: Included with membership
+1 million calls/month: US$49.99
+2 million calls/month: US$99.99
+5 million calls/month: US$249.99
+10 million calls/month: US$499.99
+20 million calls/month: US$999.99
+50 million calls/month: US$2,499.99
+100 million calls/month: US$4,999.99
+150 million calls/month: US$7,499.99
+200 million calls/month: US$9,999.99
+
+The Account Holder can upgrade or downgrade a subscription at any time. If the Account Holder:
+
+Upgrades a subscription, a new billing period is started and you can start using the new plan immediately. Your quota resets to 0 and the number of API calls is replaced based on the new subscription.
+Downgrades a subscription, you can continue to use your current plan during the current billing period.
+
+Please note that unused API calls don’t roll over to the next month.
+
+Attribution requirements
+
+When using WeatherKit in your apps, web apps, or websites, you’ll need to follow guidelines and requirements for attributing weather data from Apple. For details, view the attribution requirements section below.
+
+Tools and documentation
+Xcode and APIs
+
+For apps on Apple platforms, the WeatherKit framework is included in Xcode 14 or later. For other platforms and websites, use the WeatherKit REST API.
+
+Certificates, Identifiers & Profiles
+
+Use Certificates, Identifiers & Profiles to configure your Service ID and keys to access the Apple Weather service. Once you implement WeatherKit, you’ll be able to view your API call usage.
+
+Videos and documentation
+“Meet WeatherKit” from WWDC22
+Configuration details
+WeatherKit framework
+WeatherKit REST API
+Apple Weather and third-party attribution
+
+If your apps, web apps, or websites display any weather data from Apple (other than weather alerts or value-added services or products, as described below), you must clearly display the Apple Weather trademark (Weather), as well as the legal link to other data sources.
+
+Weather alerts
+All weather alerts displayed must contain an embedded link to the Apple weather alert details page provided to you by Apple.
+All weather alert titles or descriptions must contain the full name of the source meteorological agency that issued the alert. For additional information on the applicable meteorological agency and the licensing terms governing the use and distribution of these weather alerts, please visit the applicable Apple weather alert details page.
+You must not modify, change, alter, or obscure the text of a severe weather alert in any way.
+Value-added services or products
+
+Value-added services or products means data, products, and/or services you develop that are derived from weather data from Apple and are transformed so that no user or other third party can discover, access, reverse engineer, or otherwise ascertain or use the original weather data from Apple. When displaying value-added services or products, you agree to attribute the source of the data to “Weather”, along with a notice that the data provided by Apple has been modified.
+
+Help and contacting us
+Apple Developer Forums
+
+Post questions and share technical information with other developers and Apple engineers.
+
+View forums
+
+Feedback Assistant
+
+File bug reports, and request enhancements to APIs and developer tools.
+
+Go to Feedback Assistant
+
+Apple Developer Support
+
+Have a question? Apple Developer Support can help. Receive guidance by phone or email.
+
+Contact us
+
+Developer Footer
+Some features are available only in select regions.
+
+Apple
+Developer
+WeatherKit
+Platforms
+iOS
+iPadOS
+macOS
+tvOS
+visionOS
+watchOS
+Tools
+Swift
+SwiftUI
+Swift Playground
+TestFlight
+Xcode
+Xcode Cloud
+Icon Composer
+SF Symbols
+Topics & Technologies
+Accessibility
+Accessories
+Apple Intelligence
+App Store
+Audio & Video
+Augmented Reality
+Business
+Design
+Distribution
+Education
+Fonts
+Games
+Health & Fitness
+In-App Purchase
+Localization
+Maps & Location
+Machine Learning & AI
+Open Source
+Security
+Safari & Web
+Resources
+Documentation
+Sample Code
+Tutorials
+Downloads
+Forums
+Videos
+Support
+Support Articles
+Contact Us
+Bug Reporting
+System Status
+Account
+Apple Developer
+App Store Connect
+Certificates, IDs, & Profiles
+Feedback Assistant
+Programs
+Apple Developer Program
+Apple Developer Enterprise Program
+App Store Small Business Program
+MFi Program
+Mini Apps Partner Program
+News Partner Program
+Video Partner Program
+Security Bounty Program
+Security Research Device Program
+Events
+Meet with Apple
+Apple Developer Centers
+App Store Awards
+Apple Design Awards
+Apple Developer Academies
+WWDC
+Get the Apple Developer app.
+Light
+Dark
+Auto
+English
+简体中文
+日本語
+한국어
+Copyright © 2025 Apple Inc. All rights reserved.
+Terms of Use Privacy Policy Agreements and Guidelines

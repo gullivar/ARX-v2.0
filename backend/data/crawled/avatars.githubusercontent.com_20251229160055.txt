@@ -1,0 +1,211 @@
+Skip to content
+Navigation Menu
+Platform
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+Mona the Octocat rises upward from behind the GitHub product demo accompanied by a purple glow and some clouds. A white butterfly gently flutters in from the right and lands on Mona's nose.
+ 
+ 
+Explore the latest tools from Universe '25
+ 
+The future of building happens together
+
+Tools and trends evolve, but collaboration endures. With GitHub, developers, agents, and code come together on one platform.
+
+Enter your email
+Sign up for GitHub
+Try GitHub Copilot free
+GitHub features
+A demonstration animation of a code editor using GitHub Copilot Chat, where the user requests GitHub Copilot to refactor duplicated logic and extract it into a reusable function for a given code snippet.
+CodePlanCollaborateAutomateSecure
+
+Write, test, and fix code quickly with GitHub Copilot, from simple boilerplate to complex features.
+
+GitHub customers
+Accelerate your entire workflow
+
+From your first line of code to final deployment, GitHub provides AI and automation tools to help you build and ship better software faster.
+
+A Copilot chat window with the 'Ask' mode enabled. The user switches from 'Ask' mode to 'Agent' mode from a dropdown menu, then sends the prompt 'Update the website to allow searching for running races by name.' Copilot analyzes the codebase, then explains the required edits for three files before generating them. Copilot then confirms completion and summarizes the implemented changes for the new functionality allowing users to search races by name and view paginated, filtered results.
+Your AI partner everywhere. Copilot is ready to work with you at each step of the software development lifecycle.
+Explore GitHub Copilot
+
+Duolingo boosts developer speed by 25% with GitHub Copilot
+
+Read customer story
+
+2025 Gartner® Magic Quadrant™ for AI Code Assistants
+
+Read industry report
+Automate your path to production
+
+Ship faster with secure, reliable CI/CD.
+
+Explore GitHub Actions
+Code instantly from anywhere
+
+Launch a full, cloud-based development environment in seconds.
+
+Explore GitHub Codespaces
+Keep momentum on the go
+
+Manage projects and assign tasks to Copilot, all from your mobile device.
+
+Explore GitHub Mobile
+Shape your toolchain
+
+Extend your stack with apps, actions, and AI models.
+
+Explore GitHub Marketplace
+Built-in application security where found means fixed
+
+Use AI to find and fix vulnerabilities so your team can ship more secure software faster.
+
+Apply fixes in seconds. Spend less time debugging and more time building features with Copilot Autofix.
+Explore GitHub Advanced Security
+
+Security debt, solved. Leverage security campaigns and Copilot Autofix to reduce application vulnerabilities.
+
+Learn about GitHub Code Security
+
+Dependencies you can depend on. Update vulnerable dependencies with supported fixes for breaking changes.
+
+Learn about Dependabot
+
+Your secrets, your business. Detect, prevent, and remediate leaked secrets across your organization.
+
+Learn about GitHub Secret Protection
+
+70% MTTR reduction
+with Copilot Autofix1
+
+8.3M secret leaks stopped
+in the past 12 months with push protection1
+
+Work together, achieve more
+
+From planning and discussion to code review, GitHub keeps your team’s conversation and context next to your code.
+
+Plan with clarity. Organize everything from high-level roadmaps to everyday tasks.
+Explore GitHub Projects
+“
+It helps us onboard new software engineers and get them productive right away. We have all our source code, issues, and pull requests in one place... GitHub is a complete platform that frees us from menial tasks and enables us to do our best work.
+Fabian Faulhaber
+Application manager at Mercedes-Benz
+Keep track of your tasks
+
+Create issues and manage projects with tools that adapt to your code.
+
+Explore GitHub Issues
+Share ideas and ask questions
+
+Create space for open-ended conversations alongside your project.
+
+Explore GitHub Discussions
+Review code changes together
+
+Assign initial reviews to Copilot for greater speed and quality.
+
+Explore code review
+Fund open source projects
+
+Become an open source partner and support the tools and libraries that power your work.
+
+Explore GitHub Sponsors
+From startups to enterprises, GitHub scales with teams of any size in any industry.
+By industryBy sizeBy use case
+Technology
+
+Figma streamlines development and strengthens security
+
+Read customer story
+Automotive
+
+Mercedes-Benz standardizes source code and automates onboarding
+
+Read customer story
+Financial services
+
+Mercado Libre cuts coding time by 50%
+
+Read customer story
+Explore customer stories
+View all solutions
+A subtle purple glow fades in as Mona the Octocat, Copilot, and Ducky dramatically fall into place next to one another while gazing optimistically into the distance. To celebrate Universe 2025, a butterfly flies in from the right to gently land on Mona's nose, Ducky has a flower on their head, and Copilot has a bright star reflecting in their goggles.
+Millions of developers and businesses call GitHub home
+
+Whether you’re scaling your development process or just learning how to code, GitHub is where you belong. Join the world’s most widely adopted developer platform to build the technologies that shape what’s next.
+
+Enter your email
+Sign up for GitHub
+Try GitHub Copilot free
+Footnotes
+
+GitHub internal customer data, 2025.
+
+Site-wide Links
+Subscribe to our developer newsletter
+
+Get tips, technical guides, and best practices. Twice a month.
+
+Subscribe
+Platform
+Features
+Enterprise
+Copilot
+AI
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Ecosystem
+Developer API
+Partners
+Education
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+GitHub Marketplace
+MCP Registry
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Why GitHub
+Customer stories
+Blog
+The ReadME Project
+Careers
+Newsroom
+Inclusion
+Social Impact
+Shop
+© 2025 GitHub, Inc.
+Terms
+Privacy (Updated 02/2024)
+02/2024
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on LinkedIn
+GitHub on Instagram
+GitHub on YouTube
+GitHub on X
+GitHub on TikTok
+GitHub on Twitch
+GitHub’s organization on GitHub
+ English 

@@ -1,0 +1,236 @@
+Skip to main content
+My Account
+Contact Sales
+Support
+Resources
+OVHcloud Blog
+Bare Metal & VPS
+Public Cloud
+Hosted Private Cloud
+Enterprise
+Ecosystem
+About
+OVHcloud
+New
+New Generation of Advance Servers
+
+Get more power, bandwidth, and efficiency with our new Advance Dedicated Servers.
+
+✓ Up to 15% higher performance with AMD EPYC 4005 “Zen 5” CPUs
+✓ 3x more bandwidth, included in your plan
+✓ Full configuration, from CPU to storage drives
+✓ Liquid cooling for optimized performance and energy efficiency
+
+Explore the Range
+New
+Our VPS-1 is closer and faster than ever!
+
+Local hosting for increased responsiveness and control - now available in 15 Local Zones and counting.
+
+✓ Low latency for smooth user experiences
+✓ Data hosted close to you and your customers
+✓ Daily backups included + unlimited traffic
+
+Starting at $4.20 /month
+
+Configure my VPS-1
+New
+Scale-A7 and A8 Servers
+
+High-performance compute for your toughest workloads
+
+✓ Up to 192 AMD EPYC™ Turin cores
+✓ DDR5 ECC memory, scalable up to 3TB
+✓ PCIe Gen 5 NVMe storage for maximum speed
+✓ 5 Gbps public bandwidth
+
+Browse our servers
+Dedicated Servers
+New
+New Bare Metal Ranges Available
+
+Host your website, deploy your high-resilience infrastructure, or customize your machine to suit your projects in just a few clicks.
+
+Unlimited traffic on all our servers
+
+Anti-DDoS included
+
+vRack physical private network
+
+United States, Canada, APAC, and European locations
+
+Develop your infrastructure to suit your needs by linking your dedicated servers to other cloud services using our high-bandwidth vRack private network.
+
+Discover Our Servers Today
+VPS
+New VPS Range Available
+
+More vCores, RAM, and Bandwidth
+
+6 configurations to suit all of your projects
+
+Up to 24 vCores and 96GB RAM
+
+Daily Backups Included
+
+Unlimited Bandwidth, up to 3Gbps
+
+Anti-DDoS Protection Included
+
+Shop VPS Today
+Public Cloud
+Up to $300 credit*
+
+AI Notebooks, AI Training, and AI Deployment to accelerate your ML projects
+
+Managed Kubernetes Services and Infrastructure as Code with Terraform
+
+Instances, Object Storage, Block Storage, Load Balancer, Additional IP, etc.
+
+Standard and High-Performance Class Object Storage with outgoing public traffic
+
+Customers get $200 in public cloud credit for their first project, plus an additional $100 credit for creating their first Managed Database service.
+
+ 
+
+*Terms and conditions apply. See website for details.
+
+Get started
+OVHcloud Products and Solutions for Your Business
+
+Whether you need to manage cost, infrastructure capacity, and agility of resources or improve latency and performance issues, we offer a wide range of cloud solutions to best fit your business.
+
+Bare Metal Servers
+
+Host your website, deploy your high-availability infrastructure, or customize your machine to suit your projects in just a few clicks.
+
+ 
+
+Versatile dedicated servers for SMEs
+
+Servers optimized for video games and streaming platforms
+
+Servers featuring powerful processors allow you to build infrastructure in complex environments
+
+Servers designed for complex, high-resilience infrastructures
+
+Virtual Private Servers at a competitive price
+
+Hosted Private Cloud
+
+Accelerate your digital transformation with a fully-isolated dedicated environment in our virtual private cloud, hosted and managed by our team of experts.
+
+ 
+
+VMware on OVHcloud
+
+Nutanix on OVHcloud
+
+Data Center Migration
+
+Hybrid Multicloud
+
+Disaster Recovery
+
+Backup-as-a-Service
+
+Public Cloud Services
+
+OVHcloud Public Cloud offers you an extensive range of cloud solutions, billed on a pay-as-you-go basis, and set up in a simple way that supports your projects.
+
+ 
+
+AI & Machine Learning
+
+Managed Kubernetes® Service
+
+Compute Solutions
+
+Storage Solutions
+
+Containerization and Orchestration
+
+Cloud Databases
+
+Cloud Analytics
+
+Pay-As-You-Go
+
+Create your first project - $200 in free credits
+
+OVHcloud Enterprise Solutions for Your Business
+
+Whether you need to manage cost, infrastructure capacity, and agility of resources or improve latency and performance issues, we offer a wide range of cloud solutions to best fit your business.
+
+ 
+
+Disaster Recovery
+
+Data Center Migration
+
+Solutions by Industry
+
+Solutions by Application/Use-Case
+
+OVHcloud Compliance - Attestations & Certifications
+
+ 
+
+Schedule a free consultation with an OVHcloud expert today to discuss an architecture that best suits your business needs.
+
+OVHcloud Partners and Customers
+How OVHcloud can help you
+Deploy a big data and analytics platform in less than an hour.
+
+Get started with our pre-configured, ready-to-use Apache solution.
+
+Find out more 
+Enterprise solutions on dedicated servers
+
+Enterprise solutions are the critical business software applications that form the foundation of any organization, whether they’re a startup or a global business.
+
+Find out more 
+VPS sandbox
+
+Deploy a flexible virtual sandbox environment in minutes, speeding up the path from concept to production.
+
+Find out more 
+About Us
+
+Our Global Infrastructure
+
+ 
+
+100Tbps global network capacity 
+44 data centers  implemented across 4 continents
+44 redundant PoPs  worldwide
+Why choose OVHcloud?
+The evolution of our global infrastructure
+
+OVHcloud US is a subsidiary of OVHcloud, a global cloud provider that specializes in delivering industry-leading performance and cost-effective solutions to better manage, secure, and scale data. OVHcloud US delivers bare metal servers and hosted private cloud, hybrid, and public cloud solutions to small, medium, and enterprise customers.
+
+Recognized in 2020 as a "Strong Performer" in Forrester's Hosted Private Cloud Services in N.A.(2Q2020) and as a "Contender" in IDC’s Worldwide Public Cloud as a Service Vendor Assessment (2020). OVHcloud manages 44 data centers across 4 continents, manufacturing its own servers, building its own data centers, and deploying its own fiber-optic global network to achieve maximum efficiency.
+
+Through the OVHcloud spirit of challenging the status quo, the company brings freedom, security, and innovation to solve data challenges – today and tomorrow. With a 22+ year heritage, OVHcloud is committed to developing responsible technology and strives to be the driving force behind the next cloud evolution.
+
+Explore the full range of our solutions at us.OVHcloud.com
+
+OVHcloud leverages the full power of its global infrastructure to deliver solutions for businesses of all sizes, in all industries worldwide:
+
+VPS: Virtual private server hosting solutions with exceptional value, performance, security, and simplicity.
+
+Dedicated Servers: Multiple ranges of world-class dedicated bare-metal hardware options. Manufactured in-house and ready to launch at OVHcloud data centers worldwide.
+
+Game Server Hosting: Virtual and dedicated game server hosting options that minimize lag, eliminate downtime, and elevate your online gaming experience.
+
+Public Cloud: A range of secure, scalable, and versatile cloud instances to launch your projects in seconds.
+
+Hosted Private Cloud: The power of 100% dedicated resources, combined with the freedom and flexibility of the cloud.
+
+Enterprise solutions: High-performing infrastructure for enterprise-level projects, big data, AI, and machine learning.
+Ready to get Started?
+Contact Us
+
+This website uses cookies, web beacons, and other similar technologies to provide you with the best browsing experience, to perform marketing activities, and to analyze our traffic. OVHcloud uses this technology in accordance with our Privacy Policy and Cookie Policy. Click here to change your settings.
+
+Accept

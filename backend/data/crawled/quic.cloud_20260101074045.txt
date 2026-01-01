@@ -1,0 +1,193 @@
+Skip to content
+Menu
+CDN
+Content Delivery Service
+Our Global Network
+Security Features
+Free DNS Service
+Online Services
+Free Image Optimization
+Page Optimization
+Pricing
+CDN Pricing
+Online Services Pricing
+Custom Enterprise Quote
+About
+Features
+About the Company
+Our Sponsors
+Get in Touch
+Branding
+Help
+FAQ
+Documentation
+Blog
+Support
+Register
+Accelerate,
+Optimize, Protect.
+First and Only​ Complete WordPress Optimization Solution
+ Caching CDN
+ Image Optimization
+ Page Optimization
+ Security
+ and more...
+Register
+Learn more
+CDN PoPs
+0
+Online Service Nodes
+0
+Clients
+> 0 K
+Domains
+> 0 M
+Complete Caching at the CDN Level
+
+QUIC.cloud CDN is the only CDN available that can cache both static and dynamic WordPress content.
+
+By taking advantage of LiteSpeed Cache’s Smart Purge technology, QUIC.cloud CDN accurately serves your most current content, and purges it when required.
+
+QUIC.cloud CDN:
+is built on top of the state-of-the-art LiteSpeed server stack
+stores both public and private cached content
+caches complex dynamic content with ESI support
+serves your WordPress sites at the network edge with low TTFB
+features less than 10ms average latency in North America and Europe
+supports HTTP/3 end to end, from client to backend server
+delivers global coverage with a growing network of 78 PoPs »
+Learn More >
+Total Protection
+
+Your WordPress site is potentially vulnerable to several types of attack, but QUIC.cloud offers security at the CDN level, stopping attackers before they can deplete your server resources.
+
+Built-in WordPress brute-force attack protection
+CDN-level CAPTCHA to keep robots at bay
+Advanced Layer-7 DDoS protection
+Web Application Firewall (WAF) Rules for WordPress
+Custom-targeted protections
+Learn More >
+
+Feel the difference
+
+Try QUIC.Cloud Now
+Register Here
+Cloudflare Integration​
+Try our easy no-risk automated setup for Cloudflare users:
+No manual DNS updates required
+SSL certificate coverage activated immediately
+Simple to un-do if you are not satisfied
+Learn More >
+Anycast Authoritative DNS
+
+100% FREE built-in DNS service allows you to optionally simplify your site’s CDN setup with automated DNS configuration
+
+Global coverage with Anycast technology.
+Better alternative to CNAME records and their limitations.
+Superior geographic routing results when used together with CDN service.
+Learn More >
+Online Services
+
+QUIC.cloud’s content delivery network is just the beginning.
+
+QUIC.cloud takes
+a two-pronged approach to speeding up your website:
+
+CDN Service
+
+minimizes the distance your content needs to travel
+
+Online Services
+
+minimize the volume of content that needs to be transmitted
+
+Free Image Optimization
+
+One way to speed up a website is to reduce file sizes and make content smaller and quicker to transmit. This is the role of Image Optimization. Shrink your images, and serve them faster.
+
+Minimize image size with multiple optimization methods
+Generate copies in next-generation WebP and AVIF formats
+Process images automatically in the background
+Improve Largest Contentful Paint (LCP) metrics with smaller image files
+Submit images for optimization upon upload to the media library, no need to wait for a cache hit
+Learn More >
+Page Optimization Services
+
+Optimize CSS styling and page loading efficiency, to make your site faster and improve your page speed score.
+
+Critical CSS (CCSS)
+
+Inlines only the CSS necessary to style above-the-fold content, allowing the visible content to load fast and fully styled, before processing the rest of the CSS
+
+Unique CSS (UCSS)
+
+Provides customized CSS for each page, completely removing unused definitions and bloat, for a speedier page load overall
+
+Low Quality Image Placeholder (LQIP)
+
+Generates colorful lazy load placeholders to give your site a more pleasing look as it loads, and minimize Cumulative Layout Shift (CLS)
+
+Viewport Images (VPI):
+
+automatically exclude above-the-fold imagery from lazy load
+
+Learn More >
+Try QUIC.cloud Now
+
+and feel the difference
+
+Register Here
+
+Are your websites serving more than 5TB of bandwidth per month?
+
+Get Expert Onboarding Assistance!
+Contact Us
+Check Out
+Our Sponsors
+
+or become a sponsor today!
+
+Stay in Touch
+Our Services
+CDN Service
+CDN Network
+Image Optimization
+Page Optimization
+DNS Service
+Resources
+Server Status
+FAQ
+Documentation
+Video Instructions
+Support
+Legal
+Terms of Use
+Service Agreement
+Privacy Policy
+Data Processing Agreement
+© 2025 QUIC Cloud Inc.
+Close
+CDN
+Content Delivery Service
+Our Global Network
+Security Features
+Free DNS Service
+Online Services
+Free Image Optimization
+Page Optimization
+Pricing
+CDN Pricing
+Online Services Pricing
+Custom Enterprise Quote
+About
+Features
+About the Company
+Our Sponsors
+Get in Touch
+Branding
+Help
+FAQ
+Documentation
+Blog
+Support
+Register

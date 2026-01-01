@@ -1,0 +1,189 @@
+products
+DexProtector
+
+Powerful protection for Android and iOS
+
+Stringer Java Obfuscator
+
+Robust security for Java software
+
+Alice Threat Intelligence
+
+Real-time threat intelligence for apps
+
+vTEE
+
+Security for sensitive
+mobile operations
+
+JCardSim
+
+Java card runtime
+environment simulator
+
+ 
+industries
+Banking and finance
+Healthcare
+Telecoms
+Automotive
+Aerospace
+Public sector
+ 
+insights
+ 
+resources
+A guide to mobile application protection
+Security by design
+The state of mobile app security
+Knowledge Hub
+Use cases
+Glossary
+The Layers Bulletin
+ 
+company
+About us
+News
+Contact us
+talk to us
+inquire
+App security made for the modern world.
+
+For Android and iOS apps and SDKs, Java applications and libraries.
+
+talk to us
+We're helping to make global payment data secure
+Certified: ISO/IEC 27001:2022
+Our powerful app protection products make your app or SDK safe to use in a world full of fast-shifting cyber threats.
+Interconnected layers of protection interact closely with both the app and the operating system. Together they form a solid shield against damaging attacks.
+Code and resource hardening
+
+The act of obfuscating, encrypting, virtualizing, and isolating your app’s code and resources.
+
+Secure runtime environment
+
+RASP checks to make sure your app isn’t exposed to harmful threats in its environment.
+
+Secure network communications
+
+SSL pinning and certificate transparency to prevent man-in-the-middle attacks.
+
+Application integrity
+
+Dynamic cryptographic key calculations at runtime stop your app from working if it has been tampered with.
+
+Our layers of app security provide unbeatable protection against a variety of threats.
+Static attacks
+
+Bad actors will try to decompile your app to examine its code, reverse engineer its logic, discover vulnerabilities to exploit, and design malware to target it. Our products use encryption, obfuscation, and virtualization to make the decompiled code impossible to understand.
+
+Dynamic attacks
+
+These days, most reverse engineering attempts are dynamic and take place during runtime execution. Our products use Runtime Application Self Protection (RASP) which spots dynamic instrumentation tools like Frida and dangerous mobile malware. Then it stops them from working.
+
+Network-based attacks
+
+If the communication channel between your app and the server isn’t protected, it can be targeted. And sensitive data and assets can then be stolen. Our products secure this channel, keeping your app safe from man-in-the-middle attacks and preventing data being funnelled to a bogus server.
+
+Why Licel?
+
+We helped to define the world of app security. Now we’re working hard to shape its future. Forward-thinking businesses see us as trust enablers who empower them to focus on what they do best.
+
+310 million mobile banking
+users protected
+450,000 smart home
+networks secured
+135,000 smart car keys made safe
+for drivers across the globe
+83 million patient medical records
+protected from sensitive data harvesting
+Supported platforms
+
+and many
+more
+
+Prevent strategic, reputational, operational and compliance risks.
+
+App protection doesn’t only secure your application. By stopping attacks, it also protects your reputation and the trust you’ve built up with your end users. And it means you avoid revenue loss, penalties, and compliance violations.
+
+DexProtector
+
+Dynamic protection for iOS and Android apps and SDKs.
+
+learn more
+Stringer Java Obfuscator
+
+Java code protection for standalone, desktop, and enterprise apps.
+
+learn more
+Alice Threat Intelligence
+
+Real time threat intelligence for apps.
+
+learn more
+vTEE
+
+Unmatched protection for sensitive mobile operations.
+
+learn more
+Cyber threats are constantly evolving, so our products can’t and don’t stand still. They’re regularly being refined, evaluated by independent labs, and approved by industry bodies.
+The state of mobile app security report
+
+In recent years our mobile phone usage has evolved dramatically. We’re asking more and more of everyday mobile apps, but are they as secure as we need them to be?
+
+read report
+A guide to mobile application protection
+
+Attacks against mobile apps are getting more dangerous. To defend against them you need to know how and why attackers target them and what you can do to stop them succeeding.
+
+read guide
+Our latest articles
+View all
+Mobile API Protection: From afterthought to necessity
+#The threat landscape
+Why trusted signals are the key to closing the widening mobile trust gap
+#The threat landscape
+How Not to Lose Your Identity in 2035
+#The threat landscape
+News
+20 Nov 2025
+The Licel vTEE earns second consecutive EMVCo security approval for iOS.
+20 Nov 2025
+Licel awarded the highest tier of CSA’s Cyber Trust Mark Certification for its Mobile Security Solutions
+22 Aug 2025
+Licel is ISO/IEC 27001:2022 compliant
+Layers
+Bulletin
+Your new and improved mobile channel security update. Sign up for the latest product updates and improvements, plus insights and solutions to core app security challenges.
+submit
+Products
+DexProtector
+Stringer Java Obfuscator
+Alice Threat Intelligence
+vTEE
+JCardSim
+Industries
+Banking and finance
+Healthcare
+Telecoms
+Automotive
+Aerospace
+Public sector
+Resources
+Insights
+A guide to mobile application protection
+Security by design
+The state of mobile app security
+Knowledge hub
+Use cases
+Glossary
+The Layers Bulletin
+Company
+About us
+Contact
+News
+© Licel 2025
+EULA Privacy policy Cookies Terms & conditions
+LinkedIn
+GitHub
+This site uses cookies. By continuing to use this website, you agree to their use. I Understand

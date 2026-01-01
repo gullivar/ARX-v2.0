@@ -1,0 +1,15 @@
+Excalidraw
+All your data is saved locally in your browser.
+Open
+Cmd+O
+Help
+?
+Live collaboration...
+Sign up
+Export, preferences, languages, ...
+Pick a tool & Start drawing!
+To move canvas, hold Scroll wheel or Space while dragging, or use the hand tool
+Shapes
+Canvas actions
+100%
+Shortcuts & help

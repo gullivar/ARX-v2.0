@@ -1,0 +1,164 @@
+WARNING: YOU MAY BE BEING SCAMMED!
+If you are on the phone with someone you DON'T know AND TRUST who has asked you to install RustDesk,
+do not install and hang up immediately.
+They are likely a scammer trying to steal your money or other private information.
+NEW
+Enhanced ACL in RustDesk Server Pro 1.5.0! »
+rustdesk
+Resources
+Pricing
+Docs
+Blog
+Download
+ Note: rustdesk.com is our only official domain. Please do not download RustDesk from the other domains.
+The Fast Open-Source Remote Access and Support Software
+
+Switch from TeamViewer, AnyDesk, and Splashtop to RustDesk for a secure and reliable remote desktop experience with your own self-hosted servers.
+
+Download
+Self-Hosting
+
+
+
+
+INSIDE SELF-HOSTING
+
+Empower your remote access with self-hosted servers
+Why self-hosting?
+Are you frustrated with SaaS platforms due to their unstable performance, lack of transparency, and uncertain data security risks?
+Data sovereignty
+
+Regulatory compliance made easy: self-hosted RustDesk ensures data sovereignty.
+
+Enhanced security
+
+Fortify your security: on-premise deployment keeps your data under your control.
+
+Performance and reliability
+
+Guaranteed uptime: on-premise deployment ensures optimal performance and minimal downtime.
+
+Flexibility and customization
+
+Tailor RustDesk on-premise to fit your unique requirements.
+
+Custom Client
+Customize your client with your brand and make it truly yours.
+Your brand, your way
+
+Personalize RustDesk client with your name, icon, logo.
+
+Easy deployment
+
+Built-in network configuration and server setup make deploying RustDesk on-premise a breeze.
+
+Advanced configuration options
+
+More than 90 options can be configured to meet your specific needs.
+
+Multi-platform support
+
+Windows, macOS, Linux, Android.
+
+Web client
+
+Host the web client on your server with your domain name to make remote access even easier.
+
+Simple self-hosting installation
+
+Step 1: Install Docker
+
+bash <(wget -qO- https://get.docker.com)
+
+Step 2: Download compose.yml
+
+wget rustdesk.com/oss.yml -O compose.yml
+
+or
+
+wget rustdesk.com/pro.yml -O compose.yml
+
+Step 3: Compose
+
+docker compose up -d
+
+Ready!
+
+SCENARIOS
+
+Who are using self-hosting?
+
+The data below is from our online survey covering over 1,000 self-hosting users.
+
+37%
+IT SUPPORT
+25%
+IT ADMINISTRATION
+29%
+REMOTE WORK
+9%
+INDUSTRIAL AND OTHERS
+Find out more content in our Blog
+View all posts »
+Enhanced ACL in RustDesk Server Pro 1.5.0
+
+RustDesk Server Pro now supports user-level ACL and device groups in addition of user groups.
+
+How to make Flutter 3.24 run on Windows 7?
+
+Since Flutter 3.22 starts to drop support for Windows 7 / 8, we need to modify Flutter engine to restore support for Windows 7.
+
+RustDesk web client V2 Preview
+
+V2 offers better codecs, international keyboard support, clipboard support, file transfer etc.
+
+OPEN SOURCE
+
+Built in public with a vibrant community
+
+Join a community driven solution that has millions of downloads and used by thousands of organisations.
+
+20M+
+CLIENT DOWNLOADS
+5M+
+DOCKER DOWNLOADS
+5M+
+ALIVE DEVICES
+96K+
+STARS
+14K+
+FORKS
+40K+
+COMMUNITY MEMBERS
+50+
+LANGUAGES
+Join the community
+
+Discover what our community has to say about their RustDesk experience.
+
+GitHub
+Discord
+Reddit
+Experience RustDesk for yourself
+Download
+Self-Hosting
+RustDesk
+Terms
+·
+Privacy Policy
+Resources
+About us
+Support
+Web Client
+Pro License Portal
+FAQ
+Community
+X
+Discord
+Reddit
+GitHub
+Download
+RustDesk Client
+RustDesk Server OSS
+RustDesk Server Pro
+© 2025 Purslane Limited

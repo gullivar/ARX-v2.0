@@ -1,0 +1,208 @@
+Home
+Contest
+Ranking
+ English 
+Sign Up
+Sign In
+
+
+Contest
+Permanent Contests
+
+First-time users: practice contest / Library testing: AtCoder Library Practice Contest
+
+Upcoming Contests
+Start Time	Contest Name
+1/3(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 439
+1/10(Sat) 15:00	Ⓗ◉ AtCoder Heuristic Contest 059
+1/10(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 440
+1/11(Sun) 21:00	Ⓐ◉ AtCoder Regular Contest 212 (Div. 2)
+1/17(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
+1/24(Sat) 21:00	Ⓐ◉ JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)
+1/31(Sat) 21:00	Ⓐ◉ Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）
+2/1(Sun) 19:00	Ⓗ◉ RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)
+Recent Contests
+Start Time	Contest Name
+12/28(Sun) 21:00	Ⓐ◉ AtCoder Grand Contest 076
+12/27(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 438
+12/21(Sun) 21:00	Ⓐ◉ AtCoder Grand Contest 075
+12/20(Sat) 21:00	Ⓐ◉ UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)
+12/14(Sun) 15:00	Ⓗ◉ ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest 058）
+12/13(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 436
+12/6(Sat) 21:00	Ⓐ◉ AtCoder Beginner Contest 435
+11/30(Sun) 21:00	Ⓐ◉ AtCoder Regular Contest 211 (Div. 2)
+11/29(Sat) 21:00	Ⓐ◉ Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)
+11/29(Sat) 15:00	Ⓗ◉ AtCoder Heuristic Contest 057
+
+
+
+Detail
+
+Ranking: Algorithm
+
+Last Updated: 2025-12-29(Mon) 06:00
+
+	User	Rating
+1	  tourist	3782
+2	  ksun48	3715
+3	  zhoukangyang	3659
+4	  newbiedmy	3629
+5	  jiangly	3612
+6	  ecnerwala	3610
+7	  csy2005	3411
+8	  tour1st	3381
+9	  mulgokizary	3373
+10	  Radewoosh	3371
+
+View all  Hall of Fame  GP30
+
+Ranking: Heuristic
+
+Last Updated: 2025-12-29(Mon) 06:00
+
+	User	Rating
+1	  saharan	3360
+2	  nikaj	3359
+3	  Rafbill	3336
+4	  eijirou	3287
+5	  yosupo	3263
+6	  terry_u16	3216
+7	  bowwowforeach	3209
+8	  montplusa	3168
+9	  Shun_PI	3122
+10	  rhoo	3104
+
+View all  GP30
+
+Important announcements
+[2025-10-31] Launch of the New Judge System
+[2025-10-19] Postponement of the New Judge System Launch
+[2025-10-17] Launch of the New Judge System
+[2025-10-03] Regarding Rule Changes in ABC, ARC and AGC Due to Technological Advancement of Generative AI
+[2025-06-16] Introduction of Generative AI Rules in AHC
+[2025-04-17] Regarding Judge Queue Delays and Future Measures
+[2025-03-19] Changes to the Rated Cap of ARC Div.1
+[2024-12-27] AHC's New Rating System
+[2025-01-15] Tentative 2025 AHC Schedule
+[2025-01-15] Announcement of AtCoder World Tour Finals 2026
+[2016-07-20] Information
+[2024-12-04] Password Management for Your AtCoder Account
+[2024-12-02] Announcement Regarding ARC's Division System
+[2024-07-29] Restructuring of contests
+Recent announcements
+[2025-12-27] New AtCoder Grand Contest 076 Announcement
+[2025-12-26] New AtCoder Beginner Contest 438 Announcement
+[2025-12-21] AtCoder Grand Contest 075 Announcement
+[2025-12-19] UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437) Announcement
+[2025-12-12] AtCoder Beginner Contest 436 Announcement
+AtCoder Grand Contest 076 Announcement posted: 3 days ago
+
+We will hold AtCoder Grand Contest 076. This contest counts for GP30 scores.
+
+Contest URL: https://atcoder.jp/contests/agc076
+Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T2100&p1=248
+Duration: 180 minutes
+Number of Tasks: 5
+Writer: maroonrk
+Tester:  maspy,  IH19980412
+Rated range: 2000 ~
+
+The point values will be 700-1100-1200-1400-1400.
+
+We are looking forward to your participation!
+
+last update: 3 days ago
+Facebook
+Twitter
+Telegram
+Share
+AtCoder Beginner Contest 438 Announcement posted: 4 days ago
+
+We will hold AtCoder Beginner Contest 438.
+
+Contest URL: https://atcoder.jp/contests/abc438
+Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20251227T2100&p1=248
+Duration: 100 minutes
+Writer:  cn449, sounansya
+Tester: sheyasutaka, mechanicalpenciI
+Rated range: ~ 1999
+The point values: 100-200-300-400-475-525-575
+
+We are looking forward to your participation!
+
+last update: 4 days ago
+Facebook
+Twitter
+Telegram
+Share
+AtCoder Grand Contest 075 Announcement posted: 9 days ago
+
+We will hold AtCoder Grand Contest 075. This contest counts for GP30 scores.
+
+Contest URL: https://atcoder.jp/contests/agc075
+Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T2100&p1=248
+Duration: 180 minutes
+Number of Tasks: 5
+Writer:  PCTprobability
+Tester:  maspy,  IH19980412
+Rated range: 2000 ~
+
+The point values will be 600-800-1200-1200-1600.
+
+We are looking forward to your participation!
+
+last update: 9 days ago
+Facebook
+Twitter
+Telegram
+Share
+UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437) Announcement posted: 11 days ago
+
+We will hold UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437).
+
+Contest URL: https://atcoder.jp/contests/abc437
+Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T2100&p1=248
+Duration: 100 minutes
+Writer: toam, sheyasutaka, sounansya
+Tester: physics0523, kyopro_friends, toam
+Rated range: ~ 1999
+The point values: 100-200-350-400-450-500-625
+
+We are looking forward to your participation!
+
+last update: 11 days ago
+Facebook
+Twitter
+Telegram
+Share
+AtCoder Beginner Contest 436 Announcement posted: 18 days ago
+
+We will hold AtCoder Beginner Contest 436.
+
+Contest URL: https://atcoder.jp/contests/abc436
+Start Time: http://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T2100&p1=248
+Duration: 100 minutes
+Writer:  yuto1115, MMNMM, evima
+Tester: toam, Nyaan
+Rated range: ~ 1999
+The point values: 100-200-300-400-475-500-600
+
+We are looking forward to your participation!
+
+last update: 18 days ago
+Facebook
+Twitter
+Telegram
+Share
+
+Post Archive
+
+Facebook
+Twitter
+Telegram
+Share
+Terms of service Privacy Policy Information Protection Policy Company FAQ Contact
+Copyright Since 2012 ©AtCoder Inc. All rights reserved.
+
+2025-12-30 (Tue)
+14:33:26 +09:00

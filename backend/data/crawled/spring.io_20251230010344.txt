@@ -1,0 +1,152 @@
+Skip to main content
+Why Spring
+Overview
+Generative AI
+Microservices
+Reactive
+Event Driven
+Cloud
+Web Applications
+Serverless
+Batch
+Learn
+Overview
+Quickstart
+Guides
+Blog
+Security Advisories
+Projects
+Overview
+Spring Boot
+Spring Framework
+Spring Cloud
+Spring Cloud Data Flow
+Spring Data
+Spring Integration
+Spring Batch
+Spring Security
+Spring AI
+Release Calendar
+Security advisories
+DEVELOPMENT TOOLS
+Spring Tools
+Spring Initializr
+Academy
+Courses
+Get Certified
+Community
+Overview
+Events
+Authors
+Tanzu Spring
+light
+Spring makes Java
+simple.
+modern.
+productive.
+reactive.
+cloud-ready.
+WHY SPRINGQUICKSTART
+What Spring can do
+Generative AI
+
+Integrate AI into your Spring applications without reinventing the wheel.
+
+Microservices
+
+Quickly deliver production‑grade features with independently evolvable microservices.
+
+Reactive
+
+Spring's asynchronous, nonblocking architecture means you can get more from your computing resources.
+
+Cloud
+
+Your code, any cloud—we’ve got you covered. Connect and scale your services, whatever your platform.
+
+Web apps
+
+Frameworks for fast, secure, and responsive web applications connected to any data store.
+
+Serverless
+
+The ultimate flexibility. Scale up on demand and scale to zero when there’s no demand.
+
+Event Driven
+
+Integrate with your enterprise. React to business events. Act on your streaming data in realtime.
+
+Batch
+
+Automated tasks. Offline processing of data at a time to suit you.
+
+@SpringBootApplication
+@RestController
+public class DemoApplication {
+
+
+@GetMapping("/helloworld")
+public String hello() {
+return"Hello World!";
+}
+}
+Level up your Java™ code
+
+With Spring Boot in your app, just a few lines of code is all you need to start building services like a boss.
+
+New to Spring? Try our simple quickstart guide.
+
+Most [of our] services today are all based on Spring Boot. I think the most important thing is that [Spring] has just been very well maintained over the years...that is important for us for the long term because we don’t want to be switching to a new framework every two years.
+Paul Bakker, Senior Software Engineer, Netflix
+Watch now
+Get ahead
+
+VMware offers training and certification to turbo-charge your progress.
+
+Learn more
+Get support
+
+Tanzu Spring offers support and binaries for OpenJDK™, Spring, and Apache Tomcat® in one simple subscription.
+
+Learn more
+Upcoming events
+
+Check out all the upcoming events in the Spring community.
+
+View all
+Why Spring
+Microservices
+Reactive
+Event Driven
+Cloud
+Web Applications
+Serverless
+Batch
+Learn
+Quickstart
+Guides
+Blog
+Community
+Events
+Authors
+Tanzu Spring
+Spring Academy
+Spring Advisories
+Projects
+Thank You
+Get the Spring newsletter
+
+Stay connected with the Spring newsletter
+
+SUBSCRIBE
+
+Copyright © 2005 - 2025 Broadcom. All Rights Reserved. The term "Broadcom" refers to Broadcom Inc. and/or its subsidiaries.
+Terms of Use • Privacy • Trademark Guidelines
+
+Apache®, Apache Tomcat®, Apache Kafka®, Apache Cassandra™, and Apache Geode™ are trademarks or registered trademarks of the Apache Software Foundation in the United States and/or other countries. Java™, Java™ SE, Java™ EE, and OpenJDK™ are trademarks of Oracle and/or its affiliates. Kubernetes® is a registered trademark of the Linux Foundation in the United States and other countries. Linux® is the registered trademark of Linus Torvalds in the United States and other countries. Windows® and Microsoft® Azure are registered trademarks of Microsoft Corporation. “AWS” and “Amazon Web Services” are trademarks or registered trademarks of Amazon.com Inc. or its affiliates. All other trademarks and copyrights are property of their respective owners and are only mentioned for informative purposes. Other names may be trademarks of their respective owners.
+
+Cookies
+Broadcom and third-party partners use technology, including cookies to, among other things, analyze site usage, improve your experience and help us advertise. By using our site, you agree to our use of cookies as described in our Cookie Notice
+Allow All
+Required Only
+Cookies Settings

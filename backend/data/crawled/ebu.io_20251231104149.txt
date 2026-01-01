@@ -1,0 +1,10 @@
+EBU.io - Inputs & Outputs Sign in Home Services EBU.io Digital Collaboration Hub Deprecation Notice In May 2013, we started building ebu.io as a platform for EBU Members
+          and other users to collaborate on open source software development and
+          to kick-start projects under the umbrella of EBU Technology &
+          Innovation. ebu.io offered a 'home' for these projects and various technical
+          modules, including authentication and user management. With the
+          adoption of OAuth 2.0, the widespread use of cloud infrastructures and
+          the advancement of other web technologies, ebu.io has become
+          redundant. In 2022, the ebu.io projects 'home' and technical modules
+          have been removed for all projects, except for the RadioDNS project. Further note that the EBU QC Tool and the EBU Gitlab repositories
+          continue to exist (standalone) under the following URLs: https://git.ebu.io https://qc.ebu.io © 2025 EBU - Privacy & Cookie Policy

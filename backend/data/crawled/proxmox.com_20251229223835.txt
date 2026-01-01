@@ -1,0 +1,177 @@
+Get Help
+Buy now
+
+Select your language
+
+Home
+Products
+Downloads
+Services
+Partners
+About
+Simplify your data center
+
+Secure, flexible, and reliable open-source enterprise solutions.
+For the highest demands and tight budgets in professional IT environments.
+
+ 
+
+NEW: Version 9.1
+Proxmox
+Virtual Environment
+
+Proxmox Virtual Environment is a complete open-source platform for enterprise virtualization. With the built-in web interface you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools using a single solution.
+
+Learn more
+
+NEW: Version 4.1
+Proxmox
+Backup Server
+
+Proxmox Backup Server is an enterprise backup solution for backing up and restoring VMs, containers, and physical hosts. The open-source solution supports incremental backups, deduplication, Zstandard compression, and authenticated encryption.
+
+Learn more
+
+NEW: Version 1.0
+Proxmox
+Datacenter Manager
+
+Proxmox Datacenter Manager is a centralized open-source management solution for distributed infrastructures. With its unified web interface you can easily monitor and control multiple Proxmox remotes, see health and performance at a glance, and coordinate key operations across clusters and data centers.
+
+Learn more
+
+Fast track to success.
+
+Enterprise support and flexible services
+
+ 
+
+Your company's IT strategy is as unique as your business itself. Proxmox offers powerful software as well as support and services tailored to your goals. From conception to successful implementation of your data center strategy, our experienced partners are at your side.
+
+
+
+
+Support
+
+Proxmox Enterprise Support helps you solve unexpected problems and ensures your business is running smoothly.
+
+
+
+Get support
+
+
+
+
+Implementation
+
+Receive consulting and implementation services from experienced, specialized partners. For fast, efficient IT solutions.
+
+Find a partner
+
+
+
+
+Training
+
+Compact. Practical. Efficient. Quickly gain the know-how you need to operate your data center with Proxmox solutions.
+
+See training courses
+
+
+
+
+Docs
+
+Our comprehensive documentation gets you up and running quickly, so you can make the most out of the software.
+
+Read the docs
+
+ Proxmox is committed to open source
+
+We share this passion with our customers, the global community, and all those who contribute to the success of Proxmox software. 
+
+
+
+
+Success Stories
+
+Discover how numerous companies worldwide are achieving great success with Proxmox solutions.
+
+Read success stories
+
+
+
+
+Community
+
+Together with a strong, global community, we are continuously driving forward the development of the software.
+
+Get involved
+
+
+
+
+Developers
+
+Help shape Proxmox! We always welcome code, bug fixes, and new ideas!
+
+Start contributing
+
+
+
+
+Latest news
+
+Proxmox Datacenter Manager 1.0
+Proxmox Backup Server 4.1
+Proxmox VE 9.1 available
+Proxmox Mail Gateway 9.0
+
+See all news
+
+  
+
+Some of our customers
+
+Trusted by tens of thousands of satisfied customers.
+
+ 
+
+View customers
+
+Get in touch
+
+ 
+
+Haven't found what you are looking for?
+
+Contact us
+
+Products
+Proxmox Virtual Environment
+Proxmox Datacenter Manager
+Proxmox Backup Server
+Proxmox Mail Gateway
+Downloads
+Support
+Resources
+Community
+Developers
+Success Stories
+Press Room
+Videos
+Training
+Newsletter
+Email *
+I agree with the privacy policy *
+Subscribe
+ 
+ 
+About Proxmox
+Careers
+Contact Us
+Legal
+Sitemap
+Privacy Policy
+
+Copyright © 2004 - 2025 Proxmox Server Solutions GmbH. All rights reserved.

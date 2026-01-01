@@ -1,0 +1,724 @@
+BIST 100
+11.150,90
+%-1,27
+DOLAR
+42,9482
+%0,02
+EURO
+50,6027
+%0,05
+GRAM ALTIN
+6.026,28
+%0,71
+FAİZ
+37,31
+%0,00
+BITCOIN
+87.220,00
+%0,00
+Borsa
+14°
+İstanbul
+Yağmurlu
+Ara
+Takipde Kalın!
+Günlük gelişmeleri takip edebilmek için habertürk uygulamasını indirin
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Gündem
+Ekonomi
+Dünya
+Spor
+Magazin
+Kadın
+Sağlık
+Yazılar
+Teknoloji
+Gastro
+Video
+Stil
+Resmi İlanlar
+GÜNÜN ÖNEMLİ GELİŞMELERİ
+İzmir'deki "kooperatif" soruşturmasında 5 tutuklama
+ABD, Doğu Pasifik'te tekne vurdu: 2 ölü
+Kuyumcu soyup lüks cip satın aldılar: 3 gözaltı
+Talaş silosuna düşen işçi öldü
+Tepki gösterdi
+İşte NBA All-Star ilk taraftar oylamasında sonuçlar!
+'Yeniymiş' gibi paylaşıldı
+TFF, 70 futbolcunun cezasını onadı!
+Taziye mesajları
+Yeni yıla Barbados'ta girecekler
+Lille'den Berke Özer paylaşımı!
+Fatih Karagümrük'te Stanojevic dönemi!
+Kamuoyuna çağrı
+Anadolu Efes'e ABD'li oyun kurucu!
+Alışkanlık haline getirdiler
+Final yaptı
+Spor dünyasından şehitler için başsağlığı!
+Cilt bakım ürününüzü evde "yetiştirmek" mümkün mü?
+Yılın kelimesi 'dijital vicdan' oldu
+Malikanede pembe tenis kortu
+Komşularını rahatsız ettiler
+Beden ve zihin sağlığını güçlendiren alışkanlıklar
+Babasını son yolculuğuna uğurladı
+Kısa mı uzun mu? Kalp için en faydalı hangisi?
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
++
+Tüm Manşetler
+Donald Trump, Binyamin Netanyahu ile görüştü
+İspanya'ya HÜRJET satışı için imzalar atıldı
+Okullar tatil mi?
+14 futbolcu için "şike" iddiasıyla tutuklama talebi!
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
++
+Cumhurbaşkanı Erdoğan'dan diplomasi trafiği
+Yıldız'dan İsrail'e Somaliland eleştirisi
+Otomobil nehre uçtu: 1 ölü, 1 yaralı
+Yalnız yaşadığı evinde ölü bulundu
+Veyis Ateş ve Taner Çağlı tutuklandı
+Murat Bardakçı
+
+Özgür Özel, İstanbul'da 1908'e kadar vârolan ama sonraları unutulan "Ayyaşlar Bayramı"nı canlandırıp Bekrî Mustafa'nın ruhunu şâd eyledi!
+
+T.C. BABAESKİ İCRA MÜDÜRLÜĞÜ
+TOKİ Adıyaman kura sonuçları
+30 Aralık 2025 kar tatili olan iller
+Emekli maaşı ne kadar olacak?
+KRİPTO PARA
+TÜMÜ
+Bitcoin
+87.289
+-2.95%
+Ethereum
+2.950,13
+-2.96%
+Tether
+0,998831
+-0.02%
+Binance Coin
+851,52
+-1.89%
+XRP
+1,86
+-2.77%
+Solana
+123,72
+-3.79%
+TRON
+0,284753
+-0.10%
+Dogecoin
+0,123328
+-3.28%
+Cardano
+0,352079
+-7.57%
+Avalanche
+12,40
+-5.45%
+Dai
+0,999273
+0.00%
+Wrapped Solana
+123,67
+-3.75%
+Arbitrum Bridged USDT (Arbitrum)
+0,999951
+0.02%
+Polygon Bridged USDT (Polygon)
+1
+0.05%
+Binance-Peg Dogecoin
+0,25985
+-0.38%
+Polygon PoS Bridged DAI (Polygon POS)
+0,999797
+-0.01%
+Tezos
+0,48958
+-1.42%
+Mantle Bridged USDT (Mantle)
+0,990128
+-1.18%
+Chiliz
+0,03736981
+1.52%
+Trust Wallet Token
+0,856411
+-1.65%
+Decentraland
+0,120434
+-3.59%
+Binance-Peg SOL
+181,73
+-5.70%
+Cronos Bridged USDT (Cronos)
+1,08
+8.15%
+Bridged Ether (StarkGate)
+2.965,93
+4.97%
+Sui Bridged USDT (Sui)
+0,998696
+0.03%
+Bridged Tether (Linea)
+1,00
+0.17%
+Binance-Peg DAI
+1
+-0.09%
+MakerDAO Arbitrum Bridged DAI (Arbitrum One)
+0,999346
+-0.05%
+Polygon Hermez Bridged USDT (x Layer)
+0,999705
+-0.02%
+L2 Standard Bridged USDT (Base)
+0,99835
+-0.04%
+Meme Anarchic Numismatic Asset
+0,02025078
+0.08%
+MakerDAO Optimism Bridged DAI (Optimism)
+0,999143
+-0.17%
+Osmosis allBTC
+120.626
+5.41%
+Department of Gov Efficiency
+1,27
+-22.86%
+Department Of Government Efficiency
+0,00959858
+21.69%
+Base Bridged SOL (Base)
+123,08
+-1.51%
+NEAR Intents Bridged BTC
+87.218
+-3.12%
+Osmosis allSOL
+272,03
+14.38%
+NEAR Intents Bridged ETH
+2.945,65
+0.04%
+Zoomer
+4,314E-5
+25.20%
+Crypto.com Bridged DAI (Cronos)
+1,01
+-0.11%
+L2 Standard Bridged DAI (Base)
+0,998819
+-0.01%
+Bobby The Cat
+0,00219622
+-2.38%
+Hemi Bridged USDT (Hemi)
+1
+-0.04%
+NEAR Intents Bridged USDT
+0,998761
+0.07%
+ADA the Dog
+0,00098493
+-1.00%
+NEAR Intents Bridged SOL
+122,46
+9.81%
+HarryPotterObamaPacMan8Inu
+0,00468734
+-84.06%
+Allbridge Bridged SOL (Near Protocol)
+158,93
+7.86%
+VİDEO
+TÜMÜ
+29 Aralık 2025: Bugün ne oldu? İşte günün öne çıkan haberleri
+Esenyurt'ta 5 kişinin öldüğü kazanın yeni görüntüleri ortaya çıktı
+Fatih Altaylı hakkında tahliye kararı
+Yalova polisi 4 ay önce aynı eve baskın yapmış
+Bağcılar'da mezuniyet keplerine gizlenmiş 53 bin 100 uyuşturucu hap ele geçirildi
+Yargıtay'dan Narin Güran kararı!
+Kamp yaptıktan sonra kaybolan Elif Kumal için Kapıdağ didik didik aranıyor
+Güney Okyanusu'nda yaşayan büyük yelkovan kuşu,Türkiye'de ilk kez görüntülendi
+SON YAZILAR
+TÜMÜ
+Sinema
+Mehmet Açar
+Bu da kült olur mu?
+Ankara’dan Bakış
+Nasuhi Güngör
+Suriye, SDG ve ayaklanma provası
+Piyasalar
+Abdurrahman Yıldırım
+Riskler+ Trump'la altın çağ mı, fırtınalı yıl mı?
+Dünya İşleri
+Nihal Bengisu Karaca
+Gazoz erkeği
+Perspektif
+İdris Kardaş
+Anadolu Karanfili
+Edebiyat Portre
+Muhsin Kızılkaya
+"Suphi'yi kim öldürdü?"
+Ekonomi
+Güntay Şimşek
+Akkuyu NGS'de yeni dönem…
+Spor
+İbrahim Yıldız
+Çilingir Cerny!
+Yaşam
+Oray Eğin
+Şişman ilacı
+BİLGİ
+TÜMÜ
+30 Aralık 2025 kar tatili olan iller
+KYK bursu ne kadar olacak?
+TOKİ Adıyaman konut başvurusu kabul ve reddedilenler
+Borsa neden düşüyor?
+2025'te halka arz olan şirketler
+2025'te gümüş yüzde kaç arttı?
+Torba Yasa'da neler var?
+Ocak 2026 kira artış oranı ne zaman açıklanacak?
+Sıfır araç kampanyaları
+Pasaport ve ehliyet ücreti ne kadar oldu?
+HT TREND
+TÜMÜ
+Van’da yürekleri ısıtan görüntüler
+Esenyurt'ta obruk! Park halindeki araç düştü!
+Santa1 kodlu Noel uçuşu başladı
+Kartal dronu kaparsa
+Denizin üzerinde gökkuşağı oluştu
+Annesi ölen kuzuyu inek emziriyor
+Çocukların poşetli, kızaklı eğlencesi
+Kuşların dansı büyüledi
+İnsanlarla balon oynayan köpek kamerada
+Çiftçinin tilkiyle ilginç konuşması
+STİL
+TÜMÜ
+Baharatların çiçek hali
+Cırt cırtlı anne babalar
+Şarkı söylemek kalbimizi gerçekten güçlendirebilir mi?
+Viral oldu: 10 günde bağımlılığa son!
+Bolu mu Boulud mu
+Herkes orada ama hiç kimse yok
+Büfelerin en iyisi 
+Her şeyin başladığı yer 
+KEŞFET
+TÜMÜ
+Yılbaşı ile özdeşleşmiş 10 film!
+2026'ya girerken size eşlik edecek 8 tarif!
+Mutlaka izlemeniz gereken 10 farklı belgesel!
+Bu heykellerden birisi aslında insan!
+Beynimiz neden kötü anıları daha net hatırlar?
+EKONOMİ
+TÜMÜ
+İş Bankası’ndan yüzen şube
+Hepsiburada bayrak değişimine hazırlanıyor
+Otomotivde rekor serisi devam edebilir
+Maddi teminat 400 bin lira oldu
+Çinli marka Eskişehir’de üretime başladı
+ÖZEL SAYFALAR
+TÜMÜ
+Sosyal Güvenlik
+Ahmet Kıvanç
+Vatandaşlık maaşı nedir? Vatandaşlık maaşı ne kadar olacak? Kimlere verilecek?
+Haftanın Portresi
+Mehmet Çalışkan
+Siz hepiniz ben tek
+Mekan
+Oray Eğin
+Bolu mu Boulud mu
+Güzergah
+Mehmet Şimşek
+İstanbul'da Yahudi mirası
+Kriminal Dosyalar
+Mustafa Şekeroğlu
+Hizmetçisi katili çıktı! 'Domuz bağı' cinayetinde amansız takip!
+Borsanın Şirketleri
+Rahim Ak
+Garanti BBVA Kripto uygulaması yenilendi
+Sağlık
+Ceyda Erenoğlu
+Özel: Bu kurultaydan söz veriyorum
+Borsada Yatırım
+Rahim Ak
+Bankalar yine gözde olur mu?
+O Şimdi Nerede?
+Aytekin Teker
+"6 kez battım, 7 kez çıktım"
+MAGAZİN
+TÜMÜ
+"Hep başka aşklar aradım"
+Evlendiler
+"Hoşça kal 2025"
+Kainat Güzeli hayatını kaybetti
+Dört çocuğu bir arada
+OBJEKTİFE TAKILANLAR
+TÜMÜ
+Gösteri maçına çıktılar
+VIP araçla hizmet iddiası
+"Güzel şeyler kadar üzücü olaylar da yaşadık"
+"2026'dan umutluyum"
+"Güzel anılar biriktirdik"
+SPOR
+TÜMÜ
+Fas ve Mali son 16'da!
+2026 Dünya Kupası biletlerine rekor talep!
+"Üst sıralara doğru devam etmek istiyoruz"
+Bursaspor ara transferde 4. imzayı attı!
+İstanbulspor'dan 5 gollü galibiyet!
+INFOGRAFİK
+TÜMÜ
+ELEKTRİKLİ ARAÇLAR
+TÜMÜ
+Elektrikli araçta Avrupa'da ilk 4'teyiz
+'Yönümüzü Avrupa'ya çeviriyoruz'
+Avrupa'dan elektrikli araçta geri adım
+Yollardaki taşıt sayısı 33 milyonu aştı
+YAŞAM
+TÜMÜ
+2026'da burçları neler bekliyor?
+Kastamonu-Çankırı kara yolu üzerinde! İnsan eliyle yapılmış
+Binlerce yıl önce de zeytinyağı üretim merkeziymiş
+İhbar üzerine ortaya çıktı... 1800 yıllık!
+Türkiye’de ilk kez görüntülendi
+AKIL OYUNLARI
+TÜMÜ
+SAĞLIK
+TÜMÜ
+Diyalize mahkum olmaktan annesinin böbreğiyle kurtuldu
+"Türkiye, yükselen bir sağlık markasıdır"
+Anestezi sonrası dram! Biri öldü diğeri yatalak
+Kahve ve çikolata vücutta histamin patlamasına yol açıyor
+Her 3 dakikada bir yeni meme kanseri tanısı konuluyor
+KARİKATÜR
+TÜMÜ
+Can Baytak karikatürleri (Aralık 2025)
+Can Baytak karikatürleri (Kasım 2025)
+Can Baytak karikatürleri (Ekim 2025)
+Can Baytak karikatürleri (Eylül 2025)
+Can Baytak karikatürleri (Ağustos 2025)
+Can Baytak karikatürleri (Temmuz 2025)
+Can Baytak karikatürleri (Haziran 2025)
+Can Baytak karikatürleri (Mayıs 2025)
+KÜLTÜR SANAT
+TÜMÜ
+‘Dünya Yerinden Oynar’ yeniden sahnede
+Paranın hikayesi Pera Müzesi'nde anlatılıyor
+Duman 23 Ocak'ta Zorlu PSM'de
+Hatay'da 4 yeni kütüphane açıldı
+İş Sanat 2026'yı şarkılarla karşıladı
+TEKNOLOJİ
+TÜMÜ
+30 yılda 31 milyar dolar yatırım yaptı
+Çevre performansına CDP’den tam not
+İnsansı yapay zeka robotları denetim altında!
+Milli Teknoloji ve Yapay Zeka Genel Müdürlüğü
+Gelecek odaklı yapay zekâ yatırımı: BixCod
+GASTRO
+TÜMÜ
+Baharatların çiçek hali
+Michelin yıldızlı 17 Türk restoranı hangileri?
+Dünyanın dört bir yanından 10 yılbaşı yemeği
+Ünlü İtalyan Tarihçi: Pizza İtalya'dan çıkmadı
+Dünya’nın en iyi 10 mutfağından biri Türkiye
+Balkabağından neler yapılabilir?
+Viral döneri kimler denedi?
+Tütsülenmiş elma dilimleri viral oldu
+Dünyanın en iyileri arasında 5 Türk restoranı
+Dünyanın en nadide rotası Türkiye'den
+DÜNYA
+TÜMÜ
+Çin'den Tayvan çevresinde askeri tatbikat
+Trump-Zelenskiy görüşmesinden öne çıkanlar
+Meksika'da yolcu treni raydan çıktı!
+Zelenskiy: Barış planının yüzde 90'ında uzlaşı sağlandı
+Trump, Zelenskiy ile Florida'da görüştü
+YEMEK TARİFLERİ
+TÜMÜ
+Pad thai tarifi!
+Corn tempura tarifi
+Gingerbread kurabiye nasıl yapılıyor?
+French toast tarifi
+Balkabağıyla yapabileceğiniz 7 yemek tarifi
+GÜNLÜK BURÇ YORUMU
+Koç
+Boğa
+İkizler
+Yengeç
+Aslan
+Başak
+Terazi
+Akrep
+Yay
+Oğlak
+Kova
+Balık
+SHOW TV
+TÜMÜ
+Bahar Final Bölümü
+Veliaht 15. Bölüm
+Kızılcık Şerbeti 120. Bölüm Fragmanı
+Rüya Gibi 5. Bölüm 2. Fragmanı
+Rüya Gibi 4. Bölüm
+Kızılcık Şerbeti 119. Bölüm
+ALIŞVERİŞ
+TÜMÜ
+A101 31 Aralık kataloğu yayında!
+BİM 30 Aralık 2025 aktüel ürünler kataloğu
+A101'de yıl sonu fırsatları!
+BİM 26 Aralık 2025 Cuma aktüel ürünler kataloğu
+SHOW HABER
+TÜMÜ
+Kayınpederinin başını yardı!
+Merdivenlerin yarısı moloz doldu!
+Önce çaldı sonra teslim etti!
+Her hafta bir kaza!
+Şerit değiştirdi diye bela oldu!
+Doğalgaz bomba gibi patladı!
+Fırında yumruk yumruğa kavga!
+Tanktaki sütleri alevlere sıktı!
+Şafak vakti operasyon!
+Elektrik kabloları arabayı yaktı!
+“O oda benim” davası
+Eşyalar kendiliğinden tutuşuyor!
+Kanlı gece: 2 ölü, 1 yaralı
+Taksiciyi çıldırttı!
+Kuaför komşu esnafın dükkanına saldırdı!
+3 çocuğunu bıçakla rehin aldı!
+İnşaat işçileri diş hekimini dövdü!
+Annesine mesaj atan adamı öldürdü!
+Marketteki zorba!
+Konuşma bahanesiyle çağırıp vurdu!
+HABERTÜRK TV
+TÜMÜ
+Ahmed Şara SDG Konusunda Ne Dedi?
+Dünya Filistin'i Tanımaya Başladı, İsrail Ne Yapacak?
+Sumud Filosu Ne Zaman Gazze'ye Ulaşacak?
+Kartalkaya'da 78 Kişinin Hayatını Kaybettiği Facianın Sorumlusu Kim?
+Fenerbahçe'de Sadettin Saran Dönemi Başladı! Fenerbahçe'de Yeni Dönem Nasıl Olur?
+Dünya Filistin'i Tanımaya Başladı! Filistin'de Katliam Sona Erer Mi?
+Erdoğan - Trump Görüşmesinde Masada Neler Olacak?
+"TRÇ İttifakı" Hayata Geçer Mi?
+ChatGPT'ye Yaş Sınırlaması Geliyor! Yeni Kısıtlama Ne Anlama Geliyor?
+Çiğ Süt Zammı Market Fiyatlarını Nasıl Etkileyecek?
+YSK, CHP İçin Ne Karar Verecek?
+Suriye, ABD Ve Ürdün'ün Anlaştığı Yol Haritasında Ne Var?
+Yurt Dışı Konut Alımı Arttı! Yurt Dışı Konuta İlgi Neden Arttı?
+Kudüs'te Siloa Yazıtları Tartışması Ne Anlama Geliyor?
+Yunanistan'da Türkiye'ye Karşı Hamle... Ege'de Tatbikat Kararı!
+Çocuklar Akran Zorbalığından Nasıl Korunabilir?
+Süveyda'nın Yol Haritası Belirlendi! Suriye - İsrail Çözümü Mümkün Mü?
+FED Kararı Piyasaları Nasıl Etkiler?
+Babaya Tokata Atan Sürücü Adliyede! Bu Saldırgan Ne Ceza Alacak?
+Konut Şatışları Artıyor... Yüksek Kira Ev Almaya Mı Yöneltiyor?
+BLOOMBERG HT
+TÜMÜ
+Bakan Bayraktar: Enerjide cari açığı bitirecek hasat dönemine giriyoruz
+TCMB'nin rezervlerinde yükseliş ivmesi sürüyor
+Yuan psikolojik eşiği aştı
+Küresel piyasalarda 'Noel Baba rallisi' beklentisi
+Emlak rayiç değerleriyle ilgili kritik düzenleme çıktı
+HT HAYAT
+TÜMÜ
+Alt dudağınız üst dudaktan daha kalın ise...
+Rüzgâra dair bilgelik taşıyan 12 atasözü
+Başparmağınıza üfleyin ve...
+Haftada dört gün çalışmak sağlık için daha iyi!
+Bakterileri öldüren 9 doğal antibiyotik
+Kediler hamileliği hisseder mi?
+2026 yılı burç yorumları
+İyilik yap, iyilik bul
+HT KULÜP
+TÜMÜ
+'Yılın En İyileri' ödüllendirildi
+Alaton'dan yeni yıl daveti
+Neslişah'ın 'Sri Lanka' anıları...
+Jenner’dan 'Kürk Mantolu Madonna' paylaşımı
+2025'in ayrılıkları...
+Noel sofrasında bir arada...
+2025'te yaza damga vuranlar...
+Prens ve ailesi halkla selamlaştı
+YEREL HABERLER
+TÜMÜ
+Hakkari
+1 dakika sonra
+Hakkari'de yaşam mesaisi: Kar engelini iş makineleriyle aştılar
+Kayseri
+1 dakika sonra
+Kayseri bölgesinden 7 hakem 'bahis' sebebiyle PFDK'ya sevk edildi
+Çankırı
+45 saniye sonra
+D-100 karayolunda kar çilesi: Araçlar mahsur kaldı
+Bursa
+1 dakika sonra
+Bursa'da yılbaşı öncesi geniş çaplı uygulama: Kaçak ve sahte alkole geçit y...
+Amasya
+1 dakika önce
+Amasya'da nehre düşen otomobildeki 1 kişi öldü, 1 kişi yaralandı
+Amasya
+8 saniye önce
+Amasya'da kontrolden çıkan otomobil köprüden Yeşilırmak Nehri'ne uçtu: 1 öl...
+İzmir
+2 dakika önce
+İzmir'de zimmet operasyonu; 11 şüpheli adliyede (4)
+Nevşehir
+1 dakika önce
+Nevşehir'de otomobil tarlaya uçtu: 4 yaralı
+Bursa
+4 dakika önce
+Bursa'da 300 polisin katıldığı denetim gerçekleştirildi
+Nevşehir
+1 dakika sonra
+Kontrolden çıkan otomobil kayaya çarparak durabildi
+KAYBETTİKLERİMİZ
+TÜMÜ
+Brigitte Bardot hayatını kaybetti
+Ünlü oyuncu hayatını kaybetti
+Evinde bıçaklanarak öldürüldü
+33 yaşında hayatını kaybetti
+Muazzez Abacı hayatını kaybetti
+Usta oyuncu vefat etti
+Engin Çağlar, hayatını kaybetti
+100 yaşında hayatını kaybetti
+Melek Tartan hayatını kaybetti
+Neşe Aksoy hayatını kaybetti
+EN ÇOK OKUNANLAR
+Yıldız'dan İsrail'e Somaliland eleştirisi
+ABD, Doğu Pasifik'te tekne vurdu: 2 ölü
+Otomobil nehre uçtu: 1 ölü, 1 yaralı
+İzmir'deki "kooperatif" soruşturmasında 5 tutuklama
+BUDO seferlerine olumsuz hava engeli
+İstanbul'da sular ne zaman gelecek?
+Suriye'de yeni banknotlar tanıtıldı
+30 Aralık'ta kesinti!
+Kuyumcu soyup lüks cip satın aldılar: 3 gözaltı
+İstanbul'a kar yağacak mı?
+TV Canlı Yayın
+Sizlere daha iyi bir hizmet sunabilmek için sitemizde çerezlerden faydalanıyoruz. Sitemizi kullanmaya devam ederek çerezleri kullanmamıza izin vermiş oluyorsunuz. Detaylı bilgi almak için ‘Çerez Politikasını’ ve ‘Aydınlatma Metnini’ inceleyebilirsiniz.
+DAHA FAZLA BİLGİ
+KABUL ET
+Anasayfa
+Son Dakika
+Canlı Yayın
+Favoriler
+35
+Bildirimler
+Son Dakika Haberleri
+Haberler
+Ekonomi Haberleri
+Güncel Haberler
+Magazin Haberleri
+Spor Haberleri
+Dünya Haberleri
+Sağlık Haberleri
+Kadın Haberleri
+Teknoloji Haberleri
+Memur ve Emekli Haberleri
+Altın Fiyatları
+Dolar Kuru
+Euro Kuru
+Kripto Para Fiyatları
+Canlı Borsa
+Namaz Vakitleri 2025
+Cuma Namazı Vakitleri
+Nöbetçi Eczaneler
+İstiklal Marşı
+E Okul VBS
+E Devlet Giriş
+Günlük Burç Yorumları
+Son Depremler
+Hava Durumu
+Yol Durumu
+Sinema Rehberi
+TV Yayın Akışı
+Instagram Dondurma
+Instagram Silme
+Yemek Tarifleri
+Ayetel Kürsi
+Saatlerin Anlamı
+Aşk Sözleri
+Günaydın Mesajları
+Gram Altın
+Çeyrek Altın
+Yarım Altın
+Ata Altın
+Cumhuriyet Altını
+22 Ayar Bilezik
+1 Dolar Kaç TL
+1 Euro Kaç TL
+Canlı Maç Sonuçları
+Süper Lig Puan Durumu
+Video Haberler
+TDK Sözlük Anlamları
+Üniversite Taban Puanları
+Rüya Tabirleri
+Dünya Tarihi ve Türk Tarihi
+İslam Ansiklopedisi
+TÜBİTAK Ansiklopedisi
+Hangi Besin Kaç Kalori
+Eş Anlamlı Kelimeler Sözlüğü
+Hangi Kelime Nasıl Yazılır?
+En Güzel Sözler
+Metrobüs Durakları
+Marmaray Durakları
+Erkek İsimleri
+Kız İsimleri
+Atasözleri ve Anlamları
+Türkçe Deyimler Sözlüğü
+Çin Takvimi 2025 ve Bebek Cinsiyeti Hesaplama
+İETT Sefer Saatleri
+Gebelik Hesaplama
+Yükselen Burç Hesaplama 2025
+Yüzde Hesaplama
+Geçmiş Döviz Fiyatları
+Adım Adım Instagram Hesap Dondurma 2025
+Adım Adım Instagram Hesap Silme 2025
+Resmi Tatil Takvimi 2025
+“Günün manşetlerini ve en çok okunan haberlerini her sabah e-postanızdan takip etmek için bültene üye olun.”
+Kaydet
+Günlük gelişmeleri takip edebilmek için habertürk uygulamasını indirin
+Günlük gelişmeleri sosyal medya hesaplarından takip edebilirsiniz.
+haberturk.com internet sitesinde yayınlanan yazı, haber, video ve fotoğrafların her türlü hakkı Haberturk Gazetecilik A.Ş.’ye aittir. İzin alınmadan, kaynak gösterilerek dahi iktibas edilemez.
+Copyright © 2025 - Tüm hakları saklıdır. Habertürk Gazetecilik A.Ş.

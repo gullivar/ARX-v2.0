@@ -1,0 +1,2 @@
+Connection Problems
+Sorry, SMF was unable to connect to the database. This may be caused by the server being busy. Please try again later.

@@ -1,0 +1,98 @@
+Advanced web hosting control panel
+Run WordPress at scale with full control of web, mail, DNS, backups, and more on your own infrastructure
+ Try Virtualmin
+ What is WP Workbench?
+20Y+
+OF TRUSTED SERVICE
+500K+
+LINES OF TESTED CODE
+200K+
+ACTIVE USERS
+
+
+DNS
+Local DNS and cloud DNS (Route 53, Cloudflare, Google, Namecheap, Bunny) with reachability checks
+SSL
+Auto-renewed SSL from Let's Encrypt, ZeroSSL, Google Trust and others for all services
+Web
+Apache or Nginx with HTTP/2, multiple PHP versions, jails, resource usage, directory password protection and proxy path management
+WP
+Manage WordPress core, plugins, themes, backups and cloning from one place with WP Workbench, including bulk updates, remote site management and fast one-click admin access
+DB
+MySQL and PostgreSQL with extra database users, granular permissions and per-server limits
+Storage
+Remote backup storage using Amazon S3, Azure Blob Storage, Backblaze B2, Dropbox, Google Cloud Storage, Google Drive and Rackspace Cloud Files, with encrypted transfer and retention policies
+Mail
+Local Postfix and Dovecot mail server with spam and virus filtering, SES and other relay providers, secondary MX, mailbox cleanup, log search and announcement emails to domain owners
+Backup
+Automated local and cloud backups with flexible schedules, GPG encryption keys and quota monitoring
+Tools
+CLI and remote HTTP API for automation, batch server creation, bulk WordPress operations and integration with your own systems and scripts
+Users
+Reseller accounts, advanced user management, SSH keys, extra database and web users, resource limits and account-level tools
+TM
+Download
+Shop
+Documentation
+Forum
+Sign In
+
+Virtualmin is a powerful and flexible web hosting control panel for Linux, built for web developers, IT professionals, agencies, and hosting providers. It can run on almost any Linux distribution, with a hassle-free automated installer available for Debian and Ubuntu, AlmaLinux and Rocky Linux, and Red Hat Enterprise Linux. It is available as a community-supported open-source GPL edition and a feature-packed Pro version. It brings together DNS, SSL, web, mail, and backups in one place, with local and cloud DNS, automatic SSL, Apache or Nginx with multiple PHP versions, a full mail stack with spam and virus protection, and scheduled backups to popular cloud storage services. WP Workbench adds one central place to manage WordPress core, plugins, themes, backups, cloning, and quick admin access, while the built-in CLI and remote HTTP API make it easy to automate server setup, everyday tasks, and bulk changes across all your sites and services.
+
+Virtualmin Features
+
+Virtualmin gives you one place to manage websites, mail, databases, DNS, backups, and WordPress on your Linux servers. Built on Webmin, it adds hosting-focused tools for everyday operations, including automation, reseller and user management, and integration with popular cloud services.
+
+Powerful and flexible domain accounts, allowing users to manage their websites
+Manage DNS locally or integrate with external services like Cloudflare, Google Cloud DNS, Amazon Route 53
+Manage mailboxes with spam/antivirus protection, forwarders, auto-responders, and aliases, including Amazon SES support
+Database management with data export, import, and delegated control for users
+Delegate management with domain owner and reseller accounts for fine-grained access control
+Enhanced security with two-factor authentication, brute force protection, and many other security features
+Log handling, service monitoring, updates alerts, and detailed statistics
+Streamlined backup, migration, and cloud storage integration with Dropbox, Google Drive, and Amazon S3
+Easily installable web applications, such as WordPress, Joomla, Drupal, phpBB, phpMyAdmin and many others
+Manage your server in your browser with an interactive terminal that feels like SSH
+Integrate with FirewallD and Fail2ban for strong, automated server protection
+Request and renew free SSL certificates automatically using Let's Encrypt and similar providers to secure websites, mail, and other services
+
+The strength of Virtualmin is how it works with your OS, using the standard packages your Linux system already provides instead of building its own stack. This keeps servers lean and predictable and makes it easy to move from panels like Plesk, cPanel, or DirectAdmin without disrupting your data or backups.
+
+Why Virtualmin?
+
+Virtualmin has plenty of competition, both open source and commercial, but it sets out to be the most powerful and flexible web hosting control panel you can run on Linux while staying lean and fast. You get the freedom of real Linux with a clean web interface that makes everyday work quick and effortless.
+
+Flexibility where you need it
+
+Virtualmin is unlike anything else, when it comes to flexibility and power. Designed by system administrators for system administrators, it works with you to configure services and accounts in the way you choose.
+
+Ease of use where you want it
+
+Virtualmin isn’t just for hard core system administrators. It scales back the complexity of the user interface based on the privileges of the logged in user, and allows delegation of tasks, based on skill and level of trust.
+
+Maximize efficiency
+
+Virtualmin has always been focused on automating away repetitive tasks without impeding your ability to customize. Simplifying complex tasks is a Virtualmin specialty.
+
+Extensible, scriptable, customizable
+
+Virtualmin was made to be extended, scripted, and customized. With a modular architecture, you can write new modules and themes, drive it from scripts or other programs, and create server templates to suit your needs.
+
+Command line friendly
+
+With Virtualmin, working from the user interface is not the only way to do it. With complete command line access to nearly all user interface functions, and the ability to configure most services using standard text editors and tools, Virtualmin works your way.
+
+Professional support
+
+Virtualmin support is provided by the people who build and maintain the software. When you file a support ticket with us, you’ll receive prompt, expert, advice. Tickets are usually answered within 24 hours, and every member of our staff has years of experience.
+
+Experience faster, smarter hosting with Virtualmin Pro!
+
+  Get Virtualmin Pro!
+© 2005 - 2025 Virtualmin
+About Contact Privacy Terms
+ 
+GitHub
+ 
+Telegram
+YouTube

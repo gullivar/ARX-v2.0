@@ -1,0 +1,26 @@
+Layer 1
+Opacity
+100%
+File
+#
+Stabilizer 
+0
+1
+2
+3
+4
+5
+Size
+4
+Opacity
+100
+Scatter
+0
+Lock Alpha
+Donate
+updated
+2025-12-23
+Size
+4
+Opacity
+100

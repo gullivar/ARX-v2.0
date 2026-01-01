@@ -1,0 +1,258 @@
+View Docs →
+Platform
+Solutions
+Resources
+Customers
+Pricing
+Docs
+Login
+Sign Up
+Image and Video API plus AI-powered DAM
+One platform to optimize, transform, store, manage and deliver visuals, so developers ship faster, marketers iterate freely, and your users enjoy flawless visuals everywhere.
+Start Free
+Talk To Sales
+Trusted by 250K developers and 2,000+ high-growth businesses in 80 countries
+Why teams pick ImageKit
+Zero-friction setup, lightning-fast delivery, and pricing that never punishes growth. See the full breakdown.
+Go live in minutes
+
+Change the base URL (or swap a CNAME), keep your existing storage, and start delivering optimized images and videos instantly. No heavy migrations or code rewrites. Add real-time URL transformations, AI features, or DAM workflows when you're ready.
+
+No billing surprises
+
+Our customers describe our invoices as "predictable, boring, and fair". Fewer billing parameters, unlimited common image transforms, and pay-as-you-go pricing with small overages. Plus usage alerts, self-serve saving plans, and human support for custom pricing.
+
+Zero vendor lock-in
+
+Keep assets in S3, GCS, Azure Blob, or any HTTPS origin; ImageKit simply optimizes and delivers. Even with our DAM, automatic real-time backups mean you’re never stuck.
+
+Built for scale & security
+
+We deliver billions of assets daily, manage petabytes of data, and back it all with ISO 27001, GDPR compliance, and reliable uptime, so you never have to worry.
+
+One API for images and video
+
+Transform, optimize and deliver both images and videos through a single real-time URL-based API.
+
+Connect any popular cloud storage or HTTP server, keep existing paths, and ditch multi-tool pipelines.
+
+ImageKit’s unified API is built for developers who want to ship faster and iterate freely.
+
+External storage
+Quick start guides
+Automatic performance optimization
+
+ImageKit analyzes each incoming request, the viewer's device capabilities, and the original file content in real-time to serve the lightest possible variant in modern formats like AVIF, WebP, MP4, or WebM without any URL changes.
+
+Web performance optimization
+Resize, crop & transform directly from the URL
+
+Apply 50+ real-time transformations, from simple resizing and AI-powered smart crop to text overlays, image overlays and GenAI effects, directly through the asset URL. Deliver perfectly transformed images and videos on your website or app without any additional processing.
+
+Transformations docs
+Superfast on-demand video streaming
+
+Stream optimized videos stored in any cloud storage or the integrated DAM. Load the video URL directly for simple progressive streaming, or add URL parameters to create HLS or DASH adaptive streams that adjust to the viewer’s bandwidth. No custom pipelines, no webhooks, no extra storage. Just a great video delivery experience.
+
+Video Streaming
+AI-powered Digital Asset Management
+
+Fast uploads, AI-powered visual search, auto-tagging, custom metadata, draft and publish workflows, public links, granular permissions, audit logs, and programmable folder-level governance with path policies. Everything your team needs to collaborate at scale.
+
+ImageKit DAM
+Enterprise-grade security & lightning-fast delivery
+
+From media delivery to upload APIs to the integrated DAM, every layer of ImageKit is secure.
+
+ISO 27001 and GDPR-compliant controls, encryption in transit and at rest, automatic multi-region backups, signed URLs, WAF rules, and granular access policies keep your media safe and compliant with data regulations.
+
+700+ CloudFront PoPs and six processing regions keep media load times under 50ms worldwide.
+
+Security and Trust
+Integration in 3 steps
+Don't spend time migrating your media files. ImageKit works with your existing storage. Alternatively, upload your assets in ImageKit's DAM.
+Plan your integration
+1
+
+Set up your account
+
+Link your existing cloud storage, HTTP server, or serve files via web proxy.
+
+Or
+
+Upload files directly to ImageKit via API, dashboard, or Rclone for bulk migration.
+
+2
+
+Switch delivery URLs
+
+Update your base URLs to ImageKit or use a custom CNAME. Start delivering images and videos in optimized formats like AVIF, WebP, MP4, and WebM.
+
+That's it! No code changes needed.
+
+3
+
+Adopt transformations
+
+Resize, crop, remove backgrounds, and add overlays in real-time using URL-based transformations.
+
+Use our SDKs to add transformations to your existing codebase.
+
+Developer-first SDKs & plugins
+
+Built with DevEx at our core—clear APIs, rock-solid SDKs, crystal-clean docs, and dev-to-dev support, so you can ship faster with confidence.
+
+React
+Next.js
+Angular
+Javascript
+Vue.js
+Netlify
+Android
+iOS
+Go
+Node.js
+Python
+PHP
+.NET
+Java
+ROR
+Shopify
+WordPress
+Magento
+
+Optimizing images has never been easier
+
+Images are a crucial part of any good website design. With different device sizes and screen aspect ratios, it can be time-consuming to prepare images in all the necessary dimensions. That's why our customers are always delighted to hear how we've automated this process for them with ImageKit. As a result, it has become one of our agency's standard tools for all web development projects.
+
+Patrik Fluck
+(CEO, Etrex)
+
+Better performance & UX with cost savings
+
+Having access to individual sub-accounts for each business unit has been a game-changer. It allows our teams to try out new ideas quickly and keep track of how our media is performing. If there’s a problem with optimization in any business unit, we can address it promptly.
+
+Farhan Rasheed
+(Engineering Manager, Swiggy)
+Read Case Study
+
+Top-notch visual experiences with enhanced operational efficiency
+
+A beautiful thing ImageKit did was crack the code to deliver a seamless migration. Migrating from the previous third party to ImageKit was merely a day's process. ImageKit helped us migrate without having to move our storage or shut down the old CDN.
+
+Sarang Purandare
+(CTO, SaffronStays)
+Read Case Study
+
+Optimized video delivery and costs with Google storage
+
+ImageKit's seamless integration with our existing cloud storage, robust video delivery, and powerful transformation capabilities made it the ideal solution for Fanfix. With ImageKit, we have full ownership of our videos and complete flexibility to optimize our content delivery.
+
+Amir Hajizadeh
+(Interim CTO / Head of Engineering)
+Read Case Study
+
+Sub-50ms load time for videos and images
+
+ImageKit keeps things snappy for our users. Dynamic sizing, on-the-fly video thumbnails, video streaming, and a rock-solid CDN mean our images and videos show up fast in milliseconds and look good.
+
+Jon Siragusa
+(CTO)
+Read Case Study
+
+Faster load time at 50% lower cost
+
+ImageKit ensured a seamless transition without requiring changes to our storage from AWS S3 or domain name. By enabling faster load times and delivering optimized media at 50% cost savings, ImageKit has become an indispensable part of our tech stack.
+
+Prabhat Sharma
+(AVP Engineering)
+Read Case Study
+
+Optimized bandwidth consumption by 25%
+
+Effortlessly switched from our in-house image resizing solution to ImageKit. It helped make our web pages load faster on different devices and simplified our image workflow. It helped also us reduce our infrastructure costs!
+
+Rupesh Kumar
+(Director of Engineering, BigBasket)
+Read Case Study
+
+30% faster load time, 60% smaller videos
+
+With ImageKit, we have saved more than half the cost we incurred earlier. Further, it allowed us to leverage next-gen image formats, drastically improving our web and app performance across all platforms.
+
+Vaibhav Jain
+(Engineering Manager, BookMyShow)
+Read Case Study
+
+Simplified image optimization
+
+ImageKit allows us to deliver optimized images across web and mobile with minimal effort. We don't have to think much about compressing the images to the right size or delivering it in the right format. And it has made life simpler for our developers.
+
+Sanjay Suri
+(CTO, Nykaa.com)
+Read Case Study
+
+35% reduction in bandwidth usage
+
+Effortlessly switched from our in-house image resizing solution to ImageKit. It helped make our web pages load faster on different devices and simplified our image workflow. It also helped us reduce infrastructure cost!
+
+Bharanidharan Viswanathan
+(CEO, 91mobiles.com)
+Read Case Study
+
+Improved web performance
+
+ImageKit has made real-time image manipulation, optimization and resizing across devices really easy. It’s an out of the box plug & play offering with minimal changes in existing infrastructure. And yes, your images stay where they are!
+
+Suyash Katyayani
+(CTO, Purplle)
+Read Case Study
+
+A must-have for any modern project!
+
+ImageKit has changed the game with fast and reliable video and image delivery! The intelligent transcoding and compression algorithms optimize media delivery across all devices, allowing us to focus on building our products. Exceptional support and seamless integration make it a must-have for any modern project!
+
+Robert Armstrong
+(CEO, Appstem)
+4.6/5
+Take control of your media lifecycle with ImageKit
+Start My Free Plan
+Talk To Us
+Image And Video API
+Image API
+Video API
+Web Performance Optimization
+Overlays and Personalization
+Use with your CDN & Storage
+Video Streaming
+DAM Use Cases
+Centralized DAM
+Cross-Team Collaboration
+Headless DAM
+DAM for Nonprofits
+DAM integrations
+Compare
+ImageKit vs Cloudinary
+ImageKit vs Imgix
+ImageKit vs Sirv
+ImageKit vs ImageEngine
+ImageKit vs Bynder
+ImageKit vs BrandFolder
+View More
+Resources
+Pricing
+Customers
+Blogs
+Documentation
+Become a Partner
+Startup Program
+Format converter tool
+Free media hosting
+Free background remover
+© ImageKit Private Limited 2025
+Terms
+Privacy Policy
+GDPR Policy
+Security and Trust
+About Us
+Contact Us

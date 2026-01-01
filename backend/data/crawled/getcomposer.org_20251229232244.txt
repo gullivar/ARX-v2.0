@@ -1,0 +1,20 @@
+A Dependency Manager for PHP
+
+Latest: 2.9.2 (changelog)
+
+Getting Started Download
+
+Documentation Browse Packages
+
+Issues GitHub
+
+Authors: Nils Adermann, Jordi Boggiano and many community contributions
+
+Sponsored by:
+
+
+Sponsor Composer & Packagist.org
+
+Logo by: Max Grigorian
+
+Composer and all content on this site are released under the MIT license.

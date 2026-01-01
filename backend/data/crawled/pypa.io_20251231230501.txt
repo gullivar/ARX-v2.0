@@ -1,0 +1,13 @@
+Python Packaging Authority — PyPA  documentation Theme Auto Light Dark Navigation index next | PyPA » PyPA  documentation » Python Packaging Authority | Theme Auto Light Dark | Python Packaging Authority ¶ The Python Packaging Authority (PyPA) is a working group that maintains a core
+set of software projects used in Python packaging. The software developed through the PyPA is used to package, share, and install
+Python software and to interact with indexes of downloadable Python software
+such as PyPI , the Python Package Index. Click the logo below to download pip, the most prominent software used to interact with PyPI. The PyPA publishes the Python Packaging User Guide , which is the authoritative resource
+on how to package, publish, and install Python projects using current
+tools . The User Guide provides a user introduction to packaging, and
+explains how to use these tools. In case you need to package Python
+with other languages (for example, in a scientific Python package),
+the user guide also offers basic information about and links to
+available third-party packaging options (for example, conda-forge ). For a listing of PyPA’s important projects, see the key projects
+list . The PyPA hosts projects on GitHub ,
+and discusses issues on the Packaging
+category on discuss.python.org . For a user introduction to packaging, see the Python Packaging User Guide PyPA Goals PyPA Specifications PyPA Roadmap How to Help Presentations & Articles Packaging History PyPA Members, And How To Join Code of Conduct « Navigation index next | PyPA » PyPA  documentation » Python Packaging Authority | Theme Auto Light Dark | © Copyright 2020, PyPA. This page is licensed under the Python Software Foundation License Version 2. Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License. The Python Software Foundation is a non-profit corporation. Please donate. Last updated on Jul 31, 2023. Found a bug ? Created using Sphinx 6.1.3.

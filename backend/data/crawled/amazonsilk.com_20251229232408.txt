@@ -1,0 +1,315 @@
+Skip to
+Main content
+Keyboard shortcuts
+Search
+opt
++
+/
+Cart
+shift
++
+opt
++
+C
+Home
+shift
++
+opt
++
+H
+Orders
+shift
++
+opt
++
+O
+Show/Hide shortcuts
+shift
++
+opt
++
+Z
+To move between items, use your keyboard's up or down arrows.
+Deliver to
+Republic of Korea
+All
+All Departments
+Arts & Crafts
+Automotive
+Baby
+Beauty & Personal Care
+Books
+Boys' Fashion
+Computers
+Deals
+Digital Music
+Electronics
+Girls' Fashion
+Health & Household
+Home & Kitchen
+Industrial & Scientific
+Kindle Store
+Luggage
+Men's Fashion
+Movies & TV
+Music, CDs & Vinyl
+Pet Supplies
+Prime Video
+Software
+Sports & Outdoors
+Tools & Home Improvement
+Toys & Games
+Video Games
+Women's Fashion
+EN
+Hello, sign in
+Account & Lists
+Returns
+& Orders
+0
+Cart
+We're showing you items that ship to South Korea. To see items that ship to a different country, change your delivery address.
+Dismiss
+ 
+Change Address
+All
+Today's Deals
+Prime Video
+Registry
+Gift Cards
+Customer Service
+Sell
+Disability Customer Support
+Help & Customer Service
+
+Find more solutions
+
+Digital Services and Device Support  › 
+Amazon Device and Digital Services Terms, Warranties, and Notices  › 
+Kindle E-Reader and Fire Tablet Terms, Warranties, and Notices  › 
+Amazon Silk FAQs
+
+What is Silk?
+
+Silk is a web browser available on compatible Amazon devices, such as Fire tablets, Fire TV devices, and Echo Show devices, that allows you to quickly and easily access your favorite websites. With Silk, you can get the latest news, check your e-mail, shop at your favorite store, and more.
+
+What personal information does Silk collect and what are my options for managing how that personal information is used?
+
+Silk collects personal information about your use of the app and its features in order to operate, provide, develop, and improve the products and services that Amazon offers our customers. Please review our Privacy Notice, which also governs your use of Silk, to understand our privacy practices. Below are examples of the types of personal information Silk collects, along with a description of some of the ways Amazon uses that information and your options for managing its use.
+
+Silk stores a history of the websites you’ve visited on a particular device, to allow you to easily find the websites you visit most or to search for a particular web page you previously visited. This browsing history is stored locally on your device. You can view, search, and clear some or all of your browsing history from your Hisprtvory tab. You can also enable Private Browsing in the Silk menu. See the FAQ on Private Browsing below for more information.
+Silk sends logs or crash reports to Amazon when Silk encounters an issue to help us troubleshoot the browser and improve its performance. These logs or reports include the URL where Silk ran into an issue or recent browsing history and may contain identifiers such as IP addresses or device ID.
+To support the search experience, Silk sends a truncated URL of the web page where you perform a search (e.g., www.bing.com/search) to Amazon. This truncated URL does not include your search query (e.g., https://www.bing.com/search?q=cats for a search for “cats”) and may be associated with your Amazon account. We collect this truncated URL for troubleshootng and analytics purposes. For example, we may use this information to ensure that search pages load quickly.
+Silk sends browsing data (e.g., URLs visited, timestamps) to Amazon for additional troubleshooting, product improvement, and analytics purposes. For example, we may use this information to ensure that websites load properly, or we may use this data to improve our products and services. Outside of the logs and crash reports collected when Silk runs into an issue and the truncated search URL described above, we do not store URL information associated with your Amazon account. You can control whether this domain data is used for product improvement and analytics purposes within the Silk Privacy settings by visiting Settings > Privacy and security > Data sharing.
+If you enable the optional customized recommendations feature available on some Fire tablets, Silk sends your browsing history to Amazon to help you find content (such as articles or websites) that you might like based in part on your browsing activity, such as the websites you visit and how long you spend on each webpage. We do not store this information associated with your Amazon account. You can control this feature by visiting Settings > Privacy and security > Customized Recommendations.
+If you choose to summarize a web page, Silk will use artificial intelligence to summarize available text. Silk will also collect the URL from the web page you choose to summarize for troubleshooting and product improvement purposes. The web page content, summary, and URL will not be associated with your Amazon account. For publishers that don't want Silk to offer summarization on paywalled articles for non-subscribers, we recommend adding "silk:is-user-entitled" markup for paywalled pages. See our Developer Guidance for more information.
+
+What information is shared with third parties when I use a search engine in Silk’s address bar?
+
+The text you enter in Silk's address bar or search bar is sent to a third-party search engine so that it can provide you with search-related features, such as suggesting relevant search terms or providing results in response to your search query. To personalize these features, the search engine may store a cookie on your device and access this cookie when you use the address bar or visit its websites. Amazon Silk selects the initial search engine to which text in the address bar is sent, and we may change the search engine in the future without notice to you. In the Silk settings, you can change your search engine, enable or disable the personalization of suggested search terms, or clear cookies stored by websites. The search engine’s privacy policy applies to information that it collects.
+
+What is Private Browsing?
+
+When you use Private Browsing, pages you view when using a Private tab will be removed from your Silk browsing history after the tab is closed. Any files you download or bookmarks you create will be kept. As is true for most web browsers, in Private Browsing, your activity might still be visible to your internet service provider or the websites you visit (including websites affiliated with Amazon). To enable Private Browsing, select the “New Private Tab” option in the Silk menu.
+
+What about cookies?
+
+Cookies are a small file that websites may store on your device to keep you signed in, remember your site preferences, or provide you with relevant content. The privacy policy of a third-party website applies to the information that is collected when you visit it. In the Silk Privacy settings, you can clear cookies stored on your device by websites. For information about cookies, pixels, and other technologies on Amazon-affiliated websites, see our Cookies Notice.
+
+Does Silk offer a way to sync or backup my bookmarks in the Amazon cloud?
+
+Yes. On Fire tablets, you can back up your Silk settings, including your bookmarks, to the Amazon cloud by enabling the Backup and Restore feature. For more information, see the Backup and Restore FAQ.
+
+You can also use the Silk Bookmarks extension (plug-in) available for the Google Chrome browser to save a copy of your Chrome bookmarks to your Amazon account, so that they’re available when you use Silk on your Fire tablet. For more information, see our help page.
+
+Was this information helpful?
+
+Yes
+ 
+No
+‹ All Help Topics
+Kindle E-Reader and Fire Tablet Terms, Warranties, and Notices
+Kindle E-Reader and Fire Tablet Terms
+Amazon Silk FAQs
+Amazon Maps Terms of Use
+Additional Notices for Kindle Fire
+Activity Center FAQ
+Unlimited Cloud Storage for Photos on Fire Tablets
+2G and 3G E-Reader Network Support FAQ
+IEEE 1725 Battery Safety Statements
+Declarations of Conformity for Kindle E-Reader Devices and Accessories
+Declarations of Conformity for Fire Tablet Devices and Accessories
+Amazon Maps: Other Terms and Notices
+Location Services FAQ
+Firefly FAQ
+Backup and Restore FAQ
+Navigate to Your Country
+Kindle Device Safety and Compliance Information
+Fire Tablet Safety and Compliance Information
+Kindle Store Terms of Use
+Kindle Unlimited Terms of Use
+comiXology Unlimited Terms of Use
+Content Viewer Terms of Use
+Send to Kindle and Third-Party Services Legal Information
+Kindle Rewards Beta Terms of Use
+Kindle for iPad/iPhone Legal Notices
+Kindle for Android Legal Notices
+Content Viewer Legal Notices
+Kindle for Windows Phone Legal Notices
+Kindle for PC Legal Notices
+Kindle Cloud Reader Legal Notices
+Kindle for Windows 8 Legal Notices
+Kindle for Mac Legal Notices
+Kindle for Blackberry 10 (Kindle for Android) Legal Notices
+Kindle for webOS Legal Notices
+Kindle for Blackberry Legal Notices
+Quick solutions
+	
+
+Devices & Content
+
+Deliver books, apps to your device
+
+	
+
+Digital Purchases
+
+View purchased books & apps
+
+	
+
+Your Subscriptions
+
+Edit payment info
+
+	
+
+1-Click Settings
+
+Change your address
+
+	
+
+Digital & Device Forum
+
+Ask the community
+
+Contact Us
+Back to top
+Get to Know Us
+Careers
+Blog
+About Amazon
+Investor Relations
+Amazon Devices
+Amazon Science
+		
+Make Money with Us
+Sell products on Amazon
+Sell on Amazon Business
+Sell apps on Amazon
+Become an Affiliate
+Advertise Your Products
+Self-Publish with Us
+Host an Amazon Hub
+›See More Make Money with Us
+		
+Amazon Payment Products
+Amazon Business Card
+Shop with Points
+Reload Your Balance
+Amazon Currency Converter
+		
+Let Us Help You
+Amazon and COVID-19
+Your Account
+Your Orders
+Shipping Rates & Policies
+Returns & Replacements
+Manage Your Content and Devices
+Help
+ 
+English  ₩KRW - South Korean Won United States
+Amazon Music
+Stream millions
+of songs
+Amazon Ads
+Reach customers
+wherever they
+spend their time
+6pm
+Score deals
+on fashion brands
+AbeBooks
+Books, art
+& collectibles
+ACX
+Audiobook Publishing
+Made Easy
+Sell on Amazon
+Start a Selling Account
+Veeqo
+Shipping Software
+Inventory Management
+Amazon Business
+Everything For
+Your Business
+AmazonGlobal
+Ship Orders
+Internationally
+Amazon Web Services
+Scalable Cloud
+Computing Services
+Audible
+Listen to Books & Original
+Audio Performances
+Box Office Mojo
+Find Movie
+Box Office Data
+Goodreads
+Book reviews
+& recommendations
+IMDb
+Movies, TV
+& Celebrities
+IMDbPro
+Get Info Entertainment
+Professionals Need
+Kindle Direct Publishing
+Indie Digital & Print Publishing
+Made Easy
+Prime Video Direct
+Video Distribution
+Made Easy
+Shopbop
+Designer
+Fashion Brands
+Woot!
+Deals and
+Shenanigans
+Zappos
+Shoes &
+Clothing
+Ring
+Smart Home
+Security Systems
+ 
+eero WiFi
+Stream 4K Video
+in Every Room
+Blink
+Smart Security
+for Every Home
+Neighbors App
+Real-Time Crime
+& Safety Alerts
+Amazon Subscription Boxes
+Top subscription boxes – right to your door
+PillPack
+Pharmacy Simplified
+ 
+Conditions of Use
+Privacy Notice
+Consumer Health Data Privacy Disclosure
+Your Ads Privacy Choices
+© 1996-2025, Amazon.com, Inc. or its affiliates

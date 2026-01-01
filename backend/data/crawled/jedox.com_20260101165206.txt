@@ -1,0 +1,570 @@
+![logo](https://www.jedox.com/en/)
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/)
+  * [Consent](https://www.jedox.com/en/#)
+  * [Details](https://www.jedox.com/en/#)
+  * [[#IABV2SETTINGS#]](https://www.jedox.com/en/#)
+  * [About](https://www.jedox.com/en/#)
+
+
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+Consent Selection
+**Necessary**
+**Preferences**
+**Statistics**
+**Marketing**
+[Show details](https://www.jedox.com/en/#)
+Details
+  * Necessary  1
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+    * [jedox.com1](https://www.jedox.com/en/#)
+**_vwo_ssm** This cookie determines whether the browser accepts cookies.
+**Maximum Storage Duration** : 10 years**Type** : HTTP Cookie
+  * Preferences  11
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+    * [Personio2](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.personio.de/datenschutzerklaerung/ "Personio's privacy policy")
+**locale** The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**personio_session** Session cookie for the use of the recruitment tool Personio
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+    * [Spotify1](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy")
+**loglevel** Maintains settings and outputs when using the Developer Tools Console on current session.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [YouTube6](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://business.safety.google/privacy/ "YouTube's privacy policy")
+**ytidb::LAST_RESULT_ENTRY_KEY** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**yt-remote-cast-installed** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**yt-remote-device-id** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**yt-remote-fast-check-period** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**yt-remote-session-app** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**yt-remote-session-name** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+    * [www.jedox.com2](https://www.jedox.com/en/#)
+**wpEmojiSettingsSupports** This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings.
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**wp-wpml_current_language** Designates the country code that is calculated based on the user's IP address. Used to determine what language should be used for the visitor.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+  * Statistics  51
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+    * [Cookiebot1](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")
+**CookieConsent** Stores the user's cookie consent state for the current domain
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [Google2](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://business.safety.google/privacy/ "Google's privacy policy")
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+**_ga** Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+**_ga_#** Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. 
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+    * [HubSpot5](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://legal.hubspot.com/privacy-policy "HubSpot's privacy policy")
+**rc::a** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**rc::b** This cookie is used to distinguish between humans and bots. 
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**rc::c** This cookie is used to distinguish between humans and bots. 
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**rc::d-15#** This cookie is used to distinguish between humans and bots. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**rc::f** This cookie is used to distinguish between humans and bots. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [Spotify6](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy")
+**ES|#|EVENT|#** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**ES|#|GLOBAL_SEQ_NUM** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**ES|#|INSTALLATION_ID** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**ES|#|SEQ_NUM|#** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**ES|#|STORAGE_ID** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**sentryReplaySession** Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. 
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+    * [VWO4](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://vwo.com/privacy-policy/ "VWO's privacy policy")
+**_vwo_nlsCache** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**analyze** This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**eu01/s.gif** Pending
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**vwo_apm_sent** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [Vimeo2](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://vimeo.com/privacy "Vimeo's privacy policy")
+**_dd_s** Registers the website's speed and performance. This function can be used in context with statistics and load-balancing.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**vuid** Collects data on the user's visits to the website, such as which pages have been read.
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+    * [YouTube3](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://business.safety.google/privacy/ "YouTube's privacy policy")
+**VISITOR_INFO1_LIVE** Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**YSC** Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**yt-remote-connected-devices** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [ZoomInfo1](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.zoominfo.com/legal/privacy-policy "ZoomInfo's privacy policy")
+**_zitok** Pending
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [capterra1](https://www.jedox.com/en/#)
+**Capterra** Tracks the website visitor’s origin.
+**Maximum Storage Duration** : Persistent**Type** : Pixel Tracker
+    * [info.jedox.com  
+jedox.com  
+vimeo.com  
+www.jedox.com  
+hubapi.com  
+6](https://www.jedox.com/en/#)
+**__cf_bm [x6]** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+    * [info.jedox.com  
+zoominfo.com  
+hsforms.com  
+vimeo.com  
+5](https://www.jedox.com/en/#)
+**_cfuvid [x5]** This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+    * [jedox.com6](https://www.jedox.com/en/#)
+**_vis_opt_s** Used by Visual Website Optimizer to determine if the visitor is participating in a design experiment.
+**Maximum Storage Duration** : 100 days**Type** : HTTP Cookie
+**_vis_opt_test_cookie** Used to check if the user's browser supports cookies.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**_vwo_ds** Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+**Maximum Storage Duration** : 2 months**Type** : HTTP Cookie
+**_vwo_sn** Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**_vwo_uuid** Used by Visual Website Optimizer to ensure that the same user interface variant is displayed for each visit, if the user is participating in a design experiment.
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+**_vwo_uuid_v2** This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [www.datadoghq-browser-agent.com  
+player.vimeo.com  
+2](https://www.jedox.com/en/#)
+**dd_cookie_test_# [x2]** Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. 
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+    * [www.jedox.com5](https://www.jedox.com/en/#)
+**unifiedScriptVerified** Pending
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**ziwsSession** Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**ziwsSessionId** Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+**_vwo_1113944_config** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**vwoSn** This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [www.jedox.com  
+null  
+2](https://www.jedox.com/en/#)
+**_vwo_nls_q_# [x2]** Pending
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+  * Marketing  51
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+    * [ Meta Platforms, Inc.4](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.facebook.com/policy.php/ " Meta Platforms, Inc.'s privacy policy")
+**lastExternalReferrer** Detects how the user reached the website by registering their last URL-address.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**lastExternalReferrerTime** Detects how the user reached the website by registering their last URL-address.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**log/error** Used to detect and log potential tracking errors.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**_fbp** Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+    * [6sc.co1](https://www.jedox.com/en/#)
+**6suuid** Registers user behaviour and navigation on the website, and any interaction with active campaigns. This is used for optimizing advertisement and for efficient retargeting. 
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+    * [Google8](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://business.safety.google/privacy/ "Google's privacy policy")
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+**IDE** Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+**Maximum Storage Duration** : 400 days**Type** : HTTP Cookie
+**test_cookie** Used to check if the user's browser supports cookies.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**_GRECAPTCHA** This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**pagead/1p-conversion/#/** Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. 
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**pagead/1p-user-list/#** Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**_gcl_au** Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. 
+**Maximum Storage Duration** : 3 months**Type** : HTTP Cookie
+**maps/gen_204** Used in context with the website's map integration. The cookie stores user interaction with the map in order to optimize its functionality.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**_gcl_ls** Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+    * [HubSpot5](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://legal.hubspot.com/privacy-policy "HubSpot's privacy policy")
+**__ptq.gif** Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+**__hssc** Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**__hssrc** Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**__hstc** Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**hubspotutk** Keeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+    * [LinkedIn3](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")
+**bcookie** Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+**li_gc** Stores the user's cookie consent state for the current domain
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**lidc** Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+    * [Microsoft7](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://privacy.microsoft.com/en-US/privacystatement "Microsoft's privacy policy")
+**_uetsid** Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**_uetsid_exp** Contains the expiry-date for the cookie with corresponding name. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**_uetvid** Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**_uetvid_exp** Contains the expiry-date for the cookie with corresponding name. 
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**MUID** Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+**_uetsid** Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. 
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**_uetvid** Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. 
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [Spotify2](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy")
+**sp_landing** Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. 
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**sp_t** Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. 
+**Maximum Storage Duration** : 1 year**Type** : HTTP Cookie
+    * [YouTube14](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://business.safety.google/privacy/ "YouTube's privacy policy")
+**__Secure-ROLLOUT_TOKEN** Pending
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**__Secure-YEC** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**__Secure-YNID** Pending
+**Maximum Storage Duration** : 180 days**Type** : HTTP Cookie
+**LAST_RESULT_ENTRY_KEY** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**LogsDatabaseV2:V#||LogsRequestsStore** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+**nextId** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**remote_sid** Necessary for the implementation and functionality of YouTube video-content on the website. 
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**requests** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**ServiceWorkerLogsDatabase#SWHealthLog** Necessary for the implementation and functionality of YouTube video-content on the website. 
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+**TESTCOOKIESENABLED** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**yt.innertube::nextId** Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**yt.innertube::requests** Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**YtIdbMeta#databases** Used to track user’s interaction with embedded content.
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+**yt-remote-cast-available** Stores the user's video player preferences using embedded YouTube video
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+    * [b.6sc.co1](https://www.jedox.com/en/#)
+**v1/beacon/img.gif** Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+**Maximum Storage Duration** : Session**Type** : Pixel Tracker
+    * [j.6sc.co6](https://www.jedox.com/en/#)
+**_6senseCompanyDetails** Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**_6signalTTL** Used in context with Account-Based-Marketing (ABM). The cookie registers data such as IP-addresses, time spent on the website and page requests for the visit. This is used for retargeting of multiple users rooting from the same IP-addresses. ABM usually facilitates B2B marketing purposes.
+**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+**_an_uid** Presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+**Maximum Storage Duration** : 7 days**Type** : HTTP Cookie
+**_gd_session** Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+**_gd_svisitor** Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+**_gd_visitor** Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.
+**Maximum Storage Duration** : 2 years**Type** : HTTP Cookie
+  * Unclassified 9
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+    * [Xing3](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://privacy.xing.com/en/privacy-policy "Xing's privacy policy")
+**xing_csrf_checksum** Pending
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**xing_csrf_token** Pending
+**Maximum Storage Duration** : Session**Type** : HTTP Cookie
+**c_** Pending
+**Maximum Storage Duration** : 1 day**Type** : HTTP Cookie
+    * [ZoomInfo1](https://www.jedox.com/en/#)[Learn more about this provider![](https://www.jedox.com/en/)](https://www.zoominfo.com/legal/privacy-policy "ZoomInfo's privacy policy")
+**ziScriptSession** Pending
+**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+    * [www.jedox.com5](https://www.jedox.com/en/#)
+**bvfjhdbf** Pending
+**Maximum Storage Duration** : 5 days**Type** : HTTP Cookie
+**hs-cta-interactions#cta** Pending
+**Maximum Storage Duration** : Persistent**Type** : IndexedDB
+**ia6t2tkb** Pending
+**Maximum Storage Duration** : 5 days**Type** : HTTP Cookie
+**qfnutduz** Pending
+**Maximum Storage Duration** : 5 days**Type** : HTTP Cookie
+**rjsogkwc** Pending
+**Maximum Storage Duration** : 5 days**Type** : HTTP Cookie
+
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.jedox.com/en/#) [#BULK_CONSENT_TITLE#]
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+Cookie declaration last updated on 25. 12. 12. by [Cookiebot](https://www.cookiebot.com "Cookiebot")
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+About
+  
+  
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.  
+  
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.  
+  
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.  
+  
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.  
+  
+Please state your consent ID and date when you contact us regarding your consent.
+**Do not sell or share my personal information**
+Use necessary cookies only Allow selection Customize Allow all cookies
+[Skip to content](https://www.jedox.com/en/#content)
+[**Jedox is a Leader** ➜ 2025 Gartner® Magic Quadrant™ for Financial Planning Software](https://www.jedox.com/en/resources/analyst-gartner-magic-quadrant-financial-planning-software/)
+  * [Contact](https://www.jedox.com/en/contact/)
+  * [EN](https://www.jedox.com/en/)
+    * [DE](https://www.jedox.com/de/ "Switch to DE\(DE\)")
+    * [FR](https://www.jedox.com/fr/ "Switch to FR\(FR\)")
+
+
+[![Jedox Logo](https://www.jedox.com/wp-content/uploads/2022/08/jedox-logo-white-128x64-1.png)](https://www.jedox.com/en/)
+Toggle Navigation
+  * [Why Jedox?](https://www.jedox.com/en/why-jedox/)
+    *       * [](https://www.jedox.com/en/why-jedox/)
+      * [](https://www.jedox.com/en/customers/)
+      * [](https://www.jedox.com/en/partner/)
+      * [](https://www.jedox.com/en/resources/?_jdx_resources_dropdown=analyst-reports)
+    * **Jedox is a Leader** Jedox is recognized in the Gartner® Magic Quadrant™ as a Leader for the third year in row.   
+[2025 Gartner® Magic Quadrant™ for Financial Planning Software ](https://www.jedox.com/en/resources/analyst-gartner-magic-quadrant-financial-planning-software/)
+  * [Solutions](https://www.jedox.com/en/solutions/)
+    *       * [](https://www.jedox.com/en/financial-planning-analysis/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/management-reporting-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/financial-consolidation-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/profit-and-loss-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/balance-sheet-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/cash-flow-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/revenue-planning-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/opex-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/capex-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/cost-allocation-software/)
+    *       * [](https://www.jedox.com/en/financial-planning-analysis/budgeting-forecasting-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/financial-reporting-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/financial-analysis-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/financial-modeling-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/profitability-analysis-software/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/scenario-planning-software/)
+    *       * [](https://www.jedox.com/en/financial-planning-analysis/integrated-financial-planning/)
+      * [](https://www.jedox.com/en/epm-software/)
+      * [](https://www.jedox.com/en/integrated-business-planning/)
+      * [](https://www.jedox.com/en/financial-planning-analysis/esg-reporting-software/)
+      * [](https://www.jedox.com/en/hr-workforce/)
+      * [](https://www.jedox.com/en/sales-performance-management/)
+      * [](https://www.jedox.com/en/sop/)
+      * [](https://www.jedox.com/en/industry/)
+  * [Platform](https://www.jedox.com/en/platform/)
+    *       * [](https://www.jedox.com/en/platform/user-experience/)
+      * [](https://www.jedox.com/en/platform/excel/)
+      * [](https://www.jedox.com/en/platform/integration/)
+      * [](https://www.jedox.com/en/platform/modeling/)
+      * [](https://www.jedox.com/en/platform/ai/)
+      * [](https://www.jedox.com/en/platform/pricing/)
+      * [](https://marketplace.jedox.com/)
+    * **Platform Updates** We regularly report on the latest features and versions of Jedox, so you never miss a thing.   
+[Show Product Updates](https://www.jedox.com/en/blog/cat/product-updates/)
+  * [Services](https://www.jedox.com/en/services/)
+    *       * [](https://www.jedox.com/en/services/education/)
+      * [](https://www.jedox.com/en/services/implementation/)
+      * [](https://www.jedox.com/en/services/support/)
+      * [](https://www.jedox.com/en/partner/)
+      * [](https://www.jedox.com/en/trust/)
+    * **What's New?** Jedox Major Upgrade Release: Digital business partnering begins with JedoxAI   
+[Learn more](https://www.jedox.com/en/services/whats-new/)
+  * [Resources](https://www.jedox.com/en/resources-hub/)
+    *       * [](https://www.jedox.com/en/resources/)
+      * [](https://www.jedox.com/en/action/)
+      * [](https://www.jedox.com/en/resources/?_jdx_resources_dropdown=analyst-reports)
+      * [](https://www.jedox.com/en/resources/?_jdx_resources_dropdown=white-papers-ebooks)
+      * [](https://www.jedox.com/en/resources/?_jdx_resources_dropdown=on-demand-webinars)
+      * [](https://www.jedox.com/en/resources/?_jdx_resources_dropdown=podcasts)
+    *       * [](https://www.jedox.com/en/customers/)
+      * [](https://www.jedox.com/en/events/)
+      * [](https://www.jedox.com/en/blog/)
+      * [](https://www.jedox.com/en/services/training-videos/)
+      * [](https://knowledgebase.jedox.com/)
+      * [](https://www.jedox.com/en/newsletter/)
+  * [About us](https://www.jedox.com/en/about/)
+
+
+[ DemoDemo ](https://www.jedox.com/en/demo/)
+[ Get your demoGet your demo ](https://www.jedox.com/en/demo/)
+[ Get your demoGet your demo ](https://www.jedox.com/en/#)
+# Planning with confidence. AI with purpose.
+Make planning, budgeting, and forecasting more efficient and effective. Achieve effortless analysis and reporting with the world’s most adaptable planning and performance management platform.
+[ Explore JedoxAIExplore JedoxAI ](https://www.jedox.com/en/platform/ai/)
+[ Talk to an expert Talk to an expert  ](https://www.jedox.com/en/#)
+![jedox ai page static header without dashboard](https://www.jedox.com/wp-content/uploads/2025/09/jedox-ai-page-static-header-without-dashboard.png)
+![logo smart inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-smart-inverted.png)
+![logo henkell inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-henkell-inverted.png)
+![logo telekom inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-telekom-inverted.png)
+Join +2,900 companies using the Jedox platform
+![logo tonys inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-tonys-inverted.png)
+![logo ag reliant inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-ag-reliant-inverted.png)
+![logo transilien inverted](https://www.jedox.com/wp-content/uploads/2025/08/logo-transilien-inverted.png)
+## Global Finance teams outperform expectations with Jedox
+We call this ![What is Superplännen?](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27128%27%20height%3D%270%27%20viewBox%3D%270%200%20128%200%27%3E%3Crect%20width%3D%27128%27%20height%3D%270%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)
+  * Hyperautomate FP&A processes to reduce manual efforts
+  * Understand drivers and ask “what if?” with an JedoxAI’s digital twin
+  * Align stakeholders around a single source of truth
+  * Drive change management though Finance-led digitalization of the business
+
+
+## JedoxAI understands Finance, so you make better decisions, faster
+JedoxAI is a multi-agent intelligence engine that helps your teams turn data into direction—delivering explainable forecasts, real-time insights, and continuously refined strategies.
+By leveraging Agentic AI, machine learning, and GenAI—large language models (LLMs) and natural language processing (NLP)—JedoxAI understands context and detects patterns. Built to mirror how your business actually works, it transforms complexity into confident planning and performance management, so your team can act quickly and lead with precision.
+  * Understanding business patterns
+  * Explainable forecasting
+  * Comprehensive data integration
+  * Mapping data complexity
+
+
+[ Explore JedoxAIExplore JedoxAI ](https://www.jedox.com/en/platform/ai/)
+[](https://www.jedox.com/en/financial-planning-analysis/)
+![jedox homepage fpa thumbnail](https://www.jedox.com/wp-content/uploads/2025/09/jedox-homepage-fpa-thumbnail.jpg)
+#### Financial planning and analysis
+Turn numbers into trusted JedoxAI-supported insights that guide the business forward.
+[](https://www.jedox.com/en/integrated-business-planning/)
+![jedox homepage ibp thumbnail](https://www.jedox.com/wp-content/uploads/2025/09/jedox-homepage-ibp-thumbnail.jpg)
+#### Integrated business planning
+Increase collaboration and a shared understanding of the business by connecting financial and operational KPIs.
+[](https://www.jedox.com/en/financial-planning-analysis/esg-reporting-software/)
+![jedox homepage esg thumbnail](https://www.jedox.com/wp-content/uploads/2025/09/jedox-homepage-esg-thumbnail.jpg)
+#### ESG reporting
+Achieve non-financial reporting requirements and create a single source of truth.
+[](https://www.jedox.com/en/financial-planning-analysis/financial-consolidation-software/)
+![jedox homepage fincon thumbnail](https://www.jedox.com/wp-content/uploads/2025/09/jedox-homepage-fincon-thumbnail.jpg)
+#### Financial consolidation
+Automate and streamline financial consolidation for a unified, audit-proof view of performance.
+Why Jedox solutions are unique
+## Adaptable FP&A and performance management software
+Simple
+### Operate autonomously with JedoxAI and no-code capabilities
+Involve everyone in the business in value creation through easy-to-understand FP&A solutions.
+  * Speed adoption through Excel-like interface and [Add-in for Excel 365](https://www.jedox.com/en/platform/excel-experience/)
+  * Get explainable forecasts, real-time insights, and continuously refined strategies with [JedoxAI](https://www.jedox.com/en/platform/ai/)
+  * Empower stakeholders with drag-and-drop [dashboards and ad-hoc reporting](https://www.jedox.com/en/financial-planning-analysis/management-reporting-software/)
+  * Create models and business logic rules with self-service templates and Wizards/Agents
+  * Deploy quickly with Jedox Solutions
+
+
+[![homepage excel dashboard](https://www.jedox.com/wp-content/uploads/2025/09/homepage-excel-dashboard.png)](https://www.jedox.com/wp-content/uploads/2025/09/homepage-excel-dashboard.png "homepage-excel-dashboard")
+[![homepage sales dashboard](https://www.jedox.com/wp-content/uploads/2025/09/homepage-sales-dashboard.png)](https://www.jedox.com/wp-content/uploads/2025/09/homepage-sales-dashboard.png "homepage-sales-dashboard")
+Integrated
+### Control and harmonize financial and operational drivers
+Integrate data from any source, across all business systems, to create a single source of truth for management reporting, planning, budgeting, and forecasting.
+  * Extract value from all enterprise applications: ERP, HCM, CRM, data lakes
+  * Create a common understanding by all business stakeholders
+  * Connect strategic, financial, and operational plans to create a digital twin of the business
+
+
+Adaptable
+### Plan real-time in ever-changing markets
+Build any model or scenario, run unlimited simulations, and outpace the competition.
+  * Make confident decisions with transparent, explainable JedoxAI support
+  * Create any set of business logic rules
+  * Model any driver and attribute
+  * Perform ad-hoc analysis in seconds with drag-and-drop reporting and natural language processing (NLP)-based analysis
+
+
+[![homepage ai dashboard](https://www.jedox.com/wp-content/uploads/2025/09/homepage-ai-dashboard.png)](https://www.jedox.com/wp-content/uploads/2025/09/homepage-ai-dashboard.png "homepage-ai-dashboard")
+What it’s like to work with Jedox
+## Leverage Jedox expertise and partner network to start your digital transformation today
+2,900+ organizations around the world exceed expectations. Achieve the exhilarating feeling when your organization plans, budgets, forecasts, and analyzes performance the way you envisioned. When you plan for the future and achieve your goals. We call it Superplännen.
+[](https://www.jedox.com/en/customers/henkell-freixenet/)
+![logo henkell](https://www.jedox.com/wp-content/uploads/2023/06/logo-henkell-600x400px.png)
+Henkell Freixenet reduces work hours by 80% annually
+[](https://www.jedox.com/en/customers/mercedes-benz/)
+![logo mercedes](https://www.jedox.com/wp-content/uploads/2023/10/logo-mercedes-600x400px.png)
+From 1,000+ spreadsheets to a unified platform
+[](https://www.jedox.com/en/customers/ez-link/)
+![logo ez link](https://www.jedox.com/wp-content/uploads/2022/11/logo-ez-link-600x400px.png)
+EZ-Link completes forecasting process 6x faster
+[](https://www.jedox.com/en/customers/shelf-drilling/)
+![logo shelf drilling](https://www.jedox.com/wp-content/uploads/2022/09/logo-shelf-drilling.png)
+Reduced time spent in data transfer and consolidation by 98%
+[](https://www.jedox.com/en/customers/mantrac-group/)
+![mantrac logo](https://www.jedox.com/wp-content/uploads/2023/05/mantrac-logo.png)
+Mantrac reduces time spent on repetitive data integration tasks by 75%
+[](https://www.jedox.com/en/customers/synlait/)
+![logo synlait](https://www.jedox.com/wp-content/uploads/2023/12/logo-synlait-600x400px.png)
+$500,000 in savings from integration
+[](https://www.jedox.com/en/customers/finnish-red-cross/)
+![logo finnish red cross](https://www.jedox.com/wp-content/uploads/2022/11/logo-finnish-red-cross-600x400px.png)
+Finnish Red Cross reduces budgeting and planning process by 50%
+[](https://www.jedox.com/en/customers/mitsui-chemicals/)
+![customer success story logo mitsui 600x400 1](https://www.jedox.com/wp-content/uploads/2023/01/customer-success-story-logo-mitsui-600x400-1.png)
+Increased forecast accuracy with AI-enhanced predictive analytics
+[](https://www.jedox.com/en/customers/agreliant-genetics/)
+![logo ag reliant 600x400px 1](https://www.jedox.com/wp-content/uploads/2024/04/logo-ag-reliant-600x400px-1.png)
+Integrated business planning approach increased scenario planning frequency 3x within months
+[ All Success StoriesAll Success Stories ](https://www.jedox.com/en/customers/)
+![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27200%27%20height%3D%27200%27%20viewBox%3D%270%200%20200%20200%27%3E%3Crect%20width%3D%27200%27%20height%3D%27200%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E)
+Request your live demo with a Jedox expert today
+[ Get your demoGet your demo ](https://www.jedox.com/en/#)
+Use cases
+  * [FP&A Software](https://www.jedox.com/en/financial-planning-analysis/)
+  * [Budgeting & Forecasting Software](https://www.jedox.com/en/financial-planning-analysis/budgeting-forecasting-software/)
+  * [Management Reporting Software](https://www.jedox.com/en/financial-planning-analysis/management-reporting-software/)
+  * [Financial Reporting Software](https://www.jedox.com/en/financial-planning-analysis/financial-reporting-software/)
+  * [Financial Analysis Software](https://www.jedox.com/en/financial-planning-analysis/financial-analysis-software/)
+  * [Financial Modeling Software](https://www.jedox.com/en/financial-planning-analysis/financial-modeling-software/)
+  * [Scenario Planning Software](https://www.jedox.com/en/financial-planning-analysis/scenario-planning-software/)
+  * [EPM Software](https://www.jedox.com/en/epm-software/)
+  * [Integrated Business Planning Software](https://www.jedox.com/en/integrated-business-planning/)
+
+
+About Us
+  * [Company](https://www.jedox.com/en/about/company/)
+  * [Careers](https://www.jedox.com/en/about/careers/)
+  * [Contact](https://www.jedox.com/en/contact/)
+  * [Locations](https://www.jedox.com/en/about/locations/)
+  * [Newsroom](https://www.jedox.com/en/about/newsroom/)
+  * [Become a Partner](https://www.jedox.com/en/about/become-a-partner/)
+
+
+New to Jedox?
+  * [Why Jedox?](https://www.jedox.com/en/why-jedox/)
+  * [What is FP&A? The strategic powerhouse of modern Finance](https://www.jedox.com/en/blog/what-is-fpa/)
+  * [Best FP&A software](https://www.jedox.com/en/blog/best-fpa-software/)
+  * [What is Superplännen?](https://www.jedox.com/en/what-is-superplannen/)
+  * [Whats new? – Major upgrade release](https://www.jedox.com/en/services/whats-new/)
+
+
+Logins
+  * [Jedox Customer Portal](https://my.jedox.com/)
+  * [Partner Portal](https://partners.jedox.com/)
+
+
+  * [© Copyright 2025 Jedox](https://www.jedox.com/en/)
+  * [Trust](https://www.jedox.com/en/trust/)
+  * [Legal](https://www.jedox.com/en/legal/)
+
+
+[](https://www.facebook.com/Jedox.Software/)[](https://www.linkedin.com/company/jedox/)[](https://www.xing.com/pages/jedox)[](https://www.youtube.com/c/JedoxSoftware/)
+[Page load link](https://www.jedox.com/en/#)
+  * [ EN](https://www.jedox.com/en/)
+  * [ DE](https://www.jedox.com/de/ "Switch to DE")
+  * [ FR](https://www.jedox.com/fr/ "Switch to FR")
+
+
+[ Go to Top ](https://www.jedox.com/en/#) ![Cookiebot session tracker icon loaded](https://imgsct.cookiebot.com/1.gif?dgi=10681f18-fe25-4b66-8cdc-3691e0609796)
+×

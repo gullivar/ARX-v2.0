@@ -1,0 +1,6 @@
+Whitelabel Error Page
+
+This application has no explicit mapping for /error, so you are seeing this as a fallback.
+
+Wed Dec 31 20:59:41 KST 2025
+There was an unexpected error (type=Not Found, status=404).

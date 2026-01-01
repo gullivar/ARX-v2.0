@@ -1,0 +1,187 @@
+HOME
+PRODUCTS
+SOLUTIONS
+RESOURCES
+PRICING
+PARTNERS
+TOOLS
+ABOUT
+LOGIN
+REGISTER
+Client-Side Security and Observability
+
+Gain full visibility into browser-side risks, allowing you to
+detect and stop data breaches before they happen.
+
+30-Day Free Trial
+What We Do
+
+We help you deploy and monitor cutting-edge browser security controls quickly. Here are some of our most popular products and services.
+
+Magecart Protection
+
+Reliable detection and even mitigation for the most advanced attacks.
+
+Magecart Protection
+Script Watch
+
+Real-time monitoring for all JavaScript dependencies on your websites.
+
+Script Watch
+PCI DSS Compliance
+
+Meet your obligations under PCI DSS 4.0 with our dedicated product suite.
+
+PCI DSS Compliance
+Threat Intelligence
+
+We detect 'Indicators of Compromise' to know if your site is breached.
+
+Threat Intelligence
+We're Trusted By
+
+Some of the most recognisable brands
+
+Getting Started
+
+It's easy to get started with Report URI, just follow three, simple steps.
+
+Deploy
+
+There's just a single line of code or config to enable protection on your site, with no libraries, code or agents to deploy.
+
+Collect
+
+Telemetry is automatically sent to us about any issues detected by any browser visiting your website in real-time.
+
+Respond
+
+You will be notified of important issues that we detect, and you can analyse your telemetry data for debugging and resolution steps.
+
+Some Facts About Us
+42,000+
+Domains Monitored
+2.25T+
+Reports Processed
+1K+
+Alexa Top 1M Sites
+Enterprise Accounts
+
+We can tailor a plan to your needs, just reach out to enterprise@report-uri.com. Here are some of the features we can offer to our Enterprise customers.
+
+ Invoicing with Payment Terms
+Procurement and Onboarding Activities
+Dedicated Server Instance
+Geographic Hosting and Processing
+Custom Number of Events
+Custom Number of Sites Protected
+  Strict Support SLA
+ Legal Agreements and Redlines
+Flexible Data Retention
+
+If you'd like expert support to guide you through a Proof of Concept, all the way to a successful deployment, reach out to us to get started today. If you have the necessary expertise in-house, please see our range of self-service plans below.
+
+Pricing
+
+We keep our pricing simple, there are no complex licenses here.
+Prices may be subject to tax.
+
+
+Monthly
+Yearly
+STARTER
+$
+54.99
+/mo
+
+For individuals or small project sites.
+
+1 Domain Protected
+15-Day Retention
+100,000 Events
+30-Day Free Trial
+PROFESSIONAL
+$
+109.99
+/mo
+
+For small teams protecting multiple domains.
+
+2 Domains Protected
+30-Day Retention
+250,000 Events
+Team Access
+30-Day Free Trial
+Value
+BUSINESS
+$
+164.99
+/mo
+
+Ideal for compliance-driven organisations.
+
+3 Domains Protected
+60-Day Retention
+750,000 Events
+Team Access
+PCI DSS Compliance
+Email Support
+30-Day Free Trial
+Best
+ULTIMATE
+$
+274.99
+/mo
+
+Complete protection and threat visibility.
+
+5 Domains Protected
+90-Day Retention
+2,000,000 Events
+Team Access
+PCI DSS Compliance
+Email Support
+Threat Intelligence
+30-Day Free Trial
+About Us
+
+Report URI was founded to help protect you against data breaches and hacks, allowing you to detect and prevent some of the most dangerous attacks online.
+
+Our platform is constantly evolving to help you, our customers, better protect your customers.
+
+Social Media
+
+Follow us on social media for the latest content and updates!
+
+ 
+ 
+Useful Links
+Terms of Service
+Privacy Policy
+Data Protection Information
+Data Protection Analysis
+Penetration Test Report
+PCI DSS SAQ A AoC
+
+Report-URI Ltd. is a private limited company registered in England and Wales.
+
+Company Number: 10943557
+VAT Number: GB277368458
+LEI Number: 8945008FMFZ72WP08M32
+
+
+Contact Us
+
+Email info@report-uri.com
+Twitter @reporturi
+Facebook @reporturi
+
+
+
+Webinars
+
+The recording of our latest webinar, on the topic of Understanding the new PCI DSS v4.0.1 Requirements, focuses on the changes in the latest version of PCI DSS and is now available!
+
+You can view all of our webinars on our Webinars page for more information on various topics.
+
+© 2025 Report URI Ltd.

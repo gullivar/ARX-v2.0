@@ -1,0 +1,307 @@
+ 
+Press Room  |  Get Java Here  | 
+ 
+
+
+
+JSRs by Platform
+JSRs by Technology
+JSRs by Stage
+JSRs by Committee
+List of All JSRs
+Register for Site
+Use of JCP site is subject to the JCP Terms of Use and the Oracle Privacy Policy
+About JCP
+Program Overview
+JCP Process Document
+Calendar
+JCP Members
+Executive Committee
+Elections
+Get Involved
+Overview
+Becoming a JCP Member
+Java in Education
+Community Resources
+Overview
+Tutorials
+JCP Podcasts
+Spec Lead Guide
+TCK Tool & Info
+License Reference
+Community News
+News
+Programs & Awards
+Press Releases
+Success Stories
+FAQ
+Contact Us
+
+
+
+ 
+ 
+ 
+ 
+
+		
+Welcome to the Java Community Process!
+Welcome to jcp.org, home of the Java Community ProcessSM (JCPSM) Program. The JCP is the mechanism for developing standard technical specifications for Java technology. Anyone can register for the site and participate in reviewing and providing feedback for the Java Specification Requests (JSRs), and anyone can sign up to become a JCP Member and then participate on the Expert Group of a JSR or even submit their own JSR Proposals.
+ 
+To get the most out of the site, register now.
+
+For more information about the JCP Program, refer to our overview page.
+
+       
+
+
+
+Season's Greetings
+
+
+The JCP Program Management Office will be closed from December 25 through January 4.
+
+
+December 2025 Newsletter is Released!
+Take a look at the December 2025 edition of the JCP Newsletter. In this newsletter, we are bringing you a recap of activities that's been going on in the JCP Program Management Office during the second half of 2025.
+
+
+JCP Advent Calendar 2025
+
+At the end of the year, the JCP Program Management Office reviews the past year's highlights with daily posts starting on December 1st. You can read these by viewing the #JCPAdventCalendar2025 tag on x.com.
+
+
+
+December Public EC Meeting Agenda Published
+
+The most recent public JCP EC meeting was held on December 9 at 8 AM PST. The agenda is available for review.
+
+
+
+2025 JCP Award Nominations are Open
+
+Let's recognize the outstanding commitment of our JCP community!
+
+JCP Awards nominations are now open. Nominate someone who has made a difference this year!
+
+
+
+2025 JCP EC Elections Results Published!
+
+The results of the 2025 JCP EC elections have been published!
+
+Congratulations to the newly elected and re-elected members, and thank you to all candidates for participating in this year's election.
+
+
+
+June Public EC Meeting Materials Now Available
+The most recent public JCP Executive Committee meeting was held on Tuesday, 10 June.
+
+The agenda, materials, and recording from the meeting are now available.
+
+
+
+JCP Award Winners are Announced!
+The 2024 JCP Award winners were announced at the JCP Social Event in March 2025. Congratulations to Alan Bateman and JavaDominicano!
+
+
+JCP Social Event at JavaOne 2025
+Thank you to those of you who were able to join us at the JCP Social Event at JavaOne on 18 March. It is the people that make the Java community such an amazing place.
+
+We've posted pictures from the celebratory event.
+
+
+
+25 Years of the JCP Program Celebration
+Thank you everyone for joining us in celebrating the JCP 25-year anniversary!
+
+Take a look at the Twenty-five years of the Java Community Process article for the recap of our anniversary.
+
+Enjoy the Celebrating 25 years of the JCP with JUGs around the world video. Thank you to all the JUGs that participated in this amazing milestone!
+
+
+
+JCP Working Groups
+The JCP Executive Committee forms working groups to address needs of the Java community. Currently, there are three such working groups: Java in Education, Java Ecosystem, and Java and AI.
+Java in Education is an initiative to promote Java in the local educational institutions.
+
+See the message from Heather VanCura, VP and Chairperson of the JCP Program.
+
+The goal of the Java Ecosystem JCP Working Group is to educate and increase awareness around Java ecosystem third-party tools and libraries to increase the adoption of modern release processes by third-party tool and library maintainers.
+
+The purpose of the Java and AI Working Group is to promote, support, and accelerate development of the Java platform for Artificial Intelligence.
+
+
+JSR Updates
+New JSRs
+JSR 401, Java SE 26
+JSR 402, Java SE 27
+
+
+Public Reviews
+
+
+Final Releases
+JSR 378, Portlet 3.0 Bridge for JavaServer Faces 2.2
+JSR 381, Visual Recognition Specification
+JSR 393, Java SE 18
+JSR 394, Java SE 19
+JSR 395, Java SE 20
+JSR 396, Java SE 21
+JSR 397, Java SE 22
+JSR 398, Java SE 23
+JSR 399, Java SE 24
+JSR 400, Java SE 25
+
+
+		Maintenance Reviews
+
+
+Maintenance Releases
+JSR 384, Java SE 11
+JSR 385, Units of Measurement API
+JSR 387, Streamline the JCP Program
+JSR 392, Java SE 17
+JSR 907, Java Transaction API
+JSR 199, Java Compiler API
+JSR 221, JDBC 4 API Specification
+JSR 269, Pluggable Annotation Processing API
+ 
+
+
+
+JCP.Next Progress Update
+JSR 387, Streamline the JCP Program, has posted a Maintenance Release (2019).
+JSR 364, Broadening JCP Membership, has posted a Maintenance Release (2017).
+JSR 355, JCP Executive Committee Merge, completed its work and went final in 2012.
+JSR 348, Towards a new version of the JCP, posed a Final Release in 2011.
+
+
+
+JUGs or Individuals, Complete the Transparency Checks or Audits on JSRs
+
+There is a transparency sub-project introduced as part of the Adopt-a-JSR program. We need JUGs or individuals to do transparency checks or audits on JSRs.
+
+
+
+Materials for Spec Leads
+Following the upgrade to the JCP 2.8 Program, the Program Office has made available the following materials for Spec Leads on the Multimedia page of jcp.org:
+Adopt-a-JSR for Spec Leads (February 2013 call)
+JCP 2.9 and Transparency (November 2012 call)
+Meet the Candidates (October 2012 call)
+Expert Group Nominations (June 2012 call)
+Leveraging the JCP Community (February 2012 call)
+Transparency (December 2011 call)
+JCP 2.8 Overview (October 2011 call)
+
+
+
+JUG Members Learn the Benefits of Active JCP Participation
+The Java Community Process (JCP) program has seen a dramatic rise in worldwide participation. Read more here...
+
+
+
+
+
+
+	
+
+Spec Lead Guide
+JCP 2
+EC meeting summaries
+Calendar
+Multimedia page
+Submit a new JSR
+JCP Community Github
+
+JSR 402 Java SE 27 iteration begins
+ 
+JSR 221 JDBC 4 API Specification Maintenance Review 5
+ 
+JSR 400 Java SE 25 Final Release
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Release 11
+ 
+JSR 400 Java SE 25 Public Review
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Review 19
+ 
+JSR 401 Java SE 26 iteration begins
+ 
+JSR 399 Java SE 24 Final Release
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Release 10
+ 
+JSR 221 JDBC API Specification 4.4 Maintenance Release 4
+ 
+JSR 199 Java Compiler API Maintenance Release 5
+ 
+JSR 399 Java SE 24 Public Review
+ 
+JSR 199 Java Compiler API Maintenance Review 8
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Review 18
+ 
+JSR 221 JDBC 4 Maintenance Review 4
+ 
+JSR 400 Java SE 25 iteration begins
+ 
+JSR 398 Java SE 23 Final Release
+ 
+JSR 199 Java Compiler API Maintenance Release 4
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Release 9
+ 
+JSR 398 Java SE 23 Public Review
+ 
+JSR 199 Java Compiler API Maintenance Review 7
+ 
+JSR 282 Real-Time Specification for Java 2.0 Final Release
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Review 17
+ 
+JSR 392 Java SE 17 Maintenance Release
+ 
+JSR 384 Java SE 11 Maintenance Release 3
+ 
+JSR 337 Java SE 8 Release Contents Maintenance Release 6
+ 
+JSR 399 Java SE 24 iteration begins
+ 
+JSR 392 Java SE 17 Maintenance Review
+ 
+JSR 384 Java SE 11 Maintenance Review 3
+ 
+JSR 337 Java SE 8 Release Contents Maintenance Review 6
+ 
+JSR 269 Pluggable Annotation Processing Maintenance Release
+ 
+JSR 397 Java SE 22 Final Release
+ 
+JSR 385 Units of Measurement API 2 Maintenance Release 2
+ 
+JSR 398 Java SE 23 iteration begins
+ 
+JSR 396 Java SE 21 Final Release
+ 
+JSR 269 Pluggable Annotation Processing API Maintenance Release 7
+ 
+JSR 384 Java SE 11 Maintenance Release 2
+ 
+JSR 337 Java SE 8 Maintenance Release 5
+ 
+JSR 384 Java SE 11 Maintenance Review 2
+ 
+JSR 337 Java SE 8 Maintenance Review 5
+ 
+JSR 378 Portlet 3.0 Bridge for JavaServer Faces 2.2 Final Release
+ 
+JSR 243 Java Data Objects Maintenance Release 4
+ 
+JSR 381 Visual Recognition Specification Final Release
+ 
+JSR 392 Java SE 17 Final Release
+ 
+
+Contact Us
+© 2025, Oracle Corporation and/or its affiliates. Terms of Use. Privacy Policy. Trademarks

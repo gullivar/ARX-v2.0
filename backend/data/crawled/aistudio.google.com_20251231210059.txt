@@ -1,0 +1,80 @@
+Google AI Studio uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Pricing
+Explore documentation
+Case studies
+login
+Get started
+New
+Gemini 3 Pro Preview
+Our most intelligent model to date.
+The fastest path from prompt to production with Gemini
+Chat with models
+Vibe code apps
+Discover
+Explore all of Google’s AI models in one place
+Access a unified AI playground to test your prompts across all our modalities. Experiment with text, image, audio, and video models in one place to find the perfect fit for your project.
+design_services
+Build
+Go from idea to app with the power of Gemini
+The fastest way to build AI-first applications. Use natural language to generate fully functional apps with built-in features like Nano Banana or Google Search integration, then deploy with a single click.
+monitoring
+Operate
+Stay on top of your resource usage
+Manage API keys and projects in one space. Track your usage, billing, and rate limits from one centralized dashboard, and view detailed logs to get the most out of your projects.
+docs
+Learn
+Build directly with the SDK
+From quickstart guides to deep-dive API references, access all the documentation and code samples you need to ship your features.
+Start building with the API today
+Developer quickstart
+Set up your environment and make your first API request in minutes
+timer
+4 min
+key
+Get API key
+Python
+Node.js
+REST
+1 2 3 4 5 6 7 8 9
+from google import genai
+
+client = genai.Client()
+
+response = client.models.generate_content(
+    model="gemini-3-pro-preview",
+    contents="Explain how AI works in a few words"
+)
+print(response.text)
+Explore our models
+Gemini
+Our state of the art models, excellent at coding, reasoning, creative writing, and multimodal capabilities.
+Imagen
+Our best image generation model yet, engineered for creativity. Bring your imagination to life faster than ever before.
+Veo
+Our latest video generation model, designed to empower filmmakers and storytellers.
+Gemini TTS
+Transform text input into single speaker or multi-speaker audio using native, controllable text-to-speech.
+Gemini Native Audio
+Hyper realistic audio generation, supporting a wide variety of voices.
+Gemma
+Lightweight, state-of-the-art open models built from the same technology that powers our Gemini models.
+Start exploring and building with Google’s latest AI models
+login
+Sign up and get started
+Terms
+Privacy
+AI Studio
+Gemini App
+Documentation
+Pricing
+Vibe Code
+Gemini API Key
+Gemini
+Gemini 3 Pro Preview
+Gemini 3 Pro Image Preview
+Imagen
+Veo 3
+Gemini 2.5 Flash Image

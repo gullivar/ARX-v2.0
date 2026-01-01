@@ -1,0 +1,33 @@
+ 	
+HOME
+SOFTWARE
+PREFIXES
+PAYMENT
+DOCUMENTATION
+SUPPORT
+
+HDL.NET® Information Services
+
+Welcome to the web site of the Handle.Net Registry (HNR), run by Corporation for National Research Initiatives (CNRI). CNRI is a Multi-Primary Administrator (MPA) of the Global Handle Registry (GHR), authorized by the DONA Foundation to allot prefixes to users of the Handle System. The DONA Foundation is a non-profit organization based in Geneva that has taken over responsibility for the evolution of CNRI's Digital Object (DO) Architecture including outreach around the world. One of the Foundation's responsibilities is to administer and maintain the overall operation of the GHR, a task that was previously performed by CNRI.
+
+The Handle.Net Registry will allot prefixes of the form "20.500" followed by four or more digits (i.e., 20.500.1234). Users who are allotted a prefix from the HNR will have their associated prefix handle records registered with the HNR to enable HDL.NET resolution services for their identifiers. Please click here to request CNRI to allot a prefix or renew a previously allotted prefix.
+
+A new version of the Handle.Net software, refered to as HN_v9, is now available for download. Version 9 includes many improvements, features and tools that were unavailable in previous versions of the software, as described in the Release Notes. Of particular note is a significant improvement in performance when Java 9 or later is used to run the software. Older versions of the HN software will continue to work, but users relying on those versions are encouraged to upgrade to HN_v9 to take advantage of the latest set of improvements.
+
+Existing prefix holders whose current agreements are about to expire may renew their agreements and maintain their current prefixes.
+
+CNRI has conducted tests to measure the performance of the Handle.Net server software. CNRI also made available the testing software. The software can be downloaded here.
+
+The testing methodology, results, and testing software details are discussed here.
+
+Contact the HNR Administrator: hdladmin@cnri.reston.va.us
+
+Corporation for National Research Initiatives • 1895 Preston White Drive • Reston, Virginia • 20191 • 703.620.8990 • June 4, 2025
+
+HANDLE.NET, HDL.NET and HDL are trademarks owned by CNRI. Handle System, Global Handle Registry and GHR are trademarks owned by the DONA Foundation.
+
+Copyright© Corporation for National Research Initiatives 2025; All Rights Reserved. • Privacy Policy
+
+Get the		Logo
+
+ 

@@ -1,0 +1,290 @@
+AI
+Developer Tools
+Team Tools
+Education
+Solutions
+Support
+Store
+Junie
+Your smart coding agent
+
+Make coding productive and enjoyable with an AI agent: explain your task, let Junie collect the context, write code and run tests for you.
+
+Try now for free
+See plans and pricing
+For developers
+For teams
+For businesses
+For {developers}
+
+Enjoy building software
+
+A rich suite of tools that provide an exceptional developer experience
+IntelliJ IDEA
+
+IDE for Java and Kotlin
+
+PyCharm
+
+IDE for Python
+
+Free for non-commercial use
+DataGrip
+
+Tool for multiple databases
+
+Free for non-commercial use
+WebStorm
+
+IDE for JavaScript
+
+Free for non-commercial use
+Rider
+
+IDE for .NET and game dev
+
+Free for non-commercial use
+CLion
+
+IDE for C and C++ developers
+
+Explore JetBrains IDEs and code authoring tools
+Trusted by more than 15M developers
+Ready for actual use right out of the box
+
+Mission-critical tools and a wide variety of supported languages and frameworks are at your fingertips – no plugin hassle included.
+
+Complex tasks become easy
+
+The IDE knows everything about your code and uses this knowledge to offer blazing-fast navigation and relevant suggestions in every context.
+
+Built-in tools
+
+Run, debug, and test your applications without leaving the IDE and the code view. All important tools are within a hand’s reach.
+
+Customizable and extendable
+
+Your IDE is ready to be configured to match your taste and preferences and help you stay in the zone during all your coding sessions.
+
+PyCharm
+The JetBrains Kotlin
+Ecosystem
+
+A powerful set of tools, libraries, and integrations built around the Kotlin programming language to help you develop modern applications efficiently.
+
+Explore
+For  teams
+
+Minimize friction and increase productivity
+
+Ensure efficient collaboration and maintain quality codebases with a fast software delivery flow
+TeamCity
+
+Powerful Continuous Integration out of the box
+
+YouTrack
+
+Project management for all your teams
+
+Qodana
+
+Code quality platform powered by advanced static analysis
+
+Datalore
+
+Self-hosted data science platform for teams
+
+and more
+Many of the world's most dynamic teams find that JetBrains tools make them more creative and effective
+
+Gradle Inc. is the company behind the Gradle Build Tool, one of the most popular open-source build automation tools used by millions of developers. For the past ten years, the Gradle Build Tool team has been relying on TeamCity for its CI/CD process, which allows it to run tens of thousands of green builds daily and maintain a high build success rate.
+
+Read the full case study
+
+Qodana helps all our developers write the best possible code regardless of their experience and it helps our senior developers maintain their expected code quality as well. Given the various types of inspections it offers, we’re hoping that Qodana can act as a developer coach in addition to helping maintain the code quality standards in our products.
+
+Read the Qodana case study
+
+TeamCity
+
+A new approach to CI/CD
+
+Faster, self-optimizing pipelines with intelligent suggestions to make sure you’re always operating at peak efficiency. Focus on building great things while we handle the rest.
+
+Learn more
+Our products are technology agnostic and support a mix of languages and other tools that your team and project may be using now or tomorrow.
+
+VB.net
+
+Java
+
+Kotlin
+
+Android
+
+JavaScript
+
+TypeScript
+
+PHP
+
+C#
+
+Python
+
+Go
+
+HTML
+
+Scala
+
+VB.net
+
+Java
+
+Kotlin
+
+Android
+
+JavaScript
+
+TypeScript
+
+PHP
+
+C#
+
+Python
+
+Go
+
+HTML
+
+Scala
+
+Explore and find the right JetBrains team tool!
+
+For  businesses
+
+Empower your team and succeed as a business
+
+JetBrains
+IDE Services
+
+Manage developer tools at scale
+
+Provision IDEs centrally to machines across your entire organization. Securely govern AI-powered development.
+
+Learn more
+Solutions that scale with you as you grow
+Boost developer experience
+
+Leverage AI on your terms, ensuring compliance. Amplify the satisfaction and productivity of your software teams.
+
+Stay competitive
+
+Nurture coding best practices and ensure cleaner, more maintainable code.
+
+Minimize risks
+
+Maintain business continuity with enterprise-grade support.
+
+Control costs
+
+Foster business growth through flexible licensing and cost control. Maximize your existing technology investments.
+
+Proven compliance and security
+
+JetBrains tools adhere to industry-leading security standards, including SOC 2 certification, ensuring your organization’s data is protected and our products are compliant with global regulations. All necessary documents, including security reports, policies, and certifications, are available in our Trust Center.
+
+Explore more reasons for your business to invest in JetBrains tools
+Learn more
+Trusted by more than 300,000 organizations
+
+including 88 Fortune Global Top 100 companies that use JetBrains products to deliver top-quality software.
+
+Discover more
+Choose your IDE
+Explore our IDEs
+Contact support
+Get help
+Speak to sales
+Get in touch
+Annual Highlights
+View report
+AI
+JetBrains AI
+AI Assistant
+Junie
+AI in IDEs
+AI Enterprise
+AI News
+Developer Tools
+All Products
+IDEs
+.NET and Visual Studio
+Team Tools
+Plugin Marketplace
+Toolbox App
+Solutions
+Business
+Data
+IDE Services
+Remote Development
+Game Development
+DevOps
+Initiatives
+Kotlin
+Open Source
+JetBrains Research
+JetBrains Mono
+MPS
+Education
+Students
+Teachers
+Bootcamps
+Teams
+Course Catalog
+University Programs
+Store
+Plans and Pricing
+All Products Pack
+dotUltimate
+Partners and Resellers
+Customers and Awards
+Support
+Technical Support
+Contact Sales
+Documentation
+JetBrains Account
+Resources
+Blog
+Early Access
+Events and Livestreams
+Newsletters
+Industry Reports
+Inspectopedia
+Desktop Art
+Community
+User Groups
+Open-Source Partnerships
+Developer Recognition
+Content Creators
+Company
+About
+Contacts
+Careers
+Brand Assets
+Merchandise
+Trust Center
+Republic of Korea
+English
+Privacy and Security
+Privacy Notice
+Terms of Use
+Attributions
+Legal
+Genuine Tools
+Opt-Out
+Copyright © 2000-2025 JetBrains s.r.o.
+Developed with drive and IntelliJ IDEA

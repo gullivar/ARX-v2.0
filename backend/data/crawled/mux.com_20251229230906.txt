@@ -1,0 +1,745 @@
+Skip to content
+Mux Logo
+Toggle Mux Brand Popover
+Products
+Caret
+Solutions
+Caret
+Developers
+Caret
+Pricing
+Caret
+Blog
+TALK TO US
+TALK TO US
+LOG IN
+LOG IN
+
+New:
+Mux + LLMs = @mux/ai
+
+Arrow Right
+VIDEO FOR DEVELOPERS
+
+Mux helps teams ship high-performance and cost-effective video in minutes, not months. Build better video into anything from websites to platforms to AI workflows.
+
+GET STARTED
+GET STARTED
+READ OUR DOCS
+READ OUR DOCS
+TRUSTED BY TOP BRANDS
+Features
+TRY ANOTHER VIDEO
+CARET
+Embedding a video with Mux is simple
+IFRAME EMBED
+WEB COMPONENT
+REACT COMPONENT
+<iframe
+  src="https://player.mux.com/dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm?&metadata-video-title=All about thumbnails&metadata-user-id=user-1138"
+  style="width: 100%; border: none; aspect-ratio: 16/9;"
+  allow="autoplay; encrypted-media; picture-in-picture;"
+  allowfullscreen
+></iframe>
+Cursor clicking
+Turn video files into video features
+
+We give you the building blocks to create live and on-demand video exactly how you want.
+
+See all Mux Video features
+Transcript
+0:01
+
+Ouch!
+
+0:02
+
+Dang thumbs.
+
+0:03
+
+You know, there's an easier way to get thumbnails.
+
+0:08
+
+Quickly grab a still from anywhere in your video with the Mux API.
+
+0:12
+
+All it takes is some query params.
+
+0:15
+
+Thumbnail.
+
+0:16
+
+What about GIFs?
+
+0:18
+
+What?
+
+0:19
+
+Not you, Jeff.
+
+0:20
+
+GIFs.
+
+0:22
+
+I thought it was GIFs.
+
+0:24
+
+GIFs, GIFS, it's all the same to Mux with a simple get request.
+
+0:29
+
+Because video is fun with Mux.
+
+// create an asset with auto-generated subtitles
+await muxClient.video.assets.create({
+  "inputs": [
+    { "url": "https://static.mux.com/home-page/thumbnail-infomercial.mp4" },
+    { generated_subtitles: [{ name: "English CC", "language_code": "en" }] }
+  ],
+  "playback_policies": ["public"],
+  "video_quality": "basic"
+});
+
+// get subtitles
+const playbackId = "dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm";
+const trackId = "Yq9OsPqSNFCZ1q4tak9cEKQNxt9lHO8ghRSLQGDdYcVwCL5XXnCR1A";
+await fetch(`https://stream.mux.com/${playbackId}/text/${trackId}.vtt`)
+SHOW THE CODE
+CODE
+Thumbnails
+GIFs
+TIME = 17
+WIDTH = 512
+HEIGHT = 512
+Rotate
+Preserve
+Flip Horizontal
+Flip Horizontal
+<img
+  src="https://image.mux.com/dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm/thumbnail.webp?width=512&height=512"
+  width="512"
+  height="512"
+  alt="Thumbnail"
+/>
+SHOW THE CODE
+CODE
+Clipping
+Play
+0:05
+0:25
+Chevron Right
+Chevron Right
+// Get an instant clip
+const playbackId = "dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm";
+const streamUrl = `https://stream.mux.com/${playbackId}.m3u8?asset_start_time=5&asset_end_time=25`;
+
+// Or create a frame-accurate asset-based clip
+const assetId = "sMP4ES801fUTrIwceiqvbZxrzuzOfI00P3";
+await muxClient.video.assets.create({
+  "inputs": [{
+    "url": `mux://assets/${assetId}`,
+    "start_time": 5,
+    "end_time": 25
+  }],
+  "playback_policies": ["public"],
+  "video_quality": "basic"
+});
+SHOW THE CODE
+CODE
+Storyboards
+
+Use storyboards to quickly tell AI about your video, or to create experiences like video player timeline hover previews
+
+// You can get a storyboard as data (.json or .webvtt) or an image (.webp, .jpg, or .png)
+const playbackId = "dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm";
+const response = await fetch(`https://image.mux.com/${playbackId}/storyboard.json`)
+
+console.log(await response.json())
+/* {
+  "storyboard": {
+    "url": "https://image.mux.com/Ljxts2USDNC18YsA8u2Ik1iZCcO5YcBT/storyboard.jpg",
+    "webpUrl": "https://image.mux.com/Ljxts2USDNC18YsA8u2Ik1iZCcO5YcBT/storyboard.webp",
+    "tile_width": 284,
+    "tile_height": 160,
+    "calc_storyboard_width": 1420,
+    "calc_storyboard_height": 1120,
+    "duration": 34.334,
+    "tiles": [
+      {
+        "start": 0,
+        "x": 0,
+        "y": 0
+      },
+      {
+        "start": 0.978,
+        "x": 284,
+        "y": 0
+      },
+      {
+        "start": 1.956,
+        "x": 568,
+        "y": 0
+      },
+      {
+        "start": 2.934,
+        "x": 852,
+        "y": 0
+      },
+      {
+        "start": 3.912,
+        "x": 1136,
+        "y": 0
+      },
+      {
+        "start": 4.891,
+        "x": 0,
+        "y": 160
+      },
+      {
+        "start": 5.869,
+        "x": 284,
+        "y": 160
+      },
+      {
+        "start": 6.847,
+        "x": 568,
+        "y": 160
+      },
+      {
+        "start": 7.825,
+        "x": 852,
+        "y": 160
+      },
+      {
+        "start": 8.803,
+        "x": 1136,
+        "y": 160
+      },
+      {
+        "start": 9.781,
+        "x": 0,
+        "y": 320
+      },
+      {
+        "start": 10.759,
+        "x": 284,
+        "y": 320
+      },
+      {
+        "start": 11.737,
+        "x": 568,
+        "y": 320
+      },
+      {
+        "start": 12.716,
+        "x": 852,
+        "y": 320
+      },
+      {
+        "start": 13.694,
+        "x": 1136,
+        "y": 320
+      },
+      {
+        "start": 14.672,
+        "x": 0,
+        "y": 480
+      },
+      {
+        "start": 15.65,
+        "x": 284,
+        "y": 480
+      },
+      {
+        "start": 16.628,
+        "x": 568,
+        "y": 480
+      },
+      {
+        "start": 17.606,
+        "x": 852,
+        "y": 480
+      },
+      {
+        "start": 18.584,
+        "x": 1136,
+        "y": 480
+      },
+      {
+        "start": 19.562,
+        "x": 0,
+        "y": 640
+      },
+      {
+        "start": 20.541,
+        "x": 284,
+        "y": 640
+      },
+      {
+        "start": 21.519,
+        "x": 568,
+        "y": 640
+      },
+      {
+        "start": 22.497,
+        "x": 852,
+        "y": 640
+      },
+      {
+        "start": 23.475,
+        "x": 1136,
+        "y": 640
+      },
+      {
+        "start": 24.453,
+        "x": 0,
+        "y": 800
+      },
+      {
+        "start": 25.431,
+        "x": 284,
+        "y": 800
+      },
+      {
+        "start": 26.409,
+        "x": 568,
+        "y": 800
+      },
+      {
+        "start": 27.387,
+        "x": 852,
+        "y": 800
+      },
+      {
+        "start": 28.366,
+        "x": 1136,
+        "y": 800
+      },
+      {
+        "start": 29.344,
+        "x": 0,
+        "y": 960
+      },
+      {
+        "start": 30.322,
+        "x": 284,
+        "y": 960
+      },
+      {
+        "start": 31.3,
+        "x": 568,
+        "y": 960
+      },
+      {
+        "start": 32.278,
+        "x": 852,
+        "y": 960
+      },
+      {
+        "start": 33.256,
+        "x": 1136,
+        "y": 960
+      }
+    ]
+  },
+  "error": null
+} */
+SHOW THE CODE
+CODE
+Audio-only
+// Enable an audio-only static rendition
+const assetId = "sMP4ES801fUTrIwceiqvbZxrzuzOfI00P3";
+await muxClient.video.assets.createStaticRendition(assetId, { resolution: 'audio-only' })
+
+// Get that rendition
+const playbackId = "dE02GfTAlJD4RcqNAlgiS2m00LqbdFqlBm";
+const streamUrl = `https://stream.mux.com/${playbackId}/audio.m4a`;
+SHOW THE CODE
+CODE
+Price Tag
+How much will this video cost?
+
+Uploading this 34 second video
+Free
+
+Storing this video for 1 month
+$0.0014
+
+Streaming 209,295 times
+$16
+
+Free monthly usage credit
+-$20
+
+Mux Data analytics
+Included
+
+Total
+$0
+
+Understand video analytics at a glance
+
+Track key engagement and quality of experience metrics: views, playing time, viewer retention, startup time, rebuffering, and more.
+
+Video views and unique viewers are up, average completion is slightly up, and playing time is down.
+K
+Views
+22%
+Unique Viewers
+2.9
+k
+k
+1.3
+17%
+ 
+3PM
+ 
+6PM
+Playing Time
+h
+1.7
+36%
+Last 6h
+One week ago
+
+Looking for standalone media-grade stream analytics?
+
+GET MUX DATA
+GET MUX DATA
+Sparkles
+AI workflows
+
+Integrate Mux into your AI workflows for video processing and delivery. Our platform works both as a video foundation for AI tools and as the final step for delivering video to users.
+
+Content moderation
+NSFW: 0.001
+CHECK
+VIOLENT: 0.032
+CHECK
+
+Powered by
+
+OpenAI Logo
+import { getModerationScores } from "@mux/ai/workflows";
+  
+const assetId = "sMP4ES801fUTrIwceiqvbZxrzuzOfI00P3";
+const result = await getModerationScores(assetId, {
+  provider: "openai", // or "hive"
+  thresholds: {
+    sexual: 0.7,   // Flag content with 70%+ confidence
+    violence: 0.8  // Flag content with 80%+ confidence
+  }
+});
+
+console.log(result.exceedsThreshold); // true if content flagged
+console.log(result.maxScores.sexual);  // Highest sexual content score
+console.log(result.maxScores.violence); // Highest violence score
+SHOW THE CODE
+CODE
+Summarization
+
+|
+
+Sparkles
+import { getSummaryAndTags } from "@mux/ai/workflows";
+
+const assetId = "sMP4ES801fUTrIwceiqvbZxrzuzOfI00P3";
+
+const result = await getSummaryAndTags(assetId, {
+  tone: "normal" // or "sassy" or "professional"
+});
+
+console.log(result.title); // "Mux thumbnails demo"
+
+console.log(result.description); // "An individual humorously struggles with traditional thumbnail methods..."
+
+console.log(result.tags); // ["video streaming", "thumbnails", "tutorial", "images", "mux"]
+SHOW THE CODE
+CODE
+Translation
+
+Grab your video's audio track and build an AI workflow to create translated versions of your videos. Playback dubbed versions of your video with multi-track audio.
+
+Tagging
+
+Intelligently analyze the content of your video by feeding storyboards and transcripts into AI. Generate tags to keep your content organized and discoverable.
+
+Chaptering
+
+Build a workflow to analyze content and create and name chapter cue points to make navigating your long-form content a breeze.
+
+And whatever else you can dream up.
+MUX WITH AI
+MUX WITH AI
+The video infrastructure for your website
+
+From background videos to simple player embeds, we’ve got you covered.
+
+Commerce-UI built Lady Gaga’s immersive website with video front and center. After launch, they saw a 128% increase in add-to-cart rate and 55% increase in average order value.
+
+While you perfect your AI models, we take care of encoding, delivery, and scaling your video output reliably and cost-effectively.
+
+Synthesia built their AI video platform on Mux enabling them to affordably scale video generation while focusing on AI innovation rather than building video from scratch.
+
+With videos ready for playback in an average of under 2 seconds you can build what you need for your community.
+
+Glassdoor launched user-generated video and created a new form of content-moderated community engagement in their app in 5 months.
+
+Whether it’s on-demand or live, build video that scales to support your users.
+
+Patreon built native video for a more consistent creator and fan experience, going from limited control with third-party solutions to a fully customized, seamless platform..
+
+Go from MVP to launch in no time with API and docs that are designed for developers to build video quickly.
+
+Typeform integrated video questions and answers into their forms, achieving 24% adoption among Growth plan users and contributing over 2.5% of ARR within six months of launch.
+
+With latency as low as 4 seconds and support for SRT (with HEVC) and RTMP, you can stream live, at scale, and without worry.
+
+Maestro helps creators like Billie Eilish create and monetize interactive live experiences at scale. They enable creators to stream and connect to hundreds of thousands of fans.
+
+Arrow Right
+Pause
+Arrow Right
+We speak your language
+
+You don’t have to reinvent your stack to get great video. We’re compatible with your favorite languages and frameworks.
+
+Mux is available on the Vercel Marketplace.
+
+PYTHON
+PYTHON
+GO
+GO
+ELIXIR
+ELIXIR
+JAVASCRIPT
+NODE
+RUBY
+RUBY
+PHP
+PHP
+IOS ICON
+ANDROID ICON
+Mux love from around the world
+
+Working with the Mux team felt like we were all working together, as opposed to the typical vendor/client relationship. Mux was with us every step of the way, from ideation to delivery.
+
+Lucas Kacher 
+Staff Software Engineer +  Engineering Lead for Video
+
+Ran our first live stream via @MuxHQ today after some horrible experiences with a well known alternative who shall remain nameless. Super simple, reliable and looked great!
+
+Will Wilson
+@theMojoWill
+Twitter, or I guess it's called X now
+
+We researched, candidly, every single option. Mux kept coming up as the number one ease of integration was amazing that it's just a couple of lines of code and "boom".
+
+Will Baumann
+CEO
+
+We were stressing about how long it would take to fix our video streaming, but I was able to open up Github mobile and integrate Mux on my phone. I had something working in two hours. That’s wild.
+
+Gaurav Misra
+Co-Founder and CEO
+
+We built an in-house MVP solution for video, but rather than spending our engineering team’s time navigating and maintaining video infrastructure, we turned to Mux. With Mux, video just works, which means we can focus on building the best product for Substack creators and trust that video is solved.
+
+Jairaj Sethi 
+Co-founder and CTO
+
+the documentation and API design for the @MuxHQ api is some of the best I've used in a while - insanely clean UI and has api reference or webhook for everything I need
+
+Ti
+@tihalstead
+Twitter, or I guess it's called X now
+
+Mux has enabled us to move 5x faster. We can trust processes like uploading and transcoding are handled really well — and we didn’t have to spend the time and resources on our end building that out.
+
+Bethany Stachenfeld 
+Co-founder and CEO
+
+Working with the Mux team felt like we were all working together, as opposed to the typical vendor/client relationship. Mux was with us every step of the way, from ideation to delivery.
+
+Lucas Kacher 
+Staff Software Engineer +  Engineering Lead for Video
+
+Ran our first live stream via @MuxHQ today after some horrible experiences with a well known alternative who shall remain nameless. Super simple, reliable and looked great!
+
+Will Wilson
+@theMojoWill
+Twitter, or I guess it's called X now
+
+We researched, candidly, every single option. Mux kept coming up as the number one ease of integration was amazing that it's just a couple of lines of code and "boom".
+
+Will Baumann
+CEO
+
+We were stressing about how long it would take to fix our video streaming, but I was able to open up Github mobile and integrate Mux on my phone. I had something working in two hours. That’s wild.
+
+Gaurav Misra
+Co-Founder and CEO
+
+I could have created a custom solution like Amazon S3 to host my video, but it was extremely complex and extremely expensive. And then someone said, but there is Mux and I checked it's exactly what I needed and for much cheaper than using AWS. That's why I had no choice. It was the best solution.
+
+Bruno Simon 
+Founder
+
+AI enables video at a scale that wasn't possible before, which means cost is a huge consideration. Mux was very proactive in making sure our costs were managed.
+
+Jake Gillespie
+Engineering Manager, Synthesia
+
+Mux Data caught a number of issues we would never have found otherwise. And beyond issues, the data helps us identify where there are opportunities for improvement.
+
+Mark Bogdanoff
+Production Engineer
+
+Out of all the technologies we use, Mux was the easiest for us to implement. We actually over-budgeted our resources for it.
+
+Mohammed Iqbal 
+Founder and CEO
+
+@MuxHQ is such a great product. Managed to have a live streaming solution set up for a live demo in less than a day. Was able to stream from a second device and display that stream in a player. Converted a prospect into a customer.
+
+Martin Bean
+@martinbean
+Twitter, or I guess it's called X now
+
+Mux has enabled WBD to observe the quality of our viewers' streaming experiences. Being able to filter data across a variety of dimensions helps us pinpoint issues in content and technical systems to ensure that our viewers are enjoying the highest quality experience possible.
+
+Mark Ramberg 
+VP, Streaming Platform  Product Management
+
+We’ve been able to use Mux to resolve incidents faster, sometimes significantly faster, than before. We always learn from our incidents, and the data we’re able to pull from Mux has dramatically accelerated our learnings.
+
+Marcus Hamrin 
+Senior Product Manager
+
+I could have created a custom solution like Amazon S3 to host my video, but it was extremely complex and extremely expensive. And then someone said, but there is Mux and I checked it's exactly what I needed and for much cheaper than using AWS. That's why I had no choice. It was the best solution.
+
+Bruno Simon 
+Founder
+
+AI enables video at a scale that wasn't possible before, which means cost is a huge consideration. Mux was very proactive in making sure our costs were managed.
+
+Jake Gillespie
+Engineering Manager, Synthesia
+
+Mux Data caught a number of issues we would never have found otherwise. And beyond issues, the data helps us identify where there are opportunities for improvement.
+
+Mark Bogdanoff
+Production Engineer
+
+Out of all the technologies we use, Mux was the easiest for us to implement. We actually over-budgeted our resources for it.
+
+Mohammed Iqbal 
+Founder and CEO
+
+No credit card required to start using Mux.
+
+Start building for free
+Start building for free
+Docs
+Explore our APIs
+READ THE DOCS
+Docs
+Explore our APIs
+READ THE DOCS
+Demo
+Get a demo
+LET'S CHAT
+Demo
+Get a demo
+LET'S CHAT
+Platform
+MUX VIDEO
+Video API
+Features
+On-Demand
+Live
+Interactive
+Encoding
+Pricing
+Pricing Calculator
+MUX DATA
+Overview
+Features
+Monitoring
+Pricing
+MUX PLAYER
+Overview
+Developers
+Documentation
+API reference
+Webhook reference
+Open source software
+Beta features
+Contact support
+Resources
+Video glossary
+Learn about video
+Demuxed
+Arrow Up Right
+HowVideo.Works
+Arrow Up Right
+Mux vs. Cloudflare Stream
+Solutions
+Video for your video platform
+Video for UGC
+Video for connected fitness
+Video for AI
+Video for Vercel users
+Data for broadcasters
+Data for telco operators
+Data for sports
+Integrations
+Node
+Ruby
+PHP
+Python
+Elixir
+Go
+Astro
+SvelteKit
+Flutter
+WordPress
+Next.js
+React Native
+Remix.js
+Laravel
+Company
+Blog
+Team
+Customers
+Partners
+Jobs
+Startup Program
+Powered by Mux Program
+Sign up for our newsletter
+Download Press Kit
+Mux on Twitter
+Twitter, or I guess it's called X now
+Mux on LinkedIn
+LinkedIn
+Mux on GitHub
+GitHub
+Mux on YouTube
+YouTube
+© Mux, Inc. 2025
+Terms of service
+Security
+Privacy policy
+Sitemap
+STATUS:
+GOOD

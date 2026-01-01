@@ -1,0 +1,79 @@
+dnsforge.de DNS-Resolver dnsforge.de Ein souveräner öffentlicher DNS-Resolver der Werbung, Tracking und Malware zuverlässig herausfiltert und so das Internet sicherer und schneller macht. Die Server befinden sich ausschließlich in Deutschland. Wähle einen DNS Servers hosted in Übersicht Hier siehst du welche Kategorien von den unterschiedlichen dnsforge.de DNS-Resolvern geblockt werden. Type Ads Trackers Malware Adult Gambling Normal ✅ ✅ ✅ ❌ ❌ Clean ✅ ✅ ✅ ✅ ✅ Hard ✅ ✅ ✅ ❌ ❌ Blank ❌ ❌ ❌ ❌ ❌ Normal mit Werbeblocker Mit ausgewogenen Blocklisten surfst du schnell, werbefrei, ohne Tracking und geschützt vor Malware durchs Internet. IPv4 49.12.67.122 91.99.154.175 176.9.93.198 176.9.1.117 IPv6 2a01:4f8:c013:29d::122 2a01:4f8:c010:8c35::175 2a01:4f8:151:34aa::198 2a01:4f8:141:316d::117 DNS-over-TLS dnsforge.de sdns://AwMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGU DNS-over-HTTPS https://dnsforge.de/dns-query sdns://AgMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ DNS-over-QUIC quic://dnsforge.de sdns://BAMAAAAAAAAADDE3Ni45LjkzLjE5OAALZG5zZm9yZ2UuZGU Clean Normal + Jugendschutz Mit erweiterten Jugendschutz-Blocklisten sowie aktivierter SafeSearch-Funktion bei Suchmaschinen und YouTube für ein sicheres und altersgerechtes Surferlebnis. IPv4 49.12.223.2 49.12.43.208 IPv6 2a01:4f8:c17:4fbc::2 2a01:4f8:c012:ed89::208 DNS-over-TLS clean.dnsforge.de sdns://AwMAAAAAAAAACzQ5LjEyLjIyMy4yABFjbGVhbi5kbnNmb3JnZS5kZQ DNS-over-HTTPS https://clean.dnsforge.de/dns-query sdns://AgMAAAAAAAAACzQ5LjEyLjIyMy4yABFjbGVhbi5kbnNmb3JnZS5kZQovZG5zLXF1ZXJ5 DNS-over-QUIC quic://clean.dnsforge.de sdns://BAMAAAAAAAAACzQ5LjEyLjIyMy4yABFjbGVhbi5kbnNmb3JnZS5kZQ Hard Normal + strenge Regeln Mit besonders strengen Blocklisten für maximalen Schutz – dadurch können einzelne Funktionen, etwa auf Facebook, eingeschränkt sein‼️ Es werden keinerlei Ausnahmen (Whitelists) zugelassen. IPv4 49.12.222.213 88.198.122.154 IPv6 2a01:4f8:c17:2c61::213 2a01:4f8:c013:5ec0::154 DNS-over-TLS hard.dnsforge.de sdns://AwMAAAAAAAAADTQ5LjEyLjIyMi4yMTMAEGhhcmQuZG5zZm9yZ2UuZGU DNS-over-HTTPS https://hard.dnsforge.de/dns-query sdns://AgMAAAAAAAAADTQ5LjEyLjIyMi4yMTMAEGhhcmQuZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ DNS-over-QUIC quic://hard.dnsforge.de sdns://BAMAAAAAAAAADTQ5LjEyLjIyMi4yMTMAEGhhcmQuZG5zZm9yZ2UuZGU Blank ohne Filter Es sind keine Filter aktiviert‼️ – du erlebst das Internet in seiner reinsten Form, ganz ohne Einschränkungen oder Schutzmechanismen. IPv4 138.199.149.249 78.47.71.194 IPv6 2a01:4f8:c17:7aa5::249 2a01:4f8:c013:aae9::194 DNS-over-TLS blank.dnsforge.de sdns://AwcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OQARYmxhbmsuZG5zZm9yZ2UuZGU DNS-over-HTTPS https://blank.dnsforge.de/dns-query sdns://AgcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OQARYmxhbmsuZG5zZm9yZ2UuZGUKL2Rucy1xdWVyeQ DNS-over-QUIC quic://blank.dnsforge.de sdns://BAcAAAAAAAAADzEzOC4xOTkuMTQ5LjI0OQARYmxhbmsuZG5zZm9yZ2UuZGU Warum dnsforge.de? Vorteile 🔒 Namensauflösungen werden verschlüsselt an die dnsforge.de Server übertragen (DoT, DoH, DoQ) 🛡️ Keine Manipulationen oder Zensur durch deinen Provider möglich 🧹 Lästige Werbung wird nicht geladen, dies spart nicht nur Nerven, sondern auch Bandbreite 💾 Keine Aufzeichnung von Zugriffen Einstellungen DNSSEC validating Privacy no logging: Query log off Limits 100 queries per 10 seconds Auf deinem Gerät einrichten Android Einstellungen > Netzwerk & Internet > Privates DNS: Normal dnsforge.de Clean clean.dnsforge.de Hard hard.dnsforge.de Blank blank.dnsforge.de iOS Lade ein Konfigurationsprofil herunter und drücke auf "Zulassen": Normal dnsforge.de (DoT) dnsforge.de (DoH) Clean clean.dnsforge.de (DoT) clean.dnsforge.de (DoH) Hard hard.dnsforge.de (DoT) hard.dnsforge.de (DoH) Blank blank.dnsforge.de (DoT) blank.dnsforge.de (DoH) Aktiviere das Profil wie folgt: 1. Das heruntergeladene Konfigurationsprofil im Downloadordner unter Dateien einmal öffnen, bis der Hinweis erscheint, dass das Konfigurationsprofil in den Einstellungen installiert werden muss 2. Konfigurationsprofil installieren: Einstellungen > Profil geladen 3. Die "Netzverkehr" Warnung bestätigen wir und drücken auf "Installieren" 4. Das zuletzt installierte Profil ist automatisch aktiv (Allgemein > VPN und Geräteverwaltung > DNS 5. Der Flugmodus muss einmal ein und ausgeschaltet werden um den Cache zu leeren Firefox Einstellungen > Datenschutz & Sicherheit > DNS über HTTPS > Maximaler Schutz > Benutzerdefiniert: Normal https://dnsforge.de/dns-query Clean https://clean.dnsforge.de/dns-query Hard https://hard.dnsforge.de/dns-query Blank https://blank.dnsforge.de/dns-query Chromium / Google Chrome Einstellungen > Datenschutz und Sicherheit > Sicherheit > Sicheres DNS verwenden aktivieren > Benutzerdefiniert: Normal https://dnsforge.de/dns-query Clean https://clean.dnsforge.de/dns-query Hard https://hard.dnsforge.de/dns-query Blank https://blank.dnsforge.de/dns-query Microsoft Edge Einstellungen > Datenschutz, Suche und Dienste > Verwenden Sie sicheres DNS, um anzugeben, wie die Netzwerkadresse für Websites nachzuschlagen ist > Einen Dienstanbieter auswählen > Das Feld Benutzerdefinierten Anbieter eingeben ausfüllen: Normal https://dnsforge.de/dns-query Clean https://clean.dnsforge.de/dns-query Hard https://hard.dnsforge.de/dns-query Blank https://blank.dnsforge.de/dns-query Teste deine DNS-Einstellungen DNS Leak Test Getreu dem Motto "Vertrauen ist gut, Kontrolle ist besser" sollten wir prüfen ob auch wirklich dnsforge.de verwendet wird. 1. Wir rufen eine der Testseiten auf: DNSleaktest.com , dnscheck.tools , browserleaks.com 2. Auf der Ergebnisseite sollten dann IP-Adressen von dnsforge.de stehen! Blocklisten Whitelist Eine Domain funktioniert nicht, es handelt sich aber um eine legitime Webseite? Hier kannst du ein Domain-Whitelisting beantragen: 📝 per Forum 💬 per Chat ✉️ per E-Mail Domain Check Ist eine Domain mit dnsforge.de geblockt? Check Domain Status Stand: [2025-12-31] Blocklist: 1.125.095 Blocklist Clean: 6.883.893 Blocklist Hard: 1.057.769 Blocklist: 1.125.095 Blocklist Clean: 6.883.893 Whitelist: 469 Blocklisten Die Resolver filtern Ad- , Tracking- und Malwaredomains aus den folgenden Listen. Mit clean.dnsforge.de werden zusätzlich Adult Domains gefiltert. Bei hard.dnsforge.de sind extra strenge Blocklisten aktiv und es gibt keine Whitelist. Die Listen werden täglich neu eingelesen. Normal + Clean # blocklists used by dnsforge.de
+https://dnsforge.de/blocklist.list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://big.oisd.nl/
+https://blocklistproject.github.io/Lists/basic.txt
+https://blocklistproject.github.io/Lists/phishing.txt
+https://blocklistproject.github.io/Lists/ransomware.txt
+https://blocklistproject.github.io/Lists/tracking.txt
+https://hole.cert.pl/domains/v2/domains.txt
+https://o0.pages.dev/Lite/adblock.txt
+https://perflyst.github.io/PiHoleBlocklist/AmazonFireTV.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.amazon.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.apple.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.huawei.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.winoffice.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.tiktok.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.lgwebos.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.oppo-realme.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.vivo.txt
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+https://phishing.army/download/phishing_army_blocklist.txt
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+
+# adult
+# additionally for clean.dnsforge.de
+https://dnsforge.de/blocklist-clean.list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
+https://raw.githubusercontent.com/blocklistproject/Lists/master/porn.txt
+https://www.technoy.de/lists/xporn.txt
+https://nsfw.oisd.nl/
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt
+
+# gambling
+# additionally for clean.dnsforge.de
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt Hard #  | Title: Blocklists used by hard.dnsforge.de
+#  | Description: Managed by selected community members
+#  | Homepage: https://dnsforge.de
+#  | Edit here: https://my.adminforge.de/f/9819050
+#  | ...............................................
+#  /
+# ( please fill this in if you have changed anything
+#  \ ...............................................
+#  | Date: 2025-09-09
+#  | By user: sct
+#  \____________________
+
+# dnsforge
+https://dnsforge.de/blocklist.list
+https://dnsforge.de/blocklist-clean.list
+
+# oisd
+https://big.oisd.nl
+
+# HaGeZi
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+# uBlock₀ filters – Badware risks
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+
+# phishing-filter
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+
+# Dandelion Sprout's Anti-Malware List
+https://filters.adtidy.org/dns/filter_12.txt
+
+#  /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+# ( more? add them here above the line powered by PowerDNS & AdGuard Matrix Chatraum | Mastodon | Forum | adminForge Services | Status Page | Spenden Das Betreiben eines zensurfreien DNS Servers machen wir gerne, kostet aber leider auch Geld. Unterstütze unsere Arbeit mit einer Spende . Live DNS Statistiken no tracking | no logging | no advertising dnsforge.de proudly presented by adminForge.de | Impressum | Datenschutzhinweis | Created by Giebel.IT

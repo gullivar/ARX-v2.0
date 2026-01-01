@@ -1,0 +1,42 @@
+Telnyx—Voice AI Agents with Built-In Global Telco Infrastructure Home View all products Voice AI Voice API eSIM RCS Speech-to-text Text-to-speech SIP Trunking SMS API Mobile Voice View all solutions Healthcare Finance Travel and hospitality Logistics and Transportation Insurance Retail and e-commerce Sales & Marketing Services and Dining View all pricing Voice AI Voice API eSIM RCS Speech-to-Text Text-to-Speech SIP Trunking SMS API Global Numbers IoT SIM Card Our Network Mission Control Portal Customer stories Global coverage Partners Careers Events Resource center Support center AI Templates SETI Dev Docs Integrations Products Solutions Pricing Why Telnyx Resources Developers Contact us Log in Contact us Log in Sign up Open menu Social Company Our Network Global Coverage Release Notes Careers Voice AI AI Glossary Shop Legal Data and Privacy Report Abuse Privacy Policy Cookie Policy Law Enforcement Acceptable Use Trust Center Country Specific Requirements Website Terms and Conditions Terms and Conditions of Service Compare ElevenLabs Vapi Twilio Bandwidth Kore Wireless Hologram Vonage Amazon S3 Amazon Connect Ask AI © Telnyx LLC 2025 ISO • PCI • HIPAA • GDPR • SOC2 Type II THE VOICE NETWORK BUILT FOR Conversational AI Our full-stack platform gives you complete control, uniting carrier-grade communications, low-latency AI, and flexible developer tools to power interactions that no other platform can deliver. CALL YOUR AGENT INFRASTRUCTURE Lower latency, lower cost, faster implementation Compared with any other voice AI solution. <200 ms Round trip time thanks to a private network with strategic global PoPs. 250 ms Multilingual speech to text transcription optimized for speed $0.06 Per minute conversational Voice AI, no hidden fees or extras. < 5 minutes To build an intelligent Voice AI Agent with intuitive tools and APIs Where milliseconds matter, Telnyx delivers From first call to global deployment, Telnyx gives you the stack, scale, and support to launch real-time conversational AI with confidence. START BUILDING HD Voice AI Text to speech Speech to text HD VOICE AI True HD voice, end-to-end In-house NaturalHD voices and HD voice codecs are powered by our private global network to deliver more natural conversations with unmatched call clarity. Experience the difference in voice quality HD+ NaturalHD voices Standard codec TALK TO OUR AGENT 14,000+ INDUSTRY-LEADING COMPANIES choose telnyx SIGN UP FOR FREE EXPLORE STORIES LOW-LATENCY VOICE AI For engaging Voice AI, every millisecond matters We've colocated GPUs and telephony infrastructure at strategic global hubs to bring compute and telephony closer to users, reducing latency to power faster, more realistic Voice AI Agents. Low-latency conversational AI Colocation of GPUs and telephony networks in global PoPs reduce round-trip time between speech and inference to <200ms, delivering faster responses and more natural conversations. Learn More Secure global communications A fully private MPLS network keeps your data secure and off the public internet, reducing exposure to threats while minimizing latency across every interaction. Learn More High-quality calling Telnyx is a licensed carrier in 30+ markets so you can connect directly to a carrier network for crystal-clear calls, fewer points of failure, and control over number provisioning and call routing. Learn More FOR DEVELOPERS Take the complexity out of your AI Agent setup Leave management of complex carrier connections and voice infrastructure to the experts. Our APIs and SDKs provide all the building blocks you need. Grab your API key and see how simple it is to generate intelligent audio and embed it in a call. Explore Dev Docs Join our Slack community Purchase a phone number Copy curl -i -X POST "https://api.telnyx.com/v2/number_orders" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_TELNYX_API_KEY" \
+  -d '{
+    "phone_numbers": [
+      {"phone_number": "+15558675309"}
+    ]
+  }' Chat with a language model Copy curl -i -X POST \
+  https://api.telnyx.com/v2/ai/chat/completions \
+  -H 'Authorization: Bearer YOUR_TELNYX_API_KEY' \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hello, World!"
+      }
+    ],
+    "model": "mistralai/Mistral-7B-Instruct-v0.1"
+  }' Make a phone call Copy curl -i -X POST "https://api.telnyx.com/v2/calls" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_TELNYX_API_KEY" \
+  -d '{
+    "connection_id": "YOUR_CONNECTION_ID",
+    "to": "+15551234567",
+    "from": "+15557654321",
+    "webhook_url": "https://your-webhook.url/events"
+  }' Send a message Copy curl -i -X POST "https://api.telnyx.com/v2/messages" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer YOUR_TELNYX_API_KEY" \
+  -d '{
+    "from": "+15557654321",
+    "to": "+15551234567",
+    "text": "Hello world, this is a test message from Telnyx!"
+  }' Purchase an ESIM Copy curl -i -X POST \
+  https://api.telnyx.com/v2/sim_card_orders \
+  -H 'Authorization: Bearer YOUR_TELNYX_API_KEY' \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "address_id": "1293384261075731499",
+    "quantity": 210
+  }' Purchase a phone number Chat with a language model Make a phone call Send a message Purchase an ESIM HOW IT WORKS Build intelligent, real-time AI Agents in minutes Launch intelligent voice agents fast with a developer-friendly platform that handles speech, logic, and telephony—all in one place. Stream audio to any model, store context with built in memory, and deploy instantly while Telnyx handles SIP, PSTN, and carrier infrastructure. Native-speech pipeline Stream voice, transcription, and model output through a unified in-house builder to minimize latency and jitter. Real-time audio streaming Deliver real-time conversations with sub-200ms RTT by routing calls over Telnyx's private global network. MCP integration Connect to any external API or system using the open-source Model Context Protocol Integrated telephony Power Voice AI Agents with built-in global voice, phone number provisioning, SIP connectivity, and AI inference managed by Telnyx. Contextual memory Maintain continuity and personalize each interaction by storing and retrieving relevant information at runtime. EU AI Infrastructure Deploy Voice AI Agents with low-latency processing and local data storage anchored in our Paris GPU PoP to meet GDPR requirements. Step 1 / 6 USE CASES Empower conversational AI Agents to do the work Automate operations with intelligent workflows, elevate customer experiences with personalized interactions, and power new use cases with real-time voice AI. EXPLORE OUR AI ASSISTANT Healthcare Reduce appointment no-shows with real-time reminders Confirm, reschedule, or cancel appointments automatically, keeping calendars full and staff free from follow-ups LEARN MORE Reduce appointment no-shows with real-time reminders Confirm, reschedule, or cancel appointments automatically, keeping calendars full and staff free from follow-ups Ecommerce Simplify returns with always-on assistance Let customers initiate returns, track orders, and get refunds via AI agents that solve problems on the first interaction. LEARN MORE Travel and Hospitality Drive more bookings, 24/7/365 Let travelers check availability, get answers, and book instantly with AI agents, no wait times and no missed opportunities. LEARN MORE OUR SOLUTIONS Powering real-time connectivity globally Telnyx is a full-stack conversational AI platform, delivering programmable voice, messaging, and global connectivity to help businesses connect people, devices, and ideas anywhere in the world.

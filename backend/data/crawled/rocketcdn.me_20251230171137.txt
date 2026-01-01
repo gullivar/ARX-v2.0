@@ -1,0 +1,76 @@
+How it works
+WordPress Plugin
+Resources
+Pricing
+Sign in
+Get Started
+Propel Your Content at the Speed of Light
+
+Fast content delivery to your users, anywhere in the world or in a galaxy far, far away.
+
+Get RocketCDN
+Shoot for the Stars with RocketCDN
+
+Supercharge your website super easily
+
+Automatic Configuration
+
+Experience flawless performance
+
+No need to struggle with complicated CDN tabs and options. We automatically apply the best CDN configuration to boost your speed and performance scores.
+
+Easy Integration
+
+Add to any CMS, effortlessly
+
+Installation is hassle free, whether you use our WordPress plugin or your custom url to link up your assets to RocketCDN. Deploying a CDN has never been easier!
+
+Global Reach
+
+Enjoy a wide and reliable network
+
+We rely on Bunny.net and its high-performance CDN. With more than 120 edge locations, Bunny CDN ranks as one of the fastest CDNs and is an invaluable ally.
+
+Prepare Your Website for Success
+Time to reach your full potential
+
+Do you know how many miles your users are virtually traveling to read your content?
+
+If your website is serving a broad international audience, reaching people all over the world, the distance between your website’s server and your users’ is one of the crucial factors of web performance.
+
+RocketCDN is the bridge that brings your users closer to your website, no matter where they are on the globe (and beyond)!
+
+Superfast content delivery leads to
+
+Stronger Performance
+
+A faster loading website will help you meet Core Web Vitals requirements.
+
+Lower Bandwith Costs
+
+Save bandwidth costs thanks to our unique pricing plan.
+
+Better User Experience
+
+Anyone can access your content quickly, no matter where they are located.
+
+Power and Speed Are Just 1 Click Away
+
+We live and breathe for web performance
+
+Designed for Performance
+
+Created by the WP Rocket team, RocketCDN automatically applies the best CDN settings.
+
+Cache expiration policy, GZIP compression, HTTP2… we set everything up to boost your speed and performance scores. We’re on a mission to make the web faster, hop on the spaceship!
+
+Simplicity Like Never Before
+
+No need to be a rocket scientist, using RocketCDN requires absolutely no technical knowledge.
+
+You won’t waste your time going through numerous tabs and complicated customization options. Let us do the heavy lifting: simply enter your url to enjoy our custom automated CDN settings. That’s it!
+
+Get RocketCDN
+Compatible with Your Website Technology
+
+Integrate RocketCDN directly with WordPress or connect to any content management system through your RocketCDN CNAME. You can always deliver your content in a superfast manner, regardless of your favorite CMS.

@@ -1,0 +1,122 @@
+This website uses cookies to ensure you get the best experience on our website. Learn more
+Got it!
+HomeFeaturesAddon SDKBlogDownloadsSupportLoginENBR
+Freedom To Stream
+Enjoyed by more than 30 million users worldwide
+DOWNLOAD STREMIO 5 BETA NOW
+MacOS Download Other downloads
+
+
+Streaming Enhanced
+
+Stremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.
+
+AVAILABLE ON
+
+AndroidAndroid TVWindowsMacOSLinuxLG TV
+Watch & Enjoy.
+Stremio makes it a piece of cake
+All features
+Easy to Use
+
+Stremio is designed to be user-friendly and easy to use. With its clean and intuitive interface you can easily navigate and find the content you want to watch.
+
+Seamless Across Devices
+
+Available for a wide range of platforms (incl. Windows, Mac, Linux, Android and more), Stremio will keep track of your progress across all your devices. Just login and continue watching without having to configure the app again on each new device.
+
+All Downloads
+Try Stremio
+On Your TV Now
+
+You can now watch all favorite TV shows on your Android TV devices. The Stremio TV app let's you enjoy a movie night with ease.
+
+FAQ
+What is Stremio?
+
+Stremio is a modern media center that gives you the freedom to watch everything you want.
+
+How does it work?
+
+Once you install Stremio on your device and create an account, all you have to do is to visit the addon catalog and install any addon you want, and you're good to go!
+
+After that, you can go to the Discover or Board sections to start exploring content.
+
+What can I watch here?
+
+A lot: Movies, TV shows, Web channels, Sport, TV channels, listen to Podcasts and more. Thanks to our addon system, you can access a variety of content.
+
+Is Stremio open-source?
+
+Yes, you can check the following links: desktop app and GitHub organization.
+
+Is Stremio safe?
+
+Yes: because it is open-source software, the code is publically auditable and you can review it yourself.
+
+Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.
+
+How about my privacy?
+
+We respect users' privacy and do not collect any personal data besides the essential minimum to create and sync your account.
+
+There is also a Guest mode at signup, which requires no data whatsoever: in this mode, no calls are made to our backend. However, it comes at the expense of useful features, such as being able to sync your library across devices.
+
+Can I cast to my TV?
+
+Yes, we support Chromecast and you can cast both from desktop and mobile apps (Android).
+
+Can Stremio be extended beyond what's in the addon catalog?
+
+Yes, you should check those: PimpMyStremio, Reddit communities, Stremio Downloader, etc.
+
+What devices does Stremio support?
+
+We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.
+
+Can you add certain content to Stremio?
+
+Sorry, we provide no content ourselves, but the more Stremio addons you have installed, the more content you will be able to find.
+
+Can Stremio play magnet links?
+
+Yes, and it can also play normal HTTP links and torrent files (drag and drop).
+
+Can I download a video and watch offline?
+
+Available offline is an upcoming feature, but if you allow Stremio to cache on your device (from the settings panel) you can watch the videos later without a connection.
+
+Nothing works, help me!
+
+Are you sure you have installed addons? If yes, check with our help center.
+
+How does Stremio sustain it's development operations?
+
+We run non-intrusive ads occasionally, but we're considering moving to a donation model.
+
+For more questions, go to our help center.
+
+Google Play Store
+4.1
+44,800 reviews
+Vasilis Smyrnios
+Sep 21, 2022
+Probably the best and most useful app to have in your device. It's one of the apps I use on a daily basis especially on my Android TV for many years now. Well made with a strong community providing useful functionalities. Well done. Keep up the good work.
+Join the party now
+Get Stremio for Free
+Information provided by
+COMPANY
+Technology
+Downloads
+Addon SDK
+Partners
+COMMUNITY
+Community
+Fanart Gallery
+Blog
+Careers
+CONTACTS
+Help center
+Business inquiries
+Terms & conditions
+Privacy policy

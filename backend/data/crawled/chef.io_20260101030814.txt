@@ -1,0 +1,238 @@
+skip navigation 
+Product
+Chef Platform
+
+Unify infrastructure, compliance, orchestration and more on one single platform.
+
+Explore the Platform
+Capabilities
+Infrastructure Management
+Compliance Management
+Job Orchestration
+Node Management
+Application Delivery
+Cloud Security
+Solutions
+Patch Management
+Zero Trust Security
+Cloud-Native App Delivery
+SaaS Deployment of Chef Products
+Agentless Automation
+Edge Management
+All Solutions
+Resources
+Downloads
+Documentation
+Online Courses
+Customer Validation Program
+Blog
+Webinars
+Customer Success
+Resource Library
+Trust Center
+Support
+Training
+Support
+Professional Services
+Developer Community
+Partners
+Find a Partner
+Become a Partner
+Partner Login
+Deal Registration
+Pricing
+ Search
+ User
+My Account
+Hosted Chef Console
+My Downloads
+SupportLink
+Contact Us Request a Trial
+Smarter Infrastructure Starts Here
+
+Combine the ease of ClickOps with the flexibility of Policy-as-Code to orchestrate all your infrastructure operations.
+
+Free Trial
+Request a Demo
+     
+Helping Every Enterprise Achieve More
+
+Optimize every stage of your DevOps pipeline from configuration and compliance to collaboration, gaining success with scale.
+
+45%
+Reduced Annual Storage Costs
+81%
+Improved Speed of Application Releases
+$ 3M
+Cost Savings Related to Chef Implementation
+61%
+More Efficient Application Deployment
+47%
+More Efficient DevOps and DeveloperTeams
+Scalable, Flexible and Secure: The Progress® Chef® 360™ Platform
+
+Automate and orchestrate operational workflows with a secure, UI-based, enterprise-grade platform. Bridge DevOps phases seamlessly using robust integrations while you scale across cloud and on-prem environments.
+
+Configure Audit Orchestrate Scale Accelerate
+Pre-defined Templates
+Design workflows for incidents, certificate rotation and other planned or ad hoc events.
+Explore the Platform
+Infrastructure Management
+Empower standardized infrastructure configurations that are scalable and repeatable across the enterprise.
+Explore the Platform
+Continuous Compliance
+Run compliance audits on schedule or on demand with standards-based content.
+Explore the Platform
+Workflow Orchestration
+Orchestrate disparate DevOps tools and workflows from a single control plane.
+Explore the Platform
+Environment Agnostic
+Execute jobs on any node, across cloud, on-prem, hybrid or air-gapped setups at scale.
+Explore the Platform
+Pre-defined Templates
+Design workflows for incidents, certificate rotation and other planned or ad hoc events.
+Explore the Platform
+Infrastructure Management
+Empower standardized infrastructure configurations that are scalable and repeatable across the enterprise.
+Explore the Platform
+Latest from Chef
+Report
+Unock $22M in annual benefits: Read the IDC report on Progress Chef 360
+Webinar
+Progresss Chef Quarterly Product Update
+Video
+Explore the Progress Chef Platform
+Why Chef?
+15+
+Years of DevOps Expertise
+Accelerated Outcomes with Automated Workflows
+Democratize DevOps with ClickOps
+62%
+Reduced Configuration Errors
+Extend Automation with Agentless Execution
+60%
+More Efficient Infrastructure Configuration Staff
+Deploy Anywhere, Anytime
+Stay Compliant, Stay Confident
+
+*Chef is now available as SaaS, on-prem, and via marketplaces like AWS and Azure
+
+“We need a fully automated build-and-converge system like Chef that can verify that everything is in place the way it should be….”
+
+Brian O'Connell
+
+Senior Technical Staff Member, IBM
+
+“For us, the reason that Chef was so attractive was its incredible flexibility.”
+
+Phil Dibowitz
+
+Production Engineer, Meta
+
+“The Chef development stack integrates so much better than any other technology, and it's all in house.”
+
+Tim Odom
+
+Senior Site Reliability Manager, iManage
+
+“We need a fully automated build-and-converge system like Chef that can verify that everything is in place the way it should be….”
+
+Brian O'Connell
+
+Senior Technical Staff Member, IBM
+
+“For us, the reason that Chef was so attractive was its incredible flexibility.”
+
+Phil Dibowitz
+
+Production Engineer, Meta
+
+LearnChef: Learn It the Right Way!
+
+Master Chef automation and infrastructure management with our expert-led courses and hands-on labs exploring real-world scenarios. Get started with free introductory classes, validate your expertise with certifications, graduate to self-paced learning paths or get trained by SMEs.
+
+Get Started Right Away
+Resources
+ Report
+ 
+Chef leads to savings of $9.7M from improved DevOps operations
+ Video
+ 
+Harness the Power of Chef to Seamlessly Orchestrate Your DevSecOps Workflows
+ Webinar
+ 
+Chef Masterclass: Introduction on Chef-client
+
+Blogs
+
+Find how-to articles, expert insights and read the latest news and trends.
+
+Webinars
+
+Join live sessions to learn, ask and automate smarter
+
+Whitepapers
+
+Uncover strategic insights, proven practices for transforming your DevSecOps journey.
+
+Videos
+
+Watch Chef in action - Intros, Demos, How-tos and more.
+
+Customer Stories
+
+See how leading enterprises use Chef to solve real-world challenges.
+
+Documentation
+
+Explore the Chef product documentation.
+
+Get Started Today
+
+No matter where you are on your DevOps journey, we have a solution for you.
+
+Free Trial Request a Demo
+Company
+Blog
+About Progress
+Leadership
+Customer Stories
+Press Coverage
+Press Releases
+Events
+Careers
+Contact Us
+Using Chef
+LearnChef
+Docs
+Webinars
+Forums
+Training
+Security
+Contributing to Chef
+Code of Conduct
+Legal
+Terms & Conditions
+Privacy Policy
+Online Master License and Services Agreement
+Trademark Policy
+3rd Party Software Licenses
+Cookie Policy
+Connect with us
+Contact Us
+           
+
+Chef is part of the Progress product portfolio. Progress is the leading provider of application development and digital experience technologies.
+
+About Us Awards Press Releases Media Coverage Careers Offices
+
+Copyright © 2025 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.
+
+Progress and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See Trademarks for appropriate markings. All rights in any other trademarks contained herein are reserved by their respective owners and their inclusion does not imply an endorsement, affiliation, or sponsorship as between Progress and the respective owners.
+
+Security Center
+License Agreement
+
+Do Not Sell or Share My Personal Information
+
+Powered by Progress Sitefinity

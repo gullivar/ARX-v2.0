@@ -1,0 +1,151 @@
+Newsletter
+Blog
+Partner Programs
+Academy
+Contact us
+Exoscale
+PRODUCTS
+MARKETPLACE
+PRICING
+RESOURCES
+CHANGELOG
+Log in
+Register
+European Cloud Hosting
+Start a free* trial now
+GET STARTED
+Coming Soon: NVIDIA Blackwell B300 and RTX Pro 6000 GPUs are coming soon to Exoscale. Contact us to find out more.
+A solid European cloud hosting alternative.
+Compute
+High performance SSD cloud servers
+Self-sustained zones for resilient deployments
+Snapshots and Custom Templates
+Instance Pools to manage groups of machines
+Anti-affinity groups
+IAM and organization management
+Kubernetes
+Scalable Kubernetes Service
+Start Kubernetes clusters in 120 seconds
+Scale up and down worker nodes
+Full control plane lifecycle management
+CLI, API, portal, Terraform support
+Deep NLB integration
+DBaaS
+Fully managed database as a service
+Managed PostgreSQL, MySQL, Apache Kafka, OpenSearch and Valkey databases
+Managed Grafana
+Start in minutes
+End-to-end GDPR compliance
+Object Storage
+Highly available multi-redundancy object storage
+Low latency, high-bandwidth, public or private secure HTTP(s) access
+S3 compatible API for simple tooling integration
+Same-zone and cross-zone bucket replication
+Block Storage
+Ultra-low latency for high-performance workloads
+Attach multiple volumes per instance
+Highly available NVME-based architecture with multiple copies of data
+GPU Servers
+From 1 to 8 NVIDIA GPU cards
+Direct passthrough access for maximum performance
+All the advantages of a regular Compute server
+Liquid cooled and heat reuse options for sustainable computations
+Networking
+Dual 25 Gbps secure private networking
+Security groups to manage firewall rules
+Network Load Balancer
+Elastic IP addresses
+IPv6 for instances
+Virtual Private Cloud
+Cherry-pick Private Networking, Dedicated Hypervisors and Private Connect
+Available with low commitment on both shared and dedicated hypervisors
+DNS
+Anycast DNS network for low latency resolution
+Geo-replicated redundancy for optimal uptime
+CDN
+Simple-to-use content delivery network for all your assets
+Cache objects in Object Storage buckets in one click
+Consistent and predictable pricing across regions
+Powerful concepts. Simple interfaces. Built for teams.
+
+Easily use anti-affinity groups and spawn virtual servers in different data centers to ensure high availability. Securely configure firewall rules across any number of instances using security groups. Manage team members and control access to your infrastructure with organizations, keypairs and multi-factor authentication. Our simple and intuitive interfaces make powerful concepts easy to use for teams of any size.
+
+No surprises pricing. Start smart, scale hard.
+Instance sizes for any workload.
+From small clusters or even single servers to powerful big-data nodes.
+One simple hourly price, prorated to the second.
+Industry leading price performance ratio.
+True pay-per-use.
+Cluster friendly traffic pricing.
+Free internal traffic between all your instances.
+Free in-bound and 1 TB/month free out-bound per instance.
+FULL PRICING
+Compute Instances, GPU, and more
+Why Exoscale
+Trusted by Engineers Across Europe and Beyond.
+
+When running mission critical production workloads in the cloud, a partner you can rely on makes all the difference. Our customer success engineers have helped hundreds of customers from all over Europe migrate, run and scale production workloads as cloud native applications.
+
+Not Your Typical Swiss Cloud Hosting Company.
+
+Although we are known primarily as a Swiss cloud provider, we have grown by leaps and bounds, expanding our data centers to Austria, Germany, Bulgaria and Croatia.
+
+Data Security, GDPR Compliance & Data Privacy Laws.
+
+We take security seriously. Exoscale is the ideal partner for those looking to respect the strict Swiss data privacy laws. We also help engineers ensure that the workloads started in Austria, stay in Austria. Same goes for workloads started in Germany: we guarantee that they will remain in Germany. This means that your projects are GDPR-compliant when you work with Exoscale.
+
+More Than Swiss, Austrian and German Data Centers.
+
+Over the years, we’ve helped hundreds of European customers migrate, run and scale production workloads on Exoscale in Austria, Germany, Switzerland, and beyond. With certifications for ISO27001, Cloud Security Alliance, and ISO27018 we make light work of cloud provider due diligence and focus on getting the best infrastructure for your applications.
+
+EXOSCALE IS A PROUD MEMBER OF
+
+EXOSCALE
+Company
+Jobs
+Sustainability
+Partner Programs
+Academy
+Events
+Contact
+CLOUD HOSTING
+Cloud Server
+Kubernetes
+DBaaS
+Object Storage
+Block Storage
+GPU
+Networking
+Virtual Private Cloud
+Cloud DNS
+CDN
+INFRASTRUCTURE
+Templates
+Datacenters
+Security
+Compliance
+FAQ
+Status
+RESOURCES
+Documentation
+API
+Open Source
+Backup
+Integration
+Changelog
+Newsletter
+Support
+Data Portability
+Abuse
+Exoscale
+Boulevard de Grancy 19A
+1006 – Lausanne
+Switzerland
+sales@exoscale.com
++41 58 255 00 66
+PrivacyTerms and Conditions
+Exoscale is a registered trademark of Akenes SA - Reg/VAT CHE-423.524.322
+© 2025 Exoscale
+Member of A1 Digital
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings Accept All Cookies

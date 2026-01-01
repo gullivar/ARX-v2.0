@@ -1,0 +1,194 @@
+Skip to login
+Skip to main content
+Skip to footer section
+Blog
+Docs
+Contact
+ENGLISH
+EN
+FRANÇAIS
+FR
+Log in
+Sign up
+Dedicated Servers
+Compute
+AI
+Storage
+Network
+Data
+Tools
+Quantum
+Solutions
+Resources
+Pricing
+European. Cloud. AI.
+
+Build, train, deploy and scale AI models and intelligent applications on a resilient and sustainable cloud ecosystem.
+
+Create your account
+65
+Points of presence worldwide
+20
+Years of experience in building Cloud services
+80+
+Cloud products and services
+38k+
+Customers grow with Scaleway
+They trust us
+Mistral AI
+Aternos
+Hugging Face
+Golem.ai
+
+We're currently working on Scaleway SuperPod, which is performing exceptionally well.”
+
+Arthur Mensch Co-Founder & CEO, Mistral AI
+NEW
+Discover
+our AI Product
+Range
+
+Scaleway provides a full range of Cloud services to develop innovative solutions and scale AI projects from A to Z. Discover the latest additions to our AI Suite
+
+Discover all our AI solutions
+Power Your Projects
+and Scale with Trust, Security, and Compliance
+Manage Your Costs
+
+Scale Your Business, Not Your Billing. We offer simple and predictable pricing, with both ingress and egress included in most of our products and no hidden costs.
+
+Secure Your Data
+
+Ensure Your Security with distributed hosting compliance and certified data centers. Collaborate safely within our ecosystem, thanks to GDPR compliance and robust technical measures for data security.
+
+Maintain Your Sovereignty
+
+As a European alternative to hyperscalers, we ensure the data sovereignty of our customers. Create your architecture in a redundant ecosystem, with three availability zones in each of our regions.
+
+Get the Support You Need
+
+Enjoy Your Cloud experience, and get the support you need at each step. We provide 24/7 technical assistance, with fast response and exclusive services from our experts. Rely on a collaborative community to get support from developers.
+
+A European
+Cloud Provider
+with high-performing
+infrastructure
+Bare Metal
+
+Discover the power of true hardware isolation and full control over your infrastructure with our bare metal ranges. Choose between our renowned Dedibox range, our cloud-compatible Elastic Metal range, or the Apple Mac mini options.
+
+See more
+Compute
+
+Get the right instances for every workload, from development to production. Start in seconds at unbeatable prices and scale up to resilient, production-grade computing power.
+
+See more
+Network
+
+Enhance the performance and reliability of your infrastructure, including Multi-AZ VPC for high availability, Load Balancer for efficient traffic distribution, and Domains & DNS services for seamless domain management and resolution.
+
+See more
+Storage & Database
+
+Efficiently manage and scale your data storage and database requirements with Object Storage and Block Storage for flexible data storage, as well as Managed Databases services for simplified database management.
+
+See more
+Containers
+
+Simplify the development of your applications with Container services to facilitate the management and portability of your infrastructure. From Managed Kubernetes to Serverless Containers, you will have all you need to scale your containerized apps.
+
+See more
+AI and Machine Learning
+
+A high-performance cloud platform supported by a range of AI services. We provide modern GPU-based infrastructures to enable multi-node training of LLMs and simple node training. We will soon launch a full range of GPU H100 services.
+
+See more
+Choose the cloud that makes sense
+Customer data sovereignty
+
+Dependency is the enemy of resilience. Customers want their data hosted by a regional provider. Gain sovereignty with our multi-cloud tools & infrastructure.
+
+Sustainable data centers
+
+We recycle our hardware, only use renewable energy and pay close attention to our water usage. Also, our Power Usage Effectiveness (PUE) is displayed online 24/7 for you to see for yourself.
+
+Low latency
+
+Every complete cloud ecosystem needs 100% reliability, which is why we provide nine Availability Zones in three different regions.
+
+Start your Cloud journey with the right resources
+Documentation
+
+Get started with peace of mind when you build your infrastructure with the help of technical documentation, step-by-step tutorial, code sample, developer videos and guide.
+
+See our documentation
+API
+
+Enjoy the convenience of our API, command line interface (CLI), and developer tools, allowing you to conquer your cloud management goals with unparalleled ease and efficiency.
+
+Discover Scaleway API
+Changelog and Status
+
+Stay informed and connected with Scaleway services through our operational Status page, offering real-time updates on the platform, and access our changelog for the latest news and updates regarding our product portfolio.
+
+Check out our changelog
+Products
+All Products
+Betas
+Bare Metal
+Dedibox
+Elastic Metal
+Compute Instances
+GPU
+Containers
+Object Storage
+Block Storage
+Resources
+Documentation
+Changelog
+Blog
+Feature Requests
+Slack Community
+Contact
+Create a ticket
+Report Abuse
+Status
+Dedibox Console online.net
+Support
+Brand resources
+Company
+About us
+Events
+Marketplace
+Environmental Leadership
+Social Responsibility
+Security
+Shared Responsibility Model
+News
+Careers
+Scaleway Learning
+Client Success Stories
+Labs
+
+Follow us
+
+linkedIn
+YouTube
+x
+instagram
+slack
+Contracts
+Legal Notice
+Privacy Policy
+Cookie
+Security Measures
+Accessibility Statement
+Service Level Agreement
+© 1999-2025 - Scaleway SAS
+Cookie time!
+
+We use cookies in order to improve our website and to offer you a better experience. You can also consult our Cookie policy.
+
+Manage your preferences
+Accept all
+Reject all

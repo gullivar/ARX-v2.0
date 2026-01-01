@@ -1,0 +1,170 @@
+Electronic Component Search Engine
+Technical Content 
+ENG
+ENG
+DEU
+简体中文
+Sign In Register
+Electronic Component Search Engine
+
+Free access to schematic symbols, PCB footprints and 3D models
+
+Schematic
+symbols
+PCB
+footprints
+3D
+models
+ Search
+Example searches: 2N7002P Rectifier diodes
+What is Component Search Engine?
+Find an Electronic Component
+
+Search by manufacturer part number or keyword
+
+Download it for Free
+
+Download part schematics, PCB footprints and 3D models for FREE
+
++ Add it to your ECAD Tool
+
+Add schematic symbols and PCB footprints directly into your ECAD tool
+
+You can also set Model Update Alerts on components you've downloaded to stay informed and up-to-date.
+Learn more about Component Search Engine ≫
+New Technical Content
+ New Product Video
+Dec 11, 2025
+Panasonic Electric Works EKMB/C Ultra-Wide PIR Motion Sensor
+
+This video is brought to you by DigiKey. The EKMB and EKMC Series from Panasonic Electric Works are ultra-wide Passive Infrared (PIR) motion sensors designed for high-performance motion detection in various environments. These sensors utilize advanced infrared technology to detect changes in thermal radiation, enabling accurate identification of human presence or... See More
+
+ New Product Video
+Dec 11, 2025
+TE Connectivity HDSCH Connectors
+
+TE Connectivity’s HDSCH connectors are designed for high-density signal and power applications in environments where reliability and compact design are critical. These connectors provide secure electrical connections and are engineered to withstand mechanical stress and environmental challenges commonly encountered in automotive and industrial systems. The HDSCH series features robust housing materials... See More
+
+ New Product Video
+Dec 11, 2025
+Digi International ConnectCore 93 System-on-Module/Dev Kit
+
+This video is brought to you by DigiKey. The ConnectCore 93 System-on-Module (SoM) from Digi International is built on the NXP i.MX 93 processor platform, offering a scalable and secure solution for embedded designs. This SoM integrates advanced processing capabilities with energy efficiency, making it suitable for industrial and IoT applications... See More
+
+ New Product Video
+Dec 11, 2025
+Microchip Technology EV02G02A
+
+This video is brought to you by DigiKey. The EV02G02A from Microchip Technology is an evaluation board designed to support the development and testing of advanced power management and control solutions. It provides engineers with a platform to validate designs and optimize system performance for applications requiring efficient energy conversion and... See More
+
+ New Product Video
+Dec 11, 2025
+NXP MCX E Series MCUs
+
+This product video is brought to you by Mouser Electronics. The NXP MCX E Series microcontrollers are designed for energy-efficient, real-time control applications. Built on the Arm® Cortex®-M33 core, these MCUs deliver a balance of performance and power efficiency, making them suitable for industrial and IoT systems that require precise... See More
+
+ New Product Video
+Dec 11, 2025
+NXP S32K312MINI-EVB Evaluation Board
+
+This video is brought to you by DigiKey. The NXP S32K312MINI-EVB Evaluation Board is designed to provide a compact and cost-effective platform for evaluating the S32K3 family of automotive microcontrollers. This board is optimized for rapid prototyping and development, enabling engineers to validate designs and test features in real-world scenarios... See More
+
+View more news on the Technical Content page
+Search PCB Libraries that integrate seamlessly with the following ECAD Tools
+Model Downloads (Past 30 Days)
+260739 Model Downloads (past 30 days)
+Newly Added Electronic Components
+LIFCL-33-8USG84I
+Lattice Semiconductor
+ 
+3-1376383-4
+TE Connectivity
+Connectors
+ 
+87437-1473
+Molex
+Connectors
+ 
+MB2S
+Diotec
+ 
+PESD3V3S1ULSYL
+Nexperia
+ 
+KB2885SGD
+Kingbright
+Optoelectronics
+ 
+43223-8158
+Molex
+Connectors
+ 
+LPC2478FBD208K
+NXP
+ 
+SFH2500FA
+ams OSRAM
+ 
+UFW1C471MPD1TD
+Nichicon
+ 
+HPAL1V0630-100-R
+Eaton
+ 
+WP113CGKDT
+Kingbright
+Optoelectronics
+ 
+Most Popular Electronic Components
+BAV99
+Taiwan Semiconductor
+Diode
+ 
+2N7002P
+Nexperia
+MOSFET (N-Channel)
+ 
+STM32F407ZGT6
+STMicroelectronics
+Integrated Circuit
+ 
+NE555DR
+Texas Instruments
+Integrated Circuit
+ 
+0603CG3R0C500NT
+Guangdong Fenghua Advanced Tech
+Capacitor
+ 
+XT30PB
+Amass
+Connector
+ 
+A000048
+Arduino
+Integrated Circuit
+ 
+3296W-1-103LF
+Bourns
+Variable Resistor
+ 
+1769
+Adafruit
+Connector
+ 
+PH1-04-UA
+Adam Tech
+Connector
+ 
+STC89C52rc
+STC Micro
+Integrated Circuit
+ 
+10118192-0001LF
+Amphenol Communications Solutions
+Connector
+ 
+About Us Contact Us Terms of Service Do not sell or share my personal information Privacy Policy Digital Services Act Library Loader Twitter LinkedIn
+
+All content Copyright © 2020, Supplyframe.com. All rights reserved.
+Back to top ↑

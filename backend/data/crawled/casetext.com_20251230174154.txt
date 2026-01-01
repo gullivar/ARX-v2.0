@@ -1,0 +1,444 @@
+Skip to main content
+Solutions
+Products
+Purchase
+Resources
+CoCounsel: The industry-leading AI assistant for professionals
+
+Built by industry experts, backed by authoritative content, and equipped with best-in-class security, CoCounsel frees you to focus on high-value work that better serves your clients and business
+
+Legal professionals 
+
+Tax professionals 
+
+Audit professionals 
+
+Accounting professionals 
+
+CoCounsel is your trusted partner, supporting you every step of the way
+
+Move effortlessly between tasks with an AI assistant powered by agentic and generative AI.
+
+View video
+Work smarter with advanced AI
+
+Now, professionals can benefit from a single, integrated AI assistant for all their needs. CoCounsel provides:
+
+A fluid connection to the solutions you work in every day; it understands context and nuance across products and workflows, allowing you to derive more in-depth insights faster than ever.
+Access to the most innovative large-language models (LLMs) backed by the industry's most trusted and reliable content.
+Integration with industry-leading platforms such as Westlaw, Practical Law, Checkpoint, Microsoft 365, and document management system partners. 
+Expert technology
+
+Deliver results faster than ever before with technology engineered by over 1,000 AI and machine-learning (ML) experts.
+
+Data privacy
+
+Operate confidently knowing your sensitive data is secure, private, and not being used to train artificial intelligence models.
+
+Trustworthy AI
+
+Transform your work with agentic AI and generative AI (GenAI) grounded in trusted content and maintained by experts who focus on limiting inaccuracies and algorithmic bias.
+
+Secure processing
+
+Protect your client’s sensitive data during transit and storage with industry-standard protocols and encryption.
+
+The future of professional-grade AI is here.
+See how Thomson Reuters is leading the way.
+Read more
+Trusted by industry leaders
+On any given day, I feel like I save 6 to 8 hours of attorney time.
+
+ 
+
+Daniel Olson
+Shareholder, Bassford Remele
+
+Read case study
+
+What CoCounsel has allowed us to do is efficiently manage massive amounts of data and become more responsive to our clients’ needs, in a timelier fashion.
+
+ 
+
+Ted Schaer
+Chairman of Litigation, Zarwin Baum
+
+Read case study
+
+CoCounsel is not a replacement for outside counsel when the stakes are high, but for 90% of what I do day-to-day, it’s the perfect solution.
+
+ 
+
+Gregory Kantor
+CFO, OMNIUX
+
+Read case study
+
+Discover how other leaders are using AI
+View all customer stories
+Frequently asked questions
+Does Thomson Reuters or its third parties retain user content or prompts to train their GenAI-based products or underlying large-language models (LLM)?
+
+No. Your user content and prompts are not used to train or improve CoCounsel and associated products or LLMs, used in Thomson Reuters or third-party output, or stored by OpenAI or Google.
+
+Thomson Reuters AI third-party partners, such as OpenAI and Google, are contractually prohibited from using any customer data to train their models. Additionally, where applicable, we have established systemic controls to turn off third parties' abuse-monitoring solutions to ensure there is no human access to Thomson Reuters customers' data or inclusion of that data in third-party models.
+
+How long does Thomson Reuters retain user content and prompts?
+
+Retention of user content and prompts is customized to fit customer needs and set up at the organization account level with the support of a Thomson Reuters client manager. We then delete user content and prompts in accordance with the customer's retention policy. Users can delete their content and prompts in the product at any time. 
+
+How does Thomson Reuters protect user privacy and data?
+
+All GenAI LLM requests originating from Thomson Reuters are processed under the identity "Thomson Reuters," never identifying the Thomson Reuters customer who made the request. We secure all data in transit via TLS 1.2, and symmetric encryption (AES-256) protects data at rest. All interactions with GenAI LLM providers use zero-retention API calls.
+
+Where are user content and user prompts stored when retained?
+
+Systematic procedures and hosting are in the U.S. We process all interactions with OpenAI GPT and Google Gemini in the U.S. We host backup data in separate availability time zones in the U.S.*
+
+*Region-based hosting is available in the UK, Australia, and Canada.
+
+What guardrails are in place to prevent bias in Thomson Reuters content?
+
+We have developed and implemented prompting "guardrails," ensuring our GenAI-based products will only produce responses from content drawn from a clearly defined and limited set of verified information, such as our own content databases. This practice restricts the large language model's ability to produce potentially objectionable content broadly sourced from the internet.
+
+Discover all things AI @ Thomson Reuters
+
+Sign up for industry-specific AI insights and the latest CoCounsel developments.
+
+
+* Indicates required field
+
+First name *
+ 
+Last name *
+ 
+Email address *
+ 
+Organization type *
+Select
+Academic
+Accounting Firm (0-29 Employees)
+Accounting Firm (30-100 Employees)
+Accounting Firm (101-1001+ Employees)
+Corporation ($0-500 Million)
+Corporation ($501 Million or more)
+Government - State & Local
+Government - Federal
+Law Firm (1-10 attorneys)
+Law Firm (11-29 attorneys)
+Law Firm (30 or more attorneys)
+ 
+Country/region *
+Select
+United States
+United Kingdom
+Canada
+Auckland Islands
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+Brit/Indian Ocean Terr.
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cote D'Ivoire
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Terr.
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard/McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea (North)
+Korea (South)
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+N. Mariana Islands
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Rwanda
+Saint Barthelemy
+Saint Kitts and Nevis
+Saint Lucia
+Samoa
+San Marino
+Sao Tome/Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Spain
+Sri Lanka
+St. Helena
+St. Pierre and Miquelon
+St. Vincent and Grenadines
+Sudan
+Suriname
+Svalbard/Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks/Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+US Minor Outlying Islands
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Viet Nam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis/Futuna Islands
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ 
+Select the solution you are interested in: *
+Select
+Legal
+Tax & Accounting
+Trade & Supply
+Risk & Fraud
+ 
+Check here to receive emails about Thomson Reuters products or services that may interest you.
+ 
+
+This site is protected by reCAPTCHA and the Google 
+Privacy Policy
+ and 
+Terms of Service
+ apply.
+
+Submit
+
+About us
+About Thomson Reuters
+Annual report
+Careers
+Digital accessibility
+Investor relations
+Our purpose
+Press releases
+Social impact
+The Trust Principles
+Learn more
+Partnership information
+Supplier information
+Global sites directory
+Site map
+Contact us
+Sales & support
+Investors support
+Media relations
+Office locations
+Reuters
+Reuters News & Media
+Reuters Best
+Reuters Professionals
+Core Publishing Solutions
+Book printing for publishers
+Connect with us
+Facebook
+Instagram
+LinkedIn
+X
+YouTube
+Thomson Reuters
+Cookie policy
+Cookies Settings
+Terms of use
+Privacy statement
+Copyright
+Supply chain transparency
+Do not sell or share my personal information and limit the use of my sensitive personal information
+Manage Your Privacy Choices
+Thomson Reuters, along with its service providers, may use cookies and other tracking technologies necessary to provide our services and ensure their security. By accessing our site, you consent to the transfer of your personal information outside your home country and to our service providers as required for these purposes. With your consent we may also use cookies and other trackers to improve your online experience, serve personalized ads or content, and analyse how you use our site. If you consent to these purposes, you also agree that Thomson Reuters, along with its service providers and third parties, may transfer and process your personal data outside your home country for those specified purposes. You may manage your choices through Cookie Settings. You may modify your choices at any time, by selecting the 'Cookie Settings' button in our website footer.
+
+Cookie Policy
+Privacy Statement
+Cookies Settings
+Reject All
+Accept All

@@ -1,0 +1,29 @@
+ cock.li - yeah it's mail with cocks
+
+Home | Contact | New GPG Key | Unblock SMTP | Change Password | Register
+
+Cock.li is your go-to solution for professional e-mail addresses. You will never make a better first impression than the e-mails you send from our servers. Make sure to ask them to check their spam :(
+
+This public e-mail host has been mostly alive since 2013 and its small team of digital couriers works to keep the mail flowing. You will never be asked to verify personal information here because we believe anyone should have access to e-mail without requiring to connect it to the growing surveillance state. Our work here is in service to this idea.
+
+Lots of services are free because they feast on your personal data for profit or control. Cock.li is free because the last thing we want to do is build a service worth paying for.
+
+User count: 1M+
+
+How can I trust you?
+
+You can't. Cock.li doesn't read or scan your e-mail content in any way, but it's possible for any e-mail provider to read your e-mail, so you'll just have to take our word for it. No "encrypted e-mail" provider is preventing this: even if they encrypt incoming mail before storing it, the provider still receives the e-mail in plaintext first, meaning you're only protected if you assume no one was reading or copying the e-mail as it came in. When possible, you should use X.509 or GPG with your mail correspondents to encrypt your message content and prevent it from ever being handled in plaintext on our servers. You should also download and delete your mail from our servers regularly, which alone is almost as good as encrypting your mail.
+
+Server Info
+
+mail.cock.li — IMAP, POP
+
+xmpp.cock.li — XMPP
+
+Hidden Services
+
+rurcblzhmdk22kttfkel2zduhyu3r6to7knyc7wiorzrx5gw4c3lftad.onion — HTTP (www.cock.li)
+
+xdkriz6cn2avvcr2vks5lvvtmfojz2ohjzj4fhyuka55mvljeso2ztqd.onion — IMAP, POP, XMPP
+
+Site Log | Warrant Canary | Transparency | Terms of Service | Privacy Policy | Report Abuse

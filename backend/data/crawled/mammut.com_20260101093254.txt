@@ -1,0 +1,12 @@
+This edge function has crashed
+
+An unhandled error in the function code triggered the following message:
+
+The deployment failed while serving the request.
+Connection details
+
+Netlify internal ID: 01KDVFHH5N4WDVRDHECT6GCZFJ
+
+Next steps
+Site visitors: Contact the site owner or try again.
+Site owners: Review the edge function logs for more information. To customize the error behavior, visit the documentation.

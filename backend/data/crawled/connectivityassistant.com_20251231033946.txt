@@ -1,0 +1,98 @@
+Your choice regarding cookies on this site
+
+We use cookies to optimise site functionality and give you the best possible experience.
+
+I Accept CookiesI Do Not Accept CookiesSettings
+Market Insights
+Solutions
+Our Approach
+Apps
+About
+Blog
+App Developers
+
+INCREASE APP RETENTION AND IMPROVE USER EXPERIENCE WITH OPENSIGNAL CONNECTIVITY ASSISTANT (OSCA)
+
+Poor connectivity is hurting your app
+
+Analysis shows that when connectivity is poor, app performance is likely to suffer in a number of ways.
+
+Yet over 80% of connectivity problems can be solved by the application publisher or the user.
+
+Download our slide deck
+Introducing OSCA
+
+OSCA for Android and iOS helps mobile app developers to understand how connectivity is affecting user experience and provides actionable steps to improve performance.
+
+With OSCA you can:
+Understand where and when poor connectivity is impacting your user experience
+Analyse how poor connectivity is affecting your user journey and funnel performance
+Identify the issues that are within your control to improve
+Then, take actionable steps to:
+Implement front-end features to inform your users that they are experiencing poor connectivity, to avoid them leaving a bad app review
+Optimise your server infrastructure to deliver better performance
+Optimise your app to better cope with poor connectivity or high latency
+Convenient, Compliant and Compatible
+
+<1 hour to integrate
+
+Integration into iOS and Android apps takes under 1 hour, with a package deployable via Maven.
+
+Integrate with MMPs
+
+Integrate Appsflyer, Amplitude and more to identify how connectivity is affecting your UX and conversion funnel.
+
+Help improve networks
+
+We use anonymised derivatives of the data to inform network providers where they have weakness, to enable them to improve.
+
+Privacy Compliant
+
+We work diligently to comply with privacy regulations globally including GDPR and CCPA. Data is only collected with user consent. No personal or advertising IDs are collected.
+
+Talk to us to learn more
+Click to view our slide deck or request a free demonstration
+Ricardo Silva
+Devan McCannel
+Get in touch
+
+Our team will get back to you within 2 business days
+
+Sign up to our newsletter to receive the latest Opensignal reports in your inbox
+
+Subscribe
+About
+Leadership
+Newsroom
+Careers
+Contact
+Blog
+Market Insights
+All Reports
+Global Insights
+Solutions
+Technical Teams
+Sales & Marketing Teams
+Regulators
+Analysts
+App Developers
+Products
+Technical Solutions (ONX)
+Subscriber Acquisition Solutions
+Brand Licensing
+Subscriber Analytics
+GeoResults
+Opensignal Apps
+Mobile Coverage Apps
+Our Approach
+Methodology Overciew
+Independence Charter
+Experience Charter
+Analytics Charter
+Data Privacy Charter
+
+© 2025 Opensignal Limited - All rights reserved
+
+Privacy Policy : Apps & Connectivity Assistant
+Privacy Policy : Services & Web
+Terms & Conditions

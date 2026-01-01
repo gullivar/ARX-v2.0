@@ -1,0 +1,46 @@
+Mailspring - The best free email app Looking for a Newton alternative? Mailspring is packed with features you
+      know and love and is available for Mac, Windows and Linux! Mailspring Pro Features Community GitHub Download Say hello to Mailspring. Boost your productivity and send better email with Mailspring, the best
+        mail client for Mac, Linux, and Windows. Download Mailspring Free Everything you need. Multiple accounts (IMAP & Office 365) Touch and gesture support Advanced shortcuts Lightning-fast search Undo send Unified Inbox Read receipts, link tracking, and more Mac, Windows, and Linux support Themes and layouts (including dark mode) Localized into 9 languages Download Mailspring Free Advanced
+            Search Mailspring indexes your mail so you can use advanced, Gmail-style
+            search queries and search message contents across all your connected
+            accounts. Never lose an email again. Learn More > Signatures Your signature should leave a lasting impression. Mailspring's
+            beautiful signature editor makes it easy to create custom
+            signatures, complete with images and links to social media profiles. See How > Unified inbox Using a single inbox for all of your email accounts helps you get
+            more done in less time. Mailspring supports every major mail
+            provider—Gmail, iCloud, Office 365, Outlook.com, Yahoo!, and
+            IMAP/SMTP—so you have a single, streamlined command center for
+            all your messages. Translation Business happens in every language. Mailspring can translate
+            messages written in English into Spanish, Russian, simplified
+            Chinese, French, and German—right inside your draft. Receive email in other languages? Mailspring will offer to translate
+            incoming emails into your system language whenever possible. Spell Check Mailspring auto-detects the language you're using and spell checks
+            in that language. No need to change your settings! Extensive Localization Mailspring has been translated into German, French, Spanish, Korean, Japanese, Chinese, Polish and Brazilian Portuguese by volunteer contributors and machine-translated into 60 more languages so you'll
+            feel right at home. A right-to-left layout for Hebrew and Arabic ensures it blends in to your desktop. Easy RSVPs When you receive invitations to events via email, Mailspring displays the event information and allows you to RSVP without leaving your mailbox! Download Mailspring Free Themes you'll love. Mailspring includes multiple layouts and themes, so you can match your
+        desktop or your mood! Download Mailspring Free Go further with Mailspring Pro. Understand your audience. Send timely follow-up. Turn clicks and opens
+        into actionable insights. Mailspring Pro is your unstoppable email
+        sidekick for sales and business. Manage your busy inbox Mailspring Pro removes the limits in the free version, so you can
+            snooze messages, schedule reminders, and send later an unlimited
+            number of times and conquer your inbox. Contact and company profiles Understanding your contacts and customers is the key to connecting
+            with them. Mailspring provides the context you need right beside
+            your emails. Enriched contact profiles include bios, links to social
+            profiles, your previous conversations and more. Mailspring also digs deep and retrieves company info including office
+            timezones, headcount, fundraising status, and more. See How > Read Receipts Activity tracking is built into Mailspring so you get notified as
+            soon as contacts read your messages and can follow up appropriately. Link tracking How contacts engage with your content gives you insight into what's
+            working and what's not. Mailspring can notify you when your links are
+            clicked so you know what's generating interest. See How > Quick reply templates Typing common emails over and over is a drag—and when you send
+            outreach that works, you want to reuse it. Mailspring's quick reply
+            templates let you create a library of customizable emails that are
+            at your fingertips every time you send. Mailbox Insights Mailspring's Activity tab shows a breakdown of your email activity,
+            including the time of day you receive the most email and the click and open rates
+            of your tracked outbound messages. Identify your most effective subject-lines and 
+            templates at a glance to optimize your messaging. Mailspring Pro is only $8/mo, and you can test-drive Pro features a few
+        times each week for free. Learn more about Mailspring Pro A new beginning for Nylas Mail. Who is Mailspring? Hi there! My name is Ben Gotow, and I'm one of the original authors of Nylas Mail. My company, Foundry 376 , is re-launching Nylas Mail because I believe it can be—and
+            should have been—the best new mail client in a decade. We're spinning up new infrastructure, re-writing huge parts of the codebase, and committed to offering the same free
+            version and paid Pro features that made Nylas Mail the best mail
+            client for work. What's better about Mailspring? The JavaScript sync engine has been replaced with a new C++ core
+              built on the same framework that powers Sparrow, Airmail, and
+              more. Mailspring uses ~50% less RAM, syncs mail faster, and won't
+                hurt your battery. Heavy dependencies have been removed and the package manager has
+              been re-written for speed. Mailspring launches in a second. This is just the beginning. Mailspring isn't VC
+              funded and doesn't need to make millions to succeed. Just a
+              thousand paid subscriptions will make Mailspring a stable business
+              and we have big ideas for the future of email. Just getting started? Find your email provider's IMAP / SMTP settings: Office365 Yahoo Fastmail AOL Mail.com Mailspring's use of information received from Google APIs adhere to the Google API Services User Data Policy , including the Limited Use requirements. © 2017-2020 Foundry 376, LLC. Press Kit Pro Terms Privacy Policy Security Community GitHub Download

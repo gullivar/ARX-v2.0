@@ -1,0 +1,67 @@
+Language 
+Search
+Certificates
+Learn
+Certificate Management
+Support
+Contact us
+Thawte
+Smart global SSL security
+BUY NOW
+RENEW
+Thawte places trust at the center of SSL security
+
+Trust is at the center of confidence—confidence in visiting your site, entering information, and making a purchase. When you put trust at the center of your website security, not only do you have peace of mind, your customers know their information, data, and money is protected.
+
+What does an SSL certificate do?
+
+A TLS/SSL certificate encrypts website digital information when it’s moving between the server and the browser. SSL certificates prevent hackers from gaining access to, or altering your website data, and they also allow visitors to securely enter information for form fills or encrypted purchases. An SSL certificate provides trust to you and your customers. As an SSL Certificate Authority (CA), Thawte is a trusted third-party certificate issuer.
+
+When you see a web address beginning with HTTPS, you know that site is secured by TLS/SSL encryption.
+
+How does TLS/SSL secure your website?
+
+Compare Thawte TLS/SSL certificates >
+
+Learn about the certificate validation process >
+
+Never let a certificate expire
+
+Thawte customers get access to our advanced certificate management platform, DigiCert CertCentral®. With CertCentral, you can easily buy, renew, revoke and manage all your certificates from one platform.
+
+DigiCert CertCentral gives you tools, insights and automation so your security is always intact. See how DigiCert CertCentral simplifies TLS/SSL certificate lifecycle management.
+
+LEARN MORE
+Thawte is powered by DigiCert.
+
+DigiCert is a leading global provider of digital trust, enabling individuals and businesses to engage online with the confidence that their footprint in the digital world is secure. DigiCert® ONE, the platform for digital trust, provides organizations with centralized visibility and control over a broad range of public and private trust needs, securing websites, enterprise access and communication, software, identity, content and devices. DigiCert pairs its award-winning software with its industry leadership in standards, support and operations, and is the digital trust provider of choice for leading companies around the world. For more information, visit www.digicert.com or follow @digicert.
+
+Thawte delivers the highest level of trust in encryption, authentication and identify. As a globally recognized Certificate Authority, Thawte provides the strongest assurance for TLS/SSL security.Thawte is powered by DigiCert, the world's leader in trusted, scalable TLS, IoT and PKI solutions.
+
+CERTIFICATES
+TLS/SSL Certificates
+SSL Web Server Certificates
+Mark Certificates
+S/MIME Certificates
+Code Signing Certificates
+Document Signing Certificates
+LEARN
+Resources & Learning
+Certificate Management
+Validation Process
+COMPANY
+About
+Contact Us
+Support
+KnowledgeBase
+Report Misuse
+
+© 2025 DigiCert. All rights reserved.
+
+Legal Repository
+Audits & Certifications
+Accessibility
+Terms of Use
+Privacy Center
+Sitemap
+Cookie Settings

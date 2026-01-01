@@ -1,0 +1,127 @@
+Rocky Linux
+News
+About
+Community
+Help
+Contribute
+Toggle Theme
+Download
+Enterprise Linux, the community way.
+
+Rocky Linux is an open-source enterprise operating system designed to be 100% bug-for-bug compatible with Red Hat Enterprise Linux®. Rocky Linux is under intensive development by the community.
+
+Download
+Migrate
+
+A Registered Digital Public Good
+
+STABLE, PRODUCTION READY LINUX
+
+Rock solid, no matter the use-case.
+
+Rocky Linux rebuilds sources directly from RHEL®, so you can bet your best dollar that you'll have a super stable experience, no matter the use-case.
+
+Production Ready
+
+Rocky Linux is enterprise-ready, providing solid stability with regular updates and a 10-year support lifecycle, all at no cost.
+
+Community Supported
+
+The community, sponsors, and partners have invested with long-term commitments to ensure the project stays with the community.
+
+Easy Migration
+
+Migrate from other Enterprise Linux distributions without sweating it. We provide an easy-to-use migration script, free of charge.
+
+Latest News
+
+We regularly share updates with the community about what's happening. Here's the latest.
+
+Rocky Linux 9.7 Available Now
+
+December 1, 2025
+
+We are pleased to announce the general availability of Rocky Linux 9.7. Updated installation media, container images, cloud images, and live images ar...
+
+Rocky Linux 10.1 Available Now
+
+November 25, 2025
+
+We are pleased to announce the general availability of Rocky Linux 10.1. Updated installation media, container, cloud, development board, and live ima...
+
+Rocky Linux 10.0 Available Now
+
+June 11, 2025
+
+Rocky Linux 10.0 Available Now By Neil Hanlon, Infrastructure Lead and Alexia Stein, Community Lead We are pleased to announce the general availabilit...
+
+Rocky Linux 9.6 Available Now
+
+June 4, 2025
+
+We are pleased to announce the general availability of Rocky Linux 9.6. Updated installation media, container, cloud, and live images are available fr...
+
+RockyLinux Official Support for RISC-V in RL10!
+
+May 21, 2025
+
+🏗️ Rocky Linux 10 Will Support RISC-V! We're excited to announce that Rocky Linux 10 will officially support RISC-V! Thanks to the incredible work of...
+
+The Rocky Enterprise Software Foundation endorses the United Nations Open Source Principles
+
+March 12, 2025
+
+The Rocky Enterprise Software Foundation (RESF) today announced that it has joined the growing list of Open Source organizations to officially endorse...
+
+Backed By
+
+CIQ
+
+45 Drives
+
+Advanced Clustering Technologies
+
+ARM
+
+AWS
+
+Equinix
+
+Fastly
+
+Google Cloud
+
+Mattermost
+
+MontaVista
+
+NAVER Cloud
+
+OpenDrives
+
+OSSLAB
+
+OSU Open Source Lab
+
+Rakuten Symphony
+
+RISC-V International
+
+Supermicro
+
+VMware
+
+Licensing
+Privacy Policy
+Trademarks
+Bluesky
+Mastodon
+Facebook
+Instagram
+Threads
+LinkedIn
+GitHub
+YouTube
+English
+
+Rocky Linux® is the registered trademark of the Rocky Enterprise Software Foundation in the U.S. and other countries. Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries. Red Hat Enterprise Linux, RHEL and CentOS are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the US and other countries. We are not affiliated with, endorsed by or sponsored by Red Hat, Inc.

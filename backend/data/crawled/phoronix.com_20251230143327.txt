@@ -1,0 +1,283 @@
+ARTICLES & REVIEWS
+NEWS ARCHIVE
+FORUMS
+PREMIUM
+CONTACT
+ CATEGORIES
+Latest Linux Hardware Reviews, Open-Source News & Benchmarks
+It Took 6+ Years For Linux's "New" Mount API To Be Properly Documented In Man Pages
+4 Hours Ago - Linux Storage - New Mount API - 2 Comments
+
+In demonstrating one of the gaps of man pages in modern times and likely having hindered the adoption of the Linux kernel's new mount API, it took more than six years for those system calls to be properly documented within man pages. The Linux "new" mount API was introduced back in mid-2019 with Linux 5.2 and since supported by key file-systems after several years but not until weeks ago was this file descriptor based mount API scoped out within man pages.
+
+Hyprland 0.53 Released With New Launcher For Crash Recovery & Safe Mode, New Welcome App
+10 Hours Ago - Wayland - Hyprland 0.53 - 12 Comments
+
+Hyprland 0.53 was released today as the last feature update to this Wayland compositor for 2025.
+
+The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers
+29 December 10:10 AM EST - Operating Systems - 26 Comments
+
+One of the more interesting announcements over the holiday period thus far is that moving into 2026, CachyOS is looking to develop a server edition for their Arch Linux based operating system. CachyOS has garnered quite a following among Linux enthusiasts and gamers for its competitive out-of-the-box performance, employing some of the optimizations by Intel's now defunct Clear Linux distribution, and pulling in all of the goodness from upstream Arch Linux. It will be very interesting to see how CachyOS Server Edition takes shape and whether it will develop a foothold in any prominent enterprise environments. While CachyOS Server Edition isn't yet released and still in its early stages, over the holidays I decided to see how CachyOS in its current form currently looks for AMD EPYC servers.
+
+NTFSPLUS Linux Driver Renamed To Just "NTFS" With Latest Code Restructuring
+29 December 09:33 AM EST - Linux Storage - NTFS v3 Patches - 11 Comments
+
+One of the unexpected Linux kernel surprises of 2025 was NTFSPLUS being announced as a new driver for Microsoft's NTFS file-system with better performance and more features compared to the classic read-only NTFS driver or the "NTFS3" kernel driver that Paragon Software submitted upstream. That NTFSPLUS driver has continued expanding its feature set and robustness and sent out today was the third iteration of the patches. Now this driver is simply being called "NTFS" with no longer going by the NTFSPLUS name.
+
+Linux's Cache Aware Scheduling On AMD Ryzen 9 9950X3D 3D V-Cache
+29 December 06:57 AM EST - Linux Kernel - Cache Aware Scheduling + Ryzen - 6 Comments
+
+One of the many interesting Linux kernel innovations I have closely been following this year has been the proposed Cache Aware Scheduling support. I have shown the Cache Aware Scheduling performance on AMD EPYC as well as the Intel Xeon 6 Granite Rapids performance, but what about desktops? In this article is a quick look at Cache Aware Scheduling with the Ryzen 9 9950X3D.
+
+Updated Linux Drivers Posted For Legion Go & Legion Go S Configuration
+29 December 06:34 AM EST - Hardware - Legion Go Controller Configuration - Add A Comment
+
+Open-source developer Derek J. Clark continues leading the efforts on improving the Lenovo Legion Go series hardware support under Linux. Posted today was the second iteration of the HID driver work for the Legion Go and Legion Go S for configuration support with the built-in controller HID interfaces.
+
+Linux 7.0 Expected To Bring IO_uring IOPOLL Polling Improvements
+29 December 06:13 AM EST - Linux Storage - IO_uring Improved Polling - 6 Comments
+
+The next Linux kernel cycle, which will be known as Linux 6.20 or more than likely Linux 7.0, is expected to land some IO_uring improvements for better IOPOLL polling.
+
+SuperTux 0.7 Reaches Beta For Reviving An Open-Source Classic
+29 December 05:56 AM EST - Linux Gaming - SuperTux 0.7 Beta - 4 Comments
+
+Longtime Linux users likely have fond memories of SuperTux as the open-source jump-n-run game that used to be included on some early Linux live CD/DVDs for this Super Mario Bros inspired game. There hasn't been a new release of SuperTux in over four years but out today is the beta of SuperTux 0.7 as a major overhaul to the free software, family-friendly game title.
+
+28 December
+KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025
+28 December 08:40 PM EST - KDE - KDE Plasma 2025 - 48 Comments
+
+In addition to today's blog post calling out the need for others to takeover the This Week In Plasma series, KDE developer Nate Graham also published another blog post to highlight the successes of the Plasma desktop over 2025. In particular, the KDE Plasma Wayland transition "nears completion" as it works to become Wayland-only in early 2027.
+
+Linux 6.19-rc3 Released With A Holiday's Week Of Fixes
+28 December 04:46 PM EST - Linux Kernel - Linux 6.19-rc3 - Add A Comment
+
+Linus Torvalds just released Linux 6.19-rc3 to ship this week's fixes. Linux 6.19-rc3 is coming in light as expected due to the Christmas week with many corporate developers getting paid time off and others taking part in year-end festivities.
+
+D7VK 1.1 Released With An Experimental Direct3D 6 Frontend
+28 December 03:14 PM EST - Linux Gaming - D7VK 1.1 - 15 Comments
+
+Between the DXVK and VKD3D(-Proton) projects there is good support for Direct3D 8 through Direct3D 12 implementations atop the Vulkan API for Linux gaming usage. For those preferring more retro classic gaming, D7VK came about more recently for Direct3D 7 as a DXVK fork. Out today is D7VK 1.1 and besides delivering fixes for its D3D7 implementation has also now tacked on an experimental D3D6 front-end.
+
+Intel Xe vs. i915 Driver Performance On Linux 6.19 For Arc Alchemist GPUs
+28 December 11:10 AM EST - Display Drivers - 17 Comments
+
+Similar to AMD GCN 1.0/1.1 GPUs where there was product overlap between the Radeon and AMDGPU kernel drivers (and now using AMDGPU by default for those aging Radeon GPUs with Linux 6.19), the Intel Arc A-Series "Alchenist" graphics cards are in a similar boat. By default the Alchemist and Meteor Lake graphics use the i915 kernel driver by default but they can optionally use the Xe kernel driver instead as what is Intel's modern open-source kernel graphics driver. As part of our various year end 2025 benchmarks, today is a look at the current i915 vs. Xe driver performance for the Intel Arc Graphics A580.
+
+Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025
+28 December 10:38 AM EST - Fedora - Fedora Linux 2025 - 14 Comments
+
+Fedora Linux this year continued in punctually shipping the very latest upstream Linux innovations from the freshest Wayland components to Linux kernel features and continuing to leverage other improvements in the open-source world.
+
+New Intel Xe3_LPD Firmware Binaries For Linux Ahead Of Panther Lake Laptops Launching
+28 December 10:09 AM EST - Intel - Xe3_LPD Firmware - Add A Comment
+
+Ahead of Intel Core Ultra "Panther Lake" laptops expected to be showcased in just over one week at CES in Las Vegas, new Xe3_LPD firmware binaries were upstreamed today to linux-firmware.git in getting ready that production-ready support for Intel Panther Lake on Linux.
+
+New Patches Bring Linux Driver Support To 25+ SteelSeries Arctis Gaming Headsets
+28 December 07:44 AM EST - Multimedia - SteelSeries Arctis Gaming Headsets - 11 Comments
+
+Within the mainline Linux kernel already is the SteelSeries HID driver for supporting basic battery monitoring on the Arctis 1 and Arctis 9 gaming headsets. But a new patch series posted this morning to the Linux kernel mailing list overhaul this SteelSeries HID driver support. The patches take the support to 25+ different Arctis headset models and provide more comprehensive driver support.
+
+KDE's "This Week In Plasma" Will Become Less Frequent Without New Volunteers
+28 December 06:56 AM EST - KDE - This Week In Plasma - 25 Comments
+
+The This Week In Plasma series written by KDE developer Nate Graham has been a great way to keep-up with all of the interesting KDE Plasma desktop developments over the past eight years. This Week In Plasma is regularly featured on Phoronix and always provides an interesting weekend look at the very newest innovations to land in Plasma. Unfortunately, This Week In Plasma will become less frequent or even go on hiatus without new volunteer contributors.
+
+Fish 4.3 Brings Scripting & Interactivity Improvements, Enhanced Terminal Support
+28 December 06:43 AM EST - Programming - Fish 4.3 - 7 Comments
+
+Fish 4.3 is out today as the newest update to this user-friendly command line shell. Fish 4.0 released at the beginning of this year in porting the codebase from C++ to Rust and now before closing out 2025 they have out Fish 4.3.
+
+27 December
+Blender 5.0 Benchmarks Since Blender 3.0 For CPU Rendering Performance
+27 December 08:30 PM EST - Free Software - Blender 5.0 Performance Benchmarks - 11 Comments
+
+As part of the many different year-end benchmarks on Phoronix, over the holidays I was curious about how far the Blender 3D modeling software's performance has evolved over the past few years. So in looking at the CPU rendering performance I ran benchmarks of the major releases since Blender 3.0 through the recently released Blender 5.0.
+
+SDL Fixes Support For More Than Five Mouse Buttons For Gaming On Wayland
+27 December 07:57 PM EST - Linux Gaming - SDL More Mouse Buttons On Wayland - 5 Comments
+
+The Simple DirectMedia Library that is widely-used by many cross-platform games and part of the Steam Runtime now has better support for handling more mouse button events under Wayland.
+
+HarfBuzz 12.3 Released - Nice Performance Improvements To This Text Shaping Engine
+27 December 03:46 PM EST - Free Software - HarfBuzz 12.3 - 1 Comment
+
+HarfBuzz 12.3 was just released for ending out 2025 with some nice performance improvements to this widely-used text shaping engine. HarfBuzz in turn is used by the prominent Linux desktop environments, Java, Flutter, various game engines, and apps like Chrome and Firefox for text shaping needs with OpenType fonts and more.
+
+44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust
+27 December 09:44 AM EST - GNOME - GNOME 2025 Stats - 67 Comments
+
+GNOME developer Sophie Herold has shared some interesting end-of-year code stats for the GNOME project. The "GNOME" codebase is up to 6,692,516 lines of code at the end of 2025 with 1,611,526 lines of that being from GNOME apps. Where the data gets interesting is on the programming language breakdown in different areas.
+
+Linux Kernel Highlights For 2025: Schedulers, Rust & Torvalds' Commentary
+27 December 06:45 AM EST - Linux Kernel - Linux Kernel Highlights - Add A Comment
+
+With the end of the year quickly drawing to a close, here is a look back at the most-viewed Linux kernel news of 2025.
+
+Intel Open-Source Software Setback: IWD Development Hiatus
+27 December 06:14 AM EST - Intel - Intel IWD - 23 Comments
+
+Adding to the unfortunate engineering setbacks at Intel this year as part of cost-cutting measures, the Intel IWD software development has been on a hiatus for the past three months. Going from previously seeing monthly releases and almost constant activity to now development ceasing up with no activity in the past three months.
+
+Linux 6.19 Lands Fix For ARM64 EFI Systems Crashing On Boot
+27 December 05:58 AM EST - Arm - ARM64 Crash Fix - 9 Comments
+
+Adding to the early headaches of Linux 6.19 with some regressions in performance and functionality were ARM64 hosts crashing on this in-development kernel version for those platforms using EFI. But a fix is now merged ahead of Linux 6.19-rc3 due out tomorrow.
+
+26 December
+QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop
+26 December 09:40 PM EST - Operating Systems - QNX Self-Hosted Dev Desktop - 32 Comments
+
+Announced earlier in December but flying under the radar until now is the initial reoease of a QNX Self-Hosted Developer Desktop. This is a developer environment for the QNX real-time operating system primarily used on embedded systems. With now having this developer desktop option, the hassle of cross-compilation to target QNX can be avoided.
+
+Wine 11.0-rc4 Brings 22 Bug Fixes
+26 December 04:21 PM EST - WINE - Wine 11.0 - 6 Comments
+
+Wine 11.0-rc4 is out today as the latest weekly release candidate in working toward the stable Wine 11.0 release in January.
+
+AMD RDNA3/RDNA4 Go Down Hard On Linux 6.19, But Here's How The Older AMD GPUs End Out 2025
+26 December 12:28 PM EST - Display Drivers - 52 Comments
+
+As part of the various end-of-year benchmarking comparisons on Phoronix and with Linux 6.19 switching older AMD GCN 1.0/1.1 graphics cards to the AMDGPU driver by default, I planned for a very large AMD Radeon graphics card comparison on the latest open-source Linux driver for ending out 2025. In the end though I was thwarted by newer AMD RDNA3 / RDNA4 graphics cards regressing hard on Linux 6.19 that led to ending this testing prematurely due to a show-stopping bug. In any case in this article offers a fresh look at older GCN and RDNA graphics cards on Linux 6.19 + Mesa 26.0-devel.
+
+Coreboot 25.12 Released With Qualcomm X1 Plus Platform Support, AMD Turin PoC
+26 December 10:48 AM EST - Coreboot - Coreboot 25.12 - 3 Comments
+
+Coreboot 25.12 is out today as the latest quarterly feature update to this open-source BIOS/firmware solution.
+
+Ubuntu's Rust Infatuation, New Optimizations & Other Ubuntu Linux 2025 Highlights
+26 December 06:47 AM EST - Ubuntu - Ubuntu 2025 Highlights - 14 Comments
+
+It was a very interesting year for Ubuntu Linux. Ahead of the important Ubuntu 26.04 LTS release due out this coming April, Ubuntu Linux this year was expeditiously migrating to new Rust-based system tools like sudo-rs and Rust Coreutils, new performance optimizations continued to be explored for bettering the out-of-the-box Ubuntu performance, better ARM64 support with its desktop ISO, and enhancing the Snapdragon X Elite laptop support were among the Ubuntu highlights in 2025.
+
+New Runtime Standby ABI Proposed For Linux Akin To Microsoft Windows' "Modern Standby"
+26 December 06:23 AM EST - Linux Kernel - Modern Standby For Linux - 31 Comments
+
+An exciting post-Christmas patch series out on the Linux kernel mailing list this morning is proposing a new runtime standby ABI that is similar in nature to the "Modern Standby" functionality found with Microsoft Windows.
+
+Nova Driver Progress & Other NVIDIA Linux News From 2025
+26 December 06:09 AM EST - NVIDIA - NVIDIA Linux 2025 - 3 Comments
+
+This year there was a lot of going on in the NVIDIA Linux world from their official driver stack seeing better Wayland support to a lot on the open-source scene from NVIDIA engineers contributing a lot directly to the Rust-based Nova open-source driver that continues taking shape, the Mesa NVK Vulkan driver becoming more performant and capable, and a lot of other happenings. Here is a look back at the most popular NVIDIA content of 2025 on Phoronix.
+
+New Linux Patches Improve exFAT Read Performance Via Multi-Cluster Mapping
+26 December 05:52 AM EST - Linux Storage - Faster exFAT Reads - 4 Comments
+
+For those using Microsoft's exFAT file-system under Linux for the likes of flash drives and SD cards, a new patch series posted today aims to enhance the read performance. The new patches are shown to improve performance by about 10% while also having lower overhead.
+
+25 December
+Arch Linux Powered CachyOS To Develop A Server Edition
+25 December 03:44 PM EST - Arch Linux - CachyOS For Servers - 22 Comments
+
+The Arch Linux based CachyOS has been quite popular with Linux gamers and enthusiasts for offering leading out-of-the-box performance, especially following the shutdown of Intel's Clear Linux. CachyOS has developed quite a following on the Linux desktop while looking ahead to 2026 they will be working on a server edition.
+
+NVIDIA CUDA Tile IR Open-Sourced
+25 December 03:23 PM EST - NVIDIA - CUDA Tile IR Open-Source - 10 Comments
+
+As a wonderful Christmas gift to open-source fans, NVIDIA dropped their proprietary license on the CUDA Tile intermediate representation and has now made the IR open-source software.
+
+Fix On The Way For One Of The Linux 6.19 Regressions: 52.4% Scheduler Regression
+25 December 09:52 AM EST - Linux Kernel - Linux 6.19 sched/core - Add A Comment
+
+The Linux 6.19 kernel has been a bit bumpy in the scheduler department but at least one fix is on the way for addressing fallout.
+
+Phoenix: A New X Server Written From Scratch With Zig
+25 December 09:45 AM EST - X.Org - Phoenix - 170 Comments
+
+For X11/X.Org fans there is a new Christmas surprise: Phoenix as an in-development X Server written from scratch using the Zig programming language.
+
+The Death Of Clear Linux, Other Intel Linux Engineering Setbacks In 2025
+25 December 06:37 AM EST - Intel - Top Intel Linux News Of 2025 - 2 Comments
+
+When it came to the most viewed AMD Linux/open-source news of 2025 there were a lot of accomplishments for the company this year both on the CPU and graphics side of the house and from consumer to server hardware. Today is a look back at the most popular Intel open-source/Linux news of the year, which unfortunately, their layoffs and other cuts to their software engineering were attracting a lot of interest.
+
+Google Looks To Upstream Its Propeller Tool To LLVM For More Performance
+25 December 06:23 AM EST - LLVM - LLVM Propeller Tool - 5 Comments
+
+Google's Propeller is a profile-guided, reflinking optimizer for large codebases. Propeller is built atop LLVM and can allow for whole-program optimizations. Google compiler engineers are now hoping to bring the Propeller tool into the upstream LLVM codebase.
+
+Mobileye Eyeq6Lplus SoC Support Being Worked On For Mainline Linux Kernel
+25 December 06:05 AM EST - Hardware - Mobileye Eyeq6Lplus - Add A Comment
+
+The mainline Linux kernel already supports several different Mobileye SoCs for that company focused on self-driving tech and advanced driver assistance systems (ADAS). Consulting firm Bootlin has been working on bringing their latest SoC, the Mobileye Eyeq6Lplus, to the mainline Linux kernel.
+
+Ruby 4.0 Released With Ruby Box Experimental Feature, ZJIT Compiler
+25 December 05:38 AM EST - Programming - Ruby 4.0 - 10 Comments
+
+The past several years we have seen new releases of the Ruby programming language implementation for Christmas (25 December). This year is no different with Ruby 4.0 having been released this morning.
+
+Past 30 Days Of News | Articles & Reviews | News Archives | RSS Feed
+Most Popular News This Week
+Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers
+LibreOffice 26.2 Gets Rid Of The "Community" Edition Branding
+Arch Linux Powered CachyOS To Develop A Server Edition
+Phoenix: A New X Server Written From Scratch With Zig
+New Runtime Standby ABI Proposed For Linux Akin To Microsoft Windows' "Modern Standby"
+Open-Source Linux Driver Christmas Surprise For 20~23 Year Old Radeon GPUs
+NVIDIA CUDA Tile IR Open-Sourced
+QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop
+Fix On The Way For One Of The Linux 6.19 Regressions: 52.4% Scheduler Regression
+44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust
+Popular In The Forums
+KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025
+48 Comments
+44% Of GNOME Core Apps Are Written In C, 13% In JavaScript & 10% In Rust
+67 Comments
+AMD RDNA3/RDNA4 Go Down Hard On Linux 6.19, But Here's How The Older AMD GPUs End Out 2025
+52 Comments
+Phoenix: A New X Server Written From Scratch With Zig
+170 Comments
+Wayback 0.3 Released For Advancing This X11 Compatibility Layer
+98 Comments
+Show Your Support, Go Premium
+
+Phoronix Premium allows ad-free access to the site, multi-page articles on a single page, and other features while supporting this site's continued operations.
+
+Latest Featured Articles
+The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers
+Intel Xe vs. i915 Driver Performance On Linux 6.19 For Arc Alchemist GPUs
+AMD RDNA3/RDNA4 Go Down Hard On Linux 6.19, But Here's How The Older AMD GPUs End Out 2025
+Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers
+Snapdragon X Elite Laptop Performance On Linux Ends 2025 Disappointing
+Popular Articles In The Past
+KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025
+Yesterday
+NVIDIA's Quest For A "Safe" Linux Kernel For Automobiles, Robotics
+7 Days Ago
+Framework Computer Now Sponsoring LVFS / Fwupd Development
+One Month Ago
+Wayback Is An Experimental X11 Compatibility Layer For X11 Desktops Using Wayland
+Six Months Ago
+KDE Amarok 3.2 Music Player Released With Initial Qt6/KF6 Support
+One Year Ago
+Gentoo Ends Out 2023 By Offering Up Binary Packages For Direct Installation
+Two Years Ago
+Mesa Open-Source 3D Drivers Experienced Record Growth In 2022
+Three Years Ago
+AMD Wowed Linux Users In 2020 With Their Fantastic Zen 3 CPUs, Timely New Open-Source GPU Support
+Five Years Ago
+Systemd Continued Commanding Linux Systems In 2015
+Ten Years Ago
+Support Phoronix
+
+The mission at Phoronix since 2004 has centered around enriching the Linux hardware experience. In addition to supporting our site through advertisements, you can help by subscribing to Phoronix Premium. You can also contribute to Phoronix through tips/donations via PayPal or Stripe.
+
+Phoronix Media
+Contact
+Michael Larabel
+Phoronix Premium
+Support Phoronix
+While Having Ad-Free Browsing,
+Single-Page Article Viewing
+Share
+Facebook
+Twitter / X
+
+Legal Disclaimer, Privacy Policy, Cookies |  | Contact
+
+Copyright © 2004 - 2025 by Phoronix Media.
+
+All trademarks used are properties of their respective owners. All rights reserved.

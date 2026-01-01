@@ -1,0 +1,63 @@
+⬢
+RubyGems
+RELEASES BLOG GEMS GUIDES SIGN IN SIGN UP
+Find, install, and publish RubyGems.
+Search Gems…
+Advanced Search
+
+232,918,769,817
+
+DOWNLOADS & COUNTING
+Install RubyGems
+STATUS
+UPTIME
+STATUS
+UPTIME
+CODE
+DATA
+STATS
+CONTRIBUTE
+ABOUT
+HELP
+API
+POLICIES
+SUPPORT US
+SECURITY
+
+RubyGems.org is the Ruby community’s gem hosting service. Instantly publish your gems and then install them. Use the API to find out more about available gems. Become a contributor and improve the site yourself.
+
+The RubyGems.org website and service are maintained and operated by Ruby Central’s Open Source Program and the RubyGems team. It is funded by the greater Ruby community through support from sponsors, members, and infrastructure donations. If you build with Ruby and believe in our mission, you can join us in keeping RubyGems.org, RubyGems, and Bundler secure and sustainable for years to come by contributing here.
+
+Operated by
+Ruby Central
+ Designed by
+DockYard
+ Hosted by
+AWS
+ Resolved with
+DNSimple
+ Monitored by
+Datadog
+ Gems served by
+Fastly
+ Monitored by
+Honeybadger
+ Secured by
+Mend.io
+ENGLISH
+ 
+NEDERLANDS
+ 
+简体中文
+ 
+正體中文
+ 
+PORTUGUÊS DO BRASIL
+ 
+FRANÇAIS
+ 
+ESPAÑOL
+ 
+DEUTSCH
+ 
+日本語

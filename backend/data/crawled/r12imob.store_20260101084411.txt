@@ -1,0 +1,11 @@
+ERRO 403
+
+ACESSO NEGADO
+Por que estou vendo esta página?
+Existe algo que eu possa fazer?
+Compreendendo o sistema de permissões de arquivos
+Como modificar seu arquivo .htaccess
+Como modificar as permissões de arquivos e diretórios
+
+Esse site é hospedado pela HostGator
+Conheça nossos planos

@@ -1,0 +1,280 @@
+Exciting Changes Ahead: Talend is Now Part of Qlik!
+
+Learn More
+SUPPORT
+COMPANY
+LOGIN
+Why Qlik?
+Products
+Solutions
+Pricing
+Learn
+Try for Free
+Contact Us
+
+QLIK AND TALEND TOGETHER
+
+Qlik Talend: Deliver Trusted, AI-Ready Data
+
+Talend is now part of Qlik. Seamlessly integrate, transform, and govern your data with the power of Qlik Talend!
+
+Learn More
+Try for Free
+Unlock the power of Qlik Talend
+Streamline data operations
+
+Eliminate the data barriers between business and IT with automated, AI augmented, cloud-independent and technology agnostic solutions.
+
+Ensure enterprise-grade trust
+
+End-to-end data quality capabilities that deliver curated and readily accessible, trusted data.
+
+Flexible deployment
+
+Deploy in the cloud, on-premises, or in hybrid environments, ensuring flexibility to meet data residency, security, and infrastructure requirements.
+
+Easily meet constantly changing requirements
+
+Pre-defined integrations with hundreds of data sources and tools help you stay fully connected across platforms, even as your needs change.
+
+Learn More
+Looking for Talend Data Fabric?
+
+Talend Data Fabric, both in the cloud and on-premises, is still available for trial and purchase.
+
+Learn More
+Talend Data Fabric
+
+Operational data integration
+
+Comprehensive ETL capabilities
+
+Production-proven & trusted
+
+The strengths of Qlik Talend
+
+A unified platform for integration, quality, and governance — built for scale and flexibility, with tools for every role in your data journey. In the Cloud, On-Premises, or Hybrid, get the power of Qlik and Talend however you want.
+
+Multi-modal data integration patterns
+
+Superior data quality & governance
+
+Multiple data transformations options
+
+AI-augmented no-code pipelines
+
+High-performance lakehouses
+
+Multi-modal data integration patterns
+
+Support every integration need (from batch and real-time to ETL, ELT, and APIs) within a single, scalable platform built for modern data pipelines. 
+
+Learn More
+Superior data quality & governance
+
+Powerful data quality tools and workflows, such as Data Products and Lineage, deliver trusted, reusable datasets for analytics, machine learning, and business consumption. 
+
+Learn More
+Multiple data transformations options
+
+Empower every user — from data engineers to business analysts — with flexible transformation capabilities, including both visual, low-code tooling, and full-code control, all within a single integrated platform.
+
+Learn More
+AI-augmented no-code pipelines
+
+Fuel AI, analytics and machine learning initiatives with trusted, high-quality data pipelines that integrate, cleanse, and transform data across any environment with speed and scalability.
+
+Learn More
+High-performance lakehouses
+
+Combine the scalability of data lakes with the performance of data warehouses, enabling unified analytics and real-time insights across all data.
+
+Learn More
+FAQ
+
+Addressing common questions from Talend customers about Qlik + Talend
+
+What happens to my current Talend products?
+
+There is no change.  Existing Talend customers can continue leveraging their current Talend solutions without disruption.
+
+Are there any changes to how I contact customer support?
+
+No. Talend customers are already using the same support portal as Qlik - https://customerportal.qlik.com/
+
+Can I add Qlik products to my Talend installation?
+
+Yes. There are a number of paths for you to expand your solution with Qlik. Please contact your local Qlik representative to discuss how we can best help you expand your specific environment. You can also experience some of these new capabilities for yourself by trying our Qlik Talend Cloud trial or Qlik Cloud Analytics trial.
+
+Interested in learning more about Qlik Talend Cloud?
+Try for Free
+Why Qlik?
+
+Why Qlik
+
+Trust and Security
+
+Trust and Privacy
+
+Trust and AI
+
+Why Qlik for AI
+
+Compare Qlik
+
+Featured Technology Partners
+
+Data Sources and Targets
+
+About Qlik
+
+Company
+
+Leadership
+
+CSR
+
+DEI&B
+
+Academic Program
+
+Partner Program
+
+Careers
+
+Newsroom
+
+Global Office/Contact
+
+Products
+
+DATA INTEGRATION AND QUALITY
+
+Qlik Talend
+
+Qlik Talend Cloud
+
+Talend Data Fabric
+
+ANALYTICS & AI
+
+Qlik Cloud Analytics
+
+Qlik Answers
+
+Qlik Predict
+
+Qlik Automate
+
+Pricing
+
+Data Integration Pricing
+
+Analytics Pricing
+
+AI/ML Pricing
+
+Legal
+
+Privacy center
+
+Solutions
+
+INDUSTRIES
+
+ISV
+
+Financial Services
+
+Healthcare
+
+Public Sector/Government
+
+US Government
+
+Retail
+
+Communications
+
+Manufacturing
+
+Consumer Products
+
+Energy Utilities
+
+High Tech
+
+Life Sciences
+
+BY ROLE
+
+Sales
+
+Marketing
+
+Finance
+
+Operations
+
+Product Intelligence
+
+HR & People
+
+IT
+
+SOLUTION PARTNERS
+
+Find a Partner
+
+Global SIs
+
+Learn
+
+Blog
+
+Customer Stories
+
+Events
+
+Glossary
+
+Community
+
+Training
+
+RESOURCE CENTER
+
+Resource Library
+
+Analysts Reports
+
+Whitepapers & Ebooks
+
+Webinars
+
+Videos
+
+Datasheet & Brochures
+
+Customer Stories
+
+Support
+
+Community
+
+Support
+
+Customer Portal
+
+Onboarding
+
+Product Documentation
+
+Training
+
+Qlik Community
+Legal Agreements/Product Terms/Legal Policies/Privacy & Cookie Notice/Terms of Use/Trademarks/Do not Share my info
+
+© 1993-2025 QlikTech International AB, All Rights Reserved
+
+English

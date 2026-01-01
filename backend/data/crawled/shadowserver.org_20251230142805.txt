@@ -1,0 +1,73 @@
+ 
+Media Coverage News & Insights Dashboard Become a Partner Contact Us Subscribe to Reports
+WHO WE ARE WHAT WE DO WHO WE SERVE
+WHO WE ARE WHAT WE DO WHO WE SERVE Subscribe to Reports
+The Shadowserver Foundation is a nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone.
+Our Story
+WHAT WE DO
+We collect vast amounts of threat data, send tens of thousands of free daily remediation reports, and cultivate strong reciprocal relationships with network providers, national governments and law enforcement. We bring malicious activities and abusable vulnerabilities out of the shadows, expedite their remediation and help to better secure the Internet.
+Find Out More
+145 MILLION
+
+sinkhole connections per day
+
+96 BILLION
+
+UDP and 214 billion TCP IPv4 scan packets sent every day
+
+201
+
+National CSIRTs depending
+on our free daily reports, covering 175 countries and territories
+
+
+WHO WE SERVE
+National CSIRTs
+
+We give CSIRTs the vantage point to understand the big picture of what’s happening on the networks they’re responsible for.
+
+National CSIRTs
+Industry Sectors
+
+We work with business and tech firms, financial institutions and academia, to improve network security, enhance product capability, and advance threat research.
+
+Industry Sectors
+Law Enforcement
+
+We partner with law enforcement to help protect victims, take down global cybercrime infrastructures and prevent attacks before they occur.
+
+Law Enforcement
+NEWS & INSIGHTS
+Rhadamanthys Historical Bot Infections Special Report
+NOVEMBER 13, 2025
+On Thursday 13th November 2025, international law enforcement partners announced a disruption action against the Rhadamanthys information stealer malware. As part of the ongoing Operation Endgame initiative, law enforcement acquired copies of the threat actor’s databases containing historical Rhadamanthys infections, which covered the period March 2025 to November 2025. These databases contain records of over 86 million stolen data items from over 525,000 Rhadamanthys infections across 226 countries. Shadowserver is sharing elements of this dataset as a one-off Special Report, to allow historical Rhadamanthys infections to be investigated and any secondary malware identified and remediated by system defenders.
+Read More »
+Shadowserver 2024: Highlights of the Year in Review
+FEBRUARY 17, 2025
+A review of Shadowserver’s 20th year as the world’s largest provider of free, timely, actionable, daily cyber threat intelligence. Covering the latest improvements in our public benefit services, responses to emerging cyber threats, and detection and reporting of the latest vulnerabilities to National CSIRTs and system defenders globally. We provide highlights of our cybersecurity capacity building efforts, plus successful outcomes from our free support to Law Enforcement in major cybercrime disruption operations.
+Read More »
+Non-profit consortium launches national scale Cyber Resilience pilot to assess the cyber threat landscape for the NGO sector in The Netherlands
+APRIL 4, 2024
+A non-profit consortium – consisting of The Hague Humanity Hub, the CyberPeace Institute (CPI), Connect2 Trust Foundation and The Shadowserver Foundation, co-funded by Rijksdienst voor Ondernemend Nederland (RVO), will produce a national level assessment of the cyber threat landscape for NGOs, while measuring the impact and harm of cyber threats on the sector.
+Read More »
+More News & Insights
+TOOLS & RESOURCES
+Get reports about your network »
+Common questions »
+Statistics on malware, DDoS attacks, more »
+Press kit »
+Media coverage »
+Follow us on Twitter »
+Help us make the Internet more secure
+
+The Shadowserver Foundation is an altruistic, public benefit, nonprofit organization funded by sponsorships, grants, and charitable donations.
+
+Become a Sponsor
+Home Who We Are What We Do Who We Serve News & Insights Dashboard Common Questions Become a Partner Contact Us
+ © 2025 THE SHADOWSERVER FOUNDATION PRIVACY & TERMS
+The Shadowserver Foundation GitHub »
+   
+
+Shadowserver uses cookies to gather analytics. This allows us to measure how the site is used and improve the experience for our users. For more information about cookies and how Shadowserver uses them, see our privacy policy. We need your consent to use cookies in this way on your device.
+
+Accept Decline

@@ -1,0 +1,141 @@
+ 
+WinSCP
+Free SFTP, SCP, S3 and FTP client for Windows
+Home
+	
+News
+	
+Introduction
+	
+Download
+	
+Install
+	
+Documentation
+	
+Forum
+Free Award-Winning File Manager
+
+WinSCP is a popular SFTP client and FTP client for Microsoft Windows! Copy file between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3 file transfer protocols.
+
+DOWNLOAD NOW
+
+255 million downloads to date
+
+ ABOUT WINSCP
+
+Advertisement
+
+Main Features
+
+Graphical user interface
+
+Integrated text editor
+
+All common operations with files
+
+Scripting and task automation
+
+Translated into many languages
+
+SEE FULL FEATURE LIST
+
+User Approved Software
+
+Thanks for making this available! 
+
+Cabe F.
+
+Deepest thanks and gratitude for your most excellent efforts and dedication in the support and maintenance of a superb and magnificently useful application. 
+
+Dawn P.
+
+Thanks for continuing to support and enhance WinSCP. I couldn't do my work without it. Cheers! 
+
+Julian B.
+
+Thank you for this small and handy tool! I use it for data transfer to my Raspberry PI. 
+
+Frank T.
+
+Thanks for making such a great product! 
+
+Jan-Tore T.
+
+Thanks for your great work, WinSCP Team! It's really appreciated! 
+
+Tim G.
+
+Thanks for making this available! 
+
+Cabe F.
+
+Deepest thanks and gratitude for your most excellent efforts and dedication in the support and maintenance of a superb and magnificently useful application. 
+
+Dawn P.
+
+Thanks for continuing to support and enhance WinSCP. I couldn't do my work without it. Cheers! 
+
+Julian B.
+
+Thank you for this small and handy tool! I use it for data transfer to my Raspberry PI. 
+
+Frank T.
+123456
+Total Downloads
+
+255,743,639
+
+Rating
+
+4.8 out of 209 reviews
+
+REVIEW AT SOURCEFORGE
+
+Awards Won By WinSCP
+Project of the Month
+:
+Sehr Gut
+:
+Excellent
+:
+
+ALL AWARDS
+
+ English
+DOCUMENTATION
+Quick Start
+Guides
+FTP Client
+SFTP Client
+SSH Client
+S3 Client
+Languages
+Scripting
+.NET and COM Library
+Command Line Options
+Portable Use
+SUPPORT
+Get Support
+FAQ
+Troubleshooting
+Support Forum
+History
+Bug Tracker
+ASSOCIATIONS
+GitHub
+SourceForge
+TeamForge.net
+DokuWiki
+phpBB
+FOLLOW US
+Facebook
+X
+Mastodon
+Bluesky
+LinkedIn
+RSS News
+
+© All rights reserved 2000–2025, WinSCP.net
+
+ WinSCP License WinSCP Privacy Policy

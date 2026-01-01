@@ -1,0 +1,33 @@
+GateKeeper
+Docs
+Get Started
+GateKeeper Consent Management Platform
+
+GateKeeper is a free, fast and easy-to-setup Consent Management solution for GDPR.
+
+Get Started in 3 min!
+TCF 2.0 Framework
+
+GateKeeper is TCF 2.0 accredited by the IAB. We constantly keep the code up to date with new changes to the respective legislations
+
+Fast by default ⚡️
+
+Small payload and asynchronous loading of scripts allows GateKeeper to have minimal impact on page rendering or Core Web Vitals. In fact - you won't notice a single drop of your Pagespeed Insight Scores!
+
+Multi-Language Support
+
+By default GateKeeper contains the translations for 10 languages and you can add as many as you like!
+
+Over 1000+ Vendors
+
+GateKeeper comes pre-equiped with all IAB Vendors + all of Goolge's additional consent vendors!
+
+Customisable
+
+You can fully custimize GateKeeper as much as you like or use one of our recommended templates!
+
+Free to use
+
+GateKeeper is and will remain a free product. It was developed by the Team @Ezoic but you don't need an ezoic Account to use it!
+
+@Copyright Ezoic 2023

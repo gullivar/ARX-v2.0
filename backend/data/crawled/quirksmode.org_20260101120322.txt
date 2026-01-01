@@ -1,0 +1,5 @@
+QuirksMode - for all your browser quirks Hell is other browsers - Sartre Compatibility QuirksBlog Mobile About QuirksMode.org is the prime source for browser compatibility information on the Internet.
+It is maintained by Peter-Paul Koch, mobile platform strategist in Amsterdam, the Netherlands. QuirksMode.org is the home of the Browser Compatibility Tables ,
+where you’ll find hype-free assessments of the major browsers’ CSS and JavaScript
+capabilities, as well as their adherence to the W3C standards. It is also increasingly the home of ground-breaking mobile web research . Compatibility This site contains the Browser Compatibility Tables . Blogs QuirksBlog Freelance I'm a mobile platform strategist, consultant, and trainer .
+		You can hire me. Mobile My ground-breaking mobile research . Sitemap Contact Copyright

@@ -1,0 +1,99 @@
+홈
+태그
+방명록
+SLAM (1)
+수학 (0)
+인기포스트
+Graph SLAM
+ABOUT ME
+
+트위터
+인스타그램
+Today
+0
+Yesterday
+2
+Total
+60
+Einssteins Notizbuch
+Einssteins Notizbuch
+메뉴
+검색
+전체 글
+Graph SLAM
+SLAM 2021. 7. 26. 14:11
+
+1. Concept Graph SLAM이란 그래프를 이용하여 SLAM 문제를 푸는 방법이다. Node와 edge를 통해 로봇의 위치와 움직임을 표현하고, 로봇 위치의 측정값과 추정값 사이의 오차를 최소화하는 최적화된 pose set을 찾아 로봇의 trajectory를 찾는 것이 graph SLAM의 목표이다. [그림 1]을 보면, 기본적인 notation이 정의되어 있다. 
+x
+0
+𝑥
+0
+는 initial pose이며, 
+^
+x
+1
+𝑥
+^
+1
+과 
+^
+x
+2
+𝑥
+^
+2
+은 각각 
+t
+=
+1
+𝑡
+=
+1
+과 
+t
+=
+2
+𝑡
+=
+2
+에서 추정한 로봇의 pose, 
+x
+1
+𝑥
+1
+과 
+x
+2
+𝑥
+2
+는 측정한 로봇의 pose이다. 이러한 pose들은 그래프의 node를 통해 표현할 수 있다. 다음으로 
+^
+z
+01
+𝑧
+^
+01
+과 
+^
+z
+12
+𝑧
+^
+12
+는 각각 $..
+
+Read More
+이전
+ 1 
+다음
+인기포스트
+Graph SLAM
+ABOUT ME
+
+LINK
+ADMIN
+admin
+ 
+글쓰기
+Designed by Tistory.
+티스토리툴바

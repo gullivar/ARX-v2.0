@@ -1,0 +1,100 @@
+Skip to Main Content
+The world's most popular open source database 
+Contact MySQL  |  Login  |  Register
+MYSQL.COMDOWNLOADSDOCUMENTATIONDEVELOPER ZONE
+   
+Products Services Partners Customers Why MySQL? News & Events How to Buy
+	
+MySQL HeatWave
+
+Use automated and integrated generative AI and machine learning (ML) in one cloud service for transactions and lakehouse scale analytics. Get faster insights from all your data with unmatched performance and deploy apps in your choice of cloud providers.
+Learn More »
+
+	
+MySQL AI
+
+MySQL AI provides integrated, automated, and secure machine learning (ML) and generative AI capabilities.
+Learn More »
+
+	
+MySQL Enterprise Edition
+
+The most comprehensive set of advanced features, management tools and technical support to achieve the highest levels of MySQL scalability, security, reliability, and uptime.
+Learn More »
+
+	
+MySQL for OEM/ISV
+
+Over 2000 ISVs, OEMs, and VARs rely on MySQL as their products' embedded database to make their applications, hardware and appliances more competitive, bring them to market faster, and lower their cost of goods sold.
+Learn More »
+
+	
+MySQL Cluster CGE
+
+MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability, uptime and agility.
+Learn More »
+
+ Free Webinars
+MySQL Enterprise Edition: Onboarding and Latest Innovation Highlights
+Wednesday, January 14, 2026
+Unlocking the Power of JavaScript in MySQL: Creating Stored Programs with Ease
+On-Demand
+What’s New in MySQL Monitoring with Oracle Enterprise Manager Plugin
+On-Demand
+More »
+ White Papers
+MySQL Reference Architectures for Security
+MySQL Reference Architectures for High Availability
+MySQL Enterprise Edition for Government
+Migrate from MariaDB to MySQL
+HeatWave AutoML - In Database Machine Learning
+More »
+Powered by MySQL
+
+
+                       
+
+
+	Contact MySQL Sales
+USA/Canada: +1-866-221-0634   (More Countries »)
+   
+
+
+PRODUCTS
+MySQL HeatWave
+MySQL Enterprise Edition
+MySQL Standard Edition
+MySQL Classic Edition
+MySQL Cluster CGE
+MySQL Embedded (OEM/ISV)
+ 
+SERVICES
+Training
+Certification
+Support
+ 
+DOWNLOADS
+MySQL Community Server
+MySQL NDB Cluster
+MySQL Shell
+MySQL Router
+MySQL Workbench
+ 
+DOCUMENTATION
+MySQL Reference Manual
+MySQL Workbench
+MySQL NDB Cluster
+MySQL Connectors
+Topic Guides
+ 
+ABOUT MYSQL
+Contact Us
+Blogs
+How to Buy
+Partners
+Job Opportunities
+Site Map
+ English   ( Deutsch | Français | Italiano | 日本 | 中文 )
+   © 2025 Oracle
+Privacy / Do Not Sell My Info | Terms of Use | Trademark Policy | Cookie Preferences
+Start chat

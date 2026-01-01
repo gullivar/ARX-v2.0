@@ -1,0 +1,4 @@
+BKDNS.VN BKDNS .VN Chào mừng bạn đến với BKDNS.VN Quản trị domain giúp bạn cấu hình các thông số domain
+                    tiện lợi nhanh chóng và miễn phí Các tính năng đầy đủ như một domain quốc tế: - A record (IP Address), CName (Alias), MX (Mail), TXT - URL Redirect: Cho phép chuyển hướng truy cập đến một website nào đó. - URL Frame: Cho phép lồng một website nào đó vào tên miền. - Email Forwarding: Cho phép tạo các địa chỉ email với định dạng tenhopmail@tenmien.vn, các hộp email
+                    này sẽ forward email đến địa chỉ email thực sự của bạn (như @yahoo.com, @gmail.com, ...) DNS phải chuyển về: ns1.bkdns.vn | ns2.bkdns.vn |
+                    ns3.bkdns.vn Xác thực reCAPTCHA thất bại. Log in Username Please provide a username Password Please provide a password Language English Vietnamese

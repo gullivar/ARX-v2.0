@@ -1,0 +1,165 @@
+Documentation
+Community
+How it works
+Team
+Blog
+Support us
+Download
+ParrotOS 7.0 is officially out!
+
+The operating
+system for H|
+
+The ultimate framework for your Cyber Security operations
+Download
+
+Why Parrot?
+
+Over 50 million downloads worldwide and a decade of continuous development make Parrot one of the most trusted security platforms. It’s used daily by penetration testers, researchers, students, and enterprises who need a reliable environment for cybersecurity and privacy.​​​​​​​
+
+Lightweight
+
+Efficient even on older hardware
+
+Modular
+
+Select and install only what you need
+
+Up-to-date
+
+Rolling updates keep you current and secure
+
+Cloud ready
+
+Optimized for cloud and virtual environments
+
+Secure
+
+Strong privacy and anonymity features
+
+The Parrot Project
+
+Over 50 million downloads worldwide and a decade of continuous development
+make Parrot one of the most trusted security platforms.
+
++50M
+Parrot OS downloads
+
+More new people download and update the system daily. This OS is made to respect your freedom, so share it, read the source code, and configure it as you like!
+
++95.5k
+Community
+members
+
+A worldwide network of passionate users collaborating, learning, and building together.
+
++60
+Worldwide partners
+
+ParrotOS continues to grow thanks to its collaborations with various universities, organizations, companies, and more.
+
+Parrot editions
+
+Different versions for different players, role your need and play freely.
+
+Home Edition
+
+Home edition is designed for daily use, privacy and software development. Parrot Tools can be manually installed to assemble a custom and lightweight pentesting environment.
+Download
+
+Security Edition
+
+IoT Edition
+
+Docker Images
+
+Debian Conversion Script
+
+WSL Edition
+
+GET INVOLVED
+
+Contribute to the
+Parrot Project
+
+Join our global community of contributors and help make Parrot OS
+better for everyone
+
+GitHub - backup mirror
+
+The repository where we keep a copy of the most important code in case our servers are down.
+View GitHub
+
+GitLab
+
+The platform where the source code of the parrot packages is hosted. Join it to contribute to our source code and improve the system.
+View GitLab
+
+Bug Reporting
+
+Report issues, test releases, and help improve stability
+Report Bug
+
+Financial Support
+
+Support the project through donations and sponsorships
+Donate
+
+Documentation
+
+Help improve guides, tutorials, and technical documentation
+Write Docs
+
+Parrot OS now
+web-based
+
+Pwnbox is a completely browser accessible virtual hacking distro including everything a hacker’s operating system should have.
+
+In partnership with
+
+ParrotSec
+
+The ultimate framework for your Cyber
+Security operations
+Download
+
+Editions
+
+Home
+
+Security
+
+Hack The Box
+
+WSL
+
+Debian Conversion Script
+
+Docker Images
+
+Reaspberry Pi Images
+
+Resources
+
+Documentation
+
+Community
+
+Blog
+
+About us
+
+Team
+
+Partners
+
+Donate
+
+© 2026 Parrot Security. All rights reserved.
+
+Warrant Canary
+Privacy Policy
+
+This website is a safe place, we respect your privacy enough to skip the cookies and go straight to the content.
+
+Accept

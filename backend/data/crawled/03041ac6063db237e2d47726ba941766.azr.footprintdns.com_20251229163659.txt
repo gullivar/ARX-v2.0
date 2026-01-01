@@ -1,0 +1,1 @@
+am2 am2prdapp01 am2prdapp01-canary VmssX64 0 0 2248e4c3-9d3c-4f63-ba34-f8ba7f7b5a0b 10.2.0.59 1.0.5.1344

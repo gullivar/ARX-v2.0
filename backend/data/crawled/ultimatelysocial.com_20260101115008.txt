@@ -1,0 +1,194 @@
+Limited time offer !
+
+It looks like this is your first visit. For the next hour you can use the promo code FIRSTVISIT to get the premium plugin for an extra 20% off! You’ll never see this again, so don’t miss this opportunity!
+
+deal countdown
+
+UltimatelySocial
+We’re the creators of the best social media plugin on Wordpress
+Super-easy placing of social media & sharing icons on your site
+Pick from 200+ design styles to make your website look professional
+Keep your site loading fast
+Optimized for maximum shares and traffic
+Mobile-ready
+Very affordable pricing
+Watch how it works
+Video
+Screenshots
+
+Not only has the plugin many features, but it is super-easy to use…
+Click on the arrow on the right to see how it works.
+
+After installation you’ll see 8 questions:
+
+Click on the arrow on the right to see the contents of each question…
+
+Under question 1 you’ll pick which icons you want to show on your site:
+
+ 
+
+Above screenshot is only an excerpt. You can select icons for: Facebook, Twitter, Youtube, Google+, Pinterest, Instagram, Snapchat, Email, RSS, Tumblr, LinkedIn, Soundcloud, Houzz, Flickr, WhatsApp/Phone, Skype, Reddit, Vimeo, Yummly, “Share” (allows to share on 200+ other social media platforms) and many more – see the full list.
+
+You can also upload custom icons and define separate icons for mobile (e.g. maybe you want to show the Whatsapp icon only on mobile).
+
+[Click on the arrow on the right to continue…]
+
+Under question 2 you can define what the icons should do:
+
+The options are plenty. For example, for the email icon you can say it should allow users to…
+
+a) Get in touch with you (by email)
+b) Share the page by email
+c) Link to a separate page (e.g. your contact-us form)
+d) Subscribe to your site (via service SpecificFeeds)
+
+For the Facebook icon, you can allow users to:
+
+a) Visit your Facebook page
+b) Like your page on Facebook
+c) Share your page with friends (on Facebook)
+d) Follow you on Facebook (without leaving your page)
+
+Other icons have similar functions.
+
+You can also give several functions to your Facebook, Twitter, Google+, Youtube, Pinterest and LinkedIn icons. In that case, users will see a little “pop-up”/tooltip where they can select what they want to do.
+
+[Continue by clicking on the arrow on the right]
+
+Under question 3 you can define where the icons should show up.
+
+For example, you can show the icons via a widget, or define the location on the page:
+
+You can make the icons stick to the same place (either scrolling down as the user scrolls down, or not) or pick the “float”-option, which shows a cool effect.
+
+You can define the location separately for mobile vs. desktop. Obviously, you can also define the margins the icons should have from top/bottom and left/right.
+
+[Click on arrow on the right to continue]
+
+You can also place the icons via shortcode, or before/after posts:
+
+For icons before/after posts, you can either go for the default round/squared design, or switch to a rectangle design which spells out the action the users should do (Follow! Like! Share! etc.).
+
+You have various options where exactly to show them, what text it should say before the icons, the font type of the text etc. etc.
+
+For all icons, you can also opt to show/not show them on mobile/desktop at all. Or, you can define various exclusion rules on which pages the icons should not be shown (e.g. on post pages, tag pages, category pages, pages which include certain strings in the url etc.).
+
+[Click on arrow on the right to continue]
+
+Question 4 is all about selecting the design which matches your site best:
+
+There are 22 standard design styles in total.
+
+In addition, we’re currently building up a database of themed design styles. Get a taste of it by clicking here.
+
+Apart from picking the design style you can also give your icons some cool effects, like fade-in or scaling effects. Also, you can animate the icons by making them shuffle automatically upon loading of your site etc.
+
+[Click on arrow on the right to continue]
+
+Under question 5 you can show counts to your icons:
+
+Some icons allow a choice which counts you want to show. For example, for Facebook you can show the number of likes on your site, or the number of likes on your Facebook page, or enter the counts manually.
+
+[Click on arrow to continue]
+
+Question 6 gives you tons of other configuration options:
+
+You can define the order of your icons, as well as their size & spacing between them, and alignments, e.g. horizontally or vertically, left/right/centered. For mobile you can make separate selections.
+
+You can also pick the language of the buttons where text is displayed (available for Facebook, Twitter, Google+ and Follow-icons).
+
+Other options include mouse-over texts, new window or not (if user clicks on an icon) and the possibility to disable auto-scaling on mobile.
+
+[Click on arrow to continue]
+
+Question 7 allows you to show a pop-up, prompting your visitors to like/share/follow your site:
+
+Apart from defining the pop-up design, you can also configure on which pages the pop-up should be shown, and how often (e.g. when user loads page, or scrolls to the bottom of a page).
+
+You can also define to only show the pop-up once to every visitor, or once every X days.
+
+[Click on arrow to continue]
+
+Finally, you can place a subscription form on your site:
+
+This allows users to subscribe to your site, so that they receive new posts automatically into their inbox. The service is powered by SpecificFeeds.com.
+
+—
+
+So that’s it! We hope this guide gave you a good overview of what the plugin can do for you. We will continue to make the plugin better and better, and all users are eligible for free updates up to one year.
+
+Also, if you face any issues with setting it up, support is included in the premium plugin as well. We’re always happy to help! 🙂
+
+PrevNext
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+What our users say
+
+Our plugin has been downloaded over 1 million times
+and has the best rating of all social media plugins by far.
+
+PrevNext
+1
+2
+3
+4
+5
+6
+Overall ratings:
+4.9 out of 5 stars
+5 Stars - 3035
+4 Stars - 134
+3 Stars - 13
+2 Stars - 11
+1 Stars - 9
+See 3,234 more reviews
+Still have questions? See the FAQ or ask us.
+Terms of Use Privacy Policy Affiliate Program
+
+
+ 
+
+Pre-launch special deal
+
+The premium plugin will be available soon. If you already buy the licence(s) before it launched, then:
+
+You get it 30% off – for both the first year, as well as all subsequent years
+The absolute price in subsequent years will stay the same, i.e. the price is «locked in» and you won’t be affected if we increase prices as more features get added – which will be the case
+
+To get the deal, please make a donation in the amount of number of licences (1 license = 1 website) you need: One license is 13.97 USD (30% off the regular price of 19.96 USD).
+
+Feature request
+
+We’re happy for new feature requests. However, implementing new features takes time and effort, so we only take requests from existing premium plugin users, to know that you’re serious with it :)
+
+License key you received after purchasing the premium plugin
+Your email (for feedback & follow-up questions) 
+Your website url (so that we can see the issue ourselves) 
+Your feature request 
+Support request
+
+Support is only available for premium plugin users. Therefore, please enter your…
+
+License key (you received after purchasing the premium plugin)
+Your email (for feedback & follow-up questions) 
+Your website url (so that we can see the issue ourselves) 
+Your support question 
+Want to send screenshots or video?
+
+(* You can upload multiple files. Maximum 5 files are allowed to upload with 20 MB max size of each file.)
+
+Drop files here to upload
+Thank you!
+
+We will get back to you shortly.
+
+Close

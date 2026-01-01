@@ -1,0 +1,199 @@
+___
+
+B2 Overdrive wins SiliconANGLE's 2025 TechForward Awards in the Cloud Tech - Cloud Networking category.
+
+Learn more about B2 Overdrive.
+
+Partners
+Support
+English
+Sign In
+Products
+Solutions
+Pricing
+Resources
+Why Backblaze
+Contact Sales
+Start Free
+B2 CLOUD STORAGE
+Unlock
+Cost Savings
+Scalability
+Resiliency
+Revenue
+Immutability
+Time Savings
+Collaboration
+Productivity
+Killer Apps
+Always-hot S3 compatible cloud object storage
+Enterprise ready security and compliance
+100% performance, 100% cost effective—with free egress
+Get full-featured access.
+
+No credit card required.
+
+By pressing this button to create a Backblaze account, you agree to our terms of service.
+
+
+Performant & Secure
+
+Save to always-hot, S3 compatible object storage with a 99.9% uptime SLA, and bolster BC/DR plans with encryption, durability, replication, and immutability.
+
+
+Stack Ease & Flexibility
+
+Operate your way, easily—works seamlessly with most infrastructure and tools via API, CLI, and countless third party integrations.
+
+
+Cost & Time Savings
+
+Get more from your data for less—with free egress and lower total cost of ownership, built on a service that cuts data management time up to 92%.
+
+Contact Sales
+Get Started Free
+Trusted by 100,000+ organizations
+Empower Your Business with B2 Cloud Storage
+
+B2 Cloud Storage is purpose built for the open cloud to integrate seamlessly with your preferred tech stack, freeing you up to choose the vendors you prefer and putting your needs first.
+
+TCO That Delights Your CFO
+
+Backblaze B2 Cloud Storage delivers a dramatically lower total cost of ownership. Predictable costs, improved business agility, and operational simplicity help you save money, reduce risk, and drive faster innovation.
+
+View Pricing
+SOLUTIONS
+The right cloud storage for your needs
+
+Application & AI storage
+
+Accelerate exabyte-scale AI/ML, cloud-native apps, and data lakes with object storage that enables open cloud portability.
+
+Scale development
+
+Backup
+
+Safeguard data with reliable backup and archive for servers, VMs, NAS, M365, K8s, and more.
+
+Protect systems
+
+Active media archive
+
+Advance and share content within your existing workflows and preferred media management tools.
+
+Optimize production
+Hundreds of pre-built integrations
+Explore Integrations
+Designed to deliver enterprise grade security and compliance
+Security first framework
+
+Dial in protections with access management, data storage security, and architecture & physical controls including:
+
+Encryption and server-side encryption (SSE)
+Object Locks
+Fine-grained API key control
+Bucket Access Logs
+Cross-origin resource sharing (CORS) 
+Multi-region data replication
+Explore security
+Compliance program compatible
+
+Fulfill your data storage, retention, and deletion policies and requirements with compliance supports including:
+
+SOC 2 Type 2
+GovRAMP Progressing Security Snapshot program
+TX-RAMP Provisional Authorization
+HECVAT
+BAAs for HIPAA 
+PCI DSS support
+Explore compliance
+Now, we have a system for scaling infinitely. It lowers our break-even customer volume while increasing our margins, so we can reinvest back into the business.
+
+Gavin Wade
+
+Founder & CEO, Cloudspot
+
+700TB
+
+stored
+
+$10K+
+
+instant savings per month
+
+90%
+
+transfer cost reduction
+
+Read the customer story
+FEATURES
+B2 Cloud Storage featured offerings
+
+Cloud Replication
+
+Automatically copy and store data in different locations by setting up replication rules for redundancy, compliance, and fast local access. It’s easy to configure and doesn’t incur service or egress fees.
+
+Learn more
+
+Object Lock
+
+Stop ransomware in its tracks with immutability. Backblaze B2 Object Lock provides write once, read many (WORM) access in real time, ensuring bad actors can’t encrypt, change, or delete your data.
+
+Learn more
+
+Event Notifications
+
+Generate instant alerts for data changes in B2 Cloud Storage, simplifying workloads for dev, media, and IT teams. Automate transcoding, asset tracking, and content tasks across your tech stack.
+
+Learn more
+
+Live Read
+
+Start reading and editing large media files from anywhere while they’re still uploading to Backblaze B2 and connected tools. Unlock near real-time workflow efficiency and more revenue from faster content delivery.
+
+Learn more
+
+Powered by Backblaze
+
+A suite of tools that allows you to deliver scalable cloud storage seamlessly to your customers, without any capital investment. Grow revenue while giving customers more value and data protection, seamlessly.
+
+Learn more
+Recognized by your peer companies and industry leaders
+
+‍
+
+‍
+
+‍
+
+Assisted data migration available
+
+Backblaze’s Universal Data Migration service is here to help you quickly and securely move large datasets into B2 Cloud Storage—from public clouds and cloud drives, servers, and tape. Plus, we'll help cover migration costs with qualifying commitments.
+
+Contact Sales
+FAQ
+My organization has a large amount of files that we need to access quickly and easily. How does Backblaze meet this need?
+Does Backblaze B2 support hybrid cloud/multi-cloud infrastructure?
+Is it possible to migrate my data from a legacy storage solution to Backblaze B2?
+Why should I trust Backblaze with my data?
+How does Backblaze support sustainability?
+Is Backblaze B2 compatible with third-party applications and integrations?
+How can I get unlimited free egress?
+What is B2 Overdrive?
+Who is B2 Overdrive best suited for?
+How does Backblaze's 3x free egress work?
+Want to run a free proof of concept for more than 50TB?
+Contact Sales
+
+A Publicly Traded Company (BLZE)
+Backblaze © 2025
+
+About Us
+Newsroom
+Investor Relations
+Careers
+Terms and Policies
+Privacy
+Contact
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View ourCookie Policy
+Accept All Cookies

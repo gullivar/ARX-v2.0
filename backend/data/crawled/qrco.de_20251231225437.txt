@@ -1,0 +1,34 @@
+Please note: From Thursday, December 25, 2025 through Thursday, January 1, 2026, Bitly is giving our team a recharge week for the holidays. Bitly Customer Support will be available with a limited staff, and responses may be delayed during this time.
+For assistance during this time, please use the chat function located in the bottom right corner of this page.
+English (US) 
+QR Code Generator Support  Getting Started  QR Code Basics
+Articles in this section
+What are QR Codes?
+Which QR Code type is right for me?
+How can I check if my QR Codes work properly?
+Why are my QR Codes not scannable?
+Why did a QR Code or link bring me to the Help Center?
+Why did a QR Code or link bring me to the Help Center?
+1 year ago Updated
+
+If you clicked a link or scanned a QR Code that brought you to this article, you likely only selected the first half of a short URL. Please scan the QR Code again or copy the entire short URL with the back-half.
+
+Short URLs for Dynamic QR Codes
+
+Our dynamic QR Codes use a short URL to redirect users to your desired destination. Each short URL has both a domain (qrco.de, l.ead.me, etc.) and a back-half. 
+
+For example, the short domain in this link is qrco.de and the back-half is bf4Y2u:
+
+qrco.de/bf4Y2u
+
+The short URL's back-half is what makes a Dynamic QR Code unique and ultimately leads to the content of the QR Code. If you go directly to one of the short URLs with the back-half, without the back-half, you're brought to this article.
+
+Dynamic QR Codes are QR Codes that can be analysed and edited even after being printed. Click here for more information.
+
+  
+
+© 2024 Bitly, Handmade in NYC, San Francisco, Denver, Bielefeld and all over the world.
+Our website is sweeter with cookies 🍪
+We use cookies and other analytic technologies on our website and services. They help the site work properly and give you a personalized experience, like targeted ads based on your interests (if you want them). To manage your cookie and analytic preferences and learn more, click on Settings. You can also find more information about cookies, our analytic activities and your rights in our Cookie Policy and Privacy Policy. Sweeten your experience with cookies - not the kind you eat, unfortunately!
+COOKIE SETTINGS
+ACCEPT ALL COOKIES

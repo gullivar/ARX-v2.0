@@ -1,0 +1,178 @@
+🚀 Packagecloud is now Buildkite Package Registries. Learn more →
+Products
+Plans & Pricing
+Use Cases
+Resources
+Login
+Get Started
+Lightning-fast, secure, automated package management
+Packagecloud provides an unified, developer-friendly package management platform for your software artifacts - written in any language, delivered to any infrastructure.
+Get Started
+Why our users love Packagecloud
+Nitrux
+
+"We were already building and uploading packages to our newly created repository in a matter of minutes."
+
+- Uri Herrera, CEO & Founder
+EMQX
+
+"Professionalism, [knew] the requirements before we knew we needed them, for example, security scan."
+
+- Zaiming Shi, CTO
+Allthenticate
+
+"[They] frequently touch base to ensure we are satisfied, which is crucial for us as a small startup."
+
+- Bernie Conrad, Engineering Lead
+Manage your packages and deploy to any environment from one beautiful interface in the cloud.
+
+Equally efficient for single users or teams. Access control and collaboration features come built in
+
+Learn more
+
+Command line tools for all your needs. Comes with a graphical user interface as well
+
+Learn more
+
+API-first for easy integration with your existing tools. Refer to Docs or ask the community for best practices
+
+Learn more
+Manage packages in one place
+World-class reliability
+
+Packagecloud boasts of 99.99% availability since our inception in 2014. We understand our business can be business-critical to you!
+
+Manage packages in one place
+
+Package Management and Hosting
+
+Want to move packages between repos?
+Need hundreds of collaborators?
+npm Repository
+Learn more
+Debian Repository
+Learn more
+Maven Repository
+Learn more
+RPM Repository
+Learn more
+RubyGem Repository
+Learn more
+Python Repository
+Learn more
+Alpine Repository
+Learn more
+Helm Repository
+Learn more
+Docker Repository
+Learn more
+
+FOR DEVELOPERS
+
+Ship your software from the command line
+Install the CLI via RubyGems
+
+Scripts to get things are included at every step
+
+Create a repository
+
+Use the packagecloud CLI to create a repository.
+
+Show me how it works for...
+
+rubygem
+
+debian
+
+rpm
+
+python
+
+maven
+
+npm
+
+Simple single-click actions
+Move packages
+Delete packages
+Upload a package signing key
+List GPS Keys
+Delete a GPG key
+Create my repository
+
+Security First
+
+High in customer satisfaction for security and reliability
+At packagecloud, security is paramount. Our customers entrust us with business critical assets, so we take security very seriously.
+SOC2/CSA STAR
+
+Find details of our SOC2 audit in the Cloud Security Alliance Registry
+
+HTTPS/TLS
+
+Communication through our servers is through HTTPS using TLS 1.2+
+
+PCI Compliance
+
+Packagecloud is happy to be a PCI DSS Level IV provider
+
+50,000+
+Users
+600 TB+
+Annual Data Transfer
+119
+Countries
+What questions do you have?
+Curious about RoI data? Want to know how you can save resources or be more efficient? We are happy to help!
+Set Up a Meeting
+Focus on your code and let us worry about package management
+Get Started
+COMPANY
+Blog
+Plans & Pricing
+SUPPORT
+Contact
+Status
+Community
+PACKAGE MGMT & HOSTING
+npm Repository
+Debian Repository
+Maven Repository
+RPM Repository
+RubyGem Repository
+Python Repository
+Helm Repository
+Alpine Repository
+Docker Repository
+CI INTEGRATIONS
+CircleCI
+Travis CI
+Jenkins
+Buildkite
+Github Actions
+CLI
+BUILD TOOL INTEGRATIONS
+Maven
+Leiningen
+Gradle
+SBT
+LEGAL
+Terms of Service
+Privacy Policy
+Security & Compliance
+
+A Buildkite company
+
+© 2025 Packagecloud. All trademarks and
+registered marks belong to their respective owners
+
+SUBSCRIBE TO OUR NEWSLETTER
+
+ Subscribe
+     
+ STATUS
+
+We use cookies to enhance the user experience on packagecloud.
+By using our site, you acknowledge that you have read, understand, and agree to our
+Cookie Policy, Privacy Policy, and our Terms of Service.
+By continuing to browse this site you are agreeing to our use of cookies.

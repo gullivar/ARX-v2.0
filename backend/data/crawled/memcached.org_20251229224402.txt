@@ -1,0 +1,69 @@
+Home About Downloads Blog Mailing List Docs Bugs Sponsor Us!
+
+
+What is Memcached?
+
+Free & open source, high-performance, distributed memory object caching system, generic in nature, but intended for use in speeding up dynamic web applications by alleviating database load.
+
+Memcached is an in-memory key-value store for small chunks of arbitrary data (strings, objects) from results of database calls, API calls, or page rendering.
+
+Memcached is simple yet powerful. Its simple design promotes quick deployment, ease of development, and solves many problems facing large data caches. Its API is available for most popular languages.
+
+Supported by
+ 
+Download Memcached
+The latest stable memcached release is
+v1.6.40
+release notes (2025-12-16)
+
+tar.gz
+
+Source and Development
+Quick Example
+Cache Results
+function get_foo(foo_id)
+    foo = memcached_get("foo:" . foo_id)
+    return foo if defined foo
+
+    foo = fetch_foo_from_database(foo_id)
+    memcached_set("foo:" . foo_id, foo)
+    return foo
+end
+
+Play with telnet
+$ telnet localhost 11211
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+get foo
+VALUE foo 0 2
+hi
+END
+stats
+STAT pid 8861
+(etc)
+
+
+
+
+Got a Question?
+Chat
+
+If you are curious about something, feel free to ask on the support chats - join the Discord Chat
+
+Documentation
+
+Many common questions are answered at the Documentation Site.
+
+Email
+
+Please feel free to bug us on the memcached mailing list.
+
+Interested in business support, or sponsoring memcached's development? Cache Forge
+
+
+
+This page is maintained by Dormando. Logo/Banner images are Copyright (c) 2009-2018 Dormando, and may not be used without permission.
+Layout forked from Scott Chacon and Petr Baudis' git-scm.com
+
+Please contact the mailing list with suggestions and comments.

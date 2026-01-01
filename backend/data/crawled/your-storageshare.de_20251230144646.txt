@@ -1,0 +1,171 @@
+CLOSE 
+SERVER AUCTION
+from€ 29.00
+SERVER FINDER
+from€ 37.30
+DEDICATED 
+CLOUD
+WEB & MANAGED 
+COLOCATION
+STORAGE 
+SERVICES 
+JOBS
+COMMUNITY
+ABOUT US 
+SUPPORT
+LOGIN 
+THIS WEBSITE USES COOKIES
+We want you to have the best possible user experience on our website. We use cookies to analyze how visitors like you use our website, so we can make improvements. And we use cookies to make sure that the website functions normally. For more info, see our privacy policy. You can edit your cookie settings there at any time.
+Allow all cookies
+Allow necessary cookies
+We noticed you're browsing from a different part of the world. Switch to settings tailored to your location?
+yes
+Community
+Jobs
+About us
+ Support
+Login
+Dedicated 
+Cloud
+Web & Managed 
+Colocation
+Storage 
+Services 
+STORAGE SHARE: MANAGED NEXTCLOUD
+SAFE AND CHEAP
+CLOUD STORAGE
+
+Collaborate with others and share and secure all your documents, images, and more – all in one place.
+
+Overview
+Prices
+Features
+FAQ
+Sign up
+SIMPLE
+
+Get started right away, no matter where you are. Set up your Storage Share with just a few clicks and no technical know-how. Save, edit and share your documents, pictures and music easily via any PC, tablet or smartphone. We'll take care of the administration.
+
+SAFE
+
+Maintain control over your data, which we store in our own German and GDPR-compliant data centers. Storage Share includes an SSL certificate for your own domain in the format nx*.your-storageshare.de and for your custom subdomains.
+
+INDIVIDUAL
+
+Create user groups, define individual quotas for single users and share files privately or publicly. Use pre-installed apps like Contacts, Calendar and Tasks or add more apps.
+
+Sign up now 
+STORAGE SHARE
+
+Powered by Nextcloud. Easily store and share files.
+No minimum contract period. No cancellation period.
+
+NX11
+429max/mo.
+€ 0.0069
+/hr
+Storage
+1 TB
+Subdomain
+3
+Users
+∞
+Simultaneous Connections
+50
+FSN1
+NX21
+1419max/mo.
+€ 0.0227
+/hr
+Storage
+5 TB
+Subdomain
+7
+Users
+∞
+Simultaneous Connections
+100
+FSN1
+NX31
+2739max/mo.
+€ 0.0439
+/hr
+Storage
+10 TB
+Subdomain
+10
+Users
+∞
+Simultaneous Connections
+200
+FSN1
+Get started 
+
+FEATURES
+TRAFFIC
+
+Storage Shares have unlimited internal and external traffic, so you'll have no problem uploading and downloading all your data to and from your Storage Share.
+
+BACKUPS
+
+You can rest assured that your data is safe. Hetzner's RAID-based storage backend and our cluster network of databases make the probability of failure very low. In addition, Hetzner's system automatically makes backups of the database and storage backend several times every day.
+
+SHARING
+
+Use Storage Share with an unlimited number of users and summarise them in user groups. Easily share documents within the team or with other Storage Share or Nextcloud instances.
+
+FLEXIBLE ACCESS
+
+Our Storage Shares include a user-friendly web interface. Users always connect to it via HTTPS. Or you can use the Nextcloud apps for iOS and Android, or the desktop apps for Windows, Mac, and Linux to access your Storage Share. And WebDAV lets you automate your access to it.
+
+CUSTOMIZABLE
+
+It's easy to customize your Storage Shares with apps available in the Nextcloud Appstore to meet your specific needs. For example, you can integrate your own authentication systems. Additional apps must be carried out independently, we cannot offer support for this.
+
+SCALABILITY
+
+Stay flexible with your Storage Share. Regardless of how your requirements change over time, you can upgrade or downgrade your Storage Share in a few quick steps and without worrying about data loss. Simply switch between the Storage Share package size you need by going to your account on the konsoleH, and then to "Account type".
+
+QUICK CONFIGURATION
+
+The setup for Storage Shares is a snap using either the app or the web front end. And the synchronization client will enable you to automatically synchronize your files from local devices with your Storage Share.
+
+HIGH AVAILABILITY
+
+Our team of technicians takes care of the administration of your Storage Shares for you. Our highly optimized and automated systems monitor them around the clock and install the latest updates.
+
+DATA PROTECTION
+
+Your Storage Share will be hosted in our own data center in Falkenstein, Germany. We guarantee that its operation complies with EU's data protection regulations (GDPR). You can also generate a data processing agreement (DPA) that complies with article 28 of the GDPR on konsoleH.
+
+Go to the deals 
+FREQUENTLY ASKED QUESTIONS
+ How do we keep your data secure with Storage Share?
+ What does the "unlimited" storage quota setting mean?
+ Can I use Storage Share with my smartphone?
+ Can I share my data with another user on a different server?
+ Can Hetzner add the feature "x"?
+ Can I use domains besides "nx*.your-storageshare.de"?
+ How can I create backups?
+More FAQs 
+Subscribe to our Newsletter
+Hetzner
+Company
+Our Customers
+Sustainability
+Career
+Pressroom
+Support
+Support Center
+Contact
+Downloads
+Hetzner Docs
+Status
+Legal
+Legal notice
+Data privacy
+System policies
+Terms and conditions
+Digital Services Act
+Abuse form
+© 2025 Hetzner Online GmbH. All Rights Reserved. Prices 

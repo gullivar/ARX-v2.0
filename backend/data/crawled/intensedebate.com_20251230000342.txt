@@ -1,0 +1,86 @@
+Sign in
+Imagine better comments.
+
+IntenseDebate takes comments to the next level. Explore the features
+
+Sign Up
+
+IntenseDebate is a feature-rich comment system for WordPress, Tumblr, Blogger and many other website platforms.
+
+Supercharge Your Community
+
+Give your readers the tools to engage in interesting discussions around your content.
+
+Increase Reader Engagement
+
+With IntenseDebate comments can be posted using Facebook Connect and Twitter accounts. Innovative discussion tools make for easier and more fun conversations on your blog/website.
+
+Boost Your Page Views
+
+Email notifications bring previous readers back to your site to continue the discussion, boosting your page views.
+
+Comments
+
+IntenseDebate email notifications alert you and your readers of new comments, encouraging return visits and additional commenting. You can reply to and moderate comments via email, while threading makes it easy to follow the conversation.
+
+Threading: Reply directly to a specific comment with nested replies.
+
+Email Notifications: Receive alerts for replies and new comments.
+
+Reply-By-Email: Respond to and moderate comments via email.
+
+Users
+
+Enable your users to see who they're debating with. Rich profiles and the ability to connect with people makes IntenseDebate a very useful widget.
+
+Commenter Profiles: Give your readers' voices an identity!
+
+Reputation Scores: Get a quick overview of a commenter's history.
+
+Comment Voting: Bring the best comments to the front.
+
+Comment History: Keep track of all of your comments.
+
+Administration
+
+Moderation: Auto-filter comments by keyword, email and IP addresses.
+
+Blacklisting: Auto-delete comments by keyword, email and IP addresses, or ban users from posting.
+
+Spam Filters: Akismet keeps the spam at bay.
+
+Multiple Admins: Assign additional admins to manage the same blog/website.
+
+Social Commenting
+
+Let your readers post comments using services like Facebook and Twitter. They can also sign up for an IntenseDebate profile or simply comment without one as a Guest.
+
+Facebook Connect: Comment using your Facebook profile.
+
+Twitter Sign-In: Post with your Twitter account and tweet your comments.
+
+Gravatar: Full integration with your Gravatar profile.
+
+Online Identity: Get to know your readers and let them connect with each other.
+
+Guest Commenting: Post without an account.
+
+Simple Installation
+1
+
+Enter your URL.
+
+2
+
+Pick your platform.
+
+3
+
+Follow the instructions. Done!
+
+Install Now
+AN  BRANCH
+
+Home Features About Press Developers Help
+
+© 2025 Automattic Inc. TOS | Privacy Policy | Privacy Notice for California Users

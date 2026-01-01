@@ -1,0 +1,11 @@
+Bienvenue sur
+
+Afin de vous laisser continuer nous devons d'abord vérifier que vous n'êtes pas un robot.
+
+Merci de cocher la case ci-dessous:
+
+Je ne suis pas un robot
+Protected by BALEEN
+Pourquoi cette vérification?
+Nous avons détecté un comportement suspect de votre navigateur et effectuons ce genre de contrôle pour améliorer l'expérience globale de tous nos utilisateurs
+Information de traçabilité : 9aa4b231a3ea604194eb39e69ef27986

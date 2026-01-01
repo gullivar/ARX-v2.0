@@ -1,0 +1,818 @@
+All-in-one solution for upload. Process and transform files with AI capabilities. Get started free.
+www.filestack.com
+Ads by EthicalAds
+advertise here
+provided by
+Q-Success
+Home Technologies Reports API Sites Quality Users Blog Forum FAQ Search
+
+Featured products and services
+advertise here
+
+Next-gen autoscaling hosting for always-on, always-fast sites - 20i
+Real residential proxy, fast, secure and stable - Novada
+Web Design Tips, Tutorials, and Guides - DesignBombs
+WordPress Tutorials & Themes - Themeisle
+	
+W3Techs - World Wide Web Technology Surveys
+
+W3Techs provides information about the usage of various types of technologies on the web.
+
+Our vision
+
+Provide the most reliable, the most extensive and the most relevant source of information on web technology usage.
+
+In our web technology surveys you can see the most popular technologies in these categories. We have no affiliation with any of the technology providers, which we cover in the surveys.
+
+
+
+
+Content Management Systems
+
+Most popular content management systems
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	WordPress	43.0%	-0.2%	60.2%	-0.3%
+2.	Shopify	5.0%	+0.1%	7.0%	+0.2%
+3.	Wix	4.2%	+0.1%	5.8%	+0.1%
+4.	Squarespace	2.4%		3.4%	
+5.	Joomla	1.3%	-0.1%	1.9%	
+percentages of sites
+
+
+Fastest growing content management systems since 1 November 2025
+
+© W3Techs.com	sites
+1.	Shopify	24.2
+2.	Elementor	23.0
+3.	Wix	12.4
+daily increase of number of sites
+per million
+
+Find more details in the content management surveys
+
+
+
+Server-side Programming Languages
+
+Most popular server-side programming languages
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	PHP	72.4%	-0.7%
+2.	Ruby	6.5%	+0.1%
+3.	JavaScript	5.4%	+0.2%
+4.	Java	5.4%	
+5.	Scala	4.9%	+0.1%
+percentages of sites
+
+
+Fastest growing server-side programming languages since 1 November 2025
+
+© W3Techs.com	sites
+1.	static files	73.9
+2.	JavaScript	42.5
+3.	Ruby	20.7
+daily increase of number of sites
+per million
+
+Find more details in the server-side language surveys
+
+
+
+Client-side Programming Languages
+
+Most popular client-side programming languages
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	JavaScript	98.9%	
+2.	Flash	1.5%	+0.7%
+3.	Java	0.1%	
+percentages of sites
+
+
+Fastest growing client-side programming languages since 1 November 2025
+
+© W3Techs.com	sites
+1.	Flash	123.7
+2.	JavaScript	2.1
+3.	Java	0.6
+daily increase of number of sites
+per million
+
+Find more details in the client-side language surveys
+
+
+
+JavaScript Libraries
+
+Most popular JavaScript libraries
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	jQuery	71.4%	-0.7%	89.0%	-0.5%
+2.	Bootstrap	16.7%	-0.4%	20.8%	-0.4%
+3.	Underscore	7.8%	-0.2%	9.8%	-0.1%
+4.	React	6.2%	+0.1%	7.7%	+0.1%
+5.	Modernizr	6.0%	-0.2%	7.5%	-0.2%
+percentages of sites
+
+
+Fastest growing JavaScript libraries since 1 November 2025
+
+© W3Techs.com	sites
+1.	Next.js	25.0
+2.	Lodash	11.1
+3.	GSAP	8.3
+daily increase of number of sites
+per million
+
+Find more details in the JavaScript library surveys
+
+
+
+CSS Frameworks
+
+Most popular CSS frameworks
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Bootstrap	15.1%	-0.3%	75.0%	-0.2%
+2.	Animate	8.6%	-0.1%	42.5%	
+3.	Foundation	0.5%		2.3%	
+4.	Tailwind	0.3%		1.5%	+0.1%
+5.	UIkit	0.2%		0.9%	
+percentages of sites
+
+
+Fastest growing CSS frameworks since 1 November 2025
+
+© W3Techs.com	sites
+1.	Tailwind	2.9
+2.	Bulma	0.1
+daily increase of number of sites
+per million
+
+Find more details in the CSS framework surveys
+
+
+
+Web Servers
+
+Most popular web servers
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Nginx	33.3%	
+2.	Cloudflare Server	25.7%	+1.0%
+3.	Apache	24.5%	-0.8%
+4.	LiteSpeed	14.7%	-0.1%
+5.	Node.js	5.4%	+0.2%
+percentages of sites
+
+
+Fastest growing web servers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Cloudflare Server	165.1
+2.	Node.js	44.1
+3.	Envoy	20.0
+daily increase of number of sites
+per million
+
+Find more details in the web server surveys
+
+
+
+Web Panels
+
+Most popular web panels
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	hPanel	4.1%	+0.2%	47.7%	+1.1%
+2.	Plesk	4.0%	-0.1%	47.1%	-0.9%
+3.	cPanel	0.2%		2.3%	
+4.	RunCloud	0.1%		1.2%	-0.1%
+5.	GridPane	0.1%		0.7%	-0.1%
+percentages of sites
+
+
+Fastest growing web panels since 1 November 2025
+
+© W3Techs.com	sites
+1.	hPanel	19.0
+2.	Control Web Panel	0.5
+3.	WPTangTocOLS	0.3
+daily increase of number of sites
+per million
+
+Find more details in the web panel surveys
+
+
+
+Operating Systems
+
+Most popular operating systems
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Unix	90.7%	+0.6%
+2.	Windows	9.5%	-0.7%
+percentages of sites
+
+
+Fastest growing operating systems since 1 November 2025
+
+© W3Techs.com	sites
+1.	Linux	275.8
+2.	Unix	100.5
+3.	Ubuntu	17.3
+daily increase of number of sites
+per million
+
+Find more details in the operating system surveys
+
+
+
+Web Hosting Providers
+
+Most popular web hosting providers
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Shopify	5.0%	+0.1%
+2.	Amazon	4.8%	
+3.	Hostinger	4.6%	+0.1%
+4.	Wix	4.2%	+0.1%
+5.	Newfold Digital Group	2.8%	-0.1%
+percentages of sites
+
+
+Fastest growing web hosting providers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Hostinger	24.6
+2.	Shopify	23.8
+3.	Vercel	16.3
+daily increase of number of sites
+per million
+
+Find more details in the web hosting surveys
+
+
+
+Data Center Providers
+
+Most popular data center providers
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Amazon	10.2%	+0.1%
+2.	Google	8.9%	
+3.	Hostinger	4.4%	+0.1%
+4.	OVH	3.0%	
+5.	United Internet	2.8%	
+percentages of sites
+
+
+Fastest growing data center providers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Oracle	53.3
+2.	Hostinger	22.9
+3.	NTT Docomo	16.3
+daily increase of number of sites
+per million
+
+Find more details in the data center surveys
+
+
+
+Reverse Proxy Services
+
+Most popular reverse proxy services
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Cloudflare	20.9%	+0.9%	81.9%	+0.8%
+2.	Amazon CloudFront	1.6%		6.3%	-0.1%
+3.	Fastly	0.9%		3.5%	-0.2%
+4.	Akamai	0.8%		3.1%	-0.2%
+5.	DDoS-Guard	0.7%		2.7%	-0.1%
+percentages of sites
+
+
+Fastest growing reverse proxy services since 1 November 2025
+
+© W3Techs.com	sites
+1.	Cloudflare	147.6
+2.	DDoS-Guard	3.1
+3.	Amazon CloudFront	2.4
+daily increase of number of sites
+per million
+
+Find more details in the reverse proxy surveys
+
+
+
+DNS Server Providers
+
+Most popular DNS server providers
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Cloudflare	15.3%	+0.4%
+2.	GoDaddy Group	10.1%	
+3.	Newfold Digital Group	4.0%	-0.1%
+4.	Hostinger	4.0%	+0.1%
+5.	Amazon	3.8%	+0.2%
+percentages of sites
+
+
+Fastest growing DNS server providers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Cloudflare	79.3
+2.	Amazon	24.0
+3.	Hostinger	20.9
+daily increase of number of sites
+per million
+
+Find more details in the DNS server surveys
+
+
+
+Email Server Providers
+
+Most popular email server providers
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Gmail	16.8%	
+2.	Microsoft	13.4%	
+3.	Hostinger	3.5%	+0.1%
+4.	United Internet	3.5%	-0.1%
+5.	team.blue	2.5%	
+percentages of sites
+
+
+Fastest growing email server providers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Proofpoint Group	32.5
+2.	Hostinger	20.0
+3.	Your.Online	13.1
+daily increase of number of sites
+per million
+
+Find more details in the email server surveys
+
+
+
+SSL Certificate Authorities
+
+Most popular SSL certificate authorities
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Let’s Encrypt	60.7%	+0.4%	64.2%	+0.4%
+2.	GlobalSign	22.4%	+0.5%	23.7%	+0.5%
+3.	Sectigo	5.6%	-0.6%	5.9%	-0.6%
+4.	GoDaddy Group	3.7%	-0.1%	3.9%	-0.1%
+5.	DigiCert Group	1.8%	-0.1%	1.9%	-0.1%
+percentages of sites
+
+
+Fastest growing SSL certificate authorities since 1 November 2025
+
+© W3Techs.com	sites
+1.	GlobalSign	76.8
+2.	Let’s Encrypt	70.2
+3.	Actalis	2.4
+daily increase of number of sites
+per million
+
+Find more details in the SSL certificate authority surveys
+
+
+
+JavaScript Content Delivery Networks
+
+Most popular JavaScript content delivery networks
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	CDNJS	12.0%	-0.2%	48.6%	+0.1%
+2.	jsDelivr	8.8%	+0.1%	35.5%	+0.6%
+3.	Google Hosted Libraries	8.3%	-0.3%	33.7%	-0.7%
+4.	jQuery CDN	4.3%	-0.1%	17.4%	-0.2%
+5.	unpkg	2.4%		9.8%	+0.2%
+percentages of sites
+
+
+Fastest growing JavaScript content delivery networks since 1 November 2025
+
+© W3Techs.com	sites
+1.	jsDelivr	8.8
+2.	unpkg	6.6
+daily increase of number of sites
+per million
+
+Find more details in the content delivery surveys
+
+
+
+Traffic Analysis Tools
+
+Most popular traffic analysis tools
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Google Analytics	44.6%	-0.7%	79.0%	-0.6%
+2.	Meta Pixel	9.3%	-0.1%	16.4%	-0.1%
+3.	WordPress Jetpack	4.0%	-0.1%	7.1%	-0.1%
+4.	Yandex.Metrica	3.7%		6.5%	
+5.	Microsoft Clarity	3.5%	+0.1%	6.2%	+0.2%
+percentages of sites
+
+
+Fastest growing traffic analysis tools since 1 November 2025
+
+© W3Techs.com	sites
+1.	Cloudflare Web Analytics	91.0
+2.	Microsoft Clarity	21.5
+3.	Ahrefs Web Analytics	4.8
+daily increase of number of sites
+per million
+
+Find more details in the traffic analysis tool surveys
+
+
+
+Advertising Networks
+
+Most popular advertising networks
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Google Ads	45.2%	-1.0%	99.2%	
+2.	Amazon Associates	0.7%	-0.1%	1.6%	
+3.	Equativ	0.3%		0.7%	
+4.	AdRoll	0.3%		0.6%	+0.1%
+5.	Microsoft Advertising	0.2%		0.4%	
+percentages of sites
+
+
+Fastest growing advertising networks since 1 November 2025
+
+© W3Techs.com	sites
+1.	Awin	2.3
+2.	AdRoll	2.1
+3.	AdRiver	0.1
+daily increase of number of sites
+per million
+
+Find more details in the advertising network surveys
+
+
+
+Tag Managers
+
+Most popular tag managers
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	Google Tag Manager	47.1%	-0.3%	99.7%	
+2.	Adobe DTM	0.2%		0.4%	
+3.	Tealium	0.1%		0.2%	
+4.	Matomo Tag Manager	0.1%		0.2%	
+percentages of sites
+
+
+Fastest growing tag managers since 1 November 2025
+
+© W3Techs.com	sites
+1.	Matomo Tag Manager	0.2
+daily increase of number of sites
+per million
+
+Find more details in the tag manager surveys
+
+
+
+Social Widgets
+
+Most popular social widgets
+
+© W3Techs.com	usage	change since
+1 November 2025	market
+share	change since
+1 November 2025
+1.	WhatsApp	12.9%	+0.3%	55.6%	+1.3%
+2.	Facebook	11.1%	-0.2%	48.0%	-0.7%
+3.	Twitter/X	9.9%	-0.2%	42.7%	-0.8%
+4.	Pinterest	4.6%		19.9%	-0.1%
+5.	LinkedIn	4.4%		18.8%	
+percentages of sites
+
+
+Fastest growing social widgets since 1 November 2025
+
+© W3Techs.com	sites
+1.	WhatsApp	47.3
+2.	Reddit	7.2
+3.	VKontakte	6.3
+daily increase of number of sites
+per million
+
+Find more details in the social widget surveys
+
+
+
+Site Elements
+
+Most popular site elements
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	CSS	93.9%	-1.6%
+2.	Compression	88.9%	-0.7%
+3.	Default protocol https	87.7%	-1.0%
+4.	Cookies	40.5%	+0.3%
+5.	Default subdomain www	38.4%	-0.9%
+percentages of sites
+
+
+Fastest growing site elements since 1 November 2025
+
+© W3Techs.com	sites
+1.	Secure Cookies	154.1
+2.	IPv6	140.5
+3.	HTTP/3	125.5
+daily increase of number of sites
+per million
+
+Find more details in the site element surveys
+
+
+
+Structured Data Formats
+
+Most popular structured data formats
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	Open Graph	69.7%	+0.3%
+2.	Twitter/X Cards	55.2%	+0.5%
+3.	JSON-LD	52.5%	+0.5%
+4.	Generic RDFa	39.4%	-0.1%
+5.	Microdata	23.1%	-0.3%
+percentages of sites
+
+
+Fastest growing structured data formats since 1 November 2025
+
+© W3Techs.com	sites
+1.	Twitter/X Cards	86.6
+2.	JSON-LD	78.4
+3.	Open Graph	61.9
+daily increase of number of sites
+per million
+
+Find more details in the structured data surveys
+
+
+
+Markup Languages
+
+Most popular markup languages
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	HTML	97.3%	+0.1%
+2.	XHTML	3.6%	-0.1%
+percentages of sites
+
+
+Fastest growing markup languages since 1 November 2025
+
+© W3Techs.com	sites
+1.	HTML5	28.2
+2.	HTML	18.5
+daily increase of number of sites
+per million
+
+Find more details in the markup language surveys
+
+
+
+Character Encodings
+
+Most popular character encodings
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	UTF-8	98.9%	+0.1%
+2.	ISO-8859-1	1.0%	
+3.	Windows-1252	0.3%	
+4.	Windows-1251	0.2%	
+5.	EUC-JP	0.1%	
+percentages of sites
+
+
+Fastest growing character encodings since 1 November 2025
+
+© W3Techs.com	sites
+1.	UTF-8	6.8
+2.	Shift JIS	0.1
+daily increase of number of sites
+per million
+
+Find more details in the character encoding surveys
+
+
+
+Image File Formats
+
+Most popular image file formats
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	PNG	78.1%	-0.4%
+2.	JPEG	73.0%	-0.6%
+3.	SVG	64.8%	+0.7%
+4.	WebP	18.7%	+0.6%
+5.	GIF	15.9%	-0.4%
+percentages of sites
+
+
+Fastest growing image file formats since 1 November 2025
+
+© W3Techs.com	sites
+1.	SVG	119.1
+2.	WebP	108.0
+3.	AVIF	28.0
+daily increase of number of sites
+per million
+
+Find more details in the image file format surveys
+
+
+
+Top Level Domains
+
+Most popular top level domains
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	.com	43.7%	
+2.	.org	4.0%	
+3.	.de	3.9%	
+4.	.br	3.1%	
+5.	.ru	2.9%	
+percentages of sites
+
+
+Fastest growing top level domains since 1 November 2025
+
+© W3Techs.com	sites
+1.	.eu	3.4
+2.	.world	3.0
+3.	.shop	2.7
+daily increase of number of sites
+per million
+
+Find more details in the top level domain surveys
+
+
+
+Server Locations
+
+Most popular server locations
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	United States	33.5%	-0.1%
+2.	Germany	13.7%	-0.1%
+3.	Japan	6.2%	
+4.	France	5.3%	+0.1%
+5.	Netherlands	3.8%	
+percentages of sites
+
+
+Fastest growing server locations since 1 November 2025
+
+© W3Techs.com	sites
+1.	France	18.6
+2.	Switzerland	11.2
+3.	Netherlands	9.0
+daily increase of number of sites
+per million
+
+Find more details in the server location surveys
+
+
+
+Content Languages
+
+Most popular content languages
+
+© W3Techs.com	usage	change since
+1 November 2025
+1.	English	49.4%	+0.1%
+2.	Spanish	6.0%	
+3.	German	5.9%	
+4.	Japanese	5.1%	
+5.	French	4.5%	
+percentages of sites
+
+
+Fastest growing content languages since 1 November 2025
+
+© W3Techs.com	sites
+1.	English	23.6
+2.	German	4.2
+3.	Arabic	4.1
+daily increase of number of sites
+per million
+
+Find more details in the content language surveys
+
+
+Share
+	
+News       read all news
+Shopify is now the most popular web hosting provider
+12 September 2025
+
+
+Shopify has just overtaken Amazon as the most used web hosting provider, used by 4.8% of all websites.
+
+» more
+
+
+Web Technology Trends - June 2025
+5 June 2025
+
+
+We present some of the highlights of our surveys in the various categories that might not be obvious from browsing through our pages.
+
+» more
+
+
+Web Technologies of the Year 2024
+2 January 2025
+
+
+We compiled the list of web technologies that saw the largest increase in usage in 2024.
+
+» more
+
+
+
+Market Report Testimonials
+Andrew Alexeev about our web technology market reports:
+"The reports W3Techs have been doing are extremely interesting and thought provoking. At Nginx we've been tracking them already for a while, to the level where we consider these reports to be one of our essential market research instruments. W3Techs did it in a new interesting way and we're looking forward to work with these tools."
+Andrew Alexeev, Co-Founder, Nginx Inc.
+
+» more
+
+W3Techs featured at
+krebsonsecurity.com
+uforum.uz
+xpressengine.com
+zdnet.be
+tidbits.com
+crowdfavorite.com
+mondaybynoon.com
+intelligentedu.com
+muycomputer.com
+77169.com
+Powered by website.informer.com
+About Us Disclaimer Terms of Use Privacy Policy Advertising Contact
+W3Techs on    LinkedIn  Mastodon  Bluesky
+Copyright © 2009-2025 Q-Success
+

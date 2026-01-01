@@ -1,0 +1,74 @@
+My public IP addresses & browser data
+IPv4
+Address
+59.15.130.228📋
+Hostname
+unknown
+Autonomous System (ISP)
+Korea Telecom (4766)
+Timezone
+Asia/Seoul
+Weather station
+KSXX7592
+Country
+🇰🇷 South Korea (AS)
+City
+Yeongdeungpo-gu
+Postal code
+150038
+Coordinates
+37.5223, 126.91
+IPv6
+
+Error: Failed to fetch IP data
+
+Browser data
+WebRTC addresses
+ef444fa6-f4eb-4f4d-b13d-802102664958.local
+59.15.130.228
+Language
+en-US
+Timezone
+Asia/Seoul
+Display
+1280×720×24
+Window
+1280×720
+JS user agent
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Headers
+Accept: */*
+
+Accept-Encoding: gzip, deflate, br, zstd
+
+Origin: https://www.ident.me
+
+Priority: u=1, i
+
+Sec-Ch-Ua: "HeadlessChrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+
+Sec-Ch-Ua-Mobile: ?0
+
+Sec-Ch-Ua-Platform: "macOS"
+
+Sec-Fetch-Dest: empty
+
+Sec-Fetch-Mode: cors
+
+Sec-Fetch-Site: same-site
+
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+Coordinates
+Unknown
+
+Geolocate me
+
+ Show maps
+
+Mac CLI in brew: brew install identme📋
+Plain text at 4.ident.me (IPv4), 6.ident.me (IPv6), & a.ident.me (either)
+
+donate through ko-fi or github 🙇
+docs (APIs, privacy, etc.) — mirror — stats
+▼

@@ -1,0 +1,121 @@
+Home
+Removal Request
+Lookups
+Feedback
+Report Issues
+
+Welcome to BarracudaCentral.org, devoted to sharing information with Barracuda Networks customers and the Internet security community. Here you will find a wide range of statistics, threat information, and a number of useful services to help manage and secure your network.
+
+Information provided is more technical in nature, and geared toward IT and system administrators.
+
+Spam Data
+
+Email Processed (last 2 days)
+ 	Yesterday 12/29	Today 12/30 (so far)
+Blocked: Spam	371,958,217
+84.44%
+	256,847,725
+63.66%
+
+Blocked: Virus	535,353
+0.12%
+	5,734,825
+1.42%
+
+Quarantined	2,822,198
+0.64%
+	4,705,351
+1.17%
+
+Allowed: Tagged	2,667,067
+0.61%
+	4,042,985
+1.00%
+
+Allowed	62,534,611
+14.20%
+	132,148,088
+32.75%
+
+Total Received	440,517,446
+100.00%
+	403,478,974
+100.00%
+
+Updated daily
+Web Data
+
+Top Visited Sites Today
+Domain
+Visits
+	Domain
+Visits
+
+1. google.com
+271,887,410
+	6. yahoo.com
+95,483,425
+
+2. doubleclick.net
+141,587,611
+	7. yimg.com
+88,353,238
+
+3. sophosxl.net
+114,763,840
+	8. dropbox.com
+78,842,982
+
+4. youtube.com
+102,774,918
+	9. apple.com
+73,791,867
+
+5. facebook.com
+95,794,466
+	10. microsoft.com
+72,597,502
+
+Last Updated 08/18/16 20:31:58 GMT
+Virus Data
+Viruses Blocked (last 24 hours)
+
+
+
+Response Time to New Threats
+
+
+
+Top Blocked Virus Threats
+Virus Name
+
+SFP.Rogue.0hr.0929n2700
+
+
+*BN.ZeroHour-150659957
+
+
+SFP.Malware.14589.Zbot
+
+
+*BN.ZeroHour-150659945
+
+
+SFP.Rogue.0hr.0925v23071
+
+
+Worm.Mydoom.M
+
+
+SFP.Rogue.0hr.0928n13531
+
+
+HTML.Phishing.Bank-218
+
+
+HTML.Phishing.Bank-1327
+
+Updated daily
+Barracuda Networks Privacy Policy About Barracuda Networks
+
+© 2009-2020 Barracuda Networks. All Rights Reserved.

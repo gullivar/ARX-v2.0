@@ -1,0 +1,585 @@
+ 
+Enter | Register
+
+
+HOME
+TOP
+CATALOG
+CONTESTS
+GYM
+PROBLEMSET
+GROUPS
+RATING
+EDU
+API
+CALENDAR
+HELP
+
+
+
+
+→ Pay attention
+Contest is running
+ICPC 2025 Online Winter Challenge powered by Huawei
+13 days
+Register now »
+Before contest
+Educational Codeforces Round 186 (Rated for Div. 2)
+00:08:41
+Register now »
+→ Top rated
+#	User	Rating
+1	Kevin114514	3814
+2	Benq	3795
+3	jiangly	3722
+4	orzdevinwang	3670
+5	ecnerwala	3592
+6	ksun48	3588
+7	tourist	3585
+8	VivaciousAubergine	3536
+9	Radewoosh	3530
+10	dXqwq	3436
+Countries | Cities | Organizations	View all →
+→ Top contributors
+#	User	Contrib.
+1	Um_nik	164
+2	Qingyu	161
+3	adamant	157
+4	cry	153
+5	Dominater069	152
+5	errorgorn	152
+7	Proof_by_QED	151
+8	soullless	143
+8	TheScrasse	143
+10	Arpa	142
+	View all →
+→ Find user
+Handle: 
+→ Recent actions
+awoo → Educational Codeforces Round 186 [Rated for Div. 2]   
+dhiweifhf → Another Master who turned out to be a cheater   
+hatehate → [Project Update] Proof-based Competitive Math Online Judge   
+RishiVerma069 → IICPC Global Codefest: What Are the Next Steps After Registration?   
+Temos_ → Girlfriend vs Tree   
+KAN → Help identify broken Codeforces problems   
+Moham3d_3ssam → Please, How to improve myself in DP   
+Asakire → Maths for CP   
+muhammad_saim → Common Mistakes Beginners Make on Codeforces (and How to Avoid Them)   
+Infinite-Tsukuyomi → Looking for MathForces   
+ARIF_NCS13 → ICPC Asia Dhaka Preliminary and Regional Problemset 2015 to 2025    
+maroonrk → AtCoder Grand Contest 076 Announcement   
+twosquares → Good Bye 2025 Editorial   
+AmShZ → Repovive Goodbye 2025 Round   
+RishiVerma069 → Can y'all suggest some good resources to learn greedy,maths for codeforces?   
+dush1729 → CF Seeker is live!   
+Dominater069 → IICPC Global Codefest 2026   
+YuukiS → Good Bye 2025   
+satyam343 → think-cell Round 1 Editorial    
+prvocislo → EGOI 2026 Call for Problems (extended deadline!)   
+DarkDevilVaqif → Topics important for EJOI?   
+MikeMirzayanov → Goodbye, 2025. Hello, 2026!   
+atcoder_official → AtCoder Beginner Contest 438 Announcement   
+omsincoconut → Codeforces Round 1071 (Div. 3) Editorial   
+gm_monkey → What was that one extension?   
+	Detailed →
+
+Educational Codeforces Round 186 [Rated for Div. 2]
+
+By awoo, history, 25 hours ago, translation, 
+
+Hello Codeforces!
+
+The series of Educational Rounds continues thanks to the support of the Computer Science and Artificial Intelligence (CSAI) program at Neapolis University Pafos, with scholarships provided by JetBrains.
+
+Educational Codeforces Round 186 (Rated for Div. 2) will start on Monday, December 29, 2025 at 23:35UTC+9.
+
+This round will be rated for the participants with rating lower than 2100. It will be held on extended ICPC rules. The penalty for each incorrect submission until the submission with a full solution is 10 minutes. After the end of the contest, you will have 12 hours to hack any solution you want. You will have access to copy any solution and test it locally.
+
+You will be given 6-7 problems and 2 hours to solve them.
+
+The problems were invented and prepared by Adilbek adedalic Dalabaev, Ivan BledDest Androsov, Maksim Neon Mescheryakov, Roman Roms Glazov, Maksim FelixArg Novotochinov and me. Also, huge thanks to Mike MikeMirzayanov Mirzayanov for great systems Polygon and Codeforces.
+
+Good luck to all the participants!
+
+And on the occasion of the New Year — Happy New Year!
+
+We wish you clear ideas, strong solutions, and many ACs in the year ahead.
+
+Full text and comments »
+
+ Announcement of Educational Codeforces Round 186 (Rated for Div. 2)
+ educational rounds, codeforces, neapolis university
++157
+ awoo
+ 25 hours ago
+ 22
+
+
+
+Goodbye, 2025. Hello, 2026!
+
+By MikeMirzayanov, history, 4 days ago, 
+
+Goodbye, 2025. Hello, 2026!
+
+Dear Santa, Please make 2026 a happy year—not just for me, but for everyone. We all need this.
+
+Hello, 2026!
+
+And of course, we have our traditional gifts!
+
+ Change Handle Feature
+
+Hurry! Until January 10, you can change your handle (but only once)! Note that next time you will be able to roll back the change or request another handle change only after a year (in December 2026). Choose wisely!
+
+You can change your handle to a new one that hasn't been used by anyone else, or to one that you've previously used. Links to your old profile will automatically redirect to your updated profile.
+
+Again this year, if you've participated in at least 10 rounds, you can request the handle of an inactive participant. This means the participant must have had a period of activity on Codeforces lasting at most 180 days, and this activity must have occurred in 2022 or earlier. The inactive participant must not have posted comments, messages, or similar content, and they must not have participated receiving 'Accepted' in more than 2 contests. In such cases, the handle will be automatically renamed, and the original owner will be notified via email. If the original user requests their handle back, we will roll back the change and restore your previous handle.
+
+If you're unable to change your handle, it means some of the requirements have not been met. Please do not ask me to intervene manually. I especially dislike requests such as, "This is my second account; I took an interesting handle myself." I'm not Santa Claus!
+
+Speaking of handles, I always reminisce about one particular story. Once, a user sent me this message: "Please change my handle from I_love_Valya to I_love_Sveta, as I no longer love Valya..."
+
+New Year's Masquerade of Colors and Ranks
+
+The traditional magical tab has appeared in your profile settings. Happy New Year!
+
+Full text and comments »
+
+ new year, 2025, 2026, codeforces, masquerade
++1230
+ MikeMirzayanov
+ 4 days ago
+ 103
+
+
+
+Good Bye 2025
+
+By YuukiS, 5 days ago, 
+Merry Christmas, Codeforces! 🎄 🎄 🎄
+
+We are glad to invite you to take part in Good Bye 2025, which will start on Saturday, December 27, 2025 at 23:35UTC+9. You will be given 9 problems and 3 hours to solve them. At least one problem will be interactive, so please make sure to read the guide for interactive problems before the contest. This round is open and rated for everyone.
+
+Problems are authored by conqueror_of_tourist, twosquares, and YuukiS.
+
+We would like to thank:
+
+Error_Yuan for his wonderful coordination.
+Alexdat2000 for Russian translation.
+Geothermal, Um_nik, and Dominater069 for nutella testing.
+__baozii__ for remaining an IGM during testing (unlike me).
+BucketPotato, kevinyang, golomb, xiaowuc1, apgpsoop, and 4fecta for red testing.
+kevin, Auchenai01, and _odium for testing and being an IM at some point in their lives (unlike conqueror_of_tourist).
+sszcdjr, fishy15, fwfjs, applepi216, beaaaan, zhed, Julto, and ow3nL for yellow testing.
+ToxicPie9, shcal, Gilwall, biximo, RTE, and aggrovector for purple testing.
+djrfrn, Leaves333, mtand872, chromate00, and mathtsai for blue testing.
+laze, LetianPie, RockingMat, and pranp_24 for cyan testing.
+waterbottledude for making sure we get every color (maybe you can test after the contest!!).
+Milmon and elituni for gray testing.
+jaguar713 for truly making sure we get every color (and drawing multiple diagrams).
+MikeMirzayanov and KAN for the great Codeforces and Polygon platforms.
+
+You
+
+ for participating in this round.
+
+Update 1: The score distribution is as follows
+
+
+
+$$$500-750-1250-1750-2250-2750-3500-3750-4000$$$
+
+⛄ We hope you'll enjoy the problems! ⛄
+
+Update 2: Hacks will be disabled on problems A-E.
+
+Update 3: Editorial
+
+Update 4: Congratulations to the winners!
+
+jiangly
+Benq
+Kevin114514
+VivaciousAubergine
+ecnerwala
+StarSilk
+Radewoosh
+Ormlis
+ksun48
+liuhengxi
+
+We sincerely hope you enjoyed a nonnegative number of problems on the round. We hope you have a Happy New Year (both on CF and irl... maybe go touch some grass for the first time this year)!
+
+Full text and comments »
+
+ Announcement of Good Bye 2025
++1581
+ YuukiS
+ 5 days ago
+ 193
+
+
+
+ICPC 2025 Online Winter Challenge powered by Huawei
+
+By ICPCNews, 6 weeks ago, 
+
+Hello, Codeforces!
+
+We are happy to invite you to an exciting online event: ICPC 2025 Online Winter Challenge powered by Huawei, which will start on December 26, 2025 11:00 UTC (UTC+0). In this Challenge, you will have a unique chance:
+
+to compete during 16 days online challenge
+to solve 1 exciting problem prepared by Huawei
+to win amazing prizes from Huawei!
+
+As a special prize, Huawei together with ICPC Foundation will provide the travel and an invitation to the 50th Annual ICPC World Finals in a guest role!
+
+Everyone is welcome to participate. It is an individual competition.
+
+Start: December 26, 2025 11:00 UTC (UTC+0)
+
+Finish: January 11, 2026 10:59 UTC (UTC+0)
+
+REGISTER
+Prizes
+Rank	Prize
+
+Grand Prize (Rank 1)	€ 12 000 EUR + travel and an invitation to the the 50th Annual ICPC World Finals in a guest role
+
+First Prize (Rank 2-6)	€ 8,000 EUR
+Second Prize (Rank 7-16)	€ 3,000 EUR
+Third Prize (Rank 17-50):	€ 800 EUR
+* If the allocated Huawei Challenge prize cannot be delivered to your region for any reason it may be replaced by another prize (if no legal restrictions), at the discretion of the Sponsor.
+
+Challenge Rules and Conditions
+
+By participating in this Challenge, you agree to the Conditions of Participation and Challenge Rules. If you cannot access this document, please email manager@icpc.global
+
+Good luck, we hope this will be fun!
+
+We hope you'll enjoy this complex yet very exciting Challenge!
+
+Full text and comments »
+
+ Announcement of ICPC 2025 Online Winter Challenge powered by Huawei
+ icpc, programming challenges, icpc challenge, huawei
++237
+ ICPCNews
+ 6 weeks ago
+ 40
+
+
+
+Codeforces Round 1071 (Div. 3)
+
+By spycoderyt, 11 days ago, 
+Hello, Codeforces!
+
+IceBorworntat, NortGlG, omsincoconut, and I are excited to invite everyone to Codeforces Round 1071 (Div. 3), which will take place on Tuesday, December 23, 2025 at 23:45UTC+9. You will be offered 8 problems, and you will be given 2 hours and 30 minutes to solve them.
+
+Please note that this contest contains at least one interactive problem and at least one run-twice problem. Please read the guides for interactive problems and run-twice problems before the contest if you are unfamiliar with them.
+
+The round will be hosted by the rules of educational rounds (extended ICPC). Thus, all solutions will be judged on preliminary tests during the round, and after the round, there will be a 12-hour phase of open hacks. After the open hack phase, all accepted solutions will be rejudged on successful hacks. Also, note that there is no score distribution—rank will be determined by number of problems solved, followed by penalty; wrong submissions will incur the usual penalty of 10 minutes, following the rules of educational rounds.
+
+As a reminder, only trusted participants of the third division will be included in the official standings table. This is a compulsory measure for combating unsporting behavior. To qualify as a trusted participant of the third division, you must:
+
+take part in (and solve at least one problem in) at least five rated rounds
+and not have had a rating of 1900 or higher at any moment in time.
+
+Regardless of whether you are a trusted participant of the third division or not, if your rating is less than 1600, then the round will be rated for you (unless you register unrated).
+
+For Codeforces contests—including this one—improper use of artificial intelligence is severely condemned.
+
+We would like to thank:
+
+sleepntsheep, Marszpace for their problem contributions and valuable help during the preparation of this contest.
+cry for great coordination and support throughout the preparation process.
+MikeMirzayanov for great Codeforces and Polygon platforms.
+temporary1, LMeyling, Intellegent, Argentum47, SpyrosAliv, catgirl, ritam1234, Proof_by_QED, ttamx, tin.le2, Ermiooo158, Mysticmage45, efishel, kwant, gentlecoder29, macaquedev, chromate00, dazlersan1, ALnQ417 for testing the round.
+You for participating in the round.
+blackslex for no particular reason! Really, no reason!
+
+We hope that you guys will enjoy the problems.
+
+Editorial
+
+Full text and comments »
+
+ Announcement of Codeforces Round 1071 (Div. 3)
++450
+ spycoderyt
+ 11 days ago
+ 181
+
+
+
+Codeforces Global Round 31
+
+By AmirrzwM, 13 days ago, 
+
+Salam, Codeforces!
+
+After many years, we are excited and pleased to announce that Codeforces Global Round 31 (Div. 1 + Div. 2) will be held on Friday, December 19, 2025 at 23:35UTC+9. Thanks to XTX Markets for supporting the initiative! In 2025, we held 3 such rounds, and the series results will take into account the best 2 participations out of 3.
+
+Codeforces Global Round 31 marks the third round in the 2025 series of Codeforces Global Rounds. These rounds are open and rated for everyone.
+
+The prizes for this round are as follows:
+
+The top 30 participants will receive a t-shirt.
+20 t-shirts will be randomly distributed among participants ranked between 31 and 500, inclusive.
+
+The prizes for the 3-round series in 2025:
+
+In each round, the top-100 participants get points according to the table.
+A participant's final score will be the sum of the points they earned in their 2 highest-placing rounds.
+The top 20 participants across the series will receive sweatshirts and placement certificates.
+
+We extend our gratitude to XTX Markets for supporting the global rounds initiative in 2025!
+
+The problems for this round were prepared by MohammadParsaElahimanesh, Shayan, and me.
+
+We would like to express our sincere thanks to:
+
+Akulyat for coordinating the round and providing valuable feedback throughout the process;
+the testers: N_z__, A_G, YuukiS, amirhoseinfar1385, ArshiaDadras, Millad, EyadBT, aimoon, michao, JeffreyLC, s.seraj.shafie, AminAnv1, abramazani, MRasool, Radman_, Hooded_Hood, tilnoene, PMiguelez, chromate00, M.H.N, CLown1331, and dina_saba for their time and effort in testing the problems;
+MikeMirzayanov and KAN for creating and maintaining the great platforms Codeforces and Polygon.
+
+The round will feature 8 + 2 problems, and you will have 2.5 hours to solve them.
+
+Score Distribution: $$$500 - 750 - 1500 - 1750 - 2000 - (2500 - 750) - 2750 - (3000 + 3000)$$$
+
+Good Luck & Have Fun!
+
+Editorial is out.
+
+Congratulations to the winners!
+
+ecnerwala
+
+Kevin114514
+
+kotatsugame
+
+maroonrk
+
+hos.lyric
+
+tourist
+
+JDScript0117
+
+VivaciousAubergine
+
+crazy_sea
+
+qiuzx
+
+Full text and comments »
+
+ Announcement of Codeforces Global Round 31 (Div. 1 + Div. 2)
+-1192
+ AmirrzwM
+ 13 days ago
+ 249
+
+
+
+ICPC NEF и ВКОШП 2025
+
+By NercNews, 3 weeks ago, translation, 
+
+Hi, Codeforces!
+
+December is the perfect time to wrap up the year, and we’re happy to invite you to follow the final stages of the most important school and student team competitions in competitive programming. Mark your calendars: from December 15 to 17, the 26th Russian Team Olympiad in High School Programming Contest and the ICPC Northern Eurasia Finals 2025 will take place.
+
+The official opening of the championships will be on Monday, December 15. The detailed schedule is available on the website.
+
+On our accounts, we’ll be sharing updates about the participants and their results. As usual, we’ve put together a list of useful materials in a single post; it will be updated gradually so you can conveniently follow the progress of the competitions and cheer for your favorites. By the way, who do you think will become the champions of RTO HSPC and NEF?
+
+ICPC Northern Eurasia Finals
+Live broadcast YT Split screens Mirror Contest Standings
+
+The ICPC semifinals in our region celebrate their 30th anniversary this year — three decades of algorithmic contests that have brought together thousands of participants, hundreds of practice contests, months of preparation, multi-stage regional selections, and bright, inspiring victories. What anniversary surprises have the organizers prepared this year? Stay tuned for the news — it’s going to be exciting!
+
+This season, nearly 3,000 teams took part in all qualification stages, and only 341 of them made it to the Northern Eurasia Finals. You can see how the regional contests went on the ICPC NERC page for this season on icpc.global, as well as in our gallery, where we’ve collected photos from the quarterfinals and qualification rounds. We also gathered team reactions from Saint Petersburg and Moscow during the quarterfinals — you can find them here.
+
+The student team championship, as in previous years, is held in a distributed format across Saint Petersburg, Almaty, Novosibirsk, and Tbilisi. Already on Wednesday, December 17, the teams will face a crucial intellectual battle that will determine the finalists of ICPC 2026, who will represent Northern Eurasia on the world stage. The venue of the next final has not yet been announced, but we’re eagerly awaiting the news and guessing where it might take place.
+
+For those who are not participating in the NEF, there will be an opportunity to solve the same problems in the “mirror” contest here on the platform. Registration is already open!
+
+Join the live stream of the ICPC Northern Eurasia Finals contest on Wednesday, December 17, at 10:00 (utc+3), and the live stream of the closing ceremony scheduled for 17:00, to be the first to find out everything!
+
+RTO HSPC 2025
+Live broadcast YT Split Screen
+
+On Tuesday, December 16, the main round of the RTO HSPC 2025 school team championship will take place. Based on the qualification results, 266 teams have been invited to compete. As with the student contests, the final round is held in a distributed format across several cities: 156 teams will compete at Lakhta Hall in Saint Petersburg, 72 teams in Almaty (Kazakhstan), 28 teams in Novosibirsk, and another 10 teams in Sirius.
+
+The main round of the Russian Team Olympiad in High School Programming Contest, along with the live stream, will start on Tuesday at 10:00 Moscow time — join us to watch the next generation of young talents. We will find out who becomes the RTO HSPC champion later the same day during the closing ceremony live stream at 17:00.
+
+Tag your favorites in the comments and wish them good luck!
+
+    
+
+Full text and comments »
+
+ icpc, nerc, nef
++105
+ NercNews
+ 3 weeks ago
+ 14
+
+
+
+Codeforces Round #1070 (Div. 2)
+
+By _Crimson_, 3 weeks ago, translation, 
+Hello, codeforces ₍^. .^₎⟆
+
+ABalobanov, Slamur and I are happy to invite you to participate in Codeforces Round 1070 (Div. 2), which will take place on Thursday, December 11, 2025 at 23:35UTC+9. This round will be rated for all participants with rating below 2100. You will be given 2 hours to solve 6 problems.
+
+We are extremely grateful to these wonderful people
+
+The cutest coordinator FairyWinx.
+KAN, MikeMirzayanov for Codeforces and Polygon systems.
+Our amazing testers:
+Red-black testing: Um_nik.
+Red testing: A_G, Wansur, OG_Matveychick1, __baozii__, JoJo.
+Orange testing: aimoon, fractal, AlexanderGarifullin, Nyatl, antonis.white.
+Violet testing: dmkozyrev, yanb0, KiruxaLight, wuhudsm, Mosyagin.
+Blue testing: InsomniaT, atayawa, void_slowdown, kenzhik, rockoff, suharius, R1nixi.
+Green testing: emirhanbanan, ad1let17.
+
+Score distribution:
+
+A	B	C	D	E	F
+500	1000	1500	2000	2500	2750
+
+We sincerely hope that you will enjoy the problems!
+
+UPD: The editorial is out
+
+Full text and comments »
+
+ Announcement of Codeforces Round 1070 (Div. 2)
++504
+ _Crimson_
+ 3 weeks ago
+ 197
+
+
+
+Codeforces Round 1069
+
+By KAN, 4 weeks ago, 
+
+Hi Codeforces!
+
+On Saturday, December 6, 2025 at 17:15UTC+9 we will hold Codeforces Round 1069 (Div. 1) and Codeforces Round 1069 (Div. 2). Note the unusual starting time!
+
+The harder problems of this round are based on the problems from the Final round of Yandex Cup 2025, Algorithms track, that will be held at the same time.
+
+The problems are authored by lait1103, heesooyaam, I_love_kirill22, LeoPro, isaf27, elshiko, Flyce with guest problems from napstablook, sunkuangzheng, and great help from Vladithur, Dominater069, and tourist.
+
+I'd like to thank Um_nik, Akulyat, okwedook, Merkurev, conqueror_of_tourist, Dominater069, ntherner, Limitiym, Iguanado for testing the round, and MikeMirzayanov for the Polygon and Codeforces systems.
+
+Because the official Yandex Cup Finals ends later than the round on Codeforces, the upsolving, solutions, and test cases will be closed until the end of the onsite contest, roughly 3 hours after the end of the Codeforces round. It is also forbidden to discuss the problems publicly until the end of the onsite round. Any comments here concerning the problems will be removed.
+
+P.S. Same as with many rounds based on onsite contests, you can expect that the difficulty curve may be different from the one typical for Codeforces rounds. This is mostly connected with the limited amount of testing we can do to avoid problem leakage, and with the limited choice of problems. Nevertheless, I believe that it's better to have a round than not have one, and I hope you'll enjoy the problems!
+
+Good luck!
+
+Scoring distribution: you'll see in the contest.
+
+UPD: there is live stream with problem discussions and comments here: https://www.youtube.com/watch?v=6R7iwYAXKLY
+
+UPD2: Editorial.
+
+Full text and comments »
+
+ Announcement of Codeforces Round 1069 (Div. 1)
+ Announcement of Codeforces Round 1069 (Div. 2)
+ yandex, yandex cup
+-606
+ KAN
+ 4 weeks ago
+ 165
+
+
+
+Codeforces Round 1068 (Div. 2)
+
+By paulzrm, 4 weeks ago, 
+
+Hello Codeforces!
+
+We are glad to invite you to participate in Codeforces Round 1068 (Div. 2) on Friday, December 5, 2025 at 23:35UTC+9.
+
+This round is rated for all participants with rating below 2100. You will be given 6 problems and 2 hours to solve them. At least one problem will be interactive, so please make sure to read the guide for interactive problems before the contest.
+
+In this contest, characters from four different anime series appear in some of the problem statements (including the one my avatar is from). Can you guess which series they are?
+
+We would like to thank:
+
+paulzrm, HHH666666, chen_zida and HugeWide for writing the problems.
+
+Error_Yuan for coordinating the round.
+
+MikeMirzayanov for great Codeforces and Polygon platforms.
+
+Alexdat2000 for translating the statements into Russian.
+
+0htoAi, A_G, Arpa, Caylex, Kowngx, Mitsukasa_Ayase, NanamiChiaki_, ShmilyTY, TKXZ133, Unlimited_zero, _istil, liruisi, real_Catalan1906, rui_er, temporary1, wuhudsm for testing the round (sorted by dictionary order).
+
+You
+
+ for participating in this round.
+
+The score distribution will be announced later.
+
+Good Luck & Have Fun!
+
+UPD1: Score Distribution: 500 — 1000 — 1250 — 1750 — 2250 — 3000.
+
+UPD2: In this round, hacks will be disabled on problems A, B, C, D, and E. We will have pretests = systests in these problems. Hacks will be enabled on F as usual, and we will have systests = pretests + hacks.
+
+UPD3: The editorial is out.
+
+UPD4: Congrats to the winners!
+
+Div. 1:
+
+maspy
+zltzlt
+TKT_YI
+ahmetalp
+Egor
+
+Div. 2:
+
+Anlybt
+IHaveInt (disabled)
+votranngocvy
+omoch1
+Mohamed_Reda
+DSCS2009
+
+Full text and comments »
+
+ Announcement of Codeforces Round 1068 (Div. 2)
++381
+ paulzrm
+ 4 weeks ago
+ 196
+
+
+← 1 2 3 ... 256 257 →
+
+
+Codeforces (c) Copyright 2010-2025 Mike Mirzayanov
+The only programming contests Web 2.0 platform
+Server time: Dec/29/2025 23:26:17UTC+9 (l1).
+Desktop version, switch to mobile version.
+Privacy Policy | Terms and Conditions
+Supported by
+ 

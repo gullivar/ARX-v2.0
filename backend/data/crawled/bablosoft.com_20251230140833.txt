@@ -1,0 +1,50 @@
+Bablosoft
+ Manual
+ Community
+Register
+Login
+Translate 
+BrowserAutomationStudio (by bablosoft)
+Price : Free
+Create your own applications at 0$ cost with BrowserAutomationStudio. Automate everything that Chrome can! No coding skills required.
+100% browser emulation.
+Optimized multithreading.
+Visual code creator(no coding skills required).
+Compile standalone script and sell in 2 clicks!
+Visual user interface creator(no coding skills required)..
+And many more...
+Read More
+BASPremium (by bablosoft)
+Price : 80$
+Duration : 365 days
+Machines : 3
+ Buy license for 365 days
+Price : 40$
+Duration : 180 days
+Machines : 3
+ Buy license for 180 days
+With BAS Premium you can:
+ Protect your scripts from unlicensed copying.
+Premium support.
+ Manage users through web interface.
+ Script delivery.
+ Custom interface for your bots.
+ Scheduler as separate application.
+ Access to source code private repository.
+Buy license for 365 days Read More
+FingerprintSwitcher (by bablosoft)
+Price : 30$
+Duration : 30 days
+Machines : 2
+ Buy license for 30 days
+Price : 60$
+Duration : 90 days
+Machines : 2
+ Buy license for 90 days
+FingerprintSwitcher is like user agent switcher on steroids. It changes not only user agent, but a lot of browser internals to make BAS actually look like firefox, chrome, safari, on desktop or on mobile platforms.
+
+Buy license for 30 days Read More
+AutomationPlugins (by bablosoft)
+Price : Free
+It is possible to use most popular automation frameworks with FingerprintSwitcher. List of supported frameworks: selenium, puppeteer, playwright and others. You can also use any other browser automation library which can work over CDP.
+Read More

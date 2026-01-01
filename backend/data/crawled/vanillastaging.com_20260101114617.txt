@@ -1,0 +1,13 @@
+DNS POINTS TO PROHIBITED IP
+
+You've requested a page on a website (vanillastaging.com) that is on the Cloudflare network. Unfortunately, it is resolving to an IP address that is creating a conflict within Cloudflare's system.
+
+What can I do to resolve this?
+
+Please try again in a few minutes. If the problem persists, you can contact the site owner to let them know you were unable to reach the website.
+
+Your IP: 162.158.193.99
+
+Ray ID: 9b6eaf78cd7b06b9
+
+Help Performance & Security by Vanilla Forums Inc.

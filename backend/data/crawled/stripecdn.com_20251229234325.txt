@@ -1,0 +1,844 @@
+Products
+Solutions
+Developers
+Resources
+Pricing
+Sign in 
+Contact sales 
+GLOBAL PAYMENTS
+Payments  
+
+Online payments
+
+Payment Links
+ 
+No-code payments
+Checkout
+ 
+Prebuilt payment form
+Elements
+ 
+Flexible UI components
+Terminal  
+
+In-person payments
+
+Radar  
+
+Fraud prevention
+
+Authorization Boost  
+
+Acceptance optimizations
+
+MONEY MANAGEMENT
+Connect  
+
+Payments for platforms
+
+Financial Accounts  
+
+Manage business finances
+
+Issuing  
+
+Physical and virtual cards
+
+Global Payouts  
+
+Send money to third parties
+
+Capital  
+
+Business financing
+
+REVENUE AND FINANCE AUTOMATION
+Billing  
+
+Subscription management
+
+Usage-based
+ 
+Metered billing
+Invoicing
+ 
+One-time or recurring
+Tax  
+
+Sales tax & VAT automation
+
+Revenue Recognition  
+
+Accounting automation
+
+Stripe Sigma  
+
+Custom reports
+
+Data Pipeline  
+
+Data sync
+
+MORE
+Payment methods 
+
+Access to 100+ globally
+
+Link 
+
+Accelerated checkout
+
+Financial Connections 
+
+Linked financial account data
+
+Identity 
+
+Online identity verification
+
+Atlas 
+
+Startup incorporation
+
+Climate 
+
+Carbon removal
+
+BY STAGE
+Enterprises  
+Startups  
+BY USE CASE
+Agentic commerce  
+Crypto  
+Ecommerce  
+Embedded finance  
+Finance automation  
+Global businesses  
+In-app payments  
+Marketplaces  
+Platforms  
+SaaS  
+BY INDUSTRY
+AI companies  
+Creator economy  
+Hospitality, travel, and leisure  
+Insurance  
+Media and entertainment  
+Nonprofits  
+Retail  
+ECOSYSTEM
+Stripe App Marketplace   
+Partners  
+Documentation 
+
+Start integrating Stripe’s products and tools
+
+RESOURCES
+API reference 
+Libraries and SDKs 
+App integrations 
+Code samples 
+Stripe Apps 
+GUIDES
+Accept online payments 
+Implement a prebuilt checkout 
+Set up in-person payments 
+Build a platform or marketplace 
+Manage subscriptions 
+Offer usage-based billing 
+API status 
+Developer blog 
+Support center 
+Managed support plans 
+Professional services 
+Contact sales 
+Blog 
+Customer stories 
+Guides 
+Sessions conference 
+Jobs 
+Newsroom 
+Stripe Press 
+Become a partner 
+Sessions 2026 · Early-bird registration now open 
+Financial infrastructure to grow your revenue
+Financial infrastructure to grow your revenue
+Financial infrastructure to grow your revenue
+Join the millions of companies that use Stripe to accept payments online and in person, embed financial services, power custom revenue models, and build a more profitable business.
+Start now 
+ROCKET RIDES
+Search
+Today
+Net volume
+$3,528,198.72
+2:00 PM
+Yesterday
+$2,931,556.34
+12:00 AM
+Now, 2:00 PM
+11:59 PM
+USD Balance
+$553,257.51
+Available to pay out
+View
+Payouts
+$102,633.07
+Expected today
+View
+Net volume from sales
++32.8%
+$39,274.29
+$29,573.54
+Apr 20
+Today
+Updated today 7:50 AM
+New customers
++32.1%
+37
+28
+Apr 20
+Today
+Updated today 7:50 AM
+Invoices
+Paid
+$25,000.00
+Open
+$20,000.00
+Past due
+$1,000.00
+Updated today 7:50 AM
+Abstraction Magazine
+$19 per month
+Or pay with card
+Email
+Card Information
+Number
+MM / YY
+CVC
+Country or region
+United States
+ZIP
+Pay
+Cancel
+CHASE FREEDOM (•••• 1234)
+27 FREDRICK AVE BROTHERS OR
+BILLING
+JOHN APPLESEED
+27 FREDRICK AVE
+BROTHERS, OR 97712
+UNITED STATES
+CONTACT
+J.APPLESEED@EXAMPLE.COM
++1 (458) 555-2863
+PAY TOTAL
+$65.00
+Mousedown/⌘
+FF/Rewind
+Right/left
+Stretch
+Up/down
+Amplitude
+-/+
+Zoom
+P
+Pause/play
+1
+Red on/off
+2
+Blue on/off
+3
+Yellow on/off
+4
+Purple on/off
+Modular solutions
+A fully integrated suite of financial and payments products
+
+Reduce costs, grow revenue, and run your business more efficiently on a fully integrated, AI-powered platform. Use Stripe to handle all of your payments-related needs, manage revenue operations, and launch (or invent) new business models.
+
+Atlas
+Billing
+Capital
+Checkout
+Climate
+Connect
+Elements
+Identity
+Invoicing
+Issuing
+Payments
+Radar
+Sigma
+Tax
+Terminal
+Treasury
+Payments
+Tax
+Radar
+Terminal
+Wood Chair 001
+$149
+€135.00
+¥199.00
+€135.00
+$149
+Pay $149
+€135.00 zahlen
+支付 ¥199.00
+Betaal €135.00
+Pay $149
+Billing
+Invoicing
+RevRec
+Sigma
+Quantum
+Abstraction
+Typographic
+Quantum
+Products
+Pricing
+Contact
+Standard
+Up to 5 users
+$49/month
+Subscribe
+This includes:
+12 months historical data
+4 hr data refresh
+500+ third party integrations
+Professional Popular!
+Up to 25 users
+$149/month
+Subscribe
+This includes:
+24 months historical data
+1 hr data refresh
+1,000+ third party integrations
+Simple reporting
+Enterprise
+Unlimited users
+$299/month
+Subscribe
+This includes:
+Unlimited historical data
+15 min data refresh
+2,000+ third party integrations
+Advanced reporting
+Priority support
+Basic
+Digital access
+$9/month
+Subscribe
+This includes:
+Unlimited access to web content
+Exclusive subscriber content
+Premium Popular!
+Digital and print access
+$19/month
+Subscribe
+This includes:
+Unlimited access to web content
+Monthly print issues
+Exclusive subscriber content
+Web
+50-499 users
+$99/month
+Subscribe
+This includes:
+Up to 3 fonts
+50k requests
+5 domains
+Unlimited seats
+Connect
+Payouts
+Terminal
+Elements
+#9125
+Hanako Yamada
+Processing
+Completed
+$150.00
+#9124
+Jacques Muller
+Processing
+Completed
+$200.00
+#9125
+Hanako Yamada
+Processing
+Completed
+$150.00
+#9124
+Jacques Muller
+Processing
+Completed
+$200.00
+$150.00
+$200.00
+$145.50
+$194.00
+$4.50
+$6.00
+Buyers
+Platform
+Sellers or service providers
+Orders
+TODAY
+YESTERDAY
+OLDER THAN 2 DAYS
+#9125
+Hanako Yamada
+Processing
+$150.00
+#9124
+Jacques Muller
+Processing
+$200.00
+#9123
+John Appleseed
+On Hold
+$178.00
+#9122
+Jane Diaz
+Completed
+$200.00
+#9121
+Anna Nowak
+Completed
+$200.00
+#9120
+Wei Qing
+Completed
+$156.00
+My store
+Orders
+Products
+Reviews
+Issuing
+Connect
+Treasury
+Capital
+Payments
+Accept and optimize payments, globally
+
+Increase authorization rates, offer local payment methods to boost conversion, and reduce fraud using AI.
+
+Start with Payments 
+See also
+Tax for automating tax registration, collection, and filing
+Radar for AI-powered fraud protection
+Terminal for custom in-person payments
+Billing
+Capture recurring revenue
+
+Manage flat rate, usage-based, and hybrid pricing models, minimize churn, and automate finance operations.
+
+Start with Billing 
+See also
+Invoicing for invoice creation, collection, and tracking
+Usage-based billing for metering, billing, and consumption insights
+Stripe Sigma for custom revenue reports—no SQL required
+Connect
+Set up multiparty payments and payouts
+
+Integrate payments into your platform or marketplace for end-to-end payments experiences.
+
+Start with Connect 
+See also
+Terminal for custom in-person payments
+Instant Payouts for fast payments to users
+Payment Elements for customizable UIs
+Issuing
+Create a card issuing program
+
+Launch, manage, and scale a commercial card program without any setup fees.
+
+Start with Issuing 
+See also
+Connect for powering platform payments
+Financial Accounts for platforms
+Capital for platforms
+Global scale
+The backbone for global commerce
+Stripe makes moving money as easy and programmable as moving data. Our teams are based in offices around the world and we process hundreds of billions of dollars each year for ambitious businesses of all sizes.
+500M+
+API requests per day, peaking at 13,000 requests a second.
+99.999%
+historical uptime for Stripe services.
+90%
+of US adults have bought from businesses using Stripe.
+135+
+currencies and payment methods supported.
+Support for any business type
+From global AI companies to category-defining marketplaces, successful businesses across industries grow and scale with Stripe.
+AI
+Stripe supports businesses across the AI ecosystem—from usage-based billing for AI assistants like Perplexity to premium subscriptions for infrastructure providers like OpenAI.
+Learn more 
+SaaS
+Quickly launch and grow recurring revenue with a unified platform for payments, subscriptions, invoicing, tax, accounting, and more.
+Learn more 
+Marketplace
+Get everything you need to onboard service providers, manage multiparty payments, and send payouts, all in one place.
+Learn more 
+Embedded finance
+Distribute financial accounts, commercial cards, and lending to create tailored in-product experiences for your customers.
+Learn more 
+Ecommerce
+Access an optimized suite of tools to accept payments online and in person from customers around the world.
+Learn more 
+Crypto
+Embed crypto purchases directly into your checkout flow—with fraud prevention and authorization optimization built in.
+Learn more 
+Creator economy
+Quickly onboard and pay out creators globally with prebuilt UIs, or build your own custom solution.
+Learn more 
+Enterprise reinvention
+Bring agility to your enterprise
+
+Quickly build great payments experiences, improve performance, expand into new markets, and engage customers with subscriptions and marketplaces. Get expert integration guidance from our professional services team and certified partners, and connect Stripe to Salesforce, SAP, and more through the Stripe App Marketplace.
+
+Explore Stripe for enterprises 
+Millions
+BMW owners using ConnectedDrive Store
+350+
+US dealerships
+Products used
+Payments
+Connect
+5+
+Amazon businesses on Stripe including Prime, Audible, and Amazon Pay.
+50+
+Payment methods available on Stripe
+Products used
+Payments
+Connect
+130
+Countries in logistics network
+$10+
+Billion worth of goods moved around the world each year
+Products used
+Payments
+Connect
++5.5%
+Uplift from Stripe's Global Payments Infrastructure
++1%
+Uplift from Adaptive Acceptance
+Products used
+Payments
+Stripe Sigma
+Read story 
+Learn why BMW chose Stripe to power ecommerce and payments
+Read story 
+See how Amazon simplified cross-border payments with Stripe
+Read story 
+See how Maersk tapped into new technology to make it easier to ship around the world
+Read story 
+See how Twilio increased authorization rates by 10% with Stripe
+Built for growth
+Take your startup further, faster
+Startups build on Stripe to launch faster, adapt as they grow, and automate workflows to do more with less. Build your own API-based integration or use our low- to no-code solutions, which are simple enough for easy implementation and powerful enough to scale as fast and as far as you need.
+Atlas
+Incorporate your company
+Form a legal entity, issue stock, and start accepting payments.
+Learn about Atlas 
+Email
+jane.diaz@example.com
+Card information
+1234 1234 1234 1234
+MM/YY
+CVC
+Name on card
+Jane Diaz
+Country or region
+United States
+Checkout
+Sell products and services
+Launch a business with a prebuilt payment page that’s optimized for conversion.
+Start with Checkout 
+👋 anything I can help with today?
+Hey, can I buy a license just for myself?
+Sure, in that case I'd recommend our starter plan.
+buy.stripe.com/Ae93Jis
+$19.99
+PER ITEM
+Scan to pay
+Payment Links
+Validate your idea
+Test your product idea by launching payments with little to no code.
+Try Payment Links 
+Cloud token
+Previous period
+80,250,068
+Current period
+68,491,224
+Apr 24
+Apr 25
+Apr 26
+Apr 27
+Apr 28
+Apr 29
+Apr 30
+Billing
+Launch any pricing model
+Offer usage-based billing to charge customers based on how much they use.
+Explore billing 
+Designed for developers
+Ship faster with powerful and easy-to-use APIs
+Save engineering time with unified payments functionality. We obsess over the maze of gateways, payments rails, and financial institutions that make up the global economic landscape so that your teams can build what you need on one platform.
+Read the docs 
+~
+NORMAL
+server.js
+100%
+☰
+0/1
+ln
+:
+1
+$
+Use Stripe with your stack
+We offer client and server libraries in everything from React and PHP to .NET and iOS.
+See libraries 
+Build AI agents
+Create agents that can manage money and handle support tasks using the Stripe API.
+View docs 
+Explore prebuilt integrations
+Connect Stripe to over a hundred tools including Adobe, Salesforce, and Xero.
+Browse App Marketplace 
+Build on Stripe Apps
+Create an app just for your team or for the millions of businesses on Stripe.
+Learn about Apps 
+Launch with ease
+Low- and no-code options for getting started
+If you’d like to use Stripe for your business but don’t have developers on staff, no problem. We have a few options depending on your needs.
+Use a pre-integrated platform
+Explore our directory to find out-of-the-box solutions that connect with Stripe, such as Squarespace and Lightspeed.
+See directory 
+Build with Stripe-certified experts
+Work with a Stripe consulting partner that can integrate and deploy Stripe solutions for you.
+View partners 
+Brand elements
+Customize how your brand appears globally across the Stripe products your customers use.
+Icon
+Logo
+Brand color
+F5F0EA
+Accent color
+262627
+Try our no-code products
+Set up usage-based billing, accept an in-person payment with your phone, or share a payment link directly from your Dashboard to start generating revenue in minutes—no code required.
+Explore no-code 
+Ready to get started?
+
+Create an account instantly to get started or contact us to design a custom package for your business.
+
+Start now 
+Contact sales 
+Always know what you pay
+Integrated per-transaction pricing with no hidden fees.
+Pricing details 
+Start your integration
+Get up and running with Stripe in as little as 10 minutes.
+API reference 
+United States (English)
+Australia
+English
+Austria
+Deutsch
+English
+Belgium
+Nederlands
+Français
+Deutsch
+English
+Brazil
+Português
+English
+Bulgaria
+English
+Canada
+English
+Français
+Croatia
+English
+Italiano
+Cyprus
+English
+Czech Republic
+English
+Denmark
+English
+Estonia
+English
+Finland
+English
+Svenska
+France
+Français
+English
+Germany
+Deutsch
+English
+Gibraltar
+English
+Greece
+English
+Hong Kong
+English
+简体中文
+Hungary
+English
+India
+English
+Ireland
+English
+Italy
+Italiano
+English
+Japan
+日本語
+English
+Latvia
+English
+Liechtenstein
+Deutsch
+English
+Lithuania
+English
+Luxembourg
+Français
+Deutsch
+English
+Malaysia
+English
+简体中文
+Malta
+English
+Mexico
+Español
+English
+Netherlands
+Nederlands
+English
+New Zealand
+English
+Norway
+English
+Poland
+English
+Portugal
+Português
+English
+Romania
+English
+Singapore
+English
+简体中文
+Slovakia
+English
+Slovenia
+English
+Italiano
+Spain
+Español
+English
+Sweden
+Svenska
+English
+Switzerland
+Deutsch
+Français
+Italiano
+English
+Thailand
+ไทย
+English
+United Arab Emirates
+English
+United Kingdom
+English
+United States
+English
+Español
+简体中文
+Products & pricing
+Pricing
+Atlas
+Authorization Boost
+Billing
+Capital
+Checkout
+Climate
+Connect
+Data Pipeline
+Elements
+Financial Accounts
+Financial Connections
+Identity
+Invoicing
+Issuing
+Link
+Payments
+Payment Links
+Payouts
+Radar
+Revenue Recognition
+Stripe Sigma
+Tax
+Terminal
+Solutions
+Enterprises
+Startups
+Agentic commerce
+Crypto
+Ecommerce
+Embedded finance
+Finance automation
+Global businesses
+In-app payments
+Marketplaces
+Platforms
+SaaS
+AI companies
+Creator economy
+Hospitality, travel, and leisure
+Insurance
+Media and entertainment
+Nonprofits
+Retail
+Integrations & custom solutions
+Stripe App Marketplace
+Partner ecosystem
+Professional services
+Developers
+Documentation
+API reference
+API status
+API changelog
+Libraries and SDKs
+Developer blog
+Resources
+Guides
+Customer stories
+Blog
+Sessions annual conference
+Privacy & terms
+Prohibited & restricted businesses
+Licenses
+Sitemap
+Cookie settings
+Your privacy choices
+More resources
+Company
+Jobs
+Newsroom
+Stripe Press
+Contact sales
+Support
+Get support
+Managed support plans
+CA residents: +1 888 926 2289
+Sign in 
+© 2025 Stripe, Inc.
+We use cookies to improve your experience and for marketing. Read our cookie policy or manage cookies.
+Accept all
+Reject all

@@ -1,0 +1,58 @@
+⚡ Speedflare — Check your website performance worldwide!
+
+A free CDN for Git repositories, npm, and open source projects
+
+Paste your repository URL below
+How to use
+Open source CDN
+
+Serve optimized files from Git repositories via global CDN.
+
+GitHub:
+
+https://cdn.statically.io/gh/:user/:repo@:tag/:file
+
+GitLab:
+
+https://cdn.statically.io/gl/:user/:repo@:tag/:file
+
+Bitbucket:
+
+https://cdn.statically.io/bb/:user/:repo@:tag/:file
+
+GitHub Gist:
+
+https://cdn.statically.io/gist/:user/:gist_id/raw/:commit/:file
+npm CDN
+
+Serve any file from any npm package directly via global CDN.
+
+Format:
+
+https://cdn.statically.io/npm/:package
+https://cdn.statically.io/npm/:package@:version/:file
+About
+
+Statically is a free, fast global content delivery network (CDN) for open-source projects. It helps developers easily distribute static assets such as CSS and JavaScript libraries. Powered by bunny.net and Cloudflare, Statically delivers content worldwide with ultra-low latency. It supports popular platforms like GitHub, GitLab, Bitbucket, and npm, making it simple and reliable for developers to serve their files.
+
+Important Notice
+
+Due to abuse and high traffic, the /img/ endpoint has been disabled. We apologize for the inconvenience and appreciate your understanding. Please use Statically responsibly.
+
+Platinum Sponsors
+Bronze Sponsors
+
+A free, fast global CDN for open source.
+
+© 2018–2025 Statically.
+
+CONNECT
+
+More products:
+
+Speedflare
+Favicone
+BlobCDN
+Indiwtf
+fonts.upset.dev
+thedev.id

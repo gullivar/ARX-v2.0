@@ -1,0 +1,267 @@
+We make the engine.
+
+⁠You make it Unreal.
+
+Unreal Engine is built by developers, for developers, with fair terms for all. Because everyone with an idea deserves to use the world’s most open, advanced real-time creation tool to bring it to life.
+
+Get Unreal Engine
+Learn about licensing
+
+Unreal Engine news
+
+View all
+
+Unreal Engine 5.7 is now available
+
+Create in real time, render every detail. Find out what’s new.
+
+News
+
+Behind the scenes of Quentin Tarantino’s The Lost Chapter: Yuki’s Revenge
+
+Get a behind-the-scenes look at The Lost Chapter: Yuki’s Revenge, a lost scene from Kill Bill, created in Unreal Engine! Directed by Quentin Tarantino and starring Uma Thurman, this new chapter brings Tarantino’s cinematic world into Fortnite for players to experience for the first time.
+
+News
+Unreal Engine features
+
+Power that can keep up with the wildest imaginations.
+
+Define rule-breaking physics, create lifelike characters, or animate the movement of a single blade of grass—and render it all at the speed you can dream it. We originally designed Unreal Engine to give us the creative freedom we always wanted as developers. Today, our goal is to push the boundaries of innovation with every release so that only you, not your tools, get to decide the limits of what’s possible. 
+See all features
+
+Ships fully loaded for everyone.
+
+Develop games. Produce or animate films. Visualize spaces or products. Create next-generation interfaces. Or build immersive experiences we haven’t even thought of yet. No matter what style, industry, screen size, or project you have in mind, Unreal Engine comes standard with everything you need to help you make it real. 
+
+Games 
+
+Indie games
+
+Mobile games
+
+Switching to Unreal Engine
+
+Unreal Editor for Fortnite
+
+Film & TV
+
+Broadcast & live events
+
+Animation
+
+Architecture
+
+Automotive
+
+Simulation
+
+How to install Unreal Engine
+
+Download instructions
+
+STEP 1
+
+Download the launcher
+
+Before you can install and run Unreal Editor, you’ll need to download and install the Epic Games launcher.
+
+Download Launcher
+
+STEP 2
+
+Install Epic Games launcher
+
+Once downloaded and installed, open the launcher and create or log in to your Epic Games account.
+
+Get support, or restart your Epic Games launcher download in Step 1.
+
+STEP 3
+
+Install Unreal Engine
+
+Once logged in, navigate to the Unreal Engine tab and click the Install button to download the most recent version.
+
+Watch how to install
+
+Looking for Unreal Editor for Fortnite?
+
+Get up and running in Unreal Editor for Fortnite from the Epic Games launcher.
+
+Download UEFN
+
+How to get started in Unreal Engine
+
+New to real-time 3D? Making the switch from another engine? Wherever you’re coming from, we’ve got onboarding, tutorials, samples, documentation, and more to help you get started. 
+Games
+Unreal Editor for Fortnite
+Architecture
+Film and TV
+Animation
+Simulation
+ 
+
+Tutorials
+
+Go to library
+
+Your first Hour in Unreal Engine 5.2
+
+Epic Online Learning · 3 years ago
+We’ll look at the launcher, editor creating a basic level including lighting and level layout.
+
+Your First Game in Unreal Engine 5
+
+Andi · 4 years ago
+Practical in-editor demo showcasing UE5's rapid game creation from scratch.
+
+BeginPlay
+
+Epic Online Learning · 4 years ago
+A developer focused overview of Unreal Engine’s features and tools.
+
+Documentation
+
+Know what you want to do, but not how? Dig into our wide range of documentation to find your footing!
+
+Understanding the Basics
+Working with Content
+Programming & Scripting
+Setting Up Your Production Pipeline
+Go to Documentation
+
+Sample projects
+
+Samples are pre-built projects designed to help you quickly learn and get working in Unreal Engine without needing to start from scratch. Download, play, deconstruct, and make them your own.
+
+More samples
+
+Stack O’ Bot
+
+Stack'O'Bot is a new small project that can be a good starting point for advanced beginners.
+
+Content Examples
+
+Get up to speed with a variety of different techniques for building your own games.
+
+Lyra Sample Game
+
+A perfect starting point for those looking to jump right into Unreal Engine for Game Development.
+
+Cropout
+
+A casual game sample that shows you best practices for creating for cross-platform titles.
+Developer Community
+
+Learn new things. Connect with people like you.⁠ Join the Epic Developer Community.
+
+Tutorials
+The latest tutorials & courses from our experts.
+Documentation
+Complete resources for learning Unreal Engine.
+Sample projects
+Explore Unreal Engine with a range of example content.
+Snippets
+Chunks of code or script you can use in your project.
+Roadmap
+For a glimpse of what features and updates are coming to Unreal Engine, visit the roadmap.
+Forums (165 posts / week)
+Visit forums
+Getting Started & Setup
+13.2K
+49.9K
+phong_bhong
+ndisplay textureshare problems
+19 hours ago -
+phong_bhong
+Programming & Scripting
+200.0K
+851.0K
+MattSierra
+GAS and make LocallyPredicted abilties work on Character from Item
+1 hour ago -
+MattSierra
+Asset Creation
+23.4K
+99.9K
+Cherry_C1
+How to fix Niagara Grid 3D Gas Simple rotating as a solid block?
+15 hours ago -
+Cherry_C1
+Character & Animation
+37.7K
+133.1K
+JarJarStudios
+Visual artifacts on export pls help
+18 hours ago -
+JarJarStudios
+World Creation
+30.4K
+129.1K
+kurabiyecnv
+Collision goes under of new added landscape parts
+15 hours ago -
+kurabiyecnv
+Rendering
+61.8K
+249.5K
+ilias3795
+How to remove black corners on objects
+11 hours ago -
+ilias3795
+Cinematics & Media
+11.4K
+41.6K
+Shiraz1366
+Camera turns white when added to Sequencer in Unreal Engine 5.7
+3 days ago -
+Shiraz1366
+Platform & Builds
+57.0K
+241.9K
+JontomXire
+Build has become extremely slow.
+2 days ago -
+JontomXire
+Audio
+5.1K
+20.8K
+warhulk1745
+Sequencer Audio Track Volume/Fade keys don’t animate (no audible change)
+4 days ago -
+warhulk1745
+Pipeline & Plugins
+13.8K
+56.4K
+ksn_D
+[Plugin] Open-source Spout integration for Unreal Engine (UE 5.5+)
+5 days ago -
+ksn_D
+
+Licensing
+
+We’ve streamlined our license terms to make your choices clearer. Need something designed just for you? Work with us to create a custom license. Visit our FAQ or reach out to the community if you have any questions.
+Under $1 million USD in revenue?
+Free
+
+Game developers (royalties apply after $1 million USD gross product revenue)
+
+Individuals and small businesses (with less than $1 million USD in annual gross revenue)
+
+For educators and schools (no revenue limits)
+
+Access to the source code
+All platforms & features
+Forums and documentation on the Epic Developer Community
+Download now
+View FAQ
+Licensing Terms
+Over $1 million USD in revenue?
+Royalty-based
+
+If you're creating a game or application that relies on engine code at runtime and will be licensed to third party end users, you'll pay royalties and won't be required to purchase seats.
+
+Seat-based
+
+If you're using Unreal Engine for commercial purposes, have generated more than $1 million in the past 12 months, and are not creating a game or application that relies on engine code at runtime and will be licensed to third party end users, then a seat license fee is required.
+
+Read more

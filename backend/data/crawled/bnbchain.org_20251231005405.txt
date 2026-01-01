@@ -1,0 +1,214 @@
+Chains
+
+Build
+
+Explore
+
+Accelerate
+
+Connect
+
+Ask AI
+Contact Us
+AI-First.
+Low Latency.
+Low Gas Fee.
+MEV-Protected.
+All In One BNB.
+Contact Us
+
+How do I get BNB?
+
+Ask AI
+
+2.888M
+
+Daily Active User
+
+$6.591B
+
+Total Value Locked
+
+$14.293B
+
+Trading Volume
+
+$0.004058
+
+Gas Fee
+
+1.875s
+
+Finality Time
+
+🔥
+Build the Next Big Trend on Chain
+Stablecoin
+
+12.4M
+
+MAU
+
+Power stable value onchain with fast transactions and low fees, enabling everyday payments and DeFi use cases.
+
+Real World Assets
+
+Bring assets like treasuries and gold on-chain, making them liquid, composable, and accessible in DeFi.
+
+Memecoin
+
+Launch and grow meme tokens with deep liquidity, trading activity, and a vibrant community on BNB Chain.
+
+Trusted by Leading Exchanges, Wallets, and Builders
+
+Proof That Builders Grow Here
+
+92,768
+
+Assets Issued
+
+232
+
+Projects Incubated per Year
+
+See All Program
+
+4,828
+
+Hackathons Worldwide
+
+Join Hackathons
+Available Programs
+View All
+
+Grants
+
+TVL Incentive
+Always Available
+
+Grants
+
+Gas Grants
+Always Available
+
+Discounts & Offers
+
+Kickstart
+Always Available
+Real Web3 Projects You Can Learn From
+View All
+
+BNBChain MCP - AI-Powered Blockchain Assistant
+
+A ready-to-use template that combines BNB Chain’s MCP with Claude AI, enabling natural language interaction with BNB Smart Chain and Greenfield.
+
+BSC
+Greenfield
+AI
+MCP
+Typescript
+
+BNB Chain LangChain AgentKit
+
+Create an AI Agent using the BNB Chain Plugin for LangChain AI
+
+BSC
+opBNB
+AI
+
+EIP 7702 - Demo
+
+This project demonstrates the implementation of EIP7702 (Account Abstraction via Authorized Operations) on BNB Smart Chain (BSC)
+
+BSC
+
+PancakeSwap Python Frontend + API Swap Example
+
+A complete example to swap tBNB to tokens or BEP-20 to BEP-20 using Flask API and a frontend Trust Wallet-enabled UI on the BNB Testnet.
+
+BSC
+opBNB
+Web3
+Python
+Flask
+PancakeSwap
+TrustWallet
+Everything You Need to Start
+
+Your gateway to Web3 development
+
+Explore More Tools
+
+Faucet
+
+Pilot tokens on BNB Smart Chain
+
+Bridge
+
+Cross-chain transfer between networks
+
+Networks & RPCs
+
+A list of BNB Chain related networks
+
+Chains
+
+BNB Smart Chain
+BNB Greenfield
+opBNB
+
+Use BNB Chain
+
+Download Wallet
+Get BNB
+Stake BNB
+Bridge Assets
+Explore dApps
+Earn by BTC
+Pay by Crypto
+Earn by Liquid Staking
+
+Build
+
+Demos & Tutorials
+Documentations
+Faucet
+Dev Tools
+Submit dApp
+Greenfield Console
+BNBChain List
+Whitepaper
+
+Participate
+
+Events
+Hackathon
+MVB Program
+Builder Support Programs
+Martians Program
+Governance
+Bug Bounty
+Get Workspace
+Ecosystem Jobs
+
+About
+
+Blog
+Careers
+BNB Chain Verify
+Red Alarm
+Privacy Policy
+Terms of Use
+Contact Us
+Brand Guidelines
+
+© 2025 BNB Chain. All rights reserved.
+
+Cookies
+ 
+English
+
+Our website uses "Strictly Necessary" cookies to keep our site reliable and secure. It also uses additional cookies to enhance user experience, analyze traffic, and assist in our marketing campaigns. By clicking the "Accept Cookies" button, you agree to and accept the use of cookies. You can select the "Reject Additional Cookies" button to limit the use of non-essential cookies or adapt your choices in the ‘Cookie Preferences’ section anytime. To learn more about how we collect and use cookies, please see ourCookie Notice.
+Cookie Preferences
+Reject Additional Cookies
+Accept Cookies and Continue

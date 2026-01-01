@@ -1,0 +1,32 @@
+0 $
+WITHDRAW
+Select you language
+Hindi
+हिन्दी
+English
+English
+Hausa
+Hausa
+বাংলা
+Bengail
+Tamil
+தமிழ்
+اردو
+Urdu
+Bahasa Indonesia
+Indonesian
+Cancel
+Yes
+Select Country
+India
+हिन्दी
+Indonesia
+Indonesia
+Nigeria
+Nijeriya
+Bangladesh
+বাংলাদেশ
+Pakistan
+پاکستان
+Cancel
+Yes

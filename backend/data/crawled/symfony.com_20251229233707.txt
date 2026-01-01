@@ -1,0 +1,272 @@
+Skip to content
+About
+Documentation
+Services
+Blog
+Download
+sponsored by
+SymfonyLive Berlin 2026
+April 23 – 24, 2026
++20 talks and workshops
+Register now
+NEW
+Symfony 8 is here! See what's new
+Build with confidence at any scale
+
+From passionate individuals to leading tech teams, Symfony fits all.
+
+❯ symfony env:push                                                              
+                                                                                
+Selected project: ACME (glei2ragu6m3m)                                          
+                                                                                
+Pushing HEAD to the environment main (type: production).                        
+                                                                                
+Are you sure you want to continue? [Y/n] y                                      
+                                                                                
+  Enumerating objects: 12, done.                                                
+  Counting objects: 100% (12/12), done.                                         
+  Delta compression using up to 10 threads                                      
+  Compressing objects: 100% (6/6), done.                                        
+  Writing objects: 100% (7/7), 932 bytes | 932.00 KiB/s, done.                  
+  Total 7 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)                 
+  Validating changes                                                            
+                                                                                
+  Validating files size                                                         
+                                                                                
+  Validating submodules                                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+What you can do with Symfony
+
+Symfony is a powerful PHP framework that empowers developers to build scalable, high-performance web applications with reusable components, comprehensive documentation, and a strong community.
+
+Web development
+
+As a full-stack framework, Symfony offers everything you need: security, routing, templates, ORM, validation, emails, testing, and more — ready out of the box.
+
+Learn more
+
+CLI
+
+Symfony Console powers Command-Line Interface apps and the Symfony developer experience — from code generation to deployment.
+
+Learn more
+
+Using Components
+
+Symfony Components are the building blocks of modern PHP — modular, tested, and trusted by projects like Drupal, Laravel, API Platform, and Composer.
+
+Learn more
+
+APIs and Symfony UX
+
+Build powerful APIs with Symfony and API Platform, and create seamless interfaces using Symfony UX, Turbo, and Stimulus — all with minimal boilerplate.
+
+Learn more
+
+Symfony packages are battle-tested and ready to solve all your needs
+
+34 billion
+downloads
++600k
+Symfony developers
+348
+packages
+350k
+GitHub stars
+Get started with Symfony
+
+Everything you need to get up to speed quickly!
+
+Symfony Demo
+
+Try Symfony and explore its universe — but beware, it's addictive!
+
+Start demo
+Read the docs
+
+Unlock the full potential of Symfony — your journey starts with the docs!
+
+Symfony: The Fast Track
+
+The official Symfony book translated in many languages.
+
+Watch SymfonyCasts
+
+The Best PHP & Symfony video-tutorials.
+
+Symfony Training
+
+Boost your team's skills with expert-led from fundamentals to advanced techniques.
+
+A strategic choice for long-term success
+
+Predictable, secure, and built to last — Symfony meets the demands of all companies.
+
+Long-term support
+
+LTS versions receive extended maintenance for years — ideal for enterprise lifecycles and stability.
+
+Learn more
+
+Security policy
+
+Symfony follows a transparent security process — with monitored CVEs, audit, and long-term security fixes.
+
+Learn more
+
+Predictable releases
+
+Symfony follows a strict release schedule, so you can plan, upgrade, and build with confidence.
+
+Learn more
+
+Open Source
+
+Distributed under the MIT license and backed by a global community.
+
+Learn more
+Empower your projects with Symfony solutions
+
+Supporting your Symfony projects from first line of code to successful delivery.
+
+Symfony Upgrade
+
+Ready to upgrade your applications to more recent versions of Symfony?
+
+Learn more
+
+SymfonyCloud
+
+The best way to host your Symfony projects — powered by Upsun
+
+Bootstrap your project in minutes
+Synchronize your Git workflow and infrastructure
+Continuous delivery straight from your terminal
+Learn more
+
+SymfonyInsight
+
+Stay safe from critical risks to your projects and business — get the insights you need, when you need them
+
+Detect vulnerabilities, prevent GDPR issues, and avoid lawsuits
+Protect data integrity, avoid leaks, downtimes, and bugs
+Enhance productivity and safeguard your brand’s reputation
+Learn more
+
+Symfony Services
+
+From the very start of your development project to the run phase, including the design and build steps, SensioLabs unlocks smart ways to make your Symfony project a success.
+
+Learn more
+Join the community
+
+Take part of a passionate group of over 600,000 developers from more than 120 countries, all committed to helping PHP surpass the impossible.
+
+ Become a Symfony contributor
+
+Whatever your skills or level, you can contribute to Symfony in lots of different ways!
+
+Learn how to contribute
+
+ Get recognized as a Certified Symfony expert
+
+Demonstrate your expertise with official Symfony, Twig, and Sylius certifications
+
+Read more
+
+ Meet the community during conferences
+
+Jan 22–23, 2026	SymfonyOnline January 2026	In English
+Mar 26–27, 2026	SymfonyLive Paris 2026	In French
+Apr 23–24, 2026	SymfonyLive Berlin 2026	In English
+Jun 4, 2026	SymfonyDay Montreal 2026	In English
+Nov 26–27, 2026	SymfonyCon Warsaw 2026	In English
+View more events and meetups
+Symfony footer
+
+Symfony™ is a trademark of Symfony SAS. All rights reserved.
+
+What is Symfony?
+
+What is Symfony?
+Symfony at a Glance
+Symfony Packages
+Symfony Releases
+Security Policy
+Logo & Screenshots
+Trademark & Licenses
+symfony1 Legacy
+
+Learn Symfony
+
+Symfony Docs
+Symfony Book
+Reference
+Bundles
+Best Practices
+Training
+eLearning Platform
+Certification
+
+Screencasts
+
+Learn Symfony
+Learn PHP
+Learn JavaScript
+Learn Drupal
+Learn RESTful APIs
+
+Community
+
+Symfony Community
+SymfonyConnect
+Events & Meetups
+Projects using Symfony
+Contributors
+Symfony Jobs
+Backers
+Code of Conduct
+Downloads Stats
+Support
+
+Blog
+
+All Blog Posts
+A Week of Symfony
+Case Studies
+Cloud
+Community
+Conferences
+Diversity
+Living on the edge
+Releases
+Security Advisories
+Symfony Insight
+Twig
+SensioLabs Blog
+
+Services
+
+SensioLabs services
+Train developers
+Manage your project quality
+Improve your project performance
+Host Symfony projects
+
+Powered by
+
+Follow Symfony
+Site appearance:
+Light mode
+Dark mode
+Sync with system

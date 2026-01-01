@@ -1,0 +1,220 @@
+DebugBear
+Product
+Real-User Monitoring (RUM)
+Understand visitor experiences
+Synthetic Monitoring
+Analysis and recommendations
+Interactive Demo
+Try DebugBear without signing up
+Watch Video
+Two-minute walkthrough
+Book a Call
+Get your questions answered
+Why DebugBear?
+Marketing & Technical SEO
+Rank higher in Google
+Software Developers
+In-depth analysis and API access
+Digital Agencies
+Keep client websites fast
+Ecommerce Stores
+Increase conversion rates
+Enterprise
+Large accounts + compliance
+Case Studies
+How our customers succeed
+Why Site Speed Matters
+Benefits of a fast website
+Why Use DebugBear?
+Find out how we're different
+Blog
+Docs
+Pricing
+Log In
+Start Free Trial
+Monitor Page Speed and Core Web Vitals
+Optimize web performance to improve user experience and Google rankings.
+Scheduled Lab Tests
+Google CrUX Data
+Real User Monitoring
+➔ Start Free Trial
+”We've updated around 15,000 pages and saw some nice gains from it. "Good URLs" and their impressions have increased 3x since implementation.“
+Rafayel Begoyan
+Senior SEO Specialist
+”DebugBear has been an eye opener for us and has really shown what's causing the Core Web Vitals issues on our website.
+Mandip Ahdan
+Head of Engineering
+Trusted By Hundreds Of Happy Customers
+Be faster than your competition
+1. Identify slow pages
+
+Discover where visitors have poor experiences, with real user analytics or our website scan.
+
+2. Diagnose performance bottlenecks
+
+Fix performance issues with detailed technical reporting.
+
+3. Monitor page speed continuously
+
+Confirm your optimizations are working and get alerted if performance gets worse.
+
+Comprehensive website performance monitoring
+Synthetic monitoring
+
+Run scheduled lab tests and keep track of Google Lighthouse scores.
+
+Real user monitoring (RUM)
+
+Track actual user experience across your website in real time.
+
+Google CrUX data
+
+Monitor visitor data from Google's Chrome User Experience Report (CrUX).
+
+Identify web performance issues
+Measure visitor experience across your website
+
+Real user monitoring provides real-time insights into how fast your website is and where you need to optimize.
+
+Set up scheduled tests
+
+Continuously run synthetic tests for deeper insights and alerting.
+
+Find slow pages
+
+Check pages that fail the Core Web Vitals assessment, impacting SEO.
+
+Optimize Core Web Vitals
+Understand visitor experience
+
+Learn how your website loads for visitors and how that impacts your Core Web Vitals scores.
+
+Detailed performance recommendations
+
+DebugBear automatically identifies problems on your website and highlights the data you need to fix them.
+
+Run site speed experiments
+
+See the impact of performance optimizations without deploying changes to your website.
+
+In-depth technical analysis
+Network request waterfall
+
+Get a detailed report on what's happening on your website. Easily correlate network activity with CPU tasks and rendering progress.
+
+View relevant debug data
+
+When inspecting a performance metric you get a filtered view of the test result highlighting what is impacting the specific metric.
+
+Learn how to improve your website performance
+Improve slow interactions
+Fix Interaction to Next Paint (INP) Scores
+
+INP is one of the Core Web Vitals metrics that impact SEO. It measures how quickly your website responds to user input.
+
+See what page elements cause slow interactions
+
+DebugBear tracks how often different page elements cause slow interactions. You can also see what led up to the user interaction.
+
+Identify scripts responsible for poor performance
+
+View what specific code is delaying user input, and why this code is running.
+
+Catch and fix regressions
+Automatic change notifications
+
+Added a new render-blocking script? Uploaded a 5 MB image? Got a slow server response?
+
+Use our zero-config automatic alerts, or set custom thresholds.
+
+Compare test results
+
+Want to know why your site got slower? Use our in-depth before and after comparison to see exactly what changed.
+
+Communicate with clients and your team
+Video export
+
+Demonstrate how visitors experience your website. Generate a side-by-side view with a competitor. Or share a before and after video showing the impact of your work.
+
+Chart annotations
+
+Deployed a new version or added a new third-party? Mark this in your charts to clearly see the performance impact.
+
+Share page speed data
+
+Share test results with a unique link or by exporting data as PDF or CSV. Invite team members and clients to collaborate.
+
+Benchmark within your industry
+See how you stack up
+
+Compare your website performance to the competition based on real visitor data by Google.
+
+View long-term trends
+
+Monitor progress over time and see if you're pulling ahead.
+
+Extra insight and segmentation
+
+Explore desktop and mobile data and check additional metrics beyond the Core Web Vitals.
+
+Hear from our users
+”The most actionable-info packed page speed visualization available. DebugBear provides unique features that are crucial to debugging complex issues, like request-chain visualization."
+Robin Marx
+Web Protocol and Performance Expert
+”The reporting data is very helpful in pinpointing what causes site speed issues – immediately actionable. It's well above and beyond the info you get from Lighthouse and the performance tests through Chrome.“
+Loren McDonald
+IT Director
+”DebugBear delivers the best stats for before and after changes in exquisite detail. It also shows clear and easy to find data for Google's Web Vitals.
+Tony Cosentino
+Owner at The WP Guy
+”DebugBear's alerts are our early warning system. They catch new scripts that could slow us down before they become a problem.”
+Ryan Sullivan
+Chief of Staff at SiteCare
+”We've used several performance monitoring tools, but DebugBear is our favourite because of its clarity, reliability, and attention to Core Web Vitals . We can easily find synthetic testing and real-user data in one place.
+Paul Terry
+Head of SEO at Paramount Digital
+Get set up in minutes.
+No credit card required.
+Start Free Trial
+Book A Demo
+Product
+Documentation
+Blog
+Changelog
+Pricing
+Integrations
+Features
+Core Web Vitals Monitoring
+Synthetic Website Monitoring
+Real User Monitoring
+Lighthouse Score Monitoring
+Tools
+Website Speed Test
+HTML Size Analyzer
+TTFB Test
+SEO Checker
+INP Debugger
+All Tools
+Web Performance
+Core Web Vitals
+Web Performance Metrics
+Improve Website Performance
+Legal
+Trust Center
+Terms of Service
+Data Processing Agreement
+Security
+Procurement
+Sales
+Contact Sales
+Enterprise
+Support
+Email
+Contact
+Partners & Consulting
+Website
+Homepage
+Case Studies
+About Us
+Status
+© 2025 DebugBear Ltd

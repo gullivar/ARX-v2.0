@@ -1,0 +1,197 @@
+SPECIAL OFFER! 33% off new RoboForm Premium subscriptions. Offer ends January 1. BUY NOW
+PERSONAL
+BUSINESS
+PLANS
+SECURITY
+DOWNLOAD
+Support
+Log In
+Buy Now
+Next generation
+password manager
+
+Leading the way in password management technology, security, and innovation
+
+Try Business
+No credit card required
+Try Premium
+Simplify your online experience
+
+Stay secure and save time with our seamless password manager and form filling solution
+
+Generate and save passwords
+Create strong and unique passwords for each site. RoboForm captures them automatically.
+ 
+One click Logins and form filling
+No more typing. RoboForm quickly logs you in to websites and fills online forms with a single click.
+ 
+Scan for compromised passwords
+Get alerted when your passwords and personal information are exposed in data breaches.
+ 
+Secure Sharing
+Securely share passwords with trusted contacts without the risk of exposing sensitive data.
+NEW FEATURE
+Advanced Two-Factor Authentication (2FA)
+
+Secure your RoboForm account with multiple 2FA options including passkeys, trusted devices, and hardware security keys — in addition to traditional email, SMS, and authenticator apps.
+
+NEW FEATURE
+Passwordless Unlock
+
+Unlock RoboForm using a passkey securely stored on your local or remote device — verified by your face, fingerprint, or device PIN for quick and secure access.
+
+SECURITY
+Data Breach Monitoring
+
+RoboForm’s Data Breach Monitoring scans up to five email addresses for breaches and alerts you if your data is exposed. If a breach is found, RoboForm suggests ways to secure your accounts.
+
+An option for everyone
+
+Unlock unparalleled value with every license option
+
+Free
+Unlimited passwords on a single device
+$0
+Get Free
+Best-in-class 1 click login
+Password generator
+Secure cloud backup
+Best-in-class form filling
+Compromised password scan
+Built-in TOTP authenticator
+Passwordless Unlock
+Advanced 2FA
+POPULAR
+Premium
+Premium features, unlimited devices
+$1.66
+/mo
+Billed annually
+$2.49
+SPECIAL OFFER 33% off
+Buy Premium
+Everything in Free
+Access on all devices
+Web access
+Secure Shared Folders
+Emergency Access
+Data Breach Monitoring
+Local only mode
+Priority 24/7 Suppor
+Family
+5 Premium accounts for you and your family
+$2.66
+/mo
+Billed annually
+$3.98
+SPECIAL OFFER 33% off
+Buy Family
+5 Premium accounts
+Unified billing
+Access on all devices
+Web access
+Secure Shared Folders
+Emergency Access
+Data Breach Monitoring
+Local only mode
+Priority 24/7 Support
+Business
+One paid plan, all features—no sneaky upgrades
+See Pricing
+Separate personal and work vaults for each employee
+Centralized management via admin center
+Secure password sharing
+Single sign-on (SSO) integration
+SCIM provisioning
+Custom security policies
+Role-based access control
+Dedicated account manager
+Granular sharing controls
+Dark web monitoring and alerts
+Detailed activity logs
+Comprehensive reports and audit
+Priority 24/7 support
+Help center with onboarding and troubleshooting tutorials
+Real user ratings and reviews
+
+Take a look at what our customers have to say
+
+Apple AppStore
+4.7 Rating
+43.2K Reviews
+Google Play
+4.6 Rating
+32.7K Reviews
+Chrome Store
+4.5 Rating
+3.6K Reviews
+Edge Store
+4.6 Rating
+657 Reviews
+Frequently asked questions
+
+What is a password manager?
+A password manager is an application that securely stores and manages the passwords for your online accounts. It creates a secure vault where passwords are encrypted and accessible only to you. The tool typically includes a password generator for creating strong, unique passwords, and offers features like auto-filling login credentials on websites and applications. Advanced versions include additional security measures like two-factor authentication, dark web monitoring, and the ability to securely share passwords with trusted contacts. A password manager ensures that you maintain strong, varied passwords for all your accounts while needing to remember only one master password.
+Is RoboForm secure?
+Absolutely. Only you can access your data. Your passwords are encrypted with your own secret key—the RoboForm Master Password which you create. We use AES256 bit encryption with PBKDF2 SHA256. Our system architecture is zero-knowledge. This means that all encryption/decryption happens on your local device and ensures that your Master Password is never transmitted to our server.
+
+Find out more about RoboForm security.
+Why is it better to use a password manager and not my browser (Chrome, Keychain, etc)?
+RoboForm differentiates itself from standard browser-based password managers by offering comprehensive features. It is compatible across various devices and browsers, including incognito/private modes. Users can enjoy one-click logins to multiple accounts and robust password monitoring for weak, duplicate, or compromised passwords. RoboForm facilitates secure password sharing with friends and family, and provides Emergency Access for trusted contacts. Additionally, RoboForm includes a built-in TOTP authenticator app, can log into Windows applications, and is capable of saving and filling any online form, enhancing both security and convenience.
+Can RoboForm see my passwords?
+No. RoboForm is designed on a zero-knowledge infrastructure where the Master Password, known only to you, encrypts the data. This encryption process occurs exclusively on your device, not on RoboForm's servers. As a result, RoboForm does not have access to the Master Password or the ability to access your encrypted data, ensuring a high level of privacy and security.
+Is RoboForm easy to set up and use?
+Absolutely. RoboForm demonstrates that convenience and security can go hand-in-hand. By automating the password management and login processes, it not only simplifies the user experience but also enhances security. Unlike traditional, less secure methods, RoboForm ensures that each login is both swift and protected by strong, unique passwords. In addition, setting up RoboForm takes just minutes.
+Can I import my existing passwords into RoboForm?
+You certainly can! We offer the ability to import from every browser and major password manager, or from a CSV.
+Personal
+Premium
+Family
+Form Filler
+Random Password Generator
+Random Passphrase Generator
+How Secure is My Password?
+Have I Been Hacked?
+Security
+Pricing
+Business
+Business Features
+Security
+Pricing
+Benefits
+Support
+Compare
+LastPass
+Dashlane
+1Password
+Support
+Support
+Help Center
+Log In
+User Manual
+Tutorials
+Promo
+Referral Program
+Affiliates
+Resellers
+Educational Discount
+Military Discount
+Company
+About Us
+Press
+Blog
+Reviews
+Office Locations
+License Agreement
+Privacy Policy
+File Sync
+FIND US ON
+LANGUAGE
+ English
+
+Copyright © 1999 - 2025 Siber Systems, Inc. All rights reserved.
+3701 Pender Dr, Suite 400, Fairfax, VA 22030
+
+ 
+Our website uses cookies to ensure you get the best experience on our website. Review our Privacy Policy.
+Got it

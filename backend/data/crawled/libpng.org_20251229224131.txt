@@ -1,0 +1,22 @@
+Welcome to libpng.org!
+Home of
+
+Portable Network Graphics
+(PNG image format)
+
+Multiple-image Network Graphics
+(MNG and JNG image formats)
+
+and, of course,
+
+libpng
+(the free reference library for reading and writing PNGs)
+
+
+libpng.org is maintained by Greg Roelofs on servers provided by SourceForge. Different parts of it are mirrored in various locations around the world; see the PNG and MNG home pages for details. There is also a completely separate site for the free MNG library, libmng.
+
+       
+
+      
+
+Copyright © 2001-2009 Greg Roelofs.

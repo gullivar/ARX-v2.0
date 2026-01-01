@@ -1,0 +1,351 @@
+Skip to Content
+Blog
+Resource Center
+Support
+Log in
+EN
+Get LastPass free
+ Contact sales 
+Every login lives in LastPass
+
+Simplify your digital life with a password manager that creates, stores, and autofills strong passwords for you.
+
+Personal
+
+Business
+
+NEW BUSINESS FEATURE
+Unlock more controls and instantly block unapproved apps with our newest feature, SaaS Protect—now part of Business Max.        
+Learn more
+Why LastPass? We make security simple.
+Easy access from anywhere
+
+Save unlimited passwords and log in on any device or browser—ensuring you can access whatever you need, when you need it.
+
+Affordable plans & pricing
+
+Get an affordable way to manage your passwords—no surprise add-ons, and a free trial that doesn’t require a credit card.
+
+Secure password vault
+
+Built with strict security standards, we keep millions of accounts safe—encrypting data locally so even we can’t see your passwords.
+
+All-in-one solution
+
+Generate strong passwords, store account info, autofill logins, share credentials, and more with one easy-to-use solution.
+
+Password management for everyone
+Individuals
+Families and friends
+Business owners
+Business teams
+Business admins
+Access all your accounts, anywhere, anytime
+Create strong, one-of-a-kind passwords for every account in an instant to avoid password reuse
+Save your password in LastPass and use it across all your devices—no need to remember it
+Log in or check out instantly with account information that autofills for you
+Store more than passwords in your vault—keep credit cards, Wi-Fi details, addresses, documents, and more
+Try LastPass free
+
+Explore LastPass Premium
+
+Free 30-day LastPass Premium trial. No credit card required.
+Trusted by companies and individuals everywhere
+Millions
+
+Customers secure their passwords with LastPass
+
+Chrome and App Store rating
+
+Based on 79,300+ reviews
+
+Leader in Password Management
+
+Based on 1,599+ reviews
+100,000+
+
+Businesses choose LastPass
+
+“I like that LastPass is easy to use and intuitive. It integrates well with all websites and allows me to keep secure encryption for all my personal and work-related accounts. It allows me to organize folders, share with others, and only memorizing one master password for all of those while keeping encryption secure is a relief.”
+
+Read full review
+
+Kenny Kolijn
+
+Independant business coach
+
+“I use LastPass both corporately and personally. It allows me to securely store and share passwords with my family and co-workers in separate environments and happily generates random secure passwords for me, which prevents me from re-using the same one.”
+
+Read full review
+
+Erik Eckert
+
+System administrator, MPE Engineering Ltd.
+
+“I have been with LastPass for about two years now and it's one of those apps that you wonder why it took so long to start using. The absolute frustration of trying to keep track of passwords manually was so stressful. LastPass takes the stress away. It is extremely easy to use in my opinion, and has some great security features.”
+
+Read Full Review
+
+Bart Nanni
+
+Security services sales executive
+Choose a plan that works for you
+Try it for free, no credit card required.
+Premium
+
+Individual plan that ensures secure password management across all your devices
+
+$3.00
+/month
+billed annually*
+Try free for 30 days
+Buy Premium
+For personal use across devices:
+Save unlimited passwords
+Access on all devices 
+Save and autofill 
+Best value for personal use
+Families
+
+Keep your household’s logins secure and always within reach at home or on-the-go
+
+$4.00
+/month
+billed annually*
+Try free for 30 days
+Buy Families
+Everything in Premium, plus:
+6 Premium accounts for yourself and your parents, kids, roommates, friends, and whoever else you call family 
+Teams
+
+Simple credential management for small teams and startups
+
+$4.25
+user/month
+billed annually*
+Try free for 14 days
+Buy Teams
+For your small business or team:
+Admin console to manage users 
+Shared folders 
+25 security policies 
+Business
+
+Effortless password and access management for small and medium-size businesses
+
+$7.00
+user/month
+billed annually*
+Try free for 14 days
+Buy Business
+Everything in Teams, plus:
+100+ security policies
+LastPass Families for employees 
+Group user management 
+Most admin controls
+Business Max
+
+Advanced protection and secure access for any business with more admin control
+
+$9.00
+user/month
+billed annually*
+Try free for 14 days
+Buy Business Max
+Everything in Business, plus:
+SaaS Monitoring 
+SaaS Protect 
+Unlimited number of SSO apps 
+Advanced MFA capabilities 
+Free
+For starters
+
+Limited to 1 device type. Simple password management with unlimited password storage, autofill, dark web monitoring, and basic password sharing. Learn more 
+
+Get Free
+Includes 30-day trial of Premium
+
+Contact Sales team to request a demo, learn about admin and end user features and see how LastPass solutions fit your business needs.
+*Applicable taxes will be applied at checkout.
+
+Compare plans
+LastPass is ever evolving
+Blog
+
+Get the latest updates and security tips from LastPass Labs, cybersecurity intelligence, and product teams.
+
+Read the blog
+Resource center
+
+Explore a library of expert insights, tools, tips, and resources to help simplify and strengthen your password management.
+
+Go to Resource Center
+Trust Center
+
+Learn more about why people trust LastPass: our privacy, product and operational enhancements, as well as well as our future plans.
+
+Visit Trust Center
+Newsroom
+
+See the latest media, news, and press releases about the happenings at LastPass.
+
+Visit the newsroom
+Frequently asked questions
+How can I access LastPass?
+
+LastPass is accessible on computers (MacOS, Windows, Linux, Safari, Chrome, Firefox, Edge) and mobile devices (iOS, WatchOS, and Android). Free users can only use LastPass on one device type (computer or mobile), while paid users have unlimited access.
+
+Download LastPass apps
+
+How does LastPass securely store passwords?
+
+Your LastPass vault secures your data on your trusted device through zero-knowledge encryption. Your device encrypts and hashes your passwords locally before sending them to LastPass servers. The next time you need to log in, LastPass returns your encrypted passwords – which are decrypted by your trusted device.
+
+Does LastPass have access to my passwords?
+
+No, our zero-knowledge security model ensures your data remains yours: your master passwords and anything you store in your password vault – passwords, credit cards, mailing addresses, secure notes – are never visible or accessible to LastPass.
+
+How does LastPass encryption work?
+
+LastPass is built on a zero-knowledge encryption method, which ensures you are the only person who knows your master password – the key used to decrypt your password vault. Thanks to 256-bit AES encryption and PBKDF2 derivation function with a secure hash (SHA256), with salting, your master password is never stored on our servers in its plaintext format, so only you will know what it is.
+
+Is LastPass no longer safe?
+
+LastPass secures all passwords, so you don't have to, ensuring that your most important credentials are protected, private, and always within reach. We have undergone an extensive security transformation; emerging as a stronger, more innovative, and independent company with an unwavering commitment to security, privacy, and customer satisfaction.
+
+We seized a unique opportunity to implement an entirely new security and privacy infrastructure across our development and production environments, moved to a purpose-built, highly available and secure Cloud platform, rolled out an entirely new fleet of managed end user devices, and enhanced security and privacy within our digital vault, including achieving ISO 27701 compliance.
+
+We’ve also invested significant resources to strengthen our privacy and security teams, establishing new business units, such as our Privacy Operations, Safety and Trust (POST) team, which focuses on safeguarding customer privacy and protecting against fraud and abuse. Additionally, our new Threat Intelligence, Mitigation, and Escalation (TIME) team provides actionable security insights and advanced threat intelligence on LastPass Labs, our content hub for the market and our customers.
+
+We have documented so much of this journey through updated support articles and close to real-time monitoring of LastPass systems within our new Compliance Center, keeping customers informed every step of the way.
+
+Learn more about why people trust LastPass
+
+What is the deal with LastPass?
+
+LastPass is a popular password manager that helps users store and manage their passwords. In December 2022, LastPass disclosed a security incident. LastPass remains committed to delivering a secure set of products and services for LastPass customers, and is continuously making improvements and investments across people, processes, and infrastructure to deliver on this commitment.
+
+By streamlining the process of password management and enhancing security, LastPass provides a comprehensive solution for individuals and businesses looking to protect their digital identities.
+
+Get more details on what has been done to secure LastPass
+
+Where is the safest place to keep passwords?
+
+The safest place to keep your passwords is in a password manager like LastPass. Password managers securely store your login credentials in an encrypted vault, ensuring that only you can access them. By using a password manager, you can generate and store strong, unique passwords for each of your accounts, significantly reducing the risk of your credentials being compromised. This method not only enhances your overall security but also simplifies the process of managing multiple passwords, making it easier to maintain good password hygiene.
+
+Learn more about LastPass password vault
+
+What's more secure than LastPass?
+
+When considering alternatives to LastPass, it’s important to look for password managers that offer robust encryption, security audits and transparent privacy policies. While LastPass is a robust and secure password manager, it's important to note that all password managers face common threats, such as phishing attacks. To ensure maximum security, users should regularly update their password manager software, enable two-factor authentication (2FA), and stay vigilant against phishing attempts.
+
+It's crucial to prioritize strong security practices, such as using a unique and complex master password and setting up secure recovery options. Additionally, users should be cautious about where they enter their master password and be aware of the signs of phishing scams. By combining a reliable password manager with these best practices, users can significantly enhance their overall digital security.
+
+For additional details, you can visit the LastPass security page or our support site to learn about our security updates.
+
+What are the disadvantages of LastPass?
+
+Some users find the limited features of the LastPass free version a disadvantage. Paid plans offer more functionality, for a fee. Users of the free version may miss functionalities such as password sharing, personal customer support, and emergency access. These limitations can be a drawback for individuals who require more robust password management tools but do not want to subscribe to the paid plans. Additionally, the free version limits users to syncing their passwords on only one type of device – either mobile or desktop.
+
+Learn more about why LastPass is loved by millions and recognized by experts
+
+Password management that makes work and life more secure
+Business
+Personal
+Free trial for all plans available. No credit card required.
+PRODUCTS
+Home Page
+What is a password manager?
+Why LastPass?
+How is LastPass secure?
+How LastPass works
+Pricing
+For Business
+For Teams
+For Families
+For Individuals
+For MSPs
+Compare LastPass
+Security Features
+All Features
+SOLUTIONS
+SaaS Protect
+New
+Password sharing
+Secure Access
+Authentication
+Integrations
+For enterprises
+For small businesses
+For marketing teams
+For legal teams
+For HR teams
+For Financial Services
+For Professional Services
+For Education Institutions
+All Solutions
+RESOURCES
+Resource Center
+Case studies
+Events
+Webinars
+On-demand Demos
+Trust Center
+Compliance Center
+LastPass University
+Password Generator
+Username Generator
+LastPass Authenticator
+Cybersecurity posts
+All blog posts
+SUPPORT
+Support Center
+Reddit community
+Community forum
+Service status
+My account
+Security vulnerability disclosure
+Vault login
+Admin login
+Contact support
+GET LASTPASS
+Start free trial
+Google Play download
+App Store download
+Browser Extensions
+COMPANY
+About Us
+Careers
+We're hiring
+Leadership
+Newsroom
+Legal Center
+Compliance
+Contact Us
+PARTNERS
+Partner program overview
+MSP
+Resellers
+Find a Partner
+Partner login
+Affiliate partners
+CONTACT SALES
+
+See in action how LastPass can protect your business. Request a demo today.
+
+Want to use LastPass Business now? Start 14-day Free Trial
+
+Chat with sales experts
+
+Contact Sales
+INSTALL EXTENSION
+Download
+
+© 2025 LastPass US LP. All rights reserved.
+
+Privacy Notice
+Terms of Service
+Imprint
+Cookie Preferences
+Your Privacy Choices
+English

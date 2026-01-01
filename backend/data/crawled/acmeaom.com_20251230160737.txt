@@ -1,0 +1,68 @@
+Industry leading software development for the aviation, weather and consumer sectors.
+
+Weather Information
+
+Mobile Apps
+
+Aviation Expertise
+
+Emerging Platforms
+
+Established & Experienced
+
+ACME AtronOMatic is a leading software application development company, with offices in Orlando, Florida, and Portland, Oregon. Since our inception in 1999, we've been developing applications that run the gamut from aviation-related web sites, providing flight tracking services to the aviation community, and to mobile applications such as MyRadar, a wildly-popular hi-tech, hi-resolution weather radar application for all of the popular mobile devices.
+
+30
+
+Employees
+
+17
+
+Years in Business
+
+50
+
+Million Users
+
+We are your solution.
+
+We are here to help you. Whether you have a new app idea that you are wanting to execute on, or if you have a infrastructure that needs some updates—we have experience working with dozens of business types.
+
+CONTACT US
+Technology
+
+We have developed a technology platform to allows us to build a suite of products for the aviation, weather, and consumer sectors. Our weather radar processing technology handles several terabytes of data daily and is the engine behind several of our successful consumer products. Our private aviation data and advanced weather capabilities are used to provide best in class information to our users.
+
+Generating the radar, temperature and wind imagery displayed by the MyRadar mobile apps is no easy task!
+
+CONTACT US
+Radar Data Collection
+
+On an average day, we continuously receive about 50 Mb/s of densely compressed radar, temperature and wind data in various binary formats.
+
+Data Stitching
+
+We must ensure that we have all the data from complete, relevant radar rotations before a valid image can be produced for any given radar map tile.
+
+Custom Servers
+
+To manage the complexities inherent in this process and provide on-demand radar rendering, we have built a cluster of GPU-heavy machines that allow us to very quickly filter, resample and render many hundreds of images per second, in high definition.
+
+Let It Rain!
+
+All of this work has put us in the unusual position of eagerly awaiting the next big rainstorm or other weather event so we can watch our systems go to work.
+
+Featured Product
+MyRadar
+
+MyRadar is a fast, easy-to-use, weather application powered by the Acme technology platform. The animated weather radar displays what weather is around your current location, allowing you to quickly see what weather is coming your way.
+
+DOWNLOAD THE APP
+
+CREATIVE BY
+
+© 2020 ACME ATRONOMATIC
+  |  
+PRIVACY POLICY
+  |  
+JOBS

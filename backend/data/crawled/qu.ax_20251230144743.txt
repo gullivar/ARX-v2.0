@@ -1,0 +1,35 @@
+qu.ax
+
+Simple & Private File Hosting
+
+Select or drop file(s)
+
+Max upload size is 256MB
+
+Supported file types: ?
+
+.jpg
+.jpeg
+.png
+.gif
+.webp
+.avif
+.svg
+.mp4
+.mov
+.wmv
+.mpeg
+.mpg
+.webm
+.zip
+.rar
+.7z
+.tar
+.gz
+.tar.gz
+.tar.gz2
+.pdf
+.txt
+
+Using  ShareX? Get our .sxcu file for direct desktop uploads!
+Report Abuse | Donate! ❤️ | Terms of Service (Rules!) | Tracker | Trace.cat

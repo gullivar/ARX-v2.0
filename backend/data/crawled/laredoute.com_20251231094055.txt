@@ -1,0 +1,12 @@
+Oops... there seems to be a small technical problem.
+We apologise for the inconvenience.
+
+Please contact our support team : our advisors are available to help you.
+
+Support number
+
+0033 3 66 33 17 70
+
+Ray ID : 9b65ba6189b6ea2c
+Client IP : 221.138.189.189
+Error reason : WAF Block/IP Block/Rate limiting

@@ -1,0 +1,311 @@
+Products
+SonarQube products
+SonarQube Cloud
+Cloud-based static analysis tool for your CI/CD workflows
+SonarQube Server
+Self-managed static analysis tool for continuous codebase inspection
+SonarQube for IDE
+Free IDE extension that provides on-the-fly analysis and coding guidance
+Advanced Security
+Secure use of open source code with advanced SAST and SCA
+MCP Server
+New
+Bring code quality and security into your AI workflow
+SonarSweep
+Early access
+Improve code produced by LLMs
+Why Sonar
+Use cases
+AI code quality
+Validate AI code for security and quality
+Developer-led security
+Secure apps and prevent vulnerabilities
+Automated code review
+Ensure secure, high-quality code
+Platform engineering
+Remove friction and boost productivity
+Compliance & reporting
+Automate proof of code compliance
+SDLC governance
+Align AI and developer standards
+Secrets detection
+Catch code secrets in development
+All use cases
+Explore
+AI solutions
+Architecture management
+New
+Security solutions
+Code quality solutions
+ROI calculator
+SonarQube vs GitHub Code Quality
+Industries
+Healthcare
+Financial services
+Retail
+Federal government
+Customer recognition
+Our customers
+Customer stories
+Pricing
+Developers
+For developers
+Developer hub
+Learning center
+New
+Commitment to open source
+Community
+Sonar rules
+Developer guides
+Documentation
+SonarQube Server
+SonarQube Cloud
+SonarQube for IDE
+Sonar Vulnerability database
+Integrations
+GitHub
+Bitbucket
+Azure DevOps
+GitLab
+See all
+35+ languages & frameworks
+Java
+JavaScript
+Python
+C#
+See all
+Resources
+Get started
+Onboarding hub
+Learning center
+New
+Interactive demos
+Community
+SonarQube update hub
+Explore
+ROI calculator
+Solution briefs
+White papers
+Blog
+Research
+LLM leaderboard
+New
+Coding Personalities of Leading LLMs
+The State of Code
+Company
+Learn about Sonar
+About Us
+Our customers
+Partners
+Events hub
+Newsroom
+Careers
+Join us!
+Contact us
+2
+Upcoming events
+
+Webinar
+
+2026 State of Code Developer Survey
+
+January 8 | 10am CST
+
+Virtual event
+
+Sonar Summit
+
+March 3rd
+
+See all events
+Start for free
+NEW
+SonarQube Advanced Security
+Vibe, then verify
+
+Sonar helps development teams fuel AI-enabled development and build trust into every line of code.
+
+Get started
+Contact sales
+Code quality
+SAST
+Secrets Detection
+AI CodeFix
+
+TRUSTED BY OVER 7M DEVELOPERS WORLDWIDE
+
+Sonar is #1
+
+For over five continuous years, Sonar has been ranked first in Static Code Analysis on the G2 Grid.
+
+
+
+
+120+ G2 Reviews
+
+Learn more
+The independent standard for integrated code quality and security
+Code quality
+
+Ensure all code—AI-generated or human-written—meets the highest standards.
+
+Code security
+
+Detect security risks, both within your code and from open source.
+
+Code remediation
+
+Fix issues quickly and modernize your older code with AI.
+
+Code orchestration
+
+Protect your next-gen SDLC with trusted monitors and controls.
+
+We know code
+
+750 billion
+lines of code analyzed every day
+35+
+programming languages, frameworks, and IaC technologies
+1 billion
+Docker downloads
+Sonar’s solutions for code quality, security, and maintainability
+SONARQUBE CLOUD
+For cloud-powered DevOps
+
+Integrate SonarQube Cloud with your cloud DevOps platform to ensure code quality and code security, maintain high standards, and protect your code from vulnerabilities.
+
+Try SonarQube Cloud
+SONARQUBE SERVER
+Self-managed for ultimate control
+
+Ensure code quality and code security meet high standards early, before reaching production. Integrates into your enterprise DevOps environment to easily find and fix coding issues within your current workflow.
+
+Try SonarQube Server
+SONARQUBE FOR IDE
+Within the developer flow
+
+Up your coding game and find issues early. SonarQube for IDE takes linting to another level, empowering you to prevent issues as you code, no matter what languages or tools you use.
+
+Install SonarQube for IDE
+Open the bottleneck to realizing the value from AI code
+Code
+Build
+Deploy
+Monitor
+Discover issues from the moment you write code
+
+The best place to find and fix issues? Right in your IDE, with on-the-fly optimized feedback on issues that can lead to bugs, security issues, code smells, and other problems.
+
+“We have used SonarQube since very early on and it is incalculable to define the importance of pointing at the solution in response to questions from audits and regulators!!”
+
+Gary Barter, Executive Director
+
+Resources and news
+
+The latest from Sonar
+Blog posts
+News
+Learn articles
+BLOG POST
+Seven indicators your codebase is unmanageable
+
+This article outlines seven indicators of an unmanageable codebase and details how continuous, automated code review using SonarQube provides the mandatory data metrics for diagnosis, quantitative prioritization, and remediation, transforming the management of code quality issues from a severe burden into a strategic investment.
+
+Read article >
+
+BLOG POST
+Introducing architecture in SonarQube
+
+Today, we are announcing a transformative step forward to help teams manage their software at a higher level, with the addition of architecture capabilities in SonarQube.
+
+Read article >
+
+BLOG POST
+New data on code quality: GPT-5.2 high, Opus 4.5, Gemini 3, and more
+
+Today, we are making all evaluations available in a new Sonar LLM leaderboard and sharing our latest findings on GPT-5.2 High, GPT-5.1 High, Gemini 3.0 Pro, Opus 4.5 Thinking, and Claude Sonnet 4.5.
+
+Read article >
+
+Build trust into every line of code
+
+4.6 / 5
+
+Get started
+Contact sales
+Go to SonarSource homepage
+Solutions
+Code security
+SAST
+SCA
+Secrets detection
+Developer security
+AI solutions
+AI code quality
+Code coverage
+Code review
+Automated review
+AI code review
+Platform engineering
+Code compliance
+SDLC governance
+For developers
+For enterprise
+IaC scanning
+Products
+SonarQube Cloud
+SonarQube Server
+SonarQube for IDE
+Advanced Security
+MCP Server
+SonarSweep
+Pricing
+Start for free
+Explore pricing
+Company
+About
+Careers
+Commitment to open source
+Customers
+Partners
+Contact us
+Accessibility
+Brand identity
+Media
+Coverage
+Press releases
+Resources
+Product demos
+Events hub
+Customer stories
+White papers
+Developer guides
+Onboarding hub
+Community
+Support
+ROI calculator
+Legal documentation
+Knowledge
+Explore Sonar's rules
+Blog
+Languages
+Learning center
+SonarQube Server documentation
+SonarQube Cloud documentation
+SonarQube for IDE documentation
+Follow SonarSource on Twitter
+Follow SonarSource on Linkedin
+AICPA SOC 2
+MSECB
+English
+Website Terms of Use
+Privacy Notice
+Cookie Policy
+Trust center
+Your Privacy Choices
+UK Modern Slavery Act Statement
+Unsubscribe
+Accessibility
+
+© 2025 SonarSource Sàrl. All rights reserved.

@@ -1,0 +1,55 @@
+We use cookies to improve HubSpot’s site. Some cookies are necessary for our website and services to function properly. Other cookies are optional and help personalize your experience, including advertising and analytics. You can consent to all cookies, decline all optional cookies, or manage optional cookies. Without a selection, our default cookie settings will apply. You can change your preferences at any time. To learn more, check out our Cookie Policy.
+
+Manage Cookies
+Accept All
+Decline All
+Skip to main content
+Skip to footer
+Changelog
+Blog
+Docs
+Status
+Get Started
+Apps
+CMS
+Tooling
+Marketplace
+Create developer account
+with a HubSpot Developer account
+Create tomorrow's solutions today on HubSpot's Developer Platform.
+Terminal | HubSpot Developers
+$
+last login: Thu Dec 18 2025 15:43:13 on 127.0.0.1
+$
+hs
+get-started
+building so
+|
+Explore our docs
+to learn more about our APIs, Apps, Developer Tooling, and CMS
+See what's new
+with the HubSpot Developer Platform
+Craft seamless experiences that help businesses grow better powered by HubSpot's Smart CRM
+Fuel Your Applications: Seamlessly Bring Data Into HubSpot
+
+Efficiently integrate the data your solutions need—so you can automate workflows and scale with confidence.
+
+Fuel your solutions
+Surface Insights: Bring Data to Life in HubSpot
+
+Add dashboards, app cards, and custom interfaces to your solutions with HubSpot’s APIs and UI extensions—giving users clear, actionable views.
+
+Add visual components
+Act on Data: Keep Work Moving
+
+Use workflows, webhooks, and custom actions to execute the next step the moment data updates—keeping users in flow and out of tool-hopping.
+
+Automate what happens next
+Ship Intelligent Features
+
+Add AI that turns intent into outcomes—connecting your solution to the right data, decisions, and actions without extra overhead.
+
+Add intelligence to your apps
+Ship Solutions Customers Can Find
+
+Reach the right customers faster with problem-based discovery, personalized placement, and a unified install 

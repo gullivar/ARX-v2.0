@@ -1,0 +1,116 @@
+The Scala Programming Language New on the blog: Scala 2.12.21 is now available! Learn Install Playground Find a Library Community Governance Blog A programming language that scales with you: from small scripts to large multiplatform applications. Latest Release: 3.7.4 Latest LTS Release: 3.3.7 older releases, including Scala 2 Functional programming with immutable collections Run in playground 1 /4 val fruits = List ( "apple" , "banana" , "avocado" , "papaya" ) val countsToFruits = // count how many 'a' in each fruit fruits . groupBy ( fruit => fruit . count ( _ == 'a' )) for ( count , fruits ) <- countsToFruits do println ( s "with 'a' × $count = $fruits" ) // prints: with 'a' × 1 = List(apple) // prints: with 'a' × 2 = List(avocado) // prints: with 'a' × 3 = List(banana, papaya) High-level operations avoid the need for complex and error-prone loops. Encode and decode custom data types to JSON Run in playground 2 /4 case class Pet ( name : String , kind : String ) derives Codec // enable coding Pet to and from text val coco = Pet ( name = "Coco" , kind = "Cat" ) val message = writeJson ( coco ) //  ^^^^^^^ contains the text: {"name":"Coco","kind":"Cat"} readJson [ Pet ]( message ) // convert message back to a Pet! The pluggable derivation system gives custom types new capabilities. Target the Web with Scala.js on the frontend Run in playground 3 /4 val counter = Var ( 0 ) // create a counter button that increments on-click def counterButton () = button ( tpe := "button" , "count is " , child . text <-- counter , onClick --> { event => counter . update ( c => c + 1 ) }, ) val app = dom . document . getElementById ( "app" ) render ( app , counterButton ()) Share code full-stack, interact with the DOM or use any JS library. Define data types and pattern match on them with ease Run in playground 4 /4 enum Payment : case Card ( name: String , digits: Long , expires : Date ) case PayPal ( email : String ) def process ( kind : Payment ) = kind match case Card ( name , digits , expires ) => s "Processing credit card $name, $digits, $expires" case PayPal ( email ) => s "Processing PayPal account $email" process ( Card ( name , digits , expires )) Model domains precisely, and make choices based on the shape of data. GET STARTED Overview • Guide • Courses DOCUMENTATION API Docs • Migrate to Scala 3 Expressive Scala lets you write less to do more. As a high-level language, its modern features increase productivity and lead to more readable code. With Scala, you can combine both functional and object-oriented programming styles to help structure programs. Scalable Scala is well suited to building fast, concurrent, and distributed systems with its JVM, JavaScript and Native runtimes. Scala prioritizes interoperability, giving easy access to many ecosystems of industry-proven libraries. Safe Scala's static types help you to build safe systems by default. Smart built-in checks and actionable error messages, combined with thread-safe data structures and collections, prevent many tricky bugs before the program first runs. Proven Use Cases People around the world trust Scala to build useful software. Popular domains include Server-side High-throughput HTTP servers and clients. Safe, scalable, and principled concurrency. Reliable data validation with powerful transformations. Creating Services Principled Concurrency Scala's expressivity and compiler-enforced safety makes it easier to construct reliable concurrent code. With Scala, your programs take full advantage of multi-core and distributed architectures, ensure safe access to resources, and apply back-pressure to data producers according to your processing rate. One popular open-source option for managing concurrency in Scala is Cats Effect , combined with http4s for defining servers and routing. Click below to see other solutions. libraries for Concurrency and distribution Express high-level concurrency with http4s and Cats Effect // HTTP server routing definition
+val service = HttpRoutes.of:
+  case GET -> Root / "weather" => // route '/weather'
+    for
+      winner   <- fetch1.race(fetch2).timeout(10.seconds)
+      response <- Ok(WeatherReport.from(winner))
+    yield
+      response
+
+def fetch1 = fetchWeather(server1) // expensive Network IO
+def fetch2 = fetchWeather(server2) // expensive Network IO A Mature Ecosystem of Libraries Use the best of Scala, or leverage libraries from the Java and JavaScript ecosystems. Build with monolithic or microservice architectures. Retain resource-efficiency. Persist your data to any kind of database. Transform, validate, and serialize data into any format (JSON, protobuf, Parquet, etc.). Whether you compile for the Node.js or Java platform, Scala's interop with both gives you access to even more widely-proven libraries. Find the right library for your next Scala project Compute across distributed nodes with Akka actors def Device(lastTemp: Option[Double]): Behavior[Message] =
+  Behaviors.receiveMessage:
+    case RecordTemperature(id, value, replyTo) =>
+      replyTo ! TemperatureRecorded(id)
+      Device(lastTemp = Some(value))
+
+    case ReadTemperature(id, replyTo) =>
+      replyTo ! RespondTemperature(id, lastTemp)
+      Behaviors.same Case Study: Reusable Code with Tapir Harness the “Code as Data” Paradigm: define once, use everywhere. Scala's rich type system and metaprogramming facilities give the power to automatically derive helpful utilities from your code. One such example library is Tapir , letting you use Scala as a declarative language to describe your HTTP endpoints. From this single source of truth, you can automatically derive their server implementation, their client implementation, and both human-readable and machine-readable documentation. Because everything is derived from a type-safe definition, endpoint invocations are checked to be safe at compile-time, across the frontend and backend. Read more in the Tapir docs Describe service endpoints as data with Tapir // type-safe endpoint definition
+val reportEndpoint =
+  endpoint
+    .in("api" / "report" / path[String]("reportId"))
+    .out(jsonBody[Report])
+
+// derived Docs, Server and Client
+val apiDocs = docsReader
+  .toOpenAPI(reportEndpoint, "Fetch Report", "1.0.0")
+val server = serverBuilder(port = "8080")
+  .addEndpoint(reportEndpoint.handle(fetchReport))
+  .start()
+val client = clientReader
+  .toRequest(reportEndpoint, "http://localhost:8080")
+val report: Future[Report] =
+  client("5ca1a-78fc8d6") // call like any function back to top Data Processing Pick your favorite notebook. Run massively distributed big data pipelines; train NLP or ML models; perform numerical analysis; visualize data and more. Processing data Big Data Analysis Analyse petabytes of data in parallel on single-node machines or on clusters. Compute either in batches or in real-time. Execute fast, distributed relational operations on your data, or train machine learning algorithms. Work with popular storage and computation engines such as Spark , Kafka , Hadoop , Flink , Cassandra , Delta Lake and more. Libraries for processing big data Analyse data across a cluster with Spark // Count the number of words in a text source
+val textFile = spark.textFile("hdfs://...")
+val counts = textFile
+  .flatMap(line => line.split(" "))
+  .map(word => (word, 1))
+  .reduceByKey(_ + _)
+counts.saveAsTextFile("hdfs://...") Notebooks Explore data in web-based notebooks and produce rich, interactive output. Combine code, data, and visualizations in a single document. Make changes and instantly see results. Share and collaborate with others. Along many cloud-hosted solutions, open-source notebooks for Scala include the almond Jupyter kernel , Zeppelin and Polynote . Libraries for big data and visualisation back to top Command Line Superpower your scripts with the Scala command. Get hands-on with the Scala Toolkit. Easily add libraries. Build CLI apps with instant startup. Scripting Utilities The power of Scala in one file Scala CLI gives all the tools you need to create simple Scala projects. Import your favorite libraries, write your code, run it, create unit tests, share it as a gist, or publish it to Maven Central. Scala CLI is fast, low-config, works with IDEs, and follows well-known conventions. read more on the Scala CLI website Create simple scripts and utilities with Scala CLI //> using dependency com.lihaoyi::os-lib:0.9.1
+
+// Sort all the files by size in the working directory
+os.list(os.pwd).sortBy(os.size).foreach(println) $ scala-cli list_files.sc
+/home/user/example/list_files.sc
+... Get productive with the Scala Toolkit The Scala Toolkit is a good fit for writing a script, prototyping, or bootstrapping a new application. Including a selection of approachable libraries to perform everyday tasks, the Scala Toolkit helps you work with files and processes, parse JSON, send HTTP requests and unit test code. Toolkit libraries work great on the JVM, JS and Native platforms, all while leveraging a simple code style. find useful snippets in the Toolkit Tutorials Make web-requests, encode JSON and write to file //> using toolkit latest
+
+// A JSON object
+val json = ujson.Obj("name" -> "Peter", "age" -> 23)
+
+// Send an HTTP request
+import sttp.client4.quick.*
+val response = quickRequest
+  .put(uri"https://httpbin.org/put")
+  .body(ujson.write(json))
+  .send()
+
+// Write the response to a file
+os.write(os.pwd / "response.json", response.body) Package to native, deploy easily Package your apps to native binaries for instant startup time. Deploy to Docker images, JS scripts, Spark or Hadoop jobs, and more. other ways to package applications Compile natively for instant startup $ scala-cli --power package \
+    --native-image \
+    --output my-tool \
+    my-tool.sc
+Wrote /home/user/example/my-tool, run it with ./my-tool back to top Frontend Web Reactive UI's backed by types. Use the same Scala libraries across the stack. Integrate with the JavaScript library and tooling ecosystem. building frontend Portable Code and Libraries Write the code once and have it run on the frontend as well as on the backend. Reuse the same libraries and testing frameworks on both sides. Write API endpoints that are typechecked across the stack. For example: define your data model in a shared module. Then use sttp to send data to the backend, all while upickle handles seamless conversion to JSON, and also reads JSON back into your model on the backend. More Scala.js libraries and frameworks Share your model code with frontend and backend enum Pet derives upickle.ReadWriter:
+  case Dog(id: UUID, name: String, owner: String)
+  case Cat(id: UUID, name: String, owner: String) // Send an HTTP request to the backend with sttp
+val dog = Dog(uuid, name, owner)
+val response = quickRequest
+  .patch(uri"${site.root}/petstore/$uuid")
+  .body(dog)
+  .send()
+response.onComplete { resp => println(s"updated $dog") } Interoperability with JavaScript Call into JS libraries from the npm ecosystem, or export your Scala.js code to other JS modules. Integrate with Vite for instant live-reloading. Leverage the JavaScript ecosystem of libraries. Use ScalablyTyped to generate types for JavaScript libraries from TypeScript definitions. Scala.js facades for popular JavaScript libraries React component written with Slinky val Counter = FunctionalComponent[Int] { initial =>
+  val (count, setCount) = useState(initial)
+  button(onClick := { event => setCount(count + 1) },
+    s"You pressed me ${count} times"
+  )
+}
+ReactDOM.render(Counter(0), mountNode) Powerful User Interface Libraries Write robust UIs with the Scala.js UI libraries. Pick your preferred style: Laminar for a pure Scala solution, Slinky for the React experience, or Tyrian or scalajs-react for the pure FP-minded developers. See more Scala.js libraries for frontend and UI Manage state with Tyrian using the Elm architecture def view(count: Int): Html[Msg] =
+  button(onClick(Msg.Increment))(
+    s"You pressed me ${count} times"
+  )
+
+def update(count: Int): Update[Msg, Int] =
+  case Msg.Increment => (count + 1, Cmd.None)
+  case _             => (count,     Cmd.None) back to top Have another use case? Scaladex indexes awesome Scala libraries. Search in the box below. Awesome Scala Scala runs on the following platforms... Ideal for teaching Scala is ideal for teaching programming to beginners as well as for teaching advanced software engineering courses. Why teach Scala? Readable and Versatile Most of the concepts involved in software design directly map
+    into Scala constructs. The concise syntax of Scala allows the teachers
+    and the learners to focus on those interesting concepts without dealing
+    with tedious low-level implementation issues. The example in file HelloWorld.scala below shows how a “hello
+    world” program looks like in Scala. In Modeling.scala , we show an
+    example of structuring the information of a problem domain in Scala. In Modules.scala , we show how straightforward it is to implement software modules with Scala classes. Last, in Algorithms.scala , we show how the
+    standard Scala collections can be leveraged to implement algorithms with
+    few lines of code. Learn more in the dedicated page about Teaching . HelloWorld.scala @main def run() = println("Hello, World!") Algorithms.scala // Average number of contacts a person has according to age
+  def contactsByAge(people: Seq[Person]): Map[Int, Double] =
+    people
+      .groupMap(
+        person => person.age
+      )(
+        person => person.contacts.size
+      )
+      .map((age, contactCounts) =>
+        val averageContactCount =
+          contactCounts.sum.toDouble / contactCounts.size
+        (age, averageContactCount)
+      ) Modeling.scala /** A Player can either be a Bot, or a Human.
+    * In case it is a Human, it has a name.
+    */
+  enum Player:
+    case Bot
+    case Human(name: String) Modules.scala // A module that can access the data stored in a database
+  class DatabaseAccess(connection: Connection):
+    def readData(): Seq[Data] = ???
+
+  // An HTTP server, which uses the `DatabaseAccess` module
+  class HttpServer(databaseAccess: DatabaseAccess):
+    // The HTTP server can call `readData`, but it cannot
+    // access the underlying database connection, which is
+    // an implementation detail
+    databaseAccess.readData() The Scala language is maintained by The Scala Center is supported by Documentation Getting Started API Overviews/Guides Language Specification Download Current Version All versions Community Community Scala Ambassadors Forums Chat Libraries and Tools The Scala Center Contribute How to help Report an Issue Scala Governance Blog Code of Conduct License Security Policy Social GitHub Mastodon Bluesky X Discord LinkedIn Copyright © 2002-2025 École Polytechnique Fédérale Lausanne (EPFL) Lausanne, Switzerland

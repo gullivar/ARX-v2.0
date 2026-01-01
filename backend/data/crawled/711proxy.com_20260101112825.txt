@@ -1,0 +1,82 @@
+711Proxy-Global high-quality residential IP proxy provider 711Proxy Open main menu 711Proxy Proxies Pricing Data for AI Solutions Resources Referral Program Withdraw English Navigate Freely. Collect Data. Grow Securely. Over 100M residential IPs from 200+ countries, designed for large-scale data scraping. Perfect for AI, BI scenarios to boost your success rate. Get Started Sign in with Google 6,757,764 Daily Updated IPs 69,011 Daily New IPs 99.9% Uptime <0.3s Low Latency 4.9/5 Customer Rating Proxy products for projects of any scale With our flexible proxy services, you can easily collect data. We offer a pool of over 100M clean, verified IPs with a success rate of up to 99.7%. Residential Proxies-GB 100M+ IPs, enterprise plans enjoy features and discounts. Pay per GB Rotating & sticky sessions User/Pass & whitelist auth API reselling support From $ 0.55 /GB Get started now Static Residential Proxies Native & ISP IPs with regularly updated IP ranges. Unlimited traffic Stable & long-term Private & exclusive Bulk discounts From $ - /IP/Day Get started now Unlimited Rotating Proxies Custom bandwidth, tailored solutions, and 24/7 support. Unlimited traffic Unlimited concurrent sessions Random country allocation 200+ regions covered From $ - /Hour Get started now SOCKS5 Proxies Pay by day with a fixed number of IPs available daily. Daily fixed IP quota SOCKS5 updated daily Reusable within 24 hours Random country allocation From $ - /15 days Get started now Custom proxy solutions? Contact us Residential Proxies $0.55 /GB Unlimited Rotating Proxies Recommend Static Residential Proxies $0.12/IP/Day Unbeatable Price Choose the plan that best suits your needs and enjoy flexible pricing, tailored proxy solutions and Industry-leading cost performance without any contracts. Global proxy pool for easy access to web data Leverage a fast, reliable, and ethically compliant proxy network to effortlessly gather the data you need. 100M+ IP Resources 200+ Countries & Regions 99.7% Success Rate Explore all locations How businesses use our proxies Tailored for different audiences and use cases, helping you focus on boosting success rates. Data for AI Efficiently and securely acquire large-scale, high-quality data Learn more E-commerce Gather and monitor valuable pricing data across competitors Learn more Data Scraping Scraping valuable and accurate analytics data from any website Learn more Travel Aggregation Get the latest airfare and hotel deals on all platforms Learn more Market Research Proxies for web scraping markets trends and analytics data Learn more Brand Protection Monitor and actively maintain brand public opinion globally Learn more Seamless Platform Integration Fully compatible with AI, BI, and automation platforms, significantly simplifying workflows and improving data acquisition efficiency to make your work easier. Copy #include "stdafx.h"
+    #include "curl/curl.h"
+    #pragma comment(lib, "libcurl.lib")
+    static size_t write_buff_data(char *buffer, size_t size, size_t nitems, void *outstream)
+    {
+        memcpy(outstream, buffer, nitems * size);
+        return nitems * size;
+    }
+
+    int GetUrlHTTP(char *url, char *buff)
+    {
+        CURL *curl;
+        CURLcode res;
+        curl = curl_easy_init();
+        if (curl)
+        {
+       
+            // api http
+            curl_easy_setopt(curl, CURLOPT_PROXY, "http://156.229.21.94:1000");
+            curl_easy_setopt(curl, CURLOPT_WRITEDATA, (void *)buff);
+            curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_buff_data);
+            curl_easy_setopt(curl, CURLOPT_URL, url);
+            curl_easy_setopt(curl, CURLOPT_LOW_SPEED_TIME, 10L);
+            curl_easy_setopt(curl, CURLOPT_LOW_SPEED_LIMIT, 50L);
+            curl_easy_setopt(curl, CURLOPT_MAX_RECV_SPEED_LARGE, 2000000L);
+
+            res = curl_easy_perform(curl);
+            curl_easy_cleanup(curl);
+            if (res == CURLE_OK)
+            {
+                return res;
+            }
+            else
+            {
+                printf("%d", res);
+            }
+        }
+        return res;
+    }
+
+    int GetUrlSocks5(char *url, char *buff)
+    {
+        CURL *curl;
+        CURLcode res;
+        curl = curl_easy_init();
+        if (curl)
+        {
+            // api socks5
+            curl_easy_setopt(curl, CURLOPT_PROXY, "socks5://156.229.21.94:1000");
+            curl_easy_setopt(curl, CURLOPT_WRITEDATA, (void *)buff);
+            curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_buff_data);
+            curl_easy_setopt(curl, CURLOPT_URL, url);
+            curl_easy_setopt(curl, CURLOPT_LOW_SPEED_TIME, 10L);
+            curl_easy_setopt(curl, CURLOPT_LOW_SPEED_LIMIT, 50L);
+            curl_easy_setopt(curl, CURLOPT_MAX_RECV_SPEED_LARGE, 2000000L);
+            res = curl_easy_perform(curl);
+            curl_easy_cleanup(curl);
+            if (res == CURLE_OK)
+            {
+                return res;
+            }
+            else
+            {
+                printf("%d", res);
+            }
+        }
+        return res;
+    }
+
+    int main()
+    {
+        char *buff = (char *)malloc(1024 * 1024);
+        memset(buff, 0, 1024 * 1024);
+        GetUrlHTTP("http://ipinfo.io/json", buff);
+        printf("response: %s", buff);
+        memset(buff, 0, 1024 * 1024);
+        GetUrlSocks5("http://ipinfo.io/json", buff);
+        printf("response: %s", buff);
+        free(buff);
+        Sleep(10 * 1000);
+        return 0;
+    } C++ Go Node.js PHP JAVA Python A proxy solution you can trust Designed for businesses and individuals, delivering stable, secure, and highly customizable proxy services. Stable Connections Powered by clean, exclusive, and high-quality IP resources, ensuring every connection is fast and reliable to keep your business running without interruption. Excellent Performance Built on a new self-developed architecture, providing a highly controllable proxy environment. We optimize based on your usage scenario to ensure a smooth and low-latency experience. Intuitive Dashboard Easily configure proxies, monitor usage in real-time, and manage everything simply and efficiently through a user-friendly platform. Industry partnerships & recognition Working with leading global partners to build a trusted proxy network for our users. Contact us Trusted by customers our premium proxy services has become a top choice for customers. I use 711proxy to test the performance of my website in different geographical locations. I was attracted by the price, but I think its features and reliability are decent, as it offers a wide selection of proxies and reliable connectivity. Orlando Web Performance Engineer The proxy speed is in line with my expectations, which ensures the smooth progress of the crawling task, and completely integrated my workflow seamlessly. Erick Data Analyst Their product documentation is clear and concise, so that I can quickly get started and configure the proxy. This save me much time. Alex Software Developer 711Proxy provides an API interface for me to automate my crawl workflow. This has greatly improved my work efficiency. Bethany Ratke Automation Engineer The customer service team responded quickly and helpfully, provided very professional support, which solved my problems during using. Lara Withnell Digital Analyst 711Proxy has a very large proxy pool, which provides me with a wealth of IP choices and improves the crawl efficiency. Acker Data Scraping Specialist Certified and reliable global proxies Secure, high-performance access for all your data needs. You might want to know Still have questions? Can't find the answer? Check out our FAQs. Or let’s have a chat Start chat What is a residential proxy? What are the benefits of using residential proxies? Do static residential proxies support subscription renewal for an order? What's the difference between the Enterprise Plan and the Regular Plan for Residential Proxies? Are there any limitations when using Unlimited Proxies? Can I purchase proxies for a specific city? What type of authentication do your proxies support? Ready to get started? Get real residential IPs you can trust Sign up for free Have a question? Ask in the live chat on the right! Cookies and Agreement This website uses cookies to provide services and conduct traffic analysis. For more details on the cookies we use, check out our Cookie Policy . Reject Accept Contact us Support: support@711proxy.com Business: bd@711proxy.com PROXIES Residential Proxies-GB Unlimited Rotating Proxies Static Residential Proxies SOCKS5 Proxies USE CASES Market Research Ad Verification Data Scraping Website Testing E-commerce Brand Protection RESOURCES Blog Help Center Enterprise Program Referral Program COMPANY Terms of Service Privacy Policy Shipping Terms Refund Policy About Us Contact us GENERAL Home Pricing API Username/Password POPULAR LOCATIONS United States United Kingdom Brazil India Spain Canada USE CASES Market Research Ad Verification Data Scraping Website Testing E-commerce Brand Protection PROXIES Residential Proxies-GB Unlimited Rotating Proxies Static Residential Proxies SOCKS5 Proxies RESOURCES Blog Help Center Enterprise Program Referral Program GENERAL Home Pricing API Username/Password POPULAR LOCATIONS United States United Kingdom Brazil India Spain Canada COMPANY Terms of Service Privacy Policy Shipping Terms Refund Policy About Us Contact us USE CASES Market Research Ad Verification Data Scraping Website Testing E-commerce Brand Protection Useful links © Copyright 2024 711Proxy.com. All rights reserved. PAYMENT METHODS This Service Is Not Available In Mainland China. Thank You For Your Understanding. Buy Now

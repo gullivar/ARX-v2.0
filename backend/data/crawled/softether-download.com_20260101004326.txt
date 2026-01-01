@@ -1,0 +1,6 @@
+SoftEther Download Center SoftEther Project Source Code on GitHub University of Tsukuba Select Software SoftEther VPN (Freeware) Select Component SoftEther VPN Bridge SoftEther VPN Client SoftEther VPN Command-Line Admin Utility (vpncmd) SoftEther VPN Server SoftEther VPN Server Manager for Mac OS X SoftEther VPN Server Manager for Windows Source Code of SoftEther VPN Browse the list of all downloadable 
+						files (Archives) SoftEther VPN is freeware, distributed by SoftEther 
+						Project at University of Tsukuba, Japan. since March 8, 2013. Visit https://www.softether.org/ web site. See the ChangeLog of SoftEther VPN as the version 
+						history. The SoftEther VPN source code has been available since January 4, 2014. How to 
+						build from the source code. You can download the source package from above list, or 
+						fetch it from the GitHub repository . Copyright © 2012-2026 SoftEther Project at University of Tsukuba. All Rights Reserved. English | 日本語 | 简体中文

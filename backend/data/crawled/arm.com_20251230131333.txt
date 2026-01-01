@@ -1,0 +1,253 @@
+Skip to Main Content
+Skip to Footer
+Products
+Markets
+Partners
+Developers
+Support & Training
+Company
+The Future of AI is
+Built on Arm
+
+AI is transforming every major market — from the largest datacenters to the smallest personal devices.
+
+Watch How
+Arm Technology is Solving Some of the Greatest Challenges for Everyone
+Advancing Healthcare
+
+From faster diagnoses to intelligent real-time monitoring, Arm powers AI that’s transforming patient care.
+
+Learn More
+Powering Innovation
+
+Arm powers real-time precision—turning data into faster, smarter decisions at the edge.
+
+Learn More
+Enabling Next-Gen Wearables
+
+Arm AI enables real-time insights, improved health tracking, and always-on performance.
+
+Learn More
+Latest Highlights
+
+
+Arm 2026 Tech Predictions
+
+ 
+
+See 20 predictions to shape the next wave of AI and technology innovations in 2026.
+
+See Predictions
+ 
+
+
+Arm at CES 2026: Powering the Intelligent Era
+
+ 
+
+Discover how Arm is enabling AI-ready devices and redefining compute— from silicon to smart vehicles—at the world’s leading tech event.
+
+Explore Arm at CES
+ 
+
+
+
+Tech Unheard
+
+ 
+
+Jayshree Ullal, CEO of Arista Networks, joins host and Arm CEO Rene Haas to talk about her path from engineer to executive.
+
+Listen to Podcast
+ 
+
+
+35 Years of Advancing Innovation
+
+ 
+
+Discover how decades of Arm innovation continue to deliver efficiency, scalability, and ecosystem advantages shaping the future of computing.
+
+Explore Story
+ 
+
+
+Rivian’s New Autonomy Platform is Built on Arm
+
+ 
+
+Learn how Rivian’s RAP1 chip uses Arm technology to deliver the performance, safety, and efficiency required for next-generation mobility.
+
+Learn More
+ 
+
+
+Enhancing Mobile Experiences with On-Device AI
+
+ 
+
+The next generation of applications is built on the Arm Lumex platform, bringing faster and more intelligent AI to every smartphone.
+
+Discover Arm Lumex
+Delivering Unmatched Scale
+100%
+
+of the connected global population
+touches Arm-based products
+
+325B+
+
+Arm-based chips shipped
+to date
+
+22M+
+
+Software developers
+on Arm
+
+Performance and Efficiency
+that Powers AI Everywhere
+
+Arm Compute Subsystems (CSS) help our silicon partners speed time to market, while focusing valuable design resources on building differentiated, market-customized solutions at scale.
+
+
+IoT
+Arm Corstone balances trade-offs between performance and energy efficiency.
+
+Learn More
+
+Datacenter and Cloud
+Arm Neoverse CSS offers a proven, accelerated path to datacenter silicon.
+
+Learn More
+
+Mobile and PC
+Arm Lumex CSS offers flagship on-device AI performance with unmatched efficiency and developer readiness.
+
+Learn More
+
+Automotive
+Arm Zena CSS delivers high-performance, efficient, and scalable computing solutions for the automotive industry.
+
+Learn More
+
+Powering Tomorrow's
+Innovation, Today
+
+Arm technology provides high-performance, power-efficient intelligence as the foundation for advanced applications and disruptive business models.
+
+AI
+ 
+IoT
+ 
+Automotive
+ 
+Consumer Technologies
+ 
+Infrastructure
+
+The Future of AI is on Arm
+
+Arm’s energy-efficient foundations and pervasive footprint from cloud to edge make us the AI platform the world can rely on, both today and in the future.
+
+Overview
+Machine Learning
+Generative AI
+Agentic AI
+Building Scalable AI Infrastructure from Cloud to Edge
+
+Learn how Arm cloud-to-edge blueprint helps enterprises design smarter, more efficient AI compute platforms that reduce cost, improve performance, and scale seamlessly.
+
+Scalable Vehicle Intelligence
+Arm and Volkswagen: Advancing Software-Defined Vehicles
+
+Volkswagen is using Arm-based compute to scale AI-driven, software-defined vehicles to enable secure, efficient performance across next-generation automotive platforms.
+
+Explore Story
+Vision Intelligence
+Arm and Himax: Enabling Ultra-Low Power Edge AI
+
+Always-on, ultra-low-power vision AI from Arm and Himax is enabling smarter, more capable sensing in compact edge devices.
+
+Explore Story
+AI-Driven Mobile Experiences
+Arm and Alipay: Powering Intelligent Mobile Experiences
+
+Alipay leverages Arm technology to deliver efficient on-device AI for fast, intelligent mobile services at massive global scale.
+
+Explore Story
+Arm + Volkswagen
+Arm + Himax
+Arm + Alipay
+Leadership and Vision
+Tech Unheard Podcasts
+
+Rene Haas in conversation with industry leaders as they discuss AI, industry trends, and more.
+
+Listen to Podcasts
+Shaping the Future
+
+New perspectives on the future of AI, business transformation, and silicon-driven innovation.
+
+Read Insights
+Arm Newsroom
+
+Stay up to date with the latest Arm news, blogs, and press releases.
+
+Visit Newsroom
+Stay Connected
+
+Stay on top of the latest news and updates from Arm
+
+Subscribe
+Products
+CPUs & NPUs
+Mali GPUs
+Security IP
+Subsystem IP
+System IP
+Development Tools
+License Arm Technology
+Architecture
+Learn the Architecture
+CPU Architecture
+System Architecture
+Architecture Security Features
+Partner Ecosystem
+Join Partner Program
+See All Partners
+AI Partners
+Automotive Partners
+IoT Partners
+Support & Training
+Documentation Hub
+Downloads
+Contact Support
+Support Forum
+Training
+Design Reviews
+Education
+Research
+Company
+Leadership
+Investors
+Arm Offices
+Newsroom
+Careers
+Quality
+Trust Center
+Suppliers
+ English 
+Terms & Policies
+Terms of Use
+Privacy Policy
+Suppliers
+Accessibility
+Subscription Center
+Trademarks
+Modern Slavery Statement
+Glossary
+Copyright © 1995-2025 Arm Limited (or its affiliates). All rights reserved.
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings
+Reject All Accept All Cookies

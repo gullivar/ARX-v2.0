@@ -1,0 +1,34 @@
+Skip to Main Content
+Help Center
+Forum
+Blog
+Log in
+Project hosting ended on July 8, 2025. For more details, head to the blog.
+Au revoir, Glitch!
+
+If you haven’t heard by now, on July 8th we ended project hosting. That sounds like goodbye, but it’s not exactly.
+
+You can login to download your projects or set a redirect until December 31, 2025 and those redirects will be supported until the end of 2026.
+
+After that, we’re not sure what’s next but thank you so much for joining us when you did. Glitch wouldn’t be the same without your fun, thoughtful, strange, helpful, beautiful, weird projects. Until we meet again!
+
+Log in
+There are lots of other great ways to create the web!
+
+Here are some Fastly starter projects you can build in the browser using GitHub Codespaces
+
+Website on the edge
+A simple website starter
+Let's go
+11ty on the edge
+Draft and publish straight from the Codespace editor
+Let's go
+Hello Compute
+Build a serverless edge computing app in the browser
+Let's go
+Help Center
+Forum
+Legal/Terms
+Report Abuse
+Report DSA/DMCA
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

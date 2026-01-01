@@ -1,0 +1,35 @@
+Welcome to OpenResty!
+
+If you see this page, the OpenResty web platform is successfully installed and working. Further configuration is required.
+
+For online documentation and support, please refer to our openresty.org site.
+
+Commercial support is available at openresty.com.
+
+OpenResty YouTube Channel
+ 
+OpenResty Blog
+OpenResty Inc. Products
+
+We solve your unique and complex web problems with our layers of solutions and expertise from over a decade of experience.
+
+OpenResty XRay
+
+Troubleshooting and profiling tool
+
+ 
+OpenResty Edge
+
+Modern web application server
+
+OpenResty's Official Blog for Technologies & Products.
+
+How to deploy the on-premises version of OpenResty XRay on Microsoft's Azure cloud
+
+Real-Time Request Counting against Nginx Processes via YSQL
+
+High-Performance Web Application Firewall (WAF) in OpenResty Edge
+
+The EdgeLang DSL in OpenResty Edge
+
+How to pass the real client IP addresses to backend servers via special request headers

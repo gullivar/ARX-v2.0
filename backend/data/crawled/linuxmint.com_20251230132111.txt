@@ -1,0 +1,243 @@
+      
+Home
+Download
+Project
+About
+Links
+Donate
+"Zara"
+Linux Mint 22.2
+
+The latest version of the friendly operating system is here. Install it on your computer today!
+
+Download Installation Instructions
+Features
+What is Linux Mint?
+
+Linux Mint is an operating system for desktop and laptop computers. It is designed to work 'out of the box' and comes fully equipped with the apps most people need.
+
+Graphic Design
+
+Work in 3D with Blender, draw or edit pictures in Gimp, use Inkscape for vector graphics.
+
+Productivity
+
+With LibreOffice's complete office suite, use the word processor, make presentations, drawings, spreadsheets or even databases. Easily import from or export to PDF or Microsoft Office documents.
+
+Multimedia
+
+Enjoy your music, watch TV and movies, listen to podcasts, Spotify and online radio.
+
+Web
+
+Browse the Web, watch Youtube and Netflix with Firefox. Turn any website into a desktop app for immediate access.
+
+Gaming
+
+Access more than 7,800 games with Steam. Install the Heroic Games Launcher or Lutris to get even more.
+
+Give it a try. You’ll Love it!
+
+Most of our users come from Windows and they never look back.
+
+Why choose Linux Mint?
+Easy to use, fast and comfortable.
+
+Give your hardware the operating system it deserves and feel right at home.
+
+OOTB
+
+Everything just works "Out Of The Box", without the need to configure anything or to install extra applications. It's ready to go. Although it's very configurable, everything is set and tuned nicely by default and no unnecessary questions are asked.
+
+KISS
+
+It's very easy to use. It features an intuitive desktop and adopts KISS principles. Anyone can rapidly feel at home and use Linux Mint. User experience, workflow and comfort is key.
+
+Home rule
+
+It's your computer, your rules. This is a key principle at Linux Mint. We don't collect data, we don't work against you. You're the boss. Your operating system is designed to do what you want without getting in your way.
+
+Rock solid
+
+With centralized software updates, system snapshots, a unique Update Manager and the robustness of its Linux architecture, Linux Mint requires very little maintenance. It works, it's safe and it doesn't break.
+
+Free and Open Source
+
+It is completely free of cost and almost all of its components are Open Source. Linux Mint stands on the shoulder of giants, it is based on Debian and Ubuntu.
+
+Community-centric
+
+There is a tight bond and a great relationship between the development team and the community. We communicate with our users and constantly use their feedback to improve Linux Mint.
+
+Have any questions?
+Fun, helpful and passionate.
+
+If you're making your first steps with Linux don't hesitate to join the forums. Linux users are often welcoming, helpful and eager to share their experience.
+
+Is it free?
+
+Yes, Linux Mint is completely free of charge. Almost everything in Linux Mint is also open-source.
+
+Will it work on my computer?
+
+Yes, Linux Mint works on most computers. It can also be run from a live USB stick to make sure everything works fine without having to install anything.
+
+Can I keep Windows?
+
+Yes, you can have both Windows and Linux Mint. A menu asks you which one to use when you start the computer.
+
+Will it suit my needs?
+
+Hopefully. Linux Mint comes with what most people need out of the box as well as easy access to more than 60,000 software packages and 7,800 games.
+
+Read more FAQs
+From the press
+
+There's a good reason for that popularity: Linux Mint just works. It isn't "changing the desktop computer paradigm," or "innovating" in "groundbreaking" ways. The team behind Mint is just building a desktop operating system that looks and functions a lot like every other desktop operating system you've used, which is to say you'll be immediately comfortable and stop thinking about your desktop and start using it to do actual work.
+
+Scott Gilbertson
+ars technica
+
+Exploring the bevy of Linux distributions out there is a fun part of the hobby, but for your first installation, you will likely want something popular and beginner-friendly, so it's easy to get help when you need it. That's why I recommend starting with Linux Mint.
+
+Whitson Gordon
+PCMag
+
+Linux Mint has again shown why it deserves to stay among the best Linux distribution for beginners. If you’re thinking to migrate from Windows to Linux, you should definitely get your hand on Linux Mint.
+
+Sarvottam Kumar
+FossBytes
+
+The years go by, and I keep trying one Linux desktop distro after the other. But for more than a decade now, I come back to Linux Mint. Why? It's simple: Year in and year out, Mint remains the best, easiest-to-use Linux desktop.
+
+Steven J. Vaughan-Nichols
+ZDNet
+
+Mint has become the very best example of what a Linux desktop should be: fast, easy, pleasing to the eye, useful and productive. Others, still, see Mint as the ideal desktop for Windows refugees, or those who are trying out Linux for the first time, and want an operating system that essentially works 'out of the box'.
+
+David Hayward
+Linux Format
+
+Linux Mint's latest release will have an exceptionally wide appeal. Anyone looking for an incredibly stable, robust, fast, clean, and user-friendly desktop operating system could do a whole lot worse. [...] Every Linux desktop distribution should strive to do exactly what Linux Mint 20.1 has accomplished--create a desktop that is the perfect balance of speed, features, and user-friendliness.
+
+Jack Wallen
+TechRepublic
+
+There's a good reason for that popularity: Linux Mint just works. It isn't "changing the desktop computer paradigm," or "innovating" in "groundbreaking" ways. The team behind Mint is just building a desktop operating system that looks and functions a lot like every other desktop operating system you've used, which is to say you'll be immediately comfortable and stop thinking about your desktop and start using it to do actual work.
+
+Scott Gilbertson
+ars technica
+
+Exploring the bevy of Linux distributions out there is a fun part of the hobby, but for your first installation, you will likely want something popular and beginner-friendly, so it's easy to get help when you need it. That's why I recommend starting with Linux Mint.
+
+Whitson Gordon
+PCMag
+
+Linux Mint has again shown why it deserves to stay among the best Linux distribution for beginners. If you’re thinking to migrate from Windows to Linux, you should definitely get your hand on Linux Mint.
+
+Sarvottam Kumar
+FossBytes
+
+The years go by, and I keep trying one Linux desktop distro after the other. But for more than a decade now, I come back to Linux Mint. Why? It's simple: Year in and year out, Mint remains the best, easiest-to-use Linux desktop.
+
+Steven J. Vaughan-Nichols
+ZDNet
+
+Mint has become the very best example of what a Linux desktop should be: fast, easy, pleasing to the eye, useful and productive. Others, still, see Mint as the ideal desktop for Windows refugees, or those who are trying out Linux for the first time, and want an operating system that essentially works 'out of the box'.
+
+David Hayward
+Linux Format
+
+Linux Mint's latest release will have an exceptionally wide appeal. Anyone looking for an incredibly stable, robust, fast, clean, and user-friendly desktop operating system could do a whole lot worse. [...] Every Linux desktop distribution should strive to do exactly what Linux Mint 20.1 has accomplished--create a desktop that is the perfect balance of speed, features, and user-friendliness.
+
+Jack Wallen
+TechRepublic
+From the blog
+Latest news
+
+Click a news title to get to the article.
+
+Blog
+Sat, 20 Dec 2025
+Linux Mint 22.3 “Zena” – BETA Release
+
+This is the BETA release for Linux Mint 22.3 “Zena”. Linux Mint 22.3 is a long term support release which will be supported until 2029. It comes with updated software and brings refinements and many new features to make your desktop even more comfortable to use. New features: This new version of Linux Mint contains […]
+
+Blog
+Tue, 02 Dec 2025
+Monthly News – November 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu The new Cinnamon menu received symbolic category icons. This was made possible thanks to the new XApp Symbolic Icons (XSI) initiative. Linux Mint 22.3 ‘Zena’ The codename for Linux Mint 22.3 is Zena. We covered some of the […]
+
+Blog
+Thu, 06 Nov 2025
+Monthly News – October 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu Work continued on the Cinnamon menu applet. Configuration options were added to be able to move the search bar to the bottom: And to be able to position the system buttons in the sidebar: Troubleshooting Tools Despite our […]
+
+Blog
+Sat, 20 Dec 2025
+Linux Mint 22.3 “Zena” – BETA Release
+
+This is the BETA release for Linux Mint 22.3 “Zena”. Linux Mint 22.3 is a long term support release which will be supported until 2029. It comes with updated software and brings refinements and many new features to make your desktop even more comfortable to use. New features: This new version of Linux Mint contains […]
+
+Blog
+Tue, 02 Dec 2025
+Monthly News – November 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu The new Cinnamon menu received symbolic category icons. This was made possible thanks to the new XApp Symbolic Icons (XSI) initiative. Linux Mint 22.3 ‘Zena’ The codename for Linux Mint 22.3 is Zena. We covered some of the […]
+
+Blog
+Thu, 06 Nov 2025
+Monthly News – October 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu Work continued on the Cinnamon menu applet. Configuration options were added to be able to move the search bar to the bottom: And to be able to position the system buttons in the sidebar: Troubleshooting Tools Despite our […]
+
+Blog
+Sat, 20 Dec 2025
+Linux Mint 22.3 “Zena” – BETA Release
+
+This is the BETA release for Linux Mint 22.3 “Zena”. Linux Mint 22.3 is a long term support release which will be supported until 2029. It comes with updated software and brings refinements and many new features to make your desktop even more comfortable to use. New features: This new version of Linux Mint contains […]
+
+Blog
+Tue, 02 Dec 2025
+Monthly News – November 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu The new Cinnamon menu received symbolic category icons. This was made possible thanks to the new XApp Symbolic Icons (XSI) initiative. Linux Mint 22.3 ‘Zena’ The codename for Linux Mint 22.3 is Zena. We covered some of the […]
+
+Blog
+Thu, 06 Nov 2025
+Monthly News – October 2025
+
+Many thanks to our donors, sponsors and to all the people who support our project. Cinnamon Menu Work continued on the Cinnamon menu applet. Configuration options were added to be able to move the search bar to the bottom: And to be able to position the system buttons in the sidebar: Troubleshooting Tools Despite our […]
+
+A fantastic community!
+
+We receive more than 300 donations a month. Our users love what we do and they mean the World to us. Around the desktop operating system Linux Mint is also a fantastic community.
+
+Brought to you by
+Partners and sponsors
+
+Linux Mint is also supported by an amazing network of partners and sponsors.
+
+View all sponsors
+
+Thanks to your donations and advertising Linux Mint is completely free of charge. We hope you'll enjoy using it as much as we enjoy working on it.
+
+Quick Links
+Download
+Donate
+Get Involved
+Info
+About
+FAQ
+Privacy & Cookies
+Support
+Installation Guide
+User Guide
+Forums
+
+Almost all the packages we distribute are open-source. You can find their source code on https://packages.ubuntu.com, http://packages.linuxmint.com or https://github.com/linuxmint. If you can't find what you're looking for contact us.
+
+Linux Mint is copyrighted since 2006 and trademarked through the Linux Mark Institute. All rights reserved.
+Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries.

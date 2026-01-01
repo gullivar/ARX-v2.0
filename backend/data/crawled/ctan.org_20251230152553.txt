@@ -1,0 +1,116 @@
+CTAN
+Comprehensive TEX Archive Network
+Login Join Settings Help
+Cover 
+Cover
+Starting out with TEX...
+CTAN Background
+Mirrors
+TEX user groups
+Privacy
+Credits
+Upload 
+Upload
+Upload basics
+Upload addendum
+TEX Directory Structure
+Licenses
+Browse 
+TEX Archive
+Packages
+Topics
+Contributors
+Announcements
+Search 
+Extended search
+File search
+ 
+Location: CTAN Comprehensive TEX Archive Network
+The Comprehensive TEX Archive Network
+
+The Comprehensive TEX Archive Network (CTAN) is the central place for all kinds of material around TEX. CTAN has currently 6849 packages. 3109 contributors have contributed to it. Most of the packages are free and can be downloaded and used immediately.
+
+Announcements on CTAN-announce
+
+You can see what's new and even get informed about new or updated packages on CTAN.
+
+2025-12-29 CTAN update: beamertheme-gotham
+2025-12-29 CTAN update: reledmac
+2025-12-29 CTAN update: gckanbun
+2025-12-28 CTAN update: ProfLycee
+
+more
+
+Activity on CTAN
+
+An active TEX community takes care that CTAN is updated and extended regularly. CTAN receives usually more than 100 uploads per month.
+
+Search on CTAN
+
+The contents of CTAN can be searched with full-text search. This search considers the description, the documentation, and the contributors.
+
+If you want to have finer control on the parameters of the search you can use the advanced search form instead.
+
+Browse CTAN
+
+This Web interface to CTAN provides a view on the directories and files in the archive. The files and some directories as a whole can be immediately be downloaded. You can immediately go to the
+
+ archive directory
+ list of packages
+ list of topics
+ list of contributors
+Contribute to CTAN
+
+CTAN lives from the contributions of software and package contributors. Thus you are strongly encouraged to submit your contribution to the TEX world to CTAN. You can use a Web form to upload your contribution:
+
+upload form
+Background of CTAN
+
+If you are interested in the background of the Comprehensive TEX Archive Network you can read more on
+
+What is CTAN?
+CTAN mirrors
+Did you know?
+
+The topic Diagrams in the TEX Catalogue has 80 packages for diagrams.
+
+more
+
+TEX
+
+TEX is a typesetting program designed for high-quality composition of material that contains a lot of mathematical and technical expressions. It has been adopted by many authors and publishers who generate technical books and papers. It was created by Professor Donald E.­Knuth of Stanford University, originally for preparation of his book series “The Art of Computer Programming”. TEX has been made freely available by Knuth.
+
+From these origins a whole eco-system of distributions, macro packages, and supporting programs has arisen.
+
+more
+
+Download a TEX System
+
+CTAN provides complete ready-to run TEX systems for various platforms:
+
+TEX Live a cross-platform TEX system. It includes support for most Unix-like systems, including GNU/Linux, Mac OS X, and Windows.
+MacTEX an easy to install TEX system for Mac OS X, based on TEX Live. It also includes a native Mac installer, the TEXShop front-end, and additional Mac-specific tools.
+
+more
+
+User Groups
+
+Many users of TEX and friends have formed user groups. The following ones are mentioned because they support CTAN.
+
+The TEX Users Group (TUG) is a not-for-profit organization by, for, and of its members, also representing the interests of TEX users worldwide.
+
+The Deutschsprachige Anwendervereinigung TEX e.V. (DANTE) is the TEX users group for German speaking TEX users.
+
+more
+
+Guest Book Sitemap Contact Contact Author Feedback
+ 
+
+
+
+
+
+
+
+
+2025-12-30 07:25 CET

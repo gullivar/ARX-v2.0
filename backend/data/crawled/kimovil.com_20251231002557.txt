@@ -1,0 +1,10 @@
+Kimovil
+en English
+es Español
+ru Русский
+fr Français
+de Deutsch
+it Italiano
+el Ελληνικά
+pt Português
+pl Polski

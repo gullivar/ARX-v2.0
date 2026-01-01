@@ -1,0 +1,564 @@
+What You Get 
+Use Cases 
+Integrations 
+Customers 
+Resources 
+Pricing
+4.4 stars on G2
+Launch in-app nudges with in-house quality and no-code speed
+Chameleon's AI creates experiences that feel native, launch at the right moment, and never overwhelm, so you drive product adoption that delights users.
+ 
+ Start building
+ Offer beta access for upcoming product  Guide users switching from a competitor  Promote premium features to free users  Collect NPS from power users  Drive adoption of this underutilized feature 
+ Refresh
+ 
+Since 2023
+  
+Read Case Study
+Since 2023
+ 
+Since 2024
+  
+Read Case Study
+Since 2022
+  
+Read Case Study
+Since 2022
+ 
+Since 2024
+  
+Read Case Study
+Since 2021
+  
+Read Case Study
+Since 2020
+  
+Read Case Study
+Since 2023
+ 
+Since 2025
+  
+Read Case Study
+Since 2025
+ 
+Since 2025
+4.4 stars from 322 reviews
+    
+Connecting the world's greatest companies to their customers
+   
+Product adoption
+without the tradeoffs
+
+AI power without the chaos. Native experiences without the engineering debt.
+Insights without the guesswork.
+
+AI that already knows your product
+
+Create full campaigns through chat or voice, personalize every experience, and put account cleanup on autopilot.
+
+Deliver nudges just at the right time
+
+Checklists, nudges, and walkthroughs triggered by real user behavior. Perfectly matched to your product. Helpful when needed, invisible when not.
+
+Never guess what's working
+
+AI spots what to improve. Native A/B testing proves what works. 30+ integrations send insights everywhere. Optimize based on data, not hunches.
+
+Ship fast, stay safe
+
+Rate limits, alert systems, and AI governance give you the confidence to move quickly without risking bad UX.
+
+You get so much more than we could ever fit on one page
+
+Chameleon goes deep; this is just a peek at everything you can do.
+
+Alerts
+Receive email or Slack notifications when Experiences are not seen or completed in a set time period.
+Learn More
+Experience Goals
+Measure the effectiveness of Tours by using custom events to see if users later perform key actions.
+Learn More
+A/B Testing
+Experiment with your Tours and Microsurveys. Analyze the results and push the best version.
+Learn More
+Performance Analysis
+Review individual Experiences' performance as a timeline graph, funnel view, or by completion.
+Learn More
+AI Assistant
+Improve or generate content for Experiences. Turn help articles into bullets, or change the tone of copy.
+Learn More
+Content Personalization
+Use user variables to personalize your Experience content, or show on user specific URLs.
+Learn More
+User Tagging
+Tag users through CSV uploads, or automatically tag them upon button click to create audiences.
+Learn More
+Experience Tagging
+Easily organize your team's efforts by adding Tags to any Experience you create.
+Learn More
+Localization
+Show Experiences in your users' language. Upload transcription files directly to Chameleon.
+Learn More
+Accessibility
+Chameleon meets accessibility standards with focus management, tab traps, and image labeling.
+Learn More
+Element selection
+Position or trigger in-app messages based on elements in your app. Supports Shadow DOMs and SPAs.
+Learn More
+Restful and JS API
+Send data in/out of Chameleon. Use it to manage Experiences or create webhooks.
+Learn More
+Google OAuth
+Use your Google for Work account to enable your team to access your Chameleon Dashboard securely.
+Learn More
+Two-Factor Authentication
+Add 2FA to your account to add another layer of protection to your Chameleon account on all plans.
+Learn More
+Grouped Filters
+Combine different filters into multiple groups and define Audience Segments in Chameleon.
+Learn More
+Rate Limiting
+Manage what Experiences users see, then throttle how often and how many are shown.
+Learn More
+Element Rules
+Leverage up to two on-page elements to control where, and if, Experiences should display.
+Learn More
+Recurrence
+Control how often a Tour or a Microsurvey should repeat for a user based on actions and intent.
+Learn More
+Templates
+Build faster with over 50 pre-made Templates. Or create your own to reuse for your org's use cases.
+Learn More
+Custom CSS
+Take styling to the next level with optional custom CSS. Ensure every message you show looks native.
+Learn More
+Inline Positioning
+Show Launchers from embedded elements in your app. Create guidance that sparks engagement.
+Learn More
+Activity Feed
+Review all changes to Experiences. Leave comments so teammates can quickly understand what's different.
+Learn More
+Review Changes
+See a side-by-side comparison of edited Experiences and let admins decide which version will go live.
+Learn More
+On-page Triggers
+Show your Tours after a timed delay, upon click/hover, or add an icon to nudge users to learn more.
+Learn More
+Experience Branching
+Trigger further Experiences for select groups of users. Or re-target users based on their engagement.
+Learn More
+Mobile Filters
+Display Experiences on mobile devices by leveraging a single filter in your Segments.
+Learn More
+Debug Script
+Use our console Debugger tool to get troubleshoot Experiences that are not displaying as expected.
+Learn More
+Analytics Integrations
+Two-way integrations with your favorite tools, including Heap, Mixpanel, Amplitude, and GA4.
+Learn More
+CDP Integrations
+Install in a few clicks and import/send user properties with Segment and Freshpaint.
+Learn More
+Reverse ETL Integrations
+Sync data from your warehouse to Chameleon for deeper targeting with Hightouch or Census.
+Learn More
+Additional Actions
+Launch Chili Piper modals, start Intercom live chats, open Figma files, and more from button clicks.
+Learn More
+Segmentation
+Deliver targeted and personalized Experiences to every user. Create and deliver segmented messages.
+Learn More
+SOC 2, GDPR, and CCPA
+Chameleon is committed to privacy and security and is fully compliant with EU and US regulations.
+Learn More
+Smart Delay
+Trigger Tours and Microsurveys when there's a break in the action and users are most receptive.
+Learn More
+Alerts
+Receive email or Slack notifications when Experiences are not seen or completed in a set time period.
+Learn More
+Experience Goals
+Measure the effectiveness of Tours by using custom events to see if users later perform key actions.
+Learn More
+A/B Testing
+Experiment with your Tours and Microsurveys. Analyze the results and push the best version.
+Learn More
+Performance Analysis
+Review individual Experiences' performance as a timeline graph, funnel view, or by completion.
+Learn More
+AI Assistant
+Improve or generate content for Experiences. Turn help articles into bullets, or change the tone of copy.
+Learn More
+Content Personalization
+Use user variables to personalize your Experience content, or show on user specific URLs.
+Learn More
+User Tagging
+Tag users through CSV uploads, or automatically tag them upon button click to create audiences.
+Learn More
+Experience Tagging
+Easily organize your team's efforts by adding Tags to any Experience you create.
+Learn More
+Localization
+Show Experiences in your users' language. Upload transcription files directly to Chameleon.
+Learn More
+Accessibility
+Chameleon meets accessibility standards with focus management, tab traps, and image labeling.
+Learn More
+Element selection
+Position or trigger in-app messages based on elements in your app. Supports Shadow DOMs and SPAs.
+Learn More
+Restful and JS API
+Send data in/out of Chameleon. Use it to manage Experiences or create webhooks.
+Learn More
+Google OAuth
+Use your Google for Work account to enable your team to access your Chameleon Dashboard securely.
+Learn More
+Two-Factor Authentication
+Add 2FA to your account to add another layer of protection to your Chameleon account on all plans.
+Learn More
+Grouped Filters
+Combine different filters into multiple groups and define Audience Segments in Chameleon.
+Learn More
+Rate Limiting
+Manage what Experiences users see, then throttle how often and how many are shown.
+Learn More
+Element Rules
+Leverage up to two on-page elements to control where, and if, Experiences should display.
+Learn More
+Recurrence
+Control how often a Tour or a Microsurvey should repeat for a user based on actions and intent.
+Learn More
+Templates
+Build faster with over 50 pre-made Templates. Or create your own to reuse for your org's use cases.
+Learn More
+Custom CSS
+Take styling to the next level with optional custom CSS. Ensure every message you show looks native.
+Learn More
+Inline Positioning
+Show Launchers from embedded elements in your app. Create guidance that sparks engagement.
+Learn More
+Activity Feed
+Review all changes to Experiences. Leave comments so teammates can quickly understand what's different.
+Learn More
+Review Changes
+See a side-by-side comparison of edited Experiences and let admins decide which version will go live.
+Learn More
+On-page Triggers
+Show your Tours after a timed delay, upon click/hover, or add an icon to nudge users to learn more.
+Learn More
+Experience Branching
+Trigger further Experiences for select groups of users. Or re-target users based on their engagement.
+Learn More
+Mobile Filters
+Display Experiences on mobile devices by leveraging a single filter in your Segments.
+Learn More
+Debug Script
+Use our console Debugger tool to get troubleshoot Experiences that are not displaying as expected.
+Learn More
+Analytics Integrations
+Two-way integrations with your favorite tools, including Heap, Mixpanel, Amplitude, and GA4.
+Learn More
+CDP Integrations
+Install in a few clicks and import/send user properties with Segment and Freshpaint.
+Learn More
+Reverse ETL Integrations
+Sync data from your warehouse to Chameleon for deeper targeting with Hightouch or Census.
+Learn More
+Additional Actions
+Launch Chili Piper modals, start Intercom live chats, open Figma files, and more from button clicks.
+Learn More
+Segmentation
+Deliver targeted and personalized Experiences to every user. Create and deliver segmented messages.
+Learn More
+SOC 2, GDPR, and CCPA
+Chameleon is committed to privacy and security and is fully compliant with EU and US regulations.
+Learn More
+Smart Delay
+Trigger Tours and Microsurveys when there's a break in the action and users are most receptive.
+Learn More
+Alerts
+Receive email or Slack notifications when Experiences are not seen or completed in a set time period.
+Learn More
+Experience Goals
+Measure the effectiveness of Tours by using custom events to see if users later perform key actions.
+Learn More
+A/B Testing
+Experiment with your Tours and Microsurveys. Analyze the results and push the best version.
+Learn More
+Performance Analysis
+Review individual Experiences' performance as a timeline graph, funnel view, or by completion.
+Learn More
+AI Assistant
+Improve or generate content for Experiences. Turn help articles into bullets, or change the tone of copy.
+Learn More
+Content Personalization
+Use user variables to personalize your Experience content, or show on user specific URLs.
+Learn More
+User Tagging
+Tag users through CSV uploads, or automatically tag them upon button click to create audiences.
+Learn More
+Experience Tagging
+Easily organize your team's efforts by adding Tags to any Experience you create.
+Learn More
+Localization
+Show Experiences in your users' language. Upload transcription files directly to Chameleon.
+Learn More
+Accessibility
+Chameleon meets accessibility standards with focus management, tab traps, and image labeling.
+Learn More
+Element selection
+Position or trigger in-app messages based on elements in your app. Supports Shadow DOMs and SPAs.
+Learn More
+Restful and JS API
+Send data in/out of Chameleon. Use it to manage Experiences or create webhooks.
+Learn More
+Google OAuth
+Use your Google for Work account to enable your team to access your Chameleon Dashboard securely.
+Learn More
+Two-Factor Authentication
+Add 2FA to your account to add another layer of protection to your Chameleon account on all plans.
+Learn More
+Grouped Filters
+Combine different filters into multiple groups and define Audience Segments in Chameleon.
+Learn More
+Rate Limiting
+Manage what Experiences users see, then throttle how often and how many are shown.
+Learn More
+Element Rules
+Leverage up to two on-page elements to control where, and if, Experiences should display.
+Learn More
+Recurrence
+Control how often a Tour or a Microsurvey should repeat for a user based on actions and intent.
+Learn More
+Templates
+Build faster with over 50 pre-made Templates. Or create your own to reuse for your org's use cases.
+Learn More
+Custom CSS
+Take styling to the next level with optional custom CSS. Ensure every message you show looks native.
+Learn More
+Inline Positioning
+Show Launchers from embedded elements in your app. Create guidance that sparks engagement.
+Learn More
+Activity Feed
+Review all changes to Experiences. Leave comments so teammates can quickly understand what's different.
+Learn More
+Review Changes
+See a side-by-side comparison of edited Experiences and let admins decide which version will go live.
+Learn More
+On-page Triggers
+Show your Tours after a timed delay, upon click/hover, or add an icon to nudge users to learn more.
+Learn More
+Experience Branching
+Trigger further Experiences for select groups of users. Or re-target users based on their engagement.
+Learn More
+Mobile Filters
+Display Experiences on mobile devices by leveraging a single filter in your Segments.
+Learn More
+Debug Script
+Use our console Debugger tool to get troubleshoot Experiences that are not displaying as expected.
+Learn More
+Analytics Integrations
+Two-way integrations with your favorite tools, including Heap, Mixpanel, Amplitude, and GA4.
+Learn More
+CDP Integrations
+Install in a few clicks and import/send user properties with Segment and Freshpaint.
+Learn More
+Reverse ETL Integrations
+Sync data from your warehouse to Chameleon for deeper targeting with Hightouch or Census.
+Learn More
+Additional Actions
+Launch Chili Piper modals, start Intercom live chats, open Figma files, and more from button clicks.
+Learn More
+Segmentation
+Deliver targeted and personalized Experiences to every user. Create and deliver segmented messages.
+Learn More
+SOC 2, GDPR, and CCPA
+Chameleon is committed to privacy and security and is fully compliant with EU and US regulations.
+Learn More
+Smart Delay
+Trigger Tours and Microsurveys when there's a break in the action and users are most receptive.
+Learn More
+Alerts
+Receive email or Slack notifications when Experiences are not seen or completed in a set time period.
+Learn More
+Experience Goals
+Measure the effectiveness of Tours by using custom events to see if users later perform key actions.
+Learn More
+A/B Testing
+Experiment with your Tours and Microsurveys. Analyze the results and push the best version.
+Learn More
+Performance Analysis
+Review individual Experiences' performance as a timeline graph, funnel view, or by completion.
+Learn More
+AI Assistant
+Improve or generate content for Experiences. Turn help articles into bullets, or change the tone of copy.
+Learn More
+Content Personalization
+Use user variables to personalize your Experience content, or show on user specific URLs.
+Learn More
+User Tagging
+Tag users through CSV uploads, or automatically tag them upon button click to create audiences.
+Learn More
+Experience Tagging
+Easily organize your team's efforts by adding Tags to any Experience you create.
+Learn More
+Localization
+Show Experiences in your users' language. Upload transcription files directly to Chameleon.
+Learn More
+Accessibility
+Chameleon meets accessibility standards with focus management, tab traps, and image labeling.
+Learn More
+Element selection
+Position or trigger in-app messages based on elements in your app. Supports Shadow DOMs and SPAs.
+Learn More
+Restful and JS API
+Send data in/out of Chameleon. Use it to manage Experiences or create webhooks.
+Learn More
+Google OAuth
+Use your Google for Work account to enable your team to access your Chameleon Dashboard securely.
+Learn More
+Two-Factor Authentication
+Add 2FA to your account to add another layer of protection to your Chameleon account on all plans.
+Learn More
+Grouped Filters
+Combine different filters into multiple groups and define Audience Segments in Chameleon.
+Learn More
+Rate Limiting
+Manage what Experiences users see, then throttle how often and how many are shown.
+Learn More
+Element Rules
+Leverage up to two on-page elements to control where, and if, Experiences should display.
+Learn More
+Recurrence
+Control how often a Tour or a Microsurvey should repeat for a user based on actions and intent.
+Learn More
+Templates
+Build faster with over 50 pre-made Templates. Or create your own to reuse for your org's use cases.
+Learn More
+Custom CSS
+Take styling to the next level with optional custom CSS. Ensure every message you show looks native.
+Learn More
+Inline Positioning
+Show Launchers from embedded elements in your app. Create guidance that sparks engagement.
+Learn More
+Activity Feed
+Review all changes to Experiences. Leave comments so teammates can quickly understand what's different.
+Learn More
+Review Changes
+See a side-by-side comparison of edited Experiences and let admins decide which version will go live.
+Learn More
+On-page Triggers
+Show your Tours after a timed delay, upon click/hover, or add an icon to nudge users to learn more.
+Learn More
+Experience Branching
+Trigger further Experiences for select groups of users. Or re-target users based on their engagement.
+Learn More
+Mobile Filters
+Display Experiences on mobile devices by leveraging a single filter in your Segments.
+Learn More
+Debug Script
+Use our console Debugger tool to get troubleshoot Experiences that are not displaying as expected.
+Learn More
+Analytics Integrations
+Two-way integrations with your favorite tools, including Heap, Mixpanel, Amplitude, and GA4.
+Learn More
+CDP Integrations
+Install in a few clicks and import/send user properties with Segment and Freshpaint.
+Learn More
+Reverse ETL Integrations
+Sync data from your warehouse to Chameleon for deeper targeting with Hightouch or Census.
+Learn More
+Additional Actions
+Launch Chili Piper modals, start Intercom live chats, open Figma files, and more from button clicks.
+Learn More
+Segmentation
+Deliver targeted and personalized Experiences to every user. Create and deliver segmented messages.
+Learn More
+SOC 2, GDPR, and CCPA
+Chameleon is committed to privacy and security and is fully compliant with EU and US regulations.
+Learn More
+Smart Delay
+Trigger Tours and Microsurveys when there's a break in the action and users are most receptive.
+Learn More
+From first click to full adoption, see how our customers win
+Read Case Study
+Read Case Study
+Read Case Study
+Read Case Study
+Read Case Study
+Read Case Study
+"Overall, Chameleon has paid itself multiple times over."
+Josh Suess, Senior Director of Digital Service Strategy
+Read Case Study
+How Chili Piper created a product-led sales motion that generated over $150K+ ARR from upsells in a few weeks
+Read Case Study
+
+Security
+
+Enterprise secure. Startup fast.
+
+Security isn’t an afterthought, it’s built in. We keep your data safe, your systems stable, and your team confident, all while moving faster than the old-school DAPs.
+
+Learn more
+SOC 2 Type II compliant
+GDPR Compliant
+PCI-Compliant With Stripe
+CCPA Compliant
+Frequently Asked Questions
+How does Chameleon compare to traditional DAPs like Appcues or Pendo?
+Can Chameleon integrate with my existing tools?
+What kinds of in-app campaigns can I build with Chameleon?
+You say you're customizable, but how granular can I get?
+What kind of support does Chameleon offer?
+Can you help me move off my previous tool?
+How does Chameleon compare to traditional DAPs like Appcues or Pendo?
+ 
+Can Chameleon integrate with my existing tools?
+ 
+What kinds of in-app campaigns can I build with Chameleon?
+ 
+You say you're customizable, but how granular can I get?
+ 
+What kind of support does Chameleon offer?
+ 
+Can you help me move off my previous tool?
+4.4 stars on G2
+Break up with basic in-apps. Let's talk smart product adoption that works.
+Get Started Free 
+Book a Demo 
+Product
+Chameleon 101 Course
+All Features
+Quickstart Videos
+What's new?
+Status
+Get Help
+Compare
+Why Chameleon?
+DAP Buyer's Guide
+Chameleon Alternatives
+Chameleon vs Appcues
+Chameleon vs Intercom
+Chameleon vs WalkMe
+Resources
+PLG Expertise
+User Onboarding Expertise
+In App Inspiration File
+In-App Messaging 101
+Integration Recipes
+In-app Patterns Glossary
+Company
+About
+Jobs
+Privacy
+Terms
+Security
+Weekly insights to drive self-serve success
+
+Join over 20,500 product-minded people who love our newsletter!
+
+Subscribe
+twitter  facebook  linkedin 
+    
+
+© 2025 Chameleon Intelligent Tech, Inc.

@@ -1,0 +1,31 @@
+Welcome to Vorwerk
+
+Please select your country or region
+
+Please select...
+Austria
+Australia
+Benelux
+Canada
+China (Kobold)
+China (Thermomix)
+Cyprus
+Czech-Republic
+France
+Germany
+Greece
+Ireland
+Italy
+Malaysia
+Mexico
+New Zealand
+Poland
+Portugal
+Singapore
+Spain
+Switzerland
+Taiwan
+Turkey
+United-Kingdom
+USA
+Go

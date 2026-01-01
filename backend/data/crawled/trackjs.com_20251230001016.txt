@@ -1,0 +1,123 @@
+Product
+Resources
+Customers
+Pricing
+Log in
+Sign up
+JavaScript error monitoring
+Catch bugs before users do
+
+TrackJS automatically detects JavaScript errors with a story about how the error happened, allowing you to fix critical bugs before your users even notice them. Stop relying on customer reports and start resolving issues.
+
+Start free trial
+Watch demo
+No credit card required.
+“With TrackJS, we're empowered to proactively resolve UI errors the moment they occur instead of passively waiting for customers to report issues.”
+Cory House
+CEO at Bitnative
+Loved by developers
+Telemetry Timeline
+The full story behind every error
+
+Understand exactly what happened before each error with a chronological timeline of network requests, user interactions, console logs, and navigation events. Quickly reproduce and resolve every issue without the performance overhead and cost of session replay tools.
+
+Discoverable Error Filters
+Instant error filtering and searching to find issues fast
+
+Zero in on what matters with intuitive filtering tools that require no query language to learn. Quickly identify patterns across users, browsers, and pages with automatically highlighted trends and one-click filtering. Make data-driven decisions about which errors deserve immediate attention without wasting time crafting queries.
+
+Unlimited Ignore Rules
+Focus on the errors that really matter to users
+
+Cut through the noise of third-parties and expected errors with powerful server-side ignore rules, unlimited with every plan. Create custom rules based on any error criteria to automatically filter out known issues, third-party glitches, or low-priority warnings. Keep your dashboard focused exclusively on actionable errors that impact your users.
+
+AI Code Debugger
+Turn cryptic errors into actionable fixes
+
+Stop wasting hours decoding stack traces. Our AI Debugger analyzes the error telemetry, browser data, and source code to explain exactly what went wrong and how to fix it. Get senior-level debugging insights for every error, including framework-specific quirks and browser edge cases.
+
+Learn more
+
+Installation
+Simple integration with your tools
+
+Add TrackJS to your application in minutes, not days. Our lightweight JavaScript error monitoring works seamlessly with all modern frameworks and build tools, requiring minimal configuration to start capturing meaningful error data. Just choose your platform below to get started.
+
+HTML
+React
+Angular
+NodeJS
+NextJS
+More
+index.html
+<script
+  src="https://cdn.trackjs.com/agent/v3/latest/t.js">
+</script>
+
+<script>
+  TrackJS.install({ token: "your-account-token" });
+</script>
+
+Start your free trial
+
+TrackJS pricing aligns with your success–not your problems. Save thousands of developer hours debugging and grow your business. We've got your back.
+
+Starter
+Great for small businesses and sites that need essential error tracking. Annualized price shown.
+$
+45
+/month
+Start free trial
+View all plans
+100K monthly page views
+800K+ monthly errors
+Unlimited users
+10 Days data retention
+Frequently asked questions
+Why are prices based on traffic instead of errors?
+Are there limits on how many errors I can send?
+Does TrackJS impact my website performance?
+Does TrackJS capture or store sensitive user data?
+Does TrackJS work with minified JavaScript code?
+Ready to start tracking errors?
+
+Join thousands of developers already using TrackJS to improve their website quality.
+
+
+
+Start my free trial
+PRODUCT
+Pricing
+Demo
+How it works
+WORKS WITH
+Web
+Node.js
+OUR OTHER TOOLS
+Request Metrics
+RemoteJS
+CertKit
+RESOURCES
+Docs
+Blog
+JavaScript Answers
+JavaScript Error Statistics
+Free Debugging Masterclass
+COMPARE
+TrackJS vs Sentry
+TrackJS vs Rollbar
+More Comparisons
+COMPANY
+About Us
+Customers
+Contact Us
+System Status
+COMPLIANCE
+Terms of Service
+Privacy Policy
+Security Policy
+Data Processing Agreement
+
+All content appearing on this website is proprietary, copyrighted, and owned or licensed by TrackJS LLC. Any unauthorized use of trademarks or content from this website is strictly prohibited. All rights reserved.
+
+© 2013-2025 TrackJS LLC.

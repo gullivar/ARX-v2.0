@@ -1,0 +1,180 @@
+Skip to main content
+Hardware
+SDKs
+Cloud
+Solutions
+Support
+Ecosystem
+Company
+Contact
+Search 
+English
+ Subscribe
+
+
+ESP-WROVER-KIT
+
+ESP-WROVER-KIT is a highly integrated ultra-low-
+power development board which includes Flash and
+PSRAM. It achieves great performance with a 4.5 MB RAM
+and a dual-core 240 MHz CPU. Create Internet cameras,
+smart displays or Internet radios by connecting
+LCDs, microphones and codecs to it. Have fun with it!
+
+
+
+ESP-WROVER-KIT
+
+ESP-WROVER-KIT is a highly integrated ultra-low-
+power development board which includes Flash and
+PSRAM. It achieves great performance with a 4.5 MB RAM
+and a dual-core 240 MHz CPU. Create Internet cameras,
+smart displays or Internet radios by connecting
+LCDs, microphones and codecs to it. Have fun with it!
+
+
+
+ESP-WROVER-KIT
+
+ESP-WROVER-KIT is a highly integrated ultra-low-
+power development board which includes Flash and
+PSRAM. It achieves great performance with a 4.5 MB RAM
+and a dual-core 240 MHz CPU. Create Internet cameras,
+smart displays or Internet radios by connecting
+LCDs, microphones and codecs to it. Have fun with it!
+
+Previous
+Next
+Overview	Resources
+Amazon Qualified Device
+
+ESP-WROVER-KIT is an AWS-qualified development board. In addition to Espressif’s own ESP-IDF SDK, you can use FreeRTOS on ESP-WROVER-KIT-VB. FreeRTOS provides out-of-the-box connectivity with AWS IoT, AWS Greengrass, and other AWS services.
+
+	
+	
+Built-in USB-JTAG Debugger
+
+Bogged down with bugs? We have come up with a solution! ESP32 supports JTAG debugging, while ESP-WROVER-KIT integrates a USB debugger, as well. This makes debugging and tracing complex applications very easy, without the need for any additional hardware.
+
+Advanced Hardware
+
+ESP32 is engineered to be fast, smart and versatile. ESP-WROVER-KIT is an upgraded version of the ESP-WROVER-KIT. Its PSRAM is increased to 8 MBytes, while this dev board also features an on-board high-speed Micro-SD card interface, a VGA camera interface, a 3.2” SPI LCD panel and I/O expansion capabilities.
+
+	
+Press Release
+2025.12.15
+Espressif Launches Private AI Agents Platform — A...
+This Private AI Agents Platform delivers exactly that — a turnkey, scalable and...
+Press Release
+Read more
+Press Release
+2025.07.04
+Espressif Enters the High-Performance Wi-Fi 6E...
+Espressif has achieved a new breakthrough in high-performance wireless...
+Press Release
+Read more
+Press Release
+2025.06.16
+Espressif's ESP32-C61 Now in Mass Production!
+A high-performance, cost-effective Wi-Fi 6 + Bluetooth 5 (LE) RISC-V SoC with...
+Press Release
+Read more
+Press Release
+2025.04.30
+Espressif's ESP32-C5 is Now in Mass...
+Today, we are glad to announce that ESP32-C5 is now in mass production.
+Press Release
+Read more
+Press Release
+2025.03.10
+Espressif’s Response to Claimed Backdoor and...
+Recently, some media have reported on a press release initially calling out...
+Press Release
+Read more
+Press Release
+2025.03.10
+ESP32-H2 Upgrade: Enhanced Security and...
+Espressif has released ESP32-H2 v1.2, bringing significant cryptographic and...
+Press Release
+Read more
+Press Release
+2025.03.06
+Espressif’s ESP32-C6: the World's First RISC...
+This milestone makes the ESP32-C6 the  first RISC-V-based product  to attain...
+Press Release
+Read more
+Press Release
+2025.03.03
+ESP32-C2 (ESP8684) Upgrade: More Memory, Storage...
+To fully leverage the improved capabilities of the ESP32-C2, we recommend that...
+Press Release
+Read more
+Press Release
+2025.01.24
+Espressif’s ESP32-C6 Achieves Thread 1.4...
+The ESP32-C6 has achieved Thread 1.4 Interoperability Certification, offering...
+Press Release
+Read more
+Press Release
+2024.10.21
+ESP ZeroCode Reference Product Achieves CSA’s...
+Espressif’s commitment to security through CSA Product Security certification...
+Press Release
+Read more
+Press Release
+2024.09.13
+Espressif Launches ESP RainMaker® in China: A...
+Espressif launches ESP RainMaker® in China, enabling customizable, secure IoT...
+Press Release
+Read more
+Collaboration
+2024.06.13
+Apple Showcases Embedded Swift on ESP32-C6 to...
+Apple used Espressif’s ESP32-C6, a RISC-V architecture Wi-Fi 6 SoC, to...
+Collaboration
+Read more
+Next
+View All
+If you have any commercial or technical questions, please, contact our business and technical support teams, who will help you as soon as possible.
+Contact us ›
+Stay Informed with Us
+
+Get the latest on innovations, product launches, upcoming events, documentation updates, PCN notifications, advisories, and more.
+
+Subscribe
+PRODUCTS
+SoCs
+Modules
+DevKits
+Product Selector
+DEVELOPERS
+Developer Portal
+ESP DevCon
+Tech Blogs
+News
+COMPANY
+About Espressif
+Logo Guidelines
+Sales Questions
+Careers
+RESOURCES
+Tech Documents
+GitHub
+ESP-FAQ
+Get Samples
+linkdin
+youtube
+twitter
+facebook
+ins
+github
+M5Stack
+
+Copyright © 2025 Espressif Systems. All rights reserved.
+
+沪公网安备 31011502019094 号
+
+沪ICP备2021026420号
+Terms of Service
+Privacy Policy
+690 Bibo Road Block 2 Suite 204, Zhangjiang Shanghai, China

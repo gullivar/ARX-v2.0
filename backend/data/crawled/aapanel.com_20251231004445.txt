@@ -1,0 +1,140 @@
+We value your privacy
+
+aaPanel Team may store and process the data I provide for the purpose of delivering personalized marketing content such as newsletters and individual offers according to the. Tailored offerings may be based on additional information like usage and behavior data (Profiling). 
+
+Allow selection
+Accept All
+Windows
+Features
+WP Toolkit
+Simple and easy setup, backup and cloning of WordPress
+Mail Marketing
+Grow Your Business with Powerful Email Marketing
+Mail Server
+Easily manage your personal or company mail server
+Nginx WAF
+Protect your website application security with aaPanel Nginx WAF
+Scheduled Tasks
+Keep your server data secure with aaPanel Scheduled Tasks
+File Protection
+Protect your files and folders from malicious modification
+aaTerm
+Terminals, RDP and aaPanel - All in One Hub
+WHMCS Automation
+New
+Automate the sub-user lifecycle from order to provisioning in WHMCS
+aaPanel Sub accounts (Multiple Users)
+Easily create aaPanel Sub-users & hosting packages
+aaPanel mobile
+New
+The aaPanel mobile for seamless server management on the go
+Multi-WebServer Hosting
+New
+Switching to Multi-WebServer Hosting lets you specify WebEngine for each site
+Deployment website with Git
+New
+Simple and easy Git-based website deployment
+Pricing
+SSL
+aaPanel Pro
+Blog
+Forum
+Login
+Sign-up
+Install for free
+Best Website Control Panel - aaPanel Open Source Solution
+
+aaPanel has released 200+ versions since 2017 and has been installed on more than 3,000,000+ servers.
+
+The free version supports managing WP Toolkit, Websites, Mail Servers, FTP, Mysql, File Management, Online code editors.
+
+You can also upgrade to Pro that supports Accounts(Shared hosting, Multiple Users), WAF, Analysis, File Protection, Send Emails in Bulk
+
+Install aaPanel Free Edition
+
+Free for Life
+
+aaPanel Pro
+
+Start aaPanel-Pro Free 14-day trial
+
+BillionMail, An Open-Source Email Marketing Solution for Smarter Campaigns 
+Multi-WebServer Hosting
+Choose the optimal web server (Nginx, Apache, or OpenLiteSpeed) per site, with new WordPress installations defaulting to Nginx + OpenLiteSpeed for enhanced performance >>View
+Simple and easy setup, backup and cloning of WordPress
+
+With aaPanel's WP Toolkit, you can manage themes, plugins, back up, migrate, restore, and set up security for your WordPress website with one click.
+
+>>View
+Create and manage web projects
+Deploy your website in minutes, bind domain names, deploy SSL with one click, change website configurations, and more. >>View
+Preview of server resources usage
+Monitor your server resource occupancy in real time, allowing you to better understand its load capacity. >>View
+Familiar file management system
+A convenient and efficient file manager that supports uploading, downloading, packaging, decompression and other operations, and can write code online. >>View
+One-click software installation
+Through the web interface, you can easily manage the server software used for installation, as well as rich extension applications. >>View
+Seamless WHMCS Automation
+Seamlessly automate the entire sub-user lifecycle—from order and payment to provisioning—directly within your WHMCS system >>View
+Demo  Download Free
+Server management tools that everyone can use
+Simple and smart visualization
+
+Simple and friendly interactive experience, the panel can be installed in 2 minutes
+
+One-click installation of LEMP/LAMP website environment
+
+Become a master of server management easily
+
+aaPanel is a Free and Open source Hosting control panel, encapsulates common Linux commands into functional modules, It can be completed in a few clicks on the panel
+
+Visible safety
+
+One-click inspection of 16 common server security risks, firewall, whether the default port is modified, etc. and provide solutions, integrate free Fail2ban and Nginx WAF
+
+Safe and efficient server panel
+
+Support more than 100 server management functions such as one-click LAMP/LEMP/monitoring/website/FTP/database
+
+Demo  Download aaPanel Free Version
+3.6 million
+Installs
+
+A large number of users choose trustworthy
+
+80+
+Iterations
+
+Long-term update and maintenance more reliable
+
+Company
+
+Blog
+
+Forum
+
+Micro-KOL
+
+Hosting Partner
+
+About
+
+Product
+
+aaWAF
+
+SSL
+
+aaPanel Pro
+
+Support
+
+Documentation
+
+Contact Us: support@aapanel.com
+
+Follow us:
+
+aaPanel is a Free and Easy-to-use Hosting Control Panel
+
+Copyright © 2014-2025 by aaPanel, Our server is managed by aaPanel

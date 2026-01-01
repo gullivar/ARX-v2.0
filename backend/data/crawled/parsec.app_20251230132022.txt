@@ -1,0 +1,148 @@
+Skip to main content
+Product
+Pricing
+Solutions
+Resources
+Download
+Login
+Let's Talk
+Try Parsec Now
+Connect to your
+game
+from anywhere
+
+Remote desktop reimagined – a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go.
+
+Find the right Parsec for you
+
+This section compares Parsec with other streaming apps in terms of image quality, smooth motion, and frame stability. The comparison is shown through overlaid videos or images.
+
+This video demonstrates the experience when using other streaming apps compared to Parsec. It begins with a few seconds of scrolling down a dark-themed code editor. The quality of the video is poor and pixelated, with washed-out colors. Then, a zoom effect begins from the top left corner of the screen, magnifying part of the code. The details of the code remain unclear, making the text hard to read due to the low image quality.
+This video demonstrates the experience when using Parsec compared to other streaming apps. It starts with a few seconds of scrolling down a dark-themed code editor, showcasing sharp visuals and vibrant colors. The video quality is crisp, with well-defined text and accurate colors. Then, a zoom effect begins from the top left corner of the screen, magnifying part of the code. The text remains clear and readable, with no blurring or pixelation due to the high image quality.
+Slide for Comparison
+OTHERS
+Crisp image quality
+
+Resolutions up to 4K and 4:4:4 color to ensure near-flawless visual fidelity.
+
+High-speed streaming
+
+Get frame rates up to 240 FPS (up to 60 FPS at 4K), for a silky smooth experience.
+
+Fewer dropped frames
+
+Proprietary technology and direct peer-to-peer connections mean virtually no latency.
+
+Seamless access to the
+ways you work and play
+Personalized Experience
+
+With a single click, you’ll forget you’re somewhere else. Your controllers, Wacom tablet, software, and monitors can now go anywhere you want.
+
+Instant collaboration
+
+Share a session to capture that over-the-shoulder or on-the-couch feel. Play co-op, review a level in real-time, or write the band’s next single.
+
+Stress-free install
+
+Parsec installs in seconds, and teams can get up and running in less than a day. There’s no software to learn, no training required. Just keep doing what you’ve been doing.
+
+Comprehensive security
+
+Parsec is SOC 2 Type 2 certified to keep data safe when you're on the go.
+
+Peer-to-peer connections
+
+All connections traveling through Parsec are peer-to-peer. They never pass through Parsec's infrastructure – we couldn’t see what you're doing even if we wanted to. (We don’t.)
+
+Extra layers of security
+
+The host can control exactly which apps connected guests are approved to see and interact with, and multi-factor authentication (MFA) keeps your password and login locked down.
+
+Teams and Enterprise upgrades
+
+Organizations can provision access to guests and team members via the admin panel or by SSO, and a high-performance relay server adds even more control.
+
+Trusted by the world's most creative companies
+
+“Parsec is literally the only remote solution we tried that enabled gameplay at the level of a gamer's high-fidelity, low-latency expectations. Other solutions don't even compare to Parsec.”
+
+Brian Walker
+Xbox Research, Principal Research Operations Lead
+
+Read customer story
+
+“Parsec is super fast and responsive, with zero lag and beautiful colors, so it felt like we were there, which is important to artists. The low latency is insane. With other products, we experienced lots of lag time that made it so hard to work, we'd want to give up.”
+
+John Bashyam
+Warm & Fuzzy, Co-Founder
+
+Read customer story
+
+“Parsec is so easy to get started with — the editors have all sung the praises of Parsec's easy access and log in process. Editors can just access their machines and start work, and they can handle their own password management, so I don't have to.”
+
+Michael Dias
+72 Films, Head of Post-Production
+
+Read customer story
+Find the right Parsec for you
+Parsec
+Parsec Warp
+Parsec for Teams
+
+Built to support hybrid work and distributed teams. Keeps data on-prem and empowers admins with simple yet powerful security and access controls.
+
+Start trial
+
+14-day free trial.
+Cancel at any time.
+
+Parsec for Enterprise
+Experience Parsec for yourself.
+
+Try it for free, upgrade at any time
+
+Sign up now
+
+© 2025 Unity Technologies SF
+All rights reserved.
+
+Product
+
+Work
+Gaming
+Pros
+Enterprise
+Changelog
+Download
+
+Developers
+
+Teams API Documentation
+
+Resources
+
+Support
+Blog
+Security
+Remote Desktop
+Hybrid Work
+
+Company
+
+About
+Careers
+Terms of Service
+Legal
+Privacy Policy
+Cookies
+Do Not Sell or Share
+My Personal Information
+Your Privacy
+
+
+Choices (Cookie Settings)
+Acknowledgements
+
+By clicking “Accept Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookie Settings Reject All Accept All Cookies

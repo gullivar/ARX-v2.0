@@ -1,0 +1,304 @@
+Subscription
+0
+Explore Products
+Best Sellers
+New Releases
+Books
+Videos
+Audiobooks
+Learning Hub
+Newsletter Hub
+Free Learning
+$9.99
+Unlock Expert Knowledge
+For a limited time all titles $9.99, or $7.99 each when you buy 2+
+SHOP NOW
+LIMITED TIME: $9.99 Sale
+Save Big with Bundles
+Subscription Sale
+LLM Engineer's Handbook
+Best Sellers
+Explore the best sellers from Packt
+Books
+Videos
+Audiobooks
+1 of 5
+LLM Engineer's Handbook
+Oct 2024
+522 pages
+4.9 (27)
+eBook
+$9.99
+$47.99
+ADD TO CART
+Raspberry Pi and MQTT Essentials
+Sep 2022
+272 pages
+5 (1)
+eBook
+$9.99
+$29.99
+ADD TO CART
+Full-Stack Flask and React
+Oct 2023
+408 pages
+3.8 (5)
+eBook
+$9.99
+$31.99
+ADD TO CART
+Getting Started with Tableau 2018.x
+Sep 2018
+396 pages
+4 (3)
+eBook
+$9.99
+$43.99
+ADD TO CART
+CompTIA® Security+® SY0-701 Certification Guide
+Jan 2024
+634 pages
+4.9 (231)
+Paperback
+$44.99
+ADD TO CART
+Latest Titles
+Explore the latest titles from Packt
+Books
+Videos
+Audiobooks
+1 of 5
+The Rust Programming Handbook
+Dec 2025
+768 pages
+1 (2)
+eBook
+$9.99
+$43.99
+ADD TO CART
+SOC Analyst Career Guide
+Dec 2025
+600 pages
+eBook
+$9.99
+$35.99
+ADD TO CART
+The Kaggle Book
+Dec 2025
+708 pages
+eBook
+$9.99
+$47.99
+ADD TO CART
+Software Architecture with C++
+Dec 2025
+738 pages
+eBook
+$9.99
+$35.99
+ADD TO CART
+Hands-On Software Engineering with Python
+Dec 2025
+628 pages
+eBook
+$9.99
+$39.99
+ADD TO CART
+Expert Reading List
+A collection of reading lists made by our expert authors to help get you your next job.
+1 of 10
+Building a Strong Foundation in Python
+Explore this list for refining your Python skills and tackling business challenges. Discover techniques for writing clean code and building modern, high-performance, and scalable applications.
+Getting Started with Game Development
+Start your journey in game development by building games using beginner-friendly tools. Learn programming language, explore design basics, and create your first game projects from scratch.
+React Web Development
+This curated reading list is designed to elevate your web development career. It guides you in crafting contemporary web applications with React and its comprehensive toolkit. Through hands-on learning, you'll unlock React's potential, paving your path toward becoming a proficient React developer. Beyond fundamental concepts, you'll also acquire mastery in React through the exploration of diverse design patterns and industry best practices.
+Getting Started with ChatGPT
+Stay ahead of the game and start unlocking the full potential of OpenAI and ChatGPT today.
+Embedded Linux and Driver Development
+Deep dive into Linux for embedded systems—from user-space tools to kernel-space driver development. Ideal for developers aiming to build performance-critical, low-level applications.
+Mastering Cybersecurity
+This comprehensive reading list is curated for those looking to get started with Cybersecurity. It offers unique insights on the evolution of the threat landscape, providing expert tips and techniques to help you develop defense strategies against the latest threats and address modern cybersecurity challenges in your organisation.
+Artificial Intelligence Programming with Python
+Swiftly grasp the art of building smart AI applications using Python. Learn AI basics and dive deeper into this captivating field. Develop your own smart apps with a focus on real-world cases and applying modern AI algorithms to diverse challenges.
+Getting Started with Web Development
+Designed for beginners in HTML, CSS, and JavaScript (JS), as well as those seeking skill enhancement in web development. Ranging from HTML5 to React, these resources will empower you to develop a strong foundation in writing fundamental JavaScript code. With this knowledge, you'll be prepared to progress to more advanced frameworks and embark on a journey towards becoming a professional web developer.
+Visual Effects and Shader Programming
+Add stunning visuals with post-processing, shaders, and VFX. Create atmospheric worlds, glowing powers, and photoreal effects using Unity, Unreal, and Blender.
+Edge and Cloud IoT Systems
+Learn how to deploy intelligent workloads at the edge, connect with cloud platforms like AWS and Azure, and build production-grade IoT infrastructure.
+Explore our Catalogue
+Data
+1,984 Products
+Programming
+1,602 Products
+Cloud & Networking
+1,481 Products
+Web Development
+1,370 Products
+Business & Other
+692 Products
+Security
+493 Products
+Game Development
+396 Products
+Mobile
+328 Products
+IoT & Hardware
+255 Products
+Trending Titles
+Explore the trending titles from Packt
+Books
+Audiobooks
+1 of 5
+Modern Full-Stack React Projects
+Jun 2024
+506 pages
+4.8 (9)
+eBook
+$9.99
+$35.99
+ADD TO CART
+Realizing 3D Animation in Blender
+Jul 2024
+456 pages
+5 (8)
+eBook
+$9.99
+$39.99
+ADD TO CART
+Mastering PowerShell Scripting
+May 2024
+826 pages
+5 (26)
+eBook
+$9.99
+$39.99
+ADD TO CART
+Modern Computer Vision with PyTorch
+Jun 2024
+746 pages
+4 (20)
+eBook
+$9.99
+$48.99
+ADD TO CART
+Mastering Customer Success
+May 2024
+170 pages
+5 (13)
+eBook
+$9.99
+$27.99
+ADD TO CART
+What’s new in Packt?
+Packt Learning Hub
+The Packt Learning Hub is a specialized platform dedicated to exploring the capabilities and applications of Generative Pre-trained Transformer (GPT) models. It features articles, tutorials, and insights from experts in the field, focusing on how GPT models are revolutionizing various sectors, including software development, content creation, and data analysis. This hub is ideal for both enthusiasts and professionals seeking to delve into the world of AI and machine learning, offering a rich source of knowledge on implementing and leveraging GPT technologies effectively.
+EXPLORE PACKT LEARNING HUB
+AI Assistant
+The AI Assistant feature is your on-demand tutor embedded within our digital books, offering instant clarifications, summarizations of key concepts, and step-by-step technical support. It's designed to enhance your understanding and mastery of complex topics efficiently. Dive into our collection of AI-Assisted books and elevate your learning experience today.
+EXPLORE AI ASSISTANT
+OUR PARTNERS
+Popular Authors (10)
+1 of 10
+Mark J. Price
+Mark J. Price is a Microsoft Specialist: Programming in C# and Architecting Microsoft Azure Solutions, with over 20 years of experience. Since 1993, he has passed more than 80 Microsoft programming exams and specializes in preparing others to pass them. Between 2001 and 2003, Mark was employed to write official courseware for Microsoft in Redmond, USA. His team wrote the first training courses for C# while it was still an early alpha version. While with Microsoft, he taught “train-the-trainer” classes to get Microsoft Certified Trainers up-to-speed on C# and .NET. Mark has spent most of his career training a wide variety of students, from 16-year-old apprentices to 70-year-old retirees, with the majority being professional developers. Mark holds a BSc in Computer Science.
+Most popular book of Mark J. Price
+C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals
+See 13 other products by Mark J. Price
+Ben Auffarth
+Ben Auffarth is a full-stack data scientist with more than 15 years of work experience. With a background and Ph.D. in computational and cognitive neuroscience, he has designed and conducted wet lab experiments on cell cultures, analyzed experiments with terabytes of data, run brain models on IBM supercomputers with up to 64k cores, built production systems processing hundreds and thousands of transactions per day, and trained language models on a large corpus of text documents. He co-founded and is the former president of Data Science Speakers, London.
+Most popular book of Ben Auffarth
+Generative AI with LangChain
+See 4 other products by Ben Auffarth
+Imran Ahmad
+Imran Ahmad is the author of the 50 Algorithms every programmer should know. He has been a part of cutting edge research about algorithms and machine learning for many years. He completed his PhD in 2010, in which he proposed a new linear programming based algorithm that can be used to optimally assign resources in a large scale cloud computing environment. In 2017, Imran developed a real time analytics framework named StreamSensing. He has since authored multiple research papers that use StreamSensing to process multimedia data for various machine learning algorithms. Imran is currently working at Advanced Analytics Solution Center A2SC at the Canadian Federal Government as a data scientist. He is using machine learning algorithms for critical use cases. Imran is a visiting professor at Carleton University, Ottawa. He has also been teaching for Google and Learning Tree for the last few years.
+Most popular book of Imran Ahmad
+Architecting AI Software Systems
+See 3 other products by Imran Ahmad
+Maaike van Putten
+Maaike is a software consultant and trainer with a passion for sharing her expertise to empower others in their careers. Her love for software development shows in the numerous software development projects she participated in and the many certifications she obtained. She has designed and delivered a broad spectrum of training courses catering to beginners and seasoned developers in Java, Python, C# and many other languages and frameworks. Next to that, she has authored multiple books and online courses through multiple platforms reaching over 500,000 learners across the globe.
+Most popular book of Maaike van Putten
+JavaScript from Beginner to Professional
+See 3 other products by Maaike van Putten
+Sam Morley
+Sam Morley is a research software engineer and mathematician at the University of Oxford, working on the DataSig programme. He’s the lead maintainer of the RoughPy library, a performant C++ and Python library for computation rough paths and data science. Sam is a former mathematics lecturer and brings both academic precision and real-world engineering experience to every challenge—especially those involving abstraction, data, and algorithms. He’s also the author of Applying Math with Python. Sam greatly enjoys solving puzzles, which is why he finds mathematics and programming so interesting
+Most popular book of Sam Morley
+The C++ Programmer's Mindset
+See 3 other products by Sam Morley
+Sebastian Raschka
+Sebastian Raschka is an Assistant Professor of Statistics at the University of Wisconsin-Madison focusing on machine learning and deep learning research. As Lead AI Educator at Grid AI, Sebastian plans to continue following his passion for helping people get into machine learning and artificial intelligence.
+Most popular book of Sebastian Raschka
+Machine Learning with PyTorch and Scikit-Learn
+See 2 other products by Sebastian Raschka
+Luciano Mammino
+Luciano Mammino began his coding journey at the age of 12 on his father’s old i386, and he hasn’t stopped since. With over 15 years of experience in the software industry, he now serves as a senior architect at fourTheorem , where he empowers global clients to fully leverage AWS and serverless technologies. As an AWS Serverless Hero and Microsoft MVP, Luciano is recognized for his expertise and contributions to the tech community. An active international speaker, he has delivered over 160 talks at conferences and meetups worldwide, sharing his knowledge and passion for cutting-edge technology.
+Most popular book of Luciano Mammino
+Node.js Design Patterns
+See 3 other products by Luciano Mammino
+Frank Vasquez
+Frank Vasquez is an independent software consultant specializing in consumer electronics. He has more than a decade of experience designing and building embedded Linux systems. During that time, he has shipped numerous products including a rackmount DSP audio server, a diver-held sonar camcorder, an IoT hotspot, a home battery, and a grid-scale energy storage system. Since the third edition of this book was published, Frank has also become a frequent speaker at open source software conferences including the Yocto Project Summit, Embedded Linux Conference, FOSDEM, and All Systems Go! He is passionate about learning new technologies and teaching them to others.
+Most popular book of Frank Vasquez
+Mastering Embedded Linux Development
+See 2 other products by Frank Vasquez
+Sudeep Ghatak
+Sudeep Ghatak is a Microsoft MVP in Business Applications and a frequent contributor to the Power Automate Community forum. He works as a Principal Architect in Christchurch, New Zealand and loves designing solutions based on Office 365 and the Azure platform. He is a certified Solutions Developer (MCSD) and holds a postgraduate degree in instrumentation engineering. He is an active member of the Microsoft community and often seen speaking at user groups and conferences in New Zealand.
+Most popular book of Sudeep Ghatak
+Microsoft 365 and SharePoint Online Cookbook
+See 2 other products by Sudeep Ghatak
+Jonathan Cacace
+Jonathan Cacace was born in Naples, Italy, on 13 December 1987. He earned a Bachelor’s and Masters of Science in Computer Science from the University of Naples Federico II. He then joined the university’s PhD program, earning the title of Philosophiae Doctor in Automation and Computer Engineering in 2016. During his research career, he had the opportunity to participate in and lead various applied research projects focused on robotics, funded by the European Union. This allowed him to explore several areas of robotics, ranging from robot manipulation to navigation.nAfter completing his PhD, he continued his scientific research and work in applied robotics, contributing to more than 50 scientific publications in leading robotics conferences and scientific journals. He also worked as a private consultant for several startups across Europe. From 2019 to 2023. He worked as an assistant professor at the University of Naples, where he taught two courses: Laboratory of Robotics and Mobile Robotics. During this time, he mentored many undergraduate students in the field of Robotics and Computer Engineering. He was also invited to speak at an international robotics workshop held at one of Europe’s most prestigious research centers and universities.nCurrently, Jonathan works as a senior researcher in the field of Cognitive Robotics and Human-Robot Interaction at Eurecat - Centre Tecnològic de Catalunya in Barcelona.
+Most popular book of Jonathan Cacace
+Mastering ROS 2 for Robotics Programming
+See 3 other products by Jonathan Cacace
+Become an Author
+Embarking on a journey with Packt to become an author unlocks a world of opportunity, blending professional growth with financial rewards. With Packt, you can leverage our extensive network to amplify your voice in the tech community, backed by competitive advances and royalties. The dedicated editorial team stands by to polish your work, ensuring it resonates with millions globally. This partnership not only elevates your profile but also enriches your expertise, making your authorial debut as impactful as it is fulfilling.
+BECOME AN AUTHOR NOW
+About  
+We help Tech Pros put software to work by distilling and sharing the working knowledge of their peers. Packt is an established global technical learning content provider founded in Birmingham, UK with over twenty years of experience delivering premium rich content from ground-breaking authors on a wide range of emerging and popular technologies. Our titles have global relevance, our multimedia portfolio includes over 7,000 books, e-books, audiobooks, and video courses. These resources are designed to provide IT professionals with actionable knowledge, helping them to achieve their goals, whether it involves gaining expertise in emerging technologies or enhancing skills in more established tools. Additionally, Packt has contributed over $1,000,000 through its Open Source Project Royalty scheme, supporting the growth of numerous projects.
+© 2023 Packt Publishing Limited All Rights Reserved
+Company Address: Packt Publishing Ltd, Grosvenor House, 11 St Paul's Square, Birmingham, B3 1RB
+Machine Learning
+Kubernetes
+React
+Python
+Cybersecurity
+Unity Game Development
+Power BI
+Azure
+Web Development
+Legal
+Terms and Conditions
+Privacy Policy
+Cookie Policy
+Shipping Policy
+Cancellation Policy
+Return Policy
+Support
+Help
+Contact Us
+Business
+Partnerships
+Sponsored eBooks
+Custom eBooks
+Careers
+Packt China
+Become an author
+Packt+ Membership
+Subscription
+DataPro
+SecPro
+South Korea
+Company Address: Packt Publishing Ltd, Grosvenor House, 11 St Paul's Square, Birmingham, B3 1RB
+© 2025 Packt Publishing Limited All Rights Reserved
+
+Signed in users are eligible for personalised offers and content recommendations.
+
+Sign in with
+Packt
+ 
+Sign in with
+Google
+ 
+Sign in with
+Github

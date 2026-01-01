@@ -1,0 +1,31 @@
+internet-measurement.com
+
+This domain is operated by driftnet.io. It is used to discover and measure services that network owners and operators have publicly exposed.
+
+Traffic from this domain is not an attack. Traffic from this domain will never attempt to log in to your systems.
+
+Spam is not sent from this domain. SPF, DKIM and DMARC records mark internet-measurement.com as completely unable to send email.
+
+Problem Reports
+
+If particular probes technically or operationally problematic for you, let us know: problems@driftnet.io.
+
+We read, investigate and take action on reports. If we are causing unusual noise in your logs, please tell us and we'll try to do better.
+
+Some security products incorrectly mark our traffic as malicious. Please contact your vendor for a fix.
+
+We don't perform any form of site crawling. Authentic traffic will come only from our IP ranges.
+
+Viewing your Network
+
+Network administrators may freely obtain an external view of their network at driftnet.io.
+
+Opting Out
+
+To opt out, block our IP ranges.
+
+You may also opt out by sending your IP ranges and/or domain names to optout@driftnet.io. We will also need some reasonable method of authenticating you as the end-user of those IPs: an email sent from an address listed in public WHOIS is preferred. If that isn't possible, get in touch and we can suggest alternate methods.
+
+We aim to process requests quickly. We block senders of abusive, profane or threatening messages.
+
+Photo by Thomas Kelley on Unsplash

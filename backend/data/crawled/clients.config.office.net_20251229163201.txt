@@ -1,0 +1,25 @@
+Microsoft 365 Apps admin center
+Welcome to the Microsoft 365 Apps admin center
+
+This site helps IT administrators deploy, manage, monitor and secure Microsoft 365 apps within your organization.
+
+Sign in with your Microsoft 365 admin account to get access to all of the features.
+
+Get Office
+Sign in
+Looking to install Office on your personal device? Click here to install Office on your device.
+
+Continue without signing in? Choose from the options below.
+
+
+Create a new configuration
+Create, modify and export Office deployment configurations.
+Create
+
+Import your configuration
+Import and modify your existing configurations.
+Import
+Legal
+|
+Privacy & cookies
+Give Feedback

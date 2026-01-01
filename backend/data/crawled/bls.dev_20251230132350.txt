@@ -1,0 +1,84 @@
+AI
+Docs
+About
+Community
+Get Chrome Extension
+Dashboard
+The world's first
+shared computer.
+The next supercomputer will be
+one machine
+ shared
+
+Node id
+
+12D3KooWCM...gPQZ2izi
+
+Today's Time
+
+1h 40m
+
+Total Time
+
+16h 40m
+
+Next roll call in
+
+04m 35s
+
+Online
+16:45:26 Connection to node established
+Working
+1.67%
+36.64%
+How it works
+1
+Install the extension
+
+Getting started with Bless is easy: run the desktop quick-start installer or add the Chrome extension. Data collection is opt-in only – if you decline, nothing is collected.
+
+The shared
+computer for
+Work
+AI
+Play
+Research
+Everyone
+
+Harness the world's largest edge network. Bless provides on-demand GPU/CPU compute drawn from a community of millions, allowing users anywhere in the world to run the workloads they need. With one-click access to compute resources, rendering, data processing, AI training and more become quick, affordable and accessible. Ultra-low latency, zero downtime, tailored to your enterprise.
+
+Easily power AI model training, inference and deployment at scale. Workload-specific and trustless compute provision makes the full spectrum of AI approaches and tools available to end users at the touch of a button – from students to startups and beyond. Bless gives you access to the power your project demands, without requiring complex server management or long-term commitments.
+
+Build next-generation multiplayer gaming experiences with distributed infrastructure. Game logic, physics and state updates are handled close to players through edge processing, eliminating lag and keeping gameplay in sync across continents. Seamless play, massive scale and endless possibilities for indie developers.
+
+Access the private web’s most valuable dataset. Bless’ innovative, consent-based behavioral data marketplace leverages over 5 million user-maintained nodes to produce unparalleled insights for analytics, trend discovery, forecasting and AI training.
+
+Turn any device – laptops, desktops, phones and tablets – into a source of income. Share your device’s idle compute with Bless and earn yield in return. There’s no special hardware or setup required – anyone can run a node and get paid for helping to power the network.
+
+FAQs
+How are contributions calculated?
+Contributions are initially calculated by how long you've been actively running the extension, but in the future, the compute tasks user devices have completed will also factor into the calculation. You may also receive bonuses for referring your friends and unlocking certain achievements.
+Will this slow down my device?
+How does Bless work?
+Why should I care?
+
+Products
+
+AI
+Get Extension
+Dashboard
+Developer Docs
+
+Company
+
+About
+Brand
+White Paper
+Privacy Policy
+Terms
+
+Community
+
+X (Twitter)
+Discord
+Telegram

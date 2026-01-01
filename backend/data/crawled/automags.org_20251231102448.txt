@@ -1,0 +1,20 @@
+Function name must be a string on line 1566 in /chroot/home/automags/automags.org/html/forums/includes/class_bbcode.php
+#0 /chroot/home/automags/automags.org/html/forums/includes/class_bbcode.php(1021): vB_BbCodeParser->parse_array()
+#1 /chroot/home/automags/automags.org/html/forums/packages/vbcms/bbcode/html.php(205): vB_BbCodeParser->parse_bbcode()
+#2 /chroot/home/automags/automags.org/html/forums/includes/class_bbcode.php(542): vBCms_BBCode_HTML->parse_bbcode()
+#3 /chroot/home/automags/automags.org/html/forums/packages/vbcms/bbcode/html.php(171): vB_BbCodeParser->do_parse()
+#4 /chroot/home/automags/automags.org/html/forums/packages/vbcms/item/content/article.php(474): vBCms_BBCode_HTML->do_parse()
+#5 /chroot/home/automags/automags.org/html/forums/packages/vbcms/content/article.php(513): vBCms_Item_Content_Article->getRendered()
+#6 /chroot/home/automags/automags.org/html/forums/vb/content.php(337): vBCms_Content_Article->populateViewContent()
+#7 /chroot/home/automags/automags.org/html/forums/packages/vbcms/content/section.php(606): vB_Content->getPreview()
+#8 /chroot/home/automags/automags.org/html/forums/packages/vbcms/content/section.php(293): vBCms_Content_Section->aggregateContent()
+#9 /chroot/home/automags/automags.org/html/forums/vb/content.php(313): vBCms_Content_Section->populateViewContent()
+#10 /chroot/home/automags/automags.org/html/forums/packages/vbcms/controller/content.php(191): vB_Content->getPageView()
+#11 /chroot/home/automags/automags.org/html/forums/vb/controller.php(261): vBCms_Controller_Content->actionView()
+#12 /chroot/home/automags/automags.org/html/forums/packages/vbcms/route/content.php(97): vB_Controller->getResponse()
+#13 /chroot/home/automags/automags.org/html/forums/vb/router.php(251): vBCms_Route_Content->getResponse()
+#14 /chroot/home/automags/automags.org/html/forums/vb/bootstrap.php(58): vB_Router::getResponse()
+#15 /chroot/home/automags/automags.org/html/forums/content.php(30): require_once('/chroot/home/au...')
+#16 /chroot/home/automags/automags.org/html/index.php(4): require('/chroot/home/au...')
+#17 {main}
+

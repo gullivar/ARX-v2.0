@@ -1,0 +1,7 @@
+psg.com guest system psg.com guest system Information about this invited-access system. PGP signed SSH keys of well-known community
+hosts. The RGnet/PSGnet root CA
+certificate , which you can click and 'execute' to cause your browser to
+automatically trust all certificates signed by the RGnet/PSGnet root CA.  And
+here is a PGP signed copy of the cert
+and SHA1 and MD5 hashes of it which you can download to verify the
+certificate manually should you so wish. Some mailing lists are archived on this system. Local users' home pages: Ayitey Bulley Adrian Miranda Vadim Antonov Avri Doria Andrew Bender,3605 E Plano Pkwy. / Plano TX,+1 972 265 3883 Brian Candler Bruce A. Mitchell Charles Perkins Christine Pinkham David Barnes David B. Lamkins Espresso Saarinen Geoffrey Sisson Guy Halse Ernesto Guido Martin Hannigan Hervey Allen Jilly Kikuchiyo Jim Dorman Joachim Str�mbergson Joe Moss,,, Katen Bush Katen Bush Khabarakh Kenneth Stailey Leman Reagan Len Padilla Mark Allman Allison Mankin Mike Gallo,,, Mark Tinka Olaf Maennel Paul Dubenko Ballet Pixelle Patrick J Okui Randy Bush Ronny Lam Steven Huter Simon Leinen Steven M. Bellovin Stephen J. Wilcox Ted Powell Yann Berthier Some local associated servers: The Pathology Guy The US Site for TPC.INT, free internet fax service Global Information Highway Limited If you need a clue, look here . This site is maintained by Randy Bush <randy@psg.com> Mastodon

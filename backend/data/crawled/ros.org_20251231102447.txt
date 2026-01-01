@@ -1,0 +1,12 @@
+ROS: Home Why ROS? Getting Started Community Ecosystem ROS - Robot Operating System The Robot Operating System (ROS) is a set of software libraries and tools
+      that help you build robot applications. From drivers to state-of-the-art
+      algorithms, and with powerful developer tools, ROS has what you need for
+      your next robotics project. And it's all open source. What is ROS? ROS Videos " Install Kilted Kaiju Kilted Kaiju is our latest ROS 2 short-term release targeted at Ubuntu
+        24.04 (Noble) and Windows 10, though other systems are supported to varying
+        degrees. Learn More Jazzy Jalisco Jazzy Jalisco is our latest ROS 2 LTS release targeted at Ubuntu
+        24.04 (Noble) and Windows 10, though other systems are supported to varying
+        degrees. Learn More Support There are several mechanisms in place to support the ROS community, each
+      with its own purpose. Documentation Documentation and tutorials for ROS 2 Stack Exchange Ask questions. Get answers. Forums Hear the latest discussions Zulip Chat Chat with the core development team Documentation Documentation and tutorials for ROS 2 Robotics Stack Exchange Ask questions. Get answers. All ROS versions Forums Hear the latest discussions Recent Updates and Highlights ROSCon 2025 Recordings Now Available See the ROSCon 2025 website for details 12/01/2025 - Katherine Scott Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website , in the ROS Documentation , and in the list below. We’re still waiting on talk slides, but we’ll get those up just as soon as we can.
+	    
+            I want to thank AMD for being our 2025 ROSCon video sponsor, their generous support makes the ROSCon live stream and videos possible. READ MORE Recent Open Robotics Discourse Posts ROS 2 Kilted Running Natively on macOS Apple Silicon 12/08/2025 - Open Robotics Discourse Announcing synchros2 from the RAI Institute! 12/08/2025 - Open Robotics Discourse ROS News for the Week of December 2nd, 2025 12/05/2024 Open Robotics Discourse Home Why ROS? Getting Started Community Ecosystem Q&A Forum Packages Documentation media Q&A Forum Packages ROSCon documentation discord Brought to you by Open Robotics |
+	        licensed under Creative Commons Attributions 3.0 | ©2025 Open Robotics

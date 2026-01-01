@@ -1,0 +1,294 @@
+Skip to content
+Platform
+Platform overview
+Platform overview
+Platform capabilities
+Remote, index-free querying
+Infinite retention
+DataPrime engine
+In-stream analysis & alerting
+Cross-stack dashboards
+Cost optimization tool
+Zero instrumentation
+System
+APM
+Service catalog
+DB monitoring
+Service map
+Serverless APM
+Continuous profiling
+Dependencies
+SLO management
+Real user monitoring
+Error tracking
+Session replay
+Core web vitals
+Measurements
+Network monitoring
+Versions
+Infrastructure monitoring
+Infrastructure explorer
+Fleet management
+Log analytics
+Log templating
+Parsing rules
+Data enrichment
+AI
+AI discovery
+AI observability
+Evaluation engine
+Dashboards
+Session explorer
+Cost tracking
+AI guardrails
+Quality guardrails
+Security guardrails
+AI for security and compliance
+AI-SPM
+Compliance reporting
+Security
+SIEM
+MDR
+Solutions
+Use cases
+Edge security
+Kubernetes monitoring
+CDN monitoring
+CI/CD Acceleration
+AI hallucinations
+IT operations
+Data pipeline services
+ServiceNow
+The EU Data Act
+Industries
+Finance
+Video & streaming
+Ecommerce
+Healthcare
+Gaming
+Transportation
+Cyber security
+Federal
+Technology
+AWS
+Azure
+GCP
+Kubernetes
+Heroku
+Developers
+Docs
+Guides
+Getting started with Coralogix
+Integration packages
+DataPrime beginner’s guide
+Account management
+View all docs
+Developer resources
+Coralogix Academy
+Integrations
+Compliance
+Popular integrations
+OpenTelemetry
+AWS ALB
+Azure
+GCP
+View all 300+ integrations
+Pricing
+Customers
+Company
+Company
+About
+Careers
+Events & webinars
+Newsroom
+Support
+Partners
+Resources
+E-books & whitepapers
+Guides
+AI guides
+Blog
+
+KubeCon + CloudNativeCon North America 2025
+
+November 10, 2025
+EST
+Learn More!
+Meet Olly
+Sign In
+Complete observability
+Zero compromises
+
+Ingest all your data, store it indefinitely on your cloud, and query across all types with a unified syntax. Upgrade to a platform that extends observability beyond engineering.
+
+Get started
+Get a Demo
+Systems
+Al
+Security
+Trusted by thousands of engineers worldwide
+Ingest everything,
+store forever
+Eliminate data blind spots
+
+Coralogix’s Streama© engine eliminates excessive sampling and limited retention, enabling more data ingestion and real-time insights at a fraction of
+the cost.
+
+Monitor 4x more for a lower cost
+Scale to petabytes of data with long-term retention
+
+Learn more
+
+Coralogix
+
+Any event,
+one query language
+Stop wasting time on multiple syntaxes
+
+Coralogix’s DataPrime proprietary engine unifies logs, metrics, and traces in a single query – using aggregations, joins, and advanced queries to reveal the story behind every incident.
+
+Easily composable, linear syntax
+Built-in querying copilot to minimize mistakes
+
+Learn more
+Your data,
+your control
+Break free from the trap of vendor lock-in
+
+Coralogix gives you the freedom to keep data in your own cloud storage bucket for total flexibility of your data, full control, and zero vendor lock-in.
+
+Open format storage ensures full flexibility
+Capture every event, no indexing required
+
+Learn more
+Real-time observability, redefined
+Real-time telemetry
+
+Capture 100% of logs, metrics, traces, and profiles as they happen, eliminating any blind spots.
+
+Logs
+Profiles
+Traces
+Metrics
+Dynamic schema handling
+
+No need for predefined schemas, our DataPrime engine handles automatic detection and advanced discovery.
+
+DataPrime engine
+Petabyte-scale retention
+
+Grow without limits and keep your data accessible for long-term insights.
+
+300+ integrations
+
+Connect instantly to AWS, Terraform, Azure and more.
+
+24/7 real human support
+
+Reach live experts in under
+30 seconds. Any time, any day.
+
+Every account includes
+SSO with SAML
+User-defined alerts
+Coralogix REST API
+Alert webhooks
+Alerts & root cause analysis
+
+Detect anomalies in real time and quickly pinpoint issues at their source.
+
+Log error
+Abnormal span
+Hallucination detected
+AI latency issue
+Application error
+Subsystem error
+Log error
+Abnormal span
+Hallucination detected
+AI latency issue
+Application error
+Subsystem error
+Native OTel support
+
+All data stored in open formats with no vendor lock-ins.
+
+Integrate via
+OpenTelemetry
+Ingest way more…
+for the same exact cost
+
+Your observability data holds crucial insights about your business. Data sampling can risk missing out on important signals that drive key decisions.
+
+Coralogix’s TCO Cost Optimizer maximizes data value by sending critical logs to instant in-stream analysis and low-value data straight to cloud storage.
+
+37GB
+24GB
+22GB
+94GB
+The AI Center
+Advanced AI observability for any agent
+
+AI introduces complexities that traditional observability can’t handle. To solve this problem, we built a specialized evaluation engine to provide real-time observability for all your agents.
+
+AI discovery
+
+Scan and identify all AI agents and repositories in use across your entire organization.
+
+AI observability
+
+Monitor every agent’s performance, session behavior, cost, and operational metrics to prevent issues.
+
+AI guardrails
+
+Enforce safety and quality messages by intercepting, modifying, or blocking prompts and responses.
+
+AI security & compliance
+
+Dedicated insight into your AI stack’s risk posture with security-focused dashboards and evaluators.
+
+Core capabilities, perfected
+APM
+Database monitoring
+Serverless APM
+Service catalog
+Service map
+Continuous profiling
+RUM
+Network monitoring
+Error tracking
+Session replay
+Core web vitals
+Infrastructure monitoring
+Infrastructure explorer
+Log analytics
+Data enrichment
+Log templating
+Parsing rules
+Platform capabilities
+Remote, index-free querying
+Infinite retention
+DataPrime engine
+In-stream analysis & alerting
+Cross-stack dashboards
+Cost optimization tool
+AI discovery
+App & repo discovery
+AI observability
+Evaluation engine
+Dashboards
+Session explorer
+Cost tracking
+AI security and compliance
+AI-SPM
+Security
+SIEM
+CSPM
+See what users think about Coralogix
+Our customers
+
+“The alerts and the dashboards that we were able to fine-tune before the event meant that we caught all the problems before anything happened. That was critical for the success of our customers’ constant engagement with their fans.”
+
+“There are some cities in the U.S. where people can’t get to work if Via isn’t operational. I love that Coralogix allows me to work with my open source tooling.”
+
+“The main reason that I would recommend Coralogix is the amazing support. They communicate with their clients to understand exactly what their issues and pain points are so that they can innovate to address them”

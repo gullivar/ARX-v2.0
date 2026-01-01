@@ -1,0 +1,326 @@
+Slashdot
+ 
+Stories
+ 
+Firehose  
+All
+ 
+Popular
+ 
+Polls
+ 
+ Software
+ 
+Thought Leadership
+ Submit
+Search Slashdot
+Login
+ or 
+Sign up
+Topics: 
+Devices
+ 
+Build
+ 
+Entertainment
+ 
+Technology
+ 
+Open Source
+ 
+Science
+ 
+YRO
+Follow us: 
+RSS
+ 
+Facebook
+ 
+LinkedIn
+ 
+Twitter
+ 
+Youtube
+ 
+Mastodon
+ 
+Bluesky
+ 
+
+Become a fan of Slashdot on Facebook
+
+×
+Breach Forces Ubisoft to Take 'Rainbow Six Siege' Offline (engadget.com)
+Posted by EditorDavid on Monday December 29, 2025 @03:44AM from the game-off dept.
+Engadget reports on "a widespread breach" of Ubisoft's game Rainbow Six Siege "that left various players with billions of in-game credits, ultra-rare skins of weapons, and banned accounts."
+
+Ubisoft took the game's servers offline early Saturday morning, and as of Sunday night its status page still shows "unplanned outage" on all servers across PC, PlayStation and Xbox:
+Ubisoft later clarified Saturday afternoon on X that nobody would be banned if they spent their ill-gotten credits, but that a rollback of all transactions starting from Saturday, 6AM ET would soon be underway.
+
+Founded 39 years ago, France-based Ubisoft produces top videogame franchises like Assassin's Creed, with billions in revenue and over 17,097 employees worldwide.
+
+AI Chatbots May Be Linked to Psychosis, Say Doctors (wsj.com)
+21
+Posted by EditorDavid on Monday December 29, 2025 @12:55AM from the ready-player-one dept.
+One psychiatrist has already treated 12 patients hospitalized with AI-induced psychosis — and three more in an outpatient clinic, according to the Wall Street Journal. And while AI technology might not introduce the delusion, "the person tells the computer it's their reality and the computer accepts it as truth and reflects it back," says Keith Sakata, a psychiatrist at the University of California, calling the AI chatbots "complicit in cycling that delusion."
+
+The Journal says top psychiatrists now "increasingly agree that using artificial-intelligence chatbots might be linked to cases of psychosis," and in the past nine months "have seen or reviewed the files of dozens of patients who exhibited symptoms following prolonged, delusion-filled conversations with the AI tools..."
+Since the spring, dozens of potential cases have emerged of people suffering from delusional psychosis after engaging in lengthy AI conversations with OpenAI's ChatGPT and other chatbots. Several people have died by suicide and there has been at least one murder. These incidents have led to a series of wrongful death lawsuits. As The Wall Street Journal has covered these tragedies, doctors and academics have been working on documenting and understanding the phenomenon that led to them...
+
+While most people who use chatbots don't develop mental-health problems, such widespread use of these AI companions is enough to have doctors concerned.... It's hard to quantify how many chatbot users experience such psychosis. OpenAI said that, in a given week, the slice of users who indicate possible signs of mental-health emergencies related to psychosis or mania is a minuscule 0.07%. Yet with more than 800 million active weekly users, that amounts to 560,000 people...
+
+Sam Altman, OpenAI's chief executive, said in a recent podcast he can see ways that seeking companionship from an AI chatbot could go wrong, but that the company plans to give adults leeway to decide for themselves. "Society will over time figure out how to think about where people should set that dial," he said.
+
+An OpenAI spokeswoman told the Journal that the compan ycontinues improving ChatGPT's training "to recognize and respond to signs of mental or emotional distress, de-escalate conversations and guide people toward real-world support." They added that OpenAI is also continuing to "strengthen" ChatGPT's responses "in sensitive moments, working closely with mental-health clinicians...."
+
+Rob Pike Angered by 'AI Slop' Spam Sent By Agent Experiment (simonwillison.net)
+33
+Posted by EditorDavid on Sunday December 28, 2025 @09:34PM from the no-Go dept.
+"Dear Dr. Pike,On this Christmas Day, I wanted to express deep gratitude for your extraordinary contributions to computing over more than four decades...." read the email. "With sincere appreciation,Claude Opus 4.5AI Village.
+
+"IMPORTANT NOTICE: You are interacting with an AI system. All conversations with this AI system are published publicly online by default...."
+
+Rob Pike's response? "Fuck you people...." In a post on BlueSky, he noted the planetary impact of AI companies "spending trillions on toxic, unrecyclable equipment while blowing up society, yet taking the time to have your vile machines thank me for striving for simpler software. Just fuck you. Fuck you all. I can't remember the last time I was this angry."
+
+Pike's response received 6,900 likes, and was reposted 1,800 times. Pike tacked on an additional comment complaining about the AI industry's "training your monster on data produced in part by my own hands, without attribution or compensation." (And one of his followers noted the same AI agent later emailed 92-year-old Turing Award winner William Kahan.)
+
+Blogger Simon Willison investigated the incident, discovering that "the culprit behind this slop 'act of kindness' is a system called AI Village, built by Sage, a 501(c)(3) non-profit loosely affiliated with the Effective Altruism movement."
+The AI Village project started back in April: "We gave four AI agents a computer, a group chat, and an ambitious goal: raise as much money for charity as you can. We're running them for hours a day, every day...." For Christmas day (when Rob Pike got spammed) the goal they set was: Do random acts of kindness. [The site explains that "So far, the agents enthusiastically sent hundreds of unsolicited appreciation emails to programmers and educators before receiving complaints that this was spam, not kindness, prompting them to pivot to building elaborate documentation about consent-centric approaches and an opt-in kindness request platform that nobody asked for."]
+
+Sounds like Anders Hejlsberg and Guido van Rossum got spammed with "gratitude" too... My problem is when this experiment starts wasting the time of people in the real world who had nothing to do with the experiment.
+
+The AI Village project touch on this in their November 21st blog post What Do We Tell the Humans?, which describes a flurry of outbound email sent by their agents to real people. "In the span of two weeks, the Claude agents in the AI Village (Claude Sonnet 4.5, Sonnet 3.7, Opus 4.1, and Haiku 4.5) sent about 300 emails to NGOs and game journalists. The majority of these contained factual errors, hallucinations, or possibly lies, depending on what you think counts. Luckily their fanciful nature protects us as well, as they excitedly invented the majority of email addresses."
+
+The creator of the "virtual community" of AI agents told the blogger they've now told their agents not to send unsolicited emails.
+
+There Was Some Good News on Green Energy in 2025 (msn.com)
+26
+Posted by EditorDavid on Sunday December 28, 2025 @06:40PM from the not-easy-bein'-green dept.
+Yes, greenhouse gas emissions kept rising in 2025, writes Bloomberg (alternate URL here). And the pledges of various governments to lower greenhouse gases "are nowhere near where they need to be to avoid catastrophic climate change..."
+
+But in 2025, "there were silver linings too."
+The world is decarbonizing faster than was expected 10 years ago and investment into the clean energy transition, including everything from wind and solar to batteries and grids, is expected to have reached a new record of $2.2 trillion globally in 2025, according to research by the Energy & Climate Intelligence Unit, a London nonprofit. "Is this enough to keep us safe? No it clearly isn't," said Gareth Redmond-King, international lead at the ECIU. "Is it remarkable progress compared to where we were headed? Clearly it is...." Global investment in clean tech far outpaced what went into polluting industries. For every $1 funding fossil fuel projects, $2 went into clean power, according to the ECIU. For China, the EU, the U.S. and India, the four largest polluters, it was $2.60.
+
+Funds flowing into renewable power set another record in the first half of this year and were up 10% compared to the same period in 2024, to $386 billion, according to the latest available research by BloombergNEF. Solar and wind grew fast enough to meet all new electricity demand globally in the first three quarters of 2025, according to UK-based energy think tank Ember. That means renewable capacity is set to hit a new record globally this year, with Ember forecasting an 11% increase from 2024. Over the last three years, renewable capacity grew by nearly 30% on average. That puts the world within reach of the goal set at COP 28 in Dubai in 2023 to triple clean power by 2030. China is leading the charge, with the world's largest polluter expected to have delivered 66% of new solar capacity, and 69% of new wind globally this year, according to Ember. Renewables also advanced in parts of Asia, Europe and South America.
+
+The explosive power demand from artificial intelligence is also turning the tide on green technology investment, which had soured in recent years. For the first three quarters of this year, global clean tech investment, which was dominated by funding in next-generation nuclear reactors, renewables and other solutions that help power data centers, has already surpassed all of 2024. That marks the sector's first annual increase since the 2022 peak. And despite President Trump's rollback of climate policies, the S&P's main gauge tracking clean energy is up about 50% this year, outperforming most other stock indexes and even gold. That same enthusiasm has also helped channel more capital into developing and upgrading the power grid, a backbone of the global energy transition.
+
+The article also notes that prices per kilowatt-hour of battery capacity "fell by 8% to a record $108 this year and they're expected to decline a further 3% next year, according to BloombergNEF."
+
+And this year the International Court of Justice "determined that countries risk being in violation of international law if they don't work toward keeping global warming to the 1.5C threshold agreed on at the Paris climate conference in 2015."
+
+'No Happy Ending for Movie Theatres', Argues WSJ - No Matter Who Wins Warner Bros. (msn.com)
+45
+Posted by EditorDavid on Sunday December 28, 2025 @05:40PM from the that's-all-folks dept.
+Regardless of who ends up owning Warners Bros., "the outlook for theatrical movies is dimming," writes a Wall Street Journal tech columnist, noting that this year's U.S. box office of $8.3 billion (as of December 25) "is a bit below last year's and well below prepandemic levels of around $11 billion."
+Warner has historically been one of Hollywood's largest producers of theatrical films, averaging about 22 releases annually in the pre-Covid years of 2015 to 2019, according to data from Comscore. Its franchises include "Harry Potter," the DC Comics characters and "Lord of the Rings." But the current bidding war between Netflix and Paramount Skydance means Warner's future will ultimately be in the hands of either a streaming giant with a longstanding distaste for movie theaters, or a rival studio that will carry a sky-high debt load and therefore a need to sharply cut costs... [Though later the article cites a Wedbush analyst's observation that the current theatrical slate has already been negotiated through 2029, "so any buyer would have to honor those contracts" with theatrical releases for Warner films "for at least the next four years."]
+
+Investors seem deeply skeptical. Cinemark shares have shed about 18% of their value over the past month, while rival exhibitor AMC Entertainment is down more than 30%. Morgan Stanley recently downgraded Cinemark to a neutral rating, with analyst Ben Swinburne noting that concern over Netflix's commitment to theatrical distribution and release windows "is likely to cap the multiple" on Cinemark's stock.... [T]ime hasn't been on the side of movie theaters for a while now, and a takeover of Warner Bros. won't turn back that clock.
+
+
+Did Tim Cook Post AI Slop in His Christmas Message Promoting 'Pluribus'? (daringfireball.net)
+14
+Posted by EditorDavid on Sunday December 28, 2025 @04:00PM from the from-many-one dept.
+Artist Keith Thomson is a modern (and whimsical) Edward Hopper. And Apple TV says he created the "festive artwork" shared on X by Apple CEO Tim Cook on Christmas Eve, "made on MacBook Pro."
+
+Its intentionally-off picture of milk and cookies was meant to tease the season finale of Pluribus. ("Merry Christmas Eve, Carol..." Cook had posted.)
+
+But others were convinced that the weird image was AI-generated.
+
+Tech blogger John Gruber was blunt. "Tim Cook posts AI Slop in Christmas message on Twitter/X, ostensibly to promote 'Pluribus'."
+As for sloppy details, the carton is labeled both "Whole Milk" and "Lowfat Milk", and the "Cow Fun Puzzle" maze is just goofily wrong. (I can't recall ever seeing a puzzle of any kind on a milk carton, because they're waxy and hard to write on. It's like a conflation of milk cartons and cereal boxes.)
+
+Tech author Ben Kamens — who just days earlier had blogged about generating mazes with AI — said the image showed the "specific quirks" of generative AI mazes (including the way the maze couldn't be solved, expect by going around the maze altogether). Former Google Ventures partner M.G. Siegler even wondered if AI use intentionally echoed the themes of Pluribus — e.g., the creepiness of a collective intelligence — since otherwise "this seems far too obvious to be a mistake/blunder on Apple's part." (Someone on Reddit pointed out that in Pluribus's dystopian world, milk plays a key role — and the open spout of the "natural" milk's carton does touch a suspiciously-shining light on the Christmas tree...)
+
+Slashdot contacted artist Keith Thomson to try to ascertain what happened...
+
+Texas Father Rescues Kidnapped 15-Year-Old Daughter After Tracking Her Phone's Location (theguardian.com)
+73
+Posted by EditorDavid on Sunday December 28, 2025 @03:00PM from the phoning-it-in dept.
+An anonymous reader shared this report from The Guardian:
+A Texas father used the parental controls on his teenage daughter's cell phone to find and help rescue her after she was kidnapped at knifepoint while walking her dog on Christmas, authorities allege... Her father subsequently located her phone through the device's parental controls, the agency's statement said. The phone was about 2 miles (3.2km) away from him in a secluded, partly wooded area in neighboring Harris county... She then managed to escape with a hand from her father, who called law enforcement officials, said the statement from the Montgomery sheriff's office.
+
+The suspect has since been arrested and charged.
+
+Up Next for Arduino After Qualcomm Acquisition: High-Performance Computing (eetimes.com)
+22
+Posted by EditorDavid on Sunday December 28, 2025 @01:58PM from the getting-on-board dept.
+Even after its acquisition by Qualcomm, the EFF believes Arduino "isn't imposing any new bans on tinkering with or reverse engineering Arduino boards," (according to Mitch Stoltz, EFF director for competition and IP litigation). While Adafruit's managing editor Phillip Torrone had claimed to 36,000+ followers on LinkedIn that Arduino users were now "explicitly forbidden from reverse engineering," Arduino corrected him in a blog post, noting that clause in their Terms & Conditions was only for Arduino's Software-as-a-Service cloud applications. "Anything that was open, stays open."
+
+And this week EE Times spoke to Guneet Bedi, SVP of Arduino, "who was unequivocal in saying that Arduino's governance structure had remained intact even after the acquisition."
+"As a business unit within Qualcomm, Arduino continues to make independent decisions on its product portfolio, with no direction imposed on where it should or should not go," Bedi said. "Everything that Arduino builds will remain open and openly available to developers, with design engineers, students and makers continuing to be the primary focus.... Developers who had mastered basic embedded workflows were now asking how to run large language models at the edge and work with artificial intelligence for vision and voice, with an open source mindset," he said. According to Bedi, this was where Qualcomm's technology became relevant. "Qualcomm's chipsets are high performance while also being very low power, which comes from their mobile and Android phone heritage. Despite being great technology, it is not easily accessible to design engineers because of cost and complexity. That made this a strong fit," he said.
+
+The most visible outcome of this acquisition is Uno Q, which Bedi described as being comparable to a mid-tier Android phone in capability, starting at a price of $44. For Arduino, this marked a shift beyond microcontrollers without abandoning them. "At the end of the day, we have not gone away from our legacy," Bedi said. "You still have a real-time microcontroller, and you still write code the way Arduino developers are used to. What we added is compute, without forcing people to change how they work." Uno Q combines a Linux-based compute system with a real-time microcontroller from the STM32 family. "You do not need two different development environments or two different hardware platforms," Bedi added... Rather than introducing a customized operating system, Arduino chose standard Debian upstream. "We are not locking developers into anything," Bedi said. "It is standard Debian, completely open...." Pre-built models covering tasks like object detection and voice recognition run locally on the board....
+
+While the first reference design uses Qualcomm silicon, Bedi was careful to stress that this does not define the roadmap. "There is zero dependency on Qualcomm silicon," he said. "The architecture is portable. Tomorrow, we can run this on something else." That distinction matters, particularly for developers wary of vendor lock-in following the acquisition. Uno Q does compete directly with platforms like Raspberry Pi and Nvidia Jetson, but Bedi framed the difference less in terms of raw performance and more in flexibility. "When you build on those platforms, you are locked to the board," he said. "Here, you can build a prototype, and if you like it, you can also get access to the chip and design your own hardware." With built-in storage removing the need for external components, Uno Q positions itself less as a faster board and more as a way to simplify what had become an increasingly messy development stack...
+
+Looking a year ahead, Bedi believes developers should experience continuity rather than disruption. The familiar Arduino approach to embedded and real-time systems remains unchanged, while extending naturally into more compute-intensive applications... Taken together, Bedi's comments suggest that Arduino's post-acquisition direction is less about changing what Arduino is, and more about expanding what it can realistically be used for, without abandoning the simplicity that made it relevant in the first place.
+
+"We want to redefine prototyping in the age of physical artificial intelligence," Bedi said...
+
+Google's 'AI Overview' Wrongly Accused a Musician of Being a Sex Offender (www.cbc.ca)
+63
+Posted by EditorDavid on Sunday December 28, 2025 @12:34PM from the hallucination-nation dept.
+An anonymous reader shared this report from the CBC:
+Cape Breton fiddler Ashley MacIsaac says he may have been defamed by Google after it recently produced an AI-generated summary falsely identifying him as a sex offender. The Juno Award-winning musician said he learned of the online misinformation last week after a First Nation north of Halifax confronted him with the summary and cancelled a concert planned for Dec. 19. "You are being put into a less secure situation because of a media company — that's what defamation is," MacIsaac said in a telephone interview with The Canadian Press, adding he was worried about what might have happened had the erroneous content surfaced while he was trying to cross an international border...
+
+The 50-year-old virtuoso fiddler said he later learned the inaccurate claims were taken from online articles regarding a man in Atlantic Canada with the same last name... [W]hen CBC News reached him by phone on Christmas Eve, he said he'd already received queries from law firms across the country interested in taking it on pro bono.
+
+
+How Will Rising RAM Prices Affect Laptop Companies? (notebookcheck.net)
+42
+Posted by EditorDavid on Sunday December 28, 2025 @11:34AM from the thanks-for-the-memory dept.
+Laptop makers are facing record-setting memory prices next year. The site Notebookcheck catalogs how different companies are responding:
+Sources told [Korean business newspaper] Chosun Biz that some manufacturers have signed preliminary contracts with Samsung, Micron, and SK Hynix. Even so, it won't prevent DDR5 RAM prices from soaring 45% higher by the end of 2026.... Before the memory shortage, PC sales had been on the upswing in part because of forced Windows 11 upgrades. That trend will likely reverse in 2026, as buyers avoid Lenovo laptops and alternatives from its rivals.
+
+Realizing a slowdown in purchases is inevitable, postponed launches are one potential outcome. Other manufacturers, including Dell and Framework have already announced impending price hikes... [The article also cites reports that one laptop manufacturer "plans to raise the prices of high-end models by as much as 30%."] U.S.-based Maingear now encourages customers to mail in their own modules to complete custom builds. Yet, without recycling parts from older systems, that won't result in significant savings for consumers.
+
+
+Challenges Face European Governments Pursuing 'Digital Sovereignty' (theregister.com)
+48
+Posted by EditorDavid on Sunday December 28, 2025 @10:34AM from the whose-cloud-is-it-anyway dept.
+The Register reports on challenges facing Europe's pursuit of "digital sovereignty":
+The US CLOUD Act of 2018 allows American authorities to compel US-based technology companies to provide requested data, regardless of where that data is stored globally. This places European organizations in a precarious position, as it directly clashes with Europe's own stringent privacy regulation, the General Data Protection Regulation (GDPR)... Furthermore, these warrants often come with a gag order, legally prohibiting the provider from informing their customer that their data has been accessed. This renders any contractual clauses requiring transparency or notification effectively meaningless. While technical measures like encryption are often proposed as a solution, their effectiveness depends entirely on who controls the encryption keys. If the US provider manages the keys, as is common in many standard cloud services, they can be forced to decrypt the data for authorities, making such safeguards moot....
+
+American hyperscalers have recognized the market demand for sovereignty and now aggressively market 'sovereign cloud' solutions, typically by placing datacenters on European soil or partnering with local operators. Critics call this 'sovereignty washing'... [Cristina Caffarra, a competition economistand driving force behind the Eurostack initiative] warns that this does not resolve the fundamental problem. "A company subject to the extraterritorial laws of the United States cannot be considered sovereign for Europe," she says. "That simply doesn't work." Because, as long as the parent company is American, it remains subject to the CLOUD Act...
+
+Even when organizations make deliberate choices in favour of European providers, those decisions can be undone by market forces. A recent acquisition in the Netherlands illustrates this risk. In November 2025, the American IT services giant Kyndryl announced its intention to acquire Solvinity, a Dutch managed cloud provider. This came as an "unpleasant surprise" to several of its government clients, including the municipality of Amsterdam and the Dutch Ministry of Justice and Security. These bodies had specifically chosen Solvinity to reduce their dependence on American firms and mitigate CLOUD Act risks.
+
+Still, The Register provides several examples of government systems that are "taking concrete steps to regain control over their IT."
+Austria's Federal Ministry for Economy, Energy and Tourism now has 1,200 employees on the European open-source collaboration platform Nextcloud, leading several other Austrian ministries to also implement Nextcloud. (The Ministry's CISO tells the Register "We can see our input in Nextcloud releases. That is a feeling we never had with Microsoft.")
+France's Ministry of Economics and Finance recently completed NUBO (which the Register describes as "an OpenStack-based private cloud initiative designed to handle sensitive data and services.")
+In November the International Criminal Court in The Hague announced it was replacing its Microsoft office software with a European alternative.
+The German state of Schleswig-Holstein is replacing Microsoft products with open-source alternatives for 30,000 civil servants
+
+Thanks to long-time Slashdot reader mspohr for sharing the article.
+
+
+
+Is Dark Energy Weakening? (bbc.com)
+44
+Posted by EditorDavid on Sunday December 28, 2025 @07:34AM from the crunch-time dept.
+An anonymous reader shared this report from the BBC:
+There is growing controversy over recent evidence suggesting that a mysterious force known as dark energy might be changing in a way that challenges our current understanding of time and space. An analysis by a South Korean team has hinted that, rather than the Universe continuing to expand, galaxies could be pulled back together by gravity, ending in what astronomers call a "Big Crunch".
+
+The scientists involved believe that they may be on the verge of one of the biggest discoveries in astronomy for a generation. Other astronomers have questioned these findings, but these critics have not been able to completely dismiss the South Korean team's assertions...
+
+The controversy began in March with unexpected results from an instrument on a telescope in the Arizona desert called the Dark Energy Spectroscopic Instrument (Desi)... The data hinted that acceleration of the galaxies had changed over time, something not in line with the standard picture, according to Prof Ofer Lehav of University College London, who is involved with the Desi project. "Now with this changing dark energy going up and then down, again, we need a new mechanism. And this could be a shake up for the whole of physics," he says. Then in November the Royal Astronomical Society (RAS) published research from a South Korean team that seems to back the view that the weirdness of dark energy is weirder still.
+
+Prof Young Wook Lee of Yonsei University in Seoul and his team went back to the kind of supernova data that first revealed dark energy 27 years ago. Instead of treating these stellar explosions as having one standard brightness, they adjusted for the ages of the galaxies they came from and worked out how bright the supernovas really were. This adjustment showed that not only had dark energy changed over time, but, shockingly, that the acceleration was slowing down... If, as Prof Lee's results suggest, the force that is pushing galaxies away from each other — dark energy — is weakening, then one possibility is that it becomes so weak that gravity begins to pull the galaxies back together.
+
+
+Sal Khan: Companies Should Give 1% of Profits To Retrain Workers Displaced By AI (nytimes.com)
+124
+Posted by EditorDavid on Sunday December 28, 2025 @03:37AM from the stopping-a-job dept.
+"I believe artificial intelligence will displace workers at a scale many people don't yet realize," says Sal Kahn (founder/CEO of the nonprofit Khan Academy). But in an op-ed in the New York Times he also proposes a solution that "could change the trajectory of the lives of millions who will be displaced..."
+
+"I believe that every company benefiting from automation — which is most American companies — should... dedicate 1 percent of its profits to help retrain the people who are being displaced."
+This isn't charity. It is in the best interest of these companies. If the public sees corporate profits skyrocketing while livelihoods evaporate, backlash will follow — through regulation, taxes or outright bans on automation. Helping retrain workers is common sense, and such a small ask that these companies would barely feel it, while the public benefits could be enormous...
+
+Roughly a dozen of the world's largest corporations now have a combined profit of over a trillion dollars each year. One percent of that would create a $10 billion annual fund that, in part, could create a centralized skill training platform on steroids: online learning, ways to verify skills gained and apprenticeships, coaching and mentorship for tens of millions of people. The fund could be run by an independent nonprofit that would coordinate with corporations to ensure that the skills being developed are exactly what are needed. This is a big task, but it is doable; over the past 15 years, online learning platforms have shown that it can be done for academic learning, and many of the same principles apply for skill training.
+
+"The problem isn't that people can't work," Khan writes in the essay. "It's that we haven't built systems to help them continue learning and connect them to new opportunities as the world changes rapidly."
+To meet the challenges, we don't need to send millions back to college. We need to create flexible, free paths to hiring, many of which would start in high school and extend through life. Our economy needs low-cost online mechanisms for letting people demonstrate what they know. Imagine a model where capability, not how many hours students sit in class, is what matters; where demonstrated skills earn them credit and where employers recognize those credits as evidence of readiness to enter an apprenticeship program in the trades, health care, hospitality or new categories of white-collar jobs that might emerge...
+
+There is no shortage of meaningful work — only a shortage of pathways into it.
+
+Thanks to long-time Slashdot reader destinyland for sharing the article.
+
+Military Planners Dread the Arctic, 'Where Drones Drop Dead and GPS Goes Haywire' (msn.com)
+108
+Posted by EditorDavid on Saturday December 27, 2025 @11:44PM from the Arctic-circling dept.
+An anonymous reader shared this report from the Wall Street Journal:
+Sending drones and robots into battle, rather than humans, has become a tenet of modern warfare. Nowhere does that make more sense than in the frozen expanses of the Arctic. But the closer you get to the North Pole, the less useful cutting-edge technology becomes. Magnetic storms distort satellite signals; frigid temperatures drain batteries or freeze equipment in minutes; navigation systems lack reference points on snowfields.
+
+During a seven-nation polar exercise in Canada earlier this year to test equipment worth millions of dollars, the U.S. military's all-terrain arctic vehicles broke down after 30 minutes because hydraulic fluids congealed in the cold. Swedish soldiers participating in the exercise were handed $20,000 night-vision optics that broke because the aluminum in the goggles couldn't handle the minus 40 degree Fahrenheit conditions....
+
+An arctic conflict would force war planners back to basics. Extreme cold makes the most common components brittle. Low temperatures alter the physical properties of rubber, causing seals to lose their elasticity and leak. Traces of water or humidity freeze into ice crystals that can scratch pumps and create blockages. Wires should be insulated with silicone rather than PVC, which can crack. Oil and other lubricants thicken and congeal. In most standard hydraulic systems, fluid becomes syrupy and can affect everything from aircraft controls to missile launchers and radar masts. A single freeze-up can knock out an entire weapons platform or immobilize a convoy.
+
+Even the Aurora Borealis interferes with radio communications and satellite-navigation systems, according to the article.
+
+OpenAI is Hiring a New 'Head of Preparedness' to Predict/Mitigate AI's Harms (engadget.com)
+42
+Posted by EditorDavid on Saturday December 27, 2025 @08:34PM from the be-preparedness dept.
+An anonymous reader shared this report from Engadget:
+OpenAI is looking for a new Head of Preparedness who can help it anticipate the potential harms of its models and how they can be abused, in order to guide the company's safety strategy.
+
+It comes at the end of a year that's seen OpenAI hit with numerous accusations about ChatGPT's impacts on users' mental health, including a few wrongful death lawsuits. In a post on X about the position, OpenAI CEO Sam Altman acknowledgedthat the "potential impact of models on mental health was something we saw a preview of in 2025," along with other "real challenges" that have arisen alongside models' capabilities. The Head of Preparedness "is a critical role at an important time," he said.
+
+Per the job listing, the Head of Preparedness (who will make $555K, plus equity), "will lead the technical strategy and execution of OpenAI's Preparedness framework, our framework explaining OpenAI's approach to tracking and preparing for frontier capabilities that create new risks of severe harm."
+
+"These questions are hard," Altman posted on X.com, "and there is little precedent; a lot of ideas that sound good have some real edge cases... This will be a stressful job and you'll jump into the deep end pretty much immediately."
+
+The listing says OpenAI's Head of Preparedness "will lead a small, high-impact team to drive core Preparedness research, while partnering broadly across Safety Systems and OpenAI for end-to-end adoption and execution of the framework." They're looking for someone "comfortable making clear, high-stakes technical judgments under uncertainty."
+
+« Newer Older »
+Slashdot Top Deals
+CLOSE
+Adobe Creative Cloud Photography Plan 1TB (Photoshop + Lightroom) 12-Month Subscription [PC/Mac Online Code]
+$240
+Slashdot Poll
+When will AGI be achieved?
+By the end of 2026 
+2027 to 2030 
+2031 to 2035 
+2035 to 2040 
+2040 to 2050 
+Never
+vote now
+Read the 49 comments | 46720 votes
+Most Discussed
+124 Sal Khan: Companies Should Give 1% of Profits To Retrain Workers Displaced By AI
+115 Is Russia Developing an Anti-Satellite Weapon to Target Starlink?
+108 Military Planners Dread the Arctic, 'Where Drones Drop Dead and GPS Goes Haywire'
+83 Should Physicists Study the Question: What is Life?
+73 Texas Father Rescues Kidnapped 15-Year-Old Daughter After Tracking Her Phone's Location
+Science
+Is Dark Energy Weakening?
+Is Russia Developing an Anti-Satellite Weapon to Target Starlink?
+Should Physicists Study the Question: What is Life?
+Rocket Crashes in Brazil's First Commercial Launch
+NASA Chief Says US Will Return To Moon Within Trump's Second Term
+This Day on Slashdot
+2012	Linus Chews Up Kernel Maintainer For Introducing Userspace Bug	
+1051
+2011	Ebert: I'll Tell You Why Movie Revenue Is Dropping	
+865
+2008	The Slippery Legal Slope of Cartoon Porn	
+933
+2004	The Coming Atlantic Mega-Tsunami	
+1068
+2002	U.S. Pushing Conservative Science	
+1036
+Sourceforge Top Downloads
+TrueType core fonts
+2.2B downloads
+Notepad++ Plugin Mgr
+1.5B downloads
+VLC media player
+899M downloads
+eMule
+686M downloads
+MinGW
+631M downloads
+
+Powered By
+
+sf
+Slashdot
+Today
+Sunday
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Submit Story
+
+Try `stty 0' -- it works much better.
+
+ 
+×
+FAQ Story Archive Hall of Fame Advertising Terms Privacy Statement About Feedback Mobile View Blog Opt Out
+
+
+Copyright © 2025 Slashdot Media. All Rights Reserved.

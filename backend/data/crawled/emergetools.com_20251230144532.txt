@@ -1,0 +1,258 @@
+Emerge Tools is joining Sentry
+
+Read more
+Blog
+Documentation
+Pricing
+Case Studies
+Contact us
+Login
+Emerge Tools is joining Sentry
+
+Continuing our mission to build the best mobile tooling in the world
+
+Get Started
+Read the full announcement
+Size Analysis is now in Sentry
+
+Size Analysis
+
+Monitor & reduce app size
+
+Snapshots
+
+Build UIs with confidence
+
+Reaper
+
+Find & kill dead code
+
+Performance Analysis
+
+Prevent startup regressions
+
+Launch Booster
+
+Improve app startup time
+
+Build Distribution
+
+Share builds with your team
+
+Trusted by the best mobile teams
+
+Read case study
+
+Read case study
+
+Read case study
+
+Read case study
+
+Discover the unknown
+
+Go in depth with all Emerge Tools has to offer
+
+Size Analysis
+Monitor & reduce app size
+Read docs
+Explore more
+Live demo
+
+Get alerted about size changes on pull requests
+
+Prevent unwanted changes with size thresholds
+
+Actionable insights to reduce size
+
+Automated analysis provides instant results
+
+Track app size over time
+
+Dashboards help keep you & your team on top of size
+
+Understand your app like never before
+
+Visualize the size of code, assets, & localizations
+
+Compare against competitors
+
+Use AI to see how your app stacks up to the competition
+
+Snapshots
+Build UIs with confidence
+Read docs
+Quick explainer
+Read a case study
+
+Stop visual regressions in their tracks
+
+See how your UI changes directly on your pull request
+
+The best tests are the ones you don’t have to write
+
+We take advantage of SwiftUI & Jetpack Compose to automatically generate previews
+
+Automatic storage
+
+Say 👋 to painful git management for snapshot images
+
+Web platform for easy snapshot diff examination
+
+Search, filter, sort by the snapshots with the biggest diff %
+
+Visualize the history of every component
+
+See how each component has changed over time
+
+Reaper
+Automatically kill dead code
+Read docs
+Read a case study
+How it works
+
+Dynamic runtime analysis
+
+Find dead code based on production usage
+
+Bye, bye forgotten feature flags
+
+Clean up existing technical debt using Reaper
+
+Less is more
+
+Deleting unused code has powerful downstream technical impacts from fewer bugs to improved startup time
+
+Performance Analysis
+Diagnose & prevent performance regressions
+Read docs
+Watch a debugging session
+Read a case study
+
+Continuously monitor app startup time
+
+On every nightly or every pull request
+
+Speedy, accurate performance testing on real devices
+
+Minimize flakiness with our private device farm & analysis
+
+Visualize performance changes
+
+Easy to understand tooling to help diagnose & fix issues
+
+Track performance of UI tests
+
+Support for XCUI & UI Automator tests
+
+Automated insights to help identify bad patterns
+
+Find instant ways to reduce app startup time
+
+Launch Booster
+Improve app startup time
+Read docs
+How it works
+
+Reduce app startup time instantly
+
+Utilize order files to make your app’s launch up to 20% faster
+
+Easy integration
+
+Add a step into your release process and see immediate results in production
+
+Build Distribution
+Share builds with your team
+Read iOS docs
+Read Android docs
+
+Effortless installation
+
+Install builds via QR code, direct link, or our web UI
+
+Cross-platform, easy auth
+
+Distribute iOS and Android builds to your team with just a few clicks
+
+Integrated with your workflow
+
+Automatically distribute builds from your existing CI/CD/Emerge pipeline
+
+Keep users up to date
+
+Our SDKs automatically prompts your users to stay up to date with the latest builds
+
+Dive deeper
+
+Unlock the full potential of your mobile team
+
+Cross-platform support for iOS & Android
+
+Easy integrations with Gradle and Fastlane
+
+No source code access or SDK required
+
+Read our comparison of top publicly available apps
+
+SSO support
+
+SAML SSO authentication, including Okta, Auth0, OneLogin and Google
+
+SOC 2 compliant and secure
+
+Read more about how we keep Emerge secure
+
+Open source tooling available
+
+See projects we build & sponsor
+
+Compile unit attribution
+
+Read about how to attribute size to teams
+
+Customizable Slack alerting
+
+Read the docs
+
+Competitor Analysis
+
+Benchmark against your competitors
+
+API access to raw data
+
+Poke around our API
+
+Accurately measure download & install size
+
+Learn more about how we calculate size
+
+Run comparisons of any two builds
+
+Learn more about running comparisons
+
+Get weekly digests of app size & performance insights
+
+Read the docs
+
+Never miss a post or product update
+
+Sign up to our newsletter. No spam.
+
+Read archive
+
+2025 Emerge Tools, Inc. All rights reserved.
+
+Open Source
+Manage Cookies
+Privacy Policy
+Terms of Service
+Security
+Cookie Notice
+
+We use cookies to enhance your experience and analyze our site usage.
+
+By clicking Accept, you consent to our use of cookies.
+
+Accept
+Reject

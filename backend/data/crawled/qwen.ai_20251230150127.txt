@@ -1,0 +1,105 @@
+Qwen Chat
+More
+EN
+Download
+Try Qwen Chat
+Ask Qwen, Know More
+Image Edit
+Thinking
+Search
+Web Dev
+Artifacts
+Deep Research
+Image Generation
+Video Generation
+Qwen Chat
+Use Now
+Qwen Chat is an AI assistant for everyone, powered by the Qwen series models. It’s free to use, open to all, and ready to help with creativity, collaboration, and endless possibilities.
+API Platform
+Use Now
+Qwen API, which uses an API format compatible with the OpenAI API.
+Download
+Download
+Use Qwen on your phone or desktop.
+Product Features
+Explore Qwen Chat
+Image Generation
+Try Now
+Qwen VLo empowers your creative projects by transforming ideas into stunning visuals — now with deeper understanding and precise control.Modify images, transfer styles, generate from scratch, or combine multiple elements — all with a unified model that understands and creates.
+2025/03/28
+Product
+Deep Research
+Try Now
+Deep Research is an intelligent agent system that leverages the vast amount of information available on the internet to perform multi-step searches and analytical summaries for complex tasks. It delivers comprehensive and easy-to-read reports, significantly improving users' efficiency when handling time-consuming tasks. With Deep Research, tasks that used to take hours can now be completed in just a few minutes.
+2025/03/28
+Product
+Web Dev
+Try Now
+Web Dev empowers web developers to create stunning, functional websites with just a natural language prompt. Simply describe your vision, and get a complete, ready-to-use webpage with clean code and modern design — no coding or design skills required.
+2025/03/28
+Product
+Thinking
+Try Now
+Qwen excels in advanced reasoning and problem-solving. This enables it to tackle complex issues with clarity and precision, leveraging real-time internet data to deliver comprehensive, logical, and actionable solutions.
+2025/03/28
+Product
+Search
+Try Now
+Harness the power of intelligent search with Qwen. Quickly find answers, resources, or inspiration from across the web. With advanced filtering and contextual understanding, Qwen delivers precise results that match your query. Whether it’s researching a topic, finding recipes, or discovering new trends, Qwen ensures you have access to the most relevant information at your fingertips.
+2025/03/28
+Product
+Multimodal Understanding
+Qwen boasts powerful multimodal understanding capabilities, enabling it to process and analyze various types of information such as text, images, audio, and video simultaneously. Whether it’s interpreting data from a chart, extracting key information from an audio clip, or generating comprehensive responses by combining text and images, Qwen handles these tasks with ease. Through advanced cross-modal deep learning technology, Qwen helps you tackle complex tasks more efficiently, enhancing both work productivity and learning experiences.
+2025/03/28
+Product
+Latest Research
+View all
+Qwen-Image-Edit-2511: Improve Consistency
+Open-Source
+2025/12/23
+
+We are excited to introduce Qwen-Image-Edit-2511, an enhanced version over Qwen-Image-Edit-2509, featuring multiple improvements—including notably better consistency. To try out the latest model, please visit Qwen Chat and select the Image Editing feature. Note that the online version includes certain optimizations for speed; for the best possible performance, we recommend deploying the model...
+
+Learn more
+Qwen3-TTS Steps Up: Voice Cloning and Voice Design!
+Release
+2025/12/23
+Qwen3-TTS family has launched two new models: the voice design model Qwen3-TTS-VD-Flash (accessible via the Qwen API) and the voice cloning model Qwen3-TTS-VC-Flash (accessible via the Qwen API). Key Features: Voice Design：Qwen3-TTS-VD-Flash supports complex natural language instructions, enabling fine-grained control over timbre, prosody, emotion,...
+Learn more
+Qwen-Image-Layered: Layered Decomposition for Inherent Editablity
+Research
+2025/12/19
+
+Today, we are excited to introduce Qwen-Image-Layered, a model capable of decomposing an image into multiple RGBA layers. This layered representation unlocks inherent editability: each layer can be independently manipulated without affecting other content. Meanwhile, such a layered representation naturally supports high-fidelity elementary operations-such as resizing, reposition, and recoloring....
+
+Learn more
+Qwen3-Omni-Flash-2025-12-01：Hear You. See You. Follow Smarter!
+Release
+2025/12/09
+
+Qwen3-Omni is a next-generation native multimodal large model capable of seamlessly processing multiple input modalities—including text, images, audio, and video—and generating both text and natural-sounding speech outputs simultaneously via real-time streaming responses. This version introduces...
+
+Learn more
+Try Qwen Chat
+Web
+iOS
+Android
+macOS
+Windows
+Qwen Chat
+Qwen Chat Overview
+Download
+API Platform
+Our Flagship Models
+Platform Overview
+API Platform
+Research
+Latest Advancements
+Research Index
+GitHub
+Terms & Policies
+Terms of Service
+Privacy Policy
+Usage Policy
+Qwen © 2025
+Powered by Alibaba Cloud

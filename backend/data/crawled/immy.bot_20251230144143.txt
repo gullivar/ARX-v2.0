@@ -1,0 +1,102 @@
+Skip to main content
+How It Works
+Features
+Script Library
+Get up and running quickly with 1,400+ must-have scripts ready to deploy right out of the box
+Security
+Be confident that your security standards are enforced across every endpoint you manage
+Integrations
+Integrate with your existing PSA, RMM, Azure, and more so you can customize your tech stack
+Watch the demo
+You’ll never want to onboard computers using imaging and checklists again!
+Support
+Resources
+News & Articles
+Product updates, customer stories, and insightful tips
+Technical Docs
+How-tos, workflows, and best practices
+Merch Store
+Show your love for your favorite robot with ImmyBot swag
+Pricing
+Get Started
+AUTOMATED IT MANAGEMENT
+Relax and let the robots do the work
+
+You tediously image new computers, slog through checklists, and spend hours on bespoke scripts. We’ve all been there! But with ImmyBot, automated onboarding and maintenance frees you up to do more important things.
+
+Try it for yourselfWatch the demo
+
+14-day free trial. No credit card required.
+
+Finally, an automation tool built for the way IT teams actually work
+Define your desired
+state
+
+Set up required apps, settings, and configurations by user roles and subscriptions.
+
+Quickly onboard new workstations
+
+Assign a user to the computer to deploy and configure software according to the rules you set.
+
+Enforce your desired state
+
+Create schedules to ensure your standards are maintained over the lifespan of each endpoint.
+
+Ad-hoc deployments as needed
+
+Push zero day patches and urgent updates in real time before the next maintenance window.
+
+Learn how ImmyBot worksWatch the demo
+Don’t worry, we play well with others
+
+ImmyBot integrates with your existing PSA, RMM, Azure, and more. Get computer locations from CW Automate, agreement products and types from CW Manage, Azure management groups and Microsoft licensing from Azure, or contract types and recurring invoice items from Halo.
+
+Target users and computers based on these data sets to drive your onboarding and maintenance automations.
+
+Learn more about integrations
+Magnetic personality. Serious security.
+
+We like to keep things light, except when it comes to security. Each customer instance is isolated with separate databases, services, and storage, so there’s minimal cross-tenant risk. Authentication against Microsoft Entra ID prevents unauthorized access and keeps you in complete control. We’re SOC 2 Type II compliant, and no, we don’t sell your data. Ever.
+
+Learn more about security
+Choose from 1000s of scripts, or go full PowerShell wizard and write your own.
+
+Save time with our library of curated scripts, which you can easily extend using ImmyBot’s high-performance scripting engine and built-in helper functions. Or upload your own installer files and we’ll build a custom deploy script just for you.
+
+Learn more about our scripts
+No matter your role,  ImmyBot has your back
+MSP owners
+
+ImmyBot automates patching and onboarding enabling you to serve more clients and grow without adding headcount.
+
+Learn more
+
+Technicians & engineers
+
+ImmyBot saves hours of repetitive work. Do a task once, apply it everywhere, and trust that updates are consistently applied correctly.
+
+Learn more
+
+Hey, don’t take our word for it
+
+“With Immy, not only are we able to easily onboard new devices that are setup consistently, we have been able to deploy new software to some of our larger customers at a moment’s notice. Everybody wins.”
+
+—Mason Feuhrer, ERGOS Technology Partners, Inc.
+
+Ready to try it for yourself?
+
+Try out every feature of ImmyBot firsthand with our free trial, and discover exactly how it can streamline your workflow—risk-free and commitment-free.
+
+Start your free trial
+
+14-day free trial. No credit card required.
+
+© 2019-2025 ImmyBot, LLC.
+Home
+How It Works
+Pricing
+Support
+Resources
+Merch Store
+Privacy Policy
+Terms Of Use

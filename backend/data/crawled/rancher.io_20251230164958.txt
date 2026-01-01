@@ -1,0 +1,116 @@
+Why Rancher?
+Why Rancher?
+Use cases​
+Our Difference​
+Our Platform
+Overview of Rancher Prime
+Cloud-Native Infrastructure
+Security & Performance
+Application Development
+Kubernetes Distributions
+Support
+Rancher Support
+Support Request
+Documentation
+Learn
+Rancher Academy
+Get Certified
+Documentation
+Community
+Slack
+Blogs
+Join the Community
+GitHub
+Events & Webinars
+Community Projects
+Government
+Pricing
+Get Started
+GOVERNMENT PRICING
+Why Rancher? Our Platform Support Learn Community Get Started
+Enterprise Kubernetes Management
+From datacenter to cloud to edge, Rancher lets you deliver Kubernetes-as-a-Service.
+Why Rancher?
+SUSE named a Leader in Gartner Magic Quadrant
+
+SUSE is recognized as a “Leader” in the Gartner® Magic Quadrant™ for Container Management.
+
+Learn more
+SUSE recognized by Forrester as a Leader
+
+SUSE is recognized as a “Leader” in The Forrester Wave™: Multicloud Container Platforms
+
+Learn more
+ROI for SUSE Rancher Prime
+
+Financial justification for your cloud native transformation
+
+Download IDC Report
+  
+WHAT IS RANCHER?
+One Platform for Kubernetes Management
+
+Rancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
+
+Request a Demo
+Our customer community
+
+Discover the benefits of joining the SUSE Rancher community and take your containerized applications to the next level.
+
+View all Rancher customer stories
+AT A GLANCE
+More than 30,000 teams use Rancher every day to innovate faster
+
+You don’t need to figure Kubernetes out all on your own. Rancher is open source software, with an enormous community of users.
+
+Read the docs
+Join Rancher Academy
+
+19.7k+
+
+GitHub stars
+
+Deploy Rancher
+
+10k+
+
+Users trained
+
+Free training
+
+5.2M+
+
+Containers managed
+
+Request a demo
+
+650+
+
+Enterprise customers
+
+Our Partner Ecosystem
+CONNECT WITH US
+OUR PLATFORM
+Overview
+Cloud-Native Infrastructure
+Security & Performance
+Application Development
+Kubernetes Distributions
+LEARN
+Rancher Academy
+Get Certified
+SUPPORT
+Rancher Support
+Support Request
+Documentation
+ABOUT
+About Rancher
+About SUSE 
+SUSE Customer Center 
+Partners 
+Events
+Contact Us
+© Copyright 2025 Rancher. All Rights Reserved. Privacy Policy and Cookie Policy
+How We Use Cookies
+We use cookies to give you a better experience, improve performance and analyze traffic. By using our website you agree to our use of cookies.Privacy Policy
+View and change cookie preferences

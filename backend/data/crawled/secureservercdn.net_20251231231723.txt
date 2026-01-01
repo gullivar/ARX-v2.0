@@ -1,0 +1,19 @@
+Hosting Server Connect Timeout
+HTTP 502 — Unable to Connect to the Origin Server
+Please try again in a few minutes
+You  
+Sucuri Firewall  
+Hosting Timeout
+Error Details:
+Error Code: HTTP 502
+Error Message: Backend or gateway connection timeout.
+Server ID: 16016
+What's going on?
+Origin server might be down
+Sucuri Network blocked by Origin Firewall
+What can I do to fix it?
+
+If you are just visiting the site, just wait a bit and it should be back soon. We apologize for the inconvenience.
+
+
+If you own the web site, please verify with your hosting company if your server is up and running and if they have our firewall IPs whitelisted. Please wait a few minutes and try again. If the problem persists, open a ticket on our support page https://support.sucuri.net and we will assist with troubleshooting.

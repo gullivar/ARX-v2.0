@@ -1,0 +1,9 @@
+wiki.gg
+Just a moment...
+We need to review the security of your browser and network before proceeding.
+
+Security checks are being performed by Cloudflare
+
+If this page appears often, please send us the following information:
+
+Request ID: 9b5ed6246edbc450

@@ -1,0 +1,64 @@
+To main content
+	
+		
+INVIGORATED MOBILITY
+We remove technological friction in video delivery by improving mobile network operators' infrastructure
+Sign-up for Free
+What do we do
+Data
+We gather end-user video delivery quality from app developers
+Infrastructure Analytics
+We collaborate with mobile networks operators providing network infrastructure analytics tools. Thus network bottlenecks are resolved
+Quality Improvement
+Network infrastructure quality improves resulting in end-user video delivery quality improvement
+Vigo is here to improve video streaming delivery quality by dealing with mobile network operators
+We offer Vigo Leap analytical tool free of charge. It enables:
+Streaming delivery quality analytics
+Measure how many of your clients experience delivery quality issues
+	
+Root-Cause
+Localise origins of insufficient delivery quality: end-user device; CDN-provider; backbone provider; end-user ISP; suboptimal traffic routing
+	
+Competitive Benchmarking
+Option to benchmark your delivery quality metrics against market averages
+	
+	
+	
+	
+In Perfect Details
+Analyse through multiple lens:
+
+regions
+ISP
+CDN-providers
+end-user devices
+	
+Measure Real User Experience not Something Easy Measurable
+Vigo imprints your client user-experience. If he or she experiences bad streaming experience it is frustrating no matter who is to blame
+	
+Evaluate Your Business Metrics Impact
+How many users were lost due to delivery issues? What investment is reasonable in order to improve streaming delivery quality
+Increasing the revenue of an online video service with Vigo Leap
+LEARN MORE
+Find out how you can improve your streaming delivery quality using Vigo for just 2-3 weeks
+On-Line Demo
+Why Vigo Leap
+Business and Delivery Quality Metrics
+You can analyse and correlate both streaming delivery quality metrics and your general business metrics i.e.: MAU, conversion rates, retention, DAU
+Competetive Benchmarking
+By providing this option you can locate weather a delivery issue within a certain operator in the particular geography is unique situation for your customers or rather all services have it either
+Easy to Start
+Just insert a number of lines of our code in your client app and you are good to go. We support all major app platforms
+Free. Completely Free of Charge
+Vigo business model relies on software licensing to mobile and fixed-line network operators
+Privacy is the Priority
+Your data privacy as well as the privacy of your clients is #1 priority for Vigo. We don't make money on selling ads or through data exchange
+Quality is Improving
+Our mission is to improve streaming delivery quality by woking together with telcos. You watch and enjoy the progress of delivery metrics
+...AND ONCE AGAIN
+It is Free
+Sign-up for Free
+(c) Vigo Software Ltd. mail@vigo.one
+	
+	
+Back to top

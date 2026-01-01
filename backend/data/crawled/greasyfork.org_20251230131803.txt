@@ -1,0 +1,81 @@
+ 
+Greasy Fork
+Sign in 
+Arabic (ar)
+Belarusian (be)
+Bokmål (nb)
+Bulgarian (bg)
+Chinese (China) (zh-CN)
+Chinese (Taiwan) (zh-TW)
+Croatian (hr)
+Czech (cs)
+Danish (da)
+Dutch (nl)
+English (en)
+Esperanto (eo)
+Finnish (fi)
+French (fr)
+French (Canada) (fr-CA)
+Georgian (ka)
+German (de)
+Greek (el)
+Hebrew (he)
+Hungarian (hu)
+Indonesian (id)
+Italian (it)
+Japanese (ja)
+Korean (ko)
+Marathi (mr)
+Polish (pl)
+Portuguese (Brazil) (pt-BR)
+Romanian (ro)
+Russian (ru)
+Serbian (sr)
+Slovak (sk)
+Spanish (es)
+Spanish (es-419)
+Swedish (sv)
+Thai (th)
+Turkish (tr)
+Uighur (ug)
+Ukrainian (uk)
+Vietnamese (vi)
+کوردیی ناوەندی (ckb)
+Help us translate!
+Scripts Forum Help More
+Welcome to Greasy Fork, a site for user scripts.
+Scripts for: youtube.com google.com torn.com x.com twitter.com More…
+What are user scripts?
+
+User scripts put you in control of your browsing experience. Once installed, they automatically make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits. The user scripts on Greasy Fork were written by other users and posted to share with the world. They're free to install and easy to use.
+
+Step 1: install a user script manager
+Tampermonkey on Chrome
+
+To use user scripts you need to first install a user script manager. Which user script manager you can use depends on which browser you use.
+
+Desktop Mobile (Android) Mobile (iOS)
+
+Chrome: Tampermonkey
+Firefox: Greasemonkey, Tampermonkey, or Violentmonkey
+Safari: Tampermonkey or Userscripts
+Microsoft Edge: Tampermonkey
+Opera: Tampermonkey or Violentmonkey
+Maxthon: Violentmonkey
+AdGuard: (no additional software required)
+Step 2: install a user script
+A user script's install button
+
+Browse this site to find a user script you want to try. Here is a sample of the most popular scripts:
+
+AC-baidu-google_sogou_bing_RedirectRemove_favicon_adaway_TwoLine - 1.bypass the redirect link at baidu\sogou\google\haosou; 2.remove ads at baidu; 3.add Favicon for each website; 4.render your own style; 5.counter; 6.Switch to handle all 7.Auto Pager
+ac-predictor - Predict AtCoder's performance during the contest
+Torn Price Filler [Market+Bazaar] by Rosti powered by Weav3r.dev - On "Fill" click on the Item Market or Bazaar, autofills the price with the lowest market price minus $1 (customizable), and shows a price popup.
+Janitor AI - Automatic Message Formatting Corrector - The "One-Click" cleanup script. Floating, Inline Top, or Inline Bottom. Select Italics/Bold/Plain text. Edge compatible.
+Grok Video Used too Enlengenthener and now doesnt - Grok Video Generation but 15 seconds not 6
+
+Once you've found a user script, click the green install button on the user script's page, and your user script manager will ask you to confirm the install.
+
+Step 3: use the user script
+
+Go to the site the user script affects. It should automatically do its thing. After trying out the user script for a while, go back to where you installed the user script and leave some feedback for the user script's author.

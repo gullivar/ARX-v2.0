@@ -1,0 +1,3 @@
+Prebid Server Prebid Server is a server-to-server proxy for Prebid.js users.
+        The host is not responsible for the content or advertising delivered through this proxy. For more information, 
+        please contact prebid-server - at - prebid.org.

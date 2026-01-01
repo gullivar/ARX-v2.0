@@ -1,0 +1,195 @@
+HelpContact us
+MyPDB 
+RCSB PDB
+Deposit 
+Search 
+Visualize 
+Analyze 
+Download 
+Learn 
+About 
+Careers
+COVID-19
+	
+	247,086
+Structures from the PDB archive	
+	1,068,577
+Computed Structure Models (CSM)
+	
+Include 
+CSM
+	
+
+Advanced Search|Chemical Search|Browse Annotations	
+Help
+Redesigned PDB Statistics Support Enhanced Functionality  
+Explore Statistics
+Welcome
+Deposit
+Search
+Visualize
+Analyze
+Download
+Learn
+
+RCSB Protein Data Bank (RCSB PDB) enables breakthroughs in science and education by providing access and tools for exploration, visualization, and analysis of:
+
+	
+
+Experimentally-determined 3D structures from the Protein Data Bank (PDB) archive
+
+
+
+	
+
+Integrative 3D Structures from the PDB Archive
+
+
+
+	
+
+Computed Structure Models (CSM) from AlphaFold DB and ModelArchive
+
+December Molecule of the Month
+FOXP3
+Latest Entries
+As ofWed Dec 24 2025
+9YCK
+Cryo-EM structure of MERS-CoV nsp10-nsp14 (E191A) in complex with T20P15 RNA, monomeric form
+Features & Highlights
+Milestone: >20,000 Structures Deposited to the PDB in 2025
+
+wwPDB has received a record number of depositions this year
+
+Watch the Webinar: Searching the PDB for high-quality ligand-bound structures
+
+Learn how to search the PDB for the best examples of ligands using text, chemical drawing, and APIs
+
+Subscribe to API News
+
+Stay up-to-date with web service developments and announcements from RCSB PDB
+
+Coming soon: wwPDB Data Processing Distribution Changes
+
+PDBj will start processing Oceania depositions starting early January 2026
+
+Register for the Nov 24 Virtual Office Hour on Exploring CSMs at RCSB.org
+
+Learn how to use RCSB.org features to navigate 3D Computed Structure Models from AlphaFold DB and ModelArchive
+
+Register Now for Webinar: Exploring Integrative Structures with RCSB.org
+
+On November 12, learn how to explore PDB structures determined using integrative and hybrid methods with RCSB PDB tools
+
+Register Now for Webinar: Exploring the Workhorses of Biotechnology
+
+On November 6, learn how to use RCSB.org to analyze plastic-degrading enzymes
+
+Coming Soon: Remediation of Metalloprotein-containing PDB Entries and CCDs
+
+Existing polyatomic metal containing PDB entries and CCDs will be updated to make metalloprotein structures findable and reusable with more complete chemical description and metal coordination annotation.
+
+Register for the Nov 24 Virtual Office Hour on Exploring CSMs at RCSB.org
+
+Learn how to use RCSB.org features to navigate 3D Computed Structure Models from AlphaFold DB and ModelArchive
+
+Register for the Oct 30 Virtual Office Hour on Structure Summary Pages
+
+Learn how a exploring a single PDB structure at RCSB.org can lead to visualizations, analyses, and searches across the archive
+
+
+See new feature archive
+News
+Publications
+Molecular Explorations for 2026
+Download our new calendar that highlights the work of Molecule of the Month creator Janet Iwasa
+» 12/28/2025
+
+
+Happy Holidays
+Season's greetings from RCSB PDB
+» 12/19/2025
+
+
+PDB-101 Focus: Peak Performance
+PDB-101 materials explore the structural biology of nutrition.
+» 12/15/2025
+
+
+Structural Biology and Nobel Prizes
+The Nobel Prize Award ceremony will take place on December 10. Visit PDB-101 to explore connections between Nobel Prizes and more than 50 years of open access to the PDB archive.
+» 12/07/2025
+
+
+December 1: World AIDS Day
+Watch the documentary Target Zero to learn about the challenge and emotional complexity of the fight to control HIV infection
+» 11/27/2025
+
+
+Poster Prize Awarded at The Protein Society
+Congratulations to Emily Schaffter (Clark University) for Differential Interactions between Calmodulin and the IQ Motifs of the HECT E3 Ubiquitin Ligases UBE3B and UBE3C
+» 11/25/2025
+
+
+Video: Immunology and Cancer
+Visit PDB-101 to watch a three-part series exploring the cellular and molecular details of the human immune response to cancer. Now available in English and Spanish.
+» 11/17/2025
+
+
+Poster Prizes Awarded at LACA
+Congratulations to Miguel Arbeláez (University of São Paulo and National University of Colombia) and Francisco Patrick Ferreira da Silva (Federal University of Ceará, Brazil)
+» 11/12/2025
+
+
+PDB-101 Focus: Peak Performance
+PDB-101 materials explore the structural biology of nutrition.
+» 11/11/2025
+
+
+Education Corner: Cambridge Structural Database
+Learn how CCDC is Celebrating 60 Years of Research and Education with Small Molecules
+» 11/06/2025
+
+
+ PDB at a Glance
+246,704
+Experimental PDB Structures
+382
+Integrative PDB Structures
+78,370
+Structures of Human Sequences
+20,677
+Nucleic Acid Containing Structures
+ CSM at a Glance
+999,251
+AlphaFoldDB
+69,326
+ModelArchive
+More Statistics
+About
+About Us
+Citing Us
+Publications
+Team
+Careers
+Usage & Privacy
+Support
+Contact Us
+Help
+Website FAQ
+Glossary
+Service Status
+RCSB PDB is hosted by
+RCSB PDB is a member of
+
+
+RCSB Partners
+Nucleic Acid Knowledgebase
+wwPDB Partners
+RCSB PDB
+PDBe
+PDBj
+BMRB
+EMDB
+
+RCSB PDB Core Operations are funded by the U.S. National Science Foundation (DBI-2321666), the US Department of Energy (DE-SC0019749), and the National Cancer Institute, National Institute of Allergy and Infectious Diseases, and National Institute of General Medical Sciences of the National Institutes of Health under grant R01GM157729.

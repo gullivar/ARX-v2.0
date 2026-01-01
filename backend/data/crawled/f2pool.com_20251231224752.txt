@@ -1,0 +1,197 @@
+F2Pool: Leading Bitcoin Mining Pool Transaction Accelerator PoW Rankings Halvings Mining Popular Miners App Miner Tools Halvings Blocks Mined Help Staking Ethereum MAX MEV Solana MEV Babylon Bitcoin Babylon Genesis All networks (11) English English Español Українська 简体中文 繁體中文 Dark Mode Light Mode Create Account Sign In Enjoy the new mining experience iOS Download Android Download No data USD Currency Daily Revenue Pool Hashrate Hashrate Price Algo Help BTC +
+
+
+HTR
+
+
+,
+
+ELA
+
+
+,
+
+NMC
+
+
+,
+
+FB $ 0.0379 /T 109.38 EH/s 998.66 EH/s $ 88733.81 SHA256d Tutorial Popular Miners More BTC Coin information FB Coin information Calculator Tools Tutorial Popular Miners BTC Coin information FB Coin information Calculator Tools BTC Next Halving Merged Mining Reward: 1 BTC (with PPS) = 90 HTR + 1 ELA + 1 NMC + FB (If you mine BTC, you will receive FB rewards based on PPLNS mining scheme) Merged Mining Reward: 1 BTC (with PPS) = 90 HTR + 1 ELA + 1 NMC + FB (If you mine BTC, you will receive FB rewards based on PPLNS mining scheme) 7d 1m Pool URL Universal Asia North America Europe Africa Latin America stratum+tcp://btc.f2pool.com:1314 (Backup: 25,3333) stratum+ssl://btcssl.f2pool.com:1300 (Backup: 1301) stratum+tcp://btc-asia.f2pool.com:1314 (Backup: 25,1315,3333) stratum+tcp://btc-na.f2pool.com:1314 (Backup: 25,1315,3333) stratum+tcp://btc-euro.f2pool.com:1314 (Backup: 25,1315,3333) stratum+tcp://btc-africa.f2pool.com:1314 (Backup: 25,1315,3333) stratum+tcp://btc-latin.f2pool.com:1314 (Backup: 25,1315,3333) Estimated Daily Revenue Calculator Include bonus coins FB TH/s ≈ 0.00000043 BTC + 0.00002227 FB ≈ $ 0.0379 Pool Hashrate 109.38 EH/s Difficulty 148.26 T Next Difficulty Change Estimate 147.27 T (-0.67%) Time Until Difficulty Change 8 days and 18 hours Payout FPPS
+4%
+
+
+ | 
+
+PPLNS
+2% Minimum Payout 0.005 BTC 0.1 FB BTC FB Network Hashrate 1046.40 EH/s 1075.10 EH/s 1082.67 EH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 88733.81 Algorithm SHA256d Mining Machine SHA256d ASICs Difficulty 148.26 T Next Difficulty Change Estimate 147.27 T (-0.67%) Time Until Difficulty Change 8 days and 18 hours Payout FPPS 4% PPLNS 2% Minimum Payout 0.005
+
+
+ BTC Network Hashrate 1046.40 EH/s 1075.10 EH/s 1082.67 EH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 88733.81 Algorithm - Mining Machine - Difficulty 15.24 T Next Difficulty Change Estimate 147.27 T (-0.67%) Time Until Difficulty Change 8 days and 18 hours Payout FPPS 4% PPLNS 2% Minimum Payout 0.1
+
+
+ FB LTC +
+
+
+DOGE
+
+
+,
+
+BELLS
+
+
+,
+
+LKY
+
+
+,
+
+PEP
+
+
+,
+
+JKC
+
+
+,
+
+DINGO
+
+
+,
+
+SHIC
+
+
+,
+
+CRC
+
+
+,
+
+TRMP $ 0.6846 /G 782.69 TH/s 2843.83 TH/s $ 78.05 Scrypt Tutorial Popular Miners More LTC Coin information DOGE Coin information BELLS Coin information LKY Coin information PEP Coin information JKC Coin information DINGO Coin information SHIC Coin information CRC Coin information TRMP Coin information Calculator Tools Tutorial Popular Miners LTC Coin information DOGE Coin information BELLS Coin information LKY Coin information PEP Coin information JKC Coin information DINGO Coin information SHIC Coin information CRC Coin information TRMP Coin information Calculator Tools LTC Next Halving If you mine LTC, you will receive DOGE, BELLS, LKY, PEP, JKC, DINGO, SHIC, CRC and TRMP rewards based on PPLNS mining scheme. If you mine LTC, you will receive DOGE, BELLS, LKY, PEP, JKC, DINGO, SHIC, CRC and TRMP rewards based on PPLNS mining scheme. 7d 1m Pool URL Universal Asia North America Europe stratum+tcp://ltc.f2pool.com:3335 (Backup: 5200,8888) stratum+ssl://ltcssl.f2pool.com:5201 (Backup: 5202) stratum+tcp://ltc-asia.f2pool.com:3335 (Backup: 5200,8888) stratum+tcp://ltc-na.f2pool.com:3335 (Backup: 5200,8888) stratum+tcp://ltc-euro.f2pool.com:3335 (Backup: 5200,8888) Estimated Daily Revenue Calculator Include bonus coins DOGE BELLS LKY PEP JKC DINGO SHIC CRC TRMP GH/s ≈ 0.00128390 LTC + 4.73386717 DOGE + 0.00109450 BELLS + 0.00076154 LKY + 4.49848411 PEP + 0.00264323 JKC + 5.21670779 DINGO + 7.73757129 SHIC + 0.00179913 CRC + 122.0529 TRMP ≈ $ 0.6846 Pool Hashrate 782.69 TH/s Difficulty 97.93 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout LTC PPS 4% DOGE PPLNS 4% BELLS PPLNS 4% LKY PPLNS 4% PEP PPLNS 4% JKC PPLNS 4% DINGO PPLNS 4% SHIC PPLNS 4% CRC PPLNS 4% TRMP PPLNS 4% Payout Threshold 0.02 LTC 40 DOGE 1 BELLS 0.1 LKY 600 PEP 5 JKC 1000 DINGO 40000 SHIC 1 CRC 400000 TRMP LTC DOGE BELLS LKY PEP JKC DINGO SHIC CRC TRMP Network Hashrate 2814.37 TH/s 2820.47 TH/s 2756.68 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 78.05 Algorithm Scrypt Mining Machine Scrypt ASICs Difficulty 97.93 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 4% Payout Threshold 0.02
+
+
+ LTC Network Hashrate 2861.72 TH/s 2852.67 TH/s 2809.94 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.1231 Algorithm - Mining Machine - Difficulty 30.73 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 40
+
+
+ DOGE Network Hashrate - Price $ 0.0834 Algorithm - Mining Machine - Difficulty 1.00 Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 1
+
+
+ BELLS Network Hashrate 2280.71 TH/s 2310.26 TH/s 2283.24 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.1278 Algorithm - Mining Machine - Difficulty 29.63 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 0.1
+
+
+ LKY Network Hashrate 2593.36 TH/s 2586.45 TH/s 2551.62 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0003 Algorithm - Mining Machine - Difficulty 27.37 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 600
+
+
+ PEP Network Hashrate 2751.17 TH/s 2905.95 TH/s 2810.11 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0113 Algorithm - Mining Machine - Difficulty 35.81 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 5
+
+
+ JKC Network Hashrate 2359.77 TH/s 2371.37 TH/s 2348.83 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 1.47E-05 Algorithm - Mining Machine - Difficulty 25.92 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 1000
+
+
+ DINGO Network Hashrate 2371.98 TH/s 2398.35 TH/s 2373.84 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 5.17E-06 Algorithm - Mining Machine - Difficulty 24.89 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 40000
+
+
+ SHIC Network Hashrate 1366.97 TH/s 1353.51 TH/s 1321.68 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0168 Algorithm - Mining Machine - Difficulty 19.34 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 1
+
+
+ CRC Network Hashrate 2354.51 TH/s 2353.31 TH/s 2334.69 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 2.16E-06 Algorithm - Mining Machine GPU Rigs Difficulty 24.15 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 4% Payout Threshold 400000
+
+
+ TRMP ZEC $ 0.0511 /K 2697.71 Msol/s 14.15 Gsol/s $ 511.19 Equihash Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools ZEC Next Halving 7d 1m Pool URL stratum+tcp://zec.f2pool.com:3357 Estimated Daily Revenue Calculator Ksol/s ≈ 0.00009998 ZEC ≈ $ 0.0511 Pool Hashrate 2697.71 Msol/s Difficulty 131.72 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 3% PPS Payout Threshold 0.1
+
+
+ ZEC Network Hashrate 13.39 Gsol/s 13.57 Gsol/s 13.57 Gsol/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 511.19 Algorithm Equihash Mining Machine Equihash ASICs Difficulty 131.72 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 3% Payout Threshold 0.1
+
+
+ ZEC KAS +
+
+
+CAU $ 0.3092 /T 84.26 PH/s 429.94 PH/s $ 0.0439 kHeavyHash Tutorial Popular Miners More KAS Coin information CAU Coin information Calculator Tools Tutorial Popular Miners KAS Coin information CAU Coin information Calculator Tools KAS Next Halving 7d 1m Pool URL stratum+tcp://kas.f2pool.com:1430 stratum+ssl://kasssl.f2pool.com:1430 Estimated Daily Revenue Calculator Include bonus coins CAU TH/s ≈ 7.04443112 KAS + 0.00098201 CAU ≈ $ 0.3092 Pool Hashrate 84.26 PH/s Difficulty 22.25 P Next Difficulty Change Estimate - Time Until Difficulty Change - Payout KAS PPLNS 1% CAU PPLNS 1% Minimum Payout 15 KAS 1 CAU KAS CAU Network Hashrate 430.60 PH/s 438.75 PH/s 456.23 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0439 Algorithm kHeavyHash Mining Machine GPU Rigs/FPGA Difficulty 22.25 P Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Minimum Payout 15
+
+
+ KAS Network Hashrate 430.60 PH/s 438.75 PH/s 456.23 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0439 Algorithm - Mining Machine - Difficulty 5000.00 G Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Minimum Payout 1
+
+
+ CAU ETC $ 0.0007 /M 79.47 TH/s 197.34 TH/s $ 11.82 Etchash Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools ETC Next Halving 7d 1m Pool URL Universal Asia North America Europe stratum+tcp://etc.f2pool.com:8008 (Backup: 8118) stratum+ssl://etcssl.f2pool.com:8180 (Backup: 8181) stratum+tcp://etc-asia.f2pool.com:8008 (Backup: 8118) stratum+tcp://etc-na.f2pool.com:8008 (Backup: 8118) stratum+tcp://etc-euro.f2pool.com:8008 (Backup: 8118) Estimated Daily Revenue Calculator MH/s ≈ 0.00006289 ETC ≈ $ 0.0007 Pool Hashrate 79.47 TH/s Difficulty 2714.65 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPS Payout Threshold 0.1 / 1 / 5 / 20 / 50
+
+
+ ETC Network Hashrate 201.21 TH/s 205.08 TH/s 206.11 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 11.82 Algorithm Etchash Mining Machine GPU Rigs Difficulty 2714.65 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 1% Payout Threshold 0.1 / 1 / 5 / 20 / 50
+
+
+ ETC ETHW $ 0.0011 /M 1232.02 GH/s 5742.42 GH/s $ 0.5228 Ethash Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools ETHW Next Halving 7d 1m Pool URL stratum+tcp://ethw.f2pool.com:6688 (Backup: 6689) stratum+ssl://ethwssl.f2pool.com:6698 (Backup: 6699) Estimated Daily Revenue Calculator MH/s ≈ 0.00219117 ETHW ≈ $ 0.0011 Pool Hashrate 1232.02 GH/s Difficulty 76.50 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold 0.1
+
+
+ ETHW Network Hashrate 6000.45 GH/s 6029.35 GH/s 6052.90 GH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.5228 Algorithm Ethash Mining Machine GPU Rigs Difficulty 76.50 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold 0.1
+
+
+ ETHW BCH $ 0.0370 /T 227.56 PH/s 6883.10 PH/s $ 595.82 SHA256d Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools BCH Next Halving 7d 1m Pool URL stratum+tcp://b4c.f2pool.com:1228 Estimated Daily Revenue Calculator TH/s ≈ 0.00006213 BCH ≈ $ 0.0370 Pool Hashrate 227.56 PH/s Difficulty 985.90 G Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 3% PPS Payout Threshold 0.01
+
+
+ BCH Network Hashrate 7366.68 PH/s 7129.45 PH/s 7222.81 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 595.82 Algorithm SHA256d Mining Machine SHA256d ASICs Difficulty 985.90 G Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 3% Payout Threshold 0.01
+
+
+ BCH ALEO $ 0.0096 /M 830.71 Gproof/s 2933.98 Gproof/s $ 0.1213 zkSNARK Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools ALEO Next Halving 7d 1m Pool URL stratum+ssl://aleo.f2pool.com:4420 stratum+tcp://aleo.f2pool.com:4430 (For Goldshell) stratum+tcp://aleo.f2pool.com:4400 (For IceRiver) Estimated Daily Revenue Calculator Mproof/s ≈ 0.07946030 ALEO ≈ $ 0.0096 Pool Hashrate 830.71 Gproof/s Difficulty 56.03 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold -
+
+
+ ALEO Network Hashrate 3297.09 Gproof/s 3368.93 Gproof/s 3295.36 Gproof/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.1213 Algorithm zkSNARK Mining Machine GPU Rigs Difficulty 56.03 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold -
+
+
+ ALEO SC $ 0.3759 /T 6199.20 TH/s 15.85 PH/s $ 0.0015 Blake2B Tutorial Popular Miners More Coin information Calculator Tutorial Popular Miners Coin information Calculator SC Next Halving 7d 1m Pool URL stratum+tcp://sc.f2pool.com:7788 Estimated Daily Revenue Calculator TH/s ≈ 257.5841 SC ≈ $ 0.3759 Pool Hashrate 6199.20 TH/s Difficulty - Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 3% PPS Payout Threshold 100
+
+
+ SC Network Hashrate 17.09 PH/s 16.90 PH/s 16.88 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0015 Algorithm Blake2B Mining Machine Obelisk ASICs Difficulty - Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 3% Payout Threshold 100
+
+
+ SC CKB $ 0.0905 /T 57.53 PH/s 179.26 PH/s $ 0.0024 Eaglesong Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools CKB Next Halving 7d 1m Pool URL stratum+tcp://ckb.f2pool.com:4300 (Backup: 4333) Estimated Daily Revenue Calculator TH/s ≈ 37.68699624 CKB ≈ $ 0.0905 Pool Hashrate 57.53 PH/s Difficulty 1582.27 P Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPS Payout Threshold 100
+
+
+ CKB Network Hashrate 146.96 PH/s 143.68 PH/s 144.37 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0024 Algorithm Eaglesong Mining Machine Eaglesong ASICs Difficulty 1582.27 P Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 1% Payout Threshold 100
+
+
+ CKB DASH $ 0.0025 /G 972.79 TH/s 2658.75 TH/s $ 41.70 X11 Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools DASH Next Halving 7d 1m Pool URL stratum+tcp://dash.f2pool.com:5588 Estimated Daily Revenue Calculator GH/s ≈ 0.00006055 DASH ≈ $ 0.0025 Pool Hashrate 972.79 TH/s Difficulty 111.77 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 2% PPS Payout Threshold 0.1
+
+
+ DASH Network Hashrate 2658.75 TH/s 2658.75 TH/s 2658.26 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 41.70 Algorithm X11 Mining Machine X11 ASICs Difficulty 111.77 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPS 2% Payout Threshold 0.1
+
+
+ DASH CFX $ 0.0032 /M 170.83 GH/s 2550.01 GH/s $ 0.0707 Octopus Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools CFX Next Halving 7d 1m Pool URL stratum+tcp://cfx.f2pool.com:6800 stratum+tcp://cfxssl.f2pool.com:6820 Estimated Daily Revenue Calculator MH/s ≈ 0.04562429 CFX ≈ $ 0.0032 Pool Hashrate 170.83 GH/s Difficulty 1275.01 G Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold 1
+
+
+ CFX Network Hashrate 2368.43 GH/s 2512.81 GH/s 2572.97 GH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.0707 Algorithm Octopus Mining Machine GPU Rigs Difficulty 1275.01 G Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold 1
+
+
+ CFX NEXA $ 0.0017 /M 3197.36 MH/s 2539.99 GH/s $ 5.70E-07 NexaPow Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools NEXA Next Halving 7d 1m Pool URL stratum+tcp://nexa.f2pool.com:3400 Estimated Daily Revenue Calculator MH/s ≈ 2898.5410 NEXA ≈ $ 0.0017 Pool Hashrate 3197.36 MH/s Difficulty 67.96 K Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold 50000
+
+
+ NEXA Network Hashrate 2521.88 GH/s 2468.71 GH/s 2399.89 GH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 5.70E-07 Algorithm NexaPow Mining Machine GPU Rigs Difficulty 67.96 K Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold 50000
+
+
+ NEXA ALPH $ 0.1440 /T 6782.67 TH/s 12.87 PH/s $ 0.1095 Blake3 Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools ALPH Next Halving 7d 1m Pool URL stratum+tcp://alph-asia.f2pool.com:5600 stratum+tcp://alph-asia.f2pool.com:5630 (For ASICs) Estimated Daily Revenue Calculator TH/s ≈ 1.31476941 ALPH ≈ $ 0.1440 Pool Hashrate 6782.67 TH/s Difficulty 6396.69 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold 1
+
+
+ ALPH Network Hashrate 12.53 PH/s 12.96 PH/s 13.07 PH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.1095 Algorithm Blake3 Mining Machine ASIC Difficulty 6396.69 T Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold 1
+
+
+ ALPH SPACE $ 0.0347 /T 1953.51 TH/s 2944.16 TH/s $ 0.1012 SHA256d Tutorial Popular Miners More Coin information Calculator Tools Tutorial Popular Miners Coin information Calculator Tools SPACE Next Halving 7d 1m Pool URL stratum+tcp://space.f2pool.com:5900 Estimated Daily Revenue Calculator TH/s ≈ 0.34282802 SPACE ≈ $ 0.0347 Pool Hashrate 1953.51 TH/s Difficulty 711.47 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout 1% PPLNS Payout Threshold 0.5
+
+
+ SPACE Network Hashrate 3887.86 TH/s 5775.14 TH/s 6071.55 TH/s (1 Day Avg.) (3 Day Avg.) (7 Day Avg.) Price $ 0.1012 Algorithm SHA256d Mining Machine ASIC Difficulty 711.47 M Next Difficulty Change Estimate - Time Until Difficulty Change - Payout PPLNS 1% Payout Threshold 0.5
+
+
+ SPACE Connect to the world’s leading crypto mining pool. Important Reminder f2pool solely provides mining pool services that are only accessible through our official website: www.f2pool.com . We do not offer any investment opportunities, financial services, or cloud mining products. Kindly ensure you verify before taking any actions. OK Calculator Advanced Mining Calculator * Please Note: This calculator uses the current network difficulty and default pool fees to estimate PPS mining revenue. It should be used as a reference only, as actual revenue may differ. Please Note: This calculator uses the current network difficulty and default pool fees to estimate mining revenue. It should be used as a reference only, as actual revenue may differ. Hashrate BTC BCH LTC ETC ETHW ZEC SC DASH CKB CFX ALEO KAS SPACE NEXA ALPH Revenue DOGE BELLS LKY PEP JKC DINGO SHIC CRC TRMP CAU FB /day + /day ≈ $ More Settings Price $ DOGE
+Price $ BELLS
+Price $ LKY
+Price $ PEP
+Price $ JKC
+Price $ DINGO
+Price $ SHIC
+Price $ CRC
+Price $ TRMP
+Price $ CAU
+Price $ FB
+Price $ Difficulty Rate % Miner Hashrate Power Consumption Revenue (24h) Daily Cost $ /kWh Unit Cost ROI Period Pick Photo This “CRYPTOLASEREYES” app is powered by f2pool and stakefish . Sorry, your browser doesn't support embedded videos. CLICK TO JOIN Social Media © 2013–2025 F2Pool. All rights reserved. © 2013–2025 F2Pool. All rights reserved. Products App Download PoW Rankings Popular Miners Transaction Accelerator Services API Docs Helps Mining Tutorial Announcements FAQ Submit Request About F2Pool About Us Join Us Terms of Service Partnerships Contact Us Media Kit Search Address Currency Go Go BCH CKB DASH ETC SC ZEC ZEN Due to the recent development in local regulation, we will no longer be able to provide you with mining pool services. Your pending payout will be safe, and the final payout will be sent automatically as usual. If you have not filled in the payout address, please do so before 2021-12-30. We plan to shut down our services in mainland China, excluding Hong Kong, Macau, and Taiwan, by 2021-12-31 16:00 UTC. Please contact us with supporting documents if our system incorrectly identifies your country of origin. Verification BTC Staking Babylon BTC Staking Phase 2 will go live at Babylon Genesis block 139,920, estimated to occur on 2025-04-24 13:11 UTC. By staking BTC, participants can earn Babylon token (BABY) rewards. View Details OK OK

@@ -1,0 +1,199 @@
+Skip to content
+Python
+PSF
+Docs
+PyPI
+Jobs
+Community
+Donate
+ 
+Search This Site
+ GO
+Socialize
+About
+ 
+Downloads
+ 
+Documentation
+ 
+Community
+ 
+Success Stories
+ 
+News
+ 
+Events
+>_
+Launch Interactive Shell
+# Python 3: Fibonacci series up to n
+>>> def fib(n):
+>>>     a, b = 0, 1
+>>>     while a < n:
+>>>         print(a, end=' ')
+>>>         a, b = b, a+b
+>>>     print()
+>>> fib(1000)
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+Functions Defined
+
+The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. More about defining functions in Python 3
+
+1
+2
+3
+4
+5
+
+Python is a programming language that lets you work quickly
+and integrate systems more effectively. Learn More
+
+Get Started
+
+Whether you're new to programming or an experienced developer, it's easy to learn and use Python.
+
+Start with our Beginner’s Guide
+
+Download
+
+Python source code and installers are available for download for all versions!
+
+Latest: Python 3.14.2
+
+Docs
+
+Documentation for Python's standard library, along with tutorials and guides, are available online.
+
+docs.python.org
+
+Jobs
+
+Looking for work or have a Python related position that you're trying to hire for? Our relaunched community-run job board is the place to go.
+
+jobs.python.org
+
+Latest News
+
+More
+
+2025-12-16
+Python 3.15.0 alpha 3
+2025-12-15
+PSF News Special Edition: Python is For Everyone & PyCon US 2026
+2025-12-05
+Python 3.14.2 and 3.13.11 are now available!
+2025-12-02
+Python 3.13.10 is now available, too, you know!
+2025-12-02
+Python 3.14.1 is now available!
+Upcoming Events
+
+More
+
+2026-01-14
+Python Meeting Düsseldorf
+2026-01-22
+Python Leiden User Group
+2026-01-27
+PyLadies Amsterdam: Robotics beginner class with MicroPython
+2026-01-31
+Python Devroom @ FOSDEM 2026
+2026-02-20
+PyCon Namibia 2026
+Success Stories
+
+More
+
+To simplify the adoption of FHE, which involves a complex and resource-intensive technological stack, Zama developed tools that streamline the integration of FHE into applications. Since Python is the de facto standard for building machine learning (ML) applications, it was an obvious choice to create an open-source FHE library in Python.
+
+Zama Concrete ML: Simplifying Homomorphic Encryption for Python Machine Learning by Andrei Stoian and Benoit Chevallier-Mames
+
+
+
+Use Python for…
+
+More
+
+Web Development: Django, Pyramid, Bottle, Tornado, Flask, Litestar, web2py
+GUI Development: tkInter, PyGObject, PyQt, PySide, Kivy, wxPython, DearPyGui
+Scientific and Numeric: SciPy, Pandas, IPython
+Software Development: Buildbot, Trac, Roundup
+System Administration: Ansible, Salt, OpenStack, xonsh
+>>> Python Software Foundation
+
+The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Learn more
+
+Become a Member Donate to the PSF
+
+About
+Applications
+Quotes
+Getting Started
+Help
+Python Brochure
+Downloads
+All releases
+Source code
+Windows
+macOS
+Android
+Other Platforms
+License
+Alternative Implementations
+Documentation
+Docs
+Audio/Visual Talks
+Beginner's Guide
+FAQ
+Non-English Docs
+PEP Index
+Python Books
+Python Essays
+Community
+Diversity
+Mailing Lists
+IRC
+Forums
+PSF Annual Impact Report
+Python Conferences
+Special Interest Groups
+Python Logo
+Python Wiki
+Code of Conduct
+Community Awards
+Get Involved
+Shared Stories
+Success Stories
+Arts
+Business
+Education
+Engineering
+Government
+Scientific
+Software Development
+News
+Python News
+PSF Newsletter
+PSF News
+PyCon US News
+News from the Community
+Events
+Python Events
+User Group Events
+Python Events Archive
+User Group Events Archive
+Submit an Event
+Contributing
+Developer's Guide
+Issue Tracker
+python-dev list
+Core Mentorship
+Report a Security Issue
+Help & General Contact
+ 
+Diversity Initiatives
+ 
+Submit Website Bug
+ 
+Status 
+
+Copyright ©2001-2025.  Python Software Foundation  Legal Statements  Privacy Notice

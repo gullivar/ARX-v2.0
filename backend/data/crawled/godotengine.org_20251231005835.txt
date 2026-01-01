@@ -1,0 +1,137 @@
+Donate to Godot!
+
+This has been a great year for the engine, but there are still a lot of things we would love to do.
+If everyone visiting the site would donate €5, we could hire 5 more developers to work on Godot full-time.
+
+
+Donate Now
+Features
+Showcase
+Blog
+Community
+Assets
+Download
+Docs
+Contribute
+ Donate
+Your free, open‑source
+game engine.
+
+Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+
+Download Latest
+4.5.1
+What's new
+Looking for Godot 3, our experimental releases, or a previous version?
+DOGWALK - Blender Studio
+Latest news
+Dev snapshot: Godot 4.6 beta 2
+
+The final development snapshot of 2025!
+
+19 December 2025
+Inverse Kinematics Returns to Godot 4.6
+
+Now Godot has Inverse Kinematics in 3D.
+
+16 December 2025
+Dev snapshot: Godot 4.6 beta 1
+
+Godot 4.6 enters beta!
+
+10 December 2025
+Dev snapshot: Godot 4.6 dev 6
+
+Feature freeze is here; time for one last round-up!
+
+5 December 2025
+More news
+A different way to make games
+Innovative design
+
+Godot's Node and Scene system gives you both power and flexibility to create anything.
+
+Use the right language for the job
+
+Keep your code modular with an object-oriented API using Godot's own GDScript, C#, C++, or bring your own using GDExtension.
+
+C# support is currently only available for desktop and mobile platforms as of Godot 4.2.
+Use Godot 3 to run C# on the Web platform.
+Dedicated 2D engine
+
+Make crisp and performant 2D games with Godot's dedicated 2D rendering engine with real 2D pixel coordinates and 2D nodes.
+
+Simple and powerful 3D
+
+Godot's 3D nodes give you everything you need to build, animate, and render your 3D worlds and characters.
+
+Release on all platforms
+
+Deploy your game on desktop, mobile, and the web in seconds. Godot even supports consoles through third party publishers.
+
+Open Source
+
+Truly open development: anyone who contributes to Godot benefits equally from others’ contributions.
+
+Learn more about using Godot
+Get involved
+
+Join the community and help create a game engine that belongs to everybody.
+
+Code
+
+If you know how to code, you can help by fixing bugs and working with engine contributors towards the implementation of new features.
+
+Learn more
+Document
+
+Documentation quality is essential in a game engine; help make it better by updating the API reference, writing new guides or submitting corrections.
+
+Learn more
+Report
+
+Found a problem with the engine? Don't forget to report it so that developers can track it down.
+
+Learn more
+
+You don't need to be an engine developer to help Godot. Join the development fund and help us make the Godot Engine even more awesome!
+
+Donate
+Godot is sponsored by:
+Patron
+Corporate Platinum
+Corporate Gold
+Corporate Silver
+
+If you are interested in a corporate sponsorship, please write to contact@godot.foundation.
+To donate as an individual, you can do so through the Godot Engine development fund.
+
+Donate
+Godot Engine
+Download
+Documentation
+Features
+Web editor
+Release archive
+Source code
+Project
+Blog
+Code of conduct
+Governance
+Teams
+Priorities
+Communities
+Resources
+Asset library
+Press kit
+Showcase
+Education
+Console support
+Foundation
+About
+Donate
+License
+Privacy policy
+Contact us
+
+© 2007-2025 Juan Linietsky, Ariel Manzur and contributors. Hosted by the Godot Foundation. Website source code on GitHub.

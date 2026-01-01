@@ -1,0 +1,23 @@
+home aranjepack writings fc00 tracker news contact
+About me
+
+My name is Aranjedeath (aˈɾaŋ.xadɛθ). I'm a techie, but I have an associates in International Studies from Cuesta College, and a bachelors in Global Studies from CSU Monterey Bay. My concentration at CSUMB was in International Aid & Development, using complexity theory to analyze current and historic development (like international aid, not like code or products) regimes. The best papers I wrote for each class are available in my graduation portfolio.
+
+I wrote my capstone paper on the future of technology, focusing on compounding advances in storage, communications, and sensor technologies, blockchains, and software capable of producing cognizant objects. I took this combination as the real promise (and peril) of the Internet of Things, and sought to begin a coversation on what it will mean for humans (ontological, not epistemic or metaphysic).
+
+I am currently Director of Information Technology and Engineering Services for a FileMaker software engineering consultancy. [contact]
+
+I am on Matrix. You can join my public lobby, or news room. I am also on Mastodon, and you can join the Mastodon server I am on here.
+
+My current web experiments directory is here (kinda stale).
+(Qualys SSL Test)
+(securityheaders.io)
+(ImmuniWeb security scan)
+(Mozilla observatory analysis)
+(PageSpeed Report)
+
+I have a couple recipes.
+
+Up The Rebels 🇵🇸
+
+privacy policy

@@ -1,0 +1,299 @@
+Font Awesome
+Font Awesome
+Start
+Search Icons
+Icons
+Docs
+Plans
+Support
+Podcast
+Sign In
+Font Awesome.
+Icons. Easy. Done.
+
+The internet's favorite icon library & toolkit.
+
+Search for Icons
+Search for Icons
+About Font Awesome Icons
+ v7.1.0
+ 63,119 Icons
+ 30 Icon Styles
+FONT AWESOME 7
+
+Now Available!
+
+ Upgrade to Pro+
+ Start for Free
+
+Get a Font Awesome Pro subscription to access version 7 - or go Pro+ and get our new Pro+ icon packs, plus more services and bandwidth.
+
+ Font Awesome 7
+ New Icon Packs
+ Tech Updates
+ Styling Toolkit
+ Pro vs Pro+
+ 
+LINK TO START FOR FREE ON THIS PAGE
+NO RESERVATIONS REQUIRED
+1 line of code… 1 million+ icons.
+
+No need to download, install, or manage files. Our Kits CDN does it all with a single line of code. With Font Awesome Free, you get easy access to over 2,000 icons. Upgrade to a Pro plan for even more.
+
+Enter your email to get started with a free Kit! 
+ I agree to the Terms of Service and Privacy Policy.
+Start for Free 
+Already have an account?
+ 
+LINK TO ANNOUNCING FONT AWESOME 7 ON THIS PAGE
+NEW RECIPE. SAME GREAT TASTE.
+Font Awesome 7 PRO
+
+The next generation of the internet's favorite icon library and toolkit is here. Featuring more icons, better performance, and new ways to make your designs look (and taste?) great. Available now in all Pro plans!
+
+UPDATED!
+Revamped + Refreshed Icons
+
+We've lovingly refined the designs for most of our core icons, using more consistent keyshapes and square canvases.
+
+NEW!
+Fresh New Icons
+
+The initial release of Font Awesome 7 includes over 300 brand-new icons, with more on the way!
+
+New Modifiers!
+
+Create 11+ million possible icons with the Icon Wizard.
+
+Icon Upload!
+
+Easily upload new icons to use alongside existing Font Awesome icons.
+
+INCLUDED ICON PACKS
+Brands
+Classic
+Duotone
+Sharp
+Sharp Duotone
+ 
+LINK TO NEW ICON PACKS ON THIS PAGE
+HOT OFF THE GRIDDLE
+New Icon Packs PRO+
+
+Entirely new, visually unique "small batch" icon packs designed in collaboration with world-class icon designers. Available now in all Pro+ plans!
+
+Each Pro+ icon pack contains a curated selection of the 200 most common icons needed for app and website design.
+
+ Upgrade to Pro+
+Chisel
+Etch
+Jelly
+Notdog
+Slab
+Thumbprint
+Utility
+Whiteboard
+
+8 new Pro+ icon packs are available now, with new icon packs dropping regularly!
+
+MORE ICON PACKS COMING SOON!
+
+ 
+LINK TO TECH UPDATES ON THIS PAGE
+ONLY THE FRESHEST INGREDIENTS
+Tech Updates
+
+With Font Awesome 7, we've made huge improvements to how icons work behind the scenes. From minor tweaks to major overhauls, our toolkit is now faster than ever.
+
+NEW!
+Faster Load Times!
+
+Refined SVG/JS, optimized font files, and compressed CSS.
+
+NEW!
+Toolkit Updates!
+
+Upgraded to Dart Sass with modern SCSS and improved CSS properties.
+
+NEW!
+Consistent Icon Widths!
+
+Icon canvases now render at a fixed width, with new "automatic" option.
+
+NEW!
+Improved Accessibility!
+
+Better screen reader support, assistive tech, and RTL compatibility.
+
+Great for Developers
+Components for JS Frameworks
+Hosted CDN Options
+Install via Package Managers
+Official GraphQL API
+CSS Framework
+Great for Designers
+Thousands of Icons
+Upload Your Own Icons
+Easy Development Hand-off
+Text-to-Icon Ligatures
+Figma Component
+Great for Content Creators
+Easy Install + Hosting
+Styling Shortcuts
+Wordpress Plugin
+Open Source Options
+Popular Brand Icons
+ 
+LINK TO STYLING TOOLKIT ON THIS PAGE
+SEASONED TO PERFECTION
+Styling Toolkit
+
+We've seasoned our styling tools to perfection, making icons more flexible right out of the box. With just a pinch of code, you can size, place, style, and even animate any icon for the perfect look.
+
+house icon
+face-smile icon
+truck icon
+image icon
+music icon
+file icon
+ 
+View Icon on Dark Background
+Icon Family
+Classic
+Duotone
+Sharp
+Sharp Duotone
+Chisel
+Etch
+Jelly
+Notdog
+Slab
+Thumbprint
+Utility
+Whiteboard
+Select an Icon Style
+HTML
+WEB AWESOME
+REACT
+VUE
+<i class="fa-solid fa-face-smile"></i>
+Learn about…
+Accessibility
+ Start Using This Icon
+Add Modifiers with the Icon Wizard
+COLOR 
+Default Color
+yellow
+teal
+blue
+violet
+Pick Your Own Color
+Pick a color
+SIZE
+2xs
+xs
+sm
+Default Size
+lg
+xl
+2xl
+ROTATE
+No Rotation
+90°
+180°
+270°
+Rotate custom
+FLIP
+No Flip
+Flip Horizontal
+Flip Vertical
+Flip Both
+ 
+LINK TO TODAY'S SPECIALS ON THIS PAGE
+TODAY'S SPECIALS
+Go Pro (or Pro+)
+
+All plans come with our Classic, Sharp, Duotone, and Sharp Duotone icon packs, including Pro features and services. But you'll need a Pro+ plan to get our new Pro+ icon packs. View all our plans and get the details about what's included in each.
+
+PRO
+
+A permanent license to FA Pro, access to icon downloads, and a year of services.
+
+Core Pro Icon Packs
+250 Custom Icons
+20 Kits
+1,000,000 Pageviews
+See All Pro Plans
+PRO+
+
+Plus plans have everything in our Pro plans, plus extra!
+
+Access to ALL Icon Packs
+New Pro+ Icon Packs
+500 Custom Icons
+50 Kits
+2,500,000 Pageviews
+See All Pro+ Plans
+FONT AWESOME 7
+
+Now Available!
+
+ Upgrade to Pro+
+ Start for Free
+
+Get a Font Awesome Pro subscription to access version 7 - or go Pro+ and get our new Pro+ icon packs, plus more services and bandwidth.
+
+Proudly Open Source
+
+In 2012, we created the first version of our open source icon, and it continues to be one of the top open source projects on Github. With the help of our subscription plans, it's only gotten better.
+
+Always Free
+
+With every version, Font Awesome has always had free and open source icons. We'll always stay that way.
+
+Support Open Source
+
+Thanks to Pro Subscribers, Font Awesome Free has increased by over 250% since version 4.
+
+No Shenanigans
+
+Need more icons or services? If you want them, you subscribe. We'll never sell your data.
+
+Font Awesome is one of the top open source projects on GitHub.
+ 
+THE WEB'S DEFAULT ICON SET, USED ON OVER 200 MILLION SITES
+Font Awesome
+Font Awesome
+ Go Make Something Awesome
+
+Font Awesome is the internet's icon library and toolkit used by millions of designers, developers, and content creators.
+
+Made with  and  in Bentonville, Boston, Chicago, Grand Rapids, Joplin, Kansas City, Seattle, Tampa, and Vergennes.
+
+Awesomeverse
+Web Awesome
+11ty
+Podcast Awesome
+Blog Awesome
+Font Awesome
+Download
+Changelog
+All Versions
+Icon Requests
+Community
+GitHub
+YouTube
+Threads
+Awesome Swag
+Help
+Support
+Troubleshooting
+Contact Us
+Status
+License
+Terms of Service
+Privacy Policy
+Refunds
+Cookie Preferences
+
+© Fonticons, Inc.

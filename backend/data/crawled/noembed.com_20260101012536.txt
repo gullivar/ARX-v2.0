@@ -1,0 +1,30 @@
+Noembed - oEmbed everything. Noembed — oEmbed everything. oEmbed is nice. Unfortunately, not everything supports oEmbed. Worse,
+      the sites that do support it don't provide a consistent
+      interface. Noembed provides a single url to get embeddable content
+      from a large list of sites, even sites without oEmbed support! Additionally, Noembed guarantees that all responses will have html , title , url ,  and provider_name fields. This means fewer special
+      cases spent building up your own HTML. A simple demo is available here . Usage Treat Noembed like a regular oEmbed provider, but use any of the supported sites for the url parameter. Noembed also supports a callback parameter for JSONP. An example request might look like this: http://noembed.com/embed?url=http%3A//www.youtube.com/watch%3Fv%3DbDOYN-6gdRE&callback=my_embed_function And the response will look like: my_embed_function(
+  {
+    "width" : 425,
+    "author_name" : "schmoyoho",
+    "author_url" : "http://www.youtube.com/user/schmoyoho",
+    "version" : "1.0",
+    "provider_url" : "http://www.youtube.com/",
+    "provider_name" : "YouTube",
+    "thumbnail_width" : 480,
+    "thumbnail_url" : "http://i3.ytimg.com/vi/bDOYN-6gdRE/hqdefault.jpg",
+    "height" : 344,
+    "thumbnail_height" : 360,
+    "html" : "<iframe type='text/html' width='425' height='344' src='http://www.youtube.com/embed/bDOYN-6gdRE' frameborder=0></iframe>",
+    "url" : "http://www.youtube.com/watch?v=bDOYN-6gdRE",
+    "type" : "rich",
+    "title" : "Auto-Tune the News #8: dragons. geese. Michael Vick. (ft. T-Pain)"
+  }
+) Note: Chrome now blocks insecure scripts from loading on secure sites .
+    So, when using Noembed with JSONP on an https site be sure to use https://noembed.com/embed . Supported sites Other Amazon iTunes Movie Trailers Ars Technica ASCII Art Farts Bash.org Beer Advocate Clickhole Duffel Blog Facebook GiantBomb Gist Github Commit Gfycat GlobalGiving iHeartRadio IMDB Muki Monoprice Nooledge Spotify TED The Onion TrailerAddict Twitlonger Twitter Urban Dictionary Vice Vimeo Vine Wikipedia XKCD YouTube Existing oEmbed Sites Audiomack Clyp Flickr Funny or Die Hulu Qik Rdio SlideShare SoundCloud Spreaker Viddler App.Net Image Sites CloudApp Dropbox Imgur Imgur Instagram Lockerz Path Picplz Skitch Twitpic Twitter YFrog The /providers endpoint Noembed provides an endpoint that returns the
+      current list of supported sites. The response is a
+      JSON list with the site name and URL patterns. This can be used to automate testing if a URL is
+      supported by Noembed without making an HTTP request. Who is using Noembed? Let us know if you're using noembed in your project! Ars Technica Alice – web-based IRC client StatusNet – private social network MetroTwit – Windows Twitter client Reddit Enhancement Suite Development All the source code for Noembed is on github . Patches are accepted to add new services. Similar sites Oohembed was a very similar service. It even
+      acts as a gateway to non-oEmbed enabled sites like noembed. The main limitation that
+      I encountered was its lack of a guaranteed html field. embed.ly . I have not tried this service, but it
+      lists support for hundreds of sites. Unfortunately, you can not add your own providers,
+      so you are limited to what they support. Oohembed users are now redirected to embed.ly. © 2016 Lee Aylward — Hosting provided by Fastly

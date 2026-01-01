@@ -1,0 +1,223 @@
+Products
+Solutions
+Connectors
+Resources
+Pricing
+About
+Start a free trial
+Book a demo
+ Search Customer Knowledge Center  Log In
+
+Matillion named a Challenger in the 2025 Gartner® Magic Quadrant™ for Data Integration Tools.
+
+Read the report
+Meet Maia: Your data engineering buddy
+
+Maia agents partner with your data engineers to build pipelines, automate tedious tasks, and accelerate the delivery of trusted data. Free your team to innovate more and grind less.
+
+Discover Maia
+	
+	
+	
+0:01
+	
+
+Built for
+
+Powering the world's greatest data teams
+
+The Ultimate ETL designed for everyone
+
+Quickly and easily build and manage data pipelines with the ultimate integrated experience across low-code, Copilot, SQL, Python and dbt.
+
+Maia
+Low-code
+Code
+Maia
+
+Not enough data engineers? Let Maia make you some. Use plain language prompts to deploy a team of virtual data engineers to handle everything from the repetitive to the complex tasks. Empower non-technical users, and amplify the impact of your existing human data team.
+
+Learn more
+
+With Matillion's robust AI capabilities we are excited about what we can build for customers and how fast we can help them innovate.
+
+Dr Isaac Ben-Akiva
+
+Head of Applied AI
+
+Low-code
+
+Accelerate pipeline creation with our intuitive visual Designer. Drag and drop components into a canvas to assemble even the most complex data pipelines in far less time.
+
+Learn more
+
+Previously, data would be provided each week or month depending on the kind of reporting that was needed. Now, we have the indispensable live data available to make better business decisions in the fast-paced logistics industry.
+
+Sven Iliaens
+
+Business Engineer
+
+Watch demo
+Code
+
+Data engineers will love how quickly they can work, with the ability to write code in SQL, Python and dbt, then orchestrate those pipelines through Matillion. Coders and non-coders alike can collaborate more efficiently, and data teams can embrace best practice data ops with our native Git integration.
+
+Learn more
+
+Matillion gives high productivity and high performance allowing us to deliver data science products at a much greater speed.
+
+Alex Read
+
+Director of Data Platforms
+
+Free O'Reilly book
+Unlock Data Agility with
+Composable Architecture
+Download
+Universal connectivity for structured and unstructured data
+
+Ingest structured, semi-structured, and unstructured data from any source into a single platform. Then flow data to its destination in your cloud data platform.
+
+
+
+
+Use our library of pre-built data connectors, build your own custom connector, or request a new connector. No matter the source, we’ve got you covered.
+
+All connectors
+One platform for intelligent data integration that can scale with you
+
+Matillion’s unified platform is purpose-built for cloud data platforms. Generate native SQL to Snowflake, Databricks and AWS, while leveraging those platforms for improved performance and processing. 
+
+
+
+
+With security and management built right in, Matillion is effortlessly implemented across your entire organization. At the core of the platform, our automation and intelligence are there to help you transform and use data more efficiently.
+
+Enhance data productivity
+across the entire data team
+
+Matillion solves for data use cases across your team, helping to provide data that drives business results.
+
+Data Leaders & Executives
+Data Analysts
+Data Engineers
+Data Team
+Scaling as you grow and
+proving ROI
+
+You need to know that whatever data integration tool you choose will scale with your business, be cost-effective, and show a return on investment.
+
+
+
+
+Matillion’s cloud-native platform is built to handle increasing data volumes and speeds, enabling effortless scaling to support growing business needs without bottlenecks. With unlimited users, environments, and scale, you can pay for what you need.
+
+With Matillion, we can ramp up resources quickly, and the teams can deliver production pipelines within a matter of weeks.
+
+James Rawlinson
+
+Cloud Architect | London Stock Exchange Group
+
+Hear how we’ve helped other businesses just like yours
+
+Matillion customers get more value from their data every day.
+
+Read customer stories
+Secure and trusted
+by design
+Learn more
+
+Matillion is committed to the security of your data with pushdown architecture that means data never leaves your cloud platform. Our secure-by-design architecture allows Matillion to run as hosted SaaS, as a hybrid deployment, or even inside Snowflake itself. 
+
+
+
+
+Security features include Single Sign-On (SSO), Multi-Factor Authentication (MFA), and Role-Based Access Control (RBAC).
+
+See why Matillion is turning heads
+SPOTLIGHT
+Matillion named a Challenger in the 2025 Gartner® Magic Quadrant™ for Data Integration Tools
+
+Built for the AI era, Maia, our agentic AI platform, enables data teams to design, build, and manage analytics and AI pipelines faster, at any scale – so teams can focus on driving real business impact.
+
+Get the report
+FEATURED
+TrustRadius Buyer’s Choice Award for 2025
+
+Matillion is a winner of the inaugural Buyer’s Choice Award 2025, based entirely on vetted, unbiased customer reviews.
+
+TrustRadius Top Rated Award 5 years in a row
+
+Matillion was named a leader in data productivity by TrustRadius with a 2023 Top Rated Award for the fifth consecutive year.
+
+93% of customers would recommend Matillion to peers
+
+According to the 2023 Gartner Peer Insights ‘Voice of the Customer’: Data Integration Tools report.
+
+Get started today
+
+Matillion's comprehensive data pipeline platform offers more than point solutions.
+
+Start a free trial
+Book a demo
+Product
+Data Productivity Cloud
+Agentic Data Engineers
+AI
+Matillion ETL
+Connectors
+Security
+All Features
+Pricing
+Product Tour
+Request a demo
+Free Trial
+Resources
+All
+Blog
+Matillion One
+Documentation
+Product tour
+Hub
+Academy
+Exchange
+Events
+Partners
+Community
+Roadmap
+Glossary
+AI Info
+Solutions
+Overview
+By Cloud Data Platform
+By Use Case
+By Industry
+Success Stories
+About
+Overview
+Why Matillion
+Leadership
+Careers
+Investors
+Brand and Media kit
+Contact
+Support & Services
+Support
+Services & Training
+Partner portal
+Support Portal
+
+© Copyright 2025 Matillion Ltd | Legal | Privacy Policy | Disclaimer | Modern Slavery Statement
+
+Notice
+
+We and selected third parties collect personal information and use cookies or similar technologies for technical purposes and, with your consent, for other purposes as specified in the cookie policy.
+
+In case of sale of your personal information, you may opt out by using the link "Do Not Sell My Personal Information".
+
+To find out more about the categories of personal information collected and the purposes for which such information will be used, please refer to our privacy policy.
+
+Use the “Accept” button to consent.
+
+Learn more and customize
+Accept

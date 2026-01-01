@@ -1,0 +1,219 @@
+🎁 End of Year Gift: Use Code CROWDMAS25 for 60% Off CrowdSec Console Premium.
+
+Check out now
+
+CrowdSec
+
+Products
+Solutions
+Pricing
+Our Data
+Resources
+Company
+Search
+IP Lookup
+Log in
+We Know the IPs Attacking You — Do You?
+Preemptively block malicious IPs with
+AI-driven
+ultra-curated
+collective
+threat intelligence
+Get started
+Contact us
+Outsmart Your Attackers Before They Get a Chance to Strike
+7to60
+
+days ahead in adding malicious IPs to our blocklists compared to others on the market
+
+16%
+
+of proven aggressive IPs we preemptively block remain unknown to other vendors for at least 15 to 20 days
+
+50%
+
+of malicious IPs in our database are unknown to 89/92 threat intelligence vendors
+
+Want to see CrowdSec Blocklists in action?
+
+Contact us
+
+Mass Attacks
+
+Malicious IPs you don’t know about are attacking you constantly.
+
+Zero-Day Exploits
+
+Zero-day exploiters will likely reach your servers and apps before you patch them.
+
+Missed Critical Alerts
+
+Mass scanners generate internet background noise that can hide attacks that pose real risks.
+
+We see them.
+We know how to stop them.
+
+Be Preemptive
+
+Block up to 95% of mass exploitation attempts before they reach you.
+
+Gain Visibility
+
+Gain new visibility over zero-day exploiters and other malicious IPs trying to attack you with 36% exclusive data over other CTI sources.
+
+Save Resources
+
+Reduce security alert volume by up to 80% to focus on real threats and reduce overall alert fatigue.
+
+CrowdSec is trusted by
+
+“With CrowdSec, we have eliminated between 40% and 50% of the background noise, saving two FTEs worth of time in incident response, as well as significantly reduced the load on the servers in terms of CPU and RAM bandwidth used.”
+
+Guillaume Roussel
+
+Head of CERT at Crédit Mutuel
+
+"CrowdSec helped us block approximately 95% of malicious bot traffic, significantly reducing the load on our servers and ensuring better performance for legitimate users."
+
+Kamil Czujowski
+
+Performance and Application Engineer at ScaleCommerce
+
+"The integration and automation of the CrowdSec solution is a major asset. Lists of malicious IP addresses are automatically uploaded to our firewalls, saving us the tedious work of manually checking IPs."
+
+Laurent Sabri
+
+Head of IT Architecture at Le Monde
+
+“CrowdSec high threat list has 36% exclusive information compared to all other CTI sources.”
+A Global Vision of
+Threat Intelligence
+
+Get more than just a list of unwanted IPs.
+
+We ultra-curate our data to provide you with detailed context on the behavior of aggressive IPs and build curated lists — industry and service-specific attackers, DDoS, botnets, VPNs, residential proxies, and more — to equip you with the intelligence you need to safeguard your services.
+
+Learn more about our data
+Real-Life Data
+
+While blocklists are typically built on data collected from honeypots or data scraped from not-so-reliable third-party sources, or low-quality honeypots, our data comes from real users, real servers, and in real production environments.
+
+Data Diversity
+
+Nothing better guarantees data quality than data diversity. The growing CrowdSec Network consists of 70,000+ active users in more than 190 countries worldwide, across all industries and business sizes, sharing an average of 10 million signals on aggressive IPs daily.
+
+Safeguarded Quality
+
+We shield our data against false positives and poisoning using a combination of methods, including reporter trust score and diversity, machine profiling, cross-checking data sources to guarantee information consistency, and more.
+
+Top-Priority Updates
+
+Honeypots and third-party blocklists provide insufficient updates, resulting in cleared IPs remaining on blocklists and new infections taking longer to be added. You won’t get any of that here. CrowdSec Blocklists offer an average of 5% daily rotation of IPs.
+
+Up to 80%
+
+reduction in security alarm volume. Measured by our customers after using CrowdSec blocklists.
+
+0%
+
+false positives in the CrowdSec Blocklists, thanks to our unique curation process.
+
+50%
+
+daily rotation of malicious IPs on average in the CrowdSec Intelligence Blocklist.
+
+Plug N’ Play with Immediate Benefits
+
+Integrating the CrowdSec Blocklists into your infrastructure is simple, effortless, and fail-proof.
+
+1
+
+Generate a CrowdSec Service API key via the CrowdSec Console
+
+Get started
+2
+
+Implement the Blocklists as automated blocking rules on your existing firewall or CDN
+
+3
+
+Enjoy an immediate reduction in security alerts and a decrease in operational costs
+
+Philosophy and Vision
+
+CrowdSec embraces a unique approach to cyber intelligence by leveraging the power of the crowd to provide an open source and collaborative method for data collection. This is what we call, The Network Effect of Cyber Threat Intelligence.
+
+The reason we chose the collaborative approach is simple. Solely relying on a honeypot network could never yield the results needed for building a global CTI. Honeypots are expensive to run, and the services to which they are exposed are not as trustworthy as a real machine. Running a fake WordPress server with low SEO will only catch very spammy attackers. On the other hand, having access to real machines with thousands of visitors, hosting content of interest, and reporting real targeted attacks, is what makes the difference between an average CTI and a top-quality CTI.
+
+100K+
+
+Active users
+
+190+
+
+Countries Worldwide
+
+15M
+
+Signals/Day on Aggressive IPs Shared on Average
+
+Want to get a glimpse of what efficient security operations look like?
+
+Download our Guide to Cost-Effective Security Operations and learn how to maximize protection while reducing security & operational costs.
+
+Download Now
+Seamless Integration,
+Anywhere
+
+We take data quality very seriously and nothing speaks of higher data quality than data diversity. That is why we are making sure we can collect data from a great variety of sources. The CrowdSec Security Engine, CrowdSec’s open-source software, sits at the heart of our data collection process.
+
+The Security Engine is OS and infrastructure-agnostic and integrates with many popular tools with the CrowdSec ecosystem constantly expanding.
+
+More integrations mean more signals on aggressive IPs generated. The higher the number of signals generated, the higher the data quality.
+
+Discover our integrations
+Leverage the
+Power of the Crowd
+
+Gain Efficiency in Your Security Posture
+
+Get started
+Contact us
+Product
+CrowdSec Security Engine
+CrowdSec Console
+CrowdSec Threat Intelligence
+Pricing
+Community
+Documentation
+API Documentation
+Ambassadors
+Swag Store
+Company
+Blog
+Our story
+Careers
+List of partners
+Why become a partner
+General information
+Contact
+FAQ
+Remove an IP from the blocklist
+Community Pulse Newsletter
+
+Stay in the loop on all things CrowdSec
+
+Subscribe to the newsletter
+Legal notice
+Privacy policy
+EULA
+Cookies
+Our Cookie Policy
+
+© Copyright 2025 CrowdSec All Rights Reserved
+
+Axeptio consent
+
+Consent Management Platform: Personalize Your Options
+
+Our platform empowers you to tailor and manage your privacy settings, ensuring compliance with regulations. Customize your preferences to control how your information is handled.

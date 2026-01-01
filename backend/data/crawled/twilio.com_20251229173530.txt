@@ -1,0 +1,226 @@
+___
+English
+Support
+Login
+Products
+Solutions
+Why Twilio
+Resources
+Pricing
+Contact sales
+Start for free
+Where amazing customer experiences are built
+
+The Twilio Customer Engagement platform combines powerful communications APIs with AI and first-party data.
+
+Start for free
+See what's possible
+Free trial
+No credit card required
+Flexible pricing
+Build what matters
+
+Explore the mindset, tools, and motivations behind modern builders—and how Twilio enables them to create with freedom and flexibility.
+
+Be a builder
+The ultimate toolbox for  customer engagement
+View all products
+Messaging
+
+Send, receive, and manage multichannel text messages on our globally reliable platform.
+
+Send messages
+Email
+
+Trusted Email API for email delivery at scale that you can implement in minutes.
+
+Send emails
+Voice
+
+Build voice experiences that increase customer satisfaction and unlock ROI with data and AI.
+
+Make calls
+Authentication and identity
+
+Fight fraud and keep customer accounts secure with verification and identity lookup tools.
+
+Verify users
+Customer Data Platform
+
+Bring together clean, consented customer data for real-time insights on every customer.
+
+Manage data
+
+ 
+
+ 
+
+ 
+
+ 
+
+Twilio named a Leader in 2025 Gartner® Magic Quadrant™ for CPaaS*
+
+Read the report
+
+Don’t take our word for it. Over 335,000 companies build with Twilio
+
+Builder is a mindset, not a job title
+Developers
+Product Owners
+Marketers
+Data engineers
+Support and sales
+Ready, set, <code>
+
+Sign up for a free Twilio account and grab one of our official server-side SDKs to get started. Send your first text message, phone call, or email in minutes. And when you’re ready to launch your app, upgrade to a pay-as-you-go plan.
+
+View docs
+Start for free
+# Download the helper library from https://www.twilio.com/docs/python/install
+import os
+from twilio.rest import Client
+
+# Find your Account SID and Auth Token at twilio.com/console
+# and set the environment variables. See http://twil.io/secure
+account_sid = os.environ['TWILIO_ACCOUNT_SID']
+auth_token = os.environ['TWILIO_AUTH_TOKEN']
+client = Client(account_sid, auth_token)
+
+message = client.messages.create(
+                              body='Hi there',
+                              from_='+15017122661',
+                              to='+15558675310'
+                          )
+
+print(message.sid)
+Where innovation has no limitations.
+
+From scaling startups to global enterprises, see how companies are building customer experiences that matter with Twilio.
+
+99.5%
+
+average delivery rate
+
+91.3%
+
+inbox placement rate
+
+1.7M
+
+merchants
+
+Email API
+
+ 
+
+ 
+
+Shopify helps millions of merchants build customer relationships
+Read Shopify's story
+Because average experiences never make headlines
+Make every interaction smarter with AI
+
+Bring together data from across your business into a cohesive understanding of every customer. Then use AI to scale those insights across every interaction. 
+
+Individualized experiences across channels
+
+Reach your customers where they are, in the ways they prefer, with support for every major communication channel. Our flexible APIs and developer tools make it easy to get set up quickly within your current stack. 
+
+Context at your fingertips
+with customer data
+
+Get to know every customer with real-time data and historical context in one unified profile for all teams, so you can deliver on the promise of personalization.
+
+Proven scale and trust
+
+With reliable infrastructure and unrivaled global connectivity, Twilio simplifies the complexity of communications so you can scale your customer experience confidently. 
+
+Why Twilio
+We believe in building value, not hype
+
+Twilio named a Leader in 2025 Gartner® Magic Quadrant™ for CPaaS*
+
+ 
+
+ 
+
+Download report
+
+Twilio named a CPaaS Leader in 2025 IDC MarketScape
+
+ 
+
+ 
+
+ 
+
+Download excerpt
+
+Twilio named a Leader in 2024-2025 IDC MarketScape for Worldwide Customer Data Platforms Focused on B2C Users
+
+Download excerpt
+TL;DR: Don’t wait for the future. Build it.
+
+Twilio gives you the tools to connect digital experiences on any channel, full access to your customer data, and AI to work efficiently. All on a single platform with flexible pay-as-you-go pricing.
+
+View pricing
+Start for free
+
+*Gartner®, Magic Quadrant™ for Communications Platform as a Service, Lisa Unden-Farboud, Manoj Bhatia, Pankil Sheth, Ajit Patankar, July 21, 2025
+
+Twilio careers
+Twilio.org
+Press and media
+Investor relations
+Legal
+Privacy
+Security
+Sitemap
+LLMS
+
+Copyright © 2025 Twilio Inc. All rights reserved.
+
+Considering Twilio?
+About Twilio
+Customer Engagement Platform (CEP)
+Communications
+Customer Data Platform (CDP)
+AI
+Customer stories
+Events
+Contact sales
+View pricing
+Why Twilio
+Products
+Twilio Engage
+Connections
+Email API
+User authentication and identity
+MMS messaging
+Voice PSTN
+Latest innovations
+Pre-built solutions
+All products
+Use Cases
+Customer data management
+Audience segmentation
+Contact center
+SMS marketing
+Customer acquisition
+Voice response system (IVR)
+Fraud prevention
+Bulk text messaging
+Mass email sender
+All use cases
+Developers
+Developer resources
+Twilio Essentials
+SDKs
+CDP integrations
+SMTP Email API
+SMS API
+WhatsApp API
+Voice API
+Connections
+All docs

@@ -1,0 +1,285 @@
+EN
+Product
+Cases
+Resources
+Docs
+Blog
+Pricing
+web2app
+Log in
+Sign up
+Contact sales
+Ebook
+$100K playbook | download
+Revenue management for in-app purchases
+Save months on integrating subscriptions and double your app revenue with paywall management.
+Book a demo
+Trusted by 15,000+ apps and the world's largest app publishers
+Help your team run the mobile subscription business.
+Faster and cheaper.
+For developers
+Subscriptions SDK
+Refund Saver
+Remote config
+Fallback paywalls
+For app owners
+Revenue analytics
+LTV analytics
+AI LTV and revenue predictions
+For marketers
+A/B testing
+No-code Builder
+Localizations
+Targeting
+Adapty processes subscription revenue  with the industry’s highest SLA Rate
+$0B
+tracked revenue
+0
+.
+0%
+historical uptime
+0
+.
+0B
+users served
+0B
+API calls / month
+Integrate in-app purchases with a few lines of code
+Integrate IAPs within a few hours without server coding. Adapty handles the correct subscription state, taking everything under the hood, from free trials to refunds, in a simple, developer-friendly SDK.
+Make subscriptions easy
+“Adapty SDK made integrating in-app purchases a walk in the park. With just a few lines of code, I was able to implement subscriptions seamlessly for both iOS and Android.”
+Magnús Ólafsson
+Chief Technology Officer at Smitten
+Swift
+Kotlin
+React Native
+Flutter
+Unity
+// Your app's code
+import Adapty
+ 
+do {
+  try await Adapty.activate("PUBLIC_SDK_KEY")
+ 
+  // Make a purchase, Adapty handles the rest
+  let purchaseResult = try await Adapty.makePurchase(product)
+  // successful purchase
+} catch {
+  // handle the error
+}
+ 
+ 
+ 
+
+100% Open Source
+Go to GitHub
+Get the SDK for your platform
+Swift SDK
+Kotlin SDK
+React Native SDK
+Unity SDK
+Flutter SDK
+Capacitor SDK
+Kotlin Multiplatform
+FlutterFlow
+Web API
+Stripe
+Increase subscription revenue without app releases
+Manage, target, localize and personalize paywalls without leaving your browser.
+Increase app revenue
+“Whether it's A/B testing paywalls, predicting LTV, or analyzing subscription metrics, Adapty is the ultimate toolkit for app success.”
+Ilgar Tali
+Founder & Chief Vision Officer
+Cut refund rate by 40%
+Stop losing revenue on refunds – Adapty automatically shares user activity data with Apple for refund requests and reduces it.
+Set up Refund Saver
+Fotorama
+Photo and video
+“I never thought that doing something about refunds could make such a difference. We just flipped the switch, set it up, and suddenly, it felt like we stopped letting money slip away.”
+Berk Çağatay Albayrak
+Sr. Product Manager
+Know your subscription numbers at any moment
+Measure your in-app economy from trials to refunds with a ready-to-go, real-time subscription BI.
+See subscription BI
+Moonly
+Moon calendar app
+“Adapty's analytics provides invaluable insights into our app's performance. With detailed real-time metrics like revenue, ARPU, and churn rate, we make informed decisions to optimize our monetization strategy.”
+Nikolay Chebotarev
+Head of UA at Moonly.app
+No-code paywall builder
+Build beautiful native paywalls for iOS, Android, Flutter, and React Native without a dev team.
+Create paywalls within minutes
+Moodworks Inc
+Mental health apps
+“Adapty’s Paywall Builder and A/B testing tools paired together are a game changer for anyone trying to do high-velocity testing and find quick wins.”
+Mike McSweeney
+Chief Product Officer
+Boost app revenue fast with web funnels
+Build and launch web-to-app funnels, integrate payments, optimize with A/B testing and scale globally — all in one platform, no coding needed.
+Explore FunnelFox
+In-app-purchase events
+Sync purchase data with other services
+Forward subscription events to analytics and attribution services without coding.
+Explore integrations
+“They have a great external API that makes it easy to pass related events to other analytics tools such as Amplitude and Mixpanel.”
+Chris Bick
+Founder and CEO
+Developers from all kind of apps move to Adapty to grow their revenue
+“Migrating off RevenueCat was not an easy decision for us. We’ve chosen Adapty because we believe they are a better partner as we grow. Looking back it was the right call. Despite some hiccups, the Adapty team was always there to help us during the migration and afterward, and their support is top-notch. I recommend Adapty as a reliable partner.”
+Cem Ortabas
+Co-founder and CEO, HubX
+“We’ve been working with Adapty since 2021 and I couldn’t be happier about it. We’ve tried other subscription management platforms in the past so I can compare. Adapty introduced numerous features over the years and constantly helped us grow. They have the best analytics on the market and all the integrations you can think of. If you looking to boost the revenue of your app, I definitely recommend Adapty.”
+Chris Bick
+Founder and CEO, Bickster
+“We chose Adapty for its powerful paywall A/B testing capabilities, which helped us optimize our monetization strategy effectively. The user-friendly platform, flexible pricing, and exceptional customer support make Adapty a superior choice over competitors.”
+Yalçın Özdemir
+Founder & CEO, AppNation
+"Adapty's platform makes it easy for non-developers to create and manage A/B tests, paywalls, product mix and pricing structure. They have a great external API that makes it easy to pass related events to other analytics tools like Amplitude and Mixpanel."
+Kyle Smith
+Head of data at Smitten Dating
+“We’ve tested more than three hundred paywalls in the space of four months. Adapty allows testing basically any element of the paywall, and we took advantage of that. We’ve tested them all: products, title text, CTA buttons, images, videos etc. With Adapty’s A/B testing, we managed to double our monthly revenue. I wasn’t sure if one instrument could make such an impact, but I witnessed it myself.”
+Roi Mulia
+Founder & CEO, SocialKit
+Enterprise-grade platform
+Secure
+SOC2 verified
+Encrypted
+24/7 global fraud monitoring
+Reliable
+99.99% SLA
+Over $500M/year of in-app purchases processed
+Responsive
+Dedicated customer success manager
+Direct communication via Slack
+Live chat on the website
+Four ways to reach us
+Trusted for usability and customer service
+Based on 500+ reviews
+Read the real cases of our customers
+Productivity app
+Productivity
++50% in total revenue
+How pricing tests unlocked app's potential
+Read more
+Text on Pic
+Photo & Video
+Over 30% MRR growth
+How to boost revenue with the right experiments
+Read more
+Trip planning
+Travel
++102% ARPU growth
+New onboarding and pricing strategy doubled revenue per user
+Read more
+Going Merry
+App publisher
+5x MRR growth
+How to scale subscription revenue with Paywall Builder
+Read more
+Shmoody
+Mental health
+ARR scaled from $0 to $2M
+How to grow from a free app to $2M ARR with Adapty
+Read more
+Lively
+Health & Fitness
+Refund rate dropped by 83%
+Saved 82% of potentially lost revenue
+Read more
+Glam AI
+Makeup & Beauty
+ROAS from Adapty – 108%
+How to scale to $1.2M ARR in 3 months
+Read more
+Pepapp
+Health & Fitness
+400% ROI on Adapty
+How to make Adapty free with Refund Saver
+Read more
+Fotorama
+Photo & Video
+Refund rate dropped 40%
+How to decrease the refund rate with Adapty
+Read more
+Read all cases
+Get started today or schedule a demo
+for your personal onboarding
+START FOR FREE
+SCHEDULE A DEMO
+Paywall management
+Paywall builder
+Onboarding builder
+AI generator
+A/B testing
+Autopilot
+Targeting
+Localization
+Remote config
+Infrastructure
+Subscription SDK
+Subscriber sync
+Fallback paywalls
+Refund saver
+Integrations
+Roles
+For developers
+For marketers
+For app owners
+Stages
+Indie
+Startups
+Publishers
+Enterprise
+Cases
+Integrate subscriptions
+Grow app revenue
+Analyze performance
+Read our cases
+Migrate from
+RevenueCat
+Purchasely
+Qonversion
+Superwall
+SDK
+iOS
+Android
+React Native
+Flutter
+FlutterFlow
+Kotlin Multiplatform
+Capacitor
+Unity
+Stripe
+Resources
+Blog
+Ebooks
+Podcast
+Webinars
+Events
+Glossary
+Documentation
+Paywall library
+LTV prediction model
+Apple fiscal calendar
+Apple receipt checker
+Subscription calculator
+Refund saver calculator
+In-app subscription reports
+Community
+Analytics
+Revenue analytics
+LTV analytics
+AI predictive analytics
+Apple ads manager
+Company
+About us
+Contact us
+Careers
+Terms
+Privacy policy
+Data protection
+System status
+SOC2 compliance
+Become a partner
+© 2025 Adapty Tech Inc.
+English

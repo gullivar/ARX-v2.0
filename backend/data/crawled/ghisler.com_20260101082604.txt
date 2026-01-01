@@ -1,0 +1,74 @@
+	
+
+
+Contents
+
+
+
+Home
+What's new
+Download
+Mobile version
+USB version (U3!)
+Order
+FAQ+Support
+Mailing list
+Addons
+Languages
+Imprint
+Privacy policy
+
+
+
+
+Links
+
+
+
+Other language pages:
+- Deutsch (German)
+- Français (French)
+- Magyar (Hungarian)
+- Chinese (Simplified)
+- Russian
+- Polish
+Shareware sites
+Forum:
+- English
+- German
+- French
+
+
+	
+Total Commander, Version 11.56, is a Shareware file manager for Windows® 95/98/ME/NT/2000/XP/Vista/7/8/8.1/10/11, and Windows® 3.1.
+
+August 19, 2025: Total Commander 11.56 (32+64 bit) for Windows available
+October 13, 2019: Secure FTP client (FTP over SSL/TLS) broken by recent Windows update
+
+Features in Total Commander 11.56 now include :
+
+Two file windows side by side
+Multiple language and Unicode support
+Enhanced search function
+Compare files (now with editor) / synchronize directories
+Quick View panel with image and video display
+ZIP, 7ZIP, ARJ, LZH, RAR, UC2, TAR, GZ, CAB, ACE archive handling + plugins
+Built-in FTP client with FTPS (encrypted FTP) and HTTP proxy support
+Multi-rename tool
+Tabbed interface, regular expressions, history+favorites buttons
+Thumbnails view, custom columns
+Compare editor, cursor in lister, separate trees, logging, enhanced overwrite dialog etc.
+Unicode names almost everywhere, long names (>259 characters), password manager for ftp and plugins, synchronize empty dirs, 64 bit context menu, quick file filter (Ctrl+S)
+USB port connection via special direct transfer cable, partial branch view (Ctrl+Shift+B), and many improvements to ftp, synchronizing and other functions
+And many more!
+
+New: Image gallery of Total Commander with the most important functions
+Credits
+USB installer
+
+You can find our e-mail address on the Support page, but please read our FAQ first.
+
+Last modified on August 19, 2025.
+
+Windows® is a registered trademark of Microsoft® corporation.
+This page and Total Commander are Copyright © 1995-2025 by Christian Ghisler, Ghisler Software GmbH, Switzerland. All rights reserved.

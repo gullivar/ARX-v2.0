@@ -1,0 +1,368 @@
+Skip to main content
+Learn
+Use
+Build
+Participate
+Research
+search
+⌘
+k
+ 
+Languages 
+EN
+Ethereum
+Welcome to Ethereum
+
+The leading platform for innovative apps and blockchain networks
+
+Pick a wallet
+
+Create accounts & manage assets
+
+Get ETH
+
+The currency of Ethereum
+
+Try apps
+
+Finance, gaming, social
+
+Start building
+
+Create your first app
+
+NETWORK
+What is Ethereum?
+
+Ethereum is a decentralized, open source blockchain network and software development platform, powered by the cryptocurrency ether (ETH). Ethereum is the secure, global foundation for a new generation of unstoppable applications.
+
+The Ethereum network is open to everyone: no permission is required. It has no owner, and is built and maintained by thousands of people, organizations, and users around the world.
+
+Learn about Ethereum
+Popular topics
+
+What are crypto wallets?
+
+Step-by-step Ethereum guides
+
+Ethereum Whitepaper
+
+Ethereum roadmap
+
+USE CASES
+A new way to use the internet
+Digital cash for everyday use
+
+Stablecoins are currencies that maintain a stable price, matched to steady assets like the U.S. dollar. Access global payments instantly or store value in digital dollars on Ethereum.
+
+Discover stablecoins
+A financial system open to all
+
+Borrow, lend, earn interest, and more, without a bank account. Ethereum's decentralized financial system is open 24/7 to anyone with an internet connection.
+
+Explore DeFi
+The network of networks
+
+Hundreds of Layer 2 networks are built on Ethereum. Enjoy low fees and near-instant transactions while benefiting from Ethereum's proven security.
+
+Discover Layer 2s
+Apps that respect your privacy
+
+Apps built on Ethereum work without selling your data. From social media to gaming to work, use the same account for every innovative app while maintaining privacy and access.
+
+Browse apps
+The internet of assets
+
+From art to real estate to stocks, any asset can be tokenized on Ethereum to prove and verify ownership digitally. Buy, sell, trade, and create assets and collectibles—anytime, anywhere.
+
+More on NFTs
+TOKEN
+What is ETH?
+
+Ether (ETH) is the native cryptocurrency that powers the Ethereum network, used to pay transaction fees and secure the blockchain through staking.
+
+Beyond its technical role, ETH is open, programmable digital money. It is used for global payments, as collateral for loans, and as a store of value that doesn't rely on any central entity.
+
+$2,932.89
+Current ETH price (USD)
+Learn more about ether
+APPS OF THE WEEK
+Discover apps on Ethereum
+
+Start exploring Ethereum today
+
+Polymarket is the world’s largest prediction market, allowing you to stay informed and profit from your knowledge by betting on future events across various topics.
+
+Show more
+DEFI
+
+Polymarket
+
+Prediction · RWA · Yield · Crowdfunding
+
+Rarible is a multi-chain platform where you can buy, sell, and create non-fungible tokens (NFTs).
+
+Show more
+COLLECTIBLES
+
+Rarible
+
+Market
+
+Azuki is a brand born at the intersection of art, technology, and internet culture. What started as a web3 project has evolved into a global community of artists and builders shaping original characters, stories, and experiences together. From digital collectibles to fashion and real-world events, Azuki is building a universe for digital natives drawn to what's next.
+
+Show more
+COLLECTIBLES
+
+Azuki
+
+IP · Art · Membership
+
+Browse apps
+ACTIVITY
+The strongest ecosystem
+
+Ethereum is the leading platform for issuing, managing, and settling digital assets. From tokenized money and financial instruments to real-world assets and emerging markets, Ethereum provides a secure, neutral foundation for the digital economy.
+
+Activity on Ethereum Mainnet and Layer 2 networks
+
+$140B
+Value locked in DeFi 
+$104.5B
+Value protecting Ethereum 
+$0.00082
+Average transaction cost 
+14.43M
+Transactions in the last 24h 
+Ethereum for institutions
+opens in a new tab
+More ecosystem resources
+VALUES
+The internet is changing
+
+Be part of the digital revolution
+
+BUILDERS
+Blockchain's biggest builder community
+
+Ethereum is home to Web3's largest and most vibrant developer ecosystem. Use JavaScript and Python, or learn a smart contract language like Solidity or Vyper to write your own app.
+
+Builder's portal
+Documentation
+
+Code examples
+
+Your own bank
+
+Build a bank powered by logic you've programmed
+
+Your own currency
+
+Create tokens that you can transfer and use across applications
+
+A JavaScript Ethereum wallet
+
+Use existing languages to interact with Ethereum and other applications
+
+An open, permissionless DNS
+
+Re-imagine existing services as decentralized, open applications
+
+Ethereum news
+
+The latest blog posts and updates from the community
+
+Devcon 8 is coming to Mumbai, India in November 2026
+
+December 23, 2025
+
+ETHEREUM FOUNDATION BLOG
+
+opens in a new tab
+Solidity 0.8.32/0.8.33 Release Announcement
+
+December 18, 2025
+
+SOLIDITY LANG BLOG
+
+opens in a new tab
+Let a thousand societies bloom
+
+December 17, 2025
+
+VITALIK BUTERIN'S WEBSITE
+
+opens in a new tab
+Local Ethereum #11
+
+December 12, 2025
+
+GEODE LABS BLOG
+
+opens in a new tab
+Announcing Live Custody Monitoring for PeerDAS
+
+December 3, 2025
+
+ETHPANDAOPS BLOG
+
+opens in a new tab
+Making Sense of a ZK Staking Node
+
+October 27, 2025
+
+ETHSTAKER
+
+opens in a new tab
+
+Read more on these websites
+
+Ethereum Foundation Blog
+opens in a new tab
+Solidity Lang Blog
+opens in a new tab
+Vitalik Buterin's website
+opens in a new tab
+Geode Labs Blog
+opens in a new tab
+ethPandaOps Blog
+opens in a new tab
+ethstaker
+opens in a new tab
+EthCatHerders - Medium
+opens in a new tab
+Privacy and Scaling Explorations
+opens in a new tab
+Attestant
+opens in a new tab
+0xPARC
+opens in a new tab
+Devcon
+opens in a new tab
+Ethereum events
+
+Ethereum communities host events all around the globe, all year long
+
+ETH Riyadh
+
+February 1 – 28, 2026
+
+RIYADH, KSA
+
+opens in a new tab
+Pragma Cannes 2026
+
+April 2, 2026
+
+CANNES, FRA
+
+opens in a new tab
+ETHGlobal Cannes 2026
+
+April 3 – 5, 2026
+
+CANNES, FRA
+
+opens in a new tab
+See all events
+Join ethereum.org
+
+The ethereum.org website is built and maintained by thousands of translators, coders, designers, copywriters, and community members. You can propose edits to any of the content on this open source site.
+
+How to contribute
+
+Find out all the different ways you can help ethereum.org grow and be better.
+
+GitHub
+
+Contribute to code, design, articles, etc.
+
+opens in a new tab
+
+Discord
+
+To ask questions, coordinate contribution and join community calls.
+
+opens in a new tab
+
+X
+
+To keep up with our updates and important news.
+
+opens in a new tab
+ethereum.org contributor hub
+
+Website last updated: December 18, 2025
+
+Go to top
+Learn
+Learn Hub
+What is Ethereum?
+What is ether (ETH)?
+Ethereum wallets
+What is Web3?
+Smart contracts
+Gas fees
+Run a node
+Ethereum security and scam prevention
+Quiz Hub
+Ethereum glossary
+Use
+Guides
+Choose your wallet
+Get ETH
+Application explorer
+Stablecoins
+NFTs - Non-fungible tokens
+DeFi - Decentralized finance
+DAOs - Decentralized autonomous organizations
+Decentralized identity
+Stake ETH
+Layer 2
+Build
+Builder's home
+Tutorials
+Documentation
+Learn by coding
+Set up local environment
+Grants
+Foundational topics
+UX/UI design fundamentals
+Enterprise - Mainnet Ethereum
+Founders
+Participate
+Community hub
+Online communities
+Ethereum events
+Contributing to ethereum.org
+Translation Program
+Ethereum bug bounty program
+Ethereum Foundation
+Ethereum Foundation Blog
+opens in a new tab
+Ecosystem Support Program
+opens in a new tab
+Devcon
+opens in a new tab
+Research
+Ethereum Whitepaper
+Ethereum roadmap
+Improved security
+Technical history of Ethereum
+Open research
+Ethereum Improvement Proposals
+Ethereum governance
+Trillion dollar security project
+opens in a new tab
+opens in a new tab
+opens in a new tab
+opens in a new tab
+About us
+Ethereum brand assets
+Code of conduct
+Jobs
+Privacy policy
+Terms of use
+Cookie policy
+Press Contact
+opens email client

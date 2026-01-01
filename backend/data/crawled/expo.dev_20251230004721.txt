@@ -1,0 +1,293 @@
+Docs
+Product
+Solutions
+Enterprise
+Pricing
+Blog
+40K+
+Log In
+Sign Up
+Everything you need to build apps
+Expo is a full-stack React Native framework with powerful cloud services to help you move faster at every stage of the app lifecycle.
+Get Started for Free
+Read the Docs
+Enterprise needs? Talk to our team
+Develop
+
+Write your native app with React. Pro-grade libraries and all the tools you need.
+
+Deploy
+
+Use Expo services to build, submit, update, and iterate on your apps as they grow.
+
+TRUSTED IN PRODUCTION BY:
+
+Build your app with the best tools in the universe
+Expo SDK
+100+ production-ready libraries
+
+Use the camera, send and receive push notifications, get automatic deep links, plus much much more...
+
+Use React, Kotlin, Swift
+
+Write native code with the Expo Modules API and config plugins.
+
+The only native framework recommended by Meta
+
+An SDK 10 years in the making. Trusted by thousands of enterprises and startups.
+
+Developer experience
+Develop on your device
+
+Develop on your phone, just like how your users will experience your app. Download Expo Go.
+
+Launch with a click
+
+Start emulators and simulators without opening Android Studio or Xcode with Expo Orbit.
+
+Inspect your bundle
+
+Optimize your app visually with Expo Atlas.
+
+Community
+50,000+ Discord members
+
+See what other developers are working on, get questions answered, and get inspired browsing Expo Community Discord.
+
+80% of React Native developers choose Expo
+
+40,000+ GitHub stars and counting. Over 3 million users worldwide.
+
+500,000+ projects created
+
+From e-commerce, to social apps, people have made just about everything with Expo.
+
+Get your app on every device
+
+Build your app and distribute it to Android, iOS, and the web from a single codebase with Build and Hosting.
+
+Get your latest changes to every user, instantly
+
+Send over-the-air updates to get the latest fixes and improvements to your users fast with Update.
+
+Automate your builds, tests, and releases
+
+Build for the app stores, send over-the-air updates, and more automatically with Workflows.
+
+Get build
+On every
+Deploy to production
+on branch
+Enabled
+merge
+main
+Build iOS
+Duration: 5m 42s
+Send over-the-air update
+Skipped
+Build Android
+Duration: 9m 54s
+Submit to App Store
+Duration: 5m 42s
+Submit to Google Play Store
+Duration: 9m 54s
+See how your app is doing after every release
+
+See how your app is doing with built-in monitoring and observability with Insights.
+
+User population
+
+See which platforms your users are using and which versions they're currently using.
+
+API and hosting requests
+
+Keep track of your app's usage with API function usage and hosting requests.
+
+Error rates
+
+See error rates with over the air updates and crash stats with hosting.
+
+The platform for every developer
+
+From indie hackers to enterprise teams, Expo is the fastest way to ship apps to stores.
+
+Serving 100s of millions of end users
+
+Our platform scales to meet the demands of any app.
+
+Enterprise-level security and compliance
+
+Our services are SOC 2 Type 2 and GDPR compliant.
+
+Top-ranking apps are made with Expo
+
+Expo apps are hitting #1 in the App Store and winning awards. See all the top apps.
+
+Peter Piekarczyk
+@peterpme
+
+Expo is amazing
+
+Antonin marchard
+@antomarchard
+
+The more time flies, the more I love @reactnative & @expo
+
+devon
+@devon_94
+
+highly recommend @expo
+
+Josh Gonsalves
+@joshgonsalves_
+
+Makes sense. I do LOVE expo.
+
+Prince Ajuzie
+@princeajuzie7
+
+dude, react native + expo is the best option out there.
+
+Adnan
+@adnansahinovich
+
+React Native and @expo is the best option by far, and can’t even compare to Xamarin or Dart & Flutter
+
+Adrian Carolli
+@icookandcode
+
+I love @expo for making my life so much easier!
+
+JD Conley
+@wackie
+
+if you're debating between raw react native and expo, choose expo. i tried years ago but it wasn't good enough. now the wrapper is winning. smooth dev environment. flexible. much better ecosystem and documentation.
+
+miaugladiator11
+@miaugladiator1
+
+can 100% recommend expo is so much better than just pure react native imo
+
+Patrick Aljord
+@patcito
+
+Just use @expo
+
+NicoDevs
+@Nico_Devs
+
+I love @expo, it made React Native dev so much easier.
+
+Firstly, it allows anyone to dev from any machine, even with very low specs and run the app on device with Expo Go app.
+
+Also, it includes so many libraries and the performance is crazy especially on Expo SDK 54
+
+Simon Grimm
+@schlimmson
+
+It's almost shocking how much I take Expo API routes for granted at this point.
+
+I can't imagine working any other way, they are a natural part of every RN project I do.
+
+Melih Yumak
+@hadnazzar
+
+🌟 Why choose #Expo for your next app? Enjoy the simplicity of building with one codebase for all platforms, access a rich library of pre-built components, and streamline updates with over-the-air changes—all without touching native code! 🚀 #ReactNative #js #100DaysOfCode
+
+Dane Grant
+@danecando
+
+Also, @expo is amazing
+
+Nana Asante
+@asantenocturnal
+
+I love expo
+
+Hugo Duarte
+@hugoasduarte
+
+I love @expo so much!
+
+Was struggling to upgrade an old React Native app to the latest version for a few days without success.
+
+Created a new expo app, copied my src folder along with some package installs and was ready in just a few minutes!
+
+:) waally
+@_mohawwal
+
+I love expo/react native
+
+getDerivedSwaggerFromHacker
+@hackerswagger
+
+Big enterprise app guy here. Expo is the best! In the time another team experimented with all the new repack module federation nonsense I've got our two apps using expo CNG and almost done with new architecture. We have a mini app architecture and it's a pain.
+
+Product
+
+Star us on GitHub
+
+Expo CLI on GitHub
+
+EAS - Expo Application Services
+
+EAS CLI on GitHub
+
+Expo Go
+
+Expo Orbit
+
+Snack
+
+Resources
+
+Docs
+
+Blog
+
+Changelog
+
+Newsletter
+
+Support
+
+Trust Center
+
+Join Discord
+
+Company
+
+Homepage
+
+Pricing
+
+Customers
+
+Consultants
+
+About
+
+Branding
+
+Work at Expo
+
+Legal
+
+Terms of service
+
+Acceptable use policy
+
+Privacy policy
+
+Privacy explained
+
+Security & Compliance
+
+Enterprise trust
+
+Community guidelines
+
+Copyright © 2025 650 Industries, Inc. All rights reserved.
+
+All Systems Operational
+Auto

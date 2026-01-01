@@ -1,0 +1,228 @@
+Skip to content
+Accessibility Policy
+Products
+Industries
+Resources
+Customers
+Partners
+Developers
+Company
+Country
+View Accounts
+Contact Sales
+Oracle Hardware
+
+Oracle hardware includes a full suite of scalable engineered systems, servers, and storage that let enterprises optimize application and database performance, protect crucial data, and lower costs. Organizations improve database performance, simplify management, and lower costs with exclusive features and automated operations that aren’t available with other solutions.
+
+Watch the webinar
+Exadata X11M Deep Dive
+Try Oracle Cloud Free Tier
+
+Introducing Exadata X11M (17:12)
+
+Announcing Oracle Globally Distributed Exadata Database on Exascale Infrastructure
+
+Automatically distribute Oracle databases across nodes, regions, and countries to help meet data residency, extreme availability, and performance needs.
+
+Read the press release
+Deep-dive webinar on Oracle Globally Distributed Exadata Database on Exascale Infrastructure
+
+Get an exclusive, in-depth look at this new Oracle Globally Distributed AI Database service.
+
+Access the webinar
+Modernize Oracle AI Database environments
+
+Find out how telcos are modernizing mission-critical systems to improve operational efficiency.
+
+Read OMDIA’s ebook (PDF)
+Accelerate infrastructure deployment with Oracle Private Cloud Appliance
+
+Understand how to use appliances to accelerate innovation.
+
+Read ESG’s analysis (PDF)
+Oracle hardware benefits
+Oracle AI Database runs faster and more efficiently
+
+Oracle hardware lets IT teams deploy optimized solutions in customer data centers and easy-to-manage appliances in remote offices and edge environments. Solutions with full-stack integration and optimizations let customers run Oracle AI Database up to 10X faster with Oracle Exadata’s Smart Scan query offload.
+
+Watch NTT DOCOMO’s story (0:48)
+Easy integration with Oracle’s public cloud
+
+Built-in Oracle Cloud Infrastructure (OCI) integrations make it easy for organizations to develop and deploy cloud native applications across OCI and customer data centers, store data in the public cloud, and simplify both data protection and cloud migrations. Oracle Cloud Observability and Management Platform provides IT teams with the information they need to understand and manage all the layers of their IT stack, no matter where it’s located.
+
+Enhanced availability and data protection
+
+Oracle IT infrastructure helps organizations increase the availability of their mission-critical Oracle databases and applications. Fault-tolerant, scale-out designs and built-in capabilities simplify the implementation of Oracle Maximum Availability Architecture (MAA) best practices, letting customers achieve up to 99.999% availability with Oracle Exadata in MAA configurations, as described in IDC’s analysis (PDF).
+
+Watch Exelon’s story (1:28)
+
+Lower costs with high performance consolidation
+
+Oracle hardware lowers the cost of running on-premises workloads by reducing the number of systems required, delivering higher performance per software license, and reducing IT staff workloads. Oracle Private Cloud Appliance lets customers consolidate containerized, cloud native applications—and those running natively on multiple operating systems—onto a single platform while Cloud@Customer solutions let organizations benefit from consumption-based economics in their own data centers.
+
+Analyst report: Autonomous AI Database on Exadata Cloud@Customer reduces TCO by 47% (PDF)
+
+Watch Hyundai Home Shopping Group's story (1:48)
+Oracle hardware products
+Oracle Exadata
+Oracle Engineered Systems
+Oracle servers
+Oracle storage
+Oracle Exadata
+Oracle Engineered Systems
+Oracle servers
+Oracle storage
+ 
+The best Oracle AI Database platform
+
+Oracle Exadata's full-stack architecture improves the performance, scale, and availability of an enterprise’s Oracle databases. Exadata gives you choice and flexibility in terms of where to run your Oracle AI Database workloads, with availability on Oracle Cloud Infrastructure (OCI); multicloud environments with AWS, Azure, and Google Cloud; a hybrid cloud in your data center; and with on-premises deployments.
+
+Explore Oracle Exadata
+Features
+A full-stack, integrated solution reduces integration requirements.
+A high-availability infrastructure maximizes database uptime.
+A scalable design enables database consolidation for organizations of any size.
+Full compatibility across on-premises, hybrid cloud, OCI, and multicloud deployments simplifies moving to the cloud.
+Intelligent storage increases database performance and controls costs.
+SQL read latency of less than 14 microseconds improves OLTP responsiveness.
+Up to 7 TB/sec SQL throughput accelerates data-intensive analytics applications.
+Up to 22.4 million SQL I/O operations per second per rack increases throughput for consolidated workloads.
+Pre-built and optimized for crucial enterprise workloads
+
+Oracle Engineered Systems are integrated, full-stack solutions that are developed with Oracle AI Database and applications to run customer workloads faster, at lower costs, and with greater security than multivendor, on-premises solutions. Scalable designs enable enterprises to consolidate existing IT infrastructure and quickly adjust to surges in demand, while management automation reduces administrative workloads and helps control costs.
+
+Explore Engineered Systems
+Features
+Complete solutions eliminate multivendor infrastructure integration
+Full-stack quarterly patching cuts patching workload by over 80% (PDF)
+Reliable edge appliances reduce downtime in remote locations by up to up to 99% as described by IDC
+Cloud data-protection and migration capabilities make it easy to protect data and move to the cloud
+Incremental scaling easily supports growing application and database requirements
+Trusted partition licensing cuts software costs by up to 85%
+Continuous protection for crucial Oracle databases
+Secure application infrastructure
+
+Oracle’s x86 and SPARC servers run enterprise applications in on-premises data centers and edge environments with high performance, security, reliability, and efficiency. Enterprise Java, Oracle AI Database, and application workloads run at peak performance and with efficient virtualization while the inclusion of operating system and virtualization software at no addition charge lower total cost of ownership (TCO).
+
+Explore Servers
+Oracle x86 innovations (PDF)
+Features
+Entry-level to high-end servers for scale-up, scale-out, and edge deployments
+SPARC servers meet enterprise needs for reliable and cost-effective UNIX solutions
+Oracle Linux or Oracle Solaris and Oracle VM are included at no cost with every Oracle x86 server
+Proven Solaris operating system guaranteed to run existing SPARC/Solaris applications into the future
+Redundant designs with hot-swappable components increase Oracle AI Database and application availability
+Integrated encryption, application memory protection, and compliance auditing improve data and system security
+Oracle Solaris and multiple forms of virtualization are included at no cost with every Oracle SPARC server
+High performance storage
+
+Oracle’s high performance enterprise storage is optimized for Oracle workloads and cloud with unmatched TCO for active storage, data protection, and archive. Leading, large-scale enterprises continue to choose Oracle storage to run their applications faster, provides superior protection against cyberattacks, and securely preserve their long-term data. Unique integration with the Oracle AI Database and Oracle Cloud Infrastructure provide unmatched efficiency, simplicity, and performance.
+
+Explore Storage
+Read ESG’s analysis (PDF)
+Features
+Unified file, block, and object storage meets customers active storage needs
+Up to 8 PB of all-flash storage for latency-sensitive applications
+Up to 18 GB/Sec throughput accelerates data-warehouse and data-protection workloads
+IO prioritization optimizes Oracle AI Database storage performance
+Data protection solutions with unique Oracle AI Database integrations accelerates recovery of crucial information
+Tape automation reduces the cost of managing archives by up to 95% (PDF) according to ESG
+Up to 57 EB of uncompressed capacity and 29 PB/hour throughput under a single pane of glass management provides nearly limitless scalability
+Oracle hardware customer successes
+
+Thousands of organizations worldwide use Oracle hardware to run and protect business-critical databases and applications with high performance, scale, and security while reducing administrative burdens and TCO.
+
+Swisscom improves operational efficiency and protects databases with Oracle hardware
+Watch Swisscom’s Exadata story (1:35)
+Watch Swisscom’s Recovery Appliance story (1:31)
+Oracle hardware use cases
+Simplify management with cloud capabilities
+
+Accelerate enterprise applications and databases while reducing IT management workloads with the same database and systems technology as Oracle Cloud Infrastructure.
+
+Read the Deutsche Bank story
+
+Implement an Oracle AI Database private cloud
+
+Reduce data center complexity by consolidating multiple database workloads on the same Exadata Cloud@Customer infrastructure.
+
+Consolidate application infrastructure
+
+Reduce the number of servers and storage systems required to run application workloads, cut IT management workloads with automation, and lower total cost of ownership by consolidating all aspects of your IT environment with Oracle hardware.
+
+Modernize applications with optimized in-database analytics and machine learning
+
+Integrate Oracle Machine Learning capabilities into applications, build machine-learning models faster by eliminating data movement, and accelerate business analytics with Oracle Exadata’s optimized in-database capabilities.
+
+Read Yapi Kredi Bank’s story
+
+Protect application and database information enterprisewide
+
+Protect databases with up to 50X faster backups and 8X faster recoveries while speeding up the protection of all other data with high performance Oracle hardware.
+
+Watch Energy Transfer’s story (1:24)
+
+JANUARY 7, 2025
+Introducing Oracle Exadata X11M for Exadata Database Service and Autonomous AI Database
+
+Bob Thome, Vice President, Exadata Product Management
+
+We are excited to announce the immediate availability of Oracle Exadata X11M for cloud deployments. This next-generation intelligent data platform runs Oracle Exadata Database Service and Oracle Autonomous AI Database in the Oracle Cloud, multicloud deployments, and in your data center with Exadata Cloud@Customer.
+
+Read the complete post | Subscribe to the blog
+Featured Oracle hardware blogs
+JANUARY 7, 2025
+Introducing Exadata X11M: Next-Generation Intelligent Data Architecture
+JANUARY 7, 2025
+Global Industry Analyst Perspectives on Oracle Exadata X11M
+MARCH 7, 2023
+York University chooses Oracle Exadata Cloud@Customer to improve the experience of students, educators, and staff
+MAY 4, 2022
+Oracle Exadata Cloud@Customer enhances MONETA’s move to digital banking
+MARCH 11, 2022
+Global industry analyst perspectives on multi-VM Autonomous Database on Exadata Cloud@Customer
+View all
+Get started
+Contact an Oracle expert
+
+Find out how Oracle hardware solutions can help your specific business needs.
+
+Get in touch
+Resources for
+Careers
+Developers
+Investors
+Partners
+Researchers
+Students and Educators
+Why Oracle
+Analyst Reports
+Best cloud-based ERP
+Cloud Economics
+Social Impact
+Security Practices
+Learn
+What is a sovereign cloud?
+What is zero trust security?
+How AI is transforming finance
+What is a vector database?
+What is multicloud?
+What are AI agents?
+News and Events
+News
+Oracle AI World
+Oracle Health Summit
+Oracle Dev Tour
+Search all events
+Contact Us
+ KR Sales 080-2194-114
+US Sales: +1.800.633.0738
+How can we help?
+Subscribe to emails
+Integrity Helpline
+Accessibility
+© 2025 Oracle
+Privacy/Do Not Sell My Info
+Cookie Preferences
+Ad Choices
+Careers

@@ -1,0 +1,1451 @@
+opendesktop.org
+ALL ⌄
+ALL
+All-Linux
+App-Addons
+AppImageHub.com
+Apps
+Artwork
+Bigscreen
+Books
+Cinnamon
+Comics
+Distros
+Enlightenment
+Fonts
+Games
+Gnome
+KDE Store
+Listings
+Mate
+Music
+OSX-Packages
+Phones
+Trinity
+Tutorials
+Videos
+Wallpapers
+Window-Managers
+Windows-Packages
+X-Archive
+XFCE
+opencode.net
+pling
+Community ⌄
+Community
+Discussion
+Community Funding
+Become a Supporter
+About ⌄
+Blog
+FAQ Pling
+FAQ Opencode
+API
+About
+Chat
+Registeror
+Login
+Categories
+ALL
+flatpak.opendesktop.org
+api2_kde-look_org
+pling.me
+Mycroft-Skillsx
+ubuntu-look.org
+bodhi.pling.com
+Mycroft-Appsx
+Snaps
+Youpinion
+electron-webapps.com
+OpenTV-Skills
+Zynthbox-Old
+DSP56300
+apps-bigscreen
+Mycroft-Skillsx
+Beryl-Themes
+All-Linux
+Screenshots
+Falkon
+Krunner Addons
+LibreOffice
+Compiz
+ElectronicAttack
+Bigscreen
+Books
+Videos
+Music
+Comics
+Mycroft-Skillsx
+Tutorials
+api2.kde-look.org
+Zynthian
+PatchR
+api.vlc-addons.org
+kde-look.org
+api.kde-look.org
+X-Archive
+vlc-addons.org
+Apps
+Games
+api.appimagehub.com
+AppImageHub.com
+Arch-Packages
+Debian-Packages
+OpenSuse-RPMs
+Redhat-RPMs
+Android-APKs
+OSX-Packages
+Windows-Packages
+App-Addons
+VLC-Addons
+Krita-Addons
+Opendesktop
+api.opendesktop.org
+Cinnamon
+Enlightenment
+api.gnome-look.org
+Gnome
+KDE Store
+Mate
+Trinity
+XFCE
+Window-Managers
+E-OS
+Artwork
+Cliparts
+Fonts
+ALL
+api.pling.com
+Listings
+Wallpapers
+Phones
+Distros
+App Addons5229
+Apps8141
+Art (Images/Drawings/Illustrations)2201
+Books & other texts117
+Comics11
+Distros69
+Linux/Unix Desktops54634
+Listings332
+Music401
+Phone OS & Apps5397
+UI Concepts76
+Videos501
+Wallpapers457920
+In the Spotlight
+
+sdonham
+
+Chocula Konsole Themes
+
+Konsole Color Schemes
+
+Dark brown Konsole themes with Dracula or pastel syntax highlighting, made to complement my Chocula and Chocula-Pastel KDE themes
+
+Plings
+1
+
+Score 5.0
+
+Updated 1 year ago
+
+sdonham
+
+Chocula Kate Themes
+
+Kate
+
+Dark brown themes with Dracula palette or pastel syntax highlighting for katepart applications (Kate, KDevelop, Kile, and KWrite) To install, copy desired .theme file(s) to ~/.local/share/org.kde.syntax-highlighting/themes, or import through any katepart program's settings menu (...
+
+Plings
+1
+
+Score 5.0
+
+Updated 1 year ago
+
+geobarrod
+
+KDE-Services
+
+Dolphin Service Menus
+
+Enables the following functionalities on the Dolphin's (File Manager) right click contextual menu on KDE Plasma [5.x|6.x]. Submenu "Actions" =&gt; "KDE-Services" (it is shown when right-clicked any file/dir). "Add Timestamp Prefix to [File|Dir]name" "Change Timestamp to [File|Di...
+
+Plings
+1
+
+Score 8.5
+
+Updated 4 months ago
+
+bunnymnemonic
+
+DesktopPal97 for XFCE
+
+XFCE/XFWM4 Themes
+
+"Your first-class visual companion for your personal desktop computer." DesktopPal97 is a rebellious yet classic fantasy desktop imitating the 90s aesthetic. It is a full-featured GTK-3 theme for XFCE4 (with partial GTK-4 support and a GTK-2 fallback), including an XFWM4 theme, a...
+
+Plings
+1
+
+Score 7.8
+
+Updated 12 months ago
+
+luis-bocanegra
+
+Kurve - Audio Visualizer
+
+Plasma 6 Applets
+
+Audio visualizer powered by CAVA Requires installing cava qt6-websockets and python-websockets packages or their equivalents for your distribution! Check the README on GitHub for more detailed instructions: https://github.com/luisbocanegra/kurve Support the development ❤️ GitHub...
+
+Plings
+1
+
+Score 8.4
+
+Updated 2 weeks ago
+
+phob1an
+
+Expose Air
+
+Global Themes (Plasma 6)
+
+Aero for my Expose series. Set window borders size to 'Large', right-side buttons only. Required Kvantum: https://www.pling.com/p/1687245/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 5.0
+
+Updated 9 months ago
+
+phob1an
+
+Irixium
+
+Global Themes (Plasma 6)
+
+Irixium is an interpretation of SGI's IRIX desktop for Plasma. The Kvantum application theme is here: https://www.pling.com/p/1457738/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 7.2
+
+Updated 6 months ago
+
+phob1an
+
+Expose
+
+Global Themes (Plasma 6)
+
+Remembering XP. Kvantum theme: https://www.pling.com/p/1479055/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 6.9
+
+Updated 6 months ago
+
+phob1an
+
+Commonality
+
+Global Themes (Plasma 6)
+
+Remembering CDE, the Common Desktop Environment. The Application Theme is here: https://www.pling.com/p/1459520/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 6.4
+
+Updated 7 months ago
+
+phob1an
+
+Commonality Sienna
+
+Global Themes (Plasma 6)
+
+Adding new looks to my Commonality series. Kvantum (application style) is here: https://www.pling.com/p/2294902/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 5.0
+
+Updated 7 months ago
+
+phob1an
+
+Commonality Sol
+
+Global Themes (Plasma 6)
+
+Riffing on Solaris CDE. Required Kvantum :- https://www.pling.com/p/2111458/ A guide to using Kvantum: https://www.opencode.net/phob1an/commonality/-/blob/master/kvinstall.md
+
+Plings
+1
+
+Score 7.1
+
+Updated 7 months ago
+
+diegons490
+
+Yakuake Slot Spectrum Dark Theme
+
+Yakuake Skins
+
+Yakuake Slot Spectrum Dark Theme A sleek and elegant Yakuake dark theme designed to perfectly match the Slot Spectrum Dark theme for KDE Plasma. It provides a cohesive, professional terminal experience integrated with your desktop environment. ✨ Features Dark Theme &ndash; Easy...
+
+Plings
+1
+
+Score 5.8
+
+Updated 3 months ago
+
+jomada
+
+Otto
+
+Global Themes (Plasma 6)
+
+Look-and-Feel theme. Dark plasma theme, with orange and yellow gradient tones. A menu bar darker than the application menu and the rest of the widgets, rounded at its edges. Otto Plasma theme: https://store.kde.org/p/1358262/ Otto Konsole color schemes: https://store.kde.org/p/13...
+
+Plings
+1
+
+Score 8.4
+
+Updated 4 weeks ago
+
+Blackcrack
+
+TangoSVG V3 202507 blackysgate.de
+
+Full Icon Themes
+
+Tango!SVG V3/202507 blackysgate.de with extra Icons, look more below Tangotheme fresh builded anno ~ 2025.06/08 out of the wiki-pages where be stored all SVG Icons of Tango. i have make one clean Tango theme for make a clean Theme-Package and a "Blackysgate-compatible" Icon Ta...
+
+Plings
+1
+
+Score 5.8
+
+Updated 1 week ago
+
+travis-j
+
+Hackneyed High Contrast Static Cursors
+
+Cursors
+
+Overview This is a modified version of the Hackneyed (Open Desktop) cursor theme. The modified cursors are high contrast with colours based on the default Windows 10 and 11 cursor colours. The cursors have monochrome or multicolour themes, static or animated cursor options, and t...
+
+Plings
+1
+
+Score 5.8
+
+Updated 10 months ago
+
+‹›
+KDE Plasma
+
+eliverlara
+
+Ant Dracula Solid KDE
+
+Plasma Themes
+
+Plings
+0
+
+Score 7.2
+
+Updated3 hours ago
+
+eliverlara
+
+Ant-Dracula KDE
+
+Plasma Window Decorations
+
+Plings
+0
+
+Score 5.5
+
+Updated3 hours ago
+
+eliverlara
+
+Space SDDM
+
+SDDM Login Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated3 hours ago
+
+eliverlara
+
+Andromeda
+
+Global Themes (Plasma 5)
+
+Plings
+0
+
+Score 5.7
+
+Updated3 hours ago
+
+eliverlara
+
+Andromeda Aurorae
+
+Plasma Window Decorations
+
+Plings
+0
+
+Score 5.8
+
+Updated3 hours ago
+
+GTK/Gnome
+
+eliverlara
+
+Andromeda
+
+GTK3/4 Themes
+
+Plings
+0
+
+Score 8.2
+
+Updated2 hours ago
+
+eliverlara
+
+Kimi
+
+GTK3/4 Themes
+
+Plings
+2
+
+Score 8.7
+
+Updated2 hours ago
+
+dr-mccoy
+
+Cinnamon Delight
+
+Cinnamon Themes
+
+Plings
+0
+
+Score 6.4
+
+Updated3 hours ago
+
+l4k1
+
+Dream-Violet-Dark-GTK
+
+GTK3/4 Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated4 hours ago
+
+l4k1
+
+Dream-Lime-Green-Dark-GTK
+
+GTK3/4 Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated4 hours ago
+
+Window Managers
+
+rasatpc
+
+FVWM Kise
+
+FVWM Themes
+
+Plings
+0
+
+Score 6.6
+
+Updated3 months ago
+
+sackbit-f0ss
+
+Breezy IceWM Theme
+
+Ice-WM Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated5 months ago
+
+sackbit-f0ss
+
+CoolBlue Fluxbox Theme
+
+Fluxbox Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated5 months ago
+
+live777
+
+Hatsune Miku Theme
+
+Ice-WM Themes
+
+Plings
+0
+
+Score 6.4
+
+Updated6 months ago
+
+live777
+
+Loc-OS theme
+
+Ice-WM Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated6 months ago
+
+Icons / Cursors
+
+dr-mccoy
+
+Cinnamon Delight Icons
+
+Full Icon Themes
+
+Plings
+0
+
+Score 6.0
+
+Updated3 hours ago
+
+l4k1
+
+Breeze-Cheerful-Phantasy-Dark
+
+Full Icon Themes
+
+Plings
+0
+
+Score 6.4
+
+Updated4 hours ago
+
+yeyushengfan258
+
+ArcAurora Cursors
+
+Cursors
+
+Plings
+0
+
+Score 6.1
+
+Updated6 hours ago
+
+yeyushengfan258
+
+ArcDusk Cursors
+
+Cursors
+
+Plings
+0
+
+Score 5.0
+
+Updated6 hours ago
+
+l4k1
+
+Slot Spectrum Dark Icons
+
+Full Icon Themes
+
+Plings
+0
+
+Score 5.0
+
+Updated12 hours ago
+
+App Add-Ons
+
+felagund
+
+KIM 6 - KDE Image Menu for Plasma 6
+
+Dolphin Service Menus
+
+Plings
+0
+
+Score 6.1
+
+Updated1 day ago
+
+malierel
+
+BetterVLSub
+
+VLC Extensions
+
+Plings
+0
+
+Score 5.0
+
+Updated2 days ago
+
+jpcare
+
+Moments Tracker Revisited
+
+VLC Extensions
+
+Plings
+0
+
+Score 5.8
+
+Updated3 days ago
+
+frank98rh
+
+Hidden List
+
+Dolphin Service Menus
+
+Plings
+0
+
+Score 5.0
+
+Updated3 days ago
+
+frank98rh
+
+Comic convert
+
+Dolphin Service Menus
+
+Plings
+0
+
+Score 5.0
+
+Updated4 days ago
+
+Applications
+
+numerone
+
+numerone's fortune uno
+
+Internet Apps
+
+Plings
+0
+
+Score 5.0
+
+Updated24 hours ago
+
+numerone
+
+Il fortune di numerone uno
+
+Internet Apps
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+ramoncardena
+
+WhatsApp Desktop Client
+
+Chat & Messenging
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+claudemods
+
+Zen browser
+
+Browser
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+numerone
+
+Il fortune di numerone
+
+Internet Apps
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+Phone
+
+afterlife-dev
+
+M21 - AfterlifeOS
+
+Phone ROMS
+
+Plings
+0
+
+Score 5.0
+
+Updated15 hours ago
+
+afterlife-dev
+
+Surya - AfterlifeOS
+
+Phone ROMS
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+afterlife-dev
+
+OP7 Series - AfterlifeOS
+
+Phone ROMS
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+afterlife-dev
+
+Blossom - AfterlifeOS
+
+Phone ROMS
+
+Plings
+0
+
+Score 5.0
+
+Updated1 day ago
+
+sonicbsv
+
+crDroid Android
+
+Phone ROMS
+
+Plings
+0
+
+Score 6.3
+
+Updated2 days ago
+
+Distros
+
+pablogdev
+
+CuerdOS 2.0 Xfce
+
+Distros
+
+Plings
+0
+
+Score 5.0
+
+Updated3 weeks ago
+
+fenario
+
+4CLIX 24.3 Violetta
+
+Distros
+
+Plings
+0
+
+Score 5.0
+
+Updated4 months ago
+
+kainatquaderee
+
+Kainat OS
+
+Distros
+
+Plings
+0
+
+Score 5.0
+
+Updated7 months ago
+
+gui-os
+
+Linux DevuanOS Closed Shell Openbox64 and 32 v5
+
+Distros
+
+Plings
+0
+
+Score 5.0
+
+Updated7 months ago
+
+haylemcandelario
+
+Cinnamon livecd Debian 12 Haylem Remaser
+
+Distros
+
+Plings
+0
+
+Score 5.0
+
+Updated7 months ago
+
+Top Listings
+
+sethalanfloyd96
+
+AzuleOS - SplashScreen
+
+Listings
+
+Plings
+0
+
+Score 5.0
+
+New7 hours ago
+
+ultraguy
+
+Gloomi_x Wallpaper
+
+Listings
+
+Plings
+0
+
+Score 5.0
+
+New1 week ago
+
+ultraguy
+
+Gloomi_x Cursor
+
+Listings
+
+Plings
+0
+
+Score 5.0
+
+New1 week ago
+
+mlm0448
+
+Debian KDE Splashscreen
+
+Listings
+
+Plings
+0
+
+Score 5.0
+
+New3 weeks ago
+
+danielb
+
+Invisible Switcher
+
+Listings
+
+Plings
+0
+
+Score 5.0
+
+New4 weeks ago
+
+Artwork
+
+jkotos103
+
+My logo
+
+Animations
+
+Plings
+0
+
+Score 5.0
+
+Updated2 months ago
+
+wvwvwvvwvwwvwv
+
+vwwvwvwvwvwv
+
+Cliparts
+
+Plings
+0
+
+Score 5.0
+
+Updated3 months ago
+
+firferit
+
+Coban
+
+Stock Images
+
+Plings
+0
+
+Score 5.0
+
+New3 months ago
+
+gholk
+
+Lisp alien slide template
+
+Various Artwork
+
+Plings
+0
+
+Score 5.0
+
+Updated4 months ago
+
+frankh93
+
+Amazfit Bip 6 Watchfaces
+
+Various Artwork
+
+Plings
+0
+
+Score 5.0
+
+Updated6 months ago
+
+Wallpapers
+
+l4k1
+
+Merry Christmas-Happy New Year Wallpaper
+
+Wallpaper Other
+
+Plings
+0
+
+Score 5.0
+
+Updated14 hours ago
+
+l4k1
+
+Merry Christmas-Happy New Year Light Wallpaper
+
+Wallpaper Other
+
+Plings
+0
+
+Score 5.0
+
+Updated14 hours ago
+
+l4k1
+
+Happy Holidays Dark Wallpaper
+
+Wallpaper Other
+
+Plings
+0
+
+Score 5.0
+
+Updated14 hours ago
+
+l4k1
+
+Happy Holidays Light Wallpaper
+
+Wallpaper Other
+
+Plings
+0
+
+Score 5.0
+
+Updated14 hours ago
+
+tomchandler
+
+Abstract black background Design
+
+Abstract
+
+Plings
+0
+
+Score 5.0
+
+Updated15 hours ago
+
+Wallpapers (Original)
+
+dr-mccoy
+
+The White Stag
+
+Wallpapers KDE Plasma
+
+Plings
+0
+
+Score 5.0
+
+Updated3 hours ago
+
+dr-mccoy
+
+Thunder Over Eagle's Nest
+
+Wallpapers KDE Plasma
+
+Plings
+0
+
+Score 5.0
+
+Updated3 hours ago
+
+l4k1
+
+Dream-Wallpaper
+
+Wallpapers KDE Plasma
+
+Plings
+0
+
+Score 5.0
+
+Updated4 hours ago
+
+l4k1
+
+Dream-Wall
+
+Wallpapers KDE Plasma
+
+Plings
+0
+
+Score 5.0
+
+Updated4 hours ago
+
+l4k1
+
+Dream-Violet-World-Wallpaper
+
+Wallpapers KDE Plasma
+
+Plings
+0
+
+Score 5.0
+
+Updated4 hours ago
+
+Music / Videos
+
+charlie-henson
+
+New Single Ten Years Drifting 2025 Vocal Trance
+
+House & Trance
+
+Plings
+0
+
+Score 5.0
+
+Updated2 weeks ago
+
+charlie-henson
+
+New Single Human Virus 2025 Vocal Psytrance
+
+House & Trance
+
+Plings
+0
+
+Score 5.0
+
+Updated2 weeks ago
+
+charlie-henson
+
+New Single We Won The War 2025 Vocal Techno
+
+House & Trance
+
+Plings
+0
+
+Score 5.0
+
+Updated2 weeks ago
+
+charlie-henson
+
+New Single One Mind 2025 Vocal Techno
+
+House & Trance
+
+Plings
+0
+
+Score 5.0
+
+Updated2 weeks ago
+
+charlie-henson
+
+New Single Escape Earth 2025 Vocal Psytrance
+
+House & Trance
+
+Plings
+0
+
+Score 5.0
+
+Updated3 weeks ago
+
+Books / Comics
+
+reiryuki
+
+Money Management Risk Parity Google Sheet Microsoft Excel
+
+History
+
+Plings
+0
+
+Score 5.0
+
+Updated4 months ago
+
+revwhiteshadow
+
+Linux Basics The Essential Beginners Guide
+
+History
+
+Plings
+0
+
+Score 5.0
+
+Updated5 months ago
+
+djmaxcz
+
+ps3 gentoo tutorial
+
+History
+
+Plings
+0
+
+Score 5.0
+
+Updated5 months ago
+
+revwhiteshadow
+
+Mastering Bash Scripting Automate Your Linux Workflow
+
+Fantasy
+
+Plings
+0
+
+Score 5.0
+
+Updated5 months ago
+
+djmaxcz
+
+Vagrant tutorial
+
+History
+
+Plings
+0
+
+Score 5.0
+
+Updated7 months ago
+
+Opencode Git Projects ›
+
+304 people support those who create freedom. See all
+
+
+
+News ›
+Loading...
+Forum ›
+Loading...
+Comments ›
+
+BeautySolar
+
+Full Icon Themes
+
+not neccessary it was a linux update problem all works again.
+
+krovos
+
+4 hours ago
+
+Marge Light
+
+Global Themes (Plasma 6)
+
+Absolutely beautiful theme. I love it. Great work, thanks. If I may make a suggestion, the white top bar, like in Dolphin, is quite too strong of a white. Maybe a darker tone will be more suitable...
+
+armageddon51
+
+4 hours ago
+
+Gnome Desktop Wallpaper 952
+
+Wallpapers Gnome
+
+This wallpaper feels warm in the best way — not just visually, but emotionally ☺️👍🏻
+
+dr-mccoy
+
+5 hours ago
+
+Yet Another Monochrome Icon Set For KDE Plasma
+
+Full Icon Themes
+
+No worries. I'll add ch.tlaun.TL into the upcoming release :) .
+
+dirn
+
+6 hours ago
+
+Viola-Dark-Kvantum
+
+Kvantum
+
+Also, all the best.
+
+l4k1
+
+8 hours ago
+
+Viola-Dark-Kvantum
+
+Kvantum
+
+Thank you! Happy New Year to you :)
+
+janet
+
+8 hours ago
+
+Viola-Dark-Kvantum
+
+Kvantum
+
+Thank you very much, janet! Here you have everything: https://www.pling.com/p/2162541
+
+l4k1
+
+8 hours ago
+
+Yet Another Monochrome Icon Set For KDE Plasma
+
+Full Icon Themes
+
+i believe its ch.tlaun.TL im sorry for the really late reply i lowkey forgot about the comment i may be incorrect tho
+
+didaka
+
+8 hours ago
+
+Viola-Dark-Kvantum
+
+Kvantum
+
+Looks great. But how can I get this color for the window title bar? There is no Viola Dark Kvantum color theme in systemsettings.
+
+janet
+
+8 hours ago
+
+Iridiscent Clock for panel
+
+Plasma 6 Clocks
+
+Great looking clock widget. Please add right click functionality to this widget and it will be absolutely perfect.
+
+stickwoo
+
+9 hours ago
+
+Planet Linux'ing Groups - pling.com
+
+© 2026 pling.com - Planet Linux'ing Groups
+All rights reserved. All trademarks are copyright by their respective owners. All contributors are responsible for their uploads.
+
+Services
+Opendesktop.org
+Opencode.net
+Pling.com
+Community
+Community
+Discussion
+Community Funding
+Become a Supporter
+Documents
+FAQ Pling
+FAQ Opencode
+API
+About
+About
+Terms & Conditions
+Privacy Policy
+Contact
+Imprint
+
+Blog
+
+Download the app
+
+Join our chat
+
+Part of Opendesktop.org Platform
+
+Put the headline here
+×
+Close
+
+Cancel Yes

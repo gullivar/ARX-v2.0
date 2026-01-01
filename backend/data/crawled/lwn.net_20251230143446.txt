@@ -1,0 +1,185 @@
+LWN
+.net
+News from the source
+Content
+Weekly Edition
+Archives
+Search
+Kernel
+Security
+Events calendar
+Unread comments
+LWN FAQ
+Write for us
+User:  Password:   |  | 
+Welcome to LWN.net
+LWN.net is a reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities. See the LWN FAQ for more information, and please consider subscribing to gain full access and support our activities.
+
+[$] An early look at the Graphite 2D graphics editor
+[Development] Posted Dec 26, 2025 15:45 UTC (Fri) by rolandixor
+
+Graphite is an effort to unify illustration, raster editing, desktop publishing, and animation in one browser-based application. The project has been in development since 2021 and announced its first alpha release in 2022. According to creator Keavon Chambers, the project's mission is to become "the 2D counterpart to Blender", by bringing a node-based, non-destructive workflow to 2D graphics. The project, currently still in alpha, is a long way from complete; but it is worth testing for anyone involved with open-source-graphics production. Current builds, from September 2025, include vector-illustration tools, a node-based compositor, and early brush tooling, with broader pixel-based- and photo-editing work still in progress.
+
+Full Story (comments: 13)
+
+[$] LWN.net Weekly Edition for December 25, 2025
+Posted Dec 25, 2025 0:53 UTC (Thu)
+
+The LWN.net Weekly Edition for December 25, 2025 is available.
+
+Inside this week's LWN.net Weekly Edition
+
+Front: 2025 retrospective; Dirk and Linus talk; successful open-source documentation projects; verifier-state pruning in BPF; Linux 32-bit timeline; BPF state visualizer; systemd v259.
+Briefs: linux-next maintainer; 2025 TAB; Git in Debian; Elementary OS 8.1; Qubes OS 4.3.0; GDB 17.1; Incus 6.20; systemd v259; Quotes; ...
+Announcements: Newsletters, conferences, security updates, patches, and more.
+Read more
+
+[$] A 2025 retrospective
+[Front] Posted Dec 24, 2025 16:07 UTC (Wed) by corbet
+
+Another year has reached its conclusion. That can only mean one thing: the time has come to take a look back at the predictions we made in January and evaluate just how badly they turned out. Much to our surprise, not all of our predictions were entirely accurate. It has been a wild year in the Linux community and beyond, to say the least.
+
+Full Story (comments: 20)
+
+[$] What's new in systemd v259
+[Development] Posted Dec 24, 2025 14:48 UTC (Wed) by jzb
+
+The systemd v259 release was announced on December 17, just three months after v258. It is a more modest release but still includes a number of important changes such as a new option for the run0 command (an alternative to sudo), ability to mount user home directories from the host in virtual machines, as well as under-the-hood changes with dlopen() for library linking, the ability to compile systemd with musl libc, and more.
+
+Full Story (comments: 25)
+
+[$] A high-memory elimination timeline for the kernel
+[Kernel] Posted Dec 23, 2025 15:31 UTC (Tue) by corbet
+
+Arnd Bergmann began his 2025 Linux Plumbers Conference session on the future of 32-bit support in the Linux kernel by saying that it was to be a followup to his September talk on the same topic. The focus this time, though, was on the kernel's "high memory" abstraction, and when it could be removed. It seems that the kernel community will need to support 32-bit systems for some time yet, even if it might be possible to remove some functionality, including support for large amounts of memory on those systems, more quickly.
+
+Full Story (comments: 22)
+
+[$] Verifier-state pruning in BPF
+[Kernel] Posted Dec 23, 2025 14:29 UTC (Tue) by daroc
+
+The BPF verifier works, on a theoretical level, by considering every possible path that a BPF program could take. As a practical matter, however, it needs to do that in a reasonable amount of time. At the 2025 Linux Plumbers Conference, Mahé Tardy and Paul Chaignon gave a detailed explanation (slides; video) of the main mechanism that it uses to accomplish that: state pruning. They focused on two optimizations that help reduce the number of paths the verifier needs to check, and discussed some of the complications the optimizations introduced to the verifier's code.
+
+Full Story (comments: none)
+
+[$] Tools for successful documentation projects
+[Development] Posted Dec 22, 2025 15:01 UTC (Mon) by jake
+
+At Open Source Summit Japan 2025, Erin McKean talked about the challenges to producing good project documentation, along with some tooling that can help guide the process toward success. It is a problem that many projects struggle with and one that her employer, Google, gained a lot of experience with from its now-concluded Season of Docs initiative. Through that program, more than 200 case studies of documentation projects were gathered that were mined for common problems and solutions, which led to the tools and techniques that McKean described.
+
+Full Story (comments: none)
+
+[$] A visualizer for BPF program state
+[Kernel] Posted Dec 19, 2025 15:08 UTC (Fri) by daroc
+
+The BPF verifier is complicated. It needs to check every possible path that a BPF program's execution could take. The fact that its determination of whether a BPF program is safe is based on the whole lifetime of the program, instead of simple local factors, means that the cause of a verification failure is not always obvious. Ihor Solodrai and Jordan Rome gave a presentation (slides) at the 2025 Linux Plumbers Conference in Tokyo about the BPF verifier visualizer that they have been building to make diagnosing verification failures easier.
+
+Full Story (comments: none)
+
+[$] Episode 29 of the Dirk and Linus show
+[Kernel] Posted Dec 18, 2025 15:17 UTC (Thu) by corbet
+
+Linus Torvalds is famously averse to presenting prepared talks, but the wider community is always interested in what he has to say about the condition of the Linux kernel. So, for some time now, his appearances have been in the form of an informal conversation with Dirk Hohndel. At the 2025 Open Source Summit Japan, the pair followed that tradition for the 29th time. Topics covered include the state of the development process, what Torvalds actually does, and how machine-learning tools might fit into the kernel project.
+
+Full Story (comments: 36)
+
+LWN.net Weekly Edition for December 18, 2025
+Posted Dec 18, 2025 0:16 UTC (Thu)
+
+The LWN.net Weekly Edition for December 18, 2025 is available.
+
+Inside this week's LWN.net Weekly Edition
+
+Front: Civil Infrastructure Platform; COSMIC desktop; Calibre adds AI; Maintainer's Summit; ML tools for kernel development; linux-next; Rust in the kernel; kernel development tools; Linux process improvements; 6.19 merge window part 2.
+Briefs: capsudo; Asahi Linux 6.18; Pop!_OS 24.04; Vojtux; KDE Gear 25.12; Rust 1.92.0; Quotes; ...
+Announcements: Newsletters, conferences, security updates, patches, and more.
+Read more
+
+Graham: [KDE] Highlights from 2025
+[Development] Posted Dec 29, 2025 15:48 UTC (Mon) by corbet
+
+Nate Graham looks back at how 2025 went for the KDE project.
+
+Today Plasma is the default desktop environment in a bunch of the hottest new gaming-focused distros, including Bazzite, CachyOS, Garuda, Nobara, and of course SteamOS on Valve's gaming devices. Fedora's Plasma edition was also promoted to co-equal status with the GNOME edition, and Asahi Linux — the single practical option for Linux on newer Macs — only supports KDE Plasma. Parrot Linux recently switched to Plasma by default, too. And Plasma remains the default on old standbys like EndeavourOS, Manjaro, NixOS, OpenMandriva, Slackware and TuxedoOS — which ships on all devices sold by Tuxedo Computers!
+
+Comments (none posted)
+
+Security updates for Monday
+[Security] Posted Dec 29, 2025 14:11 UTC (Mon) by jzb
+
+Security updates have been issued by Debian (kodi, pgbouncer, and rails), Fedora (duc, fluidsynth, gdu, singularity-ce, and tkimg), Slackware (vim), and SUSE (buildah, duc, gnutls, python39, qemu, and webkit2gtk3).
+
+Full Story (comments: none)
+
+Kernel prepatch 6.19-rc3
+[Kernel] Posted Dec 28, 2025 22:43 UTC (Sun) by corbet
+
+Linus has released 6.19-rc3 for testing. "Another week, another -rc release. Except the past week has obviously been the holiday week, and this rc release is pretty small as a result. Very much as expected."
+
+Comments (none posted)
+
+Security updates for Friday
+[Security] Posted Dec 26, 2025 14:07 UTC (Fri) by jzb
+
+Security updates have been issued by Debian (gst-plugins-good1.0, postgresql-13, and python-urllib3), Fedora (chezmoi, docker-buildkit, ov, and subfinder), Oracle (httpd:2.4), Slackware (net), and SUSE (apache2, buildah, kernel, and mariadb).
+
+Full Story (comments: none)
+
+A partial ruling in the Vizio GPL suit
+[Briefs] Posted Dec 25, 2025 17:11 UTC (Thu) by corbet
+
+The judge in the Vizio GPL-compliance lawsuit has ruled, in a summary judgment, that the GNU General Public License, version 2, does not require the provision of signing keys needed to install modified software on a device.
+
+Read as a whole, the Agreements require Vizio to make the source code available in such a manner that the source code can be readily obtained and modified by Plaintiff or other third parties. While source code is defined to include "the scripts used to control compilation and installation," this does not mean that Vizio must allow users to reinstall the software, modified or otherwise, back onto its smart TVs in a manner that preserves all features of the original program and/or ensures the smart TVs continue to function properly. Rather, in the context of the Agreements, the disputed language means that Vizio must provide the source code in a manner that allows the source code to be obtained and revised by Plaintiff or others for use in other applications.
+
+As the Software Freedom Conservancy, the plaintiff in the case, has pointed out, the judge has ruled against a claim that was never actually made.
+
+SFC has never held the position, nor do we today hold the position, that any version of the GPL (even including GPLv3!) require "that the device continues to function properly" after a user installs their modified version of the copyleft components.
+
+Linus Torvalds, meanwhile, has posted his own take on the ruling that has, as one might imagine, sparked an extended discussion as well.
+
+Comments (30 posted)
+
+Ruby 4.0 released
+[Development] Posted Dec 25, 2025 14:09 UTC (Thu) by jzb
+
+Once again there is a brand-new release under the tree from the Ruby programming-language project: Ruby 4.0 has been released with many new features and improvements. Notable changes include the experimental Ruby Box feature for in-process isolation of classes and modules, a new just-in-time compiler called ZJIT, and improvements to Ruby's parallel-execution mechanism (Ractor). There are a number of language changes as well. See the documentation for Ruby 4.0 for more.
+
+Comments (none posted)
+
+Security updates for Thursday
+[Security] Posted Dec 25, 2025 13:59 UTC (Thu) by jzb
+
+Security updates have been issued by Fedora (httpd, retroarch, and roundcubemail), Oracle (container-tools:rhel8, grafana, httpd, kernel, python3.12, python39:3.9, thunderbird, and uek-kernel), and SUSE (cheat, go-sendxmpp, and kernel).
+
+Full Story (comments: none)
+
+Security updates for Wednesday
+[Security] Posted Dec 24, 2025 14:04 UTC (Wed) by jzb
+
+Security updates have been issued by AlmaLinux (container-tools:rhel8, grafana, opentelemetry-collector, and thunderbird), Red Hat (kernel), and SUSE (cheat, libsoup, mariadb, mozjs52, python310, python315, qemu, rsync, and zk).
+
+Full Story (comments: none)
+
+Elementary OS 8.1 released
+[Distributions] Posted Dec 23, 2025 15:40 UTC (Tue) by jzb
+
+Version 8.1 of elementary OS has been released. Notable changes in this release include making the Wayland session the default, changes to window management and multitasking, as well as a number of accessibility improvements. The 8.1 release is the first to be made available for Arm64 devices, which should allow users to run elementary on Apple M-series hardware or other Arm devices that can load UEFI-supporting firmware, such as some Raspberry Pi models. See the blog post for a full list of changes.
+
+Comments (none posted)
+
+Security updates for Tuesday
+[Security] Posted Dec 23, 2025 14:12 UTC (Tue) by jzb
+
+Security updates have been issued by AlmaLinux (binutils, curl, gcc-toolset-13-binutils, git-lfs, httpd, httpd:2.4, keylime, libssh, mod_md, openssh, php:8.3, podman, python3.12, python3.9, python39:3.9, skopeo, tomcat, tomcat9, and webkit2gtk3), Fedora (mingw-glib2, mingw-libsoup, and mingw-python3), Mageia (roundcubemail), Oracle (git-lfs and mod_md), and SUSE (glib2, kernel, mariadb, and qemu).
+
+Full Story (comments: none)
+
+--> More news items
+
+
+
+
+Copyright © 2025, Eklektix, Inc.
+Comments and public postings are copyrighted by their creators.
+Linux is a registered trademark of Linus Torvalds

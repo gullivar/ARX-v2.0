@@ -1,0 +1,39 @@
+{
+    "About_Us": "https://ipwhois.io",
+    "ip": "59.15.130.228",
+    "success": true,
+    "type": "IPv4",
+    "continent": "Asia",
+    "continent_code": "AS",
+    "country": "Republic of Korea",
+    "country_code": "KR",
+    "region": "Gyeonggi",
+    "region_code": "41",
+    "city": "Seongnam-si",
+    "latitude": 37.4449168,
+    "longitude": 127.1388684,
+    "is_eu": false,
+    "postal": "13437",
+    "calling_code": "82",
+    "capital": "Seoul",
+    "borders": "KP",
+    "flag": {
+        "img": "https://cdn.ipwhois.io/flags/kr.svg",
+        "emoji": "🇰🇷",
+        "emoji_unicode": "U+1F1F0 U+1F1F7"
+    },
+    "connection": {
+        "asn": 4766,
+        "org": "Kornet",
+        "isp": "Korea Telecom",
+        "domain": ""
+    },
+    "timezone": {
+        "id": "Asia/Seoul",
+        "abbr": "KST",
+        "is_dst": false,
+        "offset": 32400,
+        "utc": "+09:00",
+        "current_time": "2025-12-30T14:12:14+09:00"
+    }
+}

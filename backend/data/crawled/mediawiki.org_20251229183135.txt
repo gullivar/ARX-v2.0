@@ -1,0 +1,81 @@
+Jump to content
+Main menu
+Search
+English
+Donate
+Create account
+Log in
+[dismiss]
+
+Please take the 2025 Developer Satisfaction Survey(privacy statement) anytime before 2026-01-05. This survey helps us prioritize work on tools and platforms for our technical contributors.
+
+MediaWiki is a collaboration and documentation platform brought to you by a vibrant community.
+Main Page
+Discussion
+Read
+View source
+View history
+Tools
+Appearance hide
+Text
+Small
+Standard
+Large
+Width
+Standard
+Wide
+Color (beta)
+Automatic
+Light
+Dark
+Photo of participants of the Wikimedia Hackathon 2025
+
+The MediaWiki software is used by tens of thousands of websites and thousands of companies and organisations. It powers Wikipedia and also this website. MediaWiki helps you collect and organise knowledge and make it available to people. It's powerful, multilingual, free and open, extensible, customisable, reliable, and free of charge. Find out more and if MediaWiki is right for you.
+
+Set up and run MediaWiki
+Download, install and configure MediaWiki
+Add functionality by installing extensions
+Problems? See errors and symptoms and FAQ
+Don't own a server? Find hosting services
+Get professional development and consulting
+Join MediaWiki Stakeholders user group
+Edit and use MediaWiki
+Learn how to navigate
+Learn how to edit a page
+Learn more about reading, editing, and personal customisation
+Develop and extend code
+Read the MediaWiki developer documentation
+Visit the Wikimedia Developer Portal
+Get help and contribute
+Cannot find the answer to a problem with MediaWiki? Ask the support desk!
+Get involved as a translator, designer, documentation writer, tester, tech ambassador, or developer
+Report wrong software behaviour or a feature proposal
+News
+2025-12-17
+ Maintenance release: 1.39.17 is now available.
+2025-12-10
+ Security and maintenance release: 1.39.16 / 1.43.6 / 1.44.3 / 1.45.1 are now available.
+2025-12-08
+ MediaWiki 1.45.0 is now available.
+2025-10-03
+ Security and maintenance release: 1.39.15 / 1.43.5 / 1.44.2 are now available.
+2025-10-02
+ Security and maintenance release: 1.39.14 / 1.43.4 / 1.44.1 are now available.
+
+Older news
+
+Languages:	English  • Afrikaans • العربية • asturianu • azərbaycanca • башҡортса • беларуская • беларуская (тарашкевіца) • български • বাংলা • bosanski • català • کوردی • čeština • dansk • Deutsch • Ελληνικά • Esperanto • español • فارسی • suomi • français • galego • ગુજરાતી • עברית • हिन्दी • hrvatski • magyar • հայերեն • interlingua • Bahasa Indonesia • italiano • 日本語 • Jawa • қазақша • 한국어 • മലയാളം • Bahasa Melayu • Mirandés • Nederlands • ଓଡ଼ିଆ • polski • português • português do Brasil • română • русский • sardu • සිංහල • slovenčina • slovenščina • Soomaaliga • shqip • српски / srpski • svenska • ꠍꠤꠟꠐꠤ • ไทย • Türkçe • українська • Tiếng Việt • 粵語 • 中文
+
+
+
+
+This page was last edited on 29 December 2023, at 18:14.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. Text in the Help: namespace is available under the Creative Commons CC0 License. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policy
+About mediawiki.org
+Disclaimers
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

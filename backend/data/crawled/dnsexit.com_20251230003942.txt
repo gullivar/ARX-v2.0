@@ -1,0 +1,330 @@
+Services
+Pricing
+Support
+FAQ
+IT Tools
+VPS
+new
+unread messages
+  Sign Up
+  Login
+HOME DOMAINS  DNS  E-MAIL  HOSTING  HELP  MY ACCOUNT  .
+	
+
+Free Dynamic & Enterprise DNS Services
+
+
+	
+25 years of Rock Solid Enterprise Level Services for free
+    while maintaining 100% Up Time since 1998
+
+
+
+Easy dynamic IP updates with the curl command:
+
+
+ curl https://api.dnsexit.com/dns/ud/?apikey=API-Key -d host=host-to-update 
+
+
+Learn More »   Setup Dynamic IP Updates »
+
+Looking for Email Inbox Delivery?
+
+
+Outgoing SMTP Mail Relay
+
+
+On Sale 30% OFF  Business Email
+Find Domains: Over 1000+ TLDs to register
+
+
+
+
+
+Find Great Domain Names
+
+Looking for a great domain name? Browse our Expired & Pending-Delete Domains list to find newly available .com/.net/.org names.
+
+
+
+
+Free Services for your Domains
+
+
+Free Domain Names
+
+
+100% free and fully functional domain for dynamic IPs, web sites, Emails, FTP servers, SSL. No obligation for any paid services.
+
+
+
+Free Domains »
+Dynamic DNS
+
+
+Dynamic IP address got you down? Link the domain name to your dynamic IP address for free and never lose your connection again.
+
+
+
+Dynamic DNS »
+Business Emails
+
+
+Custom Email Addresses Under Your Own Domain.
+POP and IMAP + SMTP Relay.
+Plan starts as free.
+
+
+
+Business Emails »
+Free Digital Certificates
+
+
+100% Free SSL Certificates that support wildcard. Issued in Minutes. Valid for 90 days. Scripts for auto renew.
+
+
+
+Free Digital SSL »
+
+
+The most completed E-Mail		solutions for your businesses
+
+
+
+Outbound Mail Relay Business Email Hosting Email MX Backup Email Redirection Email Forwarding Email Marketing
+Resolve all Your Email Problems
+
+Email Delivery Problem not reaching INBOX
+Not able to send emails due to blocking on outgoing SMTP port 25
+Not able to run your own Email server because incoming SMTP port blocked
+To have your own business emails under your domain.
+Forwarding your domain emails to existing email address
+Bulk Marketing Emails
+
+
+All Email Services
+
+
+	
+
+
+
+    	Every Step to Online Success
+
+Bring your website to life, and help it thrive
+
+
+	
+
+Publish your WordPress Site in 1 Minute even before you own a domain
+
+
+
+
+
+
+First 6 Months Free; Then only $1.99 / Month
+
+
+
+Get Started for Free
+
+
+
+    	More Options for your web site choice
+
+
+with more flexibilities in your web presence
+
+
+Web Hosting ( with business emails )
+		
+
+
+
+	
+	starts with 1 GB disk space
+	unlimited email addresses with webmail access
+	support PHP/CGI/Perl/Python/MySQL
+	1 click installation of Wordpress/DruPal/Joomla
+	Plan starts with $2.95/month
+
+Learn More ..
+
+
+
+
+
+
+
+
+Add Profession Emails  Impress Your Customers
+
+
+by sending emails from @yourwebsite.com
+
+
+
+
+Get secure, reliable Private Emails connected to your domain starting with free .
+
+
+
+
+
+
+FREE Package Limited with 2 Email Addresses
+
+PAID Package with Unlimited Email Addresses and Email Forwarders
+
+
+
+Sign Up Business Emails
+
+
+
+
+
+
+
+
+Customer Service
+
+
+
+
+You are covered by a Support Team that is renowned for being one of the most knowledgeable, friendly, and professional in the business.
+
+Real people are ready to assist you with any issue, any time, 24/7.
+
+
+I need Help
+
+
+
+
+
+
+
+United We Web
+
+
+
+10
+Data Centers in 4 Countries
+
+
+Deliver the best in georedundancy. Data mirroring in 2 data centers means your data is always available.
+
+	1.1
+Million Domains
+
+
+And counting! You won't get a domain with more features and better value anywhere else.
+
+	500
+Servers in 4 Countries
+
+
+Running the latest hardware and software provide a stable ecosystem for our products.
+
+
+
+
+Are you get ready ?
+
+To use any service, just sign up an account first; then login and click on Start Services button and choose the service to sign up.
+
+
+Sign Up FREE
+
+	
+
+
+Site Map
+
+
+Domains
+Domain Name Search
+Domain Renewal
+Transfer Domain to Us
+Free Domains
+Free SSL Digital Certificates
+Expired Pending delete Domain Search
+URL / Domain Forwarding
+Domain Parking Page
+	
+
+DNS
+DNS Service
+Dynamic DNS
+Setup DNS
+Uptime Monitoring & DNS Failover
+Dynamic DNS Clients
+
+
+
+Emails
+Mail Relay Outbound
+Business Emails
+Mail Backup MX
+Mail Redirection
+Mail Forwarding
+	
+
+Web Sites
+Web Hosting
+WordPress Hosting
+VPS Hosting
+
+
+
+Help
+Support
+FAQ ?
+Pricing
+Forgot Passowrd
+About US
+	
+
+Customer Logins
+Client Login
+Webmail Login
+Sign Up
+
+Affiliates
+Resellers
+
+
+
+Terms
+Domain registration agreement
+Domain name dispute resolution Policy
+Registrant Rights & Responsibilities
+Abuse Handling Procedures
+Deletion & Auto-Renewal Policies
+Expiration Notification Methods
+Disclosure Request Mechanism
+Privacy Policy
+Terms of Service
+Refund Policy
+	
+
+Knowledge Base
+How does dynamic DNS work?
+Manage your DNS with DNS API
+Digital SSL API
+
+
+Follow Us at:       Our Sites: MailOutgoing.com | DNSExit.com | FreeDomain.One
+	
+@1998 - 2025 by DNSExit.com
+A Subsidiary of NetDorm, Inc.
+Tel: (513) 399 0242
+All Rights Reserved
+	We are an ICANN accredited registrar.
+Serving customers since 1998.
+Netdorm Inc.
+8190-A Beechmont Ave, Ste 278
+Cincinnati, Ohio, 45255, USA
+;

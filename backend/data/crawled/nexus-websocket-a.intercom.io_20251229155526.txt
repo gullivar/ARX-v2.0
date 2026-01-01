@@ -1,0 +1,5 @@
+Let's get you to the right place
+
+This is an API endpoint designed for requests, not web browsing.
+
+Contact Support if you need help, or read more about Ably API request formats in the Docs.

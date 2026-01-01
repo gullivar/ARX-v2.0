@@ -1,0 +1,344 @@
+CartMy DownloadsFREE TRIALLog In
+PRODUCTS
+MULTI-PLATFORM PACKAGES
+Universal Subscription
+Our Best Value – includes over 600 UI Controls, our award-winning reporting platform, DevExpress Dashboard, the eXpressApp Framework, CodeRush for Visual Studio and more.
+DXperience Subscription
+Save Hundreds – includes DevExpress UI Controls for WinForms, ASP.NET, MVC, WPF, our award-winning reporting platform and CodeRush for Visual Studio.
+HIGHLIGHTED PRODUCT SUITES
+File & Document APIs (XLSx, DOCx, PPTx, PDF)
+High-performance file format and doc management APIs at an affordable and easy-to understand price.
+WINDOWS DESKTOP CONTROLS
+WinForms
+WPF
+VCL
+Desktop Reporting
+ENTERPRISE & SERVER TOOLS
+Document APIs (XLSx, DOCx, PPTx, PDF)
+Business Intelligence Dashboard
+Report & Dashboard Server
+MOBILE CONTROLS
+.NET MAUI
+ARTIFICIAL INTELLIGENCE
+AI-powered Extensions
+WEB CONTROLS
+JS / TS – Angular, React, Vue, jQuery
+Blazor
+ASP.NET Core
+ASP.NET Web Forms
+ASP.NET MVC
+Bootstrap Web Forms
+Web Reporting
+FRAMEWORKS & PRODUCTIVITY
+XAF - Cross-Platform .NET App UI
+XPO – ORM Library (FREE)
+.NET App Security & Web API Service (FREE)
+CodeRush for Visual Studio (FREE)
+TESTING & QA
+TestCafe Studio
+ WHAT'S NEW.NET 10 SUPPORT
+DEMOS
+BUY
+SUPPORT & DOCS
+SUPPORT CENTER
+Search the KB
+My Questions
+Localization
+Version History
+Security - What You Need to Know
+Accessibility and Section 508 Support
+What's New in the Latest Version
+LEARNING MATERIALS
+Documentation
+Code Examples
+Demos
+Training
+ 
+Need help or require more information?
+
+Submit your support inquiries via the DevExpress Support Center for assistance.
+
+BLOGS
+ABOUT US
+CONNECT WITH DEVEXPRESS
+Blogs
+Events, Meetups and Tradeshows
+LEARN MORE ABOUT DEVEXPRESS
+About Us
+Careers / Job Opportunities
+News
+User Comments and Case Studies
+Our Awards
+MVP Program
+Announcing DevExpress Universal v25.2
+
+Developer Express Inc is proud to announce the immediate availability of its newest release, DevExpress v25.2. Built and optimized for desktop, web, and mobile developers alike...
+
+DevExpress Wins 20 Visual Studio Reader's Choice Awards
+
+Like previous years, DevExpress dominated Visual Studio Magazine's 2025 Readers Choice Awards. We thank all our loyal users for casting their vote on behalf of DevExpress.
+
+Your next great app starts here.
+Explore our product line by category...
+slide 8 to 11 of 4
+Desktop UI Components
+WinForms, WPF, VCL
+File & Document APIs
+DOCx, XLSx, PPTx, PDF
+JS / TS UI Components
+Angular, React, Vue, jQuery
+Mobile UI Development
+.NET MAUI
+Blazor & ASP.NET UI
+Components
+Visual Studio Productivity
+& Refactoring
+CodeRush
+Reporting & Analytics
+Desktop & Web
+Cross-Platform .NET App
+Development
+XAF
+
+
+
+Or download our free 30-day trial
+to experience the DevExpress difference today.
+
+FREE 30-DAY TRIAL
+
+DevExpress News
+DevExtreme — Year-End Roadmap v25.2 (React, Angular, Vue, jQuery & ASP.NET Core)
+
+This blog post outlines key features/enhancements planned in DevExtreme for our next major update (v25.2) in December 2025
+
+Read the post
+Blazor — Year-End Roadmap (v25.2)
+
+This post outlines key features/enhancements planned for our next major update (v25.2)
+
+Read the post
+Сhanges and Future Plans: New Angular Configuration Components
+
+If you've worked with the DevExtreme Angular components in the past, you likely encountered configuration components — those with dxo- and dxi- prefixes. These helper components simplify widget setup, align with Angular architectural principles, and enhance readability
+
+Read the post
+v25.2 is Here. Experience it Today
+
+We are proud to announce the immediate availability of DevExpress Universal v25.2, our award-winning software development platform for .NET and Visual Studio developers. With numerous new products and dozens of high-impact features, v25.2 allows you to build your best, without limits or compromise. From the desktop, the web or your mobile world, DevExpress dev tools help you address a broad range of usage scenarios and deliver intuitive solutions that amaze.
+
+WHAT'S NEW IN V25.2
+We are Hiring – DevExpress Career Opportunities
+
+Positions / Job Opportunities
+
+Free DevExpress Products - Get Your Copy Today
+
+The following DevExpress products are available free-of-charge. Register online and reserve your free copy today.
+
+.NET App Security & Web API Service
+
+CodeRush for Visual Studio (IDE Productivity)
+
+.NET ORM Library (XPO)
+
+Perfected Desktop UI Components
+for WinForms, WPF, and Delphi VCL
+
+Create elegant, high-impact user experiences and emulate the capabilities of today’s most popular business productivity apps with DevExpress UI components for WinForms, WPF, and Delphi VCL.
+
+WinForms Suite (includes 190+ controls and 60+ chart types)
+WPF Suite (includes 130+ controls and 50+ chart types)
+VCL Suite (includes 230+ controls)
+Blazor – MVC – Web Forms
+When only the Best will Do
+
+Deliver responsive, interactive and high-performance line-of-business web applications with DevExpress UI components for Blazor, ASP.NET Core, ASP.NET Web Forms and MVC.
+
+Blazor (includes 70+ components and 20+ chart types)
+ASP.NET MVC (includes 70+ extensions and 60+ chart types)
+ASP.NET Web Forms (includes 110+ controls and 60+ chart types)
+ASP.NET Core (includes 85+ controls and 20 chart types)
+Bootstrap Web Forms (includes 45+ controls and 20+ chart types)
+Reporting and BI Dashboard
+for Windows, the Web and Your Mobile World
+
+Deliver high-performance decision support systems and analytics dashboards across platforms and devices with our fully integrated suite of UI controls, reporting tools and dashboards.
+
+Royalty-Free Reporting for Developers
+Royalty-Free BI Dashboard for Developers
+When Only the Best Will Do
+
+From Office-inspired applications to data‑centric analytics dashboards,
+DevExpress Universal ships with everything you'll need to build your best, without limits or compromise.
+
+Lars Ugleberg
+CEO and Founder, UGLEBERG.dk
+
+I have used DevExpress WPF in the past, and always been impressed with their support and the richness of their offer. Now, as I am venturing into developing my first web application, I first looked at a competitor because they provide a free license. But I gave up because their documentation is inadequate. So, I have tried DevExtreme, and managed to use it quickly and with much less effort.
+
+David Kinney
+
+As a Manager of Technical Support Services for a former company, I know good customer service when I experience it. DevExpress Support is of the highest level. Issues are handled expediently. All the support resources appear to be highly knowledgeable, but beyond that they are all courteous and professional. I've also witnessed the issue escalation process which keeps the issue flowing to resolution. I have nothing but the highest praise for DevExpress Customer Support.
+
+Dionisis Soldatos
+
+We love the XAF's "Code It, Run It, Customize It before Lunch" slogan, and take great pride in our Smart (also based in XAF) slogan – Take a case from a customer, customize Smart, provide a solution, finish your work today. Thanks to DevExpress' eXpress Application Framework, I can sleep well at night knowing that my customers' needs are so fully met!
+
+Marc Philipp Wittke
+
+I just wanted to let you know that your support is great. Not only that I am getting quick answers to all of my questions, your public ticketing system is so well organized and indexed by search engines that it is very easy to find ideas to solve my problems even without contacting you.
+
+Steven Vissers
+
+We are very happy with DevExpress. The support team is amazing. All our question were answered within 12 hours. Even there is no solution out of the box, there is always an alternative way. This gives us the feeling that nothing is impossible. We are looking forward to program a lot more nice stuff with DevExpress.
+
+Ingolf Mönch
+
+After 25 Years of professional windows development I have never seen a library like DevExpress. AWESOME! This great grid control is the best I've ever seen! An investment that makes happy!
+
+Bram Essers
+
+I would like to take the opportunity to compliment you and your colleagues at DevExpress Support. I have worked with many support organizations and your support really stands out: it is outstanding. I have mainly been in contact with you and Anatol and it is always a pleasure to work with you guys. Keep up the good work!
+
+Andy Luyten
+
+Still discovering new and exciting possibilities while being a customer for 5+ years - best .NET developer tools on the planet.
+
+Stephen Winstanley
+
+Thank you for another year of using your controls to make some great products for our customers. Can you please say thank you to all of your support staff. They do a fantastic job, so I hope you never cut back on this service.
+
+Ir. Dany Buyse
+
+The experience I had with DevExpress is "top"! Outstanding support, very friendly interfaces and above all a marvellous framework to develop with. So far, it has been an extremely positive experience, I presume not due to change in the future! If you're looking for the fast road (with professional support) towards web-development ... don't look any further! DevExpress has it all!
+
+Tanakorn Numrubporn
+
+The DevExpress team already set the new standard in software service industry. For every ticket that I created, there is not even one of them answered late. I didn't hesitate to tell my colleagues about your products.
+
+Haris Nordin
+
+The most invaluable third-party tool that we have. It has been selected to be our base controls since they're incredibly powerful, customizable and easy to implement. Saves us hundreds of hours in every project assigned to us.
+
+Chris Todd
+
+Thank you DevExpress for building one of the most powerful, feature rich control suites on the market. Your superior support staff is second to none! I can't even begin to measure the amount of time the controls have saved me. And to see the look on people's faces when they experience the controls first hand, is priceless!
+
+Len Ford
+
+I would not have been able to produce such a comprehensive web application, 'ConversationalCRM', singlehandedly in the short timescale I had available without using the DevExpress tool set. DevExpress have allowed me to provide a fully-functional CRM, supporting marketing, sales and support activities to my end users. The CRM has full reporting, including User Report Templates (using the End-User Report Designer) and end-user designed Dashboards (using the Dashboard Designer).
+
+Sven Stening
+PSSP GmbH
+
+I believe the real power of XAF is your special way of handling the MVC pattern. Adding a property to a Business Object - no matter if doing it in code or with the Application Model Editor - all possible types of views can show the new values: Detail View, List View, Reports, Statistics, etc. This is really stunning and flabbergasts me every time I see it. You've really done a great job. To be honest I've developed something very similar in the past and used it now for a long time for my projects. But XAF is much more powerful and easier to use. Not to mention your great UI components.
+
+Bruno Mandara
+
+I'm really thrilled, I've been using this suite for a couple of months and it's really fantastic. Everything I was looking for in a product. The support is great, they help you in any situation by responding very quickly and very clearly.
+
+John Friel
+
+DevExpress has made ProParts really come to life. Currently compiled with Delphi, the conversion to .NET is already underway and looking just as good. In addition, I've started the requested web site upgrade using ASP.NET controls, and the conversion is moving along smoothly. So yeah, I'm on both sides of the DevExpress fence with Delphi and .NET, but this is a case where you really get what you pay for.
+
+Joseph Tang
+
+With the ever growing up-to-date DevExpress components and technologies, I could build the latest applications on multiple platforms with the top notch functionality, quality and reliability.
+
+Hüseyin Tüfekçilerli
+
+We are using DevExpress components since day one we have started developing our software. We see DevExpress just as a member in our team, always responsive and producing great quality work. Keep up the good work and thanks for your continued support!
+
+Yahya Edhie N. Kwando
+
+DevExpress XAF and XPO, these are amazing stuff you can use to speed things up developing application, web or windows. What else you want to expect if someone can give you more time to do other things in life?
+
+Jose Walter Sierra Jaramillo
+
+The DevExpress tools are the best on the market, very easy to configure and less code than usual, allow me to have my apps on pc, tablets and give the best user experience for my clients, I always recommend DevExpress to my friends colleagues and others…
+
+Riaan Jacobs
+
+Thank you for amazing components. We are using the WinForms component and are planning to move to the Universal subscription later this year to utilize the DevExtreme and ASP.NET components. The components saved me a lots of time in the past while building quick data driven applications.
+
+Francesc Diaz
+
+In few words, you made my developing "green" because you save a lot of energy simplifying development and reduce the time my computer is on. Everything is done quicker than ever. Keep it up with your great suite, it saves me a lot of time, and also helps me to convince and impress my company.
+
+READ MORE USER COMMENTS
+Best in Class Tools
+DevExpress is honored to have been voted best in class 16 times in this year's Visual Studio Magazine Reader's Choice Awards.
+
+Experience the DevExpress difference and see why your peers consistently vote our products #1. With our Universal Subscription, you will build your best, see complex software with greater clarity, increase your productivity and create stunning applications for Windows, Web and your Mobile world.
+
+ x16
+ x18
+ x19
+ x20
+About Us
+About DevExpress
+Careers at DevExpress
+News
+Our Awards
+Events, Meetups and Tradeshows
+User Comments and Case Studies
+MVP Program
+Logos and Artwork
+Frequently Asked Questions
+Product Licensing
+Purchasing FAQ
+Supported Versions & IDE Prerequisites
+Support Policies
+Maintenance Release FAQ
+Windows Desktop Controls
+WinForms
+WPF
+VCL
+Desktop Reporting
+Enterprise & Server Tools
+Business Intelligence Dashboard
+Report & Dashboard Server
+Office File API
+Mobile Controls
+.NET MAUI
+Artificial Intelligence
+AI-powered Extensions
+Web Components
+JS / TS - Angular, React, Vue, jQuery
+Blazor
+ASP.NET Core
+ASP.NET Web Forms
+ASP.NET MVC
+Bootstrap Web Forms
+Web Reporting
+Frameworks & Productivity
+XAF - Cross-Platform .NET App UI
+XPO - ORM Library (FREE)
+CodeRush for Visual Studio (FREE)
+.NET App Security & Web API Service (FREE)
+Testing & QA
+TestCafe Studio - Web Testing
+Support & Documentation
+Search the KB
+My Questions
+Documentation
+Code Examples
+Demos & Getting Started
+Blogs
+Training
+Version History
+What's New
+Security - What You Need to Know
+Accessibility and Section 508 Support
+.NET 10 Support
+
+DevExpress engineers feature-complete UI Presentation Controls, PDF and Office File APIs, RAD Application Development Frameworks, Reporting & Business Intelligence libraries for Visual Studio, JetBrains Rider (C# / .NET), Web (JS & TS), VCL (Delphi), and Mobile (iOS & Android) development. Whether using WPF, WinForms, Blazor, JavaScript, ASP.NET Core MVC, DevExpress tools help you build and deliver your best in the shortest time possible.
+
+We are here to help. Should you have any questions or need assistance from a member of our team, write to us at info@devexpress.com.
+
+Use of this site constitutes acceptance of our Website Terms of Use and Privacy Policy (Updated). Cookies Settings
+Copyright © 1998-2025 Developer Express Inc. All trademarks or registered trademarks are property of their respective owners
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Accept All Cookies Reject Non-Essential Cookies
+Cookies Settings

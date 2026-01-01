@@ -1,0 +1,612 @@
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+
+You may find more detailed information about your data processing here.
+
+Show details
+Allow all
+Customize
+Skip to main content
+Proxies
+50% OFF
+Proxies menu
+Scrapers
+NEW
+Scrapers menu
+Pricing
+Pricing menu
+Data for AI
+Data for AI menu
+Resources
+Resources menu
+Region
+Region menu
+Start for free
+Log in
+Talk to data expert
+SMARTPROXY IS NOW DECODO
+AI-Ready Proxy & Scraping Solutions
+
+The most efficient way to test, launch, and scale your web data projects.
+
+Start for free
+Start free with Google
+
+<0.2s. avg. speed
+
+125M+ IPs
+
+99.99% uptime
+
+195+ locations
+
+LLM-compatible
+
+Trusted by:
+
+Smartproxy is now Decodo
+
+Our evolution from proxy infrastructure to a complete data access and automation platform called for a new name. The same trusted team and solutions you've relied on since 2018 are now part of Decodo, delivering even better tools for your web data projects.
+
+Learn about our evolution
+Start collecting data with the right solution, fast
+
+Choose from proxies, scraping APIs, or Site Unblocker, built for quick onboarding and automation-friendly workflows.
+
+Proxies
+Scraping APIs
+
+What is a proxy?
+
+A proxy acts as an intermediary between your device and the internet. As traffic is routed through alternative IPs, you’re avoiding geo-restrictions, CAPTCHAs, and IP blocks, unlocking access to any target with maximum anonymity.
+
+Residential proxies
+
+from $1.5/GB
+
+Real household IP addresses connected to local networks, offering genuine residential locations and user-like behavior. 
+Learn more
+
+Start free trial
+
+Static residential proxies
+
+from $0.27/IP
+
+ISP-issued static IPs from premium ASNs that combine residential authenticity with datacenter-like stability. 
+Learn more
+
+Start free trial
+
+Mobile proxies
+
+from $2.25/GB
+
+Real smartphone IPs from 3G/4G/5G carrier networks, providing genuine mobile traffic footprints. 
+Learn more
+
+Start free trial
+
+Datacenter proxies
+
+from $0.020/IP
+
+High-speed IP addresses from enterprise-grade data centers, offering lightning-fast response times. 
+Learn more
+
+Start free trial
+
+Site Unblocker
+
+from $0.95/1K req
+
+An advanced proxy solution engineered to bypass anti-bot defenses and automatically handle CAPTCHAs or IP bans. 
+Learn more
+
+Start free trial
+
+What is Scraping API?
+
+Our All-in-One Scraping API lets you collect web data at scale without managing multiple tools - it combines 
+Web Scraping API
+, 
+eCommerce Scraping API
+, 
+SERP Scraping API
+, and 
+Social Media Scraping API
+ into one streamlined solution.
+
+Core Scraping API
+
+from $0.08/1K req
+
+A cost-effective solution that handles proxies and anti-bot defenses for you. 
+Learn more
+
+Start free trial
+
+Advanced Scraping API
+
+from $0.95/1K req
+
+An advanced solution featuring headless browser tech, structured data, markdown output, and automated scheduling. 
+Learn more
+
+Start free trial
+
+Video Downloader
+
+from $0.08/GB
+
+Seamlessly download YouTube videos and audio at scale for analysis, archiving, or AI dataset creation. 
+Learn more
+
+Learn more
+
+AI Parser
+
+Instantly turn any website’s HTML into structured data. Simply describe what you need and get clean JSON results, no coding required. 
+Learn more
+
+Learn more
+
+MCP server
+
+Give your AI agents, LLMs, and tools the power to browse the web, fetch real-time results, and analyze the latest data.
+
+Learn more
+Discover ethically-sourced IPs worldwide
+
+Access 125M+ proxy IPs across 195+ countries. Use state-, country-, city-, and ASN-level targeting for restriction-free web data collection and market research.
+
+Explore all locations
+
+United States
+
+16.1M+ IPs
+
+United Kingdom
+
+5M+ IPs
+
+Netherlands
+
+870K+ IPs
+
+Germany
+
+5.6M+ IPs
+
+Canada
+
+3.1M+ IPs
+
+France
+
+4.6M+ IPs
+
+Learn with Knowledge Hub
+
+Find advanced scraping tutorials, proxy setup, and integration guides.
+
+Learn more
+Start building AI-ready data pipelines
+
+Power your LLMs, agents, and analytics pipelines with real-time, structured data – without the setup headaches.
+
+AI Parser
+
+Turn messy HTML into structured JSON with a single prompt – perfect for powering AI models, analytics dashboards, or any workflow that needs clean, ready-to-use data.
+
+MCP server
+
+Connect AI models and agents directly to Decodo’s scraping tools – enabling real-time browsing, scraping, and data delivery inside your AI workflows.
+
+Markdown output
+
+Get clean, developer-friendly outputs in Markdown – ideal for documentation, Jupyter notebooks, and AI pipelines that need human-readable and machine-parseable results.
+
+N8n integration
+
+Plug Decodo (formerly Smartproxy) into your automation stack with our official n8n node – build no-code AI workflows that scrape, parse, and deliver data in minutes.
+
+Discover how our solutions power your use cases
+
+From AI model training to SEO monitoring and ad verification, our products adapt to your needs with scale, precision targeting, and anti-block resilience built in.
+
+Artificial intelligence
+
+Fuel AI models with clean, structured training data. Use high-speed proxies, AI Parser, and Scraping APIs to automate large-scale data pipelines without hitting CAPTCHAs or geo-blocks. 
+Learn more
+
+Multi-accounting
+
+Run and manage unlimited eCommerce or social accounts safely. Sticky proxies, session control, and our free 
+X Browser
+ help avoid bans while keeping each profile separate. 
+Learn more
+
+Price aggregation
+
+Track competitor and market prices in real time. Our proxies and Web Scraping API deliver localized, accurate data to power smarter pricing models and dashboards. 
+Learn more
+
+SEO marketing
+
+Audit SERPs and localized content at scale. Combine proxies with our Web Scraping API to monitor keyword rankings, backlinks, and page performance across regions. 
+Learn more
+
+Web scraping
+
+Collect public web data at scale with zero hassle. Decodo’s (formerly Smartproxy) Site Unblocker and Web Scraping API handle CAPTCHAs, IP bans, and JavaScript rendering for reliable data delivery. 
+Learn more
+
+AdTech
+
+Validate ad placement, monitor competitors, and fight fraud. Top-quality proxies with precise geo-targeting ensure accurate ad testing across devices and locations. 
+Learn more
+
+Get free tools to power up your data collection
+
+Use our complimentary solutions to simplify setup, manage sessions, and speed up testing without writing a single line of code.
+
+X Browser
+
+Download for free
+
+Chrome Proxy Extension
+
+Download for free
+
+Firefox Add-on
+
+Download for free
+
+Proxy Checker
+
+Download for free
+
+X Browser
+
+Download for free
+
+Chrome Proxy Extension
+
+Download for free
+
+Firefox Add-on
+
+Download for free
+
+Proxy Checker
+
+Download for free
+
+X Browser
+
+Download for free
+
+Chrome Proxy Extension
+
+Download for free
+
+Firefox Add-on
+
+Download for free
+
+Proxy Checker
+
+Download for free
+
+X Browser
+
+Download for free
+
+Chrome Proxy Extension
+
+Download for free
+
+Firefox Add-on
+
+Download for free
+
+Proxy Checker
+
+Download for free
+
+Learn what people are saying about us
+
+We're thrilled to have the support of our 130K+ clients and the industry's best.
+
+Clients
+Awards
+Industry experts
+
+Attentive service
+
+The professional expertise of the Decodo solution has significantly boosted our business growth while enhancing overall efficiency and effectiveness.
+
+N
+
+Novabeyond
+
+Easy to get things done
+
+Decodo provides great service with a simple setup and friendly support team.
+
+R
+
+RoiDynamic
+
+A key to our work
+
+Decodo enables us to develop and test applications in varied environments while supporting precise data collection for research and audience profiling.
+
+C
+
+Cybereg
+
+Best Usability 2025
+
+Awarded for the ease of use and fastest time to value for proxy and scraping solutions.
+
+Best User Adoption 2025
+
+Praised for the seamless onboarding experience and impactful engagement efforts.
+
+Best Value 2025
+
+Recognized for the 5th year in a row for top-tier proxy and scraping solutions.
+
+Techradar
+
+The best proxy of 2025, that’s highly affordable for most use cases.
+
+Proxyway
+
+The provider has become an all-rounder that tries to retain these winning qualities.
+
+PCMag
+
+Decodo’s residential proxy service is crucial for your business’s data collection.
+
+Read our blog
+
+Build knowledge on our solutions, or pick up some bright ideas for your next project.
+
+Most recent
+
+NEW
+DATA COLLECTION
+PYTHON
+AI
+
+AI Web Scraping With Python: A Comprehensive Guide
+
+AI web scraping with Python lets you extract data from websites without relying on fragile parsing rules. AI helps handling page inconsistencies and dynamic content, while Python continues to manage fetching. In this guide, you'll see how models extract data from unstructured pages, reduce manual parsing rules, support automation, and scale into reliable pipelines.
+
+Mykolas Juodis
+
+Dec 23, 2025
+
+6 min read
+
+Most popular
+
+PYTHON
+DATA COLLECTION
+
+How to Scrape Bing Search with Python
+
+Zilvinas Tamulis
+
+May 16, 2025
+
+12 min read
+
+DATA COLLECTION
+BUSINESS AUTOMATION
+
+How to Scrape YouTube Search Results: Complete Guide
+
+Kipras Kalzanauskas
+
+Jun 25, 2025
+
+9 min read
+
+BIG DATA
+DATA COLLECTION
+AI
+
+AI Data Mapping 101: How It Works and Why It Matters
+
+Vaidotas Juknys
+
+Jun 12, 2025
+
+5 min read
+
+DATA COLLECTION
+BIG DATA
+BUSINESS AUTOMATION
+AI
+
+AI Training Data: Definition, Sources & Best Practices
+
+Mykolas Juodis
+
+May 30, 2025
+
+6 min read
+
+PYTHON
+DATA COLLECTION
+
+How to Save Your Scraped Data
+
+Dominykas Niaura
+
+Aug 29, 2025
+
+10 min read
+
+DATA COLLECTION
+PYTHON
+
+How to Run Python Code in Terminal
+
+Dominykas Niaura
+
+Aug 20, 2025
+
+10 min read
+
+HIDE IP
+
+Random IP Address: Examples, Use Cases, Risks, and Alternatives
+
+Kotryna Ragaišytė
+
+Aug 19, 2025
+
+8 min read
+
+AI
+BIG DATA
+
+Top 10 MCPs for AI Workflows in 2025
+
+Mykolas Juodis
+
+Aug 13, 2025
+
+9 min read
+
+BIG DATA
+DATA COLLECTION
+AI
+
+What Is Janitor AI? Features, Pricing, and Use Cases Guide
+
+Zilvinas Tamulis
+
+Aug 05, 2025
+
+13 min read
+
+DATA COLLECTION
+PYTHON
+UNBLOCK
+
+How to Bypass Google CAPTCHA: Expert Scraping Guide 2025
+
+Dominykas Niaura
+
+Aug 11, 2025
+
+10 min read
+
+DATA COLLECTION
+PYTHON
+
+How to Scrape Google Lens: A Step-By-Step Guide
+
+Dominykas Niaura
+
+Jul 24, 2025
+
+10 min read
+
+Read blog
+Start Your Web Scraping and Proxy Journey
+
+Seamlessly test, launch, and scale your data collection projects with reliable, easy-to-use, and affordable proxy infrastructure.
+
+Start now
+
+14-day money-back option
+
+Use RESI50 to save 50% on residential proxies for 12 months!
+
+GET IN TOUCH
+
+FOLLOW US
+
+All Systems Operational
+
+COMPANY
+
+About us
+Careers
+Community
+Privacy policy
+License agreement
+Ethical sourcing & usage
+Code of Conduct
+Code of Ethics
+Speak Up
+AI Chatbot Privacy Notice
+Smartproxy
+
+PRODUCTS
+
+Proxy servers
+Residential proxies
+ISP proxies
+Mobile proxies
+Datacenter proxies
+Web Scraping API
+eCommerce Scraping API
+SERP Scraping API
+Social Media Scraping API
+
+RESOURCES
+
+FAQ
+Billing
+Getting started
+Documentation
+Blog
+Glossary
+Best hub
+Affiliate program
+Referral program
+
+PROXY FEATURES
+
+Static residential proxies
+SOCKS5 proxies
+Unlimited proxies
+Rotating proxies
+Dedicated proxies
+Shared proxies
+UDP proxies
+Sticky residential proxies
+
+PROXY TARGETS
+
+YouTube proxies
+Reddit proxies
+eBay proxies
+Craigslist proxies
+Pinterest proxies
+Shopify proxies
+
+SCRAPING TARGETS
+
+ZoomInfo Scraper
+Airbnb Scraper
+Justdial Scraper
+Indeed Scraper
+Google Maps Scraper
+Google Hotel Scraper
+Google Autocomplete Scraper
+Redfin Scraper
+Amazon ASIN Scraper
+
+© 2018-2025 decodo.com (formerly smartproxy.com). All Rights Reserved

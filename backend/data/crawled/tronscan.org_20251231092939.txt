@@ -1,0 +1,375 @@
+Home
+Blockchain
+Tokens
+Data
+Governance
+TRON Ecosystem
+Developers
+More
+SunPump Meme
+SunPerp
+Register|Log In
+Connect Wallet
+Announcement Regarding the Discontinuation of Phone Number Login on TRONSCAN(2024-11-01)
+Follow-up Announcement on the Mandatory Requirement of API Key for All Requests(2025-07-28)
+Announcement on Mandatory Requirement of API Key for All Requests(2025-06-30)
+Announcement Regarding the Discontinuation of Phone Number Login on TRONSCAN(2024-11-01)
+Follow-up Announcement on the Mandatory Requirement of API Key for All Requests(2025-07-28)
+Announcement on Mandatory Requirement of API Key for All Requests(2025-06-30)
+Announcement Regarding the Discontinuation of Phone Number Login on TRONSCAN(2024-11-01)
+All
+All
+
+Total Accounts
+
+356,518,891
+
+24h
+
++240,012
+
+Total Value Locked
+
+$24,083,722,663
+
+24h
+
++0.70%
+
+Total Transactions
+
+12,531,609,178
+
+24h
+
++10,980,351
+
+Total Transfer Volume
+
+$23,790,629,905,810
+
+24h
+
++$29,427,822,983
+
+Current/Max TPS
+70/608
+Total Nodes
+6,599
+Total Contracts
+6,216,311
+Total Tokens
+162,946
+TRX
+$0.2860
++0.47%
+Market Cap
+$27.08b
+Volume (24h)
+$486.12m
+Total Supply (14d)
++0.24%
+/y
+Total Supply
+0
+Total Staked
+39,579,458,612
+Blocks
+More
+#78826025
+BlockAnalysis
+9 secs ago
+270 Transactions
+8 TRX
+128 TRX
+53.4113 TRX
+#78826026
+Binance Staking
+12 secs ago
+230 Transactions
+8 TRX
+128 TRX
+70.6727 TRX
+#78826025
+Abra Capital Management
+15 secs ago
+199 Transactions
+8 TRX
+128 TRX
+55.7724 TRX
+#78826024
+Crypto Labs
+18 secs ago
+237 Transactions
+8 TRX
+128 TRX
+40.4039 TRX
+Transactions
+More
+13b62828b6afea408c590f72b8f86d7b0133119140383d1968c9ff3e297
+c779f
+5 secs ago
+From
+TCKimTdUM9ZFr7joswtxjjzZ48Q
+7TJynkT
+To
+TGkWBDBWYbArMz75EPbes5hMHys
+X6hJwtE
+0
+TRX
+Reclaim Resources
+dccc2845b5d8793cb4b8f0c0a2019e3e370b451b7b5d17bcf6d92ebad8a
+26526
+6 secs ago
+From
+TH1xytqF5fcrZcgBmtun7swHBeL
+Hg7TyNj
+To
+TYh8MN6xBVbZfWNWe5jCZSuKbrC
+C2HoyPN
+0
+TRX
+Delegate Resources
+4c1fb1c74cdf927cbc326e089cf66f17f075d4f1598a6c3b4256b1adf0c
+97a94
+6 secs ago
+From
+TDKP95fenfXBzhSM12sXSErDEKJ
+LPCSR76
+To
+TEUTUoiMSCBYX4VMJFXhkH8oTT9
+YDRUKKu
+0.000001
+TRX
+Transfer TRX
+d69e4ca42b2cffba7e29edb40899b7c4d005afa91a48bc69bceba77212c
+12c70
+6 secs ago
+From
+THMqermjjdYoFPwo8czH7HtD2YL
+PALYYe3
+To
+TDacAco2tMji4KcKPDxP6fhkC7w
+uijR5zF
+0
+TRX
+Delegate Resources
+794df76043b68140fd2a96f9b336ac2a205a3ca41302a858059dd31979d
+dd61a
+7 secs ago
+From
+TYeube627FA2GhTa7uPftW3khyM
+KxRxFGV
+To
+TPZ2LmpjmrpucEPvTvbYG21yEYo
+rirv7fc
+0.000002
+TRX
+Transfer TRX
+Transactions
+Total Value Locked
+/
+Total Value on Chain
+Submit Project
+More
+$
+24,083,722,663
+Project	Category	
+Total Value Locked
+	
+Change (24h)
+ 
+	
+ 
+	
+ 
+	
+ 
+
+
+TRX Staking
+	
+Governance
+	
+$13,074,594,466
+	
++0.61%
+
+
+JustLend DAO
+	
+Lending | Staking
+	
+$6,561,379,708
+	
++0.62%
+
+
+Just Cryptos
+	
+Cross Chain
+	
+$3,008,395,763
+	
++1.35%
+
+
+USDD
+	
+Stablecoin | Lending
+	
+$886,616,376
+	
++0.65%
+
+
+SUN.io
+	
+Swap | Farm | Meme | Perp
+	
+$481,228,204
+	
++0.65%
+
+
+stUSDT
+	
+RWA | Staking | Yield
+	
+$58,573,216
+	
+-0.13%
+
+
+BTT Staking Governance
+	
+Governance
+	
+$11,846,820
+	
+-0.51%
+
+
+JustStable
+	
+TRX-Pegged
+	
+$1,088,532
+	
++0.60%
+Top 5 Tokens by Transfer Volume
+#	Token	
+Transfer Volume (Yesterday)
+	
+Transfers (Yesterday)
+	Market Cap
+1	
+USDT
+	
+$28,990,850,717
+	2,681,761	
+$81,394,717,518
+
+2	
+TRX
+	
+$244,555,089
+	4,933,518	
+$27,082,988,201
+
+3	
+USDD
+	
+$151,356,473
+	2,893	
+$533,913,959
+
+4	
+USD1
+	
+$15,776,135
+	949	
+$25,516,073
+
+5	
+JST
+	
+$4,844,501
+	1,650	
+$412,938,427
+Transfer Volume
+TRON USDT
+Transfer
+/
+Total Supply
+/
+Accounts
+30D
+90D
+7-day transfer volume reaches $136,973,876,012, changed by +1.6473%
+7-day transfers reach 16,519,624, changed by +0.3687%
+The total supply of USDT on TRON is 80,491,318,943
+Changed by +0.0252% comparing to 30 days ago
+70,593,940 holders, changed by -0.0267% comparing to 30 days ago
+1,209,795 active accounts for yesterday, changed by +13.9509% comparing to 30 days ago
+Charts
+Active Accounts
+/
+New Accounts
+/
+Total Accounts
+Active Accounts (Yesterday)
+3,561,725
++11.86%
+Average Active Accounts (30d)
+3,197,762
+-3.32%
+Total Protocol Revenue
+Revenue (Yesterday)
+$7,281,673
++30.45%
+Revenue (30d)
+$200,959,752
+-2.61%
+TRX Total Supply
+/
+TRX Net Increase
+14D
+30D
+180D
+Total Supply
+94,692,637,888
+Annualized Inflation Rate
++0.24%
+TRX Staked
+/
+TRX Staking Rate
+Stake 2.0
+Stake 1.0
+Total Staked
+45,682,662,628
+Stake 2.0
+27,443,130,701
+(60.07%)
+Stake 1.0
+18,239,531,927
+(39.93%)
+View More Data
+
+The best blockchain explorer of TRON
+
+Preferences
+About Us
+Privacy Policy
+Terms of Service
+Services & Support
+API
+Advertise
+Contact Us
+Resources
+TRON ETF
+TRON Architecture
+TRON Whitepaper V2.1
+Copyright© 2017-2025 tronscan.org
+This website uses cookies to enhance your experience. By continuing to browse, you agree to its Terms of Service and Privacy Policy.
+Got It

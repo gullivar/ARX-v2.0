@@ -1,0 +1,160 @@
+Skip to main content
+
+developers.google.com uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Maps Platform
+Overview
+Products
+Pricing
+More
+/
+Sign in
+Contact Sales
+Get Started
+Build awesome apps with Google's knowledge of the real world
+Create real-world, real-time experiences with the latest Maps, Routes, and Places features from Google Maps Platform. Built by the Google team for developers everywhere.
+Get Started
+See our pricing structure
+Visit documentationarrow_forward
+Explore top topics
+Introducing
+Places UI Kit
+
+Bring the familiar Google Maps user experience for Places to your apps and web pages.
+
+Get going with Navigation SDK
+
+Deliver seamless, customized in-app Google Maps navigation to your Android and iOS apps.
+
+Make an animated 3D map
+
+Take this codelab to learn how to add an animated 3D map with markers to your web app.
+
+Get answers from Places Aggregate API
+
+Learn about the Preview release a new API to retrieve the density of places within a geographic area for powerful analytics and recommendations.
+
+React components for the Maps JavaScript API
+
+The lead engineers behind the @vis.gl/react-google-map library walk through its technical design.
+
+Learn with Codelabs
+Add a Google map to a React app
+
+In this codelab, you learn everything that you need to get started with the vis.gl/react-google-map library for the Google Maps JavaScript API.
+
+Add a map to your iOS app with SwiftUI
+
+Learn how to integrate the Maps SDK for iOS into your mobile apps using SwiftUI.
+
+Add a map to your Android app with Compose
+
+Learn the basics of using the Maps Compose library with the Maps SDK for Android.
+
+Add a map to your Flutter app
+
+Generate Android, iOS, and web apps from a single Dart file.
+
+Try more codelabs →
+Shape the future of Google Maps Platform
+
+The Google Maps Platform Innovators program, helps developers like you with resources and opportunities to enhance your experience with Google Maps Platform. Receive early access to new products and features, access to a community of developers, and more!
+
+Join Google Maps Platform Innovators
+Watch Google Maps Platform videos
+Subscribe to Our YouTube Channel
+Announcing the new Places API
+
+With the new Places API there are now double the number of supported place types including EV charging stations, coffee shops, accessibility accommodation at destinations, and more.
+
+Introducing the Air Quality and Pollen APIs
+
+Allow users to avoid exposure to air pollutants and airborne pollen at their location, and empower more informed health-related daily decision making.
+
+How to add a map to your Flutter app
+
+Learn how to add a Google map to native Android, iOS, and web apps with Dart and Flutter.
+
+Using React with the Maps JavaScript API
+
+Learn how to how to load the Maps JavaScript API and place a marker on the map in React in just 5 minutes.
+
+Full deck.gl integration with WebGL Overlay View
+
+Engineering Lead Travis McPhail shares that deck.gl is now integrated with WebGL Overlay View, allowing you to create amazing 3D data visualizations.
+
+How Domino's delivers pizza anywhere
+
+See how Domino's uses Google Maps Platform to power its Pinpoint Delivery feature.
+
+How to enable Google Maps Platform APIs and SDKs
+
+Learn how to enable Google Maps Platform APIs and SDKs in the Google Cloud console. APIs and SDKs are available for Maps, Routes, and Places across web and mobile platforms.
+
+Intro to Google Maps Platform
+
+In this video, Angela Yu gives an overview of what's available through Google Maps Platform APIs and SDKs and shares some sample code for using them.
+
+Watch more on the Google Maps Platform YouTube channel →
+Join our developer community
+LinkedIn
+
+Follow the latest news from the Google Maps Platform team and celebrate developer community projects.
+
+GitHub
+
+Check out our open source utilities and example apps to help you build better and faster.
+
+YouTube
+
+Tutorials, tips, announcements, developer stories, and more.
+
+Blog
+
+All the latest in-depth news and stories from the world of Google Maps Platform.
+
+Twitter
+
+Keep up-to-date on the latest news & tips from the Google Maps Platform team.
+
+Discord
+
+Get help from other developers and meet our team on the Google Maps Platform Discord server.
+
+Platform Status
+Find out about platform incidents and outages.
+Support
+Get help from the Support team.
+Discord
+Chat with fellow developers about Google Maps Platform.
+Issue Tracker
+Something wrong? Send us a bug report!
+Learn More
+FAQ
+Capabilities Explorer
+Getting started
+API security best practices
+Platforms
+Android
+iOS
+Web
+Web Services
+Product Info
+Pricing and Plans
+Contact Sales
+Support
+Terms of Service
+Android
+Chrome
+Firebase
+Google Cloud Platform
+Google AI
+All products
+Terms
+Privacy
+Manage cookies
+Info
+Chat
+API

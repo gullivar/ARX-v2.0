@@ -1,0 +1,68 @@
+clicky
+Login Register Help
+Privacy-friendly Website Analytics
+Clicky's privacy-friendly, GDPR-compliant website analytics service is used by more than one million websites around the globe.
+Register now
+Login   Demo   Learn more   Compare
+"Not only did we finally get to see the actual real statistics of our website, but the easiness of use and in-depth information Clicky provided made us switch to the paid version within 3 weeks to use it for more of our websites. We also discovered that making beautiful reports is as simple as it can be so we are now installing Clicky on our clients' websites as well."
+-- Jasper Meerman, solutum.com -- More testimonials »
+Monitor, analyze, and react to your traffic in real time
+Privacy-friendly & GDPR-compliant
+No personal data. No tracking cookies.
+No bots or referrer spam
+Our bot detection and blocking is the best in the biz.
+Visitor and action logs
+See every visitor, page view, and javascript event. Anonymized and GDPR-compliant by default.
+Track ad-block visitors
+~15% of people use ad-blockers, which also block even the most privacy-friendly trackers like Clicky. But these visitors can be tracked, by proxying all beacons through generic paths on your domain.
+Heatmaps
+View heatmaps by page, visitor, or segment.
+Security and anti-fraud, if you need it
+Optionally log more data for security or anti-fraud purposes, including full IP addresses, as defined by GDPR recital 47 .
+Uptime monitoring
+Receive alerts when your website goes offline so you can react immediately. Uptime is monitored from 7 locations around the globe.
+And so much more...
+The list of features is nearly endless. Compare Clicky vs the competition!
+Blog
+AI, UTMs, and referrers
+Proxy tracking updates: Cookies, Caching, and X-Forwarded-For
+Log ad-block visitors with reverse proxy tracking!
+IPv6 support!
+Privacy update: Cookie-free tracking is the new default
+Two-factor authentication (2FA)
+Big update for trends and graphs!
+
+Read more »
+
+
+Register now
+Login   Demo   Learn more   Compare
+
+
+
+
+
+
+Register
+Pricing
+White label analytics
+Marketshare
+
+Help
+Forums
+Contact
+Blog
+
+Bluesky
+Mastodon
+Twitter
+
+Terms of service
+Privacy policy
+Do not sell my personal information
+Opt out
+
+
+
+Copyright © 2025, Roxr Software Ltd
+

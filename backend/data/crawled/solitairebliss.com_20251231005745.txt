@@ -1,0 +1,145 @@
+We have dozens of fun card games that you can play. Try one of them today!
+UNDO
+HINT
+NEW
+Solitaire
+Spider Solitaire
+Freecell
+More games
+Resources
+Login
+10
+00:00
+0
+Report Bug
+DAILY CHALLENGE
+Play Solitaire Online for Free
+
+Solitaire is a single-player card game where your goal is to organize cards based on certain rules and place them in foundation piles by suit in ascending order from Ace to King. Classic Solitaire, also called Klondike or Patience, is the most played solitaire game, but other popular variations include FreeCell and Spider Solitaire.
+
+On Solitaire Bliss, you can play all these card games — and many more — as much as you want, completely free.
+
+Solitaire Objective
+
+The goal of Classic Solitaire is to move all the cards to the four foundation piles by suit ascending in order from ace to king. You do this by sequencing cards in the tableau. Learn how to play by watching our video tutorial, or read below.
+
+Solitaire Setup
+
+Before you begin the game, it’s important to understand basic Solitaire terminology and setup. You use four key areas during gameplay, created from a standard 52-card deck.
+
+Tableau: The tableau is where you sequence face-up cards and uncover facedown cards. It consists of 28 cards spread across seven columns. Each column has the same number of cards as its column number (for example, the third column has three cards) with the last card in each column flipped face up.
+Stockpile: The stockpile sits to the upper left of the tableau and houses the remaining 24 cards. You flip cards from the stockpile to the waste pile to draw a new card when you don’t have any moves in the tableau. In Turn 1 Solitaire, one card is flipped from the stock at a time, while in Turn 3, three cards are flipped at a time.
+Waste pile: Face-up waste pile cards can be moved to the tableau or foundation piles to further gameplay.
+Foundation piles: You use four foundation piles — one for each suit. Start the foundation piles by moving aces there and continue building them up ascending from ace to king.
+
+
+How to Play Solitaire
+
+Solitaire rules are simple, but it takes strategy to win the game. Start by mastering the basics before you level up to more complex Solitaire variations.
+
+Only move face-up cards: At the start of the game, you can move cards from the bottom of the tableau columns. As you play, cards from the waste pile will become available for use. When you uncover facedown cards in the tableau, turn them face up and use them in play.
+Sequence cards in descending order, alternating color. For example, a nine of spades can be placed on a ten of diamonds.
+Move a sequence of cards in descending order and alternating color as a group. For example, if you have a sequence containing the five of spades, four of hearts, and three of spades, you can move it on top of the six of diamonds.
+Draw from the stockpile when stuck. If you can’t make any more moves in the tableau, flip a card from the stockpile to the waste pile. This face-up card can be used if moves are available. Once the stockpile has run out, flip the waste pile cards back into the stockpile to run through it again. You can run through it as many times as you want.
+Fill empty columns with kings. When you empty a column, you can fill it with a king or sequence that starts with a king. No other cards can start empty columns.
+Build foundation piles. Foundation piles are divided by suit. Start each foundation pile with an ace and continue building in ascending order (A, 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K) until each foundation pile is complete and you’ve cleared the tableau.
+
+
+
+Solitaire Strategies
+
+Now that you’ve mastered how to play, it’s time to increase your win rate by using Solitaire strategies.
+
+Prioritize moves in the tableau. Before using cards in the waste pile, make as many moves in the tableau as possible. This helps you uncover facedown cards and clear columns, instead of prematurely adding cards in the tableau that could limit your options and block future moves.
+Prioritize moves that free face-down cards. Uncovering facedown cards allows them to be flipped face up, increasing possible moves.
+Focus on uncovering cards in long tableau columns. These columns contain more hidden cards, which are essential to reveal to progress through the game.
+Build foundation piles evenly. If one foundation pile is built up significantly more than the others, it can make sequencing cards in the tableau difficult. You can always move cards from the foundation pile back to the tableau, but this costs you additional moves.
+Create sequences using the same pairs of suits when possible. If you can build sequences using diamonds and spades, for example, it’s easier to move them into foundation piles evenly.
+Look ahead at gaps in sequences. It’s best to move waste pile cards to the tableau only when they can further gameplay. To help decide, look for gaps in sequences. For example, if there is a king of spades and queen of hearts in one column and a ten of diamonds and nine of spades in another column, moving the jack of clubs from the waste pile to the tableau is beneficial because it will help you build a more complete sequence.
+Playing on Solitaire Bliss
+
+We provide many options to customize your Solitaire card game, from changing the back of your playing cards to updating display settings. Click on the gear icon to access all the customization options. Some of the most popular include:
+
+Changing the card size: In the bottom toolbar, click and drag the number slider to make cards larger or smaller.
+Saving your game: Click the floppy disk icon to save your current game or reload an old game.
+Changing the game background: Change the color or pattern of the background behind the tableau cards.
+Enabling the click-to-move cards: When you allow this feature, you can click a card to move it to an available foundation or tableau pile. However, this may not always be the best move. You can also drag cards to move them.
+Playing winnable games only: Not all games of Solitaire are winnable. However, you can opt to play games that can be won. Remember, just because a game has a solution, doesn’t mean that you’ll find it on your first try.
+
+Now that you know how to play classic Klondike Solitaire, practice for free on Solitaire Bliss and enjoy many other card games.
+
+SOLITAIRE
+Solitaire Turn 1
+Solitaire Turn 3
+Double Solitaire Turn 1
+Double Solitaire Turn 3
+Triple Solitaire Turn 1
+Triple Solitaire Turn 3
+Harp
+Easy Harp
+Canfield
+Westcliff
+SPIDER SOLITAIRE
+Spider Solitaire
+Spider Solitaire 1 Suit
+Spider Solitaire 2 Suits
+Spider Solitaire 4 Suits
+Scorpion Solitaire
+Easy Scorpion Solitaire
+Spiderette
+Simple Simon
+Easthaven
+CARD GAMES
+Hearts
+Whist
+Spades
+Belote
+Scopa
+Escoba
+Briscola
+CLASSIC GAMES
+Mahjong Solitaire
+Minesweeper
+Battle at Sea
+Dominoes
+Checkers
+Memory
+FREECELL
+Freecell
+Easy Freecell
+Eight Off
+Easy Eight Off
+Baker's Game
+YUKON
+Yukon Solitaire
+Australian Patience
+Easy Australian Patience
+Russian Solitaire
+Alaska Solitaire
+FORTY THIEVES
+Forty Thieves Solitaire
+Josephine Solitaire
+Forty and Eight Solitaire
+PYRAMID
+Pyramid Solitaire
+Pyramid 2 Passes
+Golf
+Easy Golf
+Tri Peaks
+Easy Tri Peaks
+Heart to Heart
+All in A Row
+Crescent Solitaire
+Blog
+Guides
+About Us - Solitaire Bliss
+Terms of Use
+Privacy Policy
+Cookie Policy & Do not sell my info
+Cookies Settings
+Advertise with us
+Contact us
+Facebook
+   
+© 2009-2025 Solitaire Bliss, All Rights Reserved
+English ▼

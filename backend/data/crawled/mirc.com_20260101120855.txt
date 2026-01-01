@@ -1,0 +1,6 @@
+mIRC: Internet Relay Chat client Home About Download Register News Help mIRC is a popular Internet Relay Chat client used by individuals and
+            organizations to communicate, share, play and work with each other on IRC networks
+            around the world. Serving the Internet community for over three decades, mIRC has evolved
+            into a powerful, reliable and fun piece of technology. About mIRC Download mIRC Register mIRC Latest News mIRC v7.83 has been released . If you are new to mIRC and need help getting started, or would like to learn
+            more about IRC, see the help section. To discuss mIRC with other users, or post questions if you need help,
+            visit our discussion forums . Privacy Contact Us Copyright © mIRC Co. Ltd. 1995-2026. All Rights Reserved.

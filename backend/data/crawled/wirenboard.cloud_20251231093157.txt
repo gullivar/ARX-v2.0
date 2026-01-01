@@ -1,0 +1,8 @@
+Email
+Password
+Enter a password
+Forgot password?
+Sign up
+Sign in
+Demo
+English

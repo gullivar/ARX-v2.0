@@ -1,0 +1,253 @@
+Solutions 
+Customers 
+Pricing
+More 
+Try it yourself
+Get a demo
+Free Jamf to Fleet MDM migration service
+OPEN DEVICE MANAGEMENT
+“I just moved 10,000
+Macs to Fleet”
+
+Wes Whetstone
+
+Client Platform Engineer at Stripe
+
+Get a demo
+See Fleet in action
+3 mins
+1,300+
+
+customers
+
+2,000,000+
+
+computing devices
+
+90+
+
+countries
+
+21 minutes
+
+avg support response time
+
+Freedom at every level
+
+Manage devices your way, without vendor limits. Fleet gives you full control and supports the choices that work for your organization.
+
+All features, flexible deployment
+
+Unlike other solutions, you can let us host Fleet for you or deploy it yourself. You get the same experience either way.
+
+UI, API, or GitOps
+
+Manage devices how you work best, with full support for configuration as code.
+
+Real device choice—even Linux
+
+Let employees use the OS they need, without compromising management and security.
+
+What people are saying
+
+My users love this. It's increasing security and compliance across our workforce.
+
+Bart Reardon
+
+Creator of swiftDialog
+
+We've been using Fleet for a few years at Stripe and we couldn't be happier. The fact that it's also open-source made it easy for us to try it out, customise it to our needs, and seamlessly integrate it into our existing environment.
+
+Scott MacVicar
+
+Head of Developer Infrastructure & Corporate Technology
+
+Thanks for a great run Jamf... Foursquare has officially completed the migration to Fleet as our new device management platform.
+
+Mike Meyer
+
+Senior Manager, Corporate Engineering
+
+Fleet aligns with the strategies that enabled me to help scale Uber’s global device deployments with a lean DevOps/systems engineering team.
+
+Luis Madrigal
+
+Former Engineering Leader, Uber
+
+You can use data from Fleet to predict cost savings initiatives, do data driven hardware refresh, or drill into which devices are performing well versus which aren’t.
+
+Tom Larkin
+
+Sr. Manager, Client Engineering & DevOps
+
+Fleet has been highly effective for our needs. We appreciate your team for always being so open to hearing our feedback.
+
+Kenny Botelho
+
+Client Platform IT Engineer / Leader
+
+Exciting. This is a team that listens to feedback.
+
+Erik Gomez
+
+Staff Client Platform Engineer
+
+Something I really appreciate about working with you guys is that it doesn't feel like I'm talking to a vendor. It actually feels like I'm talking to my team, and I really appreciate it.
+
+Chandra Majumdar
+
+Partner - Cyber and Strategic Risk
+
+This is not just production osquery, but actually a way bigger opportunity than even something like Airwatch or Jamf.
+
+Eric Tan
+
+CIO & CSO at Flock Safety
+
+I don't want one bad actor to brick my fleet, I want them to make a pull request first. Thanks for making our lives easier. We got a pat on the back for making the migration so easy!
+
+Matt Carr
+
+CPE manager
+
+Having the freedom to take full advantage of the product is one of the reasons why I always support open-source products with a commercially-backed company, like Fleet.
+
+Nico Waisman
+
+CISO of Lyft
+
+I love the steady and consistent delivery of features that help teams work how they want to work, not how your product dictates they work.
+
+Dan Grzelak
+
+Security Chief of Staff
+
+We chose Fleet because they take Linux desktop management seriously. It was smooth as butter to set up and start deploying. Fleet gives me the peace of mind knowing that our Linux Fleet is properly managed, monitored, and secure.
+
+Roger Cantrell
+
+IT Operations Engineer
+
+Fleet is incredibly easy to deploy and perfect for lean IT teams. It's everything we need in a device management platform, simple, efficient, and powerful.
+
+Chayce O'Neal
+
+Head of IT @ ConductorOne
+
+The customer support and care has been 'world class'. Even on the other side of the world.
+
+David Bodmer
+
+IT Systems Engineer
+
+Moving to Fleet?
+
+See how Fleet compares with your other options.
+
+For IT admins
+For security engineers
+Fleet
+Jamf Pro
+
+Cloud or self-host with no restrictions
+
+On-prem limited
+
+Zero-touch setup
+
+Apple only
+
+iOS/iPadOS management
+
+Complete device inventory 
+
+Operating system updates
+
+Apple only
+
+Configuration management and scripting
+
+Apple only
+
+Remote lock and wipe
+
+Apple only
+
+App management
+
+Apple only
+
+Automated device compliance
+
+Additional purchase
+
+REST API
+
+Multiple APIs required
+
+Config as code (GitOps)
+
+Device reporting (<30 seconds) 
+
+Import / export
+
+Interoperable
+
+Apple only
+
+Open source
+
+Free and paid version
+
+Compare all features
+Get a demo
+Open by design
+
+At Fleet, everyone can contribute. We are dedicated to making tools that are easy for everyone to understand.
+
+"Why is this running on my computer?"
+
+Let end users see the source code for exactly how they are being monitored, and set clear expectations about what is and isn’t acceptable use of work computers.
+
+Free as in free
+
+The free version of Fleet will always be free. Fleet is independently backed and actively maintained with the help of many amazing contributors.
+
+Open source
+
+All of Fleet's source code is public, and our company handbook is public and open to the world. You can read about the history of Fleet and osquery and our commitment to improving the product.
+
+DEPLOY ANYWHERE
+One agent for every
+
+OS
+audit
+Get a demo
+Try it yourself
+
+Curious? Get product updates and news
+
+Subscribe
+
+537c652d-cb1a-440e-ae35-0f0bf5743e75
+
+Multi platform
+Device management
+Orchestration
+Software management
+Integrations
+Pricing
+Documentation
+Support
+Docs
+API
+Release notes
+Get your license
+Company
+About
+News
+Jobs
+Logos/artwork
+Why open source?
+SOC2 Type 2
+© 2025 Fleet Inc. Privacy

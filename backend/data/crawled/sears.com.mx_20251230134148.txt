@@ -1,0 +1,10 @@
+¡Acceso denegado!
+
+Tu solicitud ha sido bloqueada por nuestro sistema de seguridad.
+
+Para más información, por favor, proporciona la siguiente referencia a nuestro equipo de soporte:
+
+ID de Referencia de la Solicitud: " {ak_refid} "
+Status Code: " {error.status_code} "
+
+Términos y condiciones|Políticas de privacidad

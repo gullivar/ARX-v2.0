@@ -1,0 +1,65 @@
+Skip to main content
+Microsoft
+OneDrive Dev Center
+Resources Developer Program Support
+All Microsoft
+Developer
+Microsoft 365
+OneDrive
+Connect your app to billions of cloud files
+
+OneDrive is enterprise content storage for all. Learn how to connect to billions of files and access the power of Office 365 to drive customer value in your app.
+
+Learn more
+Build engaging experiences connected to OneDrive
+Add seamless file storage
+
+Easily add file storage to your app and connect to Microsoft 365 files with just a few lines of code.
+
+Learn more
+Share and collaborate at scale
+
+Use OneDrive's robust sharing and collaboration tools to share between teams, organizations, or the world.
+
+Learn more
+Engage more users
+
+Connect your app to millions of users and engage with customers where they already do their work every day.
+
+Learn more
+A new era of SharePoint and OneDrive in Microsoft 365
+
+New innovations make it simpler for customers to build compelling and engaging SharePoint sites and pages alongside a refreshed OneDrive experience. The newly refreshed OneDrive experience for work and school spans file experiences across Microsoft 365. It's designed to help you get to your files quickly and keep content organized—giving you faster access to your content so you can be more productive.
+
+Read the blog post
+Build on your favorite platform
+
+Build a sample app that connects to Microsoft 365 and calls the Microsoft Graph OneDrive API. Choose your language including C#, Python, PhP, JavaScript, and others, and get up and running in three minutes.
+
+Build a sample app Get started with OneDrive API
+OneDrive developer resources
+Documentation
+Read docs
+Code
+Download samples
+Community calls
+Add to calendar
+Tech Community
+Start a discussion
+Blogs
+Stay current
+Microsoft Q&A forum
+Ask a question
+Follow us    
+Share this page   
+ 
+Back to top
+What's new
+Surface Pro
+Surface Laptop
+Surface Laptop Studio 2
+Copilot for organizations
+Copilot for personal use
+AI in Windows
+Explore Microsoft products
+W

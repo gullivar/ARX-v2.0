@@ -1,0 +1,44 @@
+Skip To Content
+Packages
+Upload
+Statistics
+Documentation
+Downloads
+Blog
+Sign in
+Create .NET apps faster with NuGet
+832,681,440,465
+package downloads
+10,781,115
+package versions
+488,612
+unique packages
+What is NuGet?
+
+NuGet is the package manager for .NET. The NuGet client tools provide the ability to produce and consume packages. The NuGet Gallery is the central package repository used by all package authors and consumers.
+
+Learn
+
+New to NuGet? Start with a walkthrough showing how NuGet powers your .NET development.
+
+Explore
+
+Browse the thousands of packages that developers like you have created and shared with the .NET community.
+
+Create
+
+Want to make your first NuGet package and share it with the community? Start with this walkthrough!
+
+Contact
+
+Got questions about NuGet or the NuGet Gallery?
+
+Status
+
+Find out the service status of NuGet.org and its related services.
+
+FAQ
+
+Read the Frequently Asked Questions about NuGet and see if your question made the list.
+
+© Microsoft 2025 - About - Terms of Use - Privacy Statement - Trademarks

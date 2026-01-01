@@ -1,0 +1,249 @@
+InfluxData Skip to content Products InfluxDB 3 Fully Managed Simplify and scale with cloud services InfluxDB Cloud Serverless InfluxDB Cloud Dedicated Self-Managed For organizations that need full control InfluxDB Core (OSS) NEW InfluxDB 3 Enterprise NEW Integrations Works well with the tools you love Client Libraries Lakehouse / Warehouse Explore All Recommended Resources Find the Right Product Platform Overview Use Cases Use Cases Use Cases Network & Infrastructure Monitoring IoT Analytics & Predictive Maintenance Machine Learning & AI Modern Data Historian Explore All Industries Manufacturing & IIoT Aerospace Energy & Utilities Financial Services Consumer IoT Telecommunications Gaming Healthcare & Life Sciences Explore All Modern Data Historian Teréga Cuts TCO by 50% See How Explore Customers Developers Developers Learn Developer Resources Blog Webinars Customers Support Partners Build Documentation InfluxDB OSS BETA Telegraf Data Collection AWS Integrations Connect InfluxDB University Community Live Events and Training Quickstart Resources Latest Releases Infrastructure Monitoring Migrate InfluxDB 2.x to 3 Pricing Contact Us Sign In Log in to InfluxDB Cloud 2.0 Log in to InfluxDB Enterprise Log in to InfluxDB Cloud 1.x Start Now Start Now Products InfluxDB 3 Fully Managed Simplify and scale with Cloud services InfluxDB Cloud Serverless InfluxDB Cloud Dedicated Self-Managed For organizations that need full control InfluxDB Core (OSS) NEW InfluxDB 3 Enterprise NEW Integrations Works well with the tools you love Client Libraries Lakehouse / Warehouse Explore All Recommended Resources Find the Right Product Platform Overview Use Cases Use Cases Use Cases Network & Infrastructure Monitoring IoT Analytics & Predictive Maintenance Machine Learning & AI Modern Data Historian Explore All Industries Manufacturing & IIoT Aerospace Energy & Utilities Financial Services Consumer IoT Telecommunications Gaming Explore All Recommended Resources See How Teréga Cut TCO by 50% Customer Stories Use Cases Customer Stories See how Teréga reduced total cost of ownership by 50% Developers Developers Learn Developer Resources Blog Webinars Customers Support Partners Build Documentation InfluxDB OSS BETA Telegraf Data Collection AWS Integrations Connect InfluxDB University Community Live Events and Training Quickstart Resources Latest Releases Infrastructure Monitoring Migrate InfluxDB 2.x to 3 Pricing Contact Us Sign In Sign In Log in to InfluxDB Cloud 2.0 Log in to InfluxDB Enterprise Log in to InfluxDB Cloud 1.x PRODUCT UPDATE InfluxDB 3.8 : Easier than ever to deploy, manage, and run in production. Learn More Real-world AI starts with time series. Time series starts with InfluxDB. Join the millions of developers building real-time systems with InfluxDB, the leading time series database. Get InfluxDB Contact Sales Developers choose InfluxDB More downloads, more open source users, and a stronger community than any other time series database in the world. Try InfluxDB 1B+ Downloads of InfluxDB via Docker 1M+ Open source instances live today 5B+ Downloads of InfluxData's Telegraf 2,800+ Contributors #1 Time series database Source: DB Engines Why InfluxDB Manage high-volume, high-velocity data without sacrificing performance. High-performance at scale Manage millions of time series data points per second without limits or caps. Run where you need it Run at any scale in any environment: in the cloud, on-prem, or at the edge. Build with the tools you love Easily connect to your tech stack using data standards and 5K+ easy integrations. InfluxDB is the engine behind the real-time data pipeline. Real-time AI requires massive streams of time series. This allows data to flow continuously through ingest, analysis, compression, and integration—fueling smarter, more autonomous systems. See ways to get started High-Speed Ingest Ingest millions of series without impacting performance. Real-Time Analytics Transform and analyze unlimited series in real-time. Eviction and Lakehouse Integration Automatically evicts cold data and streams it into lakes, warehouses, and AI/ML pipelines. Compression and Downsampling Best-in-class compression. Parquet files store more data with less space. Purpose-built for the world's most demanding systems From grid stability to satellite telemetry, InfluxDB powers the systems that can't afford to lag. Aerospace Aerospace telemetry never stops. Stay ahead with a database built for speed, precision, and decades of data. Learn More Energy & Utilities Power modern energy systems with real-time insights that maximize efficiency and reduce downtime. Learn More Modern Data Historian Upgrade your historian for Industry 4.0 with real-time data that drives efficiency and lowers costs. Learn More Physical AI runs on time series Predict the future based on the past. InfluxDB captures high-resolution time series data with the precision and context AI models need to infer cause and effect, enabling real-time systems to detect, respond, and predict intelligently. Learn More Anomaly Detection Find failure fast—detect anomalies in real-time, trigger automated responses, and adapt as conditions change. Predictive Maintenance Prevent downtime before it hits. Monitor equipment health and usage patterns to predict issues and resolve them before they start. Autonomous Optimization Build self-correcting systems. Enable models to self-learn and adapt through continuous retraining—automatically. Build systems and infrastructure monitoring that scales Keep pace with the flood of time series data. Learn how to build real-time monitoring that scales securely with InfluxDB and Grafana to keep ahead of outages, performance regressions, and costly blind spots. Download Tech Paper Deploy anywhere Whether you're building on-prem, in a private or multi-tenant cloud, or at the edge, InfluxDB meets developers where they are. Start Testing See ways to get started Open and extensible Ingest from anywhere, deploy your way, and integrate with everything in your stack. Explore integrations Code in the languages you love Read more in docs Python Javascript Go C# Read Write from influxdb_client_3 import InfluxDBClient3
+import pandas
+import os
+
+database = os.getenv('INFLUX_DATABASE')
+token = os.getenv('INFLUX_TOKEN')
+host="https://us-east-1-1.aws.cloud2.influxdata.com"
+
+def querySQL():
+  client = InfluxDBClient3(host, database=database, token=token)
+  table = client.query(
+    '''SELECT
+        room,
+        DATE_BIN(INTERVAL '1 day', time) AS _time,
+        AVG(temp) AS temp,
+        AVG(hum) AS hum,
+        AVG(co) AS co
+      FROM home
+      WHERE time >= now() - INTERVAL '90 days'
+      GROUP BY room, _time
+      ORDER BY _time'''
+  )
+
+  print(table.to_pandas().to_markdown())
+
+  client.close()
+  
+querySQL() c from influxdb_client_3 import InfluxDBClient3
+import os
+
+database = os.getenv('INFLUX_DATABASE')
+token = os.getenv('INFLUX_TOKEN')
+host="https://us-east-1-1.aws.cloud2.influxdata.com"
+
+def write_line_protocol():
+  client = InfluxDBClient3(host, database=database, token=token)
+  
+  record = "home,room=Living\\ Room temp=22.2,hum=36.4,co=17i"
+  
+  print("Writing record:", record )
+  client.write(record)
+  
+  client.close()
+
+write_line_protocol() c import {InfluxDBClient} from '@influxdata/influxdb3-client'
+import {tableFromArrays} from 'apache-arrow';
+
+const database = process.env.INFLUX_DATABASE;
+const token = process.env.INFLUX_TOKEN;
+const host = "https://us-east-1-1.aws.cloud2.influxdata.com";
+
+async function main() {
+    const client = new InfluxDBClient({host, token})
+    const query = `
+    SELECT
+      room,
+      DATE_BIN(INTERVAL '1 day', time) AS _time,
+      AVG(temp) AS temp,
+      AVG(hum) AS hum,
+      AVG(co) AS co
+    FROM home
+    WHERE time >= now() - INTERVAL '90 days'
+    GROUP BY room, _time
+    ORDER BY _time
+    `
+    const result = await client.query(query, database)
+
+    const data = {room: [], day: [], temp: []}
+
+    for await (const row of result) {
+      data.day.push(new Date(row._time).toISOString())
+      data.room.push(row.room)
+      data.temp.push(row.temp)
+    }
+
+    console.table([...tableFromArrays(data)])
+
+    client.close()
+}
+
+main() c import {InfluxDBClient} from '@influxdata/influxdb3-client'
+
+const database = process.env.INFLUX_DATABASE;
+const token = process.env.INFLUX_TOKEN;
+const host = "https://us-east-1-1.aws.cloud2.influxdata.com";
+
+async function main() {
+    const client = new InfluxDBClient({host, token})
+
+    const record = "home,room=Living\\ Room temp=22.2,hum=36.4,co=17i"
+    await client.write(record, database)
+    client.close()
+}
+
+main() c package influxdbv3
+
+import (
+  "context"
+  "fmt"
+  "io"
+  "os"
+  "text/tabwriter"
+
+  "github.com/apache/arrow/go/v12/arrow"
+  "github.com/InfluxCommunity/influxdb3-go/influx"
+)
+
+func QuerySQL() error {
+  url := "https://us-east-1-1.aws.cloud2.influxdata.com"
+  token := os.Getenv("INFLUX_TOKEN")
+  database := os.Getenv("INFLUX_DATABASE")
+	
+  client, err := influx.New(influx.Configs{
+	HostURL: url,
+	AuthToken: token,
+  })
+
+  defer func (client *influx.Client)  {
+	err := client.Close()
+	if err != nil {
+		panic(err)
+	}
+  }(client)
+
+  query := `
+    SELECT
+	  room,
+	  DATE_BIN(INTERVAL '1 day', time) AS _time,
+	  AVG(temp) AS temp,
+	  AVG(hum) AS hum,
+	  AVG(co) AS co
+	FROM home
+	WHERE time >= now() - INTERVAL '90 days'
+	GROUP BY room, _time
+	ORDER BY _time
+`
+
+  iterator, err := client.Query(context.Background(), database, query)
+
+  if err != nil {
+    panic(err)
+  }
+
+  w := tabwriter.NewWriter(io.Discard, 4, 4, 1, ' ', 0)
+  w.Init(os.Stdout, 0, 8, 0, '\t', 0)
+  fmt.Fprintln(w, "day\troom\ttemp")
+
+  for iterator.Next() {
+	row := iterator.Value()
+	day := (row["_time"].(arrow.Timestamp)).ToTime(arrow.TimeUnit(arrow.Nanosecond))
+	fmt.Fprintf(w, "%s\t%s\t%.2f\n", day, row["room"], row["temp"])
+  }
+
+  w.Flush()
+  return nil
+} c package influxdbv3
+
+import (
+  "context"
+  "os"
+  "fmt"
+  "github.com/InfluxCommunity/influxdb3-go/influx"
+)
+
+func WriteLineProtocol() error {
+  url := "https://us-east-1-1.aws.cloud2.influxdata.com"
+  token := os.Getenv("INFLUX_TOKEN")
+  database := os.Getenv("INFLUX_DATABASE")
+	
+  client, err := influx.New(influx.Configs{
+	HostURL: url,
+	AuthToken: token,
+  })
+
+  defer func (client *influx.Client)  {
+	err := client.Close()
+	if err != nil {
+		panic(err)
+	}
+  }(client)
+
+  record := "home,room=Living\\ Room temp=22.2,hum=36.4,co=17i"
+  fmt.Println("Writing record: ", record)
+  err = client.Write(context.Background(), database, []byte(record))
+
+  if err != nil {
+    panic(err)
+  }
+  return nil
+} c using System;
+using System.Threading.Tasks;
+using InfluxDB3.Client;
+using InfluxDB3.Client.Query;
+
+namespace InfluxDBv3;
+
+public class Query
+{
+  static async Task QuerySQL()
+  {
+    const string hostUrl = "https://us-east-1-1.aws.cloud2.influxdata.com";
+    string? database = System.Environment.GetEnvironmentVariable("INFLUX_DATABASE");
+    string? authToken = System.Environment.GetEnvironmentVariable("INFLUX_TOKEN");
+
+    using var client = new InfluxDBClient(hostUrl, authToken: authToken, database: database);
+  
+    const string sql = @"
+      SELECT
+        room,
+        DATE_BIN(INTERVAL '1 day', time) AS _time,
+        AVG(temp) AS temp,
+        AVG(hum) AS hum,
+        AVG(co) AS co
+      FROM home
+      WHERE time >= now() - INTERVAL '90 days'
+      GROUP BY room, _time
+      ORDER BY _time
+    ";
+
+    Console.WriteLine("{0,-30}{1,-15}{2,-15}", "day", "room", "temp");
+    await foreach (var row in client.Query(query: sql))
+    {
+      Console.WriteLine("{0,-30}{1,-15}{2,-15}", row[1], row[0], row[2]);
+    }
+
+    Console.WriteLine();
+  }
+} c using System;
+using System.Threading.Tasks;
+using InfluxDB3.Client;
+using InfluxDB3.Client.Query;
+
+namespace InfluxDBv3;
+
+public class Write
+{
+  public static async Task WriteLineProtocol()
+  {
+    const string hostUrl = "https://us-east-1-1.aws.cloud2.influxdata.com";
+    string? database = System.Environment.GetEnvironmentVariable("INFLUX_DATABASE");
+    string? authToken = System.Environment.GetEnvironmentVariable("INFLUX_TOKEN");
+
+    using var client = new InfluxDBClient(hostUrl, authToken: authToken, database: database);
+
+    const string record = "home,room=Living\\ Room temp=22.2,hum=36.4,co=17i";
+    Console.WriteLine("Write record: {0,-30}", record);
+    await client.WriteRecordAsync(record: record);
+  }
+} c 300+ Telegraf plugins Integrate your favorite tools with Telegraf, our popular open source connector with 5B+ downloads. Client libraries InfluxDB client libraries make it easy to integrate time series data into your applications using your favorite programming languages. Community and ecosystem InfluxDB includes a massive community of cloud and open source developers to help you work the way you want. By developers, for developers Connect with the InfluxDB developer community. Product & Solutions InfluxDB InfluxDB Cloud Serverless InfluxDB Cloud Dedicated InfluxDB Clustered Integrations Data Lake / Warehouse Data Collector Pricing Use Cases Time Series Data Time Series Database Time Series Forecasting Data Warehousing Network Monitoring Developers Guides Blog Customers Support Webinars Documentation Events & Live Training InfluxDB University Community InfluxDB OSS Telegraf AWS Product Integrations Telegraf Inputs Telegraf Outputs Glossary Company About Careers Partners Newsroom Contact Us Customers 548 Market St, PMB 77953 San Francisco, California 94104 Follow Us © 2025 InfluxData Inc. All Rights Reserved. Legal Security Cookie Policy Comparison

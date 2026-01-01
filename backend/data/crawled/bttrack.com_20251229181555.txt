@@ -1,0 +1,32 @@
+Bidtellect Tracking API is Ready
+Cache objects loaded in 88 seconds
+
+(000 s) Audience Meta Cache is Ready
+
+(000 s) C# Kafka Publisher is Ready
+
+(000 s) Creative Image Cache is Ready
+
+(000 s) Deal Cache is Ready
+
+(000 s) Log Definiton Cache is Ready
+
+(000 s) Parent Publisher Cache is Ready
+
+(000 s) Retargeting Pixel Cache is Ready
+
+(000 s) Simple Campaign Cache is Ready
+
+(000 s) Tracking Cache is Ready
+
+(000 s) Wurfl Device Cache is Ready
+
+(001 s) Creative Cache is Ready
+
+(001 s) Creative Record Cache is Ready
+
+(003 s) Ip Blacklist Cache is Ready
+
+(088 s) Location Provider is Ready
+
+For more information about Bidtellect, please visit our website at www.bidtellect.com.

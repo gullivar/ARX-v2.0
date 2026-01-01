@@ -1,0 +1,127 @@
+Home
+Games
+Numbers
+Lists & More
+Drawings
+Web Tools
+Statistics
+Testimonials
+Learn More
+Login
+Search RANDOM.ORG
+ 
+True Random Number Service
+
+RANDOM.ORG Uses Cookies
+
+We use cookies to remember your preferences and to analyze our traffic. We do not carry ads and will never sell your data to third parties.
+
+Necessary Preferences Statistics
+
+Please see our Cookie Policy or visit our Privacy Dashboard for more information.
+
+Allow Selected Allow All
+
+
+NEW FEATURE:
+Verify past results
+from this widget
+What's this fuss about true randomness?
+
+Perhaps you have wondered how predictable machines like computers can generate randomness. In reality, most random numbers used in computer programs are pseudo-random, which means they are generated in a predictable fashion using a mathematical formula. This is fine for many purposes, but it may not be random in the way you expect if you're used to dice rolls and lottery drawings.
+
+RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs. People use RANDOM.ORG for holding drawings, lotteries and sweepstakes, to drive online games, for scientific applications and for art and music. The service has existed since 1998 and was built by Prof. Mads Haahr of the School of Computer Science and Statistics at Trinity College, Dublin in Ireland. Today, RANDOM.ORG is operated by Randomness and Integrity Services Ltd.
+
+FREE services
+Games and Lotteries
+
+Lottery Quick Pick is perhaps the Internet's most popular with over 280 lotteries
+Keno Quick Pick for the popular game played in many countries
+Coin Flipper will give you heads or tails in many currencies
+Dice Roller does exactly what it says on the tin
+Playing Card Shuffler will draw cards from multiple shuffled decks
+Birdie Fund Generator will create birdie holes for golf courses
+
+
+PAID service
+Random Drawings
+
+Q3.1 in the FAQ explains how to pick a winner for your giveaway for FREE
+Third-Party Draw Service is the premier solution to holding random drawings online
+Step by Step Guide explains how to hold a drawing with the Third-Party Draw Service
+Step by Step Video shows how to hold a drawing with the Third-Party Draw Service
+Price Calculator tells exactly how much your drawing will cost
+Drawing FAQ answers common questions about holding drawings
+Public Records shows all completed drawings going back five years
+Drawing Result Widget can be used to publish your winners on your web page
+Multi-Round Giveaway Service for verified video giveaways
+
+
+FREE services
+Numbers
+
+Integer Generator makes random numbers in configurable intervals
+Sequence Generator will randomize an integer sequence of your choice
+Integer Set Generator makes sets of non-repeating integers
+Gaussian Generator makes random numbers to fit a normal distribution
+Decimal Fraction Generator makes numbers in the [0,1] range with configurable decimal places
+Raw Random Bytes are useful for many cryptographic purposes
+
+
+FREE services
+Lists and Strings and Maps, Oh My!
+
+List Randomizer will randomize a list of anything you have (names, phone numbers, etc.)
+String Generator makes random alphanumeric strings
+Password Generator makes secure passwords for your Wi-Fi or that extra Gmail account
+Clock Time Generator will pick random times of the day
+Calendar Date Generator will pick random days across nearly three and a half millennia
+Geographic Coordinate Generator will pick a random spot on our planet's surface
+Bitmaps in black and white
+Hexadecimal Color Code Generator will pick color codes, for example for use as web colors
+Pregenerated Files contain large amounts of downloadable random bits
+Pure White Audio Noise for composition or just to test your audio equipment
+Jazz Scales to practice improvisation for students of jazz guitar
+Samuel Beckett's randomly generated short prose
+DNA Protein Sequence Randomizer (at Bio-Web)
+
+FREE services
+Web Tools and Widgets for Your Pages
+
+Integer Widget Wizard will put a mini-RANDOM.ORG on your web page or blog
+Draw Widget Wizard will put the result of a paid drawing on your web page or blog
+HTTP API to get true random numbers into your own code
+Guidelines describe how to avoid getting in trouble
+Banned Hosts lists who didn't behave and have been blocked
+
+
+Learn about Randomness
+
+Introduction to Randomness explains what true random numbers are and why they're interesting
+History explains how RANDOM.ORG started and where it is today
+Many Testimonials from folks who have found very creative uses for random numbers
+Acknowledgements to all the generous folks who have helped out
+Quotations about randomness in science, the arts and in life generally
+Media Coverage and Scientific Citations lists popular print and scientific mention of the service
+News about the latest additions to the site
+
+
+Statistics
+
+Real-Time Statistics show how the generator is performing right now
+Statistical Analysis explains how you test random numbers for randomness
+Bit Tally shows how much randomness has been generated since 1998 (hint: lots!)
+Your Quota tells how many random bits you have left for today
+
+
+Contact and Help
+
+FAQ contains answers to frequently asked questions
+Newsletter appears at random intervals, but do sign up
+Contact Details in case you want to get in touch
+
+
+© 1998-2025 RANDOM.ORG
+Follow us: Twitter | Mastodon
+Terms and Conditions
+About Us

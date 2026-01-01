@@ -1,0 +1,3 @@
+400 Bad Request
+The plain HTTP request was sent to HTTPS port
+nginx

@@ -1,0 +1,80 @@
+Analytics
+APP SDK
+About
+Analytics
+APP SDK
+About
+FOR CONSUMERS
+Advanced Big Data Analytics
+Understand True Customer Experience in Your Market
+
+Graphical overview of billions of key data points with advanced drill-down capabilities
+
+You can see how services are perceived by end-users
+
+Intuitive User Interface with detailed information presented in easy to use geospatial format
+
+Advanced correlation and Machine Learning capabilities which makes it easy to define actionable insights
+
+Analytics
+1. Network Performance
+
+The network performance modules provide a detailed understanding of how the networks in the country are performing. A very granular view of network and cell performance provides unique and actionable insights.
+
+2. Customer Experience
+
+The Customer Experience modules provide detailed insights of how the end-users perceive the services provided by the mobile operators in the country.
+
+3. Subscriber Behaviour
+
+The Subscriber behaviour modules provide a detailed understanding for how the end-users behave in the market, e.g. how subscribers are churning, which terminals that are used and which operators that are winning in the respective part of the country.
+
+SEE MORE
+
+"CellRebel's solution really helped us getting a better view of where we should prioritize our network improvement investments" VP, Head of Network Planning, Asian Mobile Operator
+
+"CellRebel’s Subscriber behaviour modules provided great actionable insights on where in the country we lost pre-paid market-share and to whom, this we have never seen so clearly before." Head of Regional B2C Sales – Asian operator
+
+APP SDK
+
+CellRebel has developed the most advanced SDK to analyze mobile connectivity. Our SDK gathers important network characteristics and reports it to our advanced analytics solution that analyzes and presents it in multiple dimensions such as geospatial as well as device views. With these capabilities, the app developer can understand how the network impact its app users and take actions and improve the user experience of the app. With CellRebel’s solution app developers can even optimize setting per network operator so that the best end-user experience is reached. At the same time mobile operators can easier understand how its customers actually are perceiving their services and where their bottlenecks are. Mobile operators can then improve the network to enhance the user experience in a much more granular and effective way.
+
+1.
+
+CELLREBEL SDK
+
+2.
+
+MOBILE APP
+
+3.
+
+DATA COLLECTION
+
+4.
+
+ANALYTICS AND MACHINE LEARNING
+
+5.
+
+PRESENTATION MODE
+
+SEE MORE
+
+"With CellRebel's SDK integrated, we got valuable connectivity analytics insights which we could act upon and improve the user experience of our users. This in turn has led to better user retention. Super easy deployment that was handled by our tech team in less than an hour!" CMO, European App Provider
+
+ABOUT
+
+CellRebel was founded to help operators, their related consultancy service providers as well as app developers to better understand and improve the customer experience. Our technology delivers enhanced competitive intelligence, benchmarking capabilities and actionable insights based on 100+ billion daily data samples gathered from 10 000+ content/app providers, 800+ CDN/Cloud providers and 1+ billion Smartphones. Our core business offerings are the analytics suite and the mobile app SDK. The analytics suite is a subscription-based solution, with no upfront investments and offers answers all analytical questions related to network connectivity.
+
+Our Mobile app SDK is specifically designed to measure network capabilities and user experience on iOS and Android terminals. The SDK is also highly relevant for app developers that seek to deliver the best user experience despite non-predictable network connectivity.
+
+Contact us for more information.
+
+Follow us on social media:
+
+  
+
+Privacy Policy • User Agreement
+
+© 2018-2025 Ookla, LLC., a Ziff Davis company. All Rights Reserved.

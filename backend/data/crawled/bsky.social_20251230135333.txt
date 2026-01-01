@@ -1,0 +1,138 @@
+Company
+Blog
+AT Protocol
+App
+Welcome to the
+social internet.
+
+Bluesky is social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again.
+
+Log In or Sign Up
+
+Or find us on the App Store and Google Play Store
+
+Social media is too important to be controlled by a few corporations. We’re building an open foundation for the social internet so that we can all shape its future.
+Your timeline, your choice
+
+Stay focused on your friend group, keep up-to-date on the latest news, or explore with an algorithm that learns what you like. On Bluesky, there's a feed for that.
+
+Control your scroll
+
+Use powerful moderation lists, content filters, and more to control what ends up in your timeline. In the future, people and organizations will be able to use open tools to contribute even more directly to moderation.
+
+Some of the old, all of the new
+
+Social media used to be fun. Be your unique self and create with your friends, all while keeping tabs on what's happening at a global scale.
+
+Featured In
+What's next is
+being built today
+
+We're building a foundation for connection that gives users a choice in their experience, creators independence from platforms, and developers the freedom to build. The future is bright.
+
+The public deserves a thriving online commons. We're committed to building this space and ensuring that your social network can never be bought by a single individual or organization.
+
+Learn more
+
+Bluesky is an open network. With one account, you can access both an easy-to-use social network and a shared identity across the entire social internet.
+
+How is Bluesky different?
+
+We've teamed up with Bluesky user @davis.social to create a comic explaining what makes Bluesky different. It's a great way to get a quick overview of what we're all about.
+
+See the comic
+Take a deeper dive
+
+We worked with Martin Kleppmann — researcher, author of Designing Data-Intensive Applications, and technical advisor to Bluesky — to write a paper that goes into more detail about the technical underpinnings of Bluesky.
+
+Read the paper
+We're locked open,
+not closed
+
+Our goal is to foster a healthy developer ecosystem that improves your experience online.
+
+See all projects
+Graze
+
+Graze lets you design and control custom feeds for yourself, your friends, and your passions.
+
+See project
+
+Tangled
+
+Tangled is a social git platform on atproto where developers own code, communities self-govern, and coding is fun.
+
+See project
+
+Skylight
+
+Your content and connections stay with you—switch atproto platforms and keep your audience, content, and followers.
+
+See project
+
+Leaflet.pub
+
+Leaflet.pub is a fast, account-free tool for creating and sharing collaborative documents and blogs.
+
+See project
+
+Streamplace
+
+Stream.place is an open-source video streaming layer for decentralized social networks.
+
+See project
+
+Germ
+
+Germ Network is a privacy-first encrypted messenger with multiple identities and AT-Protocol integration.
+
+See project
+
+Matt Mullenweg
+CEO @ Automattic
+“Bluesky proves that it is computationally possible to solve the problems of Twitter-like social networking in a distributed fashion, with a clean user experience. That is really exciting to me.”
+Build for the future
+
+Open protocols like HTTP are the bedrock of the internet. We’re building open source infrastructure so that social communication can be as open and interoperable as the web itself.
+
+Check out the docs
+1 / 4
+Participate in discussions with our devs, and help shape the future of social
+View GitHub discussions
+Build a project in a weekend, or the next global-scale social app using our public APIs
+Get started with the API
+Tap into the public firehose of messages and events
+Check out the docs
+Create custom algorithms to power online communities where users are in control
+Try our starter kit
+
+Don’t start from zero. Auth with Bluesky and launch with millions of users.
+
+Be part of a quickly growing developer ecosystem.
+
+Use our public APIs to create bots, clients, custom feeds, and more.
+
+Build in an open ecosystem that will never lock you out.
+
+Don’t start from zero. Auth with Bluesky and launch with millions of users.
+
+Be part of a quickly growing developer ecosystem.
+
+Use our public APIs to create bots, clients, custom feeds, and more.
+
+Build in an open ecosystem that will never lock you out.
+
+Bluesky
+User FAQ
+Press
+Support
+Jobs
+RSS
+Links
+AT Protocol
+Bluesky App
+Connect
+press@blueskyweb.xyz
+support@bsky.app
+
+Bluesky is a Public Benefit Corporation 

@@ -1,0 +1,356 @@
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Take a look at our Cookie Policy page
+
+Cookie settings
+Deny non-essential
+Accept All
+
+Benefits
+
+Plugins
+
+Use cases
+
+Customers
+
+Pricing
+
+Login
+
+Register
+
+EN
+
+Image CDN for faster load times, better SEO & more conversions
+
+Every 100ms in load time costs 1% of revenue - Cloudimage runs web performance on autopilot
+
+or
+
+Talk to an expert
+
+Resizing & Compression
+
+Assets (100)
+
+Name
+
+Woman
+
+Yellow
+
+Jacket
+
+Smart Alt Text
+
+a marketing image of a blue headphone on a pale blue surface
+
+Asset Library
+
+Video Processing
+
+CDN Acceleration
+
+Security & Protection
+
+AI Background Removal
+
+CONNECTORS
+
+React
+
+Vue
+
+Next.js
+
+Javascript
+
+Angular
+
+Ruby
+
+Drupal
+
+Zapier
+
+Adobe
+
+Commercetools
+
+Shopify
+
+Strapi
+
+Contentful
+
+Contentstack
+
+Shopware
+
+Sylius
+
+Wordpress
+
+Akeneo
+
+Storyblok
+
+BENEFITS
+
+Dynamic Media Optimization and CDN for images & videos
+
+Faster asset delivery
+
+Better SEO & UX
+
+Higher conversion & ROI
+
+Brand consistency
+
+Our front-end libraries
+
+Responsive images
+Check demo page
+360° views
+Learn more
+JS Carousel & Zoom
+Learn more
+
+Your device pixel ratio:
+
+2.0
+
+Your device width:
+
+1680px
+
+900 px
+
+Learn more
+
+MULTI-CDN PROVIDERS
+
+Implemented in minutes, instant benefits
+
+Be faster and leave your competitors behind
+Increase Web Performance
+Build Interactive Experience
+
+Low-code implementation
+
+Simple GET APIs with big performance impact. Create image variants on-the-fly using query parameters.
+
+JavaScript libraries
+
+Adapt images dynamically to screen size and pixel density, optimize formats, and deliver via CDN.
+
+Better core web vitals
+
+Improve the web performance and user experience with faster loading images and videos.
+
+TRUSTED BY 1,000+ COMPANIES
+
+CASE STUDIES
+
+What customers say about Cloudimage
+
+Discover which global actors in the sector have already put their trust, and their visuals, in our hands
+E-commerce
+
+Cloudimage was THE solution for a quick and simple setup that fully aligned with our leading e-commerce business.
+
+Ingo Schloo
+CEO
+Read case study >
+
+PRICING
+
+Cloudimage pricing plans
+
+Select scalable and secure solutions that fit your specific needs
+
+Billed
+
+Monthly
+
+Annual
+
+Price in
+
+EUR
+
+USD
+
+Essential
+
+For a small platform or an app
+
+30 days free trial
+
+€
+
+49
+
+/month
+
+€588prepaid annually
+
+€0.6/ GB CDN overuse
+
+100 GB
+
+CDN traffic/month
+
+25 GB
+
+ Cloud Storage
+
+10K
+
+ Visual operations/year
+
+99.90% SLA
+
+Standard support
+
+1 Custom CNAME with SSL certificate
+
+Start for free
+
+Best ROI
+
+Grow
+
+For a larger online shop
+
+€
+
+99
+
+/month
+
+€1,188prepaid annually
+
+€0.4/ GB CDN overuse
+
+250 GB
+
+CDN traffic/month
+
+100 GB
+
+ Cloud Storage
+
+50K
+
+ Visual operations/year
+
+99.90% SLA
+
+Standard support
+
+
+Higher options available
+
+2 Custom CNAMEs with SSL certificate
+
+Get Grow plan
+
+Scale
+
+For high traffic websites or apps
+
+€
+
+279
+
+/month
+
+€3,348prepaid annually
+
+€0.15/ GB CDN overuse
+
+1,000 GB
+
+CDN traffic/month
+
+250 GB
+
+ Cloud Storage
+
+100K
+
+ Visual operations/year
+
+99.95% SLA
+
+Standard support
+
+
+Higher options available
+
+4 Custom CNAMEs with SSL certificate
+
+Multi-tenancy/tokens
+
+Get Scale plan
+
+Enterprise
+
+Customize your license according to your needs
+
+Let's talk
+
+Custom pricing
+
+Custom
+
+volumes for CDN traffic, Cloud Storage and Visual operations (credits system)
+
+99.99% SLA
+
+Tailored support
+
+Custom CNAME with SSL certificate
+
+Dedicated Account Manager
+
+Multi-tenancy/tokens
+
+Multi-CDN
+
+SAML SSO
+
+Get a quote
+
+Prices shown exclude VAT. Unlimited media files & core transformations within fair usage. AI based credits.
+
+Show plan comparison
+
+CERTIFICATIONS AND RATINGS
+
+Ready to boost your website's performance?
+
+Talk to an Expert
+
+Product
+Performance report
+Pricing
+Responsive Images Plugin
+Service Status
+Documentation
+Company
+Blog
+About Us
+Affiliate program
+We are Hiring
+Media Kit
+Support Center
+Legal
+Terms and Conditions
+Privacy Center
+DMCA
+Talk to an image optimization expert
+
+Developed by the global Scaleflex team. Copyright © 2025 Scaleflex. All rights reserved.

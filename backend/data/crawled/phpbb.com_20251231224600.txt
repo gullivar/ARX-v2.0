@@ -1,0 +1,89 @@
+Download
+3.3.15
+2025-04-02
+Try our
+Demo
+phpBB • Free and Open Source Forum Software
+ 
+ 
+About
+Downloads
+Customise
+Support
+Development
+Blog
+Community
+Hosting
+What is phpBB?
+Get started with phpBB
+Create and Share
+Contribute to phpBB
+
+
+THE #1 FREE, OPEN SOURCE BULLETIN BOARD SOFTWARE
+
+phpBB is a free flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. With an extensive database of user-created extensions and styles database containing hundreds of style and image packages to customise your board, you can create a very unique forum in minutes.
+
+No other bulletin board software offers a greater complement of features, while maintaining efficiency and ease of use. Best of all, phpBB is completely free. We welcome you to test it for yourself today. If you have any questions please visit our Community Forum where our staff and members of the community will be happy to assist you with anything from configuring the software to modifying the code for individual needs. Learn more about phpBB.
+
+Latest phpBB Announcements and Blog Posts
+
+
+02
+Apr
+2025
+Announcement • phpBB 3.3.15 Release - Please update
+
+Greetings everyone, We are pleased to announce the release of phpBB 3.3.15 “In Memory of Mark D. Hamill ”. This version is a maintenance and security release of the 3.3.x branch which fixes one … read more
+
+20
+Nov
+2024
+Announcement • phpBB 3.3.14 Release
+
+Greetings everyone, We are pleased to announce the release of phpBB 3.3.14 “Bertie All Along”. This version is a maintenance release of the 3.3.x branch which introduces a number of improvements … read more
+
+29
+Aug
+2024
+Announcement • phpBB 3.3.13 Release
+
+Greetings everyone, We are pleased to announce the release of phpBB 3.3.13 “Bertie & Ted”. This version is a maintenance release of the 3.3.x branch which introduces a number of improvements … read more
+
+27
+Sep
+2025
+Blog • phpBB 4.0.0-a1: The first Alpha Release is here
+
+We’re excited to announce the release of phpBB 4.0.0-a1, the first alpha version of phpBB 4.0. This release marks a significant milestone in our project, as we introduce a modernized foundation and … read more
+
+02
+Mar
+2025
+Blog • phpBB 3.3.15-RC1 available for testing
+
+We are excited to announce the release of phpBB 3.3.15-RC1, a new release candidate for the upcoming stable release of phpBB 3.3.15. This pre-release version is now available for downloading and … read more
+
+22
+Oct
+2024
+Blog • phpBB 3.3.14-RC1 available for testing
+
+We are excited to announce the release of phpBB 3.3.14-RC1, a new release candidate for the upcoming stable release of phpBB 3.3.14. This pre-release version is now available for downloading and … read more
+
+All Announcements  | phpBB Blog 
+
+
+phpBB 3.3 Proteus has landed!
+We've just released phpBB 3.3 -
+Take a look at what's new.
+SPONSORS
+ BlueHost.com - voted best web host with superior support 2004-2010! Offering a free domain, unlimited space, unlimited transfer - easy 1-click install of phpBB all for only $6.95/month… Sign up now!
+Advertise on phpBB.com
+ADVERTISEMENTS
+Need Hosting?
+
+ BlueHost.com • Web Hosting UK • HostMonster • FastDomain Hosting • Advertise on phpBB.com
+
+© 2001 - 2025 phpBB Limited • Contact Us • Advertise on www.phpbb.com
+Header illustrations by Vlad Gerasimov • Designed by phpBB • Hosting donated by OSUOSL • Running on Symfony

@@ -1,0 +1,10 @@
+bankiros.ru is not available
+
+It looks like the website owner has restricted access from your current network
+
+Why did this happen and what can I do about it? 
+To protect their website from malicious activity, the owner or administrator may block access from specific countries, networks, or IP addresses. If you believe there was a mistake, you can:
+Check to see if you have enabled a VPN or any kind of proxy. Such services mask your real IP with their own, which might be restricted on this website;
+Change your connection settings, e.g., switch from Wi-Fi to mobile data, or try using a different device to access the website;
+Contact bankiros.ru support and tell them about the issue. Make sure to include request data below.
+Request ID: rTuqyZIaTPRtgrdQ | IP: 221.138.189.189 | Time: 2026-01-01 02:11:25 UTC

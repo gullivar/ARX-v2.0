@@ -1,0 +1,154 @@
+Skip to content
+Why Matomo?
+Use Cases
+Cloud
+On-Premise
+Pricing
+Resources
+ English
+Log in
+Help
+TRY IT FOR FREE
+Cloud-Hosted Matomo Analytics
+
+Start tracking Complete Analytics in no time
+
+Matomo Cloud is simple to set up, you can start tracking right away and we’ll take care of the hosting for you.
+
+You get access to all Matomo features, automatic software updates, free customer support, and you have full control and ownership of your data.
+
+Try 21-day free Cloud trial
+
+No credit card required
+
+Conversion Rate Optimisation
+
+Increase your site’s conversions with Heatmaps, Session Recordings, Tag Manager, A/B Testing & more. 
+
+Data ownership
+
+You are the sole owner of the data tracked by your Matomo. Request a full raw data dump at any time. 
+
+No data gaps, just the facts
+
+While other solutions use data sampling to fill the gaps, Matomo gives you 100% of your data.
+
+Privacy-first tracking
+
+Matomo supports consent-exempt configurations or seamless integration with consent management platforms. 
+
+Data compliance your way
+
+Configure a privacy-first analytics setup for GDPR, CCPA, ePrivacy, or other data compliance regulations. 
+
+Alternative to Google Analytics
+
+With Matomo you’re doing the best you can to stay ethical while growing your business and website.
+ 
+
+
+Get started with Matomo Cloud
+
+By choosing Matomo, you’re standing up for user-privacy and a safer web.
+
+Pricing
+Try Cloud for free
+
+No credit card required
+
+Data security and privacy
+To be GDPR compliant is one thing but to have a GDPR Manager ensures you are in full control when processing your user's personal data.
+Our Privacy Policy complies with EU and local law regulations to ensure that you remain compliant and your users’ privacy is protected.
+Our 24/7 infrastructure monitoring guarantees things run smoothly without any interruptions.
+Your web analytics data will always be available thanks to our scalable, redundant infrastructure setup.
+We implement high-security standards and industry best practices to make sure your data is protected.
+We’ll replicate your analytics data into multiple database servers and make daily backups to safeguard your data
+
+Matomo Cloud Privacy Policy    |    Matomo Cloud Data Processing Agreement (DPA)     |    Matomo Cloud Terms of Service
+
+Migrate easily between On-Premise to Cloud
+
+Matomo offers hassle-free migration to Cloud-hosted from On-Premise (and vice versa). We can help you with all challenges and walk you through every step of the way. Need time to think? Compare options to see what’s best for you.
+
+Migrating saves you time and money immediately. Self-hosted requires maintenance (updating, keeping it fast and secure, monitoring), and can be costly to run (server cost, human cost to maintain, etc.). Whereas it’ll be cheaper to run on our cloud and you’ll get in-depth support, so you can reap the benefits sooner. 
+
+Also, if you’ve tried it and feel it’s not for you, migrate back to On-Premise any time!
+
+Matomo Cloud Terms of Service and DPA
+
+Need help getting started?
+
+Matomo’s free Cloud support service will help you get set up and is always available to solve your issues. We also have an extensive library of helpful user guides, FAQ’s and training videos to support you along the way.
+
+Contact Support
+Try 21-day free Cloud trial
+
+No credit card required
+
+Company
+About Matomo
+History
+Contributors
+Hiring
+Contact Us
+Partner Programme
+Support
+Help Centre
+Developers
+Contact support
+Sales
+Contact Sales
+Plans & Pricing
+Product
+Tag Manager
+WordPress Plugin
+URL Campaign Builder
+Integrations
+Open Source
+Download Matomo
+Changelog
+Issue Tracker
+GitHub
+Feedback Panel
+Data Warehouse Connector
+Industries
+Banks 
+Enterprise 
+Financial Institutions 
+Fintech
+Legal
+Cookie Notice
+Matomo Cloud Privacy Policy
+Website Privacy Policy
+Website Terms of use
+Matomo Cloud Terms of Service
+Matomo Cloud Data Processing Agreement (DPA)
+Matomo Marketplace Terms and Conditions
+Support Plan Services Terms and Conditions
+Resources
+Blog
+Case Studies
+Newsletter
+Guides
+Masterclasses
+Matomo in the Press
+Press Enquiries
+GDPR Timeline
+How to Check Website Traffic
+Comparisons
+vs Google Analytics
+vs Amplitude
+vs Adobe Analytics vs Google Analytics
+vs Piwik PRO
+vs Firebase
+vs Plausible
+vs Fathom
+vs Hotjar
+vs WP-Statistics
+vs Mixpanel
+Top Web Analytics Tools
+Privacy
+Data ownership
+GDPR
+Security
+© 2025 matomo.org

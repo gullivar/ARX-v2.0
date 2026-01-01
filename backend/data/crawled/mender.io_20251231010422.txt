@@ -1,0 +1,199 @@
+This website stores cookies on your computer. These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media. To find out more about the cookies we use, see our Legal page.
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+Cookies settings
+Accept
+Decline
+Docs
+Join the community
+Contact us
+Log in
+Why Mender
+Pricing
+Solutions
+Resources
+Customers & Partners
+Engineers
+Try for free
+Over-the-Air Software Updates for IoT Devices
+
+From startups to large organizations, Mender provides secure and reliable remote updates for connected devices at any scale
+
+Try for free
+How it works
+End-to-end OTA solution
+Deploy and manage with confidence
+
+Mender provides a complete over-the-air (OTA) update infrastructure for developers and support teams. Whether in the field or the factory, remotely and easily manage device software without the need for manual labor.
+
+Update without the risk of bricking devices. Robust in the face of limited bandwidth, unstable connectivity or power loss. Advanced scheduling for safe deployment to large device fleets. Secure and verified to standards, at every step.
+
+Explore features
+
+ 
+
+Built for developers
+Seamlessly integrate to your development workflow
+
+Mender works with real-time operating systems (RTOS), like Zephyr, and any Linux-based OS. Cross-compatible and 100% API driven, easily integrate Mender into your existing CI/CD pipeline.
+
+Get started tutorial
+Update all device software
+
+Update full images, applications, files, containers, bootloaders and more. You can even target peripherals like microcontrollers or sensors.
+
+How Mender works
+Supported devices
+
+Official and community-supported board integrations for many different devices and operating systems, including Zephyr Project, Debian family and Yocto Project integrations.
+
+Learn more
+
+POST /deployments
+
+{
+  "name": "production",
+|
+Designed for enterprises
+Spend more time innovating for your business and users
+
+Benefit from industry best practices in security and risk mitigation, while spending your time where it matters.
+
+Why businesses choose Mender 
+
+Focus on your product
+
+Mender's best-of-breed update solution lets you focus resources on your product, instead of building your own OTA infrastructure from scratch.
+
+End-to-end security
+
+Mender's security-by-design principle ensures each step is verified and authorized. Keep your devices secured and compliant with corporate IoT security standards.
+
+Avoid lock-in
+
+Mender's focus on integration, not platform, as well as our Open Source edition means you are never locked-in to a single provider.
+
+End-user satisfaction
+
+Provide the latest bugfixes, features and services to your users. Fast and frequent updates help your brand stay competitive.
+
+Global scale
+Securing the world's connected devices
+
+Mender is trusted by innovative startups and the largest enterprises. We partner with the world's leading brands to promote remote software management for device fleets across the globe.
+
+15+
+of Fortune 100 companies use Mender
+2000+
+devices per month saved from failed updates
+64+
+countries where customers' devices are connected to Mender
+10/10
+rated by users on G2 for Quality of Support
+ 
+Customer stories
+Transportation
+Medical
+Smart energy
+Manufacturing
+Consumer
+
+Veo uses Mender to deploy frequent and safe updates to their AI-based cameras that enable advanced athlete performance analysis.
+
+Read the article
+
+MacGregor uses Mender to deliver improved functionality of software to customers, within the bandwidth and connectivity constraints of a maritime environment.
+
+Read the case study
+
+Clinomic brings advanced medical consultation to ICU patients at the outer regions of Europe with Mender.
+
+Read the article
+
+Northvolt keeps its entire battery system fleet, both in the field and in factories, secure and up-to-dated with Mender.
+
+Read the case study
+
+Schindler uses Mender to manage and optimize their global fleet of smart elevators and moving walkway services.
+
+Read the article
+
+Veo uses Mender to deploy frequent and safe updates to their AI-based cameras that enable advanced athlete performance analysis.
+
+Read the article
+
+MacGregor uses Mender to deliver improved functionality of software to customers, within the bandwidth and connectivity constraints of a maritime environment.
+
+Read the case study
+
+Clinomic brings advanced medical consultation to ICU patients at the outer regions of Europe with Mender.
+
+Read the article
+
+Northvolt keeps its entire battery system fleet, both in the field and in factories, secure and up-to-dated with Mender.
+
+Read the case study
+
+Schindler uses Mender to manage and optimize their global fleet of smart elevators and moving walkway services.
+
+Read the article
+
+Veo uses Mender to deploy frequent and safe updates to their AI-based cameras that enable advanced athlete performance analysis.
+
+Read the article
+Ready to get started?
+
+Try Mender by signing up and connecting up to 10 devices free for the first 12 months - no credit card required! You can also contact us to discuss how Mender can work with your project.
+
+Try it for free
+Contact us
+ 
+Choose your plan
+
+From small teams to large enterprises, Mender has a plan to suit you.
+
+Pricing plans
+Get Started tutorial
+
+Quickly get up and running with Mender, and deploy your first OTA update.
+
+Follow the tutorial
+ABOUT MENDER
+Plans
+Features
+Extras
+Our Customers
+Our Partners
+ENGINEERS
+Mender Hub Forum
+Documentation
+API Documentation
+Github
+How Mender Works
+RESOURCES
+Resource Center
+Reports & Guides
+Ebooks
+Videos
+Mender Blog
+GETTING STARTED
+Sign Up for Free
+Raspberry Pi Quickstart
+Tutorials
+CONTACT
+Contact Us
+Support
+SIGN UP FOR OUR NEWSLETTER
+Email*
+
+By signing up, you agree to your email address being stored and used to receive newsletters about Mender. We use tracking in our newsletter emails to improve our marketing content.
+
+Mender is developed and maintained by Northern.tech.
+
+Careers
+Legal
+Privacy Policy
+|
+© 2025 Northern.tech
+Cookie Settings

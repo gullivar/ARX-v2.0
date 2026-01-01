@@ -1,0 +1,8 @@
+CHECKING CONNECTION
+
+We need to make sure your connection is secure before proceeding. Sit tight!
+
+Verifying you are human. This may take a few seconds.
+
+Ray ID: 9b6c0f720d332612
+IP Address: 221.138.189.189

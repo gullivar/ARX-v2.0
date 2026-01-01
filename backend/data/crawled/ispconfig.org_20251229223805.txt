@@ -1,0 +1,76 @@
+Blog Newsletter Sponsors Downloads
+Home ISPConfig Add-Ons Documentation Support Community Development Sponsors
+Manage Your Servers Directly Through Your Browser
+More than 40,000 downloads per month.
+Open Source, transparent, free
+stable, secure und ultra-fast
+continuous development
+huge documentation and big community with support forum
+enterprise support
+
+More than 40,000 downloads per month
+
+Find out why ISPConfig is the best control panel.
+
+Services And Functions
+ Single and Multi-Server
+Manage one or more servers from one control panel.
+Single server, Multiserver and Mirrored Clusters.
+No matter if physical server or virtual machine, ISPConfig just works.
+ Translated In More Than 20 Languages
+English
+German
+French
+Spanish
+Italian
+Portuguese
+Czech
+Many more
+ Support For Many Daemons
+HTTP: Apache2 and nginx
+SMTP: Postfix
+POP3/IMAP: Dovecot
+FTP: PureFTPD
+DNS: Bind, PowerDNS
+Database: MariaDB and MySQL
+ Supports Many Linux Distributions
+Debian 10 - 12 (recommended)
+Ubuntu 20.04 - 24.04 (recommended)
+CentOS 7 - 8
+ Four Access Levels
+Administrator
+Reseller
+Client
+Email Login
+ Managed Services
+Websites
+Email accounts
+FTP users
+MySQL databases
+Cron jobs
+Shell users
+DNS
+IPv4 support
+IPv6 support
+ISPConfig
+
+Services and Functions
+Online Demo
+Roadmap
+Screenshots
+Download
+Patches
+
+Add-Ons
+
+Billing Module
+Migration Toolkit
+Documentation
+
+User Manual
+FAQ
+
+Support
+Community
+Development
+Imprint / Impressum     Privacy Policy

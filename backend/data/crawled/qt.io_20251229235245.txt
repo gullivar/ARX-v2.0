@@ -1,0 +1,190 @@
+Skip to main content
+Development & Design
+Software Quality
+Solutions
+Help & Resources
+Learning Hub
+Price. Buy.
+Download. Try.
+
+Qt Group to Deliver Industry-First NVIDIA CUDA Safety Verification
+
+Read More
+Your Software Excellence
+Begins Here
+Get Started
+View Products
+
+Software should be easy to develop, beautiful to use, and reliable by design. From everyday devices to essential systems, our technology is shaping the way we live, move, and connect.
+
+BILLIONS OF DEVICES & APPLICATIONS
+
+OVER 70 INDUSTRIES
+
+MILLIONS OF USERS
+
+From Design to Deployment
+—and Back Again
+
+Built for the creators of software people can’t live without. From the first sketch to the final test, we're your trusted partner in innovation. Offering a promise of quality, performance, and scalability, wherever you begin.
+
+DESIGN
+VALIDATE
+DEVELOP
+SECURE
+Show All
+Design Shouldn’t Be Lost in Translation
+
+Transform your ideas into production-ready user interfaces by seamlessly connecting designers and developers.
+
+Design Tools
+Excellence You Experience
+Every Day, Everywhere
+
+You Build the Future.
+We Build the Tools.
+Development
+Software Quality
+Design
+Show All
+Development
+Qt Framework
+
+Cross-Platform Software Libraries and APIs
+
+Development
+Qt for MCUs
+
+UI Framework for Microcontrollers
+
+Development
+Qt Development Tools
+
+Qt Creator IDE and Productivity Tools
+
+Development
+Qt Creator IDE
+
+Qt Development IDE
+
+Design
+Qt Design Studio
+
+UI Design Tool for UI Composition
+
+Design
+Figma to Qt
+
+Prepare Your GUI Design for the Product Screen
+
+Software Quality
+Squish
+
+GUI Test Automation
+
+Software Quality
+Coco
+
+Code Coverage Analysis
+
+Software Quality
+Test Center
+
+Test Results Management and Analysis
+
+Software Quality
+Axivion Static Code Analysis
+
+Software Static Code Analysis
+
+Software Quality
+Axivion Architecture Verification
+
+Software Architecture Verification
+
+Impact That Speaks for Itself
+
+75%
+
+Reduction in Development Time
+
+50%
+
+Shorter Time-to-Market
+
+Engineered for Your Industry's Edge
+
+Powering trusted solutions, from connected devices to critical systems. Deliver the performance your industry requires.
+
+Automotive
+Aerospace & Defense
+Industrial Vehicles
+Micro-Mobility
+Consumer Electronics
+Industrial Automation
+Medical
+From Curiosity to Capability
+
+
+Fuel your creativity and expertise in our Learning Hub. Learn at your own pace, master new skills, and connect with a community that’s shaping the future of software.
+
+Learning Hub
+Qt Academy
+Course Catalog
+Educational License
+University Network
+Certifications
+Technology Doesn’t Shape the World.People Like You Do.
+Contact Us
+Start Here
+Contact Us
+Qt Group
+Our Story
+Brand
+News
+Careers
+Investors
+Qt Products
+Quality Assurance Products
+Licensing
+License Agreement
+Open Source
+Plans and pricing
+Download
+FAQ
+Learn Qt
+For Learners
+For Students and Teachers
+Qt Documentation
+Qt Forum
+Support & Services
+Professional Services
+Customer Success
+Support Services
+Partners
+© 2025 The Qt Company
+Legal Notice
+Privacy and Cookie Policy
+Terms & Conditions
+Trust Center
+Cookie Settings
+Email Preferences
+
+Qt Group includes The Qt Company Oy and its global subsidiaries and affiliates.
+
+We use cookies and data to measure audience activation and website statistics to better understand how the services are used and to improve the quality of the services in question. This includes:
+
+
+
+the development and improvement of new services
+delivering advertisements and measuring their effectiveness
+to display personalized content depending on your settings
+to display personalized ads depending on your settings
+
+
+
+By clicking “Allow All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. You can also manage your preferences here.
+
+Allow All
+Accept Only Necessary
+Cookie Settings

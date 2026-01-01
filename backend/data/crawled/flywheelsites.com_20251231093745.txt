@@ -1,0 +1,18 @@
+You need a password to view this site!
+
+This site is currently password protected. If you were given a username and password to view this page from your web designer, please refresh the page and try entering it again. If the problem persists, please make sure you were given the correct username and password combination.
+
+Do you own this site?
+
+You can find the username and password combination for this site on the site’s overview page in Flywheel. From there you can also change or remove the password.
+
+Can’t remove the password?
+
+To remove the password, you first must complete billing for this site. To complete billing, click the “Complete Billing” button on a site’s page in Flywheel.
+
+Did that not solve the problem? Please contact support and we’d be happy to help!
+
+I’m just passing through.
+What the heck is this?
+
+Flywheel is a premium WordPress hosting company built specifically for designers and creative agencies. We make WordPress sites secure, fast and easy to manage. Interested in learning more about how Flywheel can help you? Visit Visit our site.

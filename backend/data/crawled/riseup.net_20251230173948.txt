@@ -1,0 +1,92 @@
+Skip to Main Content
+Riseup Home
+Home
+Email
+Lists
+VPN
+Security
+About Us
+Riseup provides online communication tools for people and groups working on liberatory social change. We are a project to create democratic alternatives and practice self-determination by controlling our own secure means of communications.
+中文 Español English Português Pyccĸий Deutsch Français Italiano Polski Ελληνικά Català Hindi
+
+Support Riseup!
+Personal Services
+
+We provide accounts for traditional services, including Email (IMAP) and VPN.
+
+Login to webmail
+Get help on Email and VPN.
+Change my settings
+Request an account
+Reset lost password
+Create a help ticket
+Mailing Lists
+
+We provide mailing lists for activist organizations.
+
+Login to lists
+Get help on lists
+Request a list
+Subscribe
+Unsubscribe
+Collaboration
+
+The following services are for group collaboration
+
+we.riseup.net — private wikis and group collaboration.
+pad.riseup.net — real-time collaborative text editor.
+share.riseup.net — file upload (pastebin and imagebin).
+Resources
+
+Security
+
+Resources and tutorials for more secure communication.
+
+Riseup Help Desk
+
+In order to contact us with a question, use the help desk form to create a help ticket. But first, please search and read the online documentation found on this site.
+
+Radical Servers
+
+A directory of dozens of radical server projects around the world.
+
+System Updates
+Minor privacy policy update
+2023-02-11
+A relatively minor change of our Privacy Policy happened. We changed the text around how long usernames for deleted accounts are unavailable, and explicitly added to our misuse section scams and phishing.
+We need your help!
+2022-01-06
+Riseup's services are funded by donations from people like you. We try not to ask too often, but we have to ask sometimes. Please consider making a donation if you value this freely available service, appreciate that we don't track or sell your data, or want to support people around the world working towards liberatory social change.
+Scheduled network outage
+2021-10-14
+Today at 15h UTC, 1pm EDT, 10am PDT there will be a planned network outage. We anticipate it being very short, but it will likely be a few minutes long. We wanted to let you know to be aware when it will happen.
+Update on switch outage
+2021-05-09
+The switch failure has been resolved with a replacement. If you are using Thunderbird and still cannot login, please quit and restart it. Any emails that were to be delivered during the outage period are not lost, and will be delivered.
+Network switch outage
+2021-05-08
+A critical failure to one of our core network switches is resulting in some people having difficulty using our services. This happened in the middle of the night, and we will need to replace the equipment, so please bear with us as we resolve this disruptive problem.
+Another minor Terms of Service update!
+2021-02-19
+We made a small change to our Terms of Service to add this line: Do not trade, sell, publicly give away, or publicly offer invites to people you don't know.
+Minor Terms of Service update
+2020-06-12
+We made a small change to our Terms of Service to explicitly indicate that usernames are included in the antiharassment definition.
+Winter fundraising campaign
+2020-01-27
+It's Riseup's twentieth year, help keep us going! We need your support to support each other. Please contribute to our winter fundraising drive.
+Happy #N30!
+2019-11-30
+Happy N30 from your friendly autonomous tech collective, running servers for justice since 1999. Much love to all in the streets & behind the screens fighting for a better world. Donate to keep Riseup working hard for you and movements globally.
+Certificate update
+2019-10-05
+The *.riseup.net, riseup.net certificates were updated. If you are pinning cert fingerprints, this will be the last time these certs and signed fingerprints will be updated.
+Un grand merci à SQiL for a successful translation event!
+2019-09-26
+Last night several wonderful volunteers came to the SQiL event to work on translating our help pages to french. Several pages were translated, updated, and fixes made, thanks to SQiL for a second year of help! Our help pages are an excellent resource to learn more about online security, anyone can help improve them!
+About this site
+This site is run by Riseup, your friendly Ⓐutonomous tech collective since 1999
+Donate! System Status About Us Privacy Policy
+Please edit this site
+Riseup's Tor Onion Services
+If you want to access our list of onion services' addresses check our Tor page and if you need help to configure your email client to use our hidden services, check our Onion Service configuration page.

@@ -1,0 +1,64 @@
+Skip to content
+ 
+Internet Census Group
+01
+About Us
+
+Internet Census Group seeks to analyze trends and benchmark security performance across a broad range of industries.   We are committed to the education and long-term improvement of security practices across the Internet to provide an ever-stronger defense against the threat of security attacks.  
+
+The Internet Census Group is led by BitSight Technologies, Inc. and we encourage organizations from industry, government or academia that would like to collaborate on security projects to contact us.
+
+02
+How We Collect Data?
+
+Our data collection techniques involve making a series of connection attempts to publicly accessible computers and devices on the internet. Specifically, we make a standard connection request to an online system, and – in the cases where the systems are responsive – we will attempt a protocol handshake.
+
+Wherever possible, we only collect security data that would be visible to any entity that attempted to connect to a particular address and port. We will never attempt to change device configurations.
+
+03
+What Data Do We Collect?
+
+The purpose of our project is to evaluate the security posture of internet connected systems. Therefore, the data we collect is limited to:
+
+Installed versions of network exposed services, applications and libraries (e.g. Wordpress, Apache, PHP, etc.)
+Metadata about exposed services and applications: Which ports are open, what services and applications are running, identification banners, TLS certificates, enabled features, etc
+Vulnerability information for systems and services that exhibit vulnerable behavior, such as a network service behaving in a way that strongly correlates to the presence of a specific vulnerability (e.g. a server vulnerable to the BlueKeep vulnerability will allow the creation and communication through a dynamic virtual channel with the ‘MS_T120’ reserved name).
+
+04
+What Data is not Collected?
+
+We want to be clear that we actively try to avoid collecting potentially sensitive information. For example, if we encounter an exposed, unauthenticated database, we will only collect a minimal amount of information that will allow us to corroborate the finding. In the case of an open (i.e. no authentication) SQL database available, we would only collect a sample of the information schema, avoiding collecting the table’s contents.
+When we suspect that some sensitive information might be collected inadvertently by our systems, we will store it in hashed format so that it can not be used maliciously.
+We only intend to study and collect data about corporations and other entities. It is not our intent to collect or study the IP addresses of individuals as part of this project. Since we only collect and study IP addresses, we cannot tell if an IP address is owned by a person or an entity (as we have no personal data to tie it to). If you identify yourself to us as an individual via our opt out process (see “Opting Out” below), and request that we delete your personal information, we will use commercially reasonable efforts to delete any personal information about you from our scanning activities (other than information we must retain to comply with your request to remain on our opt out list or as otherwise permitted by applicable law).
+
+05
+How to identify Internet Census?
+
+We want our research to be as transparent as possible. As such, we make efforts to allow everyone to associate our scanning activities to this project. In order to identify an Internet Census scanning IP address one should perform a reverse DNS lookup of the scanning IP address and confirm that it belongs to the internet-census.org domain, followed by a regular DNS lookup to the resulting hostname, and confirm that the latter result contains the initial IP address.
+
+
+Example:
+
+$ dig +short -x 184.154.44.226 sh-chi-us-gp1-wk101.internet-census.org.
+$ dig +short sh-chi-us-gp1-wk101.internet-census.org | grep 184.154.44.226 184.154.44.226
+06
+Opting Out
+
+We are committed to upholding the security and privacy of the entire online community. In alignment with this commitment, we maintain a list of IP addresses whose owners have requested us to opt-out of Internet Census Group’s scanning activities.
+
+To have your IP address added to this list, please send a list of the IP addresses you wish to remove via email to: optout@internet-census.org. Given the dynamic nature of IP address ownership, approved opt-out requests will be valid for a period of six months. To maintain the opt-out status, you must submit an opt-out renewal at the conclusion of each six month opt-out period.
+
+Please note that, by submitting an opt-out request, you agree to notify us if your IP addresses or networks change so that we can apply your opt-out request to your new IP addresses or networks.
+
+Have a Question?
+
+If you have further questions about us, please email us at
+
+contact@internet-census.org
+
+Contact Us
+© 2024
+Internet Census Group
+. All Rights Reserved.
+Privacy Policy
+About Us

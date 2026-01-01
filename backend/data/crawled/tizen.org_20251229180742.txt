@@ -1,0 +1,28 @@
+Login Register
+Languages
+Main menu
+About Docs Source Code Brandguide Release Notes
+About Our Domains
+Tizen.org
+A hub for contribution to the Tizen OS open source project (source code, contribution guides, build environment setup).
+SamsungTizenOS.com
+New
+The official hub for Tizen app developers (SDK, APIs, guides, tool downloads).
+Docs
+For Application developers >
+All the tools, support and resources you need for designing, developing and publishing your Tizen application.
+For Platform developers >
+All the documentation and resources you need to build and contribute to Tizen platform.
+SamsungTizenOS.com
+New
+Tizen.org
+Developer.tizen.org
+Docs.tizen.org
+
+© 2025 Tizen Project, a Linux Foundation Project. All Rights Reserved. Linux is a registered trademark of Linus Torvalds.
+
+Tizen is a registered trademark of The Linux Foundation. * Other names and brands may be claimed as the property of others.
+
+Except as noted, this content is licensed under Creative Commons Attribution 3.0. For details, see the Content License. | Privacy Policy | Privacy Policy Addendum
+
+Trademarks

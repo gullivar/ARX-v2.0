@@ -1,0 +1,40 @@
+Cron Job Monitoring - Healthchecks.io Toggle navigation Pricing Docs Blog About Log In Sign Up Simple and Effective Cron Job Monitoring We notify you when your nightly backups, weekly reports,
+            cron jobs, and scheduled tasks don't run on time. How to monitor any background job: On Healthchecks.io, generate a unique ping URL for your background job. Update your job to send an HTTP request to the ping URL every time the job runs. When your job does not ping Healthchecks.io on time,
+                        Healthchecks.io alerts you! Monitor 20 cron jobs for free . No credit card required. Start Monitoring ssl renewal update metrics prod backup A quick peek of what's inside: Live-updating Dashboard A list of your checks, one for each Cron job, daemon or scheduled task you want to monitor. Give names and assign tags to your checks to easily recognize them later. Tap on the integration icons to toggle them on and off. Adjust Period and Grace time to match the periodicity and duration of your tasks. Simple Configuration Each check has configurable Period and Grace Time parameters.
+        Depending on these parameters and time since the last ping, the check is in one of the
+        following states: New. A check that has been created, but has not received any pings yet. Up. The time since the last ping has not exceeded Period . Late.
+                    The time since the last ping has exceeded Period ,
+                    but has not yet exceeded Period + Grace . Down.
+                    The time since the last ping has exceeded Period + Grace .
+                    When a check goes from "Late" to "Down", Healthchecks.io
+                    sends you a notification. Cron Expression Support Alternatively, you can define the expected ping dates and times
+            using a cron expression. See Cron Syntax Cheatsheet for the supported syntax features. Grace Time specifies how "late" a ping can
+            be before you are alerted. You should set it to be a little above
+            the expected duration of your cron job. Details and Event Log You can add a longer, free-form description to each
+            check. Leave notes and pointers for yourself and
+            your team. You can also see the log of received pings and sent "Down" notifications. Public Status Badges Healthchecks.io provides status badges for each of the tags
+            you have used. Additionally, the "Healthchecks.io" badge
+            shows the overall status of all checks in your account. The badges have public but hard-to-guess URLs.
+            You can use them in your READMEs, dashboards, or status pages. Integrations Set up multiple ways to get notified: Email Webhooks Slack Chat Discord Chat GitHub Issues Issue Tracking Google Chat Chat Gotify Push Notifications Matrix Chat Mattermost Chat Microsoft Teams Chat ntfy Push Notifications Opsgenie Incident Management PagerDuty Incident Management PagerTree Incident Management Phone Call Prometheus Event Monitoring Pushbullet Push Notifications Pushover Push Notifications Rocket.Chat Chat Signal Chat SMS Spike.sh Incident Management Telegram Chat Trello Project Management Splunk On-Call Incident Management WhatsApp Chat Zulip Chat What Can I Monitor With Healthchecks.io? Cron Jobs Healthchecks.io monitoring is a perfect fit for monitoring cron jobs
+                ( see guide )
+                and cron-like
+                systems: systemd timers, Jenkins build jobs, Windows Scheduled Tasks,
+                wp-cron, Github workflows, Kubernetes CronJobs, Heroku Scheduler, data
+                pipelines. A failed cron job often has no immediate visible
+                consequences and can go unnoticed for a long time. Specific examples: Filesystem backups Database backups Daily, weekly, monthly report emails SSL renewals Business data import and sync jobs Antivirus scans Dynamic DNS updates Processes, Services, Servers You can use Healthchecks.io for lightweight server
+                monitoring: ensuring a particular system service or the whole server
+                is alive and healthy. Write a shell script that checks for a
+                specific condition, and pings Healthchecks.io if successful. Run the
+                shell script regularly. Specific examples: Check a specific docker container is running Check a specific application process is running Check database replication lag Check system resources: free disk, free RAM, ... Send simple, unconditional "I'm alive" messages from your server
+                    (or your NAS, router, Raspberry Pi, ...) Helping Thousands of Developers
+                and Teams Avert Silent Failures “I'm a happy long-time user of Healthchecks.io and keep coming back to
+            it on new projects, because it's really easy to set up and offers reliable
+            monitoring of all our cron jobs.” Andrej Babic , founder of PingPong “Healthchecks.io has been extremely reliable and useful
+            for the many years we've been using it. The system is very easy to
+            use and well designed - the UI is clear and works the way you'd expect.
+            The API is really handy too.” Brett Harris , founder of WhatIsMyBrowser.com “Healthchecks.io is an absolute lifesaver. I'm using it to monitor
+            an IoT gateway, and once, thanks to the quick heads-up from
+            Healthchecks, was able to save the device from being fried after
+            it had been accidentally placed on top of a hot router while cleaning!” Joona Heikkilä , maker “Healthchecks.io is a great service. Simple, effective, highly reliable.
+            It's caught issues on multiple occasions so it makes me look
+            good which is always nice.” Peter N Lewis , author of Keyboard Maestro Set up monitoring for your cron jobs, catch issues early Sign Up × Create Your Account Enter your email address . We will email you a magic log in link. Email Me a Link © 2015-2025 SIA Monkey See Monkey Do Terms Privacy Pricing FAQ API Blog Contact Status

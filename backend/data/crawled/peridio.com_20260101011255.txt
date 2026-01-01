@@ -1,0 +1,220 @@
+🎉 BIG News: Peridio is now a Solution Advisor in the NVIDIA Partner Network! →
+PlatformCompanyIndustriesResourcesDocs
+Log inContact
+Toggle menu
+The platform for
+
+Embedded Linux Development|
+
+Build, ship, and scale embedded products without compromise.
+
+Get StartedBook a Demo
+A trusted partner to
+Build and maintain advanced
+embedded products
+Peridio Core
+Peridio Core provides device management and OTA for connected device manufacturers.
+Learn More
+Learn More
+Avocado OS
+Production-ready embedded Linux distribution, built on Yocto, for rapid development and deployment.
+Learn More
+Learn More
+Managed Linux
+Enterprise-grade Linux capabilities without the overhead of an extensive specialized team.
+Learn More
+Learn More
+DEVELOP
+Build on Yocto,
+Lightning Fast
+
+Featuring Avocado OS
+
+Developers
+
+Avocado OS, built on Yocto, delivers secure, deterministic builds in minutes—not hours. Edge AI-ready and team-friendly, it slashes build times so your developers can focus on code, not configs.
+
+DEPLOY
+Keep Your Linux,
+Lose the Headaches
+
+Yocto-based distribution maintenance
+
+Data ScientistsApplication EngineersEmbedded Developers
+
+Keep the advantages of Yocto and embedded Linux without the overhead of a specialized team – freeing your engineers to build what matters in an environment they already know.
+
+SCALE
+Release Managers
+Product Managers
+Scale with confidence
+
+Maintain velocity even after your launch
+
+Accelerate software releases with enterprise-grade device management and update capabilities.
+
+Deploy updates 3.4x faster without compromising security or control, leveraging cohort-based phased releases.
+
+Unify workflows with a central source of truth for engineering, product, and customer success teams.
+
+Production ready from the start
+
+Peridio seamlessly bridges your development journey to production,
+providing a unified experience from day one.
+
+10x Faster
+
+Development cycles
+
+With production-ready Linux
+
+3x Fewer
+
+Engineering resources
+
+Required for ongoing maintenance
+
+250% ROI
+
+in year one
+
+With faster releases & streamlined operations
+
+AI READY
+Develop and distribute modern
+embedded products, faster
+
+With optimized application development workflows for multi-silicon products
+
+The embedded development stack is no longer single firmware, single device
+
+Peridio enables embedded engineers, data scientists, and software developers to integrate and deploy unified code bases to an edge environment.
+
+Learn More
+Trusted by industry leaders
+
+“We needed a solution that would allow us to manage updates efficiently while maintaining the flexibility to support our diverse customer base."
+
+Jess Shapiro
+
+Manager of Technology Products, PMO at Granite
+
+Beyond The Bench
+
+Featuring essential insights from leaders successfully scaling innovative embedded hardware and edge AI.
+
+Explore the Podcast
+Available on
+Powering Innovation Across Industries
+
+Peridio delivers industry-specific solutions that simplify complex embedded systems challenges while accelerating time-to-market.
+
+Energy & Renewables
+
+Accelerate and derisk the deployment of energy applications. Provide a foundation for secure development and ongoing management of next-generation critical infrastructure.
+
+Learn more
+Industrial IoT
+
+Transform critical infrastructure operations. Empower industrial manufacturers to operationalize firmware management across connected sensors, machines, and operational technology.
+
+Learn more
+Consumer Electronics
+
+Streamline firmware operations with enterprise-grade fleet management capabilities that accelerate time-to-market while reducing operational overhead.
+
+Learn more
+Telematics
+
+Fleet configuration and firmware management for scale. Streamline telematics operations with seamless fleet-wide software rollouts and operational visibility.
+
+Learn more
+Smart Homes & Buildings
+
+Operationalize firmware management for HVAC, smart lighting, and energy systems.
+
+Learn more
+Health & Wearables
+
+Confidently accelerate feature delivery while protecting your production fleet with unprecedented control over their software deployment pipeline.
+
+Learn more
+Energy & Renewables
+
+Accelerate and derisk the deployment of energy applications. Provide a foundation for secure development and ongoing management of next-generation critical infrastructure.
+
+Learn more
+Industrial IoT
+
+Transform critical infrastructure operations. Empower industrial manufacturers to operationalize firmware management across connected sensors, machines, and operational technology.
+
+Learn more
+Consumer Electronics
+
+Streamline firmware operations with enterprise-grade fleet management capabilities that accelerate time-to-market while reducing operational overhead.
+
+Learn more
+Telematics
+
+Fleet configuration and firmware management for scale. Streamline telematics operations with seamless fleet-wide software rollouts and operational visibility.
+
+Learn more
+Smart Homes & Buildings
+
+Operationalize firmware management for HVAC, smart lighting, and energy systems.
+
+Learn more
+Health & Wearables
+
+Confidently accelerate feature delivery while protecting your production fleet with unprecedented control over their software deployment pipeline.
+
+Learn more
+Energy & Renewables
+
+Accelerate and derisk the deployment of energy applications. Provide a foundation for secure development and ongoing management of next-generation critical infrastructure.
+
+Learn more
+Industrial IoT
+
+Transform critical infrastructure operations. Empower industrial manufacturers to operationalize firmware management across connected sensors, machines, and operational technology.
+
+Learn more
+Consumer Electronics
+
+Streamline firmware operations with enterprise-grade fleet management capabilities that accelerate time-to-market while reducing operational overhead.
+
+Learn more
+Telematics
+
+Fleet configuration and firmware management for scale. Streamline telematics operations with seamless fleet-wide software rollouts and operational visibility.
+
+Learn more
+Smart Homes & Buildings
+
+Operationalize firmware management for HVAC, smart lighting, and energy systems.
+
+Learn more
+Health & Wearables
+
+Confidently accelerate feature delivery while protecting your production fleet with unprecedented control over their software deployment pipeline.
+
+Learn more
+Transform Your Embedded
+Product Journey
+
+Stop treating your firmware as a liability. Build for the future with Peridio.
+
+Book a Demo
+Maintain your edge
+
+Subscribe and be the first to receive our latest insights, best practices, and success stories on software distribution and device management for connected products.
+
+Sitemap
+Peridio CoreCompanyBlogDocs
+Engineers
+How Peridio WorksDocumentationQuickstartGithub
+Contact
+Contact UsSchedule a DemoSupport
+Social
+BTB PodcastLinkedInX (Twitter)Youtube
+Privacy PolicyTerms & Conditions© 2026 Peridio

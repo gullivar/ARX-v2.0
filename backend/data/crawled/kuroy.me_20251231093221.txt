@@ -1,0 +1,79 @@
+幻想驿站 Home Tag Author Friends Get Fizzy Theme GitHub Changelog Report an issue Virtualization 09 六月 2022 Proxmox VE虚拟机备份脚本 掐指一算发现自己组的软路由已经服役近3年，虽然目前为止都在稳定运行，但是担心哪天这个基于Proxmox VE的"All in boom"设备凉了就得从头配一遍，就写了个小脚本每天备份PVE上的虚拟机，并同时在本地和云端存一份备份。 Mikoto Yu RouterOS 19 五月 2022 RouterOS WireGuard DDNS解析刷新脚本 疫情期间为了看剧，搭了个只能通过WireGuard内网访问的DNS流媒体解锁服务器，但是这个服务器的公网IP是动态IP，为了方便连接，自己配了DDNS，但是发现RouterOS不会自动更新DDNS解析IP，只好自己写个脚本用计划任务定期更新RouterOS上的WireGuard Endpoint IP。 Mikoto Yu Networking 30 三月 2022 上海电信千兆家宽 & LTF7263-BH+ 体验 由于借到了朋友的海信LTF7263-BH+ pon stick，于是打算突破一下上海电信的千兆极限。 Mikoto Yu 08 三月 2020 使用cygwin编译Windows版iperf3 由于想在Windows下使用最新的iperf3，但iperf3 Windows版
+[https://iperf.fr/iperf-download.php#windows]
+从3.1.3之后就没有更新了，于是尝试了下自己编译最新的iperf3版本。
+
+编译准备
+下载并安装cygwin, 安装所有Devel，在cygwin shell下载iperf3源码。
+
+编译过程
+cd iperf源码目录
+./bootstrap.sh #可选
+./configure
+make
+make install
+
+
+报错处理
+如果make中出现以下错误，需要修改cygwin的ossl_typ.h
+文件(（默认为：C:\cygwin64\usr\ Mikoto Yu 03 十月 2017 解决Google Play商店Error 0、911 更新记录
+ * 2017-10-03 Init
+
+由于某天早上一不小心把一加3T给摔了，又不想花高昂的换屏费（京东报价544），便乘着一加五热季下单了8G内存128G存储版本。京东一如既往的神速配送在当天就把机子送到了我手中。
+
+鉴于一加刷机保修的原则，果断开始折腾。按照一直以来的习惯：备份官方recovery，刷入TWRP，magisk（root），刷入opengapps
+nano，终于可以开始下回各种app、游戏（某不科学的上网就略过了）。
+
+起初下载app一切正常，但是到开始下载一些大于100M（左右）的游戏的时候就会出现Error 0的提示并中断下载，这里忘了截图，就借用下网上的图吧：
+
+经过一下午不停的百度、Google未果，还是走向了logcat抓日志的道路。
+
+然后终于在抓到日志中发现了一些蛛丝马迹：
+
+结果竟然是因为没有写入权限щ(ﾟДﾟщ)，虽然不知为何TWRP刷完opengapps会有这种情况，总之先尝试给予权限解决吧。
+
+adb shell pm Mikoto Yu 17 八月 2017 如何制作一个精美的三合一收款码（微信、支付宝、QQ） 新建的博客主题自带了一个“支持一下”功能，扫码可以向我付款。不过原本是分成了微信和支付宝两个收款码，后来发现官方APP生成的图并不适合直接放在页面上（太大了。。），想起前两天在github上见过的一个二维码项目：
+Awesome-qr.js [https://github.com/SumiMakito/Awesome-qr.js]，就想着用自己头像做个三合一的收款码。
+
+三合一制作原理及准备工作
+制作一个三合一的收款码其实就是在二维码解密后跳转的页面上，根据User-Agent跳转至三个不同的地址。支付宝可以直接跳转，由于微信和QQ所用的协议特殊，无法直接跳转，采用跳转到带收款码的图片后长按识别的方式。
+
+需要用到：
+
+ * 已备案域名（否则微信可能出现跳转提示）
+ * Nginx
+ * 三个App的User-Agent
+
+User-Agent样本
+微信
+> Mozilla/5.0 (Linux; Android 6. Mikoto Yu 02 八月 2017 使用dingo + unbound建立自用无污染dns 为了能有一个良好的上网环境，建立一个自用无污染dns必须的，否则你可能遇到如下几种情况：
+
+针对敏感域名的错误解析
+
+经过查询ip归属地发现是属于facebook的ip，除非twitter和facebook已成一家。。。不然这不科学。
+
+未注册域名存在记录
+
+从上图可见，使用电信的当地dns（上海）查询一个未注册域名，存在A记录。然而查询这个域名的whois信息，你会得到如下结果：
+
+显然这是电信的套路。。。下面开始正题吧。
+
+配置google public dns反代
+dingo使用的是google的httpdns，但在国内是无法访问到google的，因此需要找一台位于港澳台的服务器做一个反向代理（同时保证解析出的结果在大陆的访问速度）。
+
+以下为nginx配置，仅供参考（仅包含反代部分）
+
+    location / {
+        proxy_set_header Host 'dns.google.com';
+        proxy_ Mikoto Yu 22 十一月 2014 利用proxychains在终端使用socks5代理 最近用各种脚本下载东西的时候发现有的站点需要当地IP才能下，比如…..nico,
+youtube等；所以就找了下能在终端用socks5代理的工具，最后找到了proxychains，配合shadowsocks，从此再无压力=w=
+
+
+--------------------------------------------------------------------------------
+
+proxychains安装
+git clone https://github.com/rofl0r/proxychains-ng.git
+cd proxychains-ng
+./configure
+make && make install
+cp ./src/proxychains.conf /etc/proxychains.conf
+cd .. && rm Mikoto Yu 1 / 2 › » © 2025 幻想驿站 Using The Fizzy Theme v1.3.5 | Published with Ghost

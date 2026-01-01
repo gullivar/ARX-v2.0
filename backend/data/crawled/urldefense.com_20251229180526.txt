@@ -1,0 +1,11 @@
+We're Stopping Targeted Attacks
+
+This domain is part of the cybersecurity system that protects enterprise users from targeted phishing email and threats. If your organization (or an organization from which you've received a forwarded email) is using Proofpoint's Targeted Attack Protection product for advanced threat security, you may have received emails with URLs pointing to this domain.
+
+Every link starting with 'urldefense.proofpoint.com' is part of the TAP system. This checks that websites are safe to visit, with no malware. If the site is deemed safe by Proofpoint, your browser will redirect you to the original URL web destination. If the site is hosting malware, TAP will block users from accessing the malicious site.
+
+For more details, please visit our website at www.proofpoint.com
+
+Thank you for your interest!
+
+    - The Proofpoint Team

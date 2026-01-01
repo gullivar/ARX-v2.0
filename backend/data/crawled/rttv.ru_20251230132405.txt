@@ -1,0 +1,18 @@
+Outlook
+web access
+Connected to Microsoft Exchange. © 2022 Microsoft Corporation. All rights reserved.
+
+Please select authentication method you have
+
+USERNAME/PASSWORD
+use this options if you have username and password
+
+
+ONE-TIME PASSWORD
+use this options if you have otp device or sms token
+
+
+SMART-CARD
+use this option if you have smart card or digital certificate.
+
+© Autonomous Nonprofit Organization “TV-Novosti”. 2005–2022. All rights reserved.

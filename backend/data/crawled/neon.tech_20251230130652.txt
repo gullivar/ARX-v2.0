@@ -1,0 +1,227 @@
+Most auth bugs show up only after you ship. Here’s how to catch them early with Neon Auth + branches
+Neon
+Product
+DATABASE
+Autoscaling
+Automatic instance sizing
+Branching
+Faster Postgres workflows
+Bottomless storage
+With copy-on-write
+Instant restores
+Recover TBs in seconds
+Connection pooler
+Built-in with pgBouncer
+ECOSYSTEM
+Neon API
+Manage infra, billing, quotas
+Auth
+Add authentication
+Data API
+PostgREST-compatible
+Instagres
+No-signup flow
+Migration guides
+Step-by-step
+What is Neon?
+
+Serverless Postgres, by Databricks
+
+Solutions
+USE CASES
+Serverless Apps
+Autoscale with traffic
+Multi-TB
+Scale & restore instantly
+Database per Tenant
+Data isolation without overhead
+Platforms
+Offer Postgres to your users
+Dev/Test
+Production-like environments
+Agents
+Build full-stack AI agents
+FOR TEAMS
+Startups
+Build with Neon
+Security
+Compliance & privacy
+Case studies
+Explore customer stories
+Docs
+Pricing
+Company
+Blog
+About us
+Careers
+Contact
+Discord
+20.5k
+Log In
+Sign Up
+Ship faster with Postgres
+
+The database developers trust, on a serverless platform designed to help you build reliable and scalable applications faster.
+
+Start for Free
+Talk to Us
+Scaling
+Scaling
+
+Focus on building applications with time and money-saving features like instant provisioning, autoscaling according to load, and scale to zero.
+
+Discover Autoscaling
+Branching
+Branching
+
+Instantly branch your data and schema to access isolated DB copies for development, CI/CD, and schema migrations with copy-on-write storage.
+
+Explore Branching
+Trusted in production
+by thousands of teams.
+Instant Provisioning
+
+No waiting. No config.
+
+Provisioned in 300ms
+
+?ybxrwx@c=3r+~>lt$j<mn2af!b58d5%bl72\q5t39zl\fkt2!hd>?=27mi@epwak
+Works with
+your stack
+
+Integrate it into your language or framework within minutes and unlock a simpler developer workflow.
+
+See all examples
+Next.js
+Drizzle
+Prisma
+Python
+Ruby
+Rust
+Go
+import { neon } from '@neondatabase/serverless';
+export async function GET() {
+    const sql = neon(process.env.DATABASE_URL);
+    const rows = await sql`SELECT * FROM posts`;
+    return Response.json({ rows })
+}
+Lightning fast. Edge ready.
+
+The Neon serverless driver, designed for fast queries over HTTP
+
+import { neon } from '@neondatabase/ serverless';
+const sql = neon('postgresql:// usr:pass@proj.us-east-2.aws.neon.tech/db');
+const posts = await sql('SELECT * FROM posts');
+Get the Serverless Driver
+Better database.
+For modern workflows.
+
+Boost your performance with instant read replicas. They scale down to zero when idle and don't use additional storage.
+
+Easy database ops via the API and CLI. Manage thousands of databases programmatically.
+
+Instant Point-in-time recovery. Up to 30 days granularity down to the transaction or second.
+
+Unleashing Cutting-
+Edge AI Applications.
+
+The HNSW index algorithm streamlines performance, making high-dimensional vector search remarkably efficient.
+
+Power your AI apps with Postgres
+RELIABLE
+SCALABILITY
+HIGH COMPATIBILITY
+BLAZINGLY FAST SEARCH
+WORKS WITH PGVECTOR
+WORKS WITH LANGCHAIN
+Thousands of databases.
+Zero overhead.
+
+Use the Neon API to deploy database-per-tenant architectures. Scale to fleets of thousands of databases without touching a server. Rest easy knowing scale to zero keeps costs low.
+
+Industry leaders
+trust Neon
+Dive into success stories
+
+Neon allows us to develop much faster than we’ve even been used to
+
+Alex Klarfeld – CEO and co-founder of Supergood.ai
+
+Neon's serverless philosophy is aligned with our vision: no infrastructure to manage, no servers to provision, no database cluster to maintain
+
+Edouard Bonlieu – Co-founder at Koyeb
+
+The killer feature that convinced us to use Neon was branching: it keeps our engineering velocity high
+
+Léonard Henriquez – Co-founder and CTO, Topo.io
+
+We've been able to automate virtually all database tasks via the Neon API, saving us a tremendous amount of time and engineering effort
+
+Himanshu Bhandoh – Software Engineer at Retool
+Trusted Postgres
+
+neondatabase/neon
+
+Databases under management. Postgres for the World.
+
+100% Postgres. Not a fork, not a rewrite.
+
+SOC2 Compliance
+
+Features of tomorrow.
+Available today.
+Get Started
+Neon
+A Databricks Company
+Neon status loading...
+
+Made in SF and the World
+
+Copyright Ⓒ 2022 – 2025 Neon, LLC
+
+COMPANY
+About
+Blog
+Careers
+Contact Sales
+Partners
+Security
+Legal
+Privacy Policy
+Terms of Service
+DPA
+Subprocessors List
+Privacy Guide
+Cookie Policy
+Business Information
+RESOURCES
+Docs
+Changelog
+Support
+Community Guides
+PostgreSQL Tutorial
+Startups
+Creators
+SOCIAL
+Discord
+GitHub
+x.com
+LinkedIn
+YouTube
+COMPLIANCE
+CCPA
+Compliant
+GDPR
+Compliant
+ISO 27001
+Certified
+ISO 27701
+Certified
+SOC 2
+Certified
+HIPAA
+Compliant
+Compliance Guide
+Neon’s Sub Contractors
+Sensitive Data Terms
+Trust Center

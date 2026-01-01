@@ -1,0 +1,50 @@
+A Laravel Product
+Sign In
+Register
+Zero downtime PHP deployment
+Deployments you've only dreamed about. Zero downtime. Zero fuss.
+Start now for $10/m
+Watch the Laracasts
+Deploy your PHP and Laravel applications with confidence
+Envoyer has been carefully crafted by the creators of Laravel to work perfectly with your applications. You can deploy at any time of day or night with confidence that your users will never experience downtime.
+GitHub / Bitbucket / GitLab
+GitLab Self-hosted Integration
+Seamless Deployment Rollbacks
+Deploy To Multiple Servers
+Application Health Checks
+Cron Job Monitoring
+Integrated Chat Notifications
+Deploy Any PHP Project
+Tuned For Laravel
+Unlimited Team Members
+Unlimited Deployments
+Customize Your Deployments
+Integrated with your team's favorite services
+Basic
+$10
+per month
+10 Projects
+Unlimited team members
+Unlimited deployments
+All features and tools
+10 minute deploy time
+Start a free trial
+Plus
+$20
+per month
+20 Projects
+Unlimited team members
+Unlimited deployments
+All features and tools
+10 minute deploy time
+Start a free trial
+Premium
+$50
+per month
+Unlimited Projects
+15 minute deploy time
+Unlimited team members
+Unlimited deployments
+All features and tools
+Start a free trial
+Copyright © Laravel Holdings Inc.

@@ -1,0 +1,36 @@
+STEAMCHARTS    An ongoing analysis of Steam's concurrent players.
+Trending
+Name	24-hour Change	Last 48 Hours	Current Players
+Fireworks Mania - An Explosive Simulator	+236.1%		1,711
+Starcom: Unknown Space	+197.6%		553
+箭箭剑 Arrow a Row	+171.0%		347
+UBERMOSH:WRAITH	+143.9%		135
+Pyroworks	+141.9%		556
+Top Games By Current Players
+	Name	Current Players	Last 30 Days	Peak Players	Hours Played
+1.	Counter-Strike 2	1,507,441		1,620,137	725,044,702
+2.	Dota 2	679,731		903,542	435,804,503
+3.	PUBG: BATTLEGROUNDS	495,391		751,295	205,102,916
+4.	ARC Raiders	205,735		438,427	167,917,621
+5.	Bongo Cat	152,311		178,015	81,290,156
+6.	Wallpaper Engine	135,218		145,252	61,037,846
+7.	Apex Legends	134,217		191,112	57,806,777
+8.	Delta Force	118,279		163,797	51,316,136
+9.	Grand Theft Auto V Legacy	111,766		136,591	59,876,079
+10.	Rust	109,667		174,558	77,344,926
+More
+Top Records
+Name	Peak Players	Time	Last 48 Hours
+PUBG: BATTLEGROUNDS	3,236,027	Jan 2018	
+Black Myth: Wukong	2,406,967	Aug 2024	
+Palworld	2,101,535	Jan 2024	
+Counter-Strike 2	1,818,368	Mar 2025	
+Lost Ark	1,324,761	Feb 2022	
+Dota 2	1,291,328	Mar 2016	
+Monster Hunter Wilds	1,179,869	Mar 2025	
+ELDEN RING	952,523	Mar 2022	
+New World: Aeternum	913,027	Oct 2021	
+Banana	890,713	Jun 2024	
+Tweets by @steamcharts
+About | Privacy | Advertise
+All data is powered by Steam. Not affiliated with Valve in any way. All trademarks are property of their respective owners in the US and other countries. Our goal is to provide unique insight into gaming trends. © steamcharts.com

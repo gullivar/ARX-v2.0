@@ -1,0 +1,1 @@
+This domain is used for traffic validation by Adscore, a bot and proxy detection service by Adscore Technologies DMCC.

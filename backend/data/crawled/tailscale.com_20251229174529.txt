@@ -1,0 +1,274 @@
+Your Privacy Choices
+
+Welcome! We’re glad you’re here and want you to know that we respect your privacy and your right to control how we collect, use, and share your personal data. Please read our Privacy Policy to learn about our privacy practices.
+
+Reject All
+Customize Settings
+Confirm
+The flagship conference for engineering, security, and IT leaders
+Join us at TailscaleUp 2026
+Product
+Solutions
+Enterprise
+Customers
+Docs
+Blog
+Pricing
+Download
+Log in
+Schedule a demo
+Get started - it's free!
+The best secure connectivity platform for devs, IT, and security
+
+Connect remote teams, multicloud environments, IoT Edge devices, CI/CD pipelines, AI workloads, and more with a Zero Trust identity-based mesh network.
+
+Start connecting devices
+Contact sales
+Business VPN
+Secure internal access to apps and data, anywhere
+CI/CD
+Connect runners and clusters, with no VPN hassle.
+Cloud connectivity
+Link apps and pipelines across clouds and clusters.
+Infra access
+Direct access to infra. No bastions required.
+Zero Trust networking
+Enforce least privilege with identity-based access.
+
+USE CASE
+
+Business VPN
+Remote access for your global team
+Replace your clunky legacy VPN
+Infrastructure access to wherever your resources live, including Kubernetes clusters
+Connect SaaS and third-party apps without public exposure
+Works whether you’re in one or multi-cloud
+Learn more
+20,000 businesses
+choose Tailscale
+
+1,000+
+
+hours saved with fewer connectivity issues.
+
+Read case study
+
+25x
+
+headcount growth without dedicated IT resources for config or onboarding.
+
+Read case study
+
+90%
+
+reduction in internal support requests.
+
+Read case study
+Easy, secure, identity-based access to anything
+
+Tailscale deploys quickly and enables Zero Trust access to any resource on your network. From CI/CD runners across multi-cloud environments, to SaaS tools and infrastructure, Tailscale connects it all, seamlessly.
+
+IT
+Security
+DevOps
+Engineering
+Installation takes minutes
+
+Get started in minutes. Integrations apply policies to your teams at scale.
+
+Switching is easy
+
+Cross-platform and infrastructure agnostic to give the flexibility you need.
+
+Bridge hybrid environments
+
+Across clouds or on-prem, Tailscale’s mesh overlay network connects it all.
+
+Developer approved,
+But don’t just take our word for it.
+@sharathpatali
+Sharath Patali
+
+Setting up a mesh VPN on all my devices was so damn easy thanks to @Tailscale. A tightly sealed network of remote devices with almost no configuration and also ease of adding a new device to the mesh is just what I wanted. Amazing work @Tailscale!
+
+@LiamJKeegan
+Liam Keegan
+
+Uhh this is sweet! Redirecting SSL authentication to Tailscale to handle it for you eliminates the need to manage PKI at scale, or go through the nightmare of changing keys out when someone leaves. And, EVERYTHING is protected, regardless of where the workload lives. AWESOME!
+
+MP
+@moderat10n
+Michael P.
+
+After installing @Tailscale on a bunch of machines on my home network (Linux x86 + aarch64, MacOS, Windows) I've just ventured out. Had to restart the process but holy moly, just SSH'ed into my boxes, building code and pushing configs around like I'm home. Amazing. Converted
+
+TL
+@tessalau
+Tessa Lau
+
+Just paid for @Tailscale. Installed it on our robots; so far so good. Compared to OpenVPN: * Serverless * Always on * Same config in office & field * Scales to large # devices * GUI-based ACL w/SSO * Fixed IPs, DNS-friendly * Dead simple config+use
+
+@morgallant
+Morgan Gallant
+
+The beauty of @Tailscale is that they enable people to make their own personal internet, for free in most cases. It’s this weird paradigm shift, since you have to actively work to make applications insecure rather than the other way around.
+
+@johnrlynch
+John Lynch
+
+If you deal with servers in any way drop everything and get this. VPN nirvana. @Tailscale https://tailscale.com
+
+@devilmonastery
+Michael R.
+
+@Tailscale busts double nat (travel router -> plane wifi) and connects me to my home server so I can silence a prometheus humidity alert (can’t really add water to the humidifier from here).
+
+@oddur
+Oddur Magnusson
+
+Sometimes you come across a tool that changes how you see things, @Tailscale is one of those. Thinking in terms of point 2 point VPN tunnels seems so outdated once you have seen that lights.
+
+@jgavinray
+J. Gavin Ray
+
+Been using @Tailscale for a while at work and personally. Who would have thought networking could be... easy?!
+
+@dixdotdev
+big jim
+
+The campus WiFi also prevented my original Wireguard VPN. Multiple NATs, blocked ports... Tailscale just figures it all out. There's honestly dozens of other reasons, but for me it just helps me to be portable. I run pihole too. I'd be lost without it now!
+
+@TheodoreJSalvo
+Theo Salvo
+
+Oh @Tailscale, I’ve put you off for so long not knowing what I was missing. In advance of #KubeCon I now can manage my home NAS and my home k8s cluster…from my phone! Thank you!
+
+@falsefalse
+llia
+
+Thanks to @Tailscale being available as a package for @Synology I was able to renew @letsencrypt certificate on my home NAS while being 8000 kilometers away from it. Amazing piece of tech 🥹
+
+@sharathpatali
+Sharath Patali
+
+Setting up a mesh VPN on all my devices was so damn easy thanks to @Tailscale. A tightly sealed network of remote devices with almost no configuration and also ease of adding a new device to the mesh is just what I wanted. Amazing work @Tailscale!
+
+@LiamJKeegan
+Liam Keegan
+
+Uhh this is sweet! Redirecting SSL authentication to Tailscale to handle it for you eliminates the need to manage PKI at scale, or go through the nightmare of changing keys out when someone leaves. And, EVERYTHING is protected, regardless of where the workload lives. AWESOME!
+
+MP
+@moderat10n
+Michael P.
+
+After installing @Tailscale on a bunch of machines on my home network (Linux x86 + aarch64, MacOS, Windows) I've just ventured out. Had to restart the process but holy moly, just SSH'ed into my boxes, building code and pushing configs around like I'm home. Amazing. Converted
+
+TL
+@tessalau
+Tessa Lau
+
+Just paid for @Tailscale. Installed it on our robots; so far so good. Compared to OpenVPN: * Serverless * Always on * Same config in office & field * Scales to large # devices * GUI-based ACL w/SSO * Fixed IPs, DNS-friendly * Dead simple config+use
+
+@morgallant
+Morgan Gallant
+
+The beauty of @Tailscale is that they enable people to make their own personal internet, for free in most cases. It’s this weird paradigm shift, since you have to actively work to make applications insecure rather than the other way around.
+
+@johnrlynch
+John Lynch
+
+If you deal with servers in any way drop everything and get this. VPN nirvana. @Tailscale https://tailscale.com
+
+@devilmonastery
+Michael R.
+
+@Tailscale busts double nat (travel router -> plane wifi) and connects me to my home server so I can silence a prometheus humidity alert (can’t really add water to the humidifier from here).
+
+@oddur
+Oddur Magnusson
+
+Sometimes you come across a tool that changes how you see things, @Tailscale is one of those. Thinking in terms of point 2 point VPN tunnels seems so outdated once you have seen that lights.
+
+@jgavinray
+J. Gavin Ray
+
+Been using @Tailscale for a while at work and personally. Who would have thought networking could be... easy?!
+
+@dixdotdev
+big jim
+
+The campus WiFi also prevented my original Wireguard VPN. Multiple NATs, blocked ports... Tailscale just figures it all out. There's honestly dozens of other reasons, but for me it just helps me to be portable. I run pihole too. I'd be lost without it now!
+
+@TheodoreJSalvo
+Theo Salvo
+
+Oh @Tailscale, I’ve put you off for so long not knowing what I was missing. In advance of #KubeCon I now can manage my home NAS and my home k8s cluster…from my phone! Thank you!
+
+@falsefalse
+llia
+
+Thanks to @Tailscale being available as a package for @Synology I was able to renew @letsencrypt certificate on my home NAS while being 8000 kilometers away from it. Amazing piece of tech 🥹
+
+Over 100 integrations.
+Cross-platform. Infrastructure agnostic.
+See all integrations
+Secure your networking
+using identity with Tailscale
+Get started
+Contact sales
+
+Product
+
+How it works
+Pricing
+Integrations
+Features
+Compare Tailscale
+
+Use Cases
+
+Business VPN
+CI/CD
+Infra Access
+Cloud Connectivity
+Zero Trust Networking
+Homelab
+
+Resources
+
+Blog
+Events & Webinars
+Partnerships
+
+Company
+
+Company
+Careers
+Press
+
+Help & Support
+
+Support
+Sales
+Security
+Legal
+Open Source
+Changelog
+Tailscale Status
+
+Learn
+
+SSH keys
+Docker SSH
+NAT Traversal
+MagicDNS
+PAM
+All articles
+Terms of Service
+Privacy Policy
+California Notice
+Cookie Notice
+Your Privacy Choices
+WireGuard is a registered trademark of Jason A. Donenfeld.
+© 2025 Tailscale Inc. All rights reserved. Tailscale is a registered trademark of Tailscale Inc.

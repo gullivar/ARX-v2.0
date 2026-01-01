@@ -1,0 +1,158 @@
+Skip to content
+Navigation Menu
+Platform
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+Features
+GitHub Copilot
+Security
+Actions
+Codespaces
+Issues
+Code review
+Discussions
+Code search
+GitHub Actions
+Automate your workflow from idea to production
+
+GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want.
+
+Get started with actions
+Contact sales
+Kick off workflows on any GitHub event to automate tasks
+
+Hosted runners
+
+Linux, macOS, Windows, ARM, GPU, and containers make it easy to build and test all your projects. Run directly on a VM or inside a container. Use your own VMs, in the cloud or on-prem, with self-hosted runners.
+
+
+Matrix builds
+
+Save time with matrix workflows that simultaneously test across multiple operating systems and versions of your runtime.
+
+
+
+Any language
+
+GitHub Actions supports Node.js, Python, Java, Ruby, PHP, Go, Rust, .NET, and more. Build, test, and deploy applications in your language of choice.
+
+
+
+Live logs
+
+See your workflow run in realtime with color and emoji. It’s one click to copy a link that highlights a specific line number to share a CI/CD failure.
+
+
+Built in secret store
+
+Automate your software development practices with workflow files embracing the Git flow by codifying it in your repository.
+
+
+Multi-container testing
+
+Test your web service and its DB in your workflow by simply adding some docker-compose to your workflow file.
+
+
+Run a workflow  on any event
+
+Whether you want to build a container, deploy a web service, or automate welcoming new users to your open source projects—there's an action for that. Pair GitHub Packages with Actions to simplify package management, including version updates, fast distribution with our global CDN, and dependency resolution, using your existing GITHUB_TOKEN.
+
+Actions marketplace
+
+GitHub Actions connects all of your tools to automate every step of your development workflow.
+
+Explore the actions marketplace
+Easily deploy to any cloud, create tickets in Jira, or publish a package to npm.
+Want to venture off the beaten path? Use the millions of open source libraries available on GitHub to create your own actions. Write them in JavaScript or create a container action—both can interact with the full GitHub API and any other public API.
+Secure package registry for code and workflows
+
+Securely store and manage your code and packages with GitHub credentials, integrated into your workflows via APIs and webhooks. Enjoy fast, reliable downloads through a global CDN for optimized performance.
+
+Read the docs
+“
+Actions is an exciting development and unlocks so much potential beyond CI/CD. It promises to streamline our workflows for a variety of tasks, from deploying our websites to querying the GitHub API for custom status reports to standard CI builds.
+Ralf Gommers
+SciPy maintainer
+GitHub Actions is free for public repositories
+
+We take pride in our Open Source legacy, and are happy to provide free CI/CD for public repositories. Check out the doc to see which runners are included.
+
+
+
+View docs
+Host your own runners or use GitHub-hosted runners
+
+Check out plan details to see how many minutes are included and the pricing table below to see which runners you can use your free minutes on.
+
+
+
+View pricing
+The future of workflow automation is now
+
+Get started with actions
+Site-wide Links
+Subscribe to our developer newsletter
+
+Get tips, technical guides, and best practices. Twice a month.
+
+Subscribe
+Platform
+Features
+Enterprise
+Copilot
+AI
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Ecosystem
+Developer API
+Partners
+Education
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+GitHub Marketplace
+MCP Registry
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Why GitHub
+Customer stories
+Blog
+The ReadME Project
+Careers
+Newsroom
+Inclusion
+Social Impact
+Shop
+© 2025 GitHub, Inc.
+Terms
+Privacy (Updated 02/2024)
+02/2024
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on LinkedIn
+GitHub on Instagram
+GitHub on YouTube
+GitHub on X
+GitHub on TikTok
+GitHub on Twitch
+GitHub’s organization on GitHub
+ English 

@@ -1,0 +1,53 @@
+Home | About HASHBLs | About the EBL
+
+A Technology Incubator
+
+
+
+What's New
+About Us
+Contribute!
+
+8 June 2020
+
+Updates and bug fixes to the website. A link to an outdated version of the HASHBL plugin for earlier versions of Spamassassin has been removed, and the configuration options to enable EBL use in SpamAssassin have been added.
+
+15 November 2018
+
+SpamAssassin 3.4.2 has added support for HASHBLs through its Mail::SpamAssassin::Plugin::HashBL plugin. To use the EBL with SpamAssassin 2.3.2 and later versions, you simply enable this plugin in your spamAssassin configuration. The SpamAssassin milter remains available for those using earlier versions of SpamAssassin.
+
+26 March 2018
+
+The EBL has officially left beta and is now in production. Query volumes for the past three months have averaged between 200 and 350 million per day, a tenfold increase since last fall.
+
+The nameservers that handle the public EBL zone ebl.msbl.org have been changed to dedicated nameservers, due to the increase in query numbers. The new nameservers are unicast, not multicast, so response times will be somewhat slower than was previously the case, especially outside of North America and Europe. CloudNS is also blocking traffic from some locations that were sending extremely high volumes of inquiries, as we cannot afford to continue to serve sites that send high volumes of traffic from our free public mirrors.
+
+High volume users such as ISPs should contact our reseller, SecurityZones, and arrange for commercial access to the EBL. Some educational and non-profit users will qualify for discounted or free access.
+
+12 February 2018
+
+Support for the EBL is now available through the open-source Fuglu and Postomaat tools. Fuglu is an email scanning daemon: it is used to integrate anti-malware and anti-spam checkers into the Postfix during the SMTP dialog. Postomaat is a lightweight Postfix policy daemon. For more information, check the Fuglu.
+
+12 February 2018
+
+Support for the EBL is now available on the open-source Fuglu and Postomaat. Fuglu is an email scanning daemon: it is used to integrate anti-malware and anti-spam checkers into the Postfix during the SMTP dialog. Postomaat is a lightweight Postfix policy daemon. For more information, check the Fuglu.
+
+30 June 2017
+
+EXIM support for the EBL is now available on Github. See EBL Implementation for more information.
+
+27 June 2017
+
+The Email Blocklist (EBL) has entered second-stage beta testing.
+
+Several MTAs and spam filters now have beta support the EBL. Descriptions and links are available on the EBL Tools page.
+
+19 October 2016
+
+The first project of the MSBL, the Email Blocklist (EBL), has entered beta testing.
+
+The EBL contains cryptographic hashes of email addresses that appear in spam emails so that spam recipients can contact the spammer. Most listed email addresses are at large free webmail sites, and were originally spotted in the Reply-to headers or messsage bodies of "Nigerian" 419 Advance Fee Fraud spam or other types of spam that use similar techniques.
+
+For more information, see EBL.
+
+©2017-2018 by the Missed Spam Blocklists (msbl.org). All rights reserved.

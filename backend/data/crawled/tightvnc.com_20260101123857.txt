@@ -1,0 +1,21 @@
+TightVNC: VNC-Compatible Free Remote Desktop Software TightVNC Software Free, Lightweight, Fast and Reliable Remote Desktop Software Featured: Get MightyViewer! TightVNC: Home News Download Now! Change Log Report Bugs F.A.Q. Licensing / SDK: Products & SDKs .NET Viewer SDK Server for Windows Server for Unix/Linux Server for macOS Information: Documentation Mailing Lists Privacy Policy Historical Products: TightVNC v1.3 (old) TightVNC Java Viewer RFB Player (Java) Tight Decoder (src) VNC Reflector (Unix) Feedback: Contact Us What is TightVNC? TightVNC is a free and Open Source remote desktop software that lets you access and control a
+    computer over the network. With its intuitive interface, you can interact with the remote
+    screen as if you were sitting in front of it. You can open files, launch applications, and
+    perform other actions on the remote desktop almost as if you were physically there. Get It Now! Get your free copy of TightVNC! Get Remote Ripple ,
+          our modern VNC client for Windows, Mac, iOS and Android
+            ( now free as well ). More Software by TightVNC Authors MightyViewer ,
+        a VNC Monitoring Tool for Windows – download before January 1, 2026, ahead of upcoming pricing and licensing changes . Software and SDKs for Commercial Developers Try .NET Viewer SDK – integrate TightVNC Viewer in your .NET software! Source Code and SDKs – TightVNC server and viewer components for various systems and platforms. Selected News December 24, 2025 – MightyViewer 1.4.12 – Final Chance for High-Volume Licenses We are proud to announce the release of MightyViewer version 1.4.12. This update introduces a new
+    full-screen Monitoring mode and Dark Mode, and includes additional usability improvements and bug fixes. Important: MightyViewer prices will increase on January 1, 2026.
+    In addition, the licensing model will change: Site License and Unlimited License will be discontinued.
+    Purchasing before these changes allows you to save hundreds or even thousands of dollars if you require more than a few installations.
+    Review current terms and purchase before the change at mightyviewer.com . August 15, 2024 – Remote Ripple for Windows 1.2.0 Is Out We're excited to announce a major update to Remote Ripple for Windows, our new generation free
+    VNC viewer. Version 1.2.0 introduces a redesigned user interface aligned with MightyViewer ,
+    multi-monitor support, and new desktop scaling options. The app can now remember up to 100
+    connections, save VNC passwords, and offers improved error handling for smoother
+    troubleshooting. Please read the full
+    announcement and try out the new version ! August 14, 2024 – TightVNC for Windows 2.8.85 Released We've released a minor update to TightVNC for Windows, addressing connection issues in
+    Windows XP that were introduced in the previous version. If you experience problems with
+    version 2.8.84 under Windows XP, upgrade to this latest version . March 15, 2022 – Remote Core SDK (.NET Viewer) v2022.1.1: Supporting .NET 5.0 and 6.0 Now, in the SDK, .NET 5.0 and .NET 6.0 are supported for the Core component, WPF and WinForms.
+    Also, we've added the WPF FileTransferControl to easily implement file transfer functionality in a WPF application,
+    and made a few breaking changes in WPF RemoteDesktopControl and Core extensions. Request a trial version and see licensing options on the Remote Core SDK new website . Read all news Privacy Policy Copyright © 2006–2023 GlavSoft LLC We use cookies to enhance your site experience and for analytical purposes, as explained in our Privacy policy .
+            If you continue to use the site, please consent to the use of cookies. Accept and Close

@@ -1,0 +1,152 @@
+SOLUTIONS 
+RESOURCES 
+FEATURES
+PRICING
+DEMO
+LOGIN
+Get Started
+Learn More 🚀 Beginners Guide To Aimtell And Web Push →
+Re-engage Your Visitors
+
+A new way to acquire, engage, monetize and retain website visitors and subscribers.
+
+START FREE TRIAL
+Trusted by 15,000+ Brands
+Re-Engage & Convert Your Website Visitors
+Strengthen your messaging and monetization strategies with hyper-targeted, personalized Push Notifications
+PERSONALIZATION
+Re-Engage Your Visitors with Personalized Content
+Send tailored Push Notifications to your website visitors with highly personalized content
+SINGLE OPT-IN
+Gain Subscribers with a Single Click
+Visitors can subscribe to your website with just one click, without submitting any information, emails, or forms
+AUTOMATION
+Automate Your User Journey
+Send trigger-based Push Notifications with relevant content, sent when it matters most
+How It Works
+Drive visitors back to your site with targeted website push notifications
+
+1. EASY INSTALLATION
+ 
+Simply paste the JavaScript tracking code, or install the Aimtell App or Plugin to start sending notifications within minutes
+  
+
+2. ACQUIRE SUBSCRIBERS
+ 
+Gain new Aimtell subscribers in just one click. Leverage powerful built-in lead enrichment data to group them into custom segments
+
+
+3. ENGAGE SUBSCRIBERS
+ 
+Schedule, automate or even use the robust Aimtell API delivered instantly to your targeted segment of Aimtell subscribers
+
+Powerful Segmentation Abilities
+Send hyper-targeted Push Notifications to your target audiences
+Pageviews
+Automatically logs each pageview on your site by your Aimtell subscribers.
+Geolocation
+Automatically stores and updates the Aimtell subscriber's geolocation when they visit your site. Includes country, state/region and city.
+Device Information
+Automatically records browser and device information of Aimtell subscribers when they visit your site. Includes device type(e.g. mobile vs desktop), operating system and browser type.
+Custom Attributes
+Track any attribute (e.g. name, username or age) automatically through Aimtell partner apps/plugins or manually with the Aimtell Javascript API.
+Custom Events
+Track any event (e.g. item purchased or form completed) automatically through Aimtell partner apps/plugins or manually with the Aimtell Javascript API.
+Additional Features You'll Love
+Scheduled Push Notifications
+Schedule your Push Notifications to go out immediately or send them automatically on a specified time/date.
+Automated Push Notifications
+Set your campaigns to automatically send Push Notifications out after a pre-defined event occurs.
+Dynamic Push Notifications
+Create custom-tailored Push Notifications based on user attributes.
+Conversion Tracking
+View detailed Aimtell campaign reports - including send volume, click-through rates and custom goals/conversions.
+Large Image Support
+Put large images in your Push Notifications to dramatically boost click throughs.
+Customizable Opt In
+Give your audience a reason to subscribe to Push Notifications. Control Aimtell opt-in prompts on a page-by-page basis.
+Timezone Delivery
+Boost engagement by having your Push Notifications deliver based on the subscribers's timezone.
+Full API
+ 
+Send Push Notifications programmatically, check campaign results, add user attributes and more.
+SEE MORE FEATURES
+Marketers Love Aimtell
+Hear what they have to say
+
+
+“Aimtell’s segmentation is really amazing.”
+ 
+Neil Patel
+Entrepreneur, NeilPatel.com
+
+
+“The software is really impressive and easy to use. Kudos!”
+ 
+Mckane Davis
+President, Scrapbook.com
+
+
+“Wow, where do I start? If I could leave 6 stars I would.”
+ 
+Candice Galek
+CEO, BikiniLuxe.com
+Learn How Aimtell Can Fit Your Needs
+Explore ways to use Aimtell in your vertical
+
+FOR BLOGS
+Get more reads, views and engagement
+LEARN MORE
+
+FOR ECOMMERCE
+Increase your click rates, engagement and sales
+LEARN MORE
+
+FOR SAAS
+Announce new features and increase user engagement
+LEARN MORE
+
+FOR AGENCIES
+Add more value to your agency and attract more clients
+LEARN MORE
+Supported Browsers
+Supported on every web push enabled browser, including:
+
+Safari (Desktop)
+
+Chrome (Desktop & Mobile)
+
+Firefox (Desktop & Mobile)
+
+Opera (Desktop & Mobile)
+
+Edge (Desktop & Mobile)
+
+GET STARTED FREE
+Begin sending Push Notifications within minutes
+Start your free 14-day trial
+START FREE TRIAL
+ Serious about 
+security & privacy
+ 
+Your subscribers
+, your data
+START FREE TRIAL
+Site Map
+Features
+Pricing
+Blog
+Login
+Support
+Contact Us
+Privacy Policy
+Terms & Conditions
+Status Page
+Dashboard Docs
+Schedule Demo
+API Docs
+Subscribe To Newsletter:
+SUBMIT
+Find Us Online:
+ 
+ 

@@ -1,0 +1,464 @@
+Skip to Main Content
+Tech Talks Work at Indeed
+Normalized Entropy or Apply Rate? Evaluation Metrics for Online Modeling Experiments
+
+Posted on November 11, 2025 by Megan Chen
+
+Introduction
+
+At Indeed, our mission is to help people get jobs. We connect job seekers with their next career opportunities and assist employers in finding the ideal candidates. This makes matching a fundamental problem in the products we develop. 
+
+The Ranking Models team is responsible for building Machine Learning models that drive matching between job seekers and employers. These models generate predictions that are used in the re-ranking phase of the matching pipeline serving three main use cases: ranking, bid-scaling, and score-thresholding.
+
+ 
+
+The Problem
+
+Teams within Ranking Models have been using varying decision-making frameworks for online experiments, leading to some inconsistencies in determining model rollout – some teams prioritized model performance metrics, while others focused on product metrics. 
+
+This divergence led to a critical question: Should model performance metrics or product metrics be the primary metric for success? All teams provided valid justifications for their current choices. So we decided to study this question more comprehensively.
+
+To find an answer, we must first address two preliminary questions:
+
+How well does the optimization of individual models align with business goals?
+What metrics are important for modeling experiments?
+
+🍰 We developed a parallel storyline of a dessert shop that hopefully provides more intuitions to the discussion: A dessert shop has recently been opened. It specializes in strawberry shortcakes. We are part of the team that’s responsible for strawberry purchases.
+
+ 
+
+Preliminary Questions
+How well does the optimization of individual models align with business goals?
+
+🍰 How much do investments in strawberries contribute to the dessert shop’s business goals?
+
+To begin, we will review how individual models are used within our systems and define how optimizing these models relates to the optimization of their respective components. Our goal is to assess the alignment between individual model optimization and the overarching business objectives. 
+
+Ranking
+
+Predicted scores for ranking targets are used to calculate utility scores for re-ranking. These targets are trained to optimize binary classification tasks. As a result, optimization of individual targets may not fully align with the optimization of the utility score [1]. The performance gain from individual targets may be diluted or omitted when used in the production system.
+
+Further, the definition of utility may not always align with the business goals. For example, utility was once defined as total expected positive application outcomes for invite-to-apply emails while the product goal was to deliver more hires (which is a subset of positive application outcomes). Such misalignment further complicates translating performance gains from individual targets towards the business goals.
+
+In summary, optimization of ranking models is partially aligned with our business goals.
+
+Bid-scaling
+
+Predicted scores for bid-scaling targets determine the scaled bids: pacing bids are multiplied by the predicted scores to calculate the scaled bids. In some cases, additional business logic may be applied in the bid-scaling process. Such logic dilutes the impact of these models.
+
+Scaled bids serve multiple functions in our system. 
+
+First, similar to ranking targets, the scaled bids are used to calculate utility scores for re-ranking. Therefore, for the same reason, the optimization of individual bid-scaling targets may not fully align with the optimization of the utility score.
+
+Additionally, the scaled bids may be used to determine the charging price and in budget pacing algorithms. Ultimately, performance changes in individual bid-scaling targets could impact budget depletion and short-term revenue.
+
+In summary, optimization of bid-scaling models is partially aligned with our business goals.
+
+Score-thresholding
+
+Predicted scores for score-thresholding targets are used as filters within the matching pipeline. The matched candidates with scores that fall outside of the pre-determined threshold are filtered out. Similarly, these targets are trained to optimize binary classification tasks. As a result, the optimization of individual targets aligns fairly well with their usage.
+
+In some cases, however, additional business logic may be applied during the thresholding process (e.g., dynamic thresholding), which may dilute the impact from score-thresholding models. 
+
+Further, the target definition may not always align with the business goals. For example, p(Job Seeker Positive Response|Job Seeker Response) model optimizes for positive interactions from job seekers. It may not be the most effective lever to drive job-to-profile relevance. Conversely, p(Bad Match|Send) model optimizes for identifying “bad matches” based on job-to-profile relevance labeling, and it could be an effective lever to drive more relevant matches which was once a key focus for recommendation products.
+
+In summary, optimization of score-thresholding models could be well aligned or partially aligned with our business goals.
+
+What metrics are important for modeling experiments?
+
+🍰 How do we assess a new strawberry supplier? 
+
+Let’s explore key metrics for evaluating online modeling experiments. Metrics are grouped into three categories: 
+
+Model Performance: measures the performance of a ML model across various tasks 
+Product: measures user interactions or business performance
+Overall Ranking Performance: measures the performance of a system on the ranking task
+
+(You may find the mathematical definitions of model performance metrics in the Appendix.)
+
+Normalized Entropy
+
+Model Performance
+
+Normalized Entropy (NE) measures the goodness of prediction for a binary classifier. In addition to predictive performance, it implicitly reflects calibration [2].
+
+NE in isolation may not be informative enough to estimate predictive performance. For example, if a model predicts twice the value and we apply a global multiplier of 0.5 for calibration, the resulting NE will improve, although the predictive performance remains unchanged [3].
+
+Further, when measured online, we can only calculate NE based on the matches delivered or shown to the users. It may not align with the matches the model was scored on in the re-ranking stage.
+
+ROC-AUC
+
+Model Performance
+
+ROC-AUC is a good indicator of the predictive performance for a binary classifier. It’s a reliable measure for evaluating ranking quality without taking into account calibration [3].
+
+However, as calibration is not being accounted for by ROC-AUC, we may overlook the over- or under-prediction issues when measuring model performance solely with ROC-AUC. A model that is poorly fitted may overestimate or underestimate predictions, yet still demonstrate good discrimination power. Conversely, a well-fitted model might show poor discrimination if the probabilities for presence are only slightly higher than for absence [2].
+
+Similar to NE, when measured online, we can only calculate the ROC-AUC based on the matches delivered or shown to the users.
+
+nDCG
+
+Model Performance Overall Ranking Performance
+
+nDCG measures ranking quality by accounting for the positions of relevant items. It optimizes for ranking more relevant items at higher positions. It’s a common performance metric to evaluate ranking algorithms [2]. 
+
+nDCG is normally calculated using a list of items sorted by rank scores (e.g., blended utility scores). Relevance labels could be defined using various approaches, e.g., offline relevance labeling, user funnel engagement signals, etc. Note that when we use offline labelings to define relevance labels, we can additionally measure nDCG on matches in the re-ranked list that were not delivered or shown to the users.
+
+When model performance improves against its objective function, nDCG may or may not improve. There are a few scenarios where we may observe discrepancies: 
+
+Mismatch between model targets and relevance label (e.g., model optimizes for job applications while relevance label is based on job-to-profile fit)
+Diluted impact due to system design
+Model performance change is inconsistent across segments
+Avg-Pred-to-Avg-Label
+
+Model Performance
+
+Avg-Pred-to-Avg-Label measures the calibration performance for a binary classifier by comparing the average predicted score to average labels, where the ideal value is 1. It provides insight into whether the mis-calibration is due to over- (when above 1) or under-prediction (when below 1). 
+
+The calibration error is measured in aggregate, which implies that the errors presented in a particular score range may be canceled out when errors are aggregated across score ranges. 
+
+The error is normalized against the baseline class probabilities, which allows us to infer the degree of mis-calibration in a relative scale (e.g., 20% over-prediction against the average label).
+
+Calibration performance directly impacts Avg-Pred-to-Avg-Label. Predictive performance alone won’t improve it.
+
+Average/Expected Calibration Error
+
+Model Performance
+
+Calibration Error is an alternative measure for calibration performance. It measures the reliability of the confidence of the score predictions. Intuitively, for class predictions, calibration means that if a model assigns a class with 90% probability, that class should appear 90% of the time. 
+
+Average Calibration Error (ACE) and Expected Calibration Error (ECE) capture the difference between the average prediction and the average label across different score bins. ACE calculates the simple average of the errors of individual score bins, while ECE calculates the weighted average of the errors weighted by the number of predictions in the score bins. ACE could over-weight bins with only a few predictions.
+
+Both metrics measure the absolute value of the errors, and the errors are captured on a more granular level compared to Avg-Pred-to-Avg-Label. Conversely, it could be difficult to interpret over- or under-prediction issues using the absolute value. Also, these metrics are not normalized against the baseline class probabilities.
+
+Similar to Avg-Pred-to-Avg-Label, calibration performance directly impacts Calibration Error. Predictive performance alone won’t improve it.
+
+Job seeker positive engagement metrics
+
+Product
+
+Job seeker positive engagement metrics capture job seekers’ interactions with our products for the interactions that we generally consider to be implicitly positive, for example, clicking on a job post, submitting applications. The implicitness implies potential misalignments with users’ true preferences. For example, job seekers may click on a job when they see a novel job title.
+
+When model performance improves against its objective function, job seeker positive engagement metrics may or may not improve. There are a few scenarios where we may observe discrepancies:
+
+Misalignment between model targets and engagement metrics (e.g., ranking model optimized for application outcomes which negatively correlates with job seeker engagements)
+Diluted impact due to system design
+Model improvement in the “less impactful” region (e.g., improvement on the ROC curve far from thresholding region)
+Outcome metrics
+
+Product
+
+Outcome metrics measure the (expected) outcomes of job applications. The outcomes could be captured by employer interactions (e.g., employers’ feedback on the job applications, follow-ups with the candidates), survey responses (e.g., hires), or model predictions (e.g., expected hires model). 
+
+Employers’ feedback can be either implicit or explicit. When it is implicit, it again leaves room for possible misalignment with true preferences – for example, we’ve observed spammy employers who aggressively reach out to candidates regardless of their fit to the position. 
+
+Additionally, there are potential observability issues for outcome metrics when they are based on user interactions – not all post-apply interactions happen on Indeed, which could lead to two issues: bias (e.g., engagement confounded) and sparseness. 
+
+When model performance improves against its objective function, outcome metrics may or may not improve. There are a few scenarios where we may observe discrepancies: 
+
+Misalignment between model targets and product goal (e.g., one of the ranking model optimized for application outcomes while product specifically aims to deliver more hires)
+Diluted impact due to system design
+Model performance change is inconsistent across segments (e.g., the model improved mostly in identifying the most preferred jobs, while not improving in differentiating the more preferred from the less preferred jobs, resulting in popular jobs being crowded out.)
+User-provided relevance metrics
+
+Product
+
+User-provided relevance metrics capture match relevance based on user interactions on components that explicitly ask for feedback on relevance, for example, relevance ratings on invite-to-apply emails, dislikes on Homepage and Search.
+
+User-provided relevance metrics often suffer from observability issues as well – feedback are optional in most scenarios and therefore sparseness and potential biases are two major drawbacks. 
+
+When model performance improves against its objective function, user-provided relevance metrics may or may not improve. For example, we may observe discrepancy when there’s misalignment between model targets and relevance metrics.
+
+Labeling-based relevance metrics
+
+Product Overall Ranking Performance
+
+Labeling-based relevance metrics measure match relevance through a systematic labeling process. The labeling process may follow rule-based heuristics or leverage ML-based models.
+
+The Relevance team at Indeed has developed a few match relevance metrics:
+
+LLM-based labels: match quality labels generated by model-based (LLM) processes.
+Rule-based labels: match quality labels generated by rule-based processes.
+
+Similar to nDCG, we may also use labeling-based relevance metrics to assess overall ranking performance, e.g., GoodMatch rate@k, given the blended utility ranked lists.
+
+When model performance improves against its objective function, labeling-based relevance metrics may or may not improve. We may observe discrepancies when there’s misalignment between model targets and relevance metrics.
+
+Revenue
+
+Product
+
+Revenue measures advertisers’ spending on sponsored ads. The spending could be triggered by different user actions depending on the pricing models, e.g., clicks, applies, etc.
+
+Short-term revenue change is often driven by bidding and budget pacing algorithms, which ultimately influence the delivery and budget depletion. Long-term revenue change is additionally driven by user satisfaction and retention.
+
+When model performance improves against its objective function, revenue may or may not improve.
+
+For short-term revenue, bid-scaling models could impact delivery and ultimately budget depletion. However, the effect could be diluted due to system design, for example, when objectives for monetization have a trivial weight in the re-ranking utility formula, improvement to bid-scaling models may not have a meaningful impact on revenue..
+For long-term revenue, we expect directionally positive correlation, though discrepancies could happen, e.g., when there’s misalignment between model targets and relevance, when impact is diluted due to system design.
+
+ 
+
+Evaluation Metrics for Online Modeling Experiments – Our Thoughts
+
+🍰 Purchasing higher-quality, tastier strawberries may not always lead to more sales or happier customers. Consider a few scenarios:
+
+The dessert shop started to develop a new series of core products featuring chocolates as the main ingredient. It becomes more important to find strawberries that offer a good balance in taste and texture with the chocolate.
+The dessert shop started to develop a new series of fruit cakes. Strawberries are now only one of many fruits that are used.
+There’s a recent trend in gelato cakes. The dessert shops decided to introduce a few gelato cakes that use much less strawberries in them. However, gelato hype may go away, and strawberry shortcake has always been our star product.
+The dessert shop moved to a location which it’s much harder to find, losing significant regular customers.
+Product Metrics vs. Model Performance Metrics
+
+ Top recommendation: Improvement over product metrics and guardrail on individual model performance metrics.
+
+As previously discussed, optimizing individual models often doesn’t directly translate to achieving business goals, and the relationship between the two can be complex. Therefore, making investment decisions based solely on improvements in model performance are likely ineffective.
+
+When model targets and business goals are misaligned, it’s challenging to derive product impact from model performance impact. Making decisions based on product metric improvements ensures the impact is realized. 
+When the model’s contribution is diluted due to system design, it prompts investment in bigger bets or alternatively in components that allow incremental impact to be realized more effectively. 
+
+ Secondary recommendation: Improvement over either product metrics or overall ranking performance metrics.
+
+Although optimizing individual models doesn’t always directly meet business goals, enhancing overall ranking performance through metrics like nDCG@k aligns better with business objectives. This approach also helps mitigate downstream dilution or biases, allowing us to concentrate on improving re-ranking performance more effectively. That said, when the downstream dilution is by design, we could be making ineffective investment decisions if simply ignoring their impact. 
+
+This approach may also be valuable when the company temporarily focuses on short-term business goals. It allows ranking to be less distracted and more focused on delivering high quality matches when products take temporary detours.
+
+Among Product Metrics
+
+Product metrics for experiment decision making should ultimately be driven by business goals and product strategy. We want to share a few thoughts on the usage of different types of product metrics:
+
+User engagement metrics are relatively easy to move in short-term experiments. They are often a fair proxy for positive user feedback. However, we shall be mindful that they could have an ambiguous relationship with long-term business goals [4]. For example, clicks or applications are often considered as implicit positive feedback. However, it’s not very costly for job seekers to explore or even apply to jobs that they are not a great fit for. At the same time, exploring or applying to more jobs could be driven by bad user experiences (e.g., when they do not get satisfactory outcomes so far).
+
+Relevance metrics, conversely, generally align well with long-term business goals [4]. Nevertheless, there are a few drawbacks: 
+
+User-based relevance metrics could be hard to collect and measure in short-term online experiments.
+Heuristic-based metrics may not have great accuracy.
+Model-based metrics could be hard to explain and may carry inherent biases that are hard to detect.
+
+Therefore, we may consider leveraging a combination of user engagement metrics and relevance metrics to achieve a good balance in business goal alignment, observability, and interpretability.
+
+Lastly, revenue is a key performance indicator for the business in the long term. However, short-term revenue may have an ambiguous relationship with long-term business goals as well [4]. We may drive more clicks or applications to increase spending in the short term, but if we are not bringing satisfactory outcomes to our users, they may not continue to use our product in the future. Hence, we recommend using revenue as a success metric only when we are improving components within the bidding ecosystem, where there are short-term objectives defined for the bidding algorithms to achieve. In all other cases, we may keep revenue as a monitoring metric to prevent unintended short-term harms.  
+
+Among Model Performance Metrics
+
+We recommend setting guardrails on individual model performance with Normalize Entropy — we don’t want to degrade either predictive performance or score calibration. In addition, monitor ROC-AUC to help with deep-dive analysis and debugging.
+
+For bid-scaling models, we recommend we additionally monitor their calibration performance with Avg-Pred-to-Avg-Label. This allows for visibility into over- / under-predictions and scales the error to the baseline class probability.
+
+ 
+
+References
+Handling Online-Offline Discrepancy in Pinterest Ads Ranking System 
+Predictive Model Performance: Offline and Online Evaluations 
+Practical Lessons from Predicting Clicks on Ads at Facebook 
+Data-Driven Metric Development for Online Controlled Experiments: Seven Lessons Learned
+Measuring classifier performance: a coherent alternative to the area under the ROC curve 
+How Well do Offline Metrics Predict Online Performance of Product Ranking Models? – Amazon Science 
+Relaxed Softmax: Efficient Confidence Auto-Calibration for Safe Pedestrian Detection 
+
+ 
+
+Appendix
+
+Normalized Entropy
+
+Normalized Entropy (NE) is defined as the following [3]:
+
+where y_i is the true label, p_i is the predicted score, and p is the background average label.
+
+Note: NE normalizes cross-entropy loss with the entropy of the background probability (average label). It’s equivalent to 1- Relative Information Gain (RIG) [2]
+
+ROC-AUC
+
+The Receiver Operating Characteristic (ROC) curve plots true positive rate (TPR) against the false positive rate (FPR) at each threshold setting. ROC-AUC stands for Area under the ROC Curve.
+
+Note: Given its definition, ROC-AUC could also be interpreted as the probability that a randomly drawn member of class 0 will have a score lower than the score of a randomly drawn member of class 1 [5].
+
+nDCG
+
+nDCG stands for normalize Discounted Cumulative Gain. We define Discounted Cumulative Gain (DCG) at position k for a ranking list of query q_i as
+
+y_i,j is the relevance label for j-th ranked item in query q_i. The gain function could be defined in different forms (e.g., linear form, exponential form).
+
+Then, we normalize DCG to [0,1] for each query and define nDCG by summing the DCG values for all queries:
+
+maxDCG is the DCG value of the ranking list obtained by sorting items in descending order of relevance [6].
+
+Note: “query” may not be relevant in all search ranking tasks. Based on the product’s design, we may replace it with suitable groupings. For example, for the homepage, we may group on “feed.”
+
+Avg-Pred-to-Avg-Label 
+
+where y_i is the true label, p_i is the predicted score.
+
+Note: The percentage change in this value may not be fully informative since the ideal value is 1. To use it for experimental measurements, we may consider taking the Abs(actual – 1) or establishing alternative decision boundaries. 
+
+Average/Expected Calibration Error 
+
+Average Calibration Error and Expected Calibration Error are defined as the following [7]:
+
+where M+ is the number of non-empty bins, S_m is the average score for bin m, A_m is the average label for bin m.
+
+Note:
+
+Average calibration error is a simple average of calibration error across different score range bins
+Expected calibration error is the weighted average of calibration error across different score range bins, weighted by the number of examples in the bin
+The Agentic Identity Journey
+
+Posted on June 3, 2025 by Ken Adler
+
+Every so often, the web changes in a way that rewires how we live.
+
+In the early days, Web 1.0 let us read. It was a window into information — static pages, digital brochures, news sites. We were spectators peering into a new world.
+
+Then came Web 2.0, and we learned to write. We didn’t just consume the web; we co-authored it. Blogs, social networks, wikis — suddenly, the line between audience and creator blurred.
+
+Web 3.0 promised ownership. Decentralized networks and identities, blockchains, Bitcoin, NFTs.
+
+And now, it’s happening again.
+
+We’re moving into Web 4.0: the era of delegation.
+
+Where humans don’t just do things — they delegate them. To agents. To software that not only responds to commands, but anticipates needs and takes action.
+
+With hundreds of millions of monthly active users today, Indeed.com operates at an extraordinary scale.
+
+As we look toward an agentic future, we’re not just preparing for more human users — we’re preparing for a surge of autonomous actors, including malicious agents, interacting across our platform.
+
+It’s not just about knowing who or what is connecting — it’s about ensuring each has exactly the right level of access, no more and no less.
+
+Traditional identity and access management implementations weren’t designed for this level of scale and nuance. To succeed, we need an Agentic IAM architecture that delivers rich authorizations, enables trustworthy delegation, and provides verifiable auditing — all while preserving the speed, resilience, and privacy our users count on.
+
+This post is the first in a series… and is an invitation to follow that journey: the insights, the challenges, and the innovations shaping how we reimagine identity systems for the agentic era.
+
+Ken Adler is a Technical Fellow and Director of Identity and Access Management at Indeed.
+
+David McPike is a Principal Architect with Indeed’s Identity and Access Management team.
+
+For more posts on this topic, visit AgenticIAM.AI .
+
+Disclaimer: This post was crafted with a little help from AI (ChatGPT), but all insights and opinions are entirely my own. No AI was harmed in the making of this post.
+
+How Indeed Replaced Its CI Platform with Gitlab CI
+
+Posted on August 6, 2024 by Carl Myers
+
+Here at Indeed, our mission is to help people get jobs. Indeed is the #1 job site in the world with over 580M+ Job Seeker Profiles. For Indeed’s Engineering Platform teams, we have a slightly different motto: “We help people to help people get jobs”. As part of a data-driven engineering culture that has spent the better part of two decades always putting the job seeker first, we are responsible for building the tools that not only make this possible, but empower engineers to deliver positive outcomes to job seekers every day.
+
+Do you want to build a Jenkins snowman?
+
+Like many large technology companies, our Continuous Integration (CI) platform was built organically as the company scaled. In fact, Indeed was using Hudson, Jenkins’ direct predecessor, back in 2007. At the time, Indeed had fewer than 20 engineers. Today, through nearly two decades of growth, we have thousands of engineers. We built our platform on top of the de facto open source and industry standard solutions available at the time. As new technology became available, we made incremental improvements, switching to Jenkins after Oracle bought Sun and caused the Jenkins/Hudson fork around 2011. Another improvement allowed us to move most of our workloads to dynamic cloud worker nodes using AWS EC2. As we entered the Kubernetes age, however, the system architecture reached its limits. Hudson was first released in 2005. In 2005, J2SE 5.0 was less than a year old. Java with generics was novel! AWS was not a thing. Clouds were made of water vapor, not servers and software defined networking.
+
+Suffice it to say, Jenkins’ architecture was not created with the cloud in mind and could not have been, because the cloud did not yet exist. Jenkins operates by having a “controller” node, a single point of failure which runs critical parts of a pipeline and farms out certain steps to worker nodes (which can scale horizontally to some extent). Controllers are not only a single point of failure, they are also a manual scaling axis. If you have too many jobs to fit on one controller, you must partition your jobs across controllers manually. Cloudbees, the largest company offering Jenkins enterprise support, has some mitigations for this including the Cloudbees Jenkins Operations Center (CJOC), which allows you to manage your constellation of controllers from a single centralized place, but they remain challenging to run in a Kubernetes environment because each controller is a fragile single-point-of-failure. Activities like node rollouts or hardware failures cause downtime.
+
+Follow the yellow brick road
+
+Besides the technical limitations baked into Jenkins itself, our CI platform also had several problems of our own making. We used the Groovy Jenkins DSL to generate jobs from code which were checked into each repository – an industry best practice and the minimum necessary for sanity. However, these scripts were based upon shared code using a library model, rather than a template model. This means that a large portion of the job logic was essentially copy-pasted into each project repository and only called out to shared modules leveraging shared code.
+
+This pattern had several drawbacks. Each project had its own copy-pasted version of the job pipeline, which was copied from the skeleton for that project type at the time of creation and then rarely, if ever, updated. This resulted in hundreds of different versions of our various pipelines all existing at the same time and depending upon our shared library modules. That in turn made them extremely difficult to update without breaking pipelines. Testing changes against the wide variety of pipelines was an intractable challenge. Furthermore, modifying pipelines to adopt new features often required asking our users to manually update their own build code, since hundreds of divergent versions existed across the company, many with customization implemented by the teams.
+
+To understand why things were this way, it is important to understand that Indeed’s engineering culture includes a core value of flexibility. We accept that there are many valid ways to do something and different teams and products may have different optimal choices. Furthermore, being agile and data-driven often requires a degree of flexibility. We do not subscribe to a monorepo model and instead each project lives in its own repository (we have tens of thousands of repositories).
+
+This flexibility serves us well in many contexts but unfortunately, too much flexibility can be a double-edged sword. The inevitable result of this balance was that teams were spending an unacceptable portion of their time just addressing “platform asks”. This is our term for regular maintenance that would come up when we needed teams to modify their build, as we deployed new versions of our platform, moved resources to the cloud, or made other changes to our infrastructure. The flexibility we gave our users (other engineers at Indeed) meant we couldn’t easily make the changes for them. It was around the time that we were looking to solve the hardware scaling and resiliency problems of Jenkins that we realized the scope and depth of our self-imposed technical debt for our build platform code. The solution came from the Golden Path pattern. Using this pattern, we could give our users the flexibility to do things their own way while still making sure it was easy to choose the default way when possible, and modify only the parts of the path they really needed to while leveraging the shared path as much as possible for the rest.
+
+The CI Platform team at Indeed
+
+The CI Platform team at Indeed is not very large. Our team of ~11 engineers supports thousands of users, fielding support requests, performing upgrades and maintenance, and enabling follow-the-sun support for our global company. 
+
+Because our team not only supports Gitlab but also the entire CI platform including the artifact server, our shared build code, and multiple other custom components of our platform, we had our work cut out for us. We needed a plan to get where we were going that makes the most efficient use of the resources we have.
+
+A plan comes together
+
+After a careful design review with key stakeholders, we successfully built consensus for the new CI Platform. We would migrate the entire company from Jenkins to Gitlab CI. The primary reasons for choosing Gitlab CI were:
+
+Gitlab is a complete offering (already in use for SCM) which provides everything we need for CI
+Gitlab CI is designed for scalability and the cloud
+Gitlab CI enables us to write templates that extend other templates, which is compatible with our golden path strategy.
+
+By the time we officially announced that the Gitlab CI Platform would be generally available to users, we already had 23% of all builds happening in Gitlab CI from a combination of grassroots efforts and early adopters wanting to switch ASAP. The challenge of the migration, however, would be the long tail. Due to the number of custom builds in Jenkins, an automated migration tool would not work for the majority of teams. Most of the benefits of the new system would not come until the old system was at 0%. Only then could we turn off the hardware and save the Cloudbees license fee.
+
+Gitlab CI is Open Source Software
+
+Another factor that influenced our decision-making process and ended up being critical to our success was that Gitlab itself is Open Source software. As a proof of concept, we had a project to make a small change to Gitlab. We picked a few simple looking bugs (a Gitlab Geo issue, and a template parsing bug) we had noticed and submitted the fixes. Gitlab was massively supportive of this and helped us shepherd our changes through. This reduced uncertainty because we knew we could always fix our own issues if Gitlab was not able to prioritize fixing them for us.
+
+This foresight would become especially prescient the next year when we discovered an unexpected behavior in the CI job runner that caused an internal security issue due to Indeed’s unique access configuration. We were able to leverage our experience from contributing to Gitlab and compile and run a fork of the Gitlab CI job runner immediately to mitigate the issue. Meanwhile, we were able to submit the fork as an MR to Gitlab so they could understand the vulnerability and come up with an acceptable long-term fix. In the end we only had to run a fork for a few months, but that flexibility proved the value of choosing open source software.
+
+Feature parity and the benefits of starting over
+
+Though we support many different technologies at Indeed, the three most common languages are Java, Python, and Javascript. These language stacks are used to make libraries, deployables (i.e. web services or applications), and cron jobs (a process that runs at regular intervals, for example, to build a data set in our data lake). Each of these formed a matrix of project types (Java Library, Python Cronjob, Javascript Webapp, etc) for which we had a skeleton in Jenkins. Therefore, we had to produce a golden path template in Gitlab CI for each of these project types. Most users could use these recommended paths without change, but for those who did require customization, the golden path would still be a valuable starting point and enable them to change only what they needed, while still benefiting from centralized template updates in the future.
+
+We quickly realized that most users, even those with customizations, were happy to take the golden path and at least try it. If they missed their customizations, they could always add them later. This was a surprising result! We thought that teams who had invested in significant customization would be loath to give them up, but in the majority of cases teams just didn’t care about them anymore. This allowed us to migrate many projects very quickly – we could just drop the golden path (a small file about 6 lines long with includes) into their project, and they could take it from there.
+
+InnerSource to the rescue
+
+The CI Platform team also adopted a policy of “external contributions first” to encourage everyone in the company to participate. This is sometimes called InnerSource. We wrote tests and documentation to enable external contributions – contributions from outside our immediate team – so teams that wanted to write customizations could instead include them in the golden path behind a feature flag. This let them share their work with others and ensure we didn’t break them moving forward (because they became part of our codebase, not theirs). 
+
+This also had the benefit that particular teams who were blocked waiting for a feature they needed were empowered to work on the feature themselves. We could say “we plan to implement the feature in a few weeks, but if you need it earlier than that we are happy to accept a contribution”. In the end, many core features necessary for parity were developed in this manner, more quickly and better than our team had resources to do it. The migration would not have been a success without this model.
+
+Ahead of schedule and under budget
+
+Our Cloudbees license expired on April 1, 2024. This gave us an aggressive target to achieve the full migration. This was particularly aggressive considering at the time, 80% of all builds (60% of all projects) still used Jenkins for their CI. This meant over 2000 Jenkinsfiles would still need to be rewritten or replaced with our golden path templates. The wide consensus was that this date was extremely aggressive and an alternative (such as a smaller license engagement for the teams that still required Jenkins) would be needed. Nonetheless, we took the approach that one must aim for the stars to land on the moon. We made documentation and examples available, implemented features where possible, and helped our users contribute features where they were able.
+
+We started regular office hours, where anyone could come and ask questions or seek our help to migrate. We additionally prioritized support questions relating to migration ahead of almost everything else. Our team became Gitlab CI experts and shared that expertise inside our team and across the organization.
+
+Automatic migration for most projects was not possible, but we discovered it could work for a small subset of projects where customization was rare. We created a Sourcegraph batch change campaign to submit merge requests (MRs) to migrate hundreds of projects, and poked and prodded our users to accept these MRs. We took success stories from our users and shared them widely. As users contributed new features to our golden paths, we advertised that these features “came free” when you migrated to Gitlab CI. Some examples included built in security and compliance scanning, Slack notifications for CI builds, and integrations with other internal systems.
+
+We also conducted a campaign of aggressive “scream tests”. We automatically disabled Jenkins jobs that hadn’t run in a while or hadn’t succeeded in a while, telling users “if you need these, turn them back on, it is self-service”. This was a low-friction way to get some signal about what jobs were actually needed. We had thousands of jobs that hadn’t been run a single time since our last CI migration (which was Jenkins to Jenkins). This allowed us to know we could safely ignore almost all of them.
+
+In January 2024, we nudged our users by announcing that all Jenkins controllers would become read-only (no builds) unless an exception was explicitly requested. We had much better ownership information for controllers and they generally aligned with our organization’s structure, so it made sense to focus on controllers rather than jobs. The list of controllers was also a much more manageable list than the list of jobs. The only thing we asked of our users in order to obtain an exception was to find their controllers in a spreadsheet and put their contact information next to it. This enabled us to get a guaranteed up-to-date list of stakeholders we could follow up with as we sprinted to the finish line, but also enabled users to clearly say “we need these jobs, please don’t break them without talking to us”. At peak we had about 400 controllers, by January we had 220, but only 54 controllers required exceptions (several of them owned by us, to run our tests and canaries).
+
+With a list of ~50 teams to reach out to, we had an approachable list we could divide among our team and start doing the work of understanding where they were at. We spent January and February discovering that some teams planned to finish their migration without our help before February 28th, others were planning to deprecate their projects before then, and a very small number were very worried they wouldn’t make it.
+
+We were able to work with this smaller set of teams and provide them with “white-glove” service. We still explained that while we lacked the expertise necessary to do it for them, we could pair together with a subject matter expert from their team. For some projects we wrote and they reviewed, for others they wrote and we reviewed. In the end, all of our work paid off and we turned off Jenkins on the very day we had announced 8 months earlier.
+
+All’s well that ends well
+
+At peak, our Jenkins CI platform ran over 14,000 pipelines per day and serviced our thousands of projects. Today, our Gitlab CI platform has run over 40,000 pipelines in a single day and regularly runs over 25,000 per day. The incremental cost of each job of each pipeline is similar to Jenkins, but without the overhead of hardware to run the controllers. Additionally, these controllers served as single points of failure and scaling limiters that forced us to artificially divide our platform into segments. While an apples-to-apples comparison is difficult, we find that with this overhead gone our CI hardware costs are 10-20% lower. Additionally, the support burden of Gitlab CI is lower since the application automatically scales in the cloud, has cross-availability-zone resiliency, and the templating language has excellent public documentation available.
+
+A benefit just as important, if not moreso, is that now we are at over 70% adoption of our golden paths. This means that we can roll out an improvement and over 5000 projects at Indeed will benefit immediately with no action required on their part. This has enabled us to move some jobs to more cost-effective ARM64 instances, keep users’ build images updated more easily, and better manage other cost saving opportunities. Most importantly, our users are happier with the new platform.
+
+This post is long enough, so I will leave you with two of my favorite graphs of my entire career.
+
+Acknowledgements
+
+This migration would not have been possible without the tireless efforts of Tron Nedelea, Eddie Huang, Vivek Nynaru, Carlos Gonzalez, Lane Van Elderen, and the rest of the CI Platform team. The team also especially appreciates the leadership of Deepak Bitragunta, and Irina Tyree for helping secure buy-in, resources and company wide alignment throughout this long project. Finally, our thanks go out to everyone across Indeed who contributed code, feedback, bug reports, and helped migrate projects.
+
+1
+current
+2
+3
+Older»
+@IndeedEng Talks	»
+Indeed Open Source	»
+Indeed University	»
+Categories
+A/B Testing 6
+Agentic IAM 1
+Analytics 6
+Big Data 7
+Coaching 3
+Conference Participation 3
+CPU Throttling 2
+Data Science 14
+Engineering 34
+Engineering Culture 29
+Machine Learning 4
+Open Source 35
+Toggle More
+Archives
+November 2025 (1)
+June 2025 (1)
+August 2024 (1)
+July 2024 (1)
+January 2024 (1)
+April 2022 (2)
+January 2022 (1)
+June 2021 (1)
+March 2021 (1)
+February 2021 (1)
+December 2020 (1)
+November 2020 (1)
+Toggle More
+About Indeed Find Jobs Contact Indeed
+
+©2025 Indeed - Cookies, Privacy and Terms of Service
+
+Do Not Sell My Personal Information - Accessibility at Indeed

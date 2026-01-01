@@ -1,0 +1,32 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<ListBucketResult xmlns="http://doc.s3.amazonaws.com/2006-03-01">
+<Name>im-apps-privacysandbox-public</Name>
+<Prefix/>
+<Marker/>
+<IsTruncated>false</IsTruncated>
+<Contents>
+<Key>.well-known/</Key>
+<Generation>1706245464471220</Generation>
+<MetaGeneration>1</MetaGeneration>
+<LastModified>2024-01-26T05:04:24.472Z</LastModified>
+<ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+<Size>0</Size>
+</Contents>
+<Contents>
+<Key>.well-known/privacy-sandbox-attestations.json</Key>
+<Generation>1706245473407207</Generation>
+<MetaGeneration>1</MetaGeneration>
+<LastModified>2024-01-26T05:04:33.408Z</LastModified>
+<ETag>"41b067adca3809af9ab0a577215721e5"</ETag>
+<Size>1256</Size>
+</Contents>
+<Contents>
+<Key>privacy-sandbox-attestations.json</Key>
+<Generation>1706250099399599</Generation>
+<MetaGeneration>1</MetaGeneration>
+<LastModified>2024-01-26T06:21:39.400Z</LastModified>
+<ETag>"41b067adca3809af9ab0a577215721e5"</ETag>
+<Size>1256</Size>
+</Contents>
+</ListBucketResult>

@@ -1,0 +1,173 @@
+menu
+MENU
+search
+
+AI innovation begins with Micron
+
+EXPLORE MICRON AI
+
+AUTOMOTIVE
+
+Powering next-gen automotive intelligence
+Explore UFS 4.1
+
+DATA CENTER
+
+Micron helps set STAC-M3™ world records
+Read more
+
+AI
+
+Edge AI accelerates with Micron
+Join us at the edge
+
+AI
+
+Powering the AI data center revolution
+Learn how
+
+DATA CENTER SSD
+
+Three great drives. One solid family
+View Data Center SSDs
+
+MEMORY
+
+Micron samples first HBM4 to power AI platforms
+Read press release
+ LEARN MORE 
+Innovation makes new solutions possible
+
+Data center
+
+Choose the right data center memory and storage solutions and get control over the essential systems affecting your business.
+
+Learn more
+
+Client PC
+
+Micron’s flexible memory and storage powers PCs from thin and light notebooks that last all day on a single battery charge to powerful data-hungry workstations.
+
+Learn more
+
+Automotive
+
+For more than 30 years and trillions of miles, Micron has been committed to bringing high-performance memory and storage technology to the automotive industry.
+
+Learn more
+
+Mobile
+
+Mobile memory and storage accelerate AI-driven technologies that enable predictive, insightful and new experiences for end users.
+
+Learn more
+
+MARKET AND INDUSTRIES
+
+Memory and storage for industrial IoT solutions
+
+Micron engineers advanced memory and storage solutions designed to meet the dynamic demands of industrial IoT and aerospace systems. Our technologies provide exceptional performance, reliability, and longevity, ensuring high-quality applications with a zero-defect mindset.
+
+EXPLORE IOT SOLUTIONS
+Featured blogs
+
+AUTOMOTIVE
+
+Micron extends functional safety leadership from automotive to industrial markets
+
+Ignazio Martines | August 2025
+
+View industrial blog
+
+ARTIFICIAL INTELLIGENCE
+
+5 things you need to know about AI at the edge
+
+Micron Technology | August 2025
+
+View the AI blog
+
+SSD
+
+Micron G9 NAND-based SSDs set the pace for AI and cloud
+
+Alvaro Toledo | July 2025
+
+View the SSD blog
+
+COMMUNITY
+
+Back to school, forward with Micron!
+
+Dr. Kim Cherry Burnett | August 2025
+
+View community blog
+SEE ALL BLOGS
+Design tools
+
+Your single source for tools and resources needed to maximize Micron's products and solutions for your design needs.
+
+FBGA & part decoder
+DRAM power calculators
+
+NAND power calculator
+Simulation models
+Chipset compatibility guides
+SPD part number lookup
+Cross-reference tools
+
+UFSparm
+SSD firmware
+Software & drivers
+
+Storage Executive software
+Obsolete part catalogs
+VIEW ALL DESIGN TOOLS
+
+CAREERS
+
+Your future starts here
+
+At Micron, we foster a culture of inclusion and growth to bring out the best in each other. With global opportunities, team member development and career advancement, we invest in you. Help us drive tomorrow's technology to enrich life for all.
+
+Innovate with us
+
+U.S. EXPANSION
+
+Building memory manufacturing in the U.S.
+
+Micron’s memory fabs in Idaho, New York and Virgina will strengthen U.S. economic and national security and are expected to create approximately 90,000 direct and indirect jobs across the U.S. semiconductor supply chain.
+
+Learn about U.S. expansion
+
+Design tools
+
+Access our design tools and resources to test, build, and maintain high-performance solutions to support your design process.
+
+Visit design tools
+
+Search for, filter and download data sheets
+
+Get in-depth information about product features, specifications, functionality, and more.
+
+Search for data sheets
+Order a Micron sample
+
+Your online source for placing and tracking orders for Micron memory samples.
+
+Order samples
+
+Downloads and technical documentation
+
+Resources to help you design, test, build and optimize your innovative designs.
+
+Downloads and tech docs
+Products Markets & Industries Partners Sales & Support About Investor relations
+CONTACT US
+Legal Micron privacy notice Suppliers Terms and conditions of sale Careers Your privacy choices
+
+©2025 Micron Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All information is provided on an “AS IS” basis without warranties of any kind. Drawings may not be to scale. Micron, the Micron logo, and all other Micron trademarks are the property of Micron Technology, Inc. All other trademarks are the property of their respective owners.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. Privacy Notice | Website Terms of Use
+Accept All Reject Non-Necessary
+Manage Settings

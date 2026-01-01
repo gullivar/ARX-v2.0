@@ -1,0 +1,44 @@
+BBC Reporting API Endpoint
+--------------------------
+
+What is this?
+-------------
+An in-house BBC service which can receive standardised reports of errors or security policy violations on our websites from compliant Web Browsers. 
+For more details on supported report types, please see:  
+* https://developer.mozilla.org/en-US/docs/Web/API/Reporting_API
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Network_Error_Logging
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+* https://developer.mozilla.org/en-US/docs/Web/API/FeaturePolicy
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Permissions-Policy
+* https://web.dev/articles/vitals
+
+What is the data used for?
+--------------------------
+Primary uses are detecting/diagnosing:
+* Errors in serving web pages, such as in DNS, TCP, TLS or HTTP
+* Violations of security policies we put in place to restrict what our web pages can and cannot do
+Receiving reports allows us to fix breakages to services quickly and efficiently, without needing error reports from our audience.
+
+What data is captured/stored?
+-----------------------------
+In addition to the standard fields in Reporting API data, we capture and store a minimal amount of metadata to help us triage/fix problems.
+We actively try to capture/store as little personal information as possible, the specifics vary a little depending on the type of report/violation but typically include: 
+* The URL of the web page on/for which the error/violation occurred (so we know which web page(s) have the problem)
+* The "User Agent" (the name and version of the web browser, useful for diagnosing browser-specific problems)
+* The Country from which the request was made (useful for correlation with per-country problems/blocking)
+* The network/ISP (network AS) name and number (useful for diagnosing ISP-specific problems)
+* The client IP address *for Network Error Logging reports only* (as it's genuinely & directly useful for network-level problems)
+
+We process (to obtain an IANA country code, AS information and IP version) but do not store the client IP address (or even a truncated version of it) except, as noted above for Network Error Logging reports, as we don't have a practical need to do so. Client IP addresses stored in Network Error Logging reports are restricted to a very small subset of specifically-allowed BBC staff members who have a genuine business need to access it.  
+
+How is data stored and handled?
+--------------------
+Data is stored and handled in accordance with BBC standard practice, see https://www.bbc.co.uk/usingthebbc/privacy.
+
+How long is report data retained?
+---------------------------------
+Data is automatically deleted from the storage database after 90 days. There are no automated backups. 
+
+Who has access to the reported data?
+------------------------------------
+BBC staff only, the data is not public and is not shared with third parties.

@@ -1,0 +1,24 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<ListBucketResult xmlns="http://doc.s3.amazonaws.com/2006-03-01">
+<Name>t13-io-static</Name>
+<Prefix/>
+<Marker/>
+<IsTruncated>false</IsTruncated>
+<Contents>
+<Key>.well-known/</Key>
+<Generation>1716298022256936</Generation>
+<MetaGeneration>1</MetaGeneration>
+<LastModified>2024-05-21T13:27:02.302Z</LastModified>
+<ETag>"d41d8cd98f00b204e9800998ecf8427e"</ETag>
+<Size>0</Size>
+</Contents>
+<Contents>
+<Key>.well-known/privacy-sandbox-attestations.json</Key>
+<Generation>1716298030212898</Generation>
+<MetaGeneration>1</MetaGeneration>
+<LastModified>2024-05-21T13:27:10.250Z</LastModified>
+<ETag>"a295221bfb1dfa46e010c34119cb071f"</ETag>
+<Size>1241</Size>
+</Contents>
+</ListBucketResult>

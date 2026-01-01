@@ -1,0 +1,1 @@
+﻿ ns1.dnspro.com.br IP: 177.93.111.44 ns2.dnspro.com.br IP: 186.227.198.145 ns3.dnspro.com.br IP: 51.81.84.48 ns4.dnspro.com.br IP: 142.44.161.253

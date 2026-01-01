@@ -1,0 +1,3 @@
+400. That’s an error.
+
+Your client has issued a malformed or illegal request. That’s all we know.

@@ -1,0 +1,471 @@
+CLOUDFLARE
+Workers Platform
+Products
+Solutions
+Pricing
+Documentation
+Blog
+Login
+Start building
+Everything we learned from powering 20% of the Internet—yours by default
+Cloudflare is your AI Cloud with compute, AI inference, and storage — letting you ship applications instead of managing infrastructure.
+Start building
+The cloud that works for developers, not the other way around 
+
+Deploy serverless functions, frontends, containers, and databases to 330+ cities with one command.
+
+AI Agents
+WebRTC
+Platforms
+Multiplayer
+Data Platform
+Region: Earth 
+
+Our smart network positions your workloads optimally — close to users, close to data.
+
+Run everywhere
+
+Run code in 330+ cities around the world, within 50ms of 95% of the world's population.
+
+Run anywhere
+
+Run code near the user, database, or near your APIs. Our smart network will schedule your requests to optimize for the best latency.
+
+Run at massive scale
+
+Run on Cloudflare's infrastructure, supporting 449 Tbps of network capacity, serving over 81 million HTTP requests per second.
+
+Cloudflare powers
+1 in 5 sites on the Internet 
+
+Trusted by the teams you trust. And thousands more...
+
+Anthropic
+Go from
+in minutes
+
+No DevOps. Minimal cold starts. No surprise bills.
+
+From first line to full scale
+
+Deploy working code in seconds or start from hundreds of templates — all built to scale.
+
+See templates
+PLAYER 1
+PLAYER 2
+multiplayer-cursors.tsx
+text-to-image.tsx
+hello-world.tsx
+import { routePartykitRequest, Server } from "partyserver";
+  
+import type { OutgoingMessage, Position } from "../shared";
+import type { Connection, ConnectionContext } from "partyserver";
+
+// This is the state that we'll store on each connection
+type ConnectionState = {
+  position: Position;
+};
+
+export class Globe extends Server {
+  onConnect(conn: Connection<ConnectionState>, ctx: ConnectionContext) {
+    // Whenever a fresh connection is made, we'll
+    // send the entire state to the new connection
+    
+    // First, let's set up the connection state
+    conn.setState({ position: { x: 0, y: 0 } });
+    
+    // Send current state to new connection
+    this.broadcast(JSON.stringify({
+      type: "user-joined",
+      id: conn.id,
+      position: conn.state.position
+    }));
+  }
+
+  onMessage(message: string, sender: Connection<ConnectionState>) {
+    const data = JSON.parse(message) as OutgoingMessage;
+    
+    if (data.type === "position-update") {
+      sender.setState({ position: data.position });
+      
+      // Broadcast position update to all other connections
+      this.broadcast(JSON.stringify({
+        type: "position-update",
+        id: sender.id,
+        position: data.position
+      }), [sender.id]);
+    }
+  }
+
+  onClose(connection: Connection<ConnectionState>) {
+    this.broadcast(JSON.stringify({
+      type: "user-left",
+      id: connection.id
+    }));
+  }
+}
+~/workspace/multiplayer-app git:(main)
+Deploy with one command
+Let it spike. We got you.
+
+Your application runs globally, handles millions of requests, and scales without you thinking about it.
+
+Pay only when your code runs 
+
+(Not to keep servers warm.)
+
+Wall Clock vs. CPU Time
+
+Never pay for idle time waiting for slow APIs, LLMs, or humans. Cloudflare charges only for compute, not wall time, even during long agent workflows or hibernating WebSockets.
+
+1ms
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+LLM Call 2500ms
+0.5ms
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+free
+API Call 300ms
+0.75ms
+Paid
+Free
+Free
+
+No credit card needed
+
+See more
+Workers
+Durable Objects
+R2
+Workers KV
+100,000
+
+/ daily requests
+
+1 million
+
+/ KV daily reads
+
+25
+
+/ AI daily requests
+
+10GB
+
+/ R2 Storage
+
+Paid
+
+Starts at $5/month
+
+See more
+Workers
+Durable Objects
+R2
+Workers KV
+$0.30
+
+/ million requests
+
+$0.02
+
+/ million CPU ms
+
+Why developers choose Cloudflare 
+
+Everything needed to build performant applications.
+
+Fighting infra with “cloud”
+
+"Egress costs just doubled this week — caching not working at edge. Can we fix this by EOD?"
+
+STATUS: UNRESOLVED
+
+2931 Open incidents
+
+2931 Open incidents
+
+P0
+
+High Latency!!!!!!
+
+~150–250ms RTT per request
+
+P0
+
+High Latency!!!!!!
+
+~150–250ms RTT per request
+
+P0
+
+High Latency!!!!!!
+
+~150–250ms RTT per request
+
+"Origin IP exposed, getting hit with direct DDoS traffic. Need to lock down ASAP."
+
+Bandwidth usage alert
+
+You have exceeded your bandwidth limit for the month.
+
+Bandwidth usage alert
+
+You have exceeded your bandwidth limit for the month.
+
+Summer Intern
+
+"I fixed the errors by pushing the env file to production."
+
+Shipping with
+Cloudflare
+Pushed
+new updates today
+Tailored to your working style 
+
+Always simple, fast, and reliable.
+
+Fits into your existing workflows 
+
+Git, GitHub Actions, VS Code, and any framework. No proprietary tools or vendor lock-in.
+
+Instant feedback loops
+
+Our smart network positions your workloads optimally — close to users, close to data.
+
+Observable by default
+
+Built-in logs, metrics, and tracing. Understand your application's performance without setting up monitoring infrastructure.
+
+Compatible with your stack
+
+Use the languages and frameworks you know — JS, TS, Python, Rust, React, and more. Cloudflare works with your existing databases, APIs, and services.
+
+/ide.tsx
+/avatar.svelte
+/func.py
+/api.js
+import { Code } from "@/components/shared/code-editor"
+import { Icon } from "@/components/ui"
+import { minDarkTheme } from "@/themes/min-dark"
+
+export const IDE = () => {
+  const [activeTab, setActiveTab] = useState(0)
+  const [isHovering, setIsHovering] = useState(false)
+
+  const tabs = [
+    { icon: "typescript", name: "multiplayer.ts", language: "typescript" },
+    { icon: "svelte", name: "profile.svelte", language: "svelte" },
+    { icon: "python", name: "function.py", language: "python" }
+  ]
+
+  return (
+    <div className="bg-background-100 mt-8 flex h-full w-full flex-col rounded-md border">
+      <div className="flex">
+        {tabs.map((tab, index) => (
+          <button
+            key={tab.name}
+            className="flex items-center gap-1.5 px-3 py-2 transition-colors"
+            onMouseEnter={() => {
+              setIsHovering(true)
+              setActiveTab(index)
+            }}
+          >
+            <Icon icon={tab.icon} className="size-4" />
+            {tab.name}
+          </button>
+        ))}
+      </div>
+      <div className="h-full w-full overflow-hidden">
+        <SyntaxHighlighter
+          language={activeTabData.language}
+          style={minDarkTheme}
+          showLineNumbers
+        >
+          {activeTabData.content}
+        </SyntaxHighlighter>
+      </div>
+    </div>
+  )
+}
+Build without boundaries
+
+Join thousands of developers who've eliminated infrastructure complexity and deployed globally with Cloudflare. Start building for free — no credit card required.
+
+Start building for free
+View docs
+No cold starts or region complexity
+Deploy to 330+ cities instantly
+Predictable pricing without surprises
+Battle-tested infrastructure powering millions
+No cold starts or region complexity
+Deploy to 330+ cities instantly
+Predictable pricing without surprises
+Battle-tested infrastructure powering millions
+No cold starts or region complexity
+Deploy to 330+ cities instantly
+Predictable pricing without surprises
+Battle-tested infrastructure powering millions
+No cold starts or region complexity
+Deploy to 330+ cities instantly
+Predictable pricing without surprises
+Battle-tested infrastructure powering millions
+CLOUDFLARE
+Workers Platform
+Getting Started
+Free Plans
+For Enterprises
+Compare Plans
+Domain Name Search
+Get a Recommendation
+Request a Demo
+Contact Sales
+Resources
+Documentation
+Learning Center
+Analyst Reports
+Cloudflare Radar
+Reference Architectures
+Case Studies
+Blog
+Solutions
+Connectivity Cloud
+SSE and SASE Services
+Application Services
+Network Services
+© 2025 Cloudflare, Inc.
+Privacy Policy, Terms of Service, GDPR

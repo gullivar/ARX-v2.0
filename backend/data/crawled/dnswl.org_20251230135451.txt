@@ -1,0 +1,125 @@
+Skip to content
+ 
+DNSWL.ORG
+
+E-Mail Reputation – Protect against false positives
+
+About
+Who are we?
+Mailing List
+IRC
+ 
+Am I Listed?
+ 
+How to use
+Who is using our data
+Security
+Report Spam
+ 
+How to subscribe
+ 
+Background
+Policy
+Privacy Policy
+Terms & Conditions
+Our special thanks go to…
+ 
+Self Service
+POSTS
+POSTED ON
+2017-12-11
+“Who am I”?
+
+When dealing with DNS-based white- and blacklists at significant volume, it is important to know which nameserver is actually being used – and it is often not trivial to identify this: The “inside” IP you see may be different from the IP(s) seen from the outside, or there may be several hops between the nameserver you are querying and the one seen from the Internet.
+
+Continue reading
+““Who am I”?”
+
+POSTED ON
+2017-10-07
+Whitelisting DKIM-signed domains
+
+(Update 2017-10-09 16:00 – added rspamd)
+
+At the M3AAWG meeting (see previous post) there was considerable interest in the proposal on domain-based whitelisting information. However there is no operational experience which would allow anyone to see how this would perform.
+
+Now you can test Continue reading
+“Whitelisting DKIM-signed domains”
+
+POSTED ON
+2017-10-05
+dnswl.org presented at M3AAWG in Toronto
+
+At the 41st M3AAWG meeting in Toronto, we got the opportunity to present the dnswl.org project to a wider community.
+
+The slides linked below were shown – please let us know if you have any questions or further input.
+
+M3AAWG Toronto Slides
+
+I hope we will be back for the M3AAWG meeting in Munich next year.
+
+POSTED ON
+2017-07-23
+Removal of workaround-file for Postfix < 2.8 from download (updated)
+
+dnswl.org will remove a workaround-file for Postfix < 2.8 from download on August 31st 2017.Continue reading
+“Removal of workaround-file for Postfix < 2.8 from download (updated)"
+
+POSTED ON
+2017-07-22
+How many legitimate mailservers are there?
+
+TL;DR: There are over 500’000 legitimate mailservers on the Internet. If you are not managing the IPs of your own mailservers at dnswl.org yet, you should do it!
+
+Continue reading
+“How many legitimate mailservers are there?”
+
+POSTED ON
+2017-04-21
+Do you manage the reputation of your IPs?
+
+TL;DR: Sign up to the dnswl.org Self Service and start managing the reputation of your IPs.
+
+Continue reading
+“Do you manage the reputation of your IPs?”
+
+POSTED ON
+2017-04-04
+Enforcement of dnswl.org access limits
+
+dnswl.org limits the use of the public nameserver infrastructure to those doing fewer than 100’000 lookups per 24 hours and to non-commercial use (see here for details).Continue reading
+“Enforcement of dnswl.org access limits”
+
+POSTED ON
+2016-03-25
+Subscription website moved into Self Service
+
+For historical reasons, the website to manage subscriptions to dnswl.org data was using a separate website (and “separate-everything”). Over the past months we worked to integrate this into the more generic Self Service.Continue reading
+“Subscription website moved into Self Service”
+
+POSTED ON
+2016-02-10
+1’000 Self Service users, 3’000 Change Requests
+
+Since the dnswl.org Self Service went live in mid December 2015, we got over 1’000 Self Service user signups, and these users created over 3’000 Change Requests. Of course we are happy about the great up-take of the Self Service in the community.
+
+Continue reading
+“1’000 Self Service users, 3’000 Change Requests”
+
+POSTED ON
+2016-01-27
+Users behind TOR abusing dnswl.org resources
+
+For years, an unknown number of users behind TOR exit nodes have been abusing dnswl.org resources. Apparently for every email they receive, they query dnswl.org via the web, using the search interface open to all users. This causes considerable load on our webservers, the database servers, and our network infrastructure, sometimes causing significant delays for legitimate users.
+
+Continue reading
+“Users behind TOR abusing dnswl.org resources”
+
+Posts pagination
+Page
+1 
+Page
+2
+Next page
+
+© dnswl.org

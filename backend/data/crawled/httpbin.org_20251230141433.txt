@@ -1,0 +1,42 @@
+httpbin.org
+ 0.9.2 
+[ Base URL: httpbin.org/ ]
+
+A simple HTTP Request & Response Service.
+
+Run locally: $ docker run -p 80:80 kennethreitz/httpbin
+
+the developer - Website
+Send email to the developer
+Schemes
+https
+HTTP Methods
+Testing different HTTP verbs
+Auth
+Auth methods
+Status codes
+Generates responses with given status code
+Request inspection
+Inspect the request data
+Response inspection
+Inspect the response data like caching and headers
+Response formats
+Returns responses in different data formats
+Dynamic data
+Generates random and dynamic data
+Cookies
+
+Creates, reads and deletes Cookies
+
+Images
+Returns different image formats
+Redirects
+Returns different redirect responses
+Anything
+Returns anything that is passed to request
+[Powered by Flasgger]
+
+Other Utilities
+HTML form that posts to /post /forms/post
+
+

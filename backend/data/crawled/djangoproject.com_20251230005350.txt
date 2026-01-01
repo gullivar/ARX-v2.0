@@ -1,0 +1,131 @@
+Skip to main content
+Django
+
+The web framework for perfectionists with deadlines.
+
+Main navigation
+OVERVIEW
+DOWNLOAD
+DOCUMENTATION
+NEWS
+CODE
+ISSUES
+COMMUNITY
+FOUNDATION
+♥ DONATE
+SEARCH
+Submit
+Toggle theme (current theme: auto)
+
+Django makes it easier to build better web apps more quickly and with less code.
+
+Get started with Django
+
+Help us reach our 2025 fundraising goal!
+
+Donate to the Django Software Foundation to fund Django's development, security, and community events!
+If you got value out of using Django this year, please consider making a donation ♥
+Donate today
+Meet Django
+
+Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.
+
+Ridiculously fast.
+
+Django was designed to help developers take applications from concept to completion as quickly as possible.
+
+Reassuringly secure.
+
+Django takes security seriously and helps developers avoid many common security mistakes.
+
+Exceedingly scalable.
+
+Some of the busiest sites on the web leverage Django’s ability to quickly and flexibly scale.
+
+Learn more about Django
+Join the Community
+Forum - Post a question
+Discord - Chat with us
+Additional Information
+Additional Information
+Download latest release: 6.0
+DJANGO DOCUMENTATION
+Support Django!
+Patryk Zawadzki donated to the Django Software Foundation to support Django development. Donate today!
+Latest news
+Hitting the Home Stretch: Help Us Reach the Django Software Foundation's Year-End Goal!
+
+As we wrap up another strong year for the Django community, we wanted to share an update and a thank you.
+
+Posted by Jeff Triplett on Dec. 18, 2025
+Introducing the 2026 DSF Board
+
+The Django Software Foundation Board met on December 11th for our final meeting of 2025. This post thanks those who have served the foundation, welcomes our newly elected directors, and announces our 2026 officers.
+
+Posted by Jeff Triplett on Dec. 18, 2025
+MORE NEWS
+New to Django?
+Installation guide
+Write your first Django app
+GETTING STARTED WITH DJANGO
+The power of Django
+Object-relational mapper
+Automatic admin interface
+Robust template system
+Quick internationalization
+EXPLORE MORE FEATURES
+Get involved
+Ticket system
+Report bugs and make feature requests
+Development dashboard
+see what's currently being worked on
+INSIDE THE DJANGO COMMUNITY
+Get Help
+Django Discord Server
+Join the Django Discord Community
+Official Django Forum
+Join the community on the Django Forum.
+The Django Software Foundation
+About the Foundation
+Our non-profit supports the project
+Support Django
+Your contribution makes Django stronger
+Contact the Django Software Foundation
+MORE ABOUT THE DSF
+Django Links
+Learn More
+About Django
+Getting Started with Django
+Team Organization
+Django Software Foundation
+Code of Conduct
+Diversity Statement
+Get Involved
+Join a Group
+Contribute to Django
+Submit a Bug
+Report a Security Issue
+Individual membership
+Get Help
+Getting Help FAQ
+Django Discord
+Official Django Forum
+Follow Us
+GitHub
+X
+Fediverse (Mastodon)
+Bluesky
+LinkedIn
+News RSS
+Support Us
+Sponsor Django
+Corporate membership
+Official merchandise store
+Benevity Workplace Giving Program
+Django
+Hosting by
+In-kind donors
+Design by
+Threespot & andrevv
+
+© 2005-2025 Django Software Foundation and individual contributors. Django is a registered trademark of the Django Software Foundation.

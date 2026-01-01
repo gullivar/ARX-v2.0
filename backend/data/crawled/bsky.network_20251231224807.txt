@@ -1,0 +1,8 @@
+_      _
+ _ _ __ _(_)_ _ | |__  _____ __ __
+| '_/ _' | | ' \| '_ \/ _ \ V  V /
+|_| \__,_|_|_||_|_.__/\___/\_/\_/
+
+This is an atproto [https://atproto.com] firehose fanout service, running the 'rainbow' codebase [https://github.com/bluesky-social/indigo]
+
+The firehose WebSocket path is at:  /xrpc/com.atproto.sync.subscribeRepos

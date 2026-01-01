@@ -1,0 +1,172 @@
+MY ACCOUNT
+Products
+Burp Suite DAST
+The enterprise-enabled dynamic web vulnerability scanner.
+Burp Suite Professional
+The world's #1 web penetration testing toolkit.
+Burp Suite Community Edition
+The best manual tools to start web security testing.
+Solutions
+Attack surface visibility
+Improve security posture, prioritize manual testing, free up time.
+CI-driven scanning
+More proactive security - find and fix vulnerabilities earlier.
+Application security testing
+See how our software enables the world to secure the web.
+DevSecOps
+Catch critical bugs; ship more secure software, more quickly.
+Penetration testing
+Accelerate penetration testing - find more bugs, more quickly.
+Automated scanning
+Scale dynamic scanning. Reduce risk. Save time/money.
+Bug bounty hunting
+Level up your hacking and earn more bug bounties.
+Compliance
+Enhance security monitoring to comply with confidence.
+Research
+Academy
+Support
+Support Center
+Get help and advice from our experts on all things Burp.
+Documentation
+Tutorials and guides for Burp Suite.
+Get Started - Professional
+Get started with Burp Suite Professional.
+Get Started - Enterprise
+Get started with Burp Suite Enterprise Edition.
+User Forum
+Get your questions answered in the User Forum.
+Downloads
+Download the latest version of Burp Suite.
+Company
+Customers
+About
+Blog
+Careers
+Legal
+Contact
+Resellers
+Trusted by
+security professionals
+Best-in-class software and learning for security engineers and penetration testers.
+FIND OUT MORE
+Discover DAST without disruption
+Smarter authentication, stronger API scanning, and improved scan orchestration. Learn about the latest evolution of Burp Suite DAST
+FIND OUT MORE
+Trusted by the people who
+use it every day
+Burp Suite Professional has, once again, been recognized
+as Gartner® Peer Insights™ Customers’ Choice for 2024.
+FIND OUT MORE
+Everything you need to stay ahead
+Software and expertise for everyone who needs to secure the web
+The most widely used web application security testing software.
+Find out more
+Test
+Boost your cybersecurity skills - with free, online web security training.
+Find out more
+Train
+Learn about the latest security exploits - to stay ahead of emerging threats.
+Find out more
+Discover
+Showcase your web security testing skills - become a Burp Suite Certified Practitioner.
+Find out more
+Certify
+The latest AppSec news from PortSwigger
+Welcome to the next generation of Burp Suite
+Introducing Burp AI - a suite of powerful new features designed to enhance your testing workflow.
+
+Read More
+Burp Everywhere, All Around the World
+We want to make it even easier for AppSec professionals like you to connect.
+Read More
+SAML Roulette: The Hacker Always Wins
+Achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library.
+Read More
+Shadow Repeater: AI Enhanced Manual Testing
+Ever wondered how many vulnerabilities you've missed by a hair's breadth?
+Read More
+PortSwigger and SAP strategic partnership
+PortSwigger announce a strategic partnership with SAP, a leader in enterprise software solutions.
+Read More
+The top 10 web hacking techniques of 2024
+PortSwigger Research and the community identify the year's must-read web security research.
+Read More
+READ MORE ON OUR BLOG
+Get to know the PortSwigger community
+Join the PortSwigger Discord community
+Read More
+Top tips from a Burp Suite fanboy
+Read More
+DevSecOps insights from Aleksandr Krasnov
+Read More
+Katie Paxton-Fear on her bug bounty baptism
+Read More
+Forging a lucrative career in ethical hacking - Xel interviewed
+Read More
+Dafydd Stuttard - PortSwigger founder and Chief Swig - AMA
+Read More
+Connect with us
+Burp Suite is trusted globally
+88,000
+Burp Suite customers
++73
+Net Promoter Score
+165
+Countries
+18,000
+Organizations
+Our people make the difference
+Our culture is our most important superpower, and our biggest differentiator.
+
+Meet the diverse group of people who make up the PortSwigger team.
+MEET THE SWIGGERS
+Security resources for everyone
+The PortSwigger Blog
+Get the inside scoop on the latest Burp Suite news, tech, and interviews - from right across the PortSwigger team.
+Read More
+The top 10 web hacking techniques of 2024
+The annual community-powered effort, rounding up the year's must-read web security research.
+Read More
+Burp Suite DAST and Burp Suite Professional
+Find the Burp Suite that's right for your use-case, and discover a world of possibility.
+Read More
+Become a Burp Suite Certified Practitioner
+Prove your ability to detect and exploit web vulnerabilities, with a Burp Suite certification.
+Read More
+Get started with the Web Security Academy
+Boost your cybersecurity skills, and get off to a flying start in the Web Security Academy.
+Read More
+Learn with PortSwigger Research
+Pioneering web security research and the latest research articles from the industry-leading team.
+Read More
+Burp Suite video tutorials and more
+Watch product guidance, video tutorials, interviews, and more on the PortSwigger YouTube channel.
+Read More
+Burp Suite
+Web vulnerability scanner
+Burp Suite Editions
+Release Notes
+Vulnerabilities
+Cross-site scripting (XSS)
+SQL injection
+Cross-site request forgery
+XML external entity injection
+Directory traversal
+Server-side request forgery
+Customers
+Organizations
+Testers
+Developers
+Company
+About
+Careers
+Contact
+Legal
+Privacy Notice
+Insights
+Web Security Academy
+Blog
+Research
+© 2025 PortSwigger Ltd.
+Follow Us

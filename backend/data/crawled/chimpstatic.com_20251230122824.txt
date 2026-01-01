@@ -1,0 +1,9 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<ListAllMyBucketsResult xmlns="http://s3.amazonaws.com/doc/2006-03-01/">
+<Owner>
+<ID>anonymous</ID>
+<DisplayName/>
+</Owner>
+<Buckets/>
+</ListAllMyBucketsResult>

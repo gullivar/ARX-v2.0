@@ -1,0 +1,524 @@
+Go from prompt to possibility with AI Workflow Builder [Beta]
+Learn how
+n8n.io
+Product
+Use cases
+Docs
+Community
+Enterprise
+Pricing
+GitHub
+165,448
+Sign in
+Get Started
+Flexible AI workflow automation
+for technical teams
+
+Build with the precision of code or the speed of drag-n-drop. Host with on-prem control or in-the-cloud convenience. n8n gives you more freedom to implement multi-step AI agents and integrate apps than any other tool.
+
+Get started for free
+Talk to sales
+
+IT Ops can
+
+⚡ On-board new employees
+
+Sec Ops can
+
+⚡ Enrich security incident tickets
+
+Dev Ops can
+
+⚡ Convert natural language into API calls
+
+Sales can
+
+⚡ Generate customer insights from reviews
+
+You can
+
+▶️ Watch this video to hear our pitch
+
+The world's most popular workflow automation platform for technical teams including
+
+Top 50 Github. Our 165.4k stars place us among the most popular projects.
+
+4.9/5 stars on G2. To quote "A solid automation tool that just works."
+
+200k+ community members. This wouldn't be possible without you.
+
+Plug AI into your own data &
+over 500 integrations
+Browse all integrations
+The fast way to actually
+get AI working in your business
+Build multi-step agents calling custom tools
+
+Create agentic systems on a single screen. Integrate any LLM into your workflows as fast as you can drag-n-drop.
+
+Explore AI
+
+Update Detected
+Running Custom Unit Testing
+Update Rolled Back Automatically
+IT Team Notified of New Ticket
+Custom Unit Testing Failed
+Update Installed
+Self-host everything – including AI models
+
+Protect your data by deploying on-prem.
+
+Deploy with Docker
+
+Access the entire source code on Github
+
+Hosted version also available
+
+Chat with your own data
+
+Use Slack, Teams, SMS, voice, or our embedded chat interface to get accurate answers from your data, create tasks, and complete workflows.
+
+Who held meetings with SpaceX last week?
+On Wednesday, Joe updated the status to "won" in Salesforce after a Zoom call.
+On Thursday, Sue provided on-site setup and closed the ServiceNow ticket.
+Create a task in Asana...
+Code when you need it, UI when you don't
+
+Other tools limit you to either a visual building experience, or code. With n8n, you get the best of both worlds.
+
+Write JavaScript or Python - you can always fall back to code
+
+Add libraries from npm or Python for even more power
+
+Paste cURL requests into your workflow
+
+Merge workflow branches, don’t just split them
+
+Run. Tweak. Repeat
+
+The same short feedback loops that make you smile at your scripts.
+
+Re-run single steps without re-running the whole workflow
+
+Replay or mock data to avoid waiting for external systems
+
+Debug fast, with logs in line with your code
+
+Use 1700+ templates to jump-start your project
+
+See full product overview
+See The Results
+Case Studies
+
+How Delivery Hero saved 200 hours each month with a single ITOps workflow
+
+"We have seen drastic efficiency improvements since we started using n8n for user management. It's incredibly powerful, but also simple to use."
+
+Dennis Zahrt
+
+Director of Global IT Service Delivery
+
+Read Case Study
+
+How StepStone finishes 2 weeks’ work in only 2 hours with n8n workflows
+
+“We’ve sped up our integration of marketplace data sources by 25X. It takes me 2 hours max to connect up APIs and transform the data we need. You can’t do this that fast in code.”
+
+Luka Pilic
+
+Marketplace Tech Lead
+
+Read Case Study
+Enterprise-ready
+Secure. Reliable. Collaborative.
+
+Remove inefficiencies across your org by rolling out automation as reliably as you deploy code. Run n8n air-gapped on your servers or on our secure cloud-based solution.
+
+Explore n8n for enterprise
+Talk to sales
+Security
+
+Fully on-prem option, SSO SAML, and LDAP, encrypted secret stores, version control, advanced RBAC permissions.
+
+Performance
+
+Audit logs & log streaming to 3rd party, workflow history, custom variables, external storage.
+
+Collaboration
+
+Git Control, isolated environments, multi-user workflows.
+
+"The idea is that everybody in the organization can use n8n to manage data retrieval or data transformation."
+
+Martino Bonfiglioli
+
+Senior Product Manager
+
+See the case
+n8n embed
+Automation for your customers
+
+Wow your customers with access to 500+ app integrations to automate their own workflows. Your branding. Our white-labelled tech.
+
+Explore n8n embed
+There’s nothing you can’t automate with n8n
+
+Our customer’s words, not ours.
+Skeptical? Try it out, and see for yourself.
+
+Start building
+
+Build complex workflows that other tools can't. I used other tools before. I got to know the N8N and I say it properly: it is better to do everything on the n8n! Congratulations on your work, you are a star!
+
+Igor Fediczko
+
+@igordisco
+
+Thank you to the n8n community. I did the beginners course and promptly took an automation WAY beyond my skill level.
+
+Robin Tindall
+
+@robm
+
+n8n is a beast for automation. self-hosting and low-code make it a dev’s dream. if you’re not automating yet, you’re working too hard.
+
+Anderoav
+
+@Anderoav
+
+I've said it many times. But I'll say it again. n8n is the GOAT. Anything is possible with n8n. You just need some technical knowledge + imagination. I'm actually looking to start a side project. Just to have an excuse to use n8n more 😅
+
+Maxim Poulsen
+
+@maximpoulsen
+
+It blows my mind. I was hating on no-code tools my whole life, but n8n changed everything. Made a Slack agent that can basically do everything, in half an hour.
+
+Felix Leber
+
+@felixleber
+
+I just have to say, n8n's integration with third-party services is absolutely mind-blowing. It's like having a Swiss Army knife for automation. So many tasks become a breeze, and I can quickly validate and implement my ideas without any hassle.
+
+Nanbing
+
+@1ronben
+
+Found the holy grail of automation yesterday... Yesterday I tried n8n and it blew my mind 🤯 What would've taken me 3 days to code from scratch? Done in 2 hours. The best part? If you still want to get your hands dirty with code (because let's be honest, we developers can't help ourselves 😅), you can just drop in custom code nodes. Zero restrictions.
+
+Francois Laßl
+
+@francois-laßl
+
+Anything is possible with n8n. I think @n8n_io Cloud version is great, they are doing amazing stuff and I love that everything is available to look at on Github.
+
+Jodie M
+
+@jodiem
+
+n8n.io
+
+Automate without limits
+
+Careers
+Hiring
+Contact
+Make vs n8n
+Press
+Legal
+Become an expert
+Case Studies
+Zapier vs n8n
+Hire an expert
+Tools
+AI agent report
+Affiliate program
+Merch
+Join user tests, get a gift
+Events
+Brand Guideline
+Popular integrations
+Google Sheets
+Telegram
+MySQL
+Slack
+Discord
+Postgres
+Show more
+Trending combinations
+HubSpot and Salesforce
+Twilio and WhatsApp
+GitHub and Jira
+Asana and Slack
+Asana and Salesforce
+Jira and Slack
+Show more
+Top integration categories
+Communication
+Development
+Cybersecurity
+AI
+Data & Storage
+Marketing
+Show more
+Trending templates
+Creating an API endpoint
+AI agent chat
+Scrape and summarize webpages with AI
+Joining different datasets
+Back Up Your n8n Workflows To Github
+Very quick quickstart
+Show more
+Top guides
+Telegram bots
+Open-source chatbot
+Open-source LLM
+Open-source low-code platforms
+Zapier alternatives
+Make vs Zapier
+Show more
+
+Imprint
+|
+Security
+|
+Privacy
+|
+Report a vulnerability
+
+© 2025 n8n   |   All rights reserved.
+
+×
+This website uses cookies
+We use cookies to personalise content, ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. Read more
+STRICTLY NECESSARY
+PERFORMANCE
+TARGETING
+FUNCTIONALITY
+ACCEPT ALL
+DECLINE ALL
+ SHOW DETAILS
+COOKIE DECLARATION
+ABOUT COOKIES
+Strictly necessary
+Performance
+Targeting
+Functionality
+Strictly necessary cookies allow core website functionality such as user login and account management. The website cannot be used properly without strictly necessary cookies.
+Name	Provider / Domain	Expiration	Description
+__cf_logged_in	
+Cloudflare
+.cloudflare.com	4 weeks 2 days	Part of our security firewall Cloudflare (e.g. identifying trusted users)
+AMCVS_XXXXX	
+Adobe
+.cloudflare.com	Session	Adobe Experience Cloud cookie that serves as a flag indicating that the session has been initialized. Its value is always 1 and discontinues when the session has ended.
+CF_VERIFIED_DEVICE_XXXXX	
+Cloudflare
+.cloudflare.com	1 year	Cloudflare
+sparrow_id	
+Cloudflare
+.cloudflare.com	5 months 4 weeks	This cookie is used by Cloudflare to help optimise the performance and security of the website and access to it. They do not contain user credentials, IP anonymisation is used.
+rl_session	.n8n.io	1 year	This cookie is used for managing user session on the website. It typically maintains the user's state during the session, ensuring that users remain connected and their interactions with the site are coherent throughout their visit. This can include keeping users logged in, tracking their actions, or persisting settings during the session.
+__sec_tid	n8n.io	9 months 4 weeks	
+__sec__token	n8n.io	1 day	
+_shopify_essential	
+Shopify
+merch.n8n.io	1 year	This cookie is essential for the secure checkout and payment function on the website and is provided by Shopify.
+__Host-airtable-session.sig	
+Airtable
+airtable.com	1 year	This cookie is used to ensure secure user sessions and for authentication purposes.
+keep_alive	merch.n8n.io	Session	This cookie is used to maintain an active user session on the website and ensure that the user's connection remains secure and uninterrupted during their browsing session.
+__sec__fid	n8n.io	9 months 4 weeks	
+brwConsent	
+Airtable
+.airtable.com	5 minutes	This cookie is used to record the user's consent to the use of cookies on the website, ensuring compliance with the website's privacy policy by remembering the user's preferences and consent state regarding cookies.
+AWSALBTGCORS	
+Airtable
+airtable.com	1 week	This cookie is used to support load balancing, ensuring that visitor page requests are routed to the same server in any browsing session.
+__sec_crid	n8n.io	9 months 4 weeks	
+CookieScriptConsent	
+CookieScript
+.n8n.io	1 year	This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences. It is necessary for Cookie-Script.com cookie banner to work properly.
+__sec__ghost	n8n.io	9 months 4 weeks	
+localization	
+Flickr Inc.
+merch.n8n.io	1 year	These cookies are set on pages with the Flickr widget.
+__Host-airtable-session	
+Airtable
+airtable.com	1 year	This cookie is used to manage the user session in a secure way, ensuring the user's interaction with the website is seamless and secure while accessing Airtable integrations or content.
+__cf_bm	
+Cloudflare Inc.
+.paddle.com	29 minutes 57 seconds	This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+__sec__cid	n8n.io	1 day	
+Performance cookies are used to see how visitors use the website, eg. analytics cookies. Those cookies cannot be used to directly identify a certain visitor.
+Name	Provider / Domain	Expiration	Description
+ph_phc_XXXXX_posthog	
+Posthog
+.tapfiliate.com	1 year	Posthog
+AMCV_XXXXX	
+Adobe
+.cloudflare.com	4 weeks 2 days	Adobe Experience Cloud cookie that enables tracking visitors across multiple domains.
+cfz_google-analytics_v4	
+Google LLC
+.cloudflare.com	1 year	Cloudflare Zaraz Google Analytics cookie
+cfzs_google-analytics_v4	
+Google LLC
+.cloudflare.com	Session	Cloudflare Zaraz Google Analytics session cookie
+rl_user_id	.n8n.io	1 year	This cookie is used to recognize and distinguish individual users who visit the website, enabling personalized experiences and interactions.
+_ga_Q7GL51X95F	
+Google LLC
+.n8n.io	1 year 1 month	This cookie is used by Google Analytics to persist session state.
+brw	
+Airtable
+.airtable.com	1 year	This cookie is used to track user behavior and interaction to improve user experience and service functionality.
+rl_page_init_referrer	.n8n.io	1 year	
+rl_page_init_referring_domain	.n8n.io	1 year	
+originalClientId	.n8n.io	4 weeks 2 days	
+rl_anonymous_id	.n8n.io	1 year	This cookie is used to identify anonymously a visitor. It is generally used for tracking and analytics purposes, helping website owners understand how visitors interact with the site.
+n8n_tracking_id	.n8n.io	1 year 1 month	
+_ga_1EB8LCPG5B	
+Google LLC
+.n8n.io	1 year 1 month	This cookie is used by Google Analytics to persist session state.
+_gat_gtag_UA_146470481_1	
+Google LLC
+.n8n.io	1 minute	This cookie is part of Google Analytics and is used to limit requests (throttle request rate).
+rl_group_id	.n8n.io	1 year	This cookie is used to group users for analytical purposes to enhance user experience on the website.
+_gat_gtag_UA_146470481_8	.n8n.io	51 seconds	This cookie is part of Google Analytics and is used to limit requests (throttle request rate).
+_shopify_y	
+Shopify Inc.
+.n8n.io	1 year 6 hours	This cookie is associated with Shopify's analytics suite.
+Provider address: 151 O'Connor Street, Ground floor, Ottawa, ON, K2P 2L8, Canada
+
+_ga	
+Google LLC
+.n8n.io	1 year 1 month	This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+_gid	
+Google LLC
+.n8n.io	1 day	This cookie is set by Google Analytics. It stores and update a unique value for each page visited and is used to count and track pageviews.
+_ga_0SC4FF2FH9	
+Google LLC
+.n8n.io	1 year 1 month	This cookie is used by Google Analytics to persist session state.
+_shopify_analytics	merch.n8n.io	1 year	
+_shopify_s	
+Shopify Inc.
+.n8n.io	30 minutes	This cookie is associated with Shopify's analytics suite.
+Targeting cookies are used to identify visitors between different websites, eg. content partners, banner networks. Those cookies may be used by companies to build a profile of visitor interests or show relevant ads on other websites.
+Name	Provider / Domain	Expiration	Description
+lang	
+LinkedIn Corporation
+.linkedin.com	Session	linkedin.com targeting
+li_sugr	
+LinkedIn Corporation
+.linkedin.com	3 months	linkedin.com targeting
+UserMatchHistory	
+LinkedIn Corporation
+.linkedin.com	4 weeks 2 days	linkedin.com targeting
+AnalyticsSyncHistory	
+LinkedIn Corporation
+.linkedin.com	4 weeks 2 days	linkedin.com targeting
+datr	
+Meta Platform Inc.
+.facebook.com	1 year 1 month	This cookie identifies the browser connecting to Facebook. It is not directly tied to individual Facebook the user. Facebook reports that it is used to help with security and suspicious login activity, especially around detection of bots trying to access the service. Facebook also say the behavioural profile associated with each datr cookie is deleted after 10 days. This cookie is also read via Like and other Facebook buttons and tags placed on many different websites.
+sb	
+Meta Platform Inc.
+.facebook.com	1 year 1 month	Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.
+wd	
+Meta Platform Inc.
+.facebook.com	1 week	This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+rdt_uuid	
+Reddit, Inc.
+.n8n.io	3 months	Identify users who've seen n8n ads on Reddit so that we can run our ads more efficiently.
+csv	
+Reddit, Inc.
+.reddit.com	1 year 1 month	This cookie is typically used for tracking user behavior and interaction with the website to improve user experience.
+edgebucket	
+Reddit, Inc.
+.reddit.com	1 year 1 month	Used by Reddit to deliver advertising
+loid	
+Reddit, Inc.
+.reddit.com	1 year 1 month	This cookie is used to identify a unique visitor's session and preferences.
+pc	
+Reddit, Inc.
+.reddit.com	1 year	
+reddit_session	
+Reddit, Inc.
+.reddit.com	Session	
+session_tracker	
+Reddit, Inc.
+.reddit.com	Session	This cookie is used to track user sessions for improving user experience and ensuring secure browsing sessions. It helps in maintaining an active session for the user without needing to log in multiple times during their visit.
+t2_XXXXX_recentclicks3	
+Reddit, Inc.
+.reddit.com	1 year	
+theme	
+Reddit, Inc.
+.reddit.com	1 year	This cookie is used to store the user's theme preference on the website, allowing for a consistent and personalized visual experience across different pages.
+token_v2	
+Reddit, Inc.
+.reddit.com	1 day	
+ps_l	
+Meta Platform Inc.
+.facebook.com	1 year 1 month	This cookie is associated with user preferences and saving settings to enhance the user experience on the website.
+ps_n	
+Meta Platform Inc.
+.facebook.com	1 year 1 month	This cookie is used to remember the user's preferences and previous interactions with the website.
+fr	
+Meta Platform Inc.
+.facebook.com	3 months	Contains browser and user unique ID combination, used for targeted advertising.
+csrf_token	
+Reddit, Inc.
+.reddit.com	Session	This cookie is used by Cloudflare to identify trusted web traffic.
+cfz_facebook-pixel	
+Meta Platform Inc.
+.cloudflare.com	1 year	Cloudflare Zaraz facebook pixel cookie
+rl_trait	.n8n.io	1 year	This cookie is used to collect information about user behavior and preferences to optimize the user experience and for targeted advertising.
+__Secure-ROLLOUT_TOKEN	
+Google LLC
+.youtube.com	5 months 4 weeks	
+_gcl_au	
+Google LLC
+.n8n.io	3 months	Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+rl_group_trait	.n8n.io	1 year	This cookie is used for segmenting audiences based on predefined criteria, aiming to provide more personalized and relevant content to the website users.
+lidc	
+LinkedIn Corporation
+.linkedin.com	1 day	This is a Microsoft MSN 1st party cookie that ensures the proper functioning of this website.
+bcookie	
+LinkedIn Corporation
+.linkedin.com	1 year	This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.
+IDE	
+Google LLC
+.doubleclick.net	1 year	Google Ads targeting
+VISITOR_PRIVACY_METADATA	
+Google LLC
+.youtube.com	5 months 4 weeks	This cookie is used to store the user's consent and privacy choices for their interaction with the site. It records data on the visitor's consent regarding various privacy policies and settings, ensuring that their preferences are honored in future sessions.
+li_gc	
+LinkedIn Corporation
+.linkedin.com	5 months 4 weeks	Used to store guest consent to the use of cookies for non-essential purposes
+__Secure-YNID	.youtube.com	5 months 4 weeks	
+YSC	
+Google LLC
+.youtube.com	Session	This cookie is set by YouTube to track views of embedded videos.
+VISITOR_INFO1_LIVE	
+Google LLC
+.youtube.com	5 months 4 weeks	This cookie is set by Youtube to keep track of user preferences for Youtube videos embedded in sites;it can also determine whether the website visitor is using the new or old version of the Youtube interface.
+test_cookie	
+Google LLC
+.doubleclick.net	15 minutes	This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Functionality cookies are used to remember visitor information on the website, eg. language, timezone, enhanced content.
+Name	Provider / Domain	Expiration	Description
+intercom-device-id-XXXXX	
+Intercom
+.hockeystack.com	5 months 4 weeks	
+intercom-id-XXXXX	
+Intercom
+.hockeystack.com	5 months 4 weeks	
+intercom-session-XXXXX	
+Intercom
+.hockeystack.com	1 week	
+paddle_session	
+Paddle
+.paddle.com	1 day	
+Cookies are small text files that are placed on your computer by websites that you visit. Websites use cookies to help users navigate efficiently and perform certain functions. Cookies that are required for the website to operate properly are allowed to be set without your permission. All other cookies need to be approved before they can be set in the browser.
+
+You can change your consent to cookie usage at any time on our Privacy Policy page.
+We also use cookies to collect data for the purpose of personalizing and measuring the effectiveness of our advertising. For more details, visit the Google Privacy Policy.
+Cookie report created by CookieScript

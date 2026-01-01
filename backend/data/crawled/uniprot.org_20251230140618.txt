@@ -1,0 +1,154 @@
+BLASTAlignPeptide searchID mappingSPARQL
+Release 2025_04 | Statistics
+Help
+UniProt website home page
+Find your protein
+UniProtKB
+Advanced
+|
+List
+Search
+Examples: Insulin, APP, Human, P05067, organism_id:9606
+UniProt is the world’s leading high-quality, comprehensive and freely accessible resource of protein sequence and functional information. Cite UniProt 
+Our Proteomes and UniProtKB/TrEMBL resources are undergoing a significant transition. Please read our help page, view affected entries and proteomes, or contact us with any questions.
+UniProt core data
+Proteins
+UniProt Knowledgebase
+Reviewed
+(Swiss-Prot)
+573,661
+Unreviewed
+(TrEMBL)
+199,006,239
+Species
+Proteomes
+Protein sets for species with sequenced genomes from across the tree of life
+Protein Clusters
+UniRef
+Clusters of protein sequences at 100%, 90% & 50% identity
+Sequence archive
+UniParc
+Non-redundant archive of publicly available protein sequences seen across different databases
+Supporting data
+Taxonomy
+Keywords
+Literature citations
+Human diseases
+Cross-referenced databases
+Subcellular locations
+Automatic annotations: UniRule & ARBA
+Latest News
+View release archive
+Forthcoming changes
+
+Planned changes for UniProt
+
+UniProt release 2025_04
+
+The strange case of the Cheetah and Leopard proteomes | UniProtKB/Swiss-Prot not updated in release 2025_04...
+
+UniProt release 2025_03
+
+Cross-references to CARD | Cross-references to FunCoup | Cross-references to PAN-GO
+
+UniProt release 2025_02
+
+Brain property: no trespassing | Cross-references to CD-CODE | Cross-references to STRENDA-DB | Cross-references to YCharOS
+
+UniProt release 2025_01
+
+The 'dark' side of male contraception | Changes to the controlled vocabulary of human diseases | Changes to the...
+
+UniProt release 2024_06
+
+What happens when ribosomes crash | Cross-references to FunFam | Cross-references to AntiFam
+
+UniProt release 2024_05
+
+Plasma membrane rupture during cell death: from a passive hypothesis to an active process | Changes to the controlled vocabulary of human diseases
+
+Germ Warfare: Arsenal of Antimicrobial Resistance Proteins in UniProt
+
+Antimicrobial resistance contributes to almost 5 million deaths annually, worldwide. To mark World AMR Awareness Week...
+
+Using UniProtKB to navigate large and complex structures
+
+How many members do you have on your team and have you ever considered UniProt as one of them?
+
+protein spotlight
+Thirst
+
+Water is one of the major molecules of life. Which is why the greater part of us is made of it. As a child, I found this hard to fathom. Should we not then be relatively liquid? I don't think I ever found a satisfying answer, nor did I really seek…
+
+ Analysis Tools
+View dashboard
+BLAST
+Search with a sequence to find homologs through pairwise sequence alignment
+Align
+Align two or more protein sequences with Clustal Omega to find conserved regions
+Search with Lists Map IDs
+Find proteins with lists of UniProt IDs or convert from/to other database IDs
+Search Peptides
+Search with a peptide sequence to find all UniProt proteins that contain exact matches
+Need help?
+
+Find answers through our help center or get in touch
+
+Help center Contact us
+
+ Attend training
+European Bioinformatics Institute (EBI)
+Protein Information Resource (PIR)
+Swiss Institute of Bioinformatics (SIB)
+ Tutorial & videos
+ Online courses
+UniProt data
+FTP Download
+Download UniProt release data
+Technical Documentation
+Manuals, schemas and ontology descriptions
+Programmatic Access
+Query UniProt data using APIs providing REST, SPARQL and Java services
+Submit Data
+Submit your sequences, publications and annotation updates
+Release 2025_04 | Statistics
+
+© 2002 – 2025 UniProt consortium
+
+License & Disclaimer | Privacy Notice
+
+Core data
+Proteins (UniProtKB)
+Species (Proteomes)
+Protein clusters (UniRef)
+Sequence archive (UniParc)
+Supporting data
+Literature citations
+Taxonomy
+Keywords
+Subcellular locations
+Cross-referenced databases
+Diseases
+Tools
+BLAST
+Align
+Retrieve/ID mapping
+Peptide search
+Tool results
+Information
+Cite UniProt
+About & Help
+UniProtKB manual
+Technical corner
+Expert biocuration
+Statistics
+
+Get in touch 
+
+UniProt is an ELIXIR core data resource
+
+UniProt is a GBC global core biodata resource
+
+Main funding by:
+National Institutes of Health
+This website requires cookies, and the limited processing of your personal data in order to function. By using the site you are agreeing to this as outlined in our Privacy Notice.I agree, dismiss this banner

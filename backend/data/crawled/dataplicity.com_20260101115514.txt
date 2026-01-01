@@ -1,0 +1,12 @@
+Dataplicity: Remotely control your Raspberry Pi Why Dataplicity? Apps Docs Pricing Sign in Why Dataplicity? Apps Docs Pricing Sign in Control your Raspberry Pi from anywhere. 1 or Sign in if you've already got an account 2 Hey there, stranger! Enter your email above and a line of code will appear here! Copy the line of code into your Raspberry Pi terminal to activate
+              your remote shell (Don't worry, you can always take a look around
+              inside before doing this) Done Do it later View source Source code This is the script that runs on your Raspberry Pi during the installation process. Back × Remotely access your device command line. Similar to SSH, but without the complex set-up required to get it
+        working behind firewall and NAT. Learn more No more 192.168.0.1! Wormhole provides a proper URL for your web control panel which follows
+        your devices across cellular, satellite and fixed networks. Explore features Manage your devices from Windows or Mac. Porthole forwards TCP ports from your remote Linux devices to your
+        workstation. Use SSH, SCP, VNC, or even proprietary protocols to reach
+        your remote devices. Download What you need All you need is an internet-connected device, and you're ready to go! Raspberry Pi Internet Port forward­ing VPN Static IPs DynDNS Lots of time Lots of patience Works anywhere If your Raspberry Pi is connected to the internet, you
+            can access it via Dataplicity. You can even connect to
+            devices behind firewalls. Easy access via browser Log in to Dataplicity, select the device you want and
+            access your remote shell. It's that simple! Simple and secure Dataplicity connects using client-initiated HTTPS, so
+            it's safe, encrypted and you don't need to make
+            specific firewall exceptions. Sign up for free, now! Dataplicity Apps Why Dataplicity? Porthole Pricing Support Service Status Documentation Dataplicity API Community News Facebook Twitter © MachineForest Ltd. Privacy Policy Terms & Conditions

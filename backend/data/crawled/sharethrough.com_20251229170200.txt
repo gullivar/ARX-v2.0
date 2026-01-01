@@ -1,0 +1,505 @@
+United as One: Sharethrough is now Equativ
+Learn More →
+Advertisers
+ 
+Publishers
+ 
+Company
+ 
+Resources
+Contact
+En
+Log in
+Enhancing the Ad Experience.
+Across Every Channel.
+For Better Outcomes.
+
+The Sharethrough Ad Platform maximizes user attention & performance through research-backed ad enhancements while curating the inventory for optimized directness, sustainability and quality.
+
+(function () { 
+const second = 1000,
+	minute = second * 60,
+	hour = minute * 60,
+	day = hour * 24;
+
+let today = new Date(),
+	dd = String(today.ge
+91%
+more likely to pay attention
+14%
+more likely to comprehend
+52%
+more likely to pay attention to ads with useful content
+CTV Sports Ticker →
+Sharethrough Core Principles for Maximizing Advertiser Outcomes
+Ad Enhancements
+Outcomes
+Sustainability
+Curation
+Unique Proprietary Technology Automatically Enhances All Standard Ad Formats
+Automatically Enhanced
+Research-Backed
+Omnichannel & Omniformat
+Best Video Ad Tech Innovation
+
+Best Use of Video
+
+Discover Ad Enhancements →
+You Don't Have to Take Our Word For It...
+
+"GreenPMPs™ by Sharethrough and Scope3 provide a viable path toward a cleaner, greener digital media ecosystem. OMD UK is proud to be an anchor partner for this initiative, bringing more awareness and real solutions to the entire digital media ecosystem."
+
+Suzy Ryder
+‍Chief Digital Officer
+OMD UK
+
+“We are on a mission to reinvent the business to include sustainability at every step, making it a part of our core strategy. Leveraging Sharethrough’s GreenPMPs™ helped compensate for carbon emissions from our campaign, aligning with our overall goal and messaging.”
+
+Ryan Chu
+National Manager, Brand Communications
+BMW Canada
+
+"I love working with Sharethrough! The reps are patient and attentive and I feel really good about the value they provide. The inventory is premium with a clear differentiator from standard ads, and their production team provides quick high-quality work. They do a great job of listening and tailoring to my brand’s objectives."
+
+Andrea Lopez
+Head of Mx Development
+Havas Media
+
+"Freestar has had long-standing partnerships with Sharethrough. We are very excited about the merger as it will allow us to take advantage of their respective strengths across native, ad quality controls and exchange-based demand all under a unified platform."
+
+Matt Burgess
+VP Revenue Operations
+Freestar
+
+"We've noticed and appreciate Sharethrough's ongoing commitment to open source header bidding, including efforts to improve buyer transparency, support for dynamic flooring, participation in industry identity initiatives, and streamlining of their video integration. These efforts have shown to be fruitful in the expansion of our partnership."
+
+Patrick McCann
+SVP Research
+CafeMedia
+
+"Sharethrough has become a trusted partner to Bidtellect through their willingness to collaborate, their transparency, and by being attentive to our needs and the needs of our clients. Our partnership has enabled us to build a scalable and sustainable long-standing relationship. We are proud to be able to say that together we have contributed to building a better advertising ecosystem for all."
+
+Craig Aron
+SVP Growth & Strategic Business Development
+Bidtellect
+
+"I’ve been working with District M, now Sharethrough, for over 5 years and, for me, it’s their customer service that really stands out. We are constantly strengthening our partnership and not only a client-service provider relationship. We feel that everyone truly has our campaigns’ performance and overall digital business growth at heart. Their constant desire to innovate and improve makes them key players in the industry and our digital media mix."
+
+Veronique Hebert-Dumont
+‍Manager, Consumer Growth & Engagement
+Air Canada Vacations
+
+"Sharethrough has a great offering and has been our top-performing native partner year over year. Our client is strict/picky when it comes to running on native inventory, Sharethrough is able to work with our restrictions and drive above benchmark performance for all campaigns."
+
+Caroline Gamble
+Media Specialist
+Amnet Programmatic Experts
+
+"Working with Share and the team at Sharethrough is like having someone on my team dedicated to programmatic ads. They make suggestions and spark conversations to make the strategy better."
+
+Senior Manager
+Digital Marketing
+Harvey’s
+
+"We always see great results with our Sharethrough deals. Activation is always smooth and Dan is available whenever we need him to assist or give insight. We are working towards a CPQV KPI for Carmax. As a Display/Native partner, we look to Sharethrough to provide the most quality traffic at a low cost."
+
+Mia Hatter-Woods
+Senior Manager, Audience Activation
+360i
+
+←
+→
+Latest Insights From Sharethrough & the Ad Tech Industry
+View All Blogs →
+What to Expect at the Green Media Summit 2025: The Leading Event for Sustainability in Media
+By
+Benoit Skinazi
+ | 
+February 18, 2025
+
+Get an inside look at what’s ahead for Green Media Summit 2025—the industry-first event for sustainability in digital advertising.
+
+5
+minutes
+—
+Technical Level
+[Infographic] Sustainability in Focus: Advertiser and Consumer Trends for 2025
+By
+Frank Maguire
+ | 
+January 18, 2025
+
+In this post, we cover some of the key findings from our recent research study about sustainability, with the full infographic included.
+
+3
+minutes
+—
+Technical Level
+How Publishers Can Become More Efficient and Sustainable Without Reducing Revenue
+By
+Andrew Simpson
+ | 
+October 4, 2024
+
+In today’s landscape, publishers have a variety of tools and strategies to become more efficient, and harbor a positive impact on the industry.
+
+3
+minutes
+—
+Technical Level
+←
+→
+View All Press →
+79% of Adtech Leaders Prioritize Sustainability and Social Issues, Driving Demand for Future-Proof Partnerships
+October 3, 2024
+
+Equativ and Sharethrough commissioned independent research to explore how brands and agencies are adapting to the rapidly changing landscape.
+
+Equativ and Sharethrough Merge to Form One of the Largest Global Independent Ad Platforms and Marketplaces
+June 12, 2024
+
+Complementary capabilities and inventory create a commercially scaled industry player with a powerful global presence.
+
+Scope3 Introduces GMP+, Industry’s First Product to Prevent Problematic Placements; Sharethrough to Launch Today
+April 11, 2024
+
+Scope3, the market leader in sustainable advertising, introduced GMP+, a standardized media offering that will protect advertisers
+
+←
+→
+View All PMPs →
+Memorial Day Seasonal Package
+Monday, May 26, 2025
+
+Stand out by optimizing your Memorial Day campaigns with Sharethrough TrueTemplate technology.
+
+Summer
+Boxing Day Seasonal Package
+Boxing Day: December 26, 2024
+
+Stand out this holiday season by optimizing your Boxing Day campaigns with Sharethrough’s TrueTemplate technology.
+
+Winter
+Holiday Food & Recipe Seasonal Package
+Start date: November
+
+Stand out this holiday season by optimizing your food & recipe campaigns with Sharethrough’s TrueTemplate technology.
+
+Winter
+←
+→
+Contact Us
+Country*
+United States
+United Kingdom
+Canada
+Germany
+Netherlands
+Japan
+Australia
+Mexico
+Belgium
+Norway
+Sweden
+Denmark
+Finland
+------------------------------
+Afghanistan
+Akrotiri
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ashmore and Cartier Islands
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Bassas da India
+Belarus
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Democratic Republic of the Congo
+Republic of the Cook Islands
+Coral Sea Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Dhekelia
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Europa Island
+Falkland Islands
+Faroe Islands
+Fiji
+France
+French Guiana
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Ghana
+Gibraltar
+Glorioso Islands
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See (Vatican City)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Jan Mayen
+Jersey
+Jordan
+Juan de Nova Island
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nauru
+Navassa Island
+Nepal
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paracel Islands
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+Spain
+Spratly Islands
+Sri Lanka
+Sudan
+Suriname
+Svalbard
+Swaziland
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tromelin Island
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands
+Wake Island
+Wallis and Futuna
+West Bank
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+I am a...
+Publisher
+Advertiser
+Trader
+DSP
+Other
+Are you reaching out because of a job offer? If so, please visit this page this page before submitting your message. Thanks!
+Advertisers
+Advertiser Solutions
+Ad Enhancements
+Curation
+Sustainability
+Addressability
+Inventory Packages
+Case Studies
+Carbon Emissions Estimator
+Support ↗
+Publishers
+Publisher Solutions
+SmartSuite™ Technology
+Net Zero Publisher Program
+Case Studies
+Company
+About
+Leadership
+Careers
+Support ↗
+Political Ads Registry ↗
+Privacy Center ↗
+Opt-Out/Do Not Sell Personal Info
+Contact
+Copyright Notice
+Resources
+Blog
+Case Studies
+Press
+GreenPMP.io ↗
+Native Advertising
+Headline Analyzer ↗
+Supply Policy
+Demand Policy
+Marketplace Quality Policy
+Terms of Service
+Brand Guide
+Get the Latest Insights
+
+Subscribe to our newsletter and receive cutting-edge digital advertising insights delivered right to your inbox.
+
+×
+United as One: Sharethrough is now Equativ
+
+We're officially one team as Sharethrough and Equativ come together under the Equativ name!
+
+Learn More →

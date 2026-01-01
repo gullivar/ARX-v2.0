@@ -1,0 +1,42 @@
+Shorten
+Shortest Domain
+
+Single letter domain names with the letter "X" are rare and there are only 68* in the world.
+
+Only four-character domains are easy to remember and realizes the highest level of shortened URLs.
+
+*As the shortest domain name (ccTLD)
+
+Create New
+Access Analysis
+
+High-performance access analysis functions are available without membership registration.
+
+Access counts per hour and user environment can be counted in real time, and the option to exclude bots from the count is also available.
+
+Just add a "+" to the end of the shortened URL.
+
+Demo
+Browser Extension
+
+We provide a browser extension to shorten URLs directly with just one click.
+
+You can use it immediately after installation without any registration.
+
+Chrome Firefox Edge
+Functions for developers
+
+We provide APIs for external applications to use the URL shortening function.
+
+You can use it for a wide variety of purposes. For example, you can use it from your own applications, or use it with macros for batch conversion.
+
+X.gd Developers
+© X.gd
+Terms of Service
+Privacy Policy
+Contact
+Developer
+Chrome Extention
+About
+A handy extension is available for your Chrome!
+You can generate and automatically copy shortened URLs with one click.

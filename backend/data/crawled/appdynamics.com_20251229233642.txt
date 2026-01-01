@@ -1,0 +1,151 @@
+Platform
+Security
+Observability
+Industries
+Resources
+Pricing
+Support
+Log In
+Trials & Downloads
+
+SPLUNK OBSERVABILITY
+
+AppDynamics joins Splunk Observability
+Ensure resilience with unified observability across any environment, any stack.
+Explore the Product Get support
+AppDynamics is part of the Splunk Observability portfolio
+
+Splunk AppDynamics delivers full-stack observability linked to business performance for hybrid and three-tier applications.
+
+We’re unlocking new use cases, delivering new features, and implementing integrations with other Splunk products, all powered by AI that accelerates troubleshooting and resolution across teams. Use the products that meet your requirements — no migration needed.
+
+Optimize hybrid and on-prem performance
+
+Deliver peak performance with unique AppDynamics capabilities:
+
+
+
+Application performance monitoring linked to business metrics — and every network, ISP, API, and service your applications rely on
+Application security linked to business risk
+Monitoring for SAP® Solutions
+Digital experience monitoring
+Build resilience with unified observability
+
+AppDynamics is expanding observability for hybrid and on-prem applications. Cisco is investing in observability as a key product strategy and prioritizing a streamlined, AI-powered experience for AppDynamics and the Splunk Observability portfolio.
+
+
+
+
+Use just AppDynamics or AppDynamics and other Splunk products.
+
+Observe your full stack
+
+Ensure ITOps, Engineering, Network, and Security teams see across:
+
+
+
+Traditional and modern applications – three-tier architectures and cloud-native apps
+All domains – on-prem, private cloud, public cloud
+Owned and unowned networks – from devices and LANs to internet dependencies like CDNs or external DNS providers
+Get best-in-class observability
+
+Achieve full-stack observability with unified visibility across any environment, any stack:
+
+
+
+See how problems anywhere in your environment impact your business
+Detect and investigate issues sooner, proactively, so you spend less time in war rooms
+Gain better control of your data and costs
+
+Integration of AppDynamics and Splunk will allow us to make further use of Splunk AI features to analyze our security infrastructure and application data, identify trends and generate critical action items across environments.
+
+Dan Field
+Director of Platform and Network Engineering, United Airlines
+
+WEBINAR
+
+Splunk + AppDynamics: The Future of Observability
+
+Troubleshoot performance and security issues faster, with less toil. Avoid negative impact on your business and customers. See how Splunk and AppDynamics unify visibility and align teams.
+
+Watch the webinar
+Frequently asked questions
+What is the future of AppDynamics?
+What solutions are in the Splunk Observability portfolio?
+Does Cisco plan to continue investing in AppDynamics innovations?
+With the acquisition of Splunk, is Cisco sunsetting AppDynamics?
+How does the Splunk Observability portfolio benefit AppDynamics customers?
+Why is Cisco AppDynamics now Splunk AppDynamics?
+How are you unifying the solutions in the Splunk Observability portfolio?
+
+Learn about Splunk AppDynamics
+
+Optimize hybrid and on-prem application performance with full-stack observability linked to business performance.
+
+Explore the Product
+COMPANY
+About Splunk
+Careers
+How Splunk Compares
+Leadership
+Newsroom
+Partners
+Splunk Policy Positions
+SURGe
+Why Splunk?
+PRODUCTS
+Free Trials & Downloads
+Pricing
+View All Products
+SPLUNK SITES
+.conf
+Documentation
+Investor Relations
+Training & Certification
+Splunk Store
+Videos
+View All Resources
+LEARN
+What Is SIEM?
+Splunk Universal Forwarder
+OpenTelemetry: An Introduction
+Metrics For The SOC
+What Is Observability?
+IT & Systems Monitoring: An Overview
+Reliability Metrics
+LLMs vs SLMs: What’s The Difference?
+IT & Tech Spending For 2025
+View All Articles
+CONTACT SPLUNK
+Contact Sales
+Contact Support
+USER REVIEWS
+Gartner Peer Insights™
+PeerSpot
+TrustRadius
+LANGUAGES
+Deutsch
+Francais
+日本語
+한국어
+体中文
+繁體中文
+Splunk Global Footer Logo
+Twitter
+Facebook
+Linked In
+Youtube
+Instagram
+Legal
+Privacy
+Sitemap
+Cookies / Do not sell or share my personal data
+Website Terms of Use
+Modern Slavery
+
+© 2005 - 2025 Splunk LLC All rights reserved.
+
+Cookies allow us to optimise your use of our website. We also use third-party cookies for advertising and analytics. Please read our Privacy Statement and Cookie Notice for more information.
+Manage cookie settings
+Reject
+Accept

@@ -1,0 +1,476 @@
+SHA256
+SCRYPT
+SHA3X
+KAWPOW
+C29
+RX
+Products
+Hardware
+Help Center
+Get Kryptex Pool referral link
+/
+EN
+-
+$
+With Kryptex PPS+ mining pool, you get an honest, stable and predictable income.
+ASIC
+Coin	Hashrate	Min. payout	Active miners	Auto-exchange	
+
+Bitcoin
++Bonus FB
+PPS+: 3%
+	
+292.30 PH/s
+	0.001 BTC ≈ 87.48 USD	2755	
+Yes
+	
+Start mining
+
+
+Bitcoin Cash
+PPS+: 3%
+	
+26.02 PH/s
+	0.01 BCH ≈ 5.98 USD	362	
+Yes
+	
+Start mining
+
+
+Fractal Bitcoin
+PPS+: 2%
+SOLO: 1.5%
+	
+332.98 PH/s
+	0.1 FB ≈ 0.04 USD	2285	
+Yes
+	
+Start mining
+
+
+SHA256
+Quai SHA256
+PROP: 1%
+	
+102.86 PH/s
+	20 QUAI ≈ 0.54 USD	739	
+No
+	
+Start mining
+
+
+Zcash
+New
+PPS+: 3%
+SOLO: 1.5%
+	
+70.73 MH/s
+	0.025 ZEC ≈ 13.28 USD	266	
+Yes
+	
+Start mining
+
+
+Bitcoin II
+PROP: 1%
+SOLO: 1%
+	
+2.52 PH/s
+	5 BC2 ≈ 3.88 USD	35	
+No
+	
+Start mining
+
+
+eCash
+PPS+: 2%
+SOLO: 1%
+	
+457.24 TH/s
+	50000 XEC ≈ 0.52 USD	27	
+Yes
+	
+Start mining
+
+
+DigiByte SHA256
+PPS+: 2%
+SOLO: 1%
+	
+3.77 PH/s
+	200 DGB ≈ 1.19 USD	162	
+Yes
+	
+Start mining
+
+
+Litecoin
++Bonus DOGE, PEP, BELLS
+PPS+: 3%
+	
+3.93 TH/s
+	0.05 LTC ≈ 3.91 USD	842	
+Yes
+	
+Start mining
+
+
+SCRYPT
+Quai Scrypt
+PROP: 1%
+	
+5.93 TH/s
+	20 QUAI ≈ 0.54 USD	506	
+No
+	
+Start mining
+
+
+SHA3X
+Tari SHA3x
+PROP: 1%
+SOLO: 1%
+	
+194.16 TH/s
+	200 XTM ≈ 0.44 USD	349	
+Yes
+	
+Start mining
+
+
+Radiant
+PROP: 1%
+SOLO: 1%
+	
+24.86 TH/s
+	100 RXD ≈ 0.01 USD	67	
+Yes
+	
+Start mining
+
+
+Kaspa
+PPS+: 1%
+SOLO: 1%
+	
+12.15 PH/s
+	10 KAS ≈ 0.43 USD	985	
+Yes
+	
+Start mining
+
+
+Alephium
+PROP: 1%
+SOLO: 1%
+	
+839.54 TH/s
+	0.5 ALPH ≈ 0.05 USD	282	
+Yes
+	
+Start mining
+
+
+Ethereum Classic
+PPS+: 1%
+	
+2.33 TH/s
+	0.05 ETC ≈ 0.60 USD	694	
+Yes
+	
+Start mining
+
+
+Ethereum PoW
+PPS+: 1%
+	
+446.19 GH/s
+	0.5 ETHW ≈ 0.26 USD	156	
+Yes
+	
+Start mining
+
+
+OctaSpace
+PPS+: 1%
+	
+102.77 GH/s
+	0.1 OCTA ≈ 0.02 USD	57	
+Yes
+	
+Start mining
+GPU
+Coin	Hashrate	Min. payout	Active miners	Auto-exchange	
+
+KAWPOW
+Quai KawPow
+PROP: 1%
+	
+318.05 GH/s
+	20 QUAI ≈ 0.54 USD	1099	
+No
+	
+Start mining
+
+
+C29
+Tari Cuckaroo29
+PROP: 1%
+SOLO: 1%
+	
+116.23 KH/s
+	200 XTM ≈ 0.44 USD	9114	
+Yes
+	
+Start mining
+
+
+Iron Fish
+PPS+: 1%
+SOLO: 1%
+	
+149.60 GH/s
+	0.1 IRON ≈ 0.01 USD	1925	
+Yes
+	
+Start mining
+
+
+Xelis
+PROP: 1%
+SOLO: 1%
+	
+58.62 MH/s
+	0.1 XEL ≈ 0.12 USD	4807	
+Yes
+	
+Start mining
+
+
+Ravencoin
+PPS+: 1%
+	
+120.81 GH/s
+	10 RVN ≈ 0.07 USD	2207	
+Yes
+	
+Start mining
+
+
+Ergo
+PPS+: 1%
+SOLO: 1%
+	
+189.46 GH/s
+	1 ERG ≈ 0.49 USD	584	
+Yes
+	
+Start mining
+
+
+Conflux
+PPS+: 1%
+SOLO: 1%
+	
+386.08 GH/s
+	1 CFX ≈ 0.07 USD	2531	
+Yes
+	
+Start mining
+
+
+Nexa
+PPS+: 3%
+SOLO: 1%
+	
+155.45 GH/s
+	20000 NEXA ≈ 0.01 USD	1225	
+Yes
+	
+Start mining
+
+
+Neurai
+PROP: 1%
+SOLO: 1%
+	
+21.56 GH/s
+	100 XNA ≈ 0.01 USD	1612	
+Yes
+	
+Start mining
+
+
+Karlsen
+PROP: 1%
+SOLO: 1%
+	
+4.23 GH/s
+	10 KLS ≈ 0.00 USD	64	
+Yes
+	
+Start mining
+CPU
+Coin	Hashrate	Min. payout	Active miners	Auto-exchange	
+
+RX
+Tari RandomX
+PROP: 1%
+SOLO: 1%
+	
+35.52 MH/s
+	200 XTM ≈ 0.44 USD	13098	
+Yes
+	
+Start mining
+
+
+Salvium
+PROP: 1%
+SOLO: 1%
+	
+19.89 MH/s
+	5 SAL ≈ 0.16 USD	2794	
+Yes
+	
+Start mining
+
+
+Monero
+PPS+: 1%
+SOLO: 1%
+	
+362.03 MH/s
+	0.01 XMR ≈ 4.32 USD	31157	
+Yes
+	
+Start mining
+
+
+Zephyr
+PROP: 1%
+SOLO: 1%
+	
+5.39 MH/s
+	0.1 ZEPH ≈ 0.07 USD	1372	
+Yes
+	
+Start mining
+Stable payouts
+|
+Complete anonymity
+|
+Dual mining
+|
+Reward System PPS+
+Got hashrate?
+
+Apply for VIP. Lower fees, custom features and best in class service.
+
+Apply for VIP
+Kryptex PPS+ pools are better than anything you’ve tried.
+
+Kryptex pools use PPS+ payout scheme that pays you regularly, while other pools with PPLNS pay only when they find blocks.
+
+With Kryptex pool you can enjoy honest and predictable income!
+
+You always have 100% luck.
+
+We speak the same language with the miners. We will help you solve any problem.
+
+Your request will be processed by our qualified team of miners. We help with the equipment, configuration and scaling of any kind.
+
+Message us on Telegram
+Send us an Email
+Kryptex allows you to mine in a way that works for you
+Mining on PPS+ Pool
+
+Receive payouts to your crypto wallet in the currency you're mining.
+
+Mining with Kryptex app
+
+The easiest way to start mining and get bitcoins or fiat!
+
+Mining to Kryptex account
+
+Bitcoin payouts without the Kryptex application.
+
+Invite miners and earn 20% of pool’s fee
+
+Get Kryptex Pool referral link.
+
+New
+Share knowledge, ask questions.
+Our community can help you to solve
+any problem.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What is Kryptex Pool?
+
+Kryptex Pool is a new altcoin mining pool. We have made it reliable, efficient and profitable.
+
+Regular monitoring of mining profitability
+
+We constantly monitor the profitability of our pool and we can say that our pool is one of the best pools in terms of profitability.
+
+High reliability
+
+The servers are located in one of the largest data centers in Europe.
+
+Multicurrency Pool
+
+Ethereum POW, Ethereum Classic, Ravencoin, Ergo, Monero and Kaspa coins are available.
+
+Compatibility
+
+The pool works with any miners, HiveOS and RaveOS.
+
+Two ways to start. Choose what works for you.
+
+Get started in minutes.
+
+Kryptex Pool
+
+Mine directly to your wallet. Get paid in the coin you mine — no accounts, no extra setup. Perfect for ASIC, FPGA, GPU and CPU rigs.
+Start mining
+
+Kryptex Miner
+
+Mine any coin — get paid in BTC. One app for Windows PCs. No need to create multiple wallets or switch coins. Easy setup and stable payouts.
+Download Kryptex Miner
+SHA256
+SCRYPT
+SHA3X
+KAWPOW
+C29
+RX
+Products
+Kryptex Miner 
+Monitoring bot 
+Kryptex Mobile App 
+ASIC Firmware 
+ASIC Manager 
+Resources
+Best Mining GPUs 
+Mining Calculator 
+Overclocking Database 
+Hardware
+ASIC
+CPU
+GPU
+Pools
+Get Kryptex Pool referral link 
+About Kryptex
+Compare pools
+Apply for VIP 
+Help Center
+Support
+Knowledge Base
+
+© 2025 Kryptex. All rights reserved.

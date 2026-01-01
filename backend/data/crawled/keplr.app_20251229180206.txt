@@ -1,0 +1,941 @@
+Products
+Interoperability
+Chains
+Ecosystem
+Support
+Get Keplr
+YOUR MULTICHAIN
+GATEWAY
+Get Keplr Wallet
+Introducing Keplr, the fast,simple, secure wallet that plugs you into any blockchains and apps wherever you go. Pioneering its ways in the multichain future from day one.
+0
+1
+2
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
++
+Chains
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+M
++
+Monthly Transacting Users
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+M
++
+Installs
+Keplr Products & Services
+The Seamless Multichain Experience
+
+Stay in Keplr, Do It All. With Keplr’s unified suite of products, you can manage all your on-chain activities and assets without switching networks or wallets.
+
+Extension
+
+Fast & Lean. Right in Your Browser.
+
+Get for Chrome
+Discover Extension
+Cross-Chain Swap
+Claim Rewards
+Manage Staking
+Send, Receive, Buy
+Advanced Features
+Mobile App
+
+Multichain on the Go.
+
+Get App
+Explore Mobile App
+Cross-Chain Swap
+Manage Staking
+App Browser
+Send, Receive, Buy
+Vote
+Dashboard
+
+Powerful and Versatile.
+
+Open ↗
+Explore Dashboard
+Multichain Portfolio
+Validator Updates
+Stake & Liquid stake
+Explore Apps
+Manage NFTs
+Vote
+Validator Dashboard
+
+The One-Stop Solution for Validators.
+
+Open ↗
+Explore  KVD
+Claim Commission
+Grow Your Community
+Vote and Explain
+No More CLI Commands
+Multisig
+Beta
+
+Made for DAOs and teams. Simple, hassle-free shared account management.
+
+Open ↗
+Explore Multisig
+Create Shared Account
+Create Transactions
+Track Transactions
+Manage Membership
+Oko
+NEW
+
+The Fully Open-Source Embedded Wallet Stack.
+
+Get Started ↗
+Build with Oko ↗
+Instant onboarding with email/social logins
+
+One portable wallet across apps
+Simple multichain access
+
+Fully open-source
+Keplr Infra
+
+Powerful RPC Provider and Validator.
+
+Learn More ↗
+99.9%+ SLA
+40+ Networks
+60+ Servers
+3M+/day & 10B/mo Requests
+Interoperability
+One Wallet,
+Full Interoperability
+
+Easily plug into the new decentralized web experiences with Keplr.
+
+Multiple Login Options
+
+Log in with your Google account or Apple ID.
+Scan QR code to sign in to any apps.
+Connect your hardware wallets.
+
+Self Custodial
+Flexible
+Secure
+EVM Support
+
+Dive into its vast array of blockchain apps.
+
+Starknet Support
+
+Connect to the future of verifiable Internet.
+
+Fuel Your Multichain Journey
+Go Beyond Limits with Keplr
+Total Chains: 363
+
+Bitcoin
+
+Ethereum
+
+Arbitrum
+
+Avalanche
+
+Base
+
+Berachain
+
+Blast
+
+BNB Smart Chain
+
+Cosmos Hub
+
+Gravity Alpha Mainnet
+
+Ink
+
+Linea
+
+Monad Mainnet
+
+Optimism
+
+Polygon
+
+Story
+
+Unichain
+
+Bitcoin Signet
+
+Bitcoin Testnet
+
+Agoric
+
+Akash
+
+AtomOne
+
+Axelar
+
+Babylon Genesis
+
+Bostrom
+
+Celestia
+
+Chihuahua
+
+Cronos POS
+
+dYdX
+
+Dymension
+
+Elys Network
+
+Evmos
+
+Initia
+
+Injective
+
+Injective (Testnet)
+
+IRISnet
+
+Jackal
+
+Juno
+
+Kava
+
+KYVE
+
+Lava
+
+LikeCoin
+
+Lumera
+
+MANTRA
+
+MilkyWay
+
+Neutron
+
+Nillion
+
+Noble
+
+Nolus
+
+OmniFlix
+
+Osmosis
+
+Passage
+
+Persistence One
+
+Pocket Network
+
+Provenance
+
+Pryzm
+
+Quicksilver
+
+Regen
+
+Saga
+
+Secret Network
+
+SEDA
+
+Sentinel
+
+Sommelier
+
+Stargaze
+
+Starknet
+
+Stride
+
+Terra
+
+Terra Classic
+
+Union
+
+UX
+
+XION
+
+XPLA
+
+XRPL EVM
+
+ZetaChain
+
+ZIGChain
+
+0G Galileo Testnet
+
+Aaron Network
+
+AIOZ Network
+
+Allingaming Testnet
+
+Allora
+
+Allora Testnet
+
+Althea
+
+Andromeda
+
+Archway
+
+Archway (Testnet)
+
+Arkeo
+
+AssetMantle
+
+AtomOne Testnet
+
+Aura Network
+
+Aurora
+
+Aurora Testnet
+
+Axelar Testnet
+
+Axone
+
+Axone Testnet
+
+Babylon Euphrates Devnet
+
+Babylon Testnet
+
+BandChain
+
+BandChain V3 Testnet
+
+BeeZee
+
+BeeZee Testnet
+
+Berachain bArtio Testnet
+
+BFHEVM Testnet
+
+BitBadges
+
+BitCanna v1
+
+Bitrock Mainnet
+
+BitSong
+
+BlockX
+
+bluechip
+
+Bluzelle
+
+Bluzelle Testnet
+
+Botanix Testnet
+
+bouachain
+
+BuyCex Infinity Chain
+
+Canto
+
+Carbon
+
+Carbon EVM
+
+Celestia Mocha Testnet
+
+Chain4Energy
+
+Cheqd
+
+Cifer
+
+Cintara-Testnet
+
+Citrea Testnet
+
+CNHO Stables
+
+Comdex
+
+Comdex Testnet
+
+conscious
+
+Coreum
+
+Coreum Testnet
+
+Cosmos Hub Testnet
+
+Cosmoshub Provider Testnet
+
+Coss
+
+Crescent Network
+
+CrossFi Mainet
+
+CrossFi Testnet
+
+Cysic Network Mainnet
+
+Derive
+
+Desmos
+
+Developer Network
+
+dHealth
+
+dHealth Testnet
+
+Divine Mainnet
+
+Divine Testnet
+
+Dora Vota
+
+Dora Vota Testnet
+
+Dungeonchain
+
+dydx Testnet
+
+Dymension Testnet
+
+Dyson Protocol
+
+e-Money
+
+Ebony
+
+Eden Testnet
+
+Elys Network Testnet
+
+Empe Testnet
+
+Epix
+
+Ethereum Sepolia
+
+Fairblock FairyRing Testnet
+
+FANDOMCHAIN Network
+
+fetchhub
+
+Fiamma Testnet
+
+Finschia
+
+FirmaChain
+
+Flame
+
+Flame Testnet
+
+Flare
+
+Forma
+
+Forma Sketchpad
+
+Furya
+
+Galactica Reticulum Testnet
+
+GGEZ1 Chain
+
+Gitopia
+
+Gonka
+
+GovGen
+
+Gravity Bridge
+
+HAQQ Network
+
+HAQQ Network (EVM layer)
+
+Hedge (Testnet)
+
+HeliChain
+
+HICKORY-TEST
+
+Hippo Protocol
+
+Hippo Protocol Testnet
+
+HoneyWood
+
+Humans.ai
+
+HyperEVM
+
+HyperEVM Testnet
+
+iconLake
+
+iconLake Testnet
+
+Impact Hub
+
+Initia Testnet
+
+Inns
+
+Int3face
+
+Int3face
+
+Intento
+
+Intergaze
+
+Invest Network-devnet
+
+Joltify
+
+Kakarot Starknet Sepolia
+
+Kaon (Testnet)
+
+Kii Testnet Oro
+
+Kima Network
+
+Kima Sardis Network (Testnet)
+
+kopi
+
+Korellia (Devnet)
+
+Kujira
+
+Lambda
+
+Lava Testnet
+
+Lefeef Network
+
+Lefeef Testnet
+
+LikeCoin Testnet
+
+LIXX Blockchain
+
+LIXX Blockchain Testnet
+
+Loop Fans
+
+Lum Network
+
+LumenX
+
+Lumera Testnet
+
+Mande Network
+
+Manifest
+
+Manifest Testnet
+
+MANTRA Dukong EVM
+
+MANTRA Dukong Testnet
+
+MANTRA EVM
+
+MANTRA Hongbai Testnet
+
+Medas Digital 2.0
+
+MediBloc
+
+Meme Network
+
+MemeCore
+
+MemeCore Formicarium
+
+Migaloo
+
+Milkyway Rollup
+
+MinePlex Mainnet
+
+MoleculeAI
+
+mtgbp
+
+Mutelandia Network
+
+Neutaro
+
+Neutron Testnet
+
+Nibiru
+
+Nibiru Devnet 1
+
+Nibiru EVM
+
+Nibiru Testnet 2
+
+nibiru-devnet3
+
+nibiru-testnet1
+
+Nillion Testnet
+
+NIM Network
+
+Noble AppLayer Devnet
+
+Noble Devnet
+
+Noble Testnet
+
+Nois
+
+Nubit Alpha Testnet
+
+Nyx
+
+ODIN
+
+OmniFlix FlixNet-4
+
+Optio
+
+Oraichain
+
+Osmosis Testnet
+
+ovg
+
+Ozone Chain
+
+Paloma
+
+Passage Testnet
+
+Paxi Network
+
+Paxi Network Testnet
+
+Pell Network Testnet
+
+Persistence Testnet 2
+
+Picasso
+
+Picasso Testnet
+
+Planq
+
+Planq Atlas Testnet
+
+Pocket Network Testnet
+
+Provenance Testnet
+
+pryzmtestnet
+
+Pundi AIFX
+
+QFS
+
+Qubetics-AlphaTestnet
+
+Qubetics-Mainnet
+
+Qubetics-Testnet
+
+Qwoyn
+
+Qwoyn Testnet
+
+Realio
+
+Reapchain Mainnet
+
+Republic AI Devnet
+
+RITBIT Testnet
+
+Router
+
+Rubcoin
+
+Safrochain Testnet
+
+Safrochain Testnet
+
+Saga Testnet v2
+
+SagaEVM
+
+Scorum Cosmos Network
+
+Secret Testnet
+
+SEDA (TESTNET)
+
+Sei
+
+Sei Devnet
+
+Sei EVM
+
+Sei Testnet
+
+Self Chain
+
+Self Chain Dev
+
+Self Chain Testnet
+
+SGE
+
+SGE Network Testnet
+
+Shardeum
+
+Shareledger
+
+Shareledger Public Testnet
+
+Shentu
+
+Shentu Testnet
+
+Shido
+
+Shido-Testnet
+
+Side Chain
+
+Sifchain
+
+SIX Protocol
+
+SIX Protocol Testnet
+
+Soarchain Testnet
+
+Source
+
+StaFi Hub
+
+Stalwart Dev
+
+Stalwart Testnet
+
+Stargaze Testnet
+
+Starname
+
+STO Chain
+
+STO Chain Testnet
+
+Stratos Network
+
+Stride Testnet
+
+Sunrise
+
+Sunrise Testnet
+
+Surge Execution Testnet
+
+Swisstronik Mainnet
+
+Swisstronik Testnet
+
+Symphony
+
+Symphony Testnet
+
+synternet
+
+TakeTitan
+
+Taraxa
+
+Tellor Mainnet
+
+Tenet
+
+Teritori
+
+Terp Network
+
+Terp Testnet
+
+Terra Classic Testnet
+
+Tgrade
+
+THORChain
+
+Titan
+
+Titan Testnet
+
+Titan Testnet
+
+TradeView-devnet
+
+Tucana Testnet
+
+Tucana Testnet
+
+Tura
+
+Unicorn
+
+Unification
+
+Union Testnet
+
+UnUniFi
+
+Uptick Network
+
+Vanar Chain
+
+Vanguard
+
+vector
+
+Warden Protocol Buenavista
+
+Warden Protocol Chiado
+
+Warden Protocol Chiado
+
+Wormhole Gateway
+
+Xion Testnet
+
+xplatestnet
+
+XRPL EVM Testnet
+
+Zenrock
+
+Zenrock Gardia Testnet
+
+ZetaChain Athens 3 Testnet
+
+ZIGChain Testnet
+
+Your Multichain Gateway
+Products
+Extension
+Mobile App
+Dashboard
+Validator Dashboard
+Multisig
+Keplr Infra ↗
+Keplr
+Get Keplr
+Brand Assets
+Help Desk ↗
+Feature Request  ↗
+Careers ↗
+Developers
+Integration ↗
+GitHub ↗
+Documentation ↗
+Infra Status ↗
+Legal
+Terms of Use ↗
+Privacy Policy ↗
+Follow
+x.com ↗
+Medium ↗
+© 2025, Keplr Wallet

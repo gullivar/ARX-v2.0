@@ -1,0 +1,171 @@
+Skip to main content ↑ ↓
+HydrogenAudio 
+  
+1 Hour
+1 Day
+1 Week
+1 Month
+Forever
+ 
+Community
+ Forum
+Terms
+Wiki
+foobar2000
+SRC Comparison
+Log in
+Register
+Home
+Notice
+Please note that most of the software linked on this forum is likely to be safe to use. If you are unsure, feel free to ask in the relevant topics, or send a private message to an administrator or moderator. To help curb the problems of false positives, or in the event that you do find actual malware, you can contribute through the article linked here.
+  User Info
+Username: 	
+Password: 	
+
+1 Hour
+1 Day
+1 Week
+1 Month
+Forever
+	
+Welcome to HydrogenAudio. Please login or register.
+  Board Stats
+Total Members: 0
+Total Posts: 0
+Total Topics: 0
+Total Categories: 0
+Total Boards: 0
+Most Online: 21,221
+  Theme Select
+Forum Default
+Default
+Silence
+Clean
+
+
+
+
+ Permanently
+
+  Recent Topics
+	One updated and one new audio processing DSP library
+[Scientific Discussion]	Ni-dra
+Today at 15:53
+
+
+	Personal Blind Listening Test of xHE-AAC, HE-AACv2, Opus, and AI-based TSAC
+[Listening Tests]	Kamedo2
+Today at 14:18
+
+
+	SNAC - Multi-Scale Neural Audio Codec
+[Other Lossy Codecs]	Kamedo2
+Today at 14:13
+
+
+	Considering a Nunchaku: of DAC filter settings, Cirrus humps, etc
+[Audio Hardware]	RJVB
+Today at 13:45
+
+
+	Sample Rate Conversion Testing
+[News]	bennetng
+Today at 12:21
+
+
+	exhale - Open Source USAC encoder
+[Other Lossy Codecs]	NetRanger
+2025-12-30 18:03:04
+
+
+	ADC (Adaptive Differential Coding) My Experimental Lossy Audio Codec
+[Other Lossy Codecs]	Nania Francesco
+2025-12-30 17:49:39
+
+
+	Add album cover after EAC rip to .flac
+[CD Ripping]	itisljar
+2025-12-30 10:02:52
+
+
+	AccurateRip down?
+[CD Ripping]	Boiled Beans
+2025-12-30 03:40:06
+
+
+	CUETools DB
+[CUETools]	korth
+2025-12-29 22:37:42
+
+
+	musepack vectorization
+[MPC]	Julien
+2025-12-29 16:16:42
+
+
+	Opus 1.6 is out
+[Opus]	itisljar
+2025-12-29 10:34:27
+
+
+	BD-multi UJ240AS drive: EAC rips left channel samples duplicated in right
+[CD Ripping]	Donut
+2025-12-28 22:18:40
+
+
+	Quick test of 2 weird codecs: MP1 and MIO
+[Listening Tests]	darkbyte
+2025-12-27 14:22:36
+
+  Board News
+Anna's Archive "backed up Spotify"
+2025-12-23 08:30:53 by C.R.Helmrich | Views: 2219 | Comments: 3
+Summary:
+
+
+Quote
+Backing up Spotify
+
+annas-archive.li/blog, 2025-12-20, Discuss on Hacker News
+
+We backed up Spotify (metadata).
+
+This release includes the largest publicly available music metadata database with 256 million tracks and 186 million unique ISRCs.
+
+
+
+(edit Spoons note - re [TOS 9]: Google AI: "No, music album names are not copyrightable. Under intellectual property laws in the United States and many other jurisdictions, copyright does not protect short phrases, titles, or slogans. "
+
+So the metadata titles are fair game as far as copyright goes, the first release of metadata would not fall foul of copyright laws)
+Read More Reply
+Themes are active!
+2025-12-11 11:12:59 by spoon | Views: 2776 | Comments: 13
+We have:
+
+Elkarte - default
+Clean - minimalist
+Silence - darkmode
+
+Read More Reply
+[OPEN SORUCE] Straw - lossless codec for efficiently storing multichannel audio
+2025-12-03 16:56:56 by forart.eu | Views: 2652 | Comments: 0
+Straw is a lossless audio codec derived from FLAC but redesigned for multi-channel material and simplified framing. It maintains LPC prediction and Rice residual coding while adding mechanisms to exploit similarities between channels. The result is a format that is structurally simpler than FLAC and often more efficient when many microphones or correlated signals are involved.
+
+Summary:
+• Adds correction data for multi-channel alignment (shift, bias, gain).
+• Provides per-channel shift matrices and removed-sample alignment information.
+• Removes FLAC block-size tables, sample-rate codes, channel-assignment codes, wasted-bits, and many reserved fields.
+• Uses a new 14-bit sync code and non-byte-aligned subframes. 
+• Supports both standard Rice and FF-Rice residual coders.
+• Designed to improve compression for multi-channel audio compared to FLAC.
+
+Git_v1: https://github.com/KLZ-0/straw#readme
+Git_v2: https://github.com/KLZ-0/straw2#readme
+
+Tech docs: Design - Differences from FLAC - The .straw file format - Size history
+Read More Reply
+1
+2
+next
+Powered by ElkArte 1.1.8 | Credits | SimplePortal 1.0.0 © 2008-2025
+RSS

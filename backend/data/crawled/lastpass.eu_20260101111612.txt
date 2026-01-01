@@ -1,0 +1,1 @@
+LastPass - Homepage Log In JavaScript is required to use LastPass. Our local encryption/decryption to keep your sensitive data out of our hands depends on it. We do not recommend you attempt to login without JavaScript enabled

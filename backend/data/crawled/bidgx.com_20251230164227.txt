@@ -1,0 +1,92 @@
+We will be attending Advertising Week Europe 2025. Please contact us to schedule a meeting. Looking forward to connecting!
+PREBID PREMIUM DEMAND NETWORK
+Unlock the full premium demand today!
+Request Invitation
+BidgencyX:
+  AI_engine:
+    user_matching:
+      score: 0.95
+      profile_data:
+        interests: ["technology"]
+        demographic: "25-34"
+        location: "USA"
+  bidding_process:
+    - advertiser: "American Express"
+      bid: "$7.50"
+      format: "728x90"
+      type: "Banner"
+      result: "WIN"
+    - advertiser: "Disney"
+      bid: "$5.93"
+      format: "300x250"
+      type: "Banner"
+      result: "LOSE"
+    - advertiser: "Nike"
+      bid: "$6.42"
+      format: "160x600"
+      type: "Banner"
+      result: "WIN"
+    - advertiser: "Apple"
+      bid: "$7.89"
+      format: "300x600"
+      type: "Banner"
+      result: "LOSE"
+    - advertiser: "McDonald's"
+      bid: "$6.25"
+      format: "970x250"
+      type: "Banner"
+      result: "WIN"
+    - advertiser: "Samsung"
+   
+BidgencyX:
+  AI_engine:
+    user_matching:
+      score: 0.95
+      profile_data:
+        interest
+$32M / year
+Direct Demand for our publishers
+4x CPM
+Increase in CPM after bypass DSP Fees
+30 agencies
+Top media agencies in Tier 1 countries
+NET35
+Prompt payments for publishers
+-
+cutting-edge header bidding.
+Contact
+AI Bidder
+Where Quality Boosts CPM.
+Through the fusion of direct advertiser needs and optimal header bidding, our algorithm propels publishers to unmatched CPM heights.
+Technology
+Products that run on our technology
+‍
+Display
+Our advanced AI algorithm works tirelessly, employing state-of-the-art techniques to constantly refine and enhance user matching.
+Native
+Native placements excel due to the CPC model. We monitor ROI on the demand side to either increase or decrease demand for the publisher.
+Video
+Utilizing both display and native data, we can effectively direct video demand to the most appropriate users.
+Real Time
+We provide real-time bid and revenue data, updated every second.
+800ms, Always Fast
+Place bids in under 1000ms is crucial for enhancing revenue.
+Artificial Intelligence
+Our geeks collaborate with GPT-4 to consistently obtain the most efficient algorithm.
+Request slot
+Unlock the power of Advertising!
+Request Premium Slot
+More than 125 active publishers! 😮
+Join them now
+Newsletter
+Sign up for our newsletter
+✌ We promise not to spam!
+Company
+Contact
+ 
+Privacy Policy
+ 
+Sellers.json
+2025 © BIDGENCY GROUP LP. All rights reserved.
+360 Guelph St, Georgetown, Ontario, Canada, L7G4B5
+Request Slot

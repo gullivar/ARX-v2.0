@@ -1,0 +1,11 @@
+Rpmfind mirror located at Insa-lyon.fr
+Go directly to the RPM database
+Learn more about rpmfind and rpm2html
+ 
+
+News:
+Location:
+
+This server is located in Lyon, within the Creatis laboratory. Like other rpmfind mirrors, this machine is using a large amount of bandwidth, and credits go to the CISR, Centre Inter-Etablissement pour les Services Reseau, for providing this connectivity.
+
+Fabrice Bellet <fabrice@bellet.info>

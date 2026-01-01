@@ -1,0 +1,175 @@
+Get started
+Downloads
+Playground
+Community
+Documentation
+Security
+Donate
+Blog
+
+
+
+
+Enjoy long-term maintainable software you can rely on
+Declarative, statically typed code.
+primes = filterPrime [2..] where
+  filterPrime (p:xs) =
+    p : filterPrime [x | x <- xs, x `mod` p /= 0]
+
+
+
+Get started
+
+
+
+
+
+Try it!
+Type Haskell expressions in here.
+λ 
+ 
+Got 5 minutes?
+
+Type help to start the tutorial.
+
+Or try typing these out and see what happens (click to insert):
+
+23 * 36 or reverse "hello" or foldr (:) [] [1,2,3]
+
+
+
+Why Haskell?
+A new paradigm
+
+Express your ideas clearly and learn a new way of thinking about programming. Based on lambda calculus Haskell is a purely functional programming language that features referential transparency, immutability and lazy evaluation. Concepts that will blow your mind — relearn programming while having an absolute blast.
+
+Composition and predictability
+
+Reason about large pieces of code and compose them easily. There is no global state or mutable variables obscuring the meaning of your program. The strong type system makes sure there are no surprises — never again will you have to guess what your program does at execution time.
+
+Declarative
+
+Write your programs declaratively by utilizing the power of pure functions and algebraic data types. In Haskell we don't write how a program should be executed, we just describe its logic — never again be forced to think about evaluation order or execution details.
+
+Performance
+
+Squeeze out the last ticks of your multi-core processors, thanks to best-in-class support for async, concurrent and parallel programming... made possible via garbage collection and green threads. Use advanced streaming libraries for ultra efficient data processing.
+
+Abstraction
+
+Build powerful abstractions that are not possible in other languages. Only your imagination is the limit, due to polymorphism, type classes and more advanced typesystem features. Haskell has its roots in programming language research and will always be at the forefront of expressivity.
+
+Excellent tooling
+
+A tooling story that's truly amazing: spawn your toolchain with GHCup, build your project with cabal, get editor integration with haskell-language-server — everything at your fingertips. GHC is the next generation compiler that supports all of your favorite platforms.
+
+Videos
+
+
+Escape from the ivory tower: The Haskell journey, by Simon Peyton-Jones
+Functional Programming & Haskell, by Computerphile / John Hughes
+Past and Present of Haskell – Interview with Simon Peyton Jones
+Functional Programming in Haskell, by Graham Hutton
+What is a Monad? by Computerphile / Graham Hutton
+The Haskell Unfolder: Dijkstra's shortest paths, by Andres Löh and Edsko de Vries
+Testimonials
+e-bot7
+Haskell allows us to create powerful, reliable software with confidence. It allows us to detect unwanted behavior before it shows up in our production environment.
+finn.no
+FINN.no is an online classified ad site, and we use Haskell in production. It allows us to express business logic with focus on correctness and we benefit greatly from the safe and joyful refactoring Haskell brings.
+NoRedInk
+The highest-traffic features of noredink.com are now served via Haskell. We've seen a huge performance improvement compared to what was previously doing that work as well as a massive reduction in production error rates.
+IOHK
+Smart contract systems are largely about programming languages, and when it comes to programming languages work there is no competitor to Haskell.
+Calabrio
+At Calabrio we use Haskell to build our Customer Intelligence and Analytics Platform (Calabrio Advanced Reporting). Haskell's robust typing and semantics offer us important guarantees for our data operations and processes.
+Bellroy
+We've found the stability, maintainability and performance of Haskell to be exceptional and we look forward to more of that in the years to come.
+CentralApp
+We use Haskell... Because solving complex problems well requires the best tools in the business.
+HubSpot
+Haskell drives our data synchronization engine, delivering highly configurable two-way sync to our customers. It enables us to build and evolve complex software with confidence at HubSpot scale.
+Serokell
+Haskell enables us to build reliable, performant, and maintainable applications for our clients in biotech, fintech, and blockchain.
+Bitnomial
+Haskell gives us huge leverage over our complex business domain while allowing us to stay nimble and innovate. The type system allows us to integrate new knowledge quickly and refactor our sizeable code base with relative ease.
+Foxhound Systems
+At Foxhound Systems, we build custom software for a variety of clients. Haskell is our first choice for building production systems because it is unrivaled in the combination of developer productivity, maintainability, reliability, and performance that it offers.
+Imagine AI
+ImagineAI is a smart code generator written in Haskell that instantly turns your app spec into clean Django and Node source code.
+Mercury
+Mercury offers banking for startups — at any size or stage. We use Haskell to meet our customers' high standards for correctness and security.
+Scarf
+Haskell powers Scarf's backend, helping us move fast and not break things. It offers unparalleled maintainability, so we can quickly and safely adapt our system to the moving target of customer demands.
+Hasura
+Haskell is an ideal prototyping tool, when we want to build an MVP and get a prototype out as quickly as possible...Haskell lets us be precise when we need to be, and fast when we want to be.
+Scrive
+Scrive uses Haskell to build secure and scalable e-signing, programmable document workflows and customer onboarding solutions. The Haskell language comes with a developer community that is a pleasure to work in (and with).
+Stack Builders
+Haskell makes it possible to maintain an EdTech platform in 23 languages for more than 70K users from one of the largest multinational financial services corporations.
+Fission
+Haskell enables Fission to build rock solid, maintainable, and performant services and tools.
+«
+»
+Features
+Statically typed
+
+Every expression in Haskell has a type which is determined at compile time. All the types composed together by function application have to match up. If they don't, the program will be rejected by the compiler. Types become not only a form of guarantee, but a language for expressing the construction of programs.
+
+Click to expand
+
+Purely functional
+
+Every function in Haskell is a function in the mathematical sense (i.e., "pure"). Even side-effecting IO operations are but a description of what to do, produced by pure code. There are no statements or instructions, only expressions which cannot mutate variables (local or global) nor access state like time or random numbers.
+
+Click to expand
+
+Type inference
+
+You don't have to explicitly write out every type in a Haskell program. Types will be inferred by unifying every type bidirectionally. However, you can write out types if you choose, or ask the compiler to write them for you for handy documentation.
+
+Click to expand
+
+Concurrent
+
+Haskell lends itself well to concurrent programming due to its explicit handling of effects. Its flagship compiler, GHC, comes with a high-performance parallel garbage collector and light-weight concurrency library containing a number of useful concurrency primitives and abstractions.
+
+Click to expand
+
+Lazy
+
+Functions don't evaluate their arguments. This means that programs can compose together very well, with the ability to write control constructs (such as if/else) just by writing normal functions. The purity of Haskell code makes it easy to fuse chains of functions together, allowing for performance benefits.
+
+Click to expand
+
+Packages
+
+Open source contribution to Haskell is very active with a wide range of packages available on the public package servers.
+
+Click to expand
+
+
+
+Sponsors
+
+Fastly's Next Generation CDN provides low latency access for all of Haskell.org's downloads and highest traffic services, including the primary Hackage server, Haskell Platform downloads, and more.
+
+Status.io powers https://status.haskell.org, and lets us easily tell you when we broke something.
+
+Scarf provides data and insights on the adoption of Haskell in order to support efforts to grow the Haskell ecosystem and facilitate industry support for the language.
+
+DreamHost has teamed up to provide Haskell.org with redundant, scalable object-storage through their Dream Objects service.
+
+Digital Ocean hosts critical Haskell.org infrastructure.
+
+UpCloud provides high-performance cloud infrastructure that powers GHC's CI pipelines.
+
+Maintenance of this site
+Hosted and managed by Haskell.org, Inc., a 501⁠(c)⁠(3) non-profit.
+Psst! Looking for the wiki?
+
+This is the new Haskell home page! The wiki has moved to wiki.haskell.org.
+
+© 2014–2025 haskell.org
+Got changes to contribute to the site? Fork or comment on GitHub
+

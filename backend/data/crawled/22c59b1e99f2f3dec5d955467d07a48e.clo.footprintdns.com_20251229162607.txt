@@ -1,0 +1,1 @@
+cw1 cw1prdapp01 cw1prdapp01-canary VmssX64 4 4 78fe7a30-1892-4539-ae2c-95fe017eef3e 10.1.0.8 1.0.5.1355

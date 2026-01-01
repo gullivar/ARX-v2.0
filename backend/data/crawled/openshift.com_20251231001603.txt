@@ -1,0 +1,209 @@
+Skip to content
+AI
+Hybrid cloud
+Products
+Training
+Learn
+Partners
+Search
+For you
+Log in
+Red Hat OpenShift
+Product editions
+Documentation
+Explore
+Learn
+Get started
+Pricing 
+Home  Products  Red Hat OpenShift
+Red Hat OpenShift
+
+Develop, modernize, and deploy applications at scale on a trusted and consistent platform. Innovate faster and simplify AI adoption with a comprehensive set of tools on your choice of infrastructure.
+
+Try it
+Managed cloud services
+Self-managed editions
+Available on Cloud Partners
+Red Hat OpenShift 4.20 is here
+
+Run the apps you need, wherever you need them with new capabilities to accelerate AI workloads and expand virtualization support across sovereign clouds.
+
+Explore Red Hat OpenShift 4.20
+Why choose Red Hat OpenShift as your application platform?
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+See the value of a unified application platform. Video duration: 2:33.
+
+Power the entire application lifecycle
+
+Build modern, cloud-native applications on a single, centralized platform with Kubernetes at its core.
+
+A consistent experience, anywhere
+
+Use familiar tools and frameworks on your choice of self-managed editions or managed cloud services.
+
+Trusted by industry leaders
+
+Built-in security features and dedicated support free your teams to focus on innovative work.
+
+Here’s what analysts have to say about Red Hat OpenShift
+Explore Red Hat's rankings and reviews
+Red Hat is a Leader for the 3rd year in a row in the 2025 Gartner® Magic Quadrant™ for Container Management
+Read the report
+Red Hat is a Leader in the 2025 Gartner® Magic Quadrant™ for Cloud-native Application Platforms
+Read the report
+One platform. Any workload. Any infrastructure.
+AI
+Build and run AI
+
+Manage the lifecycle of predictive and generative AI models at scale, across hybrid cloud environments.
+
+Explore Red Hat OpenShift AI
+
+This video can't play due to privacy settings
+
+To change your settings, select the "Cookie Preferences" link in the footer and opt in to "Advertising Cookies."
+
+EJIE breaks linguistic barriers with AI and Red Hat. Video duration: 1:39
+
+Virtualization
+App dev and delivery
+App modernization
+See how others have had success
+Choose how and where you build
+
+Manage your environment on any supported infrastructure or cloud—or let Red Hat manage it for you on one of our partner cloud platforms. However you want to run, there’s a Red Hat OpenShift edition to meet your needs.
+
+Managed cloud services
+Managed cloud services
+
+Red Hat OpenShift is available as a managed application platform on the cloud provider of your choice. Make the most of your existing cloud investments by using your committed spend on Red Hat products and services.
+
+Available on Google Cloud
+
+Compare cloud services
+Self-managed editions
+Make your app platform work for you
+
+Extend Red Hat OpenShift from a single console with Red Hat OpenShift operators, built-in tools with automated management capabilities.
+
+Enhanced CI/CD workflows
+
+Create advanced CI/CD workflows for your applications with OpenShift GitOps and OpenShift Pipelines.
+
+Infrastructure management
+
+Simplify the development, management, and scaling of cloud-native and microservice-based applications with OpenShift Serverless and OpenShift Service Mesh.
+
+Real-time monitoring
+
+Analyze your systems and troubleshoot issues before they impact your applications or end users with Red Hat OpenShift Observability.
+
+Explore Red Hat OpenShift operators
+Develop applications with better results—and fewer risks
+
+Red Hat Advanced Developer Suite is a collection of components and tools to improve the developer experience, strengthen your software supply chain, simplify modernization, and deliver results faster on Red Hat OpenShift’s reliable platform. 
+
+Learn more
+Start learning
+
+Explore resources about Red Hat OpenShift based on your goals, expertise, and learning style.
+
+OpenShift essentials
+
+Access the tools and guidance you need to get the most out of Red Hat OpenShift, organized by environment and role.
+
+Training
+
+Validate your Red Hat OpenShift skills with training tailored to administrator or developer roles.
+
+Livestream
+
+Explore the tools that containers need to run in a cloud-native environment in the Ask an OpenShift Admin livestream.
+
+Build on a reliable foundation
+
+Enterprises around the world trust our broad portfolio of hybrid cloud infrastructure, application services, cloud-native application development, and automation solutions to deliver IT services on any infrastructure quickly and cost effectively.
+
+Red Hat Enterprise Linux
+Red Hat OpenShift
+Red Hat Ansible
+Automation Platform
+Red Hat AI
+ 
+What's next?
+Try it
+
+Whether you want to try our no-cost trials or get started with a pay-as-you-go option, we’ve got you covered.
+
+Start a trial
+Get started
+
+We offer multiple ways to use Red Hat OpenShift. Buy it in the cloud, from our partners, or work with sales.
+
+Explore pricing
+Get documentation
+
+Find answers, get step-by-step guidance, and learn how to use Red Hat products.
+
+Read documentation
+Talk to a Red Hatter
+Platforms
+Red Hat AI
+Red Hat Enterprise Linux
+Red Hat OpenShift
+Red Hat Ansible Automation Platform
+See all products
+Tools
+Training and certification
+My account
+Customer support
+Developer resources
+Find a partner
+Red Hat Ecosystem Catalog
+Documentation
+Try, buy, & sell
+Product trial center
+Red Hat Store
+Buy online (Japan)
+Console
+Communicate
+Contact sales
+Contact customer service
+Contact training
+Social
+About Red Hat
+
+Red Hat is an open hybrid cloud technology leader, delivering a consistent, comprehensive foundation for transformative IT and artificial intelligence (AI) applications in the enterprise. As a trusted adviser to the Fortune 500, Red Hat offers cloud, developer, Linux, automation, and application platform technologies, as well as award-winning services.
+
+Our companyHow we workCustomer success storiesAnalyst relationsNewsroomOpen source commitmentsOur social impactJobs
+Change page language
+简体中文
+English
+Français
+Deutsch
+Italiano
+日本語
+한국어
+Português
+Español
+Red Hat legal and privacy links
+About Red Hat
+Jobs
+Events
+Locations
+Contact Red Hat
+Red Hat Blog
+Inclusion at Red Hat
+Cool Stuff Store
+Red Hat Summit
+© 2025 Red Hat
+Red Hat legal and privacy links
+Privacy statement
+Terms of use
+All policies and guidelines
+Digital accessibility
+Cookie preferences

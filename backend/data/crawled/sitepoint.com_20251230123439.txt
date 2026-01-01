@@ -1,0 +1,463 @@
+AI Builder
+Alpha
+Premium
+Library
+Community
+Jobs
+Tools
+Tutorials
+Blog
+Login
+Start Free Trial
+
+Score code, devs, and debt fast.
+
+Start free trial
+sitepoint-terminal
+
+   _____ _ _       _____      _       _   
+  / ____(_) |     |  __ \    (_)     | |  
+ | (___  _| |_ ___| |__) |__  _ _ __ | |_ 
+  \___ \| | __/ _ \  ___/ _ \| | '_ \| __|
+  ____) | | ||  __/ |  | (_) | | | | | |_ 
+ |_____/|_|\__\___|_|   \___/|_|_| |_|\__|
+
+
+#
+
+Welcome to SitePoint!
+
+#
+
+Access a huge library of books and courses
+
+#
+
+On various topics: JavaScript, Python, AI, and more!
+
+#
+
+Use arrows to navigate
+
+>
+Start free trial
+2
+Browse library
+3
+Find a developer job
+4
+Join a community
+5
+Read our developer newsletter
+Top categories
+Browse all
+Python
+35 courses
+Web
+40 courses
+Design & UX
+74 courses
+Mobile
+26 courses
+Blockchain
+7 courses
+JavaScript
+175 courses
+Cloud & DevOps
+28 courses
+HTML & CSS
+112 courses
+WordPress
+17 courses
+PHP
+31 courses
+Ruby
+14 courses
+Back End
+72 courses
+Workflow
+114 courses
+Explore over 700 courses
+
+Browse our comprehensive collection of courses, books, and tutorials on a wide range of development and design topics.
+
+Swift Cookbook
+
+text
+
+Take this course
+
+Django A-Z: Build & Deploy Web Projects With Python & Django
+
+video
+
+Take this course
+
+Modern Computer Vision with PyTorch
+
+text
+
+Take this course
+
+Git & GitHub Masterclass: The Practical Bootcamp
+
+video
+
+·
+
+★ 5.0
+
+Take this course
+
+Unleashing the Power of Astro
+
+text
+
+·
+
+★ 2.0
+
+Take this course
+
+Web Development Foundation: Learn HTML5, CSS3 & Bootstrap
+
+video
+
+·
+
+★ 5.0
+
+Take this course
+Looking for more?
+
+Browse our comprehensive collection of courses, books, and tutorials on a wide range of topics.
+
+Browse Library
+Collection of more than 700 courses
+
+The home for developers
+
+Track your course progress, manage projects, and find your dream job - all in one place.
+
+Start your Free Trial
+Dashboard
+Courses
+Articles
+Learning Path
+Toolbox
+
+... I joined SitePoint to learn more about web stuff and their PHP/MySQL tutorial was probably the first I used.
+
+Matt Mullenweg
+
+Creator of WordPress, CEO of Automattic
+
+For all learning paths
+
+Whether you're a full-stack developer, designer, or looking to get into AI, we've got a path for you.
+
+Full Stack JavaScript Developer
+
+Learn JavaScript, the language of the web. Then deep dive into some popular frontend and backend JavaScript frameworks and start your Full Stack career the right way.
+
+Beginner
+·
+4 steps
+Start learning
+Web Development Basics
+
+Learn the major building blocks of the Web and get started by building your own interactive webpages.
+
+Beginner
+·
+2 steps
+Start learning
+Pro Dev Workflow
+
+Being a professional developer isn't just about the code you write but how you manage, test and deploy it. Learn the core development technologies and utilities to help you develop faster, and more securely.
+
+Intermediate
+·
+3 steps
+Start learning
+Build Beautiful Webpages
+
+Learn how to create webpages that not only look stunning but also provide the best user experience.
+
+Beginner
+·
+5 steps
+Start learning
+React Front End Development
+
+Get started with React - the Frontend Library from Meta that is by far the most popular and adopted way to build web applications
+
+Intermediate
+·
+4 steps
+Start learning
+Vue Front End Development
+
+Get started with Vue, a lightweight, fast and fun alternative to React.
+
+Intermediate
+·
+4 steps
+Start learning
+We've got a path ready for you!
+
+Discover our library filled with learning paths for all kinds of learners.
+
+Browse Library
+Recommended jobs for developers
+Browse thousands of jobs in Software Development
+Browse all jobs
+Unknown Company
+8h ago
+Change Manager (Rail and Engineering)
+Change Manager - Contract Role (Milton Keynes, Hybrid) Overview We are seeking an experienced Change Manager for a contract position based in Milton Keynes (hybrid working). This role sits within a high-profile national programme and requires a candidate with significant experience in rail and engineering environments , ideally with direct exposure to Network Rail (NR) operations, standards, and organisational structures. You will be embedded within a Change Team that works closely with large-scale engineering and maintenance functions across the network, engaging daily with heavy engineering and frontline maintenance colleagues. This industry-specific experience is essential . Key Requirements Rail and engineering background is mandatory. Relevant Network Rail (NR) experience or experience within comparable rail infrastructure organisations. Ability to operate confidently within large national engineering, maintenance, and operational teams. High proficiency in SharePoint (document management, site administration, collaboration workflows). Role Responsibilities Business Change Delivery Proactively prepare the business for the impact of change throughout the full lifecycle-from concept through to execution and post-implementation review. Act as the critical interface between the project team and business users to ensure all change activities are planned, coordinated, and executed successfully. Plan, manage, and monitor the implementation of changes, including: Impact assessments Resource analysis Risk/conflict resolution Contingency planning Governance, Best Practice & Assurance Champion best-practice change management methodologies and provide expert guidance to project teams and wider stakeholders. Support the Project Manager in developing and updating the change management elements of the Business Case. Establish, own, and maintain the Change Plan for your specific area of responsibility. Business Readiness Identify, define, and continually update business readiness criteria. Ensure stakeholders across engineering and maintenance functions are prepared, aligned, and supported through the change process. Stakeholder Engagement & Communications Work closely with the Project Manager and Stakeholder Manager to develop and maintain communication plans. Provide high-quality content for all business-change communications. Identify and classify stakeholders, ensuring they are represented appropriately within engagement and readiness plans. We are an equal opportunity employer and value diversity in our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Milton Keynes, UK
+Tetra Tech
+8h ago
+Asbestos Consultant / Senior Asbestos Consultant - UK WIDE
+UK WIDE OPPORTUNITIES We are looking for a number of candidates in various locations Are you ready to take the next step in your career? Do you want to do meaningful work that improves quality of life? At Tetra Tech, you will work with high-performing teams who are passionate about using their expertise to find solutions to complex problems in water, environment, infrastructure, resource management, defence, energy, and international development. This well established and thriving multi-disciplinary company is looking to recruit self-motivated Asbestos Analysts / Surveyors.Due to current workload and expanding our team, we have a number of opportunities throughout the UK. There is also the opportunity for international travel as a significant proportion of our works are overseas. Qualifications required are the British Occupational Hygiene Society modules P402, P403 and P404. You should be able to demonstrate experience of carrying out asbestos surveys and air-monitoring across a variety of property types Key duties: Carrying out asbestos surveys, re-inspections and sampling Carrying out asbestos smoke, background, leak reassurance, visual, 4 stage clearances and re-occupation and personal air testing Managing asbestos removal work to monitor that the work is carried out in accordance with relevant guidelines and procedures Collating and producing comprehensive reports as and when required Liaising with clients on a regular basis Requirements: British Occupational Hygiene Society modules P402, P403 and P404 or equivalent are required A minimum of 5 GCSEs or equivalent at grade C or above including english and maths Higher level qualifications such as an HND or equivalent would be advantageous The successful applicant will be an all-rounder, flexible, will have a good work ethic, good attention to detail and the ability to work independently and as part of a team. Security clearance and criminal background check requirements for work on various police and government contracts Willing to travel both locally, regionally and internationally Good communication skills, both written and verbal This is an exciting opportunity to join a successful company that offers a competitive salary, company car or car allowance, 25 days holiday (plus an additional days leave for your birthday), attractive pension and benefits package. Qualifications required are the British Occupational Hygiene Society modules P402, P403 and P404. About Tetra Tech: Tetra Tech is a leading provider of high-end consulting and engineering services for projects worldwide. We combine the resources of a global, multibillion dollar company with local, client-focused delivery in more than 400 locations around the world. We are Leading with Science to provide sustainable and resilient solutions for our clients. At Tetra Tech, we provide a collaborative environment that supports individual performance, innovation, and creativity. We are proud to offer competitive compensation and benefits. Learn more by visiting www.tetratecheurope.com/careers For more information on our company, please visit our website at www.tetratecheurope.com . To apply, please submit your resume and cover letter on the Careers portion of our website at Tetra Tech Europe Careers - Jobs (selectminds.com) We thank all applicants for their interest; however only those selected for an interview will be contacted. Tetra Tech is committed to creating a diverse environment and is proud to be an Equal Opportunity Employer. We invite resumes from all interested parties including women, minorities, veterans and persons with disabilities. We are alwayshappy to discuss flexible working, including the possibility of reduced hours, flexible start and finish times, or compressed hours.We can offer a range of solutions to help you to get the most out of your work / life balance.
+Bristol, UK
+Bright Purple Resourcing
+8h ago
+Software Engineer
+Software Engineer - Aberdeen, Hybrid This is an exciting opportunity to work for a global leader in the innovation, development, andcutting-edge software solutions used in oil and gas industry. What is in it for me: Salary up to £65,000 Hybrid working with 3 daysper week in the Aberdeen office. Private healthcare Career development - Our client is committed to investing in their R&D and the future of their employees The opportunity to work in attractive offices with a dynamic and passionate working environment The Role: As a Software Engineer, you will have the opportunity to work on cutting-edge technology and be involved in the full development lifecycle. You will have the abilityto develop cutting edge software that is utilised globally. This role is going to challenge you as well as giving you an opportunity to work alongside some of the finest developers, using some of the latest technologies. The ideal candidate will have: .Net development experience Experience with C/C++ or embedded software/ firmware Passion for technology and continuous development SQL Server Confident communication skills This is a fantastic chance to join a company that values diversity and inclusion and is dedicated to recruiting the right person for the role. If you are looking for a new and exciting challenge in the field of software engineering, then we want to hear from you. Apply now to take the next step in your career! Bright Purple is an equal opportunities employer: we are proud to work with clients who share our values of diversity and inclusion in our industry.
+Aberdeen, UK
+NU Concept Solutions Ltd
+8h ago
+Oracle HCM Consultant
+Oracle Cloud HCM Consultant [Recruitment and Performance Management] NU Concept Solutions haveanewcontractopportunityatoneofourclientsintheCity. TheroleisforanOracleCloudHCMconsultantwithstrongfunctionalexperienceinOracleRecruitmentCloudaswellasOraclePerformancemanagement. Agoodunderstandingoftechnicalelementsisalsorequiredandabilitytoliaisewiththetechnicalteam. Theinitialimplementationphasehasbeencompletedbutthereisasubstantialamountofworktobedonetoadaptandenhancethesystemaswellasongoingsupport. KeyRequirements Abletoconfidentlyworkwith, understandandadvisekeystakeholders thisisakeycapabilityrequiredforthisrole Bestrongatproblem-solving Haveathoroughunderstandingof OracleCloudHCMRecruitmentandPerformanceManagement . Knowledgeof OracleCloudCompensationandOraclePositionManagement wouldbebeneficial Haveagood understandingandsomeexperienceoftechnicaltasks includingintegrations,datamigration(includingdataloaders),Reporting. HaveknowledgeoffastformulaeforuseinOracleCloudCompensation. Strongcommunicationabilityandcomfortableindiscussionswithstakeholders FinancialServicesexperiencewouldbebeneficial EmploymentType: Contract StartDate: Jan26 Duration: 12months Location: hybrid(3days/weekinLondon) IR35Status: InsideIR35 DailyRate: 700-825GBP Please getintouchASAPifthisisofinterestandforward yourCVforreview.
+London, UK
+Commercial
+8h ago
+Shopify Developer
+Shopify Developer Salary: £45,000 - £50,000 (DOE) Location: Hybrid (2-3 days per week in the office) Employment Type: Full-time About the Role Our client is seeking a skilled Shopify Developer to take ownership of their ecommerce platforms and support ongoing web development projects. This role focuses purely on technical delivery-developing, maintaining, and optimising Shopify stores and related web systems. It is ideal for someone who enjoys problem-solving, custom coding, and building high-performing ecommerce experiences. Key Responsibilities Shopify Development Maintain, optimise, and enhance existing Shopify stores. Build new websites, storefronts, and landing pages using Shopify and open-source frameworks. Custom-code Shopify themes, templates, and features using Liquid. Implement and configure third-party integrations, apps, and payment gateways. Ensure fast load speeds, strong site security, and full mobile optimisation. Diagnose and resolve technical issues across all company websites. Web Development Build and maintain in-house websites using HTML, CSS, JavaScript, PHP, or similar open-source technologies. Develop custom web functionality and integrations where required. Improve site architecture, navigation, and overall user experience. Test and deploy updates, new features, and system changes. Collaboration & Technical Strategy Work closely with product and sales teams to deliver technical web solutions. Recommend enhancements to improve functionality, usability, and conversion performance. Monitor website analytics and advise on technical opportunities for improvement. Skills & Experience Strong experience in Shopify development, including Liquid, theme customisation, and app integrations. Proficiency in open-source coding (HTML, CSS, JavaScript, PHP, or similar). Ability to build websites from scratch and manage multiple web properties. Strong technical troubleshooting and diagnostic skills. High attention to detail and a methodical approach to problem-solving. Ability to work independently and collaborate effectively with cross-functional teams. Relevant Job Titles May Include: Shopify Developer, Ecommerce Developer, Shopify Specialist, Web Developer, Front-End Developer, Shopify Theme Developer, Shopify Web Manager, Ecommerce Technical Specialist This vacancy is being advertised by Impact Recruitment on behalf of our client.
+Barton Seagrave, UK
+MBDA
+8h ago
+Software Group Lead - Real Time Software
+We have a great opportunity for an experienced Software Engineering Manager to head up and grow a group that develops Real-Time Embedded software at the heart of some of the world's most sophisticated defence systems! If you have experience leading a team in an advanced technological environment, and a background in software development, then we would like to talk to you. The most important thing we look for is the ability to lead and encourage others; passionate about people - and keen to get to know your team and understand what motivates them! Salary : Circa £80,000 depending on experience Dynamic (hybrid) working : 3 to 4 days per week on-site, due to workload classification Security Clearance : British Citizen or a Dual UK national with British citizenship . Restrictions and/or limitations relating to nationality and/or rights to work may apply. As a minimum and after offer stage, all successful candidates will need to undergo HMG Basic Personnel Security Standard checks (BPSS), which are managed by the MBDA Personnel Security Team. What we can offer you: Company Bonus: Bonus of up to 27% of base salary Car Allowance: £300/month Pension : maximum total (employer and employee) contribution of up to 14% Flexible working: We welcome applicants who are looking for flexible working arrangements Enhanced parental leave: offers up to 26 weeks for maternity, adoption and shared parental leave -enhancements are available for paternity leave, neonatal leave and fertility testing and treatments Facilities : Fantastic site facilities including subsidised meals, free car parking and much more The opportunity: This role will give you the opportunity to shape, support and develop a team of software engineers working on several different Embedded / Real Time Software projects. The team specify, design, build, test and deliver the software that transforms a collection of electronic parts into a highly capable missile system. Our team develop software for Flight Computers on many different missiles, some of which have elevated safety integrity levels. Engineering is at heart of our business; there is opportunity to both develop your core leadership skills, and gain a wider experience of complex embedded systems. Working alongside a multidiscipline engineering team, you will be a key part of a supportive and growing software engineering team as your career expands with us. MBDA is committed to upskilling people through both formal training and practical experience. We are a friendly, highly capable team, producing software that makes a difference. The Real Time / Embedded software department is a multi-disciplined team of over 100 people in the UK, working on a diverse range of products that use some exciting technologies. What we're looking for from you: The ability to manage and develop a multidisciplinary team, ensuring effective allocation of resources to meet project timelines and quality standards whilst providing mentorship and technical guidance to team members. Capable of fostering growth and collaborating with multi-functional teams to achieve project objectives within schedule and budget constraints. A strong understanding of software development processes, including requirements analysis, design, and testing. Excellent communication and leadership skills, with the ability to interface effectively with technical and non-technical collaborators on progress, risks, and mitigations Experience in defence is not essential, and indeed many of our people joined us from automotive, aerospace and consumer electronics. Our company: Peace is not a given, Freedom is not a given, Sovereignty is not a given MBDA is a leading defence organisation. We are proud of the role we play in supporting the Armed Forces who protect our nations. We partner with governments to work together towards a common goal, defending our freedom. We are proud of our employee-led networks, examples include: Gender Equality, Pride, Menopause Matters, Parents and Carers, Armed Forces, Ethnic Diversity, Neurodiversity, Disability and more We recognise that everyone is unique, and we encourage you to speak to us should you require any advice, support or adjustments throughout our recruitment process. Follow us on LinkedIn (MBDA), X (@MBDA_UK), Instagram (MBDA_UK) and Glassdoor or visit our MBDA Careers website for more information. LI-RS1
+Stevenage, UK
+Check out our latest articles
+
+Stay sharp with the latest updates in tech industry!
+
+Yearly Recap of SitePoint's Dev Newsletter
+Published in
+Web
+·
+December 23, 2025
+Write for SitePoint
+Published in
+Blogs
+·
+Web
+·
+
+December 19, 2025
+
+Why a product-first approach can put security and reliability at risk
+Published in
+Business
+·
+Startups
+·
+Entrepreneur
+·
+
+December 19, 2025
+
+Getting Started with Foundation 6’s CLI Tools
+Published in
+CSS
+·
+Frameworks
+·
+HTML
+·
+HTML & CSS
+·
+
+December 16, 2025
+
+Store and Display Data Using ASP and XML/XSL
+Published in
+Programming
+·
+XSLT
+·
+ASP.NET
+·
+
+December 15, 2025
+
+Explore all articles
+
+Discover a world of insights - browse our complete collection of articles in one place!
+
+See all articles
+Our weekly newsletter
+Get the freshest news and resources in your inbox each week
+Yearly recap: Top 25 links developers couldn't stop clicking
+December 23, 2025
+AI as a memory layer, Claude customization, and avoiding replacement by AI
+December 18, 2025
+Win Every Search with Semrush One
+December 16, 2025
+Subscribe to newsletter
+
+Get the freshest news and resources for developers, designers and digital creators in your inbox each week
+
+Subscribe
+Join our growing community of developers
+
+Create a free account and join our community today!
+
+Browse the forum
+scripts
+How Important Is an SMTP Service Provider for Email Deliverability?
+
+sofiaturner457
+
+55
+
+4h
+
+5
+
+seo
+Free ways to improve domain authority (DA)
+
+whatsyouriq01
+
+16
+
+8h
+
+2
+
+How to replace special words within posts from wordpress multisites
+
+zhuceyouxiang88
+
+16
+
+1d
+
+1
+
+ecommerce
+“I created a fast online calculator (ETG Calculator) – how can I improve it?”
+
+Josila
+
+171
+
+1d
+
+6
+
+graphics
+Asking Feedback about the design of my website
+
+wynssimonw
+
+91
+
+1d
+
+4
+
+How are you handling responsive images in modern HTML/CSS workflows?
+
+furtip098
+
+33
+
+1d
+
+2
+
+Best practices for choosing an SMTP Server Provider for web applications
+
+sofiaturner457
+
+33
+
+1d
+
+5
+
+My new website for World Cup fans
+
+joeworkman
+
+97
+
+2d
+
+7
+
+Latest book you've read
+
+shyperson20
+
+52787
+
+2d
+
+577
+
+How is this done?
+
+philhagen
+
+52
+
+2d
+
+4
+
+We Develop Elite Developers
+
+Ready to get started? Access a library of books and courses on JavaScript, Python, AI, and more!
+Start your free trial
+
+7 Day Free Trial. Cancel Anytime.
+
+Stuff we do
+Premium
+Newsletters
+Learning paths
+Library
+Forums
+Contact
+Contact us
+FAQ
+Publish your book with us
+Write an article with us
+Advertise
+About
+Our story
+Corporate memberships
+Start free trial
+Login
+Connect
+RSS
+Facebook
+Instagram
+Twitter (X)
+Subscribe to our newsletter
+
+Get the freshest news and resources for developers, designers and digital creators in your inbox each week
+
+Subscribe
+© 2000 – 2025 SitePoint Pty. Ltd.
+Back to top
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Privacy Policy
+Terms of Service

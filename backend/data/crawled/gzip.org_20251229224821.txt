@@ -1,0 +1,16 @@
+Intro
+Welcome to this momentary pit stop on the road to finding what you need concerning gzip!
+
+gzip is a single-file/stream lossless data compression utility, where the resulting compressed file generally has the suffix .gz.
+gzip also refers to the associated compressed data format used by the utility.
+
+Links
+GNU gzip home page, where you can find the latest gzip source code, documentation, and development information
+gzip documentation (from that home page), if you came here with questions about how to use gzip, this is the link for you
+pigz home page, where pigz is a parallel implementation of gzip, able to take advantage of multiple processors, cores, and threads
+RFC 1952, which is the specification of the gzip wrapper format
+RFC 1951, which is the specification of the deflate compressed data format, contained within the gzip wrapper
+zlib, a free software library written in C, which you can use to read and write gzip files and memory streams
+How are zlib, gzip and zip related?, to answer your most pressing questions (summary: gzip is not zip, zip is not gzip)
+A Brief History
+Back when woolly mammoths roamed the Earth, Jean-loup Gailly and Mark Adler wrote the gzip utility to replace the Unix compress utility. At the time the continued use of compress was threatened by giant corporations holding patents on the LZW algorithm used by compress. In addition to avoiding patent infringement, gzip provided superior compression. The gzip utility and format remain in wide use, these many eons later.

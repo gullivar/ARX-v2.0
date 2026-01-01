@@ -1,0 +1,81 @@
+Skip to main content
+Bitnami Developer Center
+Register
+Login
+Home
+Applications
+Support
+Resources 
+Try Now
+Bitnami Secure Images
+
+Gain confidence, control and visibility of your software supply chain security with production-ready open source software delivered continuously in hardened images, with minimal CVEs and transparency you can trust. 
+
+Security through Transparency
+
+Give your development teams access to thousands of production-ready, hardened images.
+
+Accurately assess your security posture through industry standard security artifacts.
+
+Get 24/7 support and image customization features for catalog applications.
+
+Why do highly regulated industries trust Bitnami for production?
+280+ Apps
+Production-ready OSS applications plus the internet's favorite Helm charts
+Security with Transparency
+Includes VEX docs, CVE scan results, KEVs, SBOM for all images
+Built for compliance
+Reduce NIST Accreditation time up to 80%. Supports FIPS, STIG and FedRAMP
+Trusted and Proven
+Over 500 million docker pulls and one million active deployments per month
+Air-Gap Ready
+Out-of-the-box support for air-gapped environments
+Contact sales for everything Bitnami Secure Images has to offer.
+Buy Now
+Start using the free development version of Bitnami Secure Images today.
+Try Now
+Bitnami Secure Images at-a-glance
+Access thousands of hardened, minimal CVE images of 280+ open source applications for Kubernetes and VMs on any major cloud
+More than 110 of the internet’s most popular Helm charts, plus distroless charts for best in class security, 83% smaller with 50% fewer packages
+Stay more secure and compliant with continuously built images updated within hours of upstream patches 
+Triage security vulnerabilities faster, with transparency into CVE risks using industry standard Vulnerability Exploitability Exchange (VEX)
+Comprehensive software bill of materials, SLSA 3 supply chain attestation signatures, anti-virus scans, reports through API for integration with existing enterprise security tools
+Support for building customized images
+Minimal attack surface OS Base (Photon) that is easy to extend using industry standard package format
+Application	Bitnami Secure Images
+Size AMD (MBs)	Package Count	Average CVE Count	KEV Reports	VEX Statements	CVE Scan Results	Software Bill of Materials	FIPS, STIG, FedRAMP
+.NET	68.22	36	0					
+Java	101.57	48	0					
+MariaDB	18.84	29	0					
+Node.js	48.99	30	0					
+Python	20.03	46	0					
+Ruby	28.71	321	0					
+Table showing examples of popular Bitnami applications and associated size, package counts, average CVE counts, and included features and support for security and compliance standards.
+Frequently Asked Questions
+Are Bitnami Secure Images free?
+Where can I deploy the applications I get from Bitnami Secure Images?
+How frequently are the applications in Bitnami Secure Images verified and updated?
+How does the Bitnami Team ensure that Bitnami Secure Images include the latest security fixes?
+How do I purchase full access to the Bitnami Secure Images catalog, including Helm charts?
+Software supply chain security pioneers for highly regulated industries
+
+Since 2007, Bitnami has revolutionized open-source software deployment, providing prepackaged application stacks that simplify application development and delivery.
+
+Bitnami is trusted by millions of developers. With more than 500 million monthly docker pulls, Bitnami has positioned itself as a mature and reliable partner. Its extensive catalog, robust security practices and continuous innovation set it apart in the software supply chain security industry. Bitnami's enduring commitment to excellence ensures developers can build with confidence, supported by a proven industry pioneer.
+
+Products
+Solutions
+Support and Services
+Company
+How To Buy
+Copyright © 2005-2025 Broadcom. All Rights Reserved. The term “Broadcom” refers to Broadcom Inc. and/or its subsidiaries.
+Accessibility
+Privacy
+Site Map
+Supplier Responsibility
+Terms of Use
+Cookies
+Broadcom and third-party partners use technology, including cookies to, among other things, analyze site usage, improve your experience and help us advertise. By using our site, you agree to our use of cookies as described in our Cookie Notice
+Allow All
+Required Only
+Cookies Settings

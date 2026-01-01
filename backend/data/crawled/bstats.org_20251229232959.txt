@@ -1,0 +1,111 @@
+bS
+bStats
+OPEN SOURCE METRICS
+Plugin list
+Docs
+Global stats
+Log in
+Create account
+Ever wondered how many servers run your plugin?
+
+bStats shows you exactly that. See server counts, version adoption, and custom metrics across every major Minecraft server platform. Free to use, respects privacy, and integrates in minutes.
+
+Get started in minutes
+Browse plugin list
+PLUGIN SPOTLIGHT
+TOP 100
+AdvancedBan
+
+BY DEVLEOKO
+
+SERVERS
+3,389
+PLAYERS
+6,460
+PLATFORM
+Bukkit / Spigot
+View plugin stats
+Quick start
+Integrate bStats in 2 easy steps
+
+View the documentation for detailed instructions.
+
+1
+Register your plugin
+
+Sign up for free and add your plugin to receive a unique plugin ID.
+
+Create account
+2
+Add bStats to your code
+
+Include the `Metrics` class and initialize it with your plugin ID. Supports all major platforms and build tools.
+
+Start integration wizard
+EXAMPLE (BUKKIT / SPIGOT)
+public class MyPlugin extends JavaPlugin {
+  @Override
+  public void onEnable() {
+    int pluginId = 12345; // Your unique plugin ID
+    Metrics metrics = new Metrics(this, pluginId);
+
+    // Example custom chart
+    metrics.addCustomChart(
+      new SimplePie("my_chart", () -> "My Value")
+    );
+  }
+}
+
+Works across Bukkit, Spigot, Paper, Velocity and more.
+
+Sponsor
+Proudly sponsored by GameHosting.it
+
+Italy's leading game server hosting provider, offering premium Minecraft servers, VPS hosting, and dedicated servers with competitive pricing and exceptional support.
+
+Premium hardware & Milan-based infrastructure
+Instant activation & advanced control panels
+Comprehensive support during business hours
+Visit GameHosting.it
+Community
+Join the bStats community
+Gift bStats a star on GitHub
+
+Issue tracker, pull requests, source code.
+
+Browse the code, report bugs, or submit improvements.
+
+Open GitHub
+Chat with us on Discord
+
+Support, discussions, release news.
+
+Drop by whenever you need help or want to share feedback.
+
+Join Discord
+bS
+
+bStats
+
+Open source metrics since 2016.
+
+bStats started as a fun side project for my own plugins and grew into the de-facto standard for Minecraft server plugin metrics.
+
+GitHub
+Discord
+GET STARTED
+Documentation
+FAQ
+Add plugin
+Custom charts
+REST API
+ACCOUNT
+Log in
+Create account
+LEGAL & MORE
+Terms of use
+Privacy policy
+Imprint
+Credits
+
+© 2025 bStats - Made with love.

@@ -1,0 +1,53 @@
+Index - Erlang/OTP Download Documentation Community News Blog Security EEP About Search Practical functional programming for a parallel world Get Erlang/OTP 28 fact(0) -> 1;              %% Pattern matching for control-flow
+fact(N) -> N * fact(N-1).  %% Recursion to create loops
+
+> example:fact(10).        %% Interactive shell for fast iterations
+3628800
+> [{I, example:fact(I)} || I <- lists:seq(1,10)].
+[{1, 1}, {2, 2}, {3, 6}, {4, 24}, {5, 120}, {6, 720},
+ {7, 5040}, {8, 40320}, {9, 362880}, {10, 3628800}] Functional programming > Fruits = ["banana","monkey","jungle"].     %% Immutable variables
+["banana","monkey","jungle"]
+> lists:map(fun string:uppercase/1, Fruits). %% Map values using stdlib functions
+["BANANA","MONKEY","JUNGLE"]
+%% Fold over lists using custom functions
+> lists:foldl(fun(Str, Cnt) -> string:length(Str) + Cnt end, 0, Fruits).
+18 Higher-order functions > Parent = self().                         %% Get own process id
+<0.376.0>
+> Child = spawn(fun() -> receive go -> Parent ! lists:seq(1,100) end end).
+<0.930.0>
+> Child ! go.                              %% Send message to child
+go
+> receive Reply -> Reply end.              %% Receive response from child
+[1,2,3,4,5,6,7,8,9,10,11|...] Lightweight processes -spec even(list(integer())) -> list(integer()).
+even(Numbers) ->
+  mapreduce(Numbers, fun(Number) -> Number rem 2 == 0 end).
+mapreduce(Numbers, Function) ->
+  Parent = self(),
+  [spawn(fun() -> Parent ! {Number, Function(Number)} end) || Number <- Numbers],
+  lists:flatten(
+    [receive {Number, true} -> Number; _ -> [] end || Number <- Numbers]). Parallel map-reduce to find even numbers Previous Next %% Return factorial for N
+fact(0) -> 1;
+fact(N) -> N * fact(N-1).
+
+> example:fact(10).
+3628800 Functional programming > Fruits = ["banana","monkey"].
+["banana","monkey"]
+> lists:map(
+    fun string:uppercase/1,
+    Fruits).
+["BANANA","MONKEY"] Higher-order functions > Me = self().
+<0.376.0>        %% Send msg using !
+> spawn(fun() -> Me!lists:seq(1,10) end).
+<0.930.0>
+> receive Reply -> Reply end.
+[1,2,3,4,5,6,7,8,9,10] Light-weight processes -spec even(In) -> Out
+  when In :: list(integer()),
+       Out :: list(integer()).
+even(Numbers) ->
+  [Number || Number <- Numbers,
+   Number rem 2 == 0]. Find even numbers Previous Next What is Erlang? Erlang is a programming language used to build massively scalable soft real-time
+            systems with requirements on high availability. Some of its uses are in telecoms, banking,
+            e-commerce, computer telephony and instant messaging. Erlang's runtime system has built-in
+            support for concurrency, distribution and fault tolerance. Erlang Quickstart What is OTP? OTP is set of Erlang libraries and design principles providing middle-ware to
+            develop these systems. It includes its own distributed database, applications to interface
+            towards other languages, debugging and release handling tools. Getting Started with OTP News Erlang/OTP 28.3 Release December 10, 2025 by Henrik Nord Erlang/OTP 28.3 is the second maintenance patch package for OTP 28, with mostly bug fixes. Erlang/OTP 28.1 Release September 17, 2025 by Henrik Nord Erlang/OTP 28.1 is the first maintenance patch package for OTP 28, with mostly bug fixes. Erlang/OTP 28.0 May 21, 2025 by Henrik Nord Erlang/OTP 28.0 is a new major release with new features, improvements as well as a few incompatibilities. Participate Download Erlang/OTP Erlang/OTP on Github Erlang/OTP twitter

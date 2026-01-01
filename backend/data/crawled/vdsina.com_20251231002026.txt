@@ -1,0 +1,281 @@
+Tariffs and services
+Support
+Sign in
+Sign up
+РУС   |   EN
+Hosting of cloud VDS/VPS servers since 2014
+
+AFFILIATE PROGRAM
+
+Earn money
+with VDSina
+
+up to 50% of the expenses attracted by you
+clients. Our best partners
+earn more than 10,000 $ per year
+
+Learn more
+
+Processor frequency
+
+3.55 GHz
+
+GPU SERVERS
+
+Servers with graphic cards
+
+For AI models,
+games and other
+GPU-intensive tasks
+
+Select a server
+
+Power
+
+up to 128 vCPUs
+
+Memory
+
+up to 512 GB RAM
+
+SUPER EPIC!
+
+AMD EPYC Cloud Servers
+
+Powerful cloud-based VDS servers
+the latest AMD EPYC processors
+
+Configure
+
+Processor frequency
+
+up to 4 GHz
+
+FOR LARGE TASKS
+
+Hi-CPU servers
+
+For demanding tasks
+to CPU speed
+
+Learn more
+For the most
+demanding
+tasks!
+
+Dedicated physical servers
+with instant activation and convenient
+management in the style of VDSina
+
+Select a server
+
+PROCESSOR FREQUENCY UP TO 3.55 GHZ
+
+VDS servers
+with Windows
+
+Get a VPS server with a pre-installed
+Windows and daily payment already in a minute
+
+Configure
+
+WITH US RELIABLY
+
+Data centers
+in the EU
+
+ 
+ 
+
+AFFILIATE PROGRAM
+
+Earn money
+with VDSina
+
+up to 50% of the expenses attracted by you
+clients. Our best partners
+earn more than 10,000 $ per year
+
+Learn more
+
+Processor frequency
+
+3.55 GHz
+
+GPU SERVERS
+
+Servers with graphic cards
+
+For AI models,
+games and other
+GPU-intensive tasks
+
+Select a server
+CURRENTLY RUNNING
+74 571
+CLOUD VDS
+SERVERS
+Create your own epic cloud server
+Processor
+1
+32
+64
+96
+128
+CORE
+0.08 $ for 1 core
+RAM
+1
+128
+256
+384
+512
+GB RAM
+0.07 $ for 1 Gb
+Storage
+1
+500
+1000
+1500
+2000
+GB NVME
+0.0045 $ for 1 Gb
+IPv4
+Necessary for network and Internet operation on the server
+Total:
+Processor
+8 core
+RAM
+16 Gb
+Storage
+100 Gb
+IPv4
+1 pc.
+Traffic
+64 TB*
+In a Day
+In a Month
+2.34 $
+Start
+
+* Internet connection port speed — 10 Gbit/sec.
+The traffic volume is indicated for a calendar month.
+The cost of excess traffic is 2.25 $ / 1 TB.
+
+Fixed rates of VDS/VPS servers
+
+Standard servers
+
+CPU 3 GHz. Suitable for most tasks. Internet connection speed 10 Gbit/sec.
+
+from $2.10 / month
+
+Hi-CPU servers
+
+CPU AMD EPYC 9755 4 GHz / DDR5. For tasks demanding CPU speed. Internet connection speed 10 Gbit/sec.
+
+from $67.8 / month
+
+Servers with graphic cards
+
+Dedicated physical servers with GPU NVIDIA. CPU 3.55 GHz. Internet connection speed 10 Gbit/sec.
+
+from $36 / month
+
+Dedicated servers
+
+CPU AMD EPYC 7702P 3 GHz. Internet connection speed 10 Gbit/sec.
+
+from $1 470.0 / month
+
+Eternal VDS Servers
+
+Pay once – use until the end of the world! CPU 3 GHz. Internet connection speed 10 Gbit/sec.
+
+from $200.0 / one time
+
+Manage servers on the fly
+
+Server in 60 seconds
+
+Instant activation of ordered services
+
+Convenient management
+
+All functions in one click: reboot, install OS, manage VPS/VDS servers
+
+Why choose VDSina?
+
+Reasonable price
+
+Affordable prices and convenient increase of resources at any time. Pay as you grow!
+
+Fast servers with NVMe
+
+The most modern and fast VPS servers, NVMe storage with triple data backup.
+
+Own ISO images
+
+You can download your ISO and install from it the OS you need and any other software.
+
+Control Panel and API
+
+Own panel with a simple and user-friendly interface and extensive capabilities for managing VDS servers, including through the API.
+
+Network
+
+Each server is connected to a 10 Gbit/sec internet port. Possibility to use 100 Gbit/sec local network for free!
+
+Backups
+
+Rest assured for the safety of your data, convenient and reliable image storage functionality of your VPS/VDS servers.
+
+DDoS Protection
+
+Free and effective protection against DDOS attacks for each VDS server.
+
+VPS servers with Windows
+
+Automatic installation of Windows on tariffs with 4 GB of RAM and 2 vCPUs or higher — the license is already included in the price.
+
+Reliable data centers
+
+We place the equipment in the best data centers of the TIER IV reliability level.
+
+Data centers in the EU
+
+We provide a choice of several locations for hosting virtual servers
+
+Amsterdam, Netherlands
+
+Speed test
+It's time to launch!
+Continue
+
+We will send the password to log in
+
+SERVERS TECH FZCO
+Ifza Business Park DDP,
+Building 1,
+Dubai, UNITED ARAB EMIRATES
+
+Our Telegram Chat
+
+Tariffs and services
+
+GPU Servers
+AMD EPYC Cloud Servers
+Hi-CPU servers
+Standard VPS/VDS servers
+Dedicated servers
+Eternal VDS Servers
+Windows servers
+
+Clients
+
+About the company
+Help
+Affiliate program
+API
+Privacy policy
+Terms and conditions

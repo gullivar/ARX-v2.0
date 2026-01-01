@@ -1,0 +1,982 @@
+Skip to Content
+Got a tip for us?Let us know
+Front Page
+Roundups
+Guides
+How Tos
+Reviews
+Buyer's Guide
+Forums
+iOS 26macOS TahoeiPadOS 26iPhone 17iPhone AiriPhone 17 ProiPhone 16eiPhone 16MacBook ProApple Vision ProiMacMac miniHomePodApple TViPad ProAirPods 4Apple Pro Display XDRApple Watch Ultra 3HomePod miniMac ProMacBook AiriPadAirPods MaxAirPods Pro 3Apple DealsApple Studio DisplayApple Watch 11Apple Watch SE 3Mac StudioiPad AiriPad miniiPhone 18CarPlayApple Black FridayApple PaywatchOS 26
+All >
+The MacRumors Show: 2025 Year-in-Review
+Top Stories: iPhone Fold Mockup, Where's the New Apple TV?, and More
+Got a New iPhone 17? How to Use All the New Features
+10 Mac Apps Worth Trying in 2026
+Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy
+Samsung Developing 'Wide Fold' With iPhone Fold-Like Design Ahead of Apple's 2026 Launch
+Why Apple's Foldable iPhone May Be Smaller Than Expected
+iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA
+Where's the New Apple TV?
+Get $100 Off Apple Watch Series 11, Starting at $299
+Top Stories: iOS 26.3 Beta, Major Apple Leaks, and More
+Don't Want to Upgrade to iOS 26? Here's How to Stay on iOS 18 [Update: Now Unavailable]
+MacRumors Giveaway: Win an iPhone 17 and Fresh Coat Screen Protector From Astropad
+Best Apple Deals of the Week: AirPods Pro 3 for $199, Plus Sitewide Sales at Samsung and Sonos
+macOS Tahoe Bug Causes Studio Display Flickering Issues
+Use Edge Light for Better Video Calls in macOS
+Report: Apple Developing 24-Inch OLED iMac With 600 Nits Brightness
+Japan App Store Gets Alternative Marketplaces, Third-Party Payments and More
+Apple Releases First macOS Tahoe 26.3 Public Beta
+Apple Releases First iOS 26.3 and iPadOS 26.3 Public Betas
+M5 after Intel disapointments
+Analysis - Why iPadOS 26 is a step backwards UX-wise
+The coming “dark age for gaming hardware” - two 16GB DDR5 modules for 32GB total start at $330
+More New 5K Monitors Announced!
+tyring to install monterey - Reduced Security software update failed.
+M5 macbook pro vs M4 macbook pro
+Tahoe on 7,1 is intentionally set up as "Planned Obsolescence"
+26.2 is really bad when you come from 18.7.x
+iPad 26.2 and external monitor
+Theory: Alan Dye designed the terrible Liquid Glass because he already knew he was going to a competitor.
+Tesla Could Be Planning to Support Apple Car Keys
+Sunday December 28, 2025 4:24 am PST by Hartley Charlton
+
+Support for Apple Car Keys may now be more likely to come to Tesla vehicles, amid new evidence that the automaker is embracing native, system-level digital car keys.
+
+
+According to Not a Tesla App, 4.52.0 of Tesla's mobile app contains multiple code references to Harmony Wallet Key Cards. The discovery is notable because it represents a shift in how Tesla appears to be approaching mobile device integration.
+
+Tesla's current Phone Key relies on Bluetooth communication between the vehicle and the Tesla app running in the background on a smartphone. By contrast, a native wallet key is stored at the operating system level and uses secure hardware elements, often making it more reliable and accessible.
+
+The code strings identified in Tesla app version 4.52.0 specifically reference integration with Huawei's HarmonyOS, suggesting that the initial implementation is designed for Huawei Wallet on HarmonyOS devices. HarmonyOS is widely used in China, where Huawei is a dominant presence in the smartphone market. Tesla has historically used the Chinese market as a testing ground for new software capabilities before expanding them globally.
+
+Although the references do not mention Apple Wallet or Google Wallet, the underlying functionality closely mirrors how Apple implements native digital car keys on the iPhone. Apple introduced Car Key support in Apple Wallet in 2020, allowing compatible vehicles to be unlocked, locked, and started using NFC, Bluetooth, or ultra wideband. ‌Car Keys‌ are stored in the Secure Enclave on the ‌iPhone‌ and Apple Watch, enabling features such as Express Mode, which allows a vehicle to be unlocked without Face ID, Touch ID, or a passcode, and even functionality even when the device battery is almost totally depleted.
+
+Earlier this month, Rivian announced native support for Apple Wallet and Google Wallet digital car keys as part of its 2025.46 software update. In recent weeks, Porsche, Toyota, and General Motors all appear to be following suit.
+
+Tags: iPhone Car Keys Guide, Tesla
+Show Full Article
+96 comments
+Apple Tested AirPods in Bright Colors
+Saturday December 27, 2025 6:06 am PST by Hartley Charlton
+
+Apple reportedly tested a version of the first-generation AirPods with bright, iPhone 5c-like colored charging cases.
+
+
+The images, shared by the Apple leaker and prototype collector known as "Kosutami," claim to show first-generation AirPods prototypes with pink and yellow exterior casings. The interior of the charging case and the earbuds themselves remain white.
+
+They seem close to some of the color options offered for the ‌iPhone‌ 5c, which came in blue, green, pink, yellow and white. Apple has only ever released AirPods in white.
+
+Christmas post Abandoned iPhone 5c colored AirPods 1st gen prototype. #appleinternal pic.twitter.com/Y2wzZTxgLC — Kosutami (@Kosutami_Ito) December 24, 2025
+
+In 2023, Kosutami shared images of AirPods in pink. Apple apparently developed five different color options for AirPods to approximately match the ‌iPhone‌ 7, but decided not to move forward with the idea.
+
+Some users have sought after AirPods in different color options for several years. While Apple was seemingly only ever considering offering the charging case in different color ways, it is interesting to know that the company got as far as prototyping distinct color options for the device to match various ‌iPhone‌ models. Today, the AirPods Max are the only AirPods to have been offered in different color options.
+
+Kosutami previously shared images of various Apple prototypes, including all-black Vision Pro parts, an earlier version of the MagSafe charging puck, FineWoven Apple Watch bands, a functional AirPower charging mat, an unreleased "Magic Charger" accessory, and more.
+
+Related Roundup: AirPods 4
+Tags: Kosutami, Prototypes
+Buyer's Guide: AirPods (Neutral)
+Related Forum: AirPods
+Show Full Article
+78 comments
+Top Stories: iPhone Fold Mockup, Where's the New Apple TV?, and More
+Saturday December 27, 2025 6:00 am PST by MacRumors Staff
+
+Merry Christmas and Happy Holidays from MacRumors! News in the Apple world has unsurprisingly been relatively slow over the past week, but Apple's upcoming foldable iPhone managed to make its way back into the news, while we also shared updates on current and future Apple TV news.
+
+
+iOS 26.3 will be bringing some new features, particularly for users in the EU, so we'll look for additional betas and eventually a public release once the new year rolls around, and read on below for all the details on these stories and more!
+
+
+Top Stories
+Why Apple's Foldable iPhone May Be Smaller Than Expected
+
+Apple's first foldable iPhone, rumored for release next year, may turn out to be smaller than most people imagine, if a recent report and new mockups are anything to go by.
+
+
+Based on The Information's recent report that the foldable iPhone will feature a 5.3-inch external display and a 7.7-inch internal display when unfolded, designer Ben Geskin mocked up a physical representation of what such a device might look like in the hand, and it's actually remarkably compact with a form factor very similar to a passport book.
+
+Apple is reportedly still testing next-generation ultra-thin flexible glass for the device's interior display, seeking to find the best solution to make the crease down the middle essentially invisible.
+
+
+Where's the New Apple TV?
+
+Apple hasn't updated the Apple TV 4K since 2022, and 2025 was supposed to be the year that we got a refresh. There were rumors suggesting Apple would release the new ‌Apple TV‌ before the end of 2025, but it's clear that's not going to happen now.
+
+
+It's not clear what happened, but it's possible Apple decided to hold all home-related product announcements until spring 2026, when the smarter, more capable version of Siri will be ready in iOS 26.4.
+
+In the meantime, check out our video recapping what we might see in the next-generation Apple TV.
+
+
+Turn Off the User Profiles Screen on Apple TV 4K
+
+Some current Apple TV users have been annoyed by the new profile selection screen that appears every time you wake the device. While it's a handy feature for multi-user households, there are plenty of households that want to use their Apple TVs under only a single profile, so the selection screen is simply a nuisance.
+
+
+Fortunately, there's a relatively easy way to turn off the profile selection screen if you know to look for it.
+
+
+iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA
+
+Apple is continuing to increase interoperability support in its products for users in the European Union due to the Digital Markets Act, and the EU is once again crediting the DMA for new expansions coming in iOS 26.3.
+
+
+Third-party devices like earbuds will be able to seamlessly pair with iOS devices similar to how AirPods and Beats products already work, by simply bringing the accessory close to the device to bring up a simple one-step pairing process.
+
+Users in the EU will also see expanded notifications support for third-party accessories like smartwatches, allowing users to view and interact with incoming iOS notifications on a third-party device as they can already do on an Apple Watch.
+
+
+Apple Hit With Supersized Fine in Italy Over an iPhone Privacy Feature
+
+Italy's Competition Authority (AGCM) has imposed a €98.6 million ($116 million) fine on Apple over its App Tracking Transparency feature.
+
+
+Since the release of iOS 14.5 in April 2021, Apple has required apps to ask for permission before tracking a user's activity across other apps and websites for personalized advertising, as part of a feature named App Tracking Transparency. If a user selects the "Ask App Not to Track" option, the app is unable to access the device's advertising identifier.
+
+In a press release and executive summary this week, the AGCM said the App Tracking Transparency rules are "disproportionate," and "harmful" to app developers and advertisers. Ultimately, it found that Apple abused its dominant position in the EU market.
+
+
+iPhone 18 Trial Production to Start in February Ahead of Spring 2027 Launch
+
+Apple is reportedly already preparing to begin trial production of the iPhone 18 series after Chinese New Year, according to Weibo-based leaker Fixed Focus Digital.
+
+
+The claim suggests small-scale manufacturing runs will start once factories return to normal operations following the Lunar New Year shutdown, which typically ends in late February.
+
+The Chinese leaker claims that production lines for the iPhone 18 Pro models have already been set up, indicating that the Pro hardware design has already been locked in. Multiple sources have reported that Apple will move to a split-release strategy, with the Pro and Fold models debuting in the usual fall time frame while the standard iPhone 18 won't be released until spring 2027 alongside an iPhone 18e and potentially an iPhone Air 2.
+
+
+MacRumors Newsletter
+
+Each week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.
+
+So if you want to have top stories like the above recap delivered to your email inbox each week, subscribe to our newsletter!
+
+Tag: Top Stories
+Show Full Article
+16 comments
+Got a New iPhone 17? How to Use All the New Features
+Friday December 26, 2025 4:00 am PST by Tim Hardwick
+
+Apple's iPhone 17, iPhone Air, iPhone 17 Pro, and ‌iPhone 17 Pro‌ Max have been available to buy since September, and a fair few will have been gifted over the holidays. If you're the proud owner of one of Apple's latest models, then keep reading. Whether you're upgrading from an older iPhone or completely new to the devices, this article will help you get the most out your new ‌iPhone‌.
+
+
+MacRumors has put together the following series of ‌iPhone 17‌ how-to articles explaining all the new features that can be found on Apple's newest models.
+
+All iPhone 17 Models (Incl. iPhone Air)
+Dynamic Island Explained: What It Does and How to Use It
+iPhone 17 Camera Control: Everything You Need to Know
+Action Button: What It Does and How to Customize It
+How to Use the New Center Stage Front Camera
+How to Rotate the Front Camera Without Changing iPhone Orientation
+How to Disable Center Stage Front Camera Auto-Zoom
+How to Disable Center Stage Front Camera Auto-Rotate
+How to Enable Dual Capture Video Recording
+How to Disable Adaptive Power Mode (On by Default)
+How to Hard Reset or Force Restart All iPhone 17 Models
+
+iPhone 17 Pro and iPhone 17 Pro Max
+How to Use 8x Optical Zoom
+Shooting Video in Apple's New ProRes RAW Format
+
+iOS 26
+Ultimate iOS 26 Walkthrough: Guides and How Tos for Every New Feature
+Tone Down Apple's New Liquid Glass Design for Improved Legibility
+iOS 26 Setup Guide: 10 Things You Should Do First
+Tint App Icons to Match Your New iPhone 17 Color
+Tint App Icons to Match Your iPhone's Case Color
+iOS 26: All the New iPhone Lock Screen Customizations
+All the New iPhone Ringtones in iOS 26
+iOS 26 Camera App: New Features and Design Changes
+
+Happy holidays!
+
+Show Full Article
+30 comments
+What You Can (and Can't) Use an Apple Gift Card For
+Thursday December 25, 2025 2:30 am PST by Hartley Charlton
+
+Apple Gift Cards are one of the most common Apple-related gifts given during the holidays, so if you've received one today, here are all of the things you can and cannot use it for.
+
+
+After redeeming an Apple Gift Card, the value is added to the Apple Account balance and automatically applies at checkout when making eligible purchases. It can be spent on a wide range of Apple products, services, and digital content.
+
+Apple Gift Cards are marketed as a single, flexible balance that works across Apple's ecosystem, but there are clear limits on what they can and cannot be used for once redeemed to an Apple Account.
+
+
+What Apple Gift Cards Can Be Used For
+Purchasing Apple hardware and accessories on apple.com, in the Apple Store app, or in an Apple retail store.
+Using the balance toward Apple hardware when checking out, with any remaining cost paid using another payment method.
+Buying apps and games on the App Store, including in-app purchases.
+Paying for digital media, including movies, TV shows, and books through Apple's digital storefronts.
+Covering subscriptions to Apple services such as Apple Music, Apple TV+, Apple Arcade, and iCloud+ storage, as well as eligible third-party app subscriptions billed through the ‌App Store‌.
+What Apple Gift Cards Can't Be Used For
+Making purchases outside Apple's ecosystem, such as goods or services from non-Apple retailers.
+Starting certain recurring payments, such as AppleCare+ plans, without an additional credit or debit card on file.
+Redeeming or using balances across different countries or regions, as gift cards are typically region-locked.
+Transferring to or purchasing other gift cards.
+Exchanging for cash or cash equivalents.
+
+While Apple Gift Cards are intentionally designed to be more versatile than older ‌App Store‌ or ‌Apple Store‌–only gift cards, they still come with some limits. For users, the key distinction is that Apple Gift Cards work best for Apple-direct purchases and subscriptions, but they can't replace a traditional payment method for gifting or non-Apple spending.
+
+Show Full Article
+66 comments
+10 Mac Apps Worth Trying in 2026
+Wednesday December 24, 2025 9:27 am PST by Juli Clover
+
+2026 is almost upon us, and a new year is a good time to try out some new apps. We've rounded up 10 excellent Mac apps that are worth checking out.
+
+play
+Subscribe to the MacRumors YouTube channel for more videos.
+
+Alt-Tab (Free) - Alt-Tab brings a Windows-style alt + tab thumbnail preview option to the Mac. You can see a full window preview of open apps and app windows.
+One Thing (Free) - One Thing is a super simple menu bar app that helps you remember the one main thing that you need to accomplish. Whatever you type in will show up in your menu bar so it's front and center. Text and colors are customizable, and you can use emoji.
+Launchy (Free, $6.99 Pro upgrade) - Launchy is a customizable app launcher and switcher with a radial menu interface that you can use to launch and switch between your seven favorite apps.
+Folder Preview ($2.99) - Folder Preview lets you see what's inside a folder or a zip file by pressing the spacebar in Finder.
+Command X ($4) - Command X brings the Windows cut and paste workflow to Mac. You can use Command X and Command V keyboard shortcuts to cut and paste folders in the Finder app.
+ImageOptim (Free) - ImageOptim uses quality preserving compression to reduce image file size, plus it removes private EXIF metadata, thumbnails, comments, color profiles, and other image cruft.
+Monocle ($9) - Monocle blurs your background apps and brings the main app you're using to the forefront, so you can better focus on what you're doing. Monocle says it's noise canceling for your screen.
+Dockdoor (Free) - Dockdoor adds live window previews to the dock, and enables option + tab window switching. Hovering over an icon on your Mac's dock will show a preview of the app and all windows from it.
+Substage ($3.99/month) - Substage adds an AI-based natural language text bar to the Finder app so you can control your Mac with simple written commands instead of tricky command lines. It supports converting, organizing, and managing files and images. It can also answer questions about files, do calculations, and manage settings on your Mac.
+Bauhaus Clock ($19) - Bauhaus Clock adds an elegant clock screensaver to your Mac. It's design-forward, with careful attention to detail and a sharp look that makes the Mac a focal point in the room when it's idle. The look is customizable with different colors and day and night settings.
+
+Have a favorite Mac app we didn't mention? Let us know about it in the comments below.
+
+Show Full Article
+101 comments
+Apple CEO Tim Cook Buys $3 Million of Nike Shares
+Wednesday December 24, 2025 8:41 am PST by Hartley Charlton
+
+Apple CEO Tim Cook disclosed a roughly $3 million open-market purchase of Nike shares this week (via Reuters).
+
+
+According to a regulatory filing published yesterday, Cook purchased 50,000 Class B shares of Nike on December 22 at an average price of $58.97 per share, for a total investment of approximately $2.95 million. The filing shows that Cook now holds about 105,000 Nike shares, a position valued at nearly $6 million.
+
+Nike shares rose following the disclosure, gaining between about 2% and 5% in premarket and early regular-session activity, after the stock had fallen sharply in the days following the company's most recent earnings report, which highlighted ongoing challenges in its business, particularly in China. Nike is currently in the early stages of a turnaround effort under CEO Elliott Hill, who returned to the company last year after retiring.
+
+Cook has served on Nike's board of directors since 2005 and is its lead independent director, a role he assumed in 2016 after Nike co-founder Phil Knight stepped down as chairman. In addition to his position at Apple, Cook also chairs Nike's compensation committee, placing him in a central governance role at the apparel maker. The December 22 transaction represents Cook's largest open-market purchase of Nike shares in years and comes at a time when the company is under pressure from investors following a prolonged decline in its stock price.
+
+Tag: Tim Cook
+Show Full Article
+120 comments
+Apple Plans to Expand iPhone Driver's Licenses to These 7 U.S. States
+Wednesday December 24, 2025 8:40 am PST by Joe Rossignol
+
+In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps.
+
+
+The feature is currently available in 13 U.S. states and Puerto Rico, and it is expected to launch in at least seven more in the future.
+
+To set up the feature, open the Wallet app and tap on the plus sign in the top-right corner. Next, select Driver's License and ID Cards and follow the steps.
+
+
+Supported States
+
+The following 13 states offer driver's licenses in the Wallet app:
+
+Arizona (since March 2022)
+Maryland (since May 2022)
+Colorado (since November 2022)
+Georgia (since May 2023)
+Ohio (since July 2024)
+Hawaii (since August 2024)
+California (since September 2024)
+Iowa (since October 2024)
+New Mexico (since December 2024)
+Montana (since August 2025)
+North Dakota (since September 2025)
+West Virginia (since October 2025)
+Illinois (since November 2025)
+
+The feature is also available in Puerto Rico.
+
+
+Future States
+
+Apple and local DMV offices have announced that the following U.S. states have signed on to adopt the feature, but no timeframes were disclosed:
+
+Connecticut
+Kentucky
+Mississippi
+Oklahoma
+Utah
+Arkansas
+Virginia
+Participating Airports
+
+Apple Wallet IDs are accepted at TSA checkpoints in more than 250 airports in the U.S., for domestic travel. Given that Apple Wallet IDs are not accepted by law enforcement, and lack many other use cases, carrying a physical ID is still necessary.
+
+Here are just some of the airports that offer the feature — there are hundreds of others:
+
+Baltimore/Washington International Thurgood Marshall Airport (BWI)
+Ronald Reagan Washington National Airport (DCA)
+Washington Dulles International Airport (IAD)
+Phoenix Sky Harbor International Airport (PHX)
+Denver International Airport (DEN)
+Hartsfield–Jackson Atlanta International Airport (ATL)
+Cincinnati/Northern Kentucky Airport (CVG)
+John Glenn Columbus International Airport (CMH)
+San Francisco International Airport (SFO)
+San Jose Mineta International Airport (SJC)
+Los Angeles International (LAX)
+Daniel K. Inouye International Airport (HNL)
+Des Moines International Airport (DSM)
+Eastern Iowa Airport (CID)
+Albuquerque International Sunport (ABQ)
+Lea County Regional Airport (HOB)
+Luis Munoz Marin International Airport (SJU)
+Billings Logan International Airport (BIL)
+Bozeman Yellowstone International Airport (BZN)
+Great Falls International Airport (GTF)
+Missoula International Airport (MSO)
+Chicago O'Hare International Airport (ORD)
+Chicago Midway International Airport (MDW)
+St. Louis Lambert International Airport (STL)
+Richmond International Airport (RIC)
+Norfolk International Airport (ORF)
+Roanoke-Blacksburg Regional Airport (ROA)
+Newport News-Williamsburg International Airport (PHF)
+
+Travelers should refer to TSA signage to confirm availability of the feature.
+
+
+Digital Passport
+
+
+If you live in a state that does not yet offer Apple Wallet IDs, you can now create a Digital ID based on your U.S. passport, and present it at the same participating TSA checkpoints, for age and identity verification purposes during domestic travel. It is not a replacement for a physical passport, and it cannot be used for international travel.
+
+Tag: Apple Wallet
+Show Full Article
+66 comments
+Apple to Introduce New App Store Fee Structure in Brazil Following Antitrust Settlement
+Wednesday December 24, 2025 8:15 am PST by Hartley Charlton
+
+Brazilian regulators have approved a settlement that will require Apple to change how the App Store operates on iPhone in the country, including allowing alternative app stores, expanded payment options, and a defined new fee structure.
+
+
+In a press release, Brazil's Administrative Council of Economic Defense (CADE), said its court has approved a Term of Commitment to Cease proposed by Apple to resolve an investigation into the company's ‌App Store‌ rules on iOS. The case began in 2022 and examined whether Apple's restrictions on app distribution and payments limited competition in Brazil.
+
+CADE said the investigation focused on Apple's prohibition of third-party app stores on iOS, the requirement that developers use Apple's in-app purchase system for digital goods and subscriptions, and restrictions that prevented developers from informing users about alternative payment options.
+
+Under the settlement, Apple will be required to allow developers in Brazil to link to external payment options and promote offers that take place outside their apps. Developers will also be permitted to offer third-party payment methods within their apps alongside Apple's own in-app purchase system, with CADE requiring that these options be presented next to Apple's payment option.
+
+Apple will also have to allow third-party app stores in Brazil. CADE specified that Apple may still display warnings or informational messages to users, but those messages must be neutral, objective, and limited in scope, and must not introduce extra steps or barriers that make alternative options harder to use.
+
+According to Brazilian technology site Tecnoblog, which said it obtained the details directly from CADE, purchases made through the ‌App Store‌ will remain subject to a 10% or 25% commission under standard terms. Developers who use Apple's payment system would also pay a 5% transaction fee.
+
+If an app directs users to pay outside the app using only static text, with no clickable link or button, Apple will not charge a fee. If the app includes a clickable button or link that sends users to an external website for payment, Apple will charge a 15% fee. Third-party app stores will be subject to a 5% Core Technology Commission.
+
+CADE said Apple will have up to 105 days to implement the required changes once the new rules become binding.
+
+Note: Due to the political or social nature of the discussion regarding this topic, the discussion thread is located in our Political News forum. All forum members and site visitors are welcome to read and follow the thread, but posting is limited to forum members with at least 100 posts.
+
+Tags: Apple Antitrust, Brazil
+Show Full Article
+46 comments
+iPhone Air 2 Could Still Launch Next Year
+Wednesday December 24, 2025 7:25 am PST by Hartley Charlton
+
+Apple's next-generation iPhone Air could still launch in the fall of 2026, according to the Weibo leaker known as "Fixed Focus Digital."
+
+
+The leaker claims to have been told by sources that the second-generation ‌iPhone Air‌ will launch in the fall. Meanwhile, the iPhone 17e is said to already be in mass production ahead of unveiling at a spring product launch event.
+
+The rumor comes in contrast to an array of corroborated reports that the second-generation ‌iPhone Air‌ has been delayed until March 2027, where it is expected to launch alongside the standard iPhone 18 and a lower-end ‌iPhone‌ 18e. The second-generation ‌iPhone Air‌ was originally rumored to launch alongside the ‌iPhone 18‌ Pro, ‌iPhone 18‌ Pro Max, and foldable ‌iPhone‌ in the fall of 2026, but poor sales of the debut model apparently led Apple to delay the launch.
+
+The second-generation ‌iPhone Air‌ is rumored to address complaints about the device by adding a second rear camera and lowering its price. A lighter weight, vapor chamber cooling, and a larger battery capacity are also among the rumored new features.
+
+It is still possible that a new ‌iPhone Air‌ could launch in the fall of next year, especially if Apple has expedited development of new features, since this was the original scheduled launch time frame. Nevertheless, it would be surprising if the multitude of rumors indicating a delayed launch were mistaken.
+
+Related Roundup: iPhone Air
+Tag: Fixed Focus Digital
+Buyer's Guide: iPhone Air (Buy Now)
+Show Full Article
+110 comments
+Apple Discontinued These 25 Products This Year
+Wednesday December 24, 2025 7:24 am PST by Joe Rossignol
+
+With the end of 2025 near, the time has come to look back at the devices and accessories that Apple discontinued throughout the year.
+
+
+Most of the products that were discontinued this year were simply replaced by a new model with an updated chip. However, the iPhone SE line was entirely discontinued when the iPhone 16e launched, and the iPhone Plus line is being phased out.
+
+Below, we have listed 25 products that were discontinued by Apple this year.
+
+
+iPhones
+
+Apple discontinued the third-generation iPhone SE in February, after introducing the iPhone 16e. As a result, Apple no longer sells any iPhone models with a Home button, Touch ID, LCD screen, a sub-6-inch screen size, or Lightning.
+
+The original iPhone SE was released in March 2016. That model's design was largely based on the iPhone 5s, with key specs including a 4-inch display, a Touch ID home button, and an aluminum and glass frame with chamfered edges. However, the device was powered by a newer A9 chip from the iPhone 6s and iPhone 6s Plus.
+
+Apple went on to release two more iPhone SE models in 2020 and 2022, respectively, with those devices having a similar design as the iPhone 8.
+
+Meanwhile, the iPhone Plus has effectively been replaced by the ultra-thin iPhone Air in Apple's smartphone lineup. Both the iPhone 14 Plus and iPhone 15 Plus were discontinued this year, and it is only a matter of time before the iPhone 16 Plus is axed too. Apple is not expected to release another Plus model in the foreseeable future.
+
+Here are all of the iPhone models that were discontinued this year:
+
+iPhone 16 Pro Max (succeeded by iPhone 17 Pro Max)
+iPhone 16 Pro (succeeded by iPhone 17 Pro)
+iPhone 15 Plus
+iPhone 15
+iPhone 14 Plus
+iPhone 14
+iPhone SE (succeeded by iPhone 16e)
+iPads
+
+
+It was a spec-bump year for the iPad lineup, with the iPad Pro, iPad Air, and entry-level iPad all receiving faster chips, but no major design changes.
+
+Here are all of the iPad models that were discontinued this year:
+
+iPad Pro with M4 chip (updated with M5 chip)
+iPad Air with M2 chip (updated with M3 chip)
+iPad 10 (updated with A16 chip)
+Apple Watches
+
+
+Apple Watch Series 11 is a very minor upgrade over the now-discontinued Series 10, but the Apple Watch Ultra 3 and Apple Watch SE 3 offer some more meaningful changes. None of the latest Apple Watch models received a new chip, though.
+
+Here are all of the Apple Watch models that were discontinued this year:
+
+Apple Watch Ultra 2 (succeeded by Apple Watch Ultra 3)
+Apple Watch Series 10 (succeeded by Apple Watch Series 11)
+Apple Watch SE 2 (succeeded by Apple Watch SE 3)
+Macs
+
+
+Here are all of the Mac models that were discontinued this year:
+
+Mac Studio with M2 Max and M2 Ultra chips (updated with M4 Max and M3 Ultra chips)
+14-inch MacBook Pro with M4 chip (updated with M5 chip)
+13-inch and 15-inch MacBook Air with M3 chip (updated with M4 chip)
+13-inch MacBook Air with M2 chip
+Other
+
+
+Here are other Apple products and accessories that were discontinued this year:
+
+AirPods Pro 2 (succeeded by AirPods Pro 3)
+Apple Vision Pro with M2 chip (updated with M5 chip)
+MagSafe Charger with Qi 2 (succeeded by MagSafe Charger with Qi 2.2 support)
+30W USB-C Power Adapter (succeeded by 40W Dynamic Power Adapter with 60W Max)*
+Lightning to 3.5mm Audio Cable (succeeded by USB-C to 3.5mm Audio Cable)
+MagSafe to MagSafe 2 Converter
+
+* In the U.S., U.K., Canada, Japan, and select other countries only.
+
+Did we miss anything? Let us know in the comments section.
+
+Show Full Article
+16 comments
+Advanced iPhone 18 Camera Sensor to Be Made in Texas
+Wednesday December 24, 2025 5:37 am PST by Hartley Charlton
+
+Samsung is preparing to supply Apple with advanced image sensors for the iPhone in Austin, Texas, according to The Elec.
+
+
+The sensors will reportedly be made by Samsung at its existing facility in Austin. The company is expected to install production equipment for the project in the near future and has posted job listings for mechanical and electrical technicians, engineers, and managers to work on set up.
+
+Samsung is expected to make the ‌iPhone‌'s image sensor with a three-stack design, which enables higher pixel density and improved low-light performance by vertically stacking multiple sensor layers. Stacked sensor architecture also allows for faster readout speeds, reduced power consumption, and higher dynamic range. This manufacturing process has not previously been deployed at a commercial scale.
+
+Earlier this month, Samsung notified the city of council of Austin of its intention to spend $19 billion on its Austin facility. The new image sensor production line is expected to begin operation in March at the earliest.
+
+The new sensor is believed to be destined for the iPhone 18, which is expected to launch in the first half of 2027. Apple reportedly reached a deal with Samsung in August for supply of the component.
+
+This will be the first time Apple will move away from Sony as the sole supplier for ‌‌iPhone‌‌ image sensors and make the component in the United States. Today, Sony is the sole supplier of ‌‌iPhone‌‌ image sensors; they are produced in Japan and delivered via TSMC.
+
+Related Roundup: iPhone 18
+Tags: Texas, The Elec
+Related Forum: iPhone
+Show Full Article
+51 comments
+Track Santa's Journey From the North Pole Using Google's Santa Tracker
+Wednesday December 24, 2025 4:00 am PST by Tim Hardwick
+
+Have you been good this year? If so, you may be interested to know that Google has launched its annual Santa tracking feature, allowing Santa to be tracked in real time on his journey to the North Pole as he prepares to deliver presents to children around the world.
+
+
+Google's Santa Tracker continues a two-decade tradition for the company, allowing excited children (and grown-ups!) to keep up with the jolly gift-giver's travels throughout December 24. On this day, Santa's Village transforms into a tracking experience where children can follow Santa and his reindeer as they merrily go about their important work.
+
+Santa can be tracked using a web browser on iPhone, iPad, or Mac by visiting Google's official Santa Tracking website. The site features a live map of Santa's current location, his next stop, a live video feed of his journey, and the estimated time that he will arrive in each specific location.
+
+The Santa site provides pictures of locations that Santa has already visited, a live count of gifts that have been delivered, and Santa's current distance from your location. There are also a selection of games to play, creative things to do, and videos to watch.
+
+Other Santa tracking services are also available, such as the NORAD Tracks Santa Claus app and website, but Google's site is often the most interactive and detailed. Happy holidays!
+
+Show Full Article
+4 comments
+Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy
+Tuesday December 23, 2025 1:31 pm PST by Juli Clover
+
+Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around 5.4 inches when closed and 7.6 inches when open. Exact measurements vary based on rumors, but one 3D designer has created a mockup based on what we've heard so far.
+
+
+On MakerWorld, a user named Subsy has uploaded a 1:1 ‌iPhone‌ Fold replica (via Macworld), which can be 3D printed to give you a rough idea of the size of the upcoming foldable ‌iPhone‌.
+
+Subsy claims that the model is "based on recently leaked CAD drawings of the ‌iPhone‌ Fold," but there haven't been actual CAD leaks to our knowledge. There were reports of CAD drawings earlier this month, but it turns out those drawings were concept drawings and renders created by MacRumors reader iZac back in May.
+
+iZac designed a mockup with a 5.5-inch display when the device is closed, and 7.76 inches when open. That's in line with the multiple rumors that we've heard, but so far, we don't have exact dimensions.
+
+While you can now print a 3D mockup of iZac's concept, the design isn't based on an actual CAD render. It's likely somewhat similar to what the ‌iPhone‌ Fold will look like in terms of size, but Apple's design for the cameras and the hinge will probably differ quite a bit.
+
+If you have a 3D printer, it's a useful way to get something that's close to the size of the ‌iPhone‌ Fold so you can see how it compares to your existing ‌iPhone‌. We'll likely see more accurate CAD renders and dummy models starting to surface in the first months of 2026.
+
+Show Full Article
+131 comments
+Texas App Store Age Verification Law Blocked by Federal Judge
+Tuesday December 23, 2025 12:36 pm PST by Juli Clover
+
+A Texas federal judge today blocked an App Store age verification law that was set to go into effect on January 1, 2026, which means Apple may not have to support the changes after all.
+
+
+The Texas ‌App Store‌ Accountability Act (SB2420) requires Apple and other app marketplaces to confirm user age when a person creates an Apple Account. Apple Accounts for users under 18 would need to join a Family Sharing group, with new controls available for parents and restrictions for minors.
+
+In a preliminary injunction that delays the implementation of the act, Judge Robert Pitman said that it violates the First Amendment and is "more likely than not unconstitutional."
+
+
+The Act is akin to a law that would require every bookstore to verify the age of every customer at the door and, for minors, require parental consent before the child or teen could enter and again when they try to purchase a book. As set out below, the Court finds a likelihood that, when considered on the merits, SB 2420 violates the First Amendment.
+
+The injunction was in response to a motion filed by the Computer and Communications Industry Association (CCIA), a group that includes Apple and Google. Today's decision is a win for Apple, as Apple has been fighting against age assurance requirements in Texas and other states. Apple says that the Texas law impacts user privacy.
+
+
+While we share the goal of strengthening kids' online safety, we are concerned that SB2420 impacts the privacy of users by requiring the collection of sensitive, personally identifiable information to download any app, even if a user simply wants to check the weather or sports scores.
+
+The court will move on to determining whether the law is facially invalid, which would mean that it is unconstitutional and will be entirely thrown out.
+
+Note: Due to the political or social nature of the discussion regarding this topic, the discussion thread is located in our Political News forum. All forum members and site visitors are welcome to read and follow the thread, but posting is limited to forum members with at least 100 posts.
+
+Tag: Texas
+Show Full Article
+130 comments
+Samsung Developing 'Wide Fold' With iPhone Fold-Like Design Ahead of Apple's 2026 Launch
+Tuesday December 23, 2025 11:55 am PST by Juli Clover
+
+Samsung is working on a new foldable smartphone that's wider and shorter than the models that it's released before, according to Korean news site ETNews. The "Wide Fold" will compete with Apple's iPhone Fold that's set to launch in September 2026.
+
+
+Samsung's existing Galaxy Z Fold7 display is 6.5 inches when closed, and 8 inches when open, with a 21:9 aspect ratio when folded and a 20:18 aspect ratio when open. Samsung has used a similar size for its prior Z Fold devices.
+
+Rumors suggest the ‌iPhone‌ Fold's display will measure in at 5.3 to 5.5 inches when closed, and 7.5 to 7.8 inches when open (rumors vary). It's squatter and wider than Samsung's taller, narrower design, with a 4:3 aspect ratio when open.
+
+Samsung's "Wide Fold" will coincidentally feature a 7.6-inch display when open, and a 5.4-inch display when closed. It's also expected to have a 4:3 aspect ratio, making it noticeably different than prior models because of the more square shape.
+
+The wider 4:3 aspect ratio is expected to be more comfortable to hold than a taller device, similar to a notebook.
+
+ETNews says that Samsung plans to release its wider foldable device in the fall of 2026, which is also when the ‌iPhone‌ Fold will be coming out. The wide fold will join the next-generation Galaxy Fold for a total of two "Fold" devices, plus there will be a flip device.
+
+Tags: Foldable iPhone Guide, Samsung
+Show Full Article
+95 comments
+Apple Pay Promo Offers 20% Off Adidas Purchases
+Tuesday December 23, 2025 10:31 am PST by Juli Clover
+
+Apple's latest Apple Pay promo provides a 20 percent discount for ‌Apple Pay‌ users who purchase Adidas gear through the Adidas website or the Adidas app.
+
+
+To get the deal, buy something from Adidas and then enter the promo code APPLEPAY at checkout. As with all ‌Apple Pay‌ promos, making the purchase using ‌Apple Pay‌ is a requirement.
+
+Apple says the discount can be applied on purchases up to $250, with the deal set to last until December 31 at 11:59 p.m. Pacific Time.
+
+Some gear is excluded, including Campus, Gazelle, Disney, Human Made, limited edition originals, and more.
+
+Tag: Apple Pay Promo
+Show Full Article
+4 comments
+iPhone 18 Pro Launching Next Year With These 12 New Features
+Tuesday December 23, 2025 8:36 am PST by Joe Rossignol
+
+While the iPhone 18 Pro and iPhone 18 Pro Max are not expected to launch for another nine months, there are already plenty of rumors about the devices.
+
+
+Below, we have recapped 12 features rumored for the iPhone 18 Pro models.
+
+
+The same overall design is expected, with 6.3-inch and 6.9-inch display sizes, and a "plateau" housing three rear cameras
+Under-screen Face ID
+Front camera in top-left corner of the screen
+Variable aperture for at least one rear camera
+A20 Pro chip manufactured with TSMC's 2nm process and new packaging technology
+A simplified Camera Control button with no swipe gestures
+Design changes to the rear Ceramic Shield for MagSafe charging, potentially including a more frosted glass appearance
+Apple-designed C1X or C2 modem for 5G/LTE cellular connectivity
+Apple-designed N1 chip or newer for Wi-Fi 7, Bluetooth 6, and Thread
+Web browsing via satellite
+New color options under consideration: burgundy, brown, and purple
+iPhone 18 Pro Max may be slightly thicker than the iPhone 17 Pro Max, perhaps to accommodate a larger battery
+
+Apple will likely release the iPhone 18 Pro models in September 2026. Bookmark our iPhone 18 roundup to stay on top of future rumors.
+
+Related Roundup: iPhone 18
+Related Forum: iPhone
+Show Full Article
+99 comments
+Newer Posts
+Archives
+Older Posts
+Guides
+iOS 26 Features
+
+Our comprehensive guide highlighting every major new addition in iOS 26, plus how-tos that walk you through using the new features.
+
+iOS 26.2 Features
+
+Reminder alarms, more Liquid Glass tweaks, AirDrop improvements, and more.
+
+50 macOS Tahoe Features
+
+New features and lesser-known changes to check out if you're upgrading.
+
+iPhone 17 vs iPhone 17 Pro vs iPhone Air
+
+Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy?
+
+• Apple Intelligence Guide
+• Image Playground Guide
+• iPhone Mirroring Not Working?
+• 21 Time-Saving iPhone Tips
+• 14 macOS Tips to Make Your Life Easier
+• One AirPod Not Working?
+See more guides
+Upcoming
+Apple TV Fall 2025?
+
+Upgrade to A17 or newer chip with Apple Intelligence support, plus Apple's new N1 wireless networking chip.
+
+AirTag Fall 2025?
+
+Upgraded item tracker with improved range, anti-tamper improvements, and more.
+
+HomePod mini Fall 2025?
+
+Faster chips and new colors expected.
+
+MacBook Air Early 2026
+
+Chip-bump update to M5.
+
+• Studio Display
+• Low-Cost MacBook
+See full product calendar
+Recent Comments
+Mac Rumors Articles
+• Tesla Could Be Planning to Support Apple Car Keys (96)
+• Apple Discontinued These 25 Products This Year (16)
+• Apple Tested AirPods in Bright Colors (78)
+• Turn Off the User Profiles Screen on Apple TV 4K (61)
+• iPhone 18 Pro Launching Next Year With These 12 New Features (99)
+Mac Notebooks
+• M5 after Intel disapointments (176)
+• M5 macbook pro vs M4 macbook pro (26)
+• What do you want the new Macbook to realistically be? (37)
+• Need clarification on OpenCore Legacy Support for MacBook Pro 2016 to avoid problem with T1 Chip? (0)
+• Is a Docker container the best solution to transfer software and tools over to a new machine? (12)
+Mac Desktops
+• Tahoe on 7,1 is intentionally set up as "Planned Obsolescence" (231)
+• Mac Pro 2,1 with 49" Ultrawide (1)
+• Worth a wait for M5 at this point? (29)
+• Buying Mac mini from Japan (23)
+• How to convince my friends to get an iMac? (99)
+macOS Tahoe
+• Liquid Glass for the visually impaired (23)
+• Do you like Liquid Glass on Mac? (1138)
+• Applications show up twice or more in Spotlight (10)
+• Apple apps that are not yet Liquid Glassed (15)
+• Facebook on Safari (15)
+Mac Apps and Mac App Store
+• Creating Hyperlinks to other locations in same document within Preview Documents (4)
+• 1Password migrants thread (3208)
+• Is there an alternative to Acrobat ? (12)
+• How do you organize your ebooks (With metadata) and sideload them to ereaders? (7)
+• I made a Christmas Tree for your Mac (116)
+iPhone
+• My Keyboard Sound is Extremely Low please help (2)
+• Do you still love the iPhone Air? (212)
+• A19 Pro and M5 (2)
+• Rumoured iPhone fold size - concept drawing and renders (220)
+• Anyone got both iPhone Air and iPhone 17 Pro/Pro Max? (45)
+iPad
+• Question my eyes feel a lot better on my 14" M4 MBP than on my 11" M5 iPad Pro Why ? (3)
+• iPad 13 Pro vs MacBook Air in addition to Mac mini (1)
+• Analysis - Why iPadOS 26 is a step backwards UX-wise (31)
+• Nanotexture yes or not? (119)
+• iPad 11th Gen + My Devices (2)
+iOS 26
+• Unknown phone number in my personal contact in the Contacts app (3)
+• I absolutely loathe iOS 26 (951)
+• What are your opinions on Liquid Glass? (55)
+• Theory: Alan Dye designed the terrible Liquid Glass because he already knew he was going to a competitor. (25)
+• Apple sports live activities notifications (107)
+Apple Watch
+• I WANT the ultra but I don't need most of the features... (36)
+• Watch to 5K: Couch to 5km Apple Watch App. *WatchOS + iOS 26 Update* (214)
+• December 2025 Activity Challenge (41)
+• Apple watch size advice (16)
+• Hermès Edition Owners Thread (16785)
+Apple TV and Home Theater
+• Apple TV remote stopped controlling volume up/down on TVs (1)
+• Apple TV interface (9)
+• Anyone else returning to Physical Media (156)
+• New Apple TV model (308)
+• Infuse for Apple TV Released (2526)
+Other Mac Topics
+• Shall I return MacBook Pro M4 Pro now or wait until first week of 2026? (14)
+• What would you buy if you were me? (44)
+• MacOS Keynote and iMovie buggy and out-dated? (2)
+• Tim Cook is the Jack Welch of Apple (6)
+• How do I turn this behavior off? (8)
+Community
+• 2025-2026 NFL Thread (857)
+• What’s on your mind? (27130)
+• Post Your Windows Setup: Past & Present! (993)
+• What is/was for dinner? (5479)
+• What Book Are You Reading? (9849)
+Site Comments
+• Deleting posts instead of editing them (1)
+• Advertisement of ‘harmful’ products (5)
+• Moderators stop merging threads on issues (4)
+• Political Threads Getting Tagged Non-Political (6)
+• MacRumors is biased (96)
+Other Stories
+15 New Things Your iPhone Can Do in iOS 26.2
+
+6 days ago by Tim Hardwick
+
+Your iPhone Can Ask Why Someone's Calling Before You Pick Up
+
+6 days ago by Tim Hardwick
+
+Use ChatGPT as Your iPhone's Action Button Assistant
+
+6 days ago by Tim Hardwick
+
+Apple's 2027 20th Anniversary iPhone Could Have Dramatic Redesign
+
+1 week ago by Juli Clover
+
+iOS 26.2 Adds These 8 New Features to Your iPhone
+
+1 week ago by Joe Rossignol
+
+Guides
+iOS 26 Features
+
+Our comprehensive guide highlighting every major new addition in iOS 26, plus how-tos that walk you through using the new features.
+
+iOS 26.2 Features
+
+Reminder alarms, more Liquid Glass tweaks, AirDrop improvements, and more.
+
+50 macOS Tahoe Features
+
+New features and lesser-known changes to check out if you're upgrading.
+
+iPhone 17 vs iPhone 17 Pro vs iPhone Air
+
+Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy?
+
+• Apple Intelligence Guide
+• Image Playground Guide
+• iPhone Mirroring Not Working?
+• 21 Time-Saving iPhone Tips
+• 14 macOS Tips to Make Your Life Easier
+• One AirPod Not Working?
+See more guides
+Upcoming
+Apple TV Fall 2025?
+
+Upgrade to A17 or newer chip with Apple Intelligence support, plus Apple's new N1 wireless networking chip.
+
+AirTag Fall 2025?
+
+Upgraded item tracker with improved range, anti-tamper improvements, and more.
+
+HomePod mini Fall 2025?
+
+Faster chips and new colors expected.
+
+MacBook Air Early 2026
+
+Chip-bump update to M5.
+
+• Studio Display
+• Low-Cost MacBook
+See full product calendar
+Recent Comments
+Mac Rumors Articles
+• Tesla Could Be Planning to Support Apple Car Keys (96)
+• Apple Discontinued These 25 Products This Year (16)
+• Apple Tested AirPods in Bright Colors (78)
+• Turn Off the User Profiles Screen on Apple TV 4K (61)
+• iPhone 18 Pro Launching Next Year With These 12 New Features (99)
+Mac Notebooks
+• M5 after Intel disapointments (176)
+• M5 macbook pro vs M4 macbook pro (26)
+• What do you want the new Macbook to realistically be? (37)
+• Need clarification on OpenCore Legacy Support for MacBook Pro 2016 to avoid problem with T1 Chip? (0)
+• Is a Docker container the best solution to transfer software and tools over to a new machine? (12)
+Mac Desktops
+• Tahoe on 7,1 is intentionally set up as "Planned Obsolescence" (231)
+• Mac Pro 2,1 with 49" Ultrawide (1)
+• Worth a wait for M5 at this point? (29)
+• Buying Mac mini from Japan (23)
+• How to convince my friends to get an iMac? (99)
+macOS Tahoe
+• Liquid Glass for the visually impaired (23)
+• Do you like Liquid Glass on Mac? (1138)
+• Applications show up twice or more in Spotlight (10)
+• Apple apps that are not yet Liquid Glassed (15)
+• Facebook on Safari (15)
+Mac Apps and Mac App Store
+• Creating Hyperlinks to other locations in same document within Preview Documents (4)
+• 1Password migrants thread (3208)
+• Is there an alternative to Acrobat ? (12)
+• How do you organize your ebooks (With metadata) and sideload them to ereaders? (7)
+• I made a Christmas Tree for your Mac (116)
+iPhone
+• My Keyboard Sound is Extremely Low please help (2)
+• Do you still love the iPhone Air? (212)
+• A19 Pro and M5 (2)
+• Rumoured iPhone fold size - concept drawing and renders (220)
+• Anyone got both iPhone Air and iPhone 17 Pro/Pro Max? (45)
+iPad
+• Question my eyes feel a lot better on my 14" M4 MBP than on my 11" M5 iPad Pro Why ? (3)
+• iPad 13 Pro vs MacBook Air in addition to Mac mini (1)
+• Analysis - Why iPadOS 26 is a step backwards UX-wise (31)
+• Nanotexture yes or not? (119)
+• iPad 11th Gen + My Devices (2)
+iOS 26
+• Unknown phone number in my personal contact in the Contacts app (3)
+• I absolutely loathe iOS 26 (951)
+• What are your opinions on Liquid Glass? (55)
+• Theory: Alan Dye designed the terrible Liquid Glass because he already knew he was going to a competitor. (25)
+• Apple sports live activities notifications (107)
+Apple Watch
+• I WANT the ultra but I don't need most of the features... (36)
+• Watch to 5K: Couch to 5km Apple Watch App. *WatchOS + iOS 26 Update* (214)
+• December 2025 Activity Challenge (41)
+• Apple watch size advice (16)
+• Hermès Edition Owners Thread (16785)
+Apple TV and Home Theater
+• Apple TV remote stopped controlling volume up/down on TVs (1)
+• Apple TV interface (9)
+• Anyone else returning to Physical Media (156)
+• New Apple TV model (308)
+• Infuse for Apple TV Released (2526)
+Other Mac Topics
+• Shall I return MacBook Pro M4 Pro now or wait until first week of 2026? (14)
+• What would you buy if you were me? (44)
+• MacOS Keynote and iMovie buggy and out-dated? (2)
+• Tim Cook is the Jack Welch of Apple (6)
+• How do I turn this behavior off? (8)
+Community
+• 2025-2026 NFL Thread (857)
+• What’s on your mind? (27130)
+• Post Your Windows Setup: Past & Present! (993)
+• What is/was for dinner? (5479)
+• What Book Are You Reading? (9849)
+Site Comments
+• Deleting posts instead of editing them (1)
+• Advertisement of ‘harmful’ products (5)
+• Moderators stop merging threads on issues (4)
+• Political Threads Getting Tagged Non-Political (6)
+• MacRumors is biased (96)
+Other Stories
+15 New Things Your iPhone Can Do in iOS 26.2
+
+6 days ago by Tim Hardwick
+
+Your iPhone Can Ask Why Someone's Calling Before You Pick Up
+
+6 days ago by Tim Hardwick
+
+Use ChatGPT as Your iPhone's Action Button Assistant
+
+6 days ago by Tim Hardwick
+
+Apple's 2027 20th Anniversary iPhone Could Have Dramatic Redesign
+
+1 week ago by Juli Clover
+
+iOS 26.2 Adds These 8 New Features to Your iPhone
+
+1 week ago by Joe Rossignol
+
+ 
+
+MacRumors attracts a broad audience of both consumers and professionals interested in the latest technologies and products. We also boast an active community focused on purchasing decisions and technical aspects of the iPhone, iPad, Mac, and other Apple platforms.
+
+
+
+About MacRumors.com
+
+Advertise on MacRumors
+
+
+
+Our Staff
+Arnold Kim
+Editorial Director
+Email • Twitter
+Eric Slivka
+Editor in Chief
+Email • Twitter
+Juli Clover
+Managing Editor
+Email • Twitter
+Joe Rossignol
+Senior Reporter
+Email • Twitter
+Mitchel Broussard
+Deals Editor
+Email • Twitter
+Tim Hardwick
+Senior Editor
+Email • Twitter
+Hartley Charlton
+Senior Editor
+Email • Twitter
+Marianne Schultz
+Project Manager
+Email • Twitter
+Dan Barbera
+Video Content Producer
+Email • Twitter
+Ryan Barrieau
+Graphic Designer
+Email •Twitter
+Steve Moser
+Contributing Writer
+Email • Twitter
+Aaron Perris
+Contributor
+Email • Twitter
+Related Links
+YouTube
+10 Mac Apps That Will Change How You Use macOS in 2026
+Apple TV 4K Was Supposed to Launch in 2025… So What Happened?
+TCL PlayCube Review: The Best Truly Portable Projector I’ve Used
+Apple’s M5 Max iMac Pro Leak Has Me Very Excited
+Apple’s Next Big Home Device Just Leaked
+The MacRumors Show
+Apple’s 2025 Year-in-Review | Episode 177
+Apple Studio Display 2 and Pro Display XDR 2 Rumors | Episode 176
+Galaxy Z Trifold vs. Apple’s Foldable iPhone | Episode 175
+Apple’s Big Plans for iPad Mini | Episode 174
+iPhone 18 Pro Looks Like a Huge Upgrade | Episode 173
+Copyright © 2000-2025 MacRumors.com, LLC.
+
+Privacy / DMCA contact / Affiliate and FTC Disclosure
+
+
+Accessibility Statement
+
+[ Featured On/Off ] [ Full Articles On/Off ] [ Fluid | Fluid HD ] [ Auto | Light | Dark ]
+Information from your device can be used to personalize your ad experience.
+
+Do not sell or share my personal information.
+Terms of Content Use

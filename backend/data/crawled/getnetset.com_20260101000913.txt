@@ -1,0 +1,8 @@
+Verifying Request...
+
+Your requested page will load after approximately 2 seconds.
+
+Message #102-A
+(WAF Custom Response Body)
+
+Protected by GetNetSet

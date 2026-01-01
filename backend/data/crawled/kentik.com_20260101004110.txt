@@ -1,0 +1,165 @@
+INTRODUCING AI ADVISOR
+The Future of Network Intelligence
+Now everyone can design, operate, and protect infrastructure at scale.
+Get a Demo
+ 
+
+“We use Kentik to continually improve our network at ServiceNow.”
+
+Davin Camara
+VP, Cloud Network Services, ServiceNow
+The AI infrastructure ecosystem relies on Kentik
+
+Ultra low latency and peak reliability from multi-cloud to edge
+
+6
+OUT OF
+10
+
+of the world’s largest enterprise AI companies use Kentik
+
+Protect your AI investments
+Slide 1 of 6
+TOGETHER AT LAST
+Performance, reliability, cost, and security
+Manage and optimize your entire network — from data center to cloud
+Kentik AI
+Deep Traffic Insight
+Kentik Cloud
+Network Monitoring
+Synthetics
+AI that demystifies complex networks
+
+Built by nerds experts who helped create the global internet to understand every network in context
+
+Learn more
+Take the hard work out of running your network
+Reliability
+Cost
+Performance
+
+Incident response? More efficiency, less toil.
+
+Observability from data center, to cloud, to the internet
+Self-service troubleshooting for support, NOC, and app teams
+Most accurate DDoS detection in the market
+400%
+faster troubleshooting
+Case study
+0
+downtime minutes
+Case study
+6x
+faster DDoS detection
+Case study
+Network intelligence solutions for the entire organization
+Network
+Cloud
+Security
+Executive
+Know the answer, now.
+Rapidly understand root cause to resolve outages across environments.
+Improve network performance, cost, and security — with the least amount of effort.
+Use automatic peering and traffic cost analysis for fewer hops, more efficiency.
+Get a Demo
+Kentik works with the tools your team already uses
+Easily send or receive data from any source in any format.
+See all integrations
+What customers say
+
+“Kentik saved us time and gave us full confidence that we’d be aware of and be able to respond to any cloud or on-prem network issues on a timely basis.”
+
+– Louis Bolanos, Staff Cloud Network Engineer
+Read the case study
+
+“As soon as you turn it on, you see how different Kentik is from any other solution.”
+
+– Mike Leis, Senior Network Engineer
+Watch the video
+
+“Kentik allows us to better understand DDoS attacks and investigate security events.”
+
+– Miguel Benjumea Ortiz, Network Administrator
+
+“Previously, we didn’t have anywhere near the granularity of data we have with Kentik.”
+
+– Jurriën Rasing, Group Product Manager for Platform Engineering
+Read the case study
+More customer love
+See what’s new
+Introducing AI Advisor: Accelerate network intelligence to design, operate, and protect infrastructure at scale.
+Blog Post
+Beyond Observability: Why Network Intelligence Will Make Traditional Network Management Obsolete
+Blog Post
+Dive into network telemetry with a sneak peek of this O'Reilly guide before its official release.
+Includes Chapters 1-4
+Kentik is the network intelligence platform for modern infrastructure teams.
+Get a Demo
+844-356-3278
+Platform
+Multi-Cloud Observability
+Network Monitoring System (NMS)
+SD-WAN Monitoring
+Network Security and Compliance
+AI Advisor
+Synthetic Monitoring
+Peering and Interconnection
+Kentik for Service Providers
+Kentik AI
+Network Telemetry
+Universal Data Explorer
+Observability Data Pipeline
+Integrations
+Kentik Data Engine
+Solutions
+Reduce Cloud Spend
+Migrate To and From Any Cloud
+Improve Cloud Performance
+Optimize Enterprise WAN
+Network Performance Monitoring
+Deliver Exceptional Digital Experiences
+Detect and Mitigate DDoS
+Harden Network Policy Management
+Investigate Security Incidents
+Visualize All Cloud and Network Traffic
+Troubleshoot Any Network
+Understand Internet Performance
+Optimize Data Center Networks
+Consolidate Legacy Tools
+Optimize Peering and Transit
+Plan Network Capacity
+Reduce Network Spend
+Grow Subscriber Revenue
+Technology
+AWS
+Azure
+BGP
+Google Cloud
+OCI
+New and Notable
+Introducing Kentik AI Advisor: The Future of Network Intelligence
+Beyond Observability: Why Network Intelligence Will Make Traditional Network Management Obsolete
+Practical Guide to Modern Networking Telemetry
+Learn
+Case Studies
+Blog
+Resource Library
+Telemetry Now Podcast
+Kentik Network Analysis Center
+Kentipedia
+Product Updates
+Documentation
+Company
+Who We Are
+Plans and Pricing
+Customers
+Contact Us
+Careers
+Partners
+Kentik Slack Community
+Privacy Policy
+Terms of Use
+Trust Center
+Legal
+Site Map
+Copyright © 2025 Kentik. All rights reserved.

@@ -1,0 +1,444 @@
+Platform
+Use Cases
+Pricing Plans
+Resources
+Company
+Login
+Get a demo
+
+Platform overview
+
+Learn more about Quantum Metric.
+
+Data
+
+Session replay
+Understand the "why" behind customer behaviors.
+Segment builder
+Slice your audience with nested segment building.
+Autocapture
+Capture over 300 metrics out-of-the-box.
+Page performance
+Discover and quantify the impact of slow pages.
+User analytics
+Unlock better user adoption, retention, and customer journeys.
+Platform intelligence
+Our powerful machine learning engine.
+Mobile app analytics
+Patented mobile analytics technology.
+
+Insights
+
+Felix AI Agentic
+Autonomous agents analyze every part of the customer journey.
+Felix AI Summarization
+Gen AI powered session summarization.
+Journeys
+Understand which paths customers are taking.
+Interaction heatmaps
+Visualize page-level clicks, scrolls, and attention.
+Visible
+Visualize user behavior directly from your browser.
+Dashboards
+Organize and monitor your most important data.
+Dashboard template library
+Templates to improve your experience.
+Opportunity analysis
+Automatically surface and quantify friction points.
+
+Action
+
+Monitoring & alerts
+Alerting on aggregate behavior, frustration, and more.
+Data activation
+Seamlessly merge any data source.
+Data streaming
+Send Quantum Metric insights to your data warehouse.
+Data enrichment
+Get greater impact with enhanced data insights.
+Salesforce Lightning analytics
+Gain visibility and understanding of Salesforce Lightning app users.
+Performance & overhead
+Lightweight SDKs and tags.
+Security & privacy
+Best in class security technology and polices.
+
+See for yourself.
+
+Talk to our team.
+
+Schedule a personalized discussion and walkthrough of our solution.
+
+Watch a live demo.
+
+Join a regularly streamed demo of our top features and use cases.
+
+Browse product tours.
+
+Review platform use cases and capabilities at your own pace.
+
+Industries
+
+Retail
+Understand shoppers’ needs faster.
+Financial services
+Drive digital adoption and improve satisfaction.
+Travel & hospitality
+Grow revenue and loyalty with real-time visibility.
+Telco
+Improve the digital-first experience.
+Gaming
+Understand real-time player behavior.
+Healthcare
+Improve patient self-service and loyalty.
+
+Teams
+
+Product
+Understand any part of the digital experience in seconds.
+Technology
+Surface and scope customer technical friction in real-time.
+Marketing
+Strengthen your campaigns and convert more.
+Analytics
+Answer the “why” behind the customer experience.
+CX & VoC
+Bring together qualitative and quantitative insights.
+UX
+Deep insight into behavior, engagement, and friction.
+Service & support
+Improve customer empathy and contact center efficiency.
+
+Solutions
+
+Digital analytics
+Monitor, diagnose, and optimize critical experiences.
+Product analytics
+Understand user behavior and drive adoption.
+Experience analytics
+Surface pain points and quantify opportunities.
+Journey analytics
+Insights into every touchpoint across the digital journey.
+Web analytics
+Understand and report on digital performance.
+Employee experience
+Automatically surface critical friction on your internal apps and kiosks.
+Contact center
+Optimize contact center experiences.
+AI Detection
+Reveal how AI agents interact with your digital experience.
+
+Explore dashboard templates.
+
+Gain instant insight into your digital experience with pre-designed dashboard templates.
+
+Skip the setup, start analyzing.
+
+See template library
+
+Learn
+
+Resources
+Review expert guidance and new data.
+Case studies
+Discover our customer stories.
+Product tour library
+Review platform use cases and capabilities at your own pace.
+Events & webinars
+Join us for live or virtual events.
+Benchmarks
+Review the top findings from Quantum Metric aggregated platform data.
+Blog
+Thought leadership, trends, and product insights.
+Continuous Product Design
+The approach to building better products faster.
+
+Community
+
+The Quad
+Connect with experts, converse, and be inspired.
+
+New blog post.
+
+Turn data into understanding with the ‘why.’
+
+Quantum Metric's CEO explores how the Quantified Why drives decisions and efficiency in the enterprise.
+
+Read the blog
+
+About us
+
+Our story
+How Quantum Metric started, our leadership team, and how you can get involved.
+Careers
+See what it's like to work for Quantum Metric, and available positions.
+News
+Read the latest announcements and news.
+
+Partner network
+
+Partners & integrations
+View our technology and solutions partners.
+Partner program
+Our key ecosystem of partners.
+
+Latest news.
+
+Quantum Metric simplifies digital analytics with Spring 2025 Product Launch.
+
+Learn more
+
+Data that answers before you ask.
+
+Felix Agentic is your always-on analyst. Finally, AI that makes understanding your digital business effortless.
+
+View product tour library
+
+Quantum Metric named a Strong Performer in the 2025 Forrester Wave™ for Digital Analytics.
+
+See why Forrester ranked Quantum Metric among top vendors in the market.
+
+Data that works harder, turning insight into action at every moment.
+
+When enterprises connect the right data to real-time insights and action, they drive measurable value for both their business and their customers.
+
+Get to know our platform
+
+DATA
+
+The right data, captured instantly.
+
+Seamlessly and automatically collect data across web, mobile, other digital channels, so you can make fast, informed decisions.
+
+See autocapture in action
+
+INSIGHT
+
+Uncover real-time customer behavior and intent.
+
+Use Felix AI to pinpoint where users struggle and where they convert — solving frustrations in the moment to keep every journey on track.
+
+Learn more with session replay
+
+ACTION
+
+Turn insights into revenue-driving outcomes.
+
+Focus on what moves the needle. Identify your biggest opportunities with quantified impact, and align your teams to drive results.
+
+Drive results with opportunity analysis
+Ready to lead your industry?
+
+See how Quantum Metric helps enterprises grow with digital analytics, delivering measurable results through data-driven insights tailored to your industry.
+
+Retail
+Travel & Hospitality
+Financial Services
+Telecom
+Healthcare
+Gaming
+Retail
+
+With detailed insights into how customers browse and purchase, you can eliminate friction, increase conversions, and drive revenue — adapting to changing shopper needs in real time.
+
+Learn more
+Resources
+
+Retail product tour
+
+Retailer's 6 Pillar Guide to Digital Optimization
+
+Quantum Metric has multi-tens of millions of dollars impact on revenue at Lululemon
+
+Travel & Hospitality
+
+Get real-time visibility into every guest interaction and booking to ensure seamless omnichannel experiences that boost both loyalty and revenue.
+
+Learn more
+Resources
+
+Airline product tour
+
+Better business outcomes with Data Enrichment
+
+5 Key Efficiency Boosts for Digital Travel & Hospitality Journeys
+
+Korean Air improves app store rating from 2.9 to 4.6
+
+Financial Services
+
+Quickly resolve friction points, enhance service quality, and drive loyalty with the insights needed to deliver seamless digital experiences.
+
+Learn more
+Resources
+
+How Western Union increased First Call Resolution and reduced call escalations
+
+Transform digital banking.
+
+Streamline insurance journeys.
+
+Optimize wealth management journeys.
+
+Telecom
+
+Optimize subscription flows, tailor customer interactions, and streamline self-service options to create digital experiences that keep customers coming back.
+
+Learn more
+Resources
+
+Quantum Metric for Telco solution sheet
+
+How The Telegraph bolstered online conversions
+
+Healthcare
+
+Ensure digital services are smooth and efficient with insights that improve patient satisfaction and reduce call center volume — so your team can focus on care.
+
+Learn more
+Resources
+
+Quantum Metric for healthcare solution sheet
+
+AMA cut sign in abandonment in half
+
+Gaming
+
+Understand player behavior, uncover performance bottlenecks, and optimize the experience from registration to monetization — boosting player satisfaction and revenue along the way.
+
+Learn more
+Resources
+
+BetVictor optimizes conversion funnel to grow online bets
+
+Following optimization using Quantum Metric insights, the Korean Air app-store rating has risen from 2.9 up to 4.6.
+
+- Jinsoo Ko, Product Manager
+
+Read their story
+
+Quantum Metric provides a single source of truth around our customers' experience. All stakeholders can easily see and understand the impact of a problem and agree on solutions. Using Quantum Metric has genuinely brought our technology and business teams closer together.
+
+- Steven Teo, Head of Innovations and Digital Controls
+
+Read their story
+
+Quantum Metric has helped lululemon systematically chip away at checkout errors, which has had a multi-tens of millions of dollars in revenue impact.
+
+- Danny Ryder, Chief Digital Officer
+
+Read their story
+
+One of the challenges with traditional analytics is that you have to prescribe what you want to measure. Often it's what you are not looking at that is what holds you back. That is where Quantum Metric’s machine learning has been a big game changer for us.
+
+- Dylan Jacques, Technology Director
+
+Read their story
+Trusted by enterprises. Loved by people.
+Get started now
+
+4.6
+
+264 verified reviews
+
+as of August 2025
+
+Read more reviews
+
+4.1
+
+59 verified reviews
+
+as of August 2025
+
+Read more reviews
+
+4.5
+
+84 verified reviews
+
+as of August 2025
+
+Read more reviews
+
+6.8 billion
+sessions each month.
+
+50%
+of the worldwide internet users.
+
+Start focusing on opportunities that drive the biggest lift.
+
+Discover what Quantum Metric can do for you.
+
+Talk to sales
+
+Schedule a personalized demo based on your business objectives.
+
+Watch a live demo
+
+Join a regularly streamed live demo or watch one on demand.
+
+Browse product tours
+
+Review bite-sized videos and interactive demos of top platform use cases.
+
+Login
+Get a demo
+
+Platform
+
+Platform overview
+Felix AI Agentic
+Felix AI Summarization
+Journeys
+Mobile app analytics
+Interaction heatmaps
+Security & privacy
+
+Industries
+
+Retail
+Financial services
+Travel & hospitality
+Telco
+Gaming
+Healthcare
+
+Teams
+
+Product
+Technology
+Marketing
+Analytics
+CX & VoC
+UX
+Service & support
+
+Solutions
+
+Digital analytics
+Product analytics
+Experience analytics
+Journey analytics
+Web analytics
+Employee experience
+Contact center
+AI Detection
+
+Resources
+
+Contact us
+Product tour library
+Pricing plans
+Resources
+Case studies
+Privacy Policy
+Term of Use
+EULA
+Patents
+Affiliates
+Legal Information
+Modern Slavery Statement
+
+© 2025 Quantum Metric, Inc. All rights reserved.

@@ -1,0 +1,221 @@
+My IP
+VPN
+Browser
+Services 
+Tools
+Buy VPN now
+My IP
+Tools
+Browser
+VPN
+Speed test
+Ping
+Whois
+DNS leak test
+Buy VPN
+Telegram
+ My IP: 59.15.130.228 
+Yangcheon-gu / South Korea
+Dual-ISP Static Residential Proxies — Boost TikTok Traffic! 20%OFF with WHOER
+Open
+Secure internet 
+ISP:
+KT
+DNS
+172.253.198.208  Japan
+Hostname:
+N/A
+OS:
+Mac OS X
+Browser:
+Chrome 120.0
+Hide
+Proxy:
+No
+Get proxy
+Anonymizer:
+No
+Blacklist:
+No
+Your disguise: 70% Moderate security and anonymity remarks
+More
+WADE X BROWSER
+NYE OFFER: +30 DAYS WITH ANY PLAN
+
+Multi-account browser with isolated profiles and real fingerprints
+
+AFFILIATE
+AGENCIES
+E-COMMERCE
+SCRAPING
+SMM
+GET BONUS DAYS
+Limited-time offer • Dec 25 – Jan 11 • Bonus added after purchase
+IP Address Details
+Extended version
+Browser fingerprint
+DNS LEAK TEST
+Go
+PORT SCANNER
+Go
+EVERCOOKIE TEST
+Go
+WEBRTC
+59.15.130.228
+JAVASCRIPT
+Enabled
+FLASH
+Disabled
+ACTIVEX
+Disabled
+JAVA
+Disabled
+COOKIES
+Enabled
+LOCATION
+Country:
+South Korea
+ (KR)
+Region:
+Seoul
+City:
+Yangcheon-gu
+ZIP:
+07908
+Hostname:
+N/A
+
+Reversed:
+N/A
+IP range:
+59.0.0.0 - 59.31.255.255
+ISP:
+KT
+Organization:
+KT
+AS Organization:
+Korea Telecom
+AS Number:
+4766
+TIME
+Zone:
+Asia/Seoul
+Local:
+Tue Dec 30 2025 15:42:30 GMT+0900 (KST)
+System:
+Tue Dec 30 2025 15:42:31 GMT+0900 (Korean Standard Time)
+SOCIAL NETWORKS
+We could not find that you are logged in to social networks
+LANGUAGE
+Want to know more? 
+Use extended version
+Dual-ISP Static Proxies for Maximum Stability
+Built on dual-ISP architecture, Nsocks ensures wired-level stability — ideal
+for TikTok, ads verification, and multi-account operations.
+Use promo code WHOER for a 20% discount.
+Choose proxy
+WHOER.NET
+What is My IP – Free IP Lookup
+
+Your IP address is a number that helps your devices connect. If you want to know how to find IP address, you should decide which IP do you need exactly. If you want to see how websites identify you online, you'll need your public IP – and that's exactly what Whoer.net reveals as soon as you open the page. It’s a fast, free IP lookup that answers What’s my location by IP without extra clicks.
+
+Check IP (country, ISP, ASN, ZIP code)
+
+Whoer.net is a user-friendly What is my IP tool to find IP address in one click. Just enter the site, you’ll get an instant IP address lookup, a clear VPN check, and a smart proxy checker (HTTP/HTTPS/SOCKS5). There’s also an IP blacklist check that shows if your IPs are compromised. Follow the step-by-step guidance to get delisted.
+
+When I open the main page, I can see my public IP address, DNS, country/city, ISP, and ASN right away. If I just need to check IP address for support, gaming, or remote access, Whoer.net is right at the top.
+
+With Whoer.net, you can instantly check for IP and DNS leaks and see if your real IP is exposed.
+
+VPN check & Proxy checker
+
+The VPN leak test detects VPNs and TOR. We compare your IP country with DNS, time zone/locale, and look for tunneling signs – so you’ll know whether your IP address might look suspicious to websites.
+
+The proxy checker validates HTTP/HTTPS/SOCKS5: it inspects headers, scans common proxy ports (8080/3128/1080), and catches fingerprintable patterns. We also flag datacenter IP vs residential/mobile and do transparent proxy detection.
+
+The Whoer.net leaks score
+
+The Whoer.net leaks score is a helpful feature that shows how secure your connection is when using a VPN or proxy. It checks for potential leaks like DNS, WebRTC, and IP leaks, which could expose your real location or identity. A higher leaks score indicates that your VPN or proxy is effectively masking your true IP, while a lower score suggests there may be vulnerabilities that could compromise your privacy. This is an important tool for anyone looking to maintain their anonymity online.
+
+Browser fingerprint checker
+
+The browser fingerprint checker shows details like your User-Agent, HTTP headers, screen info, language and time zone, device and browser data, WebRTC/JavaScript status, and plugins. It’s a handy tool for people using multiple accounts in their browser or working on general privacy improvements, especially when your IP address changes or stays the same..
+
+How to find IP address on your devices
+
+You have a public IP address (what websites see) and a local IP address (what your router and other devices at home see). Many devices in your home can share one public IP on the internet, but each device has its own local IP inside your network.
+
+Your local IP is the one used inside your home or office network. You need it when you set up things like file sharing, remote desktop, a printer, a smart TV, or port forwarding on your router. If you want to connect to another device at home, fix a network issue, or set up a game server or camera, you usually need your local IP
+
+If you want to check IP on Windows, you can find it in the network settings. Open the Start menu, go to Settings, then Network & Internet. Choose Wi-Fi if you’re on wireless or Ethernet if you’re on cable, open the connection you’re using, and look for a line called IP address or IPv4 address. The number that looks like 192.168.x.x or 10.x.x.x is your local IP.
+
+On a Mac, click the Apple menu and open System Settings (or System Preferences on older versions). Go to Wi-Fi or Network, select the network you’re connected to, and you’ll see an IP Address field. That’s your local IP address inside your network.
+
+To find IP on Android, open Settings and go to your Wi-Fi section. Tap the Wi-Fi network you’re connected to and open its details or advanced settings. There you’ll see an IP address that usually starts with 192.168 or 10.
+
+To find iPhone IP, open Settings, then Wi-Fi. Tap the little “i” icon next to your current network. In the IPv4 section you’ll see IP Address. That’s the local IP for your phone on your home network.
+
+FAQ: IP address and privacy on Whoer
+
+What is my IP address and what does it show?
+Your IP address is a number your provider gives your device on the internet.
+On Whoer you see it together with rough location, ISP name and ASN.
+
+How do I find my IP address and location?
+Just open Whoer.net in your browser. The page loads, and on the first screen
+you see your IP address, country or city, provider and basic connection info.
+
+What does “see leaks” on this page mean?
+Leaks are cases when real IP or DNS requests are visible outside a VPN or proxy.
+Whoer runs simple DNS and WebRTC checks and highlights if something is exposed.
+
+Does a VPN or proxy change what I see as my IP here?
+Yes. If your VPN or proxy is working, you should see its IP and country instead
+of your real network IP. If not, the tests may show leaks or mismatches.
+
+Is it safe to use Whoer to check my IP address?
+We only show data your browser and network already send with every request:
+IP, headers and technical signals. No extra software, no personal data forms.
+
+INFORMATION
+Blog
+Recover access code
+Terms of use
+Refund Policy
+Privacy Policy
+Apps Privacy Policy
+Contacts
+Partner With Us
+About us
+VPN
+VPN for Windows
+VPN for Mac
+VPN for Linux
+VPN for Android
+VPN for iOS
+VPN for Chrome
+VPN for Edge
+VPN for Firefox
+VPN for Opera
+VPN for Yandex
+VPN for Router
+SERVICES
+My IP
+VPN
+Multi-Acc
+Speed test
+Ping
+Whois
+DNS leak test
+Port scanner
+USEFUL LINKS
+Customer Support
+VPN-related problems and solutions
+How to install OpenVPN on your router
+How to disable Internet when VPN goes offline
+VPN for games
+Best VPN services
+APPS
+Telegram
+Copyright © whoer.net 2008-2025
+English

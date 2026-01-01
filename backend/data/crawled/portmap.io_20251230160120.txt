@@ -1,0 +1,62 @@
+portmap.io
+CLI new
+ 
+API
+ 
+SUPPORT
+ 
+LOGIN
+ 
+REGISTER
+ 
+Port forwarding becomes easier
+Make your home PC available from Internet without real IP address
+ SIGN-IN
+Free port forwarding solution
+
+for
+
+How it works
+
+You create VPN tunnel from your PC to our server using free OpenVPN software and define port forwading rule to forward requests from Internet through our server to your local machine. It works even you do not have real IP address or your incoming traffic is blocked. You can forward HTTP traffic to your local web-server as well as any TCP or UDP traffic. If your web-server has virtual hosts configured, you can specify which one you are connecting to.
+
+
+
+
+HTTP/HTTPS, TCP or UDP
+
+Use any application you need
+
+Firewall
+
+Limit access to certain IP/networks
+
+Unlimited bandwidth
+
+Traffic never ends
+
+All OS support
+
+Windows, Linux, MacOS, dd-wrt
+
+Custom domain name
+
+Use yourname.portmap.io or redirect your own domain
+
+Host headers
+
+Specify which virtual host to connect
+
+
+
+
+© 2024 Portmap.io. All right reserved.
+
+Home
+ 
+Sitemap
+ 
+Privacy Policy
+ 
+Terms Of Services
+ 

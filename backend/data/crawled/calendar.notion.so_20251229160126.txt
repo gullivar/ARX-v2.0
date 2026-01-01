@@ -1,0 +1,13 @@
+English (US)
+Welcome to Notion Calendar
+Log in to your Notion account
+Continue with Google
+Continue with Apple
+Continue with Microsoft
+Log in with passkey
+Single sign-on (SSO)
+Email
+Use an organization email to easily collaborate with teammates
+Continue
+
+By continuing, you acknowledge that you understand and agree to the Terms & Conditions and Privacy Policy

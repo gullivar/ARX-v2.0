@@ -1,0 +1,53 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Allow all
+Allow selection
+Deny
+Skip to content
+
+Auctollo
+
+Beta Program
+Indexation
+Blog
+Products
+Support
+Contact Us
+Community at Work
+
+Welcome to Auctollo; we build SEO tools that help you optimize your website’s performance and improve your search engine rankings. We are proud to have contributed to the WordPress community for decades!
+
+Our flagship product, XML Sitemap Generator, is a powerful sitemap generator that makes it easy to create and submit sitemaps to search engines like Google, Bing, and Yahoo. But that’s not all we have to offer. In addition to XML Sitemap Generator, we have a range of other SEO tools planned that will help you troubleshoot indexation issues, optimize your sitemap for maximum indexation, and gain valuable insights into your website’s performance.
+
+Current Products
+
+Our sitemap generator tool (XML Sitemap Generator), is designed to simplify creating and submitting sitemaps to search engines. With just a few clicks, you can generate a comprehensive sitemap that includes all your website’s pages, including dynamic and static pages, blog posts, categories, and tags. Our tool automatically updates your sitemap whenever you add, change or delete content, so you never have to worry about outdated or missing information. The generator can also follow business logic to set priorities based on the number of comments or other criteria.
+
+Our tool supports all major search engines and provides detailed instructions on submitting your sitemap to each one. By submitting your sitemap, you can improve your website’s visibility and increase the likelihood of your pages being indexed and ranked in search results.
+
+What’s Next?
+
+We’re committed to providing you with the best SEO tools. That’s why we have a range of planned new tools to help you optimize your website’s performance and improve your search engine rankings. Here are just a few of the tools we have in the works:
+
+Indexation Troubleshooting
+Our upcoming indexation troubleshooting tools will help you identify and fix common issues that prevent search engines from indexing your pages. These tools will provide detailed insights into your website’s indexation status, including crawl errors, broken links, and missing pages.
+
+Sitemap Optimization
+Our tools will help you create sitemaps optimized for maximum indexation and search engine visibility. These tools will analyze your sitemap and recommend improving its structure, content, and metadata.
+
+Analysis Tools
+Our analysis tools will help you gain valuable insights into your website’s performance and identify areas for improvement. These tools will provide detailed reports on your website’s traffic, user behavior, search engine rankings, and recommendations for optimizing your content and marketing strategies.
+
+We’re excited to bring you these new tools in the coming months, so be sure to check back often for updates and announcements.
+
+We hope this gives you a clear idea of our product offering and what we have planned for the future. If you have any questions or feedback, please don’t hesitate to contact us.
+
+Auctollo
+
+©2023 All Rights Reserved | Policies

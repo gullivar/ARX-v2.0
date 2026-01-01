@@ -1,0 +1,403 @@
+Platform
+Agents
+Solutions
+Resources
+Company
+Pricing
+Login
+Get a Demo
+Start for Free
+Unleash AI connectivity. Fuel AI innovation.
+
+Build, run, discover, govern, and monetize all of your AI and API connectivity.
+
+Get a Demo
+Start for Free
+
+Kong powers rapid AI innovation at enterprise scale
+
+The AI opportunity: Winner takes everything
+
+How you deploy AI will define the future of your business. And how you govern AI will define the future of your AI deployment. We already know that lack of visibility, fragmentation, and governance gaps are killing early AI programs.
+
+95%
+
+of AI initiatives go nowhere
+
+84%
+
+of companies report AI has eroded gross margins by more than 6%
+
+$4.63M
+
+average cost per Shadow AI breach to enterprises
+
+But your AI program? It can thrive. Your business can drastically increase margins with AI. And you can unify security and visibility for all AI consumption — from the agent to the LLM to the API to the data itself.
+
+How? By unifying fragmented AI, API, and event data ecosystems — all in one platform.
+
+Fragmentation drives AI failure. AI connectivity drives AI success.
+
+Fragmentation kills velocity. Fragmentation spawns security vulnerabilities. Fragmentation brings critical services down. Fragmentation blows through budgets.
+
+Fragmentation suffocates innovation.
+
+Get un-fragmented. Unify your AI cost, security, and risk posture with Konnect. And unleash AI innovation.
+
+#1
+
+Cost governance challenge is fragmented visibility
+
+63%
+
+Organizations breached don't have AI governance
+
+86%
+
+Organizations are completely blind to their AI data flows
+
+Without Kong
+With Kong
+Everything AI connectivity — all in one platform.
+
+No matter what AI-powered applications you're building — and no matter fuels them — they need AI fuel to do their jobs well. That fuel could be APIs. It could be LLMs and MCP servers. And it could be real-time data and events.
+
+No matter what you build, and no matter what fuel it needs, Kong is the AI connectivity layer connecting it all.
+
+Explore the Platform
+Get Started for Free
+	
+	
+Kong Konnect Platform
+Build
+Run
+Discover
+Govern
+Monetize
+Connect AI with APIs
+
+Build, secure, and manage APIs at scale with enterprise-grade performance.
+
+Explore API Gateway
+
+Connect AI with LLMs
+
+Build a unified, secure, reliable, cost-effective multi-LLM interface for AI agents and MCP servers to interact with LLMs accross the enterprise.
+
+Explore AI Gateway
+
+Connect AI with MCP servers
+
+Design, compose, and run intelligent MCP integration patterns that leverage secure APIs and real-time data as lean, cost-effective tools.
+
+Explore MCP Gateway
+
+Connect AI with event streaming & real-time data
+
+Expose, secure, and productize event data to fuel AI-powered applications with live data and real-time signals.
+
+Explore Event Gateway
+
+Test AI connectivity
+
+Build an AI trust layer with developer-friendly API and MCP design, testing, and debugging.
+
+Explore Insomnia
+
+Productize AI connectivity
+
+Productize APIs, MCP servers, LLM APIs, and event data as self-service, reusable assets for developers and agents.
+
+Explore Developer Portal
+
+Monetize AI connectivity
+
+Monetize agents, APIs, LLMs, MCP servers, event data, and more.
+
+Explore Metering & Billing
+
+Govern AI connectivity
+
+Stand-up cross platform observability, compliance guardrails, cost governance, and control mechanisms for every point of AI connectivity.
+
+Explore Observability
+
+Why Kong?
+
+Your API journey is your AI journey. Only Kong gives you everything you need to build, run, discover, govern, and monetize the APIs, LLMs, MCP servers, and real-time data feeds that power AI modernization.
+
+But don't just trust us. Trust our customers.
+
+Break silos
+
+United Airlines removed data silos and moved to a cloud native platform to manage thousands of APIs across hundreds of application teams, reducing API onboarding time by 2–3x, reducing latency for mission-critical workloads, and significantly hardening their reliability and security posture.
+
+Learn more
+
+Capture maximum innovation potential
+
+SeatGeek centralized LLM request validation at the gateway layer to eliminate the risk of spoofed traffic, avoided the need to duplicate code across more than a dozen microservices, reduced engineering time by 2–3 weeks of development per service, maintained a seamless user experience, and accelerated time-to-market for new capabilities.
+
+Learn more
+
+Ship APIs and products faster
+
+Siemens turned Kong into a smart control and observability layer for their event streams. They eliminated the need for decentralized data storage across teams, reduced redundant infrastructure, accelerated integration time by ~70% for new API consumers, and unlocked faster product innovation.
+
+Learn more
+
+Ship compliant AI products
+
+H&M pivoted from a fragmented AI governance model to a secure, unified, and scalable platform. They shrunk the onboarding time for new AI services from weeks to days, and rolled out financial oversight. They also reduced LLM operational costs through intelligent routing and centralized rate limiting and 100% centralized logging and auditability for all AI traffic to meet compliance requirements.
+
+Learn more
+
+Turn APIs into revenue — not cost — centers
+
+BT Group is streamlining its previously fragmented API ecosystem, making it easier and more cost-effective to adopt emerging technologies, such as generative AI.
+
+Learn more
+
+Accelerate your deployment capabilities
+
+Goldman Sachs needed a scalable solution to help balance compliance and speed. With Kong, they're able to speed up development and accelerate new business opportunities.
+
+Learn more
+
+More reasons to go with Kong
+
+When you choose Kong, you choose the world’s most adopted, battle-tested API platform. Pair this with killer documentation and training, 24/7 support, and the most experienced professional services team in the API space, and you’ll have a world-class API platform in no time. But don't take our word for it. See what people are saying on G2 and Gartner Peer Insights.
+
+G2 customer review
+
+“Amazing & lightning fast API gateway. It's lightweight, easy to install and configure, and super fast.”
+
+Learn More
+Gartner Peer Insights™
+
+“Kong Konnect is a really powerful platform that any organization of any size can use. I like its high performance, that it's scalable and easy to use.”
+
+Read the Report
+Built for developers
+
+Kong gives developers the freedom to be wildly successful without compromising on security or governance.
+
+View Docs
+CI/CD Integration
+
+Automate the entire API lifecycle as a part of your CI/CD, GitOps, and IaC strategies.
+
+Shift Security
+
+Shift API security left and right through automated API security checkpoints in your CI/CD pipeline.
+
+Deploy Anywhere
+
+Cloud. On-prem. Hybrid. Kong lets you build applications where they operate best.
+
+400B+
+
+API calls a day
+
+1.6B+
+
+Downloads
+
+80K+
+
+GitHub stars
+
+160K+
+
+Community members
+
+Plugins and Integrations
+
+Customize Kong to fit your evolving needs with our extensive ecosystem of plugins and integrations (plus the option to build your own) and ship better APIs, faster.
+
+Plugin Hub
+Customer Success Stories
+Achieving Global API Compliance and Conquering Complexity at Richemont Case Study
+
+Achieving Global API Compliance and Conquering Complexity at Richemont.
+
+400%
+Increase in API Calls
+Australia Post Delivers Faster Onboarding and Secure APIs with Kong Case Study
+
+"With Kong, we've taken a big leap forward in our ability to reduce operational overhead while efficiently scaling to support the increase in traffic requests from our rapidly growing customer base."
+
+Neha Jaiswal
+Product Manager, API Platform & Central Services
+PEXA Case Study
+
+"Kong is a natural fit for PEXA embarking on the modernization journey. It ticks all the boxes, scalability, security, and self-service, which takes the hassle of managing APIs"
+
+Raiffeisen Bank International (RBI) Accelerated Time to Market by 200% with Kong Case Study
+
+“What we at RBI’s Realtime Center of Excellence (RICE) have been able to achieve together with Kong is a perfect example of how standardization is fostering innovation in an international banking group with one goal – to delight our customers.”
+
+Thomas Joham
+Delivery Manager of RICE (Real Time Integration Center of Excellence)
+Boost Bank Automates 80% of Infrastructure with Kong Case Study
+
+Building Malaysia's Next-Generation Digital Bank with Scalable, Secure API Management
+
+80%
+infrastructure provisioning automated
+Elsevier: Automating API Publishing and Dev Portal Content Deployment Case Study
+
+Elsevier: Automating API Publishing and Dev Portal Content Deployment
+
+66%
+Reduced onboarding time
+Goldman Sachs: Leveraging AI and APIs to Serve Business and Clients Case Study
+
+"Instead of every team implementing these principles from scratch, we can offer them through the platform. I think that’s a really killer feature."
+
+Rohan Deshpande
+Managing Director
+Achieving Global API Compliance and Conquering Complexity at Richemont Case Study
+
+Achieving Global API Compliance and Conquering Complexity at Richemont.
+
+400%
+Increase in API Calls
+Australia Post Delivers Faster Onboarding and Secure APIs with Kong Case Study
+
+"With Kong, we've taken a big leap forward in our ability to reduce operational overhead while efficiently scaling to support the increase in traffic requests from our rapidly growing customer base."
+
+Neha Jaiswal
+Product Manager, API Platform & Central Services
+PEXA Case Study
+
+"Kong is a natural fit for PEXA embarking on the modernization journey. It ticks all the boxes, scalability, security, and self-service, which takes the hassle of managing APIs"
+
+Raiffeisen Bank International (RBI) Accelerated Time to Market by 200% with Kong Case Study
+
+“What we at RBI’s Realtime Center of Excellence (RICE) have been able to achieve together with Kong is a perfect example of how standardization is fostering innovation in an international banking group with one goal – to delight our customers.”
+
+Thomas Joham
+Delivery Manager of RICE (Real Time Integration Center of Excellence)
+Boost Bank Automates 80% of Infrastructure with Kong Case Study
+
+Building Malaysia's Next-Generation Digital Bank with Scalable, Secure API Management
+
+80%
+infrastructure provisioning automated
+Elsevier: Automating API Publishing and Dev Portal Content Deployment Case Study
+
+Elsevier: Automating API Publishing and Dev Portal Content Deployment
+
+66%
+Reduced onboarding time
+Goldman Sachs: Leveraging AI and APIs to Serve Business and Clients Case Study
+
+"Instead of every team implementing these principles from scratch, we can offer them through the platform. I think that’s a really killer feature."
+
+Rohan Deshpande
+Managing Director
+Achieving Global API Compliance and Conquering Complexity at Richemont Case Study
+
+Achieving Global API Compliance and Conquering Complexity at Richemont.
+
+400%
+Increase in API Calls
+Australia Post Delivers Faster Onboarding and Secure APIs with Kong Case Study
+
+"With Kong, we've taken a big leap forward in our ability to reduce operational overhead while efficiently scaling to support the increase in traffic requests from our rapidly growing customer base."
+
+Neha Jaiswal
+Product Manager, API Platform & Central Services
+PEXA Case Study
+
+"Kong is a natural fit for PEXA embarking on the modernization journey. It ticks all the boxes, scalability, security, and self-service, which takes the hassle of managing APIs"
+
+Raiffeisen Bank International (RBI) Accelerated Time to Market by 200% with Kong Case Study
+
+“What we at RBI’s Realtime Center of Excellence (RICE) have been able to achieve together with Kong is a perfect example of how standardization is fostering innovation in an international banking group with one goal – to delight our customers.”
+
+Thomas Joham
+Delivery Manager of RICE (Real Time Integration Center of Excellence)
+Boost Bank Automates 80% of Infrastructure with Kong Case Study
+
+Building Malaysia's Next-Generation Digital Bank with Scalable, Secure API Management
+
+80%
+infrastructure provisioning automated
+Elsevier: Automating API Publishing and Dev Portal Content Deployment Case Study
+
+Elsevier: Automating API Publishing and Dev Portal Content Deployment
+
+66%
+Reduced onboarding time
+Goldman Sachs: Leveraging AI and APIs to Serve Business and Clients Case Study
+
+"Instead of every team implementing these principles from scratch, we can offer them through the platform. I think that’s a really killer feature."
+
+Rohan Deshpande
+Managing Director
+Related resources
+eBook
+How to Sell the Kong API Platform to Your CIO
+Report
+API Security Insights 2025: AI Threats and Enterprise Risks
+Demo
+Securing Enterprise LLM Deployments: Best Practices and Implementation
+Grow faster and more securely with Kong
+
+Unleash developer productivity — and your organization’s potential — with Kong’s trusted cloud native API platform and the world’s most adopted API gateway.
+
+Get a Demo
+Start for Free
+POWERING THE API WORLD
+
+Increase developer productivity, security, and performance at scale with the unified platform for API management, AI gateways, service mesh, and ingress controller.
+
+Sign up for Kong newsletter
+
+Email
+Subscribe
+Platform
+Kong Konnect
+Kong Gateway
+Kong AI Gateway
+Kong Insomnia
+Developer Portal
+Gateway Manager
+Cloud Gateway
+Get a Demo
+Explore More
+Open Banking API Solutions
+API Governance Solutions
+Istio API Gateway Integration
+Kubernetes API Management
+API Gateway: Build vs Buy
+Kong vs Postman
+Kong vs MuleSoft
+Kong vs Apigee
+Documentation
+Kong Konnect Docs
+Kong Gateway Docs
+Kong Mesh Docs
+Kong AI Gateway
+Kong Insomnia Docs
+Kong Plugin Hub
+Open Source
+Kong Gateway
+Kuma
+Insomnia
+Kong Community
+Company
+About Kong
+Customers
+Careers
+Press
+Events
+Contact
+Pricing
+Terms
+Privacy
+Trust and Compliance
+Privacy Choices
+© Kong Inc. 2025

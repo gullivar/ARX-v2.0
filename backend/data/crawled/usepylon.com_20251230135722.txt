@@ -1,0 +1,201 @@
+Register for our upcoming webinar: How to do Slack support at scale -->
+Product
+Customers
+Resources
+Pricing
+Company
+Sign in
+Book a Demo
+The support platform
+built for B2B
+
+Resolve customer issues faster with AI. Support customers across modern channels.
+
+See Pylon
+Migrated off Zendesk
+Migrated off Intercom
+Others
+All-in-one support platform
+Omnichannel Support
+Support customers across Slack, Email, Chat, Microsoft Teams, Forms, Discord, Customer Portal, API, and more.
+Learn More
+AI Agents & Assistants
+Automate busywork and reduce response times. Triage, deflect, and move faster with AI.
+Learn More
+Knowledge Management
+Write and organize articles faster. Identify gaps, write articles, and auto-translate to 50+ languages with AI.
+Learn More
+Account Intelligence
+Prioritize and track accounts in one place. Pull support, success, and sales data into shared views.
+Learn More
+Build a support engine
+Omnichannel
+Support customers anywhere.
+
+Bring every customer conversation —  Slack, Teams, Email, Chat,  Teams, Discord and more — into a single view.
+
+Learn about Omnichannel Support
+Manage Slack Connect and Community channels in Pylon
+Support Microsoft Teams users without switching apps
+Track all Discord conversations and forums in one place
+AI
+Work faster with AI built for B2B.
+
+Route issues, identify and fill knowledge gaps, draft articles and replies, categorize tickets, surface insights across accounts, generate charts, and Ask AI any question about your customers.
+
+Learn about AI Assistants + Agents
+Automate repetitive tasks and ticket pre-work
+Ask AI anything and get answers with sources
+Fill knowledge gaps and automatically generate docs
+Account Intelligence
+Surface the right context for each team.
+
+Manage accounts proactively with shared context from support, success, and sales in one view.
+
+Learn about Account Intelligence
+Track key account signals automatically
+See full customer context in seconds
+Turn conversations into actionable tasks and projects
+Learn from the best
+90%
+
+decrease in First Response Time, from 35 minutes to < 3.5 minutes
+
+Learn More
+Open Case Study
+50%
+
+of eligible support inquiries resolved without human intervention
+
+Learn More
+Open Case Study
+2 week
+
+Zendesk migration covering a full year's worth of historical data
+
+Learn More
+Open Case Study
+Security & trust
+Compliance
+We are SOC 2 Type II, GDPR, ISO 27001, and HIPAA compliant.
+Learn More
+Investors
+We've raised $50M from the best firms including a16z, Bain Capital Ventures, General Catalyst, and YC.
+Learn More
+Industry
+We have earned dozens of badges and are rated 5 stars on G2.
+Learn More
+Want faster, smarter customer support?
+
+See how Pylon cuts the busywork and brings your support teams into one place.
+
+Book a Demo
+Company
+Careers
+About
+Talk to us
+Pricing
+AI Agents
+AI Agents
+Build
+Test
+Deploy
+Monitor & Iterate
+Knowledge Base
+Knowledge Base
+Articles & Collections
+Knowledge Gaps
+Styling & Customization
+Search
+Translation
+Security
+Security
+Trust Center
+Terms of Service
+Privacy Policy
+DPA
+Subprocessors
+Customer Portal
+Customer Portal
+Styling & Customization
+Access Control
+Portal Experience
+Custom Authentication
+Chat Widget
+Chat Widget
+Styling
+Functionality
+Chat Experience
+Chat Setup
+Identity Verification
+JavaScript API
+Support
+Omnichannel Support
+Issues
+SLAs
+Support Hours
+CSAT
+Ticket Forms
+Assignment Rules
+Email
+Account Intelligence
+Accounts
+AI Fields
+Formulas
+Views
+Notebooks
+Highlights
+Copilot
+Activities
+Sidebar
+Analytics
+Reporting & Analytics
+Default Dashboards
+Custom Dashboards
+Platform
+Custom Fields
+Required & Conditional Fields
+Tags
+Teams
+Triggers
+Macros
+Command Search
+Roles & User Management
+Training Data
+Ask AI
+Surveys
+Broadcasts
+Broadcasts
+Creating Broadcasts
+Analytics
+Resources
+Documentation
+API References
+Help Center
+Blog
+Changelog
+Integrations
+Slack Connect
+Email
+Microsoft Teams
+Chat Widget
+Ticket Forms
+Slack Community
+Salesforce
+HubSpot
+Attio
+Pipedrive
+PagerDuty
+Opsgenie
+Linear
+Jira
+Asana
+GitHub Issues
+Snowflake
+BigQuery
+Incident.io
+API
+Webhooks
+Custom Apps
+© 2025 Pylon Labs, Inc.
+Located in San Francisco

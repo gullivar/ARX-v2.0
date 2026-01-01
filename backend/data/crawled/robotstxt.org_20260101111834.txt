@@ -1,0 +1,12 @@
+The Web Robots Pages skip to content Advertisement Navigation The /robots.txt <META> tags Frequently Asked Questions Mailing list Other Sites About robotstxt.org Tools /robots.txt checker Robots Database IP lookup Advertisement The Web Robots Pages Web Robots (also known as Web Wanderers, Crawlers, or Spiders),
+are programs that traverse the Web automatically. Search engines such
+as Google use them to index the web
+content, spammers use them to scan for email addresses, and they have
+many other uses. On this site you can learn more about web robots. About /robots.txt explains what
+/robots.txt is, and how to use it. The FAQ answers many frequently asked
+questions, such as How do I stop robots
+visiting my site? and How can I get the best listing
+in search engines?" The Other Sites page links to external
+resources for robot writers and webmasters. The Robots Database has a list of robots. The /robots.txt checker can check
+your site's /robots.txt file and meta tags. The IP Lookup can help find out
+more about what robots are visiting you. Advertisement About this site | Privacy and cookies policy | Contact us | © 2007. All rights reserved. | Hosted by Mythic Beasts

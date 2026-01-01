@@ -1,0 +1,50 @@
+We are releasing a new user experience! Be aware that these rolling changes are ongoing and some pages will still have the old user interface.
+Join Paid Research Study
+Find, build, and share conda and python packages
+CMD + K
+Try searching for
+python matplotlib numpy pandas scipy
+Explore community packages from trusted sources
+conda-forge
+
+A community-led collection of recipes, build infrastructure, and distributions for the conda package manager.
+
+Anaconda
+
+The packages on this channel are covered by the Anaconda repository Terms of Service. Among other things, the ToS prohibits heavy commercial use and mirroring by any third party for commercial purposes.
+
+Robot Operating System
+
+ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications.
+
+NVIDIA
+
+NVIDIA Corporation Santa Clara, CA
+
+Bioconda
+
+Bioconda is a distribution of bioinformatics software realized as a channel for the versatile Conda package manager.
+
+Popular packages
+About Anaconda.org
+
+Anaconda.org is the community home for conda and Python packages, built with love by Anaconda for all
+
+Anaconda
+About Anaconda
+Download Anaconda
+Resources
+Support Forum
+Docs
+Blog
+Community
+Open Source
+NumFOCUS
+conda-forge
+conda-forge zulip chat
+Create Account
+© 2026 Anaconda, Inc.
+Legal
+Accessibility
+Privacy Policy
+Terms of Use

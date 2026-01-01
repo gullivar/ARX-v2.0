@@ -1,0 +1,1 @@
+{ "error": { "errors": [ { "domain": "global", "reason": "forbidden", "message": "Forbidden" } ], "code": 403, "message": "Forbidden" } }

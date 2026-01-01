@@ -1,0 +1,164 @@
+Home
+ 
+About
+ 
+Get started
+ 
+Be involved
+ 
+Blog
+ 
+Official shop
+Download OPNsense®
+Version 25.7
+Visionary Viper
+
+ Security. Speed. Simplicity. At Scale.
+
+Read more
+Key Highlights of OPNsense® 25.7
+‘Visionary Viper’
+Reengineered Setup Wizard (MVC-based)
+Strict Web UI Mode
+Dashboard Upgrade (ChartJS4)
+User Manager Enhancements
+New SFTP Backup Plugin
+Alias Management Overhaul
+More information
+12
+OPNsense® is an open source, feature rich firewall and routing platform, offering cutting-edge network protection.
+
+We've made digital security accessible to everyone. With our free OPNsense® platform, you get all the features of expensive commercial firewalls and more. Enjoy open and verifiable sources in a product developed with and for a large user community.
+
+Firewall
+
+Stateful firewall with support for IPv4 and IPv6 and live view on blocked or passed traffic.
+
+Multi WAN
+
+Multi WAN capable including load balancing and failover support.
+
+Virtual private networking
+
+Integrated support for IPsec (including route based), OpenVPN as well as pluggable support for Tinc (full mesh VPN) and WireGuard.
+
+Hardware failover
+
+Can't afford downtime? Use our automatic hardware failover with state synchronization. By utilizing the Common Address Redundancy Protocol (CARP), you can achieve the highest possible availability.
+
+Reporting & monitoring
+
+A modern approach to RRD graphs with options to zoom in and export data. Your favorite NetFlow analyzer shows most active users, interfaces, ports, and applications.
+
+Intrusion prevention
+
+Eliminate Trojans and CNC bots with advanced inline intrusion prevention using Suricata and Proofpoint’s Emerging Threats Open rules. You can also choose the optional ET PRO (commercial subscription) or ET PRO Telemetry (sign up for free).
+
+See all features
+Try OPNsense® today!
+
+The only open source security platform with a simplified 2-clause license (BSD/MIT license) is just one click away…
+
+Get started Download OPNsense®
+Q-Feeds and OPNsense join forces to harden firewalls with advanced Threat Intelligence
+Real-time protection against emerging threats
+Fast deployment – active within 5 minutes
+Flexible subscription options for every threat level
+Seamless integration with OPNsense and other security solutions
+Get Q-Feeds Threat Intel Now
+Free E-book!
+Available Now! – 4th Edition!
+
+Get the complete 4th Edition of Practical OPNsense® by Markus Stubbig with the OPNsense® Business Edition license as E-book.
+
+Or buy your copy online from Amazon
+
+OPNsense® Business Edition Buy from Amazon
+Free Introduction Course!
+Get started with the Official OPNsense Introduction Course
+
+You get the full Official OPNsense Introduction Course presented by trainer Maher Haddad with your purchase!
+
+Or try the free training for beginners.
+
+OPNsense® Business Edition Free beginners training
+123
+Our community is crucial in shaping the ongoing development of our open-source OPNsense® software products.
+
+With over 300.000 participants worldwide, our community is not just a collective; they’re our partners in progress. This collaborative and continuous pursuit of improvement is at the core of our ethos.
+
+We recognize the power of Open Source and commit to supporting it. We value community feedback, engaging with users to ensure our products evolve with the dynamic digital landscape. Community testing helps us update software swiftly and develop our roadmap efficiently.
+
+OPNsense® forum OPNsense® documentation
+Read what our talented community members are saying about OPNsense®
+
+An open-source firewall that has built in support for Unbound DNS, strict Port Forwarding, GeoIP support, and much more to name! OPNsense is as customizable as the hardware it can run on.
+
+Michael L.
+
+From Norway
+
+Thank you for the ingenious product which I already have in operation with customers
+
+Michael
+
+from Switzerland
+
+I just want to compliment you on what I think might be the best piece of Open source software I've ever encountered. I've used Linux exclusively for over 16 years, with a few forays into FreeBSD. The level of quality in OPNsense it's amazing. Every time I've updated whether it be package updates or a major release it's been absolutely flawless. Every feature I've used is working perfectly
+
+Richard
+
+from USA
+
+The OPNsense® Business Edition is designed for companies, enterprises, and professionals seeking turnkey, high-end security solutions without the hassle.
+
+The free version of our software serves as a dynamic platform where we test and refine new features before incorporating them to the Business Edition. The paid version unlocks premium features and advanced tools, providing a selective upgrade path with extra commercial benefits.
+
+Purchasing the paid version also supports the project, ensuring our community continues to benefit from ongoing innovation and improvement.
+
+NEW
+A 5-star experience
+Commercial firmware repository
+Official OPNsense® Open Virtualisation Image
+Free E-Book (English & German)
+Free E-learning course: Hands-On Labs for Beginners
+Extra Professional features:
+Web Application Firewall
+Proxy Access
+Extended Blocklist
+OPNcentral™
+Integrated GeoIP database
+Buy now
+Hardware purpose-built for OPNsense. Exceptional performance per watt. Reliable, turnkey solutions that simply work.
+
+Our official OPNsense hardware is engineered from the ground up – in Europe – combining premium quality, performance, and sleek design. From compact, fanless desktops to powerful, rack-mountable appliances, our product range is built for ease of use, seamless deployment, and long-term reliability.
+
+Go to our official shop
+Contact
+
+About projects
+
+project@opnsense.org
+
+Sales inquiries
+
+sales@opnsense.com
+
+Edison 43
+3241 LS Middelharnis
+The Netherlands
+
+Be involved
+
+OPNsense® forum
+
+ 
+ 
+ 
+Contribute
+
+To enable us to continue development and keep on improving the project
+you can contribute by donating to the project.
+
+Terms & conditions
+Privacy- en cookies

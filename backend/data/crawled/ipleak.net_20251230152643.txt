@@ -1,0 +1,104 @@
+powered by 
+ 
+This is the kind of information that all the sites you visit, as well as their advertisers and any embedded widget, can see and collect about you.
+Your IP addresses
+59.15.130.228
+South Korea - Seoul 
+Korea Telecom 
+No forwarded IP detected. If you are using a proxy, it's a transparent proxy.
+ 
+IPv6 test not reachable. (error)
+
+Browser default: IPv4 (272 ms) Fallback: 
+Your IP addresses - WebRTC detection
+If you are now connected to a VPN and you see your ISP IP, then your system is leaking WebRTC requests
+DNS Address - 0 servers detected, 2 tests
+If you are now connected to a VPN and between the detected DNS you see your ISP DNS, then your system is leaking DNS requests
+Torrent Address detection
+Activate
+Geolocation map (Google Map) based on browser
+Activate
+(may prompt a user permission on the browser)
+IP Address details
+IP:	59.15.130.228
+ISP:	Korea Telecom
+AirVPN:	 No
+
+ASN:	4766
+
+Country:	 South Korea (KR)
+Region:	Seoul (11)
+City:	Yangcheon-gu
+Time Zone:	Asia/Seoul
+Latitude & Longitude:	37.5392 , 126.8605
+
+Geolocation map (Google Map) based on IP Address
+Activate
+
+Accuracy Radius:	5 KM
+Last data update:	Tue, 30 Dec 2025 06:26:40 +0000
+Detected information
+Your User Agent:	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+What document you can accept:	text/html, application/xhtml+xml, application/xml;q=0.9, image/avif, image/webp, image/apng, */*;q=0.8, application/signed-exchange;v=b3;q=0.7
+What encoding you can accept:	gzip, deflate, br, zstd
+System information
+(your browser, your language, your operating system, etc)
+Platform:	MacIntel
+Cookie enabled:	true
+Java enabled:	false
+Online:	true
+Screen information
+(your display hardware)
+Your screen:	1280 x 720
+Available screen:	1280 x 720
+Color depth:	24
+Pixel depth:	24
+Plugins information
+(your browser plugins)
+No data available.
+Mime-Types information
+(what document you can read)
+No data available.
+HTTP Request Headers
+Host:	ipleak.net
+Priority:	u=0, i
+Accept-Encoding:	gzip, deflate, br, zstd
+Sec-Fetch-Dest:	document
+Sec-Fetch-User:	?1
+Sec-Fetch-Mode:	navigate
+Sec-Fetch-Site:	none
+Accept:	text/html, application/xhtml+xml, application/xml;q=0.9, image/avif, image/webp, image/apng, */*;q=0.8, application/signed-exchange;v=b3;q=0.7
+User-Agent:	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Upgrade-Insecure-Requests:	1
+Sec-Ch-Ua-Platform:	"macOS"
+Sec-Ch-Ua-Mobile:	?0
+Sec-Ch-Ua:	"HeadlessChrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+What are WebRTC leaks?
+
+WebRTC implement STUN (Session Traversal Utilities for Nat), a protocol that allows to discover the public IP address. To disable it:
+
+Mozilla Firefox: Type "about:config” in the address bar. Scroll down to “media.peerconnection.enabled”, double click to set it to false.
+Google Chrome: Install Google official extension WebRTC Network Limiter.
+Opera: Type "about:config" in the address bar or go to "Settings". Select "Show advanced settings" and click on "Privacy & security". At "WebRTC" mark select "Disable non-proxied UDP".
+
+What are DNS leaks?
+
+In this context, with "DNS leak" we mean an unencrypted DNS query sent by your system OUTSIDE the established VPN tunnel.
+
+Why does my system leak DNS queries?
+
+In brief: Windows lacks the concept of global DNS. Each network interface can have its own DNS. Under various circumstances, the system process svchost.exe will send out DNS queries without respecting the routing table and the default gateway of the VPN tunnel, causing the leak.
+
+Should I be worried for a DNS leak?
+
+If you don't want that your ISP, and anybody with the ability to monitor your line, knows the names your system tries to resolve (so the web sites you visit etc.) you must prevent your system to leak DNS. If you feel that you're living in a human rights hostile country, or in any way the above mentioned knowledge may harm you, you should act immediately to stop DNS leaks.
+
+How does torrent detection work?
+
+To detect data from your torrent client we provide a magnet link to a fake file. The magnet contains an http url of a controlled by us tracker which archives the information coming from the torrent client.
+
+Service available on IPv4 and IPv6, also on alternative ports: :8000 (IPv4,IPv6) and :62222 (IPv4,IPv6) (for detection of routing based on destination ports). Look at the forum for support, feedback, API.
+
+Data partially based on MaxMind database. Results may be cached, refer to MaxMind for more accuracy.
+
+powered by 

@@ -1,0 +1,631 @@
+Go back to homepage
+Build
+Solutions
+Community
+About
+Grants
+link to Grants
+Start Building
+
+Avalanche powers a global community
+of builders creating real use cases for
+real impact. Lightning fast. Scalable by
+design. Natively interconnected. All
+coming together to form one unified
+ecosystem.
+
+POWERED BY AVALANCHE
+
+The future of blockchain adoption won't happen on one chain—it'll happen across thousands of purpose-built L1s. Avalanche is where they're built.
+
+Learn more
+5:17 PM
+
+Tuesday, December 30, 2025
+
+SCROLL
+
+to explore page
+
+WHY
+AVALANCHE
+
+01
+
+FAST. POWERFUL. SECURE.
+
+The groundbreaking Avalanche consensus powers a network of fast, efficient, highly-optimized chains that finalize transactions almost instantly. Accompanied by a best-in-class developer experience and suite of tools, Avalanche is the platform of choice for builders and users ready for what’s next in Web3.
+
+02
+
+INFINITELY SCALABLE BY DESIGN
+
+Avalanche is where Web3's big ideas scale with confidence. Whether it’s a single application, or launching a fully-customizable Layer 1 blockchain, Avalanche makes it easy to scale up — or across — in an interconnected ecosystem.
+
+03
+
+CUSTOMIZABLE LAYER 1S
+
+Whatever your use-case, Avalanche makes launching your own L1 more economically feasible, simpler to customize, smoother to maintain and quicker to bring to market. The network is anchored by a lightning-fast and efficient primary chain and a universe of sovereign blockchains, all natively connected through Avalanche Interchain Messaging.
+
+04
+
+GLOBAL COMMUNITY
+
+Avalanche is more than just a blockchain network. It's a global community of builders, creators, and collaborators, all together on a mission to drive the adoption of blockchain technology. There are no gatekeepers, just an open ecosystem where knowledge and resources are shared, creating a global movement ready to turn ideas into real-world impact.
+
+SET UP A WALLET
+
+To connect to the Avalanche ecosystem, set up a non-custodial wallet to store your crypto assets, approve transactions, track your network activity and more.
+
+Create a Wallet
+about Set up a wallet
+THE AVAX TOKEN
+
+AVAX powers the Avalanche network—used for paying fees, securing the platform, and fueling custom blockchain operations.
+
+Learn More
+about The AVAX Token
+EXPLORE THE ECOSYSTEM
+
+Discover the expanding web of applications, tools and experiences across the Avalanche network.
+
+Start Exploring
+about Explore the Ecosystem
+AVALANCHE IS TRUSTED BY BUSINESSES WORLDWIDE
+
+Founders, developers and business leaders across the globe chose Avalanche for their digital asset operations, backed by a reliable, enterprise-grade blockchain network.
+
+BUILD ON THE NETWORK DESIGNED FOR BIG IDEAS
+
+Avalanche is the platform for developers looking to build, launch and scale without sacrificing speed, flexibility, or control. Start today and explore Avalanche’s full-stack of developer tools and resources.
+
+A
+ACADEMY
+
+Avalanche Academy is a suite of courses for developers of all experience levels to hone their skills, while the Codebase Entrepreneur Academy offers the foundational knowledge needed to launch and grow your Web3 startup on Avalanche.
+
+Learn More
+about Academy
+B
+BUILDER KIT
+
+Manage your Avalanche L1s, validators, and deployments from one central location.
+
+Learn More
+about Builder Kit
+D
+DOCUMENTATION
+
+Get the full-stack of Avalanche documentation, all in one place.
+
+Learn More
+about Documentation
+I
+INTEGRATIONS
+
+Discover best-in-class integrations for your Avalanche project and learn how to implement them.
+
+Learn More
+about Integrations
+T
+TOOLS
+
+Find everything you need to launch, test, and manage Avalanche L1s and dApps—from faucet access to full deployment tools.
+
+Learn More
+about tools
+LEARN MORE ABOUT BUILDING ON AVALANCHE
+Start Building
+TAKE YOUR IDEAS TO THE NEXT LEVEL ON AVALANCHE
+
+Avalanche offers a vast ecosystem of support for builders, from incubators and grant programs, to developer community calls and IRL hackathons.
+
+CODEBASE
+
+Codebase by Avalanche® is home to Avalanche’s Builder Support Programs—providing developers with incubators, innovation labs, hackathons, and hands-on resources all year long.
+
+Learn More About Codebase
+CODEBASE INCUBATOR
+
+Codebase by Avalanche® Incubator is Avalanche's official accelerator program designed to support and grow early-stage Web3 startups.
+
+Learn More
+CODEBASE HACKATHONS
+
+Codebase by Avalanche® Hackathons bring developers together to learn new tools, build products, test new infrastructure and compete for prizes.
+
+Learn More
+CODEBASE INNOVATION HOUSE
+
+Codebase by Avalanche® Innovation House is a multi-week residency for top builders and founders to accelerate development and collaboration on Avalanche.
+
+Learn More
+AVALANCHE FOUNDATION GRANTS
+
+Fueling builders in the Avalanche ecosystem to create powerful tools, applications, and infrastructure.
+
+View All Grants
+INFRABUIDL()
+
+Supporting developers building critical infrastructure to advance the Avalanche ecosystem.
+
+Learn More
+INFRABUIDL(AI)
+
+Guiding developers building the next generation of AI tooling purpose-built for the Avalanche network.
+
+Learn More
+RETRO9000
+
+Retro9000 is an Avalanche grant program rewarding developers for building, testing, and launching L1 blockchains and essential developer tooling.
+
+Learn More
+ARE YOU A STUDENT?
+
+Sign up today to stay informed and join the Avalanche community.
+
+Learn More
+Access Avalanche ecosystem funding opportunities
+AVALANCHE
+NETWORK
+IN ACTION
+Explore the latest transactions and block data from the network.
+10,130,485,566
+Live Stats
+TRANSACTIONS
+LATEST TRANSACTIONS
+LATEST BLOCKS
+54384481
+
+1 second ago
+
+Hash
+0x1b75...cca3d3
+6 TX
+0.01 ALOT
+9255967
+
+2 seconds ago
+
+Hash
+0x0d27...5ddd5d
+17 TX
+0.01 NXPC
+54384480
+
+2 seconds ago
+
+Hash
+0x3b8e...826a4d
+7 TX
+0.02 ALOT
+74718906
+
+2 seconds ago
+
+Hash
+0x69a9...7929f4
+15 TX
+<0.01 AVAX
+9279056
+
+2 seconds ago
+
+Hash
+0x6d1e...74a754
+1 TX
+<0.01 QBE
+12463061
+
+3 seconds ago
+
+Hash
+0xfdde...8eef9c
+13 TX
+0.04 TGP
+13559038
+
+3 seconds ago
+
+Hash
+0x1ee6...b3e03f
+4 TX
+<0.01 GUN
+0xc7ce...d0bf26
+
+1 second ago
+
+From
+0xFF43...E1bC15
+To
+0x0938...4A9bbf
+0x32aa...76134b
+
+1 second ago
+
+From
+0x8708...A60865
+To
+0x0938...4A9bbf
+0xe956...117430
+
+1 second ago
+
+From
+0xfE57...007cB9
+To
+0x0938...4A9bbf
+0x8352...de5e99
+
+1 second ago
+
+From
+0xAD38...D4909B
+To
+0x0938...4A9bbf
+0x3065...26d499
+
+1 second ago
+
+From
+0xDF83...3129FE
+To
+0x0938...4A9bbf
+0x5a71...94107f
+
+1 second ago
+
+From
+0x1eda...37F6a8
+To
+0x0938...4A9bbf
+0x0431...1f9144
+
+2 seconds ago
+
+From
+0xeE84...bdbdE3
+To
+0xcE8e...765937
+NEWS & STORIES FROM THE AVALANCHE NETWORK
+FEATURED
+NEWS
+Previous articles
+Next articles
+Enterprise and Consumer Apps
+Announcement
+
+Nov 20, 2025 / By Avalanche / 3 Minute Read
+
+Royalties In Seconds, Not Months: Music Goes Onchain With Avalanche
+
+How Record Financial and 11am, home to artists like Armani White, RealestK, Lil Tjay, A$AP Ferg, Alex Warren, and Maddox Batson, are bringing real-time royalty infrastructure to the music industry on Avalanche.
+
+Read More
+Ecosystem Coverage
+
+Dec 18, 2025 / By Avalanche / 5 Minute Read
+
+Avalanche Builds MENA Momentum: A Recap Of Abu Dhabi Finance Week
+
+Abu Dhabi has taken a clear position as a strategic hub for Avalanche’s long-term vision in MENA, bridging decentralized innovation with real-world adoption at scale.
+
+Read More
+Enterprise and Consumer Apps
+Announcement
+
+Dec 16, 2025 / By Avalanche / 3 Minute Read
+
+The House Goes Onchain: MyPrize Brings Their Social Casino To Avalanche
+
+Millions of players. Billions in volume. And now, every win is onchain.
+
+Read More
+Enterprise and Consumer Apps
+Announcement
+
+Dec 12, 2025 / By Avalanche / 4 Minute Read
+
+A New Kind Of Holiday Exchange Comes To Life In New York City
+
+At Union Square’s Holiday Market, small businesses and shoppers are experiencing faster, simpler payments powered quietly by Avalanche technology.
+
+Read More
+Announcement
+
+Dec 10, 2025 / By Avalanche Foundation / 3 Minute Read
+
+Avalanche Foundation Establishes DLT Foundation In Abu Dhabi Global Market For MENA Regional Growth
+
+The Avalanche Foundation has formally announced the establishment of a DLT Foundation within ADGM to accelerate growth across the MENA region.
+
+Read More
+Enterprise and Consumer Apps
+Announcement
+
+Dec 8, 2025 / By Avalanche / 3 Minute Read
+
+Avalanche & Blockticity Bring Global Supply Chain Standards Onchain
+
+Avalanche is positioned as the foundation for standards bodies, enterprises, and governments increasingly seeking supportive technology for global systems.
+
+Read More
+Announcement
+
+Dec 2, 2025 / By Avalanche Foundation / 4 Minute Read
+
+The Avalanche Foundation Announces Third Cohort For Retro9000 L1 & Infrastructure Tooling Round
+
+Meet the third cohort of builders rewarded through Retro9000 for launching Avalanche L1s or developer tooling on mainnet
+
+Read More
+View More
+AVALANCHE SOLUTIONS
+
+Avalanche empowers founders, businesses and institutions across industries, both Web2 and crypto-native, to build anything they want, any way they want. Take control with the best custom scaling solutions and supportive developer community on Avalanche.
+
+I
+INSTITUTIONS AND CAPITAL MARKETS
+
+Avalanche's customizable, high-performance network helps bring traditional finance onchain.
+
+View Institutions and Capital Markets details
+G
+GAMING
+
+High-performance, immersive Web3 gaming powered by Avalanche's speed and scale.
+
+View Gaming details
+E
+ENTERPRISE AND CONSUMER APPS
+
+Scalable solutions with real-world utility, from logistics to loyalty programs. 
+
+View Enterprise and Consumer Apps details
+D
+DECENTRALIZED FINANCE (DEFI)
+
+Fast, low-cost DeFi programs powering the future of financial systems.
+
+View Decentralized Finance (DeFi) details
+N
+NFTS, ARTS, AND CULTURE
+
+The Avalanche network enables community building and connection for creatives.
+
+View NFTs, Arts, and Culture details
+I
+INFRASTRUCTURE AND TOOLING
+
+Developers can leverage a seamless network infrastructure and powerful tools designed to make building easy. 
+
+View Infrastructure and Tooling details
+JOIN THE BEST COMMUNITY IN WEB3
+
+The Avalanche culture goes beyond the chain. Get connected with the founders, investors, artists, gamers, and creators who call Avalanche home.
+
+Link to X social
+
+X
+
+Link to Arena social
+
+Arena
+
+Link to Discord social
+
+Discord
+
+Link to YouTube social
+
+YouTube
+
+Link to Reddit social
+
+Reddit
+
+Link to LinkedIn social
+
+LinkedIn
+
+Link to Follow @avax social
+
+Follow @avax
+
+Previous feed items
+Next feed items
+
+Avalanche🔺
+
+avax
+
+2025, a year to remember.
+
+Avalanche🔺
+
+avax
+
+BREAKING: Avalanche hits 10 billion transactions across all L1s.
+
+Avalanche Gaming 🔺
+
+GamingOnAvax
+
+Avalanche Battle Pass season 3 mint is LIVE, exclusively on @opensea ⛵️ - Complete missions - Earn points - Collect snowflakes - Win from $25,000+ in rewards Powered by @playfull
+
+Avalanche Gaming 🔺
+
+GamingOnAvax
+
+Don't forget to complete number 4. Here's your weekly Avalanche gaming round up 🧵🔺
+
+Avalanche Foundation 🔺
+
+AvalancheFDN
+
+More builders funded through Retro9000 🔺 Four projects have just been awarded retroactive grants, with over $125K in total funding from the $40M pool. Build. Deliver impact. Get rewarded.
+
+🔺doption Community
+
+CommunityofAvax
+
+New Community Bounties are live with @AvaxTeam1🔺 Earn while supporting the Avalanche ecosystem 👇
+
+Avalanche Foundation 🔺
+
+AvalancheFDN
+
+Introducing Retro9000 Cohort 2 🔺 8 projects have been awarded retroactive grants, with over $250K in total funding from the $40M pool. Recognizing teams shipping Avalanche L1s and infrastructure tooling live on mainnet. Build. Deliver impact. Get rewarded.
+
+🔺doption Community
+
+CommunityofAvax
+
+Join us tomorrow for a Reddit AMA on r/Avax with @XKOVAPAY 👇 📅 August 28 — 11:00 AM EST Learn about XKOVA's white-label payment solution and their build "Wyopay" for the Wyoming stablecoin pilot program.
+
+QUESTIONS ABOUT AVALANCHE?
+
+Head to the Avalanche Discord for tech support and community connections.
+
+Get Support
+Questions about Avalanche?
+AVALANCHE TEAM1
+
+Team1 is a global network of builders, developers, creatives, gamers and community members who grow Avalanche.
+
+Learn More
+Avalanche Team1
+THE COMMUNITY HUB
+
+The Community Hub is where Avalanche builders, businesses, and users can share resources and connect with each other.
+
+Explore Now
+The Community Hub
+START BUILDING ON AVALANCHE
+
+Create, scale, and innovate with Avalanche’s powerful builder infrastructure.
+
+Get Started
+JOIN THE EMAIL LIST
+
+Sign up today to stay up to date on the latest network developments.
+
+First Name or Pseudonym*
+Last Name
+Email*
+Twitter Handle
+Where are you based?*
+Where are you based?**
+What are you most interested in learning about?*
+DeFi
+Enterprise & Institutions
+Gaming
+Art & Culture
+Development
+Policy
+Unsure
+Are you a developer?*
+Do you have experience building in Web3?
+Are you currently a university student?
+Where did you hear about Avalanche?
+Social Media (Twitter/X, LinkedIn, Telegram, etc.)
+Word of Mouth
+Event
+Article, press release, or other news source
+Search engine
+I have read and agree to the privacy policy.
+I agree to receive marketing emails from the Avalanche Foundation.
+I'd also like to subscribe to the Avalanche Foundation's monthly newsletter, the Snow Report.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Back
+
+1 of 5 Steps
+
+Next
+Submit
+Success!
+Try again
+CONTACT US
+INTERESTED IN BUILDING YOUR PROJECT ON AVALANCHE? GET IN TOUCH!
+First Name or Pseudonym*
+Last Name*
+Email*
+What type of project are you working on?*
+DeFi
+Enterprise & Institutions
+Gaming
+Art & Culture
+Development
+Other
+Let us know what type of project you are working on
+Share your message with the team*
+I have read the Privacy policy.
+I consent to receive Avalanche updates from the Avalanche Foundation and understand I can unsubscribe at any time.
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Submit
+ABOUT
+About Avalanche
+Avalanche Foundation
+Blog
+Contact Us
+Press
+Ava Labs
+Sustainability Metrics
+Merch Store
+Support
+Avalanche Foundation Careers
+BUILD
+Developer Hub
+Validators
+Documentation
+Academy
+Tools
+Grants
+Integrations
+Hackathons
+Builder Kit
+Codebase by Avalanche
+Intro to Blockchain
+Avalanche Ecosystem
+Avalanche Stats
+Avalanche Status
+Burned Avax
+Snowtrace
+Staking Metrics
+Validator Health Check
+Bug Bounty
+Support
+Avalanche Explorer
+SOLUTIONS
+Enterprise
+Decentralized Finance (DeFi)
+NFTs, Arts & Culture
+Infrastructure and Tooling
+Institutions and Capital Markets
+Gaming
+Avalanche Evergreen
+COMMUNITY
+Community Hub
+Events
+Snow Report Newsletter
+Ecosystem
+Build
+Avalanche Team1
+Discord Community
+Avalanche Student Program
+LEGAL
+Terms of Use
+Privacy Policy
+Trademark Usage Policy
+Important Notice
+Forum Notice and Disclaimer
+Avalanche Wallet Terms of Use
+SOCIALS
+Github
+Discord
+X
+LinkedIn
+YouTube
+
+Created by Wonder Makers 

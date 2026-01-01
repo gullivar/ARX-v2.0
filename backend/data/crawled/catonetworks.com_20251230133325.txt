@@ -1,0 +1,184 @@
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookies Settings
+Accept All Cookies
+SASE
+Platform
+AI & Security
+Use Cases
+Customers
+Partners
+Managed Services
+Company
+Resources
+Login
+Contact Us
+Secure your
+AI Transformation
+Read More
+One platform to connect all edges, everywhere
+
+Cato extends security and networking everywhere using a global private backbone, with full inspection and optimization of multi gig traffic streams, and 360 degrees visibility and control for all traffic.
+
+Multiple on-ramp options include Cato SD-WAN devices for physical locations, Cato ZTNA/EPP client for endpoints, and cloud-interconnect and virtual SD-WAN for Cloud DCs.
+
+Explore the True SASE Platform
+Secure networks, users and devices, at scale
+
+Cato provides a fully converged and cloud-native suite of threat prevention and data protection capabilities enforced on all traffic, Internet, WAN, and Cloud, traversing the Cato SASE Cloud platform.
+
+Cato’s endpoint agent, the Cato Client, provides risk-based zero trust network access with built-in endpoint protection and detection.
+
+Explore the True SASE Platform
+Detect and respond,
+from within
+
+Automated and proven AI/ML models run on Cato’s open data lake for threat hunting and network incidents detection using Cato-generated and 3rd party feeds and events.
+
+AI-assisted analyst workbench enables prioritization and response to incidents based on battle-tested tools and playbooks.
+
+Explore the True SASE Platform
+Management,
+built for speed
+
+Cato Management Application is used to configure all policies, monitor network and security analytics, and perform troubleshooting. All current and future capabilities will always be managed in the same way.
+
+A single API enables data extraction, automated configuration, and 3rd party integrations. Customers and channel partners can leverage Cato’s built-in data sharing capabilities or use the API to customize data processing.
+
+Explore the True SASE Platform
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+With Cato you are
+Ready to grow IT with the business
+
+“We brought up the entire network with full security in less than a month. It was so fast that a competing SASE vendor didn't believe us. Cato made it possible."
+
+Protected
+anywhere
+and anytime
+The Can-Do Champion
+Spending less
+& getting more
+“For me, Cato future proofs Swissport’s IT infrastructure. The platform constantly evolves, adapts to new technologies, and provides the visibility and security we need to support our business today and tomorrow.”
+
+Richard Thorp
+
+CTO
+
+Read their story
+“I would definitely recommend the Cato SASE platform to other companies. It makes our life really easy and helps us protect our business even further."
+
+Tal Arad
+
+Chief Information Security Officer
+
+Read their story
+“With Cato we have a good, solid sedan with the speed of a Porsche that got us exactly where we needed to go fast.”
+
+Rodney Masney
+
+Chief Information Officer
+
+Read their story
+“Thanks to Cato, I can stand by my promises and feel comfortable we can deliver on the company’s business needs quickly, efficiently, and securely.”
+
+Jesper Hjørland
+
+Service Manager For Network And Connectivity
+
+Read their story
+"We can set up new sites and VPN users in minutes or hours, and Cato’s agility is helping us adjust the network, bandwidth, and traffic prioritization easily as we migrate step-by-step to the cloud."
+
+Tobias Rölz
+
+Executive VP, Market And Digital Services
+
+Read their story
+"We have improved the performance of every application on the network by rolling out Cato, We don’t hear about network slowness; we don’t hear complaints."
+
+Nick Hidalgo
+
+VP, Information Technology
+
+Read their story
+Your SASE journey,
+your way
+NETWORK MODERNIZATION
+
+MPLS to SD-WAN Migration
+
+Global Access Optimization
+
+Hybrid Cloud and Multi-Cloud Integration
+
+SECURITY CONSOLIDATION
+
+Secure Hybrid Work
+
+Enable Secure Direct Internet Access
+
+Secure Application and Data Access
+
+Incident Detection and Response
+
+BUSINESS TRANSFORMATION
+
+Vendor Consolidation
+
+Spend Optimization
+
+M&A and Geo Expansion
+
+SECURE AI ADOPTION
+
+Public AI Usage 
+
+Private AI Applications
+
+AI Models Security Posture 
+
+Cato Networks is the official SASE partner of the TAG Heuer Porsche Formula E Team, season 10 driver championship winners
+
+Learn more
+Stay updated
+WEBINAR
+The Year of Security Platforms: Are You Ready?
+Join us for our upcoming webinar featuring GigaOm CTO Howard Holton, where we’ll explore security platforms and take a live tour of the Cato SASE Cloud platform.
+Watch Now
+WEBINAR
+SASEfy 2025: The Summit for SASE and AI
+Join SASEfy 2025 to see how SASE and AI are transforming IT security with intelligence, automation, and real-time defense at cloud scale.
+Watch Now
+EBOOK
+Cato SASE Cloud Platform: SASE Elegance at Its Best 
+Legacy networking and security point solutions are no match for the complexities of modern cyber threats. It’s time for a change. Discover the elegance of Cato SASE Cloud – the platform designed to deliver on the promise of SASE
+Download eBook
+EBOOK
+The 5-Step Action Plan to Becoming CISO
+Whether you’re just starting your career in cybersecurity, or looking to step up, our eBook – The 5-Step Action Plan to Becoming CISO, offers an actionable roadmap and strategic insights to accelerate your career progression.
+Download eBook
+WEBINAR
+Making Sure SASE Projects Are a Success
+Successful SASE projects hinge on network and security teams’ efficient and effective collaboration. With years of expertise in the SASE market Cato Networks is uniquely positioned to guide your path to SASE project success.
+Watch Now
+AWARDS AND RECOGNITIONS
+Cato SASE Cloud Tops Frost Radar Innovation Index
+Discover the SASE market leader: Frost & Sullivan’s comprehensive analysis, evaluating nine SASE solutions, ranked Cato Networks highest on the recent Frost Radar™ Global SASE, 2023 market assessment.
+Get Report
+Innovate, grow and thrive
+with a true SASE platform
+
+With Cato, any organization can reap the full benefits of digital transformation, move at the speed of business and be ready for whatever’s next.
+
+Contact us

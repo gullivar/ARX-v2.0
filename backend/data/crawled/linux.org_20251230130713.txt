@@ -1,0 +1,321 @@
+ 
+Home
+ 
+Forums
+ 
+What's new
+ 
+Linux Tutorials
+ 
+Members
+ 
+Download Linux
+ 
+Linux News
+ 
+Credits
+ 
+Log in
+Register
+ Search
+Latest activity
+ 
+Register
+Home 
+Linux.org
+Winux 11: A Linux Distribution Designed for Windows Users
+DEC
+23
+ Dec 23, 2025  Jarret B
+ 4,162  5
+There are quite a few people still using Windows yet, and some that want to switch to Linux. People are comfortable with the look of Windows and dislike the Linux desktops.
+
+Now, there is Winux...
+Updating your Linux Kernel: Ubuntu, CentOS, Fedora, and Arch
+DEC
+19
+ Dec 19, 2025  Jarret B
+ 2,061  0
+Most times, an updated kernel can make a system more stable by including updates and fixes to previous kernel builds.
+
+For some, you may have software or device drivers that work, or are part of...
+Python Series Part 21: Tkinter Entry Widgets - Part 1
+DEC
+16
+ Dec 16, 2025  Jarret B
+ 909  0
+When programming, sometimes you will want to let the user enter or change text. You can use the Entry widget just for that purpose. Keep in mind that only one line of text can be in the Entry...
+Installing Ubuntu on the Orange Pi 5 Max with eMMC and NVMe
+DEC
+11
+ Dec 11, 2025  Jarret B
+ 2,036  0
+In 2024, Orange Pi released a new Single Board Computer (SBC). This is a system with an ARM processor.
+
+The specs are:
+
+Rockchip RK3588 8-core 64-bit ARM processor with 4 Cortex-A76...
+Radxa Rock 5T Review: A Powerful ARM Single Board Computer
+DEC
+08
+ Dec 8, 2025  Jarret B
+ 1,536  0
+It has been a while since I've done hardware reviews. Hopefully, some of you may recall the article 'Rock Pi 4 and Android...
+How to Set Up and Manage SSH Keys on Linux
+DEC
+05
+ Dec 5, 2025  Rob
+ 2,059  1
+Today we're going to go over the use of SSH keys. How to use them, setting them up and why they're preferred! We'll go through creating different keys for different uses, adding public keys to a...
+Python Series Part 20: Binding Keys and Events - Part 2
+DEC
+05
+ Dec 5, 2025  Jarret B
+ 1,539  0
+Now we can continue learning about Python by Binding Keys and Events.
+
+If you have not read the previous article, then you definitely need to read it since this article continues and builds on all...
+Screen video tutorial
+DEC
+04
+ Dec 4, 2025  Rob
+ 2,123  16
+Just recorded/released a new screen tutorial .. check it out, subscribe!
+
+
+There's a lot of reasons to use screen. Mostly it's because you want to make sure you can re-connect to the session that...
+Load more…
+Latest posts
+D
+	
+How to install Cinnamon that it boots from SSD?
+DiaNobb Yesterday at 3:24 AM General Linux Topics
+	
+Replies
+7
+Views
+87
+	17 minutes ago
+DiaNobb
+	
+D
+	
+Spectacle for screenshots.
+InvaderSumo 34 minutes ago General Linux Topics
+	
+Replies
+1
+Views
+11
+	29 minutes ago
+InvaderSumo
+	
+G
+	
+New to Mint and initial problems.
+Gareth Monday at 7:07 PM Mint 2 3
+	
+Replies
+58
+Views
+667
+	35 minutes ago
+wizardfromoz
+	
+	
+Linux Phones
+JanetTheGreat Friday at 11:11 PM General Linux Topics 2
+	
+Replies
+20
+Views
+467
+	42 minutes ago
+JanetTheGreat
+	
+D
+	
+Solved Sftp with dual boot
+Danbor Dec 22, 2025 Linux Networking 2
+	
+Replies
+26
+Views
+637
+	Today at 1:19 AM
+theLegionWithin
+	
+T
+	
+Winux 11: A Linux Distribution Designed for Windows Users
+Jarret B Sep 21, 2025 Installation
+	
+Replies
+5
+Views
+4K
+	Today at 12:41 AM
+APTI
+	
+	
+Happy Birthday, Linus (December 29)
+Condobloke Yesterday at 6:55 AM Mint
+	
+Replies
+5
+Views
+92
+	Today at 12:02 AM
+KGIII
+	
+K
+T
+	
+Assistance Required: Unable to Login and Network Issue on Debian 13
+Teklehaimanot Dec 20, 2025 Debian and derivatives
+	
+Replies
+17
+Views
+589
+	Yesterday at 11:44 PM
+Condobloke
+	
+T
+	
+Switching to Linux from Win11
+Tacomike73 Nov 1, 2025 General Computing 2 3
+	
+Replies
+50
+Views
+4K
+	Yesterday at 11:40 PM
+Tacomike73
+	
+T
+A
+	
+How to deal with a sudden intensive bot traffic from many ASNs/IPs to a vBulletin4 forum + Cloudflare: ?s=*
+amfzn Yesterday at 9:20 PM Web Server
+	
+Replies
+1
+Views
+44
+	Yesterday at 10:59 PM
+KGIII
+	
+K
+	
+Should Linux have as many distros as It does ?....more/less? and why.
+Condobloke Dec 1, 2025 General Linux Topics 3 4 5
+	
+Replies
+82
+Views
+5K
+	Yesterday at 10:43 PM
+KGIII
+	
+K
+	
+GParted destroyed me again
+lucky.error Saturday at 3:11 PM General Linux Topics
+	
+Replies
+9
+Views
+270
+	Yesterday at 10:23 PM
+lucky.error
+	
+G
+	
+Zorin Installed, Looking at Wine or other to run Win 10 software
+Gareth Yesterday at 3:28 PM Other Distributions
+	
+Replies
+13
+Views
+14
+	Yesterday at 10:18 PM
+bob466
+	
+D
+	
+Printer prints then doesn't print
+danco Wednesday at 5:58 AM Linux Hardware
+	
+Replies
+6
+Views
+200
+	Yesterday at 10:10 PM
+bob466
+	
+D
+	
+How to locate an external HDD connected to the PC?
+DiaNobb Sunday at 2:31 PM General Linux Topics 2
+	
+Replies
+32
+Views
+383
+	Yesterday at 9:30 PM
+bob466
+	
+View more…
+	
+
+
+
+
+Follow Linux.org
+ Bluesky
+ Twitter/X
+Staff online
+wizardfromoz
+Administrator
+Members online
+wizardfromozCondobloke88Fcitcom1DiaNobb
+Total: 1,866 (members: 4, guests: 1,862)
+Trending content
+Thread 'Winux 11: A Linux Distribution Designed for Windows Users'
+Jarret B Sep 21, 2025
+Replies: 5
+B
+Thread 'Another guy switching from windows'
+Bogdan666 Saturday at 3:13 PM
+Replies: 55
+G
+Thread 'New to Mint and initial problems.'
+Gareth Monday at 7:07 PM
+Replies: 58
+Thread 'Best Lightweight Linux Distros for Old PCs?'
+markcopper Mar 2, 2025
+Replies: 26
+Thread 'How to upgrade Synaptic?'
+ron.alan Thursday at 5:00 PM
+Replies: 47
+Thread 'Australia - The Land Down Under'
+Condobloke Dec 4, 2018
+Replies: 2K
+D
+Thread 'Linux on Android'
+Deleted member 155466 Feb 6, 2024
+Replies: 20
+
+
+Home 
+ Default Style
+Rob's Backyard BBQ: Rob's BBQ stuff
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+Community platform by XenForo® © 2010-2025 XenForo Ltd.
+Parts of this site powered by add-ons from DragonByte™ ©2011-2025 DragonByte Technologies (Details)

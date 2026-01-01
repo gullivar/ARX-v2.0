@@ -1,0 +1,62 @@
+My web thingy Skip to content Menu Home DNS Checker IPv6 Stats IPv6 Test RSS Feed Search Search My web thingy Menu Toggle Home DNS Checker IPv6 Stats IPv6 Test RSS Feed Search Toggle IPv6 , Juniper , SRX110 IPv6 over FTTC on the Juniper SRX110 2016-05-10 2016-05-10 | David Last year my home ISP Zen Internet started offering IPv6 over their broadband network. I immediately requested for my account to be IPv6 enabled. Having run IPv6 over a HE tunnel since 2009 I was excited at finally having native IPv6 on my connection. Zen Internet and maybe other ISPs provide a /64 on the PPPoE connection via Router Advertisements and provide a /48 via DHCPv6 to be used on the internal network. The SRX doesn’t support RAs and DHCPv6 on the same interface, this means that the PPPoE interface will only have a link local address and not a global IPv6 address, while this will cause problems for traffic sourced from the SRX itself over IPv6 it doesn’t stop the SRX routing traffic from the /48. A loopback interface with an address from the /48 can be used for source address for IPv6 VPNs, etc Firstly we will enable IPv6 forwarding. security {
+    forwarding-options {
+        family {
+            inet6 {
+                mode flow-based;
+            }
+        }
+    }
+} Then we enable DHCPv6 on the PPPoE interface interfaces {
+    pp0 {
+        unit 0 {
+            family inet6 {
+                dad-disable;
+                dhcpv6-client {
+                    client-type statefull;
+                    client-ia-type ia-pd;
+                    client-identifier duid-type duid-ll;
+                    update-server;
+                    retransmission-attempt 9;
+                }
+            }
+        }
+    }
+} Set up a static route pointing out towards the ISP and a static route for the /48 to discard traffic for unused subnets with in the /48. This stops routing loops between the ISP and the SRX, If you have used the whole /48 or forwarding it on to another device then the discard route isn’t needed. routing-options {
+    rib inet6.0 {
+        static {
+            route ::/0 next-hop pp0.0;
+            route XXXX:XXXX:XXXX::/48 {
+                discard;
+                preference 254;
+            }
+        }
+    }
+} Finally we need to allow DHCPv6 on the PPPoE interface. security {
+      security-zone untrust {
+            interfaces {
+                pp0.0 {
+                    host-inbound-traffic {
+                        system-services {
+                            dhcpv6;
+                        }
+                    }
+                }
+            }
+        }
+} Once the configuration has been applied the SRX should send a DHCPv6 request and get an IPv6 range from the DHCPv6 server. > show dhcpv6 client binding detail Client Interface: pp0.0 Hardware Address: 10:0e:7e:fd:89:e0 State: BOUND(DHCPV6_CLIENT_STATE_BOUND) ClientType: STATEFUL Lease Expires: 2016-05-09 19:48:31 UTC Lease Expires in: 78765 seconds Lease Start: 2016-05-08 19:48:31 UTC Bind Type: IA_PD Client DUID: LL0x29-10:0e:7e:fd:89:e0 Rapid Commit: Off Server Ip Address: fe80::230:88ff:fe16:5eff Update Server Yes Client IP Prefix: xxxx:xxxx:xxxx::/48 DHCP options: Name: server-identifier, Value: LL_TIME0x1-0x1cd3af3d-00:30:88:16:5e:ff Name: dns-recursive-server, Value: xxxx:xxxx::x I did come across one issue. When the PPPoE session dropped the DHCPv6 client would get stuck in an init state and I would have to manually request a client renew for IPv6 to start working again. Speaking with JTAC and they advised that  DHCPv6 client wasn’t supported over the PPPoE interface and PR request would need to made to add the feature. My support provider advised that the SRX110H2-VA will be end of life soon and mostly wouldn’t get resolved. While it may not get resolved there is a work around which means that IPv6 connectivity is restored when the PPPoE session reconnects. Using the event options we can run the renew command when the pp0.0 interface comes up. event-options {
+    policy DHCPv6fix {
+        events SNMP_TRAP_LINK_UP;
+        attributes-match {
+            SNMP_TRAP_LINK_UP.interface-name matches pp0.0;
+        }
+        then {
+            execute-commands {
+                commands {
+                    "request dhcpv6 client renew all";
+                }
+                user-name admin;
+            }
+        }
+    }
+} Change the user name from admin to match a local user and then commit. You can test to make sure it working by clearing the PPPoE session with “clear pppoe sessions pp0.0” and then check the DHCPv6 client bindings. This setup may work on other models of the SRX and with other ISPs who use the Broadband Forum Standard TR187 Leave a comment Bitcoin , Interesting Stuff Minepeon security issue 2014-01-19 | David If you use Minepeon for your Raspberry Pi based Bitcoin mining rig then you might be a risk of someone changing your pool settings and sealing your mining power! The Minepeon web interface uses the API to get the stats from the mining software. It seems the default setting on Minepeon is to have the miners API accessible to all IPs and without a password! This means if your mining rig is on a public IP or someone gets on to your network then they could connect to that IP and point your rig at another mining pool/user so that they get the hashes you have generated. Below is how to change the configuration so that the API is only listening on the local host and therefore securing it from anything accessing it which isn’t running on the Raspberry Pi. 1) SSH on to the Raspberry Pi. 2) Put in the following command to edit the miner config files. nano /opt/minepeon/etc/miner.conf /opt/minepeon/etc/miner.conf.donate /opt/minepeon/etc/miner.user.conf 3) Edit the following line from "api-allow": "W:0\/0", To "api-allow": "127.0.0.1", 4) Press CRTL + X This will then ask you if you want to save the changes, Press y 5) After saving the changes the next file will open, make the same changes you did in step 3. This will be done 3 times to change all the files. 6) Login to the Minepeon web interface and restart the miner. To check to make sure the changes are working you can try to connect to the API at the following URL, change <ip> to be the IP of your Pi. http://<ip>:4028/ You should get an error message, Something like Connection reset or no data received depending on your browser. If you get a page which looks like the following then API access is still open and you should check the changes have been saved, if they have save then try restarting the Pi. STATUS=E,When=1390150582,Code=14,Msg=Invalid command,Description=bfgminer 3.4.0 A fix has been pushed to the Minepeon Git repo, so this should be fixed in the next version. I believe Minepeon version 0.2.4 and lower are vulnerable to this issue. Leave a comment Random End of the world or not? 2012-12-21 | David A lot has been said about the end of the world and that it will be happening tomorrow (21/12/2012), lots of people have been disproving it even NASA has been involved and they even have a part of the site dedicated to this – Beyond 2012 and had a Google+ Hangout about it which is available on YouTube for people to watch. So it seems that nothing is going to hit earth, we aren’t going to be sucked in a black hole, the polar poles aren’t going to swap any time soon, etc, etc. Which means nothing to worry about. Then I came across this on the “What’s Hot” section of Google+ which talks about us begin in a Matrix style simulation, Which I think would be pretty cool but I don’t think we likely to ever find out unless we get the offer of a “red pill” and see how deep the rabbit hole goes. It would be fun if it was true and the end of the world on 21/12/2012 was linked in that the world ending was actually the end of the simulation and we just get “turned off”, I guess we will find out in the morning, In the mean time lets count to the possible end of the world. Leave a comment Interesting Stuff Some tools 2012-06-18 2012-12-20 | David Recently I have had a bit of spare time so thought I would add a couple of projects I found interesting to my web site. IPv6 Stats This tool allows you to get some stats on people visiting websites which have a small image included in the page. The image is used to collect the stats. You can view the stats I have collected on my own sites at http://ipv6stats.noroutetohost.net/ Feel free to add the collector image to the your own site to help build up the stats, this will work even if your site is only running on IPv4. Use the following code on your site. The stats tool was created by Eric Vyncke, you can see the stats that Eric has collected at his website . Eric also has some interesting IPv6 deployment stats DNS Check This tool runs various DNS checks and lets you know of any errors, checks include IPv6 checking and DNSSEC. You can also enter in name servers to run the check against, which is useful if you are changing DNS servers and want to make sure that things are setup correctly before you change servers. You can check your domains at http://dnscheck.noroutetohost.net DNS check was created by the guys at http://iis.se and the source code can be downloaded from https://github.com/dotse/dnscheck At some point I will get around to updating the themes on the above tools so that they blend in a bit more with the rest of the site. Leave a comment Posts navigation Older posts Categories Bitcoin (1) Datacentres (2) Interesting Stuff (3) IPv6 (3) Juniper (1) SRX110 (1) Random (1) Uncategorized (4) Tools DNS Checker IPv6 Stats IPv6 Test SSL Cert Decoder SSL Cert Monitor IPv4 Exhaustion Counter Twitter feed RT @RaspberryPi_org : 10K FOLLOWER GIVEAWAY 🎉🎈🎁To celebrate 10K followers on Twitter, we're giving away 3x Raspberry Pi Foundation tote ba… 06:24:46 PM May 15, 2023 @nixcraft I think they slightly missed April 1st 😂 05:59:56 PM April 03, 2023 in reply to nixcraft @ThePiHut Still have an original Pi going strong 03:45:42 PM January 25, 2023 in reply to ThePiHut Happy New Year 🎆🎇 12:10:35 AM January 01, 2023 RT @TORDFC : Just in case Twitter does go down… https://t.co/qcmdJPFpba 12:52:18 AM November 19, 2022 @BradinTN @pfsense Assuming everything else is setup correctly there is a global option to allow IPv6, if its unche… https://t.co/biROLTSF0N 10:04:15 AM November 03, 2022 in reply to BradinTN Thanks for the suggestions, I will take a look at them. 05:01:03 PM October 17, 2022 in reply to NoRouteToHost @RobinJPickering Correct, I have paths via LINX/LONAP covered. so looking at alternative paths to the same networks 08:06:12 PM October 15, 2022 in reply to RobinJPickering @kooky_uk Everything else I have ends up via LINX/LONAP, so looking for something which will give me different paths 06:58:03 PM October 15, 2022 in reply to kooky_uk About time I finally moved my old Bytemark VM.
+Any recommendations for VM/VPS providers with #IPv6 support and not… https://t.co/RbtUaRI1Zl 11:10:18 AM October 15, 2022 @noroutetohost Meta Log in Entries feed Comments feed WordPress.org Search for: Search Submit Categories Bitcoin Datacentres Interesting Stuff IPv6 Juniper Random SRX110 Uncategorized Archives May 2016 January 2014 December 2012 June 2012 September 2010 February 2010 December 2009 November 2009 October 2009 August 2009 Proudly powered by WordPress Theme: Identity by Michael Van Den Berg

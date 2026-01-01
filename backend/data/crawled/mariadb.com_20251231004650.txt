@@ -1,0 +1,195 @@
+E-book: A Practical Guide to AI and Vector Search in Relational Databases
+READ NOW
+Webinar | The HTAP Edge: Powering Real-Time Analytics with MariaDB Exa
+WATCH NOW
+White Paper: The Ultimate Guide to High Availability
+DOWNLOAD THE WHITE PAPER
+Documentation
+Downloads
+Login
+PRODUCTS
+SOLUTIONS
+RESOURCES
+COMPANY
+PRICING
+GET STARTED
+CONTACT US
+MariaDB Accelerates Agentic AI Applications
+
+Introducing MariaDB Enterprise Platform 2026.
+The unified cloud database platform designed to simplify development and deployment of agentic AI applications.
+
+READ WHAT’S NEW
+One Database.
+Multiple Clouds.
+Infinite Possibilities.
+
+MariaDB delivers the most reliable open source database, powering mission-critical and AI-powered applications. 
+
+Deploy in seconds with MariaDB Cloud.
+
+GET STARTED
+Unlock Next-Gen AI Applications with MariaDB’s Vector Search
+
+Learn how to use MariaDB Cloud’s integrated vector capabilities alongside LangChain and Google’s Gemini LLM to build a real-world, intelligent product search feature.
+
+WATCH THE WEBINAR
+Trusted to Power the Enterprise
+
+Global customers run mission-critical applications on MariaDB.
+
+1B+
+
+downloads
+
+90%
+
+potential cost savings compared to
+legacy databases
+
+75%
+
+of Fortune 500 companies
+use MariaDB
+
+Imagine it. Build it. Deploy Instantly with MariaDB.
+
+The unified, enterprise-grade database platform for any operational model: from self-managed deployments to our fully managed cloud.
+
+MARIADB CLOUD MARIADB ENTERPRISE SERVER
+End-to-End Cloud Database Solution
+
+MariaDB enterprise solutions combine cutting-edge database technology with cloud agility, and expert support and services to drive customer success. Experience a complete solution that empowers your data strategy.
+
+Simplify your data environment with a single platform
+
+Running multiple specialized databases adds complexity fast. MariaDB delivers a unified database platform that supports a wide range of database workloads and data types – including transactional, analytical, semi-structured and AI data.
+
+Universally recognized, effortless adoption
+
+MariaDB is one of the most popular open source databases in the world. With MySQL and Oracle compatibility, teams can avoid retraining or rewriting applications, allowing developers to accelerate development and realize business value faster.
+
+LEARN MORE
+Enterprise-Grade Reliability
+
+MariaDB’s enterprise solution extends its popular open source database to meet enterprise reliability, stability and security requirements. It’s reliability that’s trusted to run banking institutions, telecom networks and modern applications that power the world.
+
+Database reliability for business peace of mind
+
+Ensure your business’ mission-critical applications always have a reliable database with up to five nines (99.999%) of availability and automatic failover to prevent downtime.
+
+Unparalleled support from MariaDB experts
+
+Partner with MariaDB for dedicated support, long-term releases and enterprise-grade SLAs. Our team is committed to your success, providing direct access to MariaDB engineers.
+
+LEARN MORE
+Power That Outperforms Price
+
+MariaDB database solutions meet the same core requirements as proprietary databases at a fraction of the cost. Experience a database solution that delivers high value and low TCO.
+
+Open source innovation
+
+Accelerated by a large and active open source community, MariaDB fosters continuous innovation and collaboration. Our community actively tests and refines features in real-world applications at scale, ensuring access to cutting-edge innovation for all.
+
+Switch to MariaDB and save
+
+MariaDB simplifies migration from legacy databases with comprehensive compatibility features, migration tools and expert services. Make the switch and save up to 90% of total proprietary database costs.
+
+CALCULATE YOUR SAVINGS
+Global Customers Trust MariaDB
+
+Discover why industry leaders trust MariaDB to power their business.
+
+MariaDB was a vital part of this transformation, helping us replace our legacy database systems, solve organizational and technological challenges, and innovate in new ways.
+
+– Executive Director of Technology, DBS
+
+READ DBS’S CUSTOMER STORY
+
+$4.1M
+
+net savings over 5 years by moving from proprietary databases to MariaDB
+
+54%
+
+of mission-critical banking applications migrated to MariaDB
+
+Browse All Customer Stories
+Dive Deeper Into MariaDB
+
+Explore resources to expand your MariaDB knowledge
+
+The Ultimate Guide to Database High Availability with MariaDB
+Download White Paper
+MariaDB Databases 101
+Watch Webinar
+The Next Generation of MariaDB: Powered by Vector Search
+Watch Webinar
+SEE ALL
+MariaDB Latest
+Versions
+MariaDB Enterprise Platform 2026
+
+The latest major release of our enterprise platform, featuring MariaDB Exa for high performance analytics, as well as native vector search, built-in RAG and AI copilots that accelerate agentic AI application development.
+
+MariaDB Enterprise Server 11.8 
+
+The latest GA version of our enterprise open source database, a core component of our enterprise solution built for mission-critical production workloads.
+
+MariaDB MaxScale 25.01
+
+The latest GA release of our advanced database proxy that ensures high availability, scalability and security for your applications, simplifying database operations.
+
+MariaDB Community Server 12.1
+
+The latest GA release of our community open source database for development environments.
+
+DOWNLOAD MARIADB TRY MARIADB CLOUD
+Get Started
+
+With an ocean of possibilities, start building with MariaDB today.
+
+Build with MariaDB
+
+Start developing today with a free download of Community Server.
+
+DOWNLOAD NOW
+Upgrade to Enterprise
+
+For enterprise-grade reliability you can trust, upgrade to MariaDB Enterprise Platform.
+
+CONTACT US
+Try Free
+
+Get started with MariaDB in the cloud instantly.
+
+START NOW
+Subscribe to MariaDB's monthly newsletter!
+Products
+ENTERPRISE PLATFORM
+CLOUD
+COMMUNITY SERVER
+DOWNLOAD MARIADB
+PRICING
+Support
+TECHNICAL SUPPORT
+CUSTOMER LOGIN
+REMOTE DBA
+PROFESSIONAL SERVICES
+Resources
+MARIADB BLOG
+WEBINARS
+CUSTOMER STORIES
+MARIADB EVENTS
+DOCUMENTATION
+DEVELOPER HUB
+Company
+ABOUT MARIADB
+NEWSROOM
+LEADERSHIP
+MARIADB CAREERS
+© 2025 MariaDB. All rights reserved.
+
+Legal | Privacy Policy | Cookie Policy | Trust | Sitemap
+
+   

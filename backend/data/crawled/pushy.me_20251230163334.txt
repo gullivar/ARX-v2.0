@@ -1,0 +1,158 @@
+HOME
+ABOUT
+PRICING
+ENTERPRISE
+DOCUMENTATION
+SUPPORT
+CONTACT
+DASHBOARD
+Lightning-fast, highly-reliable
+push notification delivery
+WORLDWIDE, CROSS-PLATFORM PUSH NOTIFICATION SOLUTION
+GET STARTED FOR FREE
+No credit card needed
+Trusted by 15,000+ companies worldwide
+            
+            
+Mission-critical notification delivery at your service
+HIGHLY-RELIABLE
+
+A dedicated MQTT connection on Android boosts
+immediate delivery rates for time-critical notifications
+
+WORLDWIDE DELIVERY
+
+The only cross-platform notification solution that can deliver notifications worldwide, including China
+
+BLAZING-FAST
+
+Consistently achieveing < 1 second
+delivery speed for connected devices
+
+CROSS-PLATFORM
+
+Support for native mobile, web, and
+hybrid development technologies
+
+PAY AS YOU GROW
+
+A simple and transparent pricing model,
+suitable for both startups and enterprise
+
+AUTO-SCALING
+
+Auto-scaling backend infrastructure
+to support your growing user base
+
+Cross-platform support for popular technologies
+ Android  iOS  Web Push  Angular  Flutter  React Native  Java  Python
+ Cordova  Ionic  Capacitor  PhoneGap  Electron  Xamarin  MAUI  macOS
+ PERSISTENT CONNECTIVITY
+
+A lightweight, battery-efficient protocol called MQTT drastically improves notification reliability on Android and makes it possible to deliver to AOSP and non-GMS devices
+
+ PUB/SUB TOPIC MESSAGING
+
+Subscribe users to topics and publish notifications to multiple recipients based on app-specific criteria
+
+ DEVELOPER-FRIENDLY DOCS
+
+Integrate our SDK and start sending notifications in record time using our developer-friendly documentation
+
+PUSHY ENTERPRISE
+Our enterprise-grade, managed/on-premises notification solution, offline-capable and backed by an uptime SLA and 24/7 high priority support
+LEARN MORE
+Track notification delivery and user activity trends
+
+Gain valuable insight into your app's notification reliability and user retention using our state-of-the-art dashboard
+
+Insightful metrics
+
+Visualize your app's daily notification sending and delivery rates, user acquisition, and more
+
+Powerful tools
+
+Send beautiful notifications directly from the dashboard, targeting specific devices and/or Pub/Sub subscribers
+
+Some companies we've
+had the pleasure of working with
+
+
+
+"Pushy Enterprise has proven to be a reliable, easy-to-integrate solution for delivering push notifications to our customers in mainland China. We currently use it side-by-side with other push notification services for the rest of the world, and so far it lived up to our standards regarding performance and stability."
+
+TIM PREUSS
+Software Architect at 
+
+
+
+"Our experience with Pushy in the past five years has been good.
+The service is reliable and fills the gap we have with GCM / FCM not working in China."
+
+BRENT DERMOTT
+Director of IT Engineering at  Motorola
+
+
+
+"We've been using Pushy for the past three years for in-store click-and-collect order fulfillment. Integration was easy, and Pushy has consistently achieved 99% to 100% notification delivery rates, month by month."
+
+DARREN MADDOCK
+Lead Developer at 
+
+"As the pioneer of a super app model, Gojek is designed to create value for everyone in our ecosystem: our consumers, driver partners, merchant partners and business partners. For our merchants, we want to be the growth partner by providing end-to-end business and operational solutions, and Pushy has been a reliable tool to support us delivering this goal."
+
+RIKY WIJAYA
+Engineer at 
+
+"Our solution requires immediate delivery of time-critical alerts in response to printing device failure. After switching from FCM to Pushy, we have witnessed an increase in immediate notification delivery rates, ensuring our clients are aware of any uptime issues with our devices in real time, as they occur, and not minutes or hours later."
+
+TAMIR OLPAK
+R&D Manager at  Kodak
+
+"Integration with Pushy was easy, affordable, and the service highly reliable and fast for delivering push notifications to our in-store personnel, in real-time, to speed up order processing. Implementing Pushy Enterprise in our retail solutions has helped us meet our customer SLAs."
+
+CHRIS DAVID
+Project Manager at  Chemist Warehouse
+
+"We implemented Pushy for its lightning-fast notification delivery, as we need to send notifications to partner hotel staff in real time, providing guests the best possible stay from a service and facilities perspective."
+
+MANUEL SALETA
+Full Stack Engineer at 
+Previous
+Next
+RELIABLE NOTIFICATIONS AT SCALE
+9.7M+
+NOTIFICATIONS SENT PER DAY
+48M+
+DEVICES ON OUR PLATFORM
+Try our demo
+
+Witness the speed and reliability of our platform without writing a single line of code
+
+GIVE IT A GO
+Join over 15,000 companies using the most reliable
+push notification solution in the world
+
+Start sending push notifications today, no credit card needed
+
+GET STARTED FOR FREE
+CONTACT US
+Sales
+Support
+PHONE
++1 (415) 906 5305
+Mon - Fri, 9AM - 5PM (EST)
+QUICK NAVIGATION
+Home
+About
+Pricing
+Enterprise
+CLIENTS
+Docs
+Support
+Dashboard
+Service Status
+LATEST UPDATES
+Visit our X page for latest updates
+Copyright © 2025 Pushy LLC. All rights reserved. Terms & Privacy.
+ 

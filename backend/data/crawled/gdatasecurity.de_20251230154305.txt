@@ -1,0 +1,205 @@
+Skip to main content
+Business Private user About G DATA
+Shop 
+Support 
+Webinars 
+Download MY G DATA
+Downloads
+
+Find product downloads, manuals and tools
+
+Windows
+	
+Mobile
+	
+Mac
+	
+VPN
+	
+Business
+	
+Tools
+Windows
+G DATA Internet Security for Windows
+
+G DATA Internet Security with Antivirus and exploit protection! Security against viruses, spyware, hackers and malware.
+
+Buy now!
+Factsheet
+Manual/Help
+EULA
+
+Download
+G DATA Total Security for Windows
+
+Use G DATA Total Security for maximum security against spyware, Trojans, spam and other malware! The all-round, worry-free package including a powerful firewall and active exploit protection.
+
+Buy now!
+Factsheet
+Manual/Help
+EULA
+
+Download
+G DATA Antivirus for Windows
+
+Convince yourself now of G DATA Antivirus with exploit protection! The best protection against viruses, Trojans, phishing and other malware.
+
+Buy now!
+Factsheet
+Manual/Help
+EULA
+
+Download
+Mobile
+G DATA Mobile Security for Android
+
+G DATA Internet Security Android offers comprehensive protection against malware, intrusive apps and phishing attacks. Locate lost devices or wipe their content remotely to prevent unauthorized access.
+
+Buy now!
+Factsheet
+EULA
+
+Download
+Mac
+Antivirus for Mac
+
+G DATA Antivirus for Mac offers special protection against viruses and phishing attempts for your Mac. Not only does it proactively protect against Mac viruses, it also provides additional protection for your Windows PCs that are connected to your network. Integrated phishing protection also blocks websites that try to spy on data.
+
+Buy now!
+Factsheet
+EULA
+
+Download
+G DATA Antivirus for Mac - UNINSTALL
+
+Download this setup file to uninstall the previous version of G DATA Antivirus for Mac. Please open the file and start the uninstall process.
+
+
+Download
+VPN
+G DATA VPN
+
+Protect yourself from data espionage and snooping: The VPN client from G DATA allows you to encrypt data traffic on up to 10 devices (Windows, macOS, Android, iOS) and surf the Internet anonymously.
+
+Windows Download
+Google Play Store
+App Store (iOS)
+Mac Download
+Business
+G DATA Business V 15.7
+
+The setup includes all functions and additional modules of our business software. The features and modules you have bought are activated according to your registration number or login.
+
+Online-Manual
+How to: Update to latest version
+Changelogs
+
+Download
+The company: What makes G DATA special
+Download now
+3,98 MB
+Endpoint protection for companies
+Download now
+1,09 MB
+Cyber Defense Awareness Trainings
+Download now
+883,28 KB
+G DATA Portable Admin Launcher
+
+The G DATA Portable Admin Launcher can be started from any computer without further customization or special setup. A launcher loads the appropriate administrator version of the used G DATA Management Server in advance.
+
+
+Download
+Tools
+G DATA BootMedium
+
+The G DATA boot medium is a practical aid for detecting viruses that have already embedded themselves on your computer prior to installing the antivirus software. The download file is an ISO file, i.e. it must either be burnt to a CD/DVD or be mounted via a virtual drive so it can be used from a USB stick for example. You can download the boot medium in the "Tools" download area.
+
+
+Download
+G DATA FakeAVCleaner "System Tool"
+
+The G DATA FakeAVCleaner “System Tool” removes FakeAV of the “System Tool” type and related types. Note: The G DATA FakeAVCleaner “System Tool” has to be executed with the Windows user account that is infected. As the FakeAV “System Tool” shuts down all user-initiated programs which do not have any kind of ‘reserved’ name, like explorer.exe, winlogon.exe or svchost.exe and many more, the file name for the G DATA FakeAVCleaner is svchost.exe.
+
+
+Download
+Mon Activity CS
+
+The MonActivity tool enables you to monitor the activity of the AVK-guard in the background. This can be helpful to analyze performance problems. You can run this tool in real time during "normal" activity, and then try to reproduce the problem. Or you can run it for half an hour with the hitlist function and then refresh the view to see if a specific process pops up all the time. Defining an exception for a specific type of files might solve the problem in that case.
+
+
+Download
+Quarantine Generation 2011
+
+This version is for G DATA products of generation 2011 and later. This tool enables you to work with files that have been placed in quarantine. These quarantined files have the extension *.q and can be found on the client in the folder "C:\ > Program files > Common files > G DATA > AVKScanner > QBase" or on the server in "C:\ > Program files > G DATA > AVK ManagementServer > QBase". You can for example place infected mail archives into a new folder and continue working.
+
+
+Download
+G DATA Product Cleaner
+
+The G DATA Product Cleaner is a tool for removing G DATA products and residue left over from a normal uninstallation. The following products are supported: G DATA Endpoint Security Client, G DATA AntiVirus, G DATA Internet Security, G DATA TotalSecurity, Bootmedium Wizard, Management Server and G DATA Security for Exchange.
+
+
+Download
+AVCleaner (End of Life, no longer recommended)
+
+You need this tool to completely uninstall your G DATA security solution (e.g. to reinstall it). AntiVirus Cleaner deletes from your system all remains of the program which were not removed by a simple uninstall.
+
+
+Download
+G DATA Passwort Generator
+
+Protect yourself from data espionage and snooping with secure passwords: With the password generator from G DATA, you can generate any passwords according to different criteria. Check how secure your own or the generated passwords are and how much effort it would take to 'crack' them.
+
+
+Download
+G DATA Passwort Manager Extraktor
+
+With the G DATA Passwort Manager Extractor you have read access to the Password Manager data safe. You can access your stored access data even without Password Manager installed.
+
+Manual/Help
+
+Download
+G DATA USB Keyboard Guard
+
+The G DATA USB Keyboard Guard is an add-on that protects you from the most likely form of USB attack: USB devices pretending to be keyboards. If a new keyboard is detected by the system, access is initially denied and a pop-up is displayed. You can then check in your own time whether this really is a keyboard, and either grant or deny access permanently. You can download the software for free.
+
+
+Download
+You are here:
+Home
+Downloads
+ International
+
+Europe
+
+ | 
+
+North-America
+
+Central- & South-America
+
+Popular
+Free Trial
+Renew your license
+Compare windows products
+Extend your Product
+Lost login data?
+Cooperations
+Become a partner
+Partnerweb
+Affiliates
+G DATA
+Newsroom
+Awards
+Company Profile
+Jobs
+Service
+Statistics - Malware Information Initiative
+Blog
+Media Center
+Submit a suspicious file, app or URL
+Vulnerability Disclosure
+PUA Detection Guidelines
+Imprint Terms & Conditions Cancellation policy EULA Privacy policy
+© 2025 G DATA CyberDefense AG. All rights reserved.

@@ -1,0 +1,109 @@
+Donate to FreeBSD
+ 
+Home
+About
+Get FreeBSD
+Documentation
+Community
+Developers
+Support
+Foundation
+The FreeBSD Project
+
+FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.
+
+»Learn More
+
+» Get the FreeBSD Journal
+New to FreeBSD?
+Download FreeBSD
+Supported Releases
+Production: 15.0
+Production: 14.3
+Legacy: 13.5
+Upcoming: 14.4
+Support Lifecycle
+en ru zh-tw
+Shortcuts
+Mailing Lists
+Reporting Problems
+FAQ
+Handbook
+Ports
+LATEST NEWS
+
+2025-12-16
+New committer: Johan Söllvander (src)
+
+2025-12-15
+New committer: John Hall (src)
+
+2025-12-03
+New committer: Timothy Pearson (src)
+
+2025-12-02
+FreeBSD 15.0-RELEASE Available
+
+2025-11-30
+July-September 2025 Status Report
+
+2025-11-26
+FreeBSD 15.0-RC4 Available
+
+More 
+UPCOMING EVENTS
+
+2026-01-31 - 2026-02-01
+FOSDEM 2026
+(Brussels, Belgium)
+
+2026-03-19 - 2026-03-22
+AsiaBSDCon 2026
+(Taipei, Taiwan)
+
+More 
+PRESS
+
+2025-12
+The Register takes a look at FreeBSD 15
+
+2025-11
+FreeBSD Officially Supported in OCI Runtime Specification v1.3
+
+2025-10
+An introduction to OCI Containers on FreeBSD
+
+2025-10
+FreeBSD Vendor Summit, Nov 6-7
+
+2025-09
+Insights from the 2025 FreeBSD Community Survey
+
+More 
+SECURITY ADVISORIES
+
+2025-12-16
+FreeBSD-SA-25:12.rtsold
+
+2025-12-16
+FreeBSD-SA-25:11.ipfw
+
+2025-11-26
+FreeBSD-SA-25:10.unbound
+
+2025-10-22
+FreeBSD-SA-25:09.netinet
+
+More 
+
+
+ERRATA NOTICES
+
+2025-12-16
+FreeBSD-EN-25:20.vmm
+
+2025-12-16
+FreeBSD-EN-25:19.zfs
+
+More 
+Legal Notices | © 1995-2025 The FreeBSD Project All rights reserved. The mark FreeBSD is a registered trademark of The FreeBSD Foundation and is used by The FreeBSD Project with the permission of The FreeBSD Foundation. Contact

@@ -1,0 +1,95 @@
+Home
+Search
+Delist
+Partners
+Statistics
+Downloads
+API - DNS
+Export IP-List
+Register
+Login
+Imprint
+Select Language:
+    
+Useful Links:
+ Twitter    Blog  
+
+IP's listed.
+
+
+Useful Links:
+
+www.fail2ban.org
+Example Config (Vers. 0.8.4)
+Example Config (Vers. 0.9.0)
+X-Arf-Validator
+Example Report (ssh, again)
+stopforumspam.com
+Wordpress Plugin ReportAttacks
+abuse.ch Measuring Reaction Time of Abuse Desks
+OutDated.Software
+Top News:
+16.07.2024
+We have removed all Ads from blocklist.de
+
+20.06.2016
+A little more advertising on the page added for reducing server costs.
+
+24.05.2013
+New website with new Design is online.
+
+21.12.2012
+X-ARF-Validator updated with Value-Validator: online X-ARF-Reports validieren
+
+
+
+
+Sponsors:
+
+   
+
+What is www.BlockList.de?
+www.blocklist.de is a free and voluntary service provided by a Fraud/Abuse-specialist, whose servers are often attacked via SSH-, Mail-Login-, FTP-, Webserver- and other services.
+The mission is to report any and all attacks to the respective abuse departments of the infected PCs/servers, to ensure that the responsible provider can inform their customer about the infection and disable the attacker.
+
+We report more than 70,000 attacks every 12 hours in real time using Whois (abuse-mailbox, abuse@, security@, email, remarks), the Ripe-Abuse-Finder, and the contact-database from abusix.com so we may find the abuse-address assigned to the offending host. Our reports are based on X-Arf (Network Abuse Reporting 2.0), so the abuse-department of the provider for the attacking host may parse our reports automatically.
+
+blocklist is comparable with spamcop.net for attacks of any nature, with an exception for spam.
+
+We use the Whitelist from www.dnswl.org, www.spamhauswhitelist.org and the Blacklist from torproject.org to reduce false-positive results.
+These users can create their own servers/IPs whitelist, which is applied to their own reports, and thus prevents the reporting of their own servers.
+
+We're winning more partners every day (over 2710 Users), who report attacks on their servers.
+If you also would like to report attacks on your server, please register an account and add your server(s).
+
+
+On our statistics page, you can see the top countries of attacking PCs, the top providers and the top attacker IPs.
+
+On "Search (IP, ASN)" you can search in our database for your IP-address or your AS-Number to check the status of blocked IPs or how many IPs had attacked our partner's servers.
+Also you can pause reports for 7 days for a IP and the assigned abuse-address when you need more time to fix the problem.
+
+We hope our service makes the Internet better, safer and helps to clean infected PCs.
+
+Note: BlockList.de itself does not block E-Mails or Requests. Third party administrators configure their servers, which may reject a connection because of an entry in blocklist.de.
+
+Currently, we can use the following Fail2Ban-/DenyHost-Attacks-Type:
+Complete List of Service-Names
+
+ssh* || ssh-ddos
+postfix || mail || exim || exim4
+amavis
+proftpd || ftp* || pure-ftpd || pureftpd
+courierpop3 || pop || pop3 || dovecot-pop3
+courierimap || imap || dovecot || dovecot-pop3imap || dovecot-smtp || dovecot-*
+sasl
+BadBots || irc-bot || irc-bots || reg-bots || reg-bot
+php-url-fopen || rfi-attack (wie in filter.d/apache-spamtrap-rfi.conf) || shellshock
+w00tw00t || apache-w00tw00t Disabled because of majestic12 Bot
+ApacheDDOS || DDoS
+Asterisk || sip || voip
+SQL-Injection
+webmin || plesk -> brute-force-logins (set maxentry to 5 or higher)
+
+
+
+Copyright 2007 - 2025 by blocklist.de          

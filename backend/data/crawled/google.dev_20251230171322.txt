@@ -1,0 +1,163 @@
+Skip to main content
+
+developers.google.com uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Products
+Developer Program
+Solutions
+More
+/
+Sign in
+Dashboard
+My Benefits
+My Community
+Saved Pages
+My Profile
+Plans & Pricing
+Settings
+Learn More
+Be inspired.
+Build the extraordinary.
+Join the program
+Learn
+Forums
+Discover
+Build
+Innovate
+Upgrade
+Connect
+Designed for your success
+
+Build new projects, advance your career, and expand your network with the Google Developer Program.
+
+code
+Gain expertise with hands-on training
+
+Get full access to AI-focused courses and labs at no-cost to you—available on Google Skills. Go from learning to building with Google technologies, including Android, Firebase, Google Cloud, and more.
+
+auto_awesome
+Build and scale your apps faster with AI
+
+Boost your development cycle with Google's developer tools and access to AI assistance. Get instant coding suggestions, quick answers, and streamlined search.
+
+emoji_events
+Showcase your achievements
+
+Highlight your achievements and earn badges on your developer profile to showcase your accomplishments and gain recognition within the community.
+
+Ask Questions. Find Answers.
+
+Dive into discussions and collaborate on projects in the Google Developer Program forums. Get direct support and insights from experts and peers.
+
+Join the conversation
+Share your interests. Get curated content.
+
+Update your Google Developer Program profile with the technologies you love the most, from Android and Flutter to Google Cloud and AI. We'll keep you in the loop on the latest and greatest from Google, tailored to your interests.
+
+Update profile
+Build with the best of Google
+
+Bring your boldest ideas to life. Build innovative applications with the power and breadth of Google's developer tools.
+
+Android
+Google Cloud
+Firebase
+Gemini API
+Supercharge apps with Google AI
+
+Transform your applications with Google's most capable AI models, designed to help you build for the future.
+
+Build GenAI apps with Flutter & Genkit
+Add agents with Google Cloud & Firebase
+Develop with Android Studio & Vertex AI
+Build an agent-powered travel planning app with GenAI
+
+How can you provide user recommendations with GenAI? Walk through an app that uses a Gemini-powered agent to plan your next vacation based on your preferences, powered by Firebase, Genkit, Firestore, and Flutter.
+
+Jump into the solution
+Unlock even more with premium
+
+Gemini Code Assist, Google Cloud credits, and more. Supercharge your development with the tools you need.
+
+Learn more
+Standard benefits
+
+Your base program at no cost
+
+Gemini Code Assist for individuals
+code
+10 Firebase Studio workspaces
+AI chat assistance in developers.google.com and Android Studio
+fiber_smart_record
+35 learning credits every month on Google Skills
+shield
+Preferred access to Google product previews
+group_work
+Invitations to communities and events to connect with like-minded developers
+badge
+A developer profile and earnable badges to show off your skills
+wysiwyg
+Personalized recommendations on technical documentation and tutorials
+newspaper
+News and announcements directly to your inbox
+Premium benefits
+
+Enhance your membership at only $299/year
+
+Includes all standard benefits, plus:
+Gemini Code Assist Standard
+30 Firebase Studio workspaces
+3 months of Google AI Pro
+$50 GenAI developer annual credit*
+loyalty
+$500 Google Cloud annual credit
+loyalty
+Additional $500 Google Cloud annual credit upon earning a certification
+redeem
+1 Google Cloud certification voucher each year
+school
+Unlimited access to 700+ hands-on labs and courses in Google Skills
+person
+Annual 1:1 tailored consultation with Google Cloud experts
+Enterprise benefits
+
+Get exclusive features for your teams (Preview)
+
+Gemini Code Assist Enterprise
+code
+Google Cloud Developer sandboxes
+fiber_smart_record
+$150 Google Cloud credits per month
+settings_applications
+Centralized purchasing management
+school
+Unlimited access to Google Skills
+Find your community. Get early access.
+
+Join our vibrant developer communities to network with peers, share your knowledge, and unlock opportunities for invitations to Google's product preview programs.
+
+Learn more
+Google Cloud Innovators
+Google Maps Platform Innovators
+Firebase Studio Developer Community
+Follow Google for Developers
+
+Learn more about the
+#GoogleDeveloperProgram
+by reading our FAQ.
+
+Content Policy
+Android
+Chrome
+Firebase
+Google Cloud Platform
+Google AI
+All products
+Terms
+Privacy
+Manage cookies
+Info
+Chat
+API

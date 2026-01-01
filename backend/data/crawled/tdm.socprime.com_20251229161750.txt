@@ -1,0 +1,357 @@
+Refuse Cookies Accept Cookies
+
+This site uses cookies and other tracking technologies to assist with navigation and your ability to provide feedback, analyse your use of our products and services, assist with our promotional and marketing efforts, and provide content from third parties.Details
+
+Log In
+SOC Prime Platform
+Access the world's largest collection of SIEM & EDR algorithms to address your organization-specific use cases and boost Threat Hunting, Cyber Threat Intelligence, and Detection Engineering capabilities. Verified detection rules and threat hunting queries directly contribute to saving the precious time of any security team in the world. Our content library is updated daily to address over 94% of MITRE ATT&CK® and improve MTTD and MTTR of your SOC.
+Sign Up
+Create an account with your work email.
+Have a Promo Code?
+or sign up with
+Microsoft
+GitHub
+Linkedin
+Atlassian
+Slack
+Google
+By clicking Sign Up or registering through a third party you confirm that you have read and agree to SOC Prime’s Terms of Service and Privacy Policy
+Already have an account? Log In
+MEASURE THE VALUE AND MANAGE THE PROCESS IN REAL TIME
+Management Dashboards with Live Metrics
+A clear answer for CISOs, SOC Managers, and DevSecOps Team Leads to measure how much progress the Team is making on improving detection capabilities. Dive into the real-time metrics like Saved Hours on Content Research and Development, Threat Coverage and Awareness based on ATT&CK parameters, Content Deployments and Onboarding. Measure the impact you make on the global cybersecurity community of 6,000+ organizations and benchmark your performance with your industry peers.
+ADAPT AND EVOLVE YOUR DETECTIONS
+Automated Continuous Content Streaming
+SOC Prime's Detection as Code platform automates integration processes and enables continuous content streaming of detection and response algorithms to cloud-native SIEMs using the Automation module.
+Automate Content Deployment & Management
+The Automation module enables streaming of the latest SOC content and updating detections on the fly directly into your SIEM.
+Rewrite Your Detection Reality
+Set up your data schema once and adapt detection rules and queries on the fly instead of spending Detection Engineers’ time on keeping parsers up to date.
+Streamline Your SOC Operations
+Enable your organization’s SecOps Teams to augment their threat hunting capabilities and significantly reduce MTTD and MTTR.
+GET STARTED NOW
+Reviews
+Good Product and Services
+Oct 10, 2020
+
+Good Product and Services, SOC Prime Threat Detection Management always has up-to-date content for the latest attack tactic and techniques which is useful for all our customers for detect, prevent and analysis.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+<50M USD
+ROLE
+Consultant
+Great company to work with
+Jul 6, 2020
+
+SOC Prime have worked with us to ensure we are making as much use of the TDM platform as possible. They have taken multiple feature requests and added them into their development pipeline.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+<50M USD
+ROLE
+Analyst
+SOC service improvements
+Sep 3, 2020
+
+A solution service that made a Security operations live easier, buy the time investing and knowledge and focus more on the operations and service improvements, and waste les time.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+500M - 1B USD
+ROLE
+Security and Risk Management
+Easy to use platform for threat hunters
+Jul 15, 2020
+
+TDM is really easy to use. I like the filtration of content, it's really easy to find what's needed from the dozens of rules. What is more helpful for us in day-to-day work - mapping to the MITRE ATT&CK framework that halps in uncovering the latest threats.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+50M - 250M USD
+ROLE
+Security and Risk Management
+A good support in our project of migration from one SIEM to another.
+Sep 16, 2020
+
+At organisation, we are in the process of migrating from one SIEM technology to another one. This was an opportunity to review the use case library and to develop them following well-known framework such as MITRE ATT&CK. Using SOC Prime Platform helps to quickly identify use cases related to the technologies to monitor and the tactics, techniques and procedures of the attackers. TDM helps us to make more effective security monitoring rules, to port them to the new platform and eventually to reduce the time to prod of the use cases.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+<50M USD
+ROLE
+Analyst
+Review
+Jul 1, 2020
+
+The content is very good and regularly updated and really effective in detecting advanced threats, it become a crucial part of our day to day operations
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+50M - 250M USD
+ROLE
+Consultant
+SOC Prime Review For A Global Financial Services Corporation
+Sep 10, 2020
+
+SOC Prime has proved to be a very useful purchase for our content development team over the past year. TDM always has up-to-date content for the latest attack tactic and techniques. TDM has also enabled our organization to map our detections to the MITRE ATT&CK framework. TDM has also saved our content development team many hours of work.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+30B + USD
+ROLE
+Security and Risk Management
+TDM success story
+May 24, 2020
+
+We have been using TDM for 2 years. The company provides a great service, qualified support and personal approach. Before choosing TDM, we were actually looking for a solution to cover our security content needs and improve detection capabilities. TDM has covered these needs and moreover saved time to our SOC team. For the past year they became even better and more mature in content quality and quantity. I think they can improve even more by adding some industry specific content, but still it's a good value for money anyway.
+
+READ MORE
+INDUSTRY
+Manufacturing
+FIRM SIZE
+3B-10B USD
+ROLE
+Security and Risk Management
+Great content, needs verification and QA
+Apr 16, 2020
+
+The company has very knowledgable staff and the TDM platform provides a plethora of great threat definitions and IOCs. I think SOC prime could do better from a QA standpoint as many of the rules don't work out of the box and require some fine tuning.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+50M - 250M USD
+ROLE
+Security and Risk Management
+Good, innovation and flexible company
+May 18, 2020
+
+Aiming to gain the maximum of the Information Security department, the Bank reached out to SOC Prime for consulting and finally bought a subscription for the SOC Prime Platform for sharing analytical content. The subscription enabled us to significantly decrease workload of the department employees for creating the analytical content, and put their efforts into investigation of the detected incidents. New valid use cases and detection queries are continuously added to TDM, which gives us an opportunity to minimize time for detection and mitigation of threats.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+<50M USD
+ROLE
+Other CxO
+TDM help us being on top of new CVEs
+Sep 8, 2020
+
+Experience with TDM has been good so far. It is helping us improve our monitoring and detection capabilities by providing already built use cases that would take time for our internal team to develop.
+
+READ MORE
+INDUSTRY
+Retail
+FIRM SIZE
+30B + USD
+ROLE
+Analyst
+Great product, great exclusive content
+Jun 5, 2020
+
+We bought SOC Prime as we were struggling to maintain our rule sets which putting our company at risk. Since subscribing to the SOC Prime Platform we are able to continuously update our security content without increasing resources. SOC Prime is now a critical part of our security infrastructure and increasing the venue from existing SIEM investments.
+
+READ MORE
+INDUSTRY
+Communications
+FIRM SIZE
+Gov't/PS/ED 5,000 - 50,000 Employees
+ROLE
+Security and Risk Management
+Good Product and Services
+Oct 10, 2020
+
+Good Product and Services, SOC Prime Threat Detection Management always has up-to-date content for the latest attack tactic and techniques which is useful for all our customers for detect, prevent and analysis.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+<50M USD
+ROLE
+Consultant
+Great company to work with
+Jul 6, 2020
+
+SOC Prime have worked with us to ensure we are making as much use of the TDM platform as possible. They have taken multiple feature requests and added them into their development pipeline.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+<50M USD
+ROLE
+Analyst
+SOC service improvements
+Sep 3, 2020
+
+A solution service that made a Security operations live easier, buy the time investing and knowledge and focus more on the operations and service improvements, and waste les time.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+500M - 1B USD
+ROLE
+Security and Risk Management
+Easy to use platform for threat hunters
+Jul 15, 2020
+
+TDM is really easy to use. I like the filtration of content, it's really easy to find what's needed from the dozens of rules. What is more helpful for us in day-to-day work - mapping to the MITRE ATT&CK framework that halps in uncovering the latest threats.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+50M - 250M USD
+ROLE
+Security and Risk Management
+A good support in our project of migration from one SIEM to another.
+Sep 16, 2020
+
+At organisation, we are in the process of migrating from one SIEM technology to another one. This was an opportunity to review the use case library and to develop them following well-known framework such as MITRE ATT&CK. Using SOC Prime Platform helps to quickly identify use cases related to the technologies to monitor and the tactics, techniques and procedures of the attackers. TDM helps us to make more effective security monitoring rules, to port them to the new platform and eventually to reduce the time to prod of the use cases.
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+<50M USD
+ROLE
+Analyst
+Review
+Jul 1, 2020
+
+The content is very good and regularly updated and really effective in detecting advanced threats, it become a crucial part of our day to day operations
+
+READ MORE
+INDUSTRY
+Services
+FIRM SIZE
+50M - 250M USD
+ROLE
+Consultant
+SOC Prime Review For A Global Financial Services Corporation
+Sep 10, 2020
+
+SOC Prime has proved to be a very useful purchase for our content development team over the past year. TDM always has up-to-date content for the latest attack tactic and techniques. TDM has also enabled our organization to map our detections to the MITRE ATT&CK framework. TDM has also saved our content development team many hours of work.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+30B + USD
+ROLE
+Security and Risk Management
+TDM success story
+May 24, 2020
+
+We have been using TDM for 2 years. The company provides a great service, qualified support and personal approach. Before choosing TDM, we were actually looking for a solution to cover our security content needs and improve detection capabilities. TDM has covered these needs and moreover saved time to our SOC team. For the past year they became even better and more mature in content quality and quantity. I think they can improve even more by adding some industry specific content, but still it's a good value for money anyway.
+
+READ MORE
+INDUSTRY
+Manufacturing
+FIRM SIZE
+3B-10B USD
+ROLE
+Security and Risk Management
+Great content, needs verification and QA
+Apr 16, 2020
+
+The company has very knowledgable staff and the TDM platform provides a plethora of great threat definitions and IOCs. I think SOC prime could do better from a QA standpoint as many of the rules don't work out of the box and require some fine tuning.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+50M - 250M USD
+ROLE
+Security and Risk Management
+Good, innovation and flexible company
+May 18, 2020
+
+Aiming to gain the maximum of the Information Security department, the Bank reached out to SOC Prime for consulting and finally bought a subscription for the SOC Prime Platform for sharing analytical content. The subscription enabled us to significantly decrease workload of the department employees for creating the analytical content, and put their efforts into investigation of the detected incidents. New valid use cases and detection queries are continuously added to TDM, which gives us an opportunity to minimize time for detection and mitigation of threats.
+
+READ MORE
+INDUSTRY
+Finance
+FIRM SIZE
+<50M USD
+ROLE
+Other CxO
+TDM help us being on top of new CVEs
+Sep 8, 2020
+
+Experience with TDM has been good so far. It is helping us improve our monitoring and detection capabilities by providing already built use cases that would take time for our internal team to develop.
+
+READ MORE
+INDUSTRY
+Retail
+FIRM SIZE
+30B + USD
+ROLE
+Analyst
+Great product, great exclusive content
+Jun 5, 2020
+
+We bought SOC Prime as we were struggling to maintain our rule sets which putting our company at risk. Since subscribing to the SOC Prime Platform we are able to continuously update our security content without increasing resources. SOC Prime is now a critical part of our security infrastructure and increasing the venue from existing SIEM investments.
+
+READ MORE
+INDUSTRY
+Communications
+FIRM SIZE
+Gov't/PS/ED 5,000 - 50,000 Employees
+ROLE
+Security and Risk Management
+1 of 12 Reviews
+4.9
+Driven by the community feedback and cutting-edge technologies, we bring the best user experience
+12
+Our Detection as Code platform receives independent feedback from security experts worldwide
+83%
+We support and deliver detection and response capabilities to all industries across the globe
+DETECTION AS CODE PLATFORM
+Cross-Platform Language Support
+
+SOC Prime's Detection as Code platform delivers custom use cases tailored to the organization's SIEM and XDR stack and an industry-specific threat profile.
+
+The platform supports on-the-fly translations from generic languages, like Sigma and Yara-L formats, as well as content written in the SIEM-native languages.
+
+PERSONALIZED PROFILE
+Role-Based Platform Experience
+
+SOC Prime delivers a role-based experience with its Detection as Code platform to provide the most relevant threat context for CISOs, SOC Managers, Threat Hunters, Red Team Specialists, SOC Analysts, and other security professionals.
+
+Our AI-powered filtering engine enables streamlined content search according to the pre-configured user profile based on the user’s role and security tool in use.
+
+Professional Role
+Indicate your cybersecurity role to obtain use cases matching your professional needs.
+Security Tool
+Select the platform from the list of SIEM and XDR stack to find detections perfectly fitting your organization’s Data Plane.
+Tailored Content
+Set up your profile for the most personalized platform experience and tailored content search.
+Start Your Cybersecurity Journey
+Create your free SOC Prime Platform account in just a matter of clicks to see the platform in action.
+CREATE YOUR ACCOUNT
+LOG IN
+Privacy Policy
+Cookie Policy
+SOC Prime Platform Terms of Service
+Privacy FAQ
+Copyright © 2025 SOC Prime. All rights reserved

@@ -1,0 +1,62 @@
+Índice
+Novidades
+Contate-nos
+Sobre-nós
+Português
+Dedicado a fornecer soluções globais de pagamento digital.
+———— Tornar os pagamentos mais fáceis.
+Contate-nos
+Configurar e aceitar pagamentos globais.
+Suporte global de pagamento pronto para uso.
+
+Construa rapidamente seu programa de vendas e aceite pagamentos globais. Rico em recursos e pronto para uso, oferece suporte a mais de 130 moedas, 30+ idiomas e 45+ métodos de pagamento. Com vários processadores de pagamento e roteamento inteligente de pagamentos, não é necessário escolher gateways de pagamento e processadores regionais. Um serviço de renovação automática de contas e um mecanismo de tentativas integrado ajudarão a reduzir a perda de clientes e manter fluxos de receita recorrentes desde o início. Com a infraestrutura internacional e segura da Avangate, você não precisa se preocupar com o tratamento de IVA e impostos, riscos e fraudes.
+
+Suporte para mais de 30 idiomas.
+Mais de 45 métodos de pagamento.
+API de Pagamento
+Venda em mais de 100 países a partir de um único ponto.
+Suporte a pagamentos globais com menor risco e menor custo.
+
+Aceite métodos de pagamento convencionais em várias moedas usando simplesmente a API da Avangate, permitindo que você alcance mercados globais e venda para mais de 100 países. Alcance instantaneamente a conformidade com o PCI e o armazenamento seguro de informações de cartão de crédito. E aproveite as APIs de Notificação Instantânea de Pagamento (IPN) e Notificação de Alteração de Licença (LCN) para expandir operações comerciais com menor custo e risco.
+
+POR QUE ESCOLHER A PLATAFORMA DE PAGAMENTO HKP?
+Integração rápida
+
+Fornecemos SDK integrado, teste conjunto profissional e técnico com pessoal especializado.
+
+Taxa de sucesso
+
+Nossas soluções de pagamento inovadoras oferecem as taxas de sucesso de transação mais altas do mercado.
+
+Método de pagamento
+
+Suporte para H5/APLICATIVO, carteira, cartão de débito, cartão de crédito, UPI, banco online e dezenas de outros métodos de pagamento.
+
+24x7 Suporte
+
+Precisa de ajuda em qualquer estágio? Você pode entrar em contato com nossa equipe de suporte, 24x7, à sua disposição.
+
+Os usuários podem pagar usando o método de pagamento de sua preferência.
+
+
+Nós oferecemos suporte a: UPI, Netbank, Paytm, E-WALLET, VISA, EMI, carteira e outros métodos de pagamento para os usuários escolherem.
+
+Nossa missão é garantir a segurança financeira de nossos clientes.
+PCI DSS
+
+HKP está em conformidade com o Padrão de Segurança de Dados da Indústria de Cartões de Pagamento (PCI DSS) 3.2.1 Nível 1. Este é o mais alto nível de avaliação e fornece especificamente um ambiente seguro para pagamentos online com cartão de crédito/débito.
+
+Secure Sockets Layer (SSL)
+
+HKP segue o protocolo Secure Sockets Layer (SSL). Ele criptografará a conexão entre o servidor web e o navegador, garantindo que todos os dados transmitidos pelo servidor web para o navegador permaneçam privados e intocados.
+
+O Padrão de Criptografia Avançada (AES)
+
+HKP segue o Padrão de Criptografia Avançada (AES), o que significa que qualquer dado que você insira é primeiro criptografado. Portanto, é impossível para qualquer pessoa interceptar seus dados.
+
+Parceiro cooperativo
+Pronto para começar?
+
+Transação segura e protegida
+
+Contate-nos

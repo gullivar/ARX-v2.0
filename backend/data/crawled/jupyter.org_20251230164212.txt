@@ -1,0 +1,107 @@
+Try
+Install
+Community
+Documentation
+News
+Social
+Governance
+Security
+About
+Free software, open standards, and web services for interactive computing across all programming languages
+JupyterLab: A Next-Generation Notebook Interface
+
+JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality.
+
+Try it in your browser
+Install JupyterLab
+Jupyter Notebook: The Classic Notebook Interface
+
+The Jupyter Notebook is the original web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience.
+
+Try it in your browser
+Install the Notebook
+Language of choice
+
+Jupyter supports over 40 programming languages, including Python, R, Julia, and Scala.
+
+Share notebooks
+
+Notebooks can be shared with others using email, Dropbox, GitHub and the Jupyter Notebook Viewer.
+
+Interactive output
+
+Your code can produce rich, interactive output: HTML, images, videos, LaTeX, and custom MIME types.
+
+Big data integration
+
+Leverage big data tools, such as Apache Spark, from Python, R, and Scala. Explore that same data with pandas, scikit-learn, ggplot2, and TensorFlow.
+
+A multi-user version of the notebook designed for companies, classrooms and research labs
+
+Pluggable authentication
+
+Manage users and authentication with PAM, OAuth or integrate with your own directory service system.
+
+Centralized deployment
+
+Deploy the Jupyter Notebook to thousands of users in your organization on centralized infrastructure on- or off-site.
+
+Container friendly
+
+Use Docker and Kubernetes to scale your deployment, isolate user processes, and simplify software installation.
+
+Code meets data
+
+Deploy the Notebook next to your data to provide unified software management and data access within your organization.
+
+Learn more about JupyterHub
+Voilà: Share your results
+
+Voilà helps communicate insights by transforming notebooks into secure, stand-alone web applications that you can customize and share.
+
+Try it in your browser
+Install Voilà
+Currently in use at
+Open Standards for Interactive Computing
+
+Project Jupyter promotes open standards that third-party developers can leverage to build customized applications. Think HTML and CSS for interactive computing on the web.
+
+Notebook Document Format
+
+Jupyter Notebooks are an open document format based on JSON. They contain a complete record of the user's sessions and include code, narrative text, equations, and rich output.
+
+Interactive Computing Protocol
+
+The Notebook communicates with computational Kernels using the Interactive Computing Protocol, an open network protocol based on JSON data over ZMQ, and WebSockets.
+
+The Kernel
+
+Kernels are processes that run interactive code in a particular programming language and return output to the user. Kernels also respond to tab completion and introspection requests.
+
+Project Jupyter
+Try
+Install
+Community
+Documentation
+News
+Social
+Governance
+Security
+About
+Subprojects
+Binder
+Jupyter Book
+JupyterHub
+JupyterLab
+Jupyter Notebook
+Voilà
+Widgets
+Follow us
+GitHub
+Mastodon
+BlueSky
+YouTube
+Legal
+Privacy
+
+The Jupyter® and Jupyter Logo® trademarks are registered with the U.S. Patent & Trademark Office by LF Charities. © 2025

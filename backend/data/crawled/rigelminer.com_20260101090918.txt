@@ -1,0 +1,9 @@
+Rigel GPU miner Rigel Home Features Download Support Unleash your GPUs Rigel is an advanced, high-performance mining software optimised for NVIDIA GPUs. Designed
+                            for efficiency, it offers a lightweight yet powerful solution for miners looking to maximise
+                            their profitability. With built-in dual and triple mining capabilities, Rigel allows users
+                            to mine multiple algorithms simultaneously, increasing their revenue. Features Multi-algorithm support Supports popular algorithms including XelisHashV2, Quai, KawPow, and more. GPU tuning Whether it's locking the GPU clocks, applying core or memory offsets, controlling the fan speeds -
+                    Rigel provides you with all the necessary functionality to achieve the best performance. API Integrate Rigel into your mining OS, application, or service using the miner's HTTP JSON API. Reasonable developer fee Maintains a low, transparent fee to support ongoing updates, optimisations, and new features. Cross-Platform Runs smoothly on Windows and Linux, including the majority of specialised mining operating systems,
+                    offering flexibility and stability across different mining
+                    setups. Terminal UI Displays hashrate, power usage, core and memory temperatures, and more for easy monitoring in
+                    real-time. Download Get the latest version of Rigel for your operating system Download for Windows Download for Linux Support For any inquiries, feel free to reach out to our support team through one of the available channels Discord GitHub Bitcoin
+                    Forum © Copyright Rigel . All rights reserved.

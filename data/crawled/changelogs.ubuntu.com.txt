@@ -1,0 +1,18 @@
+Index of /
+	Name	Last modified	Size	Description
+
+
+	EOLReleaseAnnouncement	2021-07-23 17:42	1.6K	 
+	changelogs/	2016-04-13 21:24	-	 
+	last_check.txt	2025-12-18 11:31	13	 
+	lp-extract-changelogs.lock	2020-02-03 23:00	0	 
+	meta-release	2025-10-29 10:47	23K	 
+	meta-release-development	2025-10-17 12:16	2.0K	 
+	meta-release-lts	2025-08-07 14:02	6.2K	 
+	meta-release-lts-development	2025-10-17 12:16	1.4K	 
+	meta-release-lts-proposed	2025-08-07 14:02	6.3K	 
+	meta-release-proposed	2025-10-29 10:47	23K	 
+	meta-release-unit-testing	2024-10-31 11:49	4.0K	 
+	raspi/	2020-04-23 18:23	-	 
+
+Apache/2.4.29 (Ubuntu) Server at changelogs.ubuntu.com Port 80

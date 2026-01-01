@@ -1,0 +1,217 @@
+Skip to main content
+Microsoft
+Azure
+Explore Products Solutions Pricing More
+LearnSupportContact SalesGet started with AzureSign in
+
+Introducing Anthropic's Claude Opus 4.5 in Microsoft Foundry.
+
+Read the blog
+AZURE AT MICROSOFT IGNITE
+Chaos doesn’t scale. Connection does.
+Capture your agentic advantage with Azure—where evolving models, data, and compute can optimize across an open cloud platform. Try Azure free for up to 30 days.
+Get started with Azure
+Explore Microsoft Foundry
+Featured news
+Solutions
+Products and services
+Resources by role
+Customer stories
+Get started with Azure
+Ask Microsoft
+
+Need help finding a product or solution? Try Ask Microsoft.
+
+How can I try Azure?
+How will Microsoft Foundry help my business?
+FEATURED NEWS
+Discover what’s happening on Azure
+Microsoft Ignite is here
+Learn about Azure’s latest cloud and AI innovations and product updates from Microsoft Ignite. Strengthen your skills, build connections, and explore emerging technologies.
+Explore Microsoft Ignite
+Azure news at Microsoft Ignite
+Get a recap of stories from Microsoft Ignite and learn how Azure is the best cloud for AI—helping design, fuel, and operationalize agentic systems that understand your business.
+Read the blog
+Anthropic's Claude in Microsoft Foundry
+Power the next wave of agentic AI with Azure. Build intelligent agents with Claude models in Foundry and integrate reasoning, coding, and analysis directly into your workflows.
+Learn more
+SOLUTIONS
+Find solutions for putting your ideas into action
+Featured solutions
+Cloud migration
+Data transformation
+App development
+AI
+Microsoft Foundry
+The AI application and agent factory: Design, customize, and manage AI apps and agents at scale.
+Create with Foundry
+Watch the video
+SQL Server migration
+Innovate on an adaptive cloud
+Azure application platform
+Azure databases
+Back to tabs
+View all solutions (40+)
+PRODUCTS AND SERVICES
+Explore tools for bringing your vision to life
+Featured
+AI + machine learning
+App development
+Compute
+Databases + analytics
+Hybrid + multicloud
+Azure Copilot
+Simplify deployments and boost productivity with guidance built into Azure.
+Explore the product
+Foundry Agent Service
+Securely design, deploy, and scale AI agents with ease.
+Explore the product
+Azure Migrate
+Simplify Azure migration and modernization with unified platform.
+Explore the product
+Observability in Foundry Control Plane
+Optimize and scale AI apps and agents with end-to-end monitoring, tracing, and evaluation.
+Explore the product
+Azure AI Search
+Build high-impact AI apps with one centralized solution for agentic retrieval-augmented generation (RAG) workflows.
+Explore the product
+Azure DocumentDB
+Discover a fully managed, open-source, and MongoDB-compatible document database for AI-driven apps, offering cross-cloud compatible solutions.
+Explore the product
+Microsoft Fabric
+Unify your teams and data to accelerate AI innovation with a complete data platform. 
+Explore the product
+Back to tabs
+See all products (200+)
+See why Microsoft was named a Leader by Gartner®
+Discover why Microsoft was named a Leader and positioned furthest to the right for Completeness of Vision in the 2024 Magic Quadrant™ for Strategic Cloud Platform Services (SCPS).
+Read the blog
+RESOURCES BY ROLE
+Transform the way you work
+IT professionals
+Developers
+Data analysts
+Business leaders
+Startups
+Students
+Optimize your infrastructure with popular Azure solutions and services.
+Explore migration solutions
+Back to tabs
+Azure global infrastructure
+Go beyond the limits of on-premises datacenters with more regions than any other provider.
+Explore the globe
+CUSTOMER STORIES
+See how customers are innovating with Azure
+View all stories
+previous
+Slide 1
+Slide 1
+Slide 1
+Slide 1
+Slide 1
+Slide 1
+Premier League drives deep fan connection with Microsoft Foundry and Azure Cosmos DB
+The Premier League is forging deep connections with its growing global fanbase, using Azure AI to unify data and personalize experiences.
+Products
+Azure Cosmos DB
+Azure
+Azure Data Factory
+Read the story
+Nasdaq transforms the boardroom experience with AI integration built on Azure
+Nasdaq is transforming board governance with Microsoft Foundry, cutting directors’ reading time and boosting decision speed, accuracy, and compliance.
+Products
+Azure
+Azure Database for PostgreSQL
+Azure Kubernetes Service
+Read the story
+Dentsu democratizes analytics with Fabric, delivering 55% faster data replication
+Dentsu transforms global analytics with Microsoft Fabric, accelerating insights and enabling AI ready decision making.
+Products
+Microsoft Fabric
+Azure
+Power BI
+Read the story
+August AI enriches patient care with AI health companion powered by Microsoft Azure
+August AI is enriching patient care with a healthcare companion on Microsoft Azure that supports 3.5 million customers
+Products
+Linux on Azure
+Azure Database for PostgreSQL
+Azure Container Apps
+Read the story
+Ecolab embraces agentic AI and streamlines root-cause analysis with Azure SRE Agent
+Ecolab is pioneering agentic AI for site reliability operations, streamlining incident response and root-cause analysis with Azure SRE Agent.
+Products
+Azure
+Azure Monitor
+Azure DevOps
+Read the story
+System performance at Apollo Hospitals improves significantly after migrating to Azure
+Apollo Hospitals modernized its core systems with Azure, reducing delays, improving agility, and building a future-ready digital foundation for care.
+Products
+Azure Database for PostgreSQL
+Azure Databricks
+Microsoft Fabric
+Read the story
+Back to SUCCESS STORIES section
+Take the next step
+Choose the Azure account that’s right for you
+Pay as you go or try Azure for free for up to 30 days.
+Get started with Azure
+Connect with a sales specialist
+ 
+Chat with or call a sales specialist for personalized guidance.
+
+Get in Touch
+New to Azure? Learn at your own pace
+Learn cloud computing basics with self-paced modules on Microsoft Learn.
+
+Get Started
+Get the Azure mobile app
+           
+Explore Azure
+What is Azure?
+Get started with Azure
+Global infrastructure
+Datacenter regions
+Trust your cloud
+Azure Essentials
+Customer stories
+Products and pricing
+Products
+Azure pricing
+Free Azure services
+Flexible purchase options
+FinOps on Azure
+Optimize your costs
+Solutions and support
+Solutions
+Resources for accelerating growth
+Solution architectures
+Support
+Azure demo and live Q&A
+Partners
+Software Development Companies
+Microsoft Marketplace
+Find a partner
+Resources
+Documentation
+Blog
+Developer resources
+Students
+Events and Webinars
+Analyst reports, white papers, and e-books
+Videos
+Cloud computing
+What is cloud computing?
+What is multicloud?
+What is machine learning?
+What is deep learning?
+What is AIaaS?
+What are LLMs?
+What is a container?
+What is RAG?
+English (United States)
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap Contact Microsoft Privacy Terms of use Trademarks Safety & eco Recycling About our ads © Microsoft 2025
+Ask Microsoft​

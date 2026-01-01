@@ -1,0 +1,5 @@
+Error 403 - This web app is stopped.
+
+The web app you have attempted to reach is currently stopped and does not accept any requests. Please try to reload the page or visit it again soon.
+
+If you are the web app administrator, please find the common 403 error scenarios and resolution here. For further troubleshooting tools and recommendations, please visit Azure Portal.

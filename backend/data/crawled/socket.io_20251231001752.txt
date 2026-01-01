@@ -1,0 +1,66 @@
+Skip to main content
+Latest blog post (July 25, 2024): npm package provenance.
+Socket.IO
+Docs
+Server API
+Client API
+Ecosystem
+About
+4.x
+English
+Search
+⌘
+K
+Socket.IO
+
+Bidirectional and low-latency communication for every platform
+
+Get startedDocumentation
+Performant
+
+In most cases, the connection will be established with WebSocket, providing a low-overhead communication channel between the server and the client.
+
+Reliable
+
+Rest assured! In case the WebSocket connection is not possible, it will fall back to HTTP long-polling. And if the connection is lost, the client will automatically try to reconnect.
+
+Scalable
+
+Scale to multiple servers and send events to all connected clients with ease.
+
+Basic example
+
+Run this example on Replit / StackBlitz / CodeSandbox
+
+Latest blog posts
+August 22, 2025 - Bun engine
+July 25, 2024 - npm package provenance
+July 12, 2024 - Socket.IO monorepo
+March 29, 2024 - Three new adapters
+January 12, 2024 - Chat platform
+Blog feed: RSS / atom
+Our sponsors
+Become a sponsor
+Documentation
+Guide
+Tutorial
+Examples
+Server API
+Client API
+Help
+Troubleshooting
+Stack Overflow
+GitHub Discussions
+Slack
+News
+Blog
+Twitter
+Tools
+CDN
+Admin UI
+About
+FAQ
+Changelog
+Roadmap
+Become a sponsor
+Copyright © 2025 Socket.IO

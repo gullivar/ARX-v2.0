@@ -1,0 +1,138 @@
+Examples
+Support
+Blog
+Add-ons
+Sign up
+Log in
+Looking for the Instagram widget like this one?
+You are in the right place!
+Try demo
+Sign up
+Features
+Responsive
+
+Widget looks great on desktop, tablet and mobile devices. You can customize settings of the widget for various screen sizes.
+
+Tiny
+
+No bloated libraries inside the widget. Everything is trimmed to minimum.
+
+Fast
+
+Widget loads very fast. We use advanced CDN and caching to optimize loading times.
+
+Official Instagram API
+
+We use the official Instagram API to provide our services - Instagram Graph API.
+
+Links directly to Instagram
+
+We link directly to your Instagram account, not 3rd party pages filled with ads.
+
+Ads free
+
+You will never see any ads in our widgets!
+
+Multiple Instagram accounts
+
+Simple management of multiple Instagram accounts.
+
+Hashtag filtering
+
+If you don't want to show your entire feed, you can show only posts with given hashtags.
+
+3 different type of widgets
+
+You can choose from 3 base types of widgets - grid, slider and masonry.
+
+A lot of customizable options
+
+Each base widget type has many configurable options. Padding, hovers, captions, image formats and much more!
+
+Custom CSS
+
+Not enough options? You can write your own custom CSS to adjust the widget to your needs!
+
+99% of supported websites
+
+If your website support iframes you should be able to install our widget on your page!
+
+Copy and paste installation
+
+Create your widget, copy the code and paste it to your website. No coding skills required:)
+
+Tutorials
+
+Step by step tutorials showing how to install widget in most popular CMS
+
+Support
+
+Having trouble? Let us know! We reply to every support ticket!
+
+Some of our users
+BabymeeModaBebe ®
+
+1M+ followers
+
+Sofia Larios
+
+1M+ followers
+
+OCHALLENGER
+
+2M+ followers
+
+Siggie Cohen✨Parenting Expert
+
+1M+ followers
+
+Judas Priest
+
+1M+ followers
+
+Whitney Cummings
+
+1M+ followers
+
+Widgets in numbers
++300M
+More than 300,000,000 widget views every month
++163k
+Over 163,000 happy users
++67k
+About 67,000 websites displays widgets daily
++100
+Around 100 new widgets every hour
+How to add LightWidget to your website?
+WordPress
+
+How to add LightWidget to WordPress without external plugins?
+
+WordPress tutorial
+Shopify
+
+Add LightWidget to your Shopify website - an easy and quick tutorial.
+
+Shopify tutorial
+Drupal
+
+How to add LightWidget to Drupal? No custom plugin is required.
+
+Drupal tutorial
+More integrations
+
+We have more tutorials for other CMS systems and services!
+
+More integrations
+About LightWidget
+
+LightWidget is a responsive widget for Instagram. You can embed our widgets on your website, blog, online store, etc. You can generate widgets with multiple options like hover effects, captions, padding, square crops, hashtag filtering, and more. Each Instagram widget supports breakpoints so you can adjust how the feed will look on desktop, tablet, and mobile. Please use our generator to create an awesome widget and copy the embed code to your website:)
+
+Examples
+Support
+Blog
+Widget add-ons
+Terms of Service
+Privacy Policy
+Cookies
+© 2025 LightWidget - responsive widget for Instagram

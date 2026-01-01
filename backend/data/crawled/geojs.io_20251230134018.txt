@@ -1,0 +1,112 @@
+Docs
+General
+ChatOps
+Endpoints
+Blog
+App
+Contact
+Open
+Status
+
+Latest news: GeoJS has moved to Hetzner
+
+GeoJS
+Highly available REST/JSON/JSONP IP Geolocation lookup API
+Packed full of features
+HTTPS only
+Multiple formats
+Highly available and geo routed
+IPv4 and IPv6
+No rate limits (yet)
+Cross-origin resource sharing (CORS)
+
+And most importantly, ChatOps integration. Lookup IPs from the comfort of chat.
+
+Getting started is easy!
+
+Checkout the text below, its generated on the fly by GeoJS itself.
+
+Hello 59.15.130.228. The IP you're behind has a country code of KR.
+
+All that from this little snippet:
+
+Hello <span id="user_ip"><span class="icon"><i class="loader"></i></span></span>. The IP you're behind has a country code of <span id="user_countrycode"><span class="icon"><i class="loader"></i></span></span>.
+
+
+<script type="application/javascript">
+function geoip(json){
+var userip      = document.getElementById("user_ip");
+var countrycode = document.getElementById("user_countrycode");
+userip.textContent      = json.ip;
+countrycode.textContent = json.country_code;
+}
+</script>
+<script async src="https://get.geojs.io/v1/ip/geo.js"></script>
+
+
+Documentation
+
+IP
+
+json
+yes
+jsonp
+yes
+text
+yes
+
+Returns the requesting IP in multiple formats
+
+Country
+
+json
+yes
+jsonp
+yes
+text
+yes
+
+Returns the country information about an IP
+
+Geo
+
+json
+yes
+jsonp
+yes
+text
+no
+
+Contains all available geographical information about an IP
+
+PTR
+
+json
+yes
+jsonp
+yes
+text
+yes
+
+Returns PTR (pointer record) information about an IP
+
+Sponsors
+
+GeoJS is powered by the DigitalOcean cloud and Cloudflare network that enables us to cache our heavily dynamic API. Use our referral link to get $100 free credit on DigitalOcean upon signup.
+
+Notes & Acknowledgements
+
+I'd like to thank Telize for inspiring me to create this and MaxMind, as all GeoIP data is sourced from their GeoLite database, available at maxmind.com.
+
+GeoJS is made with  by jloh. I can be found online at my blog, Twitter, GitHub and Keybase.
+
+GeoJS Newsletter
+
+Product updates, releases & announcements. No spam.
+
+One more step before you're added. Check your email for a confirmation link.
+Subscribe
+GeoJS is made with  by jloh
+Sponsored by Digital Ocean, Cloudflare & Micron21
+Terms of Service / Privacy Policy
+Built with Hugo, Bulma & Netlify

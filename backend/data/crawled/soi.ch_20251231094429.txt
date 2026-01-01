@@ -1,0 +1,27 @@
+Swiss Olympiad in Informatics Swiss Olympiad in Informatics Swiss Olympiad in Informatics About News Agenda Team Awarenessteam Partners Contact Train Overview Wiki Workshops Task Archive Ladders Compete Pre-Round Second Round 2025-2026 Rules 2025-2026 Win Medals IOI Videos SOI Photos Login ‹ › ‹ › ‹ › ‹ › Swiss Olympiad in Informatics Contest for high school students in programming and algorithmic problem solving Second Round News Dec 1 Second Round 2025/2026 is over The second round has ended. What's up next? Oct 2 Invitation SOI Workshops Fall 2025 Learn the basics of SOI at the workshops. Sign up now! Oct 1 BOI 2025 Blog Switzerland sent a delegation to the Balkan Olympiad in Informatics 2025 in Udine. Oct 1 Second Round of SOI 2026 The second round of SOI 2026 has started. The tasks are now online! More News Timeline First Round 1 – 26 September 2025 Second Round 1 October – 30 November 2025 Workshops October – November 2025 Training Camp in Sarnen 7 – 14 February 2026 Finals 21/22 March 2026 EGOI in Italy 12 – 18 May 2026 Team Selection 22/23 and 29/30 May 2026 IOI in Uzbekistan 9 – 16 August 2026 First Round The First Round is a 40-minute online quiz with multiple-choice computer science questions. No prior knowledge is required, just sharp logical thinking to figure out answers to algorithmic problems. The First Round is ideal for solving in class; you are invited to ask your teacher about it. In case you do not have the opportunity to participate at your school there will be an option to take part individually. We will provide more details on how to participate as a class or as an individual on our website shortly before the round starts. We are newly introducing the First Round this year, see announcement . Second Round Pick your favourite programming language and solve the tasks of the Second Round online. Tasks for the contest 2026 The Second Round is conducted online.
+Everyone who satisfies the conditions of participations can participate. There are two categories: junior and regular.  If
+you can participate this year and the following two more years, you are eligible for the
+junior round.
+The five tasks are chosen to promote creativity and
+good ideas – prior knowledge in programming and algorithms is useful,
+but not required. Workshops The graph lecture during the workshops. Main page for the workshops The workshops teach you everything you need to know to solve the tasks of the Second Round.
+You’ll learn about C++ and algorithmic problem solving. The workshops can be attended free of charge.
+No matter how much background knowledge you have, you will certainly benefit. Sarnen Camp Group picture in 2023 in Sarnen The Sarnen camp is a week-long training camp for top 16 participants
+from the regular round, the top 8 participants of the junior round and
+some guest countries.  There are lectures, practice tasks and
+training contests, but there is also ample time to meet the other
+participants and have lots of fun. Finals All participants of the Second Round which qualify for the SOI-camp
+also qualify for the Finals.
+Participation at the camp is not mandatory for
+participation in the Finals. The Finals consists of two parts: FP (800pts, practical):
+Two practical exams of 5 hours each. FH (200pts, “homework”):
+solve some full-feedback training tasks starting from December 1st EGOI The Swiss delegation at the EGOI 2022 in Antalya EGOI 2026 The EGOI, the European Girls’ Olympiad in Informatics, is a competition where countries from all over Europe send their best female participants. The first edition was held in 2021 in Zurich. The best four female participants at the Finals of this year’s Swiss Olympiad in Informatics will make up the Swiss team at EGOI. Team Selection The top finalists are invited to the Team Selection in Bern and Zürich.
+Additionally, wild cards can be given, usually there are 12 participants in total.
+At the Team-Selection, the delegations for the IOI and other international contests and training camps are selected. During the Team Selection there are four practical programming contests that are
+held on two times two days in Bern and Zürich.
+We recommend to use the C++ programming language, though Python is also allowed; these two are the only languages allowed at the Team-Selection and at IOI. IOI Two bronze medals for Switzerland at IOI 2019 in Baku IOI 2026 Over 80 nations send their 4 best
+students to compete in the International
+Olympiad in Informatics (IOI). The IOI is
+the most important, but not the only
+international event where the best participants of the SOI can meet, exchange
+and compete with other teenagers. See full agenda for a list of all dates. Follow us Discord Youtube Flickr RSS Science Olympiads Association Astronomy Biology Chemistry Economics Geography Linguistics Mathematics Philosophy Physics Robotics

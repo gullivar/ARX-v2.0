@@ -1,0 +1,87 @@
+
+
+Home
+7z Format
+LZMA SDK
+Download
+FAQ
+Support
+Links
+
+English
+Chinese Simpl.
+Chinese Trad.
+Esperanto
+French
+German
+Japanese
+Portuguese Brazil
+Spanish
+Thai
+Vietnamese
+
+
+7-max
+
+	
+7-Zip
+
+7-Zip is a file archiver with a high compression ratio.
+
+Download 7-Zip 25.01 (2025-08-03) for Windows x64 (64-bit):
+
+Link	Type	Windows	Size
+Download	.exe	64-bit x64	1.6 MB
+
+
+
+Download 7-Zip 25.01 for another Windows platforms (32-bit x86 or ARM64):
+
+Link	Type	Windows	Size
+Download	.exe	32-bit x86	1.3 MB
+Download	.exe	64-bit ARM64	1.5 MB
+License
+
+7-Zip is free software with open source. The most of the code is under the GNU LGPL license. Some parts of the code are under the BSD 3-clause License. Also there is unRAR license restriction for some parts of the code. Read 7-Zip License information.
+
+You can use 7-Zip on any computer, including a computer in a commercial organization. You don't need to register or pay for 7-Zip.
+
+The main features of 7-Zip
+High compression ratio in 7z format with LZMA and LZMA2 compression
+Supported formats:
+Packing / unpacking: 7z, XZ, BZIP2, GZIP, TAR, ZIP and WIM
+Unpacking only: APFS, AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VHDX, VMDK, XAR and Z.
+For ZIP and GZIP formats, 7-Zip provides a compression ratio that is 2-10 % better than the ratio provided by PKZip and WinZip
+Strong AES-256 encryption in 7z and ZIP formats
+Self-extracting capability for 7z format
+Integration with Windows Shell
+Powerful File Manager
+Powerful command line version
+Plugin for FAR Manager
+Localizations for 87 languages
+
+7-Zip works in Windows 11 / 10 / 8 / 7 / Vista / XP / 2022 / 2019 / 2016 / 2012 / 2008 / 2003 / 2000.
+
+On 7-Zip's SourceForge Page you can find a forum, bug reports, and feature request systems.
+
+	
+7-Zip 25.01	2025-08-03
+7-Zip 25.01
+
+
+
+7-Zip 25.00	2025-07-05
+7-Zip 25.00
+
+
+
+7-Zip 24.09	2024-11-29
+7-Zip 24.09
+
+
+
+7-Zip ChangeLog
+History of 7-zip changes
+
+
+Copyright (C) 2025 Igor Pavlov.

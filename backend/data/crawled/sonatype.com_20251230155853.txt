@@ -1,0 +1,216 @@
+___
+
+React2Shell vulnerabilities require immediate attention. Mitigate your risk now.
+
+Learn How
+Sonatype Logo dark
+Platform
+Solutions
+Pricing
+Resources
+Company
+Site Search
+Login
+Contact Us
+Book a Demo
+
+INTRODUCING SONATYPE GUIDE
+
+Real-Time Intelligence for AI Coding Assistants
+
+Put guardrails in place for AI assistants to choose the best components and automate dependency maintenance.
+
+Get Started for Free
+
+NEW
+
+Special Offer Now Available for Nexus Repository Cloud 
+
+READ
+
+Explore Emerging Risks in the Open Source Malware Index, Q3 2025 
+
+REPORT
+
+Sonatype Named Visionary in the 2025 Gartner® Magic Quadrant™ 
+
+OPERATING FROM THE CENTER OF THE OPEN SOURCE COMMUNITY
+
+Automated OSS & AI Governance
+
+Open source and AI have revolutionized software delivery — but as adoption scales, so does dependency sprawl, quality issues, and security risks. Sonatype helps development teams and AI coding agents make the most effective decisions with their open source software and AI, enabling developers to move faster with fewer interruptions, less rework, and safer defaults.
+
+Powered By Unmatched OSS and AI Intelligence
+10
+%
+MORE OPEN SOURCE VULNERABILITIES DISCOVERED THAN ALTERNATIVES
+0.1
+%
+FALSE POSITIVE RATE, SAVING DEVELOPERS TIME
+10X
+FASTER INSIGHTS THAN THE NATIONAL VULNERABILITY DATABASE
+Develop Securely & Efficiently with Open Source and Agentic AI
+
+Integrate automated workflows powered by the best open source and AI components intelligence.
+
+Book a Demo
+
+NEXUS REPOSITORY
+
+Scalable Artifact Management
+
+
+Securely store, manage, and distribute components and AI models.
+
+Learn More
+
+LIFECYCLE
+
+Automated Dependency Management
+
+
+Reduce remediation and rework with leading SCA and policy enforcement.
+
+Learn More
+
+FIREWALL
+
+Open Source Malware Protection
+
+
+Intercept malicious open source and AI models from the perimeter to repository.
+
+Learn More
+
+GUIDE
+
+AI Assistant Dependency Guidance
+
+
+Give AI code assists the context needed to make the best component selections.
+
+Learn More
+
+SBOM MANAGER
+
+Simplified Compliance & Reporting
+
+
+Generate, manage, and share SBOMs to meet compliance demands.
+
+Learn More
+
+MAVEN CENTRAL
+
+Open Source Java Ecosystem
+
+
+Find and download Java components from the world’s largest Java repository.
+
+Learn More
+Results That Matter and Drive Innovation Forward
+
+Unite your team with solutions that enable faster releases, less rework, and more secure builds.
+
+
+
+DevOps
+
+Accelerate release velocity and deliver code 3x faster with Sonatype. Shift left and reduce remediation time with actionable guidance so your team can ship secure code on time and on budget.
+
+Learn More
+about DevOps
+Developers
+Sonatype’s solutions are designed by developers for developers. Choose the best components and AI models from the start and address security concerns quickly with fewer false positives and negatives.
+Learn More
+about Developers
+Application Security
+
+Reduce open source risk with intelligent security solutions and automated policy enforcement. Block malware from entering development and mitigate vulnerabilities quickly with Sonatype.
+
+Learn More
+about Application Security
+Integrate with Your Favorite Tools
+
+Get the power of Sonatype intelligence in the tools you use most. We've got you covered with 50+ supported languages, formats, and integrations.  
+
+See All Integrations
+
+Sonatype Named a Leader in Forrester Wave for SCA Software
+
+Forrester evaluated 10 top SCA providers and named Sonatype a leader with the highest possible scores in the Forrester WaveTM: SCA Software 2024
+
+Read the Full Report
+Sonatype Resources
+
+Explore insights and research from the leader in software supply chain management.
+
+WHITEPAPER
+Gartner® Report: The Future of Application Security
+Download Whitepaper
+WEBINAR
+The Open Letter on Sustainable Stewardship: Why Responsible Open Source Matters
+Watch On Demand
+BLOG POST
+The Last Mile Problem: AI Can Write Code, But Only Policy Can Ship It
+Read More
+
+DEVELOP FASTER WITH LESS RISK
+
+Book a Demo
+PLATFORM
+Nexus One
+Pricing
+Nexus Repository
+Repository Firewall
+Lifecycle
+Guide
+SBOM Manager
+Maven Central
+WHY SONATYPE
+Compare Sonatype
+Open Source Intelligence
+Best SCA Tools
+Best Malware Protection Tools
+Best Artifact Repository Solutions
+Best SBOM Compliance Solutions
+RESOURCES
+Resources Center
+Blog
+Product Tours
+Webinars
+Customer Stories
+Analyst Reports
+Research
+DEVELOPER
+Integrations
+All Day DevOps (ADDO)
+Free Nexus Repo Download
+Sonatype OSS Index
+OSS Component Search
+MCP Server
+Security Advisories
+CUSTOMER RESOURCES
+My Sonatype
+Documentation
+Support
+Training & Workshops
+COMPANY
+About
+Careers
+Partners
+Newsroom
+Contact Us
+X social logo
+LinkedIn social logo
+Facebook social logo
+YouTube social logo
+GitHub social logo
+Terms of Service
+Privacy Policy
+Modern Slavery Statement
+Event Terms and Conditions
+Do Not Sell My Personal Information
+Cookie Preferences
+Trust Center
+Copyright © 2008-present, Sonatype Inc. All rights reserved. Includes the third-party code listed here. Sonatype and Sonatype Nexus are trademarks of Sonatype, Inc. Apache Maven and Maven are trademarks of the Apache Software Foundation. M2Eclipse is a trademark of the Eclipse Foundation. All other trademarks are the property of their respective owners.

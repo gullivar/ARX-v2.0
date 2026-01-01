@@ -1,0 +1,8 @@
+Kakao
+에러 메시지
+잘못된 요청 (KOE002)
+
+정상적인 접근방식으로
+잠시 후 다시 시도해주세요.
+
+Copyright © Kakao Corp. All rights reserved.

@@ -1,0 +1,18 @@
+JSON Schema Store JSON Schema Store JSON Schemas are available for the following {0} files: Auto completion In supported JSON editors like Visual Studio and Visual Studio Code,
+    schema files can offer auto-completion and validation to make sure your JSON document is correct. See a list of editors, validators and other software supporting JSON schemas. Tooltips When a JSON editor supports schemas, tooltips can help inform the user
+    about the various properties and values. Public API The JSON API contains a list of JSON Schema files for known JSON file formats.
+    Each schema file can be used in tooling such as command line validators, editor auto-completion etc. The API exposes metadata about each schema in the following format: {
+  "name": "bower.json",
+  "description": "Bower package description file",
+  "fileMatch": [ "bower.json", ".bower.json" ],
+  "url": "https://www.schemastore.org/bower.json"
+} name , description and url are all required properties. The url property is an absolute URI pointing to the schema.
+    It can be hosted anywhere on the web. The fileMatch property is for specifying what known file names corresponds with
+    the schema. This property is optional since not all JSON formats enforce a specific file name. Supporting editors Various editors and IDEs have direct support for schemas hosted on SchemaStore.org. Android Studio CLion Emacs via eglot IntelliJ IDEA JSONBuddy Neovim via SchemaStore.nvim PhpStorm PyCharm ReSharper Rider RubyMine SublimeText via LSP-json , LSP-yaml Visual Studio Visual Studio Code ( YAML , TOML , JSON ) Visual Studio for Mac WebStorm Any schema on SchemaStore.org will automatically be synchronized to the supporting editors. Sponsorships ♡ Over 1 TB of JSON Schema files are served each day from SchemaStore.org. It's a big effort to maintain
+    and keep running, and it's all done by JSON Schema loving volunteers.
+
+        If your business gets value from SchemaStore.org, please consider sponsoring to keep the project alive and healthy. Premium sponsors: Microsoft JetBrains Your business? Do you build IDEs or editors that integrate with SchemaStore.org, or host a schema for your paying customers, consider a sponsorship. SchemaStore.org sponsorships ♡ Supporting Continuous Integration tools CI/CD applications can detect all JSON and YAML files and validate them if a matching schema is found on SchemaStore.org MegaLinter Contribute The goal of this API is to include schemas for all commonly
+        known JSON file formats. To do that we encourage contributions in terms of new schemas,
+        modifications and test files. SchemaStore.org is owned by the community, and we have a history of accepting most pull requests.
+        Even if you're new to JSON Schemas, please submit new schemas anyway. We have many contributors that
+        will help turn the schemas into perfection. Open source on GitHub

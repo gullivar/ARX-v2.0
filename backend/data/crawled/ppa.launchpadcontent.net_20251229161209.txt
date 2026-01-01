@@ -1,0 +1,96 @@
+Log in / Register
+Search
+Search
+48,281 projects, 2,083,665 bugs, 1,009,365 branches, 105,841 Git repositories, 3,175,818 translations, 820,872 answers, 76,299 blueprints, and counting...
+Launchpad
+A software collaboration platform that provides
+Bug tracking
+
+One place to track bugs across project boundaries and tools
+
+Code hosting using Git
+
+Easy for anyone to get your project's code using Git
+
+Code reviews
+
+Full control of who can land code in your project remains with you
+
+Ubuntu package building and hosting
+
+Publishing your software is simple with Personal Package Archives
+
+Crowd source translations
+
+Build an open community to translate your software into almost any language
+
+Mailing lists
+
+Find and work with the right people by building a social network of individuals and teams around projects
+
+Answer tracking and FAQs
+
+Free software thrives on people helping each other when the unexpected happens
+
+Specification tracking
+
+Track ideas and chunks of work as “blueprints”
+
+Get started
+Learn more about Launchpad in the user guide. If you're ready, you can:
+Create an account
+Take the tour
+Find answers
+Featured projects
+Beautiful Soup
+
+A program designed for screen-scraping HTML. The discussion group is at: http://groups.google.com...
+
+Inkscape
+
+Inkscape is an SVG-based graphics editor featuring alpha blending, node editing, SVG to PNG exp...
+
+Launchpad itself
+
+Launchpad is a set of Web services to help software developers collaborate.
+
+launchpadlib
+
+Python client library for Launchpad's web service
+
+OpenMW
+
+OpenMW is an attempt to reimplement the popular role playing game Morrowind. It aims to be a full...
+
+OpenShot Video Editor
+
+OpenShot Video Editor is a free, open-source, non-linear video editor. It can create and edit vid...
+
+OpenStack
+
+The OpenStack Open Source Cloud Mission: to produce the ubiquitous Open Source Cloud Computing pl...
+
+txpkgupload
+
+Package upload server used by Launchpad.
+
+Ubuntu
+
+Ubuntu is a complete Linux-based operating system, freely available with both community and profe...
+
+Browse all 48281 projects!
+Recent Launchpad blog posts
+Read the blog
+Introducing Webhooks for Package Uploads in PPAs – 01 Dec 2025
+We have extended our webhooks capabilities to be able to trigger webhooks on successful and unsuccessful package uploads to Personal Package Archives (PPAs). When a new source package is uploaded to one of your PPAs, the system can now send an instant webhook notification to an endpoint you control. This will make it easier to […]
+Phasing out Bazaar code hosting – 06 Jun 2025
+What is Bazaar code hosting? Bazaar is a distributed revision control system, originally developed by Canonical. It provides similar functionality compared to the now dominant Git. Bazaar code hosting is an offering from Launchpad to both provide a Bazaar backend for hosting code, but also a web frontend for browsing the code. The frontend is […]
+Introducing Launchpad Bug Templates – 03 Dec 2024
+The new feature bug templates in Launchpad aims to streamline the bug reporting process, making it more efficient for both users and project maintainers. In the past, Launchpad provided only a basic description field for filling bug reports. This often led to incomplete or vague submissions, as users may not include essential details or steps […]
+Launchpad’s new homepage – 01 Mar 2024
+Launchpad’s new homepage Launchpad has been around for a while, and its frontpage has remained untouched for a few years now. If you go into launchpad.net, you’ll notice it looks quite different from what it has looked like for the past 10 years – it has been updated! The goal was to modernize it while […]
+Launchpad-linked federated Matrix accounts – 22 Jan 2024
+Users can now add their Matrix accounts to their profile in Launchpad, as requested by Canonical’s Community team. We also took the chance to slightly rework the frontend and how we display social accounts in the user profiles. Instead of having different sections in the profile for each social account , all social accounts are […]
+Self-service riscv64 builds – 22 Nov 2023
+Launchpad has supported building for riscv64 for a while, since it was a requirement to get Ubuntu’s riscv64 port going. We don’t actually have riscv64 hardware in our datacentre, since we’d need server-class hardware with the hypervisor extension and that’s still in its infancy; instead, we do full-system emulation of riscv64 on beefy amd64 hardware […]
+© 2004 Canonical Ltd.  •  Terms of use  •  Data privacy  •  Contact Launchpad Support  •  Blog  •  Careers  •  System status  •  99c00f5 (Get the code!)

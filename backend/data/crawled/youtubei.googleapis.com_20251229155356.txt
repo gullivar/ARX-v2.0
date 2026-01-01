@@ -1,0 +1,3 @@
+405. That’s an error.
+
+The request method GET is inappropriate for the URL /. That’s all we know.

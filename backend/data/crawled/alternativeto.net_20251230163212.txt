@@ -1,0 +1,649 @@
+NEW APP RELEASES
+|
+BROWSE ALL APPS
+|
+TECH NEWS
+|
+LISTS
+Sign In
+134,149 Apps & Software Alternatives - Ranked by 1,987,227 User Opinions
+
+AlternativeTo is a crowd-sourced and free site that helps you find better apps and services. Sign up and help others find great apps!
+
+GOG.COM
+  |  
+ALTERNATIVES
+   
+YESTERDAY
+   
+GOG announces its separation from CD Projekt as co-founder Kiciński acquires the platform
+TOM CLANCY'S RA...
+  |  
+ALTERNATIVES
+   
+YESTERDAY
+   
+Massive Rainbow Six Siege exploit floods players with billions of credits and ban waves
+FILES
+   
+YESTERDAY
+   
+Files v4.0.24 adds PowerToys Peek support, tag search operators, and more UI tweaks
+FISH
+   
+YESTERDAY
+   
+fish 4.3 released with smarter theming, easier configuration, improved completion and more
+LAWNCHAIR
+   
+YESTERDAY
+   
+Lawnchair 15 Beta 2 adds home screen infinite scrolling, new search provider, and more
+PROXYMAN
+   
+YESTERDAY
+   
+Proxyman 6.3 adds HTTP/2 support, localhost traffic capture, XML prettify, and more
+More tech news  
+New App Releases
+MacThrottle
+ Like
+
+Menu bar app to know when your Mac is thermal throttling.
+
+System Information Utility
+Free • Open Source
+Mac
+Alternative to  
+SpeedFan
+and
+Stats
+OpenWispr
+ Like
+
+Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
+
+Audio Transcription Tool
+Freemium • Open Source
+Mac
+Windows
+Linux
+Self-Hosted
+Alternative to  
+Vibe Transcribe
+PortalBox
+ Like
+
+A macOS screen sharing app that lets you share any region of your screen in Zoom, Google Meet, Teams, and more. Draw a box, get a live preview window, and share only what you want.
+
+Remote Desktop Tool
+Paid • Proprietary
+Mac
+Homebrew
+Alternative to  
+DeskPad
+and
+screego
+TypeLouder
+ Like
+
+Adds mechanical keyboard click sounds to Mac keystrokes, with adjustable volume, real-time feedback, speaker or headphone support, and full offline privacy.
+
+Keyboard Sound Emulator
+Paid • Proprietary
+Mac
+Alternative to  
+Thock
+and
+MechvibesDX
+bknd.io
+ Like
+
+Lightweight visual backend with modular architecture for databases, authentication, media and workflows, compatible with modern frameworks and runtimes, self-hostable.
+
+Backend as a Service
+Free • Open Source
+Online
+Self-Hosted
+Alternative to  
+TrailBase
+and
+Supabase
+Mole
+ 2 likes
+
+Open source Mac command line tool for disk cleanup, application uninstallation, disk usage analysis, optimization, and real-time system health monitoring.
+
+System Cleaner
+Free • Open Source
+Mac
+Alternative to  
+BleachBit
+and
+CCleaner
+Let It Snow
+ 1 like
+
+Creates realistic animated snowfall on Mac desktops with ultra-low CPU and memory use, seamless multi-monitor support, per-display settings, and full customization.
+
+Desktop Customization Tool
+Free • Proprietary
+Mac
+Alternative to  
+Festivitas
+and
+Xsnow
+More new app releases  
+Interesting New Alternatives
+Proton Sheets
+Alternative to 
+LibreOffice - Calc
+
+End-to-end encrypted online spreadsheets enabling secure, real-time collaboration, access management, automatic calculations, and cross-device sharing for team data analysis.
+
+Google Antigravity
+Alternative to 
+Visual Studio Code
+
+Google Antigravity is an agentic IDE and coding environment designed to support real world software projects through autonomous development workflows. It provides an agent first workspace where developers set direction while AI agents carry out tasks such as coding, debugging...
+
+Code Wiki
+Alternative to 
+DevDocs
+and
+Zeal
+
+AI-generated code documentation which stays in sync with repository changes, provides instant diagrams, deep dives into logic, natural language queries, and automatic updates.
+
+People are looking for alternatives to...
+Netflix
+Video Streaming • Paid
+Spotify
+Music Streaming • Freemium
+Adobe Photoshop
+Image Editor • Paid
+Crunchyroll
+Video Streaming • Freemium
+Microsoft Word
+Word Processor • Paid
+ChatGPT
+AI Chatbot • Freemium
+YouTube
+Video Sharing • Freemium
+CapCut
+Video Editor • Freemium
+Adobe Premiere Pro
+Video Editor • Paid
+Canva
+Image Editor • Freemium
+Adobe Acrobat Reader
+PDF Reader • Freemium
+Autodesk AutoCAD
+CAD • Paid
+Prime Video
+Video Streaming • Paid
+Adobe Lightroom
+Photo Manager • Paid
+Microsoft Excel
+Spreadsheet • Paid
+Adobe Illustrator
+Vector Graphic • Paid
+More Tech News
+ZETTLR
+   
+DEC 27, 2025
+   
+Zettlr 4.0 launches with new table editor, in-app PDF/image viewer & big workflow upgrades
+GMAIL
+   
+DEC 27, 2025
+   
+Google will lets users change their primary Gmail address without making a new account
+KITSHN
+   
+DEC 26, 2025
+   
+kitshn 2.0 released with Tandoor v2 support, Material 3 Expressive UI, and social import
+RUBY
+   
+DEC 26, 2025
+   
+Ruby 4.0 released with Ruby Box isolation, ZJIT compiler, Ractor improvements, and more
+PINTA
+   
+DEC 26, 2025
+   
+Pinta 3.1 brings Axonometric grid, new Cells effects, canvas performance boost, and more
+BOOKSTACK
+   
+DEC 26, 2025
+   
+BookStack 25.12 adds user mentions in comments, content URL history system, and much more
+PARROT SECURITY...
+   
+DEC 26, 2025
+   
+Parrot 7.0 brings KDE Plasma 6, Wayland support, new security tools, and RISC-V support
+CHATGPT
+   
+DEC 24, 2025
+   
+OpenAI launches yet another annual recap for ChatGPT, inspired by Spotify Wrapped
+More tech news  
+Crew Picks
+Delta Chat
+ 56 likes
+
+Chat over e-mail. Modern but Retro, Decentralized and Open. Privacy by Design.
+
+Instant Messenger
+Free • Open Source
+Mac
+Windows
+Linux
+Android
+iPhone
+Android Tablet
+iPad
+Snapcraft
+Flathub
+F-Droid
+Alternative to  
+Signal
+and
+Telegram
+Tasks.org
+ 91 likes
+
+Tasks is libre open-source software, based on the original source code from the popular Astrid Tasks & To Do List! Tasks is easy-to-use, feature-packed, flexible and customizable, and synchronizes with a variety of services.
+
+Todo List Manager
+Freemium • Open Source
+Android
+Android Tablet
+F-Droid
+Alternative to  
+Todoist
+and
+TickTick
+4.7
+Excellent
+13 reviews
+Infuse
+ 49 likes
+
+Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, and Apple TV. No need to convert files! Infuse is optimized for iOS 12, with powerful streaming options, trakt sync, and unmatched AirPlay & subtitle support.
+
+Media Center
+Freemium • Proprietary
+Mac
+iPhone
+iPad
+Apple TV
+visionOS
+Alternative to  
+Kodi
+and
+Jellyfin
+Linkwarden
+ 41 likes
+
+Collect, organize, and preserve webpages featuring seamless collaboration.
+
+Bookmark Manager
+Freemium • Open Source
+Online
+Android
+iPhone
+Android Tablet
+iPad
+Self-Hosted
+Google Chrome
+Cloudron
+Docker
+Mozilla Firefox
+Alternative to  
+Raindrop.io
+and
+wallabag
+Ghostty
+ 56 likes
+
+Cross-platform terminal emulator combining fast GPU acceleration, native UI, and modern features for interactive CLI environments, fully compliant.
+
+Terminal Emulator
+Free • Open Source
+Mac
+Linux
+Nix Package Manager
+Homebrew
+Alternative to  
+Tabby
+and
+Termux
+Pinokio
+ 21 likes
+
+Pinokio is a browser that lets you install, run, and programmatically control ANY application, automatically.
+
+Free • Open Source
+Mac
+Windows
+Linux
+Alternative to  
+GPT4ALL
+and
+Jan.ai
+More crew picks  
+Most Viewed Apps
+Netflix
+Video Streaming • Paid
+Spotify
+Music Streaming • Freemium
+Adobe Photoshop
+Image Editor • Paid
+Stremio
+Video Streaming • Free / Open Source
+ChatGPT
+AI Chatbot • Freemium
+YouTube
+Video Sharing • Freemium
+Neocities
+Website Builder • Freemium / Open Source
+CapCut
+Video Editor • Freemium
+Microsoft Word
+Word Processor • Paid
+FL Studio
+Music Production • Paid
+Mozilla Firefox
+Web Browser • Free / Open Source
+Crunchyroll
+Video Streaming • Freemium
+draw.io
+Diagram Editor • Free
+Rufus
+Bootable USB Creator • Free / Open Source
+Autodesk AutoCAD
+CAD • Paid
+Prime Video
+Video Streaming • Paid
+VLC Media Player
+Media Player • Free / Open Source
+Adobe Premiere Pro
+Video Editor • Paid
+Adobe Acrobat Reader
+PDF Reader • Freemium
+Canva
+Image Editor • Freemium
+All most viewed apps  
+Recently updated apps
+Tiny11
+ 4 likes
+
+A lightweight and efficient Windows 11 experience
+
+Operating System
+Free • Proprietary
+Windows
+Alternative to  
+Linux Mint
+and
+Debian
+Standard Notes
+ 681 likes
+
+An end-to-end encrypted note-taking by Proton. Offline access, unlimited sync across devices, tagging, passcode and biometric security, plus advanced premium privacy features.
+
+Note-taking Tool
+Freemium • Open Source
+Mac
+Windows
+Linux
+Online
+Android
+iPhone
+Chrome OS
+Android Tablet
+iPad
+Self-Hosted
+F-Droid
+Alternative to  
+Obsidian
+and
+Joplin
+4.4
+Very Good
+147 reviews
+Fileverse
+ 12 likes
+
+Building the healthy, moisturised internet that cares about privacy by design, not by promise. Start with multiplayer online collaboration on documents and spreadsheets that are E2EE and use Zero-Knowledge proofs.
+
+Team Collaboration Tool
+Free • Open Source
+Online
+Alternative to  
+Nextcloud
+and
+Syncthing
+PhraseExpress
+ 200 likes
+
+Autotext expander organizes reusable texts in folders, inserts phrases by shortcut or abbreviation, syncs across devices, supports macros, and offers clipboard memory.
+
+Text Expander
+Free Personal • Proprietary
+Mac
+Windows
+iPhone
+iPad
+Alternative to  
+espanso
+and
+FastKeys
+3.7
+Good
+23 reviews
+Wavebox
+ 41 likes
+
+Productivity browser built on Chromium with support for multiple isolated logins, unified organization of web apps, tab sleeping, workspaces, sidebar groups, and secure browsing.
+
+Web Browser
+Freemium • Open Source
+Mac
+Windows
+Linux
+Flathub
+Alternative to  
+Mozilla Firefox
+and
+Brave
+Popular App Lists
+11
+De-proton your life
+
+If you've ever heard of de-Googling your life, you're probably familiar with the Swiss alternative Proton. This service is very accessible and therefore very popular for …
+
+List by 
+European_AlternativeTo
+ with 18 apps, updated Dec 11, 2025
+7
+FOSS Privacy & Security Part1
+
+All your FOSS cravings, mainly for Windows.
+
+List by 
+Tybyte
+ with 32 apps, updated Dec 8, 2025
+6
+Europe’s Open-Source Solutions: Your Guide to Transparent, Independent and GDPR-Aligned Software.
+
+This guide is designed for anyone looking to take greater control of their digital life by choosing open-source solutions developed and maintained within Europe. It highlights …
+
+List by 
+EUFOSS9132
+ with 60 apps, updated Dec 2, 2025
+More user lists  
+Recently Discontinued Apps
+Pivotal Tracker
+
+Tracker is a story-based project planning tool from Pivotal Labs that allows teams to collaborate and react to real-world changes instantly. Its based on agile software methods, but can be used on a wide range of projects.
+
+Best alternatives are  
+GitHub
+and
+Trello
+•
+163 alternatives
+Adobe Aero
+
+Adobe Aero is an augmented reality authoring and viewing platform that makes it easier for designers and developers to design and publish interactive immersive experiences in the real world.
+
+Best alternatives are  
+Ordinary Objects
+and
+DEVAR
+•
+5 alternatives
+Bento.me
+
+A Link in bio but rich and beautiful.
+
+Best alternatives are  
+LittleLink
+and
+One Page
+•
+94 alternatives
+FUNCTION12
+
+Get code just copy and paste
+Design-to-code automation solution that converts Figma designs into front-end view code
+
+Best alternatives are  
+Anima
+and
+Dualite
+•
+6 alternatives
+Real Racing
+
+Take on the ultimate racing experience – including Formula 1® - anytime, anywhere! Real cars. Real people. Real motorsports. This is Real Racing 3.
+
+Best alternative is  
+Need for Speed
+•
+28 alternatives
+JetBrains Fleet
+
+A fast and lightweight text editor for when you need to quickly browse and edit your code.
+
+Best alternative is  
+Notepad++
+•
+189 alternatives
+Microsoft Lens
+
+Trims, enhances, and straightens scanned documents or whiteboards, exports to PDF, Word, or PowerPoint, supports text extraction, and saves to cloud storage.
+
+Best alternative is  
+Pocket Scanner
+•
+79 alternatives
+Instander
+
+Instander is a free modification of the Instagram app for Android. It contains many improvements over the original application. Instander has a lot of different improvements that give the user an edge over other Instagram users.
+
+Best alternatives are  
+Cobalt Tools
+and
+Instagram
+•
+33 alternatives
+Seal
+
+Video/Audio Downloader for Android.
+
+Best alternatives are  
+yt-dlp
+and
+youtube-dl
+•
+87 alternatives
+SquirrelDisk
+
+Open Source, Cross-platform Disk Space Analysis Tool
+
+Best alternative is  
+WinDirStat
+•
+89 alternatives
+All recently discontinued apps  
+Top Contributors
+Last Week
+SleipnirTheHorse
+72 points
+soul1472
+61 points
+cz
+city_zen
+44 points
+Creative_joe
+37 points
+jo
+jonigoos
+36 points
+RD
+RDF0909
+34 points
+au
+austinpick222
+34 points
+Last 3 months
+UserPower
+754 points
+K0RR
+516 points
+Nicole Stubbs
+449 points
+Gwrvan Barré
+448 points
+Darlene Sonalder
+410 points
+soul1472
+407 points
+Em
+Emin
+393 points
+All Time
+David
+54367 points
+John Fastman
+25158 points
+Thelle Christensen
+14415 points
+Darlene Sonalder
+14157 points
+OmgItsTheSmartGuy
+12956 points
+Shoji
+12019 points
+tabakis
+10465 points
+More user stats  
+
+AlternativeTo is a free service that helps you find better alternatives to the products you love and hate.
+
+The site is made by Ola and Markus in Sweden, with a lot of help from our friends and colleagues in Italy, Finland, USA, Colombia, Philippines, France and contributors from all over the world. That's right, all the lists of alternatives are crowd-sourced, and that's what makes the data powerful and relevant.
+
+Feel free to send us your questions and feedback at hello@alternativeto.net, on our Discord or on social media.
+
+Follow us on X, Mastodon , Bluesky or Instagram. © 27 Kilobyte AB
+
+Build: Docker_20251220.1 | Version: app-router .
+FAQ
+Privacy Policy
+Cookie Policy
+About AlternativeTo

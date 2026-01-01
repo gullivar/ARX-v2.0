@@ -1,0 +1,134 @@
+Documentation
+Documentation
+Log in
+ CVEdetails.com
+powered by SecurityScorecard
+Vulnerabilities
+By Date By Type Known Exploited Assigners CVSS Scores EPSS Scores Search
+Vulnerable Software
+Vendors Products Version Search
+Vulnerability Intel.
+Newsfeed Open Source Vulns Emerging CVEs Feeds Exploits Advisories Code Repositories Code Changes
+Attack Surface
+My Attack Surface Digital Footprint Discovered Products Detected Vulns IP Search
+Other
+Metasploit Modules CWE Definitions CAPEC Definitions Articles Blog
+New/Updated CVEs
+512 CVEs created, 798 CVEs updated since yesterday
+1291 CVEs created, 1786 CVEs updated in the last 7 days
+5382 CVEs created, 8245 CVEs updated in the last 30 days
+Known exploited vulnerabilities
+Since yesterday
+Last 7 days
+Last 30 days
+0
+1
+20
+Recent EPSS score changes
+>5%
+>10%
+>50%
+27
+11
+1
+Distribution of vulnerabilities by CVSS scores
+CVSS Score Range	Vulnerabilities
+0-1	
+ 
+	2389
+1-2	
+ 
+	132
+2-3	
+ 
+	1104
+3-4	
+ 
+	2581
+4-5	
+ 
+	18128
+5-6	
+ 
+	42391
+6-7	
+ 
+	41232
+7-8	
+ 
+	60164
+8-9	
+ 
+	31278
+9+	
+ 
+	43242
+Total		242641
+Weighted Average CVSS Score: 7.6
+* For CVEs published in the last 10 years
+Vulnerability intelligence and core features
+
+CVEdetails.com offers a complete CVE database enhanced with additional information including advisories, exploits, tools, source code changes and much more.
+
+CVEs in CISA KEV catalog give users quick access to a list of vulnerabilities exploited in the wild.
+
+EPSS scores provides users with a list of vulnerabilities with increased risk.
+
+Set up email alerts for new CVEs or when new exploits are discovered for CVEs. Or create CVE feeds which can be integrated with tools like Slack or Outlook. Or use our APIs to query CVEs, exploits and other data.
+
+Get an overview of your external attack surface, and products/services running on your IPs.
+
+Create your own tech stacks to manage vulnerabilities affecting products you use. Analyze SBOM files and report vulnerabilities affecting dependencies in the SBOM file.
+
+CVEs and CPE information
+CVEdetails.com provides CPE information for most CVEs, even if they are not provided by NVD. Unfortunately NVD is no longer a reliable source of CVE information and CVEdetails.com compansates this issue by automated and manual analysis. Even if NVD was completely shutdown CVEdetails.com can continue providing CVE information with CPEs.
+CVEdetails.com analyzes CVEs even if CPE information is available from CISA Vulnrichment project. Unfortunately CPEs provided by CISA Vulnrichment are not always accurate so we do our own analysis without assuming CPE information provided by CISA Vulnrichment is correct.
+CVEdetails.com selectively analyzes CVEs and focuses on CVEs affecting enterprise software or widely used software. We do not do manual analysis for CVEs related to software from certain sources such as SourceCodester, code-projects, itsourcecode and other less popular sources such as personal github repositories with minimal users.
+The new CVEdetails.com
+
+CVEdetails.com now offers much more than just CVEs! Advisories, exploits, RSS feeds and various other vulnerability intelligence features have been added along with APIs, email alerts, feeds and more.
+
+We want to save our users from Googling for information! We want to make our users more efficient and productive by providing them with easy access to information and the necessary utilities.
+
+We want to become your one-stop shop for anything related to vulnerabilities. Instead of using 20 different tools and 50 web sites, you should only need CVEdetails.
+
+See updates and change log for more information.
+
+Feel free to reach us at admin@cvedetails.com if you have any questions/concerns or feedback.
+
+Why do you need vulnerability intelligence?
+Using a house analogy, your house have many doors and windows, and there will always be burglars and other parties with bad intentions outside.
+
+To secure your house, you first need to know how many windows and doors you have (attack surface), if your doors and windows are secured properly and if they can be opened due to some defects in your locks or similar (vulnerability intelligence).
+
+Existence of burglars in your neighbourhood or whether burglars are targeting specific lock types etc (threat intelligence) won't help much unless you keep your house secure. Even if you track every single known burglar, given the opportunity, some random person, even without prior experience, may break into your house.
+
+We understand that you need to keep up with everything with limited time and resources! We are here to make life easier for you.
+
+About Terms of Use Privacy Policy CVE Help FAQ How it works
+SecurityScorecard
+1140 Avenue of the Americas
+19th Floor
+New York, NY 10036
+info@securityscorecard.io
+United States: (800) 682-1707
+International: +1(646) 809-2166
+Products
+Solutions
+Customers
+Marketplace
+
+Partners
+Resources
+Company
+Trust Portal
+Security Ratings
+Login
+Blog
+Contact
+Careers
+Feedback
+This product uses data from the NVD API but is not endorsed or certified by the NVD. See NVD website for more information. CVE is a registred trademark of the MITRE Corporation and the authoritative source of CVE content is MITRE's CVE web site. CWE is a registred trademark of the MITRE Corporation and the authoritative source of CWE content is MITRE's CWE web site. OVAL is a registered trademark of The MITRE Corporation and the authoritative source of OVAL content is MITRE's OVAL web site.
+This web site uses cookies for managing your session, storing preferences, website analytics and additional purposes described in our privacy policy.
+By using this web site you are agreeing to CVEdetails.com terms of use!
+Accept Close

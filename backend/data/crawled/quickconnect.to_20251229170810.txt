@@ -1,0 +1,10 @@
+Synology uses cookies and Google Analytics to personalize your use of our site. No personal data will be extracted. For more information, please refer to our Cookie Policy.
+OK
+Enter your QuickConnect ID to access your Synology operating system
+How do I start using QuickConnect?
+
+Go to Control Panel > QuickConnect > General and tick Enable QuickConnect.
+
+ Learn more about QuickConnect
+
+Copyright © 2025 Synology Inc. All rights reserved.

@@ -1,0 +1,1 @@
+snapcraft.io store API service - Copyright 2018-2022 Canonical.

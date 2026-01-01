@@ -1,0 +1,489 @@
+HKEX
+News & notices
+Events
+Education
+Contact us
+About
+ Account
+Login or Register
+Dashboard Log out
+ 
+Menu Close
+ 
+Metals  
+ Back Metals home
+Non-ferrous 
+ Back
+All non-ferrous
+Non-ferrous prices discovered on our platforms are used as the global reference price.
+Featured Links
+LME Aluminium
+LME Copper
+LME Zinc
+LME Nickel
+LME Lead
+LME Tin
+LME Aluminium Alloy
+LME NASAAC
+LME Aluminium Premiums
+LME Alumina (Platts)
+LME Aluminium UBC Scrap US (Argus)
+Ferrous 
+ Back
+All ferrous
+Our ferrous contracts are tradable on LMEselect and via the inter-office market out to 15 months.
+Featured Links
+LME Steel Scrap CFR Turkey (Platts)
+LME Steel Rebar FOB Turkey (Platts)
+LME Steel HRC FOB China (Argus)
+LME Steel HRC N.America (Platts)
+LME Steel HRC NW Europe (Argus)
+LME Steel Scrap CFR India (Platts)
+LME Steel Scrap CFR Taiwan (Argus)
+EV 
+ Back
+All EV metals
+Our cash-settled contracts are tradable out to 15 months on LMEselect or the inter-office market.
+Featured Links
+LME Cobalt
+LME Cobalt (Fastmarkets MB)
+LME Molybdenum (Platts)
+LME Lithium Hydroxide CIF (Fastmarkets MB)
+Lithium prices
+Platinum group 
+ Back
+Platinum group
+
+LBMA Platinum and Palladium prices administered via our custom-built electronic auction platform, LMEbullion
+
+Featured Links
+LBMA Platinum
+LBMA Palladium
+ To help build electronic liquidity for LME Cobalt, market participants are encouraged to provide improved two-way pricing on LMEselect during a weekly “liquidity window".
+Trading  
+ Back Trading home
+Access the market 
+ Back
+Access the market
+Whether you are an industrial hedger, physical market trader or prop desk there are, broadly speaking, two ways of accessing our markets.
+Featured Links
+Find a member
+Become a member
+ISVs and connectivity providers
+Incentive programmes
+Fees
+Trading venues 
+ Back
+Trading venues
+The LME provides the market with three transparent and regulated platforms for trading industrial metal contracts.
+Featured Links
+The Ring
+Electronic
+Telephone
+Trading times
+LME systems 
+ Back
+LME systems
+A set of robust systems and technologies underpin trading at the LME.
+Featured Links
+LMEselect
+LMEsmart
+LMEsword
+LMEsource
+LMEmercury
+LME Group service status
+Volatility controls 
+ Back
+Volatility controls
+Featured links
+Volatility controls: price limits and price bands
+Contract types 
+ Back
+Contract types
+Our contracts allow all those along the metal supply chain, as well as investment communities, to hedge against or take on price risk.
+Featured Links
+Futures
+Options
+Trade at settlement
+TAPOS
+Monthly average futures
+HKEX-London Minis
+LMEminis
+Initiatives 
+ Back
+Initiatives
+Find out more about our latest offerings
+Featured links
+Modernising the market
+Strengthening the market
+Sustainability
+LMEpassport
+EV metals
+Sustainable metals premium pricing
+Rulebook and notices 
+ Back
+Rulebook and notices
+The LME Rulebook sets out the rules and regulations of the London Metal Exchange.
+
+
+ Read about the ways we are modernising the market.
+Clearing  
+ Back Clearing home
+How LME Clear works 
+ Back
+How LME Clear works
+LME Clear provides clearing and settlement services for users of the London Metal Exchange on all Ring, electronic and telephone trades.
+Featured links
+Account structure
+Service description
+Products cleared
+Business continuity
+Technology
+Fees
+Collateral management 
+ Back
+Collateral management
+Members can associate any permutation of Standard Settlement Instructions (SSI)s to position accounts within the Clearing System.
+Featured links
+Acceptable collateral
+Triparty member margin collateral
+Haircut methodology
+Secure payment system
+Third party suppliers
+Warrants as collateral
+Risk management 
+ Back
+Risk management
+LME Clear has a robust Risk Management Framework that provides the structure for clear risk policies, processes and internal control mechanisms.
+Featured links
+Credit risk management
+Default management
+Margin parameter files
+Margin information
+SPAN files
+Membership 
+ Back
+Membership
+Find out more about becoming an LME Clear member.
+Featured links
+Become a clearing member
+Clearing members
+Application pack
+Connectivity
+Rules and regulations 
+ Back
+Rules and regulations
+The Rules set out the main rights and obligations of LME Clear and the Members.
+Featured links
+Client information
+Disclosure and transparency
+LME Clear reports 
+ Back
+LME Clear reports
+Member-only and free-to air reports showing cleared volumes, SPAN files, CPMI IOSCO disclosures.
+Featured links
+Daily volumes
+CPMI IOSCO Disclosure
+SPAN files
+Margin parameter files
+ Find out more about London Metal Exchange and LME Clear's two-year action plan to enhance and strengthen their markets.
+Market data  
+ Back Market data at the LME
+Browse market data 
+ Back
+Browse all reports and data
+Access LME market data reports, free of charge.
+Featured links
+3rd Wednesday monthly futures quotes
+Monthly averages
+Monthly overview
+Volumes
+Open interest
+Commitments of traders
+Historical data for cash settled futures
+Warehouse and stock reports
+LME Clear reports
+MiFID II and MiFIR market data
+Purchase market data 
+ Back
+Purchasing market data
+Find out how to access LME market data, directly through the LME or via a licensed distributor.
+How to purchase data
+Connect directly with LMElive
+Connect via a licensed distributor
+Get historical data via the LME portal
+Get LME prices via the XML next day delayed feed
+License market data 
+ Back
+License market data
+Find the LME market data licence that is right for you, connect to licensed distributors, or become a licensed distributor.
+Available market data licences
+Data distribution licence
+Derived data licence
+Usage licence
+Non-display licence
+Financial OTC booking fee
+Natural user policy
+Private investor licence
+Understand market data 
+ Back
+Learn about the LME's reference prices, LME certificates, trading symbols and more with our resources and guides.
+Resources and guides
+LME Official Prices explained
+LME Closing Prices explained
+Market data publication schedule
+Online licensing portal: terms and conditions
+MiFID II and MiFIR market data obligations
+Trading symbols guide
+LME certificates
+Disruption events
+ LMElive is the LME's own data application, providing customers with key LME pricing, information and tools.
+Sustainability and Physical Markets  
+ Back Sustainability and Physical Markets (SPM)
+Brands 
+ Back
+Brands
+All metal delivered into LME-approved storage facilities must be an LME-approved brand.
+Featured Links
+Approved brands
+Chemical composition
+Listing process
+Samplers and assayers
+Responsible sourcing
+LMEpassport 
+ Back
+LMEpassport
+Read all about LMEpassport: the electronic certificates of analysis (CoA) and digital credentials register from the London Metal Exchange.
+Featured links
+Sustainability disclosures on LMEpassport
+LMEpassport portal
+LMEsword 
+ Back
+LMEsword
+The LME operates a secure electronic transfer system for LME warrants called LMEsword.
+Physical market benefits 
+ Back
+Physical market benefits
+We provide the metal community with trusted global reference prices and a market of last resort.
+Featured Links
+Hedging
+Price discovery
+Price convergence
+Prompt-date structure
+Reference pricing
+Sustainability 
+ Back
+Sustainability
+Metals are an essential enabler of a sustainable future, and as global demand for metals increases, so will the expectations on sustainable standards
+Featured links
+LME CBAM emissions reporting
+Corporate commitments
+Sustainability disclosures on LMEpassport
+Sustainability Spotlight
+Responsible sourcing
+Sustainability webinars
+Warehousing 
+ Back
+Warehousing
+The LME approves and licenses a network of warehouses and storage facilities around the world.
+Featured Links
+Warehouse network
+Approved warehouses
+Warehouse reform
+Reporting off-warrant stock
+Warrants
+ Find out more about LMEpassport, a key component of the LME’s drive for a more sustainable future.
+Login or Register
+Dashboard Log out
+HKEX 
+News & notices
+Events
+Education
+Contact us
+About
+Close 
+ Search 
+Featured pages
+Top results
+Show more ({{ resultsCount }} results)
+The LONDON METAL EXCHANGE
+The world centre for industrial metals pricing... hedging... trading.
+Latest from the LME
+Latest Events
+LME Mumbai Forum 2026
+
+Register your interest now for the LME Mumbai Forum 2026, taking place on 28 January 2026. We will explore emerging market trends and provide industry updates with a regional focus.
+
+Stay ahead in 2026 with LME Education
+
+Our 2026 course calendar is now live. Gain hands-on expertise into how the LME operates and learn how to use its contracts to manage price risk confidently. Secure your spot now.
+
+Sign up for the next Dockside Chat
+
+Join us on 12 January 2026 for the latest episode of our steel-focused Dockside Chat webinar, where our panel of industry experts will dive into the latest trends shaping the global steel scrap markets.
+
+Events
+Sign up for the next Dockside Chat
+12 January
+
+Join us on 12 January 2026 for the latest episode of our steel-focused Dockside Chat webinar, where our panel of industry experts will dive into the latest trends shaping the global steel scrap markets.
+
+Events
+LME Mumbai Forum
+28 January
+
+The LME Mumbai Forum brings together industry leaders and key stakeholders from across Asia to explore developments in the regional and global metals markets.
+
+Events
+Hedge Fund Managers’ Meeting London
+05 March
+
+Hosted by Acuiti, the Hedge Fund Managers' Meeting is a closed-door event for senior executives from across derivatives markets to come together to discuss the most pressing issues and challenges currently facing the hedge fund market. The LME is pleased to be sponsoring and speaking at this event.
+
+ View all events
+resources
+The LME employs a published set of rules and regulations which forms the basis of sustaining an orderly market, membership criteria, committees and disciplinary procedures.
+LME Rulebook (PDF) LME Clear Rulebook (PDF)
+Recent member notices and circulars
+ 30/12/25
+25 246 Listing of Warehouse in Hong Kong
+ 30/12/25
+25 245 Rent and FOT Charges 1 April 2026 to 31 March 2027
+ 29/12/25
+25 244 Delisting of Warehouse in Gwangyang
+ 29/12/25
+25 243 Delisting of Warehouse in Los Angeles
+ 23/12/25
+25 242 Listing of Lead Brand Ardee Lead 9997
+See all notices
+The LME is the trading and price-formation venue of choice for industrial metals globally
+ 01 Jan 2026
+Featured non-ferrous last traded 3-month prices, 15 minutes delayed (US$)
+LME Aluminium
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+LME Copper
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+LME Zinc
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+LME Nickel
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+LME Lead
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+LME Tin
+{{ price }} {{ change }} Last price {{ expiryMessage }} {{ expiryDate }}
+Featured non-ferrous 3-month Closing Prices, day-delayed (US$)
+View all non-ferrous metals
+LME Aluminium
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Copper
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Zinc
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Nickel
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Lead
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Tin
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+Featured ferrous month-2 Closing Prices, day-delayed (US$)
+View all ferrous metals
+LME Steel Scrap CFR Turkey (Platts)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Steel Rebar FOB Turkey (Platts)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Steel Scrap CFR Taiwan Argus
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Steel Scrap CFR India (Platts)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Steel HRC FOB China (Argus)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Steel HRC North America (Platts)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME HRC NW Europe (Argus)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+Featured EVs month-2 Closing Prices, day-delayed (US$)
+View all EV metals
+LME Cobalt (Fastmarkets MB)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+LME Lithium Hydroxide CIF (Fast Mkts MB)
+{{ price }} {{ change }} Closing price {{ expiryMessage }} {{ expiryDate }}
+Sustainability
+
+We are committed to both driving and lending support to sustainability initiatives, within our own business and in the wider metals industry.
+
+Find out more about LMEpassport, LME net zero, EVs and more of our sustainability initiatives.
+Sustainability at the LME
+View our responsible sourcing policy and compliance documents, and find out more about our latest reporting statistics
+Responsible sourcing at the LME
+Trading
+
+The prices discovered on our three trading platforms are used as the global reference price and both the metal and investment communities use the LME to transfer or take on risk, 24 hours a day.
+
+Learn more
+Access the market
+Whether you are an industrial hedger, metal merchant or proprietary trading desk, there are broadly speaking two ways of accessing our markets.
+Reports on LME.com
+From average prices and stock movements to warrant banding and the commitment of traders - we publish a number of reports, summarised here.
+Stay up to date
+Register with LME.com
+Get access to LME pricing data and receive our monthly LME newsletter, bringing you the latest news and market insights from the team at the LME.
+Register now
+Metals
+Trading
+Clearing
+Market data
+Sustainability and Physical Markets
+Governance
+LME governance
+LME Clear governance
+Committees
+LME holdings and share structure
+Regulation
+LME Rulebook (Download) 
+LME Clear Rulebook (Download) 
+Guide to market structure (Download) 
+Key compliance notices
+Arbitration
+Benchmark regulation
+Brexit
+Pre-trade transparency
+Rules
+Key information documents
+Responsibility
+Responsible sourcing
+Sustainability
+Diversity and inclusion
+Charity
+Conduct
+Corporate disclosure
+Commitments
+Contact Us
+London
++44 (0)207113 8888
+
+10 Finsbury Square
+London
+EC2A 1AJ
+
+
+
+Singapore
++65 6535 5035
+
+9 Battery Road
+#07-02
+MYP Centre
+Raffles Place
+Singapore
+049910
+
+Register Log in
+Legal
+Privacy statement
+Cookie policy
+Website T&C's
+Modern slavery statement
+Sanctions and tariffs
+Cyber security awareness
+Suspicious websites
+© 2026 The London Metal Exchange - an HKEX Company. All rights reserved.

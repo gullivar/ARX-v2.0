@@ -1,0 +1,149 @@
+Skip to main content
+Main navigation
+Products
+Applications
+Design Resources
+Support
+Sample & Buy
+About
+Search
+Account
+Cart
+Sample Request
+Language
+Log In
+arrow_back_ios_new
+Best-in-Class Wi-Fi 6 MCU for High-Efficiency Always Connected IoT
+
+Achieve secure, ultra-low-power performance with dual-band Wi-Fi 6 and Arm® Cortex®-M33.
+
+Learn More
+Advanced Graphics, Capacitive Touch and Embedded Security for Industrial HMI Designs
+
+Take advantage of RTOS and UI libraries, built-in connectivity support and industrial-grade certifications to create feature-rich platforms.
+
+Learn More
+Cutting-Edge Control Meets Next-Gen Robotics
+
+Innovate with integrated solutions that combine high-performance MCUs, MPUs, motor drivers, power management, and advanced sensing technologies.
+
+Learn More
+Renesas 365 Revolutionizing Systems Design Development
+
+Industry's first solution to streamline system development from silicon selection to system lifecycle management
+
+Learn More
+arrow_forward_ios
+Best-in-Class Wi-Fi 6 MCU for High-Efficiency Always Connected IoT
+Advanced Graphics, Capacitive Touch and Embedded Security for Industrial...
+Cutting-Edge Control Meets Next-Gen Robotics
+Renesas 365 Revolutionizing Systems Design Development
+pause
+Explore our Design Resources
+Software & Tools
+Boards & Kits
+Cross Reference
+Technical Support
+Support Forums
+New Products
+Power Discretes
+REXFET MOSFETs Deliver High-Current, High-Efficiency Power Conversion, and Motor Control
+RL78 Low-Power 8 & 16-Bit MCUs
+Low-Power Automotive MCU with Integrated Touch and Secure Networking
+Programmable Clocks Live Bench Measurement Tool
+Configure, Measure, and Order—All in One Seamless Flow
+Winning Combinations
+
+Delivering comprehensive solutions with analog, power, embedded processing, and connectivity products.
+
+View All Winning Combinations
+Dexterous Hand
+This robotic hand system comes with 6-cylinder control, micro-ROS support, and modular sensor integration.
+Capacitive Touch Remote Controller
+Sleek, buttonless remote controller with touch gestures and Bluetooth for smart home control.
+AI-Enabled Surveillance Camera
+AI-powered surveillance camera with DRP-AI boosts security with 4K imaging and low power.
+News & Updates
+Visit Newsroom
+Dec 23, 2025
+Press Release	Partial Amendment to “Notice Concerning Refinancing of Loans”
+
+Dec 18, 2025
+Blog	Silicon to Software: RoX AI Studio Advances Software-Defined Vehicle Design
+
+Dec 16, 2025
+Press Release	Renesas Fast-Tracks SDV Innovation with R-Car Gen 5 SoC-Based End-to-End Multi-Domain Solution Platform
+
+Dec 10, 2025
+Press Release	Renesas Releases its First Wi-Fi 6 and Wi-Fi/Bluetooth LE Combo MCUs for IoT and Connected Home Applications
+
+Dec 10, 2025
+Blog	Smarter IoT Starts with Wi-Fi 6 Dual Band Adoption
+Driving Corporate Value through Innovation and Sustainability
+
+Renesas’ 2024 Business & Sustainability Report highlights our strategic progress, financial and ESG performance
+
+Read Report
+Events & Webinars
+
+A preview of technology events and webinars
+
+View all events
+View all webinars
+Conference
+Join us at CES 2026 
+Jan 6, 2026 - Jan 9, 2026
+Exhibition
+Join us at Embedded World 
+Mar 10, 2026 - Mar 12, 2026
+Renesas Careers
+
+At Renesas we offer exciting career journeys filled with opportunities to explore the unique aspects that make us stand out as a global leader in semiconductor technology.
+
+Visit our Careers Site
+Back to Top
+Stay Informed
+
+Get the latest news, products, and solutions delivered straight to your inbox.
+
+Sign Up Now
+YouTube
+Renesas’s Twitter/X
+Facebook
+Instagram
+LinkedIn
+Corporate
+Overview
+Careers
+Investors
+News
+Sustainability
+Contact
+Blog
+Videos
+Top Tools
+e² studio
+CS+
+Renesas Flash Programmer
+MCU / MPU Selection Tool
+iSim:PE Offline Simulation Tool
+PowerCompass Multi-Rail Design Tool
+PowerNavigator
+Lab on the Cloud
+Cross-Reference Search
+Sample & Buy
+Technical Support
+Free Sample Request
+Check Product Availability
+Sales and Distributor Directory
+Language
+English
+中文
+日本語
+©2025 Renesas Electronics Corporation.
+Legal footer
+Notices & Terms
+Privacy Policy
+Accessibility
+Sitemap
+Website Feedback

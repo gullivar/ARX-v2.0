@@ -1,0 +1,4 @@
+:-)
+Your Functions 4.0 app is up and running
+Azure Functions is an event-based serverless compute experience to accelerate your development.
+Learn more

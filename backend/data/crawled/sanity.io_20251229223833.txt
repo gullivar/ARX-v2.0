@@ -1,0 +1,336 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.
+Privacy Policy
+PREFERENCES
+ACCEPT ALL
+REJECT NON-ESSENTIAL
+🤖 Is your CMS truly AI-powered? Take the 2-minute test →
+SKIP TO CONTENT
+PRODUCTS
+SOLUTIONS
+RESOURCES
+DOCS
+ENTERPRISE
+PRICING
+LOG IN
+CONTACT SALES
+GET STARTED
+The Content Operating System
+
+Unlock your business with a fully customizable all-code backend for content applications and AI workflows
+
+START BUILDING
+WATCH DEMO
+npm create sanity@latest
+
+TRUSTED BY LEADERS AND INNOVATORS
+
+TRUSTED BY LEADERS AND INNOVATORS
+
+THE CONTENT OPERATING SYSTEM
+Empower devs and creators to deliver faster—at scale with AI
+APPS & SDK
+
+Content applications that enable custom workflows at scale, from creation to distribution.
+
+COMPUTE + AI
+
+Automate anything with functions and agent actions, powering your content operations with AI
+
+CONTENT LAKE
+
+A database optimized for content queries, authoring and delivery.
+
+FULL STACK
+Take control of your content workflows.
+
+Gain full control to build, scale, and ship the content applications your team needs, so they can move faster, collaborate and scale without friction.
+
+SANITY STUDIO
+
+The most flexible Headless CMS
+
+Configure with TypeScript. Customize with React. The feature-rich, real-time content workspace your team needs.
+
+The most flexible Headless CMS
+
+REAL-TIME + VISUAL EDITING
+
+Interactive visual editing
+
+Serve visual drag-and-drop editing as you expect without compromising on content reusability.
+
+Interactive visual editing
+
+CONTENT AGENT
+
+The agent that knows your content
+
+Accelerate your work. Query, audit, edit at scale through natural language. Turn hours of work into minutes.
+
+The agent that knows your content
+
+APP SDK + APIS
+
+Custom apps equals tailored workflows
+
+Create dashboards, tables, and grids or complex apps that power exactly the workflows your team needs.
+
+Custom apps equals tailored workflows
+
+FUNCTIONS + AGENT ACTIONS
+
+Automate your content operations
+
+Deploy serverless functions. Trigger on any content change. Use AI to let your content act—automate, adapt, and transform as you want.
+
+Automate your content operations
+
+CONTENT LAKE + CDN
+
+The database optimized for content
+
+Store content as JSON, from any source, structured your way. Query anything with GROQ. Serve it fast anywhere from a real-time content backend.
+
+The database optimized for content
+Works where you work
+Query, mutate, and render Sanity content with `${your_favorite_framework}`
+
+Next.js
+
+Tanstack Start
+
+React Router
+
+React
+
+Vite
+
+Svelte
+
+Nuxt
+
+Angular
+
+Astro
+
+Remix
+
+Bun
+
+Laravel
+
+.NET
+
+Electron
+
+Hydrogen
+
+Vue
+
+Eleventy
+
+Ember
+
+Express
+
+Fresh
+
+Gatsby
+
+htmx
+
+Typescript
+
+Meteor
+
+Nest
+
+Node
+
+React Native
+
+Redwood
+
+❤ jQuery ❤
+
+Solid
+
+…or whichever one is coming next.
+
+Our JavaScript client uses web standards to run anywhere
+
+…and it comes in other flavors too.
+
+Vercel
+
+Netlify
+
+Cloudflare
+
+Deno Deploy
+
+Forge
+
+Azure
+
+AWS
+
+Google Cloud
+
+deploy content-driven apps and functions anywhere
+
+TEMPLATES
+→
+All templates
+Get started, faster
+NEXT.JS
+Next.js template
+ASTRO
+Astro template
+REMIX
+Remix template
+NUXT
+Nuxt template
+SVELTEKIT
+SvelteKit template
+ANGULAR
+Angular template
+CUSTOMERS
+→
+Read more stories
+Trusted by the most innovative teams
+
+Innovative brands build fast, scalable solutions with Sanity's Content Operating System
+
+There are so many exciting combinations that PUMA can create with Sanity. Now that we have a structure, it’s infinitely scalable.
+
+BETTINA DONMEZ
+E-Commerce Platform Development  @ PUMA
+→
+Read the PUMA story
+
+We use Sanity to power a lot of content across our public website, including the docs and changelog. It works well from an engineering perspective: using the same source for both our public website and in-app updates means we maintain content consistency without duplicating work.
+
+PACO COURSEY
+Webmaster @ Linear
+
+Because our homegrown CMS was supporting the lowest common denominator (email newsletters), if we wanted to create a web version we’d have to create an entirely new version of the content.
+
+EMILY DIAMOND
+SVP, Head of Product
+→
+Read the Morning Brew story
+PUMA
+Morning Brew
+For developers, creators, and product owners
+
+Sanity gives you the power to create, scale, and ship content-driven experiences—your way, without limits.
+
+DEVELOPERS
+
+CONTENT CREATORS
+
+PRODUCT OWNERS
+
+BUSINESS LEADERS
+
+Builders and creators love Sanity
+→
+Read G2 reviews
+
+“Sanity has given us a clean slate and the opportunity to have our content platform match how the entire organization is thinking about content.”
+
+EMILY DIAMOND
+SVP, Head of Product, Morning Brew
+Less talk, more code
+
+Start from scratch with docs, pick up a template, or work through free guided courses.
+
+Templates
+
+Have a Sanity powered app up and running in minutes with best-practice templates.
+
+Docs
+
+Understand core concepts, and explore a variety of resources to help you get the most from Sanity.
+
+Learn: Day One with Sanity
+
+In this course, you'll set up a Sanity Studio from scratch. Create content types, query, and render.
+
+Say goodbye to limitations. Just build it your way.
+
+Start in minutes. It’s free.
+get started now
+get started now
+get started now
+get started now
+get started now
+contact sales
+Join our community on Discord 
+SUBSCRIBE
+ to our newsletter
+PRODUCTS
+Sanity Studio
+Media Library
+Canvas
+Content Agent
+Content Releases
+Insights
+App SDK
+Content Lake
+Live CDN
+Compute
+Agent Actions
+AI Assist
+Use cases
+RESOURCES
+Docs
+Sanity 101
+Sanity Learn
+Tools and plugins
+Frameworks
+Templates
+Schemas and snippets
+Guides
+Headless CMS explained
+Resource library
+Explainers
+Enterprise CMS guides
+Headless CMS Guides
+Enhancing your CMS with AI
+Compare Sanity
+Glossary
+Pricing
+COMPANY
+Contact
+Blog
+Shop
+Events
+Careers
+22
+Changelog
+Customer Stories
+Agency Partners
+Technology Partners
+TRUST AND COMPLIANCE
+Privacy policy
+Terms of service
+Accessibility statement
+Transparency statement
+Security and compliance
+Open Source Pledge
+Cookie preferences
+KEEP IN TOUCH
+
+© SANITY 2025
+
+OSL, NOR (CET)
+
+SFO, USA (PST)
+
+ALL SYSTEMS OPERATIONAL
+Change Site Theme
+LIGHT MODE
+SYSTEM THEME
+DARK MODE

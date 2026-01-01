@@ -1,0 +1,23 @@
+HomeFAQAdd-On
+Please insert a valid YouTube video URL
+MP3
+Convert
+YouTube to MP3 Converter
+
+Our Web-App YTMP3 allows you to convert your favorite YouTube videos to MP3 (audio) or MP4 (video) files and download them for free. By using our Web-App, you accept our Terms of Use.
+
+How to use YTMP3?
+Simply go to YouTube and search for a video you would like to download. Copy the video URL from your browser's address bar. Please note: A valid video URL has the following format: https://www.youtube.com/watch?v=videoId.
+Paste the video URL into our converter above. Then select a download format. You can choose between MP3 (audio) or MP4 (video). If you do not choose a format, the video will be converted to an MP3 file by default. Click the Convert button.
+The conversion will start. Depending on the length of the video, the conversion may take some time. As soon as the conversion is finished successfully, you will be able to download the converted file by clicking the Download button.
+Why should I use YTMP3?
+Free of charge: Our service is completely free and works without any registration or additional software.
+Easy to use: Our Web-App is as simple as possible. All you need to do is paste the video URL into our converter and click the Convert button.
+Multiple format support: You can convert a video to an MP3 (audio) or MP4 (video) file.
+Multi-platform support: YTMP3 is designed to work seamlessly on any modern device, such as computers, mobile phones, and tablets.
+Performance: Unlike other sites, our web app does not use any third-party software. Instead, it is based on self-developed software that is regularly further developed to deliver the best possible performance in the industry.
+Safety: Our Web-App is safe. You can verify its safety at any time using the Google Safe Browsing tool.
+
+Thank you for using our YouTube Converter.
+
+ContactCopyright ClaimsPrivacy PolicyToU

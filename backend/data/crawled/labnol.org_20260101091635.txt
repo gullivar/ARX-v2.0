@@ -1,0 +1,179 @@
+About Topics Contact
+ 
+
+Tech à la carte
+
+Digital Inspiration
+
+Writing on tech, building software tools, since 2004.
+
+“We strive to be independent and unbiased. We do not accept anything of value from brands or from their public relations agencies. We do not make paid endorsements of any kind nor do we produce paid content, ever.”
+
+Amit Agarwal @labnol
+Founder, Digital Inspiration
+
+Digital Inspiration is a tech how-to website written by Google Developer Expert Amit Agarwal. Since its launch in 2004, this site has become a go-to resource for everything related to Google apps. We publish how-to guides and tutorials that make complex technology easy to understand for everyone.
+
+Whether you're automating tasks in Google Sheets, creating custom Gmail routine, crafting no-code workflows or exploring the latest tech trends, our unique Google Apps Script solutions help you work faster and smarter.
+
+Awards & Recognition
+
+Google Developer Expert
+
+Google awarded us the Developer Expert title recogizing our work in Workspace
+
+ProductHunt Golden Kitty
+
+Our Gmail tool won the Lifehack of the Year award at ProductHunt Golden Kitty Awards
+
+Microsoft MVP Alumni
+
+Microsoft awarded us the Most Valuable Professional title for 5 years in a row
+
+Google Cloud Champion
+
+Google awarded us the Champion Innovator award for technical expertise
+
+What's New →
+How to Check for Email Replies in Gmail
+
+Learn how to check if an email has been replied to in Gmail using Google Apps Script.
+
+Google Maps Formulas for Google Sheets
+
+Use Google Maps formulas inside Google Sheets to calculate distances, travel time, get driving directions, look up postal codes with reverse geocoding and more!
+
+How to Easily Find Receipts and Invoices in Gmail
+
+Use this secret Gmail search operator to find all receipts, invoices and purchase history in your Gmail inbox.
+
+Secret Gmail Hack to Find All Bulk Emails in your Inbox
+
+Use this secret Gmail search operator to find all unwanted emails that are either newsletters or promotional emails.
+
+Google Sheets →
+Google Maps Formulas for Google Sheets
+
+Use Google Maps formulas inside Google Sheets to calculate distances, travel time, get driving directions, look up postal codes with reverse geocoding and more!
+
+How to Unsubscribe from Mailing Lists and Newsletters in Gmail
+
+Use Google Script to automatically unsubscribe from email newsletters in Gmail.
+
+How to Import Data from One Google Sheet to Another - Learn with Practical Examples
+
+Learn how to import data from one Google Sheet to another using the IMPORTRANGE and QUERY functions. You can filter data or only import specific rows that meet certain criteria.
+
+How to Automatically Format Google Form Responses in Google Sheets
+
+Learn how to automatically maintain consistent formatting, styles, and date formats when new Google Form responses are added to your Google Sheets.
+
+Google Maps →
+Google Maps Formulas for Google Sheets
+
+Use Google Maps formulas inside Google Sheets to calculate distances, travel time, get driving directions, look up postal codes with reverse geocoding and more!
+
+How to Link Postal Addresses to Google Maps in Google Sheets
+
+Learn how to make postal addresses clickable in Google Sheets with a formula. Create hyperlinks that directly link an addres to Google Maps places.
+
+How to Embed Google Maps in your Website Responsively and Lazily
+
+How to embed Google Maps to your website in a responsive manner with lazy loading. The maps will resize based on the device screen and load only when the user scrolls to the map thus making the page load faster.
+
+Find Public Restrooms Near Your Current Location
+
+Use Google Maps to find public toilets near your current location. All you need to do is type a search query in the search box.
+
+Formulas →
+How to Import Data from One Google Sheet to Another - Learn with Practical Examples
+
+Learn how to import data from one Google Sheet to another using the IMPORTRANGE and QUERY functions. You can filter data or only import specific rows that meet certain criteria.
+
+An Improved SUBSTITUTE Function for Replacing Multiple Values in Google Sheets
+
+The SUBSTITUTE function in Google Sheets lets you find and replace a specific text value in a cell with another value. If you need to replace multiple values in a string with different values, you'll need to nest multiple SUBSTITUTE functions which can be cumbersome.
+
+How to Send Google Forms with Pre-filled Answers
+
+How to pre-fill answers in Google Forms using data from a Google Sheet and send the pre-populated Google Forms as personalized emails.
+
+How to Embed Images from Google Form Responses in Documents
+
+How to use Document Studio to embed uploaded images in generated documents from Google Forms responses.
+
+AI Tools →
+How to Replace Bixby with Google Gemini AI in Samsung Phones
+
+Bixby is the default voice assistant in Samsung Galaxy phones. You can easily replace it with Google Gemini and use the same power button to launch the Google voice assistant.
+
+Chat faster with AI Chatbots from Chrome's Address Bar
+
+Instantly query any AI chatbot directly from Chrome's address bar and save precious time. Type @plex to chat with Perplexity AI or @claude to talk to Claude AI.
+
+Create a Keyboard Shortcut for Apple Intelligence Writing Tools on Mac
+
+The writing tools in Apple Intelligence let you rewrite emails and other text in a more professional or friendly tone. And you can quickly launch the writing tools with a keyboard shortcut on your Mac.
+
+Find Legitimate Emails in your Gmail Spam Folder with AI and Google Script
+
+Use AI to improve spam detection in Gmail and find legitimate emails that were mistakenly marked as spam by Google algorithms.
+
+Explore Topics
+
+Amit Agarwal is a web geek, solo entrepreneur and loves making things on the Internet. Google recently awarded him the Google Developer Expert and Google Cloud Champion title for his work on Google Workspace and Google Apps Script.
+
+  
+Google Workspace Add-ons
+Mail Merge with Attachments
+
+Send personalized email to your contacts with Google Sheets & Gmail
+
+ Install
+ Tutorials
+Document Studio
+
+Create pixel perfect documents from Google Sheets and Google Forms
+
+ Install
+ Tutorials
+Save Emails and Attachments
+
+Download emails and attachments from Gmail to your Google Drive
+
+ Install
+ Tutorials
+Google Forms Email Notifications
+
+Send email to respondents when they submit your Google Forms
+
+ Install
+ Tutorials
+Email Google Spreadsheets
+
+Email entire spreadsheets, selected cell ranges or send dynamic charts on schedule.
+
+ Install
+ Tutorials
+Creator Studio for Google Slides
+
+Turn your Google Slides presentations into animated GIF images and videos
+
+ Install
+ Tutorials
+Want to stay up to date?
+Sign up for our email newsletter.
+Email address  Subscribe
+
+We will never send any spam emails. Promise 🫶🏻
+
+About
+Contact
+Setup
+UPI
+Reverse Search
+Topics
+Sitemap
+   
+
+© 2004 — 2025 Digital Inspiration®   All rights reserved.

@@ -1,0 +1,186 @@
+Features
+Discover
+Pricing
+Blog
+Start creating now
+Where Ideas Become Visual
+Stories.
+
+OpenArt turns imagination into visual stories—from idea to final frame. Make wonders with OpenArt.
+
+Start creating now
+It's free!
+->
+Unlimited Possibility
+Trusted by millions of artists and businesses worldwide
+
+What makes OpenArt different
+Character Vlog
+Music Video
+Explainer Video
+From Scratch
+OpenArt turns your ideas into stunning visuals in minutes.
+
+OpenArt gives you the power to turn any idea into a captivating visual story, within minutes.Whether you're creating viral social media posts, explaining a concept, or building brand content, OpenArt is where ideas become visual stories.
+
+Start creating now ->
+Set things in motion with our photo to video converter
+
+Creating a tutorial? Making a montage? Producing an ad? Make the most out of your photos. Convert an image to video on OpenArt for free and use our intuitive editing tools to make your visual story come alive.
+
+Start video now ->
+Unleash your creativity with boundary-free AI drawing
+
+Break free from the constraints of traditional AI art generators. With OpenArt, using prompts is optional, allowing you to bring your visions to life unrestricted. Interact with our AI on your terms and unleash creativity like never before.
+
+Start creating now ->
+Craft your characters and stories with ease
+
+OpenArt Characters lets you create images of consistent characters from just one image or description. Pose, place, and combine them in any scene for infinite storytelling possibilities.
+
+Create a character now ->
+Edit, iterate, or enhance with advanced AI art tools
+
+Experience the future of image creation with OpenArt's innovative suite of AI-powered tools. From effortless InPainting to precise object removal, our advanced features empower you to achieve stunning transformations in seconds.
+
+Experience our AI editing suite today ->
+Frequently Asked Questions
+What is OpenArt?
+
+OpenArt is an AI-powered art platform where users can create images using pre-built models or by training their own models. A suite of AI tools is provided to enhance the creation of the artwork. We also have an active Discord community where OpenArt Users can connect, engage, share ideas, and collaborate on artistic projects.
+
+What is an AI Art Generator?
+
+An AI art generator like OpenArt leverages state-of-the-art generative AI technologies to convert user-provided textual prompts into exquisite visual artworks. These generators can imitate a wide range of artistic styles by utilizing complex algorithms such as diffusion models. This technology spans from replicating the intricate brushwork found in Renaissance oil paintings to creating dynamic, abstract visuals akin to modern digital art. Users have the opportunity to craft custom images, elaborate illustrations, or detailed digital paintings effortlessly. By simply providing descriptive prompts, they unlock the potential to produce artwork that is both unique and reflective of their personal vision. This process not only democratizes art creation, making it accessible regardless of one's traditional artistic skills, but it also paves the way for innovative expressions in art.
+‍
+
+What plans do you currently offer?
+
+OpenArt offers a variety of plans for users ages 18 and up. Here are our current plans:
+
+‍FREE
+Perfect for the ultimate newbie, this plan is 100% free, with no credit card required! The Free Plan includes up to 4 parallel generations and a daily free credits on the basic models including the newest Stable Diffusion XL model (Image size up to 512 x 512 pixels, up to 25 steps). BONUS: We are currently offering new users a bonus of 20 free credits to explore our premium models, and if you join our Discord community, you'll receive even more additional free credits. (Note: Bonuses are subject to change/withdrawal at any time).
+‍
+‍‍STARTER
+This plan is perfect for the frequent experimenter who wants a deeper dive into the world of AI art. The Starter Plan includes 5,000 credits per month, up to 8 parallel generations, 20+ public models, all community models, 2 fine-tuned models, access to the exclusive premium AI tools (e.g., Creative Upscaler, Sketch to Image), editing with inpainting, Img2Img, ControlNet, 2/4upscale image, face/anime enhancement and more! 
+
+‍HOBBYIST
+Our most popular plan! The Hobbyist is for AI art enthusiasts and regular project makers seeking advanced capabilities. The Hobbyist Plan includes 15,000 credits per month, up to 16 parallel generations, 4 custom fine-tuned models every month, plus everything included in the Starter plan.
+‍
+‍PRO
+Ready to take your art to the Pro level? We've got you covered! Our Pro plan is for dedicated creators and businesses to experience the full power of OpenArt, including a faster generation speed!The Pro Plan includes UNLIMITED credits, up to 32 parallel generations, and 8 new custom fine-tuned models every month, and everything included at the Hobbyist & Starter levels. 
+
+What makes OpenArt different from other AI art generators?
+
+OpenArt stands out from other AI art generators due to its focus on high-quality art creation and comprehensive support for both amateur and professional artists. Unlike many other platforms, OpenArt offers a variety of advanced tools and models that cater to different artistic needs and preferences. These include high-resolution image generation, a wide range of artistic styles and models, ultimate image upscale, AI image editing tools, and the ability to fine-tune models to specific artistic visions. Additionally, OpenArt emphasizes user education through resources like the Prompt Book, Model Training Book, YouTube tutorials, which are designed to enhance user understanding and capabilities in AI-driven art creation.
+
+Can OpenArt help me improve my artistic skills?
+
+Absolutely! OpenArt is designed not only as a tool for creating art but also as a platform for learning and skill development. Users can experiment with various styles and techniques without the need for traditional artistic training, which can accelerate the learning process and inspire creativity. The platform provides detailed feedback on art creation processes, allowing users to refine their techniques and understand art concepts better. Moreover, OpenArt offers community models and collaborative projects on its Discord channel, where users can receive critiques and advice from a community of like-minded artists and AI enthusiasts. This supportive environment fosters both personal growth and artistic improvement.
+
+How does an AI art generator transform my ideas into images?
+
+OpenArt uses advanced AI to interpret your textual prompts and convert them into visual art. This process involves neural networks that have been trained on a diverse dataset, allowing the AI to apply various artistic styles and elements to produce unique artworks.
+
+What are Prompts?
+
+Prompts are highly detailed written instructions that you input into an AI art generator like OpenArt to create your desired artwork. These prompts act as creative commands that guide the AI in generating images, ranging from simple sketches to complex scenes. You can experiment with various artistic styles, from photorealistic drawings to vibrant abstract art, by just describing what you envision.For example, if you're interested in AI-generated images of fantastical landscapes, you might use a prompt like "a snowy mountain landscape under a starry night sky." The AI uses this prompt to understand and visualize the scene in artistic forms. The process is flexible, allowing you to adjust your prompts based on the results, ensuring the artwork aligns closely with your vision.Prompts can be as specific as you need—detailing not just the subject but also the style, mood, and even particular color schemes. This tool is particularly useful for creating digital art, generating unique illustrations, or conceptualizing visuals for projects that require a quick turnaround, such as graphic design, marketing campaigns, and entertainment media.Whether you're a professional artist or a hobbyist, AI art generators empower you to expand your creative boundaries by turning your written ideas into visual realities efficiently and effectively.
+
+View our Prompt Book for details and examples.
+
+How do I create a good prompt?
+
+A well-crafted Prompt uses defined subjects, styles, and detailed descriptions. Doing so will significantly improve the quality of your artwork. Below are a few tips to help you create good Prompts. View our Prompt Book and Prompt Template for even more tips, descriptions, and prompt examples.
+
+Subject and Concept
+‍Clearly define what you aim to create, whether it’s a landscape, portrait, or abstract idea. Be specific and give a strong direction. Example: "An abstract concept of a majestic bald eagle flying over an emerald green sea."
+‍
+‍Style or Theme
+Describe your favorite art style, historical period, or artist. Impressionism: 
+"A red barn with an owl flying in the style of Impressionism, capturing light and color."
+Historical: 
+"A bustling Ancient Rome marketplace in the Baroque period’s architectural style."
+Artist:
+"In Vincent van Gogh's style, a star-filled night over a tranquil village with vibrant colors."
+‍
+‍Composition and Perspective
+Detail the arrangement of elements (foreground, background, central figure) and use perspective (bird’s eye view, worm’s eye view) to enhance the artwork’s depth and angle.Example: "A majestic oak tree as the central figure, with a bustling forest scene in the background and wildflowers in the foreground."
+‍
+‍Atmosphere and Mood
+Describe the mood, time of day, or weather to enhance its emotional tone. Example: "A surreal sunset with clouds melting into a sea of liquid gold."
+‍
+‍Colors and Lighting
+‍Name your desired colors and lighting conditions to set the artwork’s mood and visual impact. Example: "Use warm oranges, yellows, and deep purples for a sunset depiction.
+
+Can I generate images for free using OpenArt?
+
+Yes! OpenArt's Free Plan is 100% risk-free with no cost and no credit card required. Registered users can generate images up to 512 x 512 pixels and up to 25 steps for free on our basic models (OpenArt SDXL, OpenArt Creative, Stable Diffusion XL). As a new member of the Free Plan, you'll also receive a one-time bonus of 20 FREE CREDITS to try any OpenArt premium features and advanced models. Want more? Join our Discord community to earn additional FREE CREDITS. Discord is our hub for artists and AI art enthusiasts. Community participation will enrich your artistic journey through events, contests, brainstorming, and creative discussions. Click here to join Discord.
+
+How Can I Use AI to Generate Art for Free?
+
+OpenArt provides a comprehensive free AI art generator that makes the creation of digital art accessible to everyone, eliminating economic barriers. This platform is particularly beneficial for beginners and enthusiasts, offering basic models that produce artworks with resolutions up to 1024x1024 pixels under its free plan. This setup is perfect for those exploring the potential of AI in art, allowing them to dabble in various styles and media without upfront costs. For those desiring to delve deeper into high-resolution creations or more sophisticated features, OpenArt promotes active community engagement and periodic promotional offers to earn additional credits. These initiatives not only enrich the user experience but also cultivate a sense of community among users, enhancing their connection to the platform. Consequently, OpenArt stands out as an excellent resource for anyone looking to explore the frontiers of AI-generated art, encouraging creativity and exploration across its user base.
+
+Can AI help me convert my photos to art?
+
+Yes, OpenArt includes features that can transform your photos into artworks. By upload your own image under Image Guidance, using styles from famous artists or particular art movements, you can recreate your photo in the style of Impressionism, Baroque, or even in the unique strokes of Van Gogh.You can read more about Image Guidance on our wiki page.
+
+What are the Benefits of Using AI for Drawing and Creating Art?
+
+Utilizing AI for drawing and creating art provides numerous benefits that can transform the creative process across various industries, including digital marketing, animation, video game design, and more. Here are some of the key advantages:Rapid Visualization of Concepts: AI art tools enable swift translation of ideas into visual formats. This is particularly valuable in fields where concept development is crucial and time-sensitive, such as in advertising or game design. Artists and designers can quickly iterate over multiple visual concepts without the need for extensive physical or digital resources typically required in traditional art-making.Accessibility and Ease of Use: AI generators, like OpenArt, lower the barriers to entry for digital art creation. They provide platforms where both novices and professionals can create complex artworks without needing advanced skills in painting or drawing. This inclusivity opens up the art and design field to a broader audience, fostering diversity in creative expression.Experimentation with Diverse Styles: AI art tools offer the flexibility to explore a vast array of artistic styles—from classical to contemporary, from realistic portraits to surreal landscapes. This allows creators to experiment freely, blending different styles or creating entirely new ones without the constraints of traditional mediums.Enhanced Productivity: AI accelerates the art creation process, allowing artists to produce more work in less time. This increased productivity can be a significant advantage for commercial artists who need to meet tight deadlines or manage multiple projects simultaneously.Educational Tool: For educational purposes, AI art generators serve as excellent resources for learning about art techniques, historical styles, and the elements of visual composition. Educators can use these tools to provide students with hands-on experience in art creation, enhancing their understanding of aesthetic principles through practical application.Cost-Effectiveness: By using AI, artists and companies can reduce the costs associated with art production, such as materials, studio space, and even human resources. AI art generators require only a digital platform and minimal computing resources, making high-quality art creation more affordable and financially sustainable.Personalized Art Creation: AI can analyze individual preferences and past interactions to suggest or create personalized artworks that resonate more deeply with the user. This personalized approach can enhance user engagement and satisfaction, particularly in sectors like personalized gifts or bespoke interior design.
+
+Can I create AI-generated fan-art with OpenArt?
+
+Absolutely! OpenArt enables users to create AI-generated fanart by inputting prompts related to their favorite characters, series, or themes from various media, including anime, movies, and comics. For instance, you could enter a prompt such as "anime character in a futuristic cityscape" or "superhero in action in a dramatic comic book style." Our AI uses these prompts to generate unique and visually appealing artworks that capture the essence of the characters and settings you love.The platform supports a wide range of artistic styles, so you can experiment with different looks—whether you want your anime characters in a classic watercolor style, a vibrant pop art look, or even emulating the styles of specific artists. This feature allows fans to see their favorite characters in new and creative ways, expanding the universe of their beloved series through art.Furthermore, OpenArt provides tools that allow for detailed customizations, such as adjusting color schemes, backgrounds, and even the emotions portrayed in the characters' expressions. This level of control ensures that the fanart not only meets but often exceeds the fans’ expectations, making OpenArt a fantastic tool for fanart creators at all skill levels.
+
+How can AI enhance my digital art creation process?
+
+AI can significantly speed up the creative process in 2 ways.First, it can automate the initial stages of art creation. Artists can use AI to generate multiple drafts in different styles quickly, which they can then refine or combine using their artistic skills. Second, OpenArt offer advanced tools like Composition guidance, ControlNet and Sketch to Image where one give OpenArt a draft and get a fully-rendered image within seconds.
+
+My images aren't turning out well. What can I do to improve them?
+
+TIP 1 - Refine your PromptsIf an image isn't what you expected, tweak your Prompts by adding or removing details, changing styles, or putting emphasis on different elements. Simplify your Prompts if your images consistently turn out too complex or cluttered. Conversely, add more details or elements to your prompts if the images are too simple.View our Prompt Book for details and examples. You can also visit our Style Palettes page to for a variety of prompt examples.
+
+TIP 2 - Leverage our editing toolsIf you’re not 100% happy with your AI generated image, you can use our advanced yet easy AI image editing tools to refine the image to exactly you want it to be.
+
+TIP 3 - Explore OpenArt ResourcesSeeing what works for others can inspire your own prompts and help you understand the details that lead to the best results. Explore samples on our Discover page or Prompt Book or our YouTube channel, or join Discord, our interactive community. You can even talk directly to the OpenArt founders! 
+
+Create without limits
+
+Explore the power of AI to bring your ideas to life. Generate, refine, and innovate—your creative journey starts here.
+
+Start creating now It's free!
+Product
+Home
+Create
+Edit
+Discover
+Train model
+AI tools
+AI Image Generator
+Image to video
+Consistent character
+Sketch to image
+Creative Upscale
+Creative variations
+AI QR code
+Resources
+Blog
+Prompt book
+Style palette
+Model training book
+What's new?
+Partners
+MIT AI Film
+Features
+Generators
+Video Generators
+Fan Art
+Image/Video Models
+Creative Partner
+Affiliates Program
+Need Help?
+Email us
+Discord
+Help Center
+FAQ
+© 2025 OpenArt. All rights reserved.

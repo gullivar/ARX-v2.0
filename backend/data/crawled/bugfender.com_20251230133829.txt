@@ -1,0 +1,223 @@
+Skip to content
+Bugfender
+Product
+Pricing
+Docs
+Resources
+Blog
+Login
+Get Started
+App Logging & Bug Monitoring
+
+Catch bugs no one else sees,
+and fix them faster.
+
+Bugfender collects logs, errors, and crashes remotely from every device.
+
+Get started for free
+No credit card required
++35.000 apps trust Bugfender to fix bugs faster
+Monitoring With Bugfender
+
+Secure by Design: Your Customer's Data is Yours
+
+ISO 27001
+
+GDPR
+
+Encryption
+
+Features
+Everything You Need to Fix Issues
+Get, reproduce, and fix client-side bugs faster than ever at any stage of development to deliver better apps.
+Remote Logging
+
+Use Bugfender’s remote logging to pull logs from your mobile and frontend applications wherever they’re being used. Unlike simple server logs or only crash reporting tools, Bugfender captures every issue even the ones that do not cause a crash.
+
+ 24/7 logging, even when your app is working fine.
+ Easy-to-use dashboard to get to the problem faster.
+ Device-centric approach to unify customer logs.
+Learn More
+Error Monitoring
+
+Get real-time alerts for errors, crashes, and exceptions in your apps. Bugfender delivers all the details you need to fix issues, including user steps, logs, stack traces, and device information.
+
+ Crash Stack traces with automatic code symbolication.
+ Error context with logs and user actions.
+ Device information for precise issue diagnostics.
+Learn More
+User Feedback
+
+Collect user feedback from your apps and gain the insights needed to fully understand user issues. Our intuitive tool helps you hear from the people who matter most, your customers. By giving users a voice, you are more likely to retain them and attract new ones.
+
+ Seamless integration to effortlessly gather feedback.
+ Contextual data to fully understand user problems.
+ Drop-in feedback form or customize it to your needs.
+Learn More
+Testimonials
+Our Customers Love Us
+
+Discover what the coding community is saying about Bugfender
+
+Tudor Watson
+
+Frog Yellow
+
+Bugfender is very easy to use and offers great support. It's ability to help find silent bugs is invaluable.
+
+Volodymyt Shevchenko
+
+AppQ
+
+Bugfender allows me to have remote logs, and investigate really rare bugs and fix them.
+
+Roberta Hendricks
+
+Emma
+
+Our code was developed by a third party, we had no insight as to how things worked in the field. After having major problems, we asked them to integrate Bugfender. It was quick to setup and we were instantly able to discover issues and troubleshoot ourselves. Without Bugfender, we'd have been pretty sunk.
+
+Nabyl Bennouri
+
+CARFIT
+
+Bugfender has allowed us to catch issues that we could not find previously while test driving cars.
+
+David Dunham
+
+Six Ages
+
+On many occasions Bugfender enabled me to look into a bug before the QA had even reported it.
+
+Gregordy
+
+Freelancer
+
+I've been searching for an easy-to-use "Logs as a Service" tool for my Ionic app, and Bugfender has been a perfect find! It offers exactly what I needed, plus the bonus of a Cordova plugin alongside Android and iOS SDKs. The docs and UI/UX are straightforward and user-friendly. Huge thanks to the Bugfender team for the fantastic work!
+
+Martin Mitry
+
+eGohm
+
+Bugfender has become an essential part of our development toolkit. Its ease of use, real-time logging, and feedback capabilities greatly simplified our workflow and enhanced user satisfaction.
+
+Prabhakar Thota
+
+Cognizant
+
+To initialize you said it would only take 60 seconds to setup, but damnnnn... it's taken only 20 seconds! Thank you, I love it.
+
+Tudor Watson
+
+Frog Yellow
+
+Bugfender is very easy to use and offers great support. It's ability to help find silent bugs is invaluable.
+
+Volodymyt Shevchenko
+
+AppQ
+
+Bugfender allows me to have remote logs, and investigate really rare bugs and fix them.
+
+Roberta Hendricks
+
+Emma
+
+Our code was developed by a third party, we had no insight as to how things worked in the field. After having major problems, we asked them to integrate Bugfender. It was quick to setup and we were instantly able to discover issues and troubleshoot ourselves. Without Bugfender, we'd have been pretty sunk.
+
+Nabyl Bennouri
+
+CARFIT
+
+Bugfender has allowed us to catch issues that we could not find previously while test driving cars.
+
+David Dunham
+
+Six Ages
+
+On many occasions Bugfender enabled me to look into a bug before the QA had even reported it.
+
+Gregordy
+
+Freelancer
+
+I've been searching for an easy-to-use "Logs as a Service" tool for my Ionic app, and Bugfender has been a perfect find! It offers exactly what I needed, plus the bonus of a Cordova plugin alongside Android and iOS SDKs. The docs and UI/UX are straightforward and user-friendly. Huge thanks to the Bugfender team for the fantastic work!
+
+Martin Mitry
+
+eGohm
+
+Bugfender has become an essential part of our development toolkit. Its ease of use, real-time logging, and feedback capabilities greatly simplified our workflow and enhanced user satisfaction.
+
+Prabhakar Thota
+
+Cognizant
+
+To initialize you said it would only take 60 seconds to setup, but damnnnn... it's taken only 20 seconds! Thank you, I love it.
+
+Easily Start On Our Supported Platforms
+
+It takes less than 5 minutes to install our SDK and get started with Bugfender
+
+Integrate our SDK into iOS, Android, React Native, React, Angular, and other platforms or frameworks and start gathering logs and gaining insights from your apps.
+
+View
+View
+View
+View
+Get started
+View all
+Why Bugfender?
+Bugfender Unique Features
+
+The first logging tool for mobile and frontend developers with integrated error monitoring and user feedback. Discover bugs that other tools cannot find.
+
+Mobile-First SDK
+Device Centric
+Security
+
+Join thousands of developers
+and start fixing bugs faster than ever.
+
+Get started for free
+No credit card required
+Product
+App Remote Logging
+Error Monitoring & Crash Reporting
+In-App User Feedback
+Pricing
+Features
+Device Centric
+Mobile-First SDK
+Security & Compliance
+Integrations
+Platforms
+iOS
+Android
+JavaScript
+React
+Angular
+Flutter
+View All
+Resources
+Blog
+Testimonials
+SDK Documentation
+Knowledge Base
+App Development Guides
+Publications & Other Resources
+Developer Conferences
+Company
+About Bugfender
+Contact Us
+Bugfender White Paper
+Press Kit
+Server Status
+ISO 27001 Certificate
+
+© 2025 Bugfender. All rights reserved.
+
+Security Policy
+Privacy Policy
+Terms of Service
+Legal Notice

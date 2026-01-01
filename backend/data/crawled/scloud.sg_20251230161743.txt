@@ -1,0 +1,145 @@
+DeepSeek R1 Now Available on SCloud Platform
+About
+Products
+Solutions
+Rescouces
+Contact Us
+en
+Log in
+Get Started
+SCloud Autumn Promotion!
+
+Enjoy 10% Discount on all UHost Products for New Customers!
+
+Get Started
+Learn More
+DeepSeek R1 Now Available
+
+The Modelverse model service platform now supports the DeepSeek R1 ‘Full Version’ model, available for a limited time for free.
+
+Learn More
+Global Footprint with Asia Focus
+
+With 18 regions worldwide that are connected by 200+ CDN nodes, to deliver global coverage for specialized regional operations in Asia; from Vietnam, to Thailand, and extending to all over Southeast Asia.
+
+Flexible
+
+For whichever compute type you need, Public, Private, or Hybrid Cloud, we have. We also offer colocation services and customized solutions to best fit your unique business needs.
+
+24/7/365 Support
+
+Our localized Specialists team understands the markets they serve to bring expertise and advise that will harness true business value from your Cloudification journey, together.
+
+Value-Added Service
+
+More than just Cloud Computing, we go the extra mile to make things work for you with our value-added services (VAS). We provide various PaaS, Backup-as-a-service, Disaster recovery-as-a-service, Software-as-a-service and Security-as-a-service.
+
+POWERFUL, COMPREHENSIVE & COST-EFFICIENT
+
+40+ Cloud Products For Enterprise Uses
+COMPUTE
+NETWORK
+VIRTUAL PRIVATE CLOUD
+STORAGE
+DATABASE
+BIG DATA
+CONTENT DELIVERY & MEDIA SERVICES
+SECURITY & COMPLIANCE
+COMMUNICATION & MONITORING
+HYBRID-CLOUD & MIGRATION
+UHost Cloud Compute Instance
+
+SCloud UHost is based on mature cloud computing technology, high-performance infrastructure, high-quality network bandwidth, high-quality data center and other resources. It provides safe and stable, fast deployment, flexible expansion, and convenient management computing unit.
+
+UPHost Physical Host
+
+SCloud UPHost Physical Host provides dedicated physical servers. It provides excellent computing performance to meet the high performance and stability requirements of core application scenarios, and can be flexibly combined with other cloud products.
+
+UK8S Container Cloud
+
+SCloud Container Service for Kubernetes (UK8S) is a Kubernetes-based container management service. You can deploy, manage, and expand your containerized applications on UK8S without worrying about the operation and maintenance of the Kubernetes cluster itself. UK8S is fully compatible with native Kubernetes API, based on SCloud private network, and integrates cloud products such as ULB, UDisk, EIP, VPC, etc.
+
+UHub Public Image Library
+
+UHub is a free public image library service launched by SCloud. UHub allow users to create and manage image libraries freely. The UHub image library is a cross-region architecture, and images that are pushed in one region can be accessed by other regions.
+
+ULightHost
+
+ULightHost is a lightweight cloud server product that provides convenient and efficient cloud construction services for small and medium-sized enterprises and developers.
+
+DEPLOY NOW
+Our Customers
+
+USED BY SOME OF THE WORLD’S FASTEST GROWING ENTERPRISES
+
+Gzone
+
+GAME PUBLISHER WITH OVER 35 TITLES AND 30 MILLION PLAYERS
+
+“Simple to start, and the support rendered made public cloud enjoyable and fuss-free!”
+
+ENABLING BUSINESS ACCESS WORLDWIDE
+
+Our Global Data Centers
+
+spans many availability zones within geographical regions around the world for enhanced speed, reliability and security
+
+200+
+NUMBER OF CDN NODES
+100+
+COLOCATION DC
+3-5 TBPS
+CDN BANDWIDTH
+18
+AVAILABILITY ZONES
+
+FREE ACCOUNT
+
+Ready to get started?
+
+Register an account for free to view our full suite of 40+ public cloud products with pricing calculator. Deploy on your own or feel free to contact us for any form of support in advisory and migration.
+
+Register Account
+Find a Sales Rep
+
+Wondering how our private cloud and other business solutions can benefit your organisation? Hit the button below to get support from our local sales rep.
+
+Contact Us
+Discover SCloud
+
+How is SCloud different from other cloud providers? What is our commitment to you? Where can you find us? Learn about us here!
+
+Learn More
+NEWS-EVENTS
+All
+News
+Promotions
+Save the date: SCloud will be at #VDCA CONFERENCE 25 this October!!!
+2025/10 News
+Autumn Promotion – 10% Discount on All UHost Products!
+2025/09 Promotions
+Celebrate Vietnam's 80th NationalDay with a Major Boost to Your Digital Journey!
+2025/08 Promotions
+SCloud Unlocks Cloud Computing Power at Vietnam ICTCOMM 2025!
+2025/06 News
+Contact Information
+Singapore HQ: 20 Cecil Street, #14-31 Plus Building, Singapore, 049705
+Vietnam Office: Floor 23, E.Town Central, 11 Doan Van Bo, Xom Chieu Ward, HCMC 700000
+enquiry@scloud.sg
+(65) 6991 2602
+Resources
+FAQ
+Documentation
+Articles
+EULA & SLA
+Company
+Career
+Become Partner
+Contact Us
+About Us
+Finance
+Request Invoice
+
+We use cookies to improve our site and your experience. By continuing to browse our site you accept our cookie policy. Find out more
+
+Contact us for free trial & support

@@ -1,0 +1,265 @@
+We have updated our Privacy Policy
+
+This website uses cookies
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.
+
+ 
+
+Show details
+Allow all cookies
+Customize
+Search
+Cart
+Current Currency:
+USD
+English
+Current Language:
+Support
+Free Trial
+Shop
+Go to Shop
+Enterprise
+Go to Enterprise
+Partners
+Go to Partners
+Resources
+Go to Resources
+Company
+Go to Company
+Log In
+Contact Us
+Shop
+Enterprise
+Partners
+Resources
+Company
+Login
+Support
+Free Trial
+Seamless Certificate Lifecycle Management for Your Business
+
+47-day readiness without the chaos. No more outages. Full visibility across all certificates. One single automation platform.
+
+Schedule a Demo
+Learn More
+Go to Learn More
+SSL Automation
+50+ Built-in Integrations
+Machine & Workload Identities
+Certificate Discovery
+Quantum Readiness
+Microsoft AD CS Augmentation
+Need a certificate now?
+
+Sectigo is the largest, most trusted, commercial public CA. Visit our online store or call us at 1-888-266-6361 to get your certificate issued right away.
+
+Domain Validation (DV) SSL
+Go to Domain Validation (DV) SSL
+Organization Validation (OV) SSL
+Go to Organization Validation (OV) SSL
+Extended Validation (EV) SSL
+Go to Extended Validation (EV) SSL
+Compare All SSL Certificates
+Go to Compare All SSL Certificates
+Code Signing
+Go to Code Signing
+Email Security (S/MIME)
+Go to Email Security (S/MIME)
+VMC Certificates
+Go to VMC Certificates
+ACME Automation
+Go to ACME Automation
+Trusted leader in comprehensive CLM solutions
+Item 1 of 10
+Sectigo acquires Entrust public certificate business
+
+This milestone underscores our unwavering commitment to providing innovative and reliable digital security solutions for businesses globally. 
+
+Learn More
+Secure, simple, scalable CLM for customers of all sizes
+
+Sectigo Certificate Manager (SCM) Pro and Enterprise are now available to try for free for 30 days.
+
+SCM Pro
+
+Take control of your DV & OV SSL certificates, ditch the delays, simplify your workloads, and see how fast management can be. SCM Pro is ideal for smaller organizations – or those that have a limited number of certs. 
+
+Discovery of all public certificates
+Unlimited issuance per domain
+Guided step by step workflows
+ACME automation
+Start Your Free Trial
+Learn More
+Go to Learn More
+SCM Enterprise
+
+Modernize and orchestrate digital trust across your enterprise with CA-agnostic automation and premium support when it counts - built for scale, control, and visibility. 
+
+Automate beyond ACME, SCEP, EST, and REST with agent-based deployments
+Manage S/MIME, code signing, private CA and more in a single platform
+Gain full visibility across hybrid, multi-cloud, and legacy systems
+Pre-built automation paths with 50+ technology integrations
+Start Your Free Trial
+Learn More
+Go to Learn More
+SSL certificate lifespans are shrinking
+
+CA/B Forum approved Apple's proposal to reduce TLS/SSL certificates lifespans to 47 days. It's time to automate.
+
+Learn More
+Total economic impact of Sectigo Certificate Manager
+
+Forrester estimates enterprises can achieve 243% ROI and a Net Present Value of $3.9M with Sectigo Certificate Manager.
+
+Download Forrester TEI Study
+2025 State of Crypto Agility Report
+
+98% of enterprises are concerned about shorter SSL/TLS certificate lifespans and fewer than 1 in 5 are prepared for monthly renewals. This report explores the urgent need for crypto agility in the face of shrinking certificate lifespans and the accelerating risk of quantum threats.
+
+Download the 2025 State of Crypto Agility Report
+We keep the lights from going dark
+
+Sectigo’s automated, cloud-native platform gives you complete visibility and control over every digital certificate, no matter where it comes from. We protect your people, devices, and systems while simplifying complexity, reducing costs, and strengthening your resilience.
+
+From avoiding unexpected outages to preparing for the quantum future, organizations of every size rely on Sectigo to stay secure, connected, and always on.
+
+Why Sectigo?
+
+As the industry’s most innovative provider of comprehensive certificate lifecycle management (CLM) solutions, Sectigo is the platform of choice to deliver digital trust across the enterprise. Customers large and small trust Sectigo to protect their data, safeguard their reputations, and preserve their customer interactions.
+
+>1 Billion
+Digital certificates issued
+>2,700
+Active partners
+>700,000
+Global customers
+Global presence
+8 offices worldwide
+Join the world’s most popular PKI and security podcast
+
+With over 500,000 listens, industry veterans Tim Callan and Jason Soroko unravel the complexities of PKI, online trust, and digital certificates. Dive deep into the fascinating world of PKI and digital ID with us.
+
+Listen Now
+Sectigo is recognized as a leader in G2 CLM grid
+
+Customers rate Sectigo Certificate Manager as a leading solution for best-in-class certificate lifecycle management
+
+Learn More
+
+Sectigo Certificate Manager has become a major part of our IT management infrastructure, allowing us to update, add, and delete thousands of digital certificates with a streamlined dashboard and email alert system.
+
+Craig Hurter
+IT Security Manager, University of Colorado at Boulder
+
+Automation made deployment fast and easy for the hundreds of certificates Medecision currently has under management.
+
+David Lundy
+Vice President, Client Success at Medecision
+
+SCM gives you proactive updates regarding any changes in the SSL landscape including security issues and alerts, and ensures no unexpected certificate expiration. All of these features within SCM allow your organization's  dependence on IT to remain secure.
+
+Andrew Rust
+Technical Authority, Aviva
+
+With Sectigo Private PKI, you can connect to the network or the Microsoft agent and the software automatically populates the portal, so that you can manage all of your certificates from a single dashboard.
+
+Bryan Seely
+Senior Systems Engineer, IT, Lighthouse Global
+
+Sectigo Certificate Manager has become a major part of our IT management infrastructure, allowing us to update, add, and delete thousands of digital certificates with a streamlined dashboard and email alert system.
+
+Craig Hurter
+IT Security Manager, University of Colorado at Boulder
+
+Automation made deployment fast and easy for the hundreds of certificates Medecision currently has under management.
+
+David Lundy
+Vice President, Client Success at Medecision
+Item 1 of 4
+Industry awards
+
+These awards and accolades are a testament to our commitment to providing exceptional automated certificate management solutions and our dedication to maintaining the highest standards of security and reliability.
+
+View Awards
+Go to View Awards
+Sectigo listed as leader in 2026 G2 Winter report
+Leader for Certificate Lifecycle Management and SSL/TLS.
+Sectigo CLM listed as best usability in 2026 G2 Winter report
+Leader for best CLM usability.
+Sectigo Certificate Manager (SCM) was named a Silver Globee Award winner in the Certificate Lifecycle Management category for the 2025 Globee Awards for Innovation.
+Certificate Lifecycle Management category for the 2025 Globee Awards for Innovation.
+Sectigo won trailblazing Certificate Lifecycle Management category at RSAC 2025
+Sectigo won trailblazing Certificate Lifecycle Management category in Global InfoSec Awards at #RSAC 2025
+2025 Best Place to Work
+Sectigo has been recognized by Comparably as a 2025 best place to work.
+Best Company for Work-Life Balance 2025
+Sectigo has been recognized by Comparably as a 2025 best company for work-life balance.
+Sign up for Sectigo news and announcements
+Subscribe Now
+Connect
+Email Sales
+sales@sectigo.com
+Email Channel Sales
+partners@sectigo.com
+Call (United States)
+(888) 266 6361
+Call (International)
++1 (914) 732 8446
+Call (United Kingdom)
+0204 519 2097
+Call (France)
++33 3 66 72 95 95
+Call (Spain)
++34 900 838 451
+Call (Germany)
++49 800 1002328
+Call (Italy)
++39 02 4792 1708
+Call (Australia)
++61 3 9022 7226
+Products
+TLS/SSL Certificates
+Compare Certificates
+Sectigo Certificate Manager
+Signing Certificates
+SiteLock Website Security
+Website Backup & Recovery
+HackerGuardian PCI Scanning
+eIDAS Solutions
+Partners
+Partnering with Sectigo
+Connect to Partner Portal
+Sectigo University
+WHMCS Plugin
+Resources
+In the News
+Blog Posts
+Knowledge Base
+Press Releases
+Technical Documents
+Case Studies
+Upcoming Events
+Datasheets
+Whitepapers
+Notifications
+Podcasts
+Product Videos
+Webinars
+Company
+About Sectigo
+Leadership
+Careers
+Industry Awards
+Contact Us
+© 2025 Sectigo Limited. All rights reserved.
+Terms of Use
+Privacy Policy
+Vulnerability Disclosure Policy
+CCPA Privacy Notice
+Cookie Policy
+Privacy Portal
+Legal
+Sectigo® and its associated logo are federally registered trademarks of Sectigo, and other trademarks used herein are owned and may be registered by their respective owners.
+Live chat:
+Chat with an Expert

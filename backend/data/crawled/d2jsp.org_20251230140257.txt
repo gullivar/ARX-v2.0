@@ -1,0 +1,1277 @@
+d2jsp
+Rules Help Forum Gold FAQ Live Streams Photo Gallery Hourly Raffle Ladder Slasher
+Log In
+Register
+Account Recovery
+Resend Validation Email
+Trading  Gaming  Competing  Community
+4,412 Users Online
+Log In or Register
+ d2jsp Forums  Play Ladder Slasher
+Popular Forums
+D2:R Softcore Trading
+Looking For Barb Fort And 60/20 Rends
+chalupataco
+11 seconds ago
+D2:R Softcore Ladder Trading
+Iso Cheap Arach
+paradox024
+12 seconds ago
+D4 Hardcore Season Trading
+Power Leveling
+AoODirty
+21 seconds ago
+D2:R Hardcore Ladder Trading
+Wts: H Keys
+Lexus19_78
+24 seconds ago
+D4 Softcore Season Trading
+47% 4ga Herald Of Zakarum
+JysnGmz
+1 minute ago
+Classic US Server Trading
+Wtt Arcanite Reaper Era Gold For Dreamscythe
+Jsttstrange
+1 minute ago
+General Chat
+What's Best Country You Think To Spawn In Life
+4nt
+1 minute ago
+D2:R Playstation Trading
+Raw Materials 4 Crafting (sc, Nl, Ps)
+Scafjr
+1 minute ago
+Fate of the Vaal Trading
+Wts 30 Div Orbs -14fg Each
+Brandon9405
+1 minute ago
+What's New
+Read More News Topics
+Site Updates: Apr 2023 - Jan 2025
+Jan 30 2025 by njaguar
+Greetings!
+
+We’ve been busy updating and improving the site, and below you’ll find a summary of the major changes since our last update. Going forward, we plan to post these updates more regularly, about once or twice a year. Development and maintenance are ongoing, and more updates are planned for the future.
+
+A lot has been added over the past year and a half, so here’s a look at some of the key updates in case you missed them:
+
+Public Changes [Apr 4 2023 - Jan 29 2025]:
+Staff promotion: TheOnlyDenny Members++ -> Trade Assistant (Apr 3 2023)
+
+Staff promotion: ~Devil~ Retired Moderator -> Trade Moderator (Apr 3 2023)
+
+Added help link to the iOS Notification guide on the Notification Settings page (Apr 4 2023)
+
+Staff retirement: Moojilsuh Moderator -> Retired Moderator (Apr 8 2023)
+
+Staff retirement: Jubeii52 Members++ -> Member (Apr 9 2023)
+
+Staff promotion: eerock Moderator -> Senior Moderator (Apr 10 2023)
+
+Added new CAPTCHA replacement to Register page (Apr 10 2023)
+
+Added new CAPTCHA replacement to Login page (Apr 10 2023)
+
+Staff promotion: Roses Member -> Members++ (Apr 13 2023)
+
+Staff promotion: DSYV Retired Moderator -> Members++ (Apr 13 2023)
+
+New Login page released (Apr 17 2023)
+
+Fixed an issue where showing in online lists at login was being ignored (Apr 18 2023)
+
+New Register page released (Apr 20 2023)
+
+New Trusted Member: OBUS (Apr 20 2023)
+
+New Trusted Member: 4ndr3as (Apr 20 2023)
+
+Added a space after the colon in various places where Diablo II: Resurrected is mentioned (Apr 28 2023)
+
+Lowered the number of pages displayed in the Notifications history (May 1 2023)
+
+Update the Archive Message page to now be centered and the standard width (May 1 2023)
+
+Update the Block List page to now be centered and the standard width (May 1 2023)
+
+Redirect page was redesigned (May 3 2023)
+
+Fixed a missing error message on the change email settings page (May 4 2023)
+
+Staff promotion: Vibrations Member -> Members++ (May 4 2023)
+
+Updated the Ladder Slasher Portal design including improvements that now also display the top characters on the ladder (May 11 2023)
+
+On the Ladder Slasher Portal, moved the Top 3 Players above the Updates section (May 12 2023)
+
+New Trusted Member: BuGGeaD (May 18 2023)
+
+Staff promotion: Sn0 Trade Assistant -> Trade Moderator (May 22 2023)
+
+Staff promotion: TheOnlyDenny Trade Assistant -> Junior Moderator (May 27 2023)
+
+Closed and re-purposed the old Last Epoch forum to D4 Trading Archive (Jun 1 2023)
+
+Added a new forum in preparation for Diablo IV Launch: D4 Softcore Trading (Jun 1 2023)
+
+Added a new forum in preparation for Diablo IV Launch: D4 Hardcore Trading (Jun 1 2023)
+
+Moved D4 Discussion topics to a new sub-forum called D4 Discussion from the old parent Diablo 4 (June 5 2023)
+
+Applied a fix to the "Show Me In Online Lists" setting which wasn't saving when on a mobile device (June 8 2023)
+
+Added text search to the D4 Softcore Trading and D4 Hardcore Trading forums (June 12 2023)
+
+Staff retirement: dj_cj Trade Moderator -> Retired Moderator (Jun 19 2023)
+
+Staff retirement: Linkin Moderator -> Retired Moderator (Jun 19 2023)
+
+Updated the Buy Tab section on the Tools -> Notepad page (Jun 20 2023)
+
+Updated and redesign the Add Live Stream page (Jun 20 2023)
+
+New Trusted Member: TonyZD2R (Jul 3 2023)
+
+New Trusted Member: Versace (Jul 3 2023)
+
+Staff retirement: Bib Members++ -> Member (Jul 4 2023)
+
+New forum added: D4 Softcore Season Trading (Jul 17 2023)
+
+New forum added: D4 Hardcore Season Trading (Jul 17 2023)
+
+Staff retirement: DSYV Members++ -> Retired Moderator (Jul 18 2023)
+
+New game added to profile games list: Diablo 4 (Jul 22 2023)
+
+Updated css rolled out with new header markup, and other improvements (Jul 26 2023)
+
+Introduced new toggle styled checkboxes which will be applied to various pages and features as needed (Aug 3 2023)
+
+Updated the Settings page to implement the new toggle style checkboxes (Aug 3 2023)
+
+Updated the Push Notification Settings page to implement the new toggle style checkboxes (Aug 3 2023)
+
+Updated and removed the extraneous word "Change" from various settings page headers: Push Notification, Star, Orb and Personal Info (Aug 3 2023)
+
+New forum added: Dark and Darker (Aug 14 2023)
+
+Fixed the Time Zone select box in Settings being too wide on some narrower displays (Aug 16 2023)
+
+Staff retirement: Cel Junior Moderator -> Retired Moderator (Aug 17 2023)
+
+Updated the error page for Previous Searches (Aug 17 2023)
+
+Updated the no games error message on the Manage Game List of user profiles (Aug 17 2023)
+
+Updated the error page when you have no notifications in your history (Aug 17 2023)
+
+Archived posts in the Softcore Crucible Trading and Hardcore Crucible Trading forums in preparation for the new Path of Exile Trial of the Ancestors league (Aug 17 2023)
+
+Fixed a bug that would stop you from editing the name of custom PM folders (Aug 17 2023)
+
+Updated the help guide: What is the Donor Forum, and how do I get Access to it? (Aug 17 2023)
+
+Update the Search All Posts feature of in users profiles to now allow more search results. Previously you could get 500 results for 5 Forum Gold but now you have two additional options: up to 1000 results for 10 Forum Gold and up to 2000 results for 25 Forum Gold (Aug 17 2023)
+
+Staff promotion: Versace Member -> Members++ (Aug 21 2023)
+
+Added new tag called "Hardcore" to the Classic US Server Trading forum (Aug 24 2023)
+
+Added new tag called "Hardcore" to the Classic Europe Server Trading forum (Aug 24 2023)
+
+Updated the gold purchase page to include the image upload customer perk (Aug 31 2023)
+
+Redesigned and cleanup up the Purchase Gold page (Sep 4 2023)
+
+Small CSS update to a few styles (Sep 19 2023)
+
+Added a new video embed type to the video tag for Rumble videos. To use this you will need to use the specific "Embed IFRAME URL" inside the video tags. (Sep 21 2023)
+
+Fixed an embedded video conversion to bbcode bug (Sep 30 2023)
+
+Staff promotion: Beacon Retired Moderator -> Senior Moderator (Oct 2 2023)
+
+Renamed the "Computer Hardware" forum to Computers & IT (Oct 16 2023)
+
+Moved all topics from the old "Misc Computer Help" forum to Computers & IT (Oct 16 2023)
+
+Renamed the "Programmer's Haven" forum to Programming & Development (Oct 16 2023)
+
+Moved all topics from the old "Java, Visual Basic, VBScript" forum to Programming & Development (Oct 16 2023)
+
+Moved all topics from the old "C/C++/C#" forum to Programming & Development (Oct 16 2023)
+
+Moved all topics from the old "Web Languages" forum to Programming & Development (Oct 16 2023)
+
+Renamed the "Homework Help Hotline" forum to Homework Help (Oct 16 2023)
+
+Moved all topics from the old "Joker's Dimension" forum to General Chat (Oct 16 2023)
+
+Added new LLD quick filter for most of the D2 trading forums (Oct 18 2023)
+
+Added a secondary navigation when viewing a Help article, you will now see a list of the other articles in the category when viewing (Oct 23 2023)
+
+Fixed a bug with the raffle winner display where the star could show up incorrectly. (Nov 2 2023)
+
+Added a Get Verified button and link to the Gold Logs page (Nov 6 2023)
+
+Fixed a flood control bug with the Forgot Name option for Account Recovery (Nov 7 2023)
+
+Fixed an issue with searching in the Help section (Nov 13 2023)
+
+User stars now properly show up in their Recent Topics page for non-archived topics. (Nov 14 2023)
+
+Added new group: Jr Admin (Nov 24 2023)
+
+Updated main index removing individual staff groups replacing them with a single Staff List link (Nov 24 2023)
+
+Staff promotion: Sire Senior Moderator -> Jr Admin (Nov 24 2023)
+
+Staff promotion: lz4 Senior Moderator -> Jr Admin (Nov 24 2023)
+
+Staff promotion: Udsuna Moderator -> Senior Moderator (Nov 24 2023)
+
+Staff promotion: Textbook Moderator -> Senior Moderator (Nov 24 2023)
+
+Archived posts in the Softcore Trial of the Ancestors Trading and Hardcore Trial of the Ancestors Trading forums in preparation for the new Affliction league (Dec 8 2023)
+
+Archived posts in the Diablo 2 Legacy trading forums for new ladder season (Dec 15 2023)
+
+Staff promotion: BulldogAviator Member -> Members++ (Dec 15 2023)
+
+Updates to various error pages to provide more details (Dec 28 2023)
+
+Ladder Slasher v1.33.0 released. Full release notes here: https://forums.d2jsp.org/topic.php?t=102911018&f=272 (Jan 15 2024)
+
+Redesigned and cleaned up the Verify page (Jan 31 2024)
+
+You can now untrack Guild Topics from the actual guild topic in the same way you can untrack regular topics. (Jan 31 2024)
+
+Staff promotion: TonyZD2R Members++ -> Trade Assistant (Feb 6 2024)
+
+Staff promotion: Apo720 Trade Assistant -> Trade Moderator (Feb 6 2024)
+
+Created a new subforum for the game Ravendawn (Feb 12 2024)
+
+User profiles have had a complete rewrite from the ground up, including most components that were a part of them (Feb 13 2024)
+
+Games List has been redesigned to also be inclusive of Social Profiles as well. (Feb 13 2024)
+
+User blogs feature is being retired. You can still access your blogs for a limited time either by searching posts->blogs, looking directly in the User Blogs forum, or appending &c=4 to your profile URL. (Feb 13 2024)
+
+Personal Photos (profile) have been removed and retired (Feb 13 2024)
+
+Editors that show the current/maximum length should now properly account for all special characters and report a proper length (Feb 13 2024)
+
+Fixed various post-release Profile bugs (Feb 13 2024)
+
+Various markup cleanups and fixes throughout multiple pages (Feb 14 2024)
+
+Made a few more adjustments to the new profiles (Feb 14 2024)
+
+Staff promotion: Southland Members++ -> Trade Assistant (Feb 16 2024)
+
+Tools -> Tracker have had a complete rewrite and redesign (Feb 21 2024)
+
+You can now Track a Friend to receive notifications of New Topics or Posts that they make. (Feb 21 2024)
+
+Various fixes and changes to the new tracker (Feb 21 2024)
+
+Added a filter by last reply, and live countdown timer for next bump in tracker (Feb 21 2024)
+
+Miscellaneous markup cleanups (Jan 22 2024)
+
+Changed "tabs" to "headers" on the main index (Feb 23 2024)
+
+Lightened some font colors to improve contrast on Black/Orange style (Feb 23 2024)
+
+Added Last Epoch subforum to Other Games (Feb 24 2024)
+
+Staff promotion: Chetty Retired Moderator -> Moderator (Feb 24 2024)
+
+New Trusted Member: Sneakyweak (Feb 24 2024)
+
+New Trusted Member: CoLLiNz (Feb 24 2024)
+
+New Trusted Member: JonWon (Feb 24 2024)
+
+Tracker topic pages were incorrectly calculating based upon system default rather than user posts per page setting (Feb 26 2024)
+
+Fixed a bug with Guild Topic Note Preview where content could extend outside the viewable area (Feb 26 2024)
+
+Fixed a bug with a PM Preview where content could extend outside the viewable area (Feb 27 2024)
+
+Fixed a display bug with the tracker on certain devices (Feb 29 2024)
+
+Redesigned, rewrote, and released updated post/topic/message/photo gallery views (Feb 29 2024)
+
+The header was rewritten and redesigned for mobile to be add a menu instead of a wall of text links (Feb 29 2024)
+
+Verified icons are now clickable in PMs, Posts, and Photo Gallery (Feb 29 2024)
+
+You can now link YouTube short videos with the VIDEO tag (Feb 29 2024)
+
+Fixed an issue where resizing the reply box would cause weird wrapping under some conditions (Mar 7 2024)
+
+Staff retirement: RatM Trade Moderator -> Retired Moderator (Mar 10 2023)
+
+Added a new Reminder Notification for Customer Perks when they are nearing expiration (Mar 12 2024)
+
+Added a new Reminder Notification for Verified Status when it is nearing expiration, and the ability to renew before it expires. (Mar 12 2024)
+
+Ladder Slasher v1.33.1 released (Mar 13 2024)
+
+Staff promotion: Versace Trade Assistant -> Trade Moderator (Mar 13 2024)
+
+New Trusted Member: Zeon666 (Mar 26 2024)
+
+New Trusted Member: pimp1123 (Mar 26 2024)
+
+Archived posts in the Softcore Affliction Trading and Hardcore Affliction Trading forums in preparation for the new Path of Exile Necropolis league (Mar 29 2024)
+
+Redesigned the way an Inappropriate Post is displayed (Apr 1 2024)
+
+New Trusted Member: Pazar (Apr 6 2024)
+
+New Trusted Member: ijsGv (Apr 6 2024)
+
+Fixed a bug in Search results where they were not being sorted properly by last applicable bump (Apr 16 2024)
+
+Staff promotion: Munky Junior Moderator -> Moderator (Apr 18 2024)
+
+Staff promotion: BulldogAviator Members++ -> Trade Assistant (May 11 2024)
+
+Staff promotion: Pazar Member -> Members++ (May 23 2024)
+
+Staff promotion: OEM Members++ -> Trade Assistant (May 23 2024)
+
+Staff promotion: Holy-Martyr Moderator -> Senior Moderator (May 23 2024)
+
+Staff promotion: Moojilsuh Retired Moderator -> Trade Moderator (May 23 2024)
+
+Staff promotion: CoLLiNz Member -> Members++ (May 27 2024)
+
+New Trusted Member: DePoRtEd (May 28 2024)
+
+New Trusted Member: BwJ (May 28 2024)
+
+Staff promotion: TonyZD2R Trade Assistant -> Trade Moderator (Jun 20 2024)
+
+Staff retirement: Creations Moderator -> Retired Moderator (Jul 13 2024)
+
+Staff retirement: Tandfen Moderator -> Retired Moderator (Jul 13 2024)
+
+New Trusted Member: UEFI (Jul 21 2024)
+
+Staff promotion: DePoRtEd Member -> Members++ (Jul 21 2024)
+
+New Trusted Member: bodierox (Jul 21 2024)
+
+New Trusted Member: Lewy (Jul 22 2024)
+
+Staff retirement: patrickdm Trade Moderator -> Retired Moderator (Jul 23 2024)
+
+Staff retirement: Versace Trade Moderator -> Retired Moderator (Jul 23 2024)
+
+Staff retirement: R3MY Junior Moderator -> Retired Moderator (Jul 23 2024)
+
+Staff promotion: CoLLiNz Members++ -> Trade Assistant (Jul 28 2024)
+
+Staff retirement: Beacon Senior Moderator -> Retired Moderator (Sep 5 2024)
+
+Archived posts in the Softcore Necropolis Trading and Hardcore Necropolis Trading forums in preparation for the new Path of Exile Settlers of Kalguur league (Jul 26 2024)
+
+Added a Delete Post confirmation when deleting a Guild Topic Note/Post (Sep 10 2024)
+
+New Trusted Member: B99 (Sep 16 2024)
+
+Staff promotion: Pazar Members++ -> Trade Assistant (Sep 19 2024)
+
+Staff promotion: Southland Trade Assistant -> Trade Moderator (Oct 2 2024)
+
+Staff retirement: NR1 Members++ -> Member (Oct 19 2024)
+
+Staff promotion: BulldogAviator Trade Assistant -> Trade Moderator (Oct 24 2024)
+
+Added a Throne And Liberty subforum (Oct 25 2024)
+
+Staff promotion: Vibrations Trade Assistant -> Junior Moderator (Oct 25 2024)
+
+Staff promotion: bodierox Member -> Members++ (Oct 25 2024)
+
+Added Path of Exile 2 subforum (Nov 26 2024)
+
+Staff retirement: Chetty Moderator -> Retired Moderator (Oct 27 2024)
+
+Staff promotion: Showtek Trade Assistant -> Trade Moderator (Nov 5 2024)
+
+Staff promotion: CoLLiNz Trade Assistant -> Trade Moderator (Nov 6 2024)
+
+Removed obsolete option to delete blogs from profile (Nov 30 2024)
+
+Added Path of Exile 2 - Early Access Trading subforum (Dec 11 2024)
+
+Added Path of Exile 2 as an option for the Games List in profiles (Dec 12 2024)
+
+Quick Image Uploading has been added to Guild Topics (Dec 17 2024)
+
+Staff retirement: Atari- Moderator -> Retired Moderator (Dec 17 2024)
+
+Staff retirement: Bitis Junior Moderator -> Retired Moderator (Dec 17 2024)
+
+Staff retirement: TheOnlyDenny Junior Moderator -> Retired Moderator (Dec 19 2024)
+
+Quotes are now linked to the original post in topics as most recently requested here: https://forums.d2jsp.org/topic.php?t=105224978&f=258 (Dec 19 2024)
+
+Staff promotion: DePoRtEd Members++ -> Trade Assistant (Dec 20 2024)
+
+Forgot Account Name recoveries now also include a reset password option in the email that is sent. (Jan 7 2025)
+
+Staff promotion: Munky Moderator -> Senior Moderator (Jan 25 2025)
+
+
+If you missed the previous updates, you can read about them here: https://forums.d2jsp.org/topic.php?t=100478728&f=28
+
+If you have any ideas or suggestions please remember to post them in the Site Suggestions forum. Many updates come from great ideas from the community! Thanks for your continued support and involvement in our community!
+Read More
+Site Updates: Feb 8 2022 - Apr 3 2023
+Apr 3 2023 by Kevin
+Greetings,
+
+It's been quite some time since that last update so lets have a quick recap. Over the past 13 months we have completed quite a bit of development involving site features and fixes. One of the more recent and substantial updates is finally being able to add support for Push Notifications on iOS 16.4+. Please take a look at the new guide to get your phone connected and receiving notifications even when your safari browser is closed! Our d2jsp mod team has also evolved over the past year, with 33 promotions, 17 retirements and 14 new trusted tags handed out. Since the last update we have also seen 4 Ladder Slasher ladder resets. Take a look at the Ladder Slasher portal for all the updates: https://ladderslasher.d2jsp.org/
+
+We are looking forward to the Diablo IV launch on June 6 with early access going out to those who pre-purchased it on June 2nd. We already have a forum setup for it. Additionally we have created a D4 Trading forum and will make the necessary adjustments by adding additional forums and post tags as required once the game is launched.
+
+Please take a look at the full list of changes below:
+
+Public Changes [Feb 8 2022 - Apr 3 2023]:
+
+Updated most of the Ladder Slasher guides to remove some extraneous markup (Feb 8 2022)
+
+Removed no longer used class from main css include (Feb 8 2022)
+
+Fixed some float issues on various Ladder guide pages (Feb 8 2022)
+
+Numerous code and markup cleanups to the Contact page (Feb 9 2022)
+
+An initial redesign of the Contact page has been completed (Feb 9 2022)
+
+Fixed a display issue with the new Contact page redesign (Feb 9 2022)
+
+D2:R PTR complete for this route of testing, trade forum closed accordingly (Feb 9 2022)
+
+Added a breadcrumb navigation link in the Photo Gallery when viewing a photo to that user's personal photo gallery (Feb 10 2022)
+
+Fixed a "flashing" issue on the Contact page when initially loading the page (Feb 10 2022)
+
+New Trusted Member: Fezmin (Feb 10 2022)
+
+Redesigned Guild Polls to use the Topic Poll style (Feb 11 2022)
+
+Made some design updates to Topic Polls, including adding the poll icon prefixing the Poll Question (Feb 11 2022)
+
+Added the option to view who voted on Guild Polls by clicked the # Total Votes link (Feb 14 2022)
+
+Staff promotion: ConDiTioNaL Trade Assistant -> Junior Moderator (Feb 14 2022)
+
+Guilds now link to the Guild Point Summary page on Ladder Slasher Experience Ladders (Feb 15 2022)
+
+Added a warning hint in the Private Messages -> Sent Folder when it is empty to help explain that messages are not saved by default. (Feb 15 2022)
+
+Removed extraneous markup from the subforum display lists (Feb 16 2022)
+
+Cleaned up markup for the Guild Logs page to utilized existing CSS defines (Feb 16 2022)
+
+Staff promotion: R3MY Member -> Members++ (Feb 16 2022)
+
+Cleaned up the markup for the Photo Gallery - Manage Albums page (Feb 17 2022)
+
+Removed some extraneous styling from the Help lists (Feb 18 2022)
+
+Added a Caps Lock On detection and warning to the Login Page (Feb 18 2022)
+
+Staff retirement: osseworst Trade Moderator -> Retired Moderator (Feb 20 2022)
+
+Updated Top Mediators page to cleanup and optimize the markup and styling (Feb 21 2022)
+
+Markup cleanup and optimizations on the Viewing Tracked Messages page (Feb 23 2022)
+
+Guilds now link to the Guild Point Summary page on Ladder Slasher Skill Ladders (Feb 23 2022)
+
+Made some optimizations to the Private Message Folders Management page (Feb 24 2022)
+
+Staff promotion: IboOne Member -> Members++ (Feb 24 2022)
+
+Cleaned up and optimized the Friends List in List view (Feb 25 2022)
+
+Markup optimizations and cleanup to the main Guild List page (Feb 28 2022)
+
+Staff promotion: Sn0 Member -> Members++ (Feb 28 2022)
+
+Made optimizations to the Hourly Raffle Past Winners list (Mar 2 2022)
+
+Made some optimizations to the Profile Ladder Slasher Character List (Mar 4 2022)
+
+Optimizations made to the Guild -> Edit Ranks page (Mar 7 2022)
+
+Diablo 2:R PTR Trading forums reopened (Mar 8 2022)
+
+Updated the warn logs page to cleanup and optimize some markup and styling (Mar 10 2022)
+
+Staff retirement: Soroush Trade Moderator -> Retired Moderator (Mar 11 2022)
+
+Staff retirement: Boggy Junior Moderator -> Retired Moderator (Mar 11 2022)
+
+Fixed and updated the Error page to be mobile friendly for the Unsaved Data portion of the page (Mar 14 2022)
+
+Fixed a typo on the Donor Forum granted private message (Mar 14 2022)
+
+Staff promotion: Creations Trade Moderator -> Moderator (Mar 17 2022)
+
+Updated and optimized the Donate For Me tool history and main list pages (Mar 21 2022)
+
+Optimizations made to the Ladder Slasher Ladders pages (Mar 21 2022)
+
+Fixed a bug on the Ladder Slasher Ladders page where the placement number was not incrementing properly (Mar 24 2022)
+
+Created a new archive sub D2:R Consoles 2021+ and archived old topics (Mar 24 2022)
+
+Added 2 trade tags(GW1 and GW2) to the Guild Wars 1 & 2 forum (Mar 31 2022)
+
+Enabled the "Topic" thread type for the Guild Wars 1 & 2 forum (Mar 31 2022)
+
+Retired and merged topics from the old GW Trading forum to Guild Wars 1 & 2 (Mar 31 2022)
+
+Retired and merged topics from the old GW2 Trading forum to Guild Wars 1 & 2 (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Softcore Ladder Trading (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Hardcore Ladder Trading (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Classic Ladder Trading (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Playstation Ladder Trading (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Switch Ladder Trading (Mar 31 2022)
+
+Added a new forum in preparation for Ladder Season 1: D2:R Xbox Ladder Trading (Mar 31 2022)
+
+Text searches in forums will now only cache the last search per user for an hour (Apr 1 2022)
+
+Staff retirement: HereComesTheKraken Members++ -> Member (Apr 2 2022)
+
+Staff promotion: dj_cj Trade Assistant -> Trade Moderator (Apr 4 2022)
+
+Updated various Ladder Slasher guides to clean up markup (Apr 5 2022)
+
+Viewing the Hourly Raffle Last 100 Winners now highlights the specific winning numbers for each winner listed (Apr 6 2022)
+
+Do Not Display Any Profile Background Images configuration option moved from the Settings -> Profile section to the Settings -> General section (Apr 6 2022)
+
+New CSS optimizations and updates made that move lots of inline defines into the main css files that are cached (Apr 6 2022)
+
+CSS optimizations on the main guild header (Apr 6 2022)
+
+Various updates/tweaks to the original old gold logs page (Apr 7 2022)
+
+Retired the old Clan Discussion sub forum of RuneScape and moved all topics (Apr 7 2022)
+
+Updated the style of the Ladder Slasher portal page top box to the new style (Apr 7 2022)
+
+Updated the Ladder Slasher portal page to have have a top navigation (Apr 7 2022)
+
+Changed the Help & Guides menu of the Ladder Slasher portal page to be top navigation (Apr 7 2022)
+
+Updated the Ladder Slasher portal page to no longer be full width (Apr 7 2022)
+
+Updated news elements on the Ladder Slasher portal page to the new style and no longer full width (Apr 7 2022)
+
+Updated all Ladder Slasher portal page Help & Guides pages to no longer be full width (Apr 7 2022)
+
+Updated all Ladder Slasher portal page Help & Guides items to the new style (Apr 7 2022)
+
+Various css/html fixes for some of the Ladder Slasher portal page Help & Guides items (Apr 7 2022)
+
+Removed the pvp block in the Game Basics Ladder Slasher portal Help & Guides (Apr 7 2022)
+
+Updated "Forums and Community" to "Forums & Community" on the Ladder Slasher portal navigation (Apr 7 2022)
+
+Renamed the Introduction tab to Info on the Ladder Slasher portal (Apr 7 2022)
+
+Renamed the Screenshots tab to Media on the Ladder Slasher portal (Apr 7 2022)
+
+Added a new item to the Ladder Slasher portal Media section called "v1.31.0 Monster Effects" (Apr 7 2022)
+
+Redesign and cleanup to the Login page (Apr 8 2022)
+
+Fixed some missing images in one of the Help guides (Apr 8 2022)
+
+Numerous optimizations and a header label fix for the Settings pages (Apr 11 2022)
+
+Made some markup cleanups to the Register page (Apr 11 2022)
+
+Archived all old "Autres Jeux" topics directly into the Français forum (Apr 11 2022)
+
+Moved the old International main form section to a subforum inside the Off-Topic section (Apr 11 2022)
+
+Archived posts in the D3 Softcore Season Trading forum in preparation for Season 26 (Apr 11 2022)
+
+Finished removing onsite translations in favor of allowing the browser to translate as needed, which is much more reliable (Apr 12 2022)
+
+Security code output consolidated and made more uniform wherever it is used (Apr 12 2022)
+
+Various help and error message updates and clarifications (Apr 12 2022)
+
+Now defunct Language option removed from Settings and display in profile (Apr 13 2022)
+
+Various optimizations and cleanups (Apr 14 2022)
+
+Made some updates to various URL input tags (Apr 18 2022)
+
+Pinned posts in Guild Topics will now show "Pinned" for those viewing without pin/unpin access to distinguish they are pinned (Apr 18 2022)
+
+Settings -> Orbs page updated to allow clicking orb name to select radio button and added Help Link icon (Apr 18 2022)
+
+Added a help icon + link to the Settings -> Star page (Apr 18 2022)
+
+Fixed a bug that was preventing Orbs from being selected and purchased (Apr 19 2022)
+
+D2:R Ladder Trading Forums made visible in preparation for upcoming Ladder (Apr 22 2022)
+
+Fixed a small rendering inconsistency on the Guild Charter page that would occur under certain conditions (Apr 22 2022)
+
+Staff promotion: R3MY Members++ -> Trade Assistant (Apr 24 2022)
+
+Moved D2:R PTR Trading into the Archives (Apr 25 2022)
+
+Added a countdown timer to the new D2:R Ladder Trading subforums (Apr 25 2022)
+
+When posting a New Trade that is detected to be Service, the trade is now converted to a Service with a warning message instead of a hard stop error message (Apr 25 2022)
+
+You can now use both Trade Type (FT, ISO, Service, Price Check) and Tags (eg, Softcore, Hardcore) combined together within a subforum that has tags and trade types (Apr 28 2022)
+
+Removed the old Baal & Chaos Runs forum and merged topics onto the Diablo 2 Discussion forum (Apr 28 2022)
+
+Removed the old Classic forum and merged topics onto the Diablo 2 Discussion forum (Apr 28 2022)
+
+Removed the old Hardcore forum and merged topics onto the Diablo 2 Discussion forum (Apr 28 2022)
+
+Renamed Diablo 4 Discussion to Diablo 4 (May 4 2022)
+
+New Trusted Member: Lionhearted (May 5 2022)
+
+New Trusted Member: Bib (May 5 2022)
+
+Merged Diablo 3 Seasons and non-seasons trading forums into one sub-forum (May 9 2022)
+
+Created a new main forum section called Diablo and moved Diablo 3, Diablo 4 and Diablo Immortal forums to it (May 9 2022)
+
+Created a new forum called Diablo Immortal (May 9 2022)
+
+New Trusted Member: Bitis (May 9 2022)
+
+Staff promotion: IboOne Members++ -> Trade Assistant (May 10 2022)
+
+Staff promotion: Expanse Member -> Members++ (May 10 2022)
+
+Archived posts in the Softcore Archnemesis Trading and Hardcore Archnemesis Trading forums in preparation for the new Path of Exile Sentinel league (May 12 2022)
+
+Fixed a maximum length mismatch when adding long URL avatars (May 13 2022)
+
+Staff retirement: Ryans Members ++ -> Retired Moderator (Mar 18 2022)
+
+Added Runes, Charms and Runewords to the filters on the D2:R Hardcore Ladder Trading and D2:R Hardcore Trading (May 19 2022)
+
+New Trusted Member: BigBalaBoom (May 19 2022)
+
+Added some feature helps and documentation to the Profile flood control page (May 20 2022)
+
+Fixed a bug that was preventing the Expand All Posts from working on a Search All User Posts result set (May 24 2022)
+
+Various markup optimizations (May 25 2022)
+
+Fixed a missing image on the suspension page when visiting a sub-domain other than forums.d2jsp.org (Jun 5 2022)
+
+Staff promotion: Cel Trade Assistant -> Junior Moderator (Jun 6 2022)
+
+Staff retirement: Josha Members++ -> Member (Jun 12 2022)
+
+Guild join request notifications viewed on subdomains other than forums will now redirect to the proper URL (Jun 13 2022)
+
+Staff promotion: RatM Trade Assistant -> Trade Moderator (Jun 15 2022)
+
+Combined the old two forums: Softcore USWEST and Softcore USWEST Ladder to one new forum: Softcore USWEST with new tags: Ladder and Non-Ladder (Jun 16 2022)
+
+Combined the old two forums: Softcore USEAST and Softcore USEAST Ladder to one new forum: Softcore USEAST with new tags: Ladder and Non-Ladder (Jun 16 2022)
+
+Combined the old two forums: Softcore EUROPE and Softcore EUROPE Ladder to one new forum: Softcore EUROPE with new tags: Ladder and Non-Ladder (Jun 16 2022)
+
+Combined the old two forums: Xbox - PoE Trading and Playstation - PoE Trading to one new forum: PoE Console Trading with new tags: Xbox and Playstation (Jun 16 2022)
+
+Staff promotion: Jubeii52 Member -> Members++ (Jun 16 2022)
+
+Staff promotion: OEM Member -> Members++ (Jun 16 2022)
+
+Fixed a punctuation mistake in the PM sent when a warning is issued (Jun 18 2022)
+
+Staff retirement: Munky Junior Moderator -> Retired Moderator (Jun 23 2022)
+
+Staff retirement: bobdave Members++ -> Retired Moderator (Jun 23 2022)
+
+Moved Heroes of Newerth to the Archived Games section due to it now being shut down (Jun 23 2022)
+
+Warn Logs have been redesigned and updated (Jun 23 2022)
+
+Only the most recent warn log will now show in the warn logs (Jun 23 2022)
+
+Made some minor tweaks to the warn logs output under certain conditions (Jun 24 2022)
+
+Users with >=70% warning can now view their warn logs and request removals if applicable (Jul 2 2022)
+
+Staff retirement: 037 Members++ -> Member (Jul 4 2022)
+
+New Trusted Member: Krios (Jul 4 2022)
+
+New Trusted Member: aabdel20 (Jul 4 2022)
+
+Staff retirement: ~Devil~ Trade Moderator -> Retired Moderator (Jul 5 2022)
+
+Staff promotion: Bitis Member -> Members++ (Jul 5 2022)
+
+Staff promotion: Sn0 Members++ -> Trade Assistant (Jul 7 2022)
+
+PM List had a redesign, especially for mobile (Jul 11 2022)
+
+Staff retirement: Tears Members++ -> Member (Aug 8 2022)
+
+Staff promotion: IboOne Trade Assistant -> Trade Moderator (Aug 10 2022)
+
+Staff promotion: Kentas Retired Moderator -> Members ++ (Aug 11 2022)
+
+Staff promotion: Chetty Retired Moderator -> Senior Moderator (Aug 11 2022)
+
+Archived posts in the Softcore Sentinel Trading and Hardcore Sentinel Trading forums in preparation for the new Path of Exile Lake of Kalandra league (Aug 18 2022)
+
+Staff promotion: Lionhearted Member -> Members++ (Aug 26 2022)
+
+Removed the reminder in D2:R sub-forums about our free mediation service (Aug 29 2022)
+
+Staff promotion: Bib Member -> Members++ (Aug 30 2022)
+
+Staff promotion: Boggy Retired Moderator -> Junior Moderator (Aug 31 2022)
+
+Staff promotion: Showtek Members++ -> Trade Assistant (Sep 12 2022)
+
+Updated the "My Upgrades" section of the Donate For Me tool so that it will now show pending upgrades at the top instead of the bottom for more visibility. This also fixes an issue when there are more than 50 to display (Sep 19 2022)
+
+Added a new tag called "Wrath of the Lich King" to Classic US Server Trading and Classic Europe Server Trading forums (Sep 19 2022)
+
+Corrected the odds displayed for the Hourly Raffle (Oct 3 2022)
+
+Created new archive sub-forum called D2:R Classic 2021+ (Oct 6 2022)
+
+Archived old topics from D2:R Classic Trading and D2:R Classic Ladder Trading to the new archive D2:R Classic 2021+ (Oct 6 2022)
+
+New Trusted Member: TGHodin (Oct 10 2022)
+
+New Trusted Member: TheOnlyDenny (Oct 10 2022)
+
+Staff retirement: OEM Members++ -> Member (Oct 20 2022)
+
+Updated the help guide titled: The Warn System. Simple modification to the wording regarding 30% warn. (Oct 27 2022)
+
+Staff promotion: Markos. Retired Moderator -> Junior Moderator (Oct 27 2022)
+
+Added Trade Moderators to the following forums: Game Platforms, Steam and Battle.net (Nov 2 2022)
+
+Staff retirement: Chetty Senior Moderator -> Retired Member (Nov 10 2022)
+
+Added a $150 max per added upgrade for the Star Upgrades - Donate For Me tool (Nov 14 2022)
+
+Renamed the Overwatch 1 & 2 forum to Overwatch 2 (Nov 17 2022)
+
+Staff retirement: Ranni Junior Moderator -> Retired Moderator (Nov 17 2022)
+
+Modified the color of the "Request a Mediator" button in topics as per this suggestion to match the color of the Mediator Trader Tag (Nov 19 2022)
+
+Added a image host to the block list as per this suggestion (Nov 23 2022)
+
+Fixed mobile issue on Ladder Slasher where a long hold makes the save image context menu popup, this no longer happens (Nov 24 2022)
+
+Staff promotion: Udsuna Junior Moderator -> Moderator (Dec 8 2022)
+
+Archived posts in the Softcore Kalandra Trading and Hardcore Kalandra Trading forums in preparation for the new Path of Exile Sanctum league (Dec 8 2022)
+
+Staff promotion: Linkin Trade Moderator -> Moderator (Dec 14 2022)
+
+New Trusted Member: Jordanzo (Jan 16 2023)
+
+New Trusted Member: Cringer (Jan 16 2023)
+
+Staff promotion: TheOnlyDenny Member -> Members++ (Jan 16 2023)
+
+Renamed Torchlight 1 & 2 to Torchlight Series (Jan 16 2023)
+
+Staff retirement: Holy-Martyr Senior Moderator -> Retired Moderator (Jan 18 2023)
+
+Staff retirement: BlindzF Senior Moderator -> Retired Moderator (Jan 19 2023)
+
+Staff promotion: Beacon Retired Moderator -> Senior Moderator (Jan 19 2023)
+
+Staff retirement: Boggy Junior Moderator -> Retired Moderator (Jan 23 2023)
+
+Staff promotion: Lionhearted Members++ -> Trade Assistant (Jan 23 2023)
+
+Staff promotion: Southland Member -> Members++ (Jan 23 2023)
+
+Staff promotion: Bib Members++ -> Trade Assistant (Jan 26 2023)
+
+Staff promotion: R3MY Trade Assistant -> Junior Moderator (Feb 2 2023)
+
+Private Message subjects have better requirements (minimum 2 characters, excluding punctuation) (Feb 8 2023)
+
+Fixed a bug where certain symbols and characters were not showing up properly in push notifications (Feb 13 2023)
+
+Staff promotion: Bitis Trade Assistant -> Junior Moderator (Mar 2 2023)
+
+Revamped the code and process for changing the email on an account (Mar 8 2023)
+
+Adjusted flood control times for users with warnings (Mar 9 2023)
+
+Created a new forum called Last Epoch (Mar 11 2023)
+
+Created a new forum called Dark and Darker (Mar 13 2023)
+
+Staff promotion: ConDiTioNaL Junior Moderator -> Moderator (Mar 16 2023)
+
+New Trusted Member: CrackerSJ (Mar 20 2023)
+
+New Trusted Member: newworldpower (Mar 20 2023)
+
+Removed a forum called Dark and Darker (Mar 27 2023)
+
+Added support for push notifications on iOS 16.4+ (Mar 31 2023)
+
+Really old stuck registered push notification devices can now be removed and deleted (edge cases) (Apr 1 2023)
+
+Added a guide to help users get push notifications setup for their iOS 16.4+ devices (Apr 3 2023)
+
+
+If you missed the previous updates, you can read about them here: https://forums.d2jsp.org/topic.php?t=92302787
+
+If you have any ideas or suggestions please remember to post them in the Site Suggestions forum. Thanks for your continued support and involvement in our community!
+Read More
+Site Updates: Sep 1 2021 - Feb 7 2022
+Feb 7 2022 by Kevin
+Hello everyone!
+
+With 2022 in full swing we felt it was time once again to post an update of what has happened since we last shared. Over the last five months there has been tremendous growth and activity within our community. On the d2jsp staff side we've gone through 25 staff promotions, 5 staff retirements and have added 13 new trusted members. We have also been hard at work improving the community and the overall user experience through over 100 site updates, changes and new features. The full list of updates and changes can be found below.
+
+The record on the fastest Ladder Slasher reset was set, where bdan reset the Softcore Ladder in 8 days, 22 hours and 15 minutes. For those of you who are not familiar with Ladder Slasher, it is a free RPG game that you can play in your web browser, on your desktop or mobile device. I encourage you to check it out if you haven't done so.
+
+With the release of Diablo 2:Resurrected we saw an explosion of activity shattering our online user record to over 30,000 simultaneous online users. This activity was responsible for over 6.2 million trade topics composed just shy of 21.5 million posts. With the announcement of patch 2.4 we have quite a bit to look forward to such as Ladder Rank Play, Class Balance Changes, Mercenary Changes & New Rune Words! You can find all the details in the announcement here: https://news.blizzard.com/en-us/diablo2/23746135/diablo-ii-resurrected-patch-2-4-highlights-coming-soon. Here are the official ptr patch notes if you're interested: https://news.blizzard.com/en-us/diablo2/23765907/diablo-ii-resurrected-patch-2-4-balance-ptr We have been told to expect the first ever Ladder Rank play to start early in 2022 and are very excited!
+
+With the trading brought to us from Diablo 2:Resurrected we are happy to announce a complete rewrite and launch of our free, safe and secure trade mediation service. We have been able to get the wait times down to an average of one minute from request to first contact. This would have never been possible without the amazing support of our staff and mediators. We thank you for all of your continued help in keeping trades safe and secure. If you haven't yet used our free mediation service we highly encourage you to check it out. It's as simple as one click at the top of your trade topic to ensure fast, safe and secure trades. There is some more information on this free service in the site article: How To Request A Mediator And Prevent Scams.
+
+As promised here is a full list of all changes since the last update:
+
+Public Changes [Sep 1 2021 - Feb 7 2022]:
+Updated Viewing a Posts and Photo Gallery Images to the new style (Sep 1 2021)
+
+Signatures in Posts will no longer take up any space if they are empty or not shown (Sep 1 2021)
+
+Updated some text on the suspended page (Sep 1 2021)
+
+Cleaned up and removed guild charter background images that no longer load (Sep 1 2021)
+
+Removed images from guild charters that no longer load (Sep 1 2021)
+
+Hovering over "closed/gray" links will now show an alternate color for most styles (Sep 2 2021)
+
+Updated Message Preview and New/Reply private message tabs to be titles instead (Sep 2 2021)
+
+Moved the post # text and link from the left to the right on posts (Sep 2 2021)
+
+Report Post is now labeled as Report on posts (Sep 2 2021)
+
+Removed underlines on the right control element links in posts and photo gallery until mouseover (Sep 2 2021)
+
+Updated the warning icon to use the new icon next to posts that were flagged as violations (Sep 2 2021)
+
+Staff promotion: HereComesTheKraken Member -> Members++ (Sep 2 2021)
+
+Slightly reduced the padding between the right controls when viewing posts (Sep 3 2021)
+
+Updated the Topic Tag emoji to use a defined icon made by Sane (Sep 3 2021)
+
+Changed inappropriate hidden post label color from "red" to "gray" (Sep 3 2021)
+
+Updated and redesigned the header in the Warn Logs page (Sep 3 2021)
+
+User Profile warn % is no longer shown if a user has 0% warning, and also removed the parenthesis around the number (Sep 3 2021)
+
+Added new Price Check, FT, ISO, and Poll icons from Sane (Sep 4 2021)
+
+Added new edit icon from Sane and applied to various locations (Sep 4 2021)
+
+Edit icon for profile Status now has a proper hover cursor (Sep 4 2021)
+
+Updated the The Private Message System and its Features help document to reflect the moving of the User Search tool (Sep 4 2021)
+
+Staff promotion: Atari- Member -> Members++ (Sep 5 2021)
+
+Added new Diablo 2:Resurrected Trade forums: D2:R Softcore Trading, D2:R Hardcore Trading, D2:R Classic Trading, D2:R Console Trading (Sep 6 2021)
+
+Updated the following pages to use the new edit icon: Donate For Me, Guild Charter/Topics/Polls, Photo Gallery Images, Donate Tool, Profile Blogs/Friends/Games/Ladder Slasher/Notes/Signature (Sep 6 2021)
+
+Profile URLs will now auto update to the id when using a name lookup (Sep 6 2021)
+
+Updated and redesigned the d2jsp Notifier message (Sep 7 2021)
+
+Increased flood control times as warning level increases, or if gold is locked (Sep 7 2021)
+
+Locked users can now use the Path of Exile trading forums to trade to repay their scams (Sep 7 2021)
+
+Post parsing will no longer generate a redundant URL=URL code when the displayed text is the actual URL (Sep 8 2021)
+
+Redesigned and updated the Guild Ranks page (Sep 8 2021)
+
+Updated and redesigned the Edit Guild Topic page (Sep 8 2021)
+
+More markup cleanups to the Edit Guild Topic page (Sep 9 2021)
+
+Fixed a bug where if you deleted the last post in a Guild Topic, it would not clear out the last poster information on the topic list (Sep 9 2021)
+
+Added a new feature when editing a Guild Topic that allows you to delete all the posts within that topic (Sep 9 2021)
+
+Softcore Ladder Slasher reset by Andrea94 (Sep 9 2021)
+
+Updated Edit Guild Poll page to use more of the new form styling (Sep 10 2021)
+
+Added an open timer to the D2:Resurrected trading forums (Sep 19 2021)
+
+New Trusted Member: imapkeryo (Sep 20 2021)
+
+Updated the Gone but not forgotten display for users that have passed away to fix some display issues (Sep 21 2021)
+
+Updated the "users browsing forum" text to be less redundant and correspond better with users browsing a topic (Sep 21 2021)
+
+Moved Forum Track link to the bottom of the page (Sep 21 2021)
+
+Redesigned Forum Topic List views to remove tabs, and place filters in a pager (Sep 21 2021)
+
+Added Tags that allow filtering by tag to the Forum Topic List header pager filter list where applicable (Sep 21 2021)
+
+Updated the Service icon to be more blue rather than green (Sep 21 2021)
+
+Made information more clear on the Suspended page (Sep 21 2021)
+
+Removed some no longer used CSS from forum views (Sep 22 2021)
+
+Reordered D2 Subforums in the Diablo II category (Sep 22 2021)
+
+Renamed Diablo II -> Trading Grounds to Legacy Trading (Sep 22 2021)
+
+Updated the countdown timer in the D2:Resurrected trading forums to use the proper timezone (Sep 22 2021)
+
+Reverted Legacy Trading to Trading Grounds (Sep 23 2021)
+
+Fixed a bug on the main www.d2jsp.org page that did not show the Top 50 Customers as a grid on some styles (Sep 23 2021)
+
+Streamlined part of the manual account recovery process (Sep 23 2021)
+
+Cleaned up and reworded some elements on the Set New Account Password page when resetting an account password (Sep 23 2021)
+
+Staff promotion: MikeG99 Trade Moderator -> Moderator (Sep 23 2021)
+
+Moved the Diablo 2 Resurrected discussion to it's own discussion subforum (Sep 25 2021)
+
+New FG purchase customers no longer need 15 posts to use images (Sep 26 2021)
+
+Added an account recovery warning to the top of the Contact page (Sep 27 2021)
+
+Updated the recovery page to have a direct option to reset the account password (Sep 27 2021)
+
+Added a new "not receiving email" button to the password recovery page (Sep 27 2021)
+
+Created a new verification system for customers (Sep 27 2021)
+
+Fixed an issue where certain topics could not be created in the D2:R Discussion forum (Sep 28 2021)
+
+More improvements and bug fixes to the new verification system (Sep 29 2021)
+
+Fixed another bug misclassifying the D2:R Discussion forum as a trading forum (Sep 30 2021)
+
+Updated Profile Games List to include Diablo II:Resurrected as the default choice. Also reworded some of the placeholder hints. (Sep 30 2021)
+
+Text search flood control lowered from 10 seconds to 5 seconds (Oct 1 2021)
+
+If applicable, topic tags will now display when text searching a forum (Oct 1 2021)
+
+Created an entirely new Account Recovery landing page to help direct people to the appropriate recovery option available (Oct 4 2021)
+
+Staff promotion: Moojilsuh Retired Moderator -> Moderator (Oct 6 2021)
+
+Created archive forums for D2:Resurrected trading subforums, and put Softcore on a 7 day auto archive (Oct 7 2021)
+
+Added user search option for D2:R archive post searching (Oct 7 2021)
+
+Added a limit search to the Scammer Accusation section. Topics older than a few months or closed topics will not show up in the results. (Oct 7 2021)
+
+Staff promotion: Yakir Retired Moderator -> Trade Moderator (Oct 7 2021)
+
+When making a Scammer Accusation, a drop down list of recent contacted users will now display to assist in reporting (Oct 8 2021)
+
+Removed "d2jsp - " prefix from the PM box and all sub page titles (Oct 10 2021)
+
+New rewrite and overhaul to the Request Mediator system implemented and live. The new system is only for D2:R at this point in time (Oct 12 2021)
+
+More tweaks and improvements to the new Mediation system (Oct 13 2021)
+
+Updated the Diablo III > Trading Market > Consoles tags from "Nintendo Switch" -> "Switch" (Oct 14 2021)
+
+Mediation requests in the Diablo II > Diablo 2:Resurrected > D2:R Console Trading so it now properly asks for Friend Code(Switch), PSN(Playstation) and Gamertag(Xbox) (Oct 14 2021)
+
+Added new HC tags for each console in the D2:R Consoles trading sub forum (Oct 15 2021)
+
+Added a warning message when posting in the original Diablo II or Diablo III trading forums that they are not the Diablo II: Resurrected section (Oct 16 2021)
+
+Added a search option to General Help (Oct 18 2021)
+
+Searching General Help and Scammer Accusations now search all posts from the last 365 days (Oct 18 2021)
+
+Fixed a bug where search results would not show up under some conditions (Oct 18 2021)
+
+Added D2:R trading as a search category for paid user searches (Oct 18 2021)
+
+Legacy Hardcore West, East, Europe subforums merged into a single Hardcore forum (Oct 19 2021)
+
+Legacy Classic West, East, Europe subforums merged into a single Classic subforum (Oct 19 2021)
+
+Fixed an issue where archived gold messages as csv would line wrap (Oct 20 2021)
+
+Renamed the Trading Market to Diablo 3 (Oct 21 2021)
+
+Amalgamated old Diablo 3 discussion forums(D3 Trophy Room, Strategy & Guides, Hardcore) into D3 Discussion (Oct 21 2021)
+
+Added "Tags" to the following forums (Oct 21 2021)
+
+Diablo II > Diablo 2 Discussion > Trophy Room - Tags: D2:R, D2
+
+Diablo II > Diablo 2 Discussion > Strategy & Guides - Tags: D2:R, D2
+
+Diablo II > Diablo 2 Discussion > Diablo Clone Hunters - Tags: D2:R, D2
+
+
+Created D3 Softcore Trading, amalgamated old Diablo 3 softcore forums in to this new forum and added Tags: Americas, Europe, Asia (Oct 21 2021)
+
+Created D3 Softcore Season Trading, amalgamated old Diablo 3 softcore seasons forums in to this new forum and added Tags: Americas, Europe, Asia (Oct 21 2021)
+
+Split out the old D2:R Console Trading forum into 3 new forums: D2:R Switch Trading, D2:R Xbox Trading and D2:R Playstation Trading (Oct 21 2021)
+
+The Trade Mediation # gold logs are now clickable links that take you to the mediation where you can view it at any point to see the history of your trade (Oct 27 2021)
+
+Created a new archive sub D2:R Hardcore 2021+ and archived old topics (Nov 1 2021)
+
+Registering will no longer strip bad characters from emails, it will now error informing the user to fix the errors (Nov 1 2021)
+
+In post search results, images and videos will now render at a proper max width on smaller width devices (Nov 1 2021)
+
+Viewing Previous Hourly Raffle drawings will now show the winners for that drawing (Nov 2 2021)
+
+Staff promotion: ConDiTioNaL Retired Moderator -> Members++ (Nov 8 2021)
+
+New Trusted Member: Showtek (Nov 8 2021)
+
+New Trusted Member: Definite (Nov 8 2021)
+
+Text searching post results redesigned and updated. By default, posts will truncate long content, but you can click the post itself to view the entire post (Nov 12 2021)
+
+When text searching, keyword highlighting should work much better, and it also scrolls the matches into view. (Nov 12 2021)
+
+Viewing a user's recent topics is now properly sorted by most recent first (Nov 15 2021)
+
+New Trusted Member: 037 (Nov 15 2021)
+
+Staff promotion: RatM Member -> Members++ (Nov 18 2021)
+
+Updated the View Recent Posts tool in users profiles to match the new display style (Nov 18 2021)
+
+Staff promotion: Ryans Retired Moderator -> Members++ (Nov 19 2021)
+
+Staff retirement: Lynerau Trade Moderator -> Retired Moderator (Nov 24 2021)
+
+Staff promotion: Holy-Martyr Retired Moderator -> Senior Moderator (Nov 26 2021)
+
+You can now untrack a topic you are currently tracking by clicking the Track Topic link within the topic, then selected Untrack Topic. (Nov 26 2021)
+
+New Trusted Member: R3MY (Nov 29 2021)
+
+New Trusted Member: 0me (Nov 29 2021)
+
+New Trusted Member: Andrea94 (Nov 29 2021)
+
+Staff promotion: Chetty Moderator -> Senior Moderator (Nov 29 2021)
+
+Staff promotion: Beacon Moderator -> Senior Moderator (Nov 29 2021)
+
+Staff promotion: eerock Trade Moderator -> Moderator (Nov 29 2021)
+
+Staff promotion: Atari- Members++ -> Trade Assistant (Nov 29 2021)
+
+Staff promotion: Udsuna Trade Assistant -> Junior Moderator (Nov 29 2021)
+
+Staff promotion: dj_cj Members++ -> Trade Assistant (Nov 29 2021)
+
+The "Purchase Another Profile Friend Slot" box will now be hidden when you search your friends or click on a notification about an update to your friends list (Dec 6 2021)
+
+Staff promotion: BulldogAviator Member -> Members++ (Dec 6 2021)
+
+Updated the RLT search page to use the new display style (Dec 7 2021)
+
+Updated all page titles to remove extraneous "d2jsp - " prefix (Dec 8 2021)
+
+All pages now have a suffix of " - d2jsp" (Dec 8 2021)
+
+Updated quick PM in topics to remove the new title suffix properly (Dec 8 2021)
+
+All styles now use the same font sizing (Dec 8 2021)
+
+Staff retirement: bunykins Members++ -> Retired Moderator (Dec 8 2021)
+
+Softcore Ladder Slasher reset by Carny (Dec 8 2021)
+
+Archived posts in the D3 Softcore Season Trading forum in preparation for Season 25 (Dec 9 2021)
+
+Staff promotion: Tears Member -> Members++ (Dec 9 2021)
+
+Updated the Buy Gold page to be more clear which option is selected (Dec 10 2021)
+
+Staff retirement: Markos. Junior Moderator -> Retired Moderator (Dec 13 2021)
+
+Staff promotion: Tandfen Trade Moderator -> Moderator (Dec 13 2021)
+
+Staff retirement: icecool Junior Moderator -> Retired Moderator (Dec 15 2021)
+
+Softcore Ladder Slasher reset by bdan (Dec 16 2021)
+
+Staff promotion: Linkin Trade Assistant -> Trade Moderator (Dec 19 2021)
+
+Staff retirement: staking Members++ -> Member (Dec 22 2021)
+
+When managing friends, the duplicate action error message now shows as a properly formatted error message, with a proper page title. (Dec 30 2021)
+
+On a user's recent posts page, you can now navigate directly to the last page of posts (Dec 31 2021)
+
+Added new forum: Lost Ark (Jan 10 2022)
+
+Staff promotion: ConDiTioNaL Members++ -> Trade Assistant (Jan 10 2022)
+
+Staff promotion: Kafir Retired Moderator -> Junior Moderator (Jan 10 2022)
+
+Time since first purchase will now show up on the verify page as per this suggestion (Jan 13 2022)
+
+New Trusted Member: ImCam (Jan 13 2022)
+
+New Trusted Member: Expanse (Jan 13 2022)
+
+New Trusted Member: Selet (Jan 13 2022)
+
+New Trusted Member: Chillax (Jan 17 2022)
+
+New Trusted Member: IboOne (Jan 17 2022)
+
+New Trusted Member: Sn0 (Jan 17 2022)
+
+Staff promotion: 037 Member -> Members++ (Jan 18 2022)
+
+Staff promotion: Apo720 Member -> Members++ (Jan 20 2022)
+
+Staff promotion: Showtek Member -> Members++ (Jan 20 2022)
+
+Staff promotion: bobdave Retired Moderator -> Members++ (Jan 24 2022)
+
+Softcore Ladder Slasher reset by derAmigo (Jan 29 2022)
+
+Posting rights adjusted for the Political & Religious Debate subforum to only allow users with 0% warning (Jan 30 2022)
+
+Archived posts in the Softcore Scourge Trading and Hardcore Scourge Trading forums in preparation for the new Path of Exile Archnemesis league (Feb 4 2022)
+
+Editing the first post in a trade topic now also updates the search cache for your post and topic instantly (Feb 4 2022)
+
+Valid bumps to trade topics will now also bump them in the search results! (Feb 4 2022)
+
+This only applies to bumps made after this update went live
+
+At present, they will show in the first page(s), but not necessarily sorted to the top
+
+
+In case you missed the previous updates, you can read about them here: https://forums.d2jsp.org/topic.php?t=85533608&f=28
+
+We are excited for all the new features we have planned to release for our growing community, check back in a few months to see what's new!
+Read More
+Top 50 Customers
+1. Bob888
+2. Therapie
+3. Munky
+4. Versace
+5. Daytona
+6. Snuffelupecus
+7. mytnh
+8. belikeme
+9. AK2
+10. Anonymous
+11. ServantOFtwilight
+12. Sane
+13. Anonymous
+14. DarkraiD299
+15. RxNz
+16. Polo1234
+17. iCRA
+18. SMNAC
+19. Bluff
+20. Linux
+21. szefer
+22. wiken
+23. StripPoker
+24. Nico
+25. D2kY
+26. rsioingphoenix
+27. Savina
+28. Saku
+29. Dalinkwent
+30. CorruptBovine
+31. frankobol
+32. TeHaCjusz
+33. TesticularFortitude
+34. moomeowwoof
+35. LukeC64
+36. Pacha
+37. kumabear
+38. PoKaH
+39. namesron
+40. Hax4Snax
+41. MyEnemy
+42. ek3
+43. M1DN1GHT
+44. Anonymous
+45. Justin
+46. Beowulf
+47. Dlablos
+48. Anonymous
+49. XANNY
+50. Rodzinho
+About d2jsp
+
+d2jsp.org was founded in 2002 by Paul Taulborg and is a support forum for all games, whether through trading, tournaments, discussion or information. We have changed and grown into the largest gaming and trading community on the Internet.
+
+ d2jsp.org is currently a huge international social network community and trading nexus, which focuses around an economy based on d2jsp Forum Gold. Players can buy and trade Forum Gold for numerous goods and services across a diverse platform of online games and users.
+
+Donate
+
+ d2jsp is also the home of Ladder Slasher, a free competitive hack and slash style RPG.
+
+
+
+© 2003-2025 d2jsp  Contact

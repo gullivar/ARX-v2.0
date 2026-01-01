@@ -1,0 +1,85 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and marketing . You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.
+Cookie Policy
+Privacy Policy
+
+Storage Preferences
+
+MARKETING
+PERSONALIZATION
+ANALYTICS
+Save
+Accept All
+Reject Non-Essential
+DISMISS
+Products
+Solutions
+Developers
+Resources
+Pricing
+Contact Us
+Sign In
+EN
+Build, Scale, Disrupt
+The world's most powerful suite of high availability blockchain APIs and developer tools
+Now part of
+Get Started
+Access Docs
+BROAD ACCESS
+Easily access major networks
+
+Whether you're getting your web3 project started or scaling for mass adoption, Infura's core node services provide best in class reliability, speed, and throughput. Explore the networks you can access through Infura.
+
+View All Networks
+Polygon
+Unichain
+Swellchain
+Avalanche
+Sei
+Arbitrum
+Optimism
+opBNB
+Monad
+DESIGNED FOR DEVELOPERS
+Ship faster with powerful and easy to use APIs
+
+When you build with Infura, you're building with the best. Discover the easy-to-use APIs that Infura is famous for and integrate with your dApp in minutes.
+
+Try It Out
+Powered by Consensys
+
+Infura is the best way for decentralized apps to leverage Consensys products and distribution. Access all Infura’s APIs directly from the MetaMask SDK, leverage them for your Snaps, and to power your Dapp on Linea! Explore Consensys.
+
+FOR DEVELOPERS
+FOR THE ECOSYSTEM
+FOR EVERYONE
+COMMITMENT TO DECENTRALIZATION
+Leading the way in decentralizing the web3 stack with DIN
+
+Infura is committed to progressively decentralizing the remote procedure call (RPC) layer via our Decentralized Infrastructure Network (DIN) initiative. We are working with leading providers, both centralized and decentralized, to collaboratively evolve to serve a growing number of blockchain APIs with higher throughput, performance, and no single point of failure.
+
+Dive Deeper into DIN
+“Infura was our first and only choice. We chose it for the reliability, speed, and transparency of the technology of the group that’s behind it. We’re pretty happy customers all around.”
+
+Zhen Yong, Co-Founder at Web3Auth
+
+The blockchain awaits
+
+Build your next project on Infura.
+
+Get Started For Free
+ABOUT
+Mission
+Careers
+Contact
+COMMUNITY
+Forum
+Discord
+Blog
+DEVELOP
+Docs
+Status
+Support
+@2025 INFURA • A CONSENSYS FORMATION
+Accessibility
+Terms
+Privacy

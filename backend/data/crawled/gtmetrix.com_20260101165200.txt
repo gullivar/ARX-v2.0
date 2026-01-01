@@ -1,0 +1,190 @@
+We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking “Preferences.”
+PreferencesAccept
+[](https://gtmetrix.com/)
+  * Features 
+    * #### Why GTmetrix?
+Learn how GTmetrix can help you uncover performance issues and features to kick-start your optimization journey.
+[Explore GTmetrix features](https://gtmetrix.com/features.html)
+    * #### Get Started for FREE
+Take GTmetrix for a test drive and kick start your web performance optimization journey.
+[See what you get with GTmetrix](https://gtmetrix.com/free-plan-features.html)
+    * #### Why Go GTmetrix PRO
+Level-up your performance optimization and testing capabilities with GTmetrix PRO.
+[Discover the full potential of GTmetrix PRO](https://gtmetrix.com/why-gtmetrix-pro.html)
+    * [Why GTmetrix?](https://gtmetrix.com/features.html)
+    * [What you get with a GTmetrix account](https://gtmetrix.com/free-plan-features.html)
+    * [Why Go GTmetrix PRO?](https://gtmetrix.com/why-gtmetrix-pro.html)
+  * [Pricing](https://gtmetrix.com/pricing.html)
+  * Resources 
+    * #### Resources
+Get a curated collection of web performance best practices and guides.
+[View Resources](https://gtmetrix.com/resources.html)
+    * #### Metrics & Audits
+Learn more about the metrics and audits seen on your GTmetrix Report.
+[View Metrics & Audits](https://gtmetrix.com/recommendations.html)
+    * #### Using GTmetrix
+Spotlights on GTmetrix features and how to get the most out of them.
+[View GTmetrix Guides](https://gtmetrix.com/blog/category/using-gtmetrix/)
+    * [View Resources](https://gtmetrix.com/resources.html)
+    * [View Metrics & Audits](https://gtmetrix.com/recommendations.html)
+    * [View GTmetrix Guides](https://gtmetrix.com/blog/category/using-gtmetrix/)
+  * [Blog](https://gtmetrix.com/blog/)
+
+
+[Log In](https://gtmetrix.com/#)
+[Get Started for Free](https://gtmetrix.com/#)
+[](https://gtmetrix.com/#)
+# Test your website speed
+## GTmetrix tells you how your website performs, why it's slow, and how to optimize it.
+×
+Test Now
+**Analysis Options**Seattle, WA, USAChromeUnthrottled Connection
+[Log in to Change Options](https://gtmetrix.com/#)
+![Test your website speed](https://gtmetrix.com/static/r315/images/home/header-report.png)
+## We're relied on by the best, with 1,377,758,496 pages analyzed so far.
+![Adobe](https://gtmetrix.com/static/r315/images/home/logo-adobe.png) ![GoDaddy](https://gtmetrix.com/static/r315/images/home/logo-godaddy.png) ![Disney](https://gtmetrix.com/static/r315/images/home/logo-disney.png) ![Razer](https://gtmetrix.com/static/r315/images/home/logo-razer.png) ![Shutterstock](https://gtmetrix.com/static/r315/images/home/logo-shutterstock.png) ![Roblox](https://gtmetrix.com/static/r315/images/home/logo-roblox.png)
+## Get Started with GTmetrix for FREE
+Test your page in different locations, monitor and set up Alerts, configure Analysis Options and more with a **free GTmetrix account**.
+[Try GTmetrix FREE today](https://gtmetrix.com/#) [Get full access with PRO](https://gtmetrix.com/pricing.html)
+### We'll show you where your page is slow, what's causing it, and how to fix it
+GTmetrix breaks down your page performance in an easy to read, summarized report.
+Get a detailed assessment of page performance with:
+  * [Lighthouse metrics](https://gtmetrix.com/#) and [audits](https://gtmetrix.com/#)
+  * [Web Vitals](https://gtmetrix.com/#) (LCP, TBT, CLS)
+  * [Real User Metrics (CrUX)](https://gtmetrix.com/#)
+  * [Various Analysis Options](https://gtmetrix.com/#)
+  * [Waterfall, Video and Report History](https://gtmetrix.com/#)
+  * [Speed Visualization (Filmstrip)](https://gtmetrix.com/#)
+
+[What else can GTmetrix do for you?](https://gtmetrix.com/features.html)
+![GTmetrix Report](https://gtmetrix.com/static/r315/images/home/features-report.png)
+### Get Real User Metrics with CrUX Data
+Track Core Web Vitals from actual visitors coming to your website with CrUX data.   
+  
+Monitor trends as far back as 6 months to identify patterns, address issues, and continuously optimize your website. 
+[Learn about CrUX data](https://gtmetrix.com/blog/what-is-crux-and-why-should-i-care)
+![CrUX Report](https://gtmetrix.com/static/r315/images/home/features-crux.png)
+### Track your performance over time
+We'll test your page on a schedule and keep track of how it's doing.
+Track historical trends and be aware of performance dips or spikes on an hourly, daily, weekly, or monthly basis.
+Visualize alerts triggered for your pages directly on the graphs, including notifications for failed reports.
+[Learn why monitoring is critical](https://gtmetrix.com/blog/why-you-need-to-monitor-your-site-for-performance/)
+![Report History graph](https://gtmetrix.com/static/r315/images/home/features-history.png)
+### Get notified when your page is slow
+Set up an alert and get notified when your page underperforms.   
+  
+We'll send you an alert linked to a full report so you can know what exactly happened, including if your page fails to generate a report. 
+![GTmetrix Alerts](https://gtmetrix.com/static/r315/images/home/features-alerts.png)
+### Latest News and Guides
+[![GTmetrix vs Lighthouse \(DevTools\)](https://gtmetrix.com/blog/wp-content/uploads/2025/12/GTmetrix-vs-DevTools-feat-image-462x241.png)](https://gtmetrix.com/blog/gtmetrix-vs-lighthouse-devtools/)
+#### [GTmetrix vs Lighthouse (DevTools)](https://gtmetrix.com/blog/gtmetrix-vs-lighthouse-devtools/)
+In this article, we compare GTmetrix to Google's Lighthouse run on Chrome DevTools. The post GTmetrix vs Lighthouse (DevTools) appeared first on GTmetrix.
+[Read more](https://gtmetrix.com/blog/gtmetrix-vs-lighthouse-devtools/)
+[![GTmetrix Alternatives](https://gtmetrix.com/blog/wp-content/uploads/2025/11/GTmetrix-Alternatives-feat-image-462x241.png)](https://gtmetrix.com/blog/gtmetrix-alternatives/)
+#### [GTmetrix Alternatives](https://gtmetrix.com/blog/gtmetrix-alternatives/)
+We discuss some web performance tool alternatives to GTmetrix, and how GTmetrix compares to them. The post GTmetrix Alternatives appeared first on GTmetrix.
+[Read more](https://gtmetrix.com/blog/gtmetrix-alternatives/)
+[Read the Blog](https://gtmetrix.com/blog/)
+### See how your page loads on different devices
+Test your page on over 55 different Simulated Device options.
+Analyze your performance with iPhones, iPads, Samsung Galaxy/Note, Google Nexus/Pixel phones, and other popular devices. 
+[Mobile Testing only available with GTmetrix PRO.](https://gtmetrix.com/pricing.html)
+![Simulated devices](https://gtmetrix.com/static/r315/images/home/features-devices.png)
+### How does your page perform around the world?
+See how your page performs in 26 different global test locations and make sure it loads fast for all your visitors worldwide.
+[Additional Test Locations only available with GTmetrix PRO.](https://gtmetrix.com/pricing.html)
+[See all our global test locations](https://gtmetrix.com/locations.html)
+### Analyze your site now and see how well it performs!
+#### Take advantage of all the features GTmetrix has to offer and make your site the fastest it can be!
+[Try it for FREE!](https://gtmetrix.com/#) [Get full access with PRO](https://gtmetrix.com/pricing.html)
+[Try us out for Free](https://gtmetrix.com/#)
+[](https://x.com/gtmetrix "X \(formerly Twitter\)") [](https://www.facebook.com/gtmetrix "Facebook") [](https://linkedin.com/company/gtmetrix "LinkedIn")
+###### Product
+  * [Explore GTmetrix](https://gtmetrix.com/features.html)
+  * [What you get for FREE](https://gtmetrix.com/free-plan-features.html)
+  * [Why Go GTmetrix PRO](https://gtmetrix.com/why-gtmetrix-pro.html)
+  * [Test Server Locations](https://gtmetrix.com/locations.html)
+  * [GTmetrix REST API](https://gtmetrix.com/api/docs/2.0/)
+
+
+###### Pricing
+  * [Plans](https://gtmetrix.com/pricing.html)
+  * [Custom Plan Creator](https://gtmetrix.com/pro/customize)
+
+
+###### Resources
+  * [View Resources](https://gtmetrix.com/resources.html)
+  * [Metrics & Audits](https://gtmetrix.com/recommendations.html)
+  * [FAQ](https://gtmetrix.com/faq.html)
+  * [Using GTmetrix](https://gtmetrix.com/blog/category/using-gtmetrix/)
+
+
+###### Blog
+  * [Changelog](https://gtmetrix.com/blog/category/changes/)
+  * [Case Studies](https://gtmetrix.com/blog/category/case-studies/)
+  * [How to Guides](https://gtmetrix.com/blog/category/how-to-guides/)
+  * [Optimization Explained](https://gtmetrix.com/blog/category/optimization-explained/)
+
+
+[](https://gtmetrix.com/)
+GTmetrix was created for website owners to easily test the performance of their webpages. [Learn more about us](https://gtmetrix.com/about.html) or [check out Careers](https://gtmetrix.com/careers.html).
+Got Questions? [Contact us](https://gtmetrix.com/contact.html).
+[](https://x.com/gtmetrix "X \(formerly Twitter\)") [](https://www.facebook.com/gtmetrix "Facebook") [](https://linkedin.com/company/gtmetrix "LinkedIn")
+* * *
+© 2026 GTmetrix, All rights reserved  [Terms of Service](https://gtmetrix.com/terms-of-service.html) | [Privacy](https://gtmetrix.com/privacy-policy.html) | [Cookies](https://gtmetrix.com/cookies.html) | [Legal](https://gtmetrix.com/legal.html) | [VAT](https://gtmetrix.com/vat.html)
+[](https://gtmetrix.com/#) [Cancel](https://gtmetrix.com/#) [Confirm](https://gtmetrix.com/#)
+  * Features 
+    * [Why GTmetrix?](https://gtmetrix.com/features.html)
+    * [What you get with a GTmetrix account](https://gtmetrix.com/free-plan-features.html)
+    * [Why Go GTmetrix PRO?](https://gtmetrix.com/why-gtmetrix-pro.html)
+  * [Pricing](https://gtmetrix.com/pricing.html)
+  * Resources 
+    * [View Resources](https://gtmetrix.com/resources.html)
+    * [View Metrics & Audits](https://gtmetrix.com/recommendations.html)
+    * [View GTmetrix Guides](https://gtmetrix.com/blog/category/using-gtmetrix/)
+  * [Blog](https://gtmetrix.com/blog/)
+
+
+### Log into GTmetrix
+Please validate your email to continue using GTmetrix.
+We have sent an e-mail to: 
+[Resend validation e-mail.](https://gtmetrix.com/#)
+Didn't get the e-mail? - [Contact us](https://gtmetrix.com/contact.html?type=feedback&subject=Help+with+my+GTmetrix+account).
+E-mail
+Password
+Keep me logged in [I forgot my password](https://gtmetrix.com/#)
+Log In
+* * *
+[Create an Account](https://gtmetrix.com/#) [Sign up for GTmetrix FREE!](https://gtmetrix.com/#)
+### Create an Account
+Sign up today and get a suite of features and options to make optimizing your website speed clear and easy!
+Almost done! Check your e-mail for a validation link.  
+Click on it to activate your account.
+[Resend validation e-mail.](https://gtmetrix.com/#)
+Didn't get the e-mail? - [Contact us](https://gtmetrix.com/contact.html?type=feedback&subject=Help+with+my+GTmetrix+account).
+First Name
+Last Name
+Nickname (do not fill out)
+E-mail*
+Password*
+Confirm Password*
+I agree to the [Terms of Service](https://gtmetrix.com/terms-of-service.html) and [Privacy Policy](https://gtmetrix.com/privacy-policy.html)
+Send me GTmetrix news, tips and offers
+Create an Account
+What is your company size? Select an option... Freelancer / Consultant Solopreneur / Startup Part of a Small company (2-10 people) Part of a Medium company (11-100 people) Part of a Large company (100+ people) Other (please specify)
+What is your primary goal with GTmetrix? Select an option... Test and optimize my own or company's website(s) Analyze client websites Monitor performance for multiple sites API Usage/Integration Not sure, just playing around Other (please specify)
+What best describes your role?* Select an option... Developer / Engineer Marketing SEO Product / UX Agency / Consultant Business Owner Other (please specify)
+I agree to the [Terms of Service](https://gtmetrix.com/terms-of-service.html) and [Privacy Policy](https://gtmetrix.com/privacy-policy.html)
+Send me GTmetrix news, tips and offers
+Back Create an Account
+* * *
+[Log In](https://gtmetrix.com/#) [Got an account? Log in now!](https://gtmetrix.com/#)
+### Forgot your password?
+Enter your e-mail address below to begin the process of resetting your password.
+E-mail
+Send Password
+A password reset link has been e-mailed to you.
+* * *
+[Log In](https://gtmetrix.com/#) [Got an account? Log in now!](https://gtmetrix.com/#)  
+[Create an Account](https://gtmetrix.com/#) [Sign up for GTmetrix FREE!](https://gtmetrix.com/#)
+[](https://gtmetrix.com/#)

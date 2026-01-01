@@ -1,0 +1,361 @@
+About Us
+Network
+Stats
+Sponsors
+Tools
+Resources
+Globalping
+Fast. Reliable. Automated.
+A free CDN for open source projects
+
+Optimized for JS and ESM delivery from npm and GitHub. Works with all web formats.
+
+345 billion requests
+past month
+over 21 248 TB
+past month
+
+// load any project hosted on npm
+
+https://cdn.jsdelivr.net/npm/package@version/file
+
+
+
+
+// load jQuery v3.6.4
+
+https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.min.js
+
+
+
+
+// use a version range instead of a specific version
+
+https://cdn.jsdelivr.net/npm/jquery@3.6/dist/jquery.min.js
+
+https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js
+
+
+
+
+// omit the version completely to get the latest one
+
+// you should NOT use this in production
+
+https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js
+
+
+
+
+// add ".min" to any JS/CSS file to get a minified version
+
+// if one doesn't exist, we'll generate it for you
+
+https://cdn.jsdelivr.net/npm/jquery@3.6.4/src/core.min.js
+
+
+
+
+// omit the file path to get the default file
+
+https://cdn.jsdelivr.net/npm/jquery@3.6
+
+
+
+
+// add / at the end to get a directory listing
+
+https://cdn.jsdelivr.net/npm/jquery/
+
+Full docs
+jsDelivr operates thanks to our main sponsors:
+Real-time search by
+Multi-CDN Global Network
+Built for production
+Four CDN
+& three DNS providers
+More than 540 points
+of presence
+Low latency "Near China"
+network
+Smart load-balancing
+and routing
+Multi-layer cache
+and failover
+Formal ToS
+and Privacy Policy
+1 mil+
+active oss projects served
+99.46%
+cache hit ratio
+136 286
+requests per second
+63 769 Mbps
+bandwidth
+View our network map
+Developer Friendly
+
+All files from npm and GitHub available with zero setup
+
+Usage statistics
+Combine multiple
+files on-demand
+Minify files on-demand
+Source map support
+Version aliasing
+Multiple
+IDE Integrations
+A free API for all your
+NPM and ESM needs
+
+The jsDelivr API allows you to get details about NPM packages, such as their versions, tags, and files. By analyzing package metadata and its real usage, it can automatically suggest the correct entry point for each file type.
+
+Additionally the API provides detailed download statistics for each project, version, and file, as well as network-wide usage statistics.
+
+Read the API documentation
+Get project entry points
+List project versions
+List package files
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+https://data.jsdelivr.com/v1/packages/npm/bootstrap@5.1.0/entrypoints
+ 
+// =>
+{
+  "
+entrypoints
+": {
+    "
+js
+": {
+      "
+file
+": "
+/
+dist
+/
+js
+/
+bootstrap
+.min
+.js
+",
+      "
+guessed
+":
+ false
+    },
+    "
+css
+": {
+      "
+file
+": "
+/
+dist
+/
+css
+/
+bootstrap
+.min
+.css
+",
+      "
+guessed
+":
+ false
+    }
+  }
+}
+Learn more about
+the infrastructure that
+powers jsDelivr
+Check our infographic
+A New-Age CDN for
+JavaScript modules
+
+Load modern JavaScript packages built for you on-demand.
+Works in modern web browsers, node.js, and deno.
+
+Global Multi-CDN
+HTTP/3, minification, brotli compression, fine-tuned HTTP caching, dependency preloading
+Permanent storage shared by all edge servers
+Learn more about ESM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+import { Fireworks } from 'https://esm.run/fireworks-js';
+
+let container = document.querySelector('.container');
+
+let options = {
+  gravity: 1.4,
+  opacity: 0.4,
+  autoresize: true,
+  acceleration: 1.00,
+};
+
+let fireworks = new Fireworks(container, options);
+
+fireworks.start();
+
+
+Run
+Analytics and Stats
+
+Use our stats to better understand how your projects are being used, which versions are popular, and which files are being downloaded the most.
+
+See more stats
+
+Top 10 npm packages past 30 days
+
+1
+npm/
+swiper
+16 589 660 105
+2
+npm/
+bootstrap
+16 335 125 567
+3
+npm/
+emoji-datasource-apple
+14 735 870 232
+4
+npm/
+prebid-universal-creative
+7 637 892 460
+5
+npm/
+slick-carousel
+7 309 264 399
+6
+npm/
+workbox-cdn
+6 293 761 138
+7
+npm/
+hls.js
+6 052 267 210
+8
+npm/
+bootstrap-icons
+4 260 319 995
+9
+npm/
+mathjax
+2 905 390 521
+10
+npm/
+gsap
+2 752 410 331
+Custom CDN Endpoints
+jsDelivr is happy to support unique OSS use-cases that require a fast CDN
+Explore all custom endpoints
+
+4 319 332 192
+
+Requests past month
+
+4 660 GB
+
+Bandwidth past month
+
+390 717 368
+
+Requests past month
+
+46 355 GB
+
+Bandwidth past month
+
+172 897 492
+
+Requests past month
+
+131 661 GB
+
+Bandwidth past month
+
+296 525
+
+Requests past month
+
+6 701 GB
+
+Bandwidth past month
+
+362 514
+
+Requests past month
+
+17 261 GB
+
+Bandwidth past month
+
+236 499 838
+
+Requests past month
+
+10 018 GB
+
+Bandwidth past month
+
+425 755
+
+Requests past month
+
+42 GB
+
+Bandwidth past month
+jsDelivr is used by millions of websites globally
+Become a sponsor
+Maintained by jsDelivr team and contributors
+Founded by Dmitriy Akulov
+Sign up to our newsletter
+Subscribe
+© jsdelivr.com, 2012 - 2025
+About
+Our History
+Our Sponsors
+Custom OSS CDN
+Status
+Terms & Policies
+d@jsdelivr.com
+Convert from:
+GitHub
+Google Hosted Libraries
+unpkg
+Skypack
+esm.sh
+From our Blog
+News: Globalping grows and goes independent
+jsDelivr May outage postmortem
+Joining forces with Algolia for an even better npm search
+New Website, Improved API, and ESM Support
+New Sponsor Announcement: Gcore Joins jsDelivr

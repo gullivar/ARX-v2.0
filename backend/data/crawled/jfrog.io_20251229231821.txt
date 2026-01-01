@@ -1,0 +1,173 @@
+Products
+Solutions
+Pricing
+Developers
+Resources
+Partners
+En 
+Contact Us
+Try JFrog
+Deliver Trusted Software
+in the AI Era
+
+Break down software delivery silos with one system of record for the software supply chain
+
+Free Trial
+Book A Demo
+Manage, Secure, and Govern Your AI and Software Assets from One Platform
+Artifact Management
+Supply Chain Security
+AI/ML Delivery
+App Risk Governance
+The gold standard for
+artifact management
+Accelerate software delivery with one central hub for everything that flows through your Software Supply Chain.
+Learn About JFrog Artifactory 
+See The JFrog Platform
+What’s New with JFrog
+New AI Catalog
+
+Establish centralized, cross-organization security and governance over every AI workload.
+
+Learn More 
+New Compromised
+Packages Detected
+
+After recent compromises of nx and other popular packages, NPM has faced its third major supply chain attack.
+
+Learn More 
+JFrog's New Evidence
+Partner Program
+
+Streamline Attestation Evidence Collection with OOTB Integrations Across the SDLC.
+
+Learn More 
+JFrog Announces
+AppTrust
+
+Ensure Software Integrity and Compliance With Evidence-based Controls and Contextualized Insights
+
+Learn More 
+New AI Catalog
+
+Establish centralized, cross-organization security and governance over every AI workload.
+
+Learn More 
+New Compromised
+Packages Detected
+
+After recent compromises of nx and other popular packages, NPM has faced its third major supply chain attack.
+
+Learn More 
+JFrog's New Evidence
+Partner Program
+
+Streamline Attestation Evidence Collection with OOTB Integrations Across the SDLC.
+
+Learn More 
+JFrog Announces
+AppTrust
+
+Ensure Software Integrity and Compliance With Evidence-based Controls and Contextualized Insights
+
+Learn More 
+New AI Catalog
+
+Establish centralized, cross-organization security and governance over every AI workload.
+
+Learn More 
+New Compromised
+Packages Detected
+
+After recent compromises of nx and other popular packages, NPM has faced its third major supply chain attack.
+
+Learn More 
+JFrog's New Evidence
+Partner Program
+
+Streamline Attestation Evidence Collection with OOTB Integrations Across the SDLC.
+
+Learn More 
+1
+2
+See All Announcements
+Empowering Everyone Everywhere
+Serving Enterprise Teams Across All Industries
+Developers
+Leaders
+DevOps
+Security
+AI/MLOps
+IoT
+
+We wanted to figure out what can we really use instead of having five, or six different applications. Is there anything we can use as a single solution? And Artifactory came to the rescue. It turned out to be a one-stop shop for us. It provided everything that we need.
+
+Keith Kreissl, Principal Developer, Cars.com
+Serving over 80% of the Fortune 100
+Ecosystem Freedom,
+Not Lock-in
+To your entire ecosystem: welcome to the era of automated, integrated, extendable, secure software supply chain management.
+Learn More
+Ready to Try JFrog?
+
+Get hands-on with a self-guided tour or a free trial,
+or contact our team to discuss your needs.
+
+Take A Tour
+Start Free Trial
+Book A Demo
+Products
+Artifactory
+Xray
+Curation
+Distribution
+Container Registry
+Connect
+JFrog ML
+JFrog Platform
+Start Free
+Resources
+Blog
+Security Research
+Events
+Integrations
+JFrog Help Center
+Software Supply Chain Topics
+Open Source
+JFrog Trust
+Compare JFrog
+Company
+About
+Management
+Investor Relations
+Partners
+Customers
+Careers
+Press
+Contact Us
+Brand Guidelines
+Developer
+Community
+Downloads
+Community Events
+Community Forum
+Applications
+Follow Us
+© 2025 JFrog Ltd All Rights Reserved
+Discover More
+Seamlessly Curate Software Packages Entering Your Organization
+What is a Software Supply Chain?
+What is a CVE?
+Terms of Use
+|
+Privacy Notice
+|
+Cookies Policy
+|
+Impressum
+|
+Cookies Settings
+|
+Accessibility Notice
+|
+Accessibility Mode

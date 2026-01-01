@@ -1,0 +1,589 @@
+SKIP TO CONTENT
+MIT Technology Review
+SIGN IN
+SUBSCRIBE & SAVE 25%
+MIT Technology Review
+SIGN IN
+SUBSCRIBE & SAVE 25%
+Featured Story
+NewCulture3 days
+MIT Technology Review’s most popular stories of 2025
+
+This year, hype around AI really exploded, and so did concerns about AI’s environmental footprint. We also saw some surprising biotech developments.
+
+Biotechnology and health1 month
+We’re learning more about what vitamin D does to our bodies
+Climate change and energy3 days
+The paints, coatings, and chemicals making the world a cooler place
+Computing5 days
+Meet the man hunting the spies in your smartphone
+Biotechnology and health6 days
+Researchers are getting organoids pregnant with human embryos
+Biotechnology and health1 month
+We’re learning more about what vitamin D does to our bodies
+Climate change and energy3 days
+The paints, coatings, and chemicals making the world a cooler place
+Artificial intelligence2 weeks
+AI materials discovery now needs to move into the real world
+Artificial intelligence4 days
+AI Wrapped: The 14 AI terms you couldn’t avoid in 2025
+Climate change and energy5 days
+Four bright spots in climate news in 2025
+
+Hype Correction
+An MIT Technology Review SeriesArtificial intelligence2 weeks
+The great AI hype correction of 2025
+
+Four ways to think about this year's reckoning
+
+Artificial intelligence
+What even is the AI bubble?
+
+Everyone in tech agrees we’re in a bubble. They just can’t agree on what it looks like — or what happens when it pops.
+
+Artificial intelligence
+AI materials discovery now needs to move into the real world
+Business
+AI coding is now everywhere. But not everyone is convinced.
+Artificial intelligence
+A brief history of Sam Altman’s hype
+Artificial intelligence
+AI might not be coming for lawyers’ jobs anytime soon
+Today's Newsletter
+
+The latest from
+
+The Algorithm: Our weekly AI email
+
+Sign up to get The Algorithm weekly in your inbox.
+
+Enter your email
+SIGN UP FOR FREE
+MORE NEWSLETTERS
+How social media encourages the worst of AI boosterism
+
+Hassabis was replying on X to an overexcited post by Sébastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI’s latest large language model, GPT-5, to find solutions to 10 unsolved problems in mathematics. “Science acceleration via AI has officially begun,” Bubeck crowed.
+
+Put your math hats on for a minute, and let’s take a look at what this beef from mid-October was about. It’s a perfect example of what’s wrong with AI right now.
+
+Bubeck was excited that GPT-5 seemed to have somehow solved a number of puzzles known as Erdős problems.
+
+Paul Erdős, one of the most prolific mathematicians of the 20th century, left behind hundreds of puzzles when he died. To help keep track of which ones have been solved, Thomas Bloom, a mathematician at the University of Manchester, UK, set up erdosproblems.com, which lists more than 1,100 problems and notes that around 430 of them come with solutions. 
+
+When Bubeck celebrated GPT-5’s breakthrough, Bloom was quick to call him out. “This is a dramatic misrepresentation,” he wrote on X. Bloom explained that a problem isn’t necessarily unsolved if this website does not list a solution. That simply means Bloom wasn’t aware of one. There are millions of mathematics papers out there, and nobody has read all of them. But GPT-5 probably has.
+
+It turned out that instead of coming up with new solutions to 10 unsolved problems, GPT-5 had scoured the internet for 10 existing solutions that Bloom hadn’t seen before. Oops!
+
+There are two takeaways here. One is that breathless claims about big breakthroughs shouldn’t be made via social media: Less knee jerk and more gut check.
+
+The second is that GPT-5’s ability to find references to previous work that Bloom wasn’t aware of is also amazing. The hype overshadowed something that should have been pretty cool in itself.
+
+Mathematicians are very interested in using LLMs to trawl through vast numbers of existing results, François Charton, a research scientist who studies the application of LLMs to mathematics at the AI startup Axiom Math, told me when I talked to him about this Erdős gotcha.
+
+But literature search is dull compared with genuine discovery, especially to AI’s fervent boosters on social media. Bubeck’s blunder isn’t the only example.
+
+In August, a pair of mathematicians showed that no LLM at the time was able to solve a math puzzle known as Yu Tsumura’s 554th Problem. Two months later, social media erupted with evidence that GPT-5 now could. “Lee Sedol moment is coming for many,” one observer commented, referring to the Go master who lost to DeepMind’s AI AlphaGo in 2016.
+
+But Charton pointed out that solving Yu Tsumura’s 554th Problem isn’t a big deal to mathematicians. “It’s a question you would give an undergrad,” he said. “There is this tendency to overdo everything.”
+
+Meanwhile, more sober assessments of what LLMs may or may not be good at are coming in. At the same time that mathematicians were fighting on the internet about GPT-5, two new studies came out that looked in depth at the use of LLMs in medicine and law (two fields that model makers have claimed their tech excels at). 
+
+Researchers found that LLMs could make certain medical diagnoses, but they were flawed at recommending treatments. When it comes to law, researchers found that LLMs often give inconsistent and incorrect advice. “Evidence thus far spectacularly fails to meet the burden of proof,” the authors concluded.
+
+But that’s not the kind of message that goes down well on X. “You’ve got that excitement because everybody is communicating like crazy—nobody wants to be left behind,” Charton said. X is where a lot of AI news drops first, it’s where new results are trumpeted, and it’s where key players like Sam Altman, Yann LeCun, and Gary Marcus slug it out in public. It’s hard to keep up—and harder to look away.
+
+Bubeck’s post was only embarrassing because his mistake was caught. Not all errors are. Unless something changes researchers, investors, and non-specific boosters will keep teeing each other up. “Some of them are scientists, many are not, but they are all nerds,” Charton told me. “Huge claims work very well on these networks.”
+
+*****
+
+There’s a coda! I wrote everything you’ve just read above for the Algorithm column in the January/February 2026 issue of MIT Technology Review magazine (out very soon). Two days after that went to press, Axiom told me its own math model, AxiomProver, had solved two open Erdős problems (#124 and #481, for the math fans in the room). That’s impressive stuff for a small startup founded just a few months ago. Yup—AI moves fast!
+
+But that’s not all. Five days later the company announced that AxiomProver had solved nine out of 12 problems in this year’s Putnam competition, a college-level math challenge that some people consider harder than the better-known International Math Olympiad (which LLMs from both Google DeepMind and OpenAI aced a few months back). 
+
+The Putnam result was lauded on X by big names in the field, including Jeff Dean, chief scientist at Google DeepMind, and Thomas Wolf, cofounder at the AI firm Hugging Face. Once again familiar debates played out in the replies. A few researchers pointed out that while the International Math Olympiad demands more creative problem-solving, the Putnam competition tests math knowledge—which makes it notoriously hard for undergrads, but easier, in theory, for LLMs that have ingested the internet.
+
+How should we judge Axiom’s achievements? Not on social media, at least. And the eye-catching competition wins are just a starting point. Determining just how good LLMs are at math will require a deeper dive into exactly what these models are doing when they solve hard (read: hard for humans) math problems.
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+RELATED STORY
+A brief history of Sam Altman’s hype
+
+Hassabis was replying on X to an overexcited post by Sébastien Bubeck, a research scientist at the rival firm OpenAI, announcing that two mathematicians had used OpenAI’s latest large language model, GPT-5, to find solutions to 10 unsolved problems in mathematics. “Science acceleration via AI has officially begun,” Bubeck crowed.
+
+Put your math hats on for a minute, and let’s take a look at what this beef from mid-October was about. It’s a perfect example of what’s wrong with AI right now.
+
+Bubeck was excited that GPT-5 seemed to have somehow solved a number of puzzles known as Erdős problems.
+
+Paul Erdős, one of the most prolific mathematicians of the 20th century, left behind hundreds of puzzles when he died. To help keep track of which ones have been solved, Thomas Bloom, a mathematician at the University of Manchester, UK, set up erdosproblems.com, which lists more than 1,100 problems and notes that around 430 of them come with solutions. 
+
+When Bubeck celebrated GPT-5’s breakthrough, Bloom was quick to call him out. “This is a dramatic misrepresentation,” he wrote on X. Bloom explained that a problem isn’t necessarily unsolved if this website does not list a solution. That simply means Bloom wasn’t aware of one. There are millions of mathematics papers out there, and nobody has read all of them. But GPT-5 probably has.
+
+It turned out that instead of coming up with new solutions to 10 unsolved problems, GPT-5 had scoured the internet for 10 existing solutions that Bloom hadn’t seen before. Oops!
+
+There are two takeaways here. One is that breathless claims about big breakthroughs shouldn’t be made via social media: Less knee jerk and more gut check.
+
+The second is that GPT-5’s ability to find references to previous work that Bloom wasn’t aware of is also amazing. The hype overshadowed something that should have been pretty cool in itself.
+
+Mathematicians are very interested in using LLMs to trawl through vast numbers of existing results, François Charton, a research scientist who studies the application of LLMs to mathematics at the AI startup Axiom Math, told me when I talked to him about this Erdős gotcha.
+
+But literature search is dull compared with genuine discovery, especially to AI’s fervent boosters on social media. Bubeck’s blunder isn’t the only example.
+
+In August, a pair of mathematicians showed that no LLM at the time was able to solve a math puzzle known as Yu Tsumura’s 554th Problem. Two months later, social media erupted with evidence that GPT-5 now could. “Lee Sedol moment is coming for many,” one observer commented, referring to the Go master who lost to DeepMind’s AI AlphaGo in 2016.
+
+But Charton pointed out that solving Yu Tsumura’s 554th Problem isn’t a big deal to mathematicians. “It’s a question you would give an undergrad,” he said. “There is this tendency to overdo everything.”
+
+Meanwhile, more sober assessments of what LLMs may or may not be good at are coming in. At the same time that mathematicians were fighting on the internet about GPT-5, two new studies came out that looked in depth at the use of LLMs in medicine and law (two fields that model makers have claimed their tech excels at). 
+
+Researchers found that LLMs could make certain medical diagnoses, but they were flawed at recommending treatments. When it comes to law, researchers found that LLMs often give inconsistent and incorrect advice. “Evidence thus far spectacularly fails to meet the burden of proof,” the authors concluded.
+
+But that’s not the kind of message that goes down well on X. “You’ve got that excitement because everybody is communicating like crazy—nobody wants to be left behind,” Charton said. X is where a lot of AI news drops first, it’s where new results are trumpeted, and it’s where key players like Sam Altman, Yann LeCun, and Gary Marcus slug it out in public. It’s hard to keep up—and harder to look away.
+
+Bubeck’s post was only embarrassing because his mistake was caught. Not all errors are. Unless something changes researchers, investors, and non-specific boosters will keep teeing each other up. “Some of them are scientists, many are not, but they are all nerds,” Charton told me. “Huge claims work very well on these networks.”
+
+*****
+
+There’s a coda! I wrote everything you’ve just read above for the Algorithm column in the January/February 2026 issue of MIT Technology Review magazine (out very soon). Two days after that went to press, Axiom told me its own math model, AxiomProver, had solved two open Erdős problems (#124 and #481, for the math fans in the room). That’s impressive stuff for a small startup founded just a few months ago. Yup—AI moves fast!
+
+But that’s not all. Five days later the company announced that AxiomProver had solved nine out of 12 problems in this year’s Putnam competition, a college-level math challenge that some people consider harder than the better-known International Math Olympiad (which LLMs from both Google DeepMind and OpenAI aced a few months back). 
+
+The Putnam result was lauded on X by big names in the field, including Jeff Dean, chief scientist at Google DeepMind, and Thomas Wolf, cofounder at the AI firm Hugging Face. Once again familiar debates played out in the replies. A few researchers pointed out that while the International Math Olympiad demands more creative problem-solving, the Putnam competition tests math knowledge—which makes it notoriously hard for undergrads, but easier, in theory, for LLMs that have ingested the internet.
+
+How should we judge Axiom’s achievements? Not on social media, at least. And the eye-catching competition wins are just a starting point. Determining just how good LLMs are at math will require a deeper dive into exactly what these models are doing when they solve hard (read: hard for humans) math problems.
+
+This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.
+
+Features
+Long ReadBusiness2 weeks
+AI coding is now everywhere. But not everyone is convinced.
+
+Developers are navigating confusing gaps between expectation and reality. So are the rest of us.
+
+Climate change and energy
+This Nobel Prize–winning chemist dreams of making water from thin air
+
+Omar Yaghi thinks crystals with gaps that capture moisture could bring technology from “Dune” to the arid parts of Earth.
+
+Artificial intelligence
+How AGI became the most consequential conspiracy theory of our time
+Artificial intelligence
+OpenAI’s new LLM exposes the secrets of how AI really works
+Climate change and energy
+China figured out how to sell EVs. Now it has to deal with their aging batteries.
+Culture
+Can “The Simpsons” really predict the future?
+The New Conspiracy Age
+Culture2 months
+It’s never been easier to be a conspiracy theorist
+
+A mix of technology and politics has given an unprecedented boost to once-fringe ideas—but they are pretty much the same fantasies that have been spreading for hundreds of years.
+
+Artificial intelligence
+How AGI became the most consequential conspiracy theory of our time
+
+The idea that machines will be as smart as—or smarter than—humans has hijacked an entire industry. But look closely and you’ll see it’s a myth that persists for many of the same reasons conspiracies do.
+
+Culture
+How to help friends and family dig out of a conspiracy theory black hole
+Biotechnology and health
+How conspiracy theories infiltrated the doctor’s office
+Climate change and energy
+Why it’s so hard to bust the weather control conspiracy theory
+Culture
+Why do so many people think the Fruit of the Loom logo had a cornucopia?
+Magazine
+Our new issue!November/December 2025
+The Body issue
+Genetically optimized babies, new ways to measure aging, and embryo-like structures made from ordinary cells: This issue explores how technology can advance our understanding of the human body— and push its limits.
+READ NOW
+MORE ISSUES
+Biotechnology and health
+The race to make the perfect baby is creating an ethical mess
+
+A new field of science claims to be able to predict aesthetic traits, intelligence, and even moral character in embryos. Is this the next step in human evolution or something more dangerous?
+
+Biotechnology and health
+The quest to find out how our bodies react to extreme temperatures
+Biotechnology and health
+The astonishing embryo models of Jacob Hanna
+Biotechnology and health
+How aging clocks can help us understand why we age—and if we can reverse it
+Explainers
+MIT Technology Review Explains
+
+Let our writers untangle the complex, messy world of technology to help you understand what’s coming next in our popular explainer series.
+
+Previous slide
+Next slide
+1 / 10
+Biotechnology and health
+What we still don’t know about weight-loss drugs
+
+Questions surround their effects on brain health, pregnancy or long-term use.
+
+2 / 10
+Space
+What is the chance your plane will be hit by space debris?
+
+It's low but, um, never zero.
+
+3 / 10
+Biotechnology and health
+How do our bodies remember?
+
+The more we move, the more our muscle cells begin to make a memory of that exercise.
+
+4 / 10
+Biotechnology and health
+Trump is pushing leucovorin as a treatment for autism. What is it?
+
+The president also blamed the painkiller Tylenol for autism, but the evidence doesn’t stack up at all.
+
+5 / 10
+Policy
+How to measure the returns on R&D spending
+
+Forget the glorious successes of past breakthroughs—the real justification for research investment is what we get for our money. Here’s what economists say.
+
+6 / 10
+Artificial intelligence
+How do AI models generate videos?
+
+With powerful video generation tools now in the hands of more people than ever, let's take a look at how they work.
+
+7 / 10
+Artificial intelligence
+What is vibe coding, exactly?
+
+While letting AI take the wheel and write the code for your website may seem like a good idea, it’s not without its limitations.
+
+8 / 10
+Policy
+What is Signal? The messaging app, explained.
+
+With news this week of the messaging app being used to discuss war plans, we get you up to speed on what Signal should be used for—and what it shouldn’t.
+
+9 / 10
+Climate change and energy
+Google, Amazon and the problem with Big Tech’s climate claims
+
+How companies reach their emissions goals is more important than how fast.
+
+10 / 10
+Artificial intelligence
+Why does AI hallucinate?
+
+The tendency to make things up is holding chatbots back. But that’s just what they do.
+
+Collection
+Most Popular
+Previous slide
+Next slide
+1 / 10
+Culture
+The 8 worst technology flops of 2025
+
+The Cybertruck, sycophantic AI, and humanoid robots all made this year’s list of the biggest technology failures.
+
+2 / 10
+Artificial intelligence
+Quantum physicists have shrunk and “de-censored” DeepSeek R1
+
+They managed to cut the size of the AI reasoning model by more than half—and claim it can now answer politically sensitive questions once off limits in Chinese AI systems.
+
+3 / 10
+Artificial intelligence
+AI chatbots can sway voters better than political advertisements
+
+A conversation with a chatbot can shift people's political views—but the most persuasive models also spread the most misinformation.
+
+4 / 10
+Artificial intelligence
+An AI model trained on prison phone calls now looks for planned crimes in those calls
+
+The model is built to detect when crimes are being “contemplated.”
+
+5 / 10
+Policy
+The State of AI: Is China about to win the race? 
+
+In this conversation, the FT’s John Thornhill and MIT Technology Review’s Caiwei Chen consider the battle between Silicon Valley and Beijing for technological supremacy.
+
+6 / 10
+Biotechnology and health
+Cloning isn’t just for celebrity pets like Tom Brady’s dog
+
+Yes, you can pay $50,000 to clone a pet. But others are using the technology to rescue endangered species.
+
+7 / 10
+Artificial intelligence
+The State of AI: A vision of the world in 2030
+
+Senior AI editor Will Douglas Heaven talks with Tim Bradshaw, FT global tech correspondent, about what our world will look like in the next five years.
+
+8 / 10
+Artificial intelligence
+What’s next for AlphaFold: A conversation with a Google DeepMind Nobel laureate
+
+“I’ll be shocked if we don’t see more and more LLM impact on science,” says John Jumper.
+
+9 / 10
+Biotechnology and health
+Here’s why we don’t have a cold vaccine. Yet.
+
+Preventing the common cold is extremely tricky—but not impossible.
+
+10 / 10
+Biotechnology and health
+Here’s the latest company planning for gene-edited babies
+
+Entrepreneurs say it’s time to safety-test designer baby technology.
+
+Our 3rd Annual List
+10 Climate Tech Companies to WatchClimate change and energy3 months
+2025 Climate Tech Companies to Watch
+Climate change and energy
+Bill Gates: Our best weapon against climate change is ingenuity
+
+A measure I call the Green Premium reveals where we can invest in climate progress for maximum impact.
+
+Climate change and energy
+2025 Climate Tech Companies to Watch: Traton and its electric trucks
+Climate change and energy
+2025 Climate Tech Companies to Watch: Envision Energy and its “smart” wind turbines
+Climate change and energy
+How we picked promising climate tech companies in an especially unsettling year
+Climate change and energy
+2025 Climate Tech Companies to Watch: Cyclic Materials and its rare earth recycling tech
+Advertisement
+Nov/Dec 2025
+MIT Alumni News
+
+All the latest from MIT Alumni News, the alumni magazine of the Massachusetts Institute of Technology.
+
+Previous slide
+Next slide
+1 / 10
+Cover story
+Engineering better care
+
+Ingestible electronics. Microneedle patches. A capsule that could replace insulin shots. In Giovanni Traverso’s lab, the focus is always on making life better for patients.
+
+2 / 10
+Feature Story
+25 years of research in space
+
+MIT astronauts aboard the International Space Station—and the MIT researchers who have sent up experiments—have advanced our understanding of science, space, and the universe.
+
+3 / 10
+Feature Story
+Infinite folds
+
+Madonna Yoder ’17 studied rocks at MIT. But her passion is for paper—with no scissors. Today, she’s a tessellation expert who teaches, invents new designs, and writes papers on the underlying math.
+
+4 / 10
+Feature Story
+How Millie Dresselhaus paid it forward
+
+Encouraged early on by Nobel laureate Enrico Fermi, the “Queen of Carbon” laid the foundation for countless advances in nanotechnology—and mentored countless young scientists along the way.
+
+5 / 10
+1865
+Cardinal and gray: This settles it!
+
+Students chose the MIT colors in 1876, though alumni disputed which class was responsible. Pinpointing the precise shades required help from the National Bureau of Standards a half-century later.
+
+6 / 10
+77 Mass Ave
+Biodiversity: A missing link in combating climate change
+
+With healthy populations of animals that disperse seeds, tropical forests can absorb up to four times more carbon.
+
+7 / 10
+77 Mass Ave
+A bionic knee restores natural movement
+
+In a small clinical study, people with above-the-knee amputations said it helped them navigate more easily and felt more like part of their body.
+
+8 / 10
+77 Mass Ave
+Walking faster, hanging out less
+
+A computer vision study reveals changes in pedestrian behavior since 1980.
+
+9 / 10
+77 Mass Ave
+A I-designed compounds can kill drug-resistant bacteria
+
+An MIT team used artificial intelligence to design novel antibiotics, two of which showed promise against MRSA and gonorrhea.
+
+10 / 10
+November/December 2025
+MIT Alumni News
+Read the whole issue of MIT Alumni News, the alumni magazine of Massachusetts Institute of Technology.
+Sponsored
+Building a high performance data and AI organization (2nd edition)
+
+What it takes to deliver on data and AI strategy.
+
+In partnership withDatabricks
+
+Collection
+What's Next
+
+MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future.
+
+Previous slide
+Next slide
+1 / 10
+Climate change and energy
+What’s next for nuclear power
+
+Global shifts, advancing tech, and data center demand: Here’s what’s coming in 2025 and beyond.
+
+2 / 10
+Artificial intelligence
+What’s next for AI in 2025
+
+You already know that agents and small language models are the next big things. Here are five other hot trends you should watch out for this year.
+
+3 / 10
+Policy
+What’s next for our privacy?
+
+The US still has no federal privacy law. But recent enforcement actions against data brokers may offer some new protections for Americans’ personal information.
+
+4 / 10
+Climate change and energy
+Why EVs are (mostly) set for solid growth in 2025
+
+What happens in the US, however, will depend a lot on the incoming Trump administration.
+
+5 / 10
+Space
+What’s next for NASA’s giant moon rocket?
+
+The Space Launch System is facing fresh calls for cancellation, but it still has a key role to play in NASA’s return to the moon.
+
+6 / 10
+Artificial intelligence
+What’s next for drones
+
+Police drones, rapid deliveries of blood, tech-friendly regulations, and autonomous weapons are all signs that drone technology is changing quickly.
+
+7 / 10
+Biotechnology and health
+What’s next for MDMA
+
+The FDA is poised to approve the notorious party drug as a therapy. Here’s what it means, and where similar drugs stand in the US. 
+
+8 / 10
+Biotechnology and health
+What’s next for bird flu vaccines
+
+If we want our vaccine production process to be more robust and faster, we’ll have to stop relying on chicken eggs.
+
+9 / 10
+Business
+What’s next in chips
+
+How Big Tech, startups, AI devices, and trade wars will transform the way chips are made and the technologies they power.
+
+10 / 10
+Artificial intelligence
+What’s next for generative video
+
+OpenAI's Sora has raised the bar for AI moviemaking. Here are four things to bear in mind as we wrap our heads around what's coming.
+
+Spotlight
+Meet tomorrow's superstars35 Innovators Under 35 20254 months
+35 Innovators Under 35 2025
+The world is full of extraordinary young people brimming with ideas for how to crack tough problems. Every year, we recognize 35 such individuals from around the world—all of whom are under the age of 35. Meet this year's list.
+Biotechnology and health
+2025 Innovator of the Year: Sneha Goenka for developing an ultra-fast sequencing technology
+
+Her computations allow physicians to more quickly diagnose and treat life-threatening genetic diseases.
+
+Culture
+How Trump’s policies are affecting early-career scientists—in their own words
+Artificial intelligence
+How Yichao “Peak” Ji became a global AI app hitmaker
+Climate change and energy
+Meet the Ethiopian entrepreneur who is reinventing ammonia production
+Computing
+Why basic science deserves our boldest investment
+
+Advertisement
+The Feed
+45,762 stories. 3,367 authors.
+126 years and counting.
+FILTER BY TOPIC
+NEWEST TO OLDEST
+LatestCulture
+MIT Technology Review’s most popular stories of 2025
+
+This year, hype around AI really exploded, and so did concerns about AI’s environmental footprint. We also saw some surprising biotech developments.
+
+SUBSCRIBE FOR FULL ACCESS
+Climate change and energy
+The paints, coatings, and chemicals making the world a cooler place
+
+Radiative cooling technologies scatter heat and light into space, which could cut air-conditioning demand and keep people safe in heat waves.
+
+Artificial intelligence
+AI Wrapped: The 14 AI terms you couldn’t avoid in 2025
+
+From “superintelligence” to “slop,” here are the words and phrases that defined another year of AI craziness.
+
+Computing
+Meet the man hunting the spies in your smartphone
+
+Ronald Deibert and his research group, the Citizen Lab, have rigorously worked to unveil alarming digital threats for the past two decades. Now, he warns, this kind of work is under threat.
+
+Climate change and energy
+Four bright spots in climate news in 2025
+
+Things aren’t great, but there are a few positive signs, we promise.
+
+Biotechnology and health
+Researchers are getting organoids pregnant with human embryos
+
+Here’s what a pregnancy looks like inside a microfluidic chip.
+
+You've seen 92 stories, or 0.2% of our archive
+LOAD MORE STORIES
+SUBSCRIBE TO READ IT ALL
+The latest iteration of a legacy
+Founded at the Massachusetts Institute of Technology in 1899, MIT Technology Review is a world-renowned, independent media company whose insight, analysis, reviews, interviews and live events explain the newest technologies and their commercial, social and political impact.
+READ ABOUT OUR HISTORY
+Advertise with MIT Technology Review
+Elevate your brand to the forefront of conversation around emerging technologies that are radically transforming business. From event sponsorships to custom content to visually arresting video storytelling, advertising with MIT Technology Review creates opportunities for your brand to resonate with an unmatched audience of technology and business elite.
+ADVERTISE WITH US
+
+© 2025 MIT Technology Review
+
+About us
+Careers
+Custom content
+Advertise with us
+International Editions
+Republishing
+MIT Alumni News
+Help & FAQ
+My subscription
+Editorial guidelines
+Privacy policy
+Terms of Service
+Write for us
+Contact us
+linkedin opens in a new window
+instagram opens in a new window
+reddit opens in a new window
+facebook opens in a new window
+rss opens in a new window
+Cookie Policy
+
+We use cookies to give you a more personalized browsing experience and analyze site traffic.See our cookie policy
+
+Accept all cookies
+Cookies settings

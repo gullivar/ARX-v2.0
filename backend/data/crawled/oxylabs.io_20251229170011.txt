@@ -1,0 +1,527 @@
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You may find more detailed information about your data processing here.
+
+Show details
+Allow all cookies
+Customize
+Skip to main content
+Proxy locations
+
+Network status
+
+Documentation
+
+hello@oxylabs.io
+
+English (EN)
+
+Log in
+
+Proxies
+Scraping solutions
+Data for AI
+AI studio
+Pricing
+Resources
+Try oxylabs today
+
+Best proxy service for 2025 by
+
+Access any Public data. Power any Workflow.
+
+From proxies and browser automation tools to complete web scraping solutions and ready-to-use datasets, we've got you covered.
+
+Try Oxylabs for free
+Start with Google
+
+New
+
+Web Scraper API now supports self-healing parser presets.
+
+Trusted by 4000+ clients globally:
+
+Built for every use case - powered by one platform
+AI training & RAG
+AI training & RAG
+E-Commerce
+Marketing intelligence
+Cybersecurity
+Custom
+AI training & RAG
+
+Fuel your AI, LLM, and RAG applications with high-quality, real-time web data for training and inference.
+
+Multimodal video data
+Real-time Search data
+Web data for AI & LLMs
+Talk to an expert
+< 1 sec
+
+average response time
+
+99%+
+
+public data retrieval average success rate
+
+Solutions covering every step of your data extraction journey
+
+Connection layer
+
+Proxies
+
+Access layer
+
+Unblockers
+
+Scraping layer
+
+Scraper APIs
+
+Data layer
+
+Datasets
+
+Connection layer
+
+Reach difficult targets easily for reliable scraping
+
+Residential Proxies
+
+50% Off
+
+Residential IP addresses for block-free scraping.
+
+See more
+
+Mobile Proxies
+
+40% Off
+
+20M+ mobile IPs for precise targeting.
+
+See more
+
+Connection layer
+
+Visit targets at scale with fast throughput at low cost
+2M+
+
+Total Datacenter IP count
+
+188+
+
+Available countries
+
+0.25s
+
+Response time
+
+Datacenter Proxies
+
+5 Free IPs
+
+Cost-effective proxy solution for high-volume scraping jobs.
+
+See more
+
+Dedicated Datacenter Proxies
+
+Exclusive high-performance proxies for private and uninterrupted access.
+
+See more
+
+Connection layer
+
+Reach tough targets with high-speed, premium ASN IPs
+Premium
+
+ASN Providers
+
+Unlimited
+
+Bandwidth
+
+99.9%
+
+Uptime
+
+ISP Proxies
+
+Fast, premium proxies for traffic-intensive web tasks.
+
+See more
+
+Dedicated ISP Proxies
+
+Performant solution for demanding scraping with proxies that are exclusively yours.
+
+See more
+
+Access layer
+
+Fetch public data from modern websites reliably
+
+Web Unblocker
+
+AI-powered proxy solution for block-free scraping.
+
+See more
+
+Unblocking Browser
+
+Headless browser for AI agents and advanced scraping
+
+See more
+
+Scraping layer
+
+Retrieve parsed data from any target with scraping solutions
+
+Web Scraper API
+
+All-in-one web data collection platform.
+
+See more
+
+AI Studio
+
+A suite of AI-powered tools for various scraping projects.
+
+See more
+
+Data layer
+
+Build custom datasets tailored to your exact needs
+
+Datasets
+
+Highly-tailored custom web datasets designed for your use case.
+
+See more
+Power your workflows
+
+Find, collect, and have ready-to-use web data using natural language through a new suite of AI-powered tools.
+
+AI-Scraper
+
+Generate structured data quickly with natural-language prompts.
+
+Go to app
+AI-Crawler
+Browser Agent
+AI-Search
+AI-Map
+All your data – one view
+
+Get a unified view of your products, performance, and usage – all in one dashboard.
+
+Get started
+Product management
+
+Activate or deactivate your products, manage users, control your IPs, and more.
+
+Limits & spending
+
+Stay in control by tracking spending habits and setting limits that work for you.
+
+Advanced statistics
+
+Monitor your traffic activity and get a clear view of your products' performance.
+
+Over 1000 positive reviews
+
+Trusted by innovators worldwide
+
+4.5
+
+out of 5
+
+9.3
+
+out of 10
+
+4.7
+
+out of 5
+
+4.5
+
+out of 5
+
+Why top companies choose us
+
+Discover how industry leaders drive real results with our solutions.
+
+See all stories
+
+“Vast proxy network and almost 100% uptime, we execute crucial data operations and provide our clients with the freshest retail insights."
+
+Devon Kelly Walczak
+
+SVP Operations
+
+View video
+
+“With Oxylabs we not only revolutionized our approach but also significantly enhanced our web crawling capabilities and, most importantly, reduced our costs."
+
+Javier Valazquez Rodriguez
+
+Managing Director
+
+View video
+
+“Oxylabs offered one of the best price-to-value combinations in the market and helped us save our total web scraping costs."
+
+Wei Zheng
+
+Chief Product Officer
+
+View video
+
+“We managed to find a way to monitor certain sites that we couldn't monitor before, and, as a result, reach out to more customers and provide them with a better user experience.
+
+Aleksandra Jovanovic
+
+Database Developer
+
+View video
+Driven by transparency and excellence
+Best proxy service of 2025
+
+PCMag
+
+Leader in the G2 Enterprise Grid® Report
+
+Spring, 2025
+
+Best Enterprise Provider
+
+Proxyway, 2025
+
+Certified data centers and upstream providers
+Guaranteed insurance
+
+All of our products are covered by Technology Errors & Omissions (Technology E&O) and Cyber Insurance.
+
+Top Targets supported
+
+Fits easily into your projects
+
+Set up instantly using simple, clear code samples for multiple programming languages.
+
+See documentation
+Python
+cURL
+Node.js
+PHP
+GO
+Java
+C#
+Residential Proxies
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+import requests
+
+username = "customer-USER"
+password = "PASS"
+proxy = "pr.oxylabs.io:7777"
+
+proxies = {
+  'http': f'http://{username}:{password}@{proxy}',
+  'https': f'http://{username}:{password}@{proxy}'
+}
+
+response = requests.request(
+    'GET',
+    'https://ip.oxylabs.io/location',
+    proxies=proxies,
+)
+
+print(response.text)
+Copy
+Scraping Experts
+
+Access expert-led video lessons and master your web scraping skills.
+
+Visit
+Github
+
+Discover our integrations and step-by-step technical scraping tutorials.
+
+Visit
+Discord community
+
+Join our community and connect with web scraping enthusiasts.
+
+Join Discord
+YouTube channel
+
+Explore our video tutorials on web scraping, tips & tricks, and more.
+
+Visit
+Seamless integration with 30+ tools
+
+Plug into more than 30 tools for faster workflows and smarter automation.
+
+See all integrations
+Begin your journey
+
+Tour the platform, read a few deep dives in our blog, dig into our documentation, or start using our products right away!
+
+Get started
+Documentation
+Blog
+Help Center
+Developers Hub
+What's new
+See all
+Proxies
+
+2025-12-15
+
+Advanced Filters for Residential Proxies
+
+Two new proxy filters: by operating systems and IP version (IPv4 or IPv6).
+
+Web Scraper API
+
+2025-12-05
+
+Result Aggregator
+
+Bundle data from multiple Web Scraper API requests into customizable batches.
+
+Unblocking Browser
+
+2025-11-25
+
+Unblocking Browser session inspection
+
+Inspect Unblocking Browser sessions via live VNC view for easier debugging.
+
+Proxies
+
+2025-10-30
+
+New Datacenter Proxy locations
+
+Five new European locations: Slovenia, Slovakia, Greece, Latvia, and Austria.
+
+Web Scraper API
+
+2025-10-01
+
+Self-healing parser presets
+
+Parser presets can now automatically adjust and adapt to website changes.
+
+Proxies
+
+2025-09-23
+
+Datacenter Proxy pricing update
+
+Two new smaller pay-per-traffic plans for lower commitment and easier start.
+
+ISO/IEC 27001:2022 certified products:
+
+Proxy Solutions
+
+Scraper APIs
+
+Scale up your business with Oxylabs®
+
+Register
+Contact Sales
+
+COMPANY
+
+About us
+Our values
+Affiliate program
+Service partners
+Press area
+Residential Proxies sourcing
+Careers
+OxyCon®
+Project 4beta
+Sustainability
+Community
+
+PROXIES
+
+Datacenter Proxies
+Dedicated Datacenter Proxies
+Residential Proxies
+SOCKS5 Proxies
+Mobile Proxies
+ISP Proxies
+Private Proxies
+Free Proxies
+
+ADVANCED PROXY SOLUTIONS
+
+Web Unblocker
+
+DATA COLLECTION
+
+Web Scraper API
+Proxy Servers
+
+DATASETS
+
+Datasets
+
+RESOURCES
+
+Documentation
+Use cases
+Web Scraper API Playground
+Release notes
+Developers Hub
+Open source tools
+Blog
+OxyCopilot Prompts Library
+FAQ
+
+INNOVATION HUB
+
+Features
+Intellectual Property
+OxyCopilot story
+
+CORPORATE GOVERNANCE
+
+Privacy Policy
+KYC Policy
+Trust Center
+Trust & Safety
+Vulnerability Disclosure Policy
+Speak up
+Code of Conduct
+Code of Ethics
+
+© 2025 oxylabs.io. All Rights Reserved
+
+hello@oxylabs.io
+support@oxylabs.io
+career@oxylabs.io
+English
+中文

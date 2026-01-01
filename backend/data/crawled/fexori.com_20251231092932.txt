@@ -1,0 +1,2 @@
+405 Not Allowed
+nginx/1.18.0 (Ubuntu)

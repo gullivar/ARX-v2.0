@@ -1,0 +1,79 @@
+Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop Android iPhone & iPad Desktop Integrations Pricing Teams API Blog Help Login or Signup Latest Pushover News: Replacing AT&T Email-To-Text With Pushover Notifications Simple Notifications Pushover makes it easy to get real-time notifications on your
+        Android, iPhone, iPad, and Desktop (Android Wear and Apple Watch, too!) Powered by Pushover With our Android , iPhone & iPad , and Desktop Browser clients,
+      you can receive unlimited push notifications on all of your devices from
+      dozens of websites, services, and applications that
+      already integrate with Pushover.  Just supply your Pushover User
+      Key or your Pushover
+      e-mail address and you'll be getting push notifications in an instant. Pushover for Teams Pushover for Teams is a monthly
+      service offering for organizations sending messages to multiple users and
+      includes a number of extra features such as user management and automated
+      onboarding.
+      Pricing is per month, per user, and more
+      information can be found on our Teams page . Pushover for Everyone Individuals and organizations not needing our Team features can use
+      Pushover for Android, iOS, and Desktop with no subscription and just a
+      simple one-time in-app purchase on each
+      platform where you need it, after a 30-day
+      free trial . Simple Integration For developers, system administrators, and everyone with just some
+      technical savvy, our API makes it
+      easy to integrate Pushover into your web app, network monitor, shell
+      script, and anything else you can think of to send notifications to
+      yourself or thousands of users.  Pushing messages is as easy as using the
+      HTTP libraries available in nearly every programming
+      language with no custom modules required. Command Line curl -s \
+  --form-string "token=abc123" \
+  --form-string "user=user123" \
+  --form-string "message=hello world" \
+  https://api.pushover.net/1/messages.json Python 3 import http.client, urllib
+conn = http.client.HTTPSConnection("api.pushover.net:443")
+conn.request("POST", "/1/messages.json",
+  urllib.parse.urlencode({
+    "token": "abc123",
+    "user": "user123",
+    "message": "hello world",
+  }), { "Content-type": "application/x-www-form-urlencoded" })
+conn.getresponse() Ruby require "net/https"
+
+url = URI.parse("https://api.pushover.net/1/messages.json")
+req = Net::HTTP::Post.new(url.path)
+req.set_form_data({
+  :token => "abc123",
+  :user => "user123",
+  :message => "hello world",
+})
+res = Net::HTTP.new(url.host, url.port)
+res.use_ssl = true
+res.verify_mode = OpenSSL::SSL::VERIFY_PEER
+res.start {|http| http.request(req) } Go package main
+
+import (
+    "net/http"
+    "net/url"
+)
+func main() {
+    http.PostForm("https://api.pushover.net/1/messages.json", url.Values{
+        "token":   {"abc123"},
+        "user":    {"user123"},
+        "message": {"hello world"},
+    })
+} Perl use LWP::UserAgent;
+use Mozilla::CA;
+
+LWP::UserAgent->new()->post(
+  "https://api.pushover.net/1/messages.json", [
+  "token" => "abc123",
+  "user" => "user123",
+  "message" => "hello world",
+]); PHP curl_setopt_array($ch = curl_init(), array(
+  CURLOPT_URL => "https://api.pushover.net/1/messages.json",
+  CURLOPT_POSTFIELDS => array(
+    "token" => "abc123",
+    "user" => "user123",
+    "message" => "hello world",
+  ),
+  CURLOPT_SAFE_UPLOAD => true,
+  CURLOPT_RETURNTRANSFER => true,
+));
+curl_exec($ch);
+curl_close($ch); Get Pushover for Android , Pushover for iPhone/iPad , or Pushover for Desktop and try it out free for
+        30 days. Pushover on Bluesky Privacy | Terms of Service | API Status Pushover® is a registered trademark of Pushover, LLC. Copyright © 2012-2025 Pushover, LLC.
+          All rights reserved.

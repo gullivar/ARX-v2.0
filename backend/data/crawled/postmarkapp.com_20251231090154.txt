@@ -1,0 +1,107 @@
+Postmark: Fast, Reliable Email Delivery Service | SMTP | API 🐙 Check out Postmark's new MCP Server! Try it out x Postmark Log In Why Postmark? Product Features Email API SMTP Service Message Streams Transactional Email Email Delivery Email Templates Inbound Email Analytics & Retention Integrations Postmark For Agencies Enterprise Startups Bootstrapped Startups Side Projects Postmark vs. SendGrid Mailgun Amazon SES SparkPost Mandrill Pricing Resources Blog API Documentation Getting Started Email Guides Email Comic Webinars Videos Podcast Labs DMARC Digests Glossary Help Support Center Contact Support Talk to Sales Status Log in Start free trial Why Postmark? Product Features Email API SMTP Service Message Streams Transactional Email Email Delivery Email Templates Inbound Email Analytics & Retention Integrations Postmark For Agencies Enterprise Startups Bootstrapped Startups Side Projects Postmark vs. SendGrid Mailgun Amazon SES SparkPost Mandrill Pricing Resources Blog API Documentation Getting Started Email Guides Email Comic Webinars Videos Podcast Labs DMARC Digests Glossary Help Support Center Contact Support Talk to Sales Status Log in Start free trial Start free trial Already have an account? Log in → I’ve had great success with @postmarkapp and the API is solid as gold. – Tyson Lawrie I just implemented @postmarkapp in like 5 minutes. Email received in Yahoo in seconds. I am sold. – Lola Spent the weekend shifting @SeshMysteries across from SendGrid to @postmarkapp and couldn't be happier with the experience so far ✨📩 – Dan Foster Been a postmark customer for a veeeerry long time. Stability and deliverability is so good I sometimes go months without thinking about it… just works(tm). – Ben Webster Just tried out @postmarkapp and boy is it blazing fast. Transactional emails that previously took 5-10s to reach my inbox with Mailgun are now hitting my inbox in less than 1s. 11/10 would recommend. – Steven Tey I’ve been so impressed with @postmarkapp since migrating almost all Smart Order Notifications transactional email to them last month. The peace of mind is amazing and the responsiveness of their support team is next level. – Kieran Masterton I have nothing but huge love for Postmark, one of my heroes in the bootstrapped world. – Anna Maste Sendgrid = Frustration Postmark = 💌 – Mike Verbruggen Ripped out Sendgrid and moved Growform's transactional emails over to @postmarkapp today. Their app is ridiculously easy to use, they have a clear focus on deliverability and great docs. Highly recommend so far. – Harvey Carpenter I’ve had great success with @postmarkapp and the API is solid as gold. – Tyson Lawrie I just implemented @postmarkapp in like 5 minutes. Email received in Yahoo in seconds. I am sold. – Lola Spent the weekend shifting @SeshMysteries across from SendGrid to @postmarkapp and couldn't be happier with the experience so far ✨📩 – Dan Foster Been a postmark customer for a veeeerry long time. Stability and deliverability is so good I sometimes go months without thinking about it… just works(tm). – Ben Webster Just tried out @postmarkapp and boy is it blazing fast. Transactional emails that previously took 5-10s to reach my inbox with Mailgun are now hitting my inbox in less than 1s. 11/10 would recommend. – Steven Tey I’ve been so impressed with @postmarkapp since migrating almost all Smart Order Notifications transactional email to them last month. The peace of mind is amazing and the responsiveness of their support team is next level. – Kieran Masterton I have nothing but huge love for Postmark, one of my heroes in the bootstrapped world. – Anna Maste Sendgrid = Frustration Postmark = 💌 – Mike Verbruggen Ripped out Sendgrid and moved Growform's transactional emails over to @postmarkapp today. Their app is ridiculously easy to use, they have a clear focus on deliverability and great docs. Highly recommend so far. – Harvey Carpenter The email delivery service that people actually like Stop worrying if your emails made it to the inbox, and get back to focusing on what matters—building great products. Start free trial API documentation → Since 2010, we've delivered billions of emails for companies of all sizes Paddle Indie Hackers Faire.com IKEA litmus desk minecraft livestream UNICEF Asana Moz Code Climate LiveChat 1Password Wistia Betterment Webflow InVision Start sending in minutes With API libraries for pretty much every programming language you can think of, Postmark fits seamlessly into any stack. More # Send an email with curl
+# Copy and paste this into terminal
+
+curl "https://api.postmarkapp.com/email" \
+  -X POST \
+  -H "Accept: application/json" \
+  -H "Content-Type: application/json" \
+  -H "X-Postmark-Server-Token: server token" \
+  -d '{
+  "From": "sender@example.com",
+  "To": "receiver@example.com",
+  "Subject": "Postmark test",
+  "TextBody": "Hello dear Postmark user.",
+  "HtmlBody": "<html><body><strong>Hello</strong> dear Postmark user.</body></html>",
+  "MessageStream": "outbound"
+}' # Send an email with the Postmark Rails Gem
+# Learn more -> https://postmarkapp.com/developer/integration/official-libraries#rails-gem # Add this to your gemfile
+gem 'postmark-rails'
+
+# Add this to your config/application.rb file:
+config.action_mailer.delivery_method = :postmark
+config.action_mailer.postmark_settings = { :api_token => "POSTMARK_API_TEST" }
+
+# Send the email
+class TestMailer < ActionMailer::Base
+  def hello
+    mail(
+      :subject => 'Hello from Postmark',
+      :to  => 'receiver@example.com',
+      :from => 'sender@example.com',
+      :html_body => '<strong>Hello</strong> dear Postmark user.',
+      :track_opens => 'true'
+    )
+  end
+end # Send an email with the Postmark Ruby Gem
+# Learn more -> https://postmarkapp.com/developer/integration/official-libraries#ruby-gem # Add the Postmark Ruby Gem to your Gemfile
+gem 'postmark'
+
+# Require gem
+require 'postmark'
+
+# Create an instance of Postmark::ApiClient
+client = Postmark::ApiClient.new('POSTMARK_API_TEST')
+
+# Example request
+client.deliver(
+  from: 'sender@example.com',
+  to: 'receiver@example.com',
+  subject: 'Hello from Postmark',
+  html_body: '<strong>Hello</strong> dear Postmark user.',
+  track_opens: true
+) // Send an email with the Postmark .NET library
+// Learn more -> https://postmarkapp.com/developer/integration/official-libraries#dot-net // Install with NuGet
+PM> Install-Package Postmark
+
+// Import
+using PostmarkDotNet;
+
+// Example request
+PostmarkMessage message = new PostmarkMessage {
+    From = "sender@example.com",
+    To = "receiver@example.com",
+    Subject = "Hello from Postmark",
+    HtmlBody = "<strong>Hello</strong> dear Postmark user.",
+    TextBody = "Hello dear postmark user.",
+    ReplyTo = "reply@example.com",
+    TrackOpens = true,
+    Headers = new NameValueCollection {{ "CUSTOM-HEADER", "value" }}
+};
+
+PostmarkClient client = new PostmarkClient("POSTMARK_API_TEST");
+
+PostmarkResponse response = client.SendMessage(message);
+
+if(response.Status != PostmarkStatus.Success) {
+    Console.WriteLine("Response was: " + response.Message);
+} // Send an email with the Postmark-PHP library
+// Learn more -> https://postmarkapp.com/developer/integration/official-libraries#php // Install with composer
+composer require wildbit/postmark-php
+
+// Import
+use Postmark\PostmarkClient;
+
+// Example request
+$client = new PostmarkClient("server token");
+
+$sendResult = $client->sendEmail(
+  "sender@example.com",
+  "receiver@example.com",
+  "Hello from Postmark!",
+  "This is just a friendly 'hello' from your friends at Postmark."
+); // Send an email with the Postmark.js library
+// Learn more -> https://postmarkapp.com/developer/integration/official-libraries#node-js // Install with npm
+npm install postmark --save
+
+// Require
+var postmark = require("postmark");
+
+// Example request
+var client = new postmark.ServerClient("server token");
+
+client.sendEmail({
+    "From": "sender@example.com",
+    "To": "receiver@example.com",
+    "Subject": "Test",
+    "TextBody": "Hello from Postmark!"
+}); Switching to Postmark? Check out our handy migration guides I’m switching from I’m switching from… SendGrid Mailgun Amazon SES SparkPost Mailchimp Transactional Stellar deliverability (without paying for a dedicated IP) You might say that Postmark has serious street cred with inbox providers. That's because we vet every new sender carefully, help you follow deliverability best practices, and never, ever let spammers use Postmark. Learn more → Promotional and transactional emails never mix Our API and SMTP service help you send your emails with ease, whether that's password reset emails, notifications, newsletters, or anything in between. To protect the deliverability of your crucial transactional emails—and make sure they arrive lightning fast—we route promotional messages like newsletters through a parallel but separate sending infrastructure. Learn more about Message Streams → 86% Customer Happiness Rating 😃 Great (86%) 🙂 Okay (4%) 😔 Not Good (10%) Customer feedback gathered through Help Scout over the past 60 days. Great support as a standard It's not just our email delivery that's fast and reliable. Our knowledgeable customer success team is here for you should you need us (and we never make you pay extra for premium support.) Paddle Indie Hackers Faire.com IKEA litmus desk minecraft livestream UNICEF Asana Moz Code Climate LiveChat 1Password Wistia Betterment Webflow InVision Since 2010 we've delivered billions of emails for companies of all sizes → Explore our features Email API SMTP Service Message Streams Transactional Email Email Delivery Email Templates Inbound Email Analytics Webhooks Security Email Experts Rebound Ready to get started? Join thousands of businesses that already trust their email delivery to Postmark. Try Postmark free No Credit Card Required Product Pricing Customers Reviews Dedicated IPs Referral Partner Program Latest Updates Features Email API SMTP Service Message Streams Transactional Email Email Delivery Templates Inbound Email Analytics & Retention Integrations Webhooks Security Email Experts Rebound Postmark For Agencies Startups Enterprise Bootstrapped Startups Side Projects Developers Postmark vs. SendGrid SparkPost Mailgun Amazon SES Mandrill Resources Blog API Documentation Getting Started Email Guides Email Comic Videos Podcast DMARC Digests Webinars Labs Migration Guides Newsletter Glossary Help Support Center Contact Support Talk to Sales Service Status Visit ActiveCampaign for: Marketing Automation CRM & Sales Automation Landing Pages SMS Automation Made with ♥ at ActiveCampaign Privacy Policy ↗ Cookie Policy Terms of Service EU Data Protection © ActiveCampaign, LLC , 2025.

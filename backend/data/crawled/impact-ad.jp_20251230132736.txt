@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<Error>
+<Code>AccessDenied</Code>
+<Message>User: arn:aws:iam::162552521016:user/fastly-origin-access is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::y1-impactad-apex" because no identity-based policy allows the s3:ListBucket action</Message>
+<RequestId>TY9CA98FR8H4XF2D</RequestId>
+<HostId>AzSYNwKUg9pstzMSWrqCIReT+Vn5H+Og2iIQr5nKi6TmY4nc7al0VqUBdHBKLrx7goAZMMipC6HCWG7Q+EybXIs1beiT+KCM</HostId>
+</Error>

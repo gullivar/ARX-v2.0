@@ -1,0 +1,166 @@
+New: Observability, AI Gateway, and Prerendering
+
+Close announcement bar
+Site navigation
+Go to homepage
+Skip to content
+Platform
+Toggle platform submenu
+Solutions
+Toggle solutions submenu
+Developers
+Toggle developers submenu
+Resources
+Toggle resources submenu
+Pricing
+Search
+Contact
+Log in
+Sign up
+Push your ideas to the web
+
+Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.
+
+Get started
+Contact Sales
+PLATFORM
+Everything you need to ship. Nothing you don’t.
+
+From vibe coding your first app to serving millions of users, Netlify handles the infrastructure so you can focus on building. No DevOps required. No complex setup. No surprise bills when you scale.
+
+Ship instantly
+
+Get your app live. Deploy from Bolt, Cursor, GitHub, or anywhere you build. Every change gets a shareable preview link.
+
+Deploy from anywhere
+Instant preview links
+Update code with Agent Runners
+See the workflow
+Build anything
+
+Everything your app needs in one place. Create APIs, save images, store data without juggling a ton of services.
+
+Marketing sites to AI apps
+Forms, functions, and APIs ready
+Database and image storage built-in
+Explore platform primitives
+Grows with you
+
+From first user to first million, without worry. Your app handles viral moments automatically. No crashes, no replatforming, just growth.
+
+Free tier that actually works
+Managed security
+Automatic scaling
+Learn about the platform
+PRIMITIVES
+Ready to use building blocks.
+
+Build APIs, store files, manage data, control performance. No backend setup required—just build and deploy.
+
+AI Gateway
+Serverless functions
+Data & storage
+Image CDN
+Automatic forms
+Power AI apps with AI Gateway
+
+Call OpenAI, Anthropic, or Gemini directly from your code without juggling keys or accounts. Every request is routed through one gateway, with usage tracking and safeguards included.
+
+Use AI without managing API keys
+Switch between 30+ models
+Monitor usage and costs in one place
+Read the AI Gateway docs
+EXAMPLE: GENERATE ALT TEXT WITH OPENAI
+import OpenAI from "openai";
+
+export default async (req: Request) => {
+  if (req.method !== "POST") {
+    return new Response("Method not allowed", { status: 405 });
+  }
+
+  try {
+    const { description } = await req.json();
+    if (!description) {
+      return new Response("Missing description", { status: 400 });
+    }
+
+    const client = new OpenAI();
+    const res = await client.responses.create({
+      model: "gpt-5-mini",
+      input: [
+        { role: "user", content: `Write concise alt text for: ${description}` },
+      ],
+    });
+
+    return Response.json({ altText: res.output_text });
+  } catch {
+    return new Response("Server error", { status: 500 });
+  }
+};
+
+export const config = {
+  path: "/api/alt-text",
+};
+Start building on Netlify
+
+Join millions of developers and teams bringing their ideas online.
+
+Get started for free
+Contact Sales
+Go to Netlify homepage
+GitHub
+LinkedIn
+Bluesky
+X (formerly known as Twitter)
+YouTube
+Discourse
+Products
+Deploy Previews
+Functions
+Agent Runners
+Observability
+Security
+Netlify CLI
+Netlify SDK
+Pricing
+Resources
+Docs
+Status
+Support
+Developer guides
+Changelog
+Integrations
+Guides
+Hire an agency
+Company
+About
+Agent Experience
+Blog
+Customers
+Careers
+Press
+Contact Us
+Sales
+Support
+Status
+Forums
+Stay up to date with Netlify news
+Email*
+Trust Center
+Privacy
+GDPR/CCPA
+Abuse
+Cookie Settings
+
+© 2025 Netlify
+
+Site theme
+System
+Dark
+Light
+Ask Netlify
+We use cookies to improve your browsing experience and for marketing purposes.
+Read our Privacy Policy
+Reject All
+Accept All
+Cookies Settings

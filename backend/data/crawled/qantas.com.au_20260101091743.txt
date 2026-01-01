@@ -1,0 +1,30 @@
+Fly with the Spirit of Australia | Qantas AU Qantas Australia Plan your trip {
+  "id": "flight-search",
+  "model": {
+    "features": {
+      "coconut": true,
+      "livePricing": true,
+      "businessTraveller": true,
+      "standalone": false,
+      "livePoints": true
+    },
+    "hyperlinks": {
+      "travellingWithChildrenUrl": "https://www.qantas.com/au/en/travel-info/children/unaccompanied.html",
+      "qantasOfficeUrl": "https://www.qantas.com/au/en/support/contact-us.html"
+    }
+  }
+} tab-name Flights tab-id book-flight {
+  "id": "qd-hotels-widget",
+  "model": {
+    "variant": "default"
+  }
+} tab-name Hotels and Airbnb tab-id hotels {
+  "id": "carTrawlerWidget",
+  "model": {
+    "slimMode": false,
+    "theme": "light",
+    "commercial": false,
+    "showPromoCode": false,
+    "carProvider": ""
+  }
+} tab-name Cars tab-id Cars left-aligned Protect your trip with Qantas Travel Insurance and earn up to 20,000 Qantas Points. Choose from single trip cover for travel overseas or within Australia, or an Annual Multi Trip policy to cover unlimited trips over 12 months (maximum 45 days per trip). Offer ends 17 February 2026. Terms and conditions apply. Get a quote tab-name Travel insurance tab-id travel-insurance Shortcuts Manage booking Use Flight Credit Check-in Flight status Multi-city Round the world 26 places you should visit in 2026 qantas-brand-red From vibrant cities to untouched landscapes, discover destinations rich in unforgettable experiences. Start planning your 2026 adventure. Find flight deals Discover more From vibrant cities to untouched landscapes, discover destinations rich in unforgettable experiences. Start planning your 2026 adventure. ti-2026-bucket-list none Hurry, sale ends in 3 automated 2025-12-28T23:59:00 Australia/Sydney ECONOMY SYD,MEL,BNE,ADL,PER,HBA Flight deals Departing from See all flight deals We don’t have any deals for your selection at the moment. We don’t have any deals for your selection at the moment. SYD-CNS::ECONOMY|AYQ::ECONOMY|KGC::ECONOMY|BME::ECONOMY|NAN::ECONOMY|APW::ECONOMY|HNL::ECONOMY|OGG::ECONOMY,MEL-BNE::ECONOMY|CNS::ECONOMY|KGC::ECONOMY|DRW::ECONOMY|APW::ECONOMY|NAN::ECONOMY|HNL::ECONOMY|OGG::ECONOMY,BNE-MEL::ECONOMY|DRW::ECONOMY|KGC::ECONOMY|BME::ECONOMY|ZQN::ECONOMY|APW::ECONOMY|NAN::ECONOMY|HNL::ECONOMY,ADL-OOL::ECONOMY|HBA::ECONOMY|HTI::ECONOMY|BME::ECONOMY|AKL::ECONOMY|NAN::ECONOMY|HNL::ECONOMY|OGG::ECONOMY,PER-LEA::ECONOMY|DRW::ECONOMY|LST::ECONOMY|MKY::ECONOMY|ZQN::ECONOMY|JNB::ECONOMY|LHR::ECONOMY|CDG::ECONOMY * Conditions apply. anchor-section-url flight-deals exclude-from-anchor-link true top-aligned true Explore all the ways you can earn and use Qantas Points, manage your account or check your balance. Log in Discover more marketing-offers:au/featured,marketing-offers:au/earn-points,marketing-offers:au/use-points smart-crop-5-4 style background-grey type offset-section heading Discover the Qantas experience text We're here to make your journey as exciting as the destination. Fly away with complimentary food, drinks, entertainment, baggage and more included in every Qantas fare. cta1 Experience the Qantas difference top-aligned true Sign up to Red Email for the latest travel deals, holiday inspiration and special offers. Subscribe true Qantas Business Rewards is the loyalty program rewarding Australian businesses. Enjoy flight savings and earn Qantas Points on everyday business expenses plus more. Join today Explore Qantas Business Rewards Conditions apply Go beyond the skies true Hotels true Holidays true Insurance test Insurance true Insurance test Shopping true Insurance test Credit cards true Wine style text-center top-aligned Do you have a COVID travel credit? You can request a refund by calling our dedicated team on 1300 668 885. Request a refund Important information generic You must be a Qantas Frequent Flyer member to earn and redeem Qantas Points. A joining fee may apply. Membership and points are subject to the Qantas Frequent Flyer program terms and conditions . generic * Prices in AUD. Prices based on payment at qantas.com by BPAY or PayID. Selected travel dates (and days) apply. Other conditions apply. show-back-to-link false

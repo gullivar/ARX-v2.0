@@ -1,0 +1,174 @@
+Skip to content
+AI
+Hybrid cloud
+Products
+Training
+Learn
+Partners
+Search
+For you
+Log in
+AI inference built for enterprise workloads
+
+Red Hat® AI delivers fast, cost-effective inference and optimized models to help you deploy and scale AI solutions across the hybrid cloud.
+
+Explore the platform
+Featured
+The adaptable enterprise: Why AI readiness is disruption readiness
+
+Equip your teams with the tools and mindset to stay ahead of rapid paradigm shifts in the age of AI.
+
+Get the e-book
+Navigate virtual machine (VM) migration and modernization with Red Hat
+See how we can help 
+Blog
+Advance your virtualization and AI capabilities with Red Hat OpenShift 4.20
+E-book
+Unlock the power of agentic AI
+Case study
+Meet 7 customers innovating with Red Hat technologies
+Red Hat is the leading provider of enterprise open source software solutions
+
+Enterprises around the world trust our broad portfolio of hybrid cloud infrastructure, application services, cloud-native application development, automation, and artificial intelligence solutions to deliver IT services on any infrastructure quickly and cost effectively.
+
+More than 90% of companies in the U.S. Fortune 500 continue to rely on Red Hat.
+
+Source: Red Hat® client data and Fortune 500 list for 2025
+
+Build on a reliable foundation. Take your apps anywhere.
+Red Hat AI New version
+
+Expand your AI capabilities with optimized models and efficient inference on a platform built for agentic workflows.
+
+Get portfolio details 
+
+Products available on
+
+Red Hat Enterprise Linux
+
+Support application deployments—from on premise to the cloud to the edge—in a flexible operating environment.
+
+Get product details 
+
+Available on
+
+Red Hat OpenShift
+
+Quickly build and deploy applications at scale, while you modernize the ones you already have.
+
+Get product details
+
+Available on
+
+Red Hat Ansible Automation Platform
+
+Create, manage, and dynamically scale automation across your entire enterprise.
+
+Get product details 
+
+Available on
+
+See all products
+Organizations succeeding with Red Hat
+See all customer stories
+Building enterprise-ready solutions with open source
+
+We believe using an open development model helps create more secure, stable, and innovative technologies. By collaborating with open source communities, we’re developing software that pushes the boundaries of technological ability.
+
+See why we trust open source
+Tech topics worth exploring
+See all topics
+AI
+Understanding AI
+
+Artificial intelligence (AI) refers to systems that can acquire and apply knowledge, and carry out behavior based on that knowledge.
+
+Read more
+Articles
+What is generative AI?
+What are foundation models for AI?
+What are large language models?
+What is deep learning?
+What is MLOps?
+AI infrastructure explained
+Understanding AI/ML use cases
+What is machine learning?
+Explore related blog posts
+
+The bank cut verification times from days to minutes with an AI-based natural language processing solution.
+
+See how
+APIs
+Automation
+Cloud
+Cloud services
+Containers
+DevOps
+Edge computing
+Integration
+Linux
+Microservices
+Middleware
+Security
+Virtualization
+Get more with a Red Hat account
+
+Sign in or create an account to start product trials, access training tools, register for events, get world-class support, and more. A subscription may be required for some services.
+
+Log in or register
+Platforms
+Red Hat AI
+Red Hat Enterprise Linux
+Red Hat OpenShift
+Red Hat Ansible Automation Platform
+See all products
+Tools
+Training and certification
+My account
+Customer support
+Developer resources
+Find a partner
+Red Hat Ecosystem Catalog
+Documentation
+Try, buy, & sell
+Product trial center
+Red Hat Store
+Buy online (Japan)
+Console
+Communicate
+Contact sales
+Contact customer service
+Contact training
+Social
+About Red Hat
+
+Red Hat is an open hybrid cloud technology leader, delivering a consistent, comprehensive foundation for transformative IT and artificial intelligence (AI) applications in the enterprise. As a trusted adviser to the Fortune 500, Red Hat offers cloud, developer, Linux, automation, and application platform technologies, as well as award-winning services.
+
+Our companyHow we workCustomer success storiesAnalyst relationsNewsroomOpen source commitmentsOur social impactJobs
+Change page language
+简体中文
+English
+Français
+Deutsch
+Italiano
+日本語
+한국어
+Português
+Español
+Red Hat legal and privacy links
+About Red Hat
+Jobs
+Events
+Locations
+Contact Red Hat
+Red Hat Blog
+Inclusion at Red Hat
+Cool Stuff Store
+Red Hat Summit
+© 2025 Red Hat
+Red Hat legal and privacy links
+Privacy statement
+Terms of use
+All policies and guidelines
+Digital accessibility
+Cookie preferences

@@ -1,0 +1,31 @@
+ Safe Browsing
+Home Policies Webmasters Developers
+Making the world’s information safely accessible.
+SAFETY FIRST
+Keeping over five billion devices safer.
+
+Google Safe Browsing helps protect over five billion devices every day by showing warnings to users when they attempt to navigate to dangerous sites or download dangerous files. Safe Browsing also notifies webmasters when their websites are compromised by malicious actors and helps them diagnose and resolve the problem so that their visitors stay safer. Safe Browsing protections work across Google products and power safer browsing experiences across the Internet.
+
+Our Transparency Report includes details on the threats that Safe Browsing identifies. The Transparency Report includes our Site Status diagnostic tool that you can use to see whether a site currently contains content that Safe Browsing has determined to be dangerous.
+
+PRODUCT PROTECTION
+Safe Browsing protects Google and other products.
+Chrome and Other Browsers
+
+Chrome and other browsers use Safe Browsing to show users a warning message before they visit a dangerous site or download a harmful app. Our scanning infrastructure also protects the Chrome Web Store from potentially harmful extensions. Learn more
+
+Search
+
+Users see a Safe Browsing message in Search results when Safe Browsing has found that the site they’re about to visit might be dangerous. Learn more
+
+Gmail
+
+Safe Browsing protects Gmail users by identifying dangerous links in email messages and showing warnings if users click on them. Learn more
+
+Android
+
+Google and Android security teams collaborated to develop an app scanning infrastructure that protects Google Play and powers Verify Apps to protect users who install apps from outside Google Play. Safe Browsing also protects Chrome users on Android by showing them warnings before they visit dangerous sites. Learn more
+
+Ads
+
+Google’s Ads Security team uses Safe Browsing to make sure that Google ads do not promote dangerous pages. Learn more

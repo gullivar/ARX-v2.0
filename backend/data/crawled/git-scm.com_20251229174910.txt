@@ -1,0 +1,40 @@
+--everything-is-local
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Git is lightning fast and has a huge ecosystem of GUIs, hosting services, and command-line tools.
+
+About
+
+Git's performance and ecosystem
+
+Learn
+
+Pro Git book, videos, tutorials, and cheat sheet
+
+Tools
+
+Command line tools, GUIs, and hosting services
+
+Reference
+
+Git's reference documentation
+
+Install
+
+Binary releases for all major platforms.
+
+Community
+
+Get involved! Bug reporting, mailing list, chat, development and more.
+
+Pro Git by Scott Chacon and Ben Straub is available to read online for free. Dead tree versions are available on Amazon.com.
+
+Latest source release
+2.52.0
+Release Notes (2025-11-17)
+Install for Mac
+GitHub Repository
+About this site
+Patches, suggestions, and comments are welcome.
+Git is a member of Software Freedom Conservancy

@@ -1,0 +1,285 @@
+SKIP MAIN NAVIGATION
+AUTHORS & REVIEWERS
+LIBRARIANS & AGENTS
+CART
+SHOPPING CART WITH
+0
+ITEM
+REGISTER
+LOGIN
+Skip main navigation
+JOURNALS
+BOOKS
+OPEN SCIENCE
+ABOUT
+BLOG
+Skip slideshow
+Navigate through the slides by using left and right arrow keys
+Open for submissions
+Journal of Psychiatry and Neuroscience has joined our portfolio
+LEARN MORE
+
+Whether it's your first paper or your latest discovery...
+Your research has a home here
+LEARN MORE
+
+Now accepting submissions!
+Contaminants, Environment, and Society joins our portfolio                                       
+LEARN MORE
+
+Open for submissions
+Journal of Psychiatry and Neuroscience has joined our portfolio
+LEARN MORE
+
+Whether it's your first paper or your latest discovery...
+Your research has a home here
+LEARN MORE
+
+Now accepting submissions!
+Contaminants, Environment, and Society joins our portfolio                                       
+LEARN MORE
+
+Open for submissions
+Journal of Psychiatry and Neuroscience has joined our portfolio
+LEARN MORE
+
+Canadian Science Publishing
+SUBSCRIBE RECOMMEND TO A LIBRARIAN AUTHOR GUIDELINES
+EDITOR'S CHOICE
+COVID-19 COLLECTION
+Can. Geotech. J.13 Nov 2025Editor's choice
+Field investigation on long-term deformation characteristics of long-and-narrow basements in soft clays
+Can. Geotech. J.20 Jun 2025Editor's choice
+Efficient 3D geological modeling for offshore wind farm with sparse CPTU and borehole data
+Can. Geotech. J.27 Oct 2025Editor's choice
+The effect of thermoactivated pile spacing on the thermo-mechanical response of energy soldier piled walls—experimental study and initial numerical observations
+Can. J. Physiol. Pharmacol.10 Nov 2025Editor's choice
+Lysine acetylation of aquaporin-3 does not improve lithium-induced nephrogenic diabetes insipidus
+Can. J. Civ. Eng.5 Nov 2025Editor's choice
+Life cycle carbon assessment of reinforced concrete, structural steel, and mass-timber buildings in Canada
+Can. Geotech. J.27 Oct 2025Editor's choice
+The effect of thermoactivated pile spacing on the thermo-mechanical response of energy soldier piled walls—experimental study and initial numerical observations
+
+Piles used for vertical and lateral support can function as heat exchangers. While there is extensive knowledge on the thermo-mechanical response of axially loaded piles, less is known about laterally loaded piles. Observations show minimal differences between largely spaced thermo-activated piles in piled energy walls and axially loaded piles, with more significant effects reflected in axially thermally induced stress. This study uses experimental and numerical methods to examine the impact of activating multiple piles with different inter-pile spacings on the structural and geotechnical performance of piles in a retaining wall built in sedimentary rocks. Experimental results indicate that activating largely spaced piles is comparable to activating closely spaced piles with a reduced temperature change. Initial numerical results confirm that over the experimental period, the thermally induced structural demands shear forces and bending moments, and lateral displacements remain marginal to their initial mechanically induced demands, while remaining within the design limits for the case study.
+
+READ MORE
+Can. J. Physiol. Pharmacol.10 Nov 2025Editor's choice
+Lysine acetylation of aquaporin-3 does not improve lithium-induced nephrogenic diabetes insipidus
+
+Aquaporin-3 (AQP3) is expressed in the basolateral membrane of the renal principal cell, contributing to vasopressin-mediated water reabsorption and urine concentration. We reported that post-translational acetylation of lysine 282 of AQP3 promotes water permeability. In this study, we hypothesized that AQP3 acetylation may improve polyuria in a mouse model of lithium-induced nephrogenic diabetes insipidus (Li-NDI). Wild type, AQP3 acetylation (K282Q), and deacetylation (K282R) mimetic mice were fed a lithium-containing diet or a control diet for 14 days. Body masses and spot urines were collected overtime, while urine flow and osmolality, plasma osmolality, and kidneys were collected on day 14 of the diets. All Li-NDI mice had greater urine output and water intake compared to control fed mice, and unexpectedly, this was exacerbated in female Li-NDI AQP3-acetylation and AQP3-deacetylation mice. After 14 days of lithium diet, acetylated AQP3 was almost undetectable in the kidneys of WT mice, and AQP3 localization in acetylated and deacetylated mice was minimal. In the setting of LI-NDI, the significant loss of AQP3 was not prevented in acetylated-AQP3 mice and in female mice mutation of K282 resulted in a worsened Li-NDI phenotype, suggesting that this lysine is critical for promoting sex-specific AQP3-water permeability.
+
+READ MORE
+Can. J. Civ. Eng.5 Nov 2025Editor's choice
+Life cycle carbon assessment of reinforced concrete, structural steel, and mass-timber buildings in Canada
+
+Urban population growth drives demand for buildings, increasing carbon emissions. In recent years, the Canadian government has been encouraging renewable construction materials. However, comparative assessments of embodied carbon emissions of various building types across Canada are limited. This study addresses this gap by conducting a life-cycle carbon assessment of functionally equivalent three- and six-storey commercial office reinforced concrete (RC), structural steel (SS), and mass-timber (MT) buildings in Vancouver, Montreal, and Toronto, Canada, using Athena impact estimator for buildings. Excluding biogenic carbon, MT reduces global warming potential (GWP) by 33%–36% and 27%–32% for three- and six-storey buildings compared to RC in phases A–C, and by 14%–19% and 5%–14% compared to SS, respectively. Including phase D and biogenic carbon, MT reduces GWP by 99%–102% and 109%–118% for the three- and six-storey buildings compared to RC, and by 99%–105% and 118%–139% compared to SS, respectively.
+
+READ MORE
+Can. Geotech. J.13 Nov 2025Editor's choice
+Field investigation on long-term deformation characteristics of long-and-narrow basements in soft clays
+
+Two long-and-narrow station basements, constructed using zoned and staged ramp excavation sequences, are extensively monitored to study the long-term ground and structure deformations. During the main excavation stages (i.e., soil removal), the lateral wall movements increase rapidly with the excavation depth. However, the rate of increase in the lateral wall movements decreases dramatically during casting of concrete slabs. Meanwhile, the post-excavation induced ground surface settlements increase by up to 29.7%. The long-term wall deflections and soil settlements are significant, but these long-term deformations are suppressed after casting the top concrete slabs. Although the bottom-up construction technique is used for the basement excavation, the measured ground surface settlements are substantially smaller than those associated with the top-down construction technique. This is primarily attributed to the adoption of zoned and staged ramp excavation sequences, which effectively control ground settlements. Unlike wall deflections and ground surface settlements, a decrease is observed in the column and wall heaves during post-excavation. The measured heaves of the interior columns and retaining walls are 0.08%–0.15% H (excavation depth) and 0.04%–0.11% H, respectively. A series of deformation envelopes are proposed to estimate ground and structural deformations due to the long-and-narrow basement excavations.
+
+READ MORE
+Can. Geotech. J.20 Jun 2025Editor's choice
+Efficient 3D geological modeling for offshore wind farm with sparse CPTU and borehole data
+
+Geological modeling of complex marine strata is critical for offshore wind farm development but faces two challenges: (1) inconsistent soil classification between two commonly used site investigation data, i.e., piezocone penetration tests (CPTU) and boreholes, posing a challenge for integrating multi-source information; (2) sparse distribution of investigation data horizontally, which makes 3D spatial interpolation difficult. To tackle these two issues, this study proposes a novel framework for geological modeling of offshore wind farms. The framework encompasses two crucial steps. First, a tailored CPTU-based soil classification model is trained to resolve interpretation discrepancies. Second, an advanced spatial interpolation model is developed for the 3D modeling of sparse investigation data. Both steps make uses of simple but efficient nonparametric machine learning algorithms, e.g., weighted kNN, for predictions, i.e., soil classification and 3D spatial interpolation, respectively. Sequential model-based optimization technique is employed to determine the optimal model hyperparameter. The proposed methodology is demonstrated and validated through benchmark examples and applied to two case studies of offshore wind farms with complex strata in East China Sea and Yellow Sea. It significantly improves soil classification accuracy, especially for silty soils dominated site, and enhances the capability of complex stratigraphy modeling despite sparse data.
+
+READ MORE
+Can. Geotech. J.27 Oct 2025Editor's choice
+The effect of thermoactivated pile spacing on the thermo-mechanical response of energy soldier piled walls—experimental study and initial numerical observations
+
+Piles used for vertical and lateral support can function as heat exchangers. While there is extensive knowledge on the thermo-mechanical response of axially loaded piles, less is known about laterally loaded piles. Observations show minimal differences between largely spaced thermo-activated piles in piled energy walls and axially loaded piles, with more significant effects reflected in axially thermally induced stress. This study uses experimental and numerical methods to examine the impact of activating multiple piles with different inter-pile spacings on the structural and geotechnical performance of piles in a retaining wall built in sedimentary rocks. Experimental results indicate that activating largely spaced piles is comparable to activating closely spaced piles with a reduced temperature change. Initial numerical results confirm that over the experimental period, the thermally induced structural demands shear forces and bending moments, and lateral displacements remain marginal to their initial mechanically induced demands, while remaining within the design limits for the case study.
+
+READ MORE
+Can. J. Physiol. Pharmacol.10 Nov 2025Editor's choice
+Lysine acetylation of aquaporin-3 does not improve lithium-induced nephrogenic diabetes insipidus
+
+Aquaporin-3 (AQP3) is expressed in the basolateral membrane of the renal principal cell, contributing to vasopressin-mediated water reabsorption and urine concentration. We reported that post-translational acetylation of lysine 282 of AQP3 promotes water permeability. In this study, we hypothesized that AQP3 acetylation may improve polyuria in a mouse model of lithium-induced nephrogenic diabetes insipidus (Li-NDI). Wild type, AQP3 acetylation (K282Q), and deacetylation (K282R) mimetic mice were fed a lithium-containing diet or a control diet for 14 days. Body masses and spot urines were collected overtime, while urine flow and osmolality, plasma osmolality, and kidneys were collected on day 14 of the diets. All Li-NDI mice had greater urine output and water intake compared to control fed mice, and unexpectedly, this was exacerbated in female Li-NDI AQP3-acetylation and AQP3-deacetylation mice. After 14 days of lithium diet, acetylated AQP3 was almost undetectable in the kidneys of WT mice, and AQP3 localization in acetylated and deacetylated mice was minimal. In the setting of LI-NDI, the significant loss of AQP3 was not prevented in acetylated-AQP3 mice and in female mice mutation of K282 resulted in a worsened Li-NDI phenotype, suggesting that this lysine is critical for promoting sex-specific AQP3-water permeability.
+
+READ MORE
+Can. J. Civ. Eng.5 Nov 2025Editor's choice
+Life cycle carbon assessment of reinforced concrete, structural steel, and mass-timber buildings in Canada
+
+Urban population growth drives demand for buildings, increasing carbon emissions. In recent years, the Canadian government has been encouraging renewable construction materials. However, comparative assessments of embodied carbon emissions of various building types across Canada are limited. This study addresses this gap by conducting a life-cycle carbon assessment of functionally equivalent three- and six-storey commercial office reinforced concrete (RC), structural steel (SS), and mass-timber (MT) buildings in Vancouver, Montreal, and Toronto, Canada, using Athena impact estimator for buildings. Excluding biogenic carbon, MT reduces global warming potential (GWP) by 33%–36% and 27%–32% for three- and six-storey buildings compared to RC in phases A–C, and by 14%–19% and 5%–14% compared to SS, respectively. Including phase D and biogenic carbon, MT reduces GWP by 99%–102% and 109%–118% for the three- and six-storey buildings compared to RC, and by 99%–105% and 118%–139% compared to SS, respectively.
+
+READ MORE
+Can. Geotech. J.13 Nov 2025Editor's choice
+Field investigation on long-term deformation characteristics of long-and-narrow basements in soft clays
+
+Two long-and-narrow station basements, constructed using zoned and staged ramp excavation sequences, are extensively monitored to study the long-term ground and structure deformations. During the main excavation stages (i.e., soil removal), the lateral wall movements increase rapidly with the excavation depth. However, the rate of increase in the lateral wall movements decreases dramatically during casting of concrete slabs. Meanwhile, the post-excavation induced ground surface settlements increase by up to 29.7%. The long-term wall deflections and soil settlements are significant, but these long-term deformations are suppressed after casting the top concrete slabs. Although the bottom-up construction technique is used for the basement excavation, the measured ground surface settlements are substantially smaller than those associated with the top-down construction technique. This is primarily attributed to the adoption of zoned and staged ramp excavation sequences, which effectively control ground settlements. Unlike wall deflections and ground surface settlements, a decrease is observed in the column and wall heaves during post-excavation. The measured heaves of the interior columns and retaining walls are 0.08%–0.15% H (excavation depth) and 0.04%–0.11% H, respectively. A series of deformation envelopes are proposed to estimate ground and structural deformations due to the long-and-narrow basement excavations.
+
+READ MORE
+Can. Geotech. J.20 Jun 2025Editor's choice
+Efficient 3D geological modeling for offshore wind farm with sparse CPTU and borehole data
+
+Geological modeling of complex marine strata is critical for offshore wind farm development but faces two challenges: (1) inconsistent soil classification between two commonly used site investigation data, i.e., piezocone penetration tests (CPTU) and boreholes, posing a challenge for integrating multi-source information; (2) sparse distribution of investigation data horizontally, which makes 3D spatial interpolation difficult. To tackle these two issues, this study proposes a novel framework for geological modeling of offshore wind farms. The framework encompasses two crucial steps. First, a tailored CPTU-based soil classification model is trained to resolve interpretation discrepancies. Second, an advanced spatial interpolation model is developed for the 3D modeling of sparse investigation data. Both steps make uses of simple but efficient nonparametric machine learning algorithms, e.g., weighted kNN, for predictions, i.e., soil classification and 3D spatial interpolation, respectively. Sequential model-based optimization technique is employed to determine the optimal model hyperparameter. The proposed methodology is demonstrated and validated through benchmark examples and applied to two case studies of offshore wind farms with complex strata in East China Sea and Yellow Sea. It significantly improves soil classification accuracy, especially for silty soils dominated site, and enhances the capability of complex stratigraphy modeling despite sparse data.
+
+READ MORE
+Can. Geotech. J.27 Oct 2025Editor's choice
+The effect of thermoactivated pile spacing on the thermo-mechanical response of energy soldier piled walls—experimental study and initial numerical observations
+
+Piles used for vertical and lateral support can function as heat exchangers. While there is extensive knowledge on the thermo-mechanical response of axially loaded piles, less is known about laterally loaded piles. Observations show minimal differences between largely spaced thermo-activated piles in piled energy walls and axially loaded piles, with more significant effects reflected in axially thermally induced stress. This study uses experimental and numerical methods to examine the impact of activating multiple piles with different inter-pile spacings on the structural and geotechnical performance of piles in a retaining wall built in sedimentary rocks. Experimental results indicate that activating largely spaced piles is comparable to activating closely spaced piles with a reduced temperature change. Initial numerical results confirm that over the experimental period, the thermally induced structural demands shear forces and bending moments, and lateral displacements remain marginal to their initial mechanically induced demands, while remaining within the design limits for the case study.
+
+READ MORE
+ANNOUNCEMENTS
+Skip slideshow
+Navigate through the slides by using left and right arrow keys
+27 June 2025
+Canadian Science Publishing acquires Journal of Psychiatry and Neuroscience
+READ MORE
+25 June 2025
+Drone Systems and Applications to pilot double-anonymous peer review
+READ MORE
+30 July 2025
+Call for Applications, Co-Editor-in-Chief, FACETS
+READ MORE
+27 June 2025
+Canadian Science Publishing acquires Journal of Psychiatry and Neuroscience
+READ MORE
+25 June 2025
+Drone Systems and Applications to pilot double-anonymous peer review
+READ MORE
+30 July 2025
+Call for Applications, Co-Editor-in-Chief, FACETS
+READ MORE
+27 June 2025
+Canadian Science Publishing acquires Journal of Psychiatry and Neuroscience
+READ MORE
+MOST READ
+MOST CITED
+Appl. Physiol. Nutr. Metab.Review8 Dec 2015
+Acute effects of muscle stretching on physical performance, range of motion, and injury incidence in healthy active individuals: a systematic review
+David G. Behm
+, 
+Anthony J. Blazevich
+, 
+Anthony D. Kay
+, and 
+Malachy McHugh
+Can. J. Microbiol.Review25 Jun 2021
+Dengue virus: epidemiology, biology, and disease aetiology
+Sudipta Kumar Roy
+ and 
+Soumen Bhattacharjee
+Appl. Physiol. Nutr. Metab.Article26 May 2025Editor's choice
+Animal and plant protein usual intakes are not adversely associated with all-cause, cardiovascular disease–, or cancer-related mortality risk: an NHANES III analysis
+Yanni Papanikolaou
+, 
+Stuart M. Phillips
+, and 
+Victor L. Fulgoni
+Appl. Physiol. Nutr. Metab.Systematic review15 Oct 2020
+Sleep timing, sleep consistency, and health in adults: a systematic review
+Jean-Philippe Chaput
+, 
+Caroline Dutil
+, 
+Ryan Featherstone
+, 
+Robert Ross
+, 
+Lora Giangregorio
+, 
+…
+SHOW ALL
+RESOURCES
+Skip slideshow
+Navigate through the slides by using left and right arrow keys
+For Librarians
+
+Empower your users with content that is easy to discover, use, and share.
+
+LEARN MORE
+For Reviewers
+
+Information for reviewers - policies, procedures and more.
+
+LEARN MORE
+For Authors
+
+Publish your research with us. Enhance your career.
+
+LEARN MORE
+For Librarians
+
+Empower your users with content that is easy to discover, use, and share.
+
+LEARN MORE
+For Reviewers
+
+Information for reviewers - policies, procedures and more.
+
+LEARN MORE
+For Authors
+
+Publish your research with us. Enhance your career.
+
+LEARN MORE
+For Librarians
+
+Empower your users with content that is easy to discover, use, and share.
+
+LEARN MORE
+For Reviewers
+
+Information for reviewers - policies, procedures and more.
+
+LEARN MORE
+For Authors
+
+Publish your research with us. Enhance your career.
+
+LEARN MORE
+CANADIAN SCIENCE PUBLISHING JOURNALS
+Skip slideshow
+View
+Anthropocene Coasts
+View
+Applied Physiology, Nutrition, and Metabolism
+View
+Arctic Science
+View
+Biochemistry and Cell Biology
+View
+Canadian Geotechnical Journal
+View
+Canadian Journal of Animal Science
+View
+Botany
+View
+Canadian Journal of Chemistry
+VIEW ALL JOURNALS
+Canadian Science Publishing
+
+Canadian Science Publishing (CSP) is Canada’s independent, not-for-profit leader in mobilizing science-based knowledge, making it easy to discover, use, and share. As Canada’s largest publisher of international scientific journals, we’re committed to strengthening the integrity, relevance, reach, and impact of vital knowledge and research, across Canada and around the globe.
+
+LEARN MORE
+JOURNALS
+Applied Physiology, Nutrition, and Metabolism
+Arctic Science
+Biochemistry and Cell Biology
+Botany
+Canadian Geotechnical Journal
+Canadian Journal of Animal Science
+Canadian Journal of Chemistry
+Canadian Journal of Civil Engineering
+Canadian Journal of Earth Sciences
+VIEW ALL JOURNALS
+FOR AUTHORS
+Author Guidelines
+Publishing Policy
+FOR LIBRARIANS
+Price list & Subscriptions
+Administrative Guide
+THE PUBLISHER
+About
+News
+Blog
+Contact Us
+Sign up for our newsletter
+Find us at an upcoming conference
+PRIVACY POLICY
+CONDITIONS OF USE
+Copyright © 2025 Canadian Science Publishing

@@ -1,0 +1,181 @@
+Sign In
+TRANSACTION FEES
+No Priority
+Low Priority
+Medium Priority
+High Priority
+DIFFICULTY ADJUSTMENT
+difficulty | halving
+Mempool Goggles™ : All 
+All
+Consolidation
+Coinjoin
+Data
+Minimum fee
+Unconfirmed
+Memory Usage
+Incoming Transactions
+0
+1000
+2000
+3000
+4000
+4891
+10:45
+11:15
+11:30
+11:45
+12:15
+12:30
+11:00
+12:00
+Recent Replacements 
+TXID	Previous fee	New fee	Status			
+			
+			
+			
+			
+			
+Recent Transactions
+TXID	Amount	USD	Fee			
+			
+			
+			
+			
+			
+ 
+العربية
+Čeština
+Dansk
+Deutsch
+English
+Español
+فارسی
+Français
+한국어
+Hrvatski
+हिन्दी
+नेपाली
+Italiano
+עברית
+ქართული
+Lietuvių
+Magyar
+Македонски
+Nederlands
+日本語
+Norsk
+Polski
+Português
+Română
+Русский
+Slovenščina
+Suomi
+Svenska
+ไทย
+Türkçe
+Українська
+Tiếng Việt
+中文
+AUD
+CAD
+CHF
+EUR
+GBP
+JPY
+USD
+UTC+9 - Japan Standard Time (JST)
+UTC - Greenwich Mean Time (GMT)
+────
+UTC-12 - Anywhere on Earth (AoE)
+UTC-11 - Samoa Standard Time (SST)
+UTC-10 - Hawaii Standard Time (HST)
+UTC-9 - Alaska Standard Time (AKST)
+UTC-8 - Pacific Standard Time (PST)
+UTC-7 - Mountain Standard Time (MST)
+UTC-6 - Central Standard Time (CST)
+UTC-5 - Eastern Standard Time (EST)
+UTC-4 - Atlantic Standard Time (AST)
+UTC-3 - Argentina Time (ART)
+UTC-2 - Fernando de Noronha Time (FNT)
+UTC-1 - Azores Time (AZOT)
+UTC+1 - Central European Time (CET)
+UTC+2 - Eastern European Time (EET)
+UTC+3 - Moscow Standard Time (MSK)
+UTC+4 - Armenia Time (AMT)
+UTC+5 - Pakistan Standard Time (PKT)
+UTC+6 - Xinjiang Time (XJT)
+UTC+7 - Indochina Time (ICT)
+UTC+8 - Hong Kong Time (HKT)
+UTC+10 - Australian Eastern Standard Time (AEST)
+UTC+11 - Norfolk Time (NFT)
+UTC+12 - New Zealand Standard Time (NZST)
+UTC+13 - Tonga Time (TOT)
+UTC+14 - Line Islands Time (LINT)
+BTC
+sats
+Fiat
+wiz
+BlueMatt
+softsimon
+Sign In
+
+Explore the full Bitcoin ecosystem®
+
+Explore
+
+Mining Dashboard
+
+Lightning Explorer
+
+Recent Blocks
+
+Broadcast Transaction
+
+Test Transaction
+
+Preview Transaction
+
+Connect to our Nodes
+
+API Documentation
+
+Learn
+
+What is a mempool?
+
+What is a block explorer?
+
+What is a mempool explorer?
+
+Why isn't my transaction confirming?
+
+Be your own explorer™
+
+More FAQs »
+
+Research
+
+Networks
+
+Testnet3 Explorer
+
+Testnet4 Explorer
+
+Signet Explorer
+
+Liquid Testnet Explorer
+
+Liquid Explorer
+
+Legal
+
+Terms of Service
+
+Privacy Policy
+
+Trademark Policy
+
+Third-party Licenses
+
+(v) [][d00fa778]

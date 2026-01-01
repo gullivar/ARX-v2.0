@@ -1,0 +1,24 @@
+Kama Reels let pwa_visitor = window.matchMedia('(display-mode: window-controls-overlay)').matches || window.matchMedia('(display-mode: standalone)').matches;
+
+if(!pwa_visitor) {
+
+setTimeout(() => {
+// Randomly select script: 60% Clickadila, 40% Onclicka
+const random = Math.random();
+const script = document.createElement('script');
+script.async = true;
+
+if (random < 0.6) {
+    // Load Clickadila script (60%)
+    script.src = 'https://js.wpadmngr.com/static/adManager.js';
+    script.setAttribute('data-admpid', '155467');
+} else {
+    // Load Onclicka script (40%)
+    script.src = 'https://js.onclckmn.com/static/onclicka.js';
+    script.setAttribute('data-admpid', '293199');
+}
+
+document.body.appendChild(script);
+}, 20000);
+
+}

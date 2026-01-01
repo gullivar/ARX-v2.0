@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<Error>
+<Code>AccessDenied</Code>
+<Message>User: arn:aws:iam::007674436253:user/s3user-cdn-origin-bak-huoshan is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::cdn-origin-bak" because no identity-based policy allows the s3:ListBucket action</Message>
+<RequestId>4Z1XDBQ1Y79J6GTQ</RequestId>
+<HostId>4ZZWfuohIZU3+TorMBi+Y5llLbERiuKCPaL+7x6PBKHF5w6cvD5Q3hoZ0nXIHYzAiojb1iFQZ1L9E/KbrFNA/Q==</HostId>
+</Error>

@@ -1,0 +1,193 @@
+Products
+Developers
+Partners
+Resources
+Company
+Get a Demo
+Ending the Scamdemic: The Case for a Global Scam Action Task Force (SATF)
+Download whitepaper
+The Agentic Oversight Framework whitepaper
+Download whitepaper
+Forrester Total Economic Impact Report of Sardine
+Download report
+Sardine recognized as a market leader
+for Fraud and AML compliance
+AI risk platform for
+|
+
+Leading banks, online retailers, and fintechs use Sardine to automate risk decisioning, catch more fraud, detect money laundering, and protect their customers from scams.
+
+Get a Demo
+Modular building blocks for managing risk  across the customer journey
+Device and Behavior
+Identity Fraud
+KYC and KYB
+Bank Verification
+Payment Fraud
+AML Monitoring
+Bot Detection
+Scams and ATO
+Card Issuing Fraud
+Credit Underwriting
+Merchant Risk
+Sponsor Banking
+Device and Behavior
+
+Proprietary device intelligence and behavior biometrics unmasks fraudsters to stop all forms of financial crime.
+
+Learn more
+Device and Behavior
+AI Agents to scale your team’s capacity
+KYC Onboarding Agent
+
+Resolves time-consuming KYC verification issues, such as name mismatches across cultures, inconsistent date formats, and DOB inconsistencies, reducing manual reviews and false positives.
+
+Sanctions Screening Agent
+
+Helps your team efficiently review sanctions, PEP, and adverse media alerts. Learns your standard operating procedures (SOP), provides detailed audit logs, and supports decision validation.
+
+Merchant Risk Agent
+
+Automates risk scoring and credit decisioning for merchant onboarding, identifying high-risk signals before approval. Monitors for risk profile changes, such as corporate structure updates and online sentiment.
+
+Disputes Agent
+
+Handles the entire chargeback and dispute process, from gathering data to preparing evidence packages. Formats submissions to match processor requirements and files them automatically.
+
+Read our AI Whitepaper
+The value of
+one platform
+Consolidate vendors, maximize your ROI, and streamline business operations. See why Fortune 500 companies choose the Sardine platform over other risk vendors.
+Enterprise Customers
+300
++
+Devices Profiled
+2.14
+B+
+Payments Screened
+$
+385
+B+
+Catch fraud upfront with behavior-based insights
+
+Identify high risk users early and uncover hidden threats without introducing friction to legitimate customers.
+
+Device and Behavior
+Detect high-risk users exhibiting suspicious mouse movements, copy and paste of long-term memory fields, or using VPNs, emulators, and remote access tools
+Continuous Monitoring
+Monitor every session for signs of fraud. From account creation, user onboarding, to bank account linking, payments, deposits/withdrawals, and logins
+True Piercing™
+Unmask fraudsters using advanced obfuscation techniques to reveal their true identity, location, IP, browser, operating system, and even merchant risk rating
+Behavioral biometrics is fundamental to fraud prevention. Deploying it throughout the user journey helps our customers deal with increasingly complex fraud attacks.”
+Eduardo Castro
+Managing Director, Identity and Fraud
+Data-driven platform with ML at the core
+Layer 01
+Proprietary Signals
+
+Uniquely combine Sardine’s proprietary device intelligence and behavior biometrics (DIBB) in one SDK - consistently the highest ranking features in our risk prediction models.
+
+Layer 02
+Data Enrichment
+
+Integrate with 40+ leading providers for phone, email, SSN, geo, credit, and banking data. Constantly adding and A/B testing vendors for coverage, accuracy, and performance.
+
+Layer 03
+Feature Engineering
+
+Leverage our feature warehouse of 4,800+ risk features to train your own models (via GCP or Snowflake) or bring your own models to run on our model garden infrastructure.
+
+Layer 04
+Risk Engine
+
+Real-time rules and ML models trained on specific customer sessions (sign up, login, checkout) and detect various typologies (bots, ATO, chargebacks, scams, AML risk).
+
+90% reduction in chargebacks
+
+Today, Novo has a best-in-class chargeback rate of 0.003% on their issued debit cards. With over $1B in monthly transaction volume, they received less than $26K in fraudulent chargebacks.
+
+Recover 84% of blocked transactions
+
+Reduced auto-declines on high-risk users with our card fraud ML model – prompting 2FA/OTP to approve more legitimate transactions.
+
+Novo uses Sardine to reduce chargebacks on issued cards
+Products
+DEVICE AND BEHAVIOR
+CARD ISSUING FRAUD
+FEATURE STORE
+Modern tools to fight sophisticated attacks
+
+Stop the surge of social engineering scams and defend against threats like buyer-seller collusion, money muling,  authorized push payment (APP) fraud, and bot attacks.
+
+Customer Dashboard
+No-code Rules Editor
+Workflow Builder
+Connections Graph
+Case Management
+A complete picture of your customer’s risk
+View all the signals captured and rules fired across a user’s entire session history from account creation
+Customer details - device, behavior, email, phone, DOB, account age, and connections across Sardine network
+Any sanctions, PEP, or Adverse Media hits
+Customer Dashboard
+RESOURCES
+Learn about the latest in fraud and compliance
+Chen Zamir
+December 22, 2025
+How to release fraud rules safely
+Releasing new fraud rules is a risky moment in fraud operations, as one small mistake can degrade performance, block legitimate customers, or introduce hidden system bugs. This post outlines a complete six-step rule-release process that fraud teams can use to minimize those risks. The process covers offline and online backtesting, expert review, shadow-mode validation, live accuracy checks, and long-term monitoring. Each step is designed to prevent the two most common failure scenarios: rules that hit only good users or rules that miss fraud entirely. By following this structured approach, teams can confidently deploy new rules, reduce operational risk, and maintain strong system performance heading into 2026.
+Read the story
+Chandni Raja
+December 18, 2025
+Fake job applicant fraud - Is your candidate actually an AI fake?
+A rising tide of fake job applicants using sophisticated techniques like VPNs and deepfakes are attacking businesses in all sectors. Consequently, businesses face considerable financial, security, and reputational risks. HR and recruiting technology companies can proactively address this challenge, with Sardine's AI-powered solutions playing a crucial role in detecting location spoofing and video manipulation.
+Read the story
+Chen Zamir
+December 15, 2025
+5 use cases your fraud team should be using AI for right now
+Fraud teams often limit their AI strategy to investigation copilots and model explainability, but AI can help them do so much more. This blog, the first in our Fraud Ops 2026 series, highlights 5 high impact use cases that teams may be overlooking, including automated labeling, traffic-based rule suggestions, and incident root-cause analysis.
+Read the story
+Stay in the loop for our latest content drops...
+See it in action.
+Behavioural biometrics is fundamental to fraud prevention. Deploying it throughout the customer journey helps our customers deal with increasingly complex fraud attacks.”
+Eduardo Castro
+Managing Director, Identity and Fraud
+I've worked in Fraud and AML for a long time, but I've never worked with a customer support team that's so accessible and effective. Sardine is like an extension of our team.”
+Preston Miller
+Manager, Fraud and Chargebacks
+My favorite Sardine feature is that I can create complex rulesets to catch new fraud patterns, and then test them against the last 30/60/90 days. If they perform well, I can instantly push them to production. That’s game-changing.”
+Matt Vega
+Director of Fraud Strategy
+Get a Demo
+Follow us
+Fraud prevention
+Device and Behavior
+Onboarding Fraud
+Bank/Card Fraud
+Card Issuing Fraud
+Bank Account Validation
+Merchant Acquiring OS
+NEW
+Sonar Consortium
+JOIN
+Compliance
+KYC and KYB
+Sanctions Screening
+AML Transaction Monitoring
+Case Management
+Sponsor Bank OS
+NEW
+Resources
+Blog
+Events
+Developers
+Documentation
+API status
+Company
+About Sardine
+Careers
+WE’RE HIRING
+Partners
+Contact us
+© 2025 SardineAI Corp.
+Privacy Policy
+Security

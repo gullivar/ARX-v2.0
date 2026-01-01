@@ -1,0 +1,418 @@
+What is it?
+How it works?
+Why us?
+Pricing
+API
+Docs
+Blog
+Log in
+Sign up
+Book a demo
+FEATURE FLAGS FOR TEAMS
+
+ConfigCat is a feature flag service with unlimited seats, awesome support, and a reasonable price tag.
+
+Sign up
+Forever Free plan.
+No credit card required.
+4.7/5 rating on G2 Crowd
+8.7/10 rating on TrustRadius
+4.8/5 rating on Trustpilot
+Trusted by teams of all shapes and sizes
+Cross-platform feature flag service
+
+Turn your features ON/OFF using ConfigCat's Dashboard even after your code is deployed.
+
+ConfigCat lets you target user segments based on region, email, subscription or any other custom user attribute. We support % rollouts, A/B testing and variations.
+
+ConfigCat is a hosted service for feature flag and configuration management. It lets you decouple feature releases from code deployments.
+
+We provide open source SDKs to support easy integration with your Mobile, Desktop application, Website or any Backend system.
+
+Sign up
+   or   
+Book a demo
+We proudly support
+
+Open source SDKs with getting started guides and detailed documentation to ensure easy integration of the feature flag service.
+
+JavaScript
+Angular
+React
+Vue.js
+Bun
+Deno
+Node.js
+.NET
+Java
+Go
+PHP
+Laravel
+Python
+Ruby
+Android
+iOS
+macOS
+Flutter
+Kotlin Multiplatform
+React Native
+Chromium Extension
+C++
+Rust
+Swift
+Dart
+Elixir
+Unity
+Unreal Engine
+Cloudflare Worker
+Sign up
+   or   
+Book a demo
+Integrations
+
+Integrations let you harness the power of feature flags in your favorite tools and services.
+
+“
+All of the product managers at Speechify use and love ConfigCat. Aside from the amazing customer support we've received over the years, ConfigCat has made it super easy for new engineers to easily configure and launch our tests. Thank you!
+Kenny Lugo
+Product Manager at Speechify
+Previous
+Next
+Sign up
+   or   
+Book a demo
+Pricing
+Billed monthly
+Billed annually
+EUR
+USD
+ 	Free	Pro	Smart	Enterprise	Dedicated
+ 	No card required	 	 	 	Hosted or On-premise
+ 					
+ 	Forever free feature flags and configs for everyone.	More environments and flags.	Unlimited resources.	Ready for custom agreements.	Private cloud managed by you or by us.
+ 	$ 0 / mo	$ 110 / mo	$ 325 / mo	$ 900 / mo	$ 4,500 / mo
+ 	
+Self-service plans
+	
+Plans with premium support
+
+Highlights
+Uptime (SLA)	99 %	99.9 %	99.95 %	99.99 %	99.99 %
+
+config JSON downloads
+	
+5 million / mo
+~ 2 / sec
+	
+25 million / mo
+~ 10 / sec
+	
+250 million / mo
+~ 100 / sec
+	
+1 billion / mo
+~ 400 / sec
+	
+6 billion + / mo
+~ 2400 / sec
+
+
+Network Traffic
+	
+20 GB / mo
+	
+100 GB / mo
+	
+1 TB / mo
+	
+4 TB / mo
+	
+24 TB/ mo
+
+	Need help deciding? - Here is the Plan Calculator!	+ optional add-ons	+ optional add-ons	+ optional add-ons
+
+Seats (team size)
+	unlimited	unlimited	unlimited	unlimited	unlimited
+
+Service connections
+	unlimited	unlimited	unlimited	unlimited	unlimited
+
+MAUs & Contexts
+	unlimited	unlimited	unlimited	unlimited	unlimited
+
+Feature Flag reads
+	unlimited	unlimited	unlimited	unlimited	unlimited
+
+API
+					
+
+Trees planted 🌳
+	-	1	10	20	100
+ 	Sign Up	Buy	Buy	Buy	Contact Us
+Feature Flags &
+Remote Configuration	
+10 Feature Flags
+2 Environments
+2 Products
+	100 Feature Flags
+3 Environments
+3 Products	unlimited Feature Flags
+unlimited Environments
+10 Products	unlimited	unlimited
+Segmentation	
+2 segments
+4 targeting rules / flag
+4 % options / flag
+	3 segments / product
+8 targeting rules / flag
+8 % options / flag	unlimited	unlimited	unlimited
+Team Management	
+1 permission group with
+unlimited team members
+	2 permission groups with
+unlimited team members	unlimited	unlimited	unlimited
+Security	2FA, SSO, SAML, User Provisioning (SCIM)
+DevOps & Automation	
+1 webhook
+API
+Tech debt tools
+	3 webhooks
+API
+Tech debt tools	unlimited webhooks
+API
+Tech debt tools	unlimited webhooks
+API
+Tech debt tools	unlimited webhooks
+API
+Tech debt tools
+SDKs	JavaScript, Angular, React, Node.js, .NET, Java, Go, PHP, Python, Ruby, Elixir,
+Android, iOS, Dart / Flutter, Kotlin Multiplatform, C++, Rust, Unity, Unreal Engine
+Integrations	Amplitude, Bitbucket, Bitrise, CircleCI, Datadog, GitHub, GitLab, Google Analytics, JetBrains, Jira, Mixpanel, monday, Slack, Terraform, Trello, Twillo Segment, VSCode, Zapier, Zoho
+
+Audit log retention
+	7 days	35 days	35 days	
+2 years
+	
+2 years
+
+Compliance	GDPR, ISO 27001:2022
+Support	
+Best effort
+	
+Standard
+	
+Standard
+	
+Premium SLA
+	
+Premium SLA
+
+	Email, Slack community
+
+Software escrow
+	
+-
+	
+-
+	
+-
+	for an additional cost	for an additional cost
+ 	Sign Up	Buy	Buy	Buy	Contact Us
+
+Compare all plans and limitations
+
+Special Plans for Education
+
+ConfigCat offers tailored plans for students and teachers, designed to enhance educational projects with feature flag services.
+
+Book a demo
+Why us?
+🛡️ Secure by design
+Feature flags are evaluated on the client side.
+Your users' data will never leave your system.
+We only store feature flag values and targeting rules.
+256-bit SDK Key, that can be rotated.
+ISO/IEC 27001:2022 certification
+💸 Fair pricing policy
+Forever free plan with complete feature set.
+Plans with fixed prices.
+We don't charge by the number of your users.
+We don't charge by the size of your team.
+🔌 Open source SDKs
+Language specific step by step guide for easy integration.
+Fail-safe in case of no internet connection.
+Built-in in-memory cache.
+Configurable cache update interval.
+Inject your own cache implementation.
+Easily mockable in tests.
+ Join us on Slack
+🚑 Awesome support
+Chat or email directly our dev team.
+Clear documentation.
+ConfigCat Community Slack.
+Feature requests are welcome.
+❤️ Made for humans
+A user interface that takes 10 minutes to learn.
+Easy to use even for non-technical people.
+Created by developers for developers with ❤️.
+Sign up
+   or   
+Book a demo
+Use Cases
+Separate marketing releases from code deployments
+
+Deploy code anytime, release features when confident.
+
+Soft launches, Canary Releases, Phased Roll-outs
+
+Test features on 1%, 5%, 10% of your user base first.
+
+Rapid disaster recovery
+
+Implement feature flags or feature toggles in your application, and automatically add emergency kill switches in the same time.
+
+Sign up
+   or   
+Book a demo
+User targeting, segmentation
+
+Target users with different features based on geographic location, email domain or any custom attribute.
+
+A/B testing crazy ideas on real users
+
+Get instant feedback on which way to continue by A/B/n testing your theories.
+
+Eating your own cat dog food
+
+Maintain your product's reputation by releasing features to colleagues or early adapters first.
+
+Feature Flag Service
+A leading feature flag service that provides a friendly dashboard to manage features and several SDKs supporting all significant technologies. Just flip the visual feature toggles on the feature management dashboard to change the feature flag values, and let the SDKs distribute those changes to your applications.
+Feature Management
+Product managers can do canary releases, target individual users, or have random-based percentage rollouts. Dark launch new features and mitigate release relates risks by testing in production.
+Public Management API
+Development teams can create and update feature flags from any script or program using the API. It provides all the functionality of the dashboard but is built for programs.
+Configuration Management
+Supporting DevOps engineers to manage application configurations remotely via a comfortable UI. Able to store string, number, and text-type variables on top of boolean feature switches. Mandatory notes and audit log helps the remote configuration management to stay compliant.
+LaunchDarkly Alternative
+LaunchDarkly is a great service, but we have heard those asking for an alternative release management solution. ConfigCat offers a transparent, flat pricing structure, a simple UI, a forever free plan, plus all the security features even in the Free subscription. How does it compare to LaunchDarkly? We aim at 90% of the power with only 10% of the complexity. We aim at 90% of the power with only 10% of the complexity.
+Feature Flag Best Practices
+Software developers apply feature flag best practices like using their own consistent naming convention, leaving notes, keeping the feature flags' scope clear, connecting your feature flag service with your project management system (JIRA, Trello), and removing zombie (stale) feature flags.
+Canary Release or Phased Rollout
+Product managers can deploy experiments to a smaller number of users first. And make them available for a wider audience only when confident. It's good to roll out new features gradually and feature changes to production, test on low-risk user groups first and move slowly.
+Security
+Enterprise-level security features are available in all plans for site reliability engineers, including SSO, SAML, 2FA, because security shouldn't be a question of money.
+A/B Testing
+To do A/B tests, you have to solve two problems. First, you have to split your users into random segments. Then you have to measure the successful conversions. Percentage rules let you create random segments, and the ConfigCat SDKs help you send feature flag data into analytics tools to visualize the test results.
+User Targeting and Segments
+Target a particular group of your users with segments. User segments can be assigned to multiple feature flags, making them ideal for beta testing.
+Free Feature Flag Service
+The Free plan lets you use all features, including essential security features like SSO, multi-factor authentication, and SAML. You can use the forever-free plan to manage your features or evaluate the feature flag service in case the purchase decision takes longer.
+Trunk-based Development
+At the code level, using feature flags is an alternative to using feature branches. Using fewer feature branches means less merge hell and a happier developer team.
+Read more...
+Tech Debt
+While feature flags are a great way to decouple releases from deployments, having unused flags in the source code adds to the technical debt. Engineers can use the code scanner CLI tool to eliminate tech debt and help them keep the code clean. The zombie flags report warns about flags that are likely not in use anymore.
+GDPR compliant
+We are in the European Union under the GDPR regulation. Your site reliability engineers can set up the service to store your data only within the EU. The EU-only option is included in all plans, even in the forever-free plan. You can always switch to the Global option that provides improved performance for your users outside of the EU as an alternative. Starting with the Dedicated plans, you can opt for other regions, including the US, Canada, UK, or Australia.
+Open-Source SDKs
+They are supporting every major technology with step-by-step guides for easy integration. All SDKs are on GitHub, and we are happy to receive improvement requests. The SDKs are MIT licensed to use in your application without any restrictions.
+Easy to learn UI
+Enables customer care and support professionals to be productive in managing feature flags on an easy-to-use browser interface. The feature management dashboard is designed to take less than 10 minutes to learn, even for non-technical people to learn basic feature flagging. Just log in, flip the feature toggles, and see the application features turned ON or OFF.
+Emergency Kill Switch
+Release with confidence and rollback changes if anything goes wrong. The emergency kill switch takes out the stress from the most critical point of the software delivery lifecycle, resulting in a more confident product manager, a content release manager, and a happy software engineering team.
+Premium Support
+Reach out directly to the developers of the ConfigCat feature flags service. Book a live demo or consult on best practices with one of us who can talk tech. ConfigCat has support SLA and uptime SLA. Even users of the Free plan can get help through either our dedicated Slack channel or via email. We offer premium support starting from the Enterprise plan with dedicated support hours each month.
+SAML
+SAML SSO allows your team members to sign up and log in via their company accounts using your Identity Provider (IdP).
+Feature Flagging Tools
+Feature flagging tools are essential to ensuring development teams can release features with speed and precision. While there are many different types of feature flag tools, the core principles remain the same.
+Read more...
+Feature Flag Framework Explained
+A feature flag framework is a game-changing solution for software development. To release new software features with speed and accuracy, you must have access to a robust feature flagging tool that's capable of enabling and disabling isolated features at your team's command.
+Read more...
+React Feature Flag
+Are you developing user interfaces with React? You will understand the significance of having access to tools that allow you to deploy at speed and release interactive UIs with confidence.
+Read more...
+Rails Feature Flag
+Rails feature flags provide developers with a much-needed safety net. Rails feature flagging tools ensure your web applications and services are always in a releasable state.
+Read more...
+Android Feature Flag
+With Android mobile development teams often releasing new versions of their applications in the space of a few weeks, things can move at breakneck speed.
+Read more...
+Python Feature Flag
+Do you use Python to develop your backend? You will understand the significance of having access to tools that allow you to deploy at speed and release new features with confidence.
+Read more...
+AWS Feature Flag
+AWS developers need a safety net to prevent code breakages and allow for experiments. Feature flags provide this safety net while also giving you the power to roll out changes gradually.
+Read more...
+Dart Feature Flag
+Dart feature flags can play a pivotal role in the development process, allowing you to control when new features are released and giving you the flexibility to make changes without having to redeploy your entire app.
+Read more...
+Best Feature Flag Platform
+A feature flag platform is a tool that enables developers to manage the rollout of new features or changes to their applications in a controlled and safe manner.
+Read more...
+Best Practices
+By following some feature flag best practices, you can take control of your entire release process and execute swift rollouts.
+Read more...
+Feature Flag as a Service
+Rather than navigating through different code files to find the feature flags, a feature flag as a service solution enables you to manage all of your flags in one centralized location.
+Read more...
+Feature Toggles
+Using feature toggles, development teams can take their time to experiment with new features and get them right before pushing them out to users.
+Read more...
+What is Canary Testing?
+You can think of canary testing as the practice of exposing a new feature to a small subset of users before eventually rolling it out to the entire user base.
+Read more...
+Feature Flag SaaS
+Feature flags, otherwise known as feature toggles and switches, allow SaaS teams to selectively enable and disable user features and functionalities across their SaaS products.
+Read more...
+Feature Toggle Management
+Feature toggle management enables teams to enable and disable individual features at the click of a button without a full code deployment.
+Read more...
+Sign up
+   or   
+Book a demo
+“ Worth exploring with the goal of understanding how it will affect your enterprise ” - ThoughtWorks Technology Radar
+Legal
+Terms & Policies
+Company
+Public Roadmap
+Team
+Jobs
+Know more
+Referrals
+Self hosted feature flag service
+What is a feature flag?
+The Feature Flag Service
+Alternative Feature Flag Service
+LaunchDarkly vs ConfigCat
+Feature Flagging Tools
+Customer Success Stories
+ConfigCat vs ... (Competitor Comparison)
+Feature Flag Framework Explained
+Help & Resources
+Docs
+Integrations
+Public Management API Docs
+Feature Flag Tutorial
+Service Status Monitor
+Trust Center
+Architectural Overview
+Blog
+Support & Feedback
+Bug Bounty Program
+News
+Media Kit
+Engage
+Talk with our team on Slack
+Twitter
+Facebook
+LinkedIn
+GitHub
+Leave a review
+Merchandise EU
+Merchandise US
+ISO 27001:2022
+ConfigCat uses cookies to make it easier for you to use our website. Read more about our Cookie Policy. We will also collect personal information about you as described in our Privacy Policy and Terms of Service Agreement. By using our services you accept to the use of cookies and to the collection of your personal information.
+I accept.

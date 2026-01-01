@@ -1,0 +1,149 @@
+CodePen Home
+TRY OUR ONLINE EDITOR
+Start Coding
+Search Pens
+Challenges
+Spark
+CodePen
+Embed analytics via REST & JS SDKs — full control over UI, security & UX.
+ads via Carbon
+Search
+Sign Up
+Log In
+HTML
+<div class="rect"></div>
+SCSS
+
+.rect {
+
+
+
+
+background: linear-gradient(
+
+
+
+
+-119deg,
+
+
+
+
+$gray 0%,
+
+
+
+
+$dark-gray 100%); }
+
+JS
+var colors = ["#74B087","#DE7300","#74B087"];
+
+
+function animate() {};
+The best place to build, test, and discover front-end code.
+
+CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration.
+
+Sign Up for Free
+MongoDB Atlas
+Flexible. Scalable. AI-ready. Build anywhere with MongoDB Atlas.
+SPONSOR
+Build & Test
+
+Get work done quicker by building out entire projects or isolating code to test features and animations. Want to keep it all under wraps? Upgrade to a PRO account to keep your work private.
+
+Try the Editor
+Learn & Discover
+
+Want to upgrade your skills and get noticed? Participating in CodePen Challenges is a great way to try something new. We frequently feature these Pens on our homepage and across social media!
+
+Join this Week’s Challenge
+Share Your Work
+
+Become a part of the most active front-end community in the world by sharing work. Presenting at a conference? Show your code directly in the browser with Presentation Mode.
+
+Explore Trending
+Find inspiration from 1.8 million+ front-end designers and developers.
+
+Browse and share work from world-class designers and developers in the front-end community.
+
+Open in Editor
+Christmas tree with three.js
+Elif Duygu Demircioğlu
+Love
+59
+2
+3,281
+Open in Editor
+Text frame border animation rotation that [CSS & SVG] V 2
+Fernando Cohen
+Love
+218
+0
+2,471
+Open in Editor
+🎅 Merry Christmas 🌲
+Chris Bolson
+Love
+26
+0
+1,642
+Open in Editor
+Local News 404
+leimapapa
+Love
+19
+1
+932
+Open in Editor
+Interactive Snowfall 👉❄️
+Jon Kantner
+Love
+22
+0
+1,490
+Next
+A front-end environment made for testing and sharing
+Explore the Editor
+Support For the Way You Code
+Keep Your Pens Private
+
+Nobody can see your private stuff until you want them to, because they are at secret unguessable, non-searchable, non-indexable URLs.
+
+Embed Pens
+Asset Hosting
+Build Entire Projects
+Collab Mode
+Get Started Quicker
+
+Get inspiration from Pens using frameworks, libraries, and design patterns. Then, start your own with premade templates.
+
+Explore Topics
+React
+Vue
+Tailwind
+Sass
+GSAP
+MongoDB Atlas
+
+MongoDB Atlas is the developer-friendly database for building, scaling, and running gen AI & LLM apps—no separate vector DB needed. Enjoy native vector search, 115+ regions, and flexible document modeling. Build AI faster, all in one place.
+
+Learn More
+Bring the Whole Team
+
+Each team and team member gets all the features of a PRO membership. That means the Team can do things like upload Assets, use features like Collab Mode, Professor Mode, Presentation Mode, and Live View, and apply custom CSS to Posts, Profiles, and Embeds.
+
+Start a Team
+Loved by hundreds of teams, including:
+CodePenAboutBlogPodcastDocumentationSupportAdvertise
+ForTeamsEducationPrivacyEmbedsAsset Hosting
+SocialYouTubeBlueskyInstagramMastodon
+CommunitySparkChallengesTopicsCode of Conduct
+CodePen Home
+
+©2025 CodePen
+
+Demo or it didn't happen.
+
+Terms of Service · Privacy Policy

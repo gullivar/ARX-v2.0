@@ -1,0 +1,98 @@
+Home
+FileZilla
+Features
+Screenshots
+Download
+Documentation
+FileZilla Pro
+RemoteDrive
+FileZilla Server
+Download
+Community
+Forum
+Wiki
+General
+FAQ
+Support
+Contact
+License
+Privacy Policy
+Trademark Policy
+Development
+Source code
+Nightly builds
+Translations
+Version history
+Changelog
+Issue tracker
+Other projects
+libfilezilla
+Octochess
+
+Sponsors:
+
+Promotion:
+
+Overview
+
+Advertisement:
+
+AI and large language models (LLMs) are revolutionizing the way businesses use and process data.
+
+Welcome to the homepage of FileZilla®, the free FTP solution. The FileZilla Client not only supports FTP, but also FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License.
+
+We are also offering FileZilla Pro, with additional protocol support for WebDAV, Amazon S3, Backblaze B2, Dropbox, Microsoft OneDrive, Google Drive, Microsoft Azure Blob and File Storage, and Google Cloud Storage.
+
+Last but not least, FileZilla Server is a free open source FTP and FTPS Server.
+
+Support is available through our forums, the wiki and the bug and feature request trackers.
+
+In addition, you will find documentation on how to compile FileZilla and nightly builds for multiple platforms in the development section.
+
+Quick download links
+Download
+FileZilla Client
+All platforms
+Download
+FileZilla Server
+All platforms
+
+Pick the client if you want to transfer files. Get the server if you want to make files available for others.
+
+News 
+2025-12-10 - FileZilla Server 1.12.1 released
+Bugfixes and minor changes:
+FTP: Fix a crash processing the ABOR command
+MSW: silent installations now automatically back up configuration files in cases where the interactive installer would prompt the user to do so.
+
+2025-11-19 - FileZilla Server 1.12.0 released
+Bugfixes and minor changes:
+FTP: do not use the default impersonator during the test of the FTP connections.
+Fixed bug that reversed mount point precedence, giving priority to group mount points over user ones; user mount points now correctly take precedence.
+Fixed bug that made the %<home> placeholder not work in case "Use system credentials to log in" was selected but "Use system credentials also for accessing &files and directories" was not.
+
+2025-11-12 - FileZilla Client 3.69.5 released
+Bugfixes and minor changes:
+macOS: Fixed issue with toolbar size
+
+2020-07-16 - FileZilla Pro Adds Support for Keystone V3, OneDrive Sharing, and Amazon STS
+
+By adding support for the OpenStack Swift Keystone v3 identity service, OneDrive Sharing, and Amazon Secure Token Service (STS). FileZilla Pro is making it possible for its users to store and share files with greater versatility and security. Read the full news.
+
+2019-11-07 - FileZilla Pro to continue work with bug bounty program
+
+Building on success of participation in EU security project, FileZilla will continue participating and investing project resources in bug bounty program. Read the full news.
+
+2019-07-29 - FileZilla refocuses on security after participation in EU bug bounty program
+
+European Union-sponsored "bug bounty" program found some security issues which have promptly been fixed.
+
+Read the full news.
+
+2019-07-09 - FileZilla Pro to add new features after recent customer survey
+
+Read the full news.
+
+The user interface mentioned in the article will also be available for users of the free FileZilla.
+
+Imprint

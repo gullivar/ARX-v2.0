@@ -1,0 +1,42 @@
+ZZB.BZ 
+Create
+Register
+Log In
+Donate
+Announcement
+
+ZZB.BZ was founded in 2009 as a free URL shortening service. It helps you create short URLs, nothing but fast, easy, and effective.
+
+Time flies, it's 2025, ZZB.BZ has served for 16 years, and it needs your financial support to keep it running now. For reducing cost, I've taken the following measures: "remove short urls in DB which are older than 3 years which created by non-login users", "API support", "Bookmark Tools".
+
+If you could, please donate to this website, and I will list your name on this page.
+
+I appreciate your understanding.
+
+--
+Sincerely Yours,
+roga 2025/04/26
+
+Short URL. Fast, Easy & Effective
+ Short URL
+Optional Settings
+Custom URL
+ Check
+Password Protection 
+Description 
+Redirect without AD
+
+Redirection Count: 0
+
+ChangeLog:
+2025/04/26 - upgrade to bootstrap 5, CodeIgniter 3.1.13, revamp pages, fix advertisement.
+2018/06/10 - revamp abuse page, mailer, and minor text fix.
+2017/06/14 - revamp management page, codebase, and minor text fix.
+2015/05/21 - fix password protection url for backward support.
+2015/05/13 - structure and page revamp, add advertisement, add intermediate page for redirection
+Features:
+After login, you may manage your own short url that you created before.
+Support password-protected short URL.
+Report Abuse | 2009 - 2026, © roga
+Message
+Close

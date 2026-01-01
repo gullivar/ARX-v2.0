@@ -1,0 +1,107 @@
+Hoppa till innehåll
+Om Bahnhof
+Kontakt
+FAQ
+Skapa konto
+Logga in
+VPC
+VPS
+VMware
+S3
+Accelerated Computing
+Fler tjänster
+Bahnhof Cloud
+Ditt säkra, snabba och skalbara moln i Sverige
+
+Välkommen till Sveriges vassaste molnplattform – säker, skalbar och kostnadseffektiv.
+
+All drift sker i våra egna svenska datacenter och är ansluten till vårt nordiska fibernät för unik hög prestanda och säkerhet, med full GDPR-kompatibilitet.
+
+VPC från 165 kr/mån
+Kom igång direkt
+Våra mest populära lösningar
+Virtual Private Cloud (VPC)
+
+Ett eget, säkert och anpassat moln hos Bahnhof. Du väljer själv minne, CPU och hårddisk för din miljö.
+
+Läs mer och beställ
+Virtual Private Server (VPS)
+
+En enkel och snabb lösning för molntjänster, där vi tar hand om infrastrukturen åt dig.
+
+Läs mer och beställ
+S3
+
+Molnbaserad objektlagring för maximal flexibilitet – tryggt, snabbt och prisvärt i svenska datacenter.
+
+Läs mer och beställ
+Därför ska du välja Bahnhof
+Eget kraftfullt nät
+
+Vi driver ett rikstäckande fibernät med globala anslutningar för blixtsnabb responstid och minimal latens – var du än är.
+
+Maximal säkerhet
+
+Våra säkerhetsklassade datacenter har dygnet runt-övervakning, redundant ström, kylning och nätverk – för maximal drifttid.
+
+Du äger din egen data
+
+Vi skyddar din integritet – all data stannar i Sverige och lämnas aldrig ut. Med Bahnhofs infrastruktur får du en trygg och GDPR-säker hantering.
+
+Miljösmart
+
+Våra miljöcertifierade datacenter drivs av förnybar el och återvinner överskottsvärme som värmer tusentals bostäder via lokala elbolag.
+
+Skapa konto och kom igång
+Läs vad våra kunder tycker
+
+– Allt har fungerat bra, och Bahnhof har hela tiden tagit våra frågor på allvar oavsett vad saken har gällt. De förstår spelvärldens unika krav och utmaningar, och har anpassat sig efter just våra specifika behov.
+
+– Internet stänger ju aldrig för dagen, utan är ständigt i gång. Det fick vi lära oss den hårda vägen med vår förra molnlösning, då var vi tvungna att stänga sajten en stund varje kväll för att göra backuper.
+
+OpenStack eller VMware? Vi hjälper dig att välja rätt!
+Allt du INTE vill veta om ditt AWS och Google Cloud
+Based in Sweden
+
+Vi tar säkerhet på största allvar. Våra system driftas i egna, säkra datacenter, certifierade av Based in Sweden, med all lagring på svensk mark under svensk lagstiftning.
+
+Det ger dig ett maximalt skydd mot både företagsspionage och myndighetsövervakning.
+
+Läs mer på basedinsweden.se.
+
+Kontakta oss
+
+Fyll i formuläret så kontaktar våra specialister dig inom en timme.
+
+Du kan också ringa oss på 010-510 00 20 eller mejla sales@bahnhof.cloud.
+
+Förnamn
+Efternamn
+Företag
+E-post
+Telefon
+Meddelande
+Kontakta oss
+
+Bahnhof AB
+
+Sveavägen 41
+111 40 Stockholm
+Sweden
+
+010 510 00 20
+cloudsales@bahnhof.se
+Våra tjänster
+VPC
+VPS
+VMware
+S3
+Accelerated Computing
+Kubernetes
+Custom Platform
+Om oss
+Om Bahnhof
+Kontakt
+Skapa konto
+Logga in
+English

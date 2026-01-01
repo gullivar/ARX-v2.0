@@ -1,0 +1,3 @@
+403 - Forbidden . That’s an error.
+
+Client does not have access rights to the content so server is rejecting to give proper response. That’s all we know.

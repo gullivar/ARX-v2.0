@@ -1,0 +1,664 @@
+Consent
+Details
+About
+This website uses cookies
+To deliver the best possible user experience, SEON and our third-party partners use cookies to enable core website functions, remember your preferences, understand how you interact with us, and show you relevant content and ads. You can manage your preferences below or accept all cookies. For more details, see our Cookie Notice.
+Necessary Cookies Only
+Customize
+Accept All Cookies
+Products
+Digital Footprint
+Understand your customers’ online presence using email, phone and IP data
+Device Intelligence
+Analyze and track device and behavioral biometric data patterns
+AI & Machine Learning
+Deploy transparent rules to prevent evolving fraud patterns in real time
+Customer Screening & Monitoring
+Simplify compliance with an integrated AML and fraud platform
+Payment Screening
+Prevent illicit payments by screening transactions against global sanctions lists in real time
+AML Transaction Monitoring
+Detect suspicious activity in real time using behavioral, customer and fraud data
+Case Management
+Eliminate manual processes and fragmented tools to achieve faster, more efficient investigations
+Shopify
+Seamlessly integrate fraud prevention into your Shopify store
+AWS
+Integrate Fraud Prevention Seamlessly with SEON’s AWS Partnership
+Solutions
+Financial Services
+Protect your clients from fraud at every stage
+Fintech
+Scale and onboard new customers with confidence
+Payments
+Block fraudulent transactions in real time
+iGaming
+Eliminate iGaming threats without sacrificing player experience
+Retail
+Reduce chargebacks & stop eCommerce fraud
+Bonus Abuse
+Block bonus abuse before it begins
+Fake & Synthetic IDs
+Detect suspicious users upfront
+Account Takeover
+Block unauthorized access before it impacts your customers
+AI Automation
+Detect fraud patterns that human eyes can’t
+Registration & Onboarding
+Onboard the right customers quickly and without friction
+Login & Activity Monitoring
+Keep customers and your business safe
+Transaction Monitoring
+Stay compliant and protect honest customers with real-time monitoring
+Chargeback Management
+AI-powered chargeback resolution from start to finish with no manual effort required.
+Managed Risk Services
+Optimize fraud defense with expert insights, tailored strategies, and proactive support.
+Case Studies
+Resources
+Articles
+Stay informed on the latest fraud and risk prevention insights
+Guides
+Access practical guides to strengthen fraud and risk detection
+Case Studies
+Discover success stories from the world’s most innovative companies
+Comparisons
+Compare fraud and risk software solutions
+Webinars
+Learn from industry leaders to gain practical insights
+Dictionary
+Understand essential fraud and risk industry terms
+All Resources
+Explore the full resource library
+Integration Guide
+Easily integrate by following a detailed step-by-step guide
+API Documentation
+Integrate quickly using one API
+Technical Knowledge Base
+Learn more about SEON and how to optimize your setup
+Github
+Access our open-source fraud prevention tools
+Company
+About Us
+Learn about our mission and team
+Contact Us
+Get in touch with our experts
+Careers
+Join our team
+News
+Latest updates in fraud prevention
+Mediaroom
+Read the latest SEON news and media stories
+Events
+Meet up with our experts at an industry conference
+Partners
+Become a SEON partner
+Pricing
+Speak with an expert
+Login
+The Command Center for Fraud Prevention & AML Compliance
+
+SEON connects 900+ first-party data signals to show you what other solutions can’t. Enrich data, understand context and take action from one place.
+
+Speak with an expert
+
+TRUSTED BY THE WORLD’S MOST AMBITIOUS COMPANIES
+
+Stop Fraud. Not Growth.
+
+The fastest-growing companies in fintech, payments and iGaming use SEON to stop sophisticated fraud and stay compliant without creating friction or hurting revenue.
+
+How Bilt Reduced Chargebacks with SEON
+
+FINANCIAL SERVICES
+
+REWARDS
+
+Watch case study
+Rebtel Blocks 30% More ATO Attempts
+
+TELECOMS
+
+CARD FRAUD
+
+Watch case study
+32x ROI from Unified Fraud Prevention
+
+IGAMING
+
+BONUS ABUSE
+
+Watch case study
+Explore all case studies
+To Beat Our Data, You Need a Time Machine
+
+Other platforms resell stale data they don’t own or control. SEON’s 900+ first-party signals go deeper and further, giving you unmatched coverage and precision.
+
+See our data story
+
+SOLUTIONS
+
+Fraud Changes Fast. Stay in Front of It Forever.
+
+Launch in days, then scale to unlimited use cases and geographies with a unified data foundation and integrated tools for fraud prevention and AML compliance.
+
+Solutions
+Products
+
+Registration & Onboarding
+
+Login Monitoring
+
+Transaction Monitoring
+
+AML Compliance
+
+Fake & Synthetic IDs
+
+Bonus Abuse
+
+Account Takeover
+
+Chargeback Management
+
+Fraud Prevention
+
+Digital Footprint
+
+Device Intelligence
+
+AI & Automation
+
+Customer Screening
+
+Payment Screening
+
+AML Transaction Monitoring
+
+Case Management
+
+SOLVING COMPLEX PROBLEMS
+
+SEON Delivers What Data Resellers and Orchestration Middleware Can’t
+
+DATA
+
+Accurately Detect Risk with Deeper, Broader First-Party Data
+
+Every SEON product is built on the industry’s richest first-party dataset. Eliminate blind spots and get the real-time threat intelligence you need to build a multi-layered defense against fraud.
+
+Explore SEON’s Data Strength
+
+FLEXIBILITY
+
+Take Control with Flexible Analysis and Transparent Decisioning
+
+SEON supports every type of analysis fraud teams may choose, from rules-based to AI-driven. Fine-tune risk thresholds and build highly granular rules and alert triggers, with full transparency and zero limitations.
+
+Explore our machine learning and AI-driven analysis
+
+SPEED
+
+Go From Implementation to Impact in Days, Not Months
+
+Middleware orchestration tools take months to onboard. The average time to launch and fully operationalize SEON is 14 days. Go live quickly with a single API, ready-to-use rules and hands-on support.
+
+See what our customers say
+
+EXPERTISE
+
+Partner with the Industry’s Most Innovative Risk Experts
+
+SEON provides unparalleled global fraud expertise. From our dedicated fraud consultants to our 120+ R&D engineers, we lead with insight you can only get from years in the fight.
+
+Access expert help with Managed Risk Services
+Take Control of Your Risk Strategy
+
+Block bad actors before KYC with 900+ first-party data signals. Customize rules and alerts with endless options, get started fast with 240+ pre-built rules and keep everything organized and audit-ready in one system.
+
+Uncover Deep Insights
+Customize Rules & Alerts
+Manage Investigations
+File Regulatory Reports
+
+“We were looking at another provider, but they came back to us with a 4-6 months integration window. With SEON, it was literally a phone call, sandbox tests on Monday and by the end of the week, it was done.”
+
+Coert Snyman, Senior Analyst, NOTYD
+
+5 days
+
+to integrate and onboard
+
+87%
+
+drop  in fraudulent transactions
+
+Read case study
+
+“SEON improves our accuracy by an extra 200 basis points. That doesn’t sound like a lot, but we are talking about a 200 basis point increase of fraud cases we would be losing otherwise. And it’s often the last few points that are so hard to win as we fine-tune our models.”
+
+Dmitri Lihhatsov, Fincrime Product Owner, Revolut
+
+200
+
+basis points increase
+
+8x
+
+ROI cost-effective pay-per-API call
+
+Read case study
+
+“With SEON, you can reduce bonus abuse, making marketing spend more efficient and giving teams better visibility into campaign success. Working in real time is a key difference, and to top it off, the customer support is excellent.”
+
+Joeran Kiencke, Manager Risk Operations, Lottoland
+
+32x
+
+ROI by safeguarding marketing campaigns from bonus abuse
+
+190%
+
+increase in multi-accounting detection at registration
+
+Read case study
+
+IN-HOUSE EXPERTISE
+
+Insights From Our Experts
+
+COO & FRAUD FIGHTER
+
+Bence Jendruszak
+View all articles
+
+“By unifying fraud prevention and compliance, payment providers gain the speed, visibility and confidence required to stop threats earlier and reduce operational strain.” 
+
+The Fraud & Compliance Convergence in Payments: How Risk Teams Stay Ahead
+
+PRESIDENT, GTM
+
+Matt DeLauro
+View all articles
+
+“The lawsuit alleged that the banks failed to implement effective fraud prevention measures and neglected to assist victims. The lawsuit aimed to encourage stronger consumer protections and improve reimbursement practices.” 
+
+CFPB and Zelle: The Implications for Fraud Prevention and Consumer Trust
+
+CEO & FRAUD FIGHTER
+
+Tamas Kadar
+View all articles
+
+“Explainability is no longer a nice-to-have; it’s the minimum requirement for trust in any artificial intelligence (AI) powering fraud or compliance decisions.”
+
+Explainable AI for Trusted Fraud & Compliance Decisions
+
+DIRECTOR OF PRODUCT, AML & RISK SOLUTIONS
+
+Nauman Abuzar
+View all articles
+
+“The teams that thrive in 2026 will be those that configure their AML programs to match actual risk and adjust when regulations shift.”
+
+How to Build an AML Compliance Program that Adapts as Fast as Risk Does
+
+DIRECTOR GROWTH, AML SOLUTIONS
+
+Jeremy Doyle
+View all articles
+
+“With fraud and compliance data in one place, teams can connect the dots faster to quickly unveil potential risks and patterns that might otherwise remain obscured.” 
+
+How AML Case Management Drives Efficiency in Financial Investigations
+The #1 Fraud Prevention and AML Compliance Solution Loved by Fraud & Risk Teams
+
+With over 350 reviews, SEON is the market leader and G2’s best fraud prevention solution.
+
+Get to the Root of Your
+Fraud Problem
+
+Book time with fraud specialists who understand your industry and map your clear path forward.
+
+Automate 95% of fraud checks
+Reduce fraudulent registrations by 90%
+Accelerate manual reviews by 90%
+
+Trusted by 5,000+ global organizations:
+
+Book Time With Our Experts
+Business Email
+*
+Country
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Asia/Pacific Region
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Europe
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia (FYROM)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russia
+Rwanda
+Réunion
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Åland Islands
+How did you hear about us?
+*
+Please select all that apply
+*
+Fraud Prevention
+AML Compliance
+Transaction Monitoring
+Managed Risk Services
+
+Just like you, we hate spam. We won't call you and we will only send you relevant emails, which you can opt-out of at any time. By signing up, you agree to our Terms Of Service and Privacy Policy.
+
+4.7
+
+4.9
+
+Products
+Digital Footprint
+Device Intelligence
+AI & Machine Learning
+Fraud Prevention
+Data Signals
+Customer Screening & Monitoring
+Payment Screening
+AML Transaction Monitoring
+Case Management
+Managed Risk Services
+Shopify
+AWS
+Use Cases
+Account Takeover
+Bonus Abuse
+Fake & Synthetic IDs
+Registration & Onboarding
+Transaction Monitoring
+Login & Activity Monitoring
+AI Automation
+Industries
+Financial Services
+iGaming
+Retail
+Payment Fraud
+Fintech
+Resources
+Articles
+Guides
+Comparisons
+Case Studies
+Webinars
+Dictionary
+Developers
+API Reference
+Knowledge Base
+Github
+Company
+About Us
+Contact Us
+Partners
+Events
+News
+Mediaroom
+Careers
+LinkedIn
+X
+Instagram
+Facebook
+
+Legal & Security
+
+FAQ
+
+API Status
+
+Manage Cookies
+
+© 2025 Copyright SEON Technologies Ltd.
+
+ES
+EN

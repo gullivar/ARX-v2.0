@@ -1,0 +1,115 @@
+Open-Meteo
+Home
+Features
+Pricing
+API Docs
+Free Weather API
+
+Open-Meteo is an open-source weather API and offers free access for non-commercial use. No API key required. Start using it now!
+
+Features
+Try the API here
+Accurate Weather Forecasts for Any Location
+
+Open-Meteo partners with national weather services to bring you open data with high resolution, ranging from 1 to 11 kilometres. Our powerful APIs intelligently select the most suitable weather models for your specific location, ensuring accurate and reliable forecasts.
+
+With our user-friendly JSON API, accessing weather data has never been easier. Whether you're developing an application or seeking weather information for personal use, our APIs provide seamless integration and deliver the data you need in a simple and accessible format.
+
+Experience the precision and convenience of Open-Meteo's Forecast API, providing comprehensive weather information worldwide. Stay informed and make informed decisions with our reliable weather forecasts.
+
+See features
+Read the docs
+Forecast & Current
+Last 10 Days
+Historical Data
+curl "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&current=temperature_2m,wind_speed_10m&hourly=temperature_2m,relative_humidity_2m,wind_speed_10m" 
+{
+  ...
+  "current": {
+    "time": "2022-01-01T15:00",
+    "temperature_2m": 2.4,
+    "wind_speed_10m": 11.9,
+  },
+  "hourly": {
+    "time": ["2022-07-01T00:00","2022-07-01T01:00", ...],
+    "wind_speed_10m": [3.16,3.02,3.3,3.14,3.2,2.95, ...],
+    "temperature_2m": [13.7,13.3,12.8,12.3,11.8, ...],
+    "relative_humidity_2m": [82,83,86,85,88,88,84,76, ...],
+  }
+}
+High Resolution
+
+Open-Meteo leverages a powerful combination of global (11 km) and mesoscale (1 km) weather models from esteemed national weather services, providing comprehensive forecasts with remarkable precision. No matter where you are in the world, you can access the most reliable and accurate weather predictions available.
+
+Our weather data is presented in hourly resolution, allowing you to plan your activities with confidence. The initial days of the forecast benefit from localised weather models, offering highly detailed and accurate information. Subsequently, global weather models provide forecasts for up to 16 days. Through seamless integration, our APIs deliver a straightforward and reliable hourly weather forecast experience.
+
+Rapid Updates
+
+At Open-Meteo, we understand the importance of having the most up-to-date weather information. That's why our local weather models are updated every hour, ensuring that our forecasts reflect the latest changes in conditions, including updates from rain radars.
+
+Our weather models rely on a wealth of real-time data, including measurements from various sources such as airplanes, buoys, radar systems, and satellites. By incorporating this diverse and comprehensive data, our numerical weather predictions provide a deeper analysis than traditional weather stations, resulting in more accurate forecasts.
+
+80 Years Historical Data
+
+Explore the past with our comprehensive Historical Weather API. With over 80 years of hourly weather data available at a 10 kilometre resolution, you can dive into the climate of any location. Behind the scenes, this extensive dataset, comprising 50 TB of information, enables you to access temperature records spanning eight decades in an instant.
+
+Moreover, our 1 kilometre weather models continuously archive recent data, ensuring that you can seamlessly retrieve the latest forecasts alongside historical information from previous weeks. This functionality opens up possibilities for training machine learning applications and gaining valuable insights from the combination of present and past weather data. Discover the power of our historical weather API and unlock a treasure trove of weather information.
+
+Open-Source
+
+We believe in the power of open-source software. That's why the entire codebase of Open-Meteo is accessible on GitHub, released under the AGPLv3 licence. This means you can explore, use, modify, and contribute to the code.
+
+If you wish to take it a step further, we're here to support you in setting up your own API instances. This allows you to have complete control and enjoy practically unlimited API calls, making it ideal for demanding applications like machine learning or large language models.
+
+In addition, our data is licenced under Attribution 4.0 International (CC BY 4.0). This means you are free to share and adapt the data, even for commercial purposes. We believe in fostering an open ecosystem that encourages transparency, collaboration and innovation.
+
+Free API
+
+Open-Meteo offers free access to its APIs for non-commercial use, making it convenient for individuals and developers to explore and integrate weather data into their projects. The best part is that no API key, registration, or credit card is required to enjoy this service.
+
+We trust our users to utilise the free API responsibly and kindly request appropriate credit for the data used. While there are no strict access restrictions, we encourage fair usage of the service. If you require commercial usage or anticipate exceeding 10'000 API calls per day, we recommend considering our API subscription for enhanced features and support.
+
+Easy to Use
+
+We've designed our APIs to be incredibly user-friendly. They are based on the widely adopted HTTP protocol and utilise the simplicity of JSON data format. All you need to get started is a basic understanding of geographic coordinates, making HTTP requests, and working with JSON data.
+
+To assist you in seamlessly integrating our APIs into your projects, we provide comprehensive documentation. It includes detailed explanations of all parameters and their usage. Whether you're using Python, R, Julia, PHP, JavaScript, React, Flutter, Java, or any other programming language, our APIs are designed to work effortlessly with your application.
+
+Stay up to date!
+
+We're constantly evolving and expanding. We're dedicated to providing you with the latest features, weather variables, and data sources. If you want to stay in the loop and be the first to know about our exciting updates, we invite you to subscribe to our blog or follow us on X. By doing so, you'll never miss out on the latest developments and enhancements in our services.
+
+Subscribe to the Newsletter
+Available APIs
+Open-Meteo
+Features
+Pricing
+About us & Contact
+Licence
+Terms & Privacy
+Weather APIs
+Weather Forecast API
+Historical Weather API
+ECMWF API
+GFS & HRRR Forecast API
+Météo-France API
+DWD ICON API
+GEM API
+JMA API
+Met Norway API
+Other APIs
+Ensemble API
+Climate Change API
+Marine Weather API
+Air Quality API
+Geocoding API
+Elevation API
+Flood API
+External
+X
+Blog
+GitHub
+Mastodon
+Service status and uptime
+Model Updates Overview
+© 2022-2025 Copyright: Open-Meteo.com

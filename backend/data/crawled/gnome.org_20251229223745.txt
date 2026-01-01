@@ -1,0 +1,78 @@
+About Us
+Get Involved
+Donate
+An independent computing platform for everyone
+A more elegant way to use your computer
+
+Hit the 
+Super Key any time to get an overview, switch or launch apps, and search for anything on your computer. It's magic.
+
+Continue using your old computer after the end of Windows 10 support this October. Visit endof10.org
+Room to Breathe
+
+Spread out your work across as many workspaces as you need.
+
+Batteries Included
+
+GNOME comes with apps for all your everyday computing needs. They're simple and consistent so once you’ve used one, each feels familiar and intuitive.
+
+Core Apps
+
+Ecosystem
+ GNOME Circle
+
+Certification and mentoring program for well-designed apps built for the GNOME platform.
+
+ Flathub
+
+Get many more third party apps for GNOME on Flathub, the Linux app store.
+
+Developer Platform
+
+Build gorgeous apps using a completely independent technology stack.
+
+ Developer Portal  Design System
+Get Involved
+
+Every aspect of the GNOME project is open. Our software has no restrictions on use and respects your privacy. Learn how to get involved:
+
+Code
+Design
+Translation
+Testing
+
+See other teams you can join to make GNOME better.
+
+Get GNOME
+
+GNOME is used as the default experience across Red Hat Enterprise Linux, Ubuntu, Debian, Fedora Workstation, SUSE Linux Enterprise, Vanilla OS, Endless OS, and more.
+
+See what's new in the Latest Release
+
+Supporting Organizations
+
+Infrastructure and services kindly provided by:
+
+Support Us
+
+Donations are essential for us to improve our development infrastructure, host community events, and keep Flathub running. Every contribution makes a difference and allows us to do more.
+
+Donate
+Contact Us
+About Us
+Donate
+GNOME Foundation
+Code of Conduct
+Privacy
+Welcome to GNOME
+GNOME Handbook
+Issue Tracker
+Developer Center
+Latest Releases
+This Week in GNOME
+Events
+Forum
+Planet GNOME
+Logo & Brand
+
+© 2025 The GNOME Project

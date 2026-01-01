@@ -1,0 +1,255 @@
+Search apps
+/
+Publish
+Forum
+About
+Log In
+Flathub 2025 Year in Review
+Revisit the top apps and trends from the year
+Shortwave
+Listen to internet radio
+Upscaler
+Upscale and enhance images
+Mission Center
+Monitor system resource usage
+Parlatype
+Media player for transcription
+Commit
+Commit message editor
+Previous slide
+Next slide
+App of the Day
+Curtail
+Compress your images
+Flathub is the App Store for Linux
+
+Get the latest versions of all your favorite apps, for any Linux distribution
+
+Set Up Flathub
+Trending
+Popular
+New
+Updated
+Rune
+The player that blends classic design with modern technology
+FlashPrint
+Slicer for the FlashForge 3D printers
+Yet Another Framework Interface
+YAFI is another GUI for the Framework Laptop Embedded Controller
+Brief
+Browse command-line cheatsheets
+Odamex
+Fast, faithful Classic DOOM action — solo or online
+Cherrypick
+Pick colors on your screen
+Master Key
+Manage passwords without saving them
+jdSystemMonitor
+Monitor your system
+Eloquent
+Your proofreading assistant
+Schedule
+A simple kanban-styled planner
+Enroute Flight Navigation
+Flight Navigation App
+Escritoire
+Write letters with confidence
+More Trending
+Productivity
+Eloquent
+Your proofreading assistant
+Escritoire
+Write letters with confidence
+ConfClerk
+ConfClerk is an application which makes conference schedules available offline
+Reckoner
+Private personal financial tracking
+Give Me Lyrics
+Lyrics for your songs
+Linwood Butterfly
+Draw and organize ideas
+More Productivity
+Graphics & Photography
+Cherrypick
+Pick colors on your screen
+Vimix
+Video live mixer
+Iconic
+Add icons on top of folders
+GPS Correlate
+Attaches GPS location to images
+LPub3D
+LPub3D - An LDraw Building Instruction Editor
+jdPixelUpscaler
+Upscale Images per Pixel
+More Graphics & Photography
+Audio & Video
+Rune
+The player that blends classic design with modern technology
+FCast Receiver
+Receiver for displaying multimedia content from FCast sender applications
+Chronograph
+Sync lyrics of your loved songs
+NextGroove
+Play music from Nextcloud
+Euterpe
+Audio player for the Euterpe media server
+X Air Edit
+Behringer XR mixers user interface
+More Audio & Video
+On the go
+Apps for your Linux phones and tablets
+More mobile apps
+Master Key
+Manage passwords without saving them
+Tally
+Dashboard for Plausible Analytics
+Space Launch
+Rocket launches tracker
+Learn 6502 Assembly
+Program vintage game consoles
+Euterpe
+Audio player for the Euterpe media server
+Railway
+Find all your travel information
+Education
+gencolormap
+Color Map Generator
+TigerJython
+Python IDE for schools
+NEST Desktop
+Simulate spiking neuronal networks
+Fast Reader
+Reading one word at a time
+Falabracman
+Sugar activity to learn words
+Lexi
+Build your own dictionary
+More Education
+Networking
+Tally
+Dashboard for Plausible Analytics
+OpenTrace
+Cross-platform GUI traceroute tool
+Emergency Alerts
+Receive emergency alerts
+Srain
+Modern IRC client written in GTK
+Saldo
+Check your bank accounts
+Transmission Remote
+Remotely manage the Transmission BitTorrent client
+More Networking
+We ♥ Games
+Games and apps to run your favorite titles
+Games
+Emulators
+Game Launchers
+Game Tools
+Odamex
+Fast, faithful Classic DOOM action — solo or online
+Widelands
+A real-time build-up strategy game
+VCMI
+Open-source game engine for Heroes of Might and Magic III
+Hurry Curry!
+Multiplayer co-op coooking game
+Kolor Lines
+Tactical Game
+Multiplication Puzzle
+Solve a math mystery
+choria
+Old school multiplayer RPG
+melonDS
+Nintendo DS and DSi emulator
+xemu
+Original Xbox Emulator
+Hnefatafl
+Play the game
+ScummVM
+Interpreter for numerous adventure games and role-playing games
+99Managers Futsal
+Futsal team-management game.
+More Games
+Developer Tools
+FlashPrint
+Slicer for the FlashForge 3D printers
+Wonderland Editor
+Fast, lightweight 3D engine for the web
+Unity Hub
+Manage game engine installations
+Learn 6502 Assembly
+Program vintage game consoles
+TLA+ Toolbox
+TLA+ Toolbox is an IDE (integrated development environment) for the TLA+ tools
+GitButler
+Git, finally designed for humans
+More Developer Tools
+Science
+Space Launch
+Rocket launches tracker
+Coulomb
+Electronic circuit simulator
+BOINC Manager
+Contribute computing power to projects doing research in many scientific areas
+LyX
+Document Processor
+CutePeaks
+Standalone Sanger trace viewer
+Siril
+Astronomical image processor
+More Science
+System
+jdSystemMonitor
+Monitor your system
+Mending Wall
+Try another desktop environment
+Pantheon Tweaks
+Tweak Pantheon settings
+Revelation
+Password manager
+Klia Store
+Flatpak application store
+StreamController
+Control your Elgato Stream Decks with plugin support
+More System
+Utilities
+Yet Another Framework Interface
+YAFI is another GUI for the Framework Laptop Embedded Controller
+Brief
+Browse command-line cheatsheets
+Master Key
+Manage passwords without saving them
+Schedule
+A simple kanban-styled planner
+Enroute Flight Navigation
+Flight Navigation App
+Xlog
+Logging program for Amateur Radio Operators
+More Utilities
+Apps
+Trending
+Popular
+New
+Updated
+Verified
+RSS Feeds
+Community
+Forum
+Chat
+Mastodon
+Developers
+Developer Portal
+Publish Your App
+Documentation
+Badges
+Flathub
+Setup
+Switch Language
+Terms and Conditions
+Privacy Policy
+Statistics
+About
+Consultants
+Status
+Source Code

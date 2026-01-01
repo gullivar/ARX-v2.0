@@ -1,0 +1,384 @@
+Skip to content
+Cursor
+Features
+Enterprise
+Pricing
+Resources
+↓
+Sign in
+Download
+Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+Download for macOS
+⤓
+This element contains an interactive demo for sighted users showing multiple Cursor interfaces: the IDE with AI-powered coding assistance, the CLI with command-line assistance. The interfaces are displayed over a scenic painted landscape wallpaper, giving the demo an artistic backdrop.
+Cursor
+Get Cursor
+IN PROGRESS 4
+Enterprise Order Management System
+Generating
+Analyze Tab vs Agent Usage Patterns
+Generating
+PyTorch MNIST Experiments
+Generating
+Fix PR Comments Fetching Issue
+Generating
+READY FOR REVIEW 2
+Set up Cursor Rules for Dashboard
+30m
++37
+-0
+·
+Set up Cursor Rules for Dashboard
+Bioinformatics Tools
+45m
++135
+-21
+·
+Bioinformatics Tools
+train_model.py
+run_experiment.py
+config.yaml
+import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+from torchvision import datasets
+
+def get_dataloaders(batch_size=64):
+  transform = transforms.Compose([transforms.ToTensor()])
+  train = datasets.MNIST(root="data", train=True, download=True, transform=transform)
+  test = datasets.MNIST(root="data", train=False, download=True, transform=transform)
+  return DataLoader(train, batch_size=batch_size, shuffle=True), DataLoader(test, batch_size=batch_size)
+
+
+class MLP(nn.Module):
+  def __init__(self, hidden=128):
+    super().__init__()
+    self.net = nn.Sequential(
+      nn.Flatten(),
+      nn.Linear(28*28, hidden),
+      nn.ReLU(),
+      nn.Linear(hidden, 10),
+    )
+
+  def forward(self, x):
+    return self.net(x)
+
+def train_model(epochs=1, lr=1e-3, device=None):
+  device = device or ("cuda" if torch.cuda.is_available() else "cpu")
+  model = MLP().to(device)
+  opt = torch.optim.Adam(model.parameters(), lr=lr)
+  loss_fn = nn.CrossEntropyLoss()
+  train_loader, _ = get_dataloaders()
++  # Seed for reproducibility
++  torch.manual_seed(42)
++  if device == "cuda":
++    torch.cuda.manual_seed_all(42)
++  # AMP + Scheduler
++  scaler = torch.cuda.amp.GradScaler(enabled=(device=="cuda"))
++  scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(opt, T_max=epochs)
+  model.train()
+  for epoch in range(epochs):
+    total, correct = 0, 0
+    for x, y in tqdm(train_loader, desc=f"epoch {epoch+1}"):
+      x, y = x.to(device), y.to(device)
+      opt.zero_grad(set_to_none=True)
+      logits = model(x)
+      loss = loss_fn(logits, y)
+      loss.backward()
+      opt.step()
+      scaler.scale(loss).backward()
+        scaler.unscale_(opt)
++      torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+      scaler.step(opt)
+      scaler.update()
++      preds = logits.argmax(dim=1)
++      total += y.size(0)
++      correct += (preds == y).sum().item()
++    acc = correct / max(1, total)
+    scheduler.step()
++    print(f"epoch {epoch+1}: acc={acc:.3f}")
+  return model`,
+PyTorch MNIST Experiments
+Add mixed precision training, learning rate scheduling, and proper validation. Also create an experiment config system so I can easily run different hyperparameter settings.
+Thought
+10s
+Searched
+PyTorch mixed precision training best practices
+Read
+notebooks/train_model.py (current implementation)
+I'll enhance your MNIST trainer with a complete experiment framework including mixed precision, validation splitting, and proper configuration management. Let me start by rewriting the training module:
+Agent
+GPT-5
+cursor-agent
+Get CLI
+Cursor Agent
+~/Repos/ml-research-notebook
+PyTorch MNIST Experiments
+Add mixed precision training, learning rate scheduling, and proper validation. Also create an experiment config system so I can easily run different hyperparameter settings.
+⬢
+Thought 10s
+⬢
+Searched PyTorch mixed precision training best practices
+⬢
+Read notebooks/train_model.py (current implementation)
+I'll enhance your MNIST trainer with a complete experiment framework including mixed precision, validation splitting, and proper configuration management. Let me start by rewriting the training module:
+→
+ctrl+c to stop
+GPT-5.2
+/ for commands · @ for files
+Trusted every day by millions of professional developers.
+Agent turns ideas into code
+A human-AI programmer, orders of magnitude more effective than any developer alone.
+Learn about Agent →
+This element contains an interactive demo for sighted users. It's a demonstration of Cursor's IDE showing AI-powered coding assistance features. The interface is displayed over a scenic painted landscape wallpaper, giving the demo an artistic backdrop.
+Cursor
+Get Cursor
+IN PROGRESS 4
+Enterprise Order Management System
+Generating
+Analyze Tab vs Agent Usage Patterns
+Generating
+PyTorch MNIST Experiments
+Generating
+Fix PR Comments Fetching Issue
+Generating
+READY FOR REVIEW 2
+Set up Cursor Rules for Dashboard
+30m
++37
+-0
+·
+Set up Cursor Rules for Dashboard
+Bioinformatics Tools
+45m
++135
+-21
+·
+Bioinformatics Tools
+Analyze Tab vs Agent Usage Patterns
+Help me understand how teams split their focus between the tab view and the agents panel across our workspaces.
+Agent
+GPT-5
+Magically accurate autocomplete
+Our custom Tab model predicts your next action with striking speed and precision.
+Learn about Tab →
+This element contains an interactive demo for sighted users. It's a demonstration of Cursor's IDE showing AI-powered coding assistance features. The interface is displayed over a scenic painted landscape wallpaper, giving the demo an artistic backdrop.
+Cursor
+Get Cursor
+Dashboard.tsx
+SupportChat.tsx
+"use client";
+
+import React, { useState } from "react";
+import Navigation from "./Navigation";
+import SupportChat from "./SupportChat";
+
+export default function Dashboard() {
+
+
+  return (
+    <div className="flex h-[600px] border rounded-lg overflow-hidden">
+      <div className="w-64 border-r">
+      </div>
+      <div className="w-80 border-l">
+        <SupportChat />
+      </div>
+    </div>
+  );
+}
+  const [activeTab, setActiveTab] = useState("support");
+Everywhere software gets built
+Cursor is in GitHub reviewing your PRs, a teammate in Slack, and anywhere else you work.
+Learn about Cursor's ecosystem →
+This element contains an interactive demo for sighted users showing multiple Cursor interfaces: Slack integration for team communication, GitHub integration for code review and debugging. The interfaces are displayed over a scenic painted landscape wallpaper, giving the demo an artistic backdrop.
+Slack
+Get Cursor for Slack
+#ask-cursor
+8 members
+dylan
+9/16/2025
+small thing but would be really good to have anchor links on the website for releases
+4
+replies
+dylan
+9/16/2025
+wanna be able to go to cursor.com/changelog#1.0 to see 1.0 changelog
+eric
+9/16/2025
+checks out
+@cursor can you take a stab?
+Cursor
+APP
+9/16/2025
+I implemented direct linking for changelog entries and updated Node.js version constraints across the project to improve compatibility and maintainability.
+View PR
+Open in Cursor
+Open in Web
+dylan
+9/16/2025
+Nice @eric can you take a look?
+GitHub Pull Request
+Get BugBot
+cursor
+bot
+reviewed
+1m ago
+src/vs/workbench/composer/browser/components/ComposerUnifiedDropdown.tsx
+3292
+-  {selectedMode().keybinding}
+3293
++  {composerOpenModeToggleKeybinding}
+cursor
+bot
+1m ago
+Bug: Function Returns Object Instead of String (Logic bug)
+The composerOpenModeToggleKeybinding is a function that needs to be called to get its value. Using it directly causes the keybinding display condition to always be truthy.
+Fix in Cursor
+Fix in Web
+The new way to build software.
+
+It was night and day from one batch to another, adoption went from single digits to over 80%. It just spread like wildfire, all the best builders were using Cursor.
+
+Diana Hu
+General Partner, Y Combinator
+
+The most useful AI tool that I currently pay for, hands down, is Cursor. It's fast, autocompletes when and where you need it to, handles brackets properly, sensible keyboard shortcuts, bring-your-own-model... everything is well put together.
+
+shadcn
+Creator of shadcn/ui
+
+The best LLM applications have an autonomy slider: you control how much independence to give the AI. In Cursor, you can do Tab completion, Cmd+K for targeted edits, or you can let it rip with the full autonomy agentic version.
+
+Andrej Karpathy
+CEO, Eureka Labs
+
+Cursor quickly grew from hundreds to thousands of extremely enthusiastic Stripe employees. We spend more on R&D and software creation than any other undertaking, and there's significant economic outcomes when making that process more efficient and productive.
+
+Patrick Collison
+Co‑Founder & CEO, Stripe
+
+It's official. 
+
+I hate vibe coding. 
+I love Cursor tab coding. 
+
+It's wild.
+
+ThePrimeagen
+@ThePrimeagen
+
+It's definitely becoming more fun to be a programmer. It's less about digging through pages and more about what you want to happen. We are at the 1% of what's possible, and it's in interactive experiences like Cursor where models like GPT-5 shine brightest.
+
+Greg Brockman
+President, OpenAI
+Stay on the frontier
+Access the best models
+Choose between every cutting-edge model from OpenAI, Anthropic, Gemini, and xAI.
+Explore models ↗
+Auto
+Suggested
+Composer 1
+GPT-5
+High Fast
+Claude Sonnet 4.5
+✓
+Claude Opus 4.5
+Gemini 3 Pro
+Grok Code
+Complete codebase understanding
+Cursor learns how your codebase works, no matter the scale or complexity.
+Learn about codebase indexing ↗
+Where are these menu label colors defined?
+Grepped
+Choose a model
+Develop enduring software
+Trusted by over half of the Fortune 500 to accelerate development, securely and at scale.
+Explore enterprise →
+Changelog
+2.3
+Dec 22, 2025
+
+Layout Customization and Stability Improvements
+
+Dec 18, 2025
+
+Enterprise Insights, Billing Groups, Service Accounts, and Improved Security Controls
+
+2.2
+Dec 10, 2025
+
+Debug Mode, Plan Mode Improvements, Multi-Agent Judging, and Pinned Chats
+
+2.1
+Nov 21, 2025
+
+Improved Plan Mode, AI Code Review in Editor, and Instant Grep
+
+See what's new in Cursor →
+Cursor is an applied team focused on building the future of coding.
+Join us
+→
+Recent highlights
+
+Introducing Cursor 2.0 and Composer
+
+A new interface and our first coding model, both purpose-built for working with agents.
+
+Product · 
+Oct 29, 2025
+
+Improving Cursor Tab with online RL
+
+Our new Tab model makes 21% fewer suggestions while having 28% higher accept rate.
+
+Research · 
+Sep 12, 2025
+
+1.5x faster MoE training with custom MXFP8 kernels
+
+Achieving a 3.5x MoE layer speedup with a complete rebuild for Blackwell GPUs.
+
+Research · 
+Aug 29, 2025
+View more posts →
+Try Cursor now.
+Download for macOS
+⤓
+Product
+Features
+Enterprise
+Web Agents
+Bugbot
+CLI
+Pricing
+Resources
+Download
+Changelog
+Docs ↗
+Learn ↗
+Forum ↗
+Status ↗
+Company
+Careers
+Blog
+Community
+Workshops
+Students
+Brand
+Legal
+Terms of Service
+Privacy Policy
+Data Use
+Security
+Connect
+X ↗
+LinkedIn ↗
+YouTube ↗
+© 2025 Cursor
+🛡 SOC 2 Certified
+🖥
+☉
+☾
+🌐
+English
+↓

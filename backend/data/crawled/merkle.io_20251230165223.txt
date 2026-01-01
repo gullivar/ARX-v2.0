@@ -1,0 +1,156 @@
+Products
+Solutions
+Blog
+About
+Support
+Log In
+Sign Up
+
+MEVSwap is live! The first MEV-protected DEX
+
+The market leader in
+order flow monetization
+Merkle is the most revenue generating private mempool, while
+offering full MEV protection.
+Get Started
+Book a call
+Turn MEV into cashflow
+
+Don't just block MEV attacks, turn them into opportunities. Merkle helps businesses ethically extract value from MEV, while keeping your customer safe.
+
+Get Started
+
+Monetize
+
+Superior MEV Extraction
+
+Merkle minimizes the time between transaction submission and finalization, ensuring near instantaneous processing.
+
+Prevent Attacks
+
+Minimize time, limit risks
+
+Merkle minimizes the time between transaction submission and finalization, ensuring near instantaneous processing.
+
+High Speeds
+
+Seamless multi-chain support
+
+Our mempool supports Ethereum, BCS, Polygon, Base, Solana & Arbitrum.
+
+Safety first. Revenue
+second to none
+River
+
+Our private mempool minimizes the time between transaction submission and finalization, ensuring near instantaneous processing.
+
+Learn More
+Ethereum RPC
+
+Our private mempool minimizes the time between transaction submission and finalization, ensuring near instantaneous.
+
+Learn More
+BSC RPC
+
+Our private mempool minimizes the time between transaction submission and finalization, ensuring near instantaneous.
+
+Learn More
+Millions of transactions settled safely
+15M+/day
+
+Transactions settled through the private mempool every day
+
+4B+
+
+Total transactions settled through the private mempool
+
+Superior protection
+that works for you
+
+Merkle provides the best MEV protection
+in the industry & the best returns for your
+business.
+
+Revenue
+
+Dashboards
+
+U.S. Compliant
+
+Programmable Privacy
+
+Simple Status API
+
+Advanced API
+
+Dedicated RPC
+
+Best Inclusion & Ordering
+
+MEV + Gas Refunds
+per transaction
+
+Blink
+
+MEV + Gas Refunds
+
+BloXRoute
+
+MEV + Gas Refunds
+
+MevBlocker
+
+MEV + Gas Refunds
+
+MEVShare
+
+$0
+
+FAQ
+Will my transactions be delayed?
+
+No. merkle never delays transactions on any network. We work closely with all major block builders to guarantee next block inclusion.
+
+How much revenue should I expect?
+
+We usually expect $0.20-$0.30 per Ethereum transaction in revenue.
+
+How long does it take to integrate?
+
+Integration should take maximum 1 week with thorough testing. We provide your team with a rpc url that is plug-and-play.
+
+How long has merkle been operating for?
+
+merkle has been around since the beginning of 2023. We have generated millions of dollars in revenue for our customers.
+
+How is merkle different from MEVBlocker?
+
+MEVBlocker is a B2C product, while merkle is a fully featured B2B platform for wallets and RPC providers to provide best in class MEV protection and extraction. We provide enterprise-grade security, dashboards, audit logs and advanced APIs to control the entire transaction lifecycle.
+
+Still have
+questions?
+
+We're here to help. Get in touch and we'll support you with getting started, assistance or questions.
+
+Book a Call
+About
+Careers
+About Us
+Contact
+Support
+Privacy Policy
+Community
+Telegram
+X
+LinkedIn
+Discord
+Developers
+Status
+Documentation
+Snapshots
+Github
+Dashboard
+
+379 W Broadway, New York, NY, 10012.
+
+© Merkle Software Inc. All rights reserved.

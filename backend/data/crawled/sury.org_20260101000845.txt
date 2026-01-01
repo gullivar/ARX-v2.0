@@ -1,0 +1,18 @@
+DEB.SURY.ORG DEB.SURY.ORG About This is a home for packaging various software into Debian and Ubuntu.  Most notable package under DEB.SURY.ORG is the PHP packaging. Who am I? I am a Debian Developer since year 2000, and I have been packaging PHP for
+Debian since PHP 5.  That means the official packages in Debian and Ubuntu are
+either my work or they are based on my work.  The PHP packages in my Ubuntu PPA
+and Debian DPA matches the official packages in Debian.  Basically I am saying
+that you can’t get any closer than that. News I publish the most important changes in the packaging and interesting news in
+dedicated Mastodon feed at deb@sury.org . Packages All packaging work is either done directly in the Debian unstable, or it will be
+in the unstable sooner or later. PHP Packages The main repositories now contain both PHP 5.6, PHP 7.0-7.4 and PHP 8.0-8.3
+coinstallable together. Ubuntu PPA ppa:ondrej/php – the main PHP repository Debian DPA packages.sury.org/php – the main PHP repository for Debian Freexian Repository for Debian Jessie, Stretch, Buster and Bullseye and Ubuntu Xenial PHP LTS by Freexian – PHP LTS repository prepared together with Freexian with commercial support Bug Reporting DEB.SURY.ORG has now public lightweight issue tracker at CodeBerg . Please report any bugs or feature requests for the repositories
+there, since my INBOX is a not very reliable way how to keep track on all issue
+since it has the tendency to grow number of unread messages to numbers over
+thousand… Also please excuse me if I don’t respond to your email, my INBOX is really a
+mess and if you are not lucky, you might get stuck with other unread emails. So
+pretty please use new issue tracker . Documentation The available documentation related to the packages and PPAs is hosted in the Wiki .  Everybody can contribute,
+so if you want to write more documentations on the PHP packages, you are
+certainly welcome to do so. Support The PHP packaging is time consuming and I do this mostly in my free time.
+Please consider buying commercial support from Freexian if you use PHP packages
+to run business or donating donating if you find the PHP packages useful for
+your projects. It also warms a heart to know that this project is useful. Commercial support: PHP LTS by Freexian Ways how to donate: Become my regular patron on Patreon Become my regular sponsor on GitHub Contact me via email if you need something more special (like invoice) Acknowledgements This service would not exist without the support from companies that trust us and support the project directly or via PHP LTS by Freexian . Many thanks to them! Sponsors This section is dedicated to individuals and companies who contribute more than $100 a month or made a significant contribution in a given calendar year, see the Patreon or GitHub tiers. Laravel - The PHP Framework for Web Artisans Stepan Kocourek root360 Onlime iO qwertiko SysEleven - Managed Kubernetes – Made in Germany CanTrust - Trusted Canadian web hosting BlackHost - Unmetered web hosting company Mythic Beasts - No-nonsense hosting with excellent technical support Bunny.net - The global content delivery platform that truly hops

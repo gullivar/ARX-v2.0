@@ -1,0 +1,188 @@
+Solutions
+Resources
+Company
+KOR
+01
+/
+04
+DEVELOPMENT GUIDE
+Publisher Integration Guide
+ADLIB SDK Integration Guide
+ACETRADER Creative Specifications
+NHN ACE DOWNLOAD
+ACE Trader
+ACE eXchange
+ACE ADLIB
+NOTICE
+NHN ACE 홈페이지 개편 안내
+NEW & BETTER WAY OF Targeting AD!
+
+ACE eXchange는 국내외 다양한 DSP/SSP 파트너와의 연동으로 국내 최대의 Digital AD Marketplace를형성하고 있습니다.
+
+더 알아보기
+
+ACE ADLIB은 oRTB기반 광고 네트워크로, 글로벌 DSP와 연동해 퍼블리셔 인벤토리를 프리미엄 광고주와 연결하며, ACE exchange와 최 기술로 수익을 극대화 합니다.
+
+더 알아보기
+
+NHN Trader는 국내 서비스를 제공하는 광고주에 최적화된 플랫폼으로, 웹/앱 광고 서비스를 통해 정교하고 효과적인 타겟팅을 제공합니다. 국내외 전문가들과 함께 다양한 데이터 기반의 분석과 자동화 기능을 통해 최대의 광고 효율을 선사합니다.
+
+더 알아보기
+
+ACE eXchange는 국내외 다양한 DSP/SSP 파트너와의 연동으로 국내 최대의 Digital AD Marketplace를형성하고 있습니다.
+
+더 알아보기
+
+ACE ADLIB은 oRTB기반 광고 네트워크로, 글로벌 DSP와 연동해 퍼블리셔 인벤토리를 프리미엄 광고주와 연결하며, ACE exchange와 최 기술로 수익을 극대화 합니다.
+
+더 알아보기
+
+NHN Trader는 국내 서비스를 제공하는 광고주에 최적화된 플랫폼으로, 웹/앱 광고 서비스를 통해 정교하고 효과적인 타겟팅을 제공합니다. 국내외 전문가들과 함께 다양한 데이터 기반의 분석과 자동화 기능을 통해 최대의 광고 효율을 선사합니다.
+
+더 알아보기
+데이터로 완성하는 광고 성과, NHN ACE의 기술력
+
+정교한 타겟팅부터 자동 최적화까지, NHN ACE의 기술이 퍼포먼스를 만듭니다.
+
+맞춤형
+타겟팅 광고
+
+
+광고 목표에
+최적화된 타겟팅
+
+
+머신러닝
+자동 최적화
+
+
+성과 기반
+자동 최적화
+
+
+실시간
+오디언스
+
+
+행동기반
+실시간 분석
+
+
+최대 규모
+양질 데이터
+
+
+광범위한
+행동 데이터 확보
+
+
+프리미엄
+미디어
+
+
+검증된
+고품질 매체
+
+
+정교한
+비딩 시스템
+
+
+효율 높은
+광고 노출 전략
+
+
+양방향
+RTB
+
+
+입찰 효율
+최적화 구조
+
+
+데이터로 이루어내는 성과,
+NHN ACE 가 함께 합니다.
+
+AD MARKETING INSIGHT & TRENDS
+
+NHN ACE의 시각으로 읽는 업계 동향, 그리고 인사이트를 확인하세요.
+
+6. 앞으로의 영상 광고, ACE Trader와 함께
+# AceTrader
+# 크로스디바이스
+# CTV
+5. FAST, 새로운 무료 방송의 시대
+# FAST
+# LG채널
+# 삼성플러스TV
+4. OTT와 CTV의 등장(2) — CTV : 인터넷과 TV, 직접 연결되다
+# connectedTV
+3. OTT와 CTV의 등장(1) — OTT의 등장
+# OTT
+# CTV
+2. 광고의 변화와 IPTV의 시대
+# IPTV
+# TV광고
+# 올레tv
+1. TV, 바보상자에서 스마트 미디어 허브까지
+# CTV
+# OTT
+# FAST
+# TV광고의역사
+# CM송
+# 최초의TV
+타겟 광고의 시작, '3rd Party Cookie'는 어떻게 탄생했을까?
+# 3rdPartyCookie
+# 쿠키의역사
+# 타겟팅광고
+# 웹기술
+Topics API란? 관심사 기반 광고의 새로운 패러다임
+# PrivacySandbox
+# TopicsAPI
+# 관심사기반광고
+# 퍼포먼스마케팅
+CHIPS API로 살펴보는 'Partitioned Cookie'의 개념과 동작 방식
+# CHIPSAPI
+# PrivacySandbox
+# PartitionedCookie
+# 웹보안
+Same-Site vs Same-Origin: Privacy Sandbox를 위한 개념 가이드
+# PrivacySandbox
+# SameOrigin
+# SameSite
+# 도메인용어정리
+# eTLD
+Partnering for Performance — With NHN ACE
+
+NHN ACE는 다양한 미디어 및 파트너사와 함께 성공을 만들어가고 있습니다.
+
+Contact us
+당신의 마케팅,
+NHN ACE와 함께하세요
+광고 성과를 높이고 싶은 모든 브랜드를 위해
+NHN ACE는 데이터 기반 솔루션과 전문 인사이트로 함께합니다.
+서비스 구분
+
+선택
+
+문의 구분
+
+선택
+
+이름 (회사명)
+전화번호 (-포함)
+이메일
+제목
+문의내용
+개인정보 수집동의
+수집 개인정보 항목 : [필수] 이름(법인명), 이메일 / [선택] 담당자 전화번호 개인정보의 수집 및 이용목적 : 온라인상담신청에 따른 본인확인 및 원활한 의사소통 경로 확보 개인정보의 이용기간 : 원칙적으로 개인정보 수집 및 이용목적이 달성된 후에 해당 정보를 지체없이 파기합니다. 단, 상법, 전자상거래 등에서의 소비자보호에 관한 법률 등 관계법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 관계법령에서 정한 일정한 기간 동안 개인정보를 보관할 수 있습니다. 그 밖의 사항은 개인정보취급방침을 준수합니다.
+개인정보 수집 및 이용안내에 동의합니다.
+문의하기
+경기도 성남시 분당구 대왕판교로 645번길 16 플레이뮤지엄 NHN ACE
+사업자등록번호 : 313-81-35670대표메일 : atx@nhnace.com
+Copyright ⓒ NHN ACE All rights reserved.
+회사소개
+이용약관
+개인정보 처리방침
+채용
+Family Site

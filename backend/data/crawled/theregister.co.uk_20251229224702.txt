@@ -1,0 +1,341 @@
+ SIGN IN / UP
+The Register
+AI faces closing time at the cash buffet
+OPINION Will businesses continue to invest in something that's shown so little return?
+You don't need Linux to run free and open source software
+PART 2 Alternative apps to empower older versions of macOS or Windows
+IT team forced to camp in the office for days after Y2K bug found in boss's side project
+ON CALL Y2K The lack of trust that leads to outsourcing can be expensive
+'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work
+OPINION Everything you hated about text adventure games is now being sold as a productivity tool
+How California built one of the world's biggest public-sector IT systems
+20 years, multiple delays, and millions of dollars later, FI$Cal is live – mostly
+PUBLIC SECTOR
+1 hr | 1
+Europe's cloud challenge: Building an Airbus for the digital age
+FEATURE Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground
+PAAS + IAAS
+4 hrs | 16
+When the lights went out, and the shooting started, Y2K started to feel all too real
+ON CALL Y2K More millennial tech support tales from your fellow readers
+COLUMNISTS
+6 hrs | 13
+Former IBM CEO Lou Gerstner passes, aged 83
+Oversaw a significant resurgence in Big Blue’s fortunes during the dotcom era
+ON-PREM
+8 hrs | 5
+Accused data thief threw MacBook into a river to destroy evidence
+Former staffer of Korean e-tailer Coupang accessed 33 million records but may have done less damage than feared
+CYBER-CRIME
+10 hrs | 9
+China wants to ban making yourself into an AI to keep aged relatives company
+ASIA IN BRIEF PLUS: Australia buys air-gapped Google Cloud; Huawei triples use of home-built components; JAXA blames low pressure for rocket crash; And more
+AI + ML
+12 hrs | 
+Death, torture, and amputation: How cybercrime shook the world in 2025
+The human harms of cyberattacks piled up this year, and violence expected to increase
+CYBER-CRIME
+23 hrs | 11
+Sevile: Famed for blue skies and now Blue Screens of Death
+BORK!BORK!BORK! Hotel guests get a blast from the past courtesy of classic Windows BSOD
+OFFBEAT
+1 day | 14
+SSL Santa greets London Victoria visitors with a borked update
+BORK!BORK!BORK! Best not touch that screen, eh?
+OFFBEAT
+2 days | 38
+BOFH: The Christmas spirit has run dry – time to show some chiller instinct
+EPISODE 25 After the boardroom is ransacked, it's straight into Arse Covering 101
+BOFH
+2 days | 32
+Stop the slop by disabling AI features in Chrome
+The most popular desktop browser is festooned with Google AI, but you can make at least some of it go away
+AI + ML
+3 days | 39
+From AI to analog, cybersecurity tabletop exercises look a little different this year
+Practice makes perfect
+SECURITY
+3 days | 5
+Europe gets serious about cutting digital umbilical cord with Uncle Sam's big tech
+FEATURE Public bodies migrate in the bloc as hyperscalers claim sovereignty
+From video games to cyber defense: If you don't think like a hacker, you won't win
+INTERVIEW In supercharged AI race, defenders need to keep up
+SECURITY
+3 days | 20
+Coming Wi-Fi 8 will bring reliability rather than greater speed
+Smarter access-point handoffs, better scheduling, fewer stalls
+NETWORKS
+3 days | 33
+'PromptQuest' is the worst game of 2025. You play it when trying to make chatbots work
+OPINION Everything you hated about text adventure games is now being sold as a productivity tool
+AI + ML
+3 days | 47
+IT team forced to camp in the office for days after Y2K bug found in boss's side project
+ON CALL Y2K The lack of trust that leads to outsourcing can be expensive
+COLUMNISTS
+3 days | 63
+Humanoid robots are still novelty acts, but investment is surging to make them real tomorrow
+Investment and interest have outpaced technology and society
+AI + ML
+4 days | 38
+AMD Strix Halo vs Nvidia DGX Spark: Which AI workstation comes out on top?
+HANDS ON Two tiny boxes, 128 GB apiece – but very different strengths
+SYSTEMS
+4 days | 11
+You don't need Linux to run free and open source software
+PART 2 Alternative apps to empower older versions of macOS or Windows
+OSES
+4 days | 108
+Salesforce’s ChatGPT integration is really about stopping customers from leaking their own data
+Execs say DIY OpenAI connections risked pushing CRM data past the ‘trust boundary’
+AI + ML
+5 days | 6
+AI faces closing time at the cash buffet
+OPINION Will businesses continue to invest in something that's shown so little return?
+AI + ML
+5 days | 101
+Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws
+AI goes off the rails … because of shoddy guardrails
+SECURITY
+5 days | 31
+Garmin autopilot lands small aircraft without human assistance
+ATC: 'I don't know if you can hear me but cleared to land'
+AI + ML
+5 days | 88
+Rebellions AI Puts Together An HBM And Arm Alliance To Take On Nvidia
+Liquid Cooling Means More Performance And Less Heat For Supercomputing
+HBM Supply Curve Gets Steeper, But Still Can’t Meet Demand
+Nvidia Nearly Completes Its Control Freakery With Slurm Acquisition
+The Roomba failed because it just kind of sucked
+OPINION Something messy happens when the cat hairs of reality meet the shiny hype of smart tech
+US shuts down phisherfolk’s $14.6M password-hoarding platform
+Crooks used platform to scoop up and store banking credentials for big-money thefts
+CYBER-CRIME
+5 days | 3
+Waymo pings updates to San Francisco fleet to prevent power outage chaos 2.0
+Meanwhile, new outages, linked to storms, are pelting the area
+AI + ML
+5 days | 22
+Sight of Clippy, Internet Explorer scares baby
+Reg reader introduces newborn to Microsoft ugly sweater. Child not amused
+OFFBEAT
+5 days | 15
+One real reason AI isn't delivering: Meatbags in manglement
+FEATURE Stuck in pilot purgatory? Confused about returns? You're not alone
+AI + ML
+5 days | 60
+North American air defense troops ready for 70th year of Santa tracking
+A newspaper misprint began a Christmas Eve tradition joining holiday cheer with military technology
+OFFBEAT
+5 days | 22
+NASA tries Curiosity rover's Mastcam to work out where MAVEN might be
+Time running out for savin' MAVEN as stricken spacecraft still silent as Mars solar conjunction nears
+SCIENCE
+5 days | 9
+Keeping Windows and macOS alive past their sell-by date
+PART 1 Practical steps to make an aging operating system usable into 2026
+OSES
+5 days | 81
+Docker Hardened Images now free, devs give cautious welcome
+GitHub to charge for self-hosted runners from March 2026
+Cursor AI editor gets visual designer – but bugs and ever-changing UI irk developers
+Rust boosted by permanent adoption for Linux kernel code
+Liquid cooling means more performance and less heat for supercomputing
+How Lenovo Neptune became the cooling technology behind the world's greenest supercomputers
+SPONSORED FEATURE
+Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030
+Plans move to Rust, with help from AI
+SOFTWARE
+5 days | 191
+AWS adds hybrid cloud storage support for Nutanix’s AHV hypervisor
+VMware's main challenger already embraces multiple storage options
+VIRTUALIZATION
+5 days | 
+US punishes China’s ‘dominance’ of legacy chips with zero percent tariffs
+WORLD WAR FEE President Trump previously threatened 100 percent tariffs, administration now plans something else starting in 2027
+PUBLIC SECTOR
+6 days | 42
+Project Silica’s glass storage archive tech progress
+Osmium storage analysts look ahead to 2026 and beyond
+Optera’s room-temperature spectral hole optical storage archive 
+Lenovo DE6600: The Storage Engine Built for HPC Acceleration
+ServiceNow opens $7.7B ticket titled 'Buy security company, make it Armis'
+Customers will be able to see vulnerabilities, prioritize risks, and close them with automated workflows.
+SAAS
+6 days | 
+21K Nissan customers' data stolen in Red Hat raid
+Automaker's third security snafu in three years
+CYBER-CRIME
+6 days | 10
+Starlink satellite fails, polluting orbit with debris and falling toward Earth
+Spacecraft set to burn up in a few weeks, but it could have been worse
+SCIENCE
+6 days | 55
+AI and cybersecurity: Two sides of the same coin
+Practical lessons on securing AI and using AI to strengthen defence
+SPONSORED POST
+Microsoft rushes an out-of-band update for Message Queuing bug
+Redmond gets in early for the twelve whoopsies of Christmas
+PATCHES
+6 days | 9
+Windows is testing a new, wider Run dialog box. Here’s how to try it
+You’ll need to be using a Windows Insider build to see it
+OSES
+6 days | 53
+Memory is running out, and so are excuses for software bloat
+OPINION Maybe the answer to soaring RAM prices is to use less of it
+SOFTWARE
+6 days | 153
+Like a Virgin Airways bot, planning for the very first time
+Airline deploys AI travel agent and it hasn't been a disaster
+AI + ML
+6 days | 14
+UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again
+Crucial early evolutionary step found, imaged, and ... amazingly ... works
+STORAGE
+6 days | 105
+Oracle's new AI-enhanced support portal leaves users fuming
+The company that bet the farm on AI said to have made things worse with AI
+PAAS + IAAS
+6 days | 22
+Pizza restaurant signage caught serving raw Windows
+BORK!BORK!BORK! Menu.exe not found
+OFFBEAT
+6 days | 43
+Uber and Lyft rolling Baidu robotaxis into London next year
+Cab drivers protested Uber’s arrival, but Westminster has rolled out the welcome mat for clanker chauffeurs
+AI + ML
+6 days | 71
+France’s post office partly offline for over 12 hours after 'major network incident'
+Might be Le Grinch, or a DDoS, but it's taking a while to fix
+PUBLIC SECTOR
+7 days | 8
+Japan loses another H3 launcher, plus the satnav bird it carried
+25 percent failure rate for JAXA's space truck, with the second stage again proving perilous
+SCIENCE
+7 days | 8
+Poisoned WhatsApp API package steals messages and accounts
+And it's especially dangerous because the code works
+CYBER-CRIME
+7 days | 21
+Palo Alto's new Google Cloud deal boosts AI integration, could save on cloud costs
+SEC filings show the outfit cut projected 2027 cloud purchase commitments by $114M
+SECURITY
+7 days | 2
+SPONSORED FEATURES
+Built for what's next: Arm's advantage in the AI PC era
+When considering your upgrade for Windows 11, it’s time to look at Arm vs x86 - It's an upgrade to improved efficiency, performance, and battery life.
+Data sovereignty: Don't just tick the box, think outside it
+How your data strategy can fuel innovation
+How TeamViewer builds enterprise trust through security-first design
+What to do when even your espresso machine needs end-to-end encryption
+Bring complexity under control with enterprise-grade Kubernetes
+No, it'll probably never be a doddle – but you don't have to take the hard way when deploying Kubernetes, says Nutanix
+SoftBank scrambling to come up with $22.5B in OpenAI funding before New Year
+Masayoshi Son better hope he made Santa's nice list
+AI + ML
+7 days | 21
+Spy turned startup CEO: 'The WannaCry of AI will happen'
+INTERVIEW Ah, the good old days when 0-day development took a year
+AI + ML
+7 days | 14
+Nvidia wasting no time to flog H200s in China
+Shipments still waiting on approval from Beijing
+SYSTEMS
+7 days | 13
+Hacktivists scrape 86M Spotify tracks, claim their aim is to preserve culture
+Anna’s Archive’s idealism doesn’t quite survive its own blog post
+SECURITY
+7 days | 39
+POPULAR
+Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030
+Plans move to Rust, with help from AI
+UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again
+Crucial early evolutionary step found, imaged, and ... amazingly ... works
+What the Linux desktop really needs to challenge Windows
+OPINION Wasn't 2025 the year it happened? Yes. No. Answers on a Christmas card
+AI faces closing time at the cash buffet
+OPINION Will businesses continue to invest in something that's shown so little return?
+Conman and wannabe MI6 agent must repay £125k to romance scam victim
+Judge says former most-wanted fugitive Mark Acklom will likely never return to the UK
+CYBER-CRIME
+7 days | 17
+What the Linux desktop really needs to challenge Windows
+OPINION Wasn't 2025 the year it happened? Yes. No. Answers on a Christmas card
+OSES
+7 days | 293
+EU offers UK early gift: Data adequacy until 2031
+Relief for those dealing with data pipelines between the two, but move has its critics
+PUBLIC SECTOR
+7 days | 6
+The 5X AI reality check: why enterprises are leaving transformative value on the table
+Your content structure is holding you back
+SPONSORED POST
+Vultures rake our claws over COSMIC as Pop OS 24.04 LTS with 'Epoch 1' emerges
+HANDS ON Even with the latest Gparted Live, it's not easy to dual boot – but it's worth the hassle
+OSES
+7 days | 16
+Around 1,000 systems compromised in ransomware attack on Romanian water agency
+On-site staff keep key systems working while all but one region battles with encrypted PCs
+CSO
+7 days | 8
+AI is rewriting how power flows through the datacenter
+Rising rack densities are driving changes from grid connection to chip-level delivery
+THE FUTURE OF THE DATACENTER
+7 days | 8
+AI has pumped hyperscale capex, capacity – but how long can it last?
+Total operational capacity just keeps rising
+SYSTEMS
+7 days | 3
+New boss was bad, his attitude was ugly, so the tech team pranked him good
+WHO, ME? Mousey wouldn’t work, wah-wah-wah
+COLUMNISTS
+7 days | 126
+There’s so much stolen data in the world, South Korea will require face scans to buy a SIM
+SK Telecom's epic infosec fail will cost it another $1.5 billion
+SECURITY
+7 days | 35
+Through gritted teeth, Apple and Google allow alternative app stores in Japan
+APAC IN BRIEF PLUS: Debian supports Chinese chips ; Hong Kong’s Christmas Karaoke crackdown; Asahi admits it should have prevented hack; And more!
+PUBLIC SECTOR
+8 days | 9
+Google sends Dark Web Report to its dead services graveyard
+INFOSEC IN BRIEF PLUS: Texas sues alleged TV spies; The Cloud is full of holes; Hospital leaked its own data; And more
+SECURITY
+8 days | 11
+Workers should control the means of agentic production, suggests WorkBeaver boss
+INTERVIEW What if AI vendors focused on the demand side?
+AI + ML
+8 days | 12
+NIST contemplated pulling the pin on NTP servers after blackout caused atomic clock drift
+UPDATED Time signals shifted by a tiny amount that only very sensitive users would find upsetting
+SECURITY
+8 days | 87
+Tired of sky-high memory prices? Buckle up, we're in this for the long haul
+We haven't even hit the peak, TechInsights tells El Reg
+STORAGE
+9 days | 77
+Infinite Machine e-scooter is like the offspring of a Vespa and a Cybertruck
+HANDS ON Custom-designed $10,000 scooter goes 65mph, has a 60-mile range, and runs silently
+OFFBEAT
+10 days | 88
+MORE STORIES
+
+The Register  Biting the hand that feeds IT
+
+About Us
+Contact us
+Advertise with us
+Who we are
+ 
+Our Websites
+The Next Platform
+DevClass
+Blocks and Files
+ 
+Your Privacy
+Cookies Policy
+Privacy Policy
+Ts & Cs
+
+Copyright. All rights reserved © 1998–2025

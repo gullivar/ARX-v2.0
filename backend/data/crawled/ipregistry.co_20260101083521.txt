@@ -1,0 +1,87 @@
+Introducing LIR services: ASN registration, IPv6 / IPv4 address lease, and more.
+ ipregistry
+AboutUse casesDocsPricingFAQStatusLoginSIGN UP FOR FREE
+IP Geolocation and Threat Intelligence
+Unlock insights and act — Locate IP addresses, enrich forms, engage mobile users, identify VPNs, prevent fraud, analyze logs, target ads, block countries, or make geo-redirections with Ipregistry.
+LOOKUP
+Powering 23,000+ organizations with reliable IP data
+The trusted solution for IP address data
+Dual-Stack
+
+The API covers over 3 million unique locations and thousand cities around the world in both IPv4 and IPv6.
+
+Powerful & Scalable
+
+From a dozen to million requests a day, our global infrastructure with anycast routing provides incredible response times.
+
+Threat Intelligence Data
+
+Check IP addresses against more than 220+ OSINT Threat Feeds instantaneously and protect your business from abuse.
+
+Regular Updates
+
+You get fresh and accurate results. Our database is updated from rock-solid sources, continuously.
+
+Pay-as-you-go
+
+You pay on a per lookup basis, based on your usage. No plans with unused limits or segmented features.
+
+Proxy & VPN Detection
+
+Detect and identify anonymous users to safeguard your business from fraud, abuse and security threats.
+
+Extensive Dataset
+
+Find out users' location, currency, timezone, company data, threat data, etc. All your IP data in one place.
+
+Seamless Integration
+
+Our polished JSON and XML API but also our use case examples will meet your needs. If not, drop us a line.
+
+World-Class Documentation
+
+A quick start guide and an extensive API documentation will get you up and running in a few minutes. Let's give a look!
+
+From Our Blog
+Wikimedia's Public DNS Resolver
+Ipregistry Team
+August 9, 2024
+OpenDNS No Longer Accessible in France
+Ipregistry Team
+June 28, 2024
+What is a Geofeed? How to Set Up One?
+Ipregistry Team
+April 3, 2024
+See all posts
+
+Get started with 100,000 free lookups:  SIGN UP
+
+PRODUCT
+About
+Affiliate Program
+FAQ
+Pricing
+RESOURCES
+Blog
+Browse IPs
+Data Corrections
+Enterprise Solutions
+DEVELOPERS
+Changelog
+Documentation
+Github
+Libraries
+LEGAL
+Cookie Policy
+GDPR
+Privacy Policy
+Terms & Conditions
+© 2026  Elaunira SARL
+
+Made in France 🇫🇷
+
+support@ipregistry.co
+
+We serve cookies on this site to analyse traffic, remember your preferences, and optimise your experience.
+More details
+OK

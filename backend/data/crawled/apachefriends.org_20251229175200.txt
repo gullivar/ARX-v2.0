@@ -1,0 +1,49 @@
+Apache Friends
+Download
+Hosting
+Community
+About
+Search..
+ EN
+XAMPP Apache + MariaDB + PHP + Perl
+What is XAMPP?
+XAMPP is the most popular PHP development environment
+
+XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+
+Download
+Click here for other versions
+XAMPP for Windows
+8.2.12 (PHP 8.2.12)
+XAMPP for Linux
+8.2.12 (PHP 8.2.12)
+XAMPP for OS X
+8.2.4 (PHP 8.2.4)
+New XAMPP release 8.2.12, 8.1.25 and 8.0.30	
+
+Hi Apache Friends!
+
+We just released a new version of XAMPP for Windows for PHP versions 8.2.12, 8.1.25 and 8.0.30. New versions for Linux and OS X will come soon! You can download these new installers...
+
+Read more »
+About Apache Friends
+
+Apache Friends is a non-profit project to promote the Apache web server and is home to the XAMPP project. XAMPP is an easy to install Apache distribution containing MariaDB, PHP, and Perl. Read more »
+
+Community
+
+XAMPP has been around for more than 10 years – there is a huge community behind it. You can get involved by joining our Forums, liking us on Facebook, or following our exploits on Twitter.
+
+Recent Discussions
+
+Loading discussions…
+
+Follow us on Twitter
+ 
+Like us on Facebook
+
+Copyright (c) 2024, Apache Friends
+
+Blog
+Privacy Policy
+Multiplatform installers by InstallBuilder

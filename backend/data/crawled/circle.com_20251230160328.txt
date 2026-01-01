@@ -1,0 +1,335 @@
+Home
+
+Platform
+Solutions
+Partners
+Developer
+Company
+Transparency
+Sign in
+JOIN US
+See what shaped 2025.
+
+Read Circle’s “Year in Review.”
+
+Dive in
+Building an open economy for everyone
+
+Circle is building the foundation of a more open, global economy through digital assets, payment applications, and programmable blockchain infrastructure.
+
+PARTNER WITH CIRCLE
+ARC
+The Economic OS for the internet
+
+An open Layer-1 blockchain purpose-built to unite programmable money and onchain innovation with real-world economic activity.
+
+LEARN MORE
+BUILD ON ARC
+THE GENIUS ACT IS NOW US LAW
+We’ve been building for this moment
+
+With US stablecoin law in place, Circle and USDC are primed for what comes next.
+
+LEARN MORE
+INTRODUCING
+Circle Payments Network
+
+Helping financial institutions achieve seamless, near-instant, global money movement across previously fragmented networks.
+
+DISCOVER CPN
+READ WHITE PAPER
+MODERN INFRASTRUCTURE FOR LEADING INNOVATORS
+Circle is building a new internet financial system, making money movement around the world as seamless as sending an email. 
+
+Powered by USDC and EURC, and trusted by leading financial institutions since 2013, our platform connects traditional finance and digital assets to create a secure, always-on digital economy — unlocking opportunities for people and businesses globally.
+
+The world’s largest regulated1 stablecoin powering global finance
+United States
+European Union
+United Kingdom
+United Kingdom
+United Kingdom
+United Kingdom
+United Kingdom
+United Kingdom
+United States
+
+Money transmitter licenses (MTL) in 46 states, the District of Columbia, and Puerto Rico. BitLicense from the New York State Department of Financial Services (NYDFS). Registered as a “Money Services Business” with Financial Crimes Enforcement Network (FinCEN)
+
+Welcome to finance
+without friction
+PAYMENTS
+CURRENCY ACCESS
+TRADING SERVICES
+Payments built for business
+Real-time settlement, 24/7. Move money around the world any time, near instantly.
+Build for global scale. Move money with a global system connected by Circle Payments Network.
+Put security first. Transact with regulated,1 compliant stablecoins.
+LEARN MORE
+Stay ahead of the curve with our comprehensive platform
+
+Enterprise-grade infrastructure supporting the new internet financial system.
+
+ALL
+STABLECOINS
+TOKENIZED
+FUNDS
+LIQUIDITY
+SERVICES
+PAYMENTS
+BLOCKCHAINS
+DEVELOPER
+SERVICES
+USDC
+STABLECOINS
+
+The world’s largest regulated¹ digital dollar. Fully backed, fast, designed for stability, and built for global business.
+
+Learn more
+Learn more
+Learn more
+EURC
+STABLECOINS
+
+The world’s largest regulated¹ digital euro. Fully backed, fast, designed for stability, and built for global business.
+
+Learn more
+Learn more
+Learn more
+USYC5
+TOKENIZED FUNDS
+
+An institutional-grade tokenized money market fund with near-instant redeemability to USDC.
+
+Learn more
+Learn more
+Learn more
+Circle Payments Network4
+PAYMENTS
+
+One integration for global stablecoin-powered payments.
+
+Learn more
+Learn more
+Learn more
+Mint6
+LIQUIDITY SERVICES
+
+Mint, redeem, and manage USDC directly from Circle at global scale.
+
+Learn more
+Learn more
+Learn more
+StableFX
+LIQUIDITY SERVICES
+
+Institutional-grade onchain FX, powered by stablecoins.
+
+Learn more
+Learn more
+Learn more
+Arc10
+BLOCKCHAINS
+
+An open Layer-1 blockchain built to meet the demands of the global internet economy.
+
+Learn more
+Learn more
+Learn more
+Wallets7
+DEVELOPER SERVICES
+
+Easily integrate digital asset storage, payments, and transactions into your apps.
+
+Learn more
+Learn more
+Learn more
+Contracts7
+DEVELOPER SERVICES
+
+A curated library of customizable smart contract templates for tokenization and workflow automation.
+
+Learn more
+Learn more
+Learn more
+CCTP
+DEVELOPER SERVICES
+
+Transfer USDC natively between supported chains in seconds, more securely than traditional bridging.
+
+Learn more
+Learn more
+Learn more
+xReserve
+DEVELOPER SERVICES
+
+Launch a USDC-backed stablecoin on your blockchain.
+
+Learn more
+Learn more
+Learn more
+Gateway
+DEVELOPER SERVICES
+
+Enable a unified USDC balance for instant crosschain liquidity in <500 ms.
+
+Learn more
+Learn more
+Learn more
+Paymaster
+DEVELOPER SERVICES
+
+Enable seamless transaction experiences by allowing users to pay gas fees in USDC.
+
+
+Learn more
+Learn more
+Learn more
+Our network is built around your success
+
+Circle helps banks, businesses, developers, and consumers transact with confidence in an evolving digital economy.
+
+Globally connected
+
+Tap into a network powered by USDC that moves money around the world almost instantly. With deep liquidity and seamless on/offramps in 185+ countries, you can reach customers, markets, and opportunities globally.
+
+Always on
+
+With stablecoins like USDC, Circle’s network operates around the clock, eliminating traditional banking hours and settlement delays. Move funds in seconds, reduce costs, and keep your business running in real time.
+
+Built for growth
+
+Enterprise-grade APIs, compliance-ready infrastructure, and deep partner integrations allow your business to expand at scale.
+
+185+
+countries2
+52.7
+T
+all-time volume8
+1000+
+global partners9
+55
+licenses globally9
+We’re shaping what comes next
+COMPANY
+USDC
+Intuit and Circle Partner to Unlock the Future of Money Movement with Stablecoins
+COMPANY
+STABLECOINS
+Circle and LianLian Global announce collaboration to explore next-generation cross-border payments
+COMPANY
+Circle Receives Conditional Approval from OCC for National Trust Charter
+READ MORE
+October 28, 2025
+Circle Launches Arc Public Testnet
+Learn more
+Learn more
+Learn more
+COMPANY
+Move money smarter
+Partner with Circle
+Join the Circle network to unlock access to our global ecosystem of partners and products.
+Get started
+Get started
+Get started
+Build with Circle
+Explore our Developer Console to see how you can integrate Circle solutions for your use case.
+Start building
+Start building
+Start building
+USDC and EURC are issued through regulated entities of Circle. A list of Circle’s regulatory authorizations can be found here.
+Circle Mint supports international wires and domestic bank transfers in more than 185 countries. Circle Mint is currently only available to institutions. 
+USYC is issued by Circle International Bermuda Limited, regulated by Bermuda Monetary Authority (BMA), and represents an interest in a Cayman Islands mutual fund licensed by Cayman Islands Monetary Authority (CIMA). Information about USYC is directed only to entities who are not US Persons, as defined in Regulation S under the Securities Act of 1933.
+Circle Technology Services, LLC (CTS) is the operator of Circle Payments Network (CPN) and offers products and services to financial institutions that participate in CPN to facilitate their CPN access and integration. CPN connects participating financial institutions around the world, with CTS serving as the technology service provider to participating financial institutions. While CTS does not hold funds or manage accounts on behalf of customers, we enable the global ecosystem of participating financial institutions to connect directly with each other, communicate securely, and settle directly with each other. CTS is not a party to transactions between participating financial institutions facilitated by CPN who use CPN to execute transactions at their own risk. Use of CPN is subject to the CPN Rules and the CPN Participation Agreement between CTS and a participating financial institution.
+USYC is a digital asset token. Each USYC token serves as a digital representation of a share of the Hashnote International Short Duration Fund Ltd. (the “Fund”), a Cayman Islands registered mutual fund. The Fund has appointed Circle International Bermuda Limited (“CIBL”), a Bermuda Monetary Authority licensed digital asset business, as its token administrator, responsible for the management of USYC on behalf of the Fund.  As used herein, the term “near-instant” and “always” is intended to signify that, under ordinary operating conditions, redemption requests are filled on a near-real-time basis, subject to factors including, without limitation, blockchain network congestion and the Fund’s then-current liquidity position.
+
+Shares of the Fund and USYC are only available to non-U.S. Persons, as defined under the Securities Act of 1933, as amended. Additional eligibility restrictions may apply. The information provided herein is solely for educational and informational purposes and should not be construed as an offer to sell or a solicitation of an offer to buy any security, financial instrument, or other product.
+Circle Mint and money transmission services are provided by Circle Internet Financial, LLC. Circle Internet Financial, LLC, NMLS # 1201441, is a licensed provider of money transmission services. A full list of Circle’s licenses can be found here.
+Provided by Circle Technology Services, LLC (“CTS”). CTS is a software provider and does not provide regulated financial or advisory services. You are solely responsible for services you provide to users, including obtaining any necessary licenses or approvals and otherwise complying with applicable laws. For additional details, please click here to see the Circle Developer terms of service.
+USDC lifetime onchain transaction volume as of Dec 28, 2025 7:00 PM.
+As of April 2025.
+Arc testnet is offered by Circle Technology Services, LLC (“CTS”). CTS is a software provider and does not provide regulated financial or advisory services. You are solely responsible for services you provide to users, including obtaining any necessary licenses or approvals and otherwise complying with applicable laws.
+Arc has not been reviewed or approved by the New York State Department of Financial Services.
+The product features described in these materials are for informational purposes only. All product features may be modified, delayed, or cancelled without prior notice, at any time and at the sole discretion of Circle Technology Services, LLC. Nothing herein constitutes a commitment, warranty, guarantee or investment advice.
+Home
+PLATFORM
+USDC
+EURC
+USYC
+Circle Payments Network
+Arc
+Mint
+StableFX
+Wallets
+Contracts
+Paymaster
+CCTP
+xReserve
+USE CASES
+Payments
+Dollar Access
+Trading Services
+Case Studies
+DEVELOPER
+Developer Hub
+Documentation
+API Reference
+Sample Projects
+Testnet Faucet
+Developer Blog
+Circle Research
+Uptime Status
+COMPANY
+About Circle
+Careers
+WE’RE HIRING
+Alliance Program
+Circle Partner Stablecoins
+Circle Impact
+Circle Ventures
+Investor Relations
+Brand Kit
+USDC
+Transparency
+Supported Blockchains
+Bridged USDC Standard
+USDC.com
+INSIGHTS
+Executive Insights
+Policy Hub
+Pressroom
+Blog
+SUPPORT
+Help Center
+Contact Us
+Legal & Privacy
+Your Privacy Choices
+Cookie Settings
+SUBSCRIBE TO THE CIRCLE NEWSLETTER
+Email Address*
+
+By submitting this form, you agree to receive marketing and other communications from Circle about Circle Products and other company updates. You can unsubscribe from these communications at any time. For more information on our privacy practices, please review our Privacy Policy.
+
+ 
+
+EN
+X
+Instagram
+LinkedIn
+Discord
+The Money Movement
+YouTube
+
+Digital assets are subject to a number of risks, including price volatility. Transacting in digital assets could result in significant losses and may not be suitable for some consumers. Digital asset markets and exchanges are not regulated with the same controls or customer protections available with other forms of financial products and are subject to an evolving regulatory environment. Digital assets do not typically have legal tender status and are not covered by deposit protection insurance. The past performance of a digital asset is not a guide to future performance, nor is it a reliable indicator of future results or performance. Additional disclosures can be found on the Legal and Privacy page.
+
+Circle Internet Financial, LLC (NMLS ID# 1201441). Circle Internet Financial, LLC is licensed as a Money Transmitter by the New York State Department of Financial Institutions and to engage in Virtual Currency Business Activity by the New York State Department of Financial Services. Texas customers click here for information about filing complaints. Maryland customers click here for information about filing complaints.
+
+Circle International Bermuda Limited is licensed to conduct digital asset business by the Bermuda Monetary Authority.
+
+© 2025 Circle Internet Group, Inc
+
+Circle Technology Services, LLC (“CTS”) is a software provider and does not provide regulated financial or advisory services. You are solely responsible for services you provide to users, including obtaining any necessary licenses or approvals and otherwise complying with applicable laws. For additional details, please click here to see the Circle Developer terms of service.
+
+Circle Cookies
+Our site and online services use cookies and other tracking technologies to enhance the performance of our site, conduct analytics, assist in our marketing efforts, and serve targeted advertisements and measure their effectiveness. By clicking “Accept Cookies”, you agree to the use of all of these cookies and technologies. To manage your settings for these cookies and technologies, click “Cookie Settings.” Please review our Cookie Policy for more information about our use of cookies and other tracking technologies. You can change your preferences by clicking “Your Privacy Choices” from the footer of our website.
+Cookie Settings Accept Cookies

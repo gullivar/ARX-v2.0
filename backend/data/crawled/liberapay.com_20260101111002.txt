@@ -1,0 +1,155 @@
+Toggle navigation 
+ English
+Català
+Dansk
+Deutsch
+English
+Español
+Esperanto
+Français
+Gaeilge
+Indonesia
+Italiano
+Magyar
+Melayu   (4% machine translated)
+Nederlands
+Norsk bokmål   (20% machine translated)
+Polski
+Português
+Română   (1% not yet translated)
+Slovenčina   (4% machine translated)
+Suomi   (6% machine translated)
+Svenska   (2% machine translated)
+Türkçe
+Čeština
+Ελληνικά   (5% machine translated)
+Русский   (4% machine translated)
+Українська   (2% machine translated)
+中文 (简体)
+中文 (繁體)   (8% machine translated)
+日本語
+한국어   (30% machine translated)
+  Help us translate Liberapay
+ Log In or Create Account
+ Explore
+Overview
+Recipients
+Hopefuls
+Unclaimed Donations
+Repositories
+Social Networks
+ Search
+Go
+ About
+Introduction
+Use Cases
+FAQ
+Global
+Payment Processors
+Teams
+Stats
+Legal
+Privacy
+Follow Us
+Contact
+Security
+Logos
+
+Liberapay is a recurrent donations platform.
+
+We help you fund the creators and projects you appreciate.
+
+Donate
+
+People who contribute to the commons need you to support their work. Building free software, spreading free knowledge, these things take time and cost money, not only to do the initial work, but also to maintain it over time.
+
+Liberapay's recurrent donations system is designed to provide a stable crowdfunded basic income to creators, enabling them to keep doing great work that benefits everyone. Ready to contribute? Then let's get started:
+
+ Explore  Search
+Receive
+
+Are you a creator of commons? Do you make free art, spread free knowledge, write free software? Or something else that can be funded by recurrent donations?
+
+Yes? Then Liberapay is for you! Create your account, fill your profile, and ask your audience to financially support your work.
+
+ Create your account
+How it works for donors
+
+1. Set up a donation
+Find someone you want to give money to, then choose an amount, a period (weekly, monthly, or yearly), and a renewal method (manual or automatic).
+
+2. Fund your donation
+On Liberapay, donations are funded in advance. You have control over when and how much you pay. Sending more money at once usually results in a lower percentage of transaction fees.
+
+3. Keep your donation funded
+We will notify you whenever a donation needs to be renewed. If you've opted for automatic renewals, then we will attempt to debit your card or bank account as agreed.
+How it works for creators
+
+1. Create your profile
+Explain what you do, why you've chosen to ask for donations, what the money will be used for, etc.
+
+2. Configure payment processing
+We currently support processing payments through Stripe and PayPal.
+
+3. Reach out to your audience
+Contact the people who benefit from your work and ask them to support you.
+
+
+ Create your account
+
+How it works internally
+
+Liberapay is run transparently by a non-profit organization, its source code is public.
+
+We rely on your support to keep Liberapay running and improving.
+
+ Fund Liberapay
+
+Features
+
+Teams
+A team allows members of a project to receive money and share it, without having to set up a legal entity. Learn more…
+
+Multiple languages
+Our service is currently available in 29 languages. Your profile descriptions and other texts can be published in up to 118 languages.
+$ € £ ¥
+Multiple currencies
+Liberapay's first currency was the euro, then the US dollar was added, and now we support a total of 132 currencies. However, we do not handle any crypto-currency.
+
+Integrations
+You can link to your profile the accounts you own on GitHub, Twitter, Mastodon, and 7 other platforms. You can also easily list on your profile the repositories you contribute to on GitHub and GitLab.com.
+
+Pledges
+Liberapay allows pledging to people who haven't joined the site yet. No money is collected for pledges, they only become real donations when the recipients join. Of course we notify the donors when that happens.
+Sponsors
+
+Donations from businesses and nonprofits are welcome on Liberapay. If you have any questions, don't hesitate to contact us.
+
+Thanks
+
+Liberapay benefits from sponsored accounts on the following open source services:
+
+ 
+
+Recent Activity
+
+ 2,290 user accounts have been created in the past month. The most recent was 2 hours ago.
+
+ 936 new donations have been started in the past month, increasing total weekly funding by ₩1,870,409.
+
+ 20 new pledges have been made in the past month, adding ₩5,594 of weekly donations waiting to be claimed.
+
+ ₩33,859,925 was transferred last week between 14,924 users.
+
+ More stats
+
+ Learn more
+ Follow us
+
+About
+Contact Us
+FAQ
+Legal
+ Medium
+ Mastodon
+ GitHub

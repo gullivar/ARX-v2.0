@@ -1,0 +1,395 @@
+Topics
+Spotlight: Cloud Computing
+Latest
+Newsletters
+Resources
+Buyer’s Guides
+Events
+
+Latest from today
+NEWS
+Top Intel stories of 2025
+
+This year's most-read stories about Intel span leadership changes, CPU launches, new major shareholders, and plenty of industry scrutiny.
+
+By Ann Bednarz
+Dec 29, 2025
+8 mins
+CPUs and Processors
+Data Center
+OPINION
+Top 5 enterprise tech priorities for 2026
+By Tom Nolle
+Dec 22, 2025
+8 mins
+Artificial Intelligence
+Backup and Recovery
+Data Center
+FEATURE
+The state of open-source networking
+By Sean Michael Kerner
+Dec 17, 2025
+6 mins
+Networking
+Operating Systems
+NEWS
+SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition
+By Varun Aggarwal
+Dec 29, 2025
+3 mins
+Artificial Intelligence
+Data Center
+Technology Industry
+NEWS
+2025 network outage report and internet health check
+By Denise Dubie
+Dec 16, 2025
+123 mins
+Internet Service Providers
+Markets
+Telecommunications Industry
+NEWS
+Google agrees to acquire infrastructure builder Intersect to accelerate capacity development
+By Taryn Plumb
+Dec 22, 2025
+6 mins
+Artificial Intelligence
+Data Center
+Mergers and Acquisitions
+NEWS
+Google Cloud signs $10 billion deal with Palo Alto Networks
+By Mikael Markander
+Dec 23, 2025
+1 min
+Cloud Computing
+Security
+NEWS
+Data center investments break all records
+By Mikael Markander
+Dec 22, 2025
+3 mins
+Data Center
+NEWS
+WatchGuard fixes ‘critical’ zero-day allowing firewall takeover
+By John E. Dunn
+Dec 19, 2025
+4 mins
+Network Security
+Vulnerabilities
+Zero-Day Vulnerabilities
+More network and infrastructure news
+NEWS ANALYSIS
+Top 10 Nvidia stories of 2025 – From data center to AI factory
+
+Nvidia is arguably the bellwether of AI — we look at the enterprise infrastructure, networking and partnership angles of the company's news in 2025.
+
+By Dan Muse
+Dec 26, 2025
+4 mins
+Artificial Intelligence
+Nvidia
+NEWS
+Attackers bring their own passwords to Cisco and Palo Alto VPNs
+
+GreyNoise has identified a coordinated credential-based campaign abusing VPN login portals from Cisco and Palo Alto Networks.
+
+By Shweta Sharma
+Dec 19, 2025
+3 mins
+Network Security
+Security
+NEWS
+Cisco: Latest news and insights
+
+Here’s what you need to know about the networking giant’s latest product and company news.
+
+By Network World staff
+Dec 19, 2025
+35 mins
+Network Management Software
+Network Security
+Networking
+NEWS
+Snowflake software update caused 13-hour outage across 10 regions
+
+Cloud data platform’s backward-incompatible database schema change left customers unable to query data or ingest files
+
+By Gyana Swain
+Dec 19, 2025
+5 mins
+Analytics
+Cloud Storage
+Data Warehousing
+NEWS
+HPE OneView vulnerable to remote code execution attack
+
+An unauthenticated user can execute the attack, and there’s no mitigation, just a hotfix that should be applied immediately.
+
+By Howard Solomon
+Dec 18, 2025
+3 mins
+Network Security
+Security
+Vulnerabilities
+NEWS
+Cisco confirms zero-day exploitation of Secure Email products
+
+The unpatched flaw affects AsyncOS-based Secure Email appliances, with Cisco investigating scope and urging rebuilds in confirmed compromise cases.
+
+By Prasanth Aby Thomas
+Dec 18, 2025
+4 mins
+Network Appliances
+Networking
+Networking Devices
+SHOW MORE
+Explore a topic
+
+5G
+Careers
+Cloud Computing
+CPUs and Processors
+Data Center
+Edge Computing
+Enterprise Storage
+Generative AI
+Industry
+Internet of Things
+Linux
+Networking
+Network Management Software
+Network Security
+VIEW ALL TOPICS
+Spotlight: Making the most of multicloud
+ARTICLES
+BUYER’S GUIDE
+
+For IT leaders navigating multicloud environments, success depends on strategic alignment across business units, robust governance frameworks, and proactive security postures. While multicloud offers agility and vendor flexibility, it also introduces challenges in visibility, compliance, and developer productivity. In this special report, you’ll learn how to take advantage of benefits of using multiple clouds, avoid common pitfalls, and ensure that multicloud is worth the investment.
+
+VIEW ALL
+Popular topics
+Generative AI
+FEATURE
+AI-driven network management gains enterprise trust
+By Maria Korolov
+Dec 8, 2025
+11 mins
+Data Center Automation
+Generative AI
+Network Management Software
+NEWS
+Perplexity’s open-source tool to run trillion-parameter models without costly upgrades
+By Gyana Swain
+Nov 6, 2025
+5 mins
+Artificial Intelligence
+Cloud Computing
+Generative AI
+NEWS
+Cisco centralizes customer experience around AI
+By Michael Cooney
+Nov 4, 2025
+4 mins
+Artificial Intelligence
+Business
+Generative AI
+VIEW TOPIC
+Networking
+ANALYSIS
+Networking terms and definitions
+By Dan Muse and Network World Staff
+Dec 18, 2025
+35 mins
+Networking
+OPINION
+Enterprise reactions to cloud and internet outages
+By Tom Nolle
+Dec 16, 2025
+8 mins
+Cloud Computing
+Network Management Software
+Networking
+OPINION
+P4 programming: Redefining what’s possible in network infrastructure
+By Neha Singh
+Dec 12, 2025
+11 mins
+Data Center
+Network Security
+Networking
+VIEW TOPIC
+Data Center
+FEATURE
+Will Google throw gasoline on the AI chip arms race?
+By Andy Patrizio
+Dec 16, 2025
+4 mins
+Artificial Intelligence
+CPUs and Processors
+Data Center Design
+NEWS
+FinOps Foundation sharpens FOCUS to reduce cloud cost chaos
+By Sean Michael Kerner
+Dec 12, 2025
+7 mins
+Cloud Computing
+Data Center
+Hybrid Cloud
+NEWS
+Aetherflux joins the race to launch orbital data centers by 2027
+By Gyana Swain
+Dec 12, 2025
+6 mins
+Data Center
+Data Center Design
+Power Systems
+VIEW TOPIC
+Network Security
+NEWS
+Cybersecurity skills matter more than headcount in an AI era: ISC2 study
+By Denise Dubie
+Dec 10, 2025
+7 mins
+Careers
+IT Skills and Training
+Network Security
+NEWS ANALYSIS
+Most significant networking acquisitions of 2025
+By Michael Cooney
+Dec 10, 2025
+7 mins
+Artificial Intelligence
+Network Security
+Networking Devices
+NEWS
+Chinese cyberspies target VMware vSphere for long-term persistence
+By Lucian Constantin
+Dec 5, 2025
+4 mins
+Data Center
+Network Security
+Virtualization
+VIEW TOPIC
+CPUs and Processors
+NEWS
+New Nvidia software gives data centers deeper visibility into GPU thermals and reliability
+By Prasanth Aby Thomas
+Dec 11, 2025
+4 mins
+CPUs and Processors
+Cooling Systems
+Data Center Design
+NEWS
+US approves Nvidia H200 exports to China, raising questions about enterprise GPU supply
+By Prasanth Aby Thomas
+Dec 9, 2025
+5 mins
+CPUs and Processors
+Government
+Laws and Regulations
+NEWS
+Intel: Latest news and insights
+By Dan Muse
+Dec 8, 2025
+10 mins
+CPUs and Processors
+VIEW TOPIC
+Video
+VIDEO
+Master Linux Math with the bc Command | Easy CLI Calculations Explained!
+
+Learn how to use the powerful bc command in Linux to perform fast, accurate calculations right from the command line. In this Linux tip, Sandra Henry-Stocker—author of the Unix as a Second Language blog—walks you through examples including addition, exponents, decimals, and setting scale for precision. Whether you’re scripting or solving quick math problems, bc is a must-know tool for Linux users. Examples covered: Basic math with bc Using exponents (10^2) Decimal calculations Controlling precision with scale
+
+Jun 23, 2025
+1 mins
+Operating Systems
+Master Linux Math in Seconds: How to Use the expr Command Like a Pro
+Jun 17, 2025
+1 mins
+Operating Systems
+How to Do Math in the Command Line Using Double Parentheses
+Jun 6, 2025
+1 mins
+Operating Systems
+How to Use the tldr Command in Linux | Quick Alternative to Man Pages
+May 20, 2025
+1 mins
+Operating Systems
+SEE ALL VIDEOS
+Podcasts
+PODCASTS
+Design Your Networks for the Internet of the Future
+
+Regardless of unique business goals, every service provider and enterprise relies on new technologies to help them achieve their intended business outcomes, like growing revenue, reducing costs, and mitigating risks for themselves and their customers. Today there are three important technology developments that can be critical catalysts helping these businesses achieve and even surpass their goals: Converged Software-Defined Networking Transport, Advanced Optics, and open, software-defined 5G. This series of 3 podcasts will share business drivers, real-world use cases, and actionable solutions that can change the economics of the Internet for the Future and your “today."
+
+3 episodes
+Internet
+Ep. 02
+Episode 2: Pluggable Optics and the Internet for the Future
+Nov 7, 2023
+17 mins
+Cisco Systems
+Computers and Peripherals
+Internet
+Ep. 03
+Episode 3: Looking Forward: 5G, Digital Transformation, and the Network of the Future
+Nov 7, 2023
+14 mins
+5G
+Cisco Systems
+Internet
+Show me more
+POPULAR
+ARTICLES
+PODCASTS
+VIDEOS
+BRANDPOST
+Sponsored by Broadcom
+Breaking the ransomware kill chain: Why distributed lateral security is no longer optional
+By Umesh Mahajan, VP and GM, Application Networking and Security Division, Broadcom
+Dec 18, 2025
+4 mins
+Security
+PODCAST
+Has the hype around ‘Internet of Things’ paid off? | Ep. 145
+Apr 18, 2024
+36 mins
+IoT Platforms
+IoT Security
+VIDEO
+How to Use the column Command in Linux | Format Output into Neat Columns Easily
+May 8, 2025
+1 mins
+Operating Systems
+About
+About Us
+Advertise
+Contact Us
+Editorial Ethics Policy
+Foundry Careers
+Reprints
+Newsletters
+BrandPosts
+News
+Features
+Blogs/Opinion
+Policies
+Terms of Service
+Privacy Policy
+Cookie Policy
+Copyright Notice
+Member Preferences
+About AdChoices
+Your California Privacy Rights
+Privacy Settings
+Our Network
+CIO
+Computerworld
+CSO Online
+InfoWorld
+Facebook
+X
+YouTube
+Google News
+LinkedIn
+© 2025 FoundryCo, Inc. All Rights Reserved.

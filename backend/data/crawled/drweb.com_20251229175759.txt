@@ -1,0 +1,65 @@
+By continuing to use this website, you are consenting to Doctor Web’s use of cookies and other technologies related to the collection of visitor statistics.
+
+Learn more
+Ок
+
+For home
+For business
+Support
+Information for users
+Information for partners
+Products for business and public organisations
+All products
+Products for individual use
+All products
+News
+
+All news
+
+A major centralised administration server update for Dr.Web Enterprise Security Suite and Dr.Web Industrial
+
+Doctor Web is rolling out a major server component update for Dr.Web Enterprise Security Suite and Dr.Web Industrial 13.0.1.202511120 that will become available on December 15, 2025. The biggest change being introduced is for the Application Control component to further improve the security of protected devices.
+
+12/12/2025
+Updates | Dr.Web products
+
+Read
+Bellerophon could never have imagined. The ChimeraWire trojan boosts website popularity by skillfully pretending to be human
+
+While analyzing one of the affiliate programs, Doctor Web’s experts discovered a unique piece of malware with clicker functionality and dubbed it Trojan.ChimeraWire . This malware targets computers running Microsoft Windows and is based on the open-source projects zlsgo and Rod for automated website and web application management.
+
+12/8/2025
+Real-time threat news
+
+Read
+Dr.Web CureIt! can now see what malware is trying to hide
+
+Doctor Web has updated its free utility Dr.Web CureIt! to introduce a unique feature—the ability to scan files and folders that virus makers add to antivirus exclusions lists. &nbsp;This is a major step in tackling more sophisticated threats that seek to disable information security software to ensure they operate unhindered in the system.
+
+11/20/2025
+Updates | Dr.Web products
+
+Read
+The Anti-virus Times blog
+
+Read
+
+Read
+Online scanners
+Check link
+Scan file
+For home
+For business
+Support
+Information for users
+Information for partners
+Press centre
+Contacts
+Career
+
+Doctor Web © 2003 — 2025
+
+Doctor Web is an anti-virus security company whose products are marketed under the brand name Dr.Web
+
+Safe development and deployment practices
+Privacy Policy

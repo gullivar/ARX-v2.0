@@ -1,0 +1,48 @@
+ GBitt.info Tracker
+info
+About GBitt.info
+bar_chart
+Statistics
+About GBitt.info
+THE OPEN BITTORRENT TRACKER • NO BOUNDS • INFO@GBITT.INFO
+
+This is an Open Bittorrent Tracker, which allows anybody to link a bittorrent file with. We do not moderate this tracker, and will run completely stand-alone.
+
+This tracker has been started at: 19 December 2018
+Tracking has been reset at 05 October 2023 because of heavy changes to the system.
+
+The tracker has been started with the purpose to offer a alternative open bittorrent tracker, to support the bittorrent environment. Use of this open tracker is at your own risk, we will not provide any other support then running the software to use this tracker. We will not be held liable for what happens on this tracker, neither do we host any files on this tracker, and we do not monitor/moderate this system. Any complaints or questions can be sent to our email contact info@gbitt.info, but we will not and will not be able to remove a torrent from our listing.
+
+This software is running on Torrust-Actix, which is a open-source application development by Power2All and multiple other people. It run's on any Linux, MacOS and Windows environment using Rust with the Actix Framework.
+
+The following tracker URLs can be used in your bittorrent file:
+
+udp://tracker-udp.gbitt.info:80/announce
+http://tracker.gbitt.info:80/announce
+https://tracker.gbitt.info:443/announce
+
+The HTTP and HTTPS tracking has been disabled, because of too many bandwidth usage. When there is a new server introduced with no bandwidth limitations, this tracker will be enabled again. For now, only UDP will be useful.
+
+Statistics
+layers
+
+Torrents
+
+Unknown
+task_alt
+
+Completed Downloads
+
+Unknown
+upload
+
+Seeders
+
+Unknown
+download
+
+Leechers
+
+Unknown
+Torrent Statistics (per 15 minutes)
+UDP Statistics (per 15 minutes)

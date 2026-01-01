@@ -1,0 +1,5 @@
+Page not found
+Oops! We weren't able to find your Azure Front Door Service configuration. If it's a new configuration that you recently created, it might not be ready yet. You should check again in a few minutes. If the problem persists, please contact Azure support.
+Try again
+Contact support
+Documentation

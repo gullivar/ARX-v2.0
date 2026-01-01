@@ -1,0 +1,185 @@
+Skip to content
+ 
+Features
+Download
+Learn
+Get Involved
+Shop
+♥ DONATE
+ 
+Toggle theme
+Light
+Dark
+
+Select your language
+
+Languages
+English
+Català
+Català (Valencià)
+Český
+Deutsch
+Español
+Esperanto
+Euskara
+Français
+Gaeilge
+Italiano
+Lietuvių
+Nederlands
+Português
+Português brasileiro
+Slovenčina
+Slovenščina
+Svenska
+Türkçe
+Українська
+עברית
+العربيّة
+한국어
+中文（香港）
+日本語
+正體中文
+简体中文
+
+Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+
+DOWNLOAD
+  
+Powered by 
+Art by Tyson Tan
+News SEE ALL
+Krita Monthly Update - Edition 33
+Monday, 15 December 2025
+Welcome to the November 2025 development and community update. Development Report 5.2.14 Released One last bugfix release in the 5.2 series, 5.2.14 is out. This …
+READ MORE
+Krita 5.2.14 bugfix release!
+Thursday, 11 December 2025
+Today we're releasing Krita 5.2.14. This is going to be the last bug fix release for 5.2. This release in particular contains many bug and usability fixes for …
+READ MORE
+Krita Monthly Update - Edition 32
+Tuesday, 11 November 2025
+Welcome to the October 2025 development and community update. Development Report Text Rework Progress The Text Tool's Tool Options have been overhauled. There's …
+READ MORE
+Floss.fund supports Krita
+Monday, 3 November 2025
+Zerodha created FLOSS/fund to support free and open source software projects, and one of the projects FLOSS/fund supports is Krita! We were part of the first …
+READ MORE
+Tools You Need To Grow as an Artist
+Art by RavioliMavioli
+All the features you need
+
+Great for new and experienced artists. Here are some of the features that Krita offers:
+
+Multiple brush types for different art styles
+Layers, drawing assistants, stabilizers
+Animation tools to transform your artwork
+SEE FEATURES
+Art by clooms
+Resources and Materials
+
+Expand Krita’s capabilities with online tools and assets:
+
+Brushes, patterns, and vector libraries
+Texture packs and page templates
+Plugins that add new functionality
+SEE RESOURCES
+Art by seaway
+A supportive community
+
+An online community for Krita artists to share artwork and tips with each other.
+
+Share your artwork and get feedback to improve
+Ask questions about using Krita or seeing if there is a bug
+Give feedback to developers when new features and plugins are being created
+VISIT ARTIST COMMUNITY
+Free and Open Source
+
+Krita is a public project licensed as GNU GPL, owned by its contributors. That's why Krita is Free and Open Source software, forever.
+
+See details about license usage
+Artist InterviewsSEE ALL
+Interview with J2J-Art
+Monday, 25 April 2022
+
+My name is Jessica, but my art name is J2J-Art. I am a self-taught artist, I was born in 2004 in South Africa and I have only been creating art for 4 years now. …
+
+INTERVIEW WITH J2J-ART
+Interview with Simon Rollins
+Tuesday, 4 January 2022
+
+My full name is Simon Sterling Rollins. Most people call me Simon. I was born in July 2005 in the state of Georgia. I'm autistic. I'm still in high school, but …
+
+INTERVIEW WITH SIMON ROLLINS
+Interview with Ali Bahabadi
+Monday, 6 September 2021
+
+My full name is Mohammad-Ali Bahabadi, but I sign with my shortened version of my name, Ali Bahabadi. I was born in 1983 in Iran. I got a master's degree in art …
+
+INTERVIEW WITH ALI BAHABADI
+Interview with Tansy Branscombe
+Monday, 2 November 2020
+
+I'm currently in my 4th year of a PhD in Archaeological Science at the University of Oxford, specialising in the reconstruction of ancient environmental …
+
+INTERVIEW WITH TANSY BRANSCOMBE
+Interview with Albert Weand
+Monday, 15 June 2020
+
+I’m an illustrator from Panama. I use Krita to create digital art, but I also work with traditional tools. Do you paint professionally, as a hobby artist, or …
+
+INTERVIEW WITH ALBERT WEAND
+Interview with Clément Mona
+Monday, 25 May 2020
+
+Hello, I am a 36-year-old freelance illustrator and concept artist based in Brittany, France. I have worked in the industry since 2007 and am now a freelancer. …
+
+INTERVIEW WITH CLÉMENT MONA
+Interview with Jefferson Nascimento
+Monday, 11 May 2020
+
+I'm Jeff, a brazilian animator and character designer (sometimes illustrator). I have a bachelor's degree in biology and cinema, the latter one being completed …
+
+INTERVIEW WITH JEFFERSON NASCIMENTO
+Interview with Joshua Grier
+Monday, 27 April 2020
+
+I’m Josh, and I love design. There’s nothing better than taking people’s stories, thoughts, feelings, wants and needs and responding to them in practical ways. …
+
+INTERVIEW WITH JOSHUA GRIER
+Interview with Philipp Urlich
+Monday, 6 April 2020
+
+I'm from Switzerland and have studied art and graphic design in 90'. Do you paint professionally, as a hobby artist, or both? It's a hobby but I'm happy to be …
+
+INTERVIEW WITH PHILIPP URLICH
+Interview with Anilia
+Tuesday, 24 March 2020
+
+I’m Anilia, a freelance illustrator. I’m cooperating with many authors from all around the world. The key part of my job is to transform authors' visions into …
+
+INTERVIEW WITH ANILIA
+Krita Sprint 2019 - Deventer, Netherlands
+Give back
+
+Krita is made by people from all around the world – many of which are volunteers. If you find Krita valuable and you want to see it improve, consider becoming part of the development fund.
+
+CONTRIBUTE TO THE DEVELOPMENT FUND
+Software
+Report a bug
+Roadmap
+Release History
+Source Code 
+Sitemap
+Education
+Documentation
+FAQ
+Privacy Statement
+Tutorials 
+Foundation
+About
+Donations
+Get Involved
+What is KDE 
+Website license
+Contact

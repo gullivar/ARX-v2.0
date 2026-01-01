@@ -1,0 +1,73 @@
+Skip to content
+Get Started
+Downloads
+Community
+Products
+Ready to Get Started with Asterisk?
+
+Asterisk is a free and open source framework for building communications applications and is sponsored by Sangoma.
+
+11500000
+Downloads Annually
+85000
+Community Members
+150
+Countries with Installations
+11500000
+Servers Worldwide
+85000
+New Endpoints Each Year
+AstriCon
+2025 recordings now available!
+
+AstriCon is the longest-running open source convention celebrating open source projects featuring Asterisk and FreePBX. Consisting of multiple tracks, sessions, and EXPO hall, AstriCon offers various levels of education sessions and provides attendees networking opportunities with some of the best in the open source community.
+
+Access Recordings
+Asterisk News
+Asterisk 23.1.0 Now Available
+November 20, 2025
+Asterisk 22.7.0 Now Available
+November 20, 2025
+Asterisk 21.12.0 Now Available
+November 20, 2025
+Asterisk 20.17.0 Now Available
+November 20, 2025
+Asterisk 23.0.0 Now Available
+October 15, 2025
+View All
+Security Advisories
+A specifically malformed Authorization header in an incoming SIP request can cause Asterisk to crash: (GHSA-64qc-9×89-rx5j)
+
+August 28, 2025
+
+https://github.com/asterisk/asterisk/security/advisories/GHSA-64qc-9x89-rx5j
+
+Resource exhaustion (DoS) vulnerability: remotely exploitable leak of RTP UDP ports and internal resources: (GHSA-557q-795j-wfx2)
+
+August 28, 2025
+
+https://github.com/asterisk/asterisk/security/advisories/GHSA-557q-795j-wfx2
+
+Uncontrolled Search-Path Element in safe_asterisk script may allow local privilege escalation : (GHSA-v9q8-9j8m-5xwp)
+
+July 31, 2025
+
+https://github.com/asterisk/asterisk/security/advisories/GHSA-v9q8-9j8m-5xwp
+
+View All
+Terms of Use
+Privacy
+Patrons And Donors
+Contact Us
+Trademarks
+
+©2025 Sangoma Technologies. Asterisk is a Registered Trademark of Sangoma Technologies. All rights reserved.
+
+
+
+ 
+Facebook
+ 
+Youtube
+ 
+Linkedin

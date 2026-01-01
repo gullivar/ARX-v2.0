@@ -1,0 +1,30 @@
+📄 Documentation
+Work in Progress
+Participate
+
+The IETF HTTP Working Group maintains and develops the Hypertext Transfer Protocol - the core protocol of the World Wide Web.
+
+ 
+📄 Specs and Tests
+
+Resources to help HTTP implementations, including:
+
+Read HTTP-related specifications the specs!
+See our list of (unofficial) tests for HTTP implementations
+👷‍♀️ Work In Progress
+
+See what's under development and what's coming, including:
+
+HTTP extensions under development 
+... also in the IETF datatracker
+Possible Future Work
+The HTTP Directorate
+👋 Participate
+
+Want to get involved? Join us!
+
+Learn how to contribute start here
+See our charter
+Catch up on our mailing list
+Browse our meeting materials 
+See our resources for document editors

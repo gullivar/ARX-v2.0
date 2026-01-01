@@ -1,0 +1,671 @@
+Help
+Feedback
+Nintune
+Ninite Pro
+Sign into Pro
+We also have a page for screenreader-friendly accessible apps at ninite.com/accessible.
+Install and Update All Your Programs at Once
+
+No toolbars. No clicking next. Just pick your apps and go.
+
+Use Intune? Check out our new Intune integration: Nintune
+
+Always Up-to-date
+
+You don't have to watch for updates. Our bots do that. Here's what's new:
+
+Cursor updated to 2.3.10.
+15 hours ago
+
+Glary updated to 6.36.0.40.
+15 hours ago
+
+Notepad++ updated to 8.9.
+Sunday at 1:20 pm
+
+Spotify updated to 1.2.80.354.
+Saturday at 3:45 pm
+
+JDK (AdoptOpenJDK) x64 25 updated to 25.0.1.
+Saturday at 3:44 pm
+
+more news
+
+Trusted by Millions
+
+We install and update about a million apps each day for our home users and Ninite Pro subscribers.
+
+The press likes us too:
+
+“I'll bet the service saved me a couple hours”
+PCWorld
+
+“Ninite.com frees up your day”
+The Christian Science Monitor
+
+“This post can be fairly short because Ninite works exactly as advertised.”
+Lifehacker
+
+1. Pick the apps you want
+Web Browsers
+  Chrome
+
+Fast Browser by Google 143.0.7499.170
+
+  Opera
+
+Alternative Browser 125.0.5729.49
+
+  Firefox
+
+Extensible Browser 146.0.1
+
+  Edge
+
+Microsoft Edge Browser 143.0.3650.96
+
+  Brave
+
+Privacy Browser 1.85.118
+
+Messaging
+  Zoom
+
+Video Conference 6.7.0.24657
+
+  Discord
+
+Voice and Text Chat 1.0.9219
+
+  Teams
+
+Video Conferencing, Meetings, Calling
+
+  Pidgin
+
+Multi-IM Client 2.14.14
+
+  Thunderbird
+
+Email Reader by Mozilla 146.0.1
+
+  Trillian
+
+Trillian IM 6.5.0.45
+
+Media
+  iTunes
+
+Music/Media Manager 12.13.9.1
+
+  VLC
+
+Great Video Player 3.0.21
+
+  AIMP
+
+Music Player 5.40.2703
+
+  foobar2000
+
+Music Player 2.25.3
+
+  Winamp
+
+Music Player 5.9.2.10042
+
+  MusicBee
+
+Music Manager & Player 3.6.9403.32563
+
+  Audacity
+
+Audio Editor 3.7.7
+
+  K-Lite Codecs
+
+Video decoders plus Media Player Classic 19.3.5
+
+  GOM
+
+Video Player 2.3.14.5270
+
+  Spotify
+
+Online Music Service 1.2.80.354
+
+  CCCP
+
+Video decoders plus MPC 2015.10.19
+
+  MediaMonkey
+
+Music Organizer 2024.1.0.3113
+
+  HandBrake
+
+Convert Videos 1.10.2 (requires .NET 5)
+
+.NET
+  .NET 4.8.1
+
+Microsoft .NET 4.8.1
+
+  .NET Desktop Runtime x64 8
+
+.NET Desktop Runtime (x64) 8.0.22.35428
+
+  .NET Desktop Runtime arm64 8
+
+.NET Desktop Runtime (arm64) 8.0.22.35428
+
+  .NET Desktop Runtime 8
+
+.NET Desktop Runtime (x86) 8.0.22.35428
+
+  .NET Desktop Runtime x64 9
+
+.NET Desktop Runtime (x64) 9.0.11.35420
+
+  .NET Desktop Runtime arm64 9
+
+.NET Desktop Runtime (arm64) 9.0.11.35420
+
+  .NET Desktop Runtime 9
+
+.NET Desktop Runtime (x86) 9.0.11.35420
+
+  .NET Desktop Runtime x64 10
+
+.NET Desktop Runtime (x64) 10.0.1.50000
+
+  .NET Desktop Runtime arm64 10
+
+.NET Desktop Runtime (arm64) 10.0.1.50000
+
+  .NET Desktop Runtime 10
+
+.NET Desktop Runtime (x86) 10.0.1.50000
+
+  ASP.NET Core Runtime x64 8
+
+ASP.NET Core Runtime (x64) 8.0.22.25528
+
+  ASP.NET Core Runtime arm64 8
+
+ASP.NET Core Runtime (arm64) 8.0.22.25528
+
+  ASP.NET Core Runtime 8
+
+ASP.NET Core Runtime (x86) 8.0.22.25528
+
+  ASP.NET Core Runtime x64 9
+
+ASP.NET Core Runtime (x64) 9.0.11.25520
+
+  ASP.NET Core Runtime arm64 9
+
+ASP.NET Core Runtime (arm64) 9.0.11.25520
+
+  ASP.NET Core Runtime 9
+
+ASP.NET Core Runtime (x86) 9.0.11.25520
+
+  ASP.NET Core Runtime x64 10
+
+ASP.NET Core Runtime (x64) 10.0.1.35519
+
+  ASP.NET Core Runtime arm64 10
+
+ASP.NET Core Runtime (arm64) 10.0.1.35519
+
+  ASP.NET Core Runtime 10
+
+ASP.NET Core Runtime (x86) 10.0.1.35519
+
+Java
+  Java (AdoptOpenJDK) x64 8
+
+64-bit Java Runtime (JRE) 8u472-b08
+
+  Java (AdoptOpenJDK) 8
+
+32-bit Java Runtime (JRE) 8u472-b08
+
+  Java (AdoptOpenJDK) x64 11
+
+64-bit Java Runtime (JRE) 11.0.29
+
+  Java (AdoptOpenJDK) x64 17
+
+64-bit Java Runtime (JRE) 17.0.17
+
+  Java (AdoptOpenJDK) x64 21
+
+64-bit Java Runtime (JRE) 21.0.9
+
+  Java (AdoptOpenJDK) x64 25
+
+64-bit Java Runtime (JRE) 25.0.1
+
+  JDK (AdoptOpenJDK) x64 8
+
+64-bit Java Development Kit 8u472-b08
+
+  JDK (AdoptOpenJDK) 8
+
+Java Development Kit 8u472-b08
+
+  JDK (AdoptOpenJDK) x64 11
+
+64-bit Java Development Kit 11.0.29
+
+  JDK (AdoptOpenJDK) x64 17
+
+64-bit Java Development Kit 17.0.17
+
+  JDK (AdoptOpenJDK) x64 21
+
+64-bit Java Development Kit 21.0.9
+
+  JDK (AdoptOpenJDK) x64 25
+
+64-bit Java Development Kit 25.0.1
+
+  JDK (Amazon Corretto) x64 8
+
+64-bit Java Development Kit 8u472-b08
+
+  JDK (Amazon Corretto) 8
+
+Java Development Kit 8u472-b08
+
+  JDK (Amazon Corretto) x64 11
+
+64-bit Java Development Kit 11.0.29
+
+  JDK (Amazon Corretto) x64 17
+
+64-bit Java Development Kit 17.0.17
+
+  JDK (Amazon Corretto) x64 21
+
+64-bit Java Development Kit 21.0.9
+
+  JDK (Amazon Corretto) x64 25
+
+64-bit Java Development Kit 25.0.1
+
+  JRE (Amazon Corretto) x64 8
+
+64-bit Java Runtime Environment 8u472-b08
+
+  JRE (Amazon Corretto) 8
+
+Java Runtime Environment 8u472-b08
+
+Imaging
+  Krita
+
+Painting Program 5.2.14
+
+  Blender
+
+3D Creation Suite 5.0.1
+
+  Paint.NET
+
+Image Editor 5.111.9445.2548 (requires .NET 4.5)
+
+  GIMP
+
+Open Source Image Editor 3.0.6.1
+
+  IrfanView
+
+Image Viewer 4.73
+
+  XnView
+
+Image Viewer 2.52.2
+
+  Inkscape
+
+Vector Graphics Editor 1.4.3
+
+  FastStone
+
+FastStone Image Viewer 8.3
+
+  Greenshot
+
+Screenshot Tool 1.3.304
+
+  ShareX
+
+Screenshot Uploader
+
+Documents
+  Foxit Reader
+
+Alternative PDF Reader 2025.3.0.35737
+
+  LibreOffice
+
+Free Office Suite 25.8.4 (JRE recommended)
+
+  SumatraPDF
+
+Lightweight PDF Reader 3.5.2
+
+  CutePDF
+
+Print Documents as PDF Files 4.0
+
+  OpenOffice
+
+Free Office Suite 4.1.16 (JRE recommended)
+
+Security
+  Malwarebytes
+
+Malware Remover 5.4.5.226
+
+  Avast
+
+Avast Free Antivirus 25.12.6190
+
+  AVG
+
+AVG Free Antivirus 25.12.10659.3324
+
+  Spybot 2
+
+Spyware Remover 2.9.85.5
+
+  Avira
+
+Avira Free Antivirus 15.0.2201.2134
+
+  SUPERAntiSpyware
+
+SUPERAntiSpyware Free 10.0.1282
+
+File Sharing
+  qBittorrent
+
+Free Bittorrent Client 5.1.4
+
+Online Storage
+  Dropbox
+
+Great Online Backup/File Sync 238.4.6075
+
+  Google Drive for Desktop
+
+Online File Sync 118.0.1.0
+
+  OneDrive
+
+Online File Sync by Microsoft 25.222.1112.0002
+
+  SugarSync
+
+Online Backup/File Sync 4.1.3.2
+
+Other
+  Evernote
+
+Online Notes 10.167.2
+
+  Google Earth
+
+Online Atlas by Google 7.3.6.10441
+
+  Steam
+
+App Store for Games
+
+  Epic Games Launcher
+
+Epic Games Store
+
+  KeePass 2
+
+Password Manager 2.60
+
+  Everything
+
+Local File Search Engine 1.4.1.1030
+
+  NV Access
+
+Screen Reader 2025.3.2
+
+Utilities
+  AnyDesk
+
+Remote Desktop 9.6.7
+
+  TeamViewer 15
+
+Remote Access Tool 15.73.5
+
+  ImgBurn
+
+Disc Burner 2.5.8.0
+
+  RealVNC Server
+
+RealVNC Remote Access 7.16.0.14
+
+  RealVNC Viewer
+
+RealVNC Remote Access 7.15.1.18
+
+  TightVNC
+
+TightVNC Remote Desktop Software 2.8.85
+
+  TeraCopy
+
+Better File Copy 3.17
+
+  CDBurnerXP
+
+Disc Burner 4.5.8.7128 (requires .NET)
+
+  Revo
+
+App Uninstaller/Reverse Ninite 2.6.5
+
+  Launchy
+
+Hotkey Launcher 2.5
+
+  WinDirStat
+
+Directory Statistics 2.2.2
+
+  WizTree
+
+Directory Statistics 4.28
+
+  Glary
+
+System Utilities 6.36.0.40
+
+  InfraRecorder
+
+Disc Burner 0.53.0
+
+  Open-Shell
+
+Old-Style Start Menu 4.4.196
+
+  CCleaner
+
+PC Crap Remover 6.39.11548
+
+Compression
+  7-Zip
+
+Great Compression App 25.01
+
+  PeaZip
+
+File Compression Tool 10.8.0
+
+  WinRAR
+
+Another Compression Tool 7.13 (Trial)
+
+VC++ Redistributables
+  VC Redist x64 2015+
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2015+
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist arm64 2015+
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x64 2013
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2013
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x64 2012
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2012
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x64 2010
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2010
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x64 2008
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2008
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x64 2005
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+  VC Redist x86 2005
+
+Microsoft C and C++ (MSVC) runtime libraries
+
+Developer Tools
+  Python x64 3
+
+Programming Language 3.14.2
+
+  Python arm64 3
+
+Programming Language 3.14.2
+
+  Python 3
+
+Programming Language 3.14.2
+
+  Python
+
+Great Programming Language 2.7.18
+
+  Git
+
+Version Control System 2.52.0
+
+  FileZilla
+
+FTP Client 3.69.5
+
+  Notepad++
+
+Programmer's Editor 8.9
+
+  WinSCP
+
+SCP Client 6.5.5
+
+  PuTTY
+
+SSH client 0.83
+
+  WinMerge
+
+Compare and Merge Files 2.16.52.2
+
+  Eclipse
+
+IDE for Java 4.38.0 (requires Java)
+
+  Visual Studio Code
+
+Programmer's Editor 1.107.1
+
+  Cursor
+
+Programmer's Editor 2.3.10
+
+2. Download and run your custom installer/updater
+
+Please check off the apps you want above.
+
+Get Your Ninite
+
+Ninite works on Windows 11, 10, 8.x, 7, and equivalent Server versions.
+
+Ninite will
+start working as soon as you run it
+not bother you with any choices or options
+install apps in their default location
+say no to toolbars or extra junk
+install 64-bit apps on 64-bit machines
+install apps in your PC's language or one you choose
+do all its work in the background
+install the latest stable version of an app
+skip up-to-date apps
+skip any reboot requests from installers
+use your proxy settings from Internet Explorer
+download apps from each publisher's official site
+verify digital signatures or hashes before running anything
+work best if you turn off any web filters or firewalls
+save you a lot of time!
+Suggest an app
+
+We only add popular user-requested apps to Ninite.
+
+Show suggestion form
+
+Use Intune? Check out our new Intune integration: Nintune
+
+Manage all your machines on the web with Ninite Pro
+
+Ninite Pro has a new web interface. Click here to learn more.
+
+Our website is free for home use (money-wise, but also free of ads and junkware) because Pro users keep Ninite running.
+
+Thousands of organizations use Ninite Pro to patch and secure software
+Try it for free right now
+jobs about press updates security privacy terms
+
+© Secure by Design Inc

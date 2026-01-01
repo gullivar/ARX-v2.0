@@ -1,0 +1,177 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+Show details
+Allow all
+Deny
+Platform
+Data Resilience Platform
+Microsoft 365
+Google Workspace
+Servers
+Endpoints
+Pricing
+Solutions
+Ransomware Recovery
+Device Migration
+Legal Hold
+Disaster Recovery
+Managed File Transfer
+Industries
+Federal
+State and Local
+Higher Ed
+Financial Services
+Research & Development
+Technology & Media
+Business Services
+Biotech
+Resources
+Resources Overview
+Blog
+Glossary
+Security and Compliance
+Company
+About
+Partners
+Find a Partner
+Become a Channel Partner
+Become an Affiliate
+Become an MSP
+Leadership
+Newsroom
+Events
+Careers
+Contact
+Support
+MSPs
+Small Business Solutions
+Watch a Demo
+Get a Quote
+Easy, secure, & cost-effective
+backup and recovery
+Highest rated offering on G2
+Most flexible storage options
+Lowest total cost of ownership
+
+Microsoft 365
+
+Google Workspace
+
+Endpoints
+
+Servers
+
+See a Demo
+
+CrashPlan is a trusted Microsoft Partner, offering Azure-integrated backup solutions tailored to enhance data protection and optimize Office 365 environments. Our partnership ensures seamless compliance, secure storage, and maximized value from your Microsoft investment.
+
+Protecting
+2.2 million
+files around the globe
+Your business thrives on the data you create, and protecting it is crucial.
+
+CrashPlan offers a solid, secure, scalable data resilience platform for endpoints, servers, Microsoft 365, and Google Workspace. Whether you backup to our cloud, your Azure instance, a local destination, or a third-party cloud, CrashPlan restores your data and your peace of mind.
+
+Automatic Data Protection
+
+Cloud backup runs automatically, saving every version and all of your metadata.
+
+Complete security & compliance
+
+256-bit AES encryption in transit and at rest with configurable settings. Plus, all the key data-center compliances and BAA availability to support your regulatory compliance needs.
+
+Unlimited Versioning
+
+Keep as many versions of your files as you want, for as long as you want, without extra cost, by backing up to your unused Azure space. CrashPlan’s unlimited versioning won’t require more storage than necessary. Restore to a specific point in time in just a couple of clicks.
+
+Point-in-Time Recovery
+
+Restore a single file version or all files in just a couple of clicks. Use our algorithm to prioritize restoring your most recently used files first. Plus, restore your data anywhere you need it—whether it’s a new device, a server, or another location entirely.
+
+Benefits Beyond Backup
+
+Enterprise-ready backup enables you to recover from ransomware, seamlessly migrate between devices, and preserve data for legal hold while supporting scalable storage, ensuring compliance, and enabling rapid recovery to meet evolving needs.
+
+Automatic Data Protection
+
+Cloud backup runs automatically, saving every version and all of your metadata.
+
+Complete security & compliance
+
+256-bit AES encryption in transit and at rest with configurable settings. Plus, all the key data-center compliances and BAA availability to support your regulatory compliance needs.
+
+Unlimited Versioning
+
+Keep as many versions of your files as you want, for as long as you want, without extra cost, by backing up to your unused Azure space. CrashPlan’s unlimited versioning won’t require more storage than necessary. Restore to a specific point in time in just a couple of clicks.
+
+Point-in-Time Recovery
+
+Restore a single file version or all files in just a couple of clicks. Use our algorithm to prioritize restoring your most recently used files first. Plus, restore your data anywhere you need it—whether it’s a new device, a server, or another location entirely.
+
+Benefits Beyond Backup
+
+Enterprise-ready backup enables you to recover from ransomware, seamlessly migrate between devices, and preserve data for legal hold while supporting scalable storage, ensuring compliance, and enabling rapid recovery to meet evolving needs.
+
+Learn More
+Safeguard Your Data and Operations
+
+Our platform is more than just backup and recovery; it’s a foundation for your integrated strategy to maintain data security, availability, and compliance in the face of unforeseen business interruptions.
+
+Watch a Demo
+
+Seamless Backup and Recovery Platform Built for Modern Workloads
+Microsoft 365
+
+Secure your business-critical data in the cloud with CrashPlan. Safeguard app data and restore effortlessly with fast, reliable backup for your Exchange Online, SharePoint, OneDrive, and Teams data.
+
+Learn More
+Google Workspace
+
+Break free from Google’s versioning and retention limitations and bolster your data resiliency with CrashPlan. Automatically protect and secure your emails and files in Gmail and Google Drive.
+
+Learn More
+Servers
+
+Protect your Windows server data with CrashPlan’s robust backup solution, ensuring fast recovery from any disruption. Meet regulatory compliance and governance requirements with flexible storage options. Advanced security and scalable storage keep your critical infrastructure resilient and ready.
+
+Learn More
+Endpoints
+
+Secure data across employee devices without disrupting productivity. CrashPlan offers a wealth of options to choose from, including bring-your-own storage, continuous backup, self-serve restore, and enhanced ransomware prevention and recovery.
+
+Learn More
+Product Review
+EXPERT INSIGHTS
+Flexible and Granular
+
+“CrashPlan is a great solution for organizations with upwards of 100 users, that require granular control and detailed backup information, to ensure adherence with regulatory or compliance standards. A standout feature of CrashPlan is its ability to either backup data to CrashPlans’ Azure storage or for the customer to utilise their own storage and backup to AWS, Google or an on-premise server. “
+
+Read the Review
+VP, IT Global Infrastructure Operations and Head of IT Security, Coherent Corporation
+DALE BYNUM
+Truly Enterprise-Class
+
+“Being a Microsoft 365 customer, we were looking for an alternative that would help us leverage the petabytes of OneDrive storage we had at our disposal. Apart from allowing the usage of OneDrive as a backup vault, [CrashPlan] also solved several other issues that we were unable to get addressed with our previous solution. It is truly an enterprise-class product.”
+
+Read the Case Study
+
+Protect the data that matters most.
+
+Lock-in your data so you can always stay moving. We can help.
+
+Get a Personalized Demo
+
+CrashPlan provides cyber-ready data resilience and governance in a single platform for organizations whose ideas power their revenue. With its comprehensive backup and recovery capabilities for data stored on servers, on endpoint devices, and in SaaS applications, CrashPlan’s solutions are trusted by entrepreneurs, professionals, and businesses of all sizes worldwide. From ransomware recovery and breaches to migrations and legal holds, CrashPlan’s suite of products ensures the safety and compliance of your data without disruption.
+
+Sign In
+Careers
+Support
+Platform Products
+Solutions
+Industries
+Company
+Resources
+
+© 2025 CrashPlan® All rights reserved.
+
+Privacy | Legal | Cookie Notice | Free Trial

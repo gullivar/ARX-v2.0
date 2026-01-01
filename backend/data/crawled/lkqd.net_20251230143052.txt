@@ -1,0 +1,133 @@
+Skip to content
+For Buyers
+For Sellers
+Company
+Resources
+Contact
+Login
+
+Performance+ Marketplace formerly PubNative
+
+Turn every tap into potential
+
+Boost impressions and fill rates through a marketplace designed with conversion in mind.
+
+Get Started
+Advanced control and compliance
+
+Don’t get swept up in changing privacy standards and audience expectations.
+
+Scalable and transparent monetization
+Unlock performance ad revenue today
+
+Turn your app into a revenue-generating machine by using Verve’s Performance+ Marketplace for high-impact ads and exclusive data signals.
+
+Get Started
+Related Content
+
+Press
+
+Verve acquires Jun Group to scale premium mobile ads and connected TV for brands and agencies
+Press release: Advertising leader Verve’s latest acquisition, valued $185 million (approx. €170 million), also bolsters digital audio solutions, engaging ad formats, and AI optimization.
+
+Blog
+
+Why efficiency is the new currency of programmatic
+With programmatic advertising we built a system that can make millions of decisions per second, yet sometimes lost half the budget along the way. Billions of auctions are processed each day across mobile, CTV, and digital out-of-home, making it possible for brands to reach audiences with a speed and breadth that traditional channels could never match. Industry-leading DSPs such as Google Display & Video 360 (DV360), The Trade Desk, and Amazon DSP are estimated to average between 500,000 and 3,000,000 QPS, especially during periods of peak global traffic. Yes, programmatic advertising has delivered extraordinary scale. But beneath this achievement lies a paradox: scale has outpaced efficiency. Too many supply paths exist between buyer and seller, with opaque fees and hidden markups draining budgets. Latency clogs transaction chains, slowing decision-making. Identity gaps and fragmented signals lead to wasted impressions that erode trust. For advertisers, the consequences are clear. ROI weakens as campaigns struggle to land with the right audiences. Trust frays in a marketplace where money vanishes into black boxes of intermediaries and fees. Even sustainability is at stake, as redundant processes and wasted impressions consume energy and resources without creating value. But there’s good news: According to the latest ANA Programmatic Transparency Benchmark (Q3 2025), advertisers are now seeing far more of their budgets reach working media than in previous years. Median “TrueAdSpend” — the share of spend that successfully reaches high-quality, measurable, non-fraudulent impressions — has risen dramatically, from 51.4% in Q2 to 68.8% in Q3 2025. That means nearly 7 out of every 10 dollars now reach consumers and publishers, a major improvement compared to the 2023 ANA study, where only 36% of spend reached working media. However, despite this progress, the report shows that 31.2% of spend is still lost to inefficiencies such as non-measurable impressions, non-viewable inventory, IVT, and MFA exposure. This means that nearly one-third of the programmatic supply chain remains optimization-ready. What efficiency really means in programmatic Efficiency in digital advertising is multi-dimensional. It is not only about speed or cost reduction, but about minimizing waste and maximizing value at every step of the chain. At its core lies price efficiency: transparent auctions where spend flows to working media instead of disappearing into layers of arbitrage. When pricing is clear and fair, advertisers avoid overpayment, and publishers retain more of every dollar invested. Additionally, inaccurate or missing information about ad placements often leads to inflated pricing, which in turn impacts ROI. Bid efficiency is equally vital. In a world where billions of auctions are decided in milliseconds, the ability to make fast, accurate decisions without being slowed down by redundant requests is paramount. Reduced latency and streamlined auction logic don’t just improve performance, they ensure that buyers are competing on quality rather than noise. Targeting efficiency is another cornerstone. As the industry grapples with the loss of third-party cookies and shifting privacy regimes, clean data, intelligent audience cohorts, and contextual relevance become essential. Wasted impressions are reduced when campaigns reach the right people, at the right time, in the right environment, while publishers benefit from stronger yields. Then there is supply-path efficiency, which addresses one of the most pressing challenges in programmatic today: the bloated, opaque journey from publisher to buyer. Direct paths reduce cost, increase transparency, and give advertisers confidence that their spend is flowing to high-quality inventory. Operational efficiency underpins it all. Programmatic at scale requires infrastructure capable of processing billions of requests daily. Systems must be low-latency, reliable, and resilient, but also sustainable, minimizing wasted compute and energy in alignment with broader cost and environmental goals. Finally, reporting, attribution, and trust close the loop. Without accurate measurement, advertisers cannot optimize or hold partners accountable. Fraud prevention, brand safety standards, and viewability controls ensure that impressions are not wasted in unsafe or invisible environments, reinforcing trust across the ecosystem. The various kinds of efficiency mentioned before can’t simply be layered onto the programmatic ecosystem. It must be built into it. That requires modern infrastructure, smarter intelligence, and cleaner, more transparent supply paths working together. The capabilities below show how efficiency can be engineered into the foundation of programmatic. Enabling capabilities and technology 1. Modern architecture built for speed and stability It begins with architecture. Legacy systems designed for volume alone are no longer enough. What’s needed is modular, microservices-based infrastructure supported by edge servers and fast global data centers, so that auctions can be executed with minimal latency and maximum reliability. 2. Intelligence as the new optimization layer On top of this foundation sits intelligence. Machine learning and predictive modeling now underpin the most advanced exchanges, offering price guidance, and win-rate estimation that help advertisers avoid overpayment. At Verve, we dedicate efforts on signal enrichment and identity capabilities that are equally critical. As third-party cookies disappear and privacy regulation tightens, the ability to resolve identity in a clean, compliant way has become a competitive necessity. 3. Addressability through AI: Verve’s audience intelligence engine Our audience intelligence engine is an example of how these principles can be applied at scale. By orchestrating addressability across both ID and ID-less environments, the engine blends traditional identifiers with AI-driven contextual and on-device signals to ensure audiences can be discovered and extended without sacrificing transparency or compliance. Advertisers retain the predictability of ID-based buying while also unlocking the scale of ID-less buying across screens, from mobile to CTV and beyond. 4. Radical transparency through supply path signals Transparency also plays a pivotal role. The Schain object, combined with ads.txt / app-ads.txt and sellers.json, makes it possible for advertisers to see every entity participating in the supply path. This gives buyers the ability to evaluate which paths deliver value and which do not, and adjust accordingly. This level of clarity is foundational to eliminating hidden inefficiencies. 5. Traffic shaping & request filtering for a cleaner supply chain Another critical capability lies in traffic shaping and request filtering. Today’s programmatic pipes are flooded with redundant or low-value bid requests, each one driving up infrastructure costs and slowing down decision-making. By...
+
+Blog
+
+Everyone sells premium media. Almost none can prove it.
+Learn the real, measurable attributes that determine true supply quality and how buyers can stop overpaying for commodity inventory.
+
+Blog
+
+AI anxiety is reshaping consumer trust in apps
+AI privacy concerns are rising in 2025. See what 4,000 consumers reveal about trust, transparency, and how users want their data handled.
+
+Press
+
+Black Friday is worth it – just not on Black Friday
+Proprietary Verve data shows that real opportunities don’t just sit on Black Friday itself but show up in the quieter moments around it. From shifting engagement patterns to smarter in-app strategies and privacy-ready targeting, here's how brands can use data-driven signals to reach German consumers when they’re most receptive, not just when the industry gets the loudest.
+
+Blog
+
+How different generations view user data privacy
+How do different age groups feel about data privacy, targeted ads, and AI? Our survey of 4,000 users reveals surprising generational divides.
+
+Blog
+
+Publishers need partners, not pipes, to be premium
+A strategic monetization platform can boost revenue by enhancing inventory quality, guiding strategy, and driving premium brand demand.
+
+Blog
+
+The Personalization-Privacy Paradox: What 4,000 users told us about ads
+Explore the personalization–privacy paradox shaping digital ads in 2025, based on insights from 4,000 US and UK consumers.
+
+Press
+
+Beyond the Hype: Why on-device AI is ad tech’s untapped frontier for publishers
+Much of the AI hype in adtech centers on the buy-side, but there are many quieter, equally important opportunities on the sell-side.
+
+Blog
+
+Contextual, redefined: Why AI makes it a performance play, not a privacy fallback
+For years, contextual advertising was treated as a secondary signal. In mobile, it usually meant broad associations – targeting by app categories or genres – and while it served a role in brand safety and compliance, it was never considered precise enough to drive performance on its own when device IDs and behavioral profiles were available. That perception is changing, as app marketers now need to prove ROAS in an environment where traditional user identifiers – once the backbone of attribution and targeting – are either restricted or set to face increasing limitations. Apple’s ATT has already redrawn the rules of user-level targeting, while Google continues to iterate on learnings from Privacy Sandbox for Android, and privacy frameworks like GDPR continue to limit how personal data can be shared. These aren’t just privacy changes; they’re redefining what performance itself is built on. The limits of behavioral targeting Behavioral targeting grows on the back of large-scale data collection, often tracking people across apps and websites without clear visibility or consent. Profiles are stitched together and sold into the market, creating an ecosystem that feels intrusive and opaque. Regulators have stepped in to curb practices that put personal data at risk, and platforms are following suit to align with both legal requirements and shifting consumer expectations. Identifiers may be slowly fading, but the deeper issue is that the models rely on tracking and data sharing at a scale regulators and consumers are increasingly unwilling to accept. GDPR fines have already exceeded €5.6 billion since 2018, while Apple’s ATT has pushed opt-in rates down to around 15%. At the same time, surveys consistently show that vast majority of consumers want greater transparency into how their personal data is used (97% in this survey of 4,000), yet their sense of control over it is slipping (65% in 2025, down from 68% a year prior). But the real shift goes beyond privacy. Behavioral is losing the very rationale that made it indispensable: performance no longer requires building profiles at scale. Advances in AI now allow contextual to deliver similar precision and outcomes, with the added benefit of aligning with the privacy standards regulators and consumers expect. Recent Dataseat (part of Verve) campaigns’ outcomes show that contextual-first approaches have achieved better ROAS vs. targets on iOS and Android, with significant CPI/CPA reductions – across verticals such as retail, fintech, and gaming – proving that efficiency and scale no longer rely on identity-based targeting. AI and the evolution of contextual As with many other areas of advertising, contextual targeting is being reshaped by AI. At the bidding stage, models can evaluate impressions across multiple contextual signals – session information, placement type, device model, creative match – rather than relying solely on static labels or broad categories. This allows bids to reflect the environments most likely to convert and continuously learn which contexts drive outcomes. The same logic now feeds into campaign setup. Deep-learning recommendation systems analyse historical performance to build refined whitelists and targeting strategies. By fusing semantic, visual, and structural signals, these models infer relevance across multiple layers and construct a richer understanding of each environment. Within DSPs like Dataseat, this contextual intelligence blends internal auction data with external app-classification datasets to surface high-performing inventory and uncover expansion opportunities with similar attributes. The heaviest computation happens offline, where classical machine learning (ML) models run alongside generative and agent-based systems. These ensembles merge fragmented datasets – SKAN postbacks, publisher reports, auction logs – and combine contextual signals to predict outcomes with greater accuracy. They also run scenario simulations that expose inefficiencies, such as supply paths that inflate CPMs without lifting performance, and surface optimization patterns that guide more efficient spend. Some of this intelligence is already moving on-device. Lightweight neural networks now process interaction signals locally – session depth, placement engagement, sensor inputs – turning them into privacy-safe features in real time. Modeling on the handset allows auctions to use these scores directly, letting contextual systems assess inventory through live indicators of receptivity rather than static metadata – a step toward moment-based prediction within ATT/SKAN limits. Together, these layers make contextual a system that doesn’t just describe environments but drives outcomes. For UA teams, the benefit is clear: campaigns reach efficiency faster, more inventory becomes viable, and budgets scale within CPI goals – all without relying on user IDs. Takeaways for UA teams This shift matters now because it defines what UA teams can still count on. Profiles built on IDs are eroding – not gone, but shrinking, fragmented, and increasingly unreliable as a foundation for scale. Contextual, once dismissed as too blunt, is now the system where AI can make the biggest difference: converting noisy, privacy-constrained signals into predictive intelligence that actually drives spend decisions. The result is practical, not theoretical. Campaigns that used to take weeks of testing now reach efficiency faster. Inventory once written off as “untargetable” becomes usable supply. And marketers can hit their CPI or ROAS goals without building on sand. That’s the real change: contextual has moved from a privacy fallback to the performance layer UA teams can build growth on with confidence.
+Visit Integration Center
+
+Subscribe to stay in the know
+
+Subscribe
+
+For Buyers
+
+Brand+ Marketplace
+Performance+ Marketplace
+Mobile user acquisition
+Contextual web
+Demand side platform
+
+For Sellers
+
+Brand+ Marketplace
+Performance+ Marketplace
+Mobile user acquisition
+Mobile cohort
+Integration center
+
+Resources
+
+Blog
+Case Studies
+Investors
+Studio gamigo
+Contact
+
+Dev Docs
+
+PubNative
+VGI/CTV LKQD
+Smaato
+
+Legal
+
+Imprint
+Product Privacy Policy
+Website Privacy Policy
+Demand Content Guidelines
+Publisher Content Guidelines
+Data Safety Guidance
+EU Applicant Privacy Policy
+California Applicant Privacy Notice
+Cookie Policy
+Virtual Patent Marking
+Your Privacy Choices
+
+© 2025 Verve Group, Inc. VERVE, VERVE GROUP and VERVE ATOM are registered trademarks of Verve Group, Inc. in the European Union, and/or U.S.A. and other countries.
+
+All other trademarks are properties of their respective owners. All rights reserved.
+
+To give you the best possible experience on our website, we use cookies and comparable technologies. Mandatory cookies are needed for the functionality of the site; other cookies are used for performance and marketing purposes. Among the providers that set other cookies on our site is Google Ireland Ltd. ("Google"). Google is based in the USA and processes the personal data collected there. By clicking on "Allow all cookies (including from US providers)", you also expressly consent to the processing of your data in the USA in accordance with Art. 49 Para. 1 S.1 lit. a) of the General Data Protection Regulation (GDPR). Under the item "Cookie Settings" you can, among other things, specifically set whether you allow the transfer of data to companies in the USA. For more information about cookies and the processing of personal data, please see ourCookie Policy
+Cookies Settings
+Reject All Accept All

@@ -1,0 +1,56 @@
+Access Denied
+
+Ray ID: 9b6e866a49a6e879
+
+There are a number of reasons this could be happening
+VPN
+
+If you’re using a Virtual Private Network (VPN) like the Avast Browser, NordVPN, ExpressVPN, IPVanish, TunnelBear, VyprVPN, HMA!, Zenmate, PureVPN, or Puffin, please completely disable your software, wait 1 minute, then reload this page.
+NOTE:
+VPNs interfere with cash back tracking. They must be completely disabled.
+
+Ad Blocker
+
+You’re using ad-blocking software like Avast, Adblock, AdGuard, Opera, Proper or Ghostery. Please completely disable this as whitelisting CouponCabin.com won't work.
+NOTE:
+Ad blockers interfere with cash back tracking. They must be completely disabled.
+
+Malicious Browser Extension
+
+You have a browser extension/add-on installed which is tracking, collecting and/or selling your browsing data (e.g., Honey, WikiBuy, Rakuten Button). If you have an untrusted extension/add-on, please try disabling it and then reloading this page.
+
+Private Browser
+
+You're using a private browser like Avast, Tor, Brave, DuckDuckGo, Vivaldi or Opera. We recommend using a traditional web browser like Chrome, Firefox, Edge or Safari.
+
+NOTE:
+Private browsers interfere with cash back tracking. They may not be used.
+
+Outdated Web Browser
+
+The web browser you're using is outdated. Please make sure your browser is up to date in that it has been updated/released within the last year.
+
+Firewall
+
+You’re using a firewall, anti-virus software or have third party cookies disabled. If using Avast, disable “Block ad tracking by default” and turn off “Anti-banner” in Kaspersky. If other, please completely disable it.
+
+Cookies Disabled
+
+Third party cookies have been disabled on your browser. All browser cookies must be fully enabled in order for cash back to track. Without these cookies, CouponCabin will not receive its commission which is necessary to award cash back.
+
+Violated Terms
+
+You have violated one or more of CouponCabin's Terms and Conditions.
+
+Suspicious Behavior
+
+Your access has been permanently suspended due to previously detected malicious behavior from the network you’re using.
+
+Coupon Scraping
+
+You’re working for a competing coupon site and are here to grab our coupons. While this is illegal and can result in criminal and civil penalties, your cooperation may make you eligible for up to a US$50,000 reward.
+
+Contact Us to learn more about this reward
+If none of the above apply and you think you have been inadvertently restricted, let us know.
+
+Ray ID: 9b6e866a49a6e879  |  Your IP: 221.138.189.189  |  Terms & Conditions  |  Privacy Policy

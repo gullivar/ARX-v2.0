@@ -1,0 +1,302 @@
+Deploy AMD MI355X GPUs at Vultr now.
+
+Deploy now
+Products
+Features
+Marketplace
+Pricing
+Partners
+Company
+The AI-first Global Cloud Platform
+
+Global, automated cloud infrastructure from the broadest array of AMD and NVIDIA GPUs to virtual CPUs, bare metal, Kubernetes, storage, and networking solutions.
+
+Deploy in seconds
+ I agree to the Terms of Service and the Privacy Policy.
+Create free account
+OR
+GitHub
+Google
+Already a member? Log In
+ANNOUNCEMENT
+Introducing New Vultr VX1™ Compute Plans
+
+Learn more
+
+NVIDIA Cloud GPU
+
+NVIDIA HGX B200 starting at $2.890/GPU/hour
+
+View all NVIDIA GPU plans
+
+AMD Cloud GPU
+
+AMD Instinct MI355X starting at $2.290/GPU/hour
+
+View all AMD GPU plans
+
+VX1™ Cloud Compute
+
+Unmatched price-to-performance for enterprise workloads, powered by AMD EPYC™ CPUs
+
+Starting at $0.06/hour
+
+Optimized
+Cloud Compute
+
+No noisy neighbors on these powerful VMs with build-in NVMe SSD
+
+Starting at $28.00/month
+
+Cloud Compute
+
+Easy-to-use, affordable VMs for many common workloads
+
+Starting at $2.50/month
+
+Bare Metal
+
+Fully automated dedicated servers with zero virtualization layer
+
+Starting at $120.00/month
+
+Next-generation AI infrastructure
+AMD Instinct GPUs
+NVIDIA GPUs
+Cloud Compute
+AMD Instinct™ MI355X
+
+Providing exceptional acceleration with breakthrough memory capacity and memory bandwidth.
+
+Pricing starts at $2.290/GPU/hr
+
+AMD Instinct™ MI325X
+
+Setting new standards in HPC, AI training, and deployments with inference-optimized acceleration and efficiency.
+
+Pricing starts at $2.000/GPU/hr
+
+AMD Instinct™ MI300X
+
+Delivering powerful and efficient AI and HPC deployments with exceptional performance and inference-optimized acceleration.
+
+Pricing starts at $1.850/GPU/hr
+
+Vultr Agent
+
+Meet Your Cloud Intelligence
+
+Streamline your Vultr experience with AI Powered Assistance and intuitive cloud resource composition. Vultr Agent lets you chat with our docs to explore products and use Agent Compose to build infrastructure and get instant pricing.
+
+Get instant pricing 
+Develop locally,
+deploy globally®
+
+32 Global Data Center Regions
+
+17
+regions
+Explore regions
+SOC 2+ (HIPAA)
+PCI (Merchant)
+CSA Star Level 1
+ISO/IEC 20000-1:2018
+ISO/IEC 27001:2022
+ISO/IEC 27017:2015
+ISO/IEC 27018:2019
+The trusted cloud
+infrastructure for
+security and
+compliance
+Explore our certifications and compliance roadmap 
+Discover applications and services for your business in Vultr Marketplace
+
+Harness a wide variety of plug-and-play SaaS applications to make developing and deploying your cloud applications easier.
+
+Latest
+AI/ML
+Most Popular
+SigNoz
+By SigNoz
+Immich
+By FUTO
+Dradis Framework
+By Dradis
+Vultr Open Cluster Manager
+By vultr-labs
+Octelium
+By octelium
+Technitium DNS Server
+By RIADVICE
+SWPanel
+By swpanel
+Semaphore UI
+By semaphore
+View All
+
+“Athos is committed to providing precisiontherapeutics for patients with autoimmune diseases and cancer. The combination of Vultr Cloud GPU, powered by NVIDIA, and Dell infrastructure enables us to achieve our aims.”
+
+Dimitrios Iliopoulos, PhD MBA, President and CEO at Athos
+
+Read the full story
+
+“Other providers promised high-performance AI inference, but consistently fell short. Vultr not only met our 150+ RPS target per customer, they did it with transparency and reliability.”
+
+Geno Valente, Head of Go-to-Market and Engineering at LiquidMetal
+
+Read the full story
+
+“Vultr has been more than just a cloud provider for us – they’ve been a true innovation partner. Their HIPAA-compliant solutions and scalable infrastructure have allowed us to focus on what matters most: making healthcare more accessible and user-friendly for everyone.”
+
+Simon Greenberg, Product Manager, Medidex
+
+Read the full story
+Vultr Cloud Alliance: Your gateway to Vultr partnerships and solutions
+
+Optimize cloud solutions with top-tier services and global infrastructure.
+
+AMD
+Learn more
+Backblaze
+Learn more
+Baseten
+Learn more
+Canopy
+Learn more
+Clarifai
+Learn more
+Cloud 66
+Learn more
+Console Connect
+Learn more
+Cycle
+Learn more
+DDN
+Learn more
+Digital Realty
+Learn more
+Domino Data Lab
+Learn more
+dstack
+Learn more
+Fluidcloud
+Learn more
+Koyeb
+Learn more
+Laravel
+Learn more
+Megaport
+Learn more
+Nestify.io
+Learn more
+NetApp
+Learn more
+Parallel Works
+Learn more
+Qdrant
+Learn more
+Run:ai
+Learn more
+Signiant
+Learn more
+SQream
+Learn more
+Virtuozzo
+Learn more
+WPMU DEV
+Learn more
+Yext
+Learn more
+Zeet
+Learn more
+Latest Vultr resources
+How to Migrate Workloads from Equinix Metal to Vultr Bare Metal
+
+Read whitepaper 
+
+2025 IDC Report: Beyond the Hyperscalers
+
+Read the report 
+
+Omdia Global Cloud Service Providers 2025
+
+Read the report 
+
+AI, GPU Clouds, and Alternative Clouds in the Age of Inference
+
+Read the report 
+
+Discover more 
+Insights
+FAQ
+Documentation
+Server Status
+Vultr APIs
+Vultr Cloud Accelerated by NVIDIA HGX B200 | Vultr Blogs
+
+At Vultr, we're committed to delivering cutting-edge cloud infrastrucutre to meet the growing demands of our customers. As AI advances, with larger models requiring greater...
+
+
+Over Cloud
+Servers Launched
+Products
+Cloud Compute
+Cloud GPU
+Bare Metal
+File System
+Object Storage
+Block Storage
+Managed Databases
+CDN
+Serverless
+Kubernetes
+Container Registry
+Direct Connect
+Load Balancers
+Features
+Locations
+Advanced Network
+Control Panel
+Operating Systems
+Upload ISO
+Solutions
+Industry Cloud
+One-Click Deployment
+Use Cases
+Marketplace
+Browse Apps
+Become a Vendor
+Resources
+FAQ
+Developers / APIs
+Vultr Docs
+Server Status
+Bug Bounty
+Promotions
+Solution Partners
+Start-Up Programs
+Company
+Our Team
+News
+Brand Assets
+Referral Program
+Creator Program
+Careers
+SLA
+Legal
+Vultr Trust Center
+Contact
+Your Privacy Choices
+Subprocessors
+Accessibility
+Contact Sales
+Log in
+Sign up
+     
+
+© Vultr 2025 | VULTR is a registered trademark of The Constant Company, LLC.
+
+Terms of Service
+AUP/DMCA
+Privacy Policy
+Cookie Policy

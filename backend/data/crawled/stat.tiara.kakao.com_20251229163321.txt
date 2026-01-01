@@ -1,0 +1,1 @@
+{"timestamp":1766993599616,"path":"/","status":400,"error":"Bad Request","message":"java.lang.Exception: "}

@@ -1,0 +1,266 @@
+주 콘텐츠로 건너뛰기
+Microsoft
+Power Platform
+Power Apps Power Platform 정보 제품 가격 책정 파트너 리소스
+지금 구입하기무료로 시작로그인
+
+에이전트와 다시 구성된 거버넌스를 통해 지능형 앱 개발의 새로운 시대로 들어가세요.
+
+블로그 읽기
+Power Apps
+AI가 포함된 앱을 제공하여 레거시 애플리케이션 및 시스템을 빠르게 현대화하세요.
+테이블, 스케치, 문장 또는 사용자 고유의 코드에서 시작하고 원하는 방식으로 솔루션을 빌드하세요.
+무료로 체험하기
+둘러보기
+기능
+사용 사례
+분석가 보고서
+가격 책정
+솔루션
+파트너
+고객 스토리
+리소스
+FAQ
+로그인
+무료로 체험하기
+기능
+전문 솔루션 빌드
+AI 기반 개발
+AI가 포함된 애플리케이션
+엔터프라이즈급 거버넌스
+사용자 지정 코드 개발
+연결된 보안 데이터
+강력한 모바일 앱
+Copilot 시작
+원하는 앱을 설명하면 AI가 앱 디자인을 도와줍니다. Power Apps의 Copilot을 사용하여 편집하고, 자동화를 추가하고, 코드를 작성하세요.
+데이터 모델 만들기 및 편집
+AI 제안으로 빌드
+처음부터 시작
+개발 간소화
+탭으로 돌아가기
+사용 사례
+비즈니스 문제 해결
+재무
+모든 데이터 원본에서 시작하거나 단순히 데이터를 설명하여 예산, 예측 및 보고서를 빠르게 개발합니다.
+영업 및 마케팅
+서로 다른 시스템을 연결하여 제품 정보 및 판매 도구에 대한 인스턴트 알림을 제공하고 이러한 항목에 모바일에서 액세스할 수 있도록 합니다.
+인사 관리
+직원이 연결 상태를 유지하고, 데이터를 추적하고, 정보를 공유하고, 조치를 취하는 데 손쉽게 도움을 받을 수 있는 앱을 빌드합니다.
+작업
+감사 프로세스를 혁신하고, 재고 관리를 현대화하고, 파견 비용을 절감하세요.
+최전방 직원
+작업자와 관리자에게 데스크톱, 모바일 또는 공유 디바이스 또는 Microsoft Teams에서 효율성을 높이는 데 필요한 앱을 제공합니다.
+더 적은 코드로 실제 결과 도출 
+Microsoft Power Apps이 비즈니스 가치, 개발자 효율성 및 최종 사용자 생산성을 어떻게 추진하는지 알아보세요.
+Forrester 조사 결과 읽기
+50%
+Power Apps를 사용하여 앱 개발 시간 단축1
+206%
+3년간 프리미엄 Power Apps의 ROI1
+<6
+투자 회수 기간(개월)각주 11
+분석가 보고서
+업계 최고 분석가로부터 받은 인정 
+Microsoft가 The Forrester Wave™: 전문가 개발자를 위한 로우 코드 개발 플랫폼, 2023년 2분기.2
+보고서 읽기
+탭으로 돌아가기
+가격 책정
+Power Apps 가격
+가격 세부 정보 보기
+개발자 플랜
+프로덕션 환경으로 이동하기 전에 실험할 세 가지 환경에서 무제한 앱을 빌드하고 테스트합니다.
+무료
+무료로 체험하기
+Power Apps Premium
+라이선스가 있는 사용자가 애플리케이션을 무제한으로 빌드, 현대화, 배포 및 실행할 수 있습니다.      
+₩27,000
+사용자/월, 연간 결제
+가격에는 부가가치세가 포함되어 있지 않습니다.
+지금 구입하기
+솔루션
+단독으로 사용해도 강력하지만, 함께 사용하면 더욱 강력한 성능
+슬라이드 {0} {1} 표시기
+이전 슬라이드
+다음 슬라이드
+Power Apps 및 Azure
+전문 개발 가속화
+사용자 지정 코드 개발자가 애플리케이션에 대해 빠르고 반응성이 뛰어난 사용자 인터페이스를 빌드하고 배포할 수 있습니다.
+자세한 정보
+Power Apps 및 Teams
+작업 공간 생산성 향상
+Microsoft Teams를 통해 작업 흐름으로 Power Apps를 가져옵니다.
+자세한 정보
+Power Apps 및 SAP
+SAP 애플리케이션 변환
+로우코드 솔루션 및 확장성을 위해 SAP 데이터 및 워크플로에 Microsoft Power Platform을 연결합니다.
+자세한 정보
+Power Apps 및 Dynamics 365
+고객, 제품 및 앱 연결
+Power Platform 및 Dynamics 365를 사용하여 비즈니스 성과 및 고객 참여를 최적화합니다.
+자세히 알아보기
+솔루션 캐러셀 섹션으로 돌아가기
+파트너
+Power Apps 파트너로부터 전문가 도움 받기
+로우코드 웹 사이트 개발에서 서비스 공급자의 Microsoft 파트너 에코시스템을 활용하세요.
+파트너 찾기
+파트너 되기
+고객 스토리
+회사에서 Power Apps를 사용하는 방식
+Accenture에서는 매월 200,000명 이상의 사용자가 Microsoft Power Platform을 기반으로 빌드된 앱을 사용합니다.
+ $6M
+연간 절감 효과
+50,000
+새롭게 숙련된 로우코드 개발자
+Power Apps
+Power Automate
+사례 읽기
+모든 사례 읽기
+HSBC는 새로운 혁신을 추진하기 위해 로우코드 접근 방식을 취하고 있습니다.
+117,000
+매년 절약된 시간
+50%
+절약 달성
+90일 동안 11개 지역/국가에서 Power Platform에서 개발된 대출 솔루션 배포 후
+Power Apps
+사례 읽기
+모든 사례 읽기
+T-Mobile은 고객 이니셔티브를 관리하는 솔루션으로 상당한 시간과 비용을 절약합니다.
+$4M
+단일 앱으로 저장됨
+97,000
+절약된 시간
+Power Apps
+사례 읽기
+모든 사례 읽기
+VITAS Healthcare는 앱 제품군을 사용하여 환자 치료를 개선하고 백만 장의 종이를 절약합니다.
+100,000
+매년 절약된 시간
+100만
+저장된 종이
+Power Apps
+Power Automate
+사례 읽기
+모든 사례 읽기
+고객 사례 캐러셀 섹션으로 돌아가기
+리소스
+뉴스, 교육 및 지원 살펴보기
+추천 뉴스
+학습
+전자책 및 백서
+지원 및 피드백
+커뮤니티
+블로그
+블로그에서 최신 업데이트 받기
+최신 제품, 커뮤니티 및 학습 업데이트에 대한 Power Apps 블로그를 읽어보세요.
+블로그 읽기
+이벤트
+Microsoft Ignite의 최신 소식 보기
+2024 이벤트의 하이라이트 및 세션을 확인하고, 예정된 이벤트에 대한 알림을 받으려면 등록하세요.
+지금 보기
+탭으로 돌아가기
+자주 묻는 질문
+모두 확장
+모두 축소
+01/
+Power Apps 비용은 얼마인가요?
+02/
+앱을 빌드하려면 유료 라이선스가 필요한가요?
+03/
+최신 뉴스를 계속 받아 보려면 어떻게 해야 하나요?
+04/
+데이터는 Power Apps에 어떻게 저장되나요?
+05/
+로우코드는 섀도 IT를 활성화하고 보안 및 거버넌스 문제를 도입하나요?
+06/
+로우코드 개발이 전문 개발자를 대체하나요?
+다음 단계 수행
+Power Apps를 사용하여 무료로 빌드 시작
+무료 개발자 계정으로 빌드하고 테스트합니다. 상상하고 설명한 다음 Power Apps에서 Copilot을 사용하여 앱이 빌드되는 모습을 보세요.
+무료 체험
+연락 요청하기
+영업일 기준 2일 이내에 Microsoft 전문가 또는 파트너에게 연락 요청을 제출하세요.
+요청 보내기
+[1]
+The Total Economic Impact™ Of Microsoft Power Apps - Forrester Consulting이 실시한 위탁 연구, 2024년 7월.
+[2]
+The Forrester WaveTM: 전문가 개발자를 위한 로우 코드 개발 플랫폼, 2023년 2분기, John Bratincevic, Chris Bratincevic, Chris David, David Mooter, Andrew Andrew, Devin Burerson, Sarah Morana, Chris Analyticig, 2023년 6월 19일.
+[3]
+
+Gartner, Magic Quadrant for Enterprise Low-Code Application Platforms, Oleksandr Matvitskyy, Kimihiko Iijima, Mike West, Kyle Davis, Akash Jain, Paul Vincent, 2024년 10월 16일.
+
+ 
+
+Gartner는 미국 및 기타 국가에서 Gartner, Inc. 및/또는 해당 계열사의 등록 상표 및 서비스 표시이며, Magic Quadrant는 Gartner, Inc. 및/또는 해당 계열사의 등록 상표이고, 허가받아 여기에 사용되었습니다. All rights reserved.  
+
+ 
+
+Gartner는 연구 간행물에 등장하는 공급업체, 제품 또는 서비스를 보증하지 않으며, 기술 사용자들에게 점수가 가장 높거나 그 밖의 평가 기준을 갖는 공급업체만 선택하도록 종용하지 않습니다. Gartner 연구 간행물에는 Gartner 연구 조직의 의견이 반영되어 있으며, 이를 사실에 대한 진술로 해석해서는 안 됩니다. Gartner는 본 연구와 관련하여 상업성 또는 특정 목적에의 적합성에 대한 보증을 비롯해 모든 명시적 또는 묵시적 보증을 부인합니다.
+
+Power Platform 팔로우  
+새로운 기능
+Surface Pro
+Surface Laptop
+조직용 Copilot
+개인 사용자용 Copilot
+Microsoft 365
+Microsoft 제품 살펴보기
+Windows 11 앱
+Microsoft Store
+계정 프로필
+다운로드 센터
+Microsoft Store 지원
+반품/환불
+주문 조회
+교육
+Microsoft Education
+교육용 장치
+교육용 Microsoft Teams
+Microsoft 365 Education
+Office Education
+교육자 트레이닝 및 개발
+학생 및 학부모용 특가 혜택
+Azure for students
+기업 고객
+Microsoft Cloud
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft 365 Copilot
+Microsoft Teams
+개발자 및 IT
+Microsoft 개발자
+Microsoft Learn
+AI 마켓플레이스 앱 지원
+Microsoft Tech 커뮤니티
+Microsoft Marketplace
+Microsoft Power Platform
+Visual Studio
+회사
+채용 정보
+Microsoft 정보
+회사 뉴스
+Microsoft 개인 정보 보호
+투자자
+지속 가능성
+한국어(대한민국)
+개인 정보 선택 사항
+소비자 상태 개인정보처리방침
+Microsoft에 문의 개인정보처리방침 및 위치정보이용약관 사용약관 상표 광고 정보 © Microsoft 2025
+
+한국마이크로소프트(유)
+
+대표이사: 조원우
+
+주소: (우)110-150 서울 종로구 종로1길 50 더 케이트윈타워 A동 12층
+
+전화번호: 02-531-4500, 메일: ms-korea@microsoft.com
+
+사업자등록번호: 120-81-05948 사업자정보확인
+
+호스팅서비스 제공자: Microsoft Corporation
+
+통신판매신고: 제2013-서울종로-1009호
+
+사이버몰의 이용약관: Microsoft Store 판매 약관

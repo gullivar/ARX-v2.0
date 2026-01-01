@@ -1,0 +1,223 @@
+Universe Today
+Home
+Videos
+Podcast
+Newsletter
+Join the Club
+RSS Feed
+A Pioneering Study Assesses the Likelihood of Asteroid Mining
+By Matthew Williams - December 29, 2025 11:14 PM UTC | Space Exploration
+A team led by the Institute of Space Sciences (ICE-CSIC) analyzed samples of C-type asteroids in a recent study. Their findings support the idea that these asteroids can serve as a crucial source of materials if and when asteroid mining is realized.
+Continue reading
+Why Supermassive Black Holes Turn Down Feasts
+By Mark Thompson - December 29, 2025 10:46 PM UTC | Black Holes
+Supermassive black holes have a reputation for devouring everything in sight, but new observations from the Atacama Large Millimetre/submillimetre Array reveal they can be surprisingly picky eaters. Even when galaxy mergers deliver enormous amounts of cold molecular gas directly to a black hole’s doorstep, many choose to nibble rather than gorge raising questions about what triggers feeding episodes. The discovery suggests black hole growth during galaxy collisions may be far more inefficient and episodic than we previously thought.
+Continue reading
+The Origami Wheel That Could Explore Lunar Caves
+By Mark Thompson - December 29, 2025 06:58 AM UTC | Planetary Science
+A joint research team from South Korea has developed a fascinating wheel inspired by origami and Da Vinci bridge principles that could unlock access to the Moon’s most dangerous and scientifically useful terrain. The wheel expands from 230 mm to 500 mm in diameter on demand, allowing small rovers to navigate steep lunar pits and lava tube entrances that would trap conventional vehicles.
+Continue reading
+Hubble Reveals Chaos in the Largest Planet Nursery Ever Seen
+By Mark Thompson - December 29, 2025 06:02 AM UTC | Exoplanets
+Astronomers using the Hubble Space Telescope have discovered the largest planet forming disk ever observed around a young star, stretching nearly 40 times the diameter of our Solar System. Nicknamed “Dracula’s Chivito” for its hamburger like appearance when viewed edge on, this massive disk reveals an unexpectedly chaotic and asymmetric structure with wisps of material extending far above and below its central plane. The discovery offers an unprecedented window into how planets might form in extreme environments, challenging previous assumptions about the orderly nature of planetary nurseries.
+Continue reading
+Rethinking How We End A Satellite's Mission
+By Andy Tomaswick - December 28, 2025 03:38 PM UTC | Space Policy
+At the end of their lives, most satellites fall to their death. Many of the smaller ones, including most of those going up as part of the “mega-constellations” currently under construction, are intended to burn up in the atmosphere. This Design for Demise (D4D) principle has unintended consequences, according to a paper by Antoinette Ott and Christophe Bonnal, both of whom work for MaiaSpace, a company designing reusable launch vehicles for the small satellite market.
+Continue reading
+NASA’s SPHEREx Observatory Completes Its First Map of the Cosmos in 102 Infrared Wavelengths
+By Matthew Williams - December 27, 2025 09:37 PM UTC | Observing
+Launched in March, NASA’s SPHEREx space telescope has completed its first infrared map of the entire sky in 102 colors. This map will enable 3D distance measurements to other galaxies and allow astronomers to measure the influence of Cosmic Inflation on the large-scale structure of the Universe.
+Continue reading
+Turning Structural Failure into Propulsion
+By Andy Tomaswick - December 27, 2025 11:43 AM UTC | Space Exploration
+Solar sails have some major advantages over traditional propulsion methods - most notably they don’t use any propellant. But, how exactly do they turn? In traditional sailing, a ship’s captain can simply adjust the angle of the sail itself to catch the wind at a different angle. But they also have the added advantage of a rudder, which doesn’t work when sailing on light. This has been a long-standing challenge, but a new paper available in pre-print from arXiv, by Gulzhan Aldan and Igor Bargatin at the University of Pennsylvania describes a new technique to turn solar sails - kirigami.
+Continue reading
+Before We Build on the Moon, We Have to Master the Commute
+By Andy Tomaswick - December 26, 2025 02:52 PM UTC | Space Exploration
+Even most rocket scientists would rather avoid hard math when they don’t have to do it. So when it comes to figuring out orbits in complex three-body systems, like those in Cis-lunar space, which is between the Earth and the Moon, they’d rather someone else do the work for them. Luckily, some scientists at Lawrence Livermore National Laboratory seems to have a masochistic streak - or enough of an altruistic one that it overwhelmed the unpleasantness of doing the hard math - to come up with an open-source dataset and software package that maps out 1,000,000 cis-lunar orbits.
+Continue reading
+Top Astronomical Events to Watch For in 2026
+By David Dickinson - December 26, 2025 01:23 PM UTC | Observing
+Ready for another amazing year of skywatching? 2025 was a wild year, with a steady parade of comets knocking on naked eye visibility, and one extra special interstellar comet, 3I/ATLAS. The sky just keeps on turning into 2026. Watch for mutual eclipse season for the major moons of Jupiter, as the moons pass one if front of the other. The ongoing solar cycle is also still expected to be active into 2026, producing sunspots space weather and more. And (finally!) we’ll see the return of total solar eclipses on August 12th, as umbral shadow of the Moon crosses Greenland, Iceland and northern Spain.
+Continue reading
+Webb Spots the 'Smoke' from Crashing Exocomets Around a Nearby Star
+By Andy Tomaswick - December 23, 2025 12:23 PM UTC | Stars
+The James Webb Space Telescope (JWST) was involved in yet another first discovery recently available in pre-print form on arXiv from Cicero Lu at the Gemini Observatory and his co-authors. This time, humanity’s most advanced space telescope found UV-fluorescent carbon monoxide in a protoplanetary debris disc for the first time ever. It also discovered some features of that disc that have considerable implications for planetary formation theory.
+Continue reading
+Russia's Plans for a Space Station Includes "Recycling" its ISS Modules
+By Matthew Williams - December 22, 2025 11:06 PM UTC | Space Exploration
+Oleg Orlov, Director of the Institute of Biomedical Problems at the Russian Academy of Sciences (RAS), announced that the Russian Orbital Station (ROS) will include the modules that make up the Russian Orbital Segment of ISS.
+Continue reading
+The Solar System Loses an Ocean World
+By Scott Johnston - December 22, 2025 04:41 PM UTC | Planetary Science
+Saturn’s largest moon, Titan, may not have a subsurface ocean after all. That’s according to a re-examination of data captured by NASA’s Cassini mission, which flew by Titan dozens of times starting in 2004. By 2008, all the evidence suggested a subsurface ocean of liquid water waited beneath Titan’s geologically complex crust. But the latest analysis says the interior is more likely to be made of ice and slush, albeit with pockets of warm water that cycle from core to surface.
+Continue reading
+Five New Planets and the Battle for Their Atmospheres
+By Andy Tomaswick - December 22, 2025 12:05 PM UTC | Exoplanets
+One of the primary goals of the James Webb Space Telescope (JWST) is to detect atmospheres around exoplanets, to try to suss out whether or not they could potentially support life. But, in order to do that, scientists have to know where to look, and the exoplanet has to actually have an atmosphere. While scientists know the location of about 6000 exoplanets currently, they also believe that many of them don’t have atmospheres and that, of the ones that do, many aren’t really Earth-sized. And of those, many are around stars that are too bright for our current crop of telescopes to see their atmosphere. All those restrictions mean, ultimately, even with 6000 potential candidates, the number of Earth-sized ones that we could find an atmosphere for is relatively small. So a new paper available on arXiv from Jonathan Barrientos of Cal Tech and his co-authors that describes five new exoplanets around M-dwarf stars - two of which may have an atmosphere - is big news for astrobiologists and exoplanet hunters alike.
+Continue reading
+ESA's JUICE Mission Reveals More Activity from 3I/ATLAS
+By Matthew Williams - December 21, 2025 07:55 PM UTC | Observing
+During November 2025, ESA’s Jupiter Icy Moons Explorer (JUICE) used five of its science instruments to observe 3I/ATLAS. The instruments collected information about how the comet is behaving and what it is made of.
+Continue reading
+Engineering the First Reusable Launchpads on the Moon
+By Andy Tomaswick - December 21, 2025 12:25 PM UTC | Space Exploration
+Engineers need good data to build lasting things. Even the designers of the Great Pyramids knew the limestone they used to build these massive structures would be steady when stacked on top of one another, even if they didn’t have tables of the compressive strength of those stones. But when attempting to build structures on other worlds, such as the Moon, engineers don’t yet know much about the local materials. Still, due to the costs of getting large amounts of materials off of Earth, they will need to learn to use those materials even for critical applications like a landing pad to support the landing / ascent of massive rockets used in re-supply operations. A new paper published in Acta Astronautica from Shirley Dyke and her team at Purdue University describes how to build a lunar landing pad with just a minimal amount of prior knowledge of the material properties of the regolith used to build it.
+Continue reading
+Astronomers Find the First Compelling Evidence of "Monster Stars" in the Early Universe
+By Matthew Williams - December 21, 2025 12:00 AM UTC | Cosmology
+Using the James Webb Space Telescope, a team of international researchers has discovered chemical fingerprints of gigantic primordial stars that were among the first to form after the Big Bang.
+Continue reading
+IMAP's Instruments Are Coming Online
+By Andy Tomaswick - December 20, 2025 12:32 PM UTC | Missions
+During the deployment of new space telescopes that are several critical steps each has to go through. Launch is probably the one most commonly thought of, another is “first light” of all of the instruments on the telescope. Ultimately, they’re responsible for the data the telescope is intended to collect - if they don’t work properly then the mission itself it a failure. Luckily, the Interstellar Mapping and Acceleration Probe (IMAP) recently collected first light on its 10 primary instruments, and everything seems to be in working order, according to a press release from the Southwest Research Institute who was responsible for ensuring the delivery of all 10 instruments went off without a hitch.
+Continue reading
+The Hubble Witnesses Catastrophic Collisions In The Fomalhaut System
+By Evan Gough - December 19, 2025 05:10 PM UTC | Uncategorized
+For the first time, astronomers using the Hubble Space Telescope have spotted a pair of catastrophic collisions in another solar system. They were observing Fomalhaut, a bright star about 25 light-years away, and detected a pair of planetesimal collisions and their light-reflecting dust clouds. The system is young, and the collisions reflect what our Solar System was like when it was young.
+Continue reading
+Do You Know What Time It Is? If You're On Mars, Now You Do.
+By Brian Koberlein - December 19, 2025 03:15 PM UTC | Planetary Science
+Ask someone on Earth for the time and they can give you an exact answer, thanks to our planet's intricate timekeeping system, built with atomic clocks, GPS satellites and high-speed telecommunications networks. Ask for the time on Mars and the answer gets much more complicated.
+Continue reading
+It’s Raining Magnetic 'Tadpoles' on the Sun
+By Andy Tomaswick - December 19, 2025 12:27 PM UTC | Solar Astronomy
+Getting close to things is one way for scientists to collect better data about them. But that's been hard to do for the Sun, since getting close to it typically entails getting burnt to a crisp. Just ask Icarus. But if Icarus had survived his close encounter with the Sun, he might have been able to see massive magnetic “tadpoles” tens of thousands of kilometers wide reconnecting back down to the surface of our star. Or maybe not, because he had human eyes, not the exceptionally sensitive Wide-Field imagers the Parker Solar Probe used to look at the Sun while it made its closest ever pass to our closest star. A new paper in The Astrophysical Journal Letters from Angelos Vourlidas of Johns Hopkins University’s Applied Physics Laboratory and his co-authors describes what they say on humanity’s closest brush with the Sun so far.
+Continue reading
+Could Advanced Civilizations Communicate like Fireflies?
+By Matthew Williams - December 19, 2025 02:34 AM UTC | Space Exploration
+In a new paper, a team of researchers explores how non-human species (in this case, fireflies) could inform new approaches in the Search for Extraterrestrial Intelligence (SETI).
+Continue reading
+Did Astronomers Just Find a ‘Superkilonova’ Double Explosion? Maybe.
+By Scott Johnston - December 19, 2025 01:22 AM UTC | Stars
+Astronomers may have just seen the first ever ‘superkilonova,’ a combination of a supernova and a kilonova. These are two very different kinds of stellar explosions, and if this discovery stands, it could change the way scientists understand stellar birth and death.
+Continue reading
+Luminous Fast Blue Optical Transients Are Likely Large Black Holes Shredding Their Massive Companions
+By Evan Gough - December 18, 2025 06:14 PM UTC | Black Holes
+In 2024, astronomers discovered the brightest Luminous Fast Blue Optical Transient (LFBOT) ever observed. LFBOTs are extremely bright flashes of blue light that shine for brief periods before fading away. New analysis of this record-breaking burst, which includes observations from the International Gemini Observatory, funded in part by the U.S. National Science Foundation, challenges all prior understanding of these rare explosive events.
+Continue reading
+The JWST Found A Jekyll-and-Hyde Galaxy In The Early Universe
+By Evan Gough - December 18, 2025 05:53 PM UTC | Extragalactic
+In a glimpse of the early universe, astronomers have observed a galaxy as it appeared just 800 million years after the Big Bang – a cosmic Jekyll and Hyde that looks like any other galaxy when viewed in visible and even ultraviolet light but transforms into a cosmic beast when observed at infrared wavelengths. This object, dubbed Virgil, is forcing astronomers to reconsider their understanding of how supermassive black holes grew in the infant universe.
+Continue reading
+Using Bent Light to Map Complex Planetary Architectures
+By Andy Tomaswick - December 18, 2025 02:31 PM UTC | Exoplanets
+With new technologies comes new discoveries. Or so Spider Man’s Uncle Ben might have said if he was an astronomer. Or a scientist more generally - but in astronomy that saying is more true than many other disciplines, as many discoveries are entirely dependent on the technology - the telescope, imager, or processing algorithm, used to collect data on them. A new piece of technology, the Nancy Grace Roman Space Telescope, is exciting scientists enough that they are even starting to predict what kind of discoveries it might make. One such type of discovery, described in a pre-print paper on arXiv by Vito Saggese of the Italian National Institute for Astrophysics and his co-authors on the Roman Galactic Exoplanet Survey Project Infrastructure Team, is the discovery of many more multiplantery exoplanet systems an astronomical phenomena Roman is well placed to detect - microlensing.
+Continue reading
+Comet 3I/ATLAS Has A Green Glow In New Color Images From Gemini North
+By Evan Gough - December 17, 2025 04:14 PM UTC | Observing
+Gemini North captured new images of Comet 3I/ATLAS after it reemerged from behind the Sun on its path out of the Solar System. The data were collected during a Shadow the Scientists session — a unique outreach initiative that invites students around the world to join researchers as they observe the Universe on the world’s most advanced telescopes.
+Continue reading
+ESA's XMM-Newton Examines Comet 3I/ATLAS Prior to Closest Earth Passage Friday
+By David Dickinson - December 17, 2025 03:47 PM UTC | Space Exploration
+Everyone’s favorite interstellar comet posed for one more portrait recently. The European Space Agency’s XMM-Newton mission nabbed 3I/ATLAS on December 3rd from about 283 million kilometers distant. This comes as the comet is set to make its closest passage versus Earth this coming Friday, on December 19th.
+Continue reading
+Why Most Exoplanets Are Magma Worlds
+By Andy Tomaswick - December 17, 2025 11:46 AM UTC | Exoplanets
+In astronomy, there is a concept called “degeneracy”. It has nothing to do with delinquent people, but instead is used to describe data that could be interpreted multiple ways. In some cases, that interpretation is translated into exciting new possibilities. But many times, when that happens, other, more mundane explanations are ignored for the publicity that the more interesting possibilities provide. That seems to have been the case for many “sub-Neptune” exoplanets discovered recently. Some theories have described them as Hycean worlds - worlds that are filled with water oceans or ice. But a new paper from Robb Calder of the University of Cambridge and his co-authors shows that, most likely, these planets are almost all made of molten lava instead.
+Continue reading
+The First Alien Civilization We Encounter Will Be Extremely Loud
+By Evan Gough - December 16, 2025 05:02 PM UTC | Uncategorized
+When we gaze up at the night sky, we assume that what we're seeing is a representative population of similar stars at similar distances. But it's not. The stars we see are a mixture of massive and small, distant and near. In fact, we can't even see our closest neighbour, Proxima Centauri. We see these stars because they have large observational signals, and that illustrates one of the problems in astronomy.
+Continue reading
+The Nancy Grace Roman Space Telescope Will Teach Us A Lot More About Cosmic Voids
+By Evan Gough - December 16, 2025 03:47 PM UTC | Cosmology
+The Large-Scale Structure of the Universe features massive filaments where galaxy clusters and superclusters reside. In between these filaments are cosmic voids, vast regions that are nearly empty. The Nancy Grace Roman will map and study 80,000 of these voids to place constraints on Dark Energy drives the expansion of the Universe.
+Continue reading
+Astronomers Snap a Rare Photo of a Super-Jupiter with Two Suns
+By Andy Tomaswick - December 16, 2025 11:48 AM UTC | Exoplanets
+If you read enough articles about planets in binary star systems, you’ll realize almost all of them make some sort of reference to Tatooine, the fictional home of Luke Skywalker (and Darth Vader) in the Star War saga. Since that obligatory reference is now out of the way, we can talk about the new “super-Jupiter” that researchers from two separate research teams, including one at Northwestern University and one at the University of Exeter, simultaneously found in old data from the Gemini Planet Imager (GPI).
+Continue reading
+China's Shenzhou-21's Crew Test New Spacesuits During Spacewalk
+By Matthew Williams - December 15, 2025 10:40 PM UTC | Missions
+The Shenzhou-21 crew on board China's orbiting space station completed its first extravehicular activities on Tuesday, Dec. 9th, during which they validated the new EVA spacesuits.
+Continue reading
+Uranus and Neptune might be rock giants
+By Matthew Williams - December 15, 2025 09:09 PM UTC | Planetary Science
+A team of researchers from the University of Zurich and the NCCR PlanetS is challenging our understanding of the interior of the Solar System's planets. The composition of Uranus and Neptune, the two outermost planets, might be more rocky and less icy than previously thought.
+Continue reading
+It Didn't Take Long For Earth's Ancient Oceans To Become Oxygenated
+By Evan Gough - December 15, 2025 07:51 PM UTC | Planetary Science
+For roughly two billion years of Earth’s early history, the atmosphere contained no oxygen, the essential ingredient required for complex life. Oxygen began building up in the atmosphere during the period known as the Great Oxidation Event (GOE), but it had to enter the oceans first. When and how it first entered the oceans has remained uncertain.
+Continue reading
+The Radio Signal That Predicts Aurora Storms
+By Mark Thompson - December 15, 2025 01:33 PM UTC
+Scientists have discovered a crucial clue to understanding one of nature's most spectacular light shows, the aurora. Research from the University of Southampton reveals that just before these magnetospheric substorms erupt, a distinct pattern of low frequency radio waves appears above the aurora, radio emissions that surge in strength precisely as mysterious "auroral beads" transform into full storms. This radio signature, detected by spacecraft and ground observatories across multiple events, provides the first direct evidence of the physical processes triggering these dramatic celestial displays, and may explain similar phenomena occurring in the magnetospheres of Jupiter and Saturn.
+Continue reading
+A New Laboratory Explores How Planets Begin
+By Mark Thompson - December 15, 2025 01:18 PM UTC
+Scientists at Southwest Research Institute have opened a new laboratory dedicated to answering one of astronomy's most fundamental questions, where do planets come from? The Nebular Origins of the Universe Research (NOUR) Laboratory will recreate the extreme conditions found in interstellar clouds, vast regions of ice, gas, and dust that existed before our Solar System formed to trace how these primordial materials ultimately evolved into the worlds we see today. By simulating the chemistry of pre-planetary environments in specialised vacuum chambers, researchers aim to understand how the building blocks of life, including the components of DNA and RNA, formed in the darkness of space billions of years ago.
+Continue reading
+2.8 Days to Disaster - Why We Are Running Out of Time in Low Earth Orbit
+By Andy Tomaswick - December 15, 2025 12:56 PM UTC | Space Policy
+A “House of Cards” is a wonderful English phrase that it seems is now primarily associated with a Netflix political drama. However, its original meaning is of a system that is fundamentally unstable. It’s also the term Sarah Thiele, originally a PhD student at the University of British Columbia, and now at Princeton, and her co-authors used to describe our current satellite mega-constellation system in a new paper available in pre-print on arXiv.
+Continue reading
+Is the Big Bang a Myth? Part 4: The Emergence of Matter
+By Paul Sutter - December 15, 2025 12:28 PM UTC | Physics
+After the first protons and neutrons formed, after the first light elements formed, the universe…wasn’t really all that great.
+Continue reading
+A Golden Era of Solar Discovery
+By Mark Thompson - December 15, 2025 08:55 AM UTC | Solar Astronomy
+Scientists have achieved an unprecedented view of the Sun by coordinating observations between two of the most powerful solar instruments ever built. For the first time, observations from the Inouye Solar Telescope in Hawaii and the European Space Agency's Solar Orbiter spacecraft have captured the same solar region simultaneously from different vantage points. This created a stereoscopic view that reveals intricate details of tiny "campfire" features scattered across the Sun's surface. These fleeting brightening, though individually small, occur in such vast numbers that they may collectively shape how the Sun's outer atmosphere is heated and how plasma erupts into space.
+Continue reading
+Radio Observations Find Nothing at Omega Centauri's Heart
+By Mark Thompson - December 15, 2025 01:00 AM UTC | Stars
+Astronomers have performed the deepest radio observations ever of Omega Centauri, searching for signs of an intermediate mass black hole thought to lurk at its center. Despite 170 hours of observations with the Australia Telescope Compact Array achieving unprecedented sensitivity, they detected absolutely nothing where the black hole should be. If an intermediate mass black hole exists in this massive star cluster, as suggested by fast moving stars discovered earlier this year, it must be accreting material at an extraordinarily low rate, barely feeding at all compared to other known black holes.
+Continue reading
+Did a Rogue Planet Reshape Our Solar System?
+By Mark Thompson - December 15, 2025 12:43 AM UTC | Planetary Science
+Researchers have discovered that a close encounter with a rogue planet or brown dwarf during the Sun's early years could have triggered the reshuffling of our Solar System's giant planets. Running 3000 simulations of stellar flybys, the team found that substellar objects passing within 20 astronomical units of the young Sun could destabilise the planets' orbits just enough to match their current configuration without destroying the delicate Kuiper belt. This flyby scenario represents a new possible explanation for one of the Solar System's defining events, with roughly a 1-5 percent probability depending on how common free floating planets actually are in young star clusters.
+Continue reading
+A New Window on the Expansion of the Universe
+By Mark Thompson - December 15, 2025 12:17 AM UTC | Cosmology
+Astronomers at the University of Tokyo have used gravitational lensing to measure how fast the universe is expanding, adding weight to one of cosmology's most intriguing mysteries. Their technique exploits the way massive galaxies bend light from distant quasars, creating multiple distorted images that arrive at different times. The measurement supports recent observations showing the universe expands faster than predictions based on the early universe suggest, strengthening evidence that the "Hubble tension" represents genuine new physics rather than experimental error.
+Continue reading
+Scientists Find the Strongest Evidence Yet of an Atmosphere on a Molten Rocky Exoplanet
+By Matthew Williams - December 14, 2025 08:54 PM UTC | Exoplanets
+Researchers using NASA’s James Webb Space Telescope have detected the strongest evidence yet for an atmosphere on a rocky planet outside our solar system. Observations of the ultra-hot super-Earth TOI-561 b suggest that the exoplanet is surrounded by a thick blanket of gases above a global magma ocean.
+Continue reading
+Forget Stardust - It Was Star-Ice All Along
+By Andy Tomaswick - December 14, 2025 01:44 PM UTC | Planetary Science
+Carl Sagan famously said that “We’re all made of star-stuff”. But he didn’t elaborate on how that actually happened. Yes, many of the molecules in our bodies could only have been created in massive supernovae explosions - hence the saying. Scientists have long thought they had the mechanism for how settled - the isotopes created in the supernovae flew here on tiny dust grains (stardust) that eventually accreted into Earth, and later into biological systems. However, a new paper from Martin Bizzarro and his co-authors at the University of Copenhagen upends that theory by showing that much of the material created in supernovae is captured in ice as it travels the interstellar medium. It also suggests that the Earth itself formed through the Pebble Accretion model rather than massive protoplanets slamming together.
+Continue reading
+Is the Big Bang a Myth? Part 3: The Splitting of the Forces
+By Paul Sutter - December 14, 2025 12:24 PM UTC | Physics
+The early universe was a very different place than today. And by “early” I don’t mean a billion or even ten billion years ago. The universe is about 13.77 billion years old, and when it was only a handful of seconds old, it was completely unrecognizable.
+Continue reading
+Recent Surveys Reveal Dwarf Galaxies May Not Contain Supermassive Black Holes
+By Matthew Williams - December 13, 2025 11:12 PM UTC
+A new study, analyzing over 1,600 galaxies observed with Chandra over two decades, suggests that smaller galaxies do not contain supermassive black holes nearly as often as larger galaxies do.
+Continue reading
+Is the Big Bang a Myth? Part 2: The Primaeval Atom
+By Paul Sutter - December 13, 2025 12:21 PM UTC | Physics
+In the early 20th century, after years of effort, Albert Einstein developed his general theory of relativity. This was a massive improvement in our understanding of gravity, giving us a sophisticated view into the inner workings of that fundamental force.
+Continue reading
+Why Old Moon Dust Looks So Different from the Fresh Stuff
+By Andy Tomaswick - December 13, 2025 11:18 AM UTC | Space Exploration
+Tracking down resources on the Moon is a critical process if humanity decides to settle there permanently. However, some of our best resources to do that currently are orbiting satellites who use various wavelengths to scan the Moon and determine what the local environment is made out of. One potential confounding factor in those scans is “space weathering” - i.e. how the lunar surface might change based on bombardment from both the solar wind and micrometeroid impacts. A new paper from a researchers at the Southwest Research Institute adds further context to how to interpret ultra-violet data from one of the most prolific of the resource assessment satellites - the Lunar Reconnaissance Orbiter (LRO) - and unfortunately, the conclusion they draw is that, for some resources such as titanium, their presence might be entirely obscured by the presence of “old” regolith.
+Continue reading
+Measuring Radio Leaks from 36,000 Kilometres Up
+By Mark Thompson - December 13, 2025 09:48 AM UTC
+Radio astronomers hunting for the faint whispers of the early universe face an unexpected threat from above: satellites designed to be silent are leaking radio noise into space. New research using the Murchison Widefield Array has set the first limits on unintended radio emissions from distant geostationary satellites, revealing that most remain mercifully quiet in the frequency range crucial for next-generation telescopes. The findings offer cautious hope that the Square Kilometre Array, set to become the world's most sensitive radio telescope, might avoid the radio pollution crisis now plaguing observations of low Earth orbit satellites.
+Continue reading
+Thank The JWST For Confirming The First Runaway Supermassive Black Hole
+By Evan Gough - December 12, 2025 06:35 PM UTC | Black Holes
+Astronomers have been observing the Cosmic Owl for years, wondering if what they were seeing was a long-predicted runaway black hole. Now, 50 years after scientists first predicted the phenomenon, the JWST has provided the clinching evidence.
+Continue reading
+Page 1 of 587 pages
+← Previous Page
+|
+Next Page →
+
+© 2025 Universe Today
+
+A space and astronomy news site
+
+Support our ad-free content
+
+Become a Patron
+Contact Us
+Privacy Policy
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.

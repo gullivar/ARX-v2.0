@@ -1,0 +1,54 @@
+App Features
+Help
+Blog
+Download
+Enable 2FA for your favorite sites.
+
+Go beyond the password and protect yourself from hackers and account takeovers. Download our free app:
+
+Download Authy
+Two-factor authentication (2FA) is the best way to protect yourself online.
+
+Defeat cyber criminals & avoid account takeovers with stronger security, for free! Watch the video below to learn more about why you should enable 2FA for your accounts.
+
+Top Rated Authenticator App
+
+Simple to setup, secure cloud backup, multi device support.
+
+App features
+Help
+
+Need help? We'd love to hear from you.
+
+Get help
+Blogs
+
+See insights on security and authentication.
+
+Visit blog
+Why use Two-Factor Authentication
+
+Relying on just usernames and passwords to secure your online accounts is no longer considered safe. Data breaches occur daily and hackers are always inventing new ways to take over your accounts. Protect yourself by enabling two-factor authentication (2FA). This blocks anyone using your stolen data by verifying your identity through your device. Enable 2FA now to protect your accounts online.
+
+Learn more about 2FA
+Legal
+Privacy
+Press & Media
+Investors
+
+Copyright © 2025 Twilio Inc. All rights reserved.
+
+Twilio Links
+Twilio 2FA API
+Twilio.org
+Twilio Careers
+Twilio.com
+App Features
+Overview
+Help
+Reset account
+Delete account
+Change phone
+FAQ
+Blog
+All posts

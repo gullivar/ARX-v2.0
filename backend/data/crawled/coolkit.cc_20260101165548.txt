@@ -1,0 +1,5 @@
+# Welcome to OpenResty!
+If you see this page, the OpenResty web platform is successfully installed and working. Further configuration is required.
+For online documentation and support please refer to [openresty.org](https://openresty.org/).  
+Commercial support is available at [openresty.com](https://openresty.com/).
+_Thank you for flying OpenResty._

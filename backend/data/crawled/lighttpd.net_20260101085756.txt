@@ -1,0 +1,43 @@
+Search
+Sections
+Home
+benchmark
+releases
+story
+Pages
+thank-you
+Sites
+blog
+docs
+bugs
+forum
+
+lighttpd (pronounced /lighty/) is a secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. lighttpd uses memory and CPU efficiently and has lower resource use than other popular web servers. Its advanced feature-set (FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and much more) make lighttpd the perfect web server for all systems, small and large. lighttpd is released under the Open Source revised BSD license.
+
+lighttpd wiki and documentation
+
+
+News
+1.4.82
+September 12, 2025
+Important changes
+restrict request trailers to configured list; bugfixes
+BEHAVIOR CHANGES:
+trailers in request headers will be ignored unless allowed field names are explicitly configured in a comma-separated list containing no spaces: server.feature-flags += (“request.trailer-whitelist” => “…”) This changes behavior from lighttpd 1.4.80, which added support for request trailers and header merging, but did not restrict request trailers.
+Downloads
+lighttpd-1.4.82.tar.gz (GPG signature)
+SHA256: 4f07f2d61ee8d136d105d9a62f139a46ad8216fe9e346476ee5340f87bcabd79
+lighttpd-1.4.82.tar.xz (GPG signature)
+SHA256: abfe74391f9cbd66ab154ea07e64f194dbe7e906ef4ed47eb3b0f3b46246c962
+SHA256 checksums
+SHA512 checksums
+Changes from 1.4.81
+[core] restrict request trailers to configured list
+[core] fix logic inversion in “toupper:” modifier
+[mod_redirect,mod_rewrite] ${url.authority.noport} token
+[cmake,mod_mbedtls] mbedx509 mbedcrypto order
+[mod_mbedtls] psa_crypto_init() for MBEDTLS_USE_PSA_CRYPTO (fixes #3288)
+[build] mod_mbedtls: use tfpsacrypto if found
+[ci] Bump actions/checkout from 4 to 5
+[core] avoid chunk mem reallocation on read/recv
+Read more ...

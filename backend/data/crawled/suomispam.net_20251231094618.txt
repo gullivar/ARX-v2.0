@@ -1,0 +1,188 @@
+Suomispam Suomispam Suomispam FAQ Policy Using Blog Suomispam is a reputation service covering likely
+	    senders of spam in Finnish language or related to
+	    Finland. Global blacklists do not always have great coverage of
+	      small countries and linguistic areas. Suomispam exists
+	      to fill the gap and provide infirmation about Finnish
+	      spam. Note that Suomispam by itself does not block email to
+	      third parties. It only provides lists of senders that we
+	      consider probable sources of Finnish spam. Operators of
+	      mail servers may or may not use that information to
+	      block the actual messages. Top operators with listings in BL AS number BL listings Description Most queried listed entries BL DBL Frequently asked questions Before reaching out to us, please read this page to
+	      improve the chances of your issues being resolved and to
+	      avoid wasting either your or our time. We fixed the problem, please delist You would not believe how much we get request that do
+	      not specify what is being listed. If you ask for delisting, the request is utterly
+	      pointless if you do not identify what listing it is
+	      about. Unless you are a hosting provider that we have a good
+	      working relationship with, we often do not take your
+	      unspecified word for fixing it. The issue is almost
+	      never what you think it is. Mostly notably our listings
+	      almost never hit hacked servers. Be specific in what you
+	      claim. Can you whitelist us? No. We do not have a whitelist and we are technically
+	      unable to punch holes in network listings (the ones
+	      with a '*' in them). What this means that there is very
+	      little that can be done if the larger network of the
+	      hosting provider is listed (typically due to their
+	      spam-policies or rather widespread spam epidemic). Our
+	      primary delisting criteria is always that we can verify
+	      that the original listing reason is gone and that there
+	      are no new reasons to keep the listing. If you only have one IP and the listing has a wildcard
+	      (*), it is imperative to bring the hosting provider into
+	      the discussion. Either they have to take action or we
+	      just have to wait until the spammers get bored and
+	      leave. If you are not the culprit, talk to your hosting provider! We fixed our SPF/DMARC records, please delist SPF and DMARC records have nothing to do with our
+	      listings. You were not listed because of them and you will
+	      not be delisted because of them. Whatever you are
+	      experiencing, this is not it. Can you delist our domain example.com? Maybe. But only IF it is listed, and only if the reason
+	      for the listing no longer applies. Almost none of the domain delist requests are for
+	      domains that we actually list. Some lookup
+	      sites (Hello MxToolbox, we are looking at you) totally mix up the concept of shared hosting and may
+	      claim that you are listed when in fact someone else on
+	      the same hosting provider is listed. We do not suggest
+	      anyone perform email filtering based on doing DNSBL
+	      lookups on the IP the senders domain resolves
+	      to. However we do list spamvertized sites and to delist
+	      those, the reason for the listing must go away. To summarize. If you think your domain is listed, use
+	      our site to check if we list your domain. If we do not
+	      list your domain, complain to whoever is claiming that
+	      your domain is listed. But this IP is not used to send spam! We have four basic categories for listings: spam
+	      source, spamvertized site, escalation and suspicious. Spam sources are listed because they are spam
+	      sources. If it is not you sending the spam, someone
+	      is. Our definition for spam is unsolicited bulk
+	      email. Most blacklists list both the IP's that send the spam
+	      and the IP's they direct their recipients to. So do
+	      we. Quite a lot of people hire spam gangs to send their
+	      campaigns from throw-away virtual hosts all around the
+	      world and use redirector sites and throw-away domains to
+	      redirect to the real spam site. We list all of them:
+	      senders, redirectors and target sites. We try to be careful with escalations on the BL list,
+	      but they do happen for severe spam epidemics or
+	      exceptionally badly run hosting providers. Note that the
+	      GL list mostly has escalations and we do not recommend
+	      directly blocking based on it. The GL list is meant to
+	      signal risky networks. We have some listings for suspicious networks that have
+	      triggered up various alerts in our analysis. They are
+	      networks that do not appear to have any legitimate use
+	      and may be either related to frauds or spam campaigns
+	      that we are just not picking up in our research. They
+	      typically do get delisted whenever someone with a
+	      standing does appear and is able to give out a
+	      legitimate reasoning for the network in question. Your listings are permant / you refuse to delist! We have a process for delisting and in fact the number
+	      of active listings is more or less stable. IP listings
+	      are subject to both automatic and manual review but the
+	      cycle is typically several months long if the listing
+	      does not pop up for a quicker review due to some new
+	      input we receive. Domain-listings have a somewhat slower cycle because
+	      domain intelligence feeds have less coverage and
+	      spammers use more active methods to hide continued
+	      domain use. We delist when we are convinced that the justification
+	      for the listing is no longer valid. We are quite happy
+	      to delist, but we hate having to relist. If you are
+	      asking for a delisting, it does go a long way in favor
+	      of it if your claims agree with our observations. It is
+	      all about trust. Can we trust that you know what you are
+	      talking about, that you have a standing to make the
+	      claims, and that your claims are factual. If we do not
+	      trust you, we have to wait and see if time will confirm
+	      your story. Sometimes it does, sometimes it does not. We demand that you send us email headers of alleged spam We used to do that early on but we had to stop. While
+	      it might sound reasonable on the face of it that we
+	      would provide so called proof about spam, in practice
+	      there was no measurable benefit for anyone. Almost no
+	      spammer ever mended their ways and a lot of hosting
+	      providers still do not have active abuse staff that
+	      would actually kick out spammers. Some hosting providers
+	      wasted our time and resources by continually asking for
+	      headers while pretty much never kicking out the
+	      infringers. Also one does have to ask, if you do not trust our
+	      listings, why would you trust headers we provide? We
+	      also have to focus our resources on providing a good
+	      service for our users. It is important to note that we NEVER reveal
+	      spamtrap addresses. Spammers would just clean them out
+	      from their lists and we would lose ability to track
+	      spam. But blacklists are illegal and/or morally questionable Blacklists are perfectly legal. They are more or less
+	      equivalent to restaurant reviews. We give our opinions
+	      based on what we observe and recipients often act based
+	      on our and other services information to detect emails
+	      that they do not wish to receive. Spam causes a lot of harm. The mildest form of spam
+	      causes a lot of frustration and causes wasted time when
+	      recipients have to keep deleting unwanted emails. Scams
+	      are a more harmful form of spam in that they cause
+	      people to fall for deceptions and criminal activity. Not
+	      all of the entities we list are in our opinion criminals
+	      and our listings are not based on the criminality of the
+	      spammers. We are not the police or the courts. We
+	      consider spam an abuse of Internet and it is the right
+	      of recipients to use filtering and reputation data to
+	      protect themselves from both merely frustrating spams
+	      and also from total scams, and everything in
+	      between. You are trying to take revenge or to punish us! We have been doing this for a long while. If we were to
+	      try to use the service to punish people or take revenge
+	      on spammers, we would be an utter failure. Most spammers
+	      are in it for the volume. They do not care in the
+	      slightest if a portion of their list is undeliverable
+	      due to filtering. If you are one of those email users who does receive
+	      plenty of spam, do ask yourself a question: when was the
+	      last time you got so upset about receiving a spam that
+	      you wanted to take vendetta on the sender? We bet almost
+	      no one thinks of revenge when they get spam. We get way
+	      way way way more spam than almost any normal user. We do
+	      not have the luxury of getting upset at spam, we rather
+	      find spam kind of interesting. Policy While listing spammers always requires case-by-case
+	    consideration to some extent, we do try to be consistent
+	    and fair. This policy attempts to describe the criteria
+	    that we employ when considering listing or delisting some
+	    resources. Definitions We consider spam to mean UBE, i.e. unsolicited bulk
+	      email. If the message was unsolicited and bulk email, it is
+	      spam. It is not relevant to this definition wether the sender is
+	      breaking an actual law in their country. Note that if the recipient is a named person (even if in
+	      someone's employment), unsolicited spam is illegal in Finland
+	      most of the time. Listing criteria The type of sending host is estimated before a
+	      listing. If the sending host is deemed suspicious and/or
+	      spam focused, the listing may be immediate. If the
+	      sending host is a shared mail server with likely
+	      significant non-spam-related use, we try to be
+	      long-suffering at least to some extent in order not to
+	      jump straight into causing major collateral
+	      damage. However if the spam just keeps on flowing or is
+	      particularly egregious, there is a limit to our
+	      patience. If an operator is known to support spam or if they have
+	      previous listings, we are likely to list new addresses
+	      with less restraint. Whole networks may be listed if they appear to be
+	      significant sources of spam, snowshoe ranges or otherwise
+	      have allocated a lot of IP addresses for spam. Almost all spam is illegal to some extent, but that is
+	      not a requirement for a Suomispam listing. Our listings do
+	      not depend on the interpretations of officials or
+	      courts. Suomispam is a private reputation service and is
+	      comparable to restaurant reviews in a way. Suomispam also lists spam support services such as so
+	    called bullet proof hoting services, spam list vendors, or
+	    similar organizations that may not be direct sources of
+	      spam, but which are explicit enablers. Suomispam also lists spam targets, i.e. sites used as
+	    link redirectors or targets where the spams try to lure
+	    the suspecting recipients. Delisting IP addresses will be delisted once we believe the spam
+	      problem has been dealt with. A credible notification by
+	      the operator about clearing the problem may be
+	      sufficient. Egregious cases of spam may require proof
+	      that the flow of spam has actually stopped. If the
+	      operator continues to provide support services (such as
+	      webhosting) for the spammer, delisting might be delayed
+	      as a safety precaution. Old listings may be rechecked every now and then and
+	      delisted if they no longer seem to be likely sources of spam. Using Suomispam The main list of Suomispam is available for normal light
+	      use as a DNSBL. Just point whatever software you use
+	      to bl.suomispam.net . The secondary list containing spam sources with
+	      significant non-spam use are listed in they gray
+	      list gl.suomispam.net . It should not be used
+	      for direct blocking of email, but it is aimed to be
+	      useful for scoring likely spam. This list is
+	      significantly smaller and receives less frequent
+	      updates. We also provide a domain
+	      blocklist dbl.suomispam.net . It can be used to
+	      check for domains known to be related to spammers / used
+	      in spam. Suggested use cases include matching for either
+	      sender domains or domains of links in the message
+	      body. For spam senders using major email service providers
+	    such as Gmail or Hotmail, we provide an experimental email
+	    blacklist at ebl.suomispam.net . To query the
+	    Suomispam EBL, first convert the email address to be
+	    checked to lowercase, then take a SHA1 hex digest of it,
+	    and query it. Check the test record for an example. Test records The following records can be used to check that the
+	      Suomispam blacklists are functioning: List Test record DNS name A record BL 127.0.0.2 2.0.0.127.bl.suomispam.net 127.0.0.2 GL 127.0.0.2 2.0.0.127.gl.suomispam.net 127.0.0.2 DBL test test.dbl.suomispam.net 127.0.0.2 EBL noemail@example.com 1ffff7d2d2b7f100df95b70e659c88e5b38ec4e6.ebl.suomispam.net 127.0.0.2 Listing types The A record returned for listings depends on the listing reason. The following codes are in use: Code Reason Explanation 127.0.0.2 Spam source Indicates the resource is involved as the source of spam. May sometimes also include the network if the network is widely used to send spam. 127.0.0.3 Escalation A larger listing that may cover resources not directly used to send spam but where the spam situation is bad enough to warrant an escalation. 127.0.0.4 Target site Listing covering the target site of spam. Might cover redirector domains or spam sites where the users are redirected to, or reply-to addresses for the EBL. May include IP addresses of particularly teeming IP's used for hosting spam sites. 127.0.0.5 Suspicious Listings due to suspicious activity that we consider likely malicious and that the provider has not provided a reasonable explanation. 127.0.0.99 Other Other reason or uncategorized listing Contact At the moment the only way to contact Suomispam is to send
+	      email to suomispam@suomispam.net . Suomispam lookup searching... List IP(s) Date Comment Origin BL GL DBL Suomispam listings for AS??? List IP(s) Date Comment Origin BL GL Blog Follow the Suomispam blog Lookup Do lookup Latest in DBL Latest in BL Query hits Estimate of query hits yesterday:

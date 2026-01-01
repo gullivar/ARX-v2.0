@@ -1,0 +1,332 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Cookie Policy
+
+Storage Preferences
+
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject Non-Essential
+PINGDOM_CANARY_STRING
+Skip to Content
+Product Suite
+
+See and build the future with a powerful visual collaboration suite.
+
+Product suite overview
+
+The intelligent diagramming solution.
+
+A virtual whiteboard
+
+AI-powered product management software
+
+Solutions
+
+Tap into the power of visual collaboration to launch ideas into action.
+
+By initiative
+Digital transformation
+Cloud migration
+New product development
+Hybrid teams
+By team
+IT
+Engineering
+Product & UX
+Project management
+Operations
+By industry
+Public sector
+Education
+Financial Services
+Consulting services
+Healthcare
+View More
+Resources
+
+Get the info and support you need to succeed with Lucid
+
+Support and services
+Help center
+User community
+Professional services
+Developers
+Integrations
+Education
+Lucid blog
+Templates
+Webinars
+E-books
+Training labs
+All-access Agile
+Company
+
+We help teams see and build the future.
+
+Policies and practices
+Legal
+Privacy
+Security
+About Lucid Software
+About us
+Newsroom
+Careers
+Security
+Contact us
+Contact sales
+en
+Log in
+Product
+
+Create powerful visuals to improve your ideas, projects, and processes.
+
+Overview
+Lucidchart overview
+Pro trial
+Use cases
+
+Work smarter to save time and solve problems.
+
+Process documentation
+Visualizing teams
+Technical diagramming
+Visualizing infrastructure
+AI diagramming
+Interactive learning
+Visio replacement
+More use cases
+Blog
+Enterprise
+Pricing
+Watch a demo
+Sign up free
+Diagramming powered by intelligence
+
+Create next-generation diagrams with AI, data, and automation in Lucidchart. Understand and optimize every system and process.
+
+Sign up free
+Google
+Microsoft
+Slack
+
+By registering, you agree to our Terms of Service and you acknowledge that you have read and understand our Privacy Policy.
+
+See your work take shape
+
+Generate visuals automatically with AI and data imports, or build your own using intuitive diagramming tools.
+
+Align people and priorities
+
+Collaborate on diagrams in real time or anytime. Create a shared understanding with visual documentation.
+
+Take action on insights
+
+Use intelligent features to improve data visibility, so you can make informed decisions and boost innovation.
+
+How teams use Lucidchart to create diagrams with intelligence
+
+Process maps and flowcharts
+
+AI-generated diagrams
+
+Org and team planning
+
+Technical diagrams
+
+Systems and architecture
+
+Process maps and flowcharts
+
+Establish a single source of truth as you map out and optimize every process. Use features such as:
+
+Diagram as code
+Quick diagramming
+Real-time collaboration
+
+Integrates with:
+
+Learn more
+AI-generated diagrams
+
+Save time and effort by letting AI do the diagramming and summarizing for you. Use features such as:
+
+Lucid AI
+Enhance prompt
+Summarize
+
+Integrates with:
+
+Learn more
+Org and team planning
+
+Build dynamic org charts to visualize people and workloads by department or team. Use features such as:
+
+Data imports
+Data linking
+Group view
+
+Integrates with:
+
+Learn more
+Technical diagrams
+
+Improve documentation by creating visuals that boost clarity and efficiency. Use features such as:
+
+ERD markup
+Conditional formatting
+Layers
+
+Integrates with:
+
+Learn more
+Systems and architecture
+
+Visualize your infrastructure and create a central communication hub. Use features such as:
+
+AI Prompt Flow
+Linking and embedding
+Cloud shape libraries
+
+Integrates with:
+
+Learn more
+Where seeing becomes doing, faster
+
+Not sure how to visualize your systems, processes, or org structures? Get inspiration (and a big head start) with Lucidchart templates.
+
+Explore templates
+Capabilities for next-generation diagramming
+
+Go beyond shapes and lines. Create diagrams in less time with data-driven intelligence.
+
+Lucid AI
+
+Data linking
+
+Conditional formatting
+
+UML markup
+
+Layers
+
+Type text prompts to create AI-generated content automatically on your Lucidchart canvas, or ask questions to get started with AI.
+
+Whatever your workflow, there’s an integration for that
+
+Streamline processes and eliminate silos by connecting Lucidchart with dozens of your team’s favorite apps.
+
+Go to marketplace
+Lucid Custom GPT
+
+Use text prompts in ChatGPT to generate diagrams in Lucidchart that you can edit and share.
+
+Learn more
+Lucid Custom GPT
+
+Keep everyone in sync by attaching Lucid diagrams to Jira tasks, projects, and issues.
+
+Learn more
+Lucid Custom GPT
+
+Increase clarity and collaboration across teams by adding Lucidchart documents to Confluence.
+
+Learn more
+Lucid Custom GPT
+
+Grant access to Lucid documents from Slack, and start a brainstorming session with Slack shortcuts.
+
+Learn more
+Lucid Custom GPT
+
+Embed and edit Lucidchart diagrams in Teams, and use Lucid AI to quickly summarize Lucid documents.
+
+Learn more
+Lucid Custom GPT
+
+Paste Lucidchart links directly into Notion pages to organize work and share visuals with your team.
+
+Learn more
+
+Integrations
+
+Better collaboration for your apps, too
+
+With more than 100 custom-built integrations (and counting), Lucid works seamlessly with the apps you already use. Select one below to learn more.
+
+Go to integrations marketplace
+
+The following section contains a long list of integration links. Press ESCAPE at any time to skip to the next section
+
+The complete visual collaboration solution for enterprises
+
+The Lucid Suite combines Lucidchart for intelligent diagramming and Lucidspark for virtual whiteboarding. Equip every team in your organization with the most used, most intelligent, most complete, and most connected platform of its kind.
+
+Learn more
+Additional resources
+AI in Lucid
+
+Learn more about AI capabilities across the Lucid platform.
+
+Take a look
+Lucid Training Labs
+
+Level up your diagramming skills and earn Lucid Builder Badges.
+
+Start learning
+Lucid Community
+
+Connect and engage with other Lucid diagrammers and the Lucid team.
+
+Join us
+Try Lucidchart free and see the future of diagramming
+Sign up free
+
+Get started
+
+Pricing
+Individual
+Team
+Enterprise
+Contact sales
+
+Product
+
+Lucidchart overview
+Integrations
+Security
+
+Use cases
+
+Process documentation
+Visualizing teams
+Technical diagramming
+Visualizing infrastructure
+Education
+
+Company
+
+About us
+Newsroom
+Careers
+Accessibility
+
+Resources
+
+Training labs
+Blog
+Webinars
+Help center
+Case studies
+Diagrams
+User community
+Newsletter
+Partners
+en
+Privacy
+Legal
+Cookie privacy choices
+Cookie policy
+
+© 2025 Lucid Software Inc.

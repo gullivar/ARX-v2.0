@@ -1,0 +1,241 @@
+Skip to content
+/
+Blog
+Changelog
+Docs
+Customer stories
+Try GitHub Copilot
+See what's new
+AI & ML
+Developer skills
+Engineering
+Enterprise software
+News & insights
+Open Source
+Security
+AI & ML
+WRAP up your backlog with GitHub Copilot coding agent
+
+An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.
+
+Brittany Ellich & Jason Etcovitch · December 26, 2025
+Security
+Strengthening supply chain security: Preparing for the next malware campaign
+
+Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack.
+
+Madison Oliver · December 23, 2025
+Maintainers
+5 podcast episodes to help you build with confidence in 2026
+
+Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools.
+
+Cassidy Williams · December 22, 2025
+Maintainers
+This year’s most influential open source projects
+
+From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort.
+
+Lee Reilly · December 22, 2025
+We do newsletters, too
+
+Discover tips, technical guides, and best practices in our biweekly newsletter just for devs.
+
+Your email address
+*
+Your email address
+Subscribe
+Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness. See the GitHub Privacy Statement for more details.
+Latest
+View all
+News & insights
+The future of AI-powered software optimization (and how it can help your team)
+
+We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency.
+
+Paull Young · December 12, 2025
+News & insights
+Let’s talk about GitHub Actions
+
+A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.
+
+Ben De St Paer-Gotch · December 11, 2025
+Company news
+GitHub Availability Report: November 2025
+
+In November, we experienced three incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · December 11, 2025
+Popular
+All categories
+AI & ML
+Spec-driven development with AI: Get started with a new open source toolkit
+
+Developers can use their AI tool of choice for spec-driven development with this open source toolkit.
+
+Den Delimarsky · September 2, 2025
+AI & ML
+WRAP up your backlog with GitHub Copilot coding agent
+
+An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.
+
+Brittany Ellich & Jason Etcovitch · December 26, 2025
+News & insights
+Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1
+
+In this year’s Octoverse, we uncover how AI, agents, and typed languages are driving the biggest shifts in software development in more than a decade.
+
+GitHub Staff · October 28, 2025
+Changelog
+View all changes 
+Improved performance for GitHub Actions workflows page
+December 22, 2025
+Control who can request apps for your organization now in public preview
+December 22, 2025
+You can now require reviews before closing Dependabot alerts with delegated alert dismissal
+December 19, 2025
+Copilot memory early access for Pro and Pro+
+December 19, 2025
+Engineering
+More engineering articles
+Post-quantum security for SSH access on GitHub
+
+GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit.
+
+brian m. carlson & Taylor Blau · September 15, 2025
+How GitHub engineers tackle platform problems
+
+Our best practices for quickly identifying, resolving, and preventing issues at scale.
+
+Fabian Aguilar Gomez · June 10, 2025
+GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it
+
+Plus, considerations in updating one of GitHub’s oldest and most heavily used features.
+
+Deborah Digges · May 13, 2025
+Design system annotations, part 2: Advanced methods of annotating components
+
+How to build custom annotations for your design system components or use Figma’s Code Connect to help capture important accessibility details before development.
+
+Jan Maarten · May 9, 2025
+Design system annotations, part 1: How accessibility gets left out of components
+
+The Accessibility Design team created a set of annotations to bridge the gaps that design systems alone can’t fix and proactively addresses accessibility issues within Primer components.
+
+Jan Maarten · May 9, 2025
+Spotlight
+View GitHub on YouTube
+Octoverse 2025: AI, India, and the new #1 programming language
+
+Dive into the key findings from Octoverse 2025! This year saw record-breaking growth with over 180 million developers now on GitHub. We explore three big shifts: generative AI becoming ordinary engineering, TypeScript’s rise to the #1 language, and how AI is influencing developer choices. See how the developer map is redrawing itself faster than ever.
+
+The untold story of Log4j and Log4Shell
+
+In late 2021, the Log4Shell vulnerability sent shockwaves through the global tech community. Hear the untold, inside story from Christian Grobmeier, a maintainer of the Log4j project.
+
+Two decades of Git: A conversation with creator Linus Torvalds
+
+Twenty years ago, Linus Torvalds created the basis for Git in just 10 days, forever changing how developers collaborate on code. In this interview, Linus Torvalds discusses Git’s unexpected journey.
+
+Featured playlists
+View all playlists
+
+Explore GitHub Universe 2025
+
+Learn about GitHub Copilot
+
+Stay informed with The Download
+
+Explore GitHub for Beginners
+
+News & insights
+More News & insights articles
+The new identity of a developer: What changes and what doesn’t in the AI era
+
+Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering.
+
+Eirini Kalliamvakou · December 8, 2025
+Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security
+
+Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com.
+
+Griffin Ashe · December 3, 2025
+The ultimate gift guide for the developer in your life
+
+Finding the perfect gift for your favorite developer is easy with our top tips.
+
+Lavinia Sfetcu · November 28, 2025
+Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming
+
+Discover how Python changed developer culture—and see why it keeps evolving.
+
+Natalie Guevara · November 25, 2025
+Developers still need the right to challenge junk patents
+
+Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by the December 2 deadline.
+
+Mike Linksvayer · November 24, 2025
+GitHub Availability Report: October 2025
+
+In October, we experienced four incidents that resulted in degraded performance across GitHub services.
+
+Jakub Oleksy · November 13, 2025
+The world's largest developer platform
+Docs
+
+Everything you need to master GitHub, all in one place.
+
+Go to Docs 
+GitHub
+
+Build what’s next on GitHub, the place for anyone from anywhere to build anything.
+
+Start building 
+Customer stories
+
+Meet the companies and engineering teams that build with GitHub.
+
+Learn more 
+The GitHub Podcast
+
+Catch up on the GitHub podcast, a show dedicated to the topics, trends, stories and culture in and around the open source developer community on GitHub.
+
+Listen now 
+Site-wide Links
+Product
+Features
+Security
+Enterprise
+Customer Stories
+Pricing
+Resources
+Platform
+Developer API
+Partners
+Atom
+Electron
+GitHub Desktop
+Support
+Docs
+Community Forum
+Training
+Status
+Contact
+Company
+About
+Blog
+Careers
+Press
+Shop
+© 2025 GitHub, Inc.
+Terms
+Privacy
+Manage Cookies
+Do not share my personal information
+GitHub on LinkedIn
+GitHub on Instagram
+GitHub on YouTube
+GitHub on X
+GitHub on TikTok
+GitHub on Twitch
+GitHub’s organization on GitHub

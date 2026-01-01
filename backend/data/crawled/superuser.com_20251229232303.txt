@@ -1,0 +1,248 @@
+Skip to main content
+Log in
+Sign up
+Home
+Questions
+Unanswered
+AI Assist
+Tags
+Chat
+Users
+Companies
+STACK INTERNAL
+
+Stack Overflow for Teams is now called Stack Internal. Bring the best of human thought and AI automation together at your work.
+
+Try for free Learn more
+Explore our questions
+Ask Question
+linuxwindowswindows-7windows-10networkingmicrosoft-excelubuntumacoshard-drivewireless-networking more tags
+Active
+Hot
+Week
+Month
+0
+votes
+2
+answers
+6k
+views
+Why is I am getting a “Shutdown Access is Denied (5)” error on my system?
+windows-7remote-accessremote-shutdown
+Community
+Bot
+1
+modified 19 mins ago
+6
+votes
+1
+answer
+43k
+views
+socket.error: [Errno 10013] Port forbidden access permissions
+portsockets
+Community
+Bot
+1
+modified 19 mins ago
+1
+vote
+2
+answers
+56
+views
+How to zero wipe the journal on an ext4 filesystem?
+linuxfilesystemsext4journaling
+Theodore Ts'o
+1,195
+answered 38 mins ago
+0
+votes
+0
+answers
+35
+views
+How can I setup a Batch file to recurse 2 levels of a directory and run a command?
+windowsbatch
+Tnhung2011
+1
+modified 1 hour ago
+0
+votes
+2
+answers
+4k
+views
+CentOS 7 VirtualBox no internet access (even after adding DNS1 and modify ONBOOT to yes)
+networkingvirtualboxcentos-7
+Community
+Bot
+1
+modified 1 hour ago
+0
+votes
+1
+answer
+19k
+views
+Why can't I open email attachments (files) in Microsoft Office?
+windows-7microsoft-word-2007microsoft-office-2007
+Community
+Bot
+1
+modified 1 hour ago
+7
+votes
+3
+answers
+234
+views
+How to "aggregate" a list of items for a shopping list?
+microsoft-excelworksheet-function
+P.b
+1,079
+answered 2 hours ago
+4
+votes
+3
+answers
+839
+views
+Is there a Windows command or script to delete the last file in a ZIP archive?
+windows-10zip
+Tnhung2011
+1
+modified 2 hours ago
+0
+votes
+1
+answer
+70
+views
+Why does Google Chrome on my MacBook Pro running macOS 15.6.1 keep on changing the download folder?
+google-chromemacdownloadmacbook
+benwiggy
+117
+answered 2 hours ago
+0
+votes
+1
+answer
+4k
+views
+How to create Numbered List without Hanging Indent in MS word
+microsoft-word
+Community
+Bot
+1
+modified 3 hours ago
+1
+vote
+3
+answers
+5k
+views
+Mac OSX Mavericks - ZSH can't 'source ~/.zshrc', too many open files
+macosmacbashterminalzsh
+Community
+Bot
+1
+modified 3 hours ago
+0
+votes
+1
+answer
+23
+views
+Why does the WireGuard tunnel connect on all devices, but works only on latest in the list?
+networkingroutervpnopenwrtwireguard
+grawity
+513k
+answered 3 hours ago
+3
+votes
+2
+answers
+193
+views
+Typing backtick in GitHub on Firefox does not create a full-width character
+linuxfirefoxkeyboard-layoutgithubdead-keys
+Ian Mackinnon
+5,944
+answered 3 hours ago
+0
+votes
+0
+answers
+9
+views
+Right ctrl acts as touchpad (mouse) left click in pop os cosmic
+pop-os
+Konstantin Ligus
+1
+asked 3 hours ago
+Browse more Questions
+Hot Network Questions
+Two points on a cube with exactly three shortest paths connecting them
+How can I make an object shadowless?
+Word: the beginning
+How can I get the Korg Pa5X to play a bass guitar voice when I press a key on the keyboard?
+Is there a lightweight Windows tool that can route the traffic of a specific exe to a designated NIC?
+Do mobile network base stations still use lead acid for backup power?
+How did the blood evidence in Wake Up Dead Man pass police investigation?
+MS-DOS 4.0 MZ executable specification
+Creating realistic small air bubbles in oil
+Greek transliteration of the Latin word, parma
+How is the disc identifier found in .cda files computed?
+zpool resilver crash may have caused pool to become corrupted
+Does it make sense to average standard errors like this?
+What is the significance of the red thread in Wake Up Dead Man?
+FunctionDomain of Hold Piecewise function
+Is the CANN license an open source license?
+How can I convert object locations currently in UTMs to a rectangular (square) coordinate system with lower left corner coordinates as 0 m , 0 m?
+What are the international agreements that Russia has recently terminated with 11 European countries?
+Is the 2013 "photo" of a hydrogen atom with an electron orbiting real?
+How can I make sudo apt install warn me that I'm about to pull from Debian Unstable?
+How to confirm the original server IP behind a CDN?
+What is the earliest known story using a "teleportation" device to visit worlds?
+Why doesn't the HDMI port on an HP EliteBook Ultra G1i work as an output port?
+Why does \textstyle not work in \smashoperator?
+ Recent questions feed
+SUPER USER
+Tour
+Help
+Chat
+Contact
+Feedback
+COMPANY
+Stack Overflow
+Stack Internal
+Stack Data Licensing
+Stack Ads
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+STACK EXCHANGE NETWORK
+Technology
+Culture & recreation
+Life & arts
+Science
+Professional
+Business
+API
+Data
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+Site design / logo © 2025 Stack Exchange Inc; user contributions licensed under CC BY-SA . rev 2025.12.22.38265
+
+By continuing to use this website, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy. By exiting this window, default cookies will be accepted. To reject cookies, select an option from below.
+Necessary cookies only
+Customize settings

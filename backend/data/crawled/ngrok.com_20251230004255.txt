@@ -1,0 +1,204 @@
+One gateway for every AI model. Available in early access *now* @ ngrok.ai →
+Platform
+Use cases
+Blog
+Resources
+Docs
+Pricing
+Get ngrok
+Log in
+Sign up
+Putting your APIs online shouldn't be hard.
+So we made it easy. ngrok is the flexible API gateway for instant, secure connectivity anywhere—public or private. Ditch the infrastructure headaches and enjoy building software again.
+
+Get started for free
+Read the docs
+Available now: One gateway for every AI model.
+Route, secure, and manage traffic to any LLM—cloud or local—with one unified platform.
+Register for early access
+ngrok isn’t just for development.
+
+Thousands rely on it daily to instantly serve critical applications and APIs across clouds, on-prem, and customer or partner networks—without the headache of complex infrastructure.
+
+Sign up for free
+Site-to-site connectivity
+Never ask customers to open ports on the firewall. Access apps and APIs securely in your customers’ environments without site-to-site VPNs, VPC peering or other complex networking.
+Learn more
+API Gateway
+Go from code to global in just minutes with a developer-friendly, idiomatic solution for managing traffic to your APIs.
+Learn more
+Device Gateway
+Standardize connectivity across your fleet of IoT devices running in external networks. No need to struggle with custom protocols.
+Learn more
+Kubernetes Operator
+Simplify ingress with the Kubernetes Operator, using Ingress Controller or Gateway API, by offloading traffic management and security to ngrok’s global network.
+Learn more
+Global Load Balancer
+Ensure high performance and availability by routing traffic to the nearest Point of Presence (PoP) with preconfigured global load balancer.
+Learn more
+Identity-Aware Proxy
+Protect your applications and APIs from unauthorized access without writing extra code.
+Learn more
+Development made easy
+
+Bring secure connectivity to apps and APIs in localhost and dev/test environments with just one command or function call.
+
+Sign up for free
+Webhook Testing
+Get a secure public URL for your local web server, then trigger webhooks. Inspect the traffic to your server and replay webhook requests to iterate quickly while staying in context.
+Learn more
+Developer Preview
+Demo a website or an app running on your local machine to a client or stakeholder instantly and securely, without deploying to a staging environment.
+Learn more
+Pay only for what you use
+
+Ditch high upfront costs and pay only for active endpoints and successful API calls. Scale your costs in line with your API traffic growth.
+
+Get started for free
+How it works
+ngrok operates a global network where it accepts traffic to your upstream services from clients.
+
+Clients connect to your endpoints (URLs). You configure policies such as authentication or transformation. Unlike traditional proxies, ngrok doesn't rely on IP forwarding. Instead, you run a lightweight agent that connects securely to ngrok's network. Traffic flows through this secure connection to your service.
+
+With ngrok, we get comprehensive security with a full scope of functionality for all of our use cases.
+Ihor Leshko,
+Director of Engineering at
+Databricks
+Industry leaders rely on ngrok
+Read customer stories
+Trusted and secure platform with massive scale
+Working with ngrok means working with a vetted, secure solution.
+View security practices
+Over
+7 million
+devs use ngrok
+Over 80%
+of Cloud 100
+companies use ngrok
+Over
+100 trillion
+total requests served
+Over 1600
+AI innovators
+deliver AI/ML apps with ngrok
+38,000+
+
+companies trust ngrok
+Why ngrok?
+Built for developers.
+
+Unlock the power of SaaS. Built to deliver applications and APIs with  zero networking configuration and zero hardware. Run your apps anywhere  and bring them online in just one line.
+
+Networking shouldn’t feel like a boss fight.
+No more ports, IPs, DNS, or firewall configurations. Just URLs and identities.
+Learn more
+Online in one line
+One command, you're online. Seriously, try for yourself.
+Learn more
+
+‍
+
+Auth, rate limits, redirects—ugh.
+Had to do this once—hated it. Doing it for every API? No thanks. We built Traffic Policy so stuff like this take minutes, not days.
+Learn more
+Instant observability.
+View live traffic happening on your APIs in real-time the second it goes online.
+Learn more
+CLI not your vibe? Use our SDKs.
+Python, Rust, Go, Java, and JavaScript SDKs that you can use to embed ngrok directly into your app or API
+Learn more
+The ngrok platform
+Zero Trust
+
+Add SSO, Mutual TLS,  IP Policy, and webhook signature verification.
+
+Any protocol
+
+Native support for HTTP, TLS, and any TCP based protocol.
+
+Observability
+
+Log all traffic and account activity.
+
+Global Network
+
+Deliver fast and reliable services powered by our Points of Presence.
+
+Load balancing
+
+Route traffic to multiple backends for scale and fault tolerance.
+
+Authorization
+
+Protect services with OAuth, SAML and OIDC.
+
+Instant domains
+
+Use a ngrok domain with no setup or bring your own domain.
+
+Encryption
+
+Automatic certificates and an A+ SSL report card with no config.
+
+Get started for free
+Developer Roundtable: Gateway API
+
+In this episode of our Developer Roundtable series, we highlight our updated ngrok Kubernetes Operator that now supports the Kubernetes Gateway API spec.
+
+Watch the webinar
+The latest from the ngrok blog
+Sync secrets from external sources to ngrok with Kubernetes External Secrets
+How Rinsed builds data pipelines in car washes: the lessons learned
+How Vijil built a trust layer for my first AI agent
+API gateway shapes: back then, now, and beyond
+ngrok-operator v0.20.0: Go SDK v2 and edges removal
+Secrets for Traffic Policy now in Open Beta
+Get the latest updates on ngrok products and features
+View the blog
+Platform
+Product
+Cloud Edge
+Secure Tunnels
+Platform Features
+Use Cases
+ngrok for development
+ngrok for production
+API Gateway
+Site-to-Site Connectivity
+Kubernetes Operator
+Device Gateway
+Global Load Balancer
+Identity-Aware Proxy
+Webhook Testing
+Developer Preview
+View all use cases
+Resources
+Security
+Trust
+Platform
+Customers
+Integrations
+Blog
+Support
+Abuse
+Get Started
+Download
+Pricing
+Docs
+Contact
+Partners
+Service status
+Company
+About
+Newsletter
+Events
+Press
+Brand
+Careers
+Terms of Service
+Privacy Policy
+Privacy Preferences
+DPA
+©
+2025
+ngrok, Inc.

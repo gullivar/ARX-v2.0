@@ -1,0 +1,279 @@
+This site uses cookies 🍪
+
+Yeah, we know… nobody likes them. But they help us keep things running, personalize stuff, and figure out what actually works. Check our Cookie Policy if you want the details.
+
+Reject all
+Accept all
+NEW
+Grid Pro
+50% off through 2025
+NEW
+React
+Our improved React integration
+NEW
+Highcharts on Discord
+Join our server
+Skip to content
+Products
+Demos
+Support
+Resources
+Pricing
+Blog
+Highcharts GPT
+Buy Now
+Try for Free
+Powerful Data Viz
+for real-world apps
+
+Fast to implement, endlessly flexible, and trusted by 80 of the world’s largest 100 companies
+
+Try for Free
+Documentation
+Developers love Highcharts
+Quick to start
+
+“Highcharts hits our sweet spot – powerful enough to present complex data, responsive, and easy enough to implement.”
+
+McCourt C.
+
+Systems Development Manager
+
+Read review on G2
+Framework friendly
+
+“Highcharts…integrates seamlessly with component passed frameworks like Angular, React and Vue to make it simple to add charts as components to a UI.“
+
+Vimal P.
+
+Desktop Support Engineer
+
+Read review on G2
+Robust customization
+
+“Highcharts API is really flexible based on well designed fully customizable settings which can tweak your charts nitty-gritty details.”
+
+Attila C.
+
+Angular Developer
+
+Read review on G2
+
+15+
+
+Years actively maintained
+
+12K+
+
+GitHub Stars
+
+3.1M+
+
+Weekly NPM downloads
+
+140+
+
+Countries
+
+50K+
+
+Customers
+
+QUICK TO START
+
+Production-ready,
+out of the box
+
+Highcharts gives you a solid foundation from day one, so you can focus on building real product value. Everything you need to ship reliable, polished data visualizations is already here.
+
+Built-in adaptive themes
+
+Highcharts ships with an adaptive theme that respects the color scheme your users prefer.
+
+Smart defaults
+
+With just a few lines of code and some data, you get a fully interactive chart, ready to customize.
+
+Intelligent responsiveness
+
+Intelligent responsiveness adjusts the chart to its container and smartly positions labels, legends, and headings.
+
+Accessibility done right
+
+Highcharts includes one of the most robust accessibility modules available in any data visualization library, helping you meet compliance standards with minimal configuration
+
+FRAMEWORK FRIENDLY
+
+Drop charts like components
+
+We design our integrations to follow your framework’s conventions, not the other way around. And yes, they’re officially supported and professionally maintained.
+
+Explore all integrations
+
+ROBUST CUSTOMIZATION
+
+Built to flex across industries
+
+Whether you’re building for healthcare, finance, or internal analytics, Highcharts lets you customize charts to match your data model, styling, and users.
+
+Morningstar
+
+Connect Highcharts to Morningstar’s API and start visualizing its data with minimal effort.
+
+Morningstar use case
+Drivetrain
+
+Drivetrain uses Highcharts Core to help deliver AI-powered financial insights.
+
+Drivetrain use case
+GitHub
+
+GitHub uses Highcharts to present their insight analytics.
+
+GitHub use case
+Horus
+
+Horus uses Highcharts Dashboards to present actionable insights to their customers.
+
+Horus use case
+U.S Environmental Projection Agency
+
+The U.S. EPA uses Highcharts to present data about health and safety.
+
+EPA use case
+Gi gaven videre
+
+Charitable giving site, Gi gaven videre (give the gift) uses Highcharts to track contributions.
+
+Go to Gi gaven videre
+Business Intelligence
+Powered by you
+
+You know your data. We’ll help you turn it into something powerful. Our new editor uses AI to make dashboard creation faster and more intuitive, with you in control.
+
+Join the waitlist
+
+Build without code
+
+Create charts and dashboards through natural prompts and explore new insights in your data.
+
+Work across datasets
+
+Use AI to combine, query, filter, and manipulate data with ease.
+
+Share your way
+
+Publish to the world or keep it private, with support for real-time data updates.
+
+Collaborate
+
+Manage users and teams with built-in organizational tools.
+
+“Everything is possible with Highcharts”
+
+Atilla C., Angular Developer
+
+Read full review on G2
+
+Get started today
+See pricing
+
+We make it easy for developers to create charts and dashboards for web and mobile platforms.
+
+npm install highcharts
+
+Meet the team behind the charts
+
+Stay in the Loop
+Sign up
+
+By signing up, you agree to the Privacy Policy
+
+Discord
+/ Total
+
+Join us
+
++
+Ways to get help
+
+We operate in CET
+Monday - Friday
+
+Ask tech and sales questions with
+Highcharts GPT
+Search answers on
+StackOverflow
+Report issues on
+GitHub
+Contact sales about
+Licensing Options
+Products
+Core
+Stock
+Maps
+Gantt
+Dashboards
+Grid
+NEW
+Integrations
+React
+TypeScript
+Angular
+Vue
+JavaScript
+Flutter
+NEW
+Node.js
+Python
+Svelte
+Documentation
+Demos
+Docs
+API Reference
+Roadmap
+Changelog
+Support
+Ask Highcharts GPT
+Highcharts Forum
+Customer Support Portal
+Highcharts for Python Support
+FAQ
+Learning
+Highcharts Academy
+Chart Chooser
+Educational License
+Accessibility
+Inspiration
+Community
+Highsoft Lab
+Discord
+NEW
+Blog
+About
+Our Story
+Discover the Team
+Join the Team
+Contact Us
+Data Connectors
+Morningstar Data
+Pro Services
+Custom Projects
+Support Plans
+Advantage
+Advantage Plus
+Tools
+Figma Plugin
+Editor
+Highcharts GPT
+Legal
+Privacy Policy
+Fair Usage Policy
+Standard License Agreement
+Code of Conduct
+Due Diligence Transparency Act
+© 2025 Highsoft. All rights reserved.
+Accessibility Statement
+Sitemap
+Cookie Preferences
+Cookie Policy

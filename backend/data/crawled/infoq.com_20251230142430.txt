@@ -1,0 +1,340 @@
+Your choice regarding cookies on this site
+
+We use cookies to optimise site functionality and give you the best possible experience.
+
+I ACCEPTI DO NOT ACCEPTSETTINGS
+
+Live Webinar and Q&A: A Reference Architecture for Building Trustworthy Agentic AI Systems (Jan 22, 2026)
+Save Your Seat
+
+CLOSE
+
+Facilitating the Spread of Knowledge and Innovation in Professional Software Development
+
+English Edition
+Write for InfoQ
+Search
+REGISTER
+SIGN IN
+Logo - Back to homepage
+Development
+ 
+Architecture & Design
+ 
+AI Infrastructure
+ 
+Culture & Methods
+ 
+DevOps
+ 
+Events
+QCon AI New York 2025
+
+Go from AI demos to real engineering impact. Learn to embed LLMs, govern & scale securely.
+
+SOLD OUT!
+
+InfoQ Architect Certification
+
+Join Luca Mezzalira for this 5-week online cohort. Master socio-technical architecture leadership.
+
+Save your spot.
+
+QCon London 2026
+
+Learn what works in AI, architecture, data, security & FinTech.
+
+Early Bird ends Jan 13.
+
+QCon AI Boston
+
+Learn how leading engineering teams run AI in production—reliably, securely, and at scale.
+
+Early Bird ends Jan 13.
+
+NEWS
+AWS Expands Well‑Architected Guidance with Data Residency and Hybrid Cloud Lens
+LEELA KUMILI
+ON DEC 29
+SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds
+VINOD GOJE
+ON DEC 29
+SharePoint Framework 1.22 Ships with Heft-Based Build Toolchain and Refreshed Project Baseline
+EDIN KAPIĆ
+ON DEC 29
+Michelin Drives Pragmatic Path to AIOps Without a Grand Vision
+MATT SAUNDERS
+ON DEC 29
+How Developers in Southeast Asia and India Are Really Using AI in 2025
+OLIMPIU POP
+ON DEC 29
+Java News Roundup: Spring Vault, LangChain4j, Seed4J, Infinispan, Gradle
+MICHAEL REDLICH
+ON DEC 29
+Docker Makes Hardened Images Free in Container Security Shift
+MATT SAUNDERS
+ON DEC 28
+MinIO GitHub Repository in Maintenance Mode: What's Next for the Open Source Object Storage?
+RENATO LOSIO
+ON DEC 28
+MORE NEWS 
+TRENDING
+10 days
+40 days
+6 months
+Icon
+OpenAI and Anthropic Donate AGENTS.md and Model Context Protocol to New Agentic AI Foundation
+Icon
+AWS Launches ECS Express Mode to Simplify Containerised Application Deployment
+Icon
+Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust
+Icon
+AWS Introduces Regional Availability for NAT Gateway
+Icon
+MinIO GitHub Repository in Maintenance Mode: What's Next for the Open Source Object Storage?
+Icon
+The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter
+ARTICLES
+Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts
+EGOR SAVOCHKIN
+ON DEC 29
+Building Streaming Infrastructure That Scales: Because Viewers Won't Wait until Tomorrow
+DANIELE FRASCA
+ON DEC 23
+Where Architects Sit in the Era of AI
+DAVE HOLLIDAY
+JOÃO CARLOS GONÇALVES
+MANOJ KUMAR YADAV
+ON DEC 19
+Architecture in a Flow of AI-Augmented Change
+JONATHAN MCPHAIL
+JUAN MEDINA
+JAKE DECRANE
+ISURU WIJESUNDARA
+ON DEC 18
+MORE ARTICLES 
+RELATED SPONSORS
+[Webinar] Creating Certainty in the Age of Agentic AI. Watch On-Demand.
+
+Akka
+
+Cutting Java Costs in 2026 Without Slowing Delivery
+
+Payara
+
+In Case You Missed It
+SEE ALL
+Building a RAG Application with Spring Boot, Spring AI, MongoDB Atlas Vector Search, and OpenAI
+MATTEO ROSSI
+Three Questions That Help You Build a Better Software Architecture
+PIERRE PUREUR, KURT BITTNER
+Reducing False Positives in Retrieval-Augmented Generation (RAG) Semantic Caching: a Banking Case Study
+ELAKKIYA DAIVAM
+Micro-Frontends: a Sociotechnical Journey toward a Modern Frontend Architecture
+LUCA MEZZALIRA
+Building Distributed Event-Driven Architectures across Multi-Cloud Boundaries
+TEENA IDNANI
+InfoQ Trends Report
+InfoQ Java Trends Report - 2025
+MICHAEL REDLICH
+ERIK COSTLOW
+KARSTEN SILZ
+TRISHA GEE
+MARIT VAN DIJK
+RICHARD FICHTNER
+BERT JAN SCHRIJVER
+InfoQ Cloud and DevOps Trends Report - 2025
+STEEF-JAN WIGGERS
+SHWETA VOHRA
+MATT SAUNDERS
+InfoQ AI, ML and Data Engineering Trends Report - 2025
+SRINI PENCHIKALA
+SAVANNAH KUNOVSKY
+ANTHONY ALFORD
+DANIEL DOMINGUEZ
+VINOD GOJE
+InfoQ Culture & Methods Trends Report - 2025
+SHANE HASTIE
+JUTTA ECKSTEIN
+BEN LINDERS
+SUSAN MCINTOSH
+RAFIQ GEMMAIL
+CRAIG SMITH
+InfoQ Software Architecture and Design Trends Report - 2025
+THOMAS BETTS
+SARAH WELLS
+ERAN STILLER
+DANIEL BRYANT
+PRESENTATIONS
+Fix SLO Breaches before They Repeat: an SRE AI Agent for Application Workloads
+BRUNO BORGES
+ON DEC 29
+Icon
+48:17
+Changing Power Dynamics: What Senior Engineers Can Learn from Junior Engineers
+BETH ANDERSON
+ON DEC 26
+Icon
+49:29
+Ecologies and Economics of Language AI in Practice
+JADE ABBOTT
+ON DEC 24
+Icon
+50:19
+DevOps Is for Product Engineers, Too
+LESLEY CORDERO
+ON DEC 22
+Icon
+51:30
+Lessons Learned from Shipping AI-Powered Healthcare Products
+CLARA MATOS
+ON DEC 19
+Icon
+42:49
+Scaling Cloud and Distributed Applications: Lessons and Strategies from chase.com, #1 Banking Portal in the US
+DURAI ARASAN
+ON DEC 17
+Icon
+50:36
+MORE PRESENTATIONS 
+PODCASTS
+Effective Mentorship and Remote Team Culture with Gilad Shoham
+GILAD SHOHAM
+ON DEC 26
+Icon
+27:49
+The Latest in OpenJDK and JCP Expert Group: Insights with Simon Ritter
+SIMON RITTER
+ON DEC 22
+Icon
+38:45
+Building a More Appealing CLI for Agentic LLMs Based on Learnings from the Textual Framework
+WILL MCGUGAN
+ON DEC 15
+Icon
+33:07
+Leading from Any Position: Richard Bown on Humane Engineering Organizations
+RICHARD BOWN
+ON DEC 12
+Icon
+20:37
+Platform Engineering for AI: Scaling Agents and MCP at LinkedIn
+KARTHIK RAMGOPAL PRINCE VALLURI
+ON DEC 10
+Icon
+32:50
+Bridging the Open Source Gap: from Funding Paradoxes to Digital Sovereignty
+GABRIELE COLUMBRO
+ON DEC 08
+Icon
+26:13
+MORE PODCASTS 
+GUIDES
+Architecture Through Different Lenses 2025
+INFOQ
+AI Assisted Development: Real World Patterns, Pitfalls, and Production Readiness
+INFOQ
+Architectures You’ve Always Wondered About 2025
+INFOQ
+Act One: From Chatbots to AI Agents
+INFOQ
+MORE GUIDES
+Related Sponsors
+High-Stakes Data: Why Your AI Agents Are Failing (By O'Reilly)
+
+Boomi
+
+The Essential Guide to AI Tools for Jakarta EE Developers
+[Guide] Why AI Agents Need Real-Time Customer Intelligence
+Navigating the AI Agent Governance Gap: Research Insights
+How Brex Scaled Developer Testing Across Hundreds of Engineers with Signadot
+SPONSORED CONTENT
+Principles and Patterns for Distributed Application Architecture (By O'Reilly) - Download Now
+
+Akka
+
+Beyond Legacy NoSQL: 8 Design Principles Behind ScyllaDB
+
+ScyllaDB
+
+DEVELOPMENT
+How Developers in Southeast Asia and India Are Really Using AI in 2025
+MinIO GitHub Repository in Maintenance Mode: What's Next for the Open Source Object Storage?
+Cloudflare Open Sources tokio‑quiche, Promising Easier QUIC and HTTP/3 in Rust
+ARCHITECTURE & DESIGN
+AWS Expands Well‑Architected Guidance with Data Residency and Hybrid Cloud Lens
+Uber Adopts Amazon OpenSearch for Semantic Search to Better Capture User Intent
+Benchmarking beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus
+CULTURE & METHODS
+Changing Power Dynamics: What Senior Engineers Can Learn from Junior Engineers
+Effective Mentorship and Remote Team Culture with Gilad Shoham
+How Artificial Intelligence Can Help Us Connect with Customers
+AI, ML & DATA ENGINEERING
+SIMA 2 Uses Gemini and Self-Improvement to Generalize Across Unseen 3D and Photorealistic Worlds
+Ecologies and Economics of Language AI in Practice
+OpenAI and Anthropic Donate AGENTS.md and Model Context Protocol to New Agentic AI Foundation
+DEVOPS
+Fix SLO Breaches before They Repeat: an SRE AI Agent for Application Workloads
+Stop Guessing, Start Improving: Using DORA Metrics and Process Behavior Charts
+Michelin Drives Pragmatic Path to AIOps Without a Grand Vision
+The Software Architects' Newsletter
+
+A monthly overview of things you need to know as an architect or aspiring architects.
+View an example
+
+Stay informed on emerging trends, peer-validated early adoption of technologies, and architectural best practices
+Get a curated summary of what you need to know by domain experts
+You'll receive only one email per month (every last Friday of the month)
+Enter your e-mail address
+
+We protect your privacy.
+
+Home
+Create Account
+Log In
+QCon Conferences
+Events
+Write For InfoQ
+InfoQ Editors
+About InfoQ
+About C4Media
+Media Kit
+InfoQ Developer Marketing Blog
+Diversity
+Events
+QCon AI New York
+DECEMBER 16-17, 2025
+QCon London
+MARCH 16-19, 2026
+QCon AI Boston
+JUNE 1-2, 2026
+Follow us on
+Youtube
+232K Followers
+Linkedin
+26K Followers
+RSS
+19K Readers
+X
+57.1k Followers
+Facebook
+21K Likes
+Bluesky
+New
+Alexa
+New
+Stay in the know
+The InfoQ Podcast
+Engineering Culture Podcast
+The Software Architects' Newsletter
+General Feedback
+feedback@infoq.com
+Advertising
+sales@infoq.com
+Editorial
+editors@infoq.com
+Marketing
+marketing@infoq.com
+
+InfoQ.com and all content copyright © 2006-2025 C4Media Inc.
+Privacy Notice, Terms And Conditions, Cookie Policy

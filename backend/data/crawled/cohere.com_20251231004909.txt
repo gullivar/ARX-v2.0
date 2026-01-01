@@ -1,0 +1,328 @@
+Products
+
+Products
+
+WORKPLACE SYSTEMS
+
+North
+
+NEW
+
+An enterprise-ready AI platform that powers modern workplace productivity
+
+Compass
+
+An intelligent search and discovery system to surface business insights
+
+GENERATIVE MODELS
+
+Command
+
+A family of high-performance, scalable language models
+
+Aya Expanse
+
+Leading multilingual models that excel across 23 different languages
+
+ADVANCED RETRIEVAL MODELS
+
+Embed
+
+A leading multimodal search and retrieval tool
+
+Rerank
+
+A powerful model that provides a semantic boost to search quality
+
+CUSTOMIZATION
+
+PRICING
+
+Solutions
+
+INDUSTRIES
+
+Technology
+
+Financial Services
+
+Healthcare and Life Sciences
+
+Manufacturing
+
+Energy and Utilities
+
+Public Sector
+
+Security
+
+Best-in-class AI security and data protection
+
+PRIVATE DEPLOYMENTS
+
+Research
+
+Cohere Labs
+
+Cohere's research lab that seeks to solve complex ML problems
+
+MODEL
+
+Aya
+
+RESOURCES
+
+Papers
+
+Videos
+
+Blog
+
+INITIATIVES
+
+Open Science Community
+
+Scholars Program
+
+Catalyst Grant Program
+
+The Leaderboard Illusion
+
+Events
+
+Resources
+
+RESOURCES
+
+Blog
+
+Developers
+
+Docs
+
+LLM University
+
+Cookbooks
+
+CUSTOMER STORIES
+
+Draftwise
+
+Fujitsu
+
+BambooHR
+
+Notion
+
+Oracle
+
+Atomicwork
+
+COMMUNITY
+
+Discord
+
+Events
+
+On-Demand Events
+
+Company
+
+COMPANY
+
+About
+
+Careers
+
+Newsroom
+
+Partners
+
+Sign in
+
+Request a demo
+Your next breakthrough,
+powered by AI
+
+Cohere is where powerful AI meets practical business solutions — so you can work smarter.
+
+Request a demo
+Explore products
+
+Trusted by industry leaders and developers worldwide
+
+Safe. Flexible. Built for business.
+
+Security
+
+Ensure privacy and compliance with multi-layered protection, access controls, and industry-certified security standards.
+
+Learn more
+
+Deployment
+
+Secure your data by deploying within a dedicated virtual private cloud (VPC) environment or on-premises, air-gapped behind your firewall.
+
+Learn more
+
+Customization
+
+Train our models on your proprietary data and partner with us to create unique AI solutions that fit your use cases, needs, and infrastructure.
+
+Learn more
+The turnkey AI platform that helps your work flow
+
+From scattered tools to seamless action — North brings everything together so your work just works.
+
+Go North
+Powering progress across industries
+
+Financial Services
+
+Public Sector
+
+Energy
+
+Technology
+
+Healthcare
+
+Manufacturing
+
+Our models. All business.
+Command
+A family of high-performance generative models
+Supports 23 languages for global communication and discovery
+Seamlessly integrates into existing systems without disruption
+Powers AI applications that reason, act, and generate insights anchored in your data
+Learn more
+Embed
+A model for semantic text representation
+Semantic understanding: Captures text meaning for accurate document comparison
+Efficient retrieval: Converts text to vectors for fast, scalable search
+Contextual insights: Uncovers hidden patterns and relationships in data
+Learn more
+Rerank
+A model for relevance-based result refinement
+Relevance optimization: Prioritizes most relevant documents for better user experience
+Personalized search: Tailors results to individual user needs and preferences
+Dynamic refinement: Continuously updates results based on user interactions
+Learn more
+Developer resources
+
+Find everything you need to start building, from API access to deep technical docs, and try our models in the Playground.
+
+Let's go
+Get an API key
+Why leading teams trust Cohere
+“With Cohere's latest highly secure enterprise LLMs, we aim to provide businesses with powerful and adaptable AI solutions that address specific needs and accelerate the adoption of generative AI globally.”
+
+— Vivek Mahajan, Corporate Vice President, CTO and CPO
+
+Read more
+The latest news
+See more on the blog
+
+COHERE TEAM - DEC 12, 2025
+
+Introducing Rerank 4: Cohere’s most powerful reranker yet
+
+Read more
+
+COHERE TEAM - NOV 27, 2025
+
+Cohere Expands Partnership with SAP to Provide Europe Sovereign AI Solutions
+
+Read more
+
+COHERE TEAM - OCT 07, 2025
+
+Announcing the Cohere Partner Program: Boosting enterprise AI
+
+Read more
+
+Ready to put AI to work?
+Request a demo
+
+AI moves fast
+
+We’ll keep you up to date with the latest.
+
+Enter your business email below to receive updates from Cohere. Please refer to our privacy policy for details or to contact us. You can unsubscribe at any time.
+Products
+
+North
+
+Compass
+
+Command
+
+Embed
+
+Rerank
+
+Customization
+
+Pricing
+
+Deployment Options
+
+Private Deployments
+
+Solutions
+
+Technology
+
+Energy and Utilities
+
+Financial Services
+
+Healthcare and Life Sciences
+
+Manufacturing
+
+Public Sector
+
+Resources
+
+Blog
+
+Developers
+
+Events
+
+On-Demand Events
+
+LLM University
+
+Documentation
+
+Release Notes
+
+Company
+
+About
+
+Careers
+
+Research
+
+Newsroom
+
+Partners
+
+Security
+
+Trust Center
+
+Modern Slavery Act
+
+Cohere © 2025
+
+Privacy
+
+Terms of Use
+
+Manage Cookies
+
+English

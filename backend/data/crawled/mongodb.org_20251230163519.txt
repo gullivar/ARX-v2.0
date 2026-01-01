@@ -1,0 +1,116 @@
+MONGODB EVENT
+MongoDB.local SF, Jan 15: See the speaker lineup & ship your AI vision faster. Use WEB50 to save 50% >
+Products
+Resources
+Solutions
+Company
+Pricing
+Get Started
+Developer
+Business Leader
+
+JOIN US
+
+See how you can ship your AI vision faster at .local SF. Use WEB50 to save 50%.
+
+The database for dynamic, demanding software
+
+AI depends on fluid, instantly accessible data, not fragmented silos. Consolidate structured and unstructured data—text, video, audio, time series, and more—into a single, flexible system.
+
+Get Started
+Documentation
+TRUSTED BY TEAMS AT
+Deploy Your Way
+
+On-premises, on any cloud, or hybrid, MongoDB gives you freedom to run anywhere.
+
+Product Documentation
+MongoDB Atlas
+
+Fully managed cloud database and data services that simplify and accelerate.
+
+Learn more
+MongoDB Community Edition
+
+A free, source-available, self-managed version of MongoDB’s core database.
+
+Learn more
+MongoDB Enterprise Advanced
+
+Self-managed MongoDB with expert support and robust tools for security, database operations, and observability.
+
+Learn more
+Atlas Command Line Interface
+
+Use the Atlas CLI to develop in your preferred way—locally or in the cloud.
+
+Learn more
+Loved by developers, trusted by enterprises
+View all customer stories
+200
+databases migrated to Atlas in 4 months
+240%
+improvement in API performance
+RETAIL
+“MongoDB and everything that comes with it was great. On MongoDB, we could automate our deployments and scalability monitoring, and we had advanced features like search charts and an online vector store that didn’t exist in the CouchDB ecosystem.”
+Read Case Study
+MongoDB for Retail
+Works seamlessly with your tech stack
+MongoDB integrates with 100+ of your favorite technologies
+Explore our ecosystem
+
+Choose your path
+
+START HERE
+
+Build the next big thing
+
+Create the applications of tomorrow with less complexity than ever before.
+
+Get Started
+
+MORE INFORMATION
+
+Atlas Learning Hub
+Docs
+MongoDB University
+Pricing
+English
+© 2025 MongoDB, Inc.
+
+About
+
+Careers
+Investor Relations
+Legal
+Privacy Policy
+GitHub
+Security Information
+Trust Center
+Follow Us
+
+Support
+
+Contact Us
+Customer Portal
+Atlas Status
+Product Updates
+Customer Support
+Manage Cookies
+Your Privacy Choices
+
+Deployment Options
+
+MongoDB Atlas
+Enterprise Advanced
+Community Edition
+
+Data Basics
+
+Vector Databases
+NoSQL Databases
+Document Databases
+RAG Database
+ACID Transactions
+MERN Stack
+MEAN Stack

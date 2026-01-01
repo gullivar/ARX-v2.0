@@ -1,0 +1,131 @@
+By using our website you are consenting to our use of cookies in accordance with our Privacy PolicyOK
+
+Menu
+   
+Home
+Join
+Members
+Documentation
+Forum
+Blog
+Contact
+Get involved
+Overview
+Become a member
+Initiatives
+Service providers
+Special programs
+Working for you
+Sponsors program
+Webinars and events
+Ambassadors
+Working groups
+Code of conduct
+Fees
+API Learning Hub
+Find a service
+Overview
+Content Registration
+Grant Linking System (GLS)
+Metadata Retrieval
+Open Funder Registry (OFR)
+Support for Reference Linking
+Similarity Check
+Cited-by
+Metadata Plus
+Event Data
+Crossmark
+Documentation
+Overview
+Setting up as a member
+The research nexus
+Metadata principles and practices
+Register and maintain your records
+Schema library
+Reports
+Crossmark
+Cited-by
+Similarity Check
+Metadata Retrieval
+About us
+Overview
+Operations & sustainability
+Board & governance
+Strategic agenda and roadmap
+Our truths
+Our people
+Organisation chart
+Jobs
+Latest blog posts
+2025 December 18
+Highlights of a very busy year: our 2025 annual report
+
+As we finish celebrating our 25th anniversary, we can look back on a truly transformational year, defined by the successful delivery of several long-planned, foundational projects—as well as updates to our teams, services, and fees—that position Crossref for success over the next quarter century as essential open scholarly infrastructure. In our update at the end of 2024, we highlighted that we had restructured our leadership team and paused some projects. The changes made in 2024 positioned us for a year of getting things done in 2025. We launched cross-functional programs, modernised our systems, strengthened connections with our growing global community, and streamlined a bunch of technical and business operations while continuing to grow our staff, members, content, relationships, and community connections.
+
+...Find out more
+2025 December 17
+Twenty-five years of Crossref: reflections from the 2025 annual meeting and board election
+
+Crossref turned twenty-five this year, and our 2025 Annual Meeting became more than a celebration—it was a shared moment to reflect on how far open scholarly infrastructure has come and where we, as a community, are heading next.
+
+Over two days in October, hundreds of participants joined online and in local satellite meetings in Madrid, Nairobi, Medan, Bogotá, Washington D.C., and London––a reminder that our community spans the globe. The meetings offered updates, community highlights, and a look at what’s ahead for our shared metadata network––including plans to connect funders, platforms, and AI tools across the global research ecosystem.
+
+...Find out more
+2025 December 15
+Wellcome and Europe PMC: supporting Open Research through open metadata
+
+In my latest conversations with research funders, I talked with Hannah Hope, Open Research Lead at Wellcome, and Melissa Harrison, Team Leader of Literature Services at Europe PMC. Wellcome and Europe PMC are working together to realise the potential of funding metadata and the Crossref Grant Linking System for, among other things, programmatic grantee reporting. In this blog, we explore how this partnership works and how the Crossref Grant Linking System is supporting Wellcome in realising their Open Science vision.
+
+...Find out more
+2025 December 11
+Some things are big because they are small – the new fee tier for Crossref members takes effect
+
+In January 2026, our new annual membership fee tier takes effect. The new tier is US$200 for member organisations that operate on publishing revenue or expenses (whichever is higher) of up to US$1,000 annually. We announced the Board’s decision, making it possible in July, and––as you can infer from Amanda’s latest blog––this is the first such change to the annual membership fee tiers in close to 20 years!
+
+The new fee tier resulted from the consultation process and fees review undertaken as part of the Resourcing Crossref for Future Sustainability program, carried out with the help of our Membership and Fees Committee (made up of representatives from member organisations and community partners). The program is ongoing, and the new fee tier, intended to make Crossref membership more accessible, is one of the first changes it helped us determine.
+
+...Find out more
+Menu
+   
+'Floating rafts for recreation and relaxation while holidays or vacation in Thailand, Khao Sok, Cheow Lan Lake, Ratchaprapa Dam'
+ Join
+ Members
+ Documentation
+ Community forum
+Search site
+Search metadata
+
+Crossref runs open infrastructure to link research objects, entities, and actions, creating a lasting and reusable scholarly record that underpins open science. Together with our 23,000 members in 164 countries, we drive metadata exchange and support nearly 2 billion monthly API queries, facilitating global research communication, for the benefit of society.
+
+METADATA SPRINT
+Express your interest
+OPEN POSITIONS
+Jobs
+COMMUNITY
+Engaging with our community in India
+NEW TOOL
+New features in our Participation Report
+RICHER METADATA
+How to monitor and improve your metadata
+MEMBERSHIP
+Global Equitable Membership (GEM)
+You are Crossref
+Join the community
+Get email updates
+Become a member
+Blog
+Fees
+Sponsors
+
+Status page
+Documentation
+Community forum
+API Learning Hub
+
+Jobs
+Operations and sustainability
+Governance
+Contact
+
+ The content of this site is licensed under a Creative Commons Attribution 4.0 International License
+Privacy

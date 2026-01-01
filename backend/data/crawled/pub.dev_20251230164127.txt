@@ -1,0 +1,144 @@
+This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+OK, got it
+Sign in
+Help
+pub.dev package manager
+
+The official package repository for Dart and Flutter apps.
+
+Flutter Favorites
+
+Some of the packages that demonstrate the highest levels of quality, selected by the Flutter Ecosystem Committee
+
+flutter_native_splash
+
+Customize Flutter's default white native splash screen with background color and splash image. Supports dark mode, full screen, and more.
+
+jonhanson.net
+sentry
+
+A crash reporting library for Dart that sends crash reports to Sentry.io. This library supports Dart VM and Web. For Flutter consider sentry_flutter instead.
+
+sentry.io
+characters
+
+String replacement with operations that are Unicode/grapheme cluster aware.
+
+dart.dev
+location
+
+Cross-platform plugin for easy access to device's location in real-time.
+
+bernos.dev
+VIEW ALL
+Trending packages
+
+Top trending packages in the last 30 days
+
+unit_rc
+
+unit_rc base lib.
+
+pub.wuruoye.com
+in_app_purchase_storekit
+
+An implementation for the iOS and macOS platforms of the Flutter `in_app_purchase` plugin. This uses the StoreKit Framework.
+
+flutter.dev
+sizer
+
+Responsive UI solutions for Mobile, Web, and Desktop — making adaptability effortless.
+
+technoprashant.me
+relic
+
+A lightweight and flexible web server inspired by Shelf for building APIs and backend services.
+
+serverpod.dev
+config
+
+A package for parsing command-line arguments and configuration files.
+
+serverpod.dev
+dnd
+
+Drag and Drop for Dart web apps with mouse and touch support.
+
+jakobservices.ch
+VIEW ALL
+Top Flutter packages
+
+Some of the top packages that extend Flutter with new features
+
+flutter_svg
+
+An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
+
+flutter.dev
+path
+
+A string-based path manipulation library. All of the path operations you know and love, with solid support for Windows, POSIX (Linux and Mac OS X), and the web.
+
+dart.dev
+carousel_slider
+
+A carousel slider widget, support infinite scroll and custom child widget.
+
+serenader.me
+geolocator
+
+Geolocation plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API for generic location (GPS etc.) functions.
+
+baseflow.com
+gap
+
+Flutter widgets for easily adding gaps inside Flex widgets such as Columns and Rows or scrolling views.
+
+animations
+
+Fancy pre-built animations that can easily be integrated into any Flutter application.
+
+flutter.dev
+VIEW ALL
+Top Dart packages
+
+Some of the top packages for any Dart-based app or program
+
+retry
+
+Utility for wrapping an asynchronous function in automatic retry logic with exponential back-off, useful when making requests over network.
+
+google.dev
+talker_dio_logger
+
+Lightweight and customizable dio http client logger on talker base
+
+frezycode.com
+sqflite_common_ffi
+
+sqflite ffi based implementation, for desktop and units tests.
+
+tekartik.com
+password_strength
+
+A password strength estimator. Can be used to show the user whether the password they chose is strong against bruteforce or dictionary attacks.
+
+julien-scholz.dev
+stop_watch_timer
+
+Simple CountUp timer / CountDown timer. It easily create app of stopwatch.
+
+neverjp.com
+win32
+
+Access common Win32 APIs directly from Dart using FFI — no C required!
+
+halildurmus.dev
+VIEW ALL
+Package of the Week
+
+Package of the Week is a series of quick, animated videos, each of which covers a particular package
+
+VIEW PLAYLIST
+Dart languagePolicyTermsAPI TermsSecurityPrivacyHelp

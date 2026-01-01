@@ -1,0 +1,1 @@
+DNS Package DNS Package Now available in the Domain Name Manager As part of a recent upgrade to the DNS Package system the DNS services are now available within the Domain Name Manager console. Please visit our website, click My Account and login to the Domain Name Manager.

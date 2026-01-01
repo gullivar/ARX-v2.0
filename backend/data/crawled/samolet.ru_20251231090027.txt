@@ -1,0 +1,10 @@
+403 Error
+Forbidden
+
+Access to samolet.ru is forbidden.
+
+Try accessing the site samolet.ru later or contact administration of the site.
+
+IP: 221.138.189.189
+Request: GET L3FyZXJyb3IvNDAzLmh0bWw=
+Guru meditation: TlNOOWpYTDBKZlQ2Ym11SndUbmpVZEN3OEY1NTQ5ODY=

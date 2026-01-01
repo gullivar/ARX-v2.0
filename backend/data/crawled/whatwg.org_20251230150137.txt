@@ -1,0 +1,29 @@
+Welcome to the WHATWG community
+
+Maintaining and evolving HTML since 2004
+
+Read the HTML Living Standard
+See the other Living Standards developed at the WHATWG
+Blog
+FAQ
+GitHub
+Policies
+Participate
+
+Get started with contributing to the WHATWG
+
+Chat
+
+Talk to other members of the WHATWG community
+
+X (Twitter)
+
+Keep track of spec changes and other announcements
+
+HTML checker
+
+Validate your HTML documents
+
+Queries can be directed either as a new meta issue or as an email to the Steering Group.
+
+Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a Creative Commons Attribution 4.0 International License.

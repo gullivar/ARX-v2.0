@@ -1,0 +1,111 @@
+About Us
+Network
+Stats
+Sponsors
+Tools
+Resources
+Globalping
+Fast. Reliable. Automated.
+A free CDN for open source projects
+
+Optimized for JS and ESM delivery from npm and GitHub. Works with all web formats.
+
+351 billion requests
+past month
+over 21 274 TB
+past month
+
+// load any project hosted on npm
+
+https://cdn.jsdelivr.net/npm/package@version/file
+
+
+
+
+// load jQuery v3.6.4
+
+https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.min.js
+
+
+
+
+// use a version range instead of a specific version
+
+https://cdn.jsdelivr.net/npm/jquery@3.6/dist/jquery.min.js
+
+https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js
+
+
+
+
+// omit the version completely to get the latest one
+
+// you should NOT use this in production
+
+https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js
+
+
+
+
+// add ".min" to any JS/CSS file to get a minified version
+
+// if one doesn't exist, we'll generate it for you
+
+https://cdn.jsdelivr.net/npm/jquery@3.6.4/src/core.min.js
+
+
+
+
+// omit the file path to get the default file
+
+https://cdn.jsdelivr.net/npm/jquery@3.6
+
+
+
+
+// add / at the end to get a directory listing
+
+https://cdn.jsdelivr.net/npm/jquery/
+
+Full docs
+jsDelivr operates thanks to our main sponsors:
+Real-time search by
+Multi-CDN Global Network
+Built for production
+Four CDN
+& three DNS providers
+More than 540 points
+of presence
+Low latency "Near China"
+network
+Smart load-balancing
+and routing
+Multi-layer cache
+and failover
+Formal ToS
+and Privacy Policy
+1 mil+
+active oss projects served
+99.46%
+cache hit ratio
+139 332
+requests per second
+67 151 Mbps
+bandwidth
+View our network map
+Developer Friendly
+
+All files from npm and GitHub available with zero setup
+
+Usage statistics
+Combine multiple
+files on-demand
+Minify files on-demand
+Source map support
+Version aliasing
+Multiple
+IDE Integrations
+A free API for all your
+NPM and ESM needs
+
+The jsDelivr API allows you to get details about NPM packages, such as their versions, tags, and files. By analyzing package metadata and its real usage, it can automatically sugg

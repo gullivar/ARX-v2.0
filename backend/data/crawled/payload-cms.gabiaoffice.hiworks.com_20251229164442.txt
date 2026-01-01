@@ -1,0 +1,7 @@
+Welcome to your new project.
+Go to admin panel
+Hiworks-CMS Docs
+
+Update this page by editing
+
+app/(frontend)/page.tsx

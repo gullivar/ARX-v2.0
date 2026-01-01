@@ -1,0 +1,137 @@
+ADI at CES: Unlocking Physical Intelligence
+
+At CES 2026, explore how ADI’s disruptive innovations unlock physical intelligence to help enable autonomous factories, intelligent robots, and next-gen vehicles.
+
+ADI at CES
+
+ADI at CES: Unlocking Physical Intelligence
+
+At CES 2026, explore how ADI’s disruptive innovations unlock physical intelligence to help enable autonomous factories, intelligent robots, and next-gen vehicles.
+
+ADI at CES
+
+A²B™ 2.0: Upgrading Cars to Third Spaces
+
+The A²B 2.0 upgrade helps automakers deliver immersive audio technologies, meeting consumer demand for cars as third spaces and connecting people to richer, in-vehicle experiences.
+
+Read on Signals+
+
+A²B™ 2.0: Upgrading Cars to Third Spaces
+
+The A²B 2.0 upgrade helps automakers deliver immersive audio technologies, meeting consumer demand for cars as third spaces and connecting people to richer, in-vehicle experiences.
+
+Read on Signals+
+
+Consumer Tech Solutions
+
+From hearables, wearables and gaming, to home theater, personal electronics, and smart homes, ADI tech transforms how we live, work, and play—enhancing every sensory experience.
+
+Consumer Solutions
+
+Consumer Tech Solutions
+
+From hearables, wearables and gaming, to home theater, personal electronics, and smart homes, ADI tech transforms how we live, work, and play—enhancing every sensory experience.
+
+Consumer Solutions
+
+Support during the New Year holidays
+
+Analog Devices, Inc. will be closed from 12/25/2025 (Thursday) to 1/4/2026 (Sunday) to observe the holiday season. All inquiries to our support channels will be accepted as usual; however, responses will be handled sequentially starting on January 5, 2026 (Monday) when the support teams return to the office. We apologize for any inconvenience this may cause, but we appreciate your understanding. Happy holidays!
+
+Get to Know Us
+
+Together, with our customers, we co-create solutions across aerospace, automotive, communications, consumer, energy, industrial automation, and healthcare.
+
+eShop
+
+What We Do (Signals+)
+
+ContentZone
+
+eShop
+What We Do (Signals+)
+ContentZone
+Explore Our Solutions Gallery
+Aero & Defense
+ 
+Automotive
+ 
+Consumer
+ 
+Data Center
+ 
+Energy
+ 
+Healthcare
+ 
+Industrial
+ 
+Instrumentation
+ 
+Smart Buildings
+ 
+Wireless Comms
+Browse Complete Automotive Solutions Portfolio
+ADAS, Autonomous Driving and Safety
+Cabin Experience and Infotainment
+Body Electronics
+Electrification and Powertrain
+ADAS, Autonomous Driving and Safety
+Solutions for autonomous system applications, which integrate high bandwidth low-latency connectivity, precision sensing, intelligent power management and LED drivers.
+Explore Solutions
+Cabin Experience and Infotainment
+Solutions for pillar-to-pillar HD displays, spatial audio, voice and acoustic systems for a personalized and immersive cabin experience.
+Explore Solutions
+Body Electronics
+Ethernet connectivity enabled cutting-edge solutions for software-defined vehicle systems, enabling zonal architecture and optimizing body control applications.
+Explore Solutions
+Electrification and Powertrain
+Solutions for wired and wireless battery management systems, on-board chargers, and traction inverters for more efficient EVs.
+Explore Solutions
+Featured Resources
+Newsroom
+
+View the latest news, announcements, and media resources from Analog Devices.
+
+Go to Newsroom
+
+EngineerZone
+
+Share expertise, connect with peers, and ask design questions on EngineerZone®.
+
+Go to EngineerZone
+
+Analog Dialogue
+
+Engineering’s definitive, technical resource journal for innovative design.
+
+Go to Analog Dialogue
+
+{{modalTitle}}
+
+{{modalDescription}}
+
+{{dropdownTitle}}
+ 
+
+{{defaultSelectedText}}
+{{#each projectNames}}
+{{name}}
+{{/each}} {{#if newProjectText}}
+ {{newProjectText}}
+{{/if}}
+{{#if toggleButtonDescription}}
+{{toggleButtonDescription}}
+{{/if}} {{#if newProjectTitle}}
+{{newProjectTitle}}
+{{newProjectNameText}}
+
+{{projectNameErrorText}}
+
+{{newProjectDescriptionText}}
+{{/if}}
+{{cancelButtonText}} {{confirmButtonText}}
+Analog Devices Cookie Policy
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookie Settings Accept All Cookies
+Site Feedback

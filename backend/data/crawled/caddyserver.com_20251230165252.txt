@@ -1,0 +1,585 @@
+A ZeroSSL Project
+Store
+Forum
+GitHub
+Theme: System
+Documentation
+Features
+Account
+Support
+Download
+Sponsor
+THE
+ULTIMATE SERVER
+makes your sites more secure, more reliable, and more scalable than any other solution.
+Download
+Docs
+                                                       
+╔[matt@shadowfax:~/demo]                               
+╚>$ nano Cadd                                          
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+00:01
+Watch in real-time as Caddy serves HTTPS in < 1 minute.
+Sponsored by leaders
+Join the ranks
+EVERY
+SITE ON
+HTTPS
+By default, Caddy automatically obtains and renews TLS certificates for all your sites.
+HTTPS/TLS for custom domains
+
+The secret sauce of almost every white-label SaaS is Caddy's original On-Demand TLS feature. Grow your SaaS business by orders of magnitude with ease!
+
+Dynamically provision certificates
+
+With On-Demand TLS, only Caddy obtains, renews, and maintains certificates on-the-fly during TLS handshakes. Perfect for customer-owned domains.
+
+Massively scale your TLS
+
+Other web servers and scripted certificate tools fall over with hundreds of thousands of sites or thousands of instances. Caddy is designed to manage certificates reliably at this scale.
+
+sponsored by users like you
+
+Caddy is free software and relies on sponsorships to survive. Not just donations: sponsorships ensure ongoing development and provide your business with tangible benefits.
+
+See sponsorships
+"Caddy's powerful technology has enabled Hope Channel International to deliver hope to millions, reaching people in every corner of the world."
+The most advanced HTTPS server in the world
+All you need for TLS and PKI 🔐
+
+Caddy securely serves all sites with TLS by default. It can also manage your internal PKI for you across a fleet of servers and clients.
+
+On-line config API ⚡️
+
+Caddy's native configuration is a JSON document that you can export and manipulate with a RESTful config API.
+
+PCI, HIPAA, and NIST compliant ✅
+
+Caddy's TLS defaults are secure and pass PCI, HIPAA, and NIST compliance requirements. Yes, defaults: no hassle required.
+
+HTTPS for localhost 🏠
+
+We mean it when we say Caddy serves every site on HTTPS. Even localhost and internal IPs are served with TLS using the intermediate of a fully-automated, self-managed CA that is automatically installed into most local trust stores.
+
+Cluster coordination 🌐
+
+Simply configure multiple Caddy instances with the same storage, and they will automatically coordinate certificate management as a fleet and share resources such as keys and OCSP staples!
+
+Fewer moving parts ⚙️
+
+Simplify your infrastructure! Caddy saves money, increases developer productivity, and reduces problems in production.
+
+Experience it
+
+Discover Caddy's automagic HTTPS features with our hosted demo.
+
+Point DNS records for any subdomain named caddydemo to either:
+
+CNAME
+demo.caddyserver.com
+
+or:
+
+A
+138.68.4.62
+AAAA
+2604:a880:2:d0::9dd:9001
+
+Then visit it in your browser.
+
+You'll notice how Caddy provisions a certificate for your domain automatically.
+
+Not working? Make sure to use a direct subdomain of a registered domain, not a "sub-subdomain." Verify you have created the public DNS records shown above with the correct values. You may have to allow time for propagation. Consult your DNS provider's documentation or support for assistance. Your browser/client must set the TLS ServerName indication (most do).
+
+Example subdomains that could work: caddydemo.example.net, caddydemo.example.com.au
+
+Caddy is capable of serving TLS for any domains and IPs. This demo is intentionally restricted.
+
+Deploy your own PKI with Caddy
+
+Not only is Caddy the industry leader in certificate automation, it also sports a fully-featured PKI suite for your own fully-automated internal PKI and private CAs.
+
+Powered by open source Smallstep libraries, Caddy becomes a self-managing certificate authority.
+
+localhost {
+	respond "Hello from HTTPS!"
+}
+
+192.168.1.10 {
+	respond "Also HTTPS!"
+}
+
+http://localhost {
+	respond "Plain HTTP"
+}
+
+Internal and localhost certificates
+
+If you configure sites with local or internal addresses, Caddy will serve them over HTTPS using a locally-trusted certificate authority with short-lived, auto-renewing certificates. It even offers to install your unique root into your local trust stores for you.
+
+Make and use your own CAs
+
+Caddy lets you define as many CAs as you need. Root and intermediate keys are generated automatically, and intermediates are renewed before they expire.
+
+Deploy an instance to act as an ACME server. Then other Caddy instances can use it for their certificates.
+
+{
+	pki {
+		ca corporate {
+			name "Our Corporation Authority"
+		}
+	}
+}
+
+internal.example.com {
+	# ACME endpoint: /acme/corporate/directory
+	acme_server {
+		ca corporate
+	}
+}
+
+{
+  "apps": {
+    "tls": {
+      "certificates": {
+        "automate": [
+          "example.com",
+          "sub.example.com",
+          "example.net"
+        ]
+      }
+    }
+  }
+}
+
+Keep certificates renewed
+
+Caddy is more than just a web server. For example, this config is all it takes to obtain and renew certificates for a set of domain names.
+
+Additional config can be written to wire up certificate maintenance events, which can then be used to integrate with external scripts and tooling.
+
+Recommended by experts
+
+Academic and industry experts recommend Caddy, which has been cited in peer-reviewed journals for its security defaults, best practices, and its uniquely advanced feature set.
+
+"Servers running Caddy exhibit nearly ubiquitous HTTPS deployment and use modern TLS configurations. ... We hope to see other popular server software follow Caddy's lead."
+
+—Josh Aas, Richard Barnes, Benton Case, Zakir Durumeric, Peter Eckersley, Alan Flores-López, J. Alex Halderman, Jacob Hoffman-Andrews, James Kasten, Eric Rescorla, Seth Schoen, and Brad Warren. 2019. Let's Encrypt: An Automated Certificate Authority to Encrypt the Entire Web. In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS '19). Association for Computing Machinery, New York, NY, USA, 2473–2487. https://doi.org/10.1145/3319535.3363192
+
+"TLS must be enabled by default ... and the Caddy web server is a good and usable example."
+
+—Katharina Krombholz, Wilfried Mayer, Martin Schmiedecker, and Edgar Weippl. 2017. "I Have No Idea What I'm Doing" - On the Usability of Deploying HTTPS. In 26th USENIX Security Symposium (USENIX Security 17), USENIX Association, Vancouver, BC, 1339-1356. Retrieved from https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/krombholz
+
+"No popular server software does [session ticket key rotation], with the exception of Caddy."
+
+—Drew Springall, Zakir Durumeric, and J. Alex Halderman. 2016. Measuring the Security Harm of TLS Crypto Shortcuts. In Proceedings of the 2016 Internet Measurement Conference (IMC '16), Association for Computing Machinery, Santa Monica, California, USA, 33-47. https://doi.org/10.1145/2987443.2987480
+
+A forward-thinking reverse proxy
+
+Caddy's proxy was designed to be as forward-compatible as possible and has major batteries included: load balancing, active and passive health checks, dynamic upstreams, retries, pluggable transports, and of course, best-in-class TLS security.
+
+Proxy HTTP, FastCGI, WebSockets, and more
+
+Capable of proxying HTTP and HTTPS, but also WebSockets, gRPC, FastCGI (usually PHP), and more! The underlying transport module is extensible for any custom way to generate an HTTP response.
+
+Dynamic backends
+
+Provide Caddy with a static list of backends or enable a module to retrieve backends dynamically during each request: ideal for rapidly changing environments. Caddy flows with your infrastructure!
+
+High availability
+
+Caddy comes with a whole suite of high availability (HA) features: advanced health checking, graceful (hitless) config changes, circuit breaking, load limiting, on-line retries, and more. The best part? It's all free. No enterprise-level paywalls.
+
+example.com
+
+# Serve PHP sites
+handle /blog/* {
+	root * /var/www/wordpress
+	php_fastcgi localhost:9000
+	file_server
+}
+
+# Proxy an autoscaling API with dynamic backends
+reverse_proxy /api/* {
+	dynamic srv _api._tcp.example.com
+}
+
+# Proxy a compute-heavy distributed service
+# with load balancing and health checks
+reverse_proxy /service/* {
+	to              10.0.1.1:80 10.0.1.2:80 10.0.1.3:80
+	lb_policy       least_conn
+	lb_try_duration 10s
+	fail_duration   5s
+}
+
+# Proxy everything else to an HTTPS upstream
+reverse_proxy https://service.example.com {
+	header_up Host {upstream_hostport}
+}
+
+software assurance
+
+Without sponsorships, Caddy could stop being developed at any time. With sponsorships, you gain peace of mind knowing that the project will continue to be developed, along with tangible benefits like private support and training.
+
+See sponsorships
+"With its extensible architecture and on-line config API, Caddy powers many of Stripe's internal systems."
+Production-grade static file server
+
+Serving static files is a tried-and-true method of delivering sites to numerous clients efficiently. Caddy has a robust file server that can be combined with other middleware features for the ultimate effortless website.
+
+Compression
+
+Caddy can compress files on-the-fly or serve precompressed files for extra performance. Caddy is also the first web server to support Zstandard encoding.
+
+Virtual file systems
+
+Serve your static site from anything: the local file system, remote cloud storage, a database, or even embedded in the server binary!
+
+Range requests, Etags, and more
+
+Unlike many ad-hoc file servers intended for temporary local development, Caddy fully supports Range requests, Etags, and a full production feature set.
+
+Directory file browser
+
+If a directory without an index file is requested, Caddy can show an elegant file browser with breadcrumb nav, file size visualizations, filetype icons, and a grid view.
+
+example.com
+
+root * /var/www
+
+# Serve precompressed files if present
+file_server /downloads/* {
+	precompressed
+}
+
+# Compress everything else that would benefit
+encode zstd gzip
+
+# Static site using database as file system
+file_server /database/* {
+	fs sqlite data.sql 
+}
+
+# Static site embedded within the Caddy binary
+file_server /embedded/* {
+	fs embedded
+}
+
+# (Range/Etag/etc. all work without extra config)
+
+# Serve static site with directory listings
+file_server browse
+
+Flexible configuration compatible with any workflow
+
+Configure your server your way. Caddy's native configuration format is JSON, and with Caddy's config adapters, you can use any config format you prefer. All configuration is posted through a RESTful admin API, and Caddy's CLI helps you work with config files easily.
+
+$ caddy start --config caddy.json
+
+$ curl localhost:2019/id/my_handler \
+	-X PATCH \
+	-H "Content-Type: application/json" \
+	-d '{
+			"handler": "static_response",
+			"body": "Work smarter, not harder."
+		}'
+
+$ curl localhost:2019/config/ | jq
+JSON config API
+
+Caddy's native config format is JSON, giving you incredible power and flexibility for automated, large-scale deployments.
+
+Make dynamic config changes through an intuitive, programmable REST API that offers ACID guarantees. It is also safely scoped, meaning that the URI path restricts changes, making it impossible to accidentally alter other parts of your config.
+
+Caddyfile
+
+Although JSON offers ultimate control, most people prefer to use a Caddyfile because it lets you get a production-ready site up and running in just a few hand-written lines. It's not uncommon for Caddyfiles to be just ~15-25% the size of a less-capable nginx config.
+
+caddyserver.com
+
+root * src
+
+file_server
+templates # markdown & syntax highlighting!
+encode zstd gzip
+
+redir   /docs/json   /docs/json/
+rewrite /docs/json/* /docs/json/index.html
+rewrite /docs/*      /docs/index.html
+
+reverse_proxy /api/* localhost:9002
+
+Actual config used by this site.
+$ caddy run \
+	--config nginx.conf \
+	--adapter nginx
+Config adapters
+
+Power Caddy with anything, even NGINX config files!
+
+With first-class support for config adaptation, you can configure your web server with your favorite format: YAML, TOML, CUE, NGINX, HCL, Dhall, JSON with comments, or even a MySQL database... or anything else. The Caddyfile is a built-in config adapter.
+
+Unparalleled extensibility
+
+Caddy is the only server in the world with its novel, modular architecture. At its core, Caddy is a configuration manager that runs apps like an HTTP server, internal certificate authority, TLS certificate manager, process supervisor, and more.
+
+And because of its unique design, we can offer unlimited features without bloating the code base. Only compile in what you need.
+
+Unlimited power
+
+Nearly every part of the config that "does something" is pluggable. Caddy offers unlimited capabilities in such a lean package.
+
+Native CPU performance
+
+No RPC calls or flimsy dependency management. Plugins are compiled into the static binary, making successful deployments certain and runtimes blazing fast.
+
+Easy to develop
+
+Writing Caddy plugins is as easy as writing a Go package. It's a comfortable and familiar process for any Go programmer.
+
+4x faster PHP apps
+
+With FrankenPHP, Caddy acts as a PHP application server that delivers PHP pages about 4x faster than Swoole or RoadRunner: no need for php-fpm (FastCGI).
+
+Deploy your PHP application as a single static binary without needing to install PHP and php-fpm separately. Caddy with FrankenPHP is all you need for high-performing PHP apps!
+
+Benchmarks compare total response times using worker mode with Octane. FrankenPHP runs in-process with the server, so it's generally faster than FPM/mod_php in most cases. PHP execution is not accelerated.
+
+{
+	# Enable FrankenPHP
+	frankenphp
+}
+
+example.com {
+	# Serve PHP app from current directory
+	php_server
+}
+
+
+Serving your PHP app is as simple as this Caddyfile. The PHP interpreter is completely embedded within the Caddy binary and your application files will be served from the current working directory. No need for php-fpm or separate PHP installs!
+
+Learn more
+
+The gold standard web server
+
+Caddy has the most robust TLS stack on the market. With stronger memory safety guarantees than OpenSSL (Apache & NGINX) and more advanced certificate automation logic than any other server or utility, Caddy keeps your sites online through problems when other servers... won't.
+
+Caddy was the first server to fully automate public certificate management—so we've been doing this longer than anyone. With more than 50 million certificates under management, Caddy has set the gold standard for other servers to live up to.
+
+OCSP stapling saves the day
+
+Caddy automatically staples OCSP responses and caches them to weather outages. In 2018, many popular sites went down for users of mainstream browsers because crucial OCSP infrastructure had an extended outage. Only Caddy staples and caches OCSP responses by default, so all Caddy sites were unaffected.
+
+On guard against revocation
+
+In 2020, a mass certificate revocation event left many sysadmins scrambling to renew their certificates ahead of schedule. Caddy automatically renews certificates that get revoked, and all Caddy sites were unaffected. (This was before ARI existed.)
+
+Stands tall during audits
+
+Companies have deployed Caddy in front of their site just hours before important audits—potentially saving their compliance status—because of Caddy's safe defaults and "batteries included" approach.
+
+Take everyone's word for it
+
+We're biased. But Caddy is widely relied upon and praised by a diverse global user base because of its ease of use, secure defaults, powerful feature set, and business-changing cost reductions.
+
+"I think we should consider making Caddy the default ACME client recommendation. … It allows for better integration between the TLS server and the ACME management of those certificates. … [ACME clients with] Apache and NGINX are inherently more error prone and brittle than having the TLS server manage its certificates itself. … Caddy is written in a memory-safe language. Adoption of memory-safe programming languages is something that both ISRG and the broader computer security community have been encouraging more and more lately."
+Brad Warren
+Lead Engineer of Certbot
+Electronic Frontier Foundation (EFF)
+"About 3-4 TB of traffic reaches our origin servers every day. NGINX did a great job, but we were never 100% happy with the config format; it mostly "kind of" worked. When we tried Caddy, we realized in a moment that we need to eliminate NGINX. We felt insecure by such a small config, 1/10th the size of our NGINX config. After deploying a single instance, it outperformed all other NGINX instances (4-10). Now we go all-in on Caddy: A legible config that more than 1 person understands; custom domain rollout is 100% automated; NO ONE (squid, nginx, varnish) can do what the replace-response plugin does -- truly a holy grail; we run our own plugins as well; and we spend 70% LESS on our CPU and memory resources. We are super happy with the product, with the mindset behind it, and the idea to make the web "easy again" on your own infrastructure."
+Helmut Januschka
+Head of Engineering
+Kronen Zeitung
+"This is a brilliant piece of software. ... Even on first install, the defaults are sane. Truly, great work. … Seriously: Caddy makes it possible for hundreds of thousands of very needy folk to get treatment. It's the backbone of vital systems used by local Doctors Without Borders and local government ministries."
+(Anonymous)
+Security engineer
+Subcontractor, European government
+"We also use @caddyserver to provision SSL certificates for the tracking subdomains of our clients. It's such as breeze to work with, the whole on-demand-tls feature is just amazing."
+owntag
+"It's a good thing we bet on Caddy. It's been a pleasure working with Caddy."
+Zack Siri
+Founder
+Instellar.app
+"Caddy is so easy it should be considered illegal at this point."
+Schlez
+Developer
+Vercel
+"true story I migrated from nginx to caddy after accidentally nuking my webserver and a few months later while visiting my site thought, "wait I forgot to set up certbot why does https still work... why is this cert more recent than my migration???" and learned [that Caddy renews it for you]."
+Alice Maz
+"I, too, use Caddy in production for exactly this and would recommend over Cloudflare. Enterprise plans used to start at around $40k/year if I remember correctly."
+Tom Moor
+Developer
+Linear
+"Replaced 140 lines of dense nginx config with a single 33 line Caddyfile. Caddy is great!"
+Bas Westerbaan
+Software engineer, mathematician, post-quantum cryptographer
+Cloudflare
+"I switched from Traefik to Caddy a few years ago and have no ragrets."
+ @adamshand
+"I moved over in the past year from traefik and it was well worth it. Traefik is over-abstracted and I found it to break randomly and unpredictably when using docker labels. Debugging was a PITA too with the best solution being turning it off and on again (i.e. restarting it, or the service it was proxying). Caddy, on the other hand, just works. The documentation is also orders of magnitude better than traefik (full of confusing abstractions)."
+ @allocx
+"[Caddy is] one of those rare pieces of software that is as powerful as it is easy to use."
+Nick Williams
+"It turns out i've been overcomplicating things. This is how you manage SSL certificates, forward http to https, and handle traffic as a reverse proxy:
+
+sudo vim /etc/caddy/Caddyfile
+my.domain {
+reverse_proxy localhost:3000
+}
+
+That's it, nothing else. Thank you @caddyserver"
+Sam Meech Ward
+"The request matchers of @caddyserver are awesome 👏🏻 and the JSON access logs together with `jq` is simply perfect for analyzing or troubleshooting. This is a prime example of the capabilities expected from a contemporary webserver."
+Steffen Busch
+"I've also been running Caddy instead of nginx for a long time and it works like a charm. I even wrote a blog post about how to switch from nginx to Caddy for a Laravel app."
+Pieter Claerhout
+"We recently switched from haproxy as TLS termination and nginx to @caddyserver and On-Demand TLS. Also deleted a ton of code handling cert issuance and renewal."
+Rajesh Sharma
+"I use Caddy to handle automatic SSL for thousands of domain I manage. The experience is seamless for all our customers. Thanks for making Caddy."
+Anwar
+Dorik.com
+"Resurrecting this thread after a while. Recently I become a huge fan of @caddyserver for personal projects given the simplicity and how concise the config is. It's just very intuitive to config, making both Apache and @nginx feel over-engineered"
+Filipe Almeida
+"I switched [to Caddy] about a month ago. It really is so much more easy. Most of the things you mention are done by default and do not need any configuration whatsoever."
+ @2RM60Z
+"I really love how the entirety of caddy config for a single site is usually a grand total of 2-3 lines and that's it. Theres a lot to be said about sane defaults that are always there, but out of the way of cluttering your config."
+ @-quakeguy-
+"Caddy is impressive. This is what we want, setting up a secure website."
+Josh Aas
+Executive Director
+Let's Encrypt
+"Our client was in deep trouble: they were about to fail PCI compliance. We tossed Caddy in front hours before the deadline and went from 40 to 0 security errors in just minutes. … We have put over 1,000 domains on Caddy so far."
+Robert M.
+Software Developer
+"Caddy is pretty incredible. A 3-line config yields a fully A-rated SSL site. Trivial!"
+John Resig
+Creator of jQuery
+"Caddy (@caddyserver) is a fantastic web server, load balancer, and reverse proxy. 👍 We use it for http://pirsch.io to dynamically provision SSL certificates for our fully white-labeled customer domains. ... To reduce complexity and overhead, [we removed] Traefik from the server cluster and let Caddy handle everything."
+Pirsch Analytics
+"Haven't been so excited about a small piece of server software for a long time now... @caddyserver is awesome! Easiest config ever (reverse proxy in three lines per site), everything up-and-running without any problems in less than an hour for a server with many services 🤩"
+Denys Konovalov
+Open source maintainer
+Gitea
+"I use Caddy for Shopify app development. It's miles better than their default ngrok based solution because with Caddy, I don't have to tunnel my dev traffic through a public IP. Makes iteration a lot quicker."
+Attila Kun
+"I've replaced all my Nginx with Caddy. So much easier!"
+Leo
+Wizard of Code
+"I was using Cloudflare for SaaS as it made generating SSL certs for vanity subdomains easy. So, I looked into their system and noticed that, yes, most domains are failing. ... I decided to entirely ditch Cloudflare and build my own setup instead. After some research, it turned out Caddy was the perfect tool for this job. It has a neat little feature called On-Demand TLS, which generates SSL certs on the fly. It also lets you specify a callback URL to verify the domain name. ... I got a solid setup up by 7 in the morning, and it worked like a charm. After a quick powernap, I pushed the fix to production, and we finally had a working product 24 hours after launch. ... The verification process is much easier and faster now; things are more reliable and cost me nothing to run. Details: https://logsnag.com/blog/setting-up-vanity-subdomains-for-your-saas-using-caddy"
+Shayan
+Founder, Developer
+LogSnag
+"Next public server I put up, I'm just sticking Caddy on it."
+ @SwiftOnSecurity
+Computer security person
+"It just runs... Two years straight. Some more services since start of caddy... No worries. Recently added auth with authelia... Still straight forward. Easy setup, always online. That's it. Period."
+ @wtfblubby
+"First off, I want to say thanks so much for Caddy. It's so simple to get started and the performance is outstanding. Additionally, it's the only reverse proxy I could find which properly load balances across multiple IPs returned from a single A record (dynamic upstreams) while also supporting keepalives ⭐"
+Paul Frybarger
+"I was an early adopter of @caddyserver many years ago and just booted up the latest version and.... my god it's gotten even better."
+Matthew Phillips
+Co-creator
+Astro.build
+"You gotta try Caddy sometime. It's ridiculous."
+ @GitMaxd
+"Can't believe how simple it is to setup and serve dynamic SSL certificates with @caddyserver and the features it offers, spent countless hours on Nginx and Openresty trying to achieve the same thing"
+Darshil Rathod
+"Lovin' @caddyserver more and more... Learning to master it. There is a learning curve, but when you get it...It's wonderland! Thx for your hard work @mholt6"
+Mr Alexandre J-S William ELISÉ
+"Honestly, Caddy is so easy to write configs for that you don't even need ChatGPT."
+ @skip2networks
+Skip2 Networks
+"Glad I just moved from nginx to caddy."
+Joel Eriksson
+"Glad we have @caddyserver examples in our docs, as it has the simplest HTTPS configuration (none, it just does it by default) 😃"
+ @giteaio
+Gitea
+"Caddy is, IMHO, the future. It's got all batteries includes and when it's going to get k8s ingress parity with nginx, or anything similar to nginx-proxy-manager, it will be unstoppable. You can literally leave Caddy running for years and just update it with package manager and not worry about TLS certs anymore. That stability is not guaranteed with certbot, it's just yet another daemon service you need to take care of and it broke for me multiple times. Much love to mholt and his team."
+ @that_czech_dude
+"Website is live! 🤯 I didn't expect it to be SO fast to up website with @caddyserver. Doing the same with apache/nginx before feels like a nightmare..."
+Max Kovalevskii
+"With its extensible architecture and on-line config API, Caddy powers many of Stripe's internal systems."
+Stripe
+Global Leader of Fintech
+"Every time I have a problem, google directs me to a "mature" Traefik-based solution that barely works, if at all. Then I come here and there's a Caddy solution that blows it out of the water. New plan for today then. ... It's a simple addition to an already-simple config. Traefik is complexity on complexity and a nightmare to debug."
+ @lost_RD
+"After working for 12 hours straight, unable to make Traefik work and almost going nuts, I switched to Caddy and was able to make it work in 3 lines of code, HTTPS included. Thank you Caddy team for this magically simple and awesome project."
+Karim Naufal
+Tech founder
+"Caddy with wildcard domains - I use it on a ton of my projects. [Easy local proxy:] `caddy reverse-proxy --to localhost:80 --from my-project.localhost`. You can also put this config in a Caddyfile. As a bonus you get proper local https without fussin' with certs."
+Wes Bos
+Full stack JS dev
+"Some time back I heard about @caddyserver and decided to give it a go. Setup was fast and I can now support custom domains + .assistflare.com subdomains easily with HTTPS support! This allows me to move away from Cloudflare for SaaS which charges $0.50 per custom hostname once you reach the threshold of 100 free custom hostnames. Caddy also allows me simplify my setup and provide a more straightforward way for end users to setup their custom domains. I will also be migrating @StomodHQ to use Caddy server down the line."
+Hirvesh
+Indie hacker
+"Listen to me: i will only repeat this once: Caddy is the best thing in the world, it's a general-use server that has automatic certificate renewal. Download it, make a config (it's very simple compared to apache/nginx), and it just works forever."
+Liz Lovelace
+"Caddy is the best reverse proxy when setting up red team exercises."
+Schlez
+"Using Caddy, we were able to build an Ingress controller for Slash GraphQL in about a week. ... Nginx was really problematic, as there was no way to figure out if Nginx had picked up a new ingress or not. It often took 2-5 seconds after our code picked up a new ingress for Nginx to be ready to serve it, meaning that we had to add a lot of time.Sleep() type code, which no one ever wants to read. We briefly tried writing an Nginx module, but C++ makes me want to tear my hair out. ... I found Caddy the easiest to work with. As an added bonus, the Caddy http middleware module is very close to Go's ServeHTTP interface, and as a result, is very easy to build around and test. ... I believe Caddy and it's extensibility are a great fit if you are trying to build a smart proxy or API gateway. ... Caddy's author Matt Holt wrote that Caddy is not just a proxy, it's a powerful, extensible platform for HTTP apps. I couldn't agree more."
+Tejas Dinkar
+Developer
+Dgraph
+"Caddy seems too good to be true? I just set it up and it works perfect, straight out of the box."
+ @Zestyclose_Car1088
+"Caddy is a great, easy web server. It honestly has some pretty good performance too."
+ @jax7778
+"Caddy with auto provisioning made my email autoconfig deployment by domain so easy, my company started to sponsor your right now! I will open a PR some day to improve the docs on how to configure an example auto provision server. Great amazing work!"
+William Desportes
+"It's amazing isn't it. I've been using Caddy for a couple of years now and I can never go back."
+Luke
+"I used to use either Apache and NGINX for everything. After trying @caddyserver for the last few days, I don't think I'll be going back."
+ @____Snazzy
+"I've been running my blog (powered by @Ghost) behind @caddyserver since last summer -- pretty happy with the setup. Caddy is so cool!"
+Diwaker Gupta
+"I've been using caddy for a few years. It's so easy. Most times I'm just using it as a reverse proxy. So simple to get started and very easy to reason about."
+Jarriq Rolle
+"Just set up my personal blog on Caddy as a reverse proxy to a Go binary. Was a breeze and took 10 mins."
+Yash Chandra
+"I used nginx since its release, but recently switched to Caddy."
+Nick Soolo
+"I was quickly able to run the app on @Hetzner_Online! One thing I used to provision SSL was @caddyserver's #certmagic. Yes, It's magic ✨."
+Antonio Pagano
+"I've been migrating everything to Caddy. Its absolutely fantastic."
+ @prairievoice
+
+A free open source project that relies on sponsors.
+
+Privacy-respecting analytics by Fathom
+
+
+
+
+© 2025 ZeroSSL. All rights reserved.
+
+Project
+Features
+Download
+Documentation
+Business services
+Support
+Sponsorships
+Community
+Forum
+GitHub
+Twitter / X
+Research
+
+Caddy supports an open Web that promotes privacy, preserves data ownership, fosters innovation, freely allows varieties of client software, and safeguards human sanctity.
+
+ 

@@ -1,0 +1,170 @@
+GPC signal not detected.Pleasedownload a browser/extensionthat supports it.
+Home
+ABOUT
+SPEC
+FOR USERS
+FOR IMPLEMENTERS
+DOWNLOAD
+ORGANIZATIONS
+PRESS
+FAQ
+Take control of your privacy.
+
+Online privacy should be accessible to everyone. It starts with a simpler way to exercise your rights.
+
+GET STARTED
+GET INVOLVED
+
+Read the Latest Press and Follow @globalprivctrl on Twitter.
+
+Turn On GPC
+
+Enable Global Privacy Control to communicate your privacy preference.
+
+Send the Signal
+
+Your browser will send the GPC signal to websites you visit.
+
+Exercise Your Rights
+
+Participating websites can respect your privacy rights accordingly.
+
+You may have noticed “Do Not Sell” and “Object To Processing” links around the web from companies complying with privacy regulations. To opt out of websites selling or sharing your personal information, you need to click these links for every site you visit.
+
+Now you can exercise your legal privacy rights in one step via Global Privacy Control (GPC), required under state privacy laws such as the California Consumer Privacy Act (CCPA).
+
+Together, over a dozen organizations are developing the GPC specification. Get Involved
+
+GPC lets users signal their desired privacy, just by browsing.
+
+GPC is available as part of several major browsers, extensions, and websites.
+
+VIEW FULL SPEC
+TEST AGAINST THE REFERENCE SERVER
+
+The GPC signal is intended to communicate a Do Not Sell or Share request under the California Consumer Privacy Act, and similar state privacy laws that allow users to opt out of data sales or the use of their data for cross-context targeted advertising. Under the GDPR, the intent of the GPC signal is to convey a general request that data controllers limit the sale or sharing of the user’s personal data to other data controllers (GDPR Articles 7 & 21). The GPC may also invoke other compatible rights in other jurisdictions.
+
+“CA DOJ is encouraged to see the technology community developing a global privacy control in furtherance of the CCPA and consumer privacy rights.”
+
+Xavier Becerra
+
+CA Attorney General
+
+“40 million consumers are now using web browsers and other privacy tools that support this global opt out. Major publishers, the New York Times, Washington Post, have already pledged to respect it. California's Attorney General has already said that companies must respect GPC. This is a big step in Americans privacy, a big, big step forward.”
+
+Ron Wyden
+
+Senate Finance Chairman
+
+“My hope is that Governor Northam and the legislature will improve [the newly passed Virginia Consumer Data Protection Act] in the near future in important ways... making it easier for Virginia citizens to invoke their privacy rights, such as through a global privacy control.”
+
+Mark R. Warner
+
+VA Senator
+
+“GPC provides a clear and binary indication of an individual's choice... Based on a review of several of the web browsers' intentions regarding GPC, it appears likely to be a prominent, easily understandable, and accessible mechanism in the browser settings.”
+
+Alexander McD White
+
+Bermuda Privacy Commissioner
+
+“It's past time to give consumers a real and enforceable way to stop companies from tracking and selling their data. My Mind Your Own Business Act would do just that, and this project [Global Privacy Control] shows it’s possible.”
+
+Ron Wyden
+
+Senate Finance Chairman
+
+“CCPA requires businesses to treat a user-enabled global privacy control as a legally valid consumer request to opt out of the sale of their data. CCPA opened the door to developing a technical standard, like the GPC, which satisfies this legal requirement & protects privacy.”
+
+Xavier Becerra
+
+CA Attorney General
+
+Got to slide 0
+Got to slide 1
+Got to slide 2
+Got to slide 3
+Got to slide 4
+Got to slide 5
+Join over 150 million users.
+
+Download a supported browser or extension and start exercising your privacy rights on over 66,000 websites with GPC.
+
+VIEW ALL DOWNLOADS
+Abine DeleteMe
+LEARN MORE
+about Abine DeleteMe
+Brave Browser
+LEARN MORE
+about Brave Browser
+Disconnect
+LEARN MORE
+about Disconnect
+DuckDuckGo Privacy Browser
+LEARN MORE
+about DuckDuckGo Privacy Browser
+Firefox
+LEARN MORE
+about Firefox
+OptMeowt by privacy-tech-lab
+LEARN MORE
+about OptMeowt by privacy-tech-lab
+Privacy Badger by EFF
+LEARN MORE
+about Privacy Badger by EFF
+lockrMail by lockr
+LEARN MORE
+about lockrMail by lockr
+Founding Organizations
+
+The following organizations, representing 50 million users and hundreds of thousands of websites, are in support of GPC.
+
+VIEW ALL ORGANIZATIONS
+Featured Press & Announcements
+GPC Privacy Browser Signal Now Used by Millions and Honored By Major Publishers
+GLOBAL PRIVACY CONTROL
+Your browser can tell websites how to treat your data. But companies didn’t have to listen — until now
+THE WASHINGTON POST
+‘Do Not Track’ Is Back, and This Time It Might Work
+WIRED
+Tech-publisher coalition backs new push for browser-level privacy controls
+TECHCRUNCH
+VIEW MORE PRESS
+Frequently Asked Questions
+What is the Global Privacy Control (GPC)?
+
+Global Privacy Control (GPC) is a proposed specification designed to allow Internet users to notify businesses of their privacy preferences, such as whether or not they want their personal information to be sold or shared. It consists of a setting or extension in the user’s browser or mobile device and acts as a mechanism that websites can use to indicate they support the specification.
+
+Who is supporting the development of GPC?
+
+GPC is being developed by a broad coalition of stakeholders: technologists, web publishers, technology companies, browser vendors, extension developers, academics, and civil rights organizations.
+
+The GPC was initially spearheaded by Ashkan Soltani (Georgetown Law) and Sebastian Zimmeck (Wesleyan University) in collaboration with The New York Times, The Washington Post, Financial Times, Automattic (Wordpress.com & Tumblr), Glitch, DuckDuckGo, Brave, Mozilla, Disconnect, Abine, Digital Content Next (DCN), Consumer Reports, and the Electronic Frontier Foundation (EFF).
+
+I’m a web user. How can I use GPC to signal my privacy preferences to websites?
+
+GPC is available for an increasing number of browsers and browser extensions, listed here. If you want to use GPC, you can download and enable it via a participating browser or browser extension (User Guide). Several browsers support GPC natively, including Brave and DuckDuckGo (on by default) and Firefox (available in settings). More information about downloading GPC is available here.
+
+I’m a publisher, developer, or other service. How can I support GPC?
+
+The GPC spec is easy to implement on a wide variety of websites and other services. The proposed specification and back-end implementation reference documentation are available here. Follow the publisher guide to learn how to implement GPC. For additional information, please feel free to reach out on Github or Twitter (@globablprivctrl).
+
+I’m a policymaker. How can I support GPC or learn more about how it could apply in my jurisdiction?
+
+As it is intended to invoke users’ privacy rights, we encourage policymakers from around the world to engage in the development of this specification. If you would like to learn more about how GPC could work in your jurisdiction, please contact us via email at info[at]globalprivacycontrol.org.
+
+How can I get involved in developing the proposed specification?
+
+GPC was initially introduced at the World Wide Web Consortium (W3C) Privacy Community Group (Privacy CG) in April 2020. In November 2024, GPC was adopted as an official work item of the W3C Privacy Working Group where it is currently in the process of being standardized. Anyone can raise issues or submit pull requests to the GPC spec here as part of the standardization process.
+
+VIEW ALL FAQs
+Get Involved
+
+Contact us to learn more about supporting GPC in your browser, app, or website.
+
+info@globalprivacycontrol.org
+W3C Github
+
+This site is hosted by GitHub and is subject to its Privacy Policy and Terms of Service.
+
+Content on this site is licensed under a Creative Commons Attribution 4.0 International license. This license does not apply to any logos or marks on this site.

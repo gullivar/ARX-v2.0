@@ -1,0 +1,114 @@
+nixCraft
+Download of the day: GIMP 3.0 is FINALLY Here!
+
+GIMP 3.0 splash screen on my Ubuntu Linux desktop
+
+W
+ow! After years of hard work and countless commits, we have finally reached a huge milestone: GIMP 3.0 is officially released! I am excited as I write this and can’t wait to share some incredible new features and improvements in this release. GIMP 2.10 was released in 2018, and the first development version of GIMP 3.0 came out in 2020. GIMP 3.0 released on 16/March/2025. Let us explore how to download and install GIMP 3.0, as well as the new features in this version.
+[continue reading…]
+
+Ubuntu to Explore Rust-Based “uutils” as Potential GNU Core Utilities Replacement
+
+Click to enlage
+
+I
+n a move that has sparked significant discussion within the Ubuntu Linux fan-base and community, Canonical, the company behind Ubuntu, has announced its intention to explore the potential replacement of GNU Core Utilities with the Rust-based “uutils” project. They plan to introduce new changes in Ubuntu Linux 25.10, eventually changing it to Ubuntu version 26.04 LTS release in 2026 as Ubuntu is testing Rust ‘uutils’ to overhaul its core utilities potentially. Let us find out the pros and cons and what this means for you as an Ubuntu Linux user, IT pro, or developer.
+[continue reading…]
+
+Critical Rsync Vulnerability Requires Immediate Patching on Linux and Unix systems
+
+R
+sync is a opensource command-line tool in Linux, macOS, *BSD and Unix-like systems that synchronizes files and directories. It is a popular tool for sending or receiving files, making backups, or setting up mirrors. It minimizes data copied by transferring only the changed parts of files, making it faster and more bandwidth-efficient than traditional copying methods provided by tools like sftp or ftp-ssl. Rsync versions 3.3.0 and below has been found with SIX serious vulnerabilities. Attackers could exploit these to leak your data, corrupt your files, or even take over your system. There is a heap-based buffer overflow with a CVSS score of 9.8 that needs to be addressed on both the client and server sides of rsync package. Apart from that info leak via uninitialized stack contents defeats ASLR protection and rsync server can make client write files outside of destination directory using symbolic links.
+[continue reading…]
+
+ZFS Raidz Expansion Finally, Here in version 2.3.0
+
+A
+fter years of development and testing, the ZFS raidz expansion is finally here and has been released as part of version 2.3.0. ZFS is a popular file system for Linux and FreeBSD. RAIDz is like RAID 5, which you find with hardware or Linux software raid devices. It protects your data by spreading it across multiple hard disks along with parity information. A raidz device can have single, double, or triple parity to sustain one, two, or three hard disk failures, respectively, without losing any data. Hence, expanding or adding a new HDD is a very handy feature for sysadmins in today’s data-sensitive apps.
+[continue reading…]
+
+lnav – Awesome terminal log file viewer for Linux and Unix
+
+I
+t is no secret that whether you are a developer or sysadmin, you need to use log files to troubleshoot errors on your Linux and Unix systems. You use tools like grep, tail, cat, or journalctl to view log files. However, you may need help with so many log files. These essential Unix tools are suitable for basic text but fall short when dealing with many log files. You can get tired from sifting through endless lines of log files. The lnav utility is here to the rescue! It is a powerful log file viewer that goes beyond the basics. It understands your logs by identifying timestamps, log levels, and other vital details. You can run SQLite SQL queries against your standard log files and build reports for your needs. Let us see how to install and use the lnav tool quickly.
+
+
+lnav turning Nginx logs into SQLite SQL outputs
+
+[continue reading…]
+
+sttr – Awesome Linux & Unix tool for transformation of the string
+
+sttr demo
+
+T
+he sttr is a free and open-source command-line tool in Golang that lets you easily change and modify text. You can perform transformation operations on the string, such as hashing text, string manipulation, and more. sttr is beneficial for developers and *nix users requiring swift modification to strings or files directly via the command line or TUI. It is helpful in your scripting, data processing, and automation tasks at the CLI.
+[continue reading…]
+
+How to block AI Crawler Bots using robots.txt file
+
+A
+re you a content creator or a blog author who generates unique, high-quality content for a living? Have you noticed that generative AI platforms like OpenAI or CCBot use your content to train their algorithms without your consent? Don’t worry! You can block these AI crawlers from accessing your website or blog by using the robots.txt file.
+[continue reading…]
+
+Debian Linux 12.1 released with Security Updates
+
+D
+ebian Linux project announces the first update of the Debian project’s stable distribution, Debian 12 (codename “bookworm”) named Debian 12.1. This update mainly addresses security issues and significant problems. Security advisories have been published and are now available to download.
+[continue reading…]
+
+Setting up VSCode for Ansible Lightspeed AI in Ubuntu 22.04 desktop
+
+Click to enlarge
+
+R
+ed Hat launched the Ansible Lightspeed Code Assistant Generative AI with IBM Watson Code Assistant in May 2023. This preview is now available to all Ansible users, allowing them to explore the technology, provide feedback to Red Hat, and further train the AI model. In this brief blog post, I will share my personal experience with installing and utilizing Ansible Lightspeed AI to create playbooks in VSCode using Ubuntu Linux 20.04 LTS desktop.
+[continue reading…]
+
+How to upgrade FreeBSD 13.1 to 13.2 release
+
+Click to enlarge
+
+T
+he FreeBSD Release Engineering Team is announcing the availability of FreeBSD version 13.2-RELEASE on 11/April/2023. It is the third release of the stable/13 branches. I updated my FreeBSD version 13.1 to 13.2 using the CLI over an ssh-based session. Here are my quick notes.
+[continue reading…]
+
+Older Posts
+
+🔥 FEATURED ARTICLES
+
+1
+30 Cool Open Source Software I Discovered in 2013
+2
+30 Handy Bash Shell Aliases For Linux / Unix / Mac OS X
+3
+Top 32 Nmap Command Examples For Linux Sys/Network Admins
+4
+25 PHP Security Best Practices For Linux Sys Admins
+5
+30 Linux System Monitoring Tools Every SysAdmin Should Know
+6
+40 Linux Server Hardening Security Tips
+7
+Linux: 25 Iptables Netfilter Firewall Examples For New SysAdmins
+8
+Top 20 OpenSSH Server Best Security Practices
+9
+Top 25 Nginx Web Server Best Security Practices
+10
+My 10 UNIX Command Line Mistakes
+
+👀 /etc
+
+➔
+Howtos & Tutorials
+➔
+Linux shell scripting tutorial
+➔
+RSS/Feed
+➔
+About nixCraft
+➔
+Mastodon
+©2002-2025 nixCraft • Privacy • ToS • Contact/Email • Corporate patron Cloudflare
+      

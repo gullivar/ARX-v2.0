@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Access is blocked.</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/__zenedge/assets/styles.min.css" rel="stylesheet">
+  </head>
+
+  <body><div class="box">
+  <h2>Access is blocked</h2>
+  <hr />
+</div>
+    <script type="text/javascript">
+      var userip;
+    </script>
+
+    <script type="text/javascript" src="https://l2.io/ip.js?var=userip"></script>
+
+    <script type="text/javascript">
+      document.write("Your IP address is: ", userip);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,244 @@
+Samtycke
+Information
+Om
+Denna webbplats använder cookies
+Vi använder enhetsidentifierare för att anpassa innehållet och annonserna till användarna, tillhandahålla funktioner för sociala medier och analysera vår trafik. Vi vidarebefordrar även sådana identifierare och annan information från din enhet till de sociala medier och annons- och analysföretag som vi samarbetar med. Dessa kan i sin tur kombinera informationen med annan information som du har tillhandahållit eller som de har samlat in när du har använt deras tjänster.
+Consent Selection
+Nödvändig
+Inställningar
+Statistik
+Marknadsföring
+Avvisa
+Tillåt urval
+Tillåt alla
+Skip to content
+New here? We'll help you move from your current host for free
+ English
+Contact Us
+Prices excl. VAT 
+Web Hosting
+Server
+Cloud
+Domains
+Website
+More
+Blog & News
+About Us
+Support
+Login
+Premium hosting for your website
+
+Since 1998, we’ve been the company of choice for secure, stable, and environmentally friendly hosting of websites and applications. Welcome to Oderland and the best web hosting experience you’ve had.
+
+Get startedOur hosting packages
+
+The best hosting you’ve experienced
+
+Want a faster and more stable website?
+
+Take your website or app to the next level. Oderland gives you the technology platform that allows you to build exceptional digital experiences.
+
+Super fast
+
+Your visitors aren’t sitting around waiting for your website to load. Don’t let costs spiral out of control – try our platform and experience the difference.
+
+Premium support
+
+Our team of experts is available every day to help you solve your problems and answer your questions. You can easily reach them via chat, phone or e-mail.
+
+Stability
+
+You don’t pay us for your website to be unavailable. We take stability very seriously, and our uptime of 99.99% over the last year proves it. That’s less than one hour in total over the course of a year.
+
+Explore plans and pricing
+
+Data-driven premium quality you can rely on
+
+Reliability and stability are essential. Let the numbers speak for themselves.
+
+99.99 %
+
+Is our total uptime over the last 12 months.
+
+30 %
+
+is how much faster our customers’ websites get, on average, in our hosting environment.
+
+30 000+
+
+others have already chosen to rely on Oderland to power their websites and apps.
+
+Hosting for apps and websites
+Reliable, secure, and scalable servers
+Do more, not less, with powerful addons
+You’re in great company
+Hosting optimized for WooCommerce and WordPress
+
+WooCommerce is the world’s leading e-commerce platform built on the popular WordPress. Our servers are optimized for an optimal WordPress and WooCommerce experience.
+
+Web Hosting for WordPress
+
+Features for world-class experiences
+
+At Oderland, you’ll find that a lot is included in all our packages. From advanced technology that makes your website faster and more secure to tools your developers will love.
+
+General
+Performance
+Developers
+Unlimited websites
+
+Add as many domains and websites as you like to your account, as long as it’s within your resources.
+
+E-mail accounts and webmail
+
+Professionally receive emails on an unlimited number of email addresses on your domains. Access via webmail or in your favorite client.
+
+Daily backups
+
+We automatically take backups for databases, files and emails. Our backups are immutable: they cannot be deleted or modified. Safe, fast recovery and lower risk.
+
+More on our backups
+Scanning for antivirus and malware
+
+All our servers have advanced technology from Imunify360 that detects and protects you from various types of attacks.
+
+1-click installation
+
+Install over 450 different applications with a single click from the control panel. You’ll find WordPress, Prestashop and more.
+
+Automatic SSL Certificates
+
+Keep your websites secure with automatic, free SSL certificates.
+
+Monitoring around the clock
+
+Our technical team monitors all servers around the clock. This ensures world-class availability and uptime for you.
+
+Cache
+
+A good cache layer is the icing on the cake for a fast website. With us you always have access to both Memcached and Redis.
+
+Manage Traffic Spikes
+
+In all our hosting packages, you can flexibly scale your resources up and down at any time. Perfect for temporary peaks in traffic.
+
+Expanded memory (RAM)
+
+Modern systems need more memory to run fast. Whatever you choose, you’ll have plenty of memory. Perhaps the best in the business.
+
+LiteSpeed
+
+Smart features and integrations make it easy for you. With your website on our LiteSpeed platform, you’ll notice the difference right away.
+
+Support for large applications
+
+Ready-made cache modules are available for WordPress, Magento, PrestaShop and Drupal, among others. You’ll be up and running in just a few clicks.
+
+Integration between server and application
+
+Tight integration between the server and your applications makes your website or e-commerce even faster.
+
+Dynamic content cache
+
+Manage personalised content on public pages seamlessly with Edge Side Includes (ESI).
+
+Smart cache update
+
+Smart rules ensure that visitors always see up-to-date content.
+
+Device-based rules
+
+Cache multiple views of the same page seamlessly with custom rules based on user-agent.
+
+Version control with git
+
+All our hosting packages and servers always include built-in support for git and version control.
+
+Several cache options
+
+A good cache layer is the icing on the cake for a fast website. With us you always have access to both Memcached and Redis.
+
+wp-cli & drush
+
+Are you developing for WordPress or Drupal? Then you’ll love always having access to command line tools.
+
+SSH
+
+Conveniently manage your application and run scripts securely via SSH. Accessible to everyone on all packages and servers.
+
+Code profiling and debugging
+
+Profile and debug your code with profiling tools for PHP and MySQL. Support for New Relic and xdebug.
+
+Python, Ruby & Node.js
+
+Not only do our servers support PHP, but also Python, Ruby and Node.js. Simply what you’d expect from modern technology.
+
+Latest news from Oderland
+
+General
+
+New prices from January 15, 2026
+
+We are changing the prices for several of our services from January 15, 2026.
+
+15 December 2025
+
+News
+
+New opening hours for our support
+
+Our support hours are changing in order to provide better support when our customers need it most.
+
+8 September 2025
+
+News, WooCommerce, WordPress
+
+What’s New for Woocommerce 10.0 – 5 Great Features in the Latest Update
+
+The latest update to WooCommerce includes several new features that will come in handy in your online store.
+
+8 July 2025
+
+Services
+
+Web Hosting
+Domains
+Managed Server
+Cloud
+Microsoft 365 Business
+More Services
+
+Solutions
+
+Agency
+E-Commerce
+Businesses
+Managed WordPress
+Developers
+WooCommerce
+WordPress
+LiteSpeed Hosting
+Elastic Scaling
+Create Website
+
+Oderland
+
+About Us
+Data Centers
+Environmental Work
+Partners
+Work with Us
+Terms and Policies
+
+Support & Resources
+
+Help & Support
+Status
+Guides
+Client area
+Register new account
+Oderland Webbhotell AB Kungsgatan 56 411 08 Gothenburg, Sweden
+Org. no: 556680-8746 VAT no: SE556680874601 Bankgiro: 611-7535
+
+Oderland Webbhotell AB is registered for F-tax.

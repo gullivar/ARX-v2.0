@@ -1,0 +1,97 @@
+Teie veebibrauser (Chrome 120) on aegunud. Selle saidi turvalisuse, kiiruse ja parima kasutuskogemuse suurendamiseks värskendage oma brauserit. Värskendage brauserit
+
+Veebilehel kasutatakse küpsiseid, et muuta selle kasutamine mugavamaks ja isikupärasemaks. Siin saad valida, milliste küpsiste kasutamiseks nõusoleku annad
+
+VALIN ISE
+LUBAN AINULT VAJALIKUD
+LUBAN KÕIK
+Liigu edasi põhisisu juurde
+ Juurdepääsetavus
+EST
+ENG
+ E-TEENUSED
+Riigi infosüsteem
+Küberturvalisus
+Amet, uudised ja kontakt
+Ennetusportaal itvaatlik.ee
+KÜBERINTSIDENTIDE KÄSITLEMINE CERT-EE
+Küberintsidendist teavitamine
+Soovitused organisatsioonile küberintsidendi käsitlemisel
+CERT-EE tööriistad ja teenused
+Breadcrumb
+Avaleht
+Küberturvalisus Küberintsidentide käsitlemine CERT-EE
+Küberintsidentide käsitlemine CERT-EE
+Riigi Infosüsteemi Ameti intsidentide käsitlemise osakond CERT-EE jälgib Eesti IP-ruumi, tegeleb avaliku sektori ennetava kaitsega ning tuvastab Eesti arvutivõrkudes toimuvaid küberintsidente. Tuvastatud intsidendi korral aitab CERT-EE uurida intsidendi juurpõhjust ning nõustab intsidendi lahendamist.
+JAGA FACEBOOKIS
+JAGA X-IS
+SHARE ON LINKEDIN
+SAADA E-KIRJAGA
+
+Alates 2015. aasta suvest on CERT-EE jälginud Eesti küberruumis toimuvat ööpäev läbi. Tänu sellele oleme ennetanud ja avastanud palju rohkem küberintsidente ning saanud nendele ka kiiresti reageerida.
+
+CERT-EE tegutseb Eestis rahvusliku CERT ülesannetes ning talitleb 2018. aastast rahvusvahelise kontaktpunktina küberturvalisuse direktiivi mõistes.
+
+CERT-EE on Euroopa Info- ja Võrguturbeameti (ENISA) küberturbemeeskondade võrgustiku CSIRTs Network liige.
+
+20. septembrist 2017 on CERT-EE sertifitseeritud: TF-CSIRT Trusted Introduceri sertifikaat kinnitab, et meeskonna tegevus vastab valdkonnas kehtivale SIM3 standardile. Lisaks on CERT-EE-l praegu ENISA kõrgeima taseme akrediteering (Advanced Maturity Level).
+
+CERT-EE kontaktid
+ 663 0299
+ cert@cert.ee
+
+CERT-EE RFC 2350
+
+CERT-EE tegevused
+Intsidentide käsitlemine: raportite vastuvõtmine, intsidentidele prioriteedi määramine sõltuvalt kriitilisuse tasemest, analüüs, intsidentidele reageerimine ning tehniline tugi intsidentide lahendamisele. Samaaegselt toimuvate intsidentide puhul koordineerib CERT-EE neile reageerimist. Soovitused organisatsioonile küberintsidendi käsitlemisel
+Hoiatuste/teadete andmine: annab kasutajatele infot turvaaukude kohta, mis on avastatud Eestis enim kasutatavates süsteemides ja rakendustes. Hoiatusi antakse eelkõige kõrge kriitilisuse astmega rünnete ja turvaaukude ning väga massiliselt levivate viiruste kohta.
+Tugi asutustele ja interneti teenusepakkujatele: tugi süsteemiadministraatoritele, võrguadministraatoritele või klienditoele, kellega lõppkasutajad peaksid küberintsidentide korral ühendust võtma. CERT-EE toe ulatus sõltub küberintsidendi liigist ja kriitilisusest, mõjutatava kasutajaskonna suurusest ning meeskonnas kasutada olevatest ressurssidest.
+Kogukonna koondamine: perioodilised üritused Eesti küberturbekogukonnale, et jagada teadmisi ja edendada koostööd.
+
+CERT-EE lähtub oma tegevuses küberturvalisuse seadusest 
+avaneb uues vahekaardis
+ ja avaliku teabe seadusest 
+avaneb uues vahekaardis
+.
+
+CERT-EE eesmärgid
+Jälgida Eesti infoturbe olukorda, kasutades selleks laekunud raporteid ja kogudes ise infot küberintsidentide kohta. 
+Aidata ära hoida küberintsidente ja vähendada turvariske, seda eelkõige turvateadlikkuse tõstmise ja teavitamise abil.
+Abistada asutusi küberintsidentide asjus ja neid nõustada, kui nad soovivad, et õiguskaitseorganid alustaksid intsidendi uurimist.
+CERT ja CSIRT – mis need on?
+
+CERT viitab organisatsioonile, kes tegeleb küberintsidentidega CERT tegevuse raamistikus.
+
+CSIRT on sarnaste ülesannetega meeskond, kuid nende tegevus võib piirduda mõne konkreetse valdkonna või asutuse küberintsidentide lahendamisega.
+
+CERT ja CSIRT organisatsioone eksisteerib üle maailma ja nad on omavahel tihedas koostöös, jagades informatsiooni küberintsidentide kohta ja teavitades turvaohtudest.
+
+CERT Küberturvalisus
+ Seotud viited
+CERT organisatsioonid maailmas 
+avaneb uues vahekaardis
+CSIRT võrgustiku info ENISA veebilehel 
+avaneb uues vahekaardis
+CERT-EE RFC 2350
+Soovitused organisatsioonile küberintsidendi käsitlemisel
+
+Viimati uuendatud 14.10.2025
+
+Püsi kursis!
+
+Sotsiaalmeedias ja RSS-voogude abil.
+
+RIA RSS-vood
+
+Riigi Infosüsteemi Amet
+ Pärnu maantee 139a, 15169 Tallinn
+ +372 663 0200
+ ria@ria.ee
+
+Avatud E–N 8.30–17.00 ja R 8.30–15.45
+
+Kasutajatugi
+Privaatsussätted
+Ligipääsetavuse teatis
+Kasutusjuhis
+Küpsised

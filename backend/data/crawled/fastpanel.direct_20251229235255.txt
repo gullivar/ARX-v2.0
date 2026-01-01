@@ -1,0 +1,132 @@
+Services
+For partners
+Knowledge base
+Login
+Demo
+Get license
+Free
+ Server
+Control Panel
+
+Managing a server has never been easier!
+
+Purchase yearly or lifetime extended license – get a year of free backup storage
+
+Get license
+Demo version
+Why FASTPANEL?
+Website creation in few clicks
+24/7/365 professional support
+Access right settings
+Unlimited domains/accounts etc
+Wordpress websites friendly
+Easy-to-use interface
+No vendor lock-in
+Comprehensive documentation
+Multi-language support
+Server load stats in real time
+Most popular OS support
+Minimal system requirements
+Key features
+Backup
+Mail
+File Manager
+SSL
+Firewall
+Databases
+PHP
+Job scheduler
+
+Store full or differential backups on your own server or remote storage (dropbox, google drive). Customize the backup schedule to your liking. Add encryption to your backups
+
+Wanna try FASTPANEL on a real server?
+
+Try it here
+Localization
+
+FASTPANEL® is adapted for multiple languages
+
+English
+Eesti
+Español
+简体中文
+Français
+Deutsch
+Русский
+Українська
+Türk
+Српски / Srpski
+Italiano
+
+If you would like to be part of our community and would like to help translate FASTPANEL® into your native language, please email us at:
+
+translate@fastpanel.direct
+People love us
+
+1309751
+
+Websites controlled by FASTPANEL®
+
+>100K
+
+Happy customers
+
+Read reviews
+It's just awesome!
+
+I rarely ever leave reviews. But your product is the best! With every click, I am happy with the speed at which tasks are completed in Fastpanel! Keep it up! It's just awesome!
+
+DRnator
+For Providers
+
+FASTPANEL is already available on DigitalOcean, Vultr, kodu.cloud, TIME4VPS
+
+Are you a hosting provider? Would you like to provide FASTPANEL® for your customers free of charge or on other conditions? Please contact us to get a special offer
+
+sales@fastpanel.direct
+FAQ
+What are the system requirements for FASTPANEL?
+RAM: 1 GB
+Free disk space: 5 GB
+CPU: 1 core, 1 Ghz
+OS:
+Debian 9, 10, 11, 12 (64-bit)
+Ubuntu 18.04, 20.04, 22.04, 24.04 (64-bit)
+CentOS 7 (64-bit)
+AlmaLinux 8 (64-bit)
+Rocky 8 (64-bit)
+Are there any specific skills and knowledge required in order to use the panel?
+
+No specific knowledge is required – you don't have to be a technical specialist. If you experience any difficulties, you can find answers in the Wiki or contact support. But we believe you’ll manage just fine on your own :)
+
+Please try it yourself and leave us a review. Your opinion is really important to us!
+
+Where can I get more information about using the panel?
+
+To get more information visit our Wiki page.
+
+What does the process of ordering a license looks like?
+
+This can be done via billing system, which can be accessed by clicking the "Order" button. During the ordering process, you will be asked to provide the IP address of your server. After obtaining a license it will be activated. In the "Licenses" section you will be able to see the status of the license and the panel installation tool.
+
+Product
+Knowledge base
+List of changes
+Help with translate
+Leave feedback
+Services
+SSL certificates
+Backup storage spaces
+Server help
+Company
+For partners
+Brand resources
+License agreement
+Proudly made in Estonia
+sales@fastpanel.direct
+X
+Instagram
+Threads
+Discord
+
+© P.A.G.M. OU 2016-2024 All rights reserved. FASTPANEL® is a registered trade mark of P.A.G.M. OU

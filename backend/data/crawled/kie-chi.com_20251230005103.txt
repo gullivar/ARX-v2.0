@@ -1,0 +1,121 @@
+加载中...
+文章
+35
+	
+标签
+13
+	
+分类
+17
+ 首页
+ 目录
+ 友链
+ 关于
+Trash Bin for Chi
+ 搜索 首页 目录 友链 关于
+Trash Bin for Chi
+磨而不磷 涅而 |
+TsuNAME 攻击复现报告
+发表于 2025-08-22|更新于 2025-08-22|DNSDDoS|DNS•DDoS
+TsuNAME 攻击复现报告一、摘要本报告详细记录了对 [IMC ‘21]《TsuNAME: exploiting misconfiguration and vulnerability to DDoS DNS》所述 TsuNAME 攻击的复现过程。TsuNAME 攻击利用权威 DNS 服务器上错误的循环依赖配置，诱使脆弱的递归解析器陷入查询循环，有对权威服务器形成拒绝服务攻击 (DDoS) 的潜力。 我们搭建了两种独立的实验环境来验证论文中提及的脆弱系统：一是基于 Docker 的环境，运行了 PowerDNS Recursor 3.6.2；二是在虚拟机中部署了 Windows Server 2008 R2 并启用其 DNS 服务器作为解析器。实验结果表明，尽管这两种系统在面对循环依赖配置时确实会触发查询循环，但它们均未表现出无限循环 / 较大的流量放大的行为。PowerDNS Recursor 和 Windows Server 2008 R2 内置的循环检测机制均能在有限次迭代后（通常在 4-12 次查询内）成功中止循环，并向客户端返回错误。 因此，在我们的受控环境中，单次查询触发的包放大系数（PAF）远 ...
+SAD DNS 攻击评估报告
+发表于 2025-08-18|更新于 2025-08-18|DNSCache Poison|DNS•Cache Poison
+SAD DNS 漏洞评估脚本说明评估脚本获取 measure.py 源码 1. 漏洞说明来源 [CCS ‘20] DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels 基本原理介绍该漏洞（又称 SADDNS）是一种利用操作系统内核网络协议栈的边信道，来绕过源端口随机化这一关键防御机制，从而重新实现传统 DNS 缓存投毒攻击。 传统 DNS 投毒攻击需要猜测一个 32 位的组合（16 位源端口 + 16 位 Transaction ID），这在实践中几乎不可能。SADDNS 通过一种 “分而治之” 的策略，将这个难题分解为两个可行的步骤： 利用 ICMP 边信道猜测源端口： 当 DNS 解析器向外发送一个查询时，它会使用一个随机的 UDP 源端口（例如 34567）。 攻击者为了找到这个端口，会向解析器发送大量伪造源 IP 的 UDP 探测包，覆盖一个端口范围（例如 30000-40000）。 对于每一个命中关闭端口的探测包，解析器的操作系统（如 Linux）会试图回复一个 ICMP Port Unreachable 错误消息。 然而，操作系统对 ICMP 错误 ...
+SAD DNS 攻击复现报告
+发表于 2025-08-15|更新于 2025-08-18|DNSCache Poison|DNS•Cache Poison
+SAD DNS 攻击复现报告一、摘要本报告旨在记录并分析论文 [CCS ‘20]《DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels》中所提出的 SADDNS 攻击的复现过程。SADDNS 是一种利用网络协议栈中旁路信道的 DNS 缓存投毒攻击。实验基于自研的 Cpings 高性能发包框架，通过构建一个包含攻击者、受害者 DNS 解析器（Unbound）和权威服务器的隔离网络环境，成功验证了该攻击的可行性与巨大威胁。 攻击的核心在于利用操作系统内核（特别是 Linux）中存在的全局 ICMP 速率限制这一旁路信道。攻击者通过精心设计的探测包和验证包，能够远程、高效地推断出 DNS 解析器用于上游查询的随机源端口，从而破解了现代 DNS 缓存投毒中最关键的一道防线 —— 源端口随机化。一旦源端口被确定，攻击便退化为经典的 Kaminsky 攻击，攻击者只需暴力猜解 16 位的 Transaction ID 即可成功投毒。实验结果清晰地展示了从端口扫描、旁路信道信息推断到最终缓存投毒的全过程，直观地验证了 SAD ...
+Maginot DNS 攻击评估报告
+发表于 2025-08-11|更新于 2025-08-18|DNSCache Poison|DNS•Cache Poison
+Maginot DNS 漏洞评估脚本说明评估脚本获取 measure.py 源码 1. 漏洞说明来源 [USENIX Security ‘23] The Maginot Line: Attacking the Boundary of DNS Caching Protection 基本原理介绍该漏洞是一种针对条件 DNS 服务器 (CDNS) 的新型缓存投毒攻击。CDNS 是一种被配置为同时充当递归解析器和转发器的特殊 DNS 服务器。 攻击的核心在于利用 CDNS 在处理转发查询时存在的 Bailiwick 检查缺陷。 CDNS 的递归模式和转发模式共享同一个全局缓存。 攻击者诱导 CDNS 查询一个被配置为转发的域名（例如 attacker.com），该查询被发送到攻击者控制的权威服务器。 攻击者控制的权威服务器在响应中，恶意地包含了一条针对其他任意域（甚至是顶级域，如 .org）的伪造 NS 记录。 由于 CDNS 在转发模式下未能正确地限制权限范围，它错误地接受并缓存了这条越权的 NS 记录。 这个恶意 NS 记录污染了全局缓存。此后，任何通过该 CDNS 对目标域（如 .org）的查询都将被劫持到攻击者指定的恶意服务器，从而实现了 ...
+Maginot DNS 攻击复现报告
+发表于 2025-08-10|更新于 2025-08-10|DNSCache Poison|DNS•Cache Poison
+Maginot DNS 攻击复现报告一、摘要本报告旨在记录并分析论文 [USENIX Security ‘23]《The Maginot Line: Attacking the Boundary of DNS Caching Protection》中所提出的 Maginot DNS 缓存投毒攻击的复现过程。实验通过构建一个包含易受攻击的条件 DNS 服务器（CDNS）、攻击者控制的权威服务器以及客户端的隔离网络环境，对 BIND9 和 Microsoft DNS 两种主流软件进行了测试。 攻击的核心在于利用 CDNS 在处理转发查询时存在的 Bailiwick 检查缺陷。攻击者诱导 CDNS 向其控制的权威服务器发起一个转发查询，然后在响应中恶意地包含针对其他域（甚至是顶级域，如.org）的伪造 NS 记录。由于 CDNS 的转发和递归模式共享全局缓存，这个被错误接受的恶意记录成功污染了缓存，从而劫持了目标域的所有后续解析请求。实验结果直观地验证了 Maginot DNS 攻击的强大威力与现实危害。 二、原理分析 Maginot DNS 攻击与传统的 Kaminsky 攻击在目标和原理上均有显著区别。它并非依赖暴力猜测，而是利用了特定 D ...
+Poison Over Forwarders 攻击复现报告
+发表于 2025-08-07|更新于 2025-08-07|DNSCache Poison|DNS•Cache Poison
+Poison Over Forwarders 攻击复现报告一、摘要本报告详细记录了对 [USENIX Security 2020]《Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices》中所述攻击的复现过程。该攻击是一种针对 DNS 转发设备的新型缓存投毒技术，它巧妙地利用了 IP 协议层面的分片与重组机制，从而绕过了传统的、依赖于传输层（如源端口随机化）的 DNS 安全防御措施。 我们通过 Docker 构建了一个包含易受攻击的 DNS 转发器（dnsmasq）、攻击者控制的权威服务器和攻击者客户端的隔离网络环境。实验中，攻击者首先向转发器注入一个精心构造的、伪造的 IP 第二分片，然后触发一个对攻击者域名的查询，诱使其权威服务器返回一个超大的、会被合法分片的 DNS 响应 (实验复现中采用的是超长 CNAME 链)。转发器在重组 IP 包时，错误地将合法的第一个分片与伪造的第二个分片结合，最终导致其 DNS 缓存被植入指向攻击者指定域名（例如 victim.cn）的恶意 IP 地址 ...
+Poison Over Forwarders 攻击评估报告
+发表于 2025-08-07|更新于 2025-08-07|DNSCache Poison|DNS•Cache Poison
+Poison Over Forwarders 评估说明评估脚本获取 measure.py 源码 1. 漏洞说明来源 [USENIX Security 2020] Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices 基本原理介绍该漏洞是一种针对 DNS 转发器的新型缓存投毒攻击。与传统攻击不同，它利用 IP 分片和由攻击者控制的权威 DNS 服务器来绕过常见的 DNS 安全防御机制（如端口随机化、0x20 编码等）。 强制分片：攻击者控制一个权威 DNS 服务器。当有 DNS 查询请求时，该服务器通过构造一个包含超长 CNAME 记录链的 DNS 响应，必须对该响应进行 IP 分片 分片注入：一个被分片的 DNS 响应包，只有第一个分片包含 UDP 和 DNS 头部信息（如事务 ID、端口号等）。攻击者利用这一点，在第一个合法分片到达前，向 DNS 转发器注入伪造的第二个分片 重组缓存: DNS 转发器接收到合法的第一个分片和伪造的第二个分片后，会将它们重组。由于伪造的分片篡改了 CNAME 链的末尾，将其指向了受害者域名（ ...
+Kaminsky 攻击复现报告
+发表于 2025-08-04|更新于 2025-08-07|DNSCache Poison|DNS•Cache Poison
+kaminsky 复现报告一、摘要本报告旨在记录并分析经典的 Kaminsky DNS 缓存投毒攻击的复现过程。我们通过 Docker 构建了一个包含易受攻击的递归 DNS 服务器、攻击者和合法权威服务器的隔离网络环境。实验中，攻击者通过向递归服务器查询一系列不存在的随机子域名，并抢在合法响应前发送大量伪造的 DNS 响应包，成功地在其缓存中植入了恶意的 NS 记录。实验结果表明，攻击成功后，所有对目标域名的查询均被重定向至攻击者指定的服务器，直观地验证了 Kaminsky 攻击的巨大危害性。 二、原理分析 Kaminsky 攻击的核心并非直接猜测并伪造目标域名（如 www.example.com）的 A 记录，而是通过污染其父域（example.com）的权威 NS 记录来获得整个域的解析控制权。其攻击逻辑如下： 攻击者向受害者递归服务器（10.10.0.6）查询一个随机且不存在的子域名，例如 random-string.example.com。由于缓存中没有该记录，递归服务器必须向外查询。 递归服务器会向其配置的根 / 权威服务器（本例中为被攻击者控制的 10.10.0.8）发起请求。攻击者通过让 1 ...
+Linux 主机 Headless 与 Headed 无缝热插拔切换
+发表于 2025-07-10|更新于 2025-07-10|LinuxMini Forum|Linux•Mini Forum
+Linux 主机物理屏与虚拟屏切换指南书接上文，虽然我们已经实现了 Linux 主机的虚拟屏设置，可以很好的使用该 “无头” 服务器，但是如果我们希望给他外接物理显示屏则必须删除虚拟驱动设置，然后再重启。主包觉得这样太过麻烦了，是不是可以让系统自动检测当前是否有显示屏接入，如果接入显示屏那我们采用真实显卡设置，否则采用 DUMMY 虚拟驱动？ 如何启动虚拟屏参见 “无头” Linux 主机远程桌面使用指南中 “使用 X11 桌面协议” 与 “配置 X.org 服务器” 启动虚拟屏进阶对于上篇博文中提到的开机服务，可以设置为用户层面的服务，此时无需指定 DISPLAY，这意味着鲁棒性更强 vim ~/.config/systemd/user/x11vnc.service [Unit] Description=x11vnc server for the current graphical sessionAfter=graphical-session.target [Service] ExecStart=/usr/bin/x11vnc \ -remap /home/chi/.x11vnc_remap \ -xkb \ -fore ...
+“无头” Linux 主机远程桌面使用指南
+发表于 2025-07-07|更新于 2025-07-08|LinuxMini Forum|Linux•Mini Forum
+无显示器使用 Linux 主机 (Ubuntu 24.04.2 LTS) 实录前言五一的时候，主包拥有了自己第一台主机 (mini 版)。因为觉得有 ssh 控制就已经很满足了，所以并没有察觉到显示屏的重要性。直到卸载 Win10 安装 Ubuntu 后，由于联发科网卡反复出现网络问题（吐槽一嘴，Linux 的联发科的驱动真的不太行，建议直接换 Intel 原生态的网卡），导致不得不需要显示屏才能控制主机（故琢磨一天，总结了几种方案） 视频采集卡 + OBS studio（推荐）懒人版，需要有一台可以使用 HDMI 或者 DB 线的笔记本电脑（？），总之就是一台宿主机 宿主机安装 OBS studio 软件，充当主机视频信号载体 主机接 HDMI 线连接视频采集卡，视频采集卡接入宿主机 OBS studio 新增一个视频窗口，初始化部分应该是可以检测到视频采集卡的，然后就大功告成了 大致方案为，找到源，添加视频采集设备，然后按照识别到的视频采集卡设备进行设置，例如我是 UGREEN HDMI Capture, 其他配置一律默认即可 远程控制软件 + Xorg 服务器 (不推荐！！！) 可能需要借用一个显示屏配置一下 ToDesk（） 安 ...
+12…4
+Chi
+这个人很懒，这里什么都没有留下
+文章
+35
+	
+标签
+13
+	
+分类
+17
+Follow Me
+公告
+kie-chi.github.io 我的另一个博客
+最新文章
+TsuNAME 攻击复现报告
+2025-08-22
+SAD DNS 攻击评估报告
+2025-08-18
+SAD DNS 攻击复现报告
+2025-08-15
+Maginot DNS 攻击评估报告
+2025-08-11
+Maginot DNS 攻击复现报告
+2025-08-10
+最新评论
+正在加载中...
+ 分类
+DNS
+8
+Cache Poison
+7
+DDoS
+1
+Linux
+4
+Mini Forum
+2
+Shell
+2
+ML
+1
+OO
+4
+标签
+计算机网络计算机组成原理 DNSCache PoisonDDoSLinuxMini ForumOOMLOSPython 基础字符串 Shell
+归档
+八月 2025
+8
+七月 2025
+2
+六月 2025
+5
+三月 2025
+2
+二月 2025
+2
+十二月 2024
+2
+十一月 2024
+2
+十月 2024
+6
+网站资讯
+文章数目 :
+35
+已运行时间 :
+473 天
+本站总访问量 :
+4314
+最后更新时间 :
+4 个月前
+©2024 - 2025 By Chi
+框架 Hexo| 主题 Butterfly

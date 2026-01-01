@@ -1,0 +1,1 @@
+{"errors":[{"status":"404","title":"Not Found","detail":"HTTP path is invalid"}]}

@@ -1,0 +1,172 @@
+Skip to main content
+Donate
+Team
+Blog
+Docs
+Store
+Playground
+Code Explorer
+Find and fix problems in your JavaScript code
+Find and fix problmes
+ 
+in your JavaScript code
+
+ESLint statically analyzes your code to quickly find problems. It is built into most text editors and you can run ESLint as part of your continuous integration pipeline.
+
+ 
+Get Started Become a Sponsor
+Sponsored by:
+    and more...
+Latest Version
+ v9.39.2 on 12 Dec
+Latest Prerelease Version
+ v10.0.0-beta.0 on 12 Dec
+Upcoming Version
+ v10.0.0-rc.0 on 9 Jan
+Version Support
+The pluggable linting utility for JavaScript and JSX
+
+ESLint is an open source project that helps you find and fix problems with your JavaScript code. It doesn't matter if you're writing JavaScript in the browser or on the server, with or without a framework, ESLint can help your code live its best life.
+
+Find issues
+
+ESLint statically analyzes your code to quickly find problems. ESLint is built into most text editors and you can run ESLint as part of your continuous integration pipeline.
+
+Learn more about finding issues with ESLint 
+Fix problems automatically
+
+Many problems ESLint finds can be automatically fixed. ESLint fixes are syntax-aware so you won't experience errors introduced by traditional find-and-replace algorithms.
+
+Learn more about fixing problems automatically with ESLint 
+Configure everything
+
+Preprocess code, use custom parsers, and write your own rules that work alongside ESLint's built-in rules. Customize ESLint to work exactly the way you need it for your project.
+
+Learn more about configuring ESLint 
+News and Updates
+
+The latest ESLint news, case studies, tutorials, and resources.
+
+Published under: Release Notes 1 min read
+ESLint v9.39.2 released
+
+We just pushed ESLint v9.39.2, which is a patch release upgrade of ESLint. This release fixes several bugs found in the previous release.
+
+Francesco Trotta
+12 Dec, 2025
+Published under: Release Notes 3 min read
+ESLint v10.0.0-beta.0 released
+
+We just pushed ESLint v10.0.0-beta.0, which is a major release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release. This release also has some breaking changes, so please read the following closely.
+
+Francesco Trotta
+12 Dec, 2025
+Published under: Release Notes 2 min read
+ESLint v10.0.0-alpha.1 released
+
+We just pushed ESLint v10.0.0-alpha.1, which is a major release upgrade of ESLint. This release adds some new features and fixes several bugs found in the previous release. This release also has some breaking changes, so please read the following closely.
+
+Milos Djermanovic
+28 Nov, 2025
+View all posts
+Welcome to the community
+
+ESLint is the #1 JavaScript linter by downloads on npm (over 36.1 million downloads / week) and is used at companies like Microsoft, Airbnb, Netflix, and Facebook.
+
+27.3M Dependents
+36.1M Weekly Downloads
+26.7K Stars
+Sponsored by fantastic people
+
+We receive $136,403.08 / year in donations from 160 sponsors.
+
+View all sponsors
+Recent One-time Donations
+
+Buffalo Exchange, LTD.
+
+December 29, 2025
+
++ $15.00
+
+Fabiano
+
+December 26, 2025
+
++ $5.00
+
+juicy.lemon_
+
+December 25, 2025
+
++ $1.00
+
+SportEasy
+
+December 23, 2025
+
++ $80.00
+
+knpb media
+
+December 23, 2025
+
++ $650.00
+
+cl
+
+December 3, 2025
+
++ $5.00
+View all donations
+testimonials
+Showing slide 1 of 5
+
+ESLint has been critical in helping developers write high-quality JavaScript for years. We love that it catches common issues early and often. With a high level of extensibility, ESLint's ability to let teams enforce custom rules that work for them has been excellent for open-source projects and more. Chrome is happy to sponsor ESLint to help web developers write consistently high-quality code. It's an essential piece of the modern web development toolkit.
+
+Addy Osmani Senior Staff Eng. Manager, Chrome
+
+Nx uses ESLint to enforce code quality, library boundaries, and project visibility constraints. ESLint makes Nx more powerful, so on behalf of the Nx.dev community, we're proud to do our part and sponsor ESLint's continued success!
+
+Jeff Cross Co-founder and Principal Architect, Nx
+
+ESLint is an extremely useful tool for any JavaScript project. This tool allows us to set up consistent code formatting rules adopted by the whole team from the beginning of the project, greatly facilitates code reviews, and makes it easy to integrate new developers into the team. I know I am not alone in appreciating its flexibility and ease-of-use.
+
+Médédé Raymond KPATCHAA Technical Architect, Salesforce
+
+Most JavaScript projects directly or transitively depend on ESLint. An Indeed employee nominated ESLint to receive a donation from the FOSS Contributor Fund, and their colleagues clearly agreed. We're happy to support the open source technologies that allow us to develop, protect, and maintain the digital infrastructure that supports our products and helps people get jobs.
+
+Duane O'Brien Head of Open Source, Indeed
+
+ESLint plays a major role in helping us create a safe and consistent experience across a growing number of codebases and engineers. We are grateful for all the open-source projects that are helping us build Contra, and ESLint is the first of many open-source projects that we are committed to back.
+
+Gajus Kuizinas Co-Founder / CTO, Contra
+ 
+Ready to fix your JavaScript code?
+
+Install from npm or start donating today.
+
+Get Started Become a Sponsor
+Theme Switcher
+ Light  System  Dark
+Selecting a language will take you to the ESLint website in that language.
+Language 
+🇩🇪 Deutsch
+🇺🇸 English (US)
+🇪🇸 Español (ES)
+🇫🇷 Français
+🇮🇳 हिन्दी
+🇯🇵 日本語
+🇧🇷 Português (BR)
+🇨🇳 简体中文
+
+Copyright OpenJS Foundation and ESLint contributors. All rights reserved. The OpenJS Foundation has registered trademarks and uses trademarks. For a list of trademarks of the OpenJS Foundation, please see our Trademark Policy and Trademark List. Trademarks and logos not indicated on the list of OpenJS Foundation trademarks are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+Branding
+The OpenJS Foundation
+Terms of Use
+Privacy Policy
+OpenJS Foundation Bylaws
+Trademark Policy
+Trademark List
+Cookie Policy

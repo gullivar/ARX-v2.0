@@ -1,0 +1,265 @@
+Skip to main content
+Products
+Developers
+AI Agents
+Pricing
+Sign in
+FREE TRIAL
+Comprehensive Test Stack
+
+Open and flexible test platform. Superior AI throughout the testing lifecycle.
+
+Get started free Talk to us
+Test your websites and mobile apps
+Featured
+Explore our popular products
+Web Testing
+Test websites or web apps on real browsers
+App Testing
+Test iOS & Android apps on real devices
+TEST WEBSITES OR WEB APPS
+Live
+Manual cross
+browser testing
+Automate
+Browser
+automation grid
+Percy
+Automated visual
+testing & review
+Accessibility Testing
+Test WCAG & ADA
+compliance
+TEST MOBILE APPS
+App Live
+Manual real
+device testing
+App Automate
+Real device
+automation cloud
+TEST MANAGEMENT & OPTIMIZATION
+Test Management
+Unify & track all
+test cases
+Test Reporting & Analytics
+Monitor & optimize all tests
+Live
+Manual cross
+browser testing
+Automate
+Browser
+automation grid
+Percy
+Automated visual
+testing & review
+Accessibility Testing
+Test WCAG & ADA
+compliance
+Test Management
+Unify & track all
+test cases
+Test Reporting & Analytics
+Monitor & optimize all tests
+Low Code Automation
+Automation without coding
+Requestly
+HTTP interceptor & mocking
+Website Scanner
+All-in-one website checker
+Testing Toolkit
+Essential manual testing tools
+App Live
+Manual real
+device testing
+App Automate
+Real device
+automation cloud
+App Percy
+Automated visual
+testing & review
+Test Management
+Unify & track all
+test cases
+Test Reporting & Analytics
+Monitor & optimize all tests
+App Accessibility Testing
+Test WCAG compliance
+Trusted by more than 50,000 customers globally
+Benefits
+Improve test coverage
+
+Cross-browser, real device, visual, accessibility testing
+Learn more
+
+Boost productivity with AI
+
+AI agents across the testing lifecycle harnessing a unified data store
+Learn more
+
+Accelerate testing cycles
+
+Achieve faster and reliable test automation at scale
+Learn more
+
+Stories from our customers
+
+Brian Lucas
+Senior Staff Software Engineer
+
+Optimizely lowers developer pain by moving testing to the cloud
+
+Priyanka Halder
+Senior Manager Quality Engineering
+
+GoodRx cuts testing time by 90% to release 15 times a day
+
+Kateryna Glushchuk
+Senior Product Manager
+
+OLX delivers seamless experiences for a localized global audience
+
+Martin Schneider
+Delivery Manager
+
+Asia’s largest classified marketplace uses BrowserStack to scale automation
+
+Srividya Jayaram
+Test Engineering Manager
+
+Sainsbury’s leverages test automation to double release frequency
+
+Hyunoo Park
+Full Stack Engineer
+
+Legal discovery platform Logikcull reduces test time by 73%
+
+Talk to us See our Customers
+
+Just played around with BrowserStack: Quite cool, instant access to a browser in a VM with dev tools.
+
+John Resig
+
+Creator of jQuery
+
+Dan Abramov
+
+React App
+
+Grommet
+
+React UI Framework
+View all testimonials
+Seamlessly integrate BrowserStack into your setup
+
+We work with the tools and frameworks you use. Test development code from Visual Studio and non-production apps from Firebase. Run automated tests on every commit from your CI/CD pipeline, and get test results directly in Jenkins and Slack. Report bugs directly to Jira, and reproduce them with a click.
+
+Selenium
+Jenkins
+Slack
+Appium
+Travis CI
+Jira
+Cypress
+Gitlab
+Playwright
+Firebase
+View all integrations
+Ready to try it out?
+
+Over 6 million developers and 50,000 teams test on BrowserStack. Join them.
+
+Get Started Free View Pricing
+
+PRODUCTS
+
+Live
+Testing Toolkit
+App Automate
+App Live
+Automate
+Accessibility Testing
+Low Code Automation
+Percy
+App Accessibility Testing
+Accessibility Automation
+Test Management
+Test Management for Jira
+Test Reporting & Analytics
+App Percy
+Requestly
+Website Scanner
+
+WHY BROWSERSTACK
+
+Customers
+Case Studies
+AI Agents
+Browsers & Devices
+Enterprise
+Data Centers
+Real Device Features
+Security
+
+RESOURCES
+
+Support
+Status
+Release Notes
+Blog
+Events
+Community
+BrowserStack Talks
+Meetups
+Champions
+Guide
+Partners
+Find a partner
+Trust Center
+Test University (Beta)
+
+COMPANY
+
+About Us
+Careers
+Open Source
+Press
+Newsletter
+
+SOCIAL
+
+Contact Us
+We are available 24 / 7
+
+More Resources
+
+Cross Browser Testing
+Selenium
+Test Management
+Emulators vs Real Device
+Mobile App Testing
+
+Test On Devices
+
+Test on iPhone
+Test on iPad
+Test on Galaxy
+Test In IE
+Test on Android
+Test on iOS
+Test on Right Devices
+Mobile Emulators
+
+Tools
+
+SpeedLab
+Screenshots
+Responsive
+Nightwatch.js
+
+© 2025 BrowserStack. All rights reserved.
+
+Terms of Service
+Privacy Policy
+Cookie Policy
+Cookie Preferences
+Sitemap

@@ -1,0 +1,239 @@
+Skip to content
+SpeedCurve is now part of the Embrace family! There are no changes to how you use our products. Our founder Mark shares what this means...
+Why SpeedCurve
+Features
+Pricing
+Resources
+Log In
+FREE TRIAL
+Faster site. Happier users.
+
+Track web performance, fix issues and boost user engagement. Expand your team's capability and culture with coaching from the most experienced folks in web performance.
+
+Or book a chat with us.
+
+Good
+24.7
+Needs Improvement
+35.1
+Poor
+40.1
+Melbourne, Australia
+43 seconds ago
+Web Vitals
+Poor
+San Francisco, USA
+5 seconds ago
+Web Vitals
+Good
+Don't ship features and hope they're fast enough.
+Fix your site speed first.
+
+Be confident your site is fast and all your users are having a great experience.
+
+Track performance metrics
+
+We collect all the metrics you need to track web performance and correlate speed with business outcomes.
+
+Synthetic, RUM, Lighthouse, Core Web Vitals, User Timing, Element Timing, Competitors, Conversion Rate, Bounce Rate...
+
+We've got them all.
+
+Find & fix performance issues
+
+Tracking metrics is the easy bit. We focus on turning that data into meaningful actions you can take to improve your user experience.
+
+We tell you which users are having the worst experience and how to fix your pages to lift them onto a faster and higher converting path.
+
+Build a performance culture
+
+Our small and dedicated team will help coach and build a performance culture across your organization.
+
+We love working alongside folks from all parts of the business including front-end, SEO, product, marketing and management.
+
+We get everyone focused on creating a fast, joyous user experience with higher conversion rates.
+
+We've helped speed up these websites
+SpeedCurve is worth its weight in gold. It highlighted performance bottlenecks and benchmarked us against competitors. We discovered an issue with blocking scripts in our SPA and improved performance by 40%. So valuable for securing stakeholder buy-in.
+Elliot Crush
+Holiday Extras
+All the metrics
+Comprehensive web performance monitoring.
+
+SpeedCurve collects all the web performance metrics you need in one place.
+
+From lab-based synthetic testing to real user monitoring along with conversion rates and much more.
+
+Run A/B tests and correlate performance improvements with better business outcomes.
+
+WEB PERFORMANCE GUIDE
+
+Powerful features
+Stand in your customers' shoes. Find and fix performance issues.
+
+Our dashboards focus on the users who are struggling to connect with your app/service and having the worst user experience.
+
+Easily find those users having a poor experience. We'll show you what to fix and which metrics need the most attention to improve user experience.
+
+EXPLORE FEATURES
+
+People matter
+Chat with the most experienced people in web performance.
+
+We can help you with anything from auditing your pages to configuring your monitoring to calculating the ROI of investing in performance. Our team includes some of the most experienced performance experts in the industry.
+
+Benefit from our 20+ years of making mistakes – and ultimately learning how to get it right.
+
+BOOK A CHAT
+
+New Features
+On-demand testing
+By popular demand, we've added on-demand testing in the SpeedCurve UI. You can now test any URL you like, any time. This is great for testing out competitor pages or your own scripts.
+INP sub-parts & attribution
+We've released more diagnostic detail for Interaction to Next Paint (INP). Identify which elements on your site are causing delays during interaction and use the subparts to pinpoint the cause.
+The fastest sites depend on SpeedCurve
+Farfetch reduces page load by over a second
+Conversions
+Traffic
+Bounce Rate
+Farfetch analyzed more than 1M pageviews and found that conversion rate decreased 2.7% for each additional second of TTI on mobile, and 2.1% on desktop.....
+Read Story
+How performance budgets help Wehkamp keep a highly performant website
+Performance Budgets
+Images
+Retail
+Wehkamp are using performance budgets, the Status dashboard and Slack alerts to stay on top of site changes and make sure they catch performance issues when they.....
+Read Story
+How Farfetch built a performance culture at scale
+Performance Culture
+Performance Budgets
+Retail
+We love how SpeedCurve addresses performance budgets, which have been helping us achieve our goals...
+Read Story
+MORE PERFORMANCE WINS
+Had a third party degrade web performance and got alerted by SpeedCurve. Raised the issue with the third party and they fixed it. Metrics now back to normal!
+Rockey Nebhwani
+Walmart
+Strategic Performance Process
+1
+Track performance metrics. Set goals and create performance budgets for the most important metrics.
+2
+Integrate performance testing with your CI/CD process. Run A/B tests. Correlate speed with business metrics.
+3
+Reach performance goals and fight regressions. Get alerts when your pages get slower and fix them.
+4
+Build a performance culture by sharing progress across the organization.
+We are here to support you on your performance journey
+We are obsessed with web performance. We want your organization to care about it, too. We make performance digestible for people who are just getting started. For those who are more experienced, we can go much deeper – for example, with custom metrics and dashboards. Wherever you are in your performance journey, we’re here to listen and help.
+Tim Kadlec
+Performance Consultant
+I love @SpeedCurve for correlating RUM data to business metrics. They have some out of the box stuff around bounce rate, and it's easy to add custom business metrics to graph and track.
+Kyle Rush
+VP of Engineering for @Casper. Formerly @HillaryClinton, @BarackObama, @Optimizely, @NewYorker
+You all have a great tool on your hands. Can’t remember being this happy/excited about B2B software in years 😃
+Harry Roberts
+CSS Wizardry
+I absolutely love demoing @speedcurve to clients. Gives me a chance to fall in love with it all over again. It just does soooo much.
+Barry Pollard
+Author of HTTP/2 in Action
+A site redesign really shows @SpeedCurve’s worth. So much good stuff in there that I haven’t had time to play with until now.
+Addy Osmani
+Google Chrome
+❤️ everything SpeedCurve have been doing lately: First Input Delay support, Long Tasks, CPU Scripting time, Perf Budget support, Last Painted Hero. Y'all are rocking the performance monitoring space big time.
+Joan León
+Frontend Engineer & Google Dev Expert
+I'm trying @SpeedCurve and it's the best experience I've ever had with Web Performance data interpretation 🤩
+Guy Podjarny
+Web Performance and Security geek
+SpeedCurve is visually awesome and holds functionality I've been expecting someone to finally build for quite a while.
+Andreas Stephan
+Senior Product Manager @ Talentformation
+We just had a great call about some @SpeedCurve features with @tameverts and @Souders. I am really delighted to get such great customer service in additions to such an awesome tool! Thanks!
+Nick Howe
+Hitachi Data Systems
+SpeedCurve took 5 minutes to set up and gives me an instant view of how our site is performing in absolute terms, and relative to our competition.
+Joao Cunha
+Foregon
+@SpeedCurve is the best tool I know for creating and nurturing a culture of performance. Gives you insights, points out what the main performance issues are and even ranks your site against competitors.
+Patrick Hamann
+The Guardian
+We used SpeedCurve to track the performance of the new Guardian responsive site which now loads four times faster and is one of the fastest news sites in the US.
+Vitaly Friedman
+Smashing Magazine
+Thank you for your stellar work, friends! ❤️
+Simao Freitas
+Marley Spoon
+SpeedCurve just keeps on giving. Just helped me find another big performance bottleneck. This tool is a no brainer ❤️
+Joao Pedro Ribeiro
+VoucherCodes
+We managed to shave ~1s by tweaking our HTTP/2 server push settings 🚀 All monitored via @SpeedCurve amazing dashboards.
+Jed Wood
+Ancestry
+It’s been a pleasure using SpeedCurve for the past couple of years. We made fantastic progress on many of our key pages, and I couldn't have done it without SpeedCurve.
+Josh Deltener
+Director of Front-end @RealTruck
+@SpeedCurve Real User Monitoring (RUM) helped us spot a giant performance hit when a popular A/B testing tool was enabled by Ops. Highly recommend.
+Tom Dooner
+Causes
+We've got SpeedCurve on the studio wall monitor and staying faster than our competitors is hugely motivating.
+Mike Geyser
+Equal Experts
+@SpeedCurve is just the best. It has helped wrangle react, ads, layout shifts, caching, budgets. The most valuable thing it's given us is a mechanism to openly and honestly engage business about performance.
+Andrew Del Prete
+Musicbed
+Still getting a kick out of SpeedCurve. The individual result views are fantastic.
+Oleg Zender
+Welt
+When @SpeedCurve makes you feel like a CSI agent as you solve the case of sudden Speed Index increase.
+Tommy Parnell
+CarGurus
+I've been using @SpeedCurve for only a week, and I'm 100% sold. If you really care about front end #performance, get this tool. Holy crap is it amazing. I can easily graph my #lighthouse scores over time.
+Ready to speed up your web performance and make your users happy?
+
+Get a free performance consult
+
+Talk to the team and tell us about your current performance challenges. We'll share some tips and walk through how SpeedCurve can best help.
+
+BOOK A CHAT
+
+Start a free trial
+
+Start collecting data and exploring the dashboards yourself. Check your vitals, benchmark your competitors. Reach out anytime you need some help.
+
+FREE TRIAL
+
+Why SpeedCurve
+Business & SEO
+Diagnose & Improve
+Automated & Continuous
+Collaboration & Expertise
+Features
+Web Performance Monitoring
+Core Web Vitals
+Performance Budgets
+Ci/CD & Deployments
+Performance Culture
+Competitive Benchmarking
+Consulting & Support
+Resources
+Web Performance Guide
+Blog
+Newsletter
+Case Studies
+Industry Benchmarks
+Media
+Pricing
+Plans
+Terms of Service
+Privacy Policy
+About
+The Team
+Customers
+Embrace Mobile, Inc
+Support
+Support Docs
+API Docs
+System Status
+Bluesky
+Support Videos
+Contact Us

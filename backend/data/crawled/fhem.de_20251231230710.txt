@@ -1,0 +1,34 @@
+Home of FHEM Version: EN DE Content: Description Features Protocols Screenshots Documentation Download Installation Links License FHEM Links: Forum SVN Wiki FHEM e.V. Description FHEM (TM) is a GPL'd perl server for house automation. It is used to
+      automate some common tasks in the household like switching lamps /
+      shutters / heating / etc.  and to log events like temperature / humidity
+      / power consumption. The program runs as a server, you can control it via web or smartphone
+      frontends, telnet or TCP/IP directly. In order to use FHEM you'll need a 24/7 server (NAS, RPi, PC, MacMini,
+      etc) with a perl interpreter and some attached hardware like the
+      CUL-, EnOcean-, Z-Wave-USB-Stick, etc. to access the actors and sensors. It is pronounced without the h, like in feminine. Features support for a lot of protocols used in house automation, audio/video
+          devices, weather services, online calendars and more. autocreating devices/logs when receiving data from a new device:
+          start FHEM and watch how the plots of your sensors are appearing
+          automatically. logging events to files or a database, with regexp filters notifying external programs or scripts when receiving certain
+          events timed commands (e.g. switching a lamp on from sunset till midnight) lot of interfaces: simple text, JSON, XML, each of them over plain
+          TCP/IP, SSL or HTTP. modular architecture with currently over 430 modules, easy to add
+          your special device lot of frontends, choose your favorite Supported protocols (small excerpt) eQ3 spezific: HomeMatic, MAX!, FS20, EM1000, FHT80b, HMS, S300,
+          ESA2000 KNX, ZWave, EnOcean, Philipps HUE, FRITZ!Dect, Intertechno, HomeEasy, 
+          X10 1Wire, Firmata, webio, panStamp, LIRC, JeeLink, RFXCOM/RFXTRX, Wireless M-Bus Davis VantagePro2, Oregon Scientific, Allnet TVs from LG, Panasonic, Philips, Samsung, Sony Devices from Bose, Sonos, Squeezebox Amplifier from Denon, Onkyo, Pioneer, YAMAHA iTunes/AppleTV, Enigma2, XBMC/Kodi, MediaPortal, Plex Alexa, HomeKit, HomeBridge, MQTT (internal or external server) A complete list of all FHEM-modules with a detailed description can be
+      found in the commandref document. Frontend Screenshots Builtin web frontend:
+        overview on the Desktop or on the Smartphones , SVG-plots . The FHEM FLOORPLAN module: Example1 , Example2 , LCars . The InfoPanel module FHEM Tablet UI : Example1 , Example2 smartVISU: Example Charting Frontend and YAF (Yet Another Frontend). iPhone Frontends: Fhemobile (native app), dhs-computertechnik or phyfhem Android Frontends: andFHEM (natives App), Fullscreen Browser App , ORCA addition Documentation commandref.html contains a detailed description of all features/modules. Our wiki at https://wiki.fhem.de Forum: https://forum.fhem.de Although most entries are in german here,
+      don't be afraid to ask something in english. short course in FHEM (no hardware needed): First steps in FHEM Quick-Start for a short installation/configuration. Heimautomatisierung-mit-FHEM.pdf (Feb. 2014, pdf, german) Smart Home mit FHEM (Oct. 2019, german) Download Last released version: (as of 2025-03-29): fhem-6.4.tar.gz , fhem-6.4.zip , fhem-6.4.deb , See the CHANGED file for the change history or the svn log for a more detailed log. Note : the FHEM development is a continuous one, and a release is
+      only a starting point for the update process. Use the update command to get the
+      most recent version, especially if you want to report issues in the
+      forum. Nightly versions: debian.fhem.de Please use fheminfo command to
+      automatically generate this statistics as we'd like to know which FHEM modules are in use. Installation Debian/Ubuntu/Raspbian Install this package.
+      For a better integration check out debian.fhem.de Unix / OSX Make sure you have perl. Most certainly you will need the
+          Device::SerialPort perl module, install it with "sudo cpan
+          Device::SerialPort" or "apt-get install libdevice-serialport-perl". Download the .tar.gz package, unpack it, and change to the unpacked directory. start FHEM directly from this directory (perl fhem.pl fhem.cfg). Windows See the FHEM Installation Windows for a detailed description. If you are using cygwin for your perl installation you can
+      follow the guidelines for Unix. Fritz!BOX As of Fritz!OS 6.20 AVM decided to remove all possibilities to start
+      "foreign" programs automatically after a reboot, that is why I advise
+      against deploying FHEM on the Fritz!BOX, see also this discussion
+      (in german). If you still insist: On the FB7390 or FB7490 install this image. Note: it
+        is needed additionally to the OS image from AVM. On the FB7270 unpack this zip file to a
+        USB-Disk, attach the disk to the FritzBox, log in, and start FHEM from
+        there. After the installation follow the Quick-Start for 
+    adding devices or try out the demo configuration by starting fhem with: perl fhem.pl fhem.cfg.demo Links Forum: https://forum.fhem.de Development source: https://svn.fhem.de Wiki: https://wiki.fhem.de FHEM e.V. (registered non-profit association): https://verein.fhem.de The purpose of the association is the promotion of science, research and teaching as well as education on the topics of free and open source software and open standards with special consideration of FHEM. CUL/CUNO/COC/EUL/TUL-Firmware Homepage: http://culfw.de License: Copyright: Rudolf Koenig (rudolf dot koenig at fhem dot de. Note: I do
+        not provide fhem-support via private mail, use the forum instead) Numerous other people with their FHEM modules License: GPL (v2) Impressum / Datenschutz

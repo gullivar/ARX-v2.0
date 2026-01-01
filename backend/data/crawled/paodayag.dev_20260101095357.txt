@@ -1,0 +1,120 @@
+Hello, I'm Pao!
+
+A web developer with a knack for turning my ideas or yours into something real and tangible...
+
+Know more about Pao
+AboutProjectsContact
+About Pao
+
+Julian Paolo Dayag also known as Pao is a technology enthusiast and web application developer with a knack for building secure, optimized, and scalable digital solutions. The journey began in 2007, during the first year of high school, when Friendster a leading social network in Southeast Asia, introduced profile customization through CSS and JavaScript. What started as playful experimentation soon evolved into a deep passion for web development.
+
+Since then, Pao has created tools and libraries now used by thousands worldwide, always with a focus on performance, security, and long-term scalability. Each project is approached with the same goal, which is to craft solutions that are both performant and reliable.
+
+A strong advocate for open source, Pao makes all projects free to download and fully accessible to the community, because technology is at its best when it's shared.
+
+Tech Arsenal
+PHP
+TypeScript
+Node.js
+n8n
+MySQL
+MongoDB
+Flowise
+OpenAI
+Anthropic
+SugarCRM
+Laravel
+Vue.js
+Docker
+Tailwind CSS
+Cloudflare
+AWS
+macOS
+Debian
+Windows
+RHEL
+Pinecone
+LangChain
+Slack
+Teams
+Discord
+Zoho
+Linode
+DigitalOcean
+jQuery
+Lodash
+Bootstrap
+Tailscale
+Shell Script
+Sass
+Prompt Engineering
+Artificial Intelligence
+Security
+Jira
+Git
+JSON
+YAML
+HTML5
+CSS3
+RxJS
+Asana
+REST
+Symfony
+Shadcn
+Dev Works
+Hello PO
+Visit Project 
+
+Hello PO is a community-run website dedicated to Pacifica Online, an online game with a long-standing player base.
+
+The site serves as a central hub of information for players, providing a database of in-game content, including items and weapons, along with a gallery that showcases fan art, gameplay screenshots, and videos.
+
+It also features a music section that catalogs tracks and themes used in the game. Beyond being an informational resource, Hello PO is tied to a vibrant online community, including a Facebook group that has been active since 2011 and is considered one of the most enduring spaces for Pacifica Online fans.
+
+Overall, the site blends practical game data with creative community contributions, making it both a guide and a gathering place for players.
+
+ Vue.js Bootstrap Netlify Firebase Lodash Sass JAMstack
+Playit.gg Web
+Visit Project 
+
+Playit.gg Web is a docker-based tool that combines the Playit.gg's command-line client with a simple web interface, making it easier to start using Playit.gg without needing to follow complex set of instructions for installing and setting up Playit.gg in your machine.
+
+It is popularly used for hosting Minecraft and Palworld servers due to its one click setup.
+
+It has over 10k+ downloads in DockerHub.
+
+ Node.js Vue.js Tailwind CSS TypeScript Sass Docker
+Palworld Livemap
+Visit Project 
+
+Palworld Livemap is an online service that provides Palworld Server Administrators a tool to track all online players across the map, including their level progress, latency and live location.
+
+ Node.js Vue.js Tailwind CSS TypeScript Sass Netlify
+Cloudflared-web
+Visit Project 
+
+Cloudflared-web is a docker-based tool that combines the Cloudflared command-line client with a simple web interface, making it easier to start using Cloudflare tunnels without needing to follow complex set of instructions for installing and setting up Cloudflared in your machine.
+
+It is highly popular in self-hosting community due to its simplicity and easy of use.
+
+It has over 700k+ downloads in DockerHub.
+
+ Node.js Vue.js Tailwind CSS TypeScript Sass Docker
+CasaOS LinuxServer Appstore
+Visit Project 
+
+CasaOS LinuxServer AppStore is a custom third-party App Store for CasaOS, designed to bring over 100 Docker-ready applications—each maintained by the LinuxServer.io community—into the CasaOS ecosystem.
+
+The repository automatically tracks updates and synchronizes new releases daily, ensuring users always have access to the latest versions of apps like Plex, Radarr, Sonarr, and more.
+
+It is the very first and one of the most popular custom appstore for CasaOS.
+
+ Node.js Docker YAML
+Let's Connect!
+
+I'm always interested in new opportunities and collaborations.
+Let's discuss how we can work together.
+
+EmailLinkedInGitHub
+
+© 2025 Pao Dayag. All rights reserved.

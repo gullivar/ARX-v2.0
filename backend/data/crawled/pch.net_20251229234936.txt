@@ -1,0 +1,27 @@
+Login
+About 
+Services 
+Tools 
+Resources 
+Packet Clearing House
+
+is the intergovernmental treaty organization responsible for providing operational support and security to critical Internet infrastructure, including Internet exchange points and the core of the domain name system.
+
+Internet Exchange Points
+
+The task that PCH was first created to address is the building and support of Internet Exchange Points. IXPs are the places where Internet Service Providers interconnect their networks, to exchange traffic between their customers and create Internet bandwidth. PCH assists in the construction of IXPs, and provides equipment, training, and ongoing support to IXPs and their operators. Over the past thirty years, PCH has helped build more than half of the world’s IXPs, and has provided assistance of some sort to more than half of all the world’s IXPs. PCH also maintains the global directory of IXPs, and publishes statistics about their use and growth.
+More details...
+
+Core of the Domain Name System
+
+PCH has been working since 1995 to make the Domain Name System faster, more scalable, and more resilient against attack. PCH pioneered the use of DNS anycast to distribute DNS load among more servers in more places, anycasting top-level domain nameservers since 1997, and root nameservers since 2001. PCH is the largest authoritative DNS service network in the world, hosting multiple root letters and nearly 400 top-level domains on thousands of servers in 336 locations around the world. PCH is also the operator of the only FIPS 140-2 Level 4 DNSSEC signing platform other than the root itself.
+More details...
+
+Regulatory & Policy
+
+PCH conducts more than 100 workshops each year on Internet regulatory theory, governance, and economics for audiences ranging from Internet service provider engineers to communications, economic development, and defense ministers. PCH also works in conjunction with and in support of other Internet governance organizations and fora like the global network operators groups, the Internet Governance Forum, the OECD, ICANN, NetMundial, the Regional Internet Registries, and many others. PCH also maintains a global calendar of Internet operations and governance meetings.
+More details...
+
+PRIVACY
+DONATE
+ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.

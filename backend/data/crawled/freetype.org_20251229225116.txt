@@ -1,0 +1,277 @@
+FreeType
+
+FreeType is a freely available software library to render fonts.
+
+It is written in C, designed to be small, efficient, highly customizable, and portable while capable of producing high-quality output (glyph images) of most vector and bitmap font formats.
+
+Some products that use FreeType for rendering fonts on screen or on paper, either exclusively or partially:
+
+GNU/Linux and other free Unix operating system derivates like FreeBSD or NetBSD;
+Platforms for smart devices, including Android, Tizen, and Roku;
+iOS, Apple's mobile operating system for iPhones and iPads;
+ChromeOS, Google's operating system for laptop computers;
+ReactOS, a free open source operating system based on the best design principles found in the Windows NT architecture;
+Ghostscript, a PostScript interpreter used in many printers;
+Web browser engines such as Chromium, WebKit, Gecko, and Goanna.
+
+Counting the above products only, you get more than a billion devices that contain FreeType.
+
+News & Updates
+FreeType 2.14.1
+2025-09-11
+
+This is an emergency release that fixes a couple of severe bugs introduced in version 2.14.0 and discovered right after the release; see issues #1349, #1353, #1354, #1355, and #1356.
+
+FreeType 2.14.0
+2025-09-07
+
+Don't use this release! Use release 2.14.1 instead.
+
+This release brings two important new features.
+
+The HarfBuzz library (on which FreeType usually depends) can now be loaded dynamically. This avoids the circular dependency between HarfBuzz and FreeType, which caused a lot of grievance for people whose job was to distribute FreeType and HarfBuzz as packages.
+
+The diacritic handling of the auto-hinter at small sizes got improved. Diacritics are now better separated vertically, the tilde shape is retained, and the ogonek accent (and similar accents) no longer distorts the base glyph. The image shows arial.ttf in light auto-hinting mode at 17ppem, without and with the new code.
+
+In case you are using the TT_CONFIG_OPTION_GPOS_KERNING option, you should update since the old code didn't properly validate input files, which could lead to crashes with malformed font files.
+
+Other news and changes can be found in the release notes.
+
+FreeType 2.13.3
+2024-08-12
+
+The B/W rasterizer has become much faster; besides that, it is a maintenance release.
+
+As usual, a list of the more noteworthy changes can be found in the release notes.
+
+FreeType 2.13.2
+2023-08-25
+
+This is a maintenance release with only minor changes.
+
+Details can be found in the release notes.
+
+FreeType 2.13.1
+2023-06-24
+
+This is a maintenance release with only minor changes, for example, a new load flag FT_LOAD_NO_SVG to ignore glyphs in an SVG SFNT table, or a new function FT_Get_Default_Named_Instance to get the index of the default named instance of an OpenType Variation Font.
+
+Please check release notes for more details.
+
+FreeType 2.13.0
+2023-02-09
+
+This new release brings you a completely updated and enhanced ftinspect demo program, which now combines the functionality of almost all other graphical FreeType demo programs into a single application based on the Qt framework.
+
+Another two noteworthy features are related to OpenType fonts: The ‘COLR’ v1 API is now considered as stable, and the ‘avar’ v2 extension is supported.
+
+Other news and changes can be found in the release notes.
+
+FreeType 2.12.1
+2022-05-01
+
+This is a maintenance release. All users should upgrade. A list of the most important changes and fixes can be found here.
+
+FreeType 2.12.0
+2022-03-31
+
+The main new feature of this release is support for OpenType fonts with an ‘SVG’ table, using an external SVG rendering library. Other changes, fixes, and improvements are documented here.
+
+FreeType 2.11.1
+2021-12-02
+
+This is a maintenance release with no significant changes. For more details on the various fixes and changes please see here.
+
+FreeType 2.11.0
+2021-07-19
+
+Our new release brings an additional rendering module to create Signed Distance Fields (SDF) for glyphs; it also introduces an experimental interface to access ‘COLR’ v1 fonts.
+
+As usual, there are many more fixes and features; please see here for more.
+
+FreeType moved to freedesktop.org
+2021-01-16
+
+We are now using the infrastructure of the gitlab instance of freedesktop.org. All bug issues have been imported (kudos to Anurag Thakur for doing this tedious job!), together with the git repositories, which have been renamed to freetype and freetype-demos (this is, we are dropping the ‘2’ in the repository names).
+
+The git repositories at Savannah will stay as mirrors.
+
+FreeType 2.10.4
+2020-10-20
+
+This is an emergency release, fixing a severe vulnerability in embedded PNG bitmap handling (see here for more).
+
+All users should update immediately.
+
+FreeType 2.10.3
+2020-10-10
+
+This is a maintenance release, having better support for TrueType glyphs with overlapping contours. See the list of changes for more details.
+
+A warning for distribution maintainers: Version 2.10.3 and later may break the build of ghostscript, due to ghostscript's use of a withdrawn macro that wasn't intended for external usage. A fix is available here.
+
+FreeType 2.10.2
+2020-05-09
+
+Besides various maintenance fixes, this release comes with support of WOFF 2 fonts. More details are listed in the list of changes.
+
+FreeType 2.10.1
+2019-07-01
+
+A new maintenance release, fixing bytecode hinting of OpenType variation fonts and cmap processing of PCF fonts, among other things. Check the list of changes for more fixes.
+
+FreeType 2.10.0
+2019-03-15
+
+This release brings one notable feature, namely support for color-layered outline glyphs (for example, scalable emoji glyphs). Additionally, the API reference has been completely overhauled and modernized, as already announced.
+
+As usual, many minor fixes and corrections have been applied also; a detailed list is given here.
+
+Website Makeover
+2018-08-25
+
+A revamped version of the FreeType website is available for preview here. It includes a complete interface redesign, and uses markdown as input which greatly improves maintainability. Comments are welcome.
+
+FreeType 2.9.1
+2018-05-02
+
+This is a maintenance release; most importantly fixing correct handling of Type 1 fonts with flex features, which was broken in version 2.9. An overview of the remaining changes is given here. All users should upgrade.
+
+FreeType 2.9
+2018-01-08
+
+FreeType version 2.9, the first release of a new ‘minor’ series, is now available for download. The main reason for starting a new series is Ewald Hew's GSoC contribution of making Adobe's CFF engine handle Type 1 fonts also, greatly improving the rendering quality of this ancient but still important font format.
+
+If you are going to use variation fonts, please update to this version since it comes with some important fixes. More information on this and other changes can be found here.
+
+FreeType 2.8.1
+2017-09-16
+
+FreeType 2.8.1 has been released. This is mainly a maintenance release with one important change: By default, FreeType now offers high quality LCD-optimized output without resorting to ClearType techniques of resolution tripling and filtering. In this method, called Harmony, each color channel is generated separately after shifting the glyph outline, capitalizing on the fact that the color grids on LCD panels are shifted by a third of a pixel. This output is indistinguishable from ClearType with a light 3-tap filter.
+
+See here for a extensive list of changes; noteworthy bug fixes are correct handling of B/W TrueType hinting and some OpenType variation font handling issues.
+
+FreeType 2.8
+2017-05-13
+
+FreeType 2.8 has been released. CFF2 support and OpenType variation font handling is now complete; the auto-hinter now understands 25 more scripts, for example N'Ko and Tifinagh.
+
+See here for a list of changes; noteworthy bug fixes are the handling of TrueType fonts: unhinted loading didn't work as expected, and the light auto-hinter used incorrect metrics.
+
+GSoC
+2017-02-28
+
+The FreeType project was accepted to be part of Google Summer of Code 2017! Here's a link to our ideas list – if you have another one, please write to our mailing list so that we can discuss your suggestions, eventually adding them to the list. And if you want to participate as a student, now is the time to discuss everything, again using the mailing list.
+
+FreeType 2.7.1
+2016-12-30
+
+FreeType 2.7.1 has been released. The most important news is preliminary support of Adobe's new CFF2 font format and variation fonts as specified in the new OpenType specification version 1.8. It also fixes the handling of raw CID fonts (which might be found in PDF files)
+
+See here for a list of changes.
+
+FreeType 2.7
+2016-09-08
+
+We start a new ‘minor’ series, which finally allows us to activate a new default mode for bytecode hinting (see also the announcements below for version 2.6.4 and 2.6.5): Subpixel hinting, also known as ClearType hinting.
+
+In case you are already using subpixel hinting (for example, by using the ‘Infinality patches’ as provided by some GNU/Linux or BSD distributions, or directly from bohoomil.com), be noted that the new mode might provide subtle differences; the code was simplified to make it much faster. If you are used to the old full-pixel hinting, you will see many rendering changes. If you really dislike them, you can disable them at compile time or using the new FREETYPE_PROPERTIES environment variable.
+
+A description of the remaining changes can be found here, as usual.
+
+FreeType 2.6.5
+2016-07-12
+
+This release is almost identical to the previous version, with two differences.
+
+It compiles again on Mac OS X, and
+it reverts the activation of subpixel hinting by default; it will be enabled by default in the forthcoming 2.7.x series. Main reason for reverting this feature is the principle of least surprise: a sudden change in appearance of all fonts (even if the rendering improves for almost all recent fonts) should not be expected in a new micro version of a series.
+FreeType 2.6.4
+2016-07-05
+
+FreeType 2.6.4 has been released. The most important change is a new bytecode hinting mode for TrueType fonts that finally activates subpixel hinting (a.k.a. ClearType hinting) by default.
+
+The new release also brings support for the following new scripts in the auto-hinter: Armenian, Cherokee, Ethiopic, Georgian, Gujarati, Gurmukhi, Malayalam, Sinhala, and Tamil.
+
+See here for a detailed list of changes.
+
+FreeType 2.6.3
+2016-02-09
+
+FreeType 2.6.3 has been released. It brings support for four new Asian scripts in the auto-hinter (Khmer, Myanmar, Kannada, and Bengali), together with other, minor improvements and bug fixes.
+
+See here for a detailed list of changes.
+
+More on the 2.6.2 release for users and developers
+2015-11-30
+
+FreeType 2.6.2 ships with three interesting details for users and developers of rendering libraries that deal with text. Read more.
+
+FreeType 2.6.2
+2015-11-28
+
+FreeType 2.6.2 has been released. This is a minor release that mainly provides better handling of malformed fonts. All users should upgrade.
+
+A new feature is stem darkening support for the auto-hinter. Note, however, that it is off by default, since most graphic systems don't provide correct linear alpha blending with gamma correction, which is crucial for a good appearance. For the same reason, stem darkening for the CFF engine is now off by default, too.
+
+See here for a more detailed list of changes.
+
+FreeType 2.6.1
+2015-10-04
+
+FreeType 2.6.1 has been released. This is a minor release that corrects problems with CFF metrics, and that provides better handling of malformed fonts. Two notably new features are auto-hinting support for the Lao script and a simple interface for accessing named instances in GX TrueType variation fonts.
+
+See here for a list of changes.
+
+FreeType 2.6
+2015-06-08
+
+FreeType 2.6 has been released. This is a new major release that provides a better (and simpler) thread-safety model. Among other new features we now have auto-hinting support for Arabic and Thai, together with much improved handling of Apple's GX TrueType variation font format.
+
+See here for a list of changes.
+
+Links
+
+The links collected in this section are useful if you want to put FreeType into a larger frame of understanding.
+
+Reference Sites
+
+Microsoft Typography – Microsoft's OpenType specification and developing tools
+Apple Fonts – Apple's TrueType specification and other things
+Adobe Typography – PostScript fonts specifications and developing tools
+
+Detailed information on the font formats supported by FreeType can be found in the file formats.txt, which is part of the FreeType source code bundle.
+
+Font Tools
+
+TTX – an OpenType assembler and disassembler
+FontForge – a free, powerful graphical font editor, including a TrueType instructions debugger (using FreeType)
+ttfautohint – a tool to auto-hint TrueType fonts, based on FreeType's auto-hinting engine
+
+Font Shaping and Layout Engines
+
+These libraries work on top of font rendering libraries like FreeType to provide sophisticated text (string) layout, being able to handle OpenType features in particular. All of them use Unicode for font and text encoding.
+
+Pango – the layout library used by Gnome's GTK+ framework
+ICU – a layout library originally developed by IBM, used for example in XeTeX, an internationalized successor of TeX
+HarfBuzz – a text shaping library, originally based on FreeType 1's OpenType layout support
+
+Other Font-related Libraries
+
+T1Lib – a Type 1 fonts library (no longer under development)
+VFLib – a library especially for accessing TeX fonts (no longer under development)
+
+This page is maintained by Werner Lemberg. The FreeType logo has been designed by Manuel Colom.
+
+Home
+News
+Overview
+Documentation
+Development
+GSoC
+Contact
+ 
+Download
+Licenses
+History
+Links

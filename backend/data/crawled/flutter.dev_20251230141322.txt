@@ -1,0 +1,107 @@
+flutter.dev uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see. Learn more
+
+Agree
+No thanks
+Flutter 3.38 and Dart 3.10 are here! Learn more 
+Multi-Platform
+Development
+Ecosystem
+Showcase
+Docs
+Blog
+Get started
+Build for any screen
+Flutter transforms the development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded experiences from a single codebase.
+Get started
+Flutter is an open source framework for building beautiful, natively compiled, multi-platform applications from a single codebase.
+Fast Productive Flexible
+Fast
+
+Flutter code compiles to ARM or Intel machine code as well as JavaScript, for fast performance on any device.
+
+Try it in DartPad
+Multi-Platform
+Reach users on every screen
+
+Deploy to multiple devices from a single codebase: mobile, web, desktop, and embedded devices.
+
+See the target platforms
+Developer Experience
+Transform your workflow
+
+Take control of your codebase with automated testing, developer tooling, and everything else you need to build production-quality apps.
+
+Flutter for developers
+Stable & Reliable
+Trusted by many
+
+Flutter is supported and used by Google, trusted by well-known brands around the world, and maintained by a community of global developers.
+
+Explore the ecosystem
+Flutter and Google
+Seamless integration with Google services
+
+Connect to Google's app development ecosystem, allowing you to streamline development and reach a wider audience through seamless integration with Firebase, Google Ads, Google Play, Google Pay, Google Wallet, Google Maps, and more.
+
+Explore Google integrations
+
+
+Developer Story
+See how Google Pay uses Flutter to change the world of mobile payments
+Read story  
+A Global Open Source Community
+Supported by Google, open to everyone
+
+Collaborate on the open source framework, contribute to the package ecosystem on pub.dev, and find help when you need it.
+
+Learn more Join the community  
+Dart
+Flutter is powered by Dart, a language optimized for fast apps on any platform
+Visit dart.dev Get packages  
+Latest news
+What's new in Flutter 3.35
+Read more  
+Announcing Dart 3.9
+Read more  
+Dart & Flutter momentum at Google I/O 2025
+Read more  
+What’s new in Flutter 3.32
+Read more  
+Announcing Dart 3.8
+Read more  
+Gemini in Android Studio now speaks fluent Flutter!
+Read more  
+Flutter’s path towards seamless interop
+Read more  
+Announcing Dart 3.7
+Read more  
+Sharing Flutter’s 2024 roadmap
+Read more  
+Announcing Flutter 3.38 & Dart 3.10
+Read more  
+Join our
+newsletter
+Keep up with the latest Flutter news, releases, and more:
+Get started
+
+Instant access to the power of the Flutter framework
+
+Install Read the docs  
+About Flutter
+Careers
+News
+Brand
+Culture
+Learn Flutter
+Learning Journey
+Codelabs
+Samples
+Cookbook
+Multi-Platform
+Mobile
+Web
+Desktop
+Embedded
+iOS
+Except as otherwise noted, this work is licensed under a Creative Commons Attribution 4.0 International License, and code samples are licensed under the BSD License.
+Terms Privacy Security

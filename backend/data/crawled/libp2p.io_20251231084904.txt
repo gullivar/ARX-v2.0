@@ -1,0 +1,19 @@
+libp2p lib p2p Implementations Media Specs Docs Connectivity Blog the peer-to-peer network stack lib p2p is an open source networking library
+      used by the world's most important distributed systems such as Ethereum,
+      IPFS, Filecoin, Optimism and countless others. There are native
+      implementations in Go, Rust, Javascript, C++, Nim, Java/Kotlin, Python,
+      .Net, Swift and Zig. It is the simplest solution for global scale peer-to-peer
+      networking and includes support for pub-sub message passing, distributed
+      hash tables, NAT hole punching and browser-to-browser direct
+      communication. CODE Implementations Specifications Documentation FORUMS Community Specifications Technical CHAT Community Implementers Community Implementers Community Implementers Community Implementers SOCIAL MEDIA @libp2p @libp2p Features Use Several Transports Use newer and faster transports like QUIC and WebRTC. At the same time, we support well-established transports like TCP,
+                 and support multiple hosts and connectivity conditions. Native Roaming You get Native Roaming out of the box. Your app or service can be migrated between machines or move between networks without any configuration steps. Runtime Freedom Simply assume connectivity, independent of the platform you are running your software on. Protocol Muxing Reuse already established and secure connections with in-band protocol multiplexing. Work Offline libp2p is capable of discovering other peers without resourcing to centralized registries,
+                 enabling apps to work disconnected from the backbone. Encrypted Connections Ensure that no one can eavesdrop on user traffic by setting a crypto channel by default,
+                 protecting both bits and validating peer identities. Upgrade Without Compromises Don't let past decisions hold your application back. Wire protocol versioning allows you to
+                 upgrade your service while still supporting older versions, no complicated setup necessary. Work In The Browser Write your application to run in the browser and take advantage of the ultimate in cross platform environments and with zero user install. Good For High Latency Scenarios Not all connections are equal. Make sure your app is using the best transport for its environment. Security lib p2p is still under active development and there may be
+    problems with our protocols or errors in our implementations. We take
+    security vulnerabilities very seriously and follow responsible disclosure
+    best practices. If you discover a security issue, please bring it to our
+    attention right away! Reporting a Security Vulnerability If you find a vulnerability that may affect live deployments—such as a
+      remote execution exploit—please report it privately by sending an email to security@libp2p.io . DO NOT file a public issue. If the issue is an implementation weakness that cannot be immediately
+      exploited or is not yet deployed, please file a public Github issue to get
+      it resolved. lib p2p was created by Protocol Labs Website source © Protocol Labs | Except as noted , content licensed CC-BY 3.0

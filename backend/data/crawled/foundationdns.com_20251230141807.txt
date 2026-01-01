@@ -1,0 +1,411 @@
+Sign up
+Sales: 007-9814-2030-192
+Platform
+Connectivity cloud
+Cloudflare’s connectivity cloud delivers 60+ networking, security, and performance services.
+Enterprise
+For large and medium organizations
+Small business
+For small organizations
+Partner
+Become a Cloudflare partner
+
+USE CASES
+
+Modernize applications
+
+Accelerate performance
+Ensure app availability
+Optimize web experience
+
+Modernize security
+
+VPN replacement
+Phishing protection
+Secure web apps and APIs
+
+Modernize networks
+
+Coffee shop networking
+WAN modernization
+Simplify your corporate network
+
+CXO TOPICS
+
+Adopt AI
+Bring AI into workforces and digital experiences
+AI security
+Secure agentic AI and GenAI applications
+Data compliance
+Streamline compliance and minimize risk
+Post-quantum cryptography
+Safeguard data and meet compliance standards
+
+Industries
+
+Healthcare
+Banking
+Retail
+Gaming
+Public sector
+
+Resources
+
+Product guides
+Reference architectures
+Analyst reports
+
+Engage
+
+Events
+Demos
+Webinars
+Workshops
+Request a demo
+Products
+
+PRODUCTS
+
+Workspace security
+
+Zero trust network access
+Secure web gateway
+Email security
+Cloud access security broker
+
+Application security
+
+L7 DDoS protection
+Web application firewall
+API security
+Bot management
+
+Application performance
+
+CDN
+DNS
+Smart routing
+Load balancing
+
+Networking and SASE
+
+L3/4 DDoS protection
+NaaS / SD-WAN
+Firewall-as-a-service
+Network Interconnect
+
+PLANS & PRICING
+
+Enterprise plans
+Small business plans
+Individual plans
+Compare plans
+
+GLOBAL SERVICES
+
+Support and success bundles
+Optimized Cloudflare experience
+Professional services
+Expert-led implementation
+Technical account management
+Focused technical management
+Security operations service
+Cloudflare monitoring and response
+Domain registration
+Buy and manage domains
+1.1.1.1
+Free DNS resolver
+
+Resources
+
+Product guides
+Reference architectures
+Analyst reports
+Product demos and tours
+Help me choose
+Developers
+
+DOCUMENTATION
+
+Developer library
+Documentation and guides
+Application demos
+Explore what you can build
+Tutorials
+Step-by-step build tutorials
+Reference architecture
+Diagrams and design patterns
+
+PRODUCTS
+
+Artificial Intelligence
+
+AI Gateway
+Observe, control AI apps
+Workers AI
+Run ML models on our network
+
+Compute
+
+Observability
+Logs, metrics, and traces
+Workers
+Build, deploy serverless apps
+
+Media
+
+Images
+Transform, optimize images
+Realtime
+Build real-time audio/video apps
+
+Storage & database
+
+D1
+Create serverless SQL databases
+R2
+Store data without costly egress fees
+
+PLANS & PRICING
+
+Workers
+Build and deploy serverless apps
+Workers KV
+Serverless key-value store for apps
+R2
+Store data without costly egrees fees
+Explore projects
+Customer stories
+AI Demo in 30 seconds
+Quick guide to get started
+Explore Workers Playground
+Build, test, and deploy
+Developers Discord
+Join the community
+Start building
+Partners
+Partner Network
+Grow, innovate and meet customer needs with Cloudflare
+Partner Portal
+Find resources and register deals
+
+PARTNERSHIP TYPES
+
+PowerUP Program
+Grow your business while keeping your customers connected and secure
+Technology Partners
+Explore our ecosystem of technology partners and integrators
+Global System Integrators
+Support seamless large-scale digital transformation
+Service Providers
+Discover our network of valued service providers
+Self-serve agency program
+Manage Self-Serve Accounts for your clients
+Peer-to-peer portal
+Traffic insights for your network
+Find a partner
+PowerUP your business - connect with Cloudflare Powered+ partners.
+Resources
+
+ENGAGE
+
+Demos + product tours
+On-demand product demos
+Case studies
+Driving success with Cloudflare
+Webinars
+Insightful discussions
+Workshops
+Virtual forums
+Library
+Helpful guides, roadmaps, and more
+Reports
+Insights from Cloudflare’s research
+Blog
+Technical deep dives and product news
+Learning center
+Educational tools and how-to content
+
+BUILD
+
+Reference architecture
+Technical guides
+Solution + product guides
+Product documentation
+Documentation
+Developer documentation
+
+EXPLORE
+
+theNET
+Executive insights for the digital enterprise
+Cloudflare TV
+Innovative series and events
+Cloudforce One
+Threat research and operations
+Radar
+Internet traffic and security trends
+Analyst reports
+Industry research reports
+Events
+Upcoming regional events
+Trust, privacy, and compliance
+Compliance information and policies
+
+Support
+
+Contact us
+Community forum
+Lost account access?
+Developers Discord
+Get help
+Company
+
+COMPANY INFO
+
+Leadership
+Meet our leaders
+Investor relations
+Investor information
+Press
+Explore recent news
+Careers
+Explore open roles
+
+TRUST, PRIVACY, & SAFETY
+
+Privacy
+Policy, data, and protection
+Trust
+Policy, process, and safety
+Compliance
+Certification and regulation
+Transparency
+Policy and disclosures
+
+PUBLIC INTEREST
+
+Humanitarian
+Project Galileo
+Government
+Athenian Project
+Elections
+Cloudflare For Campaigns
+Health
+Project Fair Shot
+Global network
+Global locations and status
+Log in
+Contact sales
+UNPARALLELED RESILIENCE AND AVAILABILITY
+Foundation DNS
+
+Cloudflare Foundation DNS is the most reliable DNS service, combining advanced features with ease of use for our Enterprise customers.
+
+The Cloudflare Difference
+Superior availability and reliability
+
+Resolve all of your DNS queries within milliseconds, and at the network edge. Cloudflare data centers sit across 310+ cities, offering you unparalleled redundancy and 100% uptime.
+
+Integrated security
+
+Protect your network against infrastructure-level and volumetric DDoS attacks — as well as domain hijacking — with our integrated DDoS protection and one-click DNSSEC service.
+
+Simplified pricing
+
+Maximize your savings, thanks to our simplified pricing model that charges based on the number of DNS queries, domains, and records.
+
+New and exclusive features of Foundation DNS
+Advanced nameservers
+
+Foundation DNS advanced nameservers provide better predictability, consistent assignments, superior availability and reliability.
+
+Advanced DNS analytics
+
+GraphQL-based DNS analytics API and dashboard provides detailed insights into DNS traffic.
+
+Unique DNSSEC keys
+
+Customers get their own unique Key Signing Key (KSK) and Zone Signing Key (ZSK), used for all zones in their account.
+
+Additional key features
+Advanced nameservers with enhanced reliability
+DNS resolution at the edge using global Anycast network
+Logpush for primary and secondary DNS
+Secondary DNS for incoming and outgoing zone transfers
+DNSSEC support for primary and secondary DNS
+Multi-signer DNSSEC support (RFC 8901)
+Geo-steering and global load balancing
+Reverse DNS zones (IPV4/IPV6)
+Wildcard DNS records
+CNAME flattening
+Support for CNAME records at the apex level
+Fully redundant architecture designed for 100% uptime
+Unmetered and unlimited DDoS mitigation
+Role-based access controls
+Multi-factor authentication and SSO
+Easy to use custom UI
+24/7/365 dedicated technical support
+
+Cloudflare's amazingly intelligent DDoS protection is what originally drew us in, but using Cloudflare DNS for our biggest zone was by far the easiest decision. We had run into zone size limitations with other providers, but not with Cloudflare DNS.
+
+Jenna Recktenwald
+
+Kinsta
+
+GETTING STARTED
+
+Free plans
+Small business plans
+For enterprises
+Get a recommendation
+Request a demo
+Contact sales
+
+SOLUTIONS
+
+Connectivity cloud
+Application services
+SASE and workspace security
+Network services
+Developer platform
+
+SUPPORT
+
+Help center
+Customer support
+Community forum
+Developers Discord
+Lost account access?
+Cloudflare status
+
+COMPLIANCE
+
+Compliance resources
+Trust
+GDPR
+Responsible AI
+Transparency report
+Report abuse
+
+PUBLIC INTEREST
+
+Project Galileo
+Athenian Project
+Cloudflare for Campaigns
+Project Fairshot
+
+COMPANY
+
+About Cloudflare
+Network map
+Our team
+Logos & press kit
+Diversity, equity, & inclusion
+Impact/ESG
+© 2025 Cloudflare, Inc.
+Privacy Policy
+Terms of Use
+Report Security Issues
+Cookie Preferences
+Trademark

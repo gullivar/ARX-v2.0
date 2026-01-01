@@ -1,0 +1,43 @@
+About OpenBSD
+Project Goals
+Hardware Platforms
+Security Crypto
+Events and Papers
+Innovations
+Getting OpenBSD
+Download
+Getting Source
+AnonCVS
+CVSWeb
+GitHub Mirror
+OpenBSD Resources
+Changelog
+FAQ
+Manual Pages
+Patches
+Reporting Problems
+Mailing Lists
+Songs & Artwork
+Hackathons
+User Groups
+Commercial Support
+Supporting OpenBSD
+Donations
+
+Art Merchandise
+OpenBSD Foundation
+	
+
+Only two remote holes in the default install, in a heck of a long time!
+
+The OpenBSD project produces a FREE, multi-platform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standardization, correctness, proactive security and integrated cryptography. As an example of the effect OpenBSD has, the popular OpenSSH software comes from OpenBSD.
+
+OpenBSD is freely available from our download sites.
+
+The current release is OpenBSD 7.8, released October 22, 2025. This is the 59th release.
+
+OpenBSD is developed entirely by volunteers. The project's development environment and developer events are funded through contributions collected by The OpenBSD Foundation. Contributions ensure that OpenBSD will remain a vibrant and free operating system.
+
+
+	
+Associated projects: OpenSSH, OpenBGPD, rpki-client, OpenNTPD, OpenSMTPD, OpenIKED, mandoc, LibreSSL

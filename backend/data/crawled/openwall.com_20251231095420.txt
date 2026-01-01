@@ -1,0 +1,53 @@
+Openwall - bringing security into open computing environments Products Openwall GNU/*/Linux server OS Linux Kernel Runtime Guard John the Ripper password cracker Free & Open Source for any platform in the cloud Pro for Linux Pro for macOS Wordlists for password cracking passwdqc policy enforcement Free & Open Source for Unix Pro for Windows (Active Directory) yescrypt KDF & password hashing yespower Proof-of-Work (PoW) crypt_blowfish password hashing phpass ditto in PHP tcb better password shadowing Pluggable Authentication Modules scanlogd port scan detector popa3d tiny POP3 daemon blists web interface to mailing lists msulogin single user mode login php_mt_seed mt_rand() cracker Services Publications Articles Presentations Resources Mailing lists Community wiki Source code repositories (GitHub) File archive & mirrors How to verify digital signatures OVE IDs What's new Follow @Openwall on Twitter for new release announcements and other news Software you can find here ( what's new? ): Openwall GNU/*/Linux security-enhanced Linux distribution for servers Linux Kernel Runtime Guard (on its own website) John the Ripper password cracker for Linux, Mac, Windows, ... (and wordlists for use with it and with other tools) passwdqc - password strength checking and enforcement for servers (and more PAM modules ) yescrypt - modern password-based KDF and password hashing yespower - proof-of-work (PoW) scheme crypt_blowfish - bcrypt password hashing for C/C++ programs and servers phpass - password hashing for PHP applications tcb suite - our alternative password shadowing scheme scanlogd port scan detection tool popa3d tiny POP3 server designed with security in mind blists web interface to mailing list archives that works off indexed mbox files msulogin single user mode login program php_mt_seed - PHP mt_rand() seed cracker September 20, 2025 We've just published the slides of Solar Designer's Nullcon Berlin 2025 talk Linux Kernel Runtime Guard (LKRG) 1.0 . September 2, 2025 LKRG 1.0.0 is out ,
+adds support for Linux 6.13+ (tested to 6.17-rc4), forward-edge CFI (Intel CET IBT, KCFI), ..., reduces performance overhead, shrinks the codebase by ~2500 lines. October 23, 2024 LKRG 0.9.9 is out ,
+adding support for new Linux kernels 6.11+, 6.10.10+, 5.10.220+, as well as new CentOS Stream 9 (upcoming RHEL 9.5). August 21, 2024 Announcing yescrypt-go ,
+our pure Go reimplementation of yescrypt key derivation function (KDF) and password hashing scheme. May 14, 2024 We've just published the slides of Solar Designer's OffensiveCon 2024 keynote talk Password cracking: past, present, future . March 4, 2024 We've just published the slides of Solar Designer's talk Linux kernel remote logging: approaches, challenges, implementation from BSidesZagreb 2024. February 28, 2024 LKRG 0.9.8 is out ,
+adding a remote kernel message logging capability. More news Openwall software releases and other related files are also available from the Openwall file archive and its mirrors .
+You are encouraged to use the mirrors, but be sure to verify the signatures on software you download. The more experienced users and software developers can browse through the source code for most pieces of Openwall software
+along with revision history information for each source file in our GitHub organization . We publish articles ,
+make presentations , and
+offer professional services . We also maintain a wordlists collection for use with password crackers such as John the Ripper and with password recovery utilities. Finally, we host community resources such as mailing lists and wiki for users of Openwall software
+and for other Open Source and computer security folks. If you would like to be notified of updates to this website and the packages
+hosted here, please subscribe to the announcement mailing list
+by entering your e-mail address below or by sending an empty message to <announce-subscribe at lists.openwall.com> .
+You will be required to confirm your subscription by "replying"
+to the automated confirmation request that will be sent to you.
+You will be able to unsubscribe at any time and we will not use your e-mail
+address for any other purpose or share it with a third party.
+The list traffic is very low (typically 1 to 5 messages a month).
+You can review past announcements here . Your e-mail address: You can also follow us on Twitter . September 20, 2025 We've just published the slides of Solar Designer's Nullcon Berlin 2025 talk Linux Kernel Runtime Guard (LKRG) 1.0 . September 2, 2025 LKRG 1.0.0 is out ,
+adds support for Linux 6.13+ (tested to 6.17-rc4), forward-edge CFI (Intel CET IBT, KCFI), ..., reduces performance overhead, shrinks the codebase by ~2500 lines. October 23, 2024 LKRG 0.9.9 is out ,
+adding support for new Linux kernels 6.11+, 6.10.10+, 5.10.220+, as well as new CentOS Stream 9 (upcoming RHEL 9.5). August 21, 2024 Announcing yescrypt-go ,
+our pure Go reimplementation of yescrypt key derivation function (KDF) and password hashing scheme. May 14, 2024 We've just published the slides of Solar Designer's OffensiveCon 2024 keynote talk Password cracking: past, present, future . March 4, 2024 We've just published the slides of Solar Designer's talk Linux kernel remote logging: approaches, challenges, implementation from BSidesZagreb 2024. February 28, 2024 LKRG 0.9.8 is out ,
+adding a remote kernel message logging capability. September 14, 2023 LKRG 0.9.7 is out ,
+adding support for Linux 6.4 to 6.5.x and hopefully beyond, as well as for new RHEL 9.1 and 9.2 kernels. June 25, 2023 passwdqc 2.0.3 is out ,
+adding Cygwin support, pkg-config file, and assorted minor changes. Also available is a corresponding update of passwdqc for Windows ,
+adding password policy bypass for system-generated passwords for KRBTGT accounts. Finally, the pre-generated leaked password filter files have been updated (quite a while ago) to include HIBP v8,
+encoding the 847+ million unique passwords (from billions of accounts) in a 3.3 GiB (3.5 GB) file. June 21, 2023 We've just published the slides of Solar Designer's opening keynote talk at SSTIC and its revision at BSidesLjubljana ,
+entitled "15+ years of oss-security ". March 2, 2023 John the Ripper in the cloud has been updated to use the latest JtR jumbo on freshly updated Amazon Linux 2 with a newer NVIDIA GPU driver.
+Many new AWS instance types are now supported. December 14, 2022 LKRG 0.9.6 is out ,
+adding support for Linux 6.1, RHEL 8.7, current CentOS Stream 9 (upcoming RHEL 9.2),
+along with a variety of other changes for portability, robustness, and extra security checks. August 1, 2022 LKRG 0.9.5 is out ,
+adding support for new longterm kernels 5.10.133+ and reworked support for OverlayFS (Docker). July 22, 2022 LKRG 0.9.4 is out ,
+featuring more consistent log messages suitable for both automated analysis and human consumption,
+as well as adding support for more longterm Linux kernels and for the OpenRC init system. April 21, 2022 LKRG 0.9.3 is out ,
+adding support for latest Linux kernels,
+latest CentOS Stream 8/9 and upcoming RHEL 8.6+, openSUSE Leap, and loading into older Xen PV guests. December 29, 2021 LKRG 0.9.2 is out ,
+adding support for new Linux kernels, and assorted bug fixes and enhancements. April 27, 2021 LKRG 0.9.1 is out ,
+addressing various issues reported against the 0.9.0 release. April 12, 2021 LKRG 0.9.0 is out ,
+with support for new Linux kernels, optionally building LKRG in kernel tree,
+Continuous Integration (boot tests in VMs, including with Ubuntu's daily updated mainline kernels), and much more. April 4, 2021 passwdqc 2.0.2 is out ,
+improving the formatting of auto-generated policy descriptions and adding the libpasswdqc(3) manual page. March 10, 2021 Two minor updates: passwdqc 2.0.1 offers improved auto-generated password/passphrase policy descriptions. scanlogd 2.2.8 builds cleanly with recent glibc. February 18, 2021 passwdqc 2.0.0 is out ,
+adding support for external wordlist, denylist, and binary filter files (improved cuckoo filters). January 11, 2021 After 10 years since the previous release, we've just released version 1.2 of tcb ,
+implementation of our alternative password shadowing scheme.
+Changes include libxcrypt and recent glibc support, translated (non-English) messages support, and dropping of NIS/NIS+ support. August 18, 2020 We've just republished the slides of LKRG in a nutshell , which we presented a few days ago at OSTconf. We've started consolidating our Git repositories under the newly setup Openwall organization on GitHub . August 10, 2020 We've just launched Openwall Password Recovery and Password Security Auditing Bundle in AWS Marketplace.
+Start your password recovery or audit in AWS cloud in minutes,
+complete it within our 5-day free trial or support our Open Source project afterwards. July 8, 2020 LKRG 0.8.1 is an important bug fix release . June 25, 2020 LKRG 0.8 is out ,
+adding support for latest Linux kernels, 32-bit ARM (LKRG 0.7 already had 64-bit), Raspberry Pi 3 & 4, improving scalability,
+performance, and tradeoffs, adding the notion of profiles, new documentation, Phoronix Test Suite benchmarks, and much more. December 25, 2019 passwdqc 1.4.0 is out ,
+adding optional non-English messages and Linux-PAM audit support. July 21, 2019 LKRG 0.7 is out ,
+adding experimental support for ARM64 (AArch64) and grsecurity,
+support for Linux kernels 5.1 and 5.2 (and hopefully beyond),
+greater SMEP enforcement, and much more. June 30, 2019 yescrypt KDF and password hashing scheme updated to 1.1.0 and included in Fedora and ALT Linux via libxcrypt . yespower PoW scheme updated to 1.0.1 . May 14, 2019 John the Ripper 1.9.0-jumbo-1 is out . April 12, 2019 John the Ripper 1.9.0 core is out .
+Stay tuned for the 1.9.0-jumbo-1 release and announcement, which will be "the real one". February 19, 2019 LKRG 0.6 is out ,
+adding experimental poor man's Control Flow Integrity support and much more. News archive (since 2001) Quick Comment: 15099605

@@ -1,0 +1,4 @@
+Surge DNS Surge DNS Automatic geo–routing to the Surge.sh global network DNS for Front-End Developers Set NS records to: ns1.surge.world
+ns2.surge.world
+ns3.surge.world
+ns4.surge.world These NS records provide automatic geo routing to the Surge.sh global network. It also provides full DNS management via the surge CLI Or set CNAME record to: geo.surge.world This CNAME routes traffic to the Surge.sh global network using your own DNS provider. Keep in mind this can only be applied to subdomains and not an apex domain.

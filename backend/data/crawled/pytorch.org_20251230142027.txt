@@ -1,0 +1,464 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies. Privacy Policy
+
+Storage Preferences
+
+Targeted Advertising
+Personalization
+Analytics
+Save
+Accept All
+Reject Non-Essential
+Skip to main content
+Hit enter to search or ESC to close
+Search
+Close Search
+Learn
+Get Started
+Tutorials
+Learn the Basics
+PyTorch Recipes
+Intro to PyTorch – YouTube Series
+Webinars
+Community
+Landscape
+Join the Ecosystem
+Community Hub
+Forums
+Developer Resources
+PyTorch Contributor Awards
+PyTorch Ambassadors
+Projects
+PyTorch
+vLLM
+DeepSpeed
+Ray
+Host Your Project
+Docs
+PyTorch
+Domains
+Blog & News
+Blog
+Announcements
+Case Studies
+Events
+Newsletter
+About
+PyTorch Foundation
+Members
+Governing Board
+Technical Advisory Council
+Cloud Credit Program
+Staff
+Contact
+Brand Guidelines
+JOIN
+github
+search
+Get Started
+
+Choose Your Path: Install PyTorch Locally or Launch Instantly on Supported Cloud Platforms
+
+Get started
+December 18, 2025 in Blog
+Deploying Smarter: Hardware-Software Co-design in PyTorch
+If you want powerful on-device AI that doesn’t blow your memory budget or turn your phone into a hand-warmer, you need tools more refined than post-training quantization, where the model…
+READ MORE 
+December 17, 2025 in Blog
+Enabling Cluster Launch Control with TLX
+What is cluster launch control (CLC)? Blackwell brings in cluster launch control (CLC) to enable dynamic scheduling. This capability allows the kernel to launch a grid with as many threadblocks…
+READ MORE 
+December 17, 2025 in Announcements, Blog
+PyTorch Ecosystem Working Group Update & Project Spotlights, Q4 2025
+As part of this blog series, we share updates on new projects joining the PyTorch Ecosystem and highlight projects currently under consideration that may benefit from broader community engagement. Ecosystem…
+READ MORE 
+Join PyTorch Foundation
+
+As a member of the PyTorch Foundation, you’ll have access to resources that allow you to be stewards of stable, secure, and long-lasting codebases. You can collaborate on training, local and regional events, open-source developer tooling, academic research, and guides to help new users and contributors have a productive experience.
+
+EXPLORE BENEFITS
+Key Features & Capabilities
+PRODUCTION READY
+
+Transition seamlessly between eager and graph modes with TorchScript, and accelerate the path to production with TorchServe.
+
+DISTRIBUTED TRAINING
+
+Scalable distributed training and performance optimization in research and production is enabled by the torch.distributed backend.
+
+ROBUST ECOSYSTEM
+
+A rich ecosystem of tools and libraries extends PyTorch and supports development in computer vision, NLP and more.
+
+CLOUD SUPPORT
+
+PyTorch is well supported on major cloud platforms, providing frictionless development and easy scaling.
+
+Install PyTorch
+
+Select your preferences and run the install command. Stable represents the most currently tested and supported version of PyTorch. This should be suitable for many users. Preview is available if you want the latest, not fully tested and supported, builds that are generated nightly. Please ensure that you have met the prerequisites below (e.g., numpy), depending on your package manager. You can also install previous versions of PyTorch. Note that LibTorch is only available for C++.
+
+NOTE: Latest Stable PyTorch requires Python 3.10 or later.
+
+PyTorch Build
+Your OS
+Package
+Language
+Compute Platform
+Run this Command:
+Stable (2.9.1)
+Preview (Nightly)
+Linux
+Mac
+Windows
+Pip
+LibTorch
+Source
+Python
+C++ / Java
+CUDA 12.6
+CUDA 12.8
+CUDA 13.0
+ROCm 6.4
+Default
+pip3 install torch torchvision
+Previous versions of PyTorch
+Quick Start With Cloud Partners
+
+Get up and running with PyTorch quickly through popular cloud platforms and machine learning services.
+
+Amazon Web Services
+PyTorch on AWS
+Amazon SageMaker
+AWS Deep Learning Containers
+AWS Deep Learning AMIs
+Google Cloud Platform
+Cloud Deep Learning VM Image
+Deep Learning Containers
+Microsoft Azure
+PyTorch on Azure
+Azure Machine Learning
+Azure Functions
+Lightning Studios
+lightning.ai
+Ecosystem
+BROWSE PROJECTS
+FEATURED PROJECTS
+
+Explore a rich ecosystem of libraries, tools, and more to support development.
+
+Captum
+
+Captum (“comprehension” in Latin) is an open source, extensible library for model interpretability built on PyTorch.
+
+PyTorch Geometric
+
+PyTorch Geometric is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds.
+
+skorch
+
+skorch is a high-level library for PyTorch that provides full scikit-learn compatibility.
+
+Companies & Universities Using PyTorch
+AMAZON ADVERTISING
+
+Reduce inference costs by 71% and scale out using PyTorch, TorchServe, and AWS Inferentia.
+
+READ CASE STUDIES
+SALESFORCE
+
+Pushing the state of the art in NLP and Multi-task learning.
+
+STANFORD UNIVERSITY
+
+Using PyTorch’s flexibility to efficiently research new algorithmic approaches.
+
+Docs
+
+Access comprehensive developer documentation for PyTorch
+
+View Docs ›
+
+Tutorials
+
+Get in-depth tutorials for beginners and advanced developers
+
+View Tutorials ›
+
+Resources
+
+Find development resources and get your questions answered
+
+View Resources ›
+
+Stay in touch for updates, event info, and the latest news
+Select Country*
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Asia/Pacific Region
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Caribbean Netherlands
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Europe
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia (FYROM)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar (Burma)
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Türkiye
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Virgin Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+By submitting this form, I consent to receive marketing emails from the LF and its projects regarding their events, training, research, developments, and related announcements. I understand that I can unsubscribe at any time using the links in the footers of the emails I receive. Privacy Policy.
+
+x-twitter
+facebook
+linkedin
+youtube
+github
+slack
+discord
+wechat
+
+© 2025 PyTorch. Copyright © The Linux Foundation®. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For more information, including terms of use, privacy policy, and trademark usage, please see our Policies page. Trademark Usage. Privacy Policy.
+
+Menu
+Close Menu

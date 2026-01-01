@@ -1,0 +1,173 @@
+Home
+AI
+Technology
+Software
+Hardware
+Security
+About Us
+Jumping on the bandwagon, ‘Your Year with ChatGPT’ is now available
+
+There can be few people who have not interacted with ChatGPT over the last year, and you may be wondering how you have used the artificial intelligence tool.…
+
+By Sofia Elizabella Wyciślik-Wilson - December 23, 2025
+Anna’s Archive has ‘backed up Spotify’ and created a series of bulk torrents
+By Sofia Elizabella Wyciślik-Wilson - December 22, 2025
+EaseUS adds fragmented file recovery tech to Data Recovery Wizard
+By Wayne Williams - December 22, 2025
+Cloudflare's Impact Report for 2025 reveals how elections, journalism, and nonprofits faced rising online threats
+By Wayne Williams - December 19, 2025
+Adobe partners with Runway to bring AI video generation into Firefly
+By Wayne Williams - December 19, 2025
+Spotlight
+‘Innovator passports’ set to boost UK health tech rollouts
+By Ian Barker - July 2, 2025
+Microsoft acknowledges Intune issue that wipes out security customizations
+By Sofia Elizabella Wyciślik-Wilson - July 2, 2025
+Latest Technology News
+WhatsApp celebrates the new year with a festive update
+
+With the end of 2025 drawing ever closer WhatsApp is getting ready for its busiest period. As the clock strikes midnight around the world, a surge of messages will be sent over the platform, and Meta is using the arrival of 2026 as a launchpad for new features and options – as well as highlighting recent additions which lend themselves to this time of year.
+
+The company has focused on the celebratory and connective nature of New Year, providing new ways to liven up the messages you send to friends and family. There is quite a lot here, from new stickers and call effects, to the arrival of animated stickers in Status updates.
+
+By Sofia Elizabella Wyciślik-Wilson - December 30, 2025
+MiniTool releases a free screen recorder without watermarks or time restrictions
+
+MiniTool has released Screen Recorder 1.0, a free screen recording tool for Windows designed to handle basic screen, audio, and webcam recording tasks without watermarks or time limits.
+
+The app offers a limited but familiar set of features rather than advanced tools or editing functions. It can be used to record tutorials, presentations, videos, or general on-screen activity with minimal configuration.
+
+By Wayne Williams - December 29, 2025
+How AI can supercharge fraud in the enterprise [Q&A]
+
+The FBI reports that complaints around deepfake AI videos have more than doubled, and financial losses have nearly tripled this year.
+
+Agentic AI is set to accelerate this process, making it even easier to commit fraud with deepfakes. We spoke to Alix Melchy, VP of AI at Jumio, to discuss the threat and how to combat it.
+
+By Ian Barker - December 29, 2025
+WhatsApp for iOS gains an enhanced Clear Chat feature
+
+Currently in beta testing, iPhone users are being given access to an enhanced and updated version of WhatsApp’s chat cleanup tool.
+
+The feature – which allows for the deletion of messages and media in different ways – is not completely new, but it now offers greater control over what is deleted. The cleanup tool now provides a better balance between freeing up space and retaining the files that were shared in a chat.
+
+By Sofia Elizabella Wyciślik-Wilson - December 29, 2025
+Microsoft makes securing files faster with hardware-accelerated BitLocker
+
+If you have use BitLocker to secure files within Windows 11, you will almost certainly have noticed something of a performance hit. Microsoft is not unaware of this, and is taking steps to help improve things.
+
+The company is rolling out hardware-accelerated BitLocker, which should help to provide a speed boost on systems with NVMe drives. The new approach helps to avoid bottlenecks which can massively impact on performance.
+
+By Sofia Elizabella Wyciślik-Wilson - December 27, 2025
+Google is making it easier to change your Gmail address
+
+Depending on when you signed up for a Gmail account, and factoring in the uniqueness or otherwise of your name, your email address may be one you are happy with, or it could feel like a burden.
+
+If you have become unhappy with the @gmail.com address you chose years ago, you have always been able to sign up for another account. But actually changing your email address is a different matter – and it is something that Google appears to be experimenting with.
+
+By Sofia Elizabella Wyciślik-Wilson - December 27, 2025
+Data sovereignty, cloud and security [Q&A]
+
+As more and more information is stored in the cloud, often with hyperscale providers, the issue of data sovereignty -- where the information resides and who can access it -- becomes increasingly crucial.
+
+We spoke to Sergej Epp, CISO at Sysdig, and previously CISO at Palo Alto Networks, to explore the theme of data sovereignty, cloud and security.
+
+By Ian Barker - December 26, 2025
+Maingear now lets buyers bring their own RAM to avoid DDR5 price spikes
+
+Maingear has introduced a new option called BYO RAM Builds, letting customers order a desktop without buying memory from the company. The move comes at a time when DDR5 pricing has become unpredictable, with significant increases across many kits. BYO RAM gives buyers a way to manage system cost by supplying their own compatible memory.
+
+The price of DDR5 kits have skyrocketed recently as AI infrastructure demand continues to steal memory supply away from consumers. Retail availability is uneven, and pricing swings have made it difficult to plan a new build without watching the prices almost daily.
+
+By Wayne Williams - December 24, 2025
+Lemon Slice 2 turns any single image into a real time, talking AI avatar
+
+Lemon Slice, a new research and product lab focused on interactive video technology, has released Lemon Slice 2. The latest model turns a single image into a real time conversational avatar. It works with a wide range of images and is available as both an API and an embeddable widget.
+
+The company describes its new model as a zero shot system that produces a live video call from one input. The tool accepts many types of visuals, including portraits, illustrations, and stylized artwork. Once uploaded, the model generates a moving avatar that responds in real time during a conversation, as you can see in the video at the bottom of the page.
+
+By Wayne Williams - December 24, 2025
+Wondershare brings new AI Mate editing assistant to Filmora V15
+
+Wondershare has added a new intelligent assistant called AI Mate to Filmora V15 for Windows and macOS. The tool, built into the editor, can help users plan ideas, understand how features work, automate multi step tasks, and complete common actions with less manual effort.
+
+AI Mate offers four options:
+
+By Wayne Williams - December 24, 2025
+AI video tools and how they’re changing business communication [Q&A]
+
+The use of AI video has exploded in the past year. But while it’s deepfakes that make the headlines the technology also has the potential to change how businesses create and use video content in their messaging.
+
+We spoke to Victor Erukhimov, chief executive officer of CraftStory, to find out more about AI video and how businesses can exploit it to their advantage.
+
+By Ian Barker - December 24, 2025
+AI risks, greater regulation and remote consultations -- healthtech predictions for 2026
+
+Understandably perhaps the health sector has been slower than some to embrace the rush to AI. But more medical devices are now connected and AI is having an impact, offering benefits to patients but also opening up new risks.
+
+We spoke to some leading industry figures to find out how they see healthtech developing in 2026
+
+By Ian Barker - December 23, 2025
+Nissan confirms customer data was involved in Red Hat security breach
+
+Back in September, US software firm Red Hat suffered a security breach. The incident was not acknowledged until October, but even now the full impact of the breach is unfolding.
+
+Japanese car maker Nissan has just confirmed that it was indirectly affected by the Red Hat security breach. As a result of this, detailed contact information for thousands of customers were accessed by hackers.
+
+By Sofia Elizabella Wyciślik-Wilson - December 23, 2025
+US slaps a ban on foreign-made drones and components
+
+Ever mindful of security, the US has announced a ban on new foreign-made drones and components key to their manufacture. The Federal Communication Commission’s public notice says that uncrewed aircraft systems (UAS) “pose an unacceptable risk to the national security of the United States or the security and safety of United States persons”.
+
+The ban only applies to new devices and components, so anything which has already made its way into the US is unaffected. In implementing a blanket ban on all foreign-produced drones, there has been no need to publish a list of affected models.
+
+By Sofia Elizabella Wyciślik-Wilson - December 23, 2025
+Jumping on the bandwagon, ‘Your Year with ChatGPT’ is now available
+
+There can be few people who have not interacted with ChatGPT over the last year, and you may be wondering how you have used the artificial intelligence tool.
+
+In line with so many other online tools and services, as we approach the end of the year, ChatGPT is giving users the chance to look back over the previous 12 months in a review of the year. The predictably named “Your Year with ChatGPT” is available now.
+
+By Sofia Elizabella Wyciślik-Wilson - December 23, 2025
+Load More Articles
+Got News? Contact Us
+Most Commented Stories
+US slaps a ban on foreign-made drones and components
+1 Comment
+Lemon Slice 2 turns any single image into a real time, talking AI avatar
+1 Comment
+Maingear now lets buyers bring their own RAM to avoid DDR5 price spikes
+1 Comment
+AI video tools and how they’re changing business communication [Q&A]
+0 Comments
+Data sovereignty, cloud and security [Q&A]
+0 Comments
+AI risks, greater regulation and remote consultations -- healthtech predictions for 2026
+0 Comments
+Wondershare brings new AI Mate editing assistant to Filmora V15
+0 Comments
+Google is making it easier to change your Gmail address
+0 Comments
+ 
+
+We don't just report the news: We live it. Our team of tech-savvy writers is dedicated to bringing you breaking news, in-depth analysis, and trustworthy reviews across the digital landscape.
+
+NEWS
+AI
+Technology
+Software
+Hardware
+About Us
+UNITED KINGDOM
+15 Best Fast Payout Casinos in the UK You Can Trust in 2025
+Best Apple Pay Casino UK: Fast & Secure Deposits and Safe Gambling in 2025
+15 Most Trusted Online Gambling Sites in the UK for Big Wins (2025)
+CANADA
+Best Fast Payout Casino Sites in Canada for Instant Withdrawals (2026)
+Bitcoin Casino CA: Trusted BTC Gaming Sites in Canada (2025)
+Best Online Casinos in Canada 2025: 15 Trusted Real-Money Platforms for Canadians
+Texas Holdem Online Casinos: Play Free Poker Games 2025
+
+© 1998-2025 BetaNews, Inc. All Rights Reserved.
+
+Privacy Policy | Terms of Service | Cookie Policy | Contact Us | Sitemap

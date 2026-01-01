@@ -1,0 +1,21 @@
+login
+The OEIS is supported by the many generous donors to the OEIS Foundation.
+
+Year-end appeal: Please make a donation to the OEIS Foundation to support ongoing development and maintenance of the OEIS. We are now in our 62nd year, we have over 390,000 sequences, and we’ve reached 12,000 citations (which often say “discovered thanks to the OEIS”).
+
+Other ways to Give
+The On-Line Encyclopedia of Integer Sequences (OEIS)
+Enter a sequence, word, or sequence number:
+
+
+   Hints   Welcome   Video
+
+For more information about the Encyclopedia, see the Welcome page.
+
+Languages: English Shqip العربية Bangla Български Català 中文 (正體字, 简化字 (1), 简化字 (2)) Hrvatski Čeština Dansk Nederlands Esperanto Eesti فارسی Suomi Français Deutsch Ελληνικά ગુજરાતી עברית हिंदी Magyar Igbo Bahasa Indonesia Italiano 日本語 ಕನ್ನಡ 한국어 Lietuvių मराठी Bokmål Nynorsk Polski Português Română Русский Српски Slovenščina Español Svenska Tagalog ภาษาไทย Türkçe Українська اردو Tiếng Việt Cymraeg
+
+Lookup Welcome Wiki Register Music Plot 2 Demos Index WebCam Contribute Format Style Sheet Transforms Superseeker Recents
+The OEIS Community
+Maintained by The OEIS Foundation Inc.
+Last modified December 30 00:01 EST 2025. Contains 391591 sequences.
+License Agreements, Terms of Use, Privacy Policy

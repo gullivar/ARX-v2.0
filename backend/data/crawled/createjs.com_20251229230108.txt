@@ -1,0 +1,186 @@
+EASELJS TWEENJS SOUNDJS PRELOADJS DOCS TOOLS BLOG   
+
+A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+
+DOWNLOAD DEMOS GETTING STARTED
+Created by gskinner
+
+A JavaScript library that makes working with the HTML5 Canvas element easy.
+
+LEARN MORE
+ 
+
+A JavaScript library for tweening and animating HTML5 and JavaScript properties.
+
+LEARN MORE
+ 
+
+A JavaScript library that lets you easily and efficiently work with audio on the web.
+
+LEARN MORE
+ 
+
+A JavaScript library that lets you manage and co-ordinate the loading of assets and data.
+
+LEARN MORE
+INSTALLATION
+<script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+
+For guides on using each of the individual libraries, visit our learning section.
+
+BROWSER SUPPORT
+
+CreateJS libraries are interoperable with all modern desktop and mobile browsers, and have been thoroughly tested to achieve performance and reliability in the widest range of browsers possible.
+
+Microsoft Edge
+
+ 
+
+Internet Explorer 9+
+
+ 
+
+Firefox
+
+ 
+
+Chrome
+
+ 
+
+Safari
+
+ 
+
+Opera
+
+ 
+
+Cordova
+
+MORE INFO
+WORKFLOW INTEGRATION
+
+Using the HTML5 Document feature in Adobe Animate, build interfaces, animations, and asset libraries, and export directly to CreateJS. Generated code is compact, readable, and performant.
+
+Zoë is an AIR application for exporting SWF animations as EaselJS spritesheets for use in Canvas and CSS. Maintain frame labels, reuse similar frames, and more!
+
+For more ways to improve your workflow, visit our tools page.
+
+HTML ADS WITH CREATEJS
+
+CreateJS is a leading solution for the development of HTML5 Ads. Check out the white paper, authored by Grant Skinner of gskinner, and Cory Hudson of AOL on creating interactive HTML5 advertising using CreateJS and Adobe Animate. Also included is a handy AdHelper utility, which solves common challenges developers face when building ads.
+
+READ THE WHITE PAPER
+RECENT UPDATES
+JANUARY 2019
+SoundJS 2.0 Beta Available
+AUGUST 2018
+ES2016 Development Branches of EaselJS and TweenJS
+FEBRUARY 2018
+CreateJS 1.0 Released!
+ 
+LATEST TWEETS
+JOIN THE DISCUSSION
+DISCUSSION COMMUNITY ISSUES QUESTIONS
+Super Crowds
+
+Super Crowds inc. is a creative firm located in Tokyo, where unique talent with various skills gather to create.
+
+Salt & Pepper
+
+A digital agency specializing in Ruby on Rails, Consulting, and Development
+
+Resn. Infecting your Screen
+
+Resn is a creative digital agency infecting minds with gooey interactive experiences and digital stories.
+
+Plattegrond
+
+Ga op avontuur in onze magische werelden en beleef een onvergetelijke dag in Toverland!
+
+Inside Pete
+
+Dive deep into the ever expanding body of a middle aged man and create a microscopic army to clean up an unhealthy body from the inside.
+
+Celebrating Garden Gnomes
+
+Fill your gnome garden with ð¼ð¼ð¼ in today's #GoogleDoodle! #GnomeDoodle
+
+Google Fourth of July Doodle
+
+Happy Fourth of July! #GoogleDoodle
+
+CRAFTSMANSHIP: Is Japan Cool?
+
+Japanese craftsmanship is a way of life for artisans who continue faithfully making their traditional crafts while devoting themselves to enhancing their skills.
+
+Andy Foulds
+
+The Award-winning Interactive Design Portfolio of Freelance Web Designer Andy Foulds
+
+Coguz
+
+Cankat Oguz
+
+Coguz is the personal presentation of Cankat Oguz through the random scenes of subconscious.
+
+McWhopper
+
+Burger King
+
+For Peace Day, Burger King made an unprecedented peace proposal to McDonald's - to join forces and create the McWhopper.
+
+MARTIN H WEFAIL
+
+WEFAIL
+
+A portfolio site, and bizarre interactive experience by Martin Hughes, web designer to the stars.
+
+Wildflower
+
+Resn
+
+Express your true feelings by sending a unique wildflower on Valentine's Day.
+
+Interactive Story Summary
+
+BioWare
+
+The Dragon Age Keep helps players form their own world states for Dragon Age: Inquisition. The ISS is a cinematic summary of the player's story, spanning the times of the first 2 games.
+
+Cards Against Humanity
+
+Cards Against Humanity LLC
+
+Ben Hantoot
+
+Unlike most of the party games you've played before, Cards Against Humanity is as despicable and awkward as you and your friends.
+
+The Odd Couples
+
+Andy Foulds
+
+Blend famous faces into strange creatures, drag them around and send your creations to friends. FWA Site of the day for June 03 2013.
+
+Wefail.com
+
+Wefail
+
+Relaunching their iconic site in HTML5, Wefail is able to unleash their unique style once again to unsuspecting masses.
+
+Platypus Game Engine
+
+Gopherwood Studios
+
+PBS Kids
+
+An open source game engine built with CreateJS. Check out their first game, Wild Kratts Monkey Mayhem.
+
+Ion Drift
+
+b10b
+
+A port of the Animate game Ion Drift, b10b was able to build a CreateJS version in less than a day that hit target framerates on even the lowest devices, and outperformed ports to other libraries.
+
+DOWNLOAD DEMOS GETTING STARTED

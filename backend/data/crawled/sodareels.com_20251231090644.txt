@@ -1,0 +1,10 @@
+404 Not Found
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: sodareels.com/index.html
+RequestId: YHYYK56SB3YQ4K75
+HostId: Sp4ZFHayBW8iUWw51FC28ETLnOL8kAjCG6lFS1zLXBqbsnI/kCjlTxigIuvlkuiMqhlYPkuA5yMvHyFeeNpwsUII+5seXMu7
+An Error Occurred While Attempting to Retrieve a Custom Error Document
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: error.html

@@ -1,0 +1,66 @@
+Remote Printing for Web Apps | PrintNode DOWNLOAD PRICING FAQ DOCUMENTATION API CONTACT STATUS SIGN UP LOGIN Remote Printing for Web Apps Connect any printer to your application with the PrintNode 
+Client and an easy to use JSON API GET STARTED ONE MONTH FREE TRIAL LEARN MORE PRINTNODE'S FEATURES USE CASES WHAT CAN PRINTNODE DO? Why Use PrintNode? Blazingly Fast Our system is designed from the ground up to be as fast 
+and efficient as possible. No more waiting – your prints 
+happen exactly when you want them to. Secure and Private We take your security and privacy seriously. We 
+encrypt everything, we don't collect data we don't need 
+and we never share your information with anyone. Read our privacy policy Built for Enterprise PrintNode is ready to handle large-scale users with 
+enterprise features such as Integrator Accounts, 
+Delegated Authentication, private cloud deployments 
+and rock-solid redundancy and scalability. Read about features News and Developments Wider range of hardware support April 13, 2023 We have released the PrintNode Client for Raspberry Pi Bullseye (both 32 and 64 bit versions) and the PrintNode Client for Ubuntu 22.04 LTS.  Click here to download! Print to any Printer PrintNode can print to all types of printers. Print labels, barcodes, receipts or 
+documents with ease with either PDF or RAW printing (ZPL/EPL etc). We support 
+DYMO, Zebra, HP, OKI, Epson and countless other brands and types. PrintNode gets 
+its list of printers from your operating system – if your printer is installed on your 
+computer, it will work with PrintNode. Your Own Branding Make it feel like your own app. If you sign up for an Integrator Account , PrintNode can provide you with your very own custom-branded version of the PrintNode Client. 
+Replace our logos and branding with ones that match your business and integrate with your existing authentication systems . See our branding guidelines . Connect Scales to Your Website PrintNode supports 
+both serial and USB weighing scales. Stream your scale data 
+across the internet and integrate it into your application using our API. With USB scales, absolutely no setup is 
+required! Just plug in your scales and the PrintNode Client will detect them and start streaming data.  For more details, 
+including guidance on setting up serial scales, take a look at our documentation . See the API Reference for specifications and guidance on reading scale data. RAW Printing For extra-fast, extra-robust printing of labels and barcodes with specialist printers from manufacturers 
+like Zebra and DYMO, PrintNode supports RAW printing – you can send documents written in ZPL, EPL or any other native printing language 
+straight to your printer using the PrintNode API. Read our docs page to find out more about RAW printing. What Do Our Clients Say About Us? CLIENT TESTIMONIAL PrintNode provided a perfect replacement for Google Cloud Print API 
+which was slow and didn’t provide any support. PrintNode gave great 
+pre-sales support and easy access to any information I requested, 
+even better implemented a feature requested before I had even 
+signed up. The easiest & best API for any automated printing tasks. Dave Macaulay Senior Developer, Gene Commerce PrintNode is an excellent choice for integrating printing into applications 
+of all sorts. We found PrintNode when we were developing a custom PHP 
+application that needed to integrate with a label printer. 
+PrintNode was extremely well documented, quick and easy to integrate 
+and just works right away when installed. Since we had such a pleasurable 
+experience the first time, when we developed an android and iOS app that 
+needed printing functionality, PrintNode was the obvious choice, 
+once again, it worked flawlessly. From now on, PrintNode is always our 
+go to for any application that requires an integration with a printer! Josh Wegener Owner, The Tuna Group We are using PrintNode for printing courier labels in our warehouse. 
+We love it because it just works. Norbert Molenkamp Product Manager, PLT Products Printers are a necessary evil and have always been extremely 
+painful to interact with from our websites. We print on to 
+labels with precise dimensions and layouts. Overnight 
+Printnode changed this for us, Printnode was extremely 
+easy to implement and lets us enable our users to print 
+without us having to worry about what browser they're using 
+or if they can view PDFs Robert Coleman CTO & OPs, Etailers Ltd PrintNode is a key component in ClearPathGPS' operational infrastructure. 
+The API provides the flexibility to handle local and remote data for 
+print jobs. Invoices, packing list, product and shipping labels 
+all flow through PrintNode 24x7. Friendly support too! Chris Fowler Managing Partner, Technology & Operations, ClearPathGPS LLC We are really happy with PrintNode service, which we have been 
+trying out for about a month now. Currently have 7 computers 
+and over 50 printers connected to PrintNode, with over 600 
+prints we haven't had any issue sending prints to the printers. 
+We actually did compared PrintNode with Google CloudPrint, 
+PrintNode pretty much win on every aspect. Dedicated client 
+software for both Widnows and Mac, easy to install and configure. 
+Easy to use API, detailed document and wide range of samples. 
+Speed of printing is amazing, almost instant print after 
+calling the API. We would definitely recommend PrintNode 
+to others, please keep up the good work! Frank Liu Senior Developer, Orite IT Solutions Working with PrintNode has really changed the way we send 
+print jobs all around the country. I am able to send print 
+jobs to specific printers no matter their location with 
+basic programming and I know the job is sent, received 
+and executed 100% of the time. Because of PrintNode, 
+I can truly think "Sky's the limit" with cloud printing. 
+I will be a client for life. Kyle Bagley CEO, DataHawk Technologies We found PrintNode when developing a custom shipping application 
+using EasyPost to buy and print (via the PrintNode client) shipping labels for all of our 
+UPS, FedEx, USPS, DHL and other carrier shipments.  After quick initial success with PrintNode, 
+we realized their ability to support readings from scales might also be useful.  We've since developed 
+a fully customized piece weight counting application using PrintNode.  This new tool has dramatically sped up 
+our order processing time and helped increase our counting accuracy.  We ran into a few roadblocks 
+throughout the process and reached out to their support.  We were amazed to receive a call or email back that same day 
+and then actually connect with a real human who helped us solve the problem.  We are very pleased with PrintNode and look forward 
+to utilizing their tool in new and creative ways in the future.  Thanks, PrintNode! Brian DeSpain President, Global O-Ring and Seal, LLC PrintNode works on all major brands of printers and scales, including: Create your account and start printing now! Your first month of usage is free and unlimited. GET STARTED LEARN MORE Languages English Français Español Developer API Reference GitHub Web App Support FAQ How to Pay support@printnode.com Legal Terms and Conditions Data Processing Agreement Privacy Policy © PrintNode Ltd.

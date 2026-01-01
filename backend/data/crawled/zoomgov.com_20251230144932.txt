@@ -1,0 +1,153 @@
+Support
+1.833.966.6468
+Download
+Join
+Host
+Sign In
+Contact Sales
+Zoom for Defense platform now available
+Read More
+A secure, proven communications platform for U.S. government agencies
+
+Zoom for Government and Zoom for Defense empower U.S. federal agencies and their industry partners with a specialized, tailored, and entirely U.S.-based communications and collaboration platform that meets the security, operational, and certification requirements of the U.S. government.
+
+Get started
+Zoom for Government and Zoom for Defense
+Product approvals
+DoD IL4 Provisional Authorization
+FedRAMP Moderate
+GovRAMP Moderate
+TX-RAMP Level 2
+CJIS attestation
+HIPAA attestation
+DoD-specific requirements
+DoD IL4 NIPRNet and internet-facing communications directly behind the DoD Boundary Connection Access Point (BCAP)
+Zoom for Defense on the NIPRNet up to the Controlled Unclassified Information (CUI) level
+Also allows for collaboration with entities not residing on the NIPRNet through internet-facing communications
+Designed for all DoD missions including the U.S. Army, U.S. Navy, U.S. Air Force, U.S. Marines, others
+100% U.S. platform
+Leverages Zoom’s U.S.- based AWS GovCloud infrastructure and U.S.-based Equinix co-locations
+Maintained by U.S. personnel
+Source code stored and versioned in the U.S. with multi-layered code reviews across the secure development lifecycle; deployed and managed only by U.S. persons
+Customer content is stored in the continental U.S. within the AWS GovCloud and encrypted to meet IL4 control requirements
+Private and secure
+Robust, multi-layered security organization with world-class external security experts and industry-leading risk mitigation program
+Meeting encryption default is 256-bit AES-GCM encrypted with the option to invoke full end-to-end encryption (E2EE)
+Zoom for Defense carries a full DISA IL4 authorization
+Why Zoom for Government?
+
+Zoom for Government and Zoom for Defense are designed for agencies across the three branches of government, national public institutions, branches of the U.S. Armed Forces, state and local governments, and approved contractors that collaborate with federal agencies.
+
+The Zoom for Government and Zoom for Defense platforms offer a similar experience as the commercial Zoom platform, but operate in a dedicated, U.S.-based GovCloud infrastructure designed to meet the requirements of FedRAMP Moderate baseline and DoD Impact Level 4. Zoom for Government, Zoom for Defense, and commercial Zoom use the same codebase, but Zoom for Government and Zoom for Defense updates are generally released on a separate schedule, which can be up to several weeks after the updates are implemented on the commercial Zoom platform.
+
+Agencies and employees can collaborate with confidence using Zoom for Government and Zoom for Defense. These platforms are specifically designed to meet the stringent security, privacy, and operational requirements of the U.S. Government and the U.S. Department of Defense, respectively.
+
+For more detailed information about Zoom for Government or Zoom for Defense, please contact your Zoom sales team.
+
+Introducing Zoom for Defense
+
+Zoom for Defense has officially received authorization from the Defense Information Systems Agency (DISA) for Impact Level 4 (IL4) communications on the DoD’s NIPRNet. This authorization builds on Zoom’s previous DISA and U.S. Air Force Authorities to Operate (ATOs) and now enables IL4 collaboration directly behind the DoD Boundary Connection Access Point (BCAP). With this approval, Zoom for Defense continues to strengthen its position as a secure, mission-ready collaboration platform for defense organizations.
+
+Why This Authorization Matters
+
+DISA’s IL4 authorization reflects a comprehensive evaluation of Zoom for Defense’s security controls, compliance posture, and operational readiness. Achieving this designation demonstrates Zoom’s ability to meet the Department of Defense’s stringent requirements for handling Controlled Unclassified Information (CUI) and supporting mission-critical operations.
+
+As the DoD accelerates adoption of commercial cloud solutions, DISA ensures that cloud service offerings meet the DoD Security Requirement Guidelines (SRG) for security, interoperability, and performance. With IL4 authorization on the NIPRNet, Zoom for Defense is validated for secure collaboration both within DoD networks and with mission partners connecting through approved internet-facing environments.
+
+Zoom for Government has earned numerous independent security certificates and attestations, including:
+Provisional Authorization from DISA for DoD at Impact Level 4 (2025)
+FedRAMP Moderate authorization (2019)
+HIPAA attestation (2021)
+CJIS attestation (2022)
+GovRAMP/StateRAMP authorization (2022)
+Provisional Authorization from DISA for DoD at Impact Level 4 (2022)
+TX-RAMP Level II (2024)
+Key Zoom for Government resources:
+Certifications & Authorizations
+Security Certifications and Attestations
+Zoom for Government Achieves StateRAMP Authorization and Adheres to CJIS Standards
+Trust Center
+Government Requests Guide
+Government Requests and Data Protection
+Transparency Report
+Security Features & Practices
+Security White Paper
+Securing Your Zoom Account
+Best Practices for Securing Your Zoom Meetings
+An Introduction to AI Safety and Security
+Zoom Security and Compliance FAQ
+Encryption & Data Handling
+Zoom for Government Privacy Statement
+Using end-to-end encryption (E2EE) in Zoom meetings
+Zoom AI-first platform solutions for government organizations
+Increase customer engagement
+
+Open a digital dialogue with the public
+
+Update legacy operations
+Transform service delivery
+Scale public safety
+
+Serve every member of your community by evolving the way you reach constituents
+
+Meetings
+
+Make town halls interactive and engaging with HD video and in-meeting chat
+
+Phone
+
+Streamline how you field incoming inquiries with call queues and auto-attendants
+
+Zoom Contact Center
+
+Engage with customers across their preferred channels
+
+Zoom Webinars & Events
+
+Share and broadcast information to large audiences
+
+Elevate public services
+
+Zoom’s comprehensive government communication platform meets the dynamic needs of agencies looking to connect with constituents and provide more accessible, modern public services.
+
+From city council meetings to search and rescue operations, forge meaningful connections with Zoom’s dynamic unified communications platform, which is anchored by reliable, HD video and audio.
+
+Workforce transformation
+
+Whether you’re a local department or federal agency, strip government work of redundancies and stagnant processes by building a workspace defined by technology tailored to employees’ needs.
+
+Zoom provides industry-leading virtual meetings, chat, VoIP phone systems, and workspace solutions to help your agency embrace a new era defined by innovation and ingenuity.
+
+Your government digital transformation questions, answered
+
+Get the information you need on using Zoom or Zoom for Government at your agency.
+
+Key resources
+Zoom for Government vs. commercial Zoom
+Security, privacy, & compliance
+Zoom Trust Center
+Helpful pages
+Support for Zoom for Government
+Inspiring customer stories
+ 
+See Chenega Systems used Zoom for Government to help agencies embrace flexible work, remain competitive with talent recruitment, and more.
+Discover how the City of San José uses Zoom to modernize operations, improve resident engagement and accessibility, and more.
+Learn how the Zoom platform helped Hamilton County Developmental Disabilities Services improve case management and service delivery.
+Get started with Zoom and Zoom for Government
+Zoom for Government
+
+Learn more about Zoom for Government and Zoom for Defense.
+
+Contact Sales
+
+Not all products may be available on the Zoom for Government and Zoom for Defense platforms. Please check with your Zoom salesperson for specific details.
+
+Download
+Download center
+Sales
+1.833.966.6468
+Contact Sales
+Support
+Account
+Support Center
+Copyright ©2025 Zoom Communications, Inc. All rights reserved. Terms| Privacy| Trust Center| Legal & Compliance

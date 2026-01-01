@@ -1,0 +1,149 @@
+Skip to content
+Particulares
+Business
+A Vodafone
+ Estado da Rede
+ Condições de Oferta de Serviços
+ 
+https://www.vodafone.pt
+Close dialog
+
+Diga-nos o que procura. Nós encontramos.
+
+Procurar
+{{login_close_dialog_span}}
+{{login_page_title}}
+{{login_navigation_title}} {{register_navigation_title}}
+{{login_label}}
+{{login_form_name_label}}
+{{login_form_password_label}}
+ {{login_form_remember_me}}
+{{login_form_recover_button}} 
+{{login_form_back_to_login_button}}
+{{login_form_activation_back_to_login_button}}
+{{login_close_dialog_span}}
+{{login_form_reset_title}}
+{{login_form_reset_first_field}}
+{{login_form_reset_second_field}}
+{{login_form_reset_error_validate_field_invalid_key_recover_button}}
+{{login_form_reset_error_validate_field_invalid_key_to_login_button}}
+Tv Net Voz + Móvel
+Pacotes fibra com 2 números ilimitados e Google One incluído
+Saber mais
+Google Pixel 10 e Pixel 10 Pro XL
+Grandes descontos com pontos Clube Viva
+All in
+iPhone 16e + tarifário móvel ilimitado a €45/mês
+Cidadania DigitALL
+A Fundação Vodafone e a APAV levam às escolas conversas sobre masculinidade positiva.
+Tv Net Voz + Móvel
+Saldos Telemóveis
+All in
+DigitALL
+Quicklinks
+Telemóveis
+Pacotes
+Tarifários Móveis
+Televisão
+Energia
+My Vodafone
+Net + Móvel
+Adere a um pacote fibra desde €38/mês com oferta de um voucher de €100 para usar na loja online da Vodafone.
+Saber mais
+Poupa até €270
+iPhone 16e por apenas €15,41 x 24 meses, pontos Clube Viva.
+Saber mais
+Poupa até €350
+Xiaomi Redmi Note 14 e OPPO Reno 14 com grandes descontos no Clube Viva.
+Saber mais
+Pacotes fibra
+
+Para a tua casa
+
+ 
+
+Tv
+
+ 
+
+3 meses Netflix
+
+Ou Amazon Prime, Disney+ ou HBO Max
+
+ 
+ 
+
+Net
+
+ 
+
+1/1 Gbps
+
+Smart Router com Wi-Fi 6
+
+ 
+ 
+
+Exclusivo Online
+
+ 
+
+Voucher €100
+
+na Loja Online
+
+desde €29,5/mês
+
+€45,5/mês após 4 meses
+
+Saber mais
+ 
+
+Ou explora outras opções
+
+Pacotes Família 
+
+Tv com plataformas de streaming e 2 ou mais números moveis. A melhor escolha para a tua família.
+
+ 
+Pacotes com móvel 
+
+Ideal para quem precisa de internet, Tv com plataformas de streaming em casa e um número móvel.
+
+ 
+Pacotes Net + Móvel 
+
+Ideal para quem precisa de internet fixa e um número móvel, com plataformas de streaming.
+
+ 
+All in 
+
+Equipamento topo de gama com dados móveis ilimitados, tudo num só, desde €35/mês.
+
+TelemóveisAcessóriosSmartwatchesTelevisões
+Ver todos
+
+
+
+Tarifário móvel ilimitado
+Adere a um tarifário Red Infinity com dados móveis ilimitados e Google One incluído.
+Saber mais
+Poupa até €390
+Motorola G35 e Honor 400 Pro com grandes descontos no Clube Viva.
+Saber mais
+Vodafone Happy
+Gire a roda uma vez por semana e ganhe prémios exclusivos para si.
+Saiba mais
+
+Apoio ao Cliente    911691200 (taxação à tarifa rede móvel Vodafone)    |    16912 (tarifa aplicável e outras linhas de contacto aqui)
+
+
+Contacta-nos
+ WhatsApp
+ Webchat
+ Fala connosco
+ {{properties?.footer?.community?.title}}
+ 
+Privacidade Condições 2026 Serviços Digitais Política Anticorrupção Continuidade de Negócio Configuração de Cookies Ofertas Wholesale
+{{item.text}}
+© {{year}} {{footerText}}

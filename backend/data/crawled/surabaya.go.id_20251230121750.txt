@@ -1,0 +1,9 @@
+Accessibility Tools
+
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset

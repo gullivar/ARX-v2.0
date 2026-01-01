@@ -1,0 +1,152 @@
+All Rails World 2025 talks now on YouTube.
+
+Source
+ 
+Docs
+ 
+Community
+ 
+News
+Events
+ 
+Jobs
+ 
+Merch
+ 
+Foundation
+Compress the complexity of modern web apps.
+Learn just what you need to get started, then keep leveling up as you go. Ruby on Rails scales from HELLO WORLD to IPO.
+Rails 8.1.1 — released October 28, 2025
+You’re in good company.
+Over the past two decades, Rails has taken countless companies to millions of users and billions in market valuations.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+These are just a few of the big names. There have been many hundreds of thousands of apps created with Rails since its inception.
+
+Building it together.
+Over six thousand people have contributed code to Rails, and many more have served the community through evangelism, documentation, and bug reports. Join us!
+Meet the Rails team
+Everything you need.
+Rails is a full-stack framework. It ships with all the tools needed to build amazing web apps on both the front and back end.
+
+Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more.
+
+app/models/article.rb
+class Article < ApplicationRecord
+  belongs_to :author, default: -> { Current.user }
+  has_many   :comments
+
+  has_one_attached :cover_image
+  has_rich_text :content, encrypted: true
+  enum status: %i[ drafted published ]
+
+  scope :recent, -> { order(created_at: :desc).limit(25) }
+
+  after_save_commit :deliver_later, if: :published?
+
+  def byline
+    "Written by #{author.name} on #{created_at.to_s(:short)}"
+  end
+
+  def deliver_later
+    Article::DeliveryJob.perform_later(self)
+  end
+end
+Active Records make modeling easy.
+
+Databases come to life with business logic encapsulated in rich objects. Modeling associations between tables, providing callbacks when saved, encrypting sensitive data seamlessly, and expressing SQL queries beautifully.
+
+app/controllers/articles_controller.rb
+class ArticlesController < ApplicationController
+  def index
+    @articles = Article.recent
+  end
+
+  def show
+    @article = Article.find(params[:id])
+    fresh_when etag: @article
+  end
+
+  def create
+    article = Article.create!(article_params)
+    redirect_to article
+  end
+
+  private
+    def article_params
+      params.expect(article: [ :title, :content ])
+    end
+end
+Action Controllers handle all requests.
+
+Controllers expose the domain model to the web, process incoming parameters, set caching headers, and render templates, responding with either HTML or JSON.
+
+app/views/articles/show.html.erb
+<h1><%= @article.title %></h1>
+
+<%= image_tag @article.cover_image.url %>
+
+<p><%= @article.content %></p>
+
+<%= link_to "Edit", edit_article_path(@article) if Current.user.admin? %>
+Action Views mix Ruby and HTML.
+
+Templates can use the full versatility of Ruby, excessive code is extracted into helpers, and the domain model is used directly and interwoven with the HTML.
+
+config/routes.rb
+Rails.application.routes.draw do
+  resources :articles do    # /articles, /articles/1
+    resources :comments     # /articles/1/comments, /comments/1
+  end
+
+  root to: "articles#index" # /
+end
+Action Dispatch routes URLs.
+
+Configure how URLs connect to the controllers using the routing domain language. Routes expose the bundle of actions that go together as a resource: index, show, new, create, edit, update, destroy.
+
+Optimized for happiness.
+
+Rails has united and cultivated a strong tribe around a wide set of heretical thoughts about the nature of programming and programmers. Understanding these thoughts will help you understand the design of the framework.
+
+Read the Rails Doctrine
+Let’s get started.
+LEARNING
+Read the guides
+
+Learn what the frameworks can do and how they fit together.
+
+CONTRIBUTING
+Contribute on GitHub
+
+File bug reports and make pull-requests.
+
+KEEPING UP
+See what’s new
+
+The latest releases and updates on development.
+
+Learn more about Hotwire — the default front-end framework for Rails
+
+Stay up to date with Rails on X, YouTube, and This Week in Rails
+
+Conduct Maintenance Security Trademarks License

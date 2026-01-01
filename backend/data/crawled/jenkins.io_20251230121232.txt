@@ -1,0 +1,123 @@
+ 
+Jenkins
+
+Build great things at any scale
+
+The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+
+Download
+Documentation
+ 
+Jenkins 2025 Governance board elections
+
+The Jenkins 2025 board and officer elections are happening now. Voter registration during September 16 - October 31. Voting during November 1 - November 30.
+
+Jenkins election announcement.
+Continuous Integration and Continuous Delivery
+
+As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project.
+
+Easy installation
+
+Jenkins is a self-contained Java-based program, ready to run out-of-the-box, with packages for Windows, Linux, macOS and other Unix-like operating systems.
+
+Easy configuration
+
+Jenkins can be easily set up and configured via its web interface, which includes on-the-fly error checks and built-in help.
+
+Plugins
+
+With hundreds of plugins in the Update Center, Jenkins integrates with practically every tool in the continuous integration and continuous delivery toolchain.
+
+Extensible
+
+Jenkins can be extended via its plugin architecture, providing nearly infinite possibilities for what Jenkins can do.
+
+Distributed
+
+Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster.
+
+Recent posts
+Jenkins 2.543 and 2.541.1: New Linux Repository Signing Keys
+
+Beginning December 23, 2025 with 2.543, the Jenkins weekly releases will use new repository signing keys for the Linux installation packages. The same change will be made in Jenkins LTS releases beginning January 21, 2026. Administrators of Linux systems must install the new signing keys on their Linux servers before installing Jenkins Jenkins weekly 2.543 or Jenkins LTS 2.541.1. Debian/Ubuntu Update Debian compatible operating...
+
+December 23, 2025
+Announcing the new Jenkins Bug Bounty Program
+
+It is with great pleasure that we announce the new Jenkins Bug Bounty Program! The European Commission (EC OSPO) has partnered with YesWeHack to launch bug bounty programs for several open source projects. The Jenkins project was selected as a valuable asset for public administration across the European Union. The program will run for one year, rewarding security researchers who find and responsibly...
+
+Wadeck Follonier
+December 10, 2025
+Automating Jenkins on Android with Infrastructure as Code
+
+From Manual to Automated In March 2023, I explored running Jenkins on Android devices using Termux, demonstrating that it’s technically possible to transform aging smartphones into CI/CD infrastructure. The manual setup worked, but it required 2-3 hours of configuration and was error-prone. Fast-forward to 2025: I’ve automated the entire process using Infrastructure as Code principles. What once took hours of manual configuration...
+
+Bruno Verachten
+October 31, 2025
+Advancing the Jenkins Tekton Client Plugin through CRD Generation, JUnit 5 Modernization, and Automated CI
+
+The Jenkins Tekton Client Plugin bridges Jenkins and Kubernetes-native Tekton pipelines, allowing Jenkins users to trigger and manage Tekton resources directly from their existing CI/CD workflows. Over the course of Google Summer of Code 2025, significant progress was made in modernizing, stabilizing, and extending the plugin’s capabilities. This project introduced end-to-end CI automation, migrated tests to JUnit 5, implemented large-scale CRD-to-Java...
+
+Maeve Ho
+October 19, 2025
+GSoC 2025 Final Term: Build Retooling of jenkins.io
+
+This post marks the successful completion of my Google Summer of Code 2025 project: Complete Build Retooling of jenkins.io. Over the past months, we’ve transformed the Jenkins documentation infrastructure from legacy systems to a modern, performant, and well-organized platform. Table of Contents Project Recap Post-Midterm Achievements Non-Versioned Site (Vite.js) Completion Versioned Site (Antora) Enhancements Technical Implementation Deep Dive Challenges & Learnings Future Roadmap Acknowledgments Project Resources Project Recap The initiative set out...
+
+Birajit Saikia
+October 19, 2025
+Revamped Tests UI in Jenkins
+
+The JUnit plugin has received a major redesign, focusing on a cleaner and more consistent UI. This work draws directly from the Pipeline Graph View plugin and the Jenkins Design Library, bringing much-needed polish to one of Jenkins' oldest plugins. So what’s new? New user interface The plugin has been redesigned to make test results easier to understand at a glance. Pages have been streamlined, components...
+
+Jan Faracik
+October 16, 2025
+Hacktoberfest 2025
+
+The annual Hacktoberfest is back! Please join us as we celebrate and support open-source during the month of October. Contributors can earn badges and improve their open source contribution skills. The Jenkins project will participate once again in the event. We invite you to contribute to the Jenkins project but also, as maintainers, to welcome and help newcomers. Contributors This is what contributors need to know...
+
+Kris Stern
+September 24, 2025
+Introducing the Gradle Convention Plugin for Jenkins Plugin Development
+
+Building Jenkins plugins with Gradle just got easier! Meet the modern, Kotlin-first, and convention-based Jenkins Gradle Convention Plugin. Plugin development made effortless 🏄‍♂️🏎️. 🌀 Try it today on the Gradle Plugin Portal Today’s Jenkins Plugin Development Landscape Apache Maven remains the primary and officially recommended build tool for Jenkins plugin development, powering the vast majority of plugins in the ecosystem. Its strong integration with...
+
+Aarav Mahajan
+August 31, 2025
+GSoC 2025 Endterm - Improving Plugin Modernizer
+
+Hello everyone, This blog showcases the work done on the Plugin Modernizer Tool during Google Summer of Code 2025. For a detailed description of the project, please refer to the project page. Table of Contents About the Project Phase 1 Phase 2 Next Steps Acknowledgements Useful Links About the Project The project aims to extract modernization metadata, such as whether the modernization was successful and what PR it generated for...
+
+Raunak Madan
+August 30, 2025
+
+We thank the following organizations for their major commitments to support the Jenkins project.
+
+We thank the following organizations for their support of the Jenkins project through free and/or open source licensing programs.
+
+Atlassian
+Datadog
+DigitalOcean
+Discourse
+Fastly
+IBM
+Netlify
+PagerDuty
+Sentry
+Tsinghua University
+XMission
+Belnet
+RWTH Aachen University
+Hostico
+FreeDif
+Servana
+Yamagata University
+
+Thank you shanth17
+
+for making 1 pull request
+
+to the simple-java-maven-app
+
+repo in November 2025!

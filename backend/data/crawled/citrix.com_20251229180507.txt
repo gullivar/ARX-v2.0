@@ -1,0 +1,259 @@
+Skip to main content
+Solutions
+
+BY USE CASE
+
+Empowering a hybrid workforce
+Protect sensitive business information
+Deliver incredible experience to users on any device
+Manage onboarding and offboarding
+Centralizing app and desktop management
+Simplifying device flexibility
+Delivering mission critical applications
+Power sustainable IT
+Improving application performance and security
+Mergers and acquisitions
+
+BY INDUSTRY
+
+Healthcare
+Financial services
+Manufacturing
+Education
+Government
+Retail
+
+See all use cases
+
+ Platform
+
+Citrix Platform overview
+
+ 
+Citrix App and Desktop Virtualization
+Citrix Endpoint Management
+Citrix Secure Access with Chrome Enterprise
+Citrix Secure Developer Spaces - Strong Network
+Citrix Secure Private Access
+deviceTRUST
+NetScaler Application Delivery and Security
+Performance Observability
+Security Analytics
+uberAgent
+Unicon
+XenServer
+	
+
+Download the Citrix Workspace App
+
+Citrix Workspace app is the easy-to-install client software that provides seamless secure access to everything you need to get work done.
+
+Download the app
+
+ Resources
+
+STAY CURRENT
+
+Product documentation
+Tech Zone
+Blog
+Citrix roadmap
+Community
+
+LEARN & CONNECT
+
+Events & webinars
+Customer success stories
+Citrix Unified Services
+Training and certifications
+Glossary
+
+Downloads
+
+View all resources
+
+The Click-Down
+
+Join tech experts as they interview the geeks that helped design, build and deploy the latest Citrix technology.
+
+Listen to The Click-Down
+
+	
+ Support
+Customer support
+Onboarding & adoption
+Product documentation
+
+Citrix Tech Zone
+
+Citrix Tech Zone is home for technical, in-depth articles that are inspired and driven by technical communities and enthusiasts.
+
+Learn more
+
+ Partners
+
+FOR CUSTOMERS
+
+Strategic alliances
+Find a local partner
+Citrix Ready partners
+
+FOR PARTNERS
+
+Partner Central
+
+Citrix Blog
+
+Check out the Citrix blog stream, where you can read the latest on industry news, best practices and news releases.
+
+Read now
+
+Contact us
+
+ Find a local partner
+
+ Contact us
+
+ 
+
+SIGN IN
+
+My Citrix account
+Citrix Cloud
+Citrix Cloud Japan
+Citrix Cloud Government
+Manage licenses
+Secure the Work.
+Trust Citrix to deliver improved user experiences, more productivity, and tailored security at an optimized cost.
+Learn more
+	
+
+1:03
+
+ANNOUNCING
+
+Simplify secure access for your business with Citrix Secure Access™ with Chrome Enterprise
+
+Chrome Enterprise, the most trusted enterprise browser, is now integrated into the Citrix® Platform.
+
+Read the press release
+
+	
+Citrix solutions by industry
+Healthcare IT solutions
+
+With over 4,300 healthcare customers worldwide, Citrix is the leader in delivering secure, scalable, and resilient solutions to healthcare customers for over 3 decades.
+
+Read more on Citrix healthcare solutions
+
+Financial services IT solutions
+
+With the Citrix platform, financial services institutions including banks, brokerages, investment firms, and insurance companies can provide employees and customers with instant secure access to apps and data on any device.
+
+Read more on Citrix financial services solutions
+
+Government IT solutions
+
+Citrix solutions for  Government enable you to manage and optimize Citrix workloads from a cloud-based management portal, regardless of whether they are running on a government-grade cloud offering or your on-premises environments.
+
+Read more on Citrix government solutions
+
+One platform, many solutions—do more with Citrix
+
+Explore new use cases made possible with Citrix and NetScaler
+
+Centralize app and desktop management
+
+Support distributed workforces by centralizing the management of apps to any device
+
+Read more
+
+	
+Deliver mission critical applications
+
+Adapt access based on device posture and risk factors, without compromising on user experience
+
+Read more
+
+	
+Protect sensitive business information
+
+Seamlessly extend your existing Citrix and NetScaler® infrastructure to provide zero trust app access for SaaS and web applications
+
+Read more
+
+	
+Power sustainable business IT
+
+Reduce e-waste and carbon emissions with Citrix hybrid multi-cloud solutions
+
+Read more
+
+	
+Manage onboarding and offboarding
+
+Rapidly deploy IT resources, grant and revoke access to employees as needed
+
+Read more
+
+	
+View all use cases
+In the spotlight
+ 
+ 
+ 
+ 
+2025 Gartner® Critical Capabilities for Desktop as a Service Report
+
+Citrix was ranked first in all five DaaS use cases in the Gartner® Critical Capabilities for Desktop as a Service Report.
+
+Download the report
+
+Rising costs. Aging hardware. One smart solution.
+
+IT hardware costs are on the rise. Keep systems modern and secure without breaking the bank.
+
+Read the blog
+
+Welcoming Google Chrome Enterprise Premium into the Citrix platform
+
+Integrating Chrome Enterprise Premium, the most trusted enterprise browser, into the Citrix platform
+
+Read the blog
+
+2025 Gartner® Critical Capabilities for Desktop as a Service Report
+
+Citrix was ranked first in all five DaaS use cases in the Gartner® Critical Capabilities for Desktop as a Service Report.
+
+Download the report
+
+Rising costs. Aging hardware. One smart solution.
+
+IT hardware costs are on the rise. Keep systems modern and secure without breaking the bank.
+
+Read the blog
+
+Welcoming Google Chrome Enterprise Premium into the Citrix platform
+
+Integrating Chrome Enterprise Premium, the most trusted enterprise browser, into the Citrix platform
+
+Read the blog
+
+Looking for new solutions for your Citrix?
+
+Explore all the additional downloads we have available for Citrix customers.
+
+Learn more
+	
+
+COMPANY
+
+About us
+News
+Contact us
+
+FOLLOW CITRIX
+
+Careers Legal Privacy Your privacy choices Cookie preferences Sitemap
+
+© 2025 Cloud Software Group, Inc. All rights reserved.

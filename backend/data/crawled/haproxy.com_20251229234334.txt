@@ -1,0 +1,223 @@
+Privacy Settings
+
+HAProxy's website uses cookies. By proceeding, you consent to our cookie usage. Please see our Privacy Policy and Cookie Policy for cookie usage details and instructions on how to disable cookies.
+
+Privacy and Cookie Policy More information
+Deny 
+Accept and close
+
+Ingress NGINX retirement > Explore replacement options
+
+Contact us
+Blog
+Customer login
+English 
+HAProxy Technologies
+Products 
+Solutions 
+Resources 
+Support 
+Company 
+Get HAProxy
+Powering the world's
+busiest websites and applications
+
+High-performance traffic management and next-gen security with multi-cloud management and observability. Built for the enterprise — open source at heart.
+
+Discover HAProxy One See what's new in our latest releases 
+Watch HAProxy success stories from industry leaders at HAProxyConf
+
+LIVE WEBINAR > HAProxy 3.3 Feature Roundup
+
+Learn why we are G2's top-ranked solution
+
+User reviews on G2 rank HAProxy as a Leader in Load Balancing, Container Networking, API Management, DDoS Protection, and WAF.
+
+Read the G2 reviews
+
+"HAProxy showcases community at its best and this project is the very definition of sustainability."
+
+Kelsey Hightower
+Software Engineer and Technologist
+Read more 
+
+"An example of a company that focuses on performance and efficiency, that is why HAProxy remains my favorite proxy. Not just adding flashy features."
+
+Hussein Nasser
+Software Engineer and Author
+Read more 
+PLATFORM OVERVIEW
+Do more with HAProxy One
+
+The world's fastest application delivery and security platform seamlessly blends data plane, control plane, and edge network to deliver the world's most demanding applications, APIs, and AI services in any environment.
+
+Discover HAProxy One
+HAProxy Enterprise
+
+A flexible data plane layer that provides high-performance load balancing, an API/AI gateway, Kubernetes application routing, best-in-class SSL processing, and multi-layered security.
+
+HAProxy Fusion Control Plane
+
+A scalable control plane that provides full-lifecycle management, monitoring, and automation of multi-cluster, multi-cloud, and multi-team HAProxy Enterprise deployments.
+
+HAProxy Edge
+
+A secure edge network that provides a high-capacity global ADN and threat intelligence — enhanced by machine learning — that powers the next-generation security layers in HAProxy Fusion and HAProxy Enterprise.
+
+World-class experience
+
+24/7 support from real humans! We're the authoritative experts on HAProxy — including the edge, data plane, control plane, and security layers. We'll do whatever it takes to make your HAProxy deployment a success.
+
+FEATURED SOLUTIONS
+Trusted solutions from the experts in application delivery
+
+HAProxy One keeps your mission-critical websites and applications fast, secure, and highly available — in any environment.
+
+Contact us
+Load balancing
+Web app and API protection
+High availability
+Kubernetes app routing
+High-performance traffic management at massive scale
+
+Load balancer and reverse proxy for HTTP, TCP, UDP, and QUIC applications — with HAProxy’s legendary performance and reliability! Robust architecture, highly customizable, and runs anywhere.
+
+Go to solution
+Cost-efficient performance
+
+2 million TPS on a single AWS Arm instance. Best-in-class SSL/TLS processing. Efficiency that saves you money.
+
+Trusted and proven
+
+Over 20 years of open source development. The world’s most widely used software load balancer.
+
+Any app, any environment
+
+Works with virtually any app, API, or AI service. Advanced routing options and customizable with Lua and SPOE. Run on any Linux server, cloud, container, or VM with identical performance and features.
+
+Load Balancing as a Service (LBaaS)
+
+Offload load balancer management from central Ops teams while making self-service application delivery more efficient for App teams.
+
+Central management
+
+Multi-cluster, multi-cloud, and multi-team management, observability, and automation via a central control plane.
+
+SaaS ADN
+
+Fully managed app delivery services on our global network, powered by HAProxy. For the ultimate scale and simplicity. 
+
+WHY HAPROXY?
+Powering the future of secure application delivery
+
+HAProxy Technologies is the company behind HAProxy One, the world’s fastest application delivery and security platform, and HAProxy, the most widely used software load balancer.
+
+About us
+Incredible technology
+
+From performance, security, and control planes to the use of AI/ML, HAProxy has led the way for over 20 years — providing a platform for continuous innovation.
+
+Open source and independent
+
+HAProxy Technologies is proudly independently owned and operated. We owe our open source development and rapid growth to our thriving community and customers, alike.
+
+Relentless customer focus
+
+We have only one priority: serving our users by providing the best products and the best customer experience in the world.
+
+HAPROXY USER STORIES
+Real experiences, better solutions
+
+Leading platforms and cloud providers trust HAProxy to simplify, scale, and secure modern applications, APIs, and AI services in any environment. Watch them tell their stories at HAProxyConf.
+
+See more user stories Contact us 
+Data informed decision making: Roblox use case for more metrics 
+
+Adam Mills from Roblox discusses methods and implementations of data processing and analysis, and shares some tips so you can prove the value of MORE metrics.
+
+Go to user story 
+
+Adam Mills
+Principal Site Reliability Engineer, Roblox
+
+FEATURED RESOURCES
+See how it works in practice
+
+Your next-gen app delivery and security are closer than you think. Get started with technical webinars, documentation, and more.
+
+See more resources
+LIVE WEBINAR
+HAProxy 3.3 Feature Roundup
+
+The HAProxy 3.3 webinar is a unique opportunity to hear directly from HAProxy experts and stay ahead of the curve by exploring HAProxy's many new capabilities.
+
+Register now 
+ON-DEMAND WEBINAR
+Life After Ingress NGINX: A Zero-Stress Migration Guide to HAProxy
+
+Watch our hands-on session where we break down exactly how to move from Ingress NGINX to the HAProxy Kubernetes Ingress Controller—and why this switch gives you immediate performance wins and a future-proof path to the Gateway API.
+
+Watch now 
+Discover what's possible
+
+Contact the authoritative experts at HAProxy to find the best solutions for your deployment, scalability, and security needs.
+
+Contact us
+Products
+HAProxy One
+HAProxy Enterprise load balancer
+HAProxy Fusion Control Plane
+HAProxy Edge
+HAProxy Enterprise Kubernetes Ingress Controller
+HAProxy ALOHA
+Solutions
+Load balancing
+UDP load balancing
+API gateway
+AI gateway
+High availability
+Security
+SSL/TLS processing
+DDoS protection and rate limiting
+Bot management
+Web application firewall (WAF)
+Universal mesh
+Kubernetes
+Service discovery
+Automation and self-service
+Load balancer management
+Observability
+HAProxy GUI
+Application acceleration
+Public sector
+Resources
+HAProxy Enterprise documentation
+HAProxy ALOHA documentation
+HAProxy Kubernetes Ingress Controller documentation
+Upgrade from Community to Enterprise
+Certified integrations
+User spotlight series
+Content library
+Blog
+Success stories
+Partners
+Partner program
+Certified integration program
+Find a partner
+Partner deal registration
+Support
+Customer support portal
+Support options
+Professional services
+Community mailing list
+Company
+About us
+Contact us
+Events
+Careers
+News
++1 (844) 222-4340
+© 2025 HAProxy Technologies, LLC. All Rights Reserved
+Trademark | Privacy | DMCA Policy | Subpoena Response Policy | Acceptable Use Policy (AUP) | Do Not Sell My Personal Information
+Sitemap
+Manage Cookie Preferences

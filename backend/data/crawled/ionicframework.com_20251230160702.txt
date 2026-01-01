@@ -1,0 +1,505 @@
+Important Announcement: The Future of Ionic’s Commercial Products →
+
+Skip to main content
+Search
+⌘
+K
+Docs
+Guide
+CLI
+Native
+Releases
+Contributing
+Ionic 8 Upgrade Guide
+Ionic 7 Docs
+Ionic 6 Docs
+Components
+Community
+Blog
+Forum
+Community Hub
+Developer Experts
+X
+Discord Chat
+Ionic Team GitHub
+Enterprise
+The mobile SDK for the Web.
+
+An open source mobile UI toolkit for building modern, high quality cross-platform mobile apps from a single code base in React.
+Vue.
+Angular.
+
+Get started →
+$ npm i -g @ionic/cli
+Performant
+
+Built to be fast by default—with hardware accelerated transitions, and touch-optimized gestures.
+
+Cross-platform
+
+Create stunning, flexible UIs for all major app platforms from a single shared codebase.
+
+React, Angular, or Vue
+
+Built-in support for JavaScript Frameworks, or use without any framework at all.
+
+Light & Dark mode
+
+Give your users light and dark theme choices so they can choose what’s most eye-friendly.
+
+Powering incredible app experiences at the world’s best companies
+
+Learn the differences between hybrid and native apps. We break down all the myths and misconceptions.
+
+Read the free eBook →
+Cross-platform mobile UI
+Modern UI paradigms. Ready for mobile.
+Explore UI components →
+Slider
+
+Supports keyboard and touch input, step interval, multiple thumb, and RTL direction
+
+Alert
+
+Stock with two platform modes, fine-grained focus control, accessible to screen readers
+
+Chip
+
+Can contain several different elements such as avatars, text, and icons
+
+Checkbox
+
+Allow for the display and selection of multiple options from a set of options
+
+Toggle
+
+Can be switched on or off by pressing or swiping and can also be checked programmatically
+
+Input
+
+A wrapper to the HTML input element with custom styling and additional functionality
+
+First-Class DX
+Build and preview directly in your Web Browser.
+Action Sheet
+Calendar
+Modal
+Progress Bar
+See all →
+// action-sheet-example.component.ts
+
+
+import { Component } from '@angular/core';
+import { ActionSheetController } from '@ionic/angular';
+
+
+@Component({
+  selector: 'action-sheet-example',
+  templateUrl: 'action-sheet-example.component.html',
+  styleUrls: ['./action-sheet-example.component.css'],
+})
+export class ActionSheetExample {
+
+
+  constructor(private actionSheetController: ActionSheetController) {}
+
+
+  async presentActionSheet() {
+    const actionSheet = await this.actionSheetController.create({
+      header: 'Albums',
+      cssClass: 'my-custom-class',
+      buttons: [{
+        text: 'Delete',
+        role: 'destructive',
+        icon: 'trash',
+        id: 'delete-button',
+        data: {
+          type: 'delete'
+        },
+        handler: () => {
+          console.log('Delete clicked');
+        }
+      }, {
+        text: 'Share',
+        icon: 'share',
+        data: 10,
+        handler: () => {
+          console.log('Share clicked');
+        }
+      }, {
+        text: 'Play (open modal)',
+        icon: 'caret-forward-circle',
+        data: 'Data value',
+        handler: () => {
+          console.log('Play clicked');
+        }
+      }, {
+        text: 'Favorite',
+        icon: 'heart',
+        handler: () => {
+          console.log('Favorite clicked');
+        }
+      }, {
+        text: 'Cancel',
+        icon: 'close',
+        role: 'cancel',
+        handler: () => {
+          console.log('Cancel clicked');
+        }
+      }]
+    });
+    await actionSheet.present();
+
+
+    const { role, data } = await actionSheet.onDidDismiss();
+    console.log('onDidDismiss resolved with role and data', role, data);
+  }
+}
+
+
+<!-- action-sheet-example.component.html -->
+
+
+<ion-button (click)="presentActionSheet()">Show Action Sheet</ion-button>
+iOS
+Android
+A powerful CLI
+
+Create, build, test, and deploy your app with the Ionic CLI. You can even use your favorite JS framework’s CLI.
+
+Enhanced editor tooling
+
+The Ionic VS Code Extension can help follow best practices and perform common tasks from within your editor
+
+On-Device Hot Refresh
+
+Speed up your process by developing right on device and making use of Hot Refresh to see your changes applied instantly.
+
+JS Agnostic
+Use the JavaScript tech you prefer.
+
+We don’t make assumptions about the JS Frameworks you prefer to build with. That’s why we engineered Ionic to integrate seamlessly with all best frontend frameworks, including Angular, React, Vue, or even no framework.
+
+Get started:
+ionic/vue
+ionic/react
+ionic/angular
+Performance obsessed
+Build apps that are fast by default.
+
+Ionic is built to perform fast on the all of the latest mobile devices. Build apps with a small footprint and built-in best practices like hardware accelerated transitions, touch-optimized gestures, pre-rendering, and more.
+
+Start building →
+import { Filesystem, Directory, Encoding } from '@capacitor/filesystem';
+
+
+const writeFile = async (text: string) => {
+  await Filesystem.writeFile({
+    path: "secrets/text.txt",
+    data: text,
+    directory: Directory.Documents,
+    encoding: Encoding.UTF8,
+  });
+};
+
+
+writeFile("Capacitor is really cool!");
+import { Camera, CameraResultType } from '@capacitor/camera';
+
+
+const takePicture = async (element: HTMLElement) => {
+  const image = await Camera.getPhoto({
+    quality: 90,
+    allowEditing: true,
+    resultType: CameraResultType.Uri
+  });
+
+
+  var imageUrl = image.webPath;
+  element.src = imageUrl;
+};
+
+
+const img = document.getElementById("my-photo");
+takePicture(img);
+import { Share } from '@capacitor/share';
+
+
+const shareCapacitorUrl = async () => {
+  await Share.share({
+    title: 'Capacitor is cool!',
+    text: 'Really awesome thing you need to see right meow',
+    url: 'http://capacitorjs.com/',
+    dialogTitle: 'Share with buddies',
+  });
+}
+
+
+shareCapacitorUrl();
+Seemless native integration
+Connect to native when you need it.
+
+Access full native device functionality with JavaScript. Choose from a library of native device plugins for Camera, Maps, Geolocation, Bluetooth, and more. Dive into the full native SDKs at any time—there’s no limit.
+
+Filesystem
+
+Save and read documents, assets, and other content
+
+Camera
+
+Capture photos, save images, and configure hardware settings
+
+Share
+
+Share content in any share-enabled app a user has installed
+
+Write once. Run anywhere.
+
+Deploy your Ionic apps directly to iOS and Android app stores using the Capacitor bridge and cross-platform plugin APIs.
+
+Custom plugin development
+
+Creating custom native experiences is easy with a simple Plugin API for Swift on iOS, Java on Android, and JavaScript for the web.
+
+Build & deploy in the cloud
+
+Generate native builds, push live app updates, publish to the app stores, and automate the whole process with Ionic Appflow.
+
+Infinitely Customizable
+UIs that feel at home wherever they are deployed.
+
+Start with pre-built iOS and Material Design themes that use Adaptive Styling to display correctly on the platforms they’re rendered on, or easily tailor the components and create custom UIs that match your brand.
+
+Android
+iOS
+Custom
+Feel the love
+Powered by a growing global contributors community.
+Sean Bannigan
+
+@seanbannigan
+
+I love building apps with Ionic and Capacitor because you can build UI that looks amazing, all with web technologies and a little plugin magic. As a user, I would never know this wasn’t a “native” app.
+
+Nicole Sullivan
+
+@stubbornella
+
+Your care and attention to detail shows in @Ionicframework components. And your commitment to interoperability with frameworks is 💯
+
+Abimael Barea
+
+@abimaelbarea
+
+There are many options to build cross-platform apps. Still, the approach of @Ionicframework using web components, css variables, multi framework support, and now a straightforward integration with native code using Portals it's pretty impressive.
+
+Einfach Hans
+
+@einfach_hans_
+
+I'm 23 years old and already can say:@Ionicframework changed my life. I'm proud to be able to describe myself as an Ionic Expert/Senior in my young age 👍🏻
+
+Marius Bolik
+
+@MariusBolik
+
+I refactored my cryptocurrency app in under a month using @Ionicframework & @capacitorjs.
+
+Pato
+
+@devpato
+
+Starting playing with @Ionicframework again today. Holy shit! Things have changed in the past 4 years with Ionic. Excited to learn more and more about this awesome tool!
+
+Angular
+
+@angular
+
+Angular + Ionic represent a huge percentage of App Store and Google Play downloads
+
+Danny Redfern
+
+@redders166c
+
+Why on earth did I not jump in @Ionicframework and @capacitorjs earlier?! The ease of using native plugins is outrageous.
+
+FK - Cloud Architect
+
+@coderonfleek
+
+You won't totally appreciate the work that the @Ionicframework team has done until you have read the entire docs. Such an amazing tool they have built
+
+Maximilian
+
+@maxedapps
+
+Ionic is awesome! Building cross-platform apps has always been amazing with Ionic (and Capacitor) but Vue being Vue, it's of course super smooth and straightforward.
+
+Steve Sanders
+
+@StevenDSanders
+
+One of the devs on my team added a fantastic dark mode to our new @Ionicframework app in less than a day of work. Absolutely insane how productive you can be in Ionic! Let's just say that adding dark mode to our native iOS app took a lot longer than a day.
+
+Glenn Nickens
+
+@GlennNickens
+
+I luv @Ionicframework!
+
+Alex Dobsom
+
+@alexdobsom
+
+It took me 50 minutes to realize how useful is @Ionicframework for building web, android & ios with @reactjsfrom a single code source (easier than React Native and React for Web) just listening to this podcast. Just WOW 😍
+
+Veni Kunche
+
+@venikunche
+
+Love Ionic! Before I got the idea for Diversify Tech, I was making app templates using it.
+
+Simon Grimm
+
+@schlimmson
+
+Tried @useappflow for @Ionicframework apps and must admit this stuff rocks 🔥 Cloud builds, automations and direct deploy to app store and Google Play - all configured basically within a morning 😱
+
+Ire Aderinokun
+
+@ireaderinokun
+
+Guys, @Ionicframework is insaaaneee. I'm now a Mobile Developer 💅🏾
+
+Adam Wathan
+
+@adamwathan
+
+Been pouring over the various @Ionicframework websites this afternoon just because they're so beautifully designed 😍
+
+Sarah Drasner
+
+@sarah_edo
+
+Finally used Ionic to build an app, and wow- this is so much fun. Building with Vue, (they have React and Angular too) and it deploys on Web, iOS, and Android? I’m having delusions of app grandeur.
+
+Parham
+
+@_pazel
+
+When a mobile app is successful, often the client asks us to build a web version so it's more accessible. Building with @Ionicframework and @capacitorjs has saved our clients and us a lot of time and money by enabling us to transform into a webapp with minimal effort.
+
+vjeux
+
+@Vjeux
+
+Super excited about Ionic React! I’ve always dreamed of a “ruby on rails” equivalent for React where all the environment is setup to be productive right away.
+
+Realm
+
+@realm
+
+Start with an @Ionicframework React web application and run it on #iOS and #Android. 📲
+
+#Ionic and @capacitorjs make it super easy to run your Realm-powered Ionic apps everywhere! 🌏
+
+Ben
+
+@derbenoo
+
+How do you build a fully functional chat on both Android and iOS with 2 devs (shout-out to @mitschmidt) in just 4 days? 😱
+
+Yes you guessed it: @capacitorjs + @angular + @Ionicframework + @storybookjs
+
+Matt Starr
+
+@mb_starr
+
+shoutout to @Ionicframework here for being part of the sane solution for 99.9% of the people. Thank you sir!
+
+Joeycrack.Net
+
+@Joeycrack_Net
+
+The @Ionicframework and @angular framework is total for web/mobile development. I mean I was just building for android and ios and suddenly I decided I want a pwa and it didn't take me up to 5mins to create one with same codebase who does that? 😂🤣😂🤣😂 This stack is the shiit
+
+Travis Ryan
+
+@darkunderlord
+
+I am absolutely blown away by how awesome The @Ionicframework Appflow works so well. This is a game changer for me as a developer.
+
+Brandon Roberts 🥑
+
+@brandontroberts
+
+Building games with Ionic, Phaser, Capacitor, and NgRx?! 🔥🔥🔥
+
+15M
+
+Monthly npm installs
+
+49k
+
+Stars on GitHub
+
+123k
+
+Followers on Twitter
+
+100+
+
+Community meetups
+
+Follow on Twitter
+Star us on GitHub
+Join our Forum
+Say Hi on Discord
+Ionic has a vibrant, growing community. Join us →
+Ready to dive in?
+
+Here’s how to get started building apps with Ionic Framework
+
+Install
+
+The Ionic CLI is the preferred method of installation, offering a wide range of dev tools and help options.
+
+Guides
+
+Follow our documentation on how to build stunning UIs and go from zero to app in minutes.
+
+Components
+
+Explore over 100 UI components that let you to quickly construct stunning interfaces with ease.
+
+© 2025 | MIT License
+
+A project by Ionic.
+
+Docs
+Installation
+Guides
+Components
+Theming
+Native
+Resources
+Blog
+Forum
+Community
+Help Center
+Resources
+Ioniconf
+Enterprise
+Ionic Enterprise
+Enterprise Support
+Advisory Services
+Contact Sales
+Connect
+Contact
+X
+Discord
+Github
+
+Welcome to Ionic
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Review Settings Accept All Cookies

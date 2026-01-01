@@ -1,0 +1,242 @@
+Manage your privacy
+
+To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen.
+
+Statistics
+
+Marketing
+
+Features
+Always active
+
+Always active
+Manage 1174 vendors
+Read more about these purposes
+Accept
+Deny
+Manage options
+Cookie Policy
+Privacy Statement
+Imprint
+Skip to content
+
+ActiveState Academy is live 🚀 Free Container Security Certification – Start Now
+
+Search
+Docs
+Support
+Open Support
+Login
+Products
+Open Products
+Solutions
+Open Solutions
+Pricing
+Resources
+Open Resources
+Company
+Open Company
+Contact Us
+Secure Container Catalog
+Your One Stop For Secure, Trusted Open Source
+Improve developer productivity and strengthen your security posture using the world's largest catalog of trusted open source backed by AI-powered vulnerability remediation.
+Contact Us
+Secure Container Catalog
+Open source doesn't mean open risk.
+
+Most development teams are trapped working with outdated, vulnerable open source or burning valuable time on security updates. Break the cycle using our trusted catalog of vulnerability-free open source for any tech stack.
+
+STRENGTHEN SECURITY
+Access Over 40M Secure Components
+
+Transfer open-source responsibility to our rapidly growing catalog of trusted, rebuilt-from-source packages. Access any ecosystem without giving security a second thought.
+
+ACCELERATE DEVELOPMENT
+Open-Source Packaged For Any Tech Stack
+
+Container Images for Kubernetes?Access to language libraries? Runtimes for development? Package secure open source to support any development or deployment use case.
+
+REDUCE ENGINEERING TOIL
+AI Powered Vulnerability Remediation
+
+New CVE discovered? Unclear dependencies from code generation tools? We’ve got it. Our AI-powered remediation instantly applies component-level fixes, and resolves dependencies.
+
+Discover ActiveState
+Curate Your Open Source Catalog
+Access trusted open source using a single, trusted catalog of over 40 million rebuilt-from-source packages, including Python, Java, Node, Go, and much more.
+
+
+Secure any ecosystem with AI-powered ingestion that transforms virtually any open source into a trusted asset.
+
+
+Curate your catalog with direct access to open source packages, runtimes, and secure containers. 
+
+
+Easily integrated into the tools your team already uses. Pull directly from ActiveState or integrate into common repositories and IDEs.
+Learn More
+Deploy Secure Images and Runtimes
+Automatically Remediate and Rebuild
+Click to accept marketing cookies and enable this content
+
+Container Security Without Compromise
+
+Customize or build any image using over 40M secure, source-rebuilt components.
+
+Explore Secure Containers
+Why ActiveState?
+
+Stop managing open-source alone. Shift the responsibility from your team to ours—so you can focus on innovation, not incident response.
+
+Strengthen Security Posture
+
+Achieve up to a 99% reduction in CVEs when compared to community artifacts.
+
+Reduce Costly Engineering Toil
+
+Save ~4 hours of remediation per CVE— freeing developers to focus on new code.
+
+Simplify Compliance
+
+Meet complex compliance standards faster and cheaper.
+
+Will ActiveState work for me?
+
+Contact Us
+You only want to use vetted packages built from source.
+You need secure container images for development and deployment.
+Your team is wasting engineering cycles remediating vulnerabilities.
+You need to meet complex compliance requirements such as FedRamp.
+What our clients say
+ActiveState is in a good position. You're already well down the SLSA route and I think that's extremely important as more and more of the SSDF will come into the attestation.
+ActiveState User
+Global DevOps Lead, Software industry
+I don't have to think too much about security and the complications anymore because ActiveState does it for me.
+Stacy Leon
+Sr. Technical Specialist, Altair
+In a place where you don't have this infrastructure set up, [ActiveState] is turnkey and a no brainer. Other build environments are garbage next to yours!
+ActiveState User
+Application Support Engineer, Data & Governance industry
+ActiveState is so seamless that the business can function even with turnover and little training. The lights stay on and the engineers don't have to worry about what languages they are using to add value.
+Ashish Saxena
+Director of Engineering, Druva
+ActiveState is in a good position. You're already well down the SLSA route and I think that's extremely important as more and more of the SSDF will come into the attestation.
+ActiveState User
+Global DevOps Lead, Software industry
+I don't have to think too much about security and the complications anymore because ActiveState does it for me.
+Stacy Leon
+Sr. Technical Specialist, Altair
+In a place where you don't have this infrastructure set up, [ActiveState] is turnkey and a no brainer. Other build environments are garbage next to yours!
+ActiveState User
+Application Support Engineer, Data & Governance industry
+ActiveState is so seamless that the business can function even with turnover and little training. The lights stay on and the engineers don't have to worry about what languages they are using to add value.
+Ashish Saxena
+Director of Engineering, Druva
+ActiveState is in a good position. You're already well down the SLSA route and I think that's extremely important as more and more of the SSDF will come into the attestation.
+ActiveState User
+Global DevOps Lead, Software industry
+I don't have to think too much about security and the complications anymore because ActiveState does it for me.
+Stacy Leon
+Sr. Technical Specialist, Altair
+Your One Stop For Secure, Trusted Open-Source
+
+Chat with a member of our team or explore our catalog of secure open source.
+
+Contact Us
+Secure Container Catalog
+Linkedin
+ 
+Mastodon
+ 
+Github
+ 
+Instagram
+PRODUCT
+
+Secure Container Catalog
+
+Supported Languages
+
+Platform Overview
+
+LANGUAGES
+
+Python
+
+Go
+
+Java
+
+R
+
+Perl
+
+Tcl
+
+Ruby
+
+SOLUTIONS
+
+Container Security
+
+Vulnerability Management & Remediation
+
+Software Supply Chain Security
+
+Compliance & SBOM
+
+EOL Support
+
+Center of Excellence
+
+Integrations
+
+Partners
+
+RESOURCES
+
+Blog
+
+Case Studies
+
+Quick Reads
+
+White Papers
+
+Data Sheets
+
+Videos
+
+Webinars
+
+Product Demos
+
+Academy
+
+Trust Center
+
+COMPANY
+
+About Us
+
+Why Us
+
+Careers
+
+Newsroom
+
+Contact Us
+
+Login
+
+Support
+
+Service Status
+
+Documentation
+
+© 2025 ActiveState Software Inc. All rights reserved. ActiveState®, ActivePerl®, ActiveTcl®, ActivePython®, Komodo®, ActiveGo™, ActiveRuby™, ActiveNode™, ActiveLua™, and The Open Source Languages Company™ are all trademarks of ActiveState.
+Legal
+Privacy Policy
+Accessibility

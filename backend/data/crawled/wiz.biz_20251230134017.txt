@@ -1,0 +1,57 @@
+Bitcoin Projects
+Infrastructure self-hosted on AS54415
+Seeds
+Bitcoin DNS Seed
+Nodes
+Bitcoin Nodes
+Testnet Nodes
+Signet Nodes
+Lightning Nodes
+Liquid Network Nodes
+Liquid Testnet Nodes
+Mining
+GPU Mining
+ASIC Mining
+Exploring
+Bitcoin Explorer
+Testnet Explorer
+Signet Explorer
+Lightning Explorer
+Liquid Network Explorer
+Liquid Testnet Explorer
+Trading
+Bisq Wiki
+Bisq Chat
+Bisq Markets
+Bisq Price API
+Hosting
+BitcoinTV.com
+Bitcoin-Only.com
+
+
+Community
+Meetups
+東京ビットコイン勉強会
+Tokyo Bitcoin Hackers
+金沢ビットコイン勉強会
+Kanazawa Bitcoin Meetup
+長野ビットコイン勉強会
+Nagano Bitcoin Meetup
+Books
+ビットコイン・スタンダード
+お金が変わると世界が変わる
+(Bitcoin Standard)
+Talks
+Bitcoin 2021 talk
+Podcasts
+CD e0.0.9: mempool
+HCPP 20: mempool
+Bitcoin Magazine: mempool
+SLP 245: mempool
+TFTC 117: bisq
+SLP 112: bisq
+Blogs
+Why Bitcoin?
+
+
+PGP Twitter Sponsor

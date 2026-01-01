@@ -1,0 +1,22 @@
+Leaflet - a JavaScript library for interactive maps an open-source JavaScript library for mobile-friendly interactive maps Overview Tutorials Docs Download Plugins Blog August 16, 2025 — Leaflet 2.0.0-alpha.1 has been released! Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps.
+Weighing just about 42 KB of JS ,
+it has all the mapping features most developers ever need. Leaflet is designed with simplicity , performance and usability in mind.
+It works efficiently across all major desktop and mobile platforms,
+can be extended with lots of plugins ,
+has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to. Here we create a map in the 'map' div, add tiles of our choice , and then add a marker with some text in a popup: var map = L.map('map').setView([51.505, -0.09], 13);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([51.5, -0.09]).addTo(map)
+    .bindPopup('A pretty CSS popup.<br> Easily customizable.')
+    .openPopup(); Learn more with the quick start guide , check out other tutorials ,
+or head straight to the API documentation .
+If you have any questions, take a look at the FAQ first. Trusted by the best GitHub foursquare Pinterest Facebook Evernote Etsy Flickr 500px Data.gov European Commission The Washington Post Financial Times NPR USA Today National Park Service IGN.com OpenStreetMap Features Leaflet doesn't try to do everything for everyone. Instead it focuses on making the basic things work perfectly . Layers Out of the Box Tile layers, WMS Markers, Popups Vector layers : polylines, polygons, circles, rectangles Image overlays GeoJSON Interaction Features Drag panning with inertia Scroll wheel zoom Pinch-zoom on mobile Double click zoom Zoom to area (shift-drag) Keyboard navigation Events : click, mouseover, etc. Marker dragging Visual Features Zoom and pan animation Tile and popup fade animation Very nice default design for markers, popups and map controls Retina resolution support Customization Features Pure CSS popups and controls for easy restyling Image- and HTML-based markers A simple interface for custom map layers and controls Custom map projections (with EPSG:3857/4326/3395 out of the box) Powerful OOP facilities for extending existing classes Performance Features Hardware acceleration on mobile makes it feel as smooth as native apps Utilizing CSS features to make panning and zooming really smooth Smart polyline/polygon rendering with dynamic clipping and simplification makes it very fast Modular build system for leaving out features you don't need Tap delay elimination on mobile Map Controls Zoom buttons Attribution Layer switcher Scale Browser Support Desktop Chrome Firefox Safari 5+ Opera 12+ IE 9–11 Edge Mobile Safari for iOS 7+ Chrome for mobile Firefox for mobile IE10+ for Win8 devices Misc Extremely lightweight No external dependencies If you find some feature really missing in Leaflet, first check if there's a plugin for it and if it's been discussed before already on GitHub issues .
+If not, please open a new GitHub issue. Getting Involved Let's create the best mapping library in the world!
+Leaflet was originally created by Volodymyr Agafonkin ,
+but is now developed by a big community of contributors . Pull requests are always welcome.
+However, there are many more ways to get involved with the development of Leaflet. You can help the project tremendously by discovering and reporting bugs , improving documentation ,
+helping others on Stack Overflow , GIS Stack Exchange and GitHub issues ,
+X to @LeafletJS and spreading the word about Leaflet among your colleagues and friends. Check out the contribution guide for more information on getting involved with Leaflet development. Follow @LeafletJS © 2010–2025 Volodymyr Agafonkin . Maps © OpenStreetMap contributors.

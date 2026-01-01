@@ -1,0 +1,175 @@
+Web
+CDN
+API
+Wordpress
+Third Party
+Analyzer
+Pricing
+Login
+
+Drop your images here!
+
+Up to 20 images, max 5 MB each.
+
+Convert my images automatically
+
+OUR PRODUCTS
+Smart AVIF, WebP, PNG and JPEG Compression for Faster Websites
+
+Tailored solutions for website owners, developers, and designers, ensuring optimal website performance for every project. Discover the advantages of faster loading times with our image optimization tools.
+
+Web Pro and Web Ultra
+
+The online compressor empowers you to easily optimize your images. Seamlessly convert to WebP or efficiently compress extensive batches to minimize file sizes, all with ease.
+
+Buy now 
+
+Tinify CDN
+
+Power up your website with Tinify's Image CDN. Harness the power of multiple content delivery networks along with advanced image optimization for unmatched reliability and performance.
+
+Learn more 
+
+API Integration
+
+Integrate Tinify’s powerful image API seamlessly into your workflow. Explore advanced features like resizing, converting, and cropping for a comprehensive experience.
+
+Learn more 
+
+WordPress Plugin
+
+Accelerate your WordPress website with the TinyPNG plugin. Automated image compression for fast page load times and enhanced user experience.
+
+Go to WP plugin 
+
+Trusted by  thousands of companies around the world
+
+IMAGE COMPRESSION AND CONVERSION WITHOUT VISIBLE QUALITY LOSS
+Can you tell the difference?
+
+Move the slider to compare the compressed and converted image with the original.  
+The file size is reduced by more than 85%!
+
+Darker places stay intact
+Tiniest details are still there
+ORIGINAL
+1.1 MB
+TINIFY
+188 KB
+
+Discover how much Tinify can
+improve your website's performance.
+
+Analyze now
+TESTIMONIALS
+What our customers say
+
+Performance is more and more important for our clients, and by using Tinify CDN’s services we are able to get outstanding performance scores.
+
+Michael Mol
+Founder
+
+We prioritize performance due to the high-resolution images on our websites. For instance, one site serves up 200GB of images alone. Tinify CDN not only accelerates the website but also speeds up the import process.
+
+Matt Neal
+Project Manager
+
+Infrastructure costs and improving SEO are recurring challenges in the e-commerce industry. Image compression is also one of them, and Tinify's API has proven to be an effective solution.
+
+Nicolás Villegas
+CTO
+Speed up your  
+website with Tinify
+
+Maximize your website’s performance
+and improve SEO rankings with  
+Tinify’s image optimization.
+
+General
+How does it work
+Web compressor
+Web Pro & Web Ultra
+General
+Why should I compress my images for my website?
+
+Optimizing your images with the TinyPNG algorithm brings several benefits to your website. 
+
+TinyPNG reduces file sizes by up to 80% without sacrificing quality, leading to faster page loads. This optimization is essential for keeping user attention and ensuring an enjoyable user experience. Additionally, it minimizes bandwidth usage, making your website more efficient and cost-effective. 
+
+Image compression also plays a role in SEO, as efficiently compressed images contribute to faster page speeds and improve your website's search engine ranking.
+
+Does TinyPNG support WebP images?
+
+Yes, TinyPNG supports WebP images. Our compression feature enables users to achieve the most optimal results when working with WebP files.
+
+WebP, a web image file format created by Google, is supported by major browsers such as Chrome, Firefox, Edge and Opera. This format excels in achieving reduced file sizes while maintaining optimal image quality. Consequently, WebP images are smaller in size compared to PNG and JPEG counterparts, contributing to faster website loading times. This is particularly beneficial for your users, ensuring swift page load times and minimizing bandwidth costs, especially for mobile users.
+
+It’s worth highlighting that despite WebP’s inherent size advantages, Tinify’s optimization can further decrease the file size. The intelligent algorithm ensures that there are no visible differences while more savings are made.
+
+What does TinyPNG do?
+
+TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, AVIF, JPEG and PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size!
+
+What file formats does TinyPNG support for image compression?
+
+Currently, Tinify supports AVIF, WebP, JPG, PNG and APNG (animated PNG). 
+
+We are continuously working to expand our portfolio to include additional formats in the future.
+
+Why do I get an optimized JPG when I upload a HEIC image?
+
+HEIC is an image format that compresses photos very efficiently, but it is not widely supported by many other devices and platforms. To ensure your images work everywhere, TinyPNG automatically converts HEIC files to JPG, a widely accepted format.
+
+If you prefer a next-gen format like AVIF, you can easily convert it with the online optimizer. Avif images offer better quality and smaller file sizes than other formats. The best format you choose depends on how you plan to use the images.
+
+Is the privacy of my images ensured?
+
+At Tinify, your privacy is our top priority. Rest assured, only you have access to the images you upload. We retain them for a maximum of 48 hours, after which they are permanently deleted.
+
+For additional details on privacy, please refer to our Terms of Use, specifically sections 8 and 9. These sections provide comprehensive information on privacy policies and data processing operations.
+
+Why did you create TinyPNG?
+
+Panda says: Excellent question! We frequently use PNG images but were frustrated with the load times. We created TinyPNG in our quest to make our websites faster and more fun to use with the best compression.
+
+In 2014 we added intelligent compression for JPEG images and in 2016 we added support for animated PNG. Compressing images with the website is free for everyone and we like to keep it that way! If you like TinyPNG please contribute by making a donation
+
+WEB
+Overview
+Compress
+Convert
+Pricing
+DEVELOPER API
+Get API key
+How it works
+WordPress plugin
+API reference
+Ruby gem
+PHP library
+Node.js package
+Python package
+JAVA component
+.NET client library
+Third-party solutions
+Pricing
+CDN
+Overview
+How it works
+Documentation
+Pricing
+OTHER
+Contact support
+Knowledge base
+Blog
+Jobs
+Donate
+Page analyzer
+Make integration
+Zapier integration (beta)
+Cookie preferences
+FOLLOW US
+
+By using this site you accept the terms of use.
+
+English
+中文

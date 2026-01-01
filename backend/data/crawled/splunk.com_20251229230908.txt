@@ -1,0 +1,369 @@
+Platform
+Security
+Observability
+Industries
+Resources
+Pricing
+Support
+Log In
+Trials & Downloads
+AI-Powered
+Security and Observability
+
+
+Revolutionize digital resilience for AI, with AI.
+ 
+
+Request a demo
+Splunk is now a Cisco company 
+Find Out More
+Trusted by leaders worldwide
+
+Build digital resilience with Splunk
+
+Operate securely and reliably at any scale, no matter how complex your digital ecosystem, with the industry-leading, unified security and observability platform.
+
+AI-native data platform
+
+Gain real-time insights from cross-domain machine data, wherever it resides, and manage the entire machine data lifecycle to reduce costs — powered by AI and agentic workflows.
+
+ 
+
+Explore Splunk Platform
+AI-powered security
+
+Streamline SecOps with unified threat detection, investigation, and response (TDIR), correlate and enrich alerts with threat intelligence, and defend against threats with AI precision and speed.
+
+ 
+
+Explore security
+AI-powered observability
+
+Monitor and troubleshoot across any environment, stack, or network, optimize performance based on business impact, and accelerate detection and response with agentic AI.
+
+ 
+
+Explore observability
+
+AI built for security and observability
+
+Detect, investigate, and respond at the speed of AI.
+
+Use natural language to gain deep insights across operational data, troubleshoot and streamline workflows with agentic AI, build and deploy AI models, and secure and observe AI applications.
+
+Explore Splunk AI
+
+Accelerate value with 2,000+ integrations, apps, and add-ons
+
+Splunk makes connections easy.
+
+Whether you run workloads in AWS, Azure, GCP, private clouds, or on-premises, Splunk seamlessly ingests logs, metrics, traces, and events — regardless of source or format. With built-in support for OpenTelemetry, SDKs, and agents, you can instrument applications your way. Connections to business applications, databases, and IT services ensure your data is available where you need it most.
+
+Visit Splunkbase marketplace
+Customer success with Splunk
+
+See why the world’s leading enterprises trust Splunk to help keep their digital systems secure and reliable.
+
+View more customer stories
+
+CUSTOMER STORY
+McLaren Racing Accelerates Decision-Making with Splunk
+Read the story
+
+Splunk is very critical in both our on-track and off-track performance.
+
+ 
+Zak Brown, CEO, McLaren Racing
+100kHz
+data per second
+300
+telemetry sensors
+CUSTOMER STORY
+Progressive Protects Customers and Revenue with Splunk
+Read the story
+
+If we can show that monitoring was able to pick up prior to a service disruption, we’re able to show that the investments we make in the monitoring tool are giving the business value.
+
+ 
+Jon Moore, Domain Architect, Progressive Insurance
+$120B
+in market capitalization protected
+8M
+traces and 50M spans captured
+CUSTOMER STORY
+Singapore Airlines Elevates Customer Experience with Splunk
+Read the story
+
+With Splunk, Singapore Airlines can now find and fix issues faster — maximizing service uptime, optimizing customer experience, and keeping the brand’s reputation sky-high.
+
+ 
+75%+
+faster issue detection
+90%
+fewer backend issues
+CUSTOMER STORY
+Carrefour Responds to Security Threats 3x Faster with Splunk Cloud Platform
+Read the story
+
+We get so much value from Splunk. It maximizes the insights we gain from analyzing detection use cases, rather than wasting time creating rules or struggling with a tool that’s too complicated.
+
+ 
+Romaric Ducloux, SOC Analyst, Carrefour
+3x
+faster threat response times
+€10B
+($10.45B) projected in e-commerce sales by 2026
+CUSTOMER STORY
+Children's National Hospital Utilizes Splunk for Complete Threat Detection, Investigation, and Response
+Read the story
+
+By bringing all that valuable telemetry into the Splunk environment, we gain the visibility needed to protect data, no matter where it lives.
+
+ 
+Nathan Lesser, CISO, Children's National Hospital
+40%
+increase in detection of threats
+25%
+increase in analyst productivity
+CUSTOMER STORY
+McLaren Racing Accelerates Decision-Making with Splunk
+Read the story
+
+Splunk is very critical in both our on-track and off-track performance.
+
+ 
+Zak Brown, CEO, McLaren Racing
+100kHz
+data per second
+300
+telemetry sensors
+CUSTOMER STORY
+Progressive Protects Customers and Revenue with Splunk
+Read the story
+
+If we can show that monitoring was able to pick up prior to a service disruption, we’re able to show that the investments we make in the monitoring tool are giving the business value.
+
+ 
+Jon Moore, Domain Architect, Progressive Insurance
+$120B
+in market capitalization protected
+8M
+traces and 50M spans captured
+CUSTOMER STORY
+Singapore Airlines Elevates Customer Experience with Splunk
+Read the story
+
+With Splunk, Singapore Airlines can now find and fix issues faster — maximizing service uptime, optimizing customer experience, and keeping the brand’s reputation sky-high.
+
+ 
+75%+
+faster issue detection
+90%
+fewer backend issues
+CUSTOMER STORY
+Carrefour Responds to Security Threats 3x Faster with Splunk Cloud Platform
+Read the story
+
+We get so much value from Splunk. It maximizes the insights we gain from analyzing detection use cases, rather than wasting time creating rules or struggling with a tool that’s too complicated.
+
+ 
+Romaric Ducloux, SOC Analyst, Carrefour
+3x
+faster threat response times
+€10B
+($10.45B) projected in e-commerce sales by 2026
+CUSTOMER STORY
+Children's National Hospital Utilizes Splunk for Complete Threat Detection, Investigation, and Response
+Read the story
+
+By bringing all that valuable telemetry into the Splunk environment, we gain the visibility needed to protect data, no matter where it lives.
+
+ 
+Nathan Lesser, CISO, Children's National Hospital
+40%
+increase in detection of threats
+25%
+increase in analyst productivity
+CUSTOMER STORY
+McLaren Racing Accelerates Decision-Making with Splunk
+Read the story
+
+Splunk is very critical in both our on-track and off-track performance.
+
+ 
+Zak Brown, CEO, McLaren Racing
+100kHz
+data per second
+300
+telemetry sensors
+
+A Leader in SIEM and Observability Platforms
+
+Splunk is the only vendor named a Leader in Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM) and a Leader in Gartner® Magic Quadrant™ for Observability Platforms.
+
+ 
+
+A Leader 11 consecutive times for SIEM
+A Leader 3 consecutive times for Observability Platforms
+
+ 
+
+Get the SIEM report
+Get the observability report
+Trending industry research
+State of Observability 2025
+
+See how modern observability practices help businesses innovate faster, respond smarter, and unlock competitive advantage.
+
+Read the e-book
+State of Security 2025
+
+Learn how security teams can transform their SOCs to overcome skills gaps, new threats, and internal inefficiencies.
+
+Download the research
+The CISO Report 2025
+
+Explore how CISOs and their boards can bridge divides on top priorities, budgeting, compliance approaches, and success metrics.
+
+Discover CISO insights
+Splunk use cases and solutions
+
+Splunk’s extensible data platform powers industry-leading security and observability solutions, plus custom applications. Here are just a few use cases and solutions.
+
+ 
+
+Artificial intelligence
+
+Advanced threat detection
+
+Fraud prevention
+
+AI-driven incident prediction (AIOps)
+
+Application performance monitoring (APM)
+
+Alert noise reduction
+
+Artificial intelligence
+
+Boost productivity
+
+Observe and secure your AI
+
+Build AI on your Splunk data
+
+Predict, detect, investigate, and respond at the speed of AI — for security and observability. Boost productivity with agentic AI and AI assistants, and build agentic apps on your data in Splunk using MCP.
+
+ 
+
+Learn more about Splunk AI
+See why customers trust Splunk
+DECEMBER 04, 2024
+Security excellence and ITOps insights at your fingertips in a single place
+We use Splunk Cloud to aggregate logs from various cloud and on-premise applications and services into a single place for security and IT operations monitoring.
+Product: 
+Splunk Cloud Platform
+Read full review
+MAY 03, 2025
+Provides real-time visibility for improved operational performance
+I can see any logs or anything related to the server or services we want to monitor, and the metrics are a good function.
+Product: 
+Splunk Observability Cloud
+Read full review
+MAY 10, 2025
+Correlation engine and alert features significantly reduce alert volume
+I find Splunk Enterprise Security invaluable for reducing alert volume and speeding up security investigations with a powerful correlation engine.
+Product: 
+Splunk Enterprise Security
+Read full review
+Get started with Splunk
+
+Discover Splunk products and build digital resilience for the agentic AI era.
+
+Contact us to request a demo
+
+ 
+
+ 
+
+ 
+
+Gartner, Magic Quadrant for Security Information and Event Management, Andrew Davies, Mitchell Schneider, Eric Ahlm, Rustam Malik, 8 May 2024.
+
+
+Gartner, Magic Quadrant for Observability Platforms, Gregg Siegfried, Matt Crossley, Padraig Byrne, Andre Bridges, Martin Caren, 7 July 2025.
+
+ 
+
+GARTNER is a registered trademark and service mark of Gartner and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.
+
+ 
+
+Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+COMPANY
+About Splunk
+Careers
+How Splunk Compares
+Leadership
+Newsroom
+Partners
+Splunk Policy Positions
+SURGe
+Why Splunk?
+PRODUCTS
+Free Trials & Downloads
+Pricing
+View All Products
+SPLUNK SITES
+.conf
+Documentation
+Investor Relations
+Training & Certification
+Splunk Store
+Videos
+View All Resources
+LEARN
+What Is SIEM?
+Splunk Universal Forwarder
+OpenTelemetry: An Introduction
+Metrics For The SOC
+What Is Observability?
+IT & Systems Monitoring: An Overview
+Reliability Metrics
+LLMs vs SLMs: What’s The Difference?
+IT & Tech Spending For 2025
+View All Articles
+CONTACT SPLUNK
+Contact Sales
+Contact Support
+USER REVIEWS
+Gartner Peer Insights™
+PeerSpot
+TrustRadius
+LANGUAGES
+Deutsch
+Francais
+日本語
+한국어
+体中文
+繁體中文
+Splunk Global Footer Logo
+Twitter
+Facebook
+Linked In
+Youtube
+Instagram
+Legal
+Privacy
+Sitemap
+Cookies / Do not sell or share my personal data
+Website Terms of Use
+Modern Slavery
+
+© 2005 - 2025 Splunk LLC All rights reserved.
+
+Cookies allow us to optimise your use of our website. We also use third-party cookies for advertising and analytics. Please read our Privacy Statement and Cookie Notice for more information.
+Manage cookie settings
+Reject
+Accept

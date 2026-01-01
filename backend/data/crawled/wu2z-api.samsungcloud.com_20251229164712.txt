@@ -1,0 +1,1 @@
+{"rcode":40400000,"rmsg":"API Not Found","details":{"serverName":"apigw","path":"/","timestamp":"2025-12-29T07:47:10.973Z","traceId":"p2an2eprx-s085126_38_1766933226635_18264705","errors":[{"reason":"API Not Found"}]}}

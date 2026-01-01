@@ -1,0 +1,139 @@
+Products
+
+Geocoding
+
+Convert coordinates to addresses
+
+Maps
+
+Beautiful, customizable map tiles
+
+Routing
+
+Plan optimal routes for assets
+
+Documentation
+
+API Reference, Samples
+
+PricingDemo
+Log InSign Up
+Affordable Google Maps alternative for your website or app
+
+Save upto 92% on your monthly bill with our Geocoding, Maps & Routing APIs.
+
+Trusted by 100K+ developers
+
+99.99% uptime
+
+US & EU Datacenters
+
+Try demoStart for free
+
+Quality Human support • US & EU Datacenters • 99.99% uptime
+
+Explore our Products
+Geocoding
+
+Transform your location data to street address and back with our robust & scalable geocoding APIs
+
+learn more
+
+Maps
+
+Visualize your location data on beautiful, scalable, and customizable maps for websites/ apps. Go with Static or Dynamic Maps, pick a theme that fits, and get started.
+
+
+learn more
+
+Routing
+
+Get from point A to point B with our comprehensive routing, distance matrix & stick to roads API.
+
+
+learn more
+
+Built for Developers
+Affordable
+
+Pricing that is fair. No complicated agreements, no long-term commitments & no hidden charges.
+
+Flexible Licensing
+
+Use with or without a map and get custom rate-limits, payment options, & SLA on demand.
+
+Scalable
+
+Sky's the limit. Effortlessly navigate between plans that allow 10,000 calls per day upto 10 billion.
+
+Worldwide Coverage
+
+From New York to Tokyo, get world-wide coverage powered by data from OpenStreetMap, OpenAddresses and other sources.
+
+Easy to install and to use. A reliable and affordable alternative to Google Maps API.
+
+Andre Zayarni,
+
+CTO & CPO, MoBerries GmbH
+
+LocationIQ provides a very reliable, cheap, and well-documented API. I definitely recommend this product over other options.
+
+Parth Shah,
+
+Software Engineer, eDelta
+
+It is very easy to set-up and works very well. I am impressed at how Reliable LocationIQ has been for us at EnVsion.
+
+Eddie Forson,
+
+Co-Founder, EnVsion
+
+Easy to implement, well documented, reliable address data, very affordable.
+
+Clive Kemp,
+
+Director, Detonation IoT
+
+The service just works. All the time. And it's blazing fast! You'll not be disappointed.
+
+Bart Debruyn,
+
+Independent Entrepreneur, Evobel
+
+Use cases
+Asset Tracking
+
+Show vehicles or devices on a map, with a street address and find optimal routes for your customer's fleet.
+
+Websites & Apps
+
+Create Store locators, add address autofill to your forms, send order updates to users with a physical address and a map image.
+
+Business Intelligence
+
+Leverage LocationIQ’s geolocation APIs to make sense of the ‘Where’ element of your data.
+
+Start building with LocationIQ
+
+Global location services don’t need to cost the Earth!
+
+Sign UpContact Us
+
+Affordable, Scalable & Reliable location services since 2013. We proudly serve 100k+ developers who make billions of requests each day.
+
+EN
+DE
+FR
+ES
+Products
+GeocodingReverse GeocodingMapsRoutingPricing
+Switch from
+Google MapsMapboxMapquest
+COMPANY
+AboutContact UsBlogCareers
+RESOURCES
+API DocumentationAPI StatusUser DashboardHelpLocation Glossary
+
+© 2025 LocationIQ
+
+Privacy policyTerms of UseDPA / GDPRAttribution

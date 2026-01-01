@@ -1,0 +1,265 @@
+Categories
+Compare
+Trends
+Documentation
+News
+Search
+Find actively maintained & popular open source software libraries for the Ruby programming language
+
+The Ruby Toolbox is a catalog of all Rubygems that keeps track of popularity and health metrics to help you choose a reliable library
+
+Browse by category
+Search
+Categories
+
+To give you an overview of what open source libraries are available for a given task we group projects for common problems into categories.
+
+The catalog itself is available for contributions on GitHub.
+
+Browse all categories
+Search
+
+With our search you can find Ruby open source libraries beyond what is listed in our categories.
+
+We index all Rubygems published on Rubygems.org.
+
+Try our search
+Project Popularity
+
+We sort projects based on their popularity in the Ruby community - Rubygem downloads as well as popularity of the source code repository on GitHub.
+
+This helps to identify projects that have a big user base, which is an indicator of project stability, maturity and maintenance.
+
+Project Health
+
+We assess the maintenance status of projects based on recent activity like package releases, commit activity or open issue counts and display colored indicators based on that.
+
+This gives you a quick overview of the health of a project.
+
+Popular Categories 
+Browse all categories
+
+Web App Frameworks
+
+Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs
+rails
+rack
+and 27 more
+
+Scripting Frameworks
+
+Libraries that simplify the writing of command-line interfaces for your Ruby programs
+rake
+thor
+and 6 more
+
+Amazon Web Services
+
+Official and community-built utilities for working with Amazon's AWS cloud services
+aws-sdk-core
+aws-sdk-s3
+and 188 more
+
+JSON Parsers
+
+JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects
+json
+multi_json
+and 7 more
+
+Test Frameworks
+
+Frameworks for writing automated tests for your software
+minitest
+rspec
+and 20 more
+
+HTTP clients
+
+Easily interact with HTTP-based services
+faraday
+multipart-post
+and 33 more
+
+E-Mail Delivery
+
+Easily send e-mails from your Ruby programs
+actionmailer
+mail
+and 6 more
+
+Template Engines
+
+Generate HTML and other markup based on dynamic content
+tilt
+erubis
+and 29 more
+
+Browser testing
+
+Write and run automated tests of your web app in a real-world browser environment
+selenium-webdriver
+capybara
+and 18 more
+
+JavaScript Tools
+
+Utilities for working with JavaScript in Ruby
+sprockets
+coffee-script
+and 23 more
+
+Ruby Core Extensions
+
+Libraries that enhance Ruby's core classes like Hash or String with additional features
+activesupport
+hashie
+and 23 more
+
+Web Servers
+
+Expose HTTP-based services from Ruby. Usually these are used with a rack-based Ruby web framework.
+puma
+webrick
+and 14 more
+
+Concurrent Processing
+
+Tools that simplify the writing of concurrent Ruby programs
+concurrent-ruby
+eventmachine
+and 8 more
+
+Syntax Highlighting
+
+coderay
+rouge
+and 12 more
+
+Web Authentication
+
+Handle the authentication of users in web applications written in frameworks like Rails
+devise
+omniauth
+and 23 more
+
+API Builders
+
+Tools for streamlined API development in Ruby
+jbuilder
+representable
+and 30 more
+Trending Projects
+See all trending projects
+
+fastqr
+
+Generate 1,000 QR codes in **0.37 seconds**. Full UTF-8 support. Custom colors. Logo embedding. Precise size control.
+36,695
+875.15%
+
+rails_mail
+
+A Rails engine that provides a database-backed delivery method for Action Mailer, primarily intended for local development and staging environments. It captures emails sent through your Rails application and provides a web interface to view them.
+37,219
+389.2%
+
+turbopuffer
+
+Ruby library to access the Turbopuffer API
+25,933
+166.89%
+
+textstat
+
+Ruby gem to calculate readability statistics of a text object - paragraphs, sentences, articles
+49,910
+75.99%
+
+temporalio
+
+Temporal.io Ruby SDK
+21,596
+33.02%
+
+rb_snowflake_client
+
+Using the HTTP V2 Api for Snowflake runs queries & creates native Ruby objects.
+28,756
+11.54%
+
+solargraph-rspec
+
+RSpec is a testing tool of choice for many Ruby developers. This plugin provides code completion and other features for RSpec files in Solargraph.
+11,979
+10.38%
+
+zip_kit
+
+Stream out ZIP files from Ruby. Successor to zip_tricks.
+146,612
+9.86%
+Recently Added Categories 
+Browse all categories
+
+Rails Search Filters
+
+Simplify Rails queries and filtering
+ransack
+filterrific
+and 7 more
+
+Rails Search Engines
+
+Supports search engines and full-text search.
+elasticsearch
+searchkick
+and 23 more
+
+Command Line Logger
+
+Logging utility to output messages in the terminal specialized for CLI program (not generic app or system logger)
+tty-logger
+pretty_puts
+and 1 more
+
+Chat Bots & ChatOps
+
+Tools and frameworks to create chat bots.
+lita
+rodbot
+NAVIGATION
+Home
+Categories
+Trends
+Documentation
+News
+Search
+WHO
+
+The Ruby Toolbox is brought to you from Hamburg since 2009 by Christoph Olszowka
+
+If you want to personally say hi or complain, you can do so via mail to me at christoph (at) ruby-toolbox (dot) com
+
+You can also find me on Twitter as @thedeadserious and on Github
+
+CONTRIBUTING
+
+You can find the source code for this site on github.
+
+The categorization of gems is handled via the catalog, which you can also find on Github
+
+Contributions welcome 
+!
+
+LINKS
+Code of Conduct
+Community Chat Room
+RSS Feed
+rubytoolbox/rubytoolbox
+rubytoolbox/catalog
+Production Database Exports
+Sponsors
+DEVELOPMENT FUNDED BY
+MONITORED WITH
+THANK YOU!

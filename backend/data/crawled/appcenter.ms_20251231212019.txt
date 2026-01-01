@@ -1,0 +1,10 @@
+Visual Studio App Center | iOS, Android, Xamarin & React Native Skip to main content Visual Studio App Center Documentation 🚀 Get started Visual Studio App Center was retired on March 31, 2025, except for the Analytics and Diagnostics features, which will continue to be supported until June 30, 2026. Learn more. Welcome to App Center. Continuously monitor apps for every platform. Start free Sign In Pricing Blog Documentation Collect real-time diagnostics, prioritize and fix critical issue. Integrate the App Center SDK for automatic crash reporting. Build your
+                        app in App Center, and get automatic symbol
+                        management for richer reports. Crash reports are grouped by common cause, highlighting the relevant stack
+                        frame so you can locate errors by file and line number. Search specific users'
+                        crashes and browse individual reports for event breadcrumbs and custom data attachments. App analytics, made for developers. Developer-friendly analytics make it easy to discover how to improve your
+                        apps. Live analytics for sessions, events, crashes, and more See streaming activity for sessions and events immediately, and
+                                collect metrics that become more
+                                useful over time. Who? What? Where? When? Why? How? Is your audience growing? What devices and operating systems are most
+                                common? What features are popular?
+                                Get straightforward answers to the questions you care about. Follow VS App Center Made with ❤️ by Microsoft Terms of use Privacy & cookies Trademarks © Microsoft

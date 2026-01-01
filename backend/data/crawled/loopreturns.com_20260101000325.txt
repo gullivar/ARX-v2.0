@@ -1,0 +1,461 @@
+Returns
+Tracking
+Resources
+Partners
+Pricing
+Sign inBook a demo
+
+Returns
+
+Retain more revenue
+
+Returns
+
+Profitable returns
+
+Exchanges
+
+Turn refunds into exchanges
+
+Instant Exchanges
+
+Instant exchanges risk-free
+
+Warranties
+
+Streamline your warranty claims
+
+Shop Now & Later
+
+Turn exchange into shopping
+
+Point of sale
+
+Offline returns and exchanges
+
+Prevent fraud & optimize costs
+
+Workflows
+
+Customize your return policy
+
+Fraud and abuse
+
+Smart fraud detection
+
+Checkout+
+
+Cover your return costs
+
+Logistics
+
+Save on shipping costs
+
+Drive customer loyalty
+
+Tracking
+
+Track order status
+
+Analytics
+
+Unlock actionable data
+
+Tracking
+
+Improve customer experience
+
+Tracking
+
+Track order status
+
+Delivery Promise
+
+Delivery estimates
+
+Resources
+
+Top resources
+
+Blog
+
+Latest posts and insights
+
+Customers
+
+Featured case studies
+
+Loop Intelligence (NEW!)
+
+AI built for ecommerce
+
+Events
+
+Where to meet Loop
+
+In the News
+
+Read the latest news
+
+Compare
+
+How Loop is better
+
+How Loop works
+
+Try the Loop experience
+
+Swipe files
+
+Get inspiration from brands like you
+
+Loop for Shopify
+
+Explore the power of Loop x Shopify
+
+By market
+
+United Kingdom
+
+Loop for UK brands
+
+Australia
+
+Loop for AU brands
+
+Help & support
+
+Help Center
+
+Find help quickly
+
+Status
+
+System status
+
+API Docs
+
+Learn from our docs
+
+Partners
+
+Our Partner Ecosystem
+
+Loop's Partner Hub
+
+Learn more about our partner ecosystem
+
+Technology Partners
+
+Explore Loop's 120+ integration partners
+
+Agency Partners
+
+See which agencies Loop partners with
+
+Logistics Partners
+
+Meet the logistics experts Loop partners with
+
+Pricing
+
+Win peak season 2025 - Strategies for the holiday season
+
+·
+
+Learn more
+
+The post-purchase platform trusted by 5,000+ DTC brands
+Loop’s integrated platform connects returns, tracking, claims, and fraud prevention - optimizing costs, protecting margins, and keeping customers coming back.
+Book a demoSee how Loop works
+Tracking
+Returns
+
+Custom returns
+
+Create return experiences that fit your brand
+
+Delight your customers with returns that put money back in your pocket. Loop’s automated, easy-to-use post-purchase tools make returns just as fun as shopping.
+
+Choose an item to start a return or exchange
+
+Basic T-shirtModel 1US$56Blue shirtModel 2US$56
+
+Interact
+
+Custom portalAnalyticsExchangesShop NowDrop offOrder tracking
+
+Your customer can start their return anytime - whether your team is online, offline, or offering personal support to other shoppers.
+
+All-in-one platform
+
+One platform to manage all your operations
+
+Reduce fraud, retain more revenue and increase your customer lifetime value on a fully integrated platform.
+
+Checkout+
+Discover productDiscover
+
+Cover the cost of return shipping and Loop’s industry-leading software with our new returns coverage model.
+
+Returns
+Discover productDiscover
+
+Automate and optimize returns. Save time and money while delivering an unmatched customer experience.
+
+Tracking
+Discover productDiscover
+
+Keep your shoppers posted with transparent order, return and exchange status updates.
+
+Fraud Solutions
+Discover productDiscover
+
+Mitigate return policy abuse and fraud with automated fraud risk detection.
+
+Workflows
+
+Build the return policy, your way
+
+With Workflows you can customize your return experience with an intuitive no-code editor using limitless rules based on product, customer, order or return attributes.
+
+Condition
+
+Order value
+
+is less than
+
+$10
+
+Condition
+
+Product type
+
+is
+
+socks
+
+Condition
+
+Order value
+
+is less than
+
+$50
+
+Condition
+
+Customer
+
+return count
+
+grater than 3
+
+Condition
+
+Customer tag
+
+VIP
+
+Condition
+
+Have tags
+
+been
+
+removed
+
+Action
+
+Reject return
+
+Action
+
+Bonus credit
+
+$20
+
+Action
+
+Manual review
+
+Action
+
+Label fee
+
+is
+
+$5
+
+Action
+
+Keep item
+
+Action
+
+Label fee
+
+is
+
+$2
+
+Optimize operationsDrive loyaltyPrevent fraudRetain revenue
+
+Save time and money by optimizing post purchase experiences. Use outcomes such as Keep Item or Donate to mitigate costs on items that you can't resell.
+
+Extensibility
+
+Integrated with the apps you use and love
+
+Loop integrates with hundreds of the most popular apps across marketing, logistics and shipping. If you don’t find it, you can build your own one using our API.
+
+Integrations
+
+Loop integrates seamlessly with hundreds of the most popular Shopify apps across marketing, logistics, and shipping.
+
+Learn more
+API
+
+Build your own integration using our public API and get started in minutes with our easy to follow documentation.
+
+Learn more
+Point of Sale (POS)
+
+With our point of sale app (POS), you can prompt shoppers who start a return online to drop-off in-store, saving time and money.
+
+Learn more
+
+Global scale
+
+Helping thousands of brands across the globe
+
+We manage millions of returns every month for some of the largest Shopify brands. This scale has enabled us to retain more than one billion in sales for our partners.
+
+$2.4B+
+
+in sales retained
+
+18
+
+countries
+
+2M+
+
+returns per month
+
+5k
+
+brands
+
+Enterprise service delivery
+
+Built for the next era of your business
+
+We back your business growth, regardless of the size of the challenges ahead. Our top-tier security and compliance standards got you covered, so you can focus on your business.
+
+<2
+
+Hours response time
+
+24/7
+
+Support every day, all week
+
+98%
+
+Merchants describe Loop as great
+
+B
+Expert Support
+
+Leverage a team of experts to support your onboarding and sustained growth on Loop.
+
+Single Sign On (SSO)
+
+Leverage SSO to increase security and streamline access.
+
+Enterprise security
+
+Your security and compliance are top of mind for us.
+
+Two Factor Authentication (2FA)
+
+Each user's self-serve multifactor settings are enforced automatically during sign-in.
+
+Built for scale
+
+You can rely on our robust systems to manage millions of returns per month.
+
+Success cases
+
+Top brands use Loop to stay ahead
+
+We’ve helped over 5,000 brands retain more than $2.4 Billion in sales.
+
+Give your shoppers what they want
+
+With Loop, your brand can offer everything from refunds to direct exchanges to shopper incentives and more. Even better? These exchanges build your business.
+
+Book a demo
+
+Returns management for ecommerce brands
+
+Stay in the loop
+
+Subscribe for product updates and Loop’s biweekly newsletter.
+
+Product
+
+Returns
+Exchanges
+Tracking
+Delivery Promise
+Instant Exchanges
+Logistics
+Workflows
+Shop Now & Later
+Analytics
+Point of Sale
+Warranties
+Fraud Solutions
+Intelligence
+
+Resources
+
+Pricing
+Integrations
+Blog
+Case Studies
+Loop for Shopify
+Help center
+Status
+Developers
+
+Compare
+
+Loop vs Redo
+Loop vs Narvar
+Loop vs Aftership
+Loop vs ReturnGo
+Loop vs Swap
+Loop vs ZigZag
+Loop vs Refundid
+
+Markets
+
+United Kingdom
+Australia
+
+Company
+
+About Us
+In The News
+Contact Us
+FAQs
+Careers
+Security
+Terms of Service
+Data Processing Addendum
+Cookie Preferences
+
+Copyright 2025 Loop Returns

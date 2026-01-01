@@ -1,0 +1,121 @@
+ Facebook  Twitter
+Search
+Home Checklist FAQ GDPR News & Updates
+Complete guide to GDPR compliance
+
+GDPR.eu is a resource for organizations and individuals researching the General Data Protection Regulation.
+Here you’ll find a library of straightforward and up-to-date information to help organizations
+achieve GDPR compliance.
+
+GDPR Overview
+
+If you’re new to the GDPR, the information in this section will help you get up to speed about the European Union’s data protection law.
+
+What is GDPR, the EU’s new data protection law? 
+
+What is the GDPR? Europe’s new data privacy and security law includes hundreds of pages’ worth of new requirements for organizations around the world. This GDPR overview will help…
+
+Everything you need to know about the “Right to be forgotten” 
+
+Also known as the right to erasure, the GDPR gives individuals the right to ask organizations to delete their personal data. But organizations don’t always have to do it….
+
+What are the GDPR Fines? 
+
+GDPR fines are designed to make non-compliance a costly mistake for both large and small businesses. In this article we’ll talk about how much is the GDPR fine and…
+
+GDPR Compliance
+
+The articles in this section provide simple and actionable insights to help you and your organization comply with the GDPR.
+
+Data protection and working remotely 
+
+The paradigm shift toward remote working began even before the COVID-19 pandemic broke out. Since then, local and national directives have confined large portions of the population to their…
+
+Cookies, the GDPR, and the ePrivacy Directive 
+
+Cookies are an important tool that can give businesses a great deal of insight into their users’ online activity. Despite their importance, the regulations governing cookies are split between…
+
+Everything you need to know about GDPR compliance 
+
+We created GDPR.eu to simplify GDPR compliance for small- and medium-sized businesses. This guide will help you find all the tools you need.
+
+News & Updates
+How the GDPR could change in 2020
+
+GDPR regulators have been busy. They issued hundreds of fines to companies, including Google and Facebook, more than €114 million in the first 20 months of GDPR. Later this…
+
+February 20, 2020
+Read more 
+Italy fines Eni Gas e Luce €11.5 million for multiple GDPR violations
+
+On Jan. 17, 2020, the Italian Supervisory Authority (ISA) announced it had imposed two separate fines of €8.5 million and €3 million on Eni Gas e Luce (EGL), an…
+
+February 18, 2020
+Read more 
+What is the LGPD? Brazil’s version of the GDPR
+
+Brazil passed the General Data Protection Law in 2018, and it will come into effect February 2020. This article examines the GDPR vs. the LGPD, how it differs, and…
+
+July 31, 2019
+Read more 
+See archive
+GDPR compliance checklist
+
+The GDPR is especially daunting for SMEs. Use our GDPR compliance checklist to focus your efforts and ensure that you understand the practical steps required to avoid penalties.
+
+Checklist
+GDPR Forms and Templates
+
+We've created some customizable templates for the most common GDPR forms that companies need in order to be compliant.
+
+ Data Processing Agreement 
+ Right to Erasure Request Form 
+ Privacy Policy 
+About GDPR.EU
+
+ 
+
+GDPR.EU is a website operated by Proton AG, which is co-funded by Project REP-791727-1 of the Horizon 2020 Framework Programme of the European Union. This is not an official EU Commission or Government resource. The europa.eu webpage concerning GDPR can be found here. Nothing found in this portal constitutes legal advice.
+
+
+
+Getting Started
+
+
+What is GDPR?
+What are the GDPR Fines?
+GDPR Compliance Checklist
+
+
+Templates
+
+
+Data Processing Agreement
+Right to Erasure Request Form
+Writing a GDPR-compliant privacy notice
+
+
+Technical Review
+
+
+Data Protection Office Guide
+GDPR and Email
+Does GDPR apply outside of the EU
+
+
+About Us
+
+
+
+GDPR.eu is co-funded by the Horizon 2020 Framework Programme of the European Union and operated by Proton AG.
+
+ 
+
+© 2025 Proton AG. All Rights Reserved.
+
+
+Terms and Conditions     Privacy Policy
+
+GDPR compliance is easier with encrypted email
+
+Learn more 

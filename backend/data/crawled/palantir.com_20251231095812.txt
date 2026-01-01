@@ -1,0 +1,164 @@
+/sitemap.xml
+
+Read CEO Alex Karp’s Letter to Shareholders
+
+Skip to Content
+KR
+AIP
+Foundry
+Gotham
+Apollo
+/ AIP Bootcamps
+
+.
+
+AI 기반 운영 및 의사결정을 실행하세요.
+공장 현장에서 전쟁 지역까지 AI기반 의사결정을 지원합니다.
+우리는 퍼블릭 및 사설 네트워크 전반에 걸쳐 인공 지능을 생성하고 관리할 수 있도록 지원하는 업계 최고 소프트웨어를 구축합니다.
+우리는 전례 없는 혼란의 시대에 살고 있습니다. Palantir는 신뢰할 수 있고 안전한 의사 결정을 위해 소프트웨어를 활용하고 전쟁 상황에서 승리해야 하는 고객의 실존적 필요성을 인식하고 있습니다. 조직은 점진적인 효율성에만 만족할 수 없습니다. 기업에 가장 중요한 모든 것의 핵심에 인텔리전스를 적용하세요.
+인공지능을 향한 팔란티어의 전념에 대해 더 자세히 알아보세요.
+→
+팔란티어를 선택해야 하는 이유
+———
+가치 실현 시간
+
+팔란티어의 플랫폼은 가치를 즉시 제공합니다.
+
+수개월, 수년이 아닌 몇 일 안에 가치를 창출해보세요.
+
+↳ 플랫폼 살펴보기
+———
+전사 내 인공지능 주도형 의사결정
+
+전사적으로, 가장 중요한 의사결정과 운영의 핵심에 인텔리전스를 적용하세요.
+
+데이터 그리고 인공지능 주도형 의사결정을 통해 지속 가능한 경쟁 우위를 확보할 수 있습니다.
+
+↳ 상세 분야 살펴보기
+———
+풀스택 상호운용성
+
+사용자가 있는 곳에서 바로 시작할 수 있습니다.
+
+기존 데이터 시스템을 자동으로 연결해보세요.
+
+↳ 상호운용성 살펴보기
+———
+다계층 보안 및 데이터 개인 정보 보호
+
+팔란티어의 보안 접근 방식으로 협업 강화를 용이하게 해보세요.
+
+인텔과 방위 분야의 창립적 뿌리를 가진 팔란티어는 FedRamp, IL5 등의 가장 엄격한 표준을 준수하는 인증과 증명을 갖추었습니다.
+
+↳ 보안 살펴보기
+데모 요청하기
+
+전세계 50개 이상의 분야 및 산업과 함께 합니다.
+
+문의하기
+→
+카테고리를 정의하는 기술
+Palantir, AI, 데이터 사이언스, 머신러닝 부문 No. 1 공급업체로 선정
+
+— Dresner Advisory Services, 2023 Wisdom of Crowds AI, Data Science, and Machine Learning Market Study
+
+↳ 풀버전 리포트(영어)를 확인해보세요.
+
+Palantir, ModelOps No. 1 공급업체로 선정
+
+— Dresner Advisory Services, 2023 Wisdom of Crowds ModelOps Market Study
+
+↳ 풀버전 리포트(영어)를 확인해보세요.
+
+Palantir, 전세계 인공지능 소프트웨어 연구에서 시장 점유율 및 수익 No. 1 차지
+“Palantir는 시장 점유율과 수익 관점에서 글로벌 규모로 AI 분야에서 확실한 리더십을 입증했습니다... Palantir가 자사 플랫폼을 통해 가장 어려운 비즈니스 과제를 해결함으로써 어떻게 계속해서 경쟁 우위를 확보할 수 있을지 기대됩니다.”
+
+— Ritu Jyoti, IDC 그룹 부사장, AI and Automation
+
+↳ 보도자료(영어)를 확인해보세요.
+
+Palantir, 독립계 연구 기업에 의해 AI/ML 플랫폼 분야의 「리더」로 선정
+“Palantir는 복잡하고 가치가 높은 정부와 사기업을 위한 데이터 중심의 인텔리전스 애플리케이션을 구축하는 것을 근간으로 하고있습니다."
+
+— 『The Forrester Wave™: AI/ML Platforms, Q3 2022』
+
+↳ 풀버전 리포트(영어)를 확인해보세요.
+
+© 2025 Palantir Technologies Inc.
+
+All rights reserved.
+
+Cookies Settings
+US
+UK
+JP
+KR
+YOUTUBE
+X
+LINKEDIN
+GITHUB
+STORE
+분야
+Anti-Money Laundering
+Automotive & Mobility
+Data Protection
+Defense
+Energy
+Federal Health
+FedStart
+Financial Services
+Palantir for Builders
+Govt Financial Management
+Life Sciences
+Hospital Operations
+Intelligence
+Palantir HyperAuto
+Rail
+Readiness
+Retail
+Secure Collaboration
+Semiconductors
+Supply Chain
+Telecommunications
+Utilities
+고객 사례 연구
+Airbus
+Axel Springer
+Cleveland Clinic
+Concordance
+Doosan Infracore
+Fujitsu
+Jacobs
+Kinder Morgan
+NHS
+Pacific Gas & Electric
+Ringier
+Sonnedix
+SOMPO
+Swiss Re
+Tampa General Hospital
+World Food Programme
+기능
+AI + ML
+Data Integration
+Digital Twin
+Dynamic Scheduling
+Edge AI
+Marketplace
+MetaConstellation
+Pipeline Builder
+Process Mining
+Real-Time Alerting
+Streaming
+문서
+Platform Documentation
+Palantir Developers
+Security Bulletins
+Trust Center
+Modern Slavery Statement
+Cookies
+Privacy and Security
+Sustainability
+Human Rights Policy
+Terms of Use
+Sitemap

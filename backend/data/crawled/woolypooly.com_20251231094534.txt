@@ -1,0 +1,367 @@
+WoolyPooly
+Pool
+Calculator
+Hardware
+Software
+Exchanges
+RigsMonitor
+FAQ
+Blog
+Crypto Mining Pool
+ETHW
+ETHW
+Algorithm
+Ethash
+Online
+?
+Hashrate
+?
+Price
+0.5239$
+Min. payout
+?
+Connection
+ETC
+Algorithm
+Etchash
+Online
+?
+Hashrate
+?
+Price
+11.83$
+Min. payout
+?
+Connection
+KAS
+Algorithm
+HeavyHash
+Online
+?
+Hashrate
+?
+Price
+0.0438$
+Min. payout
+?
+Connection
+RVN
+Algorithm
+Kawpow
+Online
+?
+Hashrate
+?
+Price
+0.0068$
+Min. payout
+?
+Connection
+Trade Crypto Here (with NO KYC)
+Claim Up to $10000 + Airdrops
+Register
+CFX
+Algorithm
+Octopus
+Online
+?
+Hashrate
+?
+Price
+0.0706$
+Min. payout
+?
+Connection
+ERGO
+Algorithm
+Autolykos
+Online
+?
+Hashrate
+?
+Price
+0.5091$
+Min. payout
+?
+Connection
+CTXC
+Algorithm
+Cuckoo
+Online
+?
+Hashrate
+?
+Price
+0.0064$
+Min. payout
+?
+Connection
+Apply Now
+AE
+Algorithm
+Cuckoo
+Online
+?
+Hashrate
+?
+Price
+0.0067$
+Min. payout
+?
+Connection
+VTC
+Algorithm
+Verthash
+Online
+?
+Hashrate
+?
+Price
+0.0705$
+Min. payout
+?
+Connection
+MWC
+Algorithm
+Cuckatoo 31
+Online
+?
+Hashrate
+?
+Price
+23.25$
+Min. payout
+?
+Connection
+FIRO
+Algorithm
+FiroPow
+Online
+?
+Hashrate
+?
+Price
+1.35$
+Min. payout
+?
+Connection
+ALPH
+Algorithm
+Blake 3
+Online
+?
+Hashrate
+?
+Price
+0.1104$
+Min. payout
+?
+Connection
+RTM
+Algorithm
+GhostRider
+Online
+?
+Hashrate
+?
+Price
+0.0001$
+Min. payout
+?
+Connection
+MEWC
+Algorithm
+Meowpow
+Online
+?
+Hashrate
+?
+Price
+0$
+Min. payout
+?
+Connection
+RXD
+Algorithm
+Sha512256d
+Online
+?
+Hashrate
+?
+Price
+0.0001$
+Min. payout
+?
+Connection
+NEXA
+Algorithm
+NexaPow
+Online
+?
+Hashrate
+?
+Price
+5.572$
+Min. payout
+?
+Connection
+XNA
+Algorithm
+Kawpow
+Online
+?
+Hashrate
+?
+Price
+0$
+Min. payout
+?
+Connection
+OCTA
+Algorithm
+Ethash
+Online
+?
+Hashrate
+?
+Price
+0.1493$
+Min. payout
+?
+Connection
+KLS
+Algorithm
+KarlsenV2
+Online
+?
+Hashrate
+?
+Price
+0$
+Min. payout
+?
+Connection
+WART
+Algorithm
+PoBW
+Online
+?
+Hashrate
+?
+Price
+0.1153$
+Min. payout
+?
+Connection
+ZANO
+Algorithm
+ProgPowZ
+Online
+?
+Hashrate
+?
+Price
+9.89$
+Min. payout
+?
+Connection
+Xelis
+Algorithm
+XelisHash
+Online
+?
+Hashrate
+?
+Price
+1.039$
+Min. payout
+?
+Connection
+Decred
+Algorithm
+Blake 3
+Online
+?
+Hashrate
+?
+Price
+18.71$
+Min. payout
+?
+Connection
+Introducing Financial Opportunities
+WoolyPooly stands out as an exceptionally lucrative pool, concentrating on diminishing commission fees for both PPLNS and SOLO reward structures.
+Our Team
+Comprised of accomplished mining pool advocates, miners, entrepreneurs, and developers, our team brings diverse expertise to the table.
+High-Performance Infrastructure
+Our dedicated server systems boast high-speed connections and remarkably low latency, ensuring optimal performance.
+Profit-Oriented Cryptocurrencies
+Our primary focus lies in targeting profitable cryptocurrencies supported by active development and a promising long-term outlook. We prioritize excellent trading volume, a robust team, and seamless access to exchanges.
+Exploring Cryptocurrency Mining: Altcoin Mining Pool
+We host an impressive selection of cryptocurrencies, including - ETHW, ETC, CFX, Ergo, Cortex, etc. All are viable options for mining with your GPU software. To determine the most suitable choice for your specific rigs, consult our comprehensive mining calculator.
+Selecting the Right Mining Hardware
+When it comes to mining in general, you can choose from various hardware options: CPU (processor), GPU (video card), FPGA (specialized device), ASIC, and even mobile phones. There have been claims of mining using household appliances like vacuum cleaners and refrigerators, but we have yet to verify these methods. :)
+Getting Started with Mining
+Cryptocurrency mining, like any serious endeavor, demands dedication and attention to detail. It is possible to learn everything on your own, but initially, you will need to invest time in understanding the topic. First, decide on the type of mining you want to pursue: CPU, GPU, FPGA, or ASIC. This decision will determine the space required for your mining operation. If you only have access to an apartment, balcony, or garage, ASIC might not be suitable due to its noise levels. FPGA is an uncommon and challenging device to master, requiring significant investment and programming knowledge. As CPU mining yields lower returns, let's explore the final option.
+GPU Mining Pool (Mining with Video Cards)
+You can mine using both AMD and Nvidia graphics cards. Unlike CPU mining, you can use multiple GPUs in one rig (mining farm), ranging from 6 to 19 simultaneously. Generally, newer GPUs yield higher profits. To select the most suitable GPU, consult our mining calculator and the best video cards ranking.
+CPU Mining
+We have recently added CPU-mineable coins to our selection. All CPU miners are welcome to enjoy RTM mining on our pool.
+Pool Method Rewards
+WoolyPooly offers PPLNS and SOLO reward systems. We use a modified version of PPLNS; please consult the FAQ section for more information.
+PPLNS pools
+PPLNS, or Pay Per Last N Shares, calculates your payouts based on the shares you submitted during a shift. You receive payment only when a block is found. PPLNS is ideal for loyal pool members, as opposed to pool hoppers. Many pools, such as ethermine, miningpoolhub, 2miners, and nanopool, use PPLNS as their reward system.
+SOLO pools
+SOLO mining involves mining without other miners. We provide an independent connection to the node and calculate your payments based on the blocks you find.
+Pool Fees
+WoolyPooly features low mining pool fees, ranging from 0.9% and deducted from block rewards. Transaction fees are not applicable.
+Pool Ping
+Our dedicated servers are located worldwide, including the USA, Europe, Turkey, Brazil, Asia, China, Russia. Our average ping does not exceed 100 ms.
+Shares Diff
+Our pool automatically sets the diff specific to your rig, thanks to our Vardiff feature.
+Block Types
+You may encounter three different block types on our pool:
+Uncle Blocks
+Highlighted in blue, these blocks are found slightly later by another pool or miner. Nevertheless, we receive some bonuses. This is normal.
+Orphan Blocks
+Highlighted in red, these blocks are rejected by the network. It happens sometimes.
+Simple Blocks
+Not highlighted, these standard coin blocks have varying block rewards.
+Payouts
+Automatic payments are made once the minimum payout threshold is reached. Payment frequency is not time-dependent, allowing for multiple payments as desired.
+Exchanging Cryptocurrency
+Numerous exchanges have emerged worldwide, allowing for cryptocurrency exchanges. While some require verification or offer limited trading volumes and coin selections, we recommend Coinex.com as the most suitable option for our miners. To start mining on our pool, register, copy the coin address from the exchange to your miner, and begin mining.
+Legality of Cryptocurrency Mining
+To our knowledge, no laws currently prohibit cryptocurrency mining.
+OS (Operating Systems) for Cryptocurrency Mining
+Below is a list of commonly used operating systems for mining:
+Windows
+A relatively accessible OS where many miners begin their journey. Recommended components include Windows 10, an OS image on a hard drive or SSD, MSI Afterburner for video card overclocking, necessary drivers and libraries, and a miner with pool address and wallet in the .bat file. The most notable advantage is the RTX 30 series memory temperature display.
+HiveOS
+Our preferred choice and the most popular mining OS. It can be installed on a hard drive, SSD, or USB flash drive. HiveOS supports one free rig and four paid rigs. For mining, we recommend connecting to a local network, as HiveOS is not compatible with Wi-Fi transmitters. Mining setup is conducted through flight sheets, and all rigs are visible in the system dashboard. Use promo code WoolyPooly during registration to receive a $10 credit.
+RaveOS
+The third most popular mining OS, RaveOS is similar to HiveOS and offers one free rig. Payment can be made via credit card.
+MMPOS
+A mining OS based on Linux Ubuntu, MMPOS closely resembles HiveOS and RaveOS.
+Minerstat
+A visually appealing but unstable mining OS. Minerstat accepts credit card payments.
+COMPATIBLE WITH
+CONTACTS
+Telegram
+Discord
+SUPPORT
+Medium
+Reddit
+MONITORING
+Telegram bot
+Minerbox
+EXCHANGES
+MEXC
+Coinex
+P2P CHANGE
+Binance
+Bybit
+INFORMATION
+Privacy Policy
+Terms of Service
+Crypto Mining Pool © Woolypooly. Est. 2019

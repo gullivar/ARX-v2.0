@@ -1,0 +1,46 @@
+본문 바로가기
+hyunjin
+카테고리
+검색하기
+hyunjin
+_h.j
+관리 메뉴
+글쓰기
+방명록
+RSS
+관리
+목록
+전체 글 (161)
+[C++][BOJ 30804] 과일 탕후루
+
+https://www.acmicpc.net/problem/30804 #include #include #include #include using namespace std;int main() { ios::sync_with_stdio(false); cin.tie(nullptr); int N; cin >> N; vector input(N); for (int i = 0; i > input[i]; } unordered_map freq; freq.reserve(N * 2); // 해시 리사이즈 방지 int s = 0, ans = 0, cnt = 0; constexpr int K = 2; // 최대 종류 개수 for (int e = 0; e K) ..
+
+알고리즘 연습/백준  2025. 9. 8. 22:05
+obj gltf2
+
+보호되어 있는 글입니다.
+
+카테고리 없음  2024. 12. 22. 21:57
+obj gltf 1
+
+보호되어 있는 글입니다.
+
+카테고리 없음  2024. 12. 22. 21:52
+[SWEA 중위순회] 입력 버리기 , getline(cin,str) , getc(stdin)
+
+문제   #include#include #include using namespace std;int N;char tree[102];void inorder(int id) { if (!tree[id] || id > N) return; inorder(id * 2); cout > T; for (int test_case = 1; test_case > N; for (int i = 1; i > id >> c; tree[id] = c; //방법1 string str; getline(cin, str); // 방법2 // int tmp; //while (getc(stdin) == ' ') // cin >> tmp; } cout
+
+알고리즘 연습  2024. 7. 25. 10:49
+[BOJ 20440] imso, 누적 합, 좌표 압축
+
+보호되어 있는 글입니다.
+
+알고리즘 연습/백준  2024. 6. 30. 16:54
+imos 알고리즘 - 누적합 문제 효율적으로 푸는 방법
+
+imos - 예제 문제 백준 20440 , 백준 3020,  백준 5541, 백준 16436, 카카오 파괴되지 않은 건물  imos (Indexed Modification of Sums)법특정 구간을 빠르게 업데이트하고, 이를 통해 누적합을 구할 때 유용한 알고리즘 핵심은 업데이트 구간을 배열에 기록 후, 누적 합을 통해 최종 값을 계산 이외에서 육각형 좌표계 등 다양한 특수 좌표계에서 써먹을 수 있다. 수직선 위에 선을 여러 개 그어서, 가장 선이 많이 겹치는 부분 찾는 것 정해진 구간 내에서 시작과 끝이 포함된 부분 집합에 대한 명령이 여러 개 들어올 때, 반복적으로 연산하게 되면 연산 시간이 매우 커질 수 있다.  O(QN)상황 예시를 들어보면,아래는 0 ~ 16 시 까지 한 장소에 대해 N명의 사..
+
+개인 공부/알고리즘  2024. 6. 30. 14:00
+[BOJ 30870 사이클 없는 그래프 c++ 풀이]
+
+문제 링크코드 문제주어진 그래프에서 t 단계 별로 인접한 노드와 연결 엣지 지워나감.최초로 사이클 생성되지 않는 t 구하기N,M  풀이 전략사이클이 사라지는 것을 찾긴 어렵다.  → 사이클 생성 여부 확인으로 바꾸면 쉽다.주어진 순서대로 간선을 지우고 사이클 생성 여부를 확인 , 지울때마다 사이클을 판단 → TLE그렇다면 역순으로 판단하자.  마지막에 사라졌던 간선들부터 시작하여 처음 사라진 간선들 순서로 그래프가 복원하자.간선이 지워지는 역순으로 그래프를 생성해나가 보면, 어느 순간 사이클 발생 →  (전체 T - 사이클 생성 되는 t) 가 답 요약간선이 언제 지워지는지는 알겠음 : BFS를 적절히 응용지워지는 역순으로 간선을 연결해나가가다가 사이클이 생기는 시점 판단인풋으로 주어지는 K개 시작 노드를.

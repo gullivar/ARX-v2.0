@@ -1,0 +1,160 @@
+NTP Pool Project
+News
+How do I use pool.ntp.org?
+How do I join pool.ntp.org?
+Information for vendors
+Community
+Additional links
+Translations
+Bahasa Indonesia
+Català
+Čeština
+Dansk
+Deutsch
+English
+Español
+Euskara
+Français
+Italiano
+Magyar
+Nederlands
+Norsk (bokmål)
+Norsk (nynorsk)
+Polski
+Português
+Română
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+Ελληνικά
+Български
+Қазақша
+Русский
+Српски
+Українська
+עברית
+اَلْعَرَبِيَّةُ
+فارسی
+हिन्दी
+සිංහල
+한국어
+中文（简体）
+日本語
+
+(Can you translate?)
+ join the pool
+ use the pool
+ manage servers
+
+
+pool.ntp.org: public ntp time server for everyone
+Introduction
+Active Servers
+Africa
+128
+Antarctica
+3
+Asia
+545
+Europe
+3712
+North America
+1223
+Oceania
+214
+South America
+86
+Global
+5187
+All Pool Servers
+5885
+As of 2025-12-29
+
+The pool.ntp.org project is a big virtual cluster of timeservers providing reliable, easy to use NTP service for millions of clients.
+
+The pool is being used by hundreds of millions of systems around the world. It's the default "time server" for most of the major Linux distributions and many networked appliances (see information for vendors).
+
+Because of the large number of users we are in need of more servers. If you have a server with a static IP address always available on the Internet, please consider adding it to the system.
+
+The project is maintained and developed by Ask Bjørn Hansen and a great group of contributors on the project community forum. The source code for the system is available.
+
+Hosting and bandwidth for the "hub" servers are provided by Equinix and Netactuate.
+
+go up
+News
+
+ Subscribe in a reader
+
+July 27, 2025
+NTP Pool Monitoring v4
+
+The NTP Pool is upgrading its monitoring system to support more monitors and provide better coverage for all servers. The current monitoring system (v2) supports a smaller number of monitors with just “active” and “testing” states. The new monitoring system (v4) can support many more monitors, makes them easier to provision and operate, and introduces a new “candidate” state for better resource management.
+
+Key Improvements in v4
+Expanded capacity: Support for significantly more monitoring nodes worldwide
+Better coverage: Enhanced geographic distribution and network diversity
+New candidate state: Improves resource allocation and provides backup monitoring coverage
+Easier operations: Simplified setup and management for monitor operators
+
+With the new monitoring infrastructure, we’ll have a world-class globally distributed monitoring system to match the unparalleled NTP service. The monitoring system will better test local conditions across the world and give us new and better tools to diagnose network problems across countries and networks.
+
+Continue Reading →
+
+March 20, 2023
+NTP Pool Monitoring v2
+
+This weekend the system that monitors the NTP servers in the NTP Pool got a major overhaul!
+
+NTP servers are now monitored from a number of monitors across the world, usually closer to the server than the single monitor was before.
+
+One of the most frustrating things about operating an NTP server in the NTP Pool was how random network issues far away from the server would impact the score. Sometimes cause an email to be sent to the operator about potential problems.
+
+Continue Reading →
+
+March 12, 2023
+The NTP Pool Project turns 20
+
+This year the NTP Pool Project has been serving time to the world for 20 years!
+
+Trillions and trillions of DNS requests have been served to billions of clients, with the NTP requests handled by thousands of NTP servers across the world day and night.
+
+Development on the project ebbs and flows, but maintenance and upgrades on the production infrastructure is consistent – and constant.
+
+Our community is active; and the NTP server operators even more so with almost 2,000 operators managing the 3,000 IPv4 NTP IPs and 1,600 IPv6 IPs active in the system.
+
+Continue Reading →
+
+May 25, 2020
+Website cookie policy
+
+The main website (www.ntppool.org / www.pool.ntp.org) doesn’t set any browser cookies. Some access logs are generated strictly for diagnostics purposes. No long term storage or analytics on user behavior is attempted.
+
+The manage website (manage.ntppool.org) sets a cookie on login to track authentication. The site also keeps a record of the account information you provide and NTP server IPs that are registered. We try hard to not keep any information that’s not essential for operating the system.
+
+Continue Reading →
+
+September 6, 2019
+NTP Pool servers on Kubernetes on Packet
+
+Packet is awesome.
+
+When we started planning our recent unplanned server move, we investigated options for having not one, but two sites, for the “hub” systems for the NTP Pool. With 4000 NTP servers and hundreds of millions of clients using the system, it really should be a given!
+
+Evaluating our options on a ridiculously short timeframe, Packet stood out as an interesting choice, though we were a little apprehensive at first if their setup would be too unusual compared to more familiar options.
+
+After a quick chat with some of the friendly staff at Packet, we were off to the races to see if we could get everything migrated in less than a week of nights and weekends. If we could, we’d be able to move the physical servers the following Sunday without downtime to any critical services, and get us closer to having proper redundancy.
+
+Working with the Packet system has been fascinating and extremely productive. Despite having done this sort of work for several decades, it was a surprise how mixing familiar capabilities, APIs and abstractions opened new ways for quickly building and managing powerful, reliable and scalable infrastructure.
+
+Continue Reading →
+
+Older news...
+Links
+Terms of service
+NTP home - the website about ntp
+The NTP Pool DNS server uses GeoIP data from MaxMind to help choose an NTP server from the Pool.
+Meinberg, makers of incredibly fine time server systems.
+The Public servers abuse and the Fixing the NTP server abuse problem threads on the comp.protocols.time.ntp newsgroup have caused this project to be started.
+go up
+ All Systems Operational | Community

@@ -1,0 +1,198 @@
+Ruby
+Install
+Docs
+Libraries
+Contribution
+Community
+News
+English (en)
+
+A Programmer's Best Friend
+
+Since 1995
+
+Ruby
+
+Latest Version: 4.0.0
+
+DOWNLOAD
+# Output "I love Ruby"
+say = "I love Ruby"
+puts say
+
+# Output "I *LOVE* RUBY"
+say = say.sub("love", "*love*")
+puts say.upcase
+
+# Output "I *love* Ruby"
+# five times
+5.times { puts say }
+TRY!
+# Ruby knows what you
+# mean, even if you
+# want to do math on
+# an entire Array
+cities  = %w[ London
+              Oslo
+              Paris
+              Amsterdam
+              Berlin ]
+visited = %w[Berlin Oslo]
+
+puts "I still need " +
+     "to visit the " +
+     "following cities:",
+     cities - visited
+TRY!
+# The Greeter class
+class Greeter
+  def initialize(name)
+    @name = name.capitalize
+  end
+
+  def salute
+    puts "Hello #{@name}!"
+  end
+end
+
+# Create a new object
+g = Greeter.new("world")
+
+# Output "Hello World!"
+g.salute
+TRY!
+
+Want to learn more or try Ruby? 
+Try Ruby
+
+Why Ruby?
+
+Why do programmers around the world love Ruby? What makes it fun?
+
+Ecosystem
+
+Rich gems support all kinds of development.
+Mature tooling ready to use.
+
+Ruby has a vast collection of libraries called gems, supporting everything from web development to data processing. With mature frameworks like Rails and comprehensive toolchains, you can combine excellent existing resources to build high-quality applications quickly without reinventing the wheel.
+“
+When I released Ruby to the world, I never imagined such a rich ecosystem would grow from it. Over 200,000 gems, Ruby on Rails, RSpec, Bundler—it was the community that created and nurtured all of these. My wish to "make programmers happy" has been realized in ways I could never have achieved alone.
+
+Yukihiro "Matz" Matsumoto
+
+Creator of Ruby
+
+Simple
+
+Easy to write, easy to read.
+Natural syntax like spoken language.
+
+Ruby has a simple and intuitive syntax that reads like natural language. By eliminating complex symbols and verbose constructs, Ruby's design philosophy allows you to express what you want directly. With minimal boilerplate and high readability, it's friendly to beginners and maintainable for experienced developers.
+“
+Ruby is just the most beautiful programming language I have ever seen.
+And I pay a fair amount of attention to new programming languages that are coming up, new environments, new frameworks, and I've still yet to see anything that meets or beats Ruby in its pureness of its design.
+
+David Heinemeier Hansson
+
+Creator of Ruby on Rails
+
+Productivity
+
+Do more with less code.
+Intuitive syntax accelerates development.
+
+Ruby's expressive syntax allows you to write complex logic concisely. By leveraging powerful features like metaprogramming and blocks, you can reduce repetition and focus on solving core problems. With rich testing frameworks, you can maintain quality while achieving rapid development cycles.
+“
+Ruby turns ideas into code fast. Its simplicity keeps me focused; its expressiveness lets me write the way I think.
+It feels like the language gets out of the way, leaving just me and the problem. With great tools and libraries, ideas quickly become running, elegant, code.
+
+Dave Thomas
+
+Author of "The Pragmatic Programmer"
+
+Community
+
+Developers worldwide support each other.
+A warm, active community.
+
+The Ruby community embraces the culture of "Matz is nice and so we are nice (MINASWAN)," welcoming everyone from beginners to experts. Conferences and meetups around the world foster knowledge sharing and connections. It's a warm, sustainable community where people help each other and grow together.
+“
+The Ruby community is filled with talent and creativity, developers attracted to Ruby's elegant syntax who program for the joy of it. It's a vibrant, welcoming community willing to share this love of programming with everyone. This spirit of warmth and collaboration is hands down Ruby's greatest asset.
+
+Amanda Perino
+
+Executive Director of Rails Foundation
+
+Join the Community
+
+People who engage with Ruby beyond being just users are called Rubyists.
+Rubyists who love Ruby are all nice #rubyfriends. Community activities are thriving and fun.
+
+The universal motto is "MINASWAN" — Matz is nice and so we are nice
+
+Learn more about the community
+Upcoming international conferences
+News
+Ruby 4.0.0 Released
+We are pleased to announce the release of Ruby 4.0.0. Ruby 4.0 introduces “Ruby Box” and “ZJIT”, and adds many improvements.
+
+Continue Reading...
+
+Posted by naruse on 25 Dec 2025
+
+A New Look for Ruby's Documentation
+Following the ruby-lang.org redesign, we have more news to celebrate Ruby’s 30th anniversary: docs.ruby-lang.org has a completely new look with Aliki—RDoc’s new default theme.
+
+Continue Reading...
+
+Posted by Stan Lo on 23 Dec 2025
+
+Redesign our Site Identity
+We are excited to announce a comprehensive redesign of our site. The design for this update was created by Taeko Akatsuka.
+
+Continue Reading...
+
+Posted by Hiroshi SHIBATA on 22 Dec 2025
+
+Ruby 4.0.0 preview3 Released
+We are pleased to announce the release of Ruby 4.0.0-preview3. Ruby 4.0 introduces Ruby::Box and “ZJIT”, and adds many improvements.
+
+Continue Reading...
+
+Posted by naruse on 18 Dec 2025
+
+Read more news
+
+Security
+CVE-2025-61594: URI Credential Leakage Bypass previous fixes
+
+Posted by hsbt on 7 Oct 2025
+
+CVE-2025-58767: DoS vulnerability in REXML
+
+Posted by naitoh on 18 Sep 2025
+
+CVE-2025-24294: Possible Denial of Service in resolv gem
+
+Posted by mame on 8 Jul 2025
+
+CVE-2025-43857: DoS vulnerability in net-imap
+
+Posted by nevans on 28 Apr 2025
+
+Security advisories: CVE-2025-27219, CVE-2025-27220 and CVE-2025-27221
+
+Posted by hsbt on 26 Feb 2025
+
+CVE-2025-25186: DoS vulnerability in net-imap
+
+Posted by nevans on 10 Feb 2025
+
+Read more security
+
+Security
+About This Website
+About the Logo
+News RSS
+Ruby License
+This website is proudly maintained by members of the Ruby community.

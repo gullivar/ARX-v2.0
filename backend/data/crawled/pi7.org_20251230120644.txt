@@ -1,0 +1,144 @@
+BULK RESIZER
+PDF EDITOR
+PASSWORD GENERATOR
+RESIZE PIXEL
+PI7 GIF TOOL
+BASE64 
+COMPRESS IMAGE 
+COMPRESS PDF 
+EXPLORE OUR OPEN SOURCE TOOLS
+PI7 ORGANISATION
+
+
+
+Get In Detail.
+
+Explore Our Creation.
+
+Content Spinner
+    
+
+Pi7 Article Spinner Is Helpful In Spin Or Rewrite The Content. Pi7 Spinner is a free automatic article spinner that rewrites human-readable text to additional readable text. Having a continuous stream of new human-readable text is the best way for your assignments.
+
+Pi7 GIF Tool
+    
+
+The Pi7 GIF Tool lets you create GIFs from videos, images, or other GIFs quickly and easily. You can also compress, crop, trim, and edit GIFs, as well as add text or animations.
+
+Hash Tool
+    
+
+This online hash tool can generate CRC-16, CRC-32, MD2, MD4, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, SHA512 / 224, SHA512 / 256, SHA3-224, SHA3-256, SHA 3, SHA 3, SHA 3, -512, Keccak-224, Keccak-256, Keccak-384, Keccak-512, Shake-128, Shake-256 hash and checksum from any string or file.
+
+Base32 Encoder
+    
+
+Base32 Encoder is a free tool for encoding the Base32 string online. Just enter data and then copy encoded data. Base32 is the basic numerical system.
+
+Base32 Decoder
+    
+
+Base32 Decoder tool decodes string according to RFC 4648. Base 32 is similar to Base64 which uses characters and numeric letters from 2 to 7 and equal signs as base symbols.
+
+URL Encoder
+    
+
+URL encoder is a simple online tool that encrypts URLs quickly and easily. URL encryption is useful for transmitting ASCII data over the web.
+
+URL Decoder
+    
+
+URL decoder is a free and online tool, you can easily decode your encrypted URL into a readable format. The Process of reversing an encoded URL is called Decoding.
+
+HTML Encoder
+    
+
+HTML Encoder is a free online tool that encode HTML characters to appropriate HTML5 units so they can be used in web pages.
+
+HTML Decoder
+    
+
+HTML Decoder is a useful online tool for decoding an encoded HTML string. Decoding HTML characters is the reverse of encoding. In the decoding process, all special characters are decoded in a human-readable format.
+
+Base64 Encoder
+    
+
+Base64 Encoder is a free and online tool to encode text in Base64 encoded format. This tool also support HEX to base64 encryption.
+
+Base64 Decoder
+    
+
+Base64 Decoder tool decodes encoded string into standard form. It is an online process that converts Base64 to text. The tool is as fast as it is simple.
+
+Password Generator
+    
+
+Generate passwords with the Pi7 Crypt online tool for users to create an account on any website securely.
+
+Bcrypt Generator
+    
+
+Generate Bcrypt online with Pi7 Crypt tool. It is a popular and reliable method for salt and hash passwords. The tool uses a random string to generate Bcrypt that makes the hash unpredictable, called salt.
+
+Alarm Clock
+    
+
+Set up an online alarm on this internet clock created by Pi7 organisation. To set an alarm, click the "Set Alarm" button.
+
+Pomodoro Timer
+    
+
+Pomodoro Timer is an online stopwatch website created by pi7. This web application can be used as a study timer, focus timer, etc. The Pomodoro timer is also known as the tomato timer.
+
+Chess Clock
+    
+
+Chess Clock is a free online tool that can be used in full screen. Two Players can play chess with this online timer.
+
+Online Text Editor - Wrizo
+    
+
+Wrizo is an online rich text editor. you can edit plain text or create a new document, such as tasks, letters, articles, etc. Then you can download the text in image or PDF format.
+
+Collab Edit - Online Code Share
+    
+
+Pi7 collab is a free and online collaborative code editor. On this platform, you can share code online with your team or students. Collaborative coding is mostly used by students and teachers. This tool is also free for business use.
+
+Sitemap Generator
+    
+
+Sitemap Generator is a best tool that is used for generating XML sitemaps on windows or Linux. Generate an unlimited SEO-friendly XML sitemap for free with this tool.
+
+Circle Cropper
+    
+
+Pi7 Circle Cropper is an online tool for cropping photos into a circular shape. Just select the image and crop any unwanted edges. set the circle on the canvas and press the "Crop And Download" button.
+
+PDF Editor
+    
+
+Pi7 PDF Editor Online, the ultimate solution for all your PDF editing needs. With our easy-to-use editor, you can edit text and images with ease, add icons and page numbering, rotate and insert/delete pages, sign PDF files, and even add links to external sources.
+
+Pi7 Bulk Image Resizer
+    
+
+Pi7 Bulk Resizer is your go-to tool for bulk image resizing. Say goodbye to the hassle of resizing images individually.
+
+SmallJPG
+    
+
+SmallJPG is a browser-based tool that allows users to increase the size of their images in kilobytes to specific sizes, such as 50kb, 100kb, and 200kb. This tool is particularly useful for individuals who want to upload images for job applications on government portals or for school/college admissions, as there are often restrictions on photo size uploads.
+
+This Person Not Exist
+    
+
+Create unique faces with our AI-driven 'This Person Does Not Exist' face generator. Enjoy HD 1024x1024 faces for free. Generate up to 8 faces at once, choosing between genders or randomness. Explore the ultimate face generator tool!
+
+About Us
+
+Pi7 is a leading organisation focused on open source services. Read the latest news and other technical topics on the Pi7 blog.
+
+Privacy Policy | Terms Of Use | Contact Us | About Us
+
+Copyright ©2025 | Pi7

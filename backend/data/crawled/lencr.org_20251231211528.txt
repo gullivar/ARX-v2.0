@@ -1,0 +1,21 @@
+lencr.org -  Let's Encrypt Languages English Català Čeština Dansk Deutsch Greek Español Suomi Français עברית Hungarian Bahasa Indonesia Italiano 日本語 한국어 Polish Português do Brasil Русский සිංහල Srpski Svenska Tamil Thai Türkçe Українська Tiếng Việt 简体中文 繁體中文 Skip navigation links Documentation Get Help Blog Donate Become a Sponsor Current Sponsors & Funders Get Involved Donate About Us Let's Encrypt Frequently Asked Questions (FAQ) Policy and Legal Repository Service Status Statistics Contact Careers Annual reports Internet Security Research Group (ISRG) Donate Now Donate Now lencr.org Last updated: July 31, 2025 See all Documentation What’s lencr.org ? lencr.org is a domain name owned by Let’s Encrypt. We use it to host data
+that is referenced inside the certificates we issue. Why is my computer fetching this data? Is it malicious? No, the data on lencr.org is never malicious. When a device connects to lencr.org , it’s because client software on that device (like a web browser or
+an app) connected to another site, saw a Let’s Encrypt certificate, and is
+trying to verify that it’s valid. This is routine for many clients. We can’t speak to whether the other site being connected to is malicious. If
+you’re investigating network activity that seems unusual, then you may want to
+focus on the connection that started just before the connection to lencr.org . The pattern of clients’ connections to lencr.org might look unusual or
+intermittent. Clients might never retrieve this data; only retrieve subsets of
+it; or “cache” some data for efficiency, so they’ll only access it sometimes
+(the first time they need it, and when the data may have expired). What exactly is this data for? When client software (like a web browser or an app) connects to a site, and that
+site presents a certificate, the client should verify that the certificate is
+authentic and valid. This data helps clients do that in several ways. Under c.lencr.org , we provide Certificate Revocation Lists (CRLs) listing
+all the unexpired certificates that we issued and later revoked. Under i.lencr.org , we provide copies of our intermediate “issuer”
+certificates, which are either signed by one of our root certificates or
+“cross-signed” by another Certificate Authority (CA). A client may use this
+data to confirm the “chain of trust” from the end-entity certificate it’s
+verifying, via one or more intermediate steps, to a root CA certificate that it
+recognizes and trusts. Why “ lencr.org ”? We used to use longer URLs like http://example.int-x3.letsencrypt.org/ . However,
+when we issued our new root and intermediate certificates , we wanted to
+make them as small as possible. Every HTTPS connection on the web (billions per
+day) has to send a copy of a certificate, so every byte matters. We chose lencr.org because of its similarity with our name: L et’s ENCR ypt. We
+pronounce it much like the fictional region of Lancre in Terry Pratchett’s Discworld novels. Let's Encrypt is a free, automated, and open Certificate Authority brought to you by the nonprofit Internet Security Research Group (ISRG) . Read all about our nonprofit work this year in our 2025 Annual Report . Legal Address 548 Market St, PMB 77519 San Francisco , CA 94104-5401 USA Send all mail or inquiries to: PO Box 18666 Minneapolis , MN 55418-0666 USA Subscribe for email updates about Let's Encrypt and other ISRG projects © 2025 Internet Security Research Group GitHub LinkedIn Terms Privacy Policy Trademark Policy

@@ -1,0 +1,10 @@
+Aka Link Manager Tool
+VPN REQUIRED
+
+Aka Link Manager Tool now requires an allowed network. Please connect a VPN and refresh this page.
+
+Most users should use Azure VPN (MSFT-AzVPN-*) or access from Corpnet, a SAW, Windows Virtual Desktop or a cloud Dev Box.
+
+Mobile devices are not supported.
+
+Please visit aka.ms/AkaSupport for details and additional support methods.

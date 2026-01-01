@@ -1,0 +1,121 @@
+ipapi.is About Pricing Blog Docs Databases IP to Abuser IP to Company IP to Hosting / Cloud IP to VPN IP to Geolocation IP to ASN Tools API Status IP to Number Converter Expand / Collapse IPv6 IP Range to CIDR Submit Data Correction GitHub Log In Sign Up A reliable IP address API built by developers for developers Multiple data sources are integrated into an accurate and frequently updated IP
+                address API at api.ipapi.is The free plan with 1,000 free daily requests covers most use cases. Comprehensive Hosting Detection Accurate IP
+                    Geolocation Tor,
+                  Abuser, Proxy, and VPN Detection IP to ASN and IP to
+                    Organization About Sign Up for Free Random 165.227.0.0 AS18 {
+  "message": "Please make an API request"
+} API Data incorrect? Suggest a correction Documentation Close Accurate IP address data from developers for developers. Fast lookups, frequently
+          updated, and actively maintained. 1,000 free API lookups per day. About Documentation Comprehensive Hosting Detection By using a proprietary hosting detection algorithm, thousands of hosting providers and their IP ranges are
+              tracked. ASN information ipapi.is provides frequently updated ASN information backed by ongoing curation. IP Geolocation We built a proprietary IP Geolocation Database from
+              scratch and keep it continuously refined for accuracy. Random VPN Random Hosting Random Abuser Random Tor {
+"message": "Please make an API request"
+} Security Intelligence The API includes Tor, proxy, VPN , and abuse
+              intelligence. Open-source IP block lists and a custom VPN
+                Exit Node Enumeration pipeline power the dataset. Organization Information ipapi.is provides information about the organization that owns the queried IP
+              address. Millions of WHOIS records are crawled to source the data. WHOIS Data WHOIS data is our primary data source. Millions of constantly refreshed records feed
+              the API. Key Numbers ipapi.is was established in late 2022 and is constantly growing and expanding.
+        Our vision is to be the most
+        accurate and high-performing platform for security-related IP address metadata on the planet. API
+              Usage Number of paid API requests in the last 30 days: 247,629,516 More Statistics Total requests in the last 30 days: 247,630,000 Requests last day: 7,751,550 Requests last 7 days: 51,300,258 Registered
+              Users Number of registered users since January 2023: 3,330 More Statistics Total registered users all time: 3,330 Registered users last day: 17 Registered users last 7 days: 71 Registered users last 30 days: 444 Active users last 30 days (At least one login in the last 30 days): 277 Response
+              Time Average API response time per request in milliseconds (ms): 1.02ms More Statistics Average time per request ( sg.ipapi.is ): 0.95ms Average time per request ( us.ipapi.is ): 1.04ms Average time per request ( de.ipapi.is ): 1.07ms Server
+              Locations API servers in different locations: Germany, US East, Singapore Trusted By Listed below is a small selection of companies that use our service for their IP intelligence needs. Quick Start Use ipapi.is from any programming language that supports HTTP requests. Query any IP
+        address (IPv4 or IPv6) or ASN by sending a simple API request to the endpoint: https://api.ipapi.is?q=23.236.48.55 Read the Documentation Curl Quickly test the API by using the ubiquitous curl command from the terminal . # open a new terminal / shell and then paste:
+curl 'https://api.ipapi.is?q=32.5.140.2' JavaScript Use the API from any browser with JavaScript or integrate it in Node.js . fetch('https://api.ipapi.is?q=23.236.48.55')
+  .then(res => res.json())
+  .then(res => console.log(res)); Python You can also use Python with the requests module. # install requests module first
+import requests
+
+url = 'https://api.ipapi.is?q=23.236.48.55'
+response = requests.get(url)
+print(response.json()) PHP Integrate the API into a PHP application with these lines. $url = 'https://api.ipapi.is?q=23.236.48.55'; 
+echo file_get_contents($url); Testimonials We are proud to have helped many customers fortify their security architecture. Here are real testimonials
+          from our users: Just wanted to send an email thanking you for the wonderful service provided.
+              The website and API are easy to use and purchasing more credits is incredibly simple.
+              The work in classifying IP addresses helps prevent real-life service abuse and even prevents criminal
+              activity, which is greatly appreciated.
+              Keep up the good work. - Maks, CEO, uhmegle.com ipapi.is is incredible value—it's a terrific service, great support,
+              and
+              uniquely accurate data. We've
+              tested it head to
+              head against several other providers and it outperforms! - Henry LeGard, Founder & CEO, verisoul.ai By the way, I'm really impressed with the product. There's quite a lot of IP API services, but this one is
+              well
+              documented, robust, and competitive. We use it to detect automated systems that interact with our tracking
+              technology,
+              to report only legit interactions to our customers. It's been highly reliable so far. Thank you for that. - Corentin Brossault, CEO, mailmeteor.com First of all, I must say that I am truly impressed with the amount of detail that the API returns! I
+              have checked out
+              about 9 other IP-API services, and this one returned the most accurate and complete information about my
+              IP
+              address — this is
+              really great! - Anonymous Unique Strengths Multiple API Servers The API is hosted on multiple servers globally. Requests to api.ipapi.is are routed to the geographically closest or
+                most performant endpoint via Microsoft Azure Cloud DNS and Azure Traffic
+                  Manager . Dedicated API Access If you require a high request volume or need to host the API in your own infrastructure
+                for technical
+                or legal reasons, you can obtain the ipapi.is databases for offline usage. IT Security The API provides robust IT security intelligence with Tor, VPN, proxy, and hosting
+                detection details for each queried IP address. WHOIS First The primary data source is WHOIS records obtained from the five major Regional Internet
+                Registries (RIRs) and their databases. WHOIS records are the most trustworthy source for IP address
+                intelligence, so they are prioritized. Bulk API Lookups The API enables you to look up 100 IP addresses per API
+                  call .
+                Depending on your subscription , this limit scales to 1,000 IPs per bulk
+                request. Constantly Updated The API data is continuously updated from hundreds of sources. These include our own
+                honeypot network,
+                WHOIS databases from the five major RIRs, various threat intelligence feeds, internet-wide scans, and
+                more. Cyber Security First Our IP API provides critical insights into key cybersecurity aspects such as: VPN Exit Node Enumeration We systematically enumerate VPN exit nodes from major
+                VPN providers to
+                maintain the most
+                comprehensive VPN
+                detection database. This matters because VPN traffic often indicates attempts to bypass geo-restrictions
+                or
+                mask malicious activity. Accurate VPN detection helps protect your services from abuse and ensures
+                compliance with regional policies. Number of VPN IPs from known VPN Services: 151,349 Number of interpolated VPN IPs: 917,241 Number of assumed VPN IPs: 103,093 IP to VPN Database Hosting Detection Our hosting detection algorithm identifies traffic
+                originating from
+                datacenter and cloud
+                provider
+                networks. This is
+                crucial for security because legitimate users typically connect from residential or mobile
+                networks—not
+                hosting providers. Automated attacks, scraping, and other malicious activities commonly originate from
+                hosting infrastructure. Number of IPv4 Hosting Networks: 593,169 Number of IPv6 Hosting Networks: 563,067 IP to Hosting Database IP Abuse Detection Our IP abuse detection system identifies IP addresses involved in malicious activities like brute force
+                attacks,
+                vulnerability scanning, and other forms of network abuse. This intelligence is gathered from our global
+                honeypot
+                network and threat feeds, helping you proactively block known bad actors before they can target your
+                infrastructure. Total Abuser IPs: 4,263,368 IP to Abuser Database Frequently Asked
+        Questions I spotted an error in the API data. How can I report it? We are constantly working to improve the accuracy of our data, but errors may still occur. Data corrections are handled via the Corrections page. What is ipapi.is? ipapi.is is a fast and accurate IP address API. It can be used to get meta information about any IPv4
+                and IPv6 address on the Internet. Our clients use ipapi.is for many different purposes: Blocking malicious traffic from accessing their services (such as data center, Tor, or proxy/VPN
+                  traffic). Traffic classification: Our clients want to know the composition of their traffic. Is it normal
+                  residential ISP traffic ( isp ) or does a majority of the requests originate from hosting
+                  providers ( hosting )? Some customers need accurate IP geolocation intelligence. This is necessary for launching targeted
+                  advertising campaigns or enforcing specific location-based actions (only EU traffic allowed, only US
+                  traffic allowed, etc.). Is the API stable? How many servers are behind ipapi.is? The API is hosted in the following geographical locations: US East ( us.ipapi.is ) A server in Central Europe ( de.ipapi.is ) A server in Singapore/Asia ( sg.ipapi.is ) With the above server coverage, the average end-user latency is significantly decreased. Each API
+                server is large and can handle 1,000 requests per second. api.ipapi.is uses the following cloud services from Microsoft Azure to reduce latency for API lookups: Azure Cloud DNS for handling DNS lookups Azure Traffic Manager to route API requests to the geographically closest server Why was ipapi.is developed? Initially, ipapi.is was developed to provide accurate and reliable IP address data as a
+                foundation for more complex IT security products. During development, we realized that many other
+                organizations also need such basic (but accurate) IP data. ipapi.is is technically a simple service that does not deal with live end-user traffic
+                and its complex consequences. However, our biggest challenge with ipapi.is is to provide basic IP address data in the
+                most reliable, accurate, and updated manner possible. By providing this reliable data, your more complex
+                IT security solutions and decisions will stand on a robust foundation. What are the use cases of the API? There are many different ways how IP address data can be used: Geolocation: Determining the geographic location of a device connected to the Internet. IP reputation: Identifying whether an IP address has been associated with spam or malicious
+                  activity. Network troubleshooting: Identifying connectivity issues and diagnosing network problems. IT security: Tracking the source of cyberattacks and implementing security measures to prevent them. Targeted advertising: Using IP address data to target advertisements to specific regions or traffic
+                  types (e.g., locating only US visitors and excluding hosting traffic). Personalization: Customizing website content based on the visitor's geographic location. Analytics: Analyzing website traffic and visitor behavior based on their IP address. How often is the API updated? The core API data is updated every week. Some parts of the API are updated daily. Can I rent the API as a whole and run it in my own infrastructure? Yes, you can rent ipapi.is in its entirety and host it in your own infrastructure. To
+                effectively run ipapi.is , a server with a minimum of 8GB of memory and 2 vCPUs is
+                necessary. With these specifications, you can expect to handle approximately 1,000 API lookups per
+                second or 100 million lookups per day. It is possible to run the API in more than one cluster. The price to rent the full ipapi.is software (database
+                included) is $200 per month, including automatic updates and support. This allows you to have complete
+                control and customization of the service while still receiving regular updates and assistance. How accurate is the API? The accuracy of the API depends on the specific data point. While the general accuracy is constantly improved , some data is more accurate than others. WHOIS data: Very accurate, as it comes directly from the source (ARIN, APNIC, RIPE, AFRINIC,
+                  LACNIC). Geolocation: Very accurate at the country level and reasonably accurate at the city level. ASN data: Very accurate. Hosting/datacenter detection: Very accurate (superior to competitors). Tor detection: Very accurate. Proxy and VPN detection: Moderately accurate. Does not detect residential proxies or unknown VPN
+                  providers. Why should we use ipapi.is and not competitors? You should test for yourself and not trust anyone. Some of the biggest strengths of ipapi.is are: Hosting/Datacenter detection: Likely much better than competitors. Tor detection: Very good and accurate. WHOIS data support: Broad coverage, including RWHOIS data from various ISPs. ASN metadata: Accurate type detection, better than many competitors. Accurate geolocation: ipapi.is is a strong alternative, but not the top performer currently. How fast is the API? Very fast. On average, a simple IP lookup takes 1ms of processing time. A server with 8GB of memory and
+                2 vCPUs will give you roughly 1,000 API lookups per second or 100 million lookups per day. How are purchased API credits handled? Purchased API credits are valid indefinitely. You can buy more credits whenever needed. Before using API credits, your daily volume from your subscription tier is utilized. In
+                the default free plan, your free tier of 1,000 requests per day is used first. Similarly, if you have a paid plan, your paid tier volume is used first before any purchased API
+                credits are utilized. In the API, what is the difference between the company and
+              asn object? Simply put, the company object contains information about the organization that owns the IP
+                address. The asn object, on the other hand, contains information about an autonomous
+                system. An IP address can be part of an ASN through a route or prefix. If an IP address is part of an ASN, it does not necessarily mean that the IP address is owned by the
+                organization associated with that ASN (although this is often the case). It only means that the ASN is
+                responsible for routing the IP address and that the ASN has an assigned prefix or route that includes
+                the IP address. The company object, on the other hand, contains ownership information about the IP address.
+                This information is sourced from WHOIS records and describes the organization that owns the IP address
+                in question. In summary: company : Contains ownership information about the queried IP address. asn : Contains information about the autonomous system that the queried IP address is
+                  part of. Usually the ASN organization is the same as the company organization, but this
+                  is not
+                  necessarily the case. Accurate IP Data, Built for Developers Accurate IP address data from developers, for developers. Fast lookups, frequently updated, and actively
+            maintained.
+            1,000 free API lookups per day — no credit card required. Company About Blog FAQ Pricing Changelog Resources Documentation VPN Exit Nodes Hosting Providers Abusive Networks Business Plan GitHub Databases IP to Abuser IP to Company IP to Hosting IP to VPN IP to Geolocation IP to ASN Get Started Free No credit card required. Start making API calls in minutes. Sign Up Sign In © 2025 ipapi.is · All rights reserved · Made with in Germany Terms · Privacy · DPA · Imprint · Contact

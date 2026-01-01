@@ -1,0 +1,299 @@
+15
+We've got the world covered, so you can get the coins
+and paid every 10 minutes!
+x4
+Xelis XEL
+PPLNS
+SOLO
+
+30.77 MH/s
+
+Hashrate
+
+$492.953K
+
+Miners Paid
+
+Algo: XelisHashV2
+Height: 3821949
+Reward: ~0.373+tx fees
+Min Pay: 0.05
+Fee: 0.8%
+Difficulty: 1.15 T
+Price: 1.04
+Miners: 174
+Start Mining
+Warthog WART
+PPLNS
+SOLO
+
+95.78 GH/s
+
+Hashrate
+
+$44.747K
+
+Miners Paid
+
+Algo: PoBW
+Height: 3940449
+Reward: ~1.5+tx fees
+Min Pay: 0.5
+Fee: 0.9%
+Difficulty: 15.73 P
+Price: 0.11768900
+Miners: 28
+Start Mining
+Veruscoin VRSC
+PPLNS
+SOLO
+
+448.51 GH/s
+
+Hashrate
+
+$777.818K
+
+Miners Paid
+
+Algo: VerusHash
+Height: 3877447
+Reward: ~3+tx fees
+Min Pay: 0.001
+Fee: 1%
+Difficulty: 3.73 P
+Price: 0.89809000
+Miners: 1395
+Start Mining
+Alephium ALPH
+PPLNS
+SOLO
+
+322.19 TH/s
+
+Hashrate
+
+$70.319K
+
+Miners Paid
+
+Algo: Blake3
+Height: 0
+Reward: ~0.143+tx fees
+Min Pay: 0.1
+Fee: 0.8%
+Difficulty: 372.15 P
+Price: 0.10808700
+Miners: 218
+Start Mining
+Clore CLORE
+PPLNS
+SOLO
+
+0 H/s
+
+Hashrate
+
+$199.095K
+
+Miners Paid
+
+Algo: KawPow
+Height: 1593747
+Reward: ~139.44+tx fees
+Min Pay: 1
+Fee: 0.8%
+Difficulty: 2.05 k
+Price: 0.00678156
+Miners: 0
+Start Mining
+Neurai XNA
+PPLNS
+SOLO
+
+1.74 GH/s
+
+Hashrate
+
+$71.988K
+
+Miners Paid
+
+Algo: KawPow
+Height: 1411567
+Reward: ~4K+tx fees
+Min Pay: 1
+Fee: 0.8%
+Difficulty: 1.27 M
+Price: 0.00008318
+Miners: 28
+Start Mining
+Radiant RXD
+PPLNS
+SOLO
+
+487.07 TH/s
+
+Hashrate
+
+$510.464K
+
+Miners Paid
+
+Algo: Sha512256D
+Height: 390773
+Reward: ~25K+tx fees
+Min Pay: 100
+Fee: 0.9%
+Difficulty: 72.67 G
+Price: 0.00011810
+Miners: 297
+Start Mining
+Nexa NEXA
+PPLNS
+SOLO
+
+0 H/s
+
+Hashrate
+
+$137.719K
+
+Miners Paid
+
+Algo: Nexapow
+Height: 961805
+Reward: ~10M+tx fees
+Min Pay: 5000
+Fee: 1%
+Difficulty: 60.01 M
+Price: 0.00000058
+Miners: 0
+Start Mining
+Satoxcoin SATOX
+PPLNS
+SOLO
+
+0 H/s
+
+Hashrate
+
+$1.075K
+
+Miners Paid
+
+Algo: KawPow
+Height: 1545289
+Reward: ~270+tx fees
+Min Pay: 10
+Fee: 1%
+Difficulty: 9.16 k
+Price: 0.00000902
+Miners: 0
+Start Mining
+Statistics
+Xelis POOL
+Xelis SOLO
+ Network
+ Stratums
+Xelis Network Stats
+
+256.52 MH/s
+
+Hashrate
+
+1.15 T
+
+Difficulty
+
+500.0 MH/s
+-1.0 GH/s
+-500.0 MH/s
+0.0 H/s
+500.0 MH/s
+1.0 GH/s
+1.5 GH/s
+2.0 GH/s
+2.5 GH/s
+20.0 G
+-10.0 G
+-5.0 G
+0.0
+5.0 G
+10.0 G
+15.0 G
+20.0 G
+40.0 G
+30.0 G
+-20.0 G
+L
+Nov 30
+Dec 04
+Jan 04
+Dec 30
+Dec 25
+Dec 20
+Dec 15
+Dec 10
+Dec 05
+Difficulty
+Net Hashrate
+Xelis Pool Stats
+
+23.59 MH/s
+
+Hashrate
+
+138
+
+Miners
+
+100.0 MH/s
+-40.0 MH/s
+-20.0 MH/s
+0.0 H/s
+20.0 MH/s
+200.0 MH/s
+150.0 MH/s
+100.0 MH/s
+50.0 MH/s
+-50.0 MH/s
+-100.0 MH/s
+200
+-50
+0
+50
+100
+150
+200
+250
+L
+Nov 30
+Dec 04
+Jan 04
+Dec 30
+Dec 25
+Dec 20
+Dec 15
+Dec 10
+Dec 05
+Miners
+Pool Hashrate
+Blog & Social
+blog.vipor.net
+twitter.com/vipornet
+discord.gg/WxJrvp9aN6
+t.me/vipornet
+Telegram Bot
+t.me/vipornetnotify_bot
+We Support
+MinerBox
+Goldshell
+Dragonball
+Vipor VIP
+Are you a large farm?
+Want sub millisecond latency?
+Check out Vipor VIP
+https://status.vipor.net
+Market data powered by CoinGecko
+v1.7.15 Made in the  state by miners, for miners.

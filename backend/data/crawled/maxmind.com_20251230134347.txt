@@ -1,0 +1,99 @@
+Products
+Resources
+Company
+Sign In
+Create smarter, safer digital experiences with accurate data
+Foundational GeoIP®, proxy, and fraud intelligence for online businesses
+Powered
+by machine learning
+Trusted
+by developers
+Made simple
+for the enterprise
+Digital automation, safety, and security, simplified.
+Fraud Prevention
+IP Geolocation
+Proxy Detection
+Stop fraud in real-time with a flexible fraud detection service
+
+Access risk score data and insights, prevent chargebacks, keep your customers safe, and reduce manual review, for as low as $0.005 per query, no monthly minimum, and no commitment.
+
+Try it for free.
+
+Learn more
+Over 100,000 businesses worldwide rely on MaxMind for accurate IP data and fraud detection.
+The creator of GeoIP
+
+We cover 99.9999% of IP addresses in use with 99.99% web service uptime for 11 years straight.
+
+Your IP Address	59.15.130.228
+Location	Yangcheon-gu, Seoul, South Korea (KR), Asia
+Network	59.15.130.0/23
+Postal Code	07908
+Approximate Latitude / Longitude*, and Accuracy Radius	37.518, 126.8673 (5 km)
+ISP / Organization	KT
+Domain	-
+Connection Type	Cable/DSL
+Try our demo
+News and highlights
+Blog
+How to enhance your fraud strategy with minFraud® risk score reasons
+Read more ›
+Case study
+Recursive DNS service Quad9 uses our data to understand usage patterns and secure funding
+Read more ›
+Product
+Resolve network geolocation and security issues before they impact end-users.
+Learn more ›
+The first company to offer both
+IP intelligence and fraud detection
+
+MaxMind protects billions of transactions annually and runs one of the largest fraud detection networks in the world.
+
+Customizable and scalable for most businesses
+Enterprise
+Solutions
+Small and Medium
+Sized Businesses
+Startups
+Resellers
+Sole
+Proprietorships
+Affiliates
+Developers
+Integrators
+Partners
+Let’s explore how our solution experts can help meet your business needs.
+Connect with us today
+PRODUCTS
+minFraud services
+GeoIP web services
+GeoIP databases
+GeoIP Anonymous IP database
+GeoIP Enterprise database
+GeoLite free geolocation data
+RESOURCES
+Knowledge base
+GeoIP demo
+System status
+Submit a data correction
+Your privacy choices
+Notice of collection
+GeoIP learning center
+DEVELOPERS
+Developer portal
+Affiliate program
+COMPANY
+About MaxMind
+Working at MaxMind
+Commitment to security
+Contact us
+INSIGHTS IN YOUR INBOX
+
+Join thousands of data professionals.
+Sign up for exclusive content.
+
+First name*
+Business email*
+© 2025 MaxMind, Inc. MaxMind, GeoIP, minFraud, and related trademarks belong to MaxMind, Inc.
+Terms of Use | Privacy Policy

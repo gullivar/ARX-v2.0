@@ -1,0 +1,15 @@
+Welcome to Haxx
+
+Haxx is a bunch of friends who work as software developers and hackers in Sweden.
+
+Haxx developers do embedded programming, realtime magic, network deep dives and all this mostly on Linux. We write device drivers, boot loaders and perl scripts with the same ease. We're not afraid to resort to assembler or touch the bare metal to get the job done. We are doers. We do what others only talk about.
+
+Haxx people actively support, contribute and take part in a large amount of Open Source projects.
+
+We are all family fathers, we all do spare time programming as well and each one of us have over twenty years of experience in the business.
+
+Contact
+
+For enquiries, questions or business offers mail info@haxx.se.
+
+Of course we're also available on our personal email addresses, should you want to contact anyone of us directly: daniel, linus, bjorn, kjell.

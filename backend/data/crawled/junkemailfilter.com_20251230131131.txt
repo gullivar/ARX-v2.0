@@ -1,0 +1,234 @@
+	
+Main Menu
+
+Home
+Order Filtering Service
+Philosophy of Spam Detection
+How our Spam Filter Works
+Our Spam Filtering Infastructure
+Why hosted spam filtering?
+Testimonials
+Cost of spam
+Pricing
+Support
+Spam Filtering for ISPs
+Resell Spam Filtering
+FAQ about our Hosted Filtering
+Free MX Backup Service
+Email Hosting
+Webmail Interface
+Outbound Spam Filtering
+Support Wiki
+Our Spam Filtering Blog
+Working with our Competitors
+Postini Alternative Spam Filter
+Hostkarma Blacklist Removal
+Email/Filtering Control Panel
+Terms and Conditions
+Contact Us
+
+
+Open Source Partners
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+SquirrelMail 
+	
+	
+
+	
+Spam Filtering Service - Junk Email Filter Inc.
+
+
+Junk Email Filter (tm)
+Hosted spam filtering and virus blocking service.
+Spam filtering doesn't cost money - it saves money.
+We block the junk email and forward the good email on to you.
+John C. Dvorak says, "I get NO SPAM!"
+
+
+Junk Email Filter is a front end email spam filtering (hosted spam filter service) and virus removal processing service for your domains. Your email comes to our servers, we filter the spam and block the viruses using our new Evolution Spam Filter (TM) and we forward the good email to your existing server. No software to install on your server or your client computers. And if you need email hosting, we have that too!
+
+We use our advanced spam filter and virus filter servers to remove the junk email and computer viruses and pass the good email on to your current email server. The main advantage of this type of spam filtering is that it is easy to set up and it doesn't require changes to your existing email server. You can be running in minutes!
+
+
+No software to install. It Just Works!
+
+There is nothing you have to change on your server - no software to install on your workstations - no changes to your workstation configuration. It takes only 5 minutes to turn it on and your junk email and viruses just go away. It's so easy it's almost too good to be true and IT JUST WORKS!
+
+We've been filtering spam since 2001. Our system is extremely reliable with an insane amount of redundancy in the system. Our system is considered to be one of the most advanced and accurate filters on the planet. We don't just look at the content of the message, but also the behavior of the spammer. Although no spam filter is perfect, we get as close to getting it right as can be achieved.
+
+
+Try our hosted spam filtering service out risk free!
+
+And you can try it out risk free! There is no up front billing. We set you up and you can try it out. in about a week you'll get an invoice by email. After that you have 30 more days to try our spam filter out, If you cancel before the 30 days are up there's no charge for the email filtering. The way we see it - we want you to be happy with our spam filter service first before you have to pay anything.
+
+Just 3 easy steps to activating our front end spam filter service:
+
+You send us a list of the domain(s) you want us to spam filter.
+We set you up in our system and email you the instructions.
+You activate spam blocking by changing your MX records to point to our servers.
+Once the MX records are changed your email comes to us first, we clean it, and forward the good email on to your server. Your email comes in just like it always did - less the spam.
+
++---------------------------------------------------------+
+| Email from Internet -> Junk Email Filter -> Your Server |
++---------------------------------------------------------+
+
+NEW!
+We have made a BREAKTHROUGH
+in Spam Filtering Technology!
+
+Junk Email Filter introduces the new
+* Evolution Spam Filter (TM) *
+
+The last big breakthrough in spam filtering was Bayesian Filtering. That's nothing compared to what we are doing. We can't talk about the details about how this filter works (yet) as we are investigating the possibility of a software patent. But we are seeing accuracy approaching 100%. It is especially good at eliminating false positives.
+
+The Evolution Spam Filter is a recursive learning system that can actively detect good email as well as spam. The longer it runs the smarter it gets. We feel we are still in the beginning stages of what the Evolution Spam Filter can do. But even at this stage we are so far ahead of everyone else it's scary.
+We do plan to license this technology to other companies. If you are interested in this send an email to Support and we will get back to you. Here is a detailed description of the Evolution Spam Filter and how it works. Licensing information included.
+
+
+The name "Evolution Spam Filter" is a Trademark of Junk Email Filter Inc.
+All Rights Reserved
+
+
+Why Choose Junk Email Filter?
+Accuracy - Our hosted spam filter written in house isn't just a wrapper around SpamAssassin. Our system looks to the behavior of the spammer as well as the content of the message. Our Evolution Spam Filter (TM) technology makes our filter the most accurate spam filter on the planet. Our filter is very good at actively detecting good email, not just blocking spam.
+
+
+Ease of Setup - Our system can me activated with just an MX record change. We don't need you to enter a list of your email addresses. No hardware to buy, no software to install.
+
+
+Affordable - We don't charge by the number of email accounts you have. We charge by the number of good email messages you receive.
+
+
+Support - Tired of talking to the machine? Tired of not getting issues resolved from support? Tired of needing support? If you have a problem we can usually resolve any problem. Plus we give you a great control panel to customize the filter the way you want it.
+
+
+Experience - We've been in the spam filtering business since 2001. We were one of the first companies on the planet to develop the filter and forward model of spam filtering.
+
+
+Reliability - Our servers are always up. We provide MX backup services for your domain so if your server goes offline we accept your email and when you come back up your stored email is automatically delivered to you.
+
+
+No Risk Trial - We believe in try before you buy. No money or billing information up front. You try it - you like it - then you pay for it. If you don't like it then it doesn't cost you anything.
+
+
+It Just Works! - There's nothing like the feeling where you have a system that just works. Good email comes in, spam goes away.
+
+
+Listen to John C. Dvorak of PC Magazine praise our spam filtering service.
+
+If you have any questions about our system or want to set up a free trial feel free to contact us at sales@junkemailfilter.com.
+
+
+Your system works like it always has - but the spam and viruses go away.
+
+
+Quick links:
+Ready to give it a go? You can Order Service and try it out.
+Yes we have Email Hosting as well.
+Personalize your filtering with our Admin Interface.
+Find Support Information here or on our Tech Support Wiki. Or you can Email Support.
+Individual Email Accounts: use MarxMail
+Free Services:
+We offer a Free MX Backup Service.
+Use our RBL black/white lists to block spam.
+Use our Tarbaby Server to get rid of virus bots and help us build our black lists.
+Other Services:
+Do you need to do something unusual with email? Something that no one else offers? We do custom email processing. Just ask us and we'll see if we can accommodate your needs.
+Reliable Free-Speech Web Site Hosting: Computer Tyme Web Hosting
+Are you a competitor with your own black lists and white lists? We often trade our useful data for other useful data. The way we see it there's plenty of spam to be filtered. If we work together we can all do a better job. We partner with many other companies when we can benefit each other.
+Want to use our technology? Big email providers like Microsoft, Yahoo, and Google don't do as good of a job as we do.
+We will soon be offering an advanced smart DNS system that can do DNS based on advanced conditionals.
+
+
+Are we really as good at blocking spam as everyone says we are?
+This filter was developed by company founder and all around tech genius Marc Perkel. Marc is a leader in the spam filtering industry and was behind several of the spam filtering technologies currently in use today. We share a lot of our technologies with our competitors and many of them share with us. In order to fight spam we all work together as a global team. And we at Junk Email Filter are proud to be part of that team.
+
+Junk Email Filter provides one of the world's biggest and most accurate black list and the world's biggest white list of any spam filtering service. Our HostKarma DNS database is a free service that helps us and thousands of other servers block billions of spams a day. We also feed hash codes of incoming spam to several hash matching services allowing others to detect the same kind of spam that we identified first. Our filtering system is so fast at identifying new spam that we can eliminate nearly 100% of spam bot spam.
+
+Email Privacy
+
+
+We don't provide government access to your email!
+We are dedicated to keeping your good email private. Privacy is in our opinion an absolute right. We do not disclose the contents of emails to lawyers, law enforcement, or government agencies. We will not comply with any subpoena that is not signed by a judge of appropriate jurisdiction (Santa Clara County California, United States). This means no NSA letter that do not have a judge's signature. We will fight any attempt of any government to spy on our customers. We will cooperate with law enforcement in cases where lives are in immediate danger.
+
+We are not however like AT&T and other Telecoms that just hand over access to anything governments want to tap. It is our view that government exist solely for the purpose of serving the people and no other reason. Government spying for the purpose of gathering information on political dissidents for the purpose of oppressing free speech is fundamentally wrong and our spam filtering service will not cooperate with it.
+
+Our servers support encrypted connections both incoming and outgoing. We encourage everyone to use encryption when sending email across the Internet. Additionally we do not normally store email on our servers except for the time it takes in between when we receive it and when we send it out. Most good email that passes through our servers stays in RAM and is never written to disk. That which is written to disk is deleted as soon as we send it on unless we are saving something for diagnostic reasons. We do however save spam in some situations for analysis and we share blacklist, whitelist, hash fingerprints, and other forensic information with others in the spam filtering business and with the public to assist those who are also trying to block spam.
+
+We also encourage you to support the good folks at the Electronic Frontier Foundation in their tireless effort to protect our online privacy rights.
+
+
+Technical Details.
+
+The system is very easy to set up and requires no hardware and you don't have to reconfigure your existing email server. All you have to do is set your mail exchange record (MX) to our servers and incoming email destined for your domains will be delivered to us - we process the messages - and then pass the good email on to your existing email server. Its that easy.
+
+Protection - Virus Detection is very accurate. We block all windows executables and scan all other attachments.
+Defense - Messages containing viruses or spyware are blocked never reaching your server or your users.
+Accuracy - Spam Filtering is VERY accurate. Very little spam missed.
+Reliable - Multiple Servers in Multiple Locations
+Easy Setup - you change nothing on your existing email system.
+Inexpensive - very low cost for one domain or all your domains.
+Fast - it only adds a few seconds to the delivery time of your email.
+Compatible - it doesn't matter if your servers are running Windows, Linux, Netware, or Macs - this system works the same no matter what you are personally running - and you don't have to change a thing.
+Unique - Multi-Level Spam Detection to eliminate false positives.
+How it works.
+We catch most spam based on the behavior of the spammer rather than the content of the message. Spammers are on the run these days operating mostly through virus infected spam bots. Spam bots send spam differently that normal email servers. They try to sneak spam in the back door. They don't issue QUIT commands to close the connection. They often use email addresses mined from web sites and do dictionary attacks. These behaviors and others allow use to know a message is spam without having to look at the content of the message.
+
+The two level spam filtering makes this service unique. Messages are classified on a points system using Spam Assassin. Messages that score very high are considered high spam and they are blocked. Messages that score between 5 points and 15 are considered low spam. These messages are flagged with special message headers indicating that they are "probably spam" and are passed on to your server. You can create filter rules to see these messages and route them to a spam folder.
+
+The reason we do it this way is because no spam filter is perfect. But we deal with the fact that messages are missed or wrongly identified as spam in a way that helps to ensure that you don't lose any email.
+
+If a message were falsely marked as spam - it would fall into the low spam classification. But with the high scoring spam removed completely - these false positives are far easier to find because they are in a much smaller pile of messages that are spam. This way the message is still delivered to you but because we get rid of the high scoring spam - there is far less spam reaching your server and it makes these false positives easy to find.
+
+
+Here's a diagram of how the mail is processed:
+
+What this means to you is - you don't lose any email due to the spam filter getting it wrong. The messages classified as low spam is often only 1/100 of the total spam sent to you. So what we do is bounce 99% of your spam and tag the remaining 1% as "probably spam" and pass it on to you.
+
+
+
+Hosted virus filtering.
+
+Although we still recommend that end users use anti-virus software on their workstations and laptop computers - we provide a second level of defense - and a better defense against viruses. We strip the virus messages before they ever reach your users. And we do a better job of it that workstation anti-virus software does.
+
+Although companies like McAfee and Symantec keep on top of viruses - there is a lag time between when a virus first appears and when they discover it. And an even greater lag time till end users download new virus definitions which might be as little as once a week. This creates a window of exposure where your end users are unprotected.
+
+We use a server side virus filter called ClamAV. Our definitions are updated hourly so we are more likely to stop those new viruses faster than workstation installed software will. Additionally - we block all Windows Executable attachments so even if a new virus is created right now - if it's a Windows Executable - it's not going to get past our filter. Our system gives your users far stronger protection preventing then from being infected and resulting in downtime - loss of data - and costly repairs.
+
+Compatibility with your Existing Email System
+
+Because of the way we are preprocessing email we are totally compatible with all other email systems. So it doesn't matter if you run Microsoft Windows, Linux, BSD, Solaris, Macintosh, or Netware - our system works. It is compatible with all other email server software such as Microsoft Exchange, Sendmail, QMail, PostFix, Exim or other mailer. And the best part is - you don't have to change any settings to make this work.
+
+Your end users don't have to change any of their email setting either and is compatible with popular email clients such as Microsoft Outlook, Outlook Express, Mozilla, Netscape, Apple Mail, Eudora and others. Users can take further advantage of the spam filtering by creating a filter rule in their email client to route messages marked with the spam header tag to a special spam folder for later viewing.
+
+Additionally - if your email users are using bayesian spam filtering already - our preprocessing will make those filters more accurate. These filters look at messages and learn what it spam and what isn't and with the additional header information your existing bayesian filtering will just start to work better leading to happier and more productive email users.
+
+The bottom line is - this is a system that actually works to block spam - is easy to set up - and is well worth it. Do you want to spend your time deleting spam and viruses? Do you want your employees doing real work instead of deleting spam? If so - then this service sounds like what you need - email us with your details for a custom price quote.
+
+ 
+	
+	
+
+
+Junk Email Filter (tm) and Hostkarma (tm) are trademarks of Junk Email Filter Inc. All Rights Reserved
+Click here to Order Spam Filtering Service
+	
+	
+

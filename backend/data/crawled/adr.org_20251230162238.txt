@@ -1,0 +1,506 @@
+  Opens in a new window Opens an external website Opens an external website in a new window       Close this dialog         This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.    Cookie Policy   Storage Preferences      Targeted Advertising  Personalization  Analytics       Save   Accept All   Reject All                             Close Cookie Preferences             
+        
+        
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGKJQ5B" height="0" width="0"
+                    style="display:none;visibility:hidden"></iframe>
+        
+        
+    
+        
+
+    Skip to header
+    Skip to main content
+    Skip to footer
+
+
+    
+        Log In
+    
+    
+        File a Case
+    
+
+
+    const navBar = document.getElementById('header');
+    window.isBannerDisplay = false;
+    const skipLinks = document.querySelectorAll('.skip-link');
+    const banner=document.getElementById('banner')
+    for (let i = 0; i < skipLinks.length; i++) {
+        skipLinks[i].addEventListener('focus', function() {
+            window.isBannerDisplay = true;
+            document.body.style.transform = "translateY(5.25rem)";
+            document.body.style.transition = "transform 0.3s ease";
+
+        });
+        skipLinks[i].addEventListener('blur', function() {
+            window.isBannerDisplay = false;
+            document.body.style.transform = "none";
+
+        });
+    }
+    const myLoadFunction = function () {
+        document.body.style.display = ''; // helps in CLS
+        let lastScrollTop = 0; // Store the last scroll position
+        let metanavbarselect
+        const navbar = document.querySelector('adr-navbar'); // Get the navbar element
+        let navbarDistance = navbar.getBoundingClientRect().bottom;
+        const metanavSelect = document.querySelector('adr-meta-nav'); // Get the meta-nav element
+        let metanav = null;
+        if (metanavSelect) {
+            metanav = metanavSelect
+        }
+        let metaOffset = null;
+        let placeholder = null;
+        
+        
+        // Initialize metanav-related variables if it exists
+        if (metanav) {
+            metaOffset = window.pageYOffset + document.getElementById('nav-height-memory').getBoundingClientRect().top;
+            placeholder = document.createElement('div'); // Placeholder for spacing
+            placeholder.style.height = `${metanav.getBoundingClientRect().height}px`;
+            placeholder.className = 'new-ele';
+        }
+
+        // Event listener for scroll
+        window.addEventListener('scroll', () => {
+            const bannerHeight = document?.querySelector('#banner')?.shadowRoot.querySelector('.banner-container').offsetHeight
+            let calcdistance = 103;
+            if(bannerHeight){
+                calcdistance = bannerHeight + 103
+            }
+            const scrollTop = window.pageYOffset || document.documentElement.scrollTop; // Current scroll position
+            const scrolled = window.scrollY;
+
+            if (metanav) {
+                if (scrolled + calcdistance > metaOffset) {
+                    metanav.style.top = `${calcdistance + (window.innerWidth <= 1200 ? -30 : -33)}px`;
+                    if (!metanav.classList.contains('visiable-meta')) {
+                        metanav.classList.add('visiable-meta');
+                        metanav.insertAdjacentElement('afterend', placeholder);
+                        navbar.setAttribute('variant', 'meta-scroll');
+                        metanav.setAttribute('variant', 'meta-scroll');
+                    }
+                } else {
+                    if (metanav.classList.contains('visiable-meta')) {
+                        metanav.classList.remove('visiable-meta');
+                        metanav.style.top = '';
+                        document.querySelector('.new-ele')?.remove();
+                        navbar.setAttribute('variant', 'nav');
+                        metanav.removeAttribute('variant', 'meta-scroll');
+                    }
+                }
+            }
+
+            // Handle navbar visibility on scroll direction
+            if (scrollTop > lastScrollTop && scrollTop > window.innerHeight) {
+                // Scrolling down
+                if (!navbar.classList.contains('visiable')) {
+                    navbar.classList.add('visiable');
+                    navbar.setAttribute('indexToShow', '-1');
+                    navbar.setAttribute('show', 'false');
+                    if (metanav) metanav.classList.add('visiable');
+                    if (metanav && metanavbarselect) metanavbarselect.setAttribute('openDropdown', 'false');
+                }
+            } else {
+                // Scrolling up
+                if (navbar.classList.contains('visiable')) {
+                    navbar.classList.remove('visiable');
+                    if (metanav) metanav.classList.remove('visiable');
+                }
+            }
+
+            lastScrollTop = scrollTop; // Update the last scroll position
+        });
+    };
+    window.addEventListener('load', myLoadFunction, false);
+
+
+    
+    
+        
+    
+
+    
+    
+        The World’s Leading Provider of Dispute Solutions
+    
+
+
+
+    
+
+    Alternative Dispute Resolution
+    Our services
+    
+        
+                
+                    Arbitration
+                
+                
+                    Mediation
+                
+                
+                    Online Dispute Resolution
+                
+        
+    
+
+
+    
+    A Legacy of Expertise & Experience
+    Why AAA?
+    
+        
+    
+        
+            View All AAA ADR Data
+        
+    
+                Why AAA?
+            
+    
+        
+                
+                    537,000 cases
+                    
+                        filed in 2024
+                    
+                            
+                
+                
+                    $27 billion
+                    
+                        in B2B claims and counter claims alone in 2024
+                    
+                            
+                
+                
+                    Over 5,100 
+                    
+                        experienced panelists  
+                    
+                            
+                
+                
+                    3x faster
+                    
+                        arbitration vs litigation on average
+                    
+                            
+                
+        
+    
+
+
+    
+    
+        The Latest
+        News
+        
+                
+                    Inside the AI Arbitrator
+                
+            
+
+                    
+                    
+                    
+                    
+            
+                            AI Transformation in Law: What Legal Leaders Should Know
+                       
+                            How the AAA's AI Arbitrator is Transforming Dispute Resolution: Inside the Innovation with AAA COO and CRO Frank Rossi
+                       
+                            New AAA® Education Resources for Self-Represented Parties 
+                       
+                            Mediation as a Tool in Entertainment Disputes: A Guide for Sophisticated Mediators
+                       
+        
+    
+
+
+    const params_qGVFf = new URLSearchParams(window.location.search);
+    var noOfRecordsPerLoad_qGVFf = 100;
+    var noOfRecordsLoaded_qGVFf = 0;
+    var data_qGVFf = [{"season":"Season 0","episode":"S0 | Episode 0","label":"Blog","topic":"AI","date":"December 16, 2025","dateAsNumber":"20251216","title":"AI Transformation in Law: What Legal Leaders Should Know","description":"\nReal-world lessons on culture, training, and governance from the Future Dispute Resolution \u2013 New York Conference\u0026nbsp;\n\n\nSuccessful AI transformation in legal practice\u0026nbsp;doesn\u2019t\u0026nbsp;start with so","imageUrl":"/media/glyf5u0t/istock-2167141284-1.jpg","imageAlt":"Istock 2167141284 1","cta":[{"variant":null,"href":"/news-and-insights/ai-transformation-in-law/","title":"Read More","target":"_blank","icon":"arrow-right"}],"color":"offset-lighter","colorful":false},{"season":"Season 2","episode":"S2 | Episode 17","label":"Podcast","topic":"AI","date":"December 04, 2025","dateAsNumber":"20251204","title":"How the AAA\u0027s AI Arbitrator is Transforming Dispute Resolution: Inside the Innovation with AAA COO and CRO Frank Rossi","description":"In this episode, Frank Rossi, AAA COO and CRO, joins host Bridget McCormack and Zach Abramowitz to share how the AAA built its first-of-its-kind, human-in-the-loop AI Arbitrator.","imageUrl":"/media/imcepgrv/frank_rossi_ai_arbitrator.webp","imageAlt":"Frank Rossi, AAA COO and CRO","cta":[{"variant":null,"href":"/podcasts/the-aaai-podcast/how-the-ai-arbitrator-is-changing-dispute-resolution-with-frank-rossi-aaai-podcast-episode-17/","title":"Read More","target":"_blank","icon":"arrow-right"}],"color":"offset-lighter","colorful":false},{"season":"Season 0","episode":"S0 | Episode 0","label":"Press Release","topic":"AAA News","date":"December 04, 2025","dateAsNumber":"20251204","title":"New AAA\u00AE Education Resources for Self-Represented Parties ","description":"Resources provide step-by-step guidance and real-time answers for individuals navigating arbitration without legal counsel.\nNEW YORK (Dec. 4, 2025)\u2014The American Arbitration Association\u00AE (AAA), the glo","imageUrl":"/media/hssgfpmz/case-prep-for-non-attorneys.webp","imageAlt":"Arbitration Preparation and Presentation for Non-Attorneys","cta":[{"variant":null,"href":"/press-releases/new-aaa-education-resources-for-self-represented-parties/","title":"Read More","target":"_blank","icon":"arrow-right"}],"color":"offset-lighter","colorful":false},{"season":"Season 0","episode":"S0 | Episode 0","label":"Blog","topic":"Practice Areas","date":"December 03, 2025","dateAsNumber":"20251203","title":"Mediation as a Tool in Entertainment Disputes: A Guide for Sophisticated Mediators","description":"Introduction\nSome years ago, I served as sole arbitrator in a highly contentious bet the company entertainment case involving the production and distribution of animated television programming.\u0026nbsp; ","imageUrl":"/media/suohjh00/mediation_entertainment_disputes.webp","imageAlt":"Mediation entertainment disputes","cta":[{"variant":null,"href":"/news-and-insights/mediation-in-entertainment/","title":"Read More","target":"_blank","icon":"arrow-right"}],"color":"offset-lighter","colorful":false}];
+    var filterDataCount_qGVFf = 0;
+    var isCentury = "";
+
+    loadData_qGVFf(true);
+    function loadData_qGVFf(nextPage) {
+        clearRecords_qGVFf();
+        var loadedRecords = data_qGVFf;
+        if (nextPage) {
+            noOfRecordsLoaded_qGVFf = noOfRecordsLoaded_qGVFf + noOfRecordsPerLoad_qGVFf;
+            loadedRecords = loadedRecords.slice(0, noOfRecordsLoaded_qGVFf);
+        } else {
+            loadedRecords = loadedRecords.slice(0, noOfRecordsLoaded_qGVFf);
+        }
+         fillData_qGVFf(loadedRecords);
+    }
+    function safeStringToNumber(value) {
+        return value == null || value.trim() === "" ? 0 : Number(value);
+    }
+    function clearRecords_qGVFf() {
+        var clearList = document.getElementById('qGVFf').querySelectorAll("adr-news-card");
+        for (let i = clearList.length - 1; i >= 0; i--) {
+            clearList[i].remove();
+        }
+    }
+    function fillData_qGVFf(data){
+        var tag = document.getElementById('qGVFf').querySelector("adr-podcast-cards-wrapper");
+        data.forEach(result => {
+            let firstCta = result.cta ? result.cta[0] : null;
+            let secondCta = result.cta && result.cta.length > 1 ? result.cta[1] : null;
+
+            let str = `<adr-news-card slot="cards"
+                                      color="${result.color}"
+                                      pillColor="${result.colorful ? "white" : "black"}"
+                                      title="${result.title}"
+                                      variant="podcast"
+                                      topic="${result.label}"
+                                      bodytext="${result.description}"
+                                      label="${result.topic}"
+                                      date="${result.date}"
+                                      buttonUrl="${firstCta ? firstCta.href : ''}"
+                                      buttonTitle="${firstCta ? firstCta.title : ''}"
+                                      target="${firstCta ? firstCta.target : ''}"
+                                      iconName="${firstCta ? firstCta.icon : ''}"
+                                      buttonUrl2="${secondCta ? secondCta.href : ''}"
+                                      buttonTitle2="${secondCta ? secondCta.title : ''}"
+                                      iconName2="${secondCta ? secondCta.icon : ''}"
+                                      target2="${secondCta ? secondCta.target : ''}"
+                                      imageUrl="${result.imageUrl}"
+                                      imageAlt="${result.imageAlt}"
+                                      ${isCentury}>
+                            <h3 slot="h3tag" class="card-title-h3 podcast">${result.title}</h3>
+                       </adr-news-card>`;
+            tag.insertAdjacentHTML("beforeend",str);
+        });
+        if(data_qGVFf.length == data.length){
+            document.getElementById("loadmore_qGVFf").style.display = "none";
+        }
+    }
+
+
+
+    
+    
+        
+            Now Live
+                AI Arbitrator
+                The AI arbitrator is now available for use in two-party documents-only construction cases, with support for additional industries, dispute types, and higher value claims to follow. The AI arbitrator will deliver fast, cost-effective, and trusted dispute resolution.
+                
+                    Learn More
+                
+        
+    
+
+
+    
+
+    Industry-Specific ADR
+    Our practice areas
+    
+            
+                Accounting
+            
+            
+                Cannabis
+            
+            
+                Commercial
+            
+            
+                Construction
+            
+            
+                Consumer
+            
+            
+                Employment
+            
+            
+                Energy
+            
+            
+                Entertainment
+            
+            
+                Financial Services
+            
+            
+                Franchise
+            
+            
+                Government
+            
+            
+                Healthcare
+            
+            
+                Hospitality
+            
+            
+                Insurance and Reinsurance
+            
+            
+                Intellectual Property and Licensing
+            
+            
+                International
+            
+            
+                Labor
+            
+            
+                Life Sciences
+            
+            
+                Mass Arbitration
+            
+            
+                Mergers, Acquisitions, and Joint Ventures
+            
+            
+                Pension
+            
+            
+                Partnership and Shareholder Disputes
+            
+            
+                Professional Services
+            
+            
+                Small Business
+            
+            
+                Sports
+            
+            
+                Technology
+            
+            
+                Transportation
+            
+    
+
+
+    
+    Democratizing Dispute Resolution through Innovation
+    InnovAAAtion
+    
+        By integrating new technologies, the AAA seeks to make ADR services more accessible, efficient, and fair for all.
+    
+    
+                InnovAAAtion
+            
+    
+        
+                
+                    Technology Enhancements
+                    
+                        Adopting new technology helps us streamline processes and improve the efficiency of dispute resolution, making it faster and more cost-effective for all parties involved.
+                    
+                            
+                
+                
+                    New Products and Services
+                    
+                        Incorporating ClauseBuilder AI (Beta) and online dispute resolution (ODR) services, the AAA is making ADR more accessible. 
+                    
+                            
+                
+                
+                    Advancing ADR Rules, Procedures, and Processes
+                    
+                        To keep the AAA at the forefront of ADR, we are constantly researching and improving procedures as well as providing the latest educational resources for our panelists.
+                    
+                            
+                
+        
+    
+
+
+    
+    
+        
+            Educational programs
+                Supporting the Education of Advocates and Panelists
+                From ADR fundamentals to AI in arbitration, the AAA provides free resources and paid courses for every experience level. 
+                Explore webinars, in-person events, and podcasts designed to educate and engage.
+                
+                    Explore Offerings
+                
+        
+    
+
+
+    
+    Have questions?
+    Q&A
+    
+        
+    
+    
+                Q&A
+            
+    
+        
+                
+                    
+                    
+                        For general inquiries or questions about filing a new case, call Customer Service at 800-778-7879.
+For faster service, send an email to: CustomerService@adr.org.
+                    
+                            
+                
+                
+                    
+                    
+                        Please contact the case manager or email Customer Service with the AAA case number at CustomerService@adr.org.
+                    
+                            
+                
+                
+                    
+                    
+                        Questions about international dispute resolution or global and domestic AAA-ICDR office locations?
+                    
+                            
+                
+        
+    
+
+
+
+    
+    
+        
+
+    
+        Cookies Preferences
+            
+                About Us
+            
+            
+                Start Your Case
+            
+            
+                Visit other AAA Sites
+            
+    
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+

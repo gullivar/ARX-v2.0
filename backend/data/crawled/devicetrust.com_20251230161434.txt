@@ -1,0 +1,95 @@
+Skip to content
+Story
+Product
+Benefits
+Resources
+Company
+Download
+
+deviceTRUST is now part of Citrix, a business unit of Cloud Software Group. Learn more on Citrix.com
+
+ Watch our Explainer video
+Zero Trust Requires Device Trust
+Context as a Factor
+Real-Time Conditional Access
+Conclusion
+Zero Trust requires Device Trust
+
+Stealing users’ credentials is currently one of the most significant attack vectors. Even traditional multi-factor methods can often be copied or bypassed.
+
+Use your devices as a security factor and bring your conditional access to the next level!
+
+With deviceTRUST, you add an additional layer of security to your Zero Trust Strategy.
+
+Context as a Factor
+
+deviceTRUST Contextual Security is the layer to protect a company's data and resources and reduces the costs associated with managing and securing digital workspaces while keeping productivity high.
+
+Real-time conditional access
+> INTEGRATE deviceTRUST QUICK AND EASY INTO EXISTING AUTHENTICATION SYSTEMS WITHOUT ADDITIONAL HARDWARE COMPONENTS.
+Context always up-to-date
+> CONTROL ACCESS TO WORKSPACES, SESSIONS AND APPLICATIONS WITH deviceTRUST IN REAL TIME AND EVERY SITUATION.
+Customizable to individual requirements
+> CUSTOMIZED CONFIGURATIONS ARE PROVIDED BY deviceTRUST TO MEET SPECIFIC SECURITY AND ACCESS CONTROL NEEDS.
+Without user interaction / distraction
+> USE DEVICES AS AN ADDITIONAL LAYER OF SECURITY WITH deviceTRUST AND BYPASS CLASSIC LAYER-8 PROBLEMS.
+Runs exclusively in the customer's environment
+> SOLUTIONS ARE DEPLOYED EXCLUSIVELY WITHIN THE CUSTOMER'S IT ENVIRONMENT, ENSURING SEAMLESS INTEGRATION AND CONTROL.
+WHAT IS THE CONTEXT
+
+
+
+
+Real-Time Conditional Access
+
+Based on your Context, deviceTRUST performs the Actions you need to protect your digital workspace
+
+Workspaces
+
+Use Conditional Workspace Access to control access to your digital workspaces.
+
+Applications
+
+Define individually which applications users are allowed to access within their digital workspaces.
+
+Configuration
+
+Configure users' digital workspaces beyond the standard security approach with Conditonal Configuration.
+
+External Systems
+
+Leverage additional contextual properties from external sources for compliance reporting and enrichment of other systems.
+
+WHAT MAKES OUR REAL-TIME SPECIAL
+
+Are you ready to optimize your Zero Trust Strategy?
+
+We support you all the way, from the concept to implementation and operation.
+
+Let´s get in touch!
+TRY NOW
+CONTACT NOW
+Contact - General
+
+deviceTRUST GmbH
+
+Rosa-Parks-Strasse 4
+64295 Darmstadt
+Germany
+	
+
++49 89 4445 6400
+
+	
+
+info@devicetrust.com
+
+Legal and Compliance
+
+Imprint
+
+Privacy policy
+
+Legals
+
+© 2025 deviceTRUST®. All Rights Reserved.

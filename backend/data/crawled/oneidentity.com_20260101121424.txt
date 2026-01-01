@@ -1,0 +1,190 @@
+One Identity | Unified Identity Security For the best web experience, please use IE11+, Chrome, Firefox, or Safari Resources All Resources Learning Hub Blog Communities United States (English) Brazil (Português) France (Français) Germany (Deutsch) Japan (日本語) Mexico (Español) Account
+									Settings Sign Out Sign In Create
+									Account Products Main Menu Products Products Privileged
+																			Access Management PAM Essentials Safeguard Safeguard
+																			On Demand Safeguard
+																			for Privileged Analytics Safeguard
+																			for Privileged Passwords Safeguard
+																			for Privileged Sessions Safeguard
+																			Remote Access Access Management OneLogin Workforce
+																			Identity OneLogin Customer
+																			Identity Password
+																			Manager Defender Identity
+																			Governance and Administration Identity
+																			Manager Identity
+																			Manager On Demand Identity
+																			Manager On Demand Starling Edition Identity
+																			Manager Data Governance Starling
+																			Connect Active
+																			Directory Management Active
+																			Roles Log Management Log Management Appliance Log Management Software Open Source Log
+																			Management View All
+                                                                    Products Solutions Main Menu Solutions Achieve identity-centric
+															cybersecurity to protect the people, applications and data
+															that are essential to business All
+															Solutions All
+															Integrations Compliance Solutions Behavior Driven Governance Gain full visibility into which access rights are being used, how and by whom.
+																	Enforce the principle of least privilege and reduce vulnerabilities and licensing costs. Enhanced Active Directory Governance Streamline AD/Entra ID management with enhanced security, simplified integration and advanced governance that goes beyond traditional IGA connectors. Privileged access governance Close the gap between privileged access and standard
+																	user identities across the enterprise. Advanced Authentication Fortify your defenses with strong and adaptive authentication, preventing unauthorized access to your most critical
+																	systems, applications and sensitive data. Enhance log management Reliably collect, store and manage logs from hundreds
+																	of systems across the enterprise. Support digital transformation Take measured steps to ensure digital transformation
+																	initiatives stay in line with identity security best
+																	practices. Drive operational efficiencies Streamline process, reduce errors and minimize
+																	complexity associated with managing identities. AI-driven security with built-in predictive insights At One Identity, AI isn’t just an add-on: It’s built-in to deliver predictive insights right out of the box. Unify your identity security environment with One Identity fabric The One Identity fabric weaves together previously siloed identity tools, creating a unified and seamless identity and access management framework. Public Sector Enable government processes to satisfy regulatory
+																requirements, surpass operational efficiency goals and
+																improve service delivery. Support & Services Main Menu Support Portal Contact Support Communities Services Partners Main Menu Partner Ecosystem Become a Partner Partner Portal Find a Partner Success Stories About Main Menu About Us Our
+												Perspective Leadership Customer
+												Stories News Careers Contact Us Resources Main Menu All Resources Learning Hub Blogs Communities United States (EN) Main Menu United States
+												(English) Brazil (Português) France (Français) Germany (Deutsch) Japan (日本語) Mexico (Español) Free Trials Request Pricing AI is transforming cyber threat
+												detection One
+												Identity provides predictive AI out of the box Our
+												Solutions Unify your identity security
+												with One Identity Fabric Our
+												Solutions Previous Next Nav Menu Why One Identity What We Do What We Offer Proven
+							Leadership Get Started Why One Identity Our mission is to protect and simplify access to digital identities,
+						enabling a safer and more secure world. Learn More Solutions designed for cloud, on-prem and hybrid Accelerate the cloud Cloud without compromise Unify policies and secure access to identities across your enterprise Learn
+							More Privileged access risk mitigation Prevent and minimize breach damage with SaaS-based PAM solutions Learn
+							More Secure workforce, customer and partner identities Centralize and secure your identities and applications Learn
+							More Manage identities natively in the cloud Leverage cloud-based access management designed for the modern
+							enterprise Learn
+							More Move to an identity fabric IAM program optimization Shift from a project-based IAM approach to a unified, holistic IAM
+						program Learn
+						More Compliance and reporting, simplified Tighten compliance procedures and controls while satisfying regulations
+						and IT security mandates Learn
+						More Behavior driven governance Gain continuous visibility into access levels to enforce least
+						privilege and reduce risks Learn
+						More Cyber insurance Level up your identity security and satisfy the demands of your cyber
+						insurance coverage Learn
+						More Privileged access governance Close the gap between privileged access and standard user identities
+						across the enterprise Learn
+						More Secure Microsoft resources Hybrid AD security and management Secure and automate the administration, access and provisioning of
+						users and groups for AD/Entra ID/M365 Learn
+						More Unix and Linux extension for AD/Entra ID/M365 security and management Unify policy-based management across all your operating systems Learn
+						More Least privileged access Decrease attack surface by deprovisioning access that is not needed or
+						not in use Learn
+						More Identity lifecycle Secure user access and automate provisioning to any target on-premises
+						or in the cloud Learn
+						More Govern your enterprise Identity governance Provides governance of users, data and privileged accounts from a
+						single platform Learn
+						More Risk exposure reduction Enables granular attestation campaigns based on specific changes made
+						to users, roles and assignments Learn
+						More Integrations and connectors Extend identity governance capabilities to the cloud and reduce
+						onboarding time Learn
+						More Application governance Streamline application access decisions and enable line-of-business
+						managers to make informed decisions Learn
+						More Enhance authentication Advanced authentication Authentication that dynamically adapts to risky user behavior Learn
+						More Workforce identity Simplify access management, secure your workforce, and protect critical
+						systems and sensitive data Learn
+						More Customer identity (CIAM) Secure identities and deliver seamless, customized experiences for your
+						customers Learn
+						More Enforce authentication at the device level Authenticate users at device login, adding an extra layer of protection
+						to the login process Learn
+						More Secure your data Data governance Control and secure unstructured and sensitive data Learn
+						More Least privileged access Automate privileged access with delegation for secure, efficient and
+						consistent identity management Learn
+						More Compliance and auditing Satisfy regulatory, industry and jurisdictional requirements related to
+						identity security Learn
+						More Log management enhancement Collect, store and manage logs from hundreds of systems across the
+						enterprise, reliably and safely Learn
+						More Support digital transformation RPA security optimization Enforce continuous compliance for non-human identities, such as
+						separation of duties and ownership of the robot Learn
+						More DevOps security orchestration Attain comprehensive security for ops, including third party and
+						automated tools Learn
+						More Mergers and acquisitions Adapt to changes including M&A and layoffs that often require
+						significant manual intervention Learn
+						More Enhanced AD Governance Achieve seamless, secure and simplified integration with AD/Entra ID Learn
+						More Cloud without compromise Unify policies and secure access to identities across your enterprise Learn
+					More Privileged access risk mitigation Prevent and minimize breach damage with SaaS-based PAM solutions Learn
+					More Secure workforce, customer and partner identities Centralize and secure your identities and applications Learn
+					More Manage identities natively in the cloud Leverage cloud-based access management designed for the modern
+					enterprise Learn
+					More IAM program optimization Shift from a project-based IAM approach to a unified, holistic IAM
+					program Learn
+					More Compliance and reporting, simplified Tighten compliance procedures and controls while satisfying regulations
+					and IT security mandates Learn
+					More Behavior driven governance Gain continuous visibility into access levels to enforce least
+					privilege and reduce risks Learn
+					More Cyber insurance Level up your identity security and satisfy the demands of your cyber
+					insurance coverage Learn
+					More Privileged access governance Close the gap between privileged access and standard user identities
+					across the enterprise Learn
+					More Hybrid AD security and management Secure and automate the administration, access and provisioning of
+					users and groups for AD/Entra ID/M365 Learn
+					More Unix and Linux extension for AD/Entra ID/M365 security and management Unify policy-based management across all your operating systems Learn
+					More Least privileged access Decrease attack surface by deprovisioning access that is not needed or
+					not in use Learn
+					More Identity lifecycle Secure user access and automate provisioning to any target on-premises
+					or in the cloud Learn
+					More Identity governance Provides governance of users, data and privileged accounts from a
+					single platform Learn
+					More Risk exposure reduction Enables granular attestation campaigns based on specific changes made
+					to users, roles and assignments Learn
+					More Integrations and connectors Extend identity governance capabilities to the cloud and reduce
+					onboarding time Learn
+					More Application governance Streamline application access decisions and enable line-of-business
+					managers to make informed decisions Learn
+					More Advanced authentication Authentication that dynamically adapts to risky user behavior Learn
+					More Workforce identity Simplify access management, secure your workforce, and protect critical
+					systems and sensitive data Learn
+					More Customer identity (CIAM) Secure identities and deliver seamless, customized experiences for your
+					customers Learn
+					More Enforce authentication at the device level Authenticate users at device login, adding an extra layer of protection
+					to the login process Learn
+					More Data governance Control and secure unstructured and sensitive data Learn
+					More Least privileged access Automate privileged access with delegation for secure, efficient and
+					consistent identity management Learn
+					More Compliance and auditing Satisfy regulatory, industry and jurisdictional requirements related to
+					identity security Learn
+					More Log management enhancement Collect, store and manage logs from hundreds of systems across the
+					enterprise, reliably and safely Learn
+					More RPA security optimization Enforce continuous compliance for non-human identities, such as
+					separation of duties and ownership of the robot Learn
+					More DevOps security orchestration Attain comprehensive security for ops, including third party and
+					automated tools Learn
+					More Mergers and acquisitions Adapt to changes including M&A and layoffs that often require
+					significant manual intervention Learn
+					More Enhanced AD Governance Achieve seamless, secure and simplified integration with AD/Entra ID Learn
+					More Products crafted to simplify your workflow Safeguard Protect, monitor and record privileged access to your most critical
+				systems with just-in-time access Learn
+				More Identity Manager Govern and secure user access to data and enterprise apps to reduce risk
+				and satisfy compliance Learn
+				More Active Roles Secure and automate the administration, access and provisioning of users
+				and groups for AD/Entra ID Learn
+				More OneLogin Secure cloud-based access management for the modern enterprise. Protect
+				identities and deliver seamless, customized experiences Learn
+				More syslog-ng Deliver log data from across your IT environment with a solution trusted
+				by more than a million users worldwide Learn
+				More Don’t see the products you’re looking for? View our complete product offering to create the ideal solution for
+				your organization All
+				Products Trusted and proven worldwide We’ve been using Active Roles for more than 10 years. We
+											believe that automation is key in working more efficiently as an
+											organization…. the combination of Change Auditor and Active
+											Roles makes it actually perfect. Change Auditor gives you that extra
+											layer of protection to protect highly sensitive Active Directory
+											groups. Luc de Smet Senior Manager of Digital Workspace Solutions and Security
+												Infrastructure Team Read Case Study We have been an Identity Manager customer for about 10 years.
+											It’s a big application, and you can do a lot with it. The
+											automation is amazing. Joshua Bright IT Identity Security Specialist, Western Carolina University Read Case
+												Study The main benefit of Identity Manager is being fully compliant with
+											regulations, mostly through automation. In this industry, you have
+											to keep up with all the regulations, both national and European, and
+											the automation helps us do that. Yoann Switala Solution Architect IAM/PAM, Spuerkeess Read Case Study One Identity is a complete vendor for a comprehensive IGA/PAM
+											solution Filippo Pisapia Information Security Manager, CNP Vita Assicura Read Case Study We decreased the manual activities of the IAM team by threefold
+											with Identity Manager, so now we spend more time meeting the needs
+											of the business and providing value, which is great for everyone. René Drabo Identity and Access Management team member, POST Luxembourg Read Case Study By streamling provisioning with Identity Manager, we can roll out
+											40 applications per week to employees instead of two. Lucas Pachler Solution Architect Read Case Study Previous Next Solutions designed for your industry Find yours Financial Services Government Higher Education Healthcare Retail Thought leadership Videos Blogs All Analyst Report 2025 KuppingerCole Identity Fabrics Leadership Compass Analyst Report AI-powered identity: Fact or fantasy? eBook Managing the Invisible Risk of Non Human
+							Identities eBook Using role management to protect against AD
+							and Entra ID related risk video Why do customers and partners attend UNITE Video The future of digital identity: DNA, AI and
+							Blockchains Video Managing identities in a growing
+							organization: Lessons from SECURA Insurance Video How to build a cyber risk program that locks
+							out hackers Blog Unify your identity platform: Address the
+							IAM Trends Blog Integrating PAM with SIEM: Enhancing threat
+							detection and response Blog How Role-Based Identity Management Can
+							Protect Against AD- And Entra ID-Related Risk Blog Where speed meets security: The role of
+							real-time sync in IAM and why it matters Broad industry recognition One Identity Gartner PAM Magic Quadrant recognition One Identity is named a Visionary in the 2025 Gartner Magic
+				Quadrant™ for PAM Learn
+				More 15 Best Identity & Access Management Solutions (IAM) in 2025 One Identity recognized among the best 2025 IAM solutions by Cyber
+					Security News Learn
+				More Active Roles Wins 2025 Cybersecurity Excellence Award for Hybrid Active
+					Directory Protection Learn
+				More View all awards and accolades Contact Us Ready to get started? Get your free One Identity trial today. You’ll be glad you did. Get Started About Why One Identity Customer Stories News Careers Support Support Portal Contact Support One Identity University Forums Contact Contact One Identity Contact Sales Request Pricing Licensing Assistance Accounting Blogs Active Directory Management and Security Cloud Identity Governance & Administration Privileged Access Management © One Identity LLC. All Rights Reserved. Legal | Terms of Use | Privacy Policy Cookie Preference Center | Cookie Use Policy United States of America (EN) United States (English) Brazil (Português) France (Français) Germany (Deutsch) Japan (日本語) Mexico (Español) Please wait... This is the end

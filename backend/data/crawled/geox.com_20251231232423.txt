@@ -1,0 +1,157 @@
+Geox ® | Breathable shoes & clothing | Official Website World EN Woman Choose by New Additions OCCASION CHOOSE BY OCCASION Choose by occasion See all Winter look Office-appropriate looks Big-event outfits Versatile white sneakers CHOOSE BY FEATURE FEATURE Choose by feature See all Cushioning Added breathability Fast-in Extra grip Waterproofness Shop Woman Shoes Shoes See all Sneakers Ankle boots Boots Loafers Pumps Heels Wedges Slip on Ballerinas Lace ups and brogues Sandals Mules and slippers Apparel Apparel See all Jackets Anoraks Down jackets Coats Parkas Sweatshirts and hoodies Accessories Accessories See all Bags Socks Belts Purses and wallets Hats Shoe care Cell-phone holders Our ranges Highlights Gift Ideas For Her FAST TO PUT ON Help and support Find store Language and country English Language World EUR Country Language Please select your shipping country You are currently purchasing from World and your order will be invoiced in EUR €. World (selected) EUR € English World Man Choose by NEW ADDITIONS NEW ADDITIONS OCCASION CHOOSE BY OCCASION Choose by occasion See all Winter look Office-appropriate looks Versatile white sneakers CHOOSE BY FEATURE FEATURE Choose by feature See all Cushioning Added breathability Fast-in Extra grip Waterproofness Shop Man Shoes Shoes See all Sneakers Ankle boots Loafers Dress shoes Casual shoes Slip on Espadrilles Sandals Apparel Apparel See all Jackets Parkas Anoraks Down jackets Coats Bomber jackets Sweatshirts and hoodies Accessories Accessories See all Bags Belts Socks Wallets Hats Shoe care Our ranges Highlights GIFT IDEAS FOR HIM FAST TO PUT ON Kids NEW ADDITIONS Girl (4-12 years) Boy (4-12 years) Baby Girl (1-4 years) Baby Boy (1-4 years) First Steps (0-3 years) Preteen Girl (8-14 years) Special collections Shop Kids Girl (4-12 years) Shoes Shoes Shop by product See all Sneakers Light-up shoes Ankle boots Ballerinas Uniform shoes Sandals Special collections Disney for Geox Disney for Geox Harry Potter Harry Potter Looney tunes Boy (4-12 years) Shoes Shoes Shop by product See all Sneakers Light-up shoes Boots and ankle boots Uniform shoes Sandals Special collections Super DC Heroes for Geox Super DC Heroes for Geox Harry Potter Harry Potter Looney tunes Baby Girl (1-4 years) Shoes Shoes Shop by product See all First steps Sneakers Ankle boots Sandals Special collections Disney for Geox Disney for Geox Looney tunes Baby Boy (1-4 years) Shoes Shoes Shop by product See all First steps Sneakers Boots and ankle boots Sandals Special collections Dc Superheroes Looney tunes Special collections Special collections Looney Tunes for Geox Super DC Heroes for Geox Harry Potter for Geox Disney Stitch for Geox Disney | Geox Highlights Gift ideas for children AMPHIBIOX™ SHOES FOR KIDS FIRST STEPS WITH BAREFOOT Fast in system Geox World Create your account Log in Sign up Search No results found Useful links Shipping Returns Size guide Contact us Stores No results found Useful links Shipping Returns Size guide Contact us Stores Log in to your account Sign in to your account and discover the Geox world. Log in /int/register {
+	"IT": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"ES": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"PT": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"GB": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"FR": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"AT": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"DE": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"LU": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"BE": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"BG": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"HR": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"CZ": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"DK": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"EE": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"FI": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"GR": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"NL": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"HU": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"IE": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"LV": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"LT": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"MC": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"PL": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"RO": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"CH": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"SK": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	},
+	"SI": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"SE": {
+		"isNewsletterPopup": true,
+		"startDate": "2024/04/02",
+		"endDate": ""
+	},
+	"CA": {
+		"isNewsletterPopup": false,
+		"startDate": "2024/01/05",
+		"endDate": ""
+	},
+	"US": {
+		"isNewsletterPopup": true,
+		"startDate": "",
+		"endDate": ""
+	},
+	"GL": {
+		"isNewsletterPopup": false,
+		"startDate": "",
+		"endDate": ""
+	}
+} SIGN UP FOR OUR NEWSLETTER You will get updates on the latest news as well as product previews. Prefer not to say Woman Man Sign up I have read and understood the privacy statement . Explore our collections WOMAN MAN KIDS FAST IN SYSTEM WOMEN MEN Geox Respira™: breathable footwear and clothing Geox combines urban-inspired design with innovative technologies to create unique footwear and clothing collections.Versatile and functional, Geox collections include elegant shoes , sneakers , boots , jackets and down jackets for men and women, as well as a vast assortment of shoes for children, offering breathable comfort and wellbeing. Subscribe to our newsletter and keep up with all the latest developments! Prefer not to say Woman Man I have read and understood the privacy statement . SHOP Woman Man Kids SUPPORT Help and contact information Size guide Find store Privacy GEOX WORLD About Geox News Inspiration Ranges Technologies Sustainability GEOX BUSINESS B2B area Work with us Franchise Geox.biz Investors © 2024 Geox S.p.a Via Feltrina Centro 16, 31044 Montebelluna (TV), Italy, P.IVA IT 03348440268 - All rights reserved PRIVACY LEGAL MANAGE COOKIES

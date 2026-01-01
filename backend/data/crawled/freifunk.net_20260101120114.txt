@@ -1,0 +1,31 @@
+freifunk.net - Freifunk steht für freie Kommunikation in digitalen Datennetzen freifunk.net - Freifunk steht für freie Kommunikation in digitalen Datennetzen Webteam Impressum Datenschutz Kontakt Worum geht’s? Wie mache ich mit? Wiki Freifunk steht für freie Kommunikation in digitalen Datennetzen Navigation Worum geht’s? -> Häufige Fragen -> Technik der Netzwerke -> Vision Wie mache ich mit? -> Community finden -> Unterstütze die Kampagnen -> Spenden für die Projekte Impressum Datenschutz -> Kontakt -> Webteam Freifunk steht für freie Kommunikation in digitalen Datennetzen Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert. Wir bauen Gemeinschaftsnetze Freie Netze werden von immer mehr Menschen in Eigenregie aufgebaut und gewartet. Jeder stellt seinen WLAN-Router für den Datentransfer der anderen zur Verfügung. So entsteht eine freie Infrastruktur. Erfahre mehr über die Hintergründe Wir sind dezentral organisiert Erfahre wie du mitmachen kannst Finde eine Community in deiner Nähe Neue lokale Gruppe gründen Spende für die Projekte Unterstütze unsere Kampagnen Gemeinsam für freie Netze Community Networks Unite! Gute Nachrichten: Community Networks sind wieder auf der ISOC-Bühne! Eine neue SIG stärkt freie, gemeinschaftsgetragene Netze und internationale Zusammenarbeit. Community News Jahresrückblick 2025 31.12.25 
+		von 
+		Freifunk München Heads up: Firmware 2.1.0 incoming 27.12.25 
+		von 
+		Freifunk Gütersloh Heads up: Firmware 2.1.0 incoming 27.12.25 
+		von 
+		Freifunk Möhnesee Heads up: Firmware 2.1.0 incoming 27.12.25 
+		von 
+		Freifunk Möhnesee Frohe Weihnachten 2025! 24.12.25 
+		von 
+		Freifunk Möhnesee Frohe Weihnachten 2025! 24.12.25 
+		von 
+		Freifunk Gütersloh Resümee 2025 22.12.25 
+		von 
+		Chemnitz Geolocation failed, unknown locode „zsw“. 17.12.25 
+		von 
+		Freifunk Möhnesee Geolocation failed, unknown locode „zsw“. 17.12.25 
+		von 
+		Freifunk Gütersloh ›Wiedervereinigung‹ an Möhne und Bigge? 15.12.25 
+		von 
+		Freifunk Gütersloh ›Wiedervereinigung‹ an Möhne und Bigge? 15.12.25 
+		von 
+		Freifunk Möhnesee ›Wiedervereinigung‹ an Möhne und Bigge? 15.12.25 
+		von 
+		Freifunk Möhnesee Wichtige Änderungen im Freifunk-Netz 10.12.25 
+		von 
+		Freifunk Münsterland Abkündigung alter Knoten & Vorstellung neuer Karte 8.12.25 
+		von 
+		Chemnitz Freifunk-Treffen am 8. Dezember – nur virtuell 7.12.25 
+		von 
+		Freifunk Stuttgart als RSS-Feed abonnieren weitere News... Services Wir tauschen uns per Mailinglisten aus Neueinsteiger tragen sich am besten zuerst auf der Mailingliste der lokalen Community ein. Fortgeschrittene finden in den überregionalen Listen sicher die richtigen Ansprechpartner. Mehr Details zu den Listen Das freifunk.net Team bietet auch Mailinglisten für Communities an, die sich dies selbst nicht zutrauen. Einfach via Kontaktformular anfragen. Radio- und Podcastinitiativen von, mit, über und für Freifunk Innerhalb der Freifunk-Communities gibt es einige interessante Radio- und Podcastprojekte. Über die Freifunk API bereitgestellte Feeds der Kategorie "podcast" aggregieren wir auf der Podcastseite . Der Feed aller zusammengetragenen Podcasts kann dort abonniert werden. freifunk.net API Jede Community stellt ihre Daten in einem definierten Format bereit und trägt sich in das Verzeichnis ein. So werden Metadaten für die Karte von Andi, den Blogaggregator und weitere Visualisierungen zur Verfügung gestellt. In 6 Schritten zum API File API-Generator Kollaborativ Texte schreiben Wir nutzen diese webbasierten Editoren für temporäre Zusammenarbeit, u.a. für Protokolle bei Treffen. Ein Pad erstellt man kinderleicht: Namen eingeben, anlegen und fertig. pad.freifunk.net Subdomains für Dienste und Communtities Um das Auffinden einer lokalen Freifunk-Community oder eines Services zu vereinfachen, richten wir Subdomains bei freifunk.net ein, die auf die eigene Webpräsenz der lokale Initiative oder Dienstes weiterleitet. Um eine Subdomain zu bekommen, wende Dich bitte an uns . Community Kalender & Termine Stellt euren lokalen Kalender als .ics über die Freifunk-API Feeds des Kategorie "ics" zur Verfügung, damit er im gemeinsamen Kalender auftaucht. Oder kontaktiert uns für einzelne Events. freifunk.net/kalender Sprach- und Text Chats IRC und Mumble ermöglichen Gesprächsrunden mit einer beliebigen Anzahl von Teilnehmern. Du benötigst einen Brower bzw. den Mumble-Client. Vernetzungsmumble ist immer am 23. und Technikmumble am 25. jeden Monats mumble.freifunk.net Im Chat sind fast immer Leute online: zum Matrixraum Blogge über die Aktivitäten Wenn eine Community keinen eigenen Blog hat, den wir über die API einbinden, können auch Artikel in unserem Blog veröffentlicht werden. blog.freifunk.net Soziale Netzwerke Es gibt folgende freifunk.net assozierte Accounts in den sozialen Netzwerken für übergreifende Informationen. Viele Communities haben auch lokale Accounts für eben lokale Kommunikation angelegt. Mastodon facebook.freifunk.net youtube.freifunk.net vimeo.freifunk.net Webteam Impressum Datenschutz Kontakt

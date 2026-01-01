@@ -1,0 +1,779 @@
+Cookie Preferences
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+
+Allow AllChooseAllow Essential
+
+Show Cookies In Use
+Show Cookies In Use
+Essential (340)
+
+Essential cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+.te.u
+Used when an administrator is impersonating another user. (Previously: Impersonator)
+30 days
+HTTP Cookie
+enable_theme_staging
+Used when staged theme changes are being previewed.
+30 days
+HTTP Cookie
+Telligent.Evolution-MediaGallery
+Used when a user with theme management permissions is previewing theme changes before making them live.
+30 days
+HTTP Cookie
+ThemeConfigration
+Used when a user with theme management permissions is previewing theme changes before making them live.
+30 days
+HTTP Cookie
+tzid
+Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create)
+30 days
+HTTP Cookie
+tzoffset
+Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create)
+30 days
+HTTP Cookie
+ai_session [x53]
+Preserves users states across page requests.
+1 day
+HTTP Cookie
+ARRAffinity [x57]
+Used to distribute traffic to the website on several servers in order to optimise response times.
+Session
+HTTP Cookie
+ARRAffinitySameSite [x57]
+Used to distribute traffic to the website on several servers in order to optimise response times.
+Session
+HTTP Cookie
+CookieConsent [x73]
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP Cookie
+__cf_bm [x10]
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+1 day
+HTTP Cookie
+__cflb
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+1 day
+HTTP Cookie
+.AspNetCore.Antiforgery.# [x7]
+Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+Session
+HTTP Cookie
+.AspNetCore.Mvc.CookieTempDataProvider [x5]
+Preserves the visitor's session state across page requests.
+Session
+HTTP Cookie
+_cfuvid [x5]
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+Session
+HTTP Cookie
+cf.turnstile.u
+This cookie is used to distinguish between humans and bots.
+Persistent
+HTML Local Storage
+reese84 [x3]
+This cookie is used to distinguish between humans and bots.
+Session
+HTTP Cookie
+x-d-token [x3]
+This cookie is used to distinguish between humans and bots.
+Session
+HTTP Cookie
+cf_chl_rc_ni
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+1 day
+HTTP Cookie
+JSESSIONID [x3]
+Preserves users states across page requests.
+Session
+HTTP Cookie
+test_cookie
+Pending
+1 day
+HTTP Cookie
+AWSALB [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+7 days
+HTTP Cookie
+AWSALBCORS [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+7 days
+HTTP Cookie
+TiPMix [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+1 day
+HTTP Cookie
+x-ms-routing-name [x2]
+Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+1 day
+HTTP Cookie
+_GRECAPTCHA
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+180 days
+HTTP Cookie
+rc::e
+This cookie is used to distinguish between humans and bots.
+Session
+HTML Local Storage
+rc::h
+This cookie is used to distinguish between humans and bots.
+Persistent
+HTML Local Storage
+rc::a
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+Persistent
+HTML Local Storage
+rc::b
+This cookie is used to distinguish between humans and bots.
+Session
+HTML Local Storage
+rc::c
+This cookie is used to distinguish between humans and bots.
+Session
+HTML Local Storage
+rc::f
+This cookie is used to distinguish between humans and bots.
+Persistent
+HTML Local Storage
+incap_ses_# [x4]
+Preserves users states across page requests.
+Session
+HTTP Cookie
+nlbi_# [x4]
+Used to ensure website security and fraud detection.
+Session
+HTTP Cookie
+nlbi_#_#
+Pending
+Session
+HTTP Cookie
+visid_incap_# [x4]
+Preserves users states across page requests.
+1 year
+HTTP Cookie
+tusSupport [x3]
+This cookie allows the user the upload files on the website.
+Persistent
+HTML Local Storage
+x-ms-cpim-trans
+Necessary for the connection authentication on the website – This ensures the website's integrity through a process called Secure Socket Layers (SSL).
+Session
+HTTP Cookie
+1.gif
+Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
+Session
+Pixel Tracker
+AI_buffer
+Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates.
+Session
+HTML Local Storage
+AI_sentBuffer
+Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates.
+Session
+HTML Local Storage
+bcookie
+Pending
+1 year
+HTTP Cookie
+li_gc
+Pending
+180 days
+HTTP Cookie
+m
+Determines the device used to access the website. This allows the website to be formatted accordingly.
+400 days
+HTTP Cookie
+_ab
+This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+Session
+HTML Local Storage
+_mf
+This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+Session
+HTML Local Storage
+id
+Pending
+Session
+HTML Local Storage
+csrftoken
+Helps prevent Cross-Site Request Forgery (CSRF) attacks.
+1 year
+HTTP Cookie
+SESS#
+Preserves users states across page requests.
+14 days
+HTTP Cookie
+XSRF-TOKEN
+Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor.
+Session
+HTTP Cookie
+ASPSESSIONID#
+Preserves users states across page requests.
+Session
+HTTP Cookie
+sc_anonymous_id
+Used in context with the 3D-view-function on the website.
+Persistent
+HTML Local Storage
+cf_clearance
+This cookie is used to distinguish between humans and bots.
+1 year
+HTTP Cookie
+__stripe_mid
+This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+1 year
+HTTP Cookie
+__stripe_sid
+This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.
+1 day
+HTTP Cookie
+__eoi
+Used in order to detect spam and improve the website's security.
+180 days
+HTTP Cookie
+ASP.NET_SessionId
+Preserves the visitor's session state across page requests.
+Session
+HTTP Cookie
+History.store
+Preserves the visitor's session state across page requests.
+Session
+HTML Local Storage
+reese84
+Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.
+Persistent
+HTML Local Storage
+SERVERID
+This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.
+Session
+HTTP Cookie
+Preferences (6)
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+CookieConsentBulkSetting-# [x2]
+Enables cookie consent across multiple websites
+1 year
+HTML Local Storage
+lidc
+Pending
+1 day
+HTTP Cookie
+1
+This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website.
+Session
+HTML Local Storage
+maps/gen_204
+Used in context with the website's map integration. The cookie stores user interaction with the map in order to optimize its functionality.
+Session
+Pixel Tracker
+CFTOKEN
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted - This information is stored in the "CFID" cookie.
+Session
+HTTP Cookie
+Statistics (109)
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+ai_user [x53]
+Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time.
+1 year
+HTTP Cookie
+conv_variations
+This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+Persistent
+HTML Local Storage
+_conv_r
+This cookie is used as a referral-cookie that stores the visitor’s profile – the cookie is overwritten when the visitor re-enters the website and new information on the visitor is collected and stored.
+Session
+HTTP Cookie
+_conv_s
+This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+1 day
+HTTP Cookie
+_conv_v
+This cookie is used to identify the frequency of visits and how long the visitor is on the website. The cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages.
+6 months
+HTTP Cookie
+heat.aspx
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Session
+Pixel Tracker
+image.aspx
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Session
+Pixel Tracker
+struggle.aspx
+Pending
+Session
+Pixel Tracker
+hjActiveViewportIds
+This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+Persistent
+HTML Local Storage
+hjViewportId
+Saves the user's screen size in order to adjust the size of images on the website.
+Session
+HTML Local Storage
+guest
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+1 month
+HTTP Cookie
+_ga [x13]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+2 years
+HTTP Cookie
+_ga_# [x13]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+2 years
+HTTP Cookie
+flowplayerTestStorage
+This cookie is used to store information on the Flowplayer-status of the visitor, which determines if the visitor can access media content on the website.
+Persistent
+HTML Local Storage
+__adiCookieCheck
+Used to generate statistical data on what pages the user has visited and how often an ad click leads either to a purchase or other actions on the advertiser's website.
+Session
+HTTP Cookie
+sentryReplaySession
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+Session
+HTML Local Storage
+_hjSession_# [x2]
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+1 day
+HTTP Cookie
+_hjSessionUser_# [x2]
+Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+1 year
+HTTP Cookie
+_hjTLDTest [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Session
+HTTP Cookie
+_clck
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+1 year
+HTTP Cookie
+_clsk
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+1 day
+HTTP Cookie
+CFID
+This cookie is used in context with the "Cftoken" cookie. The cookie stores a specific ID for the visitor and the visitor's device and browser.
+Session
+HTTP Cookie
+nmstat
+This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+1000 days
+HTTP Cookie
+_hjCookieTest
+Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
+Session
+HTTP Cookie
+dd_cookie_test_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+1 day
+HTTP Cookie
+__utma
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP Cookie
+__utmb
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP Cookie
+__utmc
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP Cookie
+__utmv
+Saves user-defined tracking parameters for use in Google Analytics.
+Session
+HTTP Cookie
+__utmz
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP Cookie
+Marketing (105)
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+___utmvc [x59]
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+1 day
+HTTP Cookie
+IDE
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+400 days
+HTTP Cookie
+_conv_sptest
+This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+Session
+HTTP Cookie
+_gat
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+1 day
+HTTP Cookie
+_gcl_au [x5]
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 months
+HTTP Cookie
+_gid [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+1 day
+HTTP Cookie
+NID
+Pending
+6 months
+HTTP Cookie
+pagead/1p-user-list/#
+Pending
+Session
+Pixel Tracker
+pagead/gen_204
+Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+Session
+Pixel Tracker
+pcs/activeview
+Used by DoubleClick to determine whether website advertisement has been properly displayed - This is done to make their marketing efforts more efficient.
+Session
+Pixel Tracker
+csi
+Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+Session
+Pixel Tracker
+userReferer
+Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing.
+1 month
+HTTP Cookie
+_its.#
+This cookie is necessary for the call-tracking functionality.
+Persistent
+HTML Local Storage
+bitmovin_analytics_uuid
+Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+1 year
+HTTP Cookie
+_gcl_ls
+Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+Persistent
+HTML Local Storage
+#-#
+Used to track user’s interaction with embedded content.
+Session
+HTML Local Storage
+__Secure-ROLLOUT_TOKEN
+Pending
+180 days
+HTTP Cookie
+__Secure-YEC
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTTP Cookie
+__Secure-YNID
+Pending
+180 days
+HTTP Cookie
+iU5q-!O9@$
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Session
+HTML Local Storage
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Session
+HTTP Cookie
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+Persistent
+IndexedDB
+nextId
+Used to track user’s interaction with embedded content.
+Session
+HTTP Cookie
+remote_sid
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Session
+HTTP Cookie
+requests
+Used to track user’s interaction with embedded content.
+Session
+HTTP Cookie
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+Persistent
+IndexedDB
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+1 day
+HTTP Cookie
+VISITOR_INFO1_LIVE
+Pending
+180 days
+HTTP Cookie
+YSC
+Pending
+Session
+HTTP Cookie
+yt.innertube::nextId
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Persistent
+HTML Local Storage
+yt.innertube::requests
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Persistent
+HTML Local Storage
+yt-icons-last-purged
+Pending
+Persistent
+HTML Local Storage
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+Persistent
+HTML Local Storage
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+Persistent
+IndexedDB
+yt-remote-cast-available
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML Local Storage
+yt-remote-cast-installed
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML Local Storage
+yt-remote-connected-devices
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML Local Storage
+yt-remote-device-id
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML Local Storage
+yt-remote-fast-check-period
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML Local Storage
+yt-remote-session-app
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML Local Storage
+yt-remote-session-name
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML Local Storage
+Skip to content
+IET sites
+Login
+Search
+Join us
+Career Manager
+Ways to donate
+About us
+Contact us
+Home
+Membership
+Career and learning
+Intelligence and research
+Events
+Get involved
+Impact and society
+Media hub
+Start of main content
+Working to engineer a better world
+
+We inspire, inform and influence the global engineering and technology community to engineer a better world.
+
+About us
+Join us
+
+PRESS RELEASE
+
+Engineers rank among Britain’s most trusted: 9 in 10 believe they tell the truth
+
+ 
+90% of people across the country trust engineers to tell the truth, according to the latest Ipsos Veracity Index – putting the profession just behind nurses (92%) and ahead of doctors (85%). 
+
+Go to 11 December 2025: Engineers rank among Britain’s most trusted: 9 in 10 believe they tell the truth
+Meet the exceptional winners celebrated nationally at this year’s IET Young Woman Engineer of the Year Awards
+
+ 
+Four inspiring individuals have been recognised at the Institution of Engineering and Technology’s (IET) Young Woman Engineer of the Year Awards for their exceptional contributions to engineering and technology.
+
+Read more about the winners.
+
+Go to
+
+CAREER MENTORING
+
+Could you make a positive impact on someone's career by being a Career Mentor?
+
+ 
+We're introducing an exciting new career mentoring initiative and are looking for passionate individuals who would be keen to support others with navigating their career in the world of engineering and technology.
+
+Find out more and register your interest.
+
+Go to
+Big give Christmas challenge 2025
+
+ 
+Thank you for giving the gift of STEM this Christmas.
+
+Together we raised a huge £11,186 as part of this matched donation campaign. Now, even more children can take part in FIRST® LEGO® League, a hands-on programme all about creativity, problem-solving and curiosity.
+
+You can find out more of our education programmes on our education hub. And if you're stuck for ideas to entertain the young ones this holiday season, just search 'christmas' to access a tonne of free, festive resources!
+
+Go to
+The Churchill Medal award winner 2025 recognised for critical advancement in military communications
+
+ 
+On behalf of the joint professional engineering institutions, we are proud to announce Signaller Shaun Acar, 13 Signal Regiment, as the winner of this year's esteemed Churchill Medal, an emblem of excellence in engineering and technical advancement in the Armed Forces.
+
+Go to
+Join the IET and help us to engineer a better world
+
+Whether you’re just starting out as an engineer, or you’re a senior engineer at the top of your game, we’re here to support you and make you a part of our thriving community.
+
+Join the IET today and you’ll be part of more than just a membership organisation and together, we’ll achieve great things.
+
+Join the IET
+Manage your membership
+Get involved
+Featured events
+Boost your career with lifeskills webinars
+
+  
+Join our interactive, online sessions to master essential workplace skills - from assertiveness to conflict resolution - free for IET members and available to non-members for a small fee.
+
+Go to
+
+SUBMIT YOUR PAPER
+
+Exciting news - the PEMD Global 2026 call for papers has been extended!
+
+ 
+This is your chance to be part of something big! We’re calling on academics, students, and industry experts to step forward and showcase the ideas, breakthroughs, and real-world applications that will shape the future of power electronics, machines, and drives.
+
+Submit your paper to get involved.
+
+Go to
+
+28 - 29 APRIL 2026
+
+Gain the latest knowledge in HVDC
+
+ 
+Making its first visit to Germany, ACDC is the conference to gain technical knowledge in HVDC, and hear project progress reports in power transmission.
+
+We’ll see you in Berlin on 28 - 29 April 2026.
+
+Go to
+View more events
+More from the IET
+
+E+T NEWS
+
+Burying power lines could cut weather-related blackouts, according to study
+
+ 
+A study by Stanford University, combines data on US power line distribution, extreme weather events and power outage records to show how burying power lines could help prevent future blackouts and make the grid more resilient.
+
+Go to
+
+Contact us
+
+Our Offices
+UK, Head office
+T: +44 (0)333 049 9123
+E: postmaster@theiet.org
+China
+T: +86 10 6566 4687
+E: china@theiet.org
+India
+T: +91 80 4089 2222
+E: india@theiet.in
+Hong Kong
+T: +852 2521 2140
+E: adminap@theiet.org
+USA
+T: +1 (732) 321 5575
+E: ietusa@theiet.org
+Our Venues
+IET London: Savoy Place
+T: +44 (0)20 7344 8460
+E: faradaycentre@ietvenues.co.uk
+IET Birmingham: Austin Court
+T: +44 (0)121 600 7500
+E: austincourt@ietvenues.co.uk
+About the IET
+Our history
+Vision and Strategy
+Governance
+AGMs
+Royal Charter and Bye-laws
+Our offices
+Our venues
+Working for the IET
+Advertising and sponsorship
+Membership and registration
+Join the IET
+Benefits of membership
+Manage your membership
+Member News
+Communities
+Professionalism and ethics
+IET Library and Archives
+E+T magazine
+Career and learning
+Professional Registration
+Professional development
+Career Manager
+Accreditation
+Courses and training
+IET Academy
+Support for employers
+Routes to engineering
+STEM education
+Career support
+Engineering jobs
+Intelligence and research
+Publishing with IET Journals
+Publishing with IET Books
+Inspec
+Subscribe to our content
+Bookshop
+Wiring Regulations
+Codes and guidance
+IET.tv - video content and production
+Events
+Events
+Search all events
+Get Involved
+Volunteering for the IET
+Young Professionals
+Partnerships
+Collaboration
+Support future generations
+Online community
+Impact & Society
+Policy and public affairs
+Government policy and submissions
+Awards and scholarships
+Technical webinars
+Media Hub
+Campaigns
+Press releases
+Media support for members
+IET social media
+Help
+Cookie preferences
+Privacy Statement
+Accessibility
+Modern Slavery Act Statement
+Legal notices
+
+© 2025 The Institution of Engineering and Technology. The Institution of Engineering and Technology is registered as a Charity in England & Wales (no 211014) and Scotland (no SC038698). Futures Place, Kings Way, Stevenage, Hertfordshire, SG1 2UA, United Kingdom

@@ -1,0 +1,72 @@
+CocoCut - Video Downloader Extension
+Chrome Extension
+Edge Add-on
+How it Works
+Reviews
+Top-Rated Video Downloader Extension for Chrome & Edge
+
+Download videos effortlessly with our free video downloader extension for Chrome and Edge browsers. Easy, safe, and free.
+
+Add to ChromeGet for Edge
+How Does Our Video Downloader Extension Work?
+Automatic Detection
+
+Once the CocoCut extension is installed, it automatically detects video and audio files on any webpage, making them available for download.
+
+Easy to Use
+
+No need to install additional software. It only takes a minute to start saving your favorite videos and audio with just a few clicks.
+
+Secure & Private
+
+The entire process runs locally on your computer, ensuring your privacy and security. Your data never leaves your device.
+
+Full function
+
+Support 99% of video formats. Support HLS, Live video too.
+
+Super fast
+
+Since it just need to deal with cached video data, video save speed is super fast.
+
+Extremely High Success Rate
+
+With advanced video parsing technology, CocoCut ensures a very high success rate for downloading videos.
+
+How to Use Our Video Downloader Extension
+
+CocoCut is a versatile video downloader extension that supports saving video and music files in various formats. Whether it is an MP4, MP3, AAC, or any other format, CocoCut can help you save it with ease.
+
+Saving Video and Music Files
+Click on the CocoCut extension icon located at your browser's toolbar.
+A file list will appear.
+Locate the desired file and click on the "download" icon to start the save process.
+Saving Streaming Videos (HLS/M3U8)
+
+CocoCut also allows you to save streaming videos, specifically those in HLS/M3U8 format.
+
+Open the playback page of the streaming video you want to save.
+Once the video is detected, CocoCut will display a number indicating its availability.
+Click on the CocoCut extension icon at your browser's toolbar.
+A file list will appear, presenting all available video options.
+Locate the desired video and click on the "save" icon to start the save process.
+Save Progress and Controls
+
+When a video save is initiated, it will open in a new tab. You will be able to monitor the save progress and control it using the provided options.
+
+Please note that once the save starts, you can close the video playback page, but the save page must be kept open for the process to continue.
+
+CocoCut is your comprehensive video downloader extension for Chrome and Edge browsers. Save your favorite videos and music effortlessly.Try CocoCut now!
+
+ 
+What Users Say About Our Video Downloader Extension
+
+I have tried a lot of extensions during the last several weeks and this is the best one I have tried so far. It might be a little slow but that might be why it works better than the others? I highly recommend that you give it a try.
+
+DANIEL MCANALLY(Chrome extension user)
+Make Your Life Easier with Our Top-Rated Video Downloader
+You will save your favorite video and audio fast and free. Try it, You will like this extension.
+Add to ChromeGet for Edge
+Articles about this video downloader extension
+How to save video with CocoCut.Supported formatsBrowser compatibilityFAQReal-world use casesBest video downloader for chrome
+Terms of Use·Privacy Policy·Chrome Extension·Edge Add-on

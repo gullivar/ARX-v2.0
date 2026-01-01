@@ -1,0 +1,7 @@
+QuizzLand Public API Root QuizzLand Public API Root This domain exposes REST/HTTPS endpoints used by the QuizzLand
+    mobile and web clients to fetch dynamic game data
+    (profiles, leaderboards, question packs, etc.).
+    Provider-specific subdomains are employed for these API calls to maximise
+    regional performance and availability.
+    It is not intended for direct browsing. If you reached this page in error, please visit the official website
+    for more information: mnogoapps.com . Quizzland links Quizzland on Google Play Quizzland on App Store Quizzland Web Site

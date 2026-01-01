@@ -1,0 +1,1 @@
+{"responseCode":401,"code":"AUTH.ERR.106","mesg":"No Authorization Header"}

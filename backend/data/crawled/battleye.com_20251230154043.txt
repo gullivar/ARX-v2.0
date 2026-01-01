@@ -1,0 +1,66 @@
+Got it!
+
+This website uses cookies to ensure you get the best experience on our website. More info
+
+HOME
+NEWS
+ABOUT
+DOWNLOADS
+SUPPORT
+CONTACT
+IMPRINT
+PRIVACY POLICY
+INDEPENDENT QUALITY
+
+BattlEye is 100% independent, always staying on top of state-of-the-art technologies and utilizing innovative methods of protection and detection.
+
+ NEWS OF THE DAY - 25.09.2017
+WE WANT YOU!
+
+We want to extend our team in Tübingen, Germany and are looking for a software developer (m/f) at the earliest date possible. You are looking for a special challenge, are talented and experienced in writing software and are motivated to participate in a growing company? Then this is the right place for you! Your tasks will be: Take part in developing BattlEye anti-cheat software Analysis and reverse-engineering of cheat programs Development of detection algorithms Integration […]
+
+Read More
+
+PROTECTION
+
+Fully proactive kernel-based protection system and fast dynamic and permanent scanning of the player’s system using specific and heuristic/generic detection routines for maximum effectiveness.
+
+ON-THE-FLY
+
+BE is using innovative, sophisticated detection routines, such as entirely dynamic on-the-fly scanning being controlled and altered by the backend making it impossible for hackers to develop permanent bypasses for specific client files.
+
+GLOBAL BANS
+
+Secure global banning system that can be SteamID/account-based and hence provides the same or an even higher level of effectiveness as/than e.g. VAC bans, because (unlike with VAC) Steam-global bans are possible (performance: over 150,000 bans in 15 months).
+
+ADMINISTRATION
+
+BE is keeping full control over the game server, enforcing quick and constant responses from all clients and instantly kicking violating players, while at the same time providing a full RCon administration interface for admins to keep individual control of their servers.
+
+CUSTOMIZATION
+
+BE provides fully customized solutions as needed for every game it supports, e.g. a very effective script detection in the ArmA series.
+
+RELIABILITY
+
+Secure and reliable architecture without client-side dependence on third-party network connections, while giving the game developer full control over updates ensuring that there are never unwanted surprises.
+
+KEEP YOUR GAME CLEAN
+Interested in using BattlEye?
+
+If you are a game developer or publisher interested in the integration of BattlEye into your online multiplayer game please get in touch! We will make sure that you can decide for yourself if BattlEye is the right solution for you by offering a risk-free demonstration.
+
+Contact us now
+
+Your games should stay fun!
+
+Cheating is a massive issue in today’s multiplayer games that has the potential to ruin entire communities. There are several different anti-cheat solutions on the market, but few of them fight the problem adequately.
+
+BattlEye is the gold standard of anti-cheat services because:
+
+We relentlessly hunt down any hacks, not stopping until they have been dealt with. This means that BattlEye is constantly evolving to make hacking ever-increasingly harder. We truly care about the games we protect 7 days per week, 365 days per year. We think that anti-cheat is not just a business.
+We keep constant personal contact with you, the developer, ensuring that you are always up-to-date on what’s going on behind the scenes. We want to know what you think and how we can additionally help you in making your games more secure. Trust is paramount in everything we do.
+Above all, the happiness of your players is our measurement for success. We believe that an anti-cheat should straightfowardly follow its mission and do what it’s meant to do without bothering the player.
+
+BATTLEYE
+Copyright © 2004-2025 by BattlEye Innovations. All rights reserved. Page powered/made by modulstyle.com.

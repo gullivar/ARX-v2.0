@@ -1,0 +1,72 @@
+home
+Welcome to the United Nations
+العربية
+中文
+English
+Français
+Русский
+Español
+Department for General Assembly and Conference Management
+UNDOCS
+About Us
+eSubscription
+Journal
+Digital Library
+How UNDOCS Works
+
+The United Nations relies on documents for nearly every aspect of its work. UNDOCS, also known as EZ-Link, was created in 2011 to provide a quick and easy way to link directly to documents within the Official Document System (ODS). With UNDOCS, anyone can link to any document in ODS without needing technical knowledge or a complex login process. This system works seamlessly for web pages and document formats like PDFs or Word files.
+
+Every document in ODS has a unique document symbol, which is all you need to create a link. For more information on document symbols, please see the Research Guide to United Nations Document Symbols by the Dag Hammarskjöld Library.
+
+Linking to a Document
+
+To link to a document, you only need its unique document symbol.
+
+Example: Let's use the United Nations Millennium Declaration as an example, with the document symbol A/RES/55/2.
+
+Root URL: https://docs.un.org
+Document symbol: A/RES/55/2
+Final URL: https://docs.un.org/A/RES/55/2
+
+If no specific language is chosen, an intermediate window will appear, prompting users to select a language for the document. This ensures compliance with the United Nations' commitment to multilingualism.
+
+Linking to a Document in a Specific Language
+
+Linking to a document in a specific language is a common use case. For this, simply add the language code to the URL.
+
+Example: To view the Millennium Declaration (A/RES/55/2) in English:
+
+Root URL: https://docs.un.org
+Language: en for English (available language codes are: ar for Arabic, zh for Chinese, en for English, fr for French, ru for Russian, es for Spanish)
+Document symbol: A/RES/55/2
+Final URL: https://docs.un.org/en/A/RES/55/2
+Linking to a Document in a Specific Language and Page
+
+If you need to link to a specific page within a document in a specific language, add &page=(pagenumber) to the end of the URL. Note that this only works if a language is specified.
+
+Example: To link to page 3 of the Millennium Declaration (A/RES/55/2) in English:
+
+Root URL: https://docs.un.org
+Language: en for English
+Document symbol: A/RES/55/2
+Page number: &page=3
+Final URL: https://docs.un.org/en/A/RES/55/2&page=3
+Linking Directly to a Document Without Frames
+
+To link directly to a document file (bypassing frames), append ?direct=true to the end of the URL. This functionality requires specifying the language of the document.
+
+Example: To link directly to the Millennium Declaration (A/RES/55/2) in English:
+
+Root URL: https://docs.un.org
+Language: en for English
+Document symbol: A/RES/55/2
+Direct: ?direct=true
+Final URL: https://docs.un.org/en/A/RES/55/2?direct=true
+Donate
+A-Z Site Index
+Contact
+Copyright
+faq
+Fraud Alert
+Privacy Notice
+Terms of Use

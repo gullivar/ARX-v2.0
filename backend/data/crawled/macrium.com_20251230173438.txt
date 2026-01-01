@@ -1,0 +1,116 @@
+Cart
+Create a Quote
+Your cart is empty
+Subtotal
+$0.00
+plus Tax
+Continue Shopping
+Checkout
+Select currency
+Tired of watching progress bars?
+
+Backup and recovery made simple – introducing Macrium Reflect X. Faster, smarter, and now supporting ARM systems
+
+Buy Reflect X Home
+Buy Reflect X Business
+Free Trial
+The Power of X
+ 
+Macrium delivers powerful backup & recovery and deployment solutions for Windows systems. From home users to global enterprises, we ensure your systems and data are protected and recoverable when needed. Simple, fast, and reliable solutions that scale with your needs.
+ 
+Up To 2x Faster Performance
+ 
+Experience backup, imaging, and recovery operations up to twice as fast as Reflect 8, minimizing downtime and boosting efficiency.
+ 
+Resumable Imaging
+ 
+Never worry about interruptions again. Image creation seamlessly continues from where it left off, ensuring continuous protection.
+ 
+Open-Source Accessibility
+ 
+Our image file formats are now open source, offering full transparency and flexibility for your data recovery and system deployment.
+ 
+Comprehensive Device Support
+ 
+From traditional x86 systems to the latest ARM-based devices, we've got your entire fleet covered with optimized performance across all platforms.
+ 
+Enhanced Backup Filtering
+ 
+Tailor your backups and system images with precision, enhancing performance and optimizing storage utilization.
+ 
+Air-Gapped Activation for Business
+ 
+Streamlined offline license activation for all business license types, perfect for high-security and air-gapped environments.
+Reflect X for Business
+Reflect X for Home
+Business Backup & Recovery
+ 
+Backup data easily, restore data quickly, 100% reliably
+Reduce Downtime
+ 
+Cut recovery times by half, to regain control quickly and ensure smoother operations.
+Optimize backup schedules to ensure data protection.
+Maintain operational continuity across diverse environments.
+Meet RTO and RPO Targets
+ 
+Reliable and ultra fast recovery of your data to minimize disruption and loss.
+Maintain protection without disrupting workflows or overextending resources.
+More frequent backups, improves recovery point objectives.
+Achieve Cost Efficiency
+ 
+Reduce the risk of errors with an easy to use interface.
+Resumable backups that work for the most network conditions.
+Manage the widest range of systems running Window XP SP3 and later with a single solution.
+Discover Our Business Solutions
+ 
+Reflect X Time Saving Calculator
+ 
+Quickly compare backup and restore times between the new Macrium Reflect X and the previous version Reflect 8 and see how Reflect X can save you hours.
+Business
+Home
+Storage Set Up
+Select Storage Media:
+Number of computers to restore (1-100):
+Data Size (GB) per Computer:
+Cost of downtime per hour (USD):
+Number of simultaneous restores:
+Calculate Upgrade Savings
+Wondering if an upgrade to Reflect X is worth it?
+Our Time Saving Calculator shows how much time you could save during backup and restore operations by upgrading. We compare the performance of Reflect 8 and Reflect X based on data size and storage media, helping you make an informed decision.
+Business Backup & Recovery
+ 
+From critical computers to entire sites, protect systems and data
+ 
+ 
+Backup & Recovery Solutions​
+Business
+Deployment
+ 
+From individual deployments to scaled remote OS deployment
+ 
+ 
+Deployment Solutions​
+Personal Backup & Recovery
+ 
+Trusted backup, cloning and recovery for your home computers and data
+ 
+ 
+Discover Reflect X Home
+Latest Blog Post
+Latest Video
+From Prevention to Recovery: Mastering Backup Strategies for Cyber Resilience | Macrium Webinar
+
+Oct 31st 2025
+
+When prevention fails, recovery matters. Ransomware doesn’t ask for permission. It tests your recovery plan. In this 30-minute...
+
+Need Help?
+
+Our dedicated Support Team are ready to help with any technical issues or problems with Macrium Reflect.
+
+Currency for Pricing
+Select currency
+
+Copyright © Paramount Software UK Limited 2025 Macrium Reflect® is a registered trademark of Paramount Software UK Limited
+
+Contact | Terms & Privacy Policy

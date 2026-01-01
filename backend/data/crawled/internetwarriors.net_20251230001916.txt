@@ -1,0 +1,17 @@
+Open Tracker
+Home
+Stats
+ Español
+Open.Tracker.CL
+
+Open and Public BitTorrent Tracker Project.
+
+Current tracker address:
+
+udp://open.tracker.cl:1337/announce
+
+Mirror / Old address:
+
+udp://tracker.internetwarriors.net:1337/announce
+
+Stats »

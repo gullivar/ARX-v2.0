@@ -1,0 +1,53 @@
+nip.io is now hosted by sslip.io. This page, the original nip.io page, is kept as a memorial to the late, great Roopinder Singh, who created & ran nip.io.
+
+Watch out! The behavior has changed. For example, parsing is done from left to right instead of right to left (e.g. "1.127.0.0.1.nip.io" resolves to "1.127.0.0" not "127.0.0.1" ).
+
+nip.io
+Dead simple wildcard DNS for any IP Address
+
+Stop editing your etc/hosts file with custom hostname and IP address mappings.
+
+nip.io allows you to do that by mapping any IP Address to a hostname using the following formats:
+
+Without a name:
+
+10.0.0.1.nip.io maps to 10.0.0.1
+192-168-1-250.nip.io maps to 192.168.1.250
+0a000803.nip.io maps to 10.0.8.3
+
+With a name:
+
+app.10.8.0.1.nip.io maps to 10.8.0.1
+app-116-203-255-68.nip.io maps to 116.203.255.68
+app-c0a801fc.nip.io maps to 192.168.1.252
+customer1.app.10.0.0.1.nip.io maps to 10.0.0.1
+customer2-app-127-0-0-1.nip.io maps to 127.0.0.1
+customer3-app-7f000101.nip.io maps to 127.0.1.1
+
+nip.io maps <anything>[.-]<IP Address>.nip.io in "dot", "dash" or "hexadecimal" notation to the corresponding <IP Address>:
+
+dot notation: magic.127.0.0.1.nip.io
+dash notation: magic-127-0-0-1.nip.io
+hexadecimal notation: magic-7f000001.nip.io
+
+The "dash" and "hexadecimal" notation is especially useful when using services like LetsEncrypt as it's just a regular sub-domain of nip.io
+
+About this service
+
+nip.io is powered by PowerDNS with a simple, custom PipeBackend written in Python: backend.py
+
+It's open source, licensed under Apache 2.0: https://github.com/exentriquesolutions/nip.io — pull requests are welcome.
+
+This is a free service provided by Exentrique Solutions (the same people who run XP-Dev.com which offer Git, Mercurial and Subversion hosting).
+
+Feedback is appreciated, just raise an issue in GitHub .
+
+Troubleshooting
+DNS Rebinding Protection
+
+Some DNS resolvers, forwarders and routers have DNS rebinding protection which may result in failure to resolve local and private IP addresses. This service won't work in those situations.
+
+Related Services
+localtls: A DNS server in Python3 to provide TLS to webservices on local addresses. It resolves addresses such as '192-168-0-1.yourdomain.net' to 192.168.0.1 and has a valid TLS certificate for them.
+sslip.io: Alternative to this service, supports IPv6 and custom domains.
+local.gd: Alternative to this service, where everything is mapped to localhost/127.0.0.1.

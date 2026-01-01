@@ -1,0 +1,171 @@
+Debug your Render services in Claude Code and Cursor.
+
+Try Render MCP
+Product
+Platform Overview
+HIPAA on Render
+FEATURES
+Autoscaling
+Private Networking
+Persistent Disks
+Infrastructure as Code
+Preview Environments
+Zero Downtime Deploys
+Render API
+SERVICES
+Static Sites
+Web Services
+Private Services
+Background Workers
+Cron Jobs
+Render Postgres
+Render Key Value
+Pricing
+Customers
+Blog
+Docs
+Changelog
+Company
+About Us
+Security
+Careers
+Press
+Contact
+Sign In
+Get Started
+Your fastest path to production
+Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth
+Get Started for Free
+Contact Sales
+Body
+Trusted by over 4 million ambitious product builders and teams
+Click, click, done.
+1
+Choose your service type
+
+Spin up web services, static sites, cron jobs, and more.
+
+2
+Deploy in seconds
+
+Build and run your apps with lightning speed and flexible config.
+
+3
+Update automatically
+
+Stay current with your code thanks to seamless, automatic redeploys.
+
+Whatever your stack, it runs on Render.
+Build with speed
+
+Link your repo and go live—then iterate with every push.
+
+Learn More
+Automatic Deploys
+
+Your app is automatically updated on every push, with zero downtime.
+
+Native Language Runtimes
+
+Run in managed environments for Node.js, Python, Ruby, and more—or deploy a Docker image and run anything under the sun.
+
+Enterprise-Grade Datastores
+
+Provision highly available Postgres with point-in-time recovery. Create Redis®-compatible caches with Render Key Value.
+
+Private Network
+
+Communicate securely across services using any protocol, without traversing the public Internet.
+
+Scale with confidence
+
+Grow your infrastructure, team, and business with a platform that scales alongside you.
+
+Learn More
+Load-Based Autoscaling
+
+Add and remove instances of your service automatically as traffic patterns change.
+
+Infrastructure as Code
+
+Define the entirety of your infrastructure in a single Blueprint file and quickly replicate it across environments.
+
+DDoS Protection
+
+Defend against denial-of-service attacks simply by hosting on Render—no additional setup required.
+
+Data Privacy
+
+Keep data secure for yourself and your customers with full GDPR and SOC 2 Type II compliance.
+
+Ship together
+
+Collaborate with your team on everything from one-line fixes to full-scale migrations.
+
+Learn More
+Project Organization
+
+Group your services logically and set up production, staging, and other environments.
+
+Preview Environments
+
+Test out your team’s pull requests in standalone instances, or even spin up temporary copies of your entire production environment.
+
+Platform Notifications
+
+Connect your Slack workplace to stay informed about deployment activity and service hiccups across your team.
+
+Role-Based Access
+
+Limit who can manage your team’s billing, security settings, and more.
+
+“Easier than large clouds, more feature-rich than single-purpose hosting providers, Render lets me ship the entirety of my projects in one place.”
+MITCHELL HASHIMOTO, CO-FOUNDER OF HASHICORP
+5M+
+Live Services
+100B+
+HTTP Requests Per Month
+100M+
+Deploys
+FEATURES
+Autoscaling
+Private Networking
+Render Postgres
+Render Key Value
+Persistent Disks
+Infrastructure As Code
+Preview Environments
+Zero Downtime Deploys
+Render API
+SERVICES
+Static Sites
+Web Services
+Private Services
+Background Workers
+Cron Jobs
+Render Postgres
+Render Key Value
+Deploy Docker Images
+RESOURCES
+Blog
+Changelog
+Docs
+Pricing
+Articles
+Security
+Community
+Privacy Policy
+DMCA Policy
+DPA
+Acceptable Use
+Terms of Use
+COMPANY
+About
+Careers
+Brand Kit
+Press
+Contact
+X
+LinkedIn
+GitHub
+© Render 2025

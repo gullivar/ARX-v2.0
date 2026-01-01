@@ -1,0 +1,378 @@
+Skip to main content
+Products
+Use cases
+Developers
+Resources
+Pricing
+Payments
+Fraud & Risk
+Personal Finance Insights
+Credit Underwriting
+Open Finance
+Onboarding
+Overview
+Explore payments solutions
+Auth
+Verified account and routing numbers
+Identity
+Bank account-holder information
+Balance
+Real-time balance checks
+Signal
+ACH payment risk platform
+Transfer
+ACH, RTP, and FedNow payment processing
+Investments Move
+Streamline asset transfers. Unlock growth.
+Banks & credit unions
+Pay by bank
+Mortgage
+Government & public sector
+Property management
+Gaming
+Billing & recurring payments
+Auto
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+For builders
+What's new
+Blog
+Library
+Industry resources
+Customer stories
+Events
+Annual conference
+What is Plaid
+For users
+Troubleshoot account connection
+Trust and safety
+Control your data with Plaid Portal
+Log in
+Contact sales
+Turn data into revolutionary financial products
+
+Connect to real-time insights on the Plaid Network to create fast, safe, and smart financial experiences.
+
+Talk to our team
+Start building
+New products just dropped 👀
+See what's new across Plaid
+The internet's fastest financial onboarding
+
+Increase conversion, fight fraud, and onboard customers to your app or service in seconds.
+
+See onboarding in action
+Fast and secure payments
+
+Increase revenue with seamless bank payments designed to deliver higher conversion rates.
+
+Explore payment solutions
+Network-powered fraud signals
+
+Stop identity fraud, account takeovers, and risky payments with ML-powered fraud signals.
+
+See how we protect you
+Cash flow data for smarter underwriting
+
+Say “yes” to more qualified borrowers and reduce risk with real-time lending insights.
+
+Tap into cash flow insights
+Open finance solutions for everyone
+
+Meet open banking requirements and make it easy for customers to connect to the financial apps they need.
+
+Simplify data connectivity
+
+Venmo
+
+2m ago
+
+for late night 🌮🌮🌮
+
+Carvana
+
+1hr ago
+
+You're pre-qualified!
+
+Robinhood
+
+Now
+
+$PLAID order filled
+
+A network that gets more powerful daily
+
+When you build on the world’s largest open banking data network, every product and solution is made better for you and your customers through new data and insights. Your services improve each day without you having to do a thing.
+
+1 in 2
+adults in the U.S.
+
+Offer a trusted experience used by half of U.S. adults
+
+0%
+higher conversion
+
+Increase sign-ups by up to 25% with easy onboarding
+
+0k+
+daily connections
+
+Get data from thousands of new daily connections
+
+0
+countries
+
+Scale adoption and grow into new global markets
+
+Want access to 12K banks?
+We've got the (API) keys.
+
+Spend your time dreaming about the experiences you’ll create, not stressing over how to get the data. Our APIs can unlock it all.
+
+Get the API keys
+Read the docs
+/auth/get
+1
+2
+3
+4
+5
+request = AuthGetRequest(access_token=access_token)
+response = client.auth_get(request)
+routing_number = response['numbers']['ach'][0]['routing']
+account_number = response['numbers']['ach'][0]['account']
+balance = response['accounts'][0]['balances']['available']
+See what's possible with Plaid
+Previous items
+Next items
+
+Zillow Home Loans pre-approved loans 29% faster
+
+Read the story
+
+H&R Block scaled their neobank to 300K+ users
+
+Read the story
+
+Affirm pioneered a new way to mitigate risk
+
+Read the story
+
+Robinhood unlocked $100M in instant funds
+
+Read the story
+
+Chime boosted account funding by 300%
+
+Read the story
+
+Flexport unlocked 32% more capital for logistic partners
+
+Read the story
+
+Branch gave users access to earned wages
+
+Read the story
+
+Ellevest improved conversion by 111%
+
+Read the story
+
+Prosper gained access to 24-months of transactions
+
+Read the story
+
+Green Dot launched new open banking features
+
+Read the story
+
+Uphold reduced return losses by 80%
+
+Read the story
+
+Adyen accelerated pay by bank adoption
+
+Read the story
+
+SoFi unlocked real-time financial insights
+
+Read the story
+
+PadSplit verified income in under 60 seconds
+
+Read the story
+
+MSUFCU lowered support tickets by 67%
+
+Read the story
+
+Copilot created an award-winning user experience
+
+Read the story
+
+Varo Bank delivered frictionless onboarding
+
+Read the story
+
+Zillow Home Loans pre-approved loans 29% faster
+
+Read the story
+
+H&R Block scaled their neobank to 300K+ users
+
+Read the story
+
+Affirm pioneered a new way to mitigate risk
+
+Read the story
+
+Robinhood unlocked $100M in instant funds
+
+Read the story
+
+Chime boosted account funding by 300%
+
+Read the story
+
+Flexport unlocked 32% more capital for logistic partners
+
+Read the story
+
+Branch gave users access to earned wages
+
+Read the story
+
+Ellevest improved conversion by 111%
+
+Read the story
+
+Prosper gained access to 24-months of transactions
+
+Read the story
+
+Green Dot launched new open banking features
+
+Read the story
+
+Uphold reduced return losses by 80%
+
+Read the story
+
+Adyen accelerated pay by bank adoption
+
+Read the story
+
+SoFi unlocked real-time financial insights
+
+Read the story
+
+PadSplit verified income in under 60 seconds
+
+Read the story
+
+MSUFCU lowered support tickets by 67%
+
+Read the story
+
+Copilot created an award-winning user experience
+
+Read the story
+
+Varo Bank delivered frictionless onboarding
+
+Read the story
+More customers.
+Less fraud.
+Higher revenue.
+Let's get started
+First name
+Last name
+Company email
+Company name
+Country
+Phone number (optional)
+
+By submitting this form, I confirm that I have read and understood Plaid's Privacy Statement.
+
+Talk with our team
+
+When you connect to an app with Plaid, you're in control of who has access to your financial data.
+
+Manage your connections with Plaid Portal »
+Products
+Auth
+Identity
+Balance
+Signal
+Transfer
+Identity Verification
+Beacon
+Monitor
+Transactions
+Investments
+Liabilities
+Enrich
+Assets
+Income
+Plaid Link
+Consumer Report
+Layer
+Investments Move
+Protect
+LendScore
+About us
+Company
+Careers
+Contact
+Partners
+Press
+Safety
+Legal
+Use cases
+Banks & credit unions
+Pay by bank
+Mortgage
+Government & public sector
+Property management
+Gaming
+Billing & recurring payments
+Auto
+For consumers
+Troubleshoot account connection
+Trust and safety
+How it works
+Plaid Portal
+Delete my data
+End User Privacy Policy
+Biometric Policy
+FAQs
+Plaid Consumer Reporting Agency, Inc.
+Resources
+Pricing
+Global coverage
+Plaid Blog
+Industry resources
+Annual conference
+Customer stories
+Developers
+Quickstart
+API documentation
+Libraries
+GitHub
+Link demo
+For financial institutions
+Open Finance Solution
+Core Exchange
+Permissions Manager
+App Directory
+© 2025 Plaid Inc.
+United States
+Your Privacy Choices
+
+Plaid uses cookies & third-party tools for our website, advertising & marketing, user data collection, session recording & online instructions. Manage your preferenceshere.
+Manage
+Ok

@@ -1,0 +1,733 @@
+Product
+
+Security
+
+Pricing
+
+Enterprise
+
+Log in
+
+Sign Up
+
+Modern SSH Client
+Built for Productivity and Collaboration
+
+Start Connecting
+
+macOS
+
+Windows
+
+Linux
+
+iOS
+
+Android
+
+Vault
+
+SFTP
+
+Workspace
+
+Hosts
+
+Keychain
+
+Port forwarding
+
+Snippets
+
+Known Hosts
+
+Logs
+
+NEW HOST
+
+TERMINAL
+
+SERIAL
+
+Groups
+
+AWS
+
+92 Hosts
+
+Acme
+
+3 Hosts
+
+Testing
+
+7 Hosts
+
+Staging
+
+81 Hosts
+
+Development
+
+23 Hosts
+
+Development
+
+23 Hosts
+
+Hosts
+
+api-db.m4.xlarge.us-west-1
+
+db
+
+backup-proxy.c5n.4xlarge.us…
+
+ssh, vagrant
+
+api-dev.t4g.small.eu-north1
+
+ssh, aws, api
+
+data-proc.m5.large.us-east-2
+
+acme-api-dev-us-west
+
+ssh, Stan, api
+
+api-dev.t4g.small.us-west2
+
+ssh, aws, api
+
+api-dev.t4g.small.eu-north1
+
+api-dev.t4g.small.eu-north1
+
+bigdata-database.c5ad.xlarge…
+
+db
+
+Database Central
+
+ssh
+
+model.c5a.xlarge.us-west-2
+
+ssh
+
+storage.c6gn.4xlarge.us-east-1
+
+ssh, aws
+
+ec2-206.compute-1.amazona…
+
+influx-db.is.is4gen.2xlarge…
+
+ssh
+
+ci-system.c6i.large.eu-north-1
+
+ssh, aws
+
+app-proxy.r5.12xlarge.eu-west-3
+
+ssh
+
+Trusted by 2,000,000+ engineers
+
+ 4.5
+
+Based on 30.5K reviews
+
+ 4.6
+
+Based on 61.5K reviews
+
+ 4.4
+
+Based on 42.4K reviews
+
+ 4.8
+
+Based on 176 reviews
+
+Full-featured terminal to keep you productive
+
+IDE-style Autocomplete
+Connect with one-click
+
+No more re-entering IPs, ports, or password. Everything is saved, so you connect instantly.
+
+Restore your Workspace
+Secure sync via Encrypted Vault
+
+Vaults
+
+SFTP
+
+Groups
+
+Admins
+
+23 Hosts
+
+Production
+
+12 Hosts
+
+Backup
+
+8 Hosts
+
+Hosts
+
+ssh, admin, personal
+
+Dev Scheduler
+
+ssh, dev
+
+Load Balancer US
+
+ssh, prod, balancer
+
+Web Server us-1
+
+ssh, dev, cash
+
+Postgresql Replica-2
+
+ssh, prod, db
+
+Postgresql Replica-1
+
+ssh, prod, db
+
+Load Balancer EU
+
+ssh, prod, balancer
+
+Web Server us-0
+
+ssh, dev, cash
+
+Dev Redis
+
+ssh, dev, cash
+
+Terraform Host
+
+ssh, devops, infra
+
+Dev Redis
+
+ssh, dev, cash
+
+Cloud Node US
+
+ssh, prod, cloud
+
+Cloud Node EU-0
+
+ssh, prod, cloud
+
+Cloud Node EU-1
+
+ssh, prod, cloud
+
+Host Details
+
+Team vault
+
+Address
+
+10.0.0.15
+
+General
+
+admin
+
+personal
+
+SSH on
+
+22
+
+port
+
+Credentials from
+
+Team Vault
+
+Username
+
+Password
+
+Production key
+
+Connect
+
+Vaults
+
+SFTP
+
+Groups
+
+5
+
+Admins
+
+23 Hosts
+
+Production
+
+12 Hosts
+
+Admins
+
+23 Hosts
+
+DevOps
+
+8 Hosts
+
+DevOps
+
+8 Hosts
+
+Hosts
+
+Dev Postgresql
+
+ssh, dev, db
+
+Dev Scheduler
+
+ssh, dev
+
+Load Balancer US
+
+ssh, prod, balancer
+
+Web Server us-1
+
+ssh, prod
+
+Postgresql Replica-2
+
+ssh, prod, db
+
+Postgresql Replica-1
+
+ssh, prod, db
+
+Load Balancer EU
+
+ssh, prod, balancer
+
+Web Server us-0
+
+ssh, prod
+
+Dev Redis
+
+ssh, dev, cash
+
+Terraform Host
+
+ssh, devops, infra
+
+Dev Redis
+
+ssh, dev, cash
+
+Cloud Node US
+
+ssh, prod, cloud
+
+Cloud Node EU-0
+
+ssh, prod, cloud
+
+Cloud Node EU-1
+
+ssh, prod, cloud
+
+All vaults
+
+Personal
+
+DevOps
+
+6
+
+Production
+
+3
+
+Built for modern teams
+
+Vault is your team's single source of truth for all infrastructure. Your team will be more productive collaborating and sharing securely in Termius!
+
+Single source of truth
+
+End-to-end encrypted vaults for all your infrastructure to keep your team in sync.
+
+Granular permisions
+
+Organize your data and separate access to it using multiple vaults.
+
+Secure sharing
+
+Ensure secure sharing of your team's data using encrypted vaults within Termius.
+
+Terminal multiplayer
+
+Collaborate in the terminal in real-time using the multiplayer sessions. Troubleshoot together or guide teammates through your workflow.
+
+Quick handoff
+
+No setup required
+
+One person can type at a time
+
+Vaults
+
+admin-gateway
+
+QA Server
+
+acme-api-dev-us-west
+
+stan@serverauditor:~#
+
+█
+Session logs
+
+Make your team view the latest terminal sessions on any host, regardless of who connected, for easier task handovers, collaboration, and audits.
+
+Manage keys and passwords
+
+Centralize your passwords, keys, and certificates in the Keychain. Effortlessly import, generate, and update your credentials.
+
+Keygen
+
+Create and manage your SSH keys with passphrase protection. Everything is encrypted and easily accessible from any device.
+
+Hardware security keys
+
+Secure SSH authentication with FIDO2 security keys and MFA.
+
+Secure sharing
+
+Securely share SSH keys, passwords, and other sensitive information across teammates via encrypted vaults.
+
+Biometric keys
+
+Secure connections with device-bound keys and biometric protection with Windows Hello, Touch ID/Face ID, or Android biometrics.
+
+Enterprise-grade security
+
+All connections and data are protected with industry-standard encryption, ready for teams that take security seriously.
+
+SOC 2 Type II compliance
+
+Termius meets SOC 2 Type 2 standards for handling sensitive customer data. Business customers can access the report in the dashboard.
+
+End-to-end encryption
+
+All your infrastructure is end-to-end encrypted on your device. Termius never accesses your plaintext data, so only you can decrypt it. Take a close look at our encryption.
+
+Direct connection
+
+Termius doesn't depend on the cloud to manage your access. Your infrastructure is stored and encrypted locally. Connect directly to your servers without the internet, a proxy, or VPN.
+
+Why people choose Termius
+
+SSH available anywhere in the world
+
+SSH keys are pretty easy to export and get going on other devices with Terminus, some of them I had to manually export and annotate user at the end of keys but that's not too bad.
+
+L T
+
+ June 13, 2024
+
+The best terminal client
+
+I am very very happy with the program, and using it for many years by now. Ability to use MOSH, SFTP, gpt even is a deal-maker; and visual styling is just another level of convenient and cool.
+
+RusselStig
+
+September 22, 2024
+
+Best SSH terminal for Windows
+
+It has made so easier to access virtual machines and file transfer.
+
+Aitazaz
+
+June 29, 2024
+
+The best app I've used to date
+
+I've been using it for years, I started using it on the iphone, when I had my first mac I started using it too. I recommend it, to this day I have nothing to complain about, not to mention that it is free, there are more payments that do not even have the amount of resources that it provides. Congratulations to those who developed this tool.
+
+Rafazildooo
+
+September 18, 2024
+
+Absolutely Essential
+
+Been using Termius for a few years now. Absolutely essential to my job. It's far easier than putty. They have a feature to create keys and automatically push them to the server saving me a lot of time.
+
+begzadaushmekov
+
+February 21, 2023
+
+Nice work!
+
+Easily transfer and receive files between my laptop and phone. Great design, simple for creation of common connections. Dig a little deeper and all the advanced features are there. No ads!
+
+Nic Harvey
+
+June 15, 2024
+
+SSH available anywhere in the world
+
+SSH keys are pretty easy to export and get going on other devices with Terminus, some of them I had to manually export and annotate user at the end of keys but that's not too bad.
+
+L T
+
+ June 13, 2024
+
+The best terminal client
+
+I am very very happy with the program, and using it for many years by now. Ability to use MOSH, SFTP, gpt even is a deal-maker; and visual styling is just another level of convenient and cool.
+
+RusselStig
+
+September 22, 2024
+
+Best SSH terminal for Windows
+
+It has made so easier to access virtual machines and file transfer.
+
+Aitazaz
+
+June 29, 2024
+
+The best app I've used to date
+
+I've been using it for years, I started using it on the iphone, when I had my first mac I started using it too. I recommend it, to this day I have nothing to complain about, not to mention that it is free, there are more payments that do not even have the amount of resources that it provides. Congratulations to those who developed this tool.
+
+Rafazildooo
+
+September 18, 2024
+
+Absolutely Essential
+
+Been using Termius for a few years now. Absolutely essential to my job. It's far easier than putty. They have a feature to create keys and automatically push them to the server saving me a lot of time.
+
+begzadaushmekov
+
+February 21, 2023
+
+Nice work!
+
+Easily transfer and receive files between my laptop and phone. Great design, simple for creation of common connections. Dig a little deeper and all the advanced features are there. No ads!
+
+Nic Harvey
+
+June 15, 2024
+
+SSH available anywhere in the world
+
+SSH keys are pretty easy to export and get going on other devices with Terminus, some of them I had to manually export and annotate user at the end of keys but that's not too bad.
+
+L T
+
+ June 13, 2024
+
+The best terminal client
+
+I am very very happy with the program, and using it for many years by now. Ability to use MOSH, SFTP, gpt even is a deal-maker; and visual styling is just another level of convenient and cool.
+
+RusselStig
+
+September 22, 2024
+
+Best SSH terminal for Windows
+
+It has made so easier to access virtual machines and file transfer.
+
+Aitazaz
+
+June 29, 2024
+
+The best app I've used to date
+
+I've been using it for years, I started using it on the iphone, when I had my first mac I started using it too. I recommend it, to this day I have nothing to complain about, not to mention that it is free, there are more payments that do not even have the amount of resources that it provides. Congratulations to those who developed this tool.
+
+Rafazildooo
+
+September 18, 2024
+
+Absolutely Essential
+
+Been using Termius for a few years now. Absolutely essential to my job. It's far easier than putty. They have a feature to create keys and automatically push them to the server saving me a lot of time.
+
+begzadaushmekov
+
+February 21, 2023
+
+Nice work!
+
+Easily transfer and receive files between my laptop and phone. Great design, simple for creation of common connections. Dig a little deeper and all the advanced features are there. No ads!
+
+Nic Harvey
+
+June 15, 2024
+
+SSH available anywhere in the world
+
+SSH keys are pretty easy to export and get going on other devices with Terminus, some of them I had to manually export and annotate user at the end of keys but that's not too bad.
+
+L T
+
+ June 13, 2024
+
+The best terminal client
+
+I am very very happy with the program, and using it for many years by now. Ability to use MOSH, SFTP, gpt even is a deal-maker; and visual styling is just another level of convenient and cool.
+
+RusselStig
+
+September 22, 2024
+
+Best SSH terminal for Windows
+
+It has made so easier to access virtual machines and file transfer.
+
+Aitazaz
+
+June 29, 2024
+
+The best app I've used to date
+
+I've been using it for years, I started using it on the iphone, when I had my first mac I started using it too. I recommend it, to this day I have nothing to complain about, not to mention that it is free, there are more payments that do not even have the amount of resources that it provides. Congratulations to those who developed this tool.
+
+Rafazildooo
+
+September 18, 2024
+
+Absolutely Essential
+
+Been using Termius for a few years now. Absolutely essential to my job. It's far easier than putty. They have a feature to create keys and automatically push them to the server saving me a lot of time.
+
+begzadaushmekov
+
+February 21, 2023
+
+Nice work!
+
+Easily transfer and receive files between my laptop and phone. Great design, simple for creation of common connections. Dig a little deeper and all the advanced features are there. No ads!
+
+Nic Harvey
+
+June 15, 2024
+
+ 4.5
+
+Based on 30.5K reviews
+
+ 4.6
+
+Based on 61.5K reviews
+
+ 4.4
+
+Based on 42.4K reviews
+
+ 4.8
+
+Based on 176 reviews
+
+Try Modern SSH client 
+for free
+
+Start connecting
+
+Frequently Asked Questions
+
+What is Termius and how is it different from other SSH clients?
+
+Is Termius free to use?  Do I need an account?
+
+Is it safe to store passwords and SSH keys in Termius?
+
+Can I use Termius offline?
+
+Does Termius support file transfer and port forwarding?
+
+Ⓒ 2025 Termius Corporation.
+All rights reserved
+
+SSH client for
+
+iPad
+
+iPhone
+
+Android
+
+macOS
+
+Windows
+
+Linux
+
+Resources
+
+Gloria – AI DevOps Agent
+
+SSH.id Passkeys
+
+Download
+
+Education 
+
+For Open Source
+
+Vault
+
+Beta Program 🚀
+
+Documentation
+
+Feature Requests
+
+System Status
+
+Brand Resources
+
+Changelog
+
+Company
+
+About Us
+
+Blog
+
+Careers
+
+Terms of Use
+
+Privacy Policy
+
+Responsible Disclosure
+
+Security
+
+Customer Support
+
+ 

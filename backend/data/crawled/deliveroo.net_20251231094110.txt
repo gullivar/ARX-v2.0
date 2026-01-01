@@ -1,0 +1,11 @@
+Error 1009 Ray ID: 9b65bac50e183284 • 2025-12-31 00:41:08 UTC
+Access denied
+What happened?
+
+The owner of this website (deliveroo.net) has banned the country or region your IP address is in (KR) from accessing this website.
+
+Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1009/ for more details.
+
+Was this page helpful? Yes No
+
+Cloudflare Ray ID: 9b65bac50e183284 • Your IP: Click to reveal • Performance & security by Cloudflare

@@ -1,0 +1,213 @@
+Platform
+Solutions
+Resources
+Customers
+Login
+Contact us
+Talk to an expert
+Compound Advertising and Ecommerce Outcomes with Real-Time Relevance.
+
+The hybrid CDP that combines real-time responsiveness with warehouse-native scale, giving multi-channel brands the flexibility to deliver adaptive customer experiences in the moments that matter most.
+
+Talk to an expert
+Contact us
+Do more with more of your data.
+01
+Less guesswork. Better results.
+
+AI-powered customer insights and predictions power informed decisions at scale. With a strong data foundation as your source of truth—whether in-platform, natively in your cloud data warehouse, or both—your data stays accurate, secure, and ready to use.
+
+02
+Move faster. With less hassle.
+
+Activate data in real time or directly from your warehouse, without silos or added complexity. One platform supports both, so teams move faster today and scale with confidence tomorrow.
+
+03
+Turn data into action.
+
+Power your stack with hundreds of API-based integrations that make data flow seamlessly across every system. mParticle closes the loop between activation and insight, helping teams continuously refine and optimize every customer experience.
+
+1000s
+
+of hours saved for the data engineering team
+
+How HBO Max launched personalized reengagement campaigns
+
+With mParticle, HBO Max's marketing team is able to create audiences without engineering support and engage with their users more strategically.
+
+Read customer story
+
+40%
+
+increase in Sports+ membership using mParticle’s AI engine
+
+How the New York Post tripled campaign conversions for its premium sports membership
+
+Learn how the New York Post leveraged AI to improve campaign targeting and drive subscriptions.
+
+Read customer story
+
+mParticle is essential for Klarna because no matter what touchpoint a customer interacts on, we’re able to create a unified profile. We also have the ability to integrate different attributes, including our predictive attributes, within the same profile, in real time.
+
+Gaia Del Mauro
+
+Product Manager, CRM Data, Klarna
+
+44%
+
+lift in upsell conversions driven by Predictive Audiences via Cortex
+
+How onX accelerated marketing campaigns with mParticle's AI engine
+
+onX incorporated mParticle's AI capabilities into existing workflows to fuel a remarkable 44% conversion rate uplift, enhancing marketing efficiency and impact.
+
+Read customer story
+Solutions you can rely on.
+Create a unified customer view
+
+Understand your customers through a single, comprehensive lens. Clean, unified data gives you one source of truth that you can share across teams.
+
+Unified view
+
+Understand customer journeys
+
+AI-driven predictions and analytics unlock game-changing insights to drive more engaging, personalized, cross-channel experiences. 
+
+Understand journeys
+
+Lower acquisition costs
+
+Use first-party data to grow your customer base for less. Use real-time suppression, leverage lookalike models, personalize content, and test your marketing efforts—all in one platform.
+
+Lower costs
+
+Grow lifetime value
+
+Accelerate revenue per customer with multi-channel audience activation, churn prevention, loyalty and engagement enhancement, uplift/incrementality testing, improved ad targeting, and implementing next best action decisions.
+
+Grow value
+
+Enhance operational efficiencies
+
+Build a data-driven culture with real-time data access across teams. Make decisions faster and optimize operational costs through seamless compliance with privacy regulations—and reduce IT overhead.
+
+Enhance efficiencies
+
+Activate customer data
+
+By enabling real-time access to enriched customer profiles and ingesting event data for activation, companies can create tailored experiences, improve decision-making, and achieve higher engagement rates with precise targeting.
+
+Activate data
+
+0
+1
+2
+3
+The hybrid CDP built for real-time precision, warehouse scale, and enterprise trust.
+Real-time & composable
+Customer 360°
+Segmentation
+Analytics
+Artificial Intelligence
+Governance
+See all capabilities
+Rokt mParticle launches the Hybrid CDP on Snowflake AI Data Cloud
+
+Rokt mParticle launches the Hybrid CDP on Snowflake AI Data Cloud, combining real-time speed with cloud-native scale for the world’s leading consumer brands.
+
+Read announcement
+Latest from mParticle
+See all insights
+PRESS RELEASE
+
+Rokt and mParticle Merge to Redefine Real-Time Relevance
+
+COMPANY
+
+Leading the next generation of CDP solutions: mParticle celebrates acceptance into the MACH Alliance
+
+COMPANY
+
+G2 recognizes mParticle for exceptional customer support
+
+COMPANY
+
+mParticle Joins Elite Ranks with AWS Advertising and Marketing Technology Competency
+
+GROWTH
+
+Evaluating an Enterprise CDP? Consider these five critical requirements.
+
+GROWTH
+
+Navigating the CDP Noise: It’s time to move beyond dumb pipes
+
+0
+1
+2
+3
+See what’s possible with us.
+Contact us
+
+Let’s talk about how mParticle can get your business ready to scale. Fast.
+
+Explore the demo
+
+See it yourself. See the difference one platform can make.
+
+PLATFORM
+Hybrid CDP
+Real-Time Architecture
+Composable Architecture
+Customer 360°
+Segmentation
+Analytics
+Governance
+Artificial intelligence
+Integrations
+USE CASES
+Create a customer 360°
+Improve understanding of customers
+Lower customer acquisition cost
+Boost customer lifetime value
+Drive operational efficiencies
+INDUSTRIES
+Media & entertainment
+QSR
+Retail
+Travel & hospitality
+Financial services
+PARTNERS
+Partner overview
+Become a partner
+Partner portal
+RESOURCES
+mParticle blog
+Resources
+News
+Developer docs
+GET STARTED
+Contact sales
+Request pricing
+Request demo
+COMPANY
+About
+Careers
+Contact us
+Security
+Customers
+Brand Assets
+© 2025 mParticle, Inc.
+Privacy policy
+Cookie policy
+Website terms of service
+Platform terms of service
+Do not sell or share my personal data
+About Rokt
+Press
+Culture
+
+mParticle and Aftersell are registered trademarks of Rokt, Inc. or its wholly owned subsidiaries. Terms and conditions, features, support, pricing, and service options subject to change without notice.
+
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+Cookie settings Accept all cookies

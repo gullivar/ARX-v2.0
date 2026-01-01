@@ -1,0 +1,21 @@
+Jordi's Ramblings Jordi's Ramblings Blog About Feed 🕶 ☀ Blog About Feed August 3, 2022 Narrowing types for static analysis I have spent the last year moving a few big old codebases, including Composer, to PHPStan's level 8. Here are a few lessons I think I have learned in the process.
+
+
+
+I was for a while skeptical about using the baseline feature as it seemed to me like... Read July 26, 2022 A nomenclature of hate (What feels like) a lifetime of maintaining open source projects has left me with some things to say about the haters. I'm not sure why.
+
+Trying to do a light take of it instead of getting mad, here is a post categorizing them.
+
+
+
+Your average online... Read April 2, 2022 New Jigsaw-based Site My blog was always based on some home-grown CMS I built during my studies in.. checks CV 2007-2008.
+
+This was mostly fine but it had no markdown support and it was one more server to manage. I would like to try and write some more content here again so... Read May 16, 2018 Web Development on Windows in 2018 I have been developing web apps on Windows for the last 10+ years. I ran PHP, Apache then Nginx, MySQL and Postgres, Redis and others. I dabbed in VMs at some point but was always dissatisfied with... Read May 15, 2018 PHP Versions Stats - 2018.1 Edition It's stats o'clock! See 2014, 2015, 2016.1, 2016.2, 2017.1 and 2017.2 for previous similar posts.
+
+A quick note on methodology, because all these stats are imperfect as they just sample some subset... Read November 13, 2017 PHP Versions Stats - 2017.2 Edition It's stats o'clock! See 2014, 2015, 2016.1, 2016.2 and 2017.1 for previous similar posts.
+
+A quick note on methodology, because all these stats are imperfect as they just sample some subset of the... Read May 7, 2017 PHP Versions Stats - 2017.1 Edition It's stats o'clock! See 2014, 2015, 2016.1 and 2016.2 for previous similar posts.
+
+A quick note on methodology, because all these stats are imperfect as they just sample some subset of the PHP user... Read November 18, 2016 PHP Versions Stats - 2016.2 Edition It's stats o'clock! See 2014, 2015 and 2016.1 for previous similar posts.
+
+A quick note on methodology, because all these stats are imperfect as they just sample some subset of the PHP user base. I... Read June 29, 2016 Typo Squatting and Packagist Earlier this month an article was published summarizing Nikolai Philipp Tschacher's thesis about typosquatting. In short typosquatting is a way to attack users of a package manager by registering a... Read Twitter E-Mail GitHub Wishlist All content © Jordi Boggiano 2006-2025.

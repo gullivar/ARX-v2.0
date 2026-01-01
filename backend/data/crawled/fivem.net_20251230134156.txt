@@ -1,0 +1,132 @@
+FiveM
+Forum
+Docs
+Servers
+GitHub
+Terms
+Portal
+Forum
+Docs
+Servers
+GitHub
+Terms
+Portal
+close
+
+FiveM is a modification for Grand Theft Auto V enabling you to play multiplayer on customized dedicated servers, powered by Cfx.re.
+
+Join the 166.6k people playing right now!
+DOWNLOAD CLIENT
+FiveM.exe
+CREATE YOUR OWN SERVER
+Thank you — you are awesome.
+
+If the download doesn't start, click here.
+Like FiveM? Consider supporting us on Portal!
+
+Firstly, read our Terms of Service...
+I DON'T AGREE
+SURE, I AGREE!
+
+Building upon years of development on the Cfx.re framework, which has existed in various forms since 2014, FiveM is the original community-driven and source-available GTA V multiplayer modification project.
+We put the community ― both players, server owners, and the greater GTA modding community ― first.
+
+What we have for you
+cloud_download
+Streaming
+FiveM allows servers to use custom cars, maps, weapons, and more dynamically.
+supervisor_account
+AI
+FiveM allows servers to keep the original game AI, so you'll never be alone. You can also PvE!
+sync_alt
+Sync quality
+FiveM uses Rockstar's network code with improvements, so you'll have the best sync around.
+widgets
+Standalone
+FiveM doesn't modify your GTA V installation, so you can switch between GTA:O and FiveM without getting banned.
+Resulting in endless possibilities to play or create your desired gamemode!
+System requirements
+Windows 11
+Recommended
+CPU	Intel Core i5 3470 @ 3.2GHz / AMD X8 FX-8350 @ 4GHz
+GPU1	NVIDIA GTX 660 2GB / AMD HD 7870 2GB
+RAM	16GB
+HDD2	120GB + ~10GB
+Windows 10
+Minimum
+CPU	Intel Core 2 Q6600 @ 2.40GHz / AMD Phenom 9850 @ 2.5GHz
+GPU1	NVIDIA 9800 GT 1GB / AMD HD 4870 1GB / Intel HD GT2
+RAM	8GB (4 may work)
+HDD2	120GB + ~4GB
+GPU: May not work with some older AMD laptop GPUs.
+HDD: 120GB for the original game + additional FiveM cache.
+We 💝 developers
+Run your own server!
+
+FiveM is built for creativity. Create your own server and make your dreams come true.
+
+Our multiplayer modification framework provides a vast set of tools to personalize the gameplay experience of your server. Using our advanced and unique features, you can make anything you wish: roleplay, drifting, racing, deathmatch, or something completely original.
+
+CREATE A SERVER NOW
+Develop using your favorite programming language
+
+With FiveM's extensive support for multiple programming languages, everyone can get started quickly.
+
+Lua
+A concise and lightweight dynamically typed language, easy to pick up.
+C#
+Static typing and object orientation, for the most advanced projects.
+JavaScript
+Use your existing web development knowledge and the rich package/tooling ecosystem.
+Contribute to the FiveM project
+
+Cfx.re believes in the power of communities. As a source-available platform, we greatly appreciate everyone who contributes to the project. Contribute by creating new features, fixing bugs, writing resources or researching game internals and you may be eligible for our contributor program.
+
+READ MORE
+F.A.Q.
+# Will I get banned from GTA:O for playing FiveM?
+
+Nope! FiveM does not interact with the Rockstar Online Services other than to validate your game copy the first time you launch it. This validation emulates the game's interaction, and can not be detected by Rockstar.
+FiveM also doesn't modify your game files at all, even when downloading server assets, so you don't have to do anything to switch between FiveM and GTA:O.
+
+# Why are you asking me for login information?
+
+We need to do this to check if you actually own GTA V, when our automatic validation fails. This data will only be sent to the Rockstar Social Club services, and is not transmitted to us, or any other party.
+
+# Can I play FiveM on my console?
+
+Unfortunately, offering FiveM on any game consoles is not feasible, since FiveM uses advanced interoperability mechanisms only available on the PC platform. Furthermore, FiveM relies on the PC platform being open to developers without requiring any approval from the platform owner.
+
+# Will OneSync require me to redo my server code?
+
+No, all your existing scripts will still work with the game when OneSync is released, with minor changes to support higher player counts. Of course, OneSync will enable new, better ways of doing certain things you do in your scripts, so you might want to take advantage of those when they're released.
+
+# My FiveM crashes, what should I do?
+
+You should post a topic on the forums with the problems you are experiencing. Please make sure to provide all information requested in the error format, so we can help you better.
+
+# What does the M stand for?
+
+Modifications, not multiplayer. FiveM provides both a singleplayer as multiplayer experience. This allows players to use our features in singleplayer as well.
+
+# I want to run a server, how can I do so?
+
+Running your own server is easy. Refer to our server page to get started. Running into trouble? Our community is there to help you. Don't hesitate to create post on our forums.
+
+You can also rent a FiveM server via one of our authorized hosting partners and support the project.
+
+Forum
+Twitter
+Docs
+Servers
+GitHub
+Terms of Service
+Portal
+Rockstar Games, Inc. (C) 2016-2025, FiveM is a copyright and registered trademark of Take-Two Interactive Software, Inc. All rights reserved.
+Privacy
+•
+Cookie Policy
+•
+Cookie Settings
+•
+Do Not Sell Or Share My Personal Information

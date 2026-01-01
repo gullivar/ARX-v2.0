@@ -1,0 +1,1 @@
+﻿ ns1.valueserver.com.br IP: 177.93.111.24 ns2.valueserver.com.br IP: 187.45.181.32 ns3.valueserver.com.br IP: 51.81.81.60 ns4.valueserver.com.br IP: 51.222.29.109

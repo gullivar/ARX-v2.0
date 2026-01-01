@@ -1,0 +1,173 @@
+15
+We've got the world covered, so you can get the coins
+and paid every 10 minutes!
+x4
+Xelis XEL
+PPLNS
+SOLO
+
+28.77 MH/s
+
+Hashrate
+
+476.4 k
+
+Miners Paid
+
+Algo: XelisHashV3
+Height: 3569455
+Reward: ~0.373+tx fees
+Min Pay: 0.05
+Fee: 0.8%
+Difficulty: 2.41 T
+Miners: 175
+Start Mining
+Warthog WART
+PPLNS
+SOLO
+
+101.13 GH/s
+
+Hashrate
+
+381.1 k
+
+Miners Paid
+
+Algo: PoBW
+Height: 3946070
+Reward: ~1.5+tx fees
+Min Pay: 0.5
+Fee: 0.9%
+Difficulty: 15.73 P
+Miners: 32
+Start Mining
+Veruscoin VRSC
+PPLNS
+SOLO
+
+454.15 GH/s
+
+Hashrate
+
+867.6 k
+
+Miners Paid
+
+Algo: VerusHash
+Height: 3879268
+Reward: ~3+tx fees
+Min Pay: 0.001
+Fee: 1%
+Difficulty: 5.69 P
+Miners: 1371
+Start Mining
+Alephium ALPH
+PPLNS
+SOLO
+
+372.66 TH/s
+
+Hashrate
+
+651.3 k
+
+Miners Paid
+
+Algo: Blake3
+Height: 0
+Reward: ~0.143+tx fees
+Min Pay: 0.1
+Fee: 0.8%
+Difficulty: 336.97 P
+Miners: 228
+Start Mining
+Neurai XNA
+PPLNS
+SOLO
+
+1.64 GH/s
+
+Hashrate
+
+865.6 M
+
+Miners Paid
+
+Algo: KawPow
+Height: 1413429
+Reward: ~4K+tx fees
+Min Pay: 1
+Fee: 0.8%
+Difficulty: 1.42 M
+Miners: 26
+Start Mining
+Radiant RXD
+PPLNS
+SOLO
+
+493.14 TH/s
+
+Hashrate
+
+4.3 G
+
+Miners Paid
+
+Algo: Sha512256D
+Height: 391186
+Reward: ~25K+tx fees
+Min Pay: 100
+Fee: 0.9%
+Difficulty: 76.37 G
+Miners: 297
+Start Mining
+Statistics
+Xelis POOL
+Xelis SOLO
+ Network
+ Stratums
+Xelis Network Stats
+
+538.31 MH/s
+
+Hashrate
+
+2.41 T
+
+Difficulty
+
+L
+L
+L
+Xelis Pool Stats
+
+24.67 MH/s
+
+Hashrate
+
+137
+
+Miners
+
+L
+L
+L
+Blog & Social
+blog.vipor.net
+twitter.com/vipornet
+discord.gg/WxJrvp9aN6
+t.me/vipornet
+Telegram Bot
+t.me/vipornetnotify_bot
+We Support
+MinerBox
+Goldshell
+Dragonball
+Vipor VIP
+Are you a large farm?
+Want sub millisecond latency?
+Check out Vipor VIP
+https://status.vipor.net
+Market data powered by CoinGecko
+v1.7.15 Made in the  state by miners, for miners.

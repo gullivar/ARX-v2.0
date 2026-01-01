@@ -1,0 +1,216 @@
+Products
+Official site
+For Windows
+For Mac
+For Android
+For Android TV
+For iOS
+For browsers
+For Linux
+Blog
+Official site
+For Windows
+For Mac
+For Android
+For Android TV
+For iOS
+For browsers
+For routers
+For Linux
+All products
+Blog
+Dashboard
+Public DNS
+Enterprise DNS
+Knowledge base
+AdGuard Home
+AdGuard Pro for iOS
+AdGuard Content Blocker
+AdGuard Mini for Mac
+AdGuard Assistant
+AdGuard Mail
+AdGuard Temp Mail
+AdGuard Wallet
+All products
+Blog
+Purchase
+EN
+Support
+Log in
+Holiday season at AdGuard DNS: 55% off
+Unlock the magic of the clean Internet
+Grab the deal
+Your privacy
+protection center
+Control all web traffic on your devices, block ads, trackers, and malicious domains. Make the Internet safe for everyone at home or at work.
+Try AdGuard DNS
+How it works
+Block anything
+Block ads, trackers, and analytics systems for any website or app
+Protect your kids
+Shield your kids from undesired content and schedule their screen time
+Control all devices
+View request stats and manage web traffic for each of your devices
+How AdGuard DNS works
+Features
+Ad blocking
+AdGuard DNS uses powerful filters to eliminate ads and trackers on every connected device. Trust our default filters, block domains manually, or do both: it’s up to you.
+Try AdGuard DNS
+Parental control
+Keep your children safe online: shield them from adult content on websites, search results, or YouTube. Decide which sites should be blocked and when. For example, stop your children from using social media during their homework.
+Try AdGuard DNS
+Stats at your fingertips
+Get real-time stats on DNS requests of all devices. For each device, see to which sites it tried to connect, which requests got blocked, and when, and change DNS filtering rules on the fly. View stats by date, country, or device, or switch to a bird's eye view.
+Try AdGuard DNS
+Customized filtering
+Use our private DNS server and decide which domains should be blocked or allowed on each of your devices. Connect your computer, smartphone, tablet, or router and manage their DNS queries as you see fit.
+Try AdGuard DNS
+FAQ
+What is DNS?
+DNS stands for Domain Name System. Think of it as of "address book" of the Internet: your browsers and apps use it to translate domain names that make no sense to them into IP addresses that they can understand.
+What is AdGuard DNS?
+AdGuard DNS is a free, privacy-oriented ad-block DNS server. In addition to resolving DNS requests, it blocks ads, trackers, and malicious domains. You can use it instead of your current DNS provider.
+How does AdGuard DNS work?
+When you use AdGuard DNS, every time your browser or app sends an inappropriate DNS request, our DNS server sends back a null response instead of an IP address. To prevent ads, tracking, and fraud, AdGuard DNS uses a frequently updated database of domain names.
+What can AdGuard DNS do?
+It has three different modes, depending on which server addresses you use. "Default" mode is for blocking ads, trackers, malware and phishing websites. "Family protection" does the same, but also blocks websites with adult content and enforces "Safe search" option in browsers that provide it. "Non-filtering" provides a secure and reliable connection but doesn't block anything.
+What makes AdGuard DNS privacy-oriented?
+AdGuard DNS takes several measures to ensure your privacy. It supports all popular secure DNS communication protocols: DNSCrypt, DNS-over-HTTPS (DoH), DNS-over-TLS (DoT), and DNS-over-QUIC (DoQ).
+What is DNSCrypt?
+Instead of a regular client-server interaction protocol, AdGuard DNS allows you to use a specific encrypted protocol — DNSCrypt. Thanks to it, all DNS requests are being encrypted, which protects you from possible request interception and subsequent eavesdropping and/or alteration.
+Does AdGuard DNS work in all browsers and apps?
+Yes, due to the nature of how DNS works, all DNS traffic of your device will go through AdGuard.
+How to configure AdGuard DNS?
+The instructions on how to configure AdGuard DNS on different operating systems will vary. Go to Setup guide, find the one suitable for your case, and follow it to configure AdGuard DNS on your device.
+What are DoH and DoT?
+They are modern secure DNS protocols that gain more and more popularity and will become the industry standards for the foreseeable future. Both are more reliable than DNSCrypt and both are supported by AdGuard DNS.
+What is DoQ?
+DNS-over-QUIC is a new DNS encryption protocol and AdGuard DNS is the first public resolver that supports it. So what's good about it? Unlike DoH and DoT, it uses QUIC as a transport protocol and finally brings DNS back to its roots — working over UDP. It brings all the good things that QUIC has to offer — out-of-the-box encryption, reduced connection times, better performance when data packets are lost. Also, QUIC is supposed to be a transport-level protocol and there are no risks of metadata leaks that could happen with DoH.
+What is DNSSEC?
+AdGuard DNS supports DNSSEC technology which allows you to verify the authenticity of the stored DNS records with a digital signature. It provides protection against current and potential attacks on DNS queries and responses aiming to forge them or change their content, and at the same time it fends off other online threats.
+Why is AdGuard DNS free?
+You can use public AdGuard DNS servers for free — there's no catch. However, we incorporate AdGuard DNS in many paid AdGuard and AdGuard VPN apps. We also offer paid personal AdGuard DNS servers with advanced functionality and more customization options.
+What devices can I use AdGuard DNS with?
+There are no restrictions for which devices you can use it with. You can find a separate configuration manual for each platform on this page.
+What ports does AdGuard DNS use?
+AdGuard DNS uses default port 53. In case port 53 is blocked or unavailable, use port 5353 instead.
+I have some troubles or questions that are not covered by this FAQ. What do I do?
+You will find everything related to AdGuard DNS on GitHub, or you can just ask us by contacting our support: support@adguard-dns.io. We will answer you as soon as possible.
+AdGuard DNS server locations
+You are currently not using AdGuard DNS
+15 +
+Locations
+100 +
+Servers
+120,000,000 +
+Users
+Los Angeles
+New York
+Miami
+Chicago
+Toronto
+Stockholm
+Amsterdam
+Frankfurt
+London
+Prague
+Singapore
+Tokyo
+Sydney
+Istanbul
+Johannesburg
+Sao Paulo
+Hong Kong
+Total queries per day
+300,000,000,000
+Total rating 4.7/5
+More than 19000 app reviews! We love our users and they love us back
+19,879 user reviews
+Excellent!
+
+Shivam
+Very well in saving us from ads but some of them are not removed and sometimes website detect ad blockers.
+
+Uros24
+Thank you for blocking ads
+
+Godgaming
+This dns blocker is very good but the only things is can’t block EVERY trackers (I tested here: https://d3ward.github.io/toolz/adblock)
+
+Seleriii
+Now I'm a big fan of AdGuard DNS. Thank you guys for putting my privacy first
+
+Jean
+Occasionally, it can be a bit aggressive with legit sites
+
+Aoki
+My go-to DNS server right now. Blocks ads, trackers, and other unsafe stuff
+
+Write a review
+Try AdGuard DNS for free
+Get rid of ads, protect your privacy, and enjoy the complete control over your web traffic with a personal AdGuard DNS server
+Try AdGuard DNS
+Latest news
+December 29, 2025
+AdGuard 2025 year recap
+It is time to look back at the passing year and reflect on everything that we’ve done and what we’ve written about. This is AdGuard’s 2025 year recap!
+December 25, 2025
+AdGuard is us… and you: Top contributors 2025
+We’re continuing a small tradition of celebrating the people who help AdGuard be better. Join our contributors program — and next year, it could be you.
+December 22, 2025
+AdGuard DNS now supports post-quantum cryptography. Here’s what that means
+Once again, AdGuard DNS steps ahead of the curve, becoming the first DNS service to bring client-side post-quantum cryptography.
+December 22, 2025
+Holiday savings that make your Internet shine
+This promo wraps up a year of making your Internet sparkling clean. Enjoy discounts on all AdGuard products — we’ve got you covered!
+Read more
+Subscribe to our news
+Be the first to get the latest news about online privacy and ad blocking, AdGuard product releases, upcoming sales, giveaways, and more.
+Email
+Subscribe
+I accept the Privacy policy and Terms and conditions of AdGuard websites
+Other AdGuard products
+Give a boost to your privacy protection: block ads and trackers, stay anonymous, control your web traffic, or declutter your inbox with AdGuard products
+AdGuard Ad Blocker
+Blocks ads and trackers in all browsers and apps
+AdGuard VPN
+Makes you anonymous and your traffic inconspicuous
+AdGuard Mail
+Hides your email address
+System theme
+© 2009–2025 Adguard Software Ltd.
+Site map
+AdGuard DNS
+Homepage
+Pricing
+Bind license
+Blog
+About us
+Connect to DNS
+Enterprise DNS
+AdGuard promo activities
+Discuss
+Media kits
+In the press
+Other products
+AdGuard Ad Blocker
+AdGuard VPN
+AdGuard Home
+AdGuard Temp Mail
+AdGuard Mail
+AdGuard Wallet
+Support
+Support center
+FAQ
+Knowledge base
+Version history
+Report an issue
+AdGuard status
+AdGuard diagnostics
+Legal documents
+EULA
+Privacy policy
+Privacy policy of AdGuard websites
+Terms and conditions
+Terms of sale
+Data processing agreement

@@ -1,0 +1,167 @@
+Support
+Log in
+Products
+Solutions
+Pricing
+Docs
+Resources
+Sign Up
+See how it works
+The leading customer data platform, powered by AI
+
+Twilio Segment brings together clean, consented customer data for real-time insights so you can know each individual like they are your only customer.
+
+Get a demo
+Create a free account
+Enrich customer profiles
+
+Build and automatically enrich identity-resolved profiles with every new interaction to better predict and provide relevant customer experiences in real time.
+
+Unify & enrich your data
+Activate customer data
+
+Our 700+ pre-built connectors make it fast and easy to get all the data you need into unified customer profiles—and activate those profiles to power the tools you use.
+
+Activate your data
+Optimize ad spend
+
+Make it easy for marketers to activate first-party data and use AI to build more predictive, precise, and personalized ads that drive conversions and lower customer acquisition costs.
+
+Increase your ROAS
+Boost cross-sell and upsell
+
+Use AI to anticipate customer needs and recommend the right item to the right customers at the best time for conversion to drive repeat sales.
+
+Increase Customer Value
+A CDP that works hard for every team, backed by enterprise-grade infrastructure
+Data engineers
+
+Segment’s libraries, automatic sources, and functions collect data from anywhere—hundreds of thousands of times per second—so you can move it where you need it.
+
+Segment for engineers
+Marketers
+
+Know your customers through rich profiles and use AI to anticipate their needs and create personalized campaigns that improve ROI.
+
+Segment for marketers
+Product managers
+
+Get a complete view of your customers for better personalization, conversion optimization, and predictive recommendations.
+
+Segment for product
+
+Join the 25,000+ companies using the Segment platform
+
+Provide 1:1 interactions at scale with AI
+Generative AI
+Predictive AI
+AI-ready data
+Security and privacy
+Generative AI
+
+Create targeted audiences and launch personalized customer journeys within minutes using simple text prompts.
+
+Explore AI Solutions
+Activate warehouse data with a CDP that’s powerful yet flexible
+
+Twilio Segment makes it easy for data teams to prepare, enrich, and activate existing data in the warehouse, so marketers can move fast with personalized communication.
+
+12,696
+
+unique events tracked**
+
+12.1 Trillion
+
+API calls processed in 2023**
+
+Keep your data where it is
+
+With a zero copy architecture that treats the warehouse as a source of truth, you can make event streams, product information, and entity data open to any team and application.
+
+Get extensibility without complexity
+
+Build, deploy, and scale on a platform that easily integrates with your tech stack so you can quickly adapt to changing customer needs while maintaining data privacy.
+
+Enhance every experience with warehouse data
+
+Enrich and unlock customer profiles across your organization with real-time data and predictive AI to make every customer interaction more impactful.
+
+Explore Reverse ETL
+View docs
+Integrations
+
+700+ pre-built integrations that you can enable with the flip of a switch.
+
+Explore integrations
+
+ 
+
+ 
+
+ 
+
+ 
+
+The world’s leading brands are powered by Twilio Segment
+
+From startups to global enterprises, see what businesses have achieved with the Twilio Segment customer data platform.
+
+"We lean heavily on Segment today to identify our consumers and their profile traits, what makes them them, and what kind of journey they are on. So, being able to have that integration with Twilio to be able to send communications to users based on their journey status is a pivotal piece of bringing those magic moments to life."
+
+Tory Brady
+Associate Vice President, Product, Engineering & Data at Allergan Data Labs
+400M+
+in sales driven in 2021 YTD by direct-to-consumer (DTC)
+Read their story
+The Customer Data Platform Report 2025
+
+Get insights into how businesses like yours are leveraging their CDPs to drive better engagement, smarter personalization, and more efficient data strategies.
+
+Read it here
+See Twilio Segment in action
+
+Learn how you can start connecting your data with Twilio Segment. Explore our plans to find the one that’s right for your team.
+
+View interactive demo
+Pricing
+
+* Statistics from 6/30/22 - 6/30/23
+
+See how it works
+Products
+Connections
+Protocols
+Unify
+Twilio Engage
+Customer Data Platform
+Integrations Catalog
+Pricing
+Security
+GDPR
+For Developers
+Documentation
+Segment API
+Build on Segment
+Open Source
+Engineering Team
+Company
+Careers
+Blogs
+Press
+Events
+Podcast
+Data Hub
+Support
+Help Center
+Contact us
+Resources
+Recipes
+Professional Services
+Security Bulletins
+Documentation
+Release Notes
+Become a Partner
+Guide to Customer Data Platforms
+© 2024 Twilio Inc. All Rights Reserved.
+Privacy
+Terms of Service

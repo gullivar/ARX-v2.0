@@ -1,0 +1,575 @@
+PoolShopEasy Mining
+More 
+English
+LoginRegister
+ Notice:
+Extension of Zero-Fee Mining Promotion for ZEC/XMR/KAS
+More
+IOS Download
+Android Download
+Antpool Mining Coin
+Mining CalculatorUSD
+	
+Coin
+	Pool Hashrate	Network Hashrate	Coin Price	
+Daily Revenuei
+	Minimum Payment	Earnings Mode	More
+	
+BTC
+Bonus
+Bitcoin
+	
+179EH/s
+	
+1075.38EH/s
+	
+$87,109.41
+	
+$0.0371/T
+	
+0.005BTC
+	
+PPLNS, FPPS
+	
+...
+
+
+	
+BCH
+BCH
+	
+399PH/s
+	
+7.25EH/s
+	
+$598.70
+	
+$0.0383/T
+	
+0.01BCH
+	
+PPLNS, FPPS
+	
+...
+
+
+	
+LTC
+Bonus
+Litecoin
+	
+509TH/s
+	
+2.89PH/s
+	
+$78.03
+	
+$0.0007/M
+	
+0.001LTC
+	
+PPS
+	
+...
+
+
+	
+ETC
+ETC
+	
+11.6TH/s
+	
+220.78TH/s
+	
+$11.91
+	
+$0.0008/M
+	
+0.2ETC
+	
+PPS
+	
+...
+
+
+	
+ZEC
+Zcash
+	
+557MSol/s
+	
+13.23GSol/s
+	
+$539.24
+	
+$0.0581/K
+	
+0.001ZEC
+	
+PPS, PPLNS
+	
+...
+
+
+	
+DASH
+Dash
+	
+427TH/s
+	
+2.66PH/s
+	
+$42.47
+	
+$0.0043/G
+	
+0.001DASH
+	
+PPS
+	
+...
+
+
+	
+HNS
+Handshake
+	
+210TH/s
+	
+2.21PH/s
+	
+$0.0039
+	
+$0.0003/G
+	
+10HNS
+	
+PPS
+	
+...
+
+
+	
+KDA
+Kadena
+	
+10.4PH/s
+	
+45.8PH/s
+	
+$0.0093
+	
+$0.0096/T
+	
+2KDA
+	
+PPS
+	
+...
+
+
+	
+ETHW
+EthereumPoW
+	
+31.7GH/s
+	
+6.07TH/s
+	
+$0.5260
+	
+$0.0010/M
+	
+0.2ETHW
+	
+PPS+
+	
+...
+
+
+	
+DGB_SHA256D
+DigiByte
+	
+4.41PH/s
+	
+65.48PH/s
+	
+$0.0060
+	
+$0.0409/T
+	
+100DGB
+	
+PPLNS
+	
+...
+
+
+	
+DGB_SCRYPT
+DigiByte
+	
+501MH/s
+	
+165.41PH/s
+	
+$0.0060
+	
+$0.0978/G
+	
+100DGB
+	
+PPLNS
+	
+...
+
+
+	
+CKB
+Nervos
+	
+18.2PH/s
+	
+164.83PH/s
+	
+$0.0024
+	
+$0.0926/T
+	
+100CKB
+	
+PPS
+	
+...
+
+
+	
+RVN
+Ravencoin
+	
+229GH/s
+	
+6.06TH/s
+	
+$0.0069
+	
+$0.0053/M
+	
+1RVN
+	
+PPS
+	
+...
+
+
+	
+KAS
+Kaspa
+	
+5.02PH/s
+	
+450.7PH/s
+	
+$0.0435
+	
+$0.3162/T
+	
+100KAS
+	
+PPLNS
+	
+...
+
+
+	
+XMR
+XMR
+	
+1.28MH/s
+	
+6.06GH/s
+	
+$326.07
+	
+$46.0573/M
+	
+0.05XMR
+	
+PPLNS
+	
+...
+
+
+	
+ALPH
+Alephium
+	
+766TH/s
+	
+14.33PH/s
+	
+$0.1082
+	
+$0.0000/G
+	
+1ALPH
+	
+PPLNS
+	
+...
+
+
+	
+FB
+Fractal Bitcoin
+	
+16.3PH/s
+	
+491.44PH/s
+	
+$0.4018
+	
+$0.0398/T
+	
+0.1FB
+	
+PPLNS
+	
+...
+BTC Cloud Mining
+ANTPOOL Block
+Latest 20 BTC Blocks
+
+2025-12-30 12:34
+
+Height
+
+930103
+
+Difficulty
+
+561.44 T
+
+Tx volume
+
+1.58 MB
+
+930102
+
+178.32 T
+
+1.48 MB
+
+2h29min前
+
+930101
+
+235.60 T
+
+1.38 MB
+
+2h47min前
+
+930100
+
+1.74 P
+
+1.46 MB
+
+3h21min前
+
+930093
+
+153.42 T
+
+1.73 MB
+
+4h49min前
+
+930090
+
+442.06 T
+
+1.62 MB
+
+5h5min前
+
+930087
+
+337.23 T
+
+1.7 MB
+
+6h7min前
+
+930084
+
+369.75 T
+
+1.51 MB
+
+6h41min前
+
+930082
+
+724.85 T
+
+1.6 MB
+
+7h2min前
+
+930077
+
+7.18 P
+
+1.66 MB
+
+7h20min前
+
+930070
+
+214.66 T
+
+1.65 MB
+
+8h12min前
+
+930068
+
+152.77 T
+
+1.59 MB
+
+8h22min前
+
+930061
+
+11.83 P
+
+1.58 MB
+
+9h42min前
+
+930052
+
+460.72 T
+
+1.58 MB
+
+10h37min前
+
+930048
+
+271.21 T
+
+1.64 MB
+
+11h7min前
+
+930044
+
+1.87 P
+
+1.49 MB
+
+11h55min前
+
+930042
+
+565.72 T
+
+1.64 MB
+
+12h44min前
+
+930039
+
+167.25 T
+
+1.66 MB
+
+12h58min前
+
+930019
+
+276.69 T
+
+1.67 MB
+
+16h24min前
+
+930009
+
+1.50 P
+
+1.66 MB
+
+17h46min前
+
+Why Choose ANTPOOL?
+Convenient Management
+
+Register with mailbox and you will have an account, sub-account, group, three-level account system. You could authorize shared account for a convenient management of miners and mining farm.
+
+Transparent Earnings
+
+Support FPPS, PPS, PPLNS and other earnings modes. Automatic settlement and payout each day, Transparent earnings, Real-time mining data update.
+
+Prompt Notice
+
+Provide APP, Mail, SMS, WeChat notification service. Sends notifications based on the hash rate warnings threshold configured by you.
+
+Stable Service
+
+Top technical team, distributed architecture supports concurrent mining of million miners, node deployment around the world, 7 * 24 hours stable mining network environment.
+
+You are not allowed to access (or attempt to access) this service by any means other than through the means we provide or have indicated to be used, and you specifically agree not to access (or attempt to access) this service via any illegal or unlawful means or use this service to support any illegal or unlawful activities or purpose. By entering this website and signing up for this service, you acknowledge and agree that you are a person to whom this service may be lawfully provided in accordance with the laws of jurisdiction in which you are located.
+
+INFORMED CONSENT
+
+SPECIAL NOTICE
+
+Please read this Informed Consent carefully before you use the services provided by the application. If there is anything you do not understand or are confused with, please consult a professional lawyer. If you do not agree to this Informed Consent and/or amendments to it from time to time, please stop using the services provided by the application immediately or cease logging into this application. By logging into the application, using any service of the application or any other similar act, you are deemed to have acknowledged that you are aware of and fully understand this Informed Consent (including any amendment thereto from time to time). YOU WILL THEN BE BOUND BY THE INFORMED CONSENT AND SHALL NOT INVALIDATE OR CLAIM TO REVOKE THE INFORMED CONSENT ON THE GROUND THAT YOU HAVE NOT READ THE INFORMED CONSENT.
+
+YOU CONFIRM AND ACKNOWLEDGE HEREBY THAT
+
+1. You are not on any list of terrorist organizations or terrorists, such as those listed in the UN Security Council Resolutions.
+
+2. You are not restricted nor prohibited from using the application by any national or regional administrative agency for law enforcement.
+
+3. You are not a citizen or resident of Cuba, Iran, North Korea, Syria, or any other country or region sanctioned by relevant national governments or international institutions.
+
+4. You are not a citizen or resident of any country or region that restricts or prohibits cryptocurrency-related activities, including but not limited to the mainland of China.
+
+5. The use of services provided by the application is permitted under applicable laws, regulations, and policies in your country or region.
+
+YOU AGREE THAT YOU WILL ASSUME THE CORRESPONDENT LEGAL RISKS AND OBLIGATIONS INDEPENDENTLY AND YOU HEREBY UNCONDITIONALLY AND IRREVOCABLY WAIVE THE RIGHT OF RECOURSE IF YOUR USE OF THE SERVICES PROVIDED BY THE APPLICATION BECOMES ILLEGAL DUE TO THE LAWS, REGULATIONS, AND POLICIES IN YOUR COUNTRY OR REGION OR ANY OTHER APPLICABLE LAWS.
+
+ Got it
+Confirm
+Technology brings infinite possibilities to the blockchain world
+ANTPOOL Products
+APP
+Easy Mining
+Transaction Accelerator
+Cloud
+FIL Mining
+Brand Images
+Shop
+User Support
+VIP Application
+Announcement
+API
+Tools
+Mining Instruction
+FAQ
+Terms of Service
+Privacy Policy
+Disclaimer on Hashrate Transfer
+Strategic Partners
+BITMAIN
+BITFUFU
+ANTALPHA
+We use cookies to offer you a better browsing experience, analyze site traffic and personalize content. For more information, you can visit our Cookie Policy. If you continue to use this site, you consent to our use of cookies.
+VIP

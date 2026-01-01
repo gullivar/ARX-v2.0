@@ -1,0 +1,27 @@
+Security
+Security Check
+
+Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.
+
+Please click here to verify that you are not a bot.
+
+ 
+
+Browser
+Working
+
+ 
+
+Myra
+Working
+
+Host
+Working
+
+What happened?
+
+You ran into a security check to verify the validity of your request.
+
+What can I do?
+
+You must confirm that you are human. If you have problems, please contact accountsecurity@degiro.com

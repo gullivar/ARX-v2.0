@@ -1,0 +1,164 @@
+Product
+Solutions
+Connectors
+Pricing
+Resources
+Book demo now
+Log in
+Start free
+Big news!
+🎉 Fivetran is joining forces with dbt Labs. Together, we’re setting the standard for open data infrastructure. Read the announcement
+Moving data.
+Powering innovation.
+
+From start-ups to global enterprises, the Fivetran data movement platform unlocks innovation by accelerating insights, optimizing operations, and powering data-driven decisions.
+
+Get started for free
+Trusted by data-driven companies
+Effortlessly move data from any source to any destination
+Explore our 700+ connectors
+
+Automatically, reliably and securely move data from 700+ sources including SaaS applications, databases, ERPs, and files to data warehouses, data lakes, and more.
+
+Scale and innovate with our customizable platform
+
+The Fivetran platform scales to fit into your evolving data needs, making your future innovations possible.
+
+Deploy data pipelines your way
+
+Move data in your own environment to meet your security needs with our easy-to-use Hybrid Deployment capability.
+
+Explore our deployment options
+Automate ingestion to the data lake
+Build custom connectors
+Prepare data for analytics-ready models
+Security teams love Fivetran
+Learn more about security
+SOC 1 & SOC 2
+GDPR
+HIPAA BAA
+ISO 27001
+PCI DSS LEVEL 1
+HITRUST
+Data movement is your foundation for innovation
+
+Fivetran, the industry leader in data movement, powers real-time analytics, database replication, AI workflows, and cloud migrations for thousands of customers worldwide. The Fivetran data movement platform is the foundation for customer innovation.
+
+Explore our case studies
+Dropbox cuts data ingestion and reporting time from 8 weeks to 30 minutes.
+Okta saved 1,000 engineering hours with Fivetran.
+Nando's builds Customer 360 profiles 60% faster with Fivetran.
+Dropbox cuts data ingestion and reporting time from 8 weeks to 30 minutes.
+Okta saved 1,000 engineering hours with Fivetran.
+Nando's builds Customer 360 profiles 60% faster with Fivetran.
+Dropbox cuts data ingestion and reporting time from 8 weeks to 30 minutes.
+Okta saved 1,000 engineering hours with Fivetran.
+Nando's builds Customer 360 profiles 60% faster with Fivetran.
+Dropbox cuts data ingestion and reporting time from 8 weeks to 30 minutes.
+Okta saved 1,000 engineering hours with Fivetran.
+Nando's builds Customer 360 profiles 60% faster with Fivetran.
+Fivetran by the numbers
+
+At Fivetran, we are focused on providing reliability and scale for our customers.
+
+Learn more about our benchmarks
+500+ GB/hr
+
+Historical sync throughput speeds
+
+9.1+ Petabytes
+
+Amount of data synced per month
+
+22.2M +
+
+Schema changes handled per month
+
+37.7M +
+
+Transformation models run per month
+
+156.5M +
+
+Pipeline syncs per month
+
+10.1T +
+
+Rows synced per month
+
+The only managed platform to move and
+activate all of your data
+Experience the ease and scale of Fivetran in less than 2 minutes
+Try the self-guided demo
+Transformations
+Accelerate insights with automated transformations
+Extensibility
+Easily integrate Fivetran with other tools and systems to optimize workflows
+Security
+Rigorous, built-in security to move data with peace of mind
+rELT
+Activate your data back into your data applications
+Governance
+Know, protect and scale your data with governed data movement
+Hybrid Deployment
+Securely move all of your data without compromising performance
+Everything you need to know to get started
+All resources
+DOCUMENTATION
+New to Fivetran documentation
+DEMO
+Fivetran demo: Account setup
+BLOG
+Your first 30 days as a Fivetran user
+REPORT
+Data readiness for SAP applications: Capitalizing on AI and GenAI to drive enterprise forward
+PRICING
+Explore pricing and plans
+Let's get you moving data
+Get started for free
+Book a live demo
+Product
+Platform overview
+Transformations
+Security
+Governance
+Extensibility
+Deployment models
+Pricing
+Overview
+All features
+Free Plan
+Y Combinator
+Resources
+Blog
+Customer stories
+Resource center
+Learn
+News
+Events
+Professional services
+Podcast
+Company
+About Fivetran
+Culture
+Careers
+Contact us
+Support
+Support portal
+Status
+Changelog
+Full API Reference
+FAQs
+MIT research: Data readiness is key to AI readiness
+Read now
+Language
+Legal
+Privacy policy
+Cookie settings
+Website terms of use
+Cookie list
+©2025 Fivetran Inc.
+Fivetran's Use of Cookies
+By clicking "Accept All Cookies", you consent to the storage of cookies on your device for improved site navigation, analyzing site usage, and supporting our marketing efforts. Refer to our Privacy Notice section on "Cookies and similar tracking technology" for more details.
+Accept All Cookies
+Personalize My Choices

@@ -1,0 +1,3 @@
+Revizor Please enable JavaScript in your browser! Report XML Data <?xml version="1.0"?>
+<root>
+<param name="rqpath" value=""/></root> Protection of simultaneous editing Login timed out Revizor User authentication Login: Password:

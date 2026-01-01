@@ -1,0 +1,279 @@
+Features 
+Solutions 
+Enterprise
+Resources 
+Pricing
+Log In
+Register for FREE
+The world's leading
+uptime monitoring service.
+50 monitors for free
+20+ integrations
+Real-time alerts, web & mobile
+Public status pages
+Start monitoring in 30 seconds
+Trusted by over 2.5 million users and companies
+All you really care about. Monitored in one place.
+Website monitoring
+
+Be the first to know that your website is down! Reliable monitoring warns you before any significant trouble and saves you money.
+
+Explore more
+Response time monitoring
+
+Monitor response times and spot slowdowns immediately with customizable alerts.
+
+Explore more
+DNS monitoring
+
+Get alerted when your DNS records change. Monitor DNS entries and detect unexpected changes before they impact your service.
+
+Explore more
+SSL monitoring
+
+Don't lose visitors because of an expired SSL certificate. Get notified 30, 14 and 7 days before expiration.
+
+Explore more
+Domain expiration monitoring
+
+Keep your online presence secure and avoid any potential damage by monitoring your domain's expiration date.
+
+Explore more
+Cron job monitoring
+
+Also known as heartbeat monitoring. Monitor recurring background jobs or intranet devices connected to the internet.
+
+Explore more
+Port monitoring
+
+Is the email service still UP? How about the critical database server? Let's check! Monitor any specific service running on any port.
+
+Explore more
+Ping monitoring
+
+Leverage one of the most used tools administrators use to check the availability of network devices.
+
+Explore more
+Keyword monitoring
+
+Use keyword monitoring to check presence or absence of specific text in the request's response body (typically HTML or JSON).
+
+Explore more
+Start monitoring in 30 seconds
+Downtime happens.
+Get notified!
+
+Downtime happens even to the best of us. But it’s important to know it before customers are affected!
+
+Explore integrations
+Email
+Email is the most popular way for any notification. Get alerted!
+SMS
+Get alerted instantly by SMS, useful when you are offline!
+Voice call
+Get an automated voice call from us whenever your website is down.
+Slack
+Slack messages are a great way to inform the entire team!
+Zapier
+Integrate your Zapier account to get alerted right away.
+Telegram
+Telegram messages are great to get quickly alerted.
+Webhooks
+For advanced alerting you can setup custom webhooks to your specific system.
+Discord
+Get important monitor status updates in your Discord messages.
+Microsoft Teams
+Get notifications inside your MS Teams app to alert everyone in the group.
+Advanced features for advanced users.
+Share updates
+Response time monitoring
+White-labeled Status pages
+Maintenance windows
+Custom HTTP requests
+Multi-location checks
+Share updates
+
+Keep your users informed about planned maintenance or ongoing incidents with automated email notifications before they ask.
+
+ Explore more
+Start monitoring in 30 seconds
+Keep monitoring everywhere you go, with our mobile app.
+
+Get instant notifications, manage monitors and check your uptime statistics on the go.
+
+Inform your customers about incidents with status pages.
+
+Be transparent. Inform customers of planned outages. Show them that you strive to keep your service 100% online.
+
+Check live demo
+Explore status pages
+Add your team members to keep them notified.
+
+You can invite all your team members to access your monitors, keep them notified and manage incidents. Choose from three levels of user access: read, write and notify-only.
+
+Explore incident management
+Why over 2.5 million users trust UptimeRobot.
+Basem A.
+Reliable service
+
+It was a wonderful experience and I would highly recommend it. UptimeRobot has exceeded my expectations with its efficient monitoring and notification system. Thanks to their service, I've been able to stay on top of any downtime issues and ensure maximum uptime for my online presence, highly recommended!
+
+Reviewed on Capterra.com
+Michael N., Director of Media Relations
+UptimeRobot Works Great -- And Believe It!
+
+Our Native Amerrican news magazine/public service website is www.nativeamericatoday.com. Our former developer did a horrible job, which continually allowed bots to attack the site -- we went over our server's resource limits multiple times and crashed...
+
+Reviewed on G2.com
+Michael Palmer
+Piece of Mind Monitoring
+
+I have recently moved monitoring to UptimeRobot for some critical links and external facing services within our organization. Internal monitoring programs are great until the internet is down and you don't know because you can't get the alerts out...
+
+Reviewed on Trustpilot.com
+Basem A.
+Reliable service
+
+It was a wonderful experience and I would highly recommend it. UptimeRobot has exceeded my expectations with its efficient monitoring and notification system. Thanks to their service, I've been able to stay on top of any downtime issues and ensure maximum uptime for my online presence, highly recommended!
+
+Reviewed on Capterra.com
+Michael N., Director of Media Relations
+UptimeRobot Works Great -- And Believe It!
+
+Our Native Amerrican news magazine/public service website is www.nativeamericatoday.com. Our former developer did a horrible job, which continually allowed bots to attack the site -- we went over our server's resource limits multiple times and crashed...
+
+Reviewed on G2.com
+4.7
+
+stars out of 5
+
+230+
+
+reviews on G2
+
+Meet our users
+Simple pricing. Powerful monitoring.
+Save ~20% with annual billing.
+Annual
+Monthly
+Free.
+$ 0 / month
+Good for hobby projects. No credit card required!
+Register now
+50 monitors
+😐5 min. monitoring interval
+ HTTP, port & ping monitor
+ Keyword monitor
+ Location-specific monitoring
+ Slow response alerts
+ DNS monitoring
+ SSL & Domain exp. monitor
+😐Only 5 integrations
+😐Basic status pages
+ Notify seats unavailable
+ No login seats available
+Solo.
+$ 8 7 / month
+Great for solopreneurs and hobbyists.
+Subscribe now
+10 monitors
+50 monitors
+10 monitors
+ 60 sec. monitoring interval
+ HTTP, port & ping monitor
+ Keyword monitor
+🆕 Location-specific monitoring
+🆕 Slow response alerts
+🆕 DNS monitoring
+ SSL & Domain exp. monitor
+🙂Only 9 integrations
+😐Basic status pages
+ Notify seats available 
+ No login seats available
+Team.
+$ 34 29 / month
+For a small team who needs to collaborate.
+Subscribe now
+100 monitors
+ 60 sec. monitoring interval
+ HTTP, port & ping monitor
+ Keyword monitor
+🆕 Location-specific monitoring
+🆕 Slow response alerts
+🆕 DNS monitoring
+ SSL & Domain exp. monitor
+ All 12 integrations
+ Full-featured status pages
+ 3 notify seats incl. 
+ 3 login seats incl. 
+Enterprise.
+$ 64 54 / month
+For those who just need more.
+
+
+Subscribe now
+200 monitors
+500 monitors
+1,000+ monitors
+200 monitors
+ 30 sec. monitoring interval
+ HTTP, port & ping monitor
+ Keyword monitor
+🆕 Location-specific monitoring
+🆕 Slow response alerts
+🆕 DNS monitoring
+ SSL & Domain exp. monitor
+ All 12 integrations
+ Full-featured status pages
+ 5 notify seats incl. 
+ 5 login seats incl. 
+See feature comparison
+Get your FREE account now, 50 monitors included!
+Start monitoring in 30 seconds
+
+No credit card required!
+
+Available also on:
+Downtime happens. Get notified!
+
+Join more than 2,700,000+ happy users! UptimeRobot is one of the most popular website monitoring services in the world.
+
+Monitoring.
+Website monitoring
+SSL monitoring
+Domain monitoring
+Ping monitoring
+Port monitoring
+TCP monitoring
+Cron job monitoring
+Keyword monitoring
+Location-specific monitoring
+Response time monitoring
+Incident Management
+DNS monitoring
+Company.
+Pricing
+Blog
+Affiliate program
+Referral program
+Non profit & charities 🤲
+Terms / Privacy
+Contact us
+We are hiring!
+Resources.
+Integrations
+API
+FAQs
+Help center
+Locations & IPs
+Comparisons
+Case studies
+Knowledge hub
+Roadmap
+Subnet calculator
+MX lookup
+Uptime calculator
+CrontabRobot
+Website change detection
+🍪 This website use cookies. Learn more
+Decline all  |  Allow essential  |  Accept all

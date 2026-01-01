@@ -1,0 +1,1 @@
+kvCORE Platform Login {{ $t('Login.dashboardLogin') }} {{ $t('Login.login') }} Having Trouble Logging In? {{ $t('Login.forgotPassword') }} Don't have kvCORE yet? Learn More Today 2025 © INSIDERE, LLC

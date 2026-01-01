@@ -1,0 +1,163 @@
+首页 注册 登录
+V2EX = way to explore
+V2EX 是一个关于分享和探索的地方
+现在注册
+已注册用户请  登录
+IP.IM 查询准确的IP地址信息
+支持curl 提供全球IP超高准确度位置信息查询
+高精度IP地址信息查询
+Promoted by iFrey
+ PRO
+今日热议主题
+		你们的女朋友也这样吗？
+		人生第一次开庭，劝大家还是去大城市定居！
+		最近在研究 ai 变声 太爽了
+		财政官宣明年国补
+		看了那个去世的帖子有个很现实的问题小地方得了病怎么办
+		重金了几个有含义域名，做什么项目好呢？
+		第一次知道微信零钱还有这个坑
+		编程已死！
+		🖖Manus 被 Meta 数十亿美元收购❗❗❗
+		你们的公积金都怎么用的？
+最热节点
+问与答程序员酷工作分享发现Apple分享创造macOS职场话题宽带症候群PythonAndroidiPhone全球工单系统推广生活
+  RSS  
+VXNA
+›
+Site of the Day
+xhao
+38 篇文章
+最近新增节点
+MeteoraX LayerARC RaidersFaucetClaudePROCursorRevNet钓鱼VXNAENS原神Mac OS 9Diablo IVnostrFreeformOpenAI掌机YubiKey
+社区运行状况
+注册会员	781,462
+主题	1,182,183
+回复	17,155,948
+技术创意好玩Apple酷工作交易城市问与答最热全部R2VXNA 
+程序员     Python     iDev     Android     Linux     node.js     云计算     宽带症候群
+		大家能否反馈一下 Antigravity 的使用体验
+程序员  •  qianyidui5  •  几秒前  •  最后回复来自 5dprince	23
+		个人本地开发相关的软件你们都是装在哪里？
+程序员  •  itechnology  •  2 分钟前  •  最后回复来自 twofox	52
+		最近在研究 ai 变声 太爽了
+  3   程序员  •  baby0w0  •  3 分钟前  •  最后回复来自 listen2wind	110
+		刚买了个安卓机已 root，请问大佬们有什么常用和好玩的 LSP 模块推荐下啊
+  1   Android  •  a394675143  •  2 分钟前  •  最后回复来自 wty95	64
+		才发现 RIME 可以在 MacOS 上安装，更换了开源输入法，太舒服了
+程序员  •  MindMindMax  •  7 分钟前  •  最后回复来自 Brodess	16
+		能用 10 行 Bash 解决的，别折腾 AI
+程序员  •  xiaoshu  •  12 分钟前  •  最后回复来自 YanSeven	22
+		如何实现一个简易版豆包助手
+Android  •  kldd529  •  15 分钟前	
+		cloudflare 自建 doh
+DNS  •  guoguobaba  •  15 分钟前  •  最后回复来自 starrys	4
+		2025 年末，求安卓旗舰推荐
+Android  •  edinina  •  14 分钟前  •  最后回复来自 BelovedOne	35
+		这搭配 Opus 计划 Sonnet 编后台 gemini 写前端 codexbug
+程序员  •  sakurajiayou  •  21 分钟前  •  最后回复来自 Scarb	7
+		有没有 google 日历网页版替代
+程序员  •  huangmingyou  •  28 分钟前  •  最后回复来自 SakuraYuki	10
+		AI 编程大行其道, 如何避免项目密钥泄露?
+程序员  •  stinkytofux  •  7 分钟前  •  最后回复来自 bbao	38
+		［开源项目］ E 视界，基于 dongguatv 的自动搜索聚合影视站 API 的美观轻量快速的视频网站前端框架
+程序员  •  ednovas  •  44 分钟前	
+		Antigravity 是否支持 AGENTS.md？
+Google  •  kid1412621  •  1 小时 12 分钟前  •  最后回复来自 skyemin	4
+		[自荐] 极简 NAS 私有图床「云图」更新！🎉 新增相册分享 & 回收站机制， Docker 一键部署
+NAS  •  qazzxxx  •  1 小时 13 分钟前  •  最后回复来自 waker123	1
+		我承认我是 SB，淦
+NAS  •  yiranw09  •  1 小时 40 分钟前  •  最后回复来自 daliusu	3
+		整理了 AI Agent 生态的开源项目，也推一下自己的
+  1   程序员  •  d0r1an  •  1 小时 53 分钟前  •  最后回复来自 d0r1an	13
+		分享｜我做了个轻量的「AI 协作 Playbook」，让写代码不再跑偏（有点像自制 spec-kit）
+程序员  •  lihui4305  •  3 小时 6 分钟前  •  最后回复来自 lihui4305	1
+		[美国 企业 个人 代认证权益 阿里云华为云腾讯云-5 分钟极速认证
+云计算  •  graciexx  •  2 小时 57 分钟前  •  最后回复来自 mytsing520	1
+		将 Markdown 文件导入为 React 组件 - 写作文档，即时获取交互式演示
+React  •  simonguo  •  4 小时 13 分钟前	
+		idea 合并版有问题？
+程序员  •  nutting  •  21 分钟前	
+		[开源分享] OpenDBKit：一个（还很毛坯的）桌面 DB 工具 OpenDBKit：从 jookdb 改出来的
+程序员  •  jsnjfz  •  4 小时 30 分钟前  •  最后回复来自 jsnjfz	2
+		发现了一个极度臃肿的项目
+git  •  JerryYuan  •  1 小时 10 分钟前  •  最后回复来自 PrinceofInj	14
+		Termius 的手机版真的太蠢了
+程序员  •  neword  •  2 小时 9 分钟前  •  最后回复来自 paopaosa	11
+		求教，你们有这么多 AI 编程的需求量么
+程序员  •  collery  •  1 小时 16 分钟前  •  最后回复来自 Mukasi	16
+		AI coding 是否会导致小众技术栈逐渐消亡
+程序员  •  lemoncoconut  •  49 分钟前  •  最后回复来自 iorilu	32
+		如何拿到小爱音箱的对话记录，产生自定义 HTTP 请求？
+程序员  •  liranvv  •  4 小时 47 分钟前  •  最后回复来自 liranvv	7
+		IOS 苹果开发者账号认证问题，使用个人账号还是公司账号
+iDev  •  bojue  •  35 分钟前  •  最后回复来自 lizhenda	7
+		Apple TV+ app 的这个轮播和焦点是如何做到丝般顺滑的配合？
+iDev  •  Dukewill  •  1 小时 1 分钟前  •  最后回复来自 pc10300	8
+		探讨一下使用 AI 开发和维护大型项目的经验
+程序员  •  ktyang  •  3 小时 12 分钟前  •  最后回复来自 kasusa	36
+		Google Antigravity 是不是太脆弱了？
+程序员  •  sn0wdr1am  •  1 小时 6 分钟前  •  最后回复来自 Mukasi	28
+		自建内网高并发纯 https 协议(要卸载 ssl)负载均衡器, haproxy 和 nginx 哪个更合适一点?
+程序员  •  realpg  
+PRO
+  •  4 小时 44 分钟前  •  最后回复来自 clarkethan	20
+		花了一天时间搞了一个后台管理系统的架子，希望各位大佬们提点一下
+程序员  •  zsmile  •  1 小时 56 分钟前  •  最后回复来自 andrewTeller	15
+		我看有人说 win11 正常安装得系统, 其实都是运行在虚拟机上的
+  1   Windows  •  iorilu  •  2 小时 33 分钟前  •  最后回复来自 PrinceofInj	72
+		想学 TA（技术美术）以后就业，报课要两万块值得吗
+游戏开发  •  zhouzoki  •  7 小时 35 分钟前  •  最后回复来自 UnluckyNinja	10
+		公司服务器不允许随意访问公网的情况下，调用外部接口会使用什么方式放通
+程序员  •  zanelee  •  3 小时 33 分钟前  •  最后回复来自 loginv2	26
+		AI 很火，自己捣鼓了一个 AI 导航类网站
+程序员  •  dj8jj  •  4 小时 32 分钟前  •  最后回复来自 clacf	6
+		请教各位大佬,关于国内 APP 备案,ios 的签名版本证书 1 年后到期了,重新签了后 需要重新提交 app 备案信息吗?
+iDev  •  ggbond2233  •  1 小时 26 分钟前  •  最后回复来自 mytsing520	12
+		使用 Cursor 进行 AI 编程的年度总结
+程序员  •  glumess  •  4 小时 47 分钟前  •  最后回复来自 QingmuSanren	1
+		为什么使用 Tomcat 算违反国产化要求，但是使用 Netty 却不算。
+程序员  •  MelodYi  •  41 分钟前  •  最后回复来自 visper	67
+		trae 的会员 600 次几天就用完了，现在咋办呢？
+程序员  •  jiuzhougege  •  5 小时 19 分钟前  •  最后回复来自 refsdiary	31
+		AI Coding 时代，前端 vanilla js 是否会复兴？
+程序员  •  lchynn  •  1 小时 57 分钟前  •  最后回复来自 FreshOldMan	20
+		为什么 LLM 写的前端总是有一种廉价感？特别爱用蓝紫色渐变背景、无关 emoji
+程序员  •  drymonfidelia  •  23 小时 26 分钟前  •  最后回复来自 lemoncoconut	26
+		多实例 springboot 微服务重启时 Counter 类型指标重置问题
+Java  •  workWithMusic  •  23 小时 54 分钟前  •  最后回复来自 joe469391363	6
+		我的作品上架了 ProductHunt 希望大家能帮投投票啊
+程序员  •  LucasMartine  •  1 天前	
+		youtube 下载网站是怎么做的？
+程序员  •  pc10201  •  3 小时 53 分钟前  •  最后回复来自 pc10201	2
+		Nature vs Golang: 性能基准测试
+  3   程序员  •  weiwenhao  •  2 小时 17 分钟前  •  最后回复来自 weiwenhao	95
+		垃圾佬组 Linux 求推荐亮机卡
+Linux  •  WingOwO  •  4 小时 56 分钟前  •  最后回复来自 WingOwO	5
+		D-NET 支持阿里云 ESA，实现 IPv6 免费加速方案（IPv4/IPv6 访问）
+NAS  •  cxbdasheng  •  5 小时 38 分钟前  •  最后回复来自 cxbdasheng	30
+		荣耀笔记本与 Linux - 性能管理
+  1   Linux  •  PeterTerpe  •  2 小时 10 分钟前  •  最后回复来自 PeterTerpe	26
+  通过 Atom Feed 订阅
+»  更多新主题
+浏览全部节点
+V2EX / 节点导航
+分享与探索	问与答    分享发现    分享创造    奇思妙想    分享邀请码    自言自语    设计    Blog   
+AI	OpenAI    Cursor    GitHub Copilot    Claude    Local LLM   
+Crypto	Bitcoin    Solana    加密货币    Faucet    Ripple    以太坊    Solidity    MetaMask    TON   
+Apple	Apple    macOS    iPhone    MacBook Pro    iOS    iPad     WATCH    MacBook    配件    MacBook Air    Mac mini    iMac    Xcode    AirPods    Mac Pro    WWDC    iPod    HomeKit    Mac Studio    iWork    MobileMe    iLife    GarageBand    Mac OS 9    Mac 游戏    Freeform    iMovie    CoreML   
+前端开发	微信    前端开发    Chrome    Vue.js    浏览器    React    CSS    Firefox    Flutter    Edge    Angular    Electron    Web Dev    Next.js    Vite    Nuxt.js    Ionic   
+编程语言	Python    Java    PHP    Go 编程语言    JavaScript    Node.js    C++    Rust    Swift    HTML    .NET    C#    Ruby on Rails    TypeScript    Ruby    Kotlin    Lua   
+后端架构	云计算    服务器    DNS    MySQL    Docker    NGINX    数据库    Kubernetes    Ubuntu    Amazon Web Services    Django    Redis    DevOps    MongoDB    Cloudflare    Elasticsearch    Flask    Tornado    API    Timescale   
+机器学习	机器学习    数学    TensorFlow    自然语言处理    CUDA    Torch    Keras   
+iOS	iDev    iCode    iMarketing    iAd   
+Geek	程序员    宽带症候群    Android    Linux    外包    硬件    Windows    汽车    路由器    站长    OpenWrt    编程    GitHub    Visual Studio Code    区块链    Markdown    设计师    Kindle    VXNA    游戏开发    商业模式    电动汽车    Raspberry Pi    云修电脑    字体排印    Atom    RSS    SONY    LeetCode    Stable Diffusion    Photoshop    ThinkPad    Amazon    Serverless    GitLab    IPFS    LEGO    DJI    Blender    Logseq    DOS    GameDB   
+游戏	游戏    Steam    Nintendo Switch    Minecraft    PlayStation 4    iGame    StarCraft 2    Battlefield 3    World of Warcraft    怀旧游戏    PlayStation 5    EVE    精灵宝可梦    3DS    Gran Turismo    Battlefield 4    Wii U    Battlefield V    掌机    ARC Raiders   
+生活	二手交易    酷工作    职场话题    求职    免费赠送    天黑以后    投资    音乐    团购    旅行    电影    物物交换    信用卡    剧集    美酒与美食    摄影    阅读    宠物    Baby    咖啡    绿茵场    骑行    日记    植物    蘑菇    行程控   
+Internet	Google    YouTube    Twitter    哔哩哔哩    Notion    Reddit    Discord   
+城市	北京    上海    深圳    杭州    成都    广州    香港    武汉    南京    西安    长沙    重庆    苏州    昆明    天津    厦门    青岛    San Francisco    New York    东京    Singapore    贵阳    Los Angeles   
+V2EX	V2EX    反馈    使用指南   
+关于   ·   帮助文档   ·   自助推广系统   ·   博客   ·   API   ·   FAQ   ·   Solana   ·   5302 人在线   最高记录 6679   ·      Select Language
+创意工作者们的社区
+World is powered by solitude
+VERSION: 3.9.8.5 · 10ms · UTC 07:40 · PVG 15:40 · LAX 23:40 · JFK 02:40
+♥ Do have faith in what you're doing.

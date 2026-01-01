@@ -1,0 +1,153 @@
+Why Bitbucket
+Self-Hosted
+Pricing
+Get it Free
+Sign in
+Code and CI/CD, powered by AI and the Atlassian platform
+
+Accelerate software delivery from idea to code to production, with a seamless connection to Jira and AI beyond code creation
+
+Try it now
+Watch demo
+AI throughout the SDLC
+
+Reduce cycle times across the development lifecycle with AI-powered search, code review, pipeline triage, and even Jira updates.
+
+Extensible and all-in-one
+
+Streamline software development with a complete platform from idea to code to production. Integrate your other tools as you need them.
+
+Platform-wide standards
+
+Be confident in your software delivery with enforced standards, policies, and compliance checks across all code and CI/CD.
+
+AI that provides context to code, not just vibes
+
+Friction slowing you down? Bitbucket helps you find your flow and stay there, with code and CI/CD connected to Jira and powered by AI
+
+Migrating to the cloud?
+
+Bitbucket Cloud supercharges code and CI/CD with AI that knows your team, code base, feature requirements, and more as part of the Atlassian Cloud platform, so no infrastructure is required.
+
+Get in touch
+15 million developers build on Bitbucket
+1/4
+"The Jira/Bitbucket integration has transformed the way our software teams are able to communicate, work together, and deploy code. It's been an absolute game changer for us."
+NATE VAN DUSEN, ENGINEERING PROGRAM MANAGEMENT DIRECTOR
+
+Trulia
+
+←
+→
+Platform-wide AI beyond code generation
+
+Atlassian supercharges workflows with AI beyond code generation, accelerating development throughout the software lifecycle.
+
+Introducing Rovo Dev
+
+Reduce friction and automate busywork across software development with agentic AI for developers. Generate code plans, turn Jira items into code, review code and more.
+
+Learn about Rovo Dev
+AI where you work
+
+Spend more time coding with AI that knows your codebase in Bitbucket, work items in Jira, documentation in Confluence, and more, accessible anywhere, even in the CLI.
+
+Learn more
+AI-powered teams
+
+Contribute to any codebase on day one. With Rovo and Bitbucket, you and your team are always up to speed on all discussions, documentation, even work items statuses.
+
+AI integrations
+
+Combine Atlassian’s enterprise knowledge with other AI tools, such as other LLMs or IDEs, using our Remote MCP Server (in beta).
+
+Learn more
+Learn how trust and safety are the cornerstones of Atlassian's approach to AI
+Security and compliance
+Code compliance at scale
+
+Enforce code quality policies and compliance requirements across the organization with standardized, customizable merge checks.
+
+Shift-left security integrations
+
+Build secure software while coding, during code review, and as part of CI/CD workflows with native security capabilities and partner integrations.
+
+Orchestrate CI/CD organization-wide
+
+Run CI/CD workflows across your organization using hosted or private runners—or both, with centralized visibility across pipeline status, testing policies, deployment environments and more, no infrastructure needed.
+
+Granular access and usage permissions
+
+Control permissions at the workspace, space, or repo level or define specific branch level or environment level permissions.
+
+Integrate Bitbucket with the tools you use
+
+Connect Bitbucket to market-leading partner tools across AI code generation, security, testing, monitoring, and more. Build custom integrations to meet the exact needs of your organization.  
+
+See all integrations
+Deliver high quality software. Fast.
+
+Measure and improve productivity, quality, and speed with the AI-native SDLC for every software team.
+
+Explore Software Collection
+Learn more
+Migrate to Bitbucket cloud
+
+Our free app moves your code and users from Bitbucket Server or Data Center to Cloud.
+
+Learn more
+Scale CI/CD with Bitbucket Pipelines
+
+Learn how Atlassian builds secure CI/CD workflows to support 10,000 people using over 1 billion build minutes a month.
+
+Watch the webinar
+3X a DevOps Leader
+
+For the third year in a row, Atlassian was named a Leader in the 2025 Gartner® Magic Quadrant ™ for DevOps Platforms.
+
+See the report
+New features on the horizon
+
+Learn more about what we’ve recently shipped and what we’re building next for your team.
+
+Learn more
+Take Bitbucket Cloud for a spin
+Try it now
+Bitbucket
+Blog
+Bitbucket writing program
+API
+Site status
+Resources
+Technical support
+Documentation
+Plans & pricing
+What is Version Control?
+Connect with us
+
+Sign up for Git articles and resources:
+
+Connect with Bitbucket
+Privacy policy
+Your Privacy Choices
+Terms of use
+Trust & security
+
+Copyright © 2025
+
+View all Atlassian products
+Choose your language
+Deutsch
+English
+Español
+Français
+Italiano
+한국어
+Nederlands
+日本語
+Polski
+Português
+русский
+中文
+This site uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. To change your preferences, click Manage preferences. Otherwise, clicking Accept all cookies indicates you agree to our use of cookies on your device. Clicking Reject all cookies means you do not agree to our use of non-strictly necessary cookies on your device.Atlassian Cookies and Tracking Notice
+Manage preferences Reject all cookies Accept all cookies

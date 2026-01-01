@@ -1,0 +1,10 @@
+What is my IP address? — ifconfig.co ifconfig.co — What is my IP address? 221.138.189.189 The best tool to find your own IP address, and information about
+              it. This site is graciously hosted by Leafcloud – The Truly Sustainable Cloud What do we know about this IP address? IP address 221.138.189.189 IP address (decimal) 3716857277 Country South Korea Country (ISO code) KR In EU? false Region Seoul Region code 11 Postal code 027 City Seongbuk-gu Latitude 37.6031 Longitude 127.0043 Timezone Asia/Seoul ASN AS9318 ASN (organization) SK Broadband Co Ltd User agent Mozilla/5.0 User agent: Comment (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 User agent: Raw Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 This information is provided from the GeoLite2 database created by
+              MaxMind, available from www.maxmind.com Map How do I get this programmatically? With the widget below you can build your query, and see what the
+              result will look like. ip country country-iso city asn json port Check another IP (optional) Open FAQ How do I force IPv4 or IPv6 lookup? As of 2018-07-25 it's no longer possible to force protocol using
+                the v4 and v6 subdomains. IPv4 or IPv6 still can be
+                forced by passing the appropiate flag to your client, e.g curl -4 or curl -6 . Can I force getting JSON? Setting the Accept: application/json header works
+                as expected. Is automated use of this service permitted? Yes, as long as the rate limit is respected. The rate limit is
+                in place to ensure a fair service for all. Please limit automated requests to 1 request per minute . No guarantee is made for requests that exceed this limit.
+                They may be rate-limited, with a 429 status code, or dropped
+                entirely. Can I run my own service? Yes, the source code and documentation is available on GitHub .

@@ -1,0 +1,15 @@
+Nullschool Technologies Inc. Nullschool Technologies Inc. Introduction Nullschool Technologies Inc. helps people understand Earth science through the visualization of weather
+        and climate data. Our website, earth.nullschool.net , has been
+        in operation since late 2013, providing access to real-time global wind, weather, ocean, and pollution
+        conditions on an interactive animated map. Millions of visitors rely on earth.nullschool.net to understand
+        the world around them. It has been featured in textbooks, scientific journals, museum exhibits,
+        documentaries, magazines, and newscasts as an intuitive and innovative tool for understanding Earth's
+        dynamic environment. Contact inquiries@nullschool.net for licensing or other
+        questions. Gallery Nature Climate Change (2015) The Royal Society & Royal Academy of Engineering (2018) National Academies of Sciences, Engineering, Medicine (2016) American Geosciences Institute (2016) BBC News (2017) 報道ステーション (2016) ワイド！スクランブル (2018) Hi! 👋 My name is Cameron Beccario, a software engineer based in Tokyo 🗼 and the creator of earth.nullschool.net . My career as a software engineer spans over 25 years. I have worked on frontend
+                and backend systems at scale, trading platforms, compilers, search engines. I've managed
+                engineering teams that operated globally distributed critical services while helping them grow their
+                skills and careers. I didn't expect all of these experiences to converge onto one project... earth.nullschool.net began in 2013 as a personal challenge
+                to learn HTML/CSS and Javascript. Over the years, I incrementally added functionality and improved the code:
+                new layers, faster rendering, more robust data pipelines. As traffic to the site grew, doors opened and opportunities arose. I founded Nullschool Technologies Inc.
+                to convert this hobby into a business, and to pursue my passion of blending software and
+                art to make Earth science accessible to everyone. Newsletter YouTube Facebook Instagram Ko-fi Bluesky GitHub LinkedIn 会社概要 会社名 Nullschool Technologies株式会社 所在地 〒103-0022 東京都中央区日本橋室町1丁目11番12号 日本橋水野ビル7階 設立 令和7年2月6日 代表者 代表取締役 ベッカリオ・キャメロン・マイケル 事業内容 ウェブ開発・設計・コンサルティング・販売 アプリ開発・設計・コンサルティング・販売 システム運用・コンサルティング・販売 データビジュアライゼーションの作成・販売 ソフトウェア及びデータビジュアライゼーションのライセンス提供 アートワークの販売 企画・コンサルティング事業 前各号に付帯関連する一切の事業 Copyright (c) 2026 Nullschool Technologies株式会社

@@ -1,0 +1,281 @@
+Skip to main content
+IPs & ASNs
+Analyse
+Community
+Membership
+Events
+Training
+Docs
+About
+Welcome to the RIPE NCC
+
+As the Regional Internet Registry for Europe, Middle East and Central Asia, we serve over 20,000 members in 76 countries. We register IP addresses and ASNs, and act as the secretariat to the RIPE community.
+
+About the RIPE NCC
+LIR Portal
+Latest news 
+Activity Plan and Budget 2026 Published
+
+Our Activity Plan and Budget sets out our plans for 2026 along with the associated costs. Costs are provided in terms of Full Time Equivalents (FTEs), Operational Costs (OPEX) and Capital Expenditure (CAPEX).
+
+Publish Date:
+24 Dec 2025
+This news item has been tagged with:
+activity plan
++2
+RIPE NCC Member Update: December 2025
+
+Read the monthly RIPE NCC Member Update for December 2025.
+
+Publish Date:
+23 Dec 2025
+This news item has been tagged with:
+member update
++1
+Office Opening Hours December 2025
+
+Our Amsterdam office will be closed on Thursday, 25 December and Friday, 26 December 2024. Regular office hours will resume from Monday, 29 December onwards.
+
+Publish Date:
+22 Dec 2025
+This news item has been tagged with:
+news
+Consultation on Future Charging Scheme Models
+
+We have launched Phase 1 of the Charging Scheme Consultation.
+
+Publish Date:
+15 Dec 2025
+This news item has been tagged with:
+charging scheme
+NTRA Egypt and the RIPE NCC Convene the Ninth Roundtable Meeting for Arab Governments and Regulatory Authorities
+
+The ninth Roundtable Meeting for Arab Governments and Regulatory Authorities was hosted by NTRA Egypt in collaboration with the RIPE NCC.
+
+Publish Date:
+10 Dec 2025
+This news item has been tagged with:
+middle eastern event
++2
+RIPE NCC Billing Procedure 2026 Published
+
+RIPE NCC Billing Procedure 2026 is published.
+
+Publish Date:
+30 Nov 2025
+This news item has been tagged with:
+news
+View all news
+Service Announcements 
+Elevated Error Rates for RIPEstat API Endpoints
+Latest update:
+Dec 23, 13:53 UTC
+Resolved
+Planned Maintenance: RIPE NCC Access Account (SSO), LIR Portal, RIPE Database and RPKI Dashboard
+Latest update:
+Dec 22, 17:50 UTC
+Completed
+RIPE Database Switchover
+Latest update:
+Dec 17, 07:05 UTC
+Completed
+Maintenance on Resource Information in LIR Portal
+Latest update:
+Dec 16, 18:55 UTC
+Completed
+RIPE NCC Websites
+Latest update:
+Dec 09, 16:00 UTC
+Completed
+CDN Deployment for RIPE Portal
+Latest update:
+Dec 09, 13:20 UTC
+Completed
+Visit status page
+The RIPE Community
+
+RIPE is a forum open to everyone interested in the operation of the Internet. Since 1989, it has brought together people and communities to share information and ideas, discuss best common practices, and carry out technical coordination work.
+
+About RIPE
+RIPE Working Groups
+Policy Proposals
+
+View the current policy proposals under discussion
+
+Policy Proposals
+RIPE Documents
+
+Policies, reports, recommendations and organisational documents
+
+RIPE Documents
+Task Forces
+
+View the task forces that are currently active in RIPE
+
+Task Forces
+Mailing Lists
+
+Browse archives and subscribe to mailing lists to keep track of discussions
+
+Mailing Lists
+Charging Scheme Model Consultation
+
+Phase one of the RIPE NCC Charging Scheme consultation is now live, use the calculators and let us know your thoughts on the two models presented.
+
+Read more
+Meetings and Events
+
+View the list of our upcoming events.
+
+SEE 14
+21 Apr 2026
+—
+22 Apr 2026
+Belgrade
+RIPE 92
+18 May 2026
+—
+22 May 2026
+Edinburgh, Scotland
+CAPIF 5
+24 Sep 2026
+—
+25 Sep 2026
+Dushanbe, Tajikistan
+RIPE 93
+26 Oct 2026
+—
+30 Oct 2026
+Sofia, Bulgaria
+RIPE 94
+24 May 2027
+—
+28 May 2027
+Vilnius, Lithuania
+RIPE 95
+15 Nov 2027
+—
+19 Nov 2027
+TBD
+View all events
+About the RIPE NCC
+
+We're an independent, not-for-profit membership organisation that supports the infrastructure of the Internet through technical coordination in our service region. Our most prominent activity is to act as the Regional Internet Registry (RIR) providing global Internet resources and related services (IPv4, IPv6 and AS Number resources) to members in our service region.
+
+Our membership consists mainly of Internet service providers (ISPs), telecommunication organisations and large corporations located in Europe, the Middle East and parts of Central Asia.
+
+We also provide services for the benefit of the Internet community at large.
+
+View our services
+Read more about us
+Become a RIPE NCC Member
+
+Find out how you can become a member and obtain Internet number resources.
+
+Become a RIPE NCC Member
+Analysis
+
+Get authoritative data on the state of the Internet through RIPE Atlas, RIPEstat, RIS and other tools.
+
+Analysis
+Training and Certification
+
+Benefit from our training courses and webinars on IPv6, the RIPE Database, BGP, routing security and more.
+
+Training and Certification
+Working Groups
+Task Forces
+RIPE Governance
+Initiatives
+RIPE 92
+How to Participate
+IPs & ASNs
+IPv4
+IPv6
+AS Numbers
+RIPE Database
+LIR Portal
+DNS
+Resource Transfers and Mergers
+Legacy Internet Resources
+Documentation for Resource Management
+Analyse
+Statistics
+Internet Measurements
+DNS
+Raw Datasets
+Archived Projects
+Sponsorship
+Community
+Working Groups
+Task Forces
+Policy Development
+Internet Governance
+NRO NC
+Initiatives
+RIPE Governance
+RIPE Document Store
+Participate
+Membership
+RIPE NCC Membership
+General Meetings
+Billing, Payment and Fees
+RIPE NCC Organisational Documents
+Join a Discussion
+RIPE NCC Forum
+Events
+RIPE Meetings
+Regional Meetings
+Roundtable Meetings
+General Meetings
+Open House
+Internet Measurement Day
+Hackathons
+Events Calendar
+Event Sponsorship
+Training
+In-Person Training Courses
+Webinars
+RIPE NCC Academy
+Certified Professionals
+Videos
+Docs
+RIPE Document Store
+Documentation
+IPv6 Info Centre
+RIPE Labs
+About
+What We Do
+Staff
+Executive Board
+Financial Information
+Press Centre
+Legal
+News
+Support
+RIPE NCC Middle East
+Languages
+English
+Türkçe
+Español
+Italiano
+Pусский
+عربي
+فارسی
+Українська
+Français
+© 1992–2025 RIPE NCC
+
+Your IP Address is: 106.254.248.154
+
+Home
+Sitemap
+Contact Us
+Careers
+Service Announcements
+Privacy Statement
+Legal
+Cookies
+Copyright Statement
+Terms of Service
+RSS Feeds

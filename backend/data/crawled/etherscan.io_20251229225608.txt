@@ -1,0 +1,221 @@
+ETH Price: $2,921.46 (-0.57%)
+ Gas: 0.084 Gwei
+New alerts
+Home
+Blockchain
+Transactions
+Pending Transactions
+Contract Internal Transactions
+Beacon Deposits
+Beacon Withdrawals
+View Blobs
+AA Transactions Beta
+EIP-7702 Authorizations Beta
+View Blocks
+Forked Blocks (Reorgs)
+Uncles
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens (ERC-20)
+Token Transfers (ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Top NFTs
+Top Mints
+Latest Trades
+Latest Transfers
+Latest Mints
+Resources
+Charts And Stats
+Top Statistics
+Leaderboard
+Etherscan Points Beta
+Directory
+Newsletter
+Knowledge Base
+Developers
+API Plans
+API Documentation
+Code Reader Beta
+Verify Contract
+Similar Contract Search
+Smart Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Bytecode to Opcode
+Broadcast Transaction
+More
+Tools & Services
+
+Discover more of Etherscan's tools and services in one place.
+
+Sponsored
+
+Tools
+Input Data Decoder Beta
+Unit Converter
+CSV Export
+Account Balance Checker
+Explore
+Gas Tracker
+DEX Tracker
+Node Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals Beta
+Verified Signature
+Input Data Messages (IDM) Beta
+Advanced Filter Beta
+Blockscan Chat  Beta
+|
+ Sign In
+The Ethereum Blockchain Explorer
+All Filters
+Addresses
+Tokens
+Name Tags
+Domain Names
+Labels
+Websites
+Search
+
+Sponsored:   Luck.io: No KYC Degen Paradise, Provably Fair Slots, Non-Custodial, Instant Wins. Play Now!
+
+Ad
+ETHER PRICE
+$2,921.46 @ 0.033524 BTC (-0.57%)
+MARKET CAP
+$352,605,465,738.00
+TRANSACTIONS
+3,158.26 M (24.5 TPS)
+MED GAS PRICE
+0.084 Gwei (< $0.01)
+LAST FINALIZED BLOCK
+24118675
+LAST SAFE BLOCK
+24118707
+TRANSACTION HISTORY IN 14 DAYS
+Dec 14
+Dec 21
+Dec 28
+1 000k
+2 000k
+Latest Blocks
+Customize
+24118741
+7 secs ago
+Miner
+0xa28B0Ac9...C60463417
+147 txns in 12 secs
+0.00287 Eth
+24118740
+19 secs ago
+Miner
+BuilderNet
+316 txns in 12 secs
+0.00915 Eth
+24118739
+31 secs ago
+Miner
+Titan Builder
+307 txns in 12 secs
+0.00946 Eth
+24118738
+43 secs ago
+Miner
+Titan Builder
+666 txns in 12 secs
+0.04774 Eth
+24118737
+55 secs ago
+Miner
+Titan Builder
+300 txns in 12 secs
+0.0282 Eth
+24118736
+1 min ago
+Miner
+Fee Recipient: 0x98...38a
+62 txns in 12 secs
+0.0033 Eth
+VIEW ALL BLOCKS
+Latest Transactions
+Customize
+0x8f8306ac084ec574d679e2213d3f0c90e9d407065e5695c727dc7c59ac7f9902
+7 secs ago
+From
+0xa28B0Ac9...C60463417
+To
+0x7dA0aEf1...7E7859dF8
+0.00807 Eth
+0xe40b58b3e9f76104e1e6a0489d5ec652846f825baa311ede59c3d524755685c3
+7 secs ago
+From
+0xD929FA6C...9A86D95FE
+To
+0xe80e995F...0365e9D4D
+0.00002 Eth
+0x73be8d67d55b149418756293eb9ebed3b3b62a813735364aec6d2ff642238078
+7 secs ago
+From
+0x344A22E4...F143F9128
+To
+0xb16b2b2C...90d91acf4
+0 Eth
+0xaf31046e3fc61e1a1842ccb93b64a523f62cbab8a8e7c1c87a109ad357d5aa3c
+7 secs ago
+From
+0xd40E9C8c...5A6BD3b35
+To
+0x236Ebb7E...7238221FC
+0.154 Eth
+0xdb192ad86ce548115044de5207d05bc22c7ea3fcd88199bda7e8516bd9fc0037
+7 secs ago
+From
+0x8499FE9d...54527eA6A
+To
+0x4CeD4525...7552DFB9A
+0 Eth
+0x577b5bd3b83237f4f0160f70d25d32ca3c9f4e09a9ef01b785b66108949fda08
+7 secs ago
+From
+0xE0d8dF6d...23E0a3e7D
+To
+0x0F3c3131...15a606a3d
+0 Eth
+VIEW ALL TRANSACTIONS
+Back to Top
+Powered by Ethereum
+
+Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform.
+
+Company
+About Us
+Brand Assets
+Contact Us
+Careers We're Hiring!
+Terms & Privacy
+Bug Bounty
+Community
+API Documentation
+Knowledge Base
+Network Status
+Newsletters
+Products & Services
+Advertise
+Explorer as a Service (EaaS)
+API Plans
+Priority Support
+Blockscan 
+Blockscan Chat 
+
+Etherscan © 2025 (C1)
+
+Donations: 0x71c765...d8976f 
+
+ This website uses cookies to improve your experience. By continuing to use this website, you agree to its Terms and Privacy Policy.
+
+Got it!

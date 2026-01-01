@@ -1,0 +1,499 @@
+ Satellite
+Europe satellite
+Alps satellite
+Belgium satellite
+Croatia Satellite
+France satellite
+Germany satellite
+Greece satellite
+Hungary satellite
+Italy satellite
+Netherlands satellite
+Poland satellite
+Portugal satellite
+Scandinavia satellite
+Spain satellite
+Turkey satellite
+UK & Ireland satellite
+Africa satellite
+North America satellite
+ Meteoradar
+Europe radar
+Belgium radar
+Germany radar
+France radar
+Greece radar
+Italy radar
+Netherlands radar
+Poland radar
+Portugal radar
+Scandinavia radar
+Spain radar
+Turkey radar
+UK and Ireland radar
+   
+Get my location
+
+...Fetching location
+
+You have denied location access. Fix this in your browser and reload the page.
+
+Favorites
+
+Last visited locations
+
+ English
+Deutsch
+Ελληνικά
+English
+español
+FR
+français
+français
+hrvatski
+magyar
+italiano
+NL
+Nederlands
+Nederlands
+polski
+português
+svenska
+Türkçe
+
+Login
+
+My profile
+Remove advertising
+Logout
+   
+Get my location
+
+...Fetching location
+
+You have denied location access. Fix this in your browser and reload the page.
+
+Favorites
+
+Last visited locations
+
+Login
+
+My profile
+Remove advertising
+Logout
+ English
+Deutsch
+Ελληνικά
+English
+español
+FR
+français
+français
+hrvatski
+magyar
+italiano
+NL
+Nederlands
+Nederlands
+polski
+português
+svenska
+Türkçe
+ Satellite
+ Satellite
+Europe satellite
+Alps satellite
+Belgium satellite
+Croatia Satellite
+France satellite
+Germany satellite
+Greece satellite
+Hungary satellite
+Italy satellite
+Netherlands satellite
+Poland satellite
+Portugal satellite
+Scandinavia satellite
+Spain satellite
+Turkey satellite
+UK & Ireland satellite
+Africa satellite
+North America satellite
+ Meteoradar
+ Meteoradar
+Europe radar
+Belgium radar
+Germany radar
+France radar
+Greece radar
+Italy radar
+Netherlands radar
+Poland radar
+Portugal radar
+Scandinavia radar
+Spain radar
+Turkey radar
+UK and Ireland radar
+
+Sunshine and weather Europe
+
+Sunshine London
+
+00:00
+04:00
+08:00
+12:00
+16:00
+20:00
+0%
+50%
+100%
+
+Friday
+
+2 Jan
+
+1° / 4°
+
+ 1.1
+ 3
+
+Saturday
+
+3 Jan
+
+0° / 3°
+
+ 0
+ 3
+14 days weather forecast 
+
+Top Locations
+
+City
+
+	
+
+ 
+
+	
+
+°C
+
+Min./Max.	
+
+Sun
+
+hour
+
+
+London
+
+		
+
+0° / 6°
+
+	
+ 5
+
+
+
+Birmingham
+
+		
+
+0° / 6°
+
+	
+ 5
+
+
+
+Liverpool
+
+		
+
+4° / 7°
+
+	
+ 5
+
+
+
+Glasgow
+
+		
+
+1° / 5°
+
+	
+ 4
+
+
+
+Edinburgh
+
+		
+
+0° / 4°
+
+	
+ 4
+
+
+
+Leeds
+
+		
+
+3° / 6°
+
+	
+ 6
+
+
+
+Cardiff
+
+		
+
+2° / 7°
+
+	
+ 6
+
+
+
+Manchester
+
+		
+
+3° / 6°
+
+	
+ 5
+
+
+
+Plymouth
+
+		
+
+0° / 7°
+
+	
+ 4
+
+
+
+Southampton
+
+		
+
+-1° / 7°
+
+	
+ 6
+Download the Lightning Alarm Sat24 app
+
+The thunderstorm alert app with accurate lightning radar for the whole world. Download it now from the store(s) below!
+
+
+
+
+
+
+Switch to HD
+Lightning
+Satellite
+Visible Satellite
+Infrared Satellite
+Nightmicrophysics Satellite
+Radar and Satellite
+x
+
+On the regular satellite images, you can see an optimal combination of visible light and infrared satellite imagery. During the day, the satellite shows cloud images similar to what clouds look like from space with the naked eye but highly zoomed in. During the dark hours of the day, it switches to infrared satellite images, allowing you to still see cloud cover.
+
+On the regular satellite images, you can see an optimal combination of visible light and infrared satellite imagery. During the day, the satellite shows cloud images similar to what clouds look like from space with the naked eye but highly zoomed in. During the dark hours of the day, it switches to infrared satellite images, allowing you to still see cloud cover.
+
+The visible satellite shows cloud images as they are seen with the naked eye from space, but heavily zoomed in. So, you're looking down from space at how the cloud cover moves over the Earth. The visible satellite images are not usable during the night as the clouds are no longer illuminated by the sun.
+
+The visible satellite shows cloud images as they are seen with the naked eye from space, but heavily zoomed in. So, you're looking down from space at how the cloud cover moves over the Earth. The visible satellite images are not usable during the night as the clouds are no longer illuminated by the sun.
+
+With infrared satellite images, you can also see where clouds are moving and where clearings occur during the dark hours of the day. Especially high clouds associated with weather fronts and heavy showers are well distinguished on these images. The clouds are visible in white colors on the infrared images. During the day, the infrared images are less usable as the contrast decreases.
+
+With infrared satellite images, you can also see where clouds are moving and where clearings occur during the dark hours of the day. Especially high clouds associated with weather fronts and heavy showers are well distinguished on these images. The clouds are visible in white colors on the infrared images. During the day, the infrared images are less usable as the contrast decreases.
+
+During the dark hours of the night, the night microphysics satellite images allow for a good distinction between low cloud cover (yellow colors), mid-level cloud cover (pink colors), and high cloud cover (red colors). If you see a blue color, there is no cloud cover present, and it's clear. During the day, the microphysics images are less usable as all cloud cover takes on pink hues.
+
+During the dark hours of the night, the night microphysics satellite images allow for a good distinction between low cloud cover (yellow colors), mid-level cloud cover (pink colors), and high cloud cover (red colors). If you see a blue color, there is no cloud cover present, and it's clear. During the day, the microphysics images are less usable as all cloud cover takes on pink hues.
+
+On this satellite image, you can see a combination of satellite imagery (visible and infrared combined) and the precipitation radar. This allows you to see both clouds and precipitation approaching.
+
+On this satellite image, you can see a combination of satellite imagery (visible and infrared combined) and the precipitation radar. This allows you to see both clouds and precipitation approaching.
+
+Wed
+Thu
+ 22:15
+22:00
+22:15
+22:30
+22:45
+23:00
+23:15
+23:30
+23:45
+00:00
+  
+1x 
+-2h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+
+Satellite observations previous 2 hours
+
+Satellite observations previous 24 hours
+
+Visible satellite previous 2 hours
+
+Visible satellite previous 24 hours
+
+Infrared satellite previous 2 hours
+
+Infrared satellite previous 24 hours
+
+Satellite nightmicrophysics previous 2 hours
+
+Satellite nightmicrophysics previous 24 hours
+
+Radar and Satellite observations previous 2 hours
+
+Radar and Satellite observations previous 24 hours
+
+22:00  Wednesday, 31. Dec
+
+Something went wrong with getting radar images
+
+Satellite observations previous 2 hours
+
+Satellite observations previous 24 hours
+
+Visible satellite previous 2 hours
+
+Visible satellite previous 24 hours
+
+Infrared satellite previous 2 hours
+
+Infrared satellite previous 24 hours
+
+Satellite nightmicrophysics previous 2 hours
+
+Satellite nightmicrophysics previous 24 hours
+
+Radar and Satellite observations previous 2 hours
+
+Radar and Satellite observations previous 24 hours
+
+  
+1x 
+-2h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+-2h
+-2h
+-24h
+  
+
+On the regular satellite images, you can see an optimal combination of visible light and infrared satellite imagery. During the day, the satellite shows cloud images similar to what clouds look like from space with the naked eye but highly zoomed in. During the dark hours of the day, it switches to infrared satellite images, allowing you to still see cloud cover.
+
+On the regular satellite images, you can see an optimal combination of visible light and infrared satellite imagery. During the day, the satellite shows cloud images similar to what clouds look like from space with the naked eye but highly zoomed in. During the dark hours of the day, it switches to infrared satellite images, allowing you to still see cloud cover.
+
+The visible satellite shows cloud images as they are seen with the naked eye from space, but heavily zoomed in. So, you're looking down from space at how the cloud cover moves over the Earth. The visible satellite images are not usable during the night as the clouds are no longer illuminated by the sun.
+
+The visible satellite shows cloud images as they are seen with the naked eye from space, but heavily zoomed in. So, you're looking down from space at how the cloud cover moves over the Earth. The visible satellite images are not usable during the night as the clouds are no longer illuminated by the sun.
+
+With infrared satellite images, you can also see where clouds are moving and where clearings occur during the dark hours of the day. Especially high clouds associated with weather fronts and heavy showers are well distinguished on these images. The clouds are visible in white colors on the infrared images. During the day, the infrared images are less usable as the contrast decreases.
+
+With infrared satellite images, you can also see where clouds are moving and where clearings occur during the dark hours of the day. Especially high clouds associated with weather fronts and heavy showers are well distinguished on these images. The clouds are visible in white colors on the infrared images. During the day, the infrared images are less usable as the contrast decreases.
+
+During the dark hours of the night, the night microphysics satellite images allow for a good distinction between low cloud cover (yellow colors), mid-level cloud cover (pink colors), and high cloud cover (red colors). If you see a blue color, there is no cloud cover present, and it's clear. During the day, the microphysics images are less usable as all cloud cover takes on pink hues.
+
+During the dark hours of the night, the night microphysics satellite images allow for a good distinction between low cloud cover (yellow colors), mid-level cloud cover (pink colors), and high cloud cover (red colors). If you see a blue color, there is no cloud cover present, and it's clear. During the day, the microphysics images are less usable as all cloud cover takes on pink hues.
+
+On this satellite image, you can see a combination of satellite imagery (visible and infrared combined) and the precipitation radar. This allows you to see both clouds and precipitation approaching.
+
+On this satellite image, you can see a combination of satellite imagery (visible and infrared combined) and the precipitation radar. This allows you to see both clouds and precipitation approaching.
+
+  
+
+For the true weather enthusiast!
+
+I'm Weather
+
+Model Data: All known atmosphere and wave models GFS, ICON, ECMWF-BNL+etc.
+Nowcast: Detailed radar forecast, satellite and lightning worldwide.
+Climate: Timeseries of climate ERA5 model in 10-day steps.
+Try it for free
+About Sat24.com
+
+Sat24.com is your window to the world, where you can explore the most current and reliable satellite imagery. Whether you're an adventurous traveler, a passionate nature lover, or a professional in the weather and climate industry, Sat24.com provides the information you need to know whether the sun will shine or rain clouds are approaching. Real-time satellite images are available for all locations worldwide. The HD satellite displays the sharpest satellite images possible, and it's also possible to display lightning activity.
+
+
+
+
+Various satellite images are available, including visible light, infrared, and nighttime images. The nighttime images allow for clear visibility of fog and low-level clouds during dark hours of the day. It's also possible to display a combined view of the precipitation radar and satellite images. With just a press on the map, you can switch between different images.
+
+
+Part of Infoplaza
+
+
+Sat24.com is a satellite product of Infoplaza. Sat24.com is affiliated with the radar product Meteoradar and the weather forecasting website Meteox.
+
+
+Infoplaza is one of the largest all-round meteorological service providers for media, consumers, governments, and businesses. Additionally, Infoplaza has a mobility division for public transport and road traffic information.
+Pro Weather products
+I'm Weather
+Mobile App
+Android - Lightningalarm Sat24
+iOS - Lightningalarm Sat24
+Weather widgets
+Weather widgets
+About Infoplaza Network
+Our Story
+Contact and feedback
+Disclaimer and privacy
+Premium
+Premium ads free
+© 2026 - sat24.com
+Cookie settings
+You have turned off personal ads
+
+You have the choice not to see advertisements with Sat24 Premium for only 3.49 per year or to agree to personal advertisements. Already have Premium? Log in
+
+With your permission, we and our 372 partners use cookies and similar techniques to process personal data, such as data about your website visit, IP addresses and cookie IDs. You can withdraw your consent at any time by clicking "cookie settings" in the footer; or through us cookie and privacy policy, where you will also find more information about our cookies.
+
+Ad-free Premium (3.49 per year) Free with personal ads

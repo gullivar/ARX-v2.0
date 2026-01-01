@@ -1,0 +1,161 @@
+Code review at scale is broken. Here’s how Augment Code is fixing it.
+
+Laravel News
+Blog
+Tutorials
+Packages
+Newsletter
+Podcasts
+Partners
+Links
+Your Account
+Search
+Laravel Packages
+Laravel Extended Commands
+News
+Mago Is a Blazing Fast Linter, Formatter, And Static Analyzer for PHP, Written in Rust
+Community Links
+Must-Have CI/CD Pipelines for Every Laravel App
+Why Modular Monolith & Setup
+Build an AI-Powered Drawing Guessing Game with Laravel, Prism, and HTML Canvas
+The benefits of Laravel caching in CI (video)
+Laravel 2025 and Beyond - Ship Something!
+Why isn't the percent sign escaped in LIKE queries?
+Kickstart your next Laravel application with with essential features using a Laravel Starter kit
+Is it time to abstract this?
+View All Links→
+Laravel Jobs
+Full Stack Laravel | Vue Engineer
+KYC Hospitality
+Full-Stack Developer (Laravel, Vue JS, Angular)
+FC Bayern München AG
+PHP Developer (Latin America, German, French, Spanish speakers)
+OnTheGoSystems
+PHP Developer (French or German speakers)
+OnTheGoSystems
+Software Developer
+Guidance Residential
+Full Stack Engineer
+Strive
+PHP Engineer
+MailerLite
+PHP/Laravel Developer/Wizard/Rockstar/Partner Wanted!
+Agent Legend!
+View All Jobs →
+Post a Job →
+Laravel Newsletter
+
+Join 40k+ other developers and never miss out on new tips, tutorials, and more.
+
+Email
+Join free
+Laravel Packages
+PHP SDK for Anthropic Claude
+Read article
+Partner
+Tinkerwell 5 is available now!
+Read article
+Partners
+Learn how to hire the best Laravel developers in Latin America; see rates, and hear a short Laravel News interview with Curotec.
+Read article
+Cut PHP Code Review Time & Bugs into Half with CodeRabbit
+Read article
+Bacancy - Outsource Laravel Development Partner - $3200/Month
+Read article
+Why GPT-5.2 is Model of Choice for Augment Code Review
+Read article
+Tinkerwell 5 is available now!
+Read article
+Laravel Cloud is here! Zero-config managed infrastructure for Laravel apps.
+Read article
+The latest
+View all →
+Laravel TOON: Reduce LLM Token Usage by 40-60%
+Read article
+Mago Is a Blazing Fast Linter, Formatter, And Static Analyzer for PHP, Written in Rust
+Read article
+Speeding Up Dashboards - Laravel In Practice EP16
+Read article
+Building an AI-Powered Laravel + MongoDB App: A Walkthrough Using Laravel Boost
+Read article
+Laravel Deadlocks: Causes and Fixes
+Read article
+Flash Data in Inertia.js 2.3.3
+Read article
+Most Read
+Mago Is a Blazing Fast Linter, Formatter, And Static Analyzer for PHP, Written in Rust
+Read article
+Laravel TOON: Reduce LLM Token Usage by 40-60%
+Read article
+Building an AI-Powered Laravel + MongoDB App: A Walkthrough Using Laravel Boost
+Read article
+Flash Data in Inertia.js 2.3.3
+Read article
+Laravel Deadlocks: Causes and Fixes
+Read article
+A Fluent PHP Elasticsearch Query Builder
+Read article
+Partners
+View all →
+Tutorials
+View all →
+Speeding Up Dashboards - Laravel In Practice EP16
+Read article
+Building an AI-Powered Laravel + MongoDB App: A Walkthrough Using Laravel Boost
+Read article
+Charting with Chart.js - Laravel In Practice EP15
+Read article
+Geocoding with Cloudflare
+Read article
+Migrating from SQL to MongoDB
+Read article
+Building a Dynamic Dashboard - Laravel In Practice EP14
+Read article
+Laravel Packages
+View all →
+Laravel Extended Commands
+Read article
+Laravel TOON: Reduce LLM Token Usage by 40-60%
+Read article
+Colority Is a PHP Library for Parsing and Analyzing Colors
+Read article
+Measure Lines of Code and PHP Features Used
+Read article
+Translatable Enums
+Read article
+Refine is Live Blade Editor for Laravel
+Read article
+Simple Media Management with the Artifact Package for Laravel
+Read article
+Laravel Bastion - A Stripe-inspired API authentication package
+Read article
+Subscribe to our newsletter
+Email
+Join free
+
+and follow us on
+
+Facebook
+Instagram
+X
+Linkedin
+Telegram
+Youtube
+Threads
+Laravel Newsletter
+Laravel Links
+Laravel Packages
+Laravel Tutorials
+Laravel Events
+Popular Packages
+Laravel Releases
+Partners
+Advertising
+Laravel Jobs
+Contact Us
+Your account
+
+© 2012 - 2025 Laravel News
+A division of dotdev inc.
+
+Colophon / About

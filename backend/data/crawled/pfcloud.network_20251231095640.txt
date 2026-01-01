@@ -1,0 +1,108 @@
+View Cart
+EUR
+Products
+Virtual Servers
+Dedicated Servers
+RIPE & BGP Services
+Colocation
+Addons
+Support
+Free Services
+Register
+Login
+High Quality Hosting
+
+Blazing Fast, High Quality Servers with the best prices.
+
+Instant Setup
+Dedicated Resources
+Premium DDoS Protection
+24/7 Support
+Best-Selling
+XEON KVM
+Starter
+
+€9.99
+
+Quarterly
+
+1 vCPU, 1GB RAM, 10GB NVMe SSD
+
+Fully Virtualized Intel Xeon KVM Server with dedicated resources, perfect for small projects or testing purposes
+
+EPYC KVM
+Professional
+
+€24.99
+
+Monthly
+
+6 vCPU, 12GB RAM, 100GB NVMe SSD
+
+Fully Virtualized AMD EPYC KVM Server with dedicated resources, perfect for large projects.
+
+EPYC KVM
+Enterprise
+
+€74.99
+
+Monthly
+
+20 vCPU, 64GB RAM, 320GB NVMe SSD
+
+Fully Virtualized AMD EPYC KVM Server with dedicated resources, perfect for resource-intensive projects.
+
+Our Locations & Services
+	
+Germany350ms
+	
+Netherlands350ms
+	
+AustriaPing...
+	
+Slovenia358ms
+
+Virtual Servers				
+Dedicated Servers				
+Colocation		Out of Stock	Out of Stock	
+Storage VPS	Coming soon		Coming soon	Coming soon
+Reseller Hosting				
+BGP Services				
+Why we are the best
+Dedicated resources
+
+We guarantee that the resource purchased is 100% available at any time. This includes CPU, RAM, Disk and Network. We only use first class hardware for our servers, including but not limited to AMD Epyc processors, DDR4/DDR5 High Speed ECC RAM, Datacenter NVME Disks and more.
+
+Enterprise DDoS Protection
+
+We use Aurologic and PletX combined with own filters and rules to protect our Servers. All of our services are completely protected from any type of DDoS Attack, requiring no customer action. Customers can switch at any time between Aurologic and PletX. Custom DDoS Protection settings for special environments are possible too.
+
+Instant Setup
+
+All payments and orders are automatically processed, allowing us to set up your servers instantly after purchase. We support payments via PayPal, Credit Card, Giropay, SEPA Transfer, SOFORT and many types of cryptocurrencies. Our support is online around the clock and we will gladly help you with any issues you may face.
+
+RIPE ASN and BGP Services
+
+We are a proud member of the RIPE NCC, enabling us to sponsor AS Numbers and IPv6 prefixes. Additionally, we offer BYOIP and BGP sessions across our locations.
+
+Our Partners
+
+10000+
+
+SERVERS DELIVERED
+
+5000+
+
+CLIENTS
+
+99.9%
+
+UPTIME
+
+Copyright © 2025 Pfcloud UG (haftungsbeschränkt). All Rights Reserved.
+Looking Glass
+Impressum
+Datenschutzerklärung
+AGB
+Widerrufsbelehrung
+English

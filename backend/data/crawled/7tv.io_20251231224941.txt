@@ -1,0 +1,1 @@
+{"message":"Welcome to the 7TV API!","version":"0.1.0","commit_hash":"6ae601e8258e8071bd2b55a2d9feecc6edbd42c4","ip":"221.138.189.189","country":"KR"}

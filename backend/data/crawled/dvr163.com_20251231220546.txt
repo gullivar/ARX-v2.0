@@ -1,0 +1,157 @@
+Eseecloud Home Login Company Profile JUAN independently design, research and develop all the current full CCTV product line in dozens,
+                    including wireless NVR Kit, standalone wireless IP camera，NVR, hybrid AHD, IP cameras, etc… In
+                    addition, JUAN has passed CE for EU, FCC for America and other authorized certification.With 200
+                    professional engineers of hardware and Software, Special R&D team focus on software and hardware
+                    design, to make sure the quality for JUAN brand. With 15,000 square meters plant area, JUAN owns 20
+                    sets high-speed SMT, 4 DIP workshop, 20 assembling lines; Daily productivity ups to 5000pcs DVR/NVR
+                    and 5000pcs cameras. JUAN have built it’s own nationwide sales net, successfully expended European,
+                    American, middle East and so on. Quality is the absolute truth criterion for Juan, 100% inspection
+                    before delivery; Moreover, JUAN has an efficient pre-sales and after-sales service team!JUAN , your
+                    most trustful cooperation partner! Eseecloud Download Scan to Download Android App Scan to Download IOS App FAQS Cameras offline Q1: Camera offline processing method 1. Make sure camera is powered on, and status light is on. 2. If you are connected by WIFI, please make sure whether you have
+                                                modified the WIFI of the environment where the device is located -
+                                                including the WIFI password and name, if you have modified it, please
+                                                reconfigure the WIFl. 3. Please do factory setting on cameras and restore network. Cameras add failure Q1: Failed to add the camera for the first time Check whether the green light of the camera flashes
+                                            normally. If the camera status light is not flashing green, use a thimble to
+                                            lightly insert the configuration hole or long press the reset button until
+                                            the camera indicator flashes. Q2: Determine whether the binding failure caused by the
+                                            router settings 1. The router has been set up to prevent Wi-fi squatter If the Wi-Fi connected to the camera is set to prevent Wi-fi
+                                                squatter(black and white lists, MAC address filtering, etc.), the camera
+                                                will not be able to connect to the Internet. The router's prevent Wi-fi
+                                                squatter settings need to be canceled. 2. The router is set up with 5GHz band wireless Wi-Fi The camera does not currently support the connection of 5G band Wi-Fi.
+                                                Please open the router management page (generally marked with the
+                                                address of the management page on the bottom label of the router),
+                                                select the wireless setting 2.4GHz, and set it to on. Q3: Check whether the mobile phone prohibits the APP from
+                                            using data, WLAN, GPS permissions Android phones may prohibit the use of data, WLAN, GPS
+                                            permissions for this application, resulting in the camera being unable to
+                                            connect to Wi-Fi. Solution (Android phone): Open the phone settings
+                                            center-click "application management"-open the above permissions. Q4: Make sure that the Wi-Fi account and password are
+                                            filled in correctly It is likely that the Wi-Fi account and password you
+                                            connected to the camera are incorrect, resulting in the camera not being
+                                            able to connect to the network. In particular, pay attention to whether
+                                            there is a space input, and try to avoid complex and uncommon symbols. Q5：Other questions 1. Please do not connect cameras network into Wi-Fi environment which is
+                                                built on bridge mode. Bridge mode Wi-Fi environment is considered
+                                                unstable network, it will disconnect camera system network constantly. 2. When your device is assigned a static IP to access to Internet,
+                                                cameras can not work in static Internet. 3. Cameras support WEP,WPA--PSK/WPA2--PSK, and company Wi-Fi without
+                                                password. They do not support WPA/WPA2 company encryption method. 4. Please call customer service if more assist is necessary. Alarm messages Q1: What should I do if I cannot receive the alarm push
+                                            message? Please open the APP (keep it in the foreground) to see if you can receive
+                                                the alarm push. If you can receive it when you open the camera APP, it
+                                                proves that it is not a hardware problem, but generally it is an Android
+                                                mobile phone software permission problem. The specific troubleshooting
+                                                methods are as follows. A. Check if the notification is turned on in the APP? B. Check whether the alarm push is enabled? (View in my settings) C. Whether the relevant system permissions of the APP have been opened,
+                                                such as self-starting permissions, floating window permissions, lock
+                                                screen display permissions, and background pop-up interface permissions. Q2: The management software from third-party ROM requires
+                                            manual operation by the user Xiaomi [MIU] Self-booting management: the application needs to be added to the
+                                                [self-booting management] list, otherwise the process cannot be started
+                                                after shutting down the process or restarting it; Notification column settings: By default, the application displays
+                                                notices on notification column. If it is closed, you will not be
+                                                notified when you receive notices; Network Assistant: You can manually prohibit installed third-party
+                                                programs from accessing 2G / 3G and WIFI networks and set whether the
+                                                new installation program will allow access to 2G / 3G and WIFI networks
+                                                in the future; MIUI7 Hidden Mode: Allows the application to customize the configuration
+                                                mode, the application remains connected to the network in the
+                                                background, otherwise the application cannot receive messages normally
+                                                when the application enters the background. [Setting]-Power and
+                                                performance-[Hidden mode]; Huawei [Emotion] Self-booting management: need to add the application to the [self-booting
+                                                management] list, otherwise the process cannot be started after shutting
+                                                down the process or restarting, and the application can only be started
+                                                manually; Background application protection: you need to manually add the
+                                                application to this list, otherwise the device will automatically shut
+                                                down the application process after the device enters sleep, and only
+                                                restart the application manually to resume operation; Notification management: There are three application states: prompt,
+                                                allow, and prohibit. If the application is disabled, there will be no
+                                                reminder in the notification column; Meizu [Flyme] Self-booting management: the application needs to be added to the
+                                                [self-booting management] list, otherwise the process cannot be started
+                                                after shutting down the process or restarting it; Notification bar push: close the application notification, there will be
+                                                no display of the received message; Power-saving management: set the power-saving mode in the security
+                                                center, keep the permission when the application is allowed to stand by
+                                                in [Standby Power Consumption Management], otherwise the phone will
+                                                sleep or the application will be idle for a period of time, and it
+                                                cannot receive messages normally; VIVO [Funtouch OS] One-click memory cleaning: you need to add the application to the [white
+                                                list] list, otherwise the system's "one-click acceleration" will shut
+                                                down the process; Self-booting management: The application needs to be added to the
+                                                [self-booting management] list in "i-Housekeeper", otherwise the process
+                                                will not start automatically after restarting the phone. However, it is
+                                                mandatory to manually shut down the process, even if it is added to this
+                                                list, subsequent processes cannot start automatically; OPPO [ColorOS] Frozen application management: the application needs to be added to the
+                                                pure background, otherwise the message cannot be received in time when
+                                                the screen is locked; Self-booting management: while adding the application to the
+                                                [self-booting management] list, you need to lock the application process
+                                                in the settings-application-running, otherwise the process will not
+                                                start after shutting down the process or booting, you can only start the
+                                                application manually; Memory card and Cloud storage Q1: Memory card specification Speed: class 4 and above Capacity: 4GB-32GB, etc Type: TF card or micro-SD card Format: FAT32 Q2: Remove the memory card from the camera, insert it into
+                                            the computer, and prompt to repair the disk This situation is rare, and when it appears, click Repair as
+                                            prompted. Q3: Do I need to remove the memory card and watch the
+                                            video playback on the computer? You can directly watch the playback on the mobile APP,
+                                            without removing the memory card to view on the computer. Click the video
+                                            playback button in the device list, under the "TF card video" tab, you can
+                                            view the playback video. Q4: How to set up cloud recording (on / off, etc.) After purchasing the cloud recording function, the cloud
+                                            recording function will be enabled at the same time. You can enter the
+                                            "cloud video playback page", in the "service management", set the cloud
+                                            video function switch, renew the extension service and other operations. Q5: When inserting the memory card, the App prompts
+                                            "Unable to detect TF card" If the TF memory card cannot be detected, please try the following: 1. Make sure the TF format is FAT32 or exFAT. 2. Unplug the camera power cord and restart the camera. Q6: When the memory of the memory card is full, will it
+                                            stop recording?? Will not stop recording. The recording function of the AP
+                                            memory card supports loop recording. When the memory card is full, the
+                                            camera will automatically delete the old video files and write new ones. Q7: Cloud video renewal 1. If you have purchased a cloud service and it has not expired. You can
+                                                purchase cloud video on "Cloud Video Service Management Page" and "Cloud
+                                                Center of Personal Center". After purchase, the new cloud service
+                                                package will take effect immediately after the current package expires. 2. If your previous cloud recording has expired. You can purchase on the
+                                                "Cloud Video Service Management Page" and "Personal Center-Cloud Mall".
+                                                After purchase, the new cloud video package will take effect
+                                                immediately. Q8: Can I record sound when recording on a memory card? Support recording sound. But if the voice intercom function
+                                            is used during recording, the voice during the intercom will not be
+                                            recorded. Q9: The temperature of the memory card removed from the
+                                            camera is very high. Will it damage the memory card? The memory card may be slightly hot during recording, but we
+                                            have passed rigorous testing and the current temperature will not damage the
+                                            memory card. Q10: Under what circumstances may the TF card or cloud
+                                            recording be incomplete? 1. Before the abnormal dynamic occurs, the memory card has been damaged,
+                                                which makes the TF card recording impossible; 2. During the abnormal dynamic occurrence, there is a network
+                                                disconnection or a poor network, and the cloud video cannot be uploaded; 3. Unstable power supply causes the camera to power off, and the machine
+                                                cannot work normally; 4. The camera is powered off because of human reasons, such as
+                                                artificially cutting off the power, causing the machine to not work
+                                                properly; 5. Before the abnormal dynamic occurs, the camera is damaged because of
+                                                improper use, resulting in the machine not working properly; 6. During the abnormal dynamic occurrence, the perpetrator damaged or cut
+                                                off the power of the camera, resulting in the machine not working
+                                                properly; 7. During the occurrence of abnormal dynamics, the perpetrator did not
+                                                appear within the shooting range of the camera, and no content of the
+                                                perpetrator was captured. Advantages of the 4G camera Q1: What are the advantages of 4G card camera No network configuration is required. When there is no Internet-access
+                                                router near the camera, you can insert a 4G SIM card and add it
+                                                directly. Reason for poor signal from 4G device Q1: What is the reason for poor signal from 4G devices? a. 4G card network abnormality or not working properly. If your cell phone and the device are using the same carrier's 4G card,
+                                                please check whether your cell phone's 4G network is good near the
+                                                device. b. SIM card is too old or the card slot is abnormal. Pull out the SIM card and check if the SIM card is too old or the card
+                                                slot is loose. Questions About WiFi Device Signal Q1: What is the reason for poor signal from WiFi device? a.Poor network connection of the current device. Please connect your cell phone to the WiFi that the current device is
+                                                connected to, and check if the cell phone can access the internet
+                                                normally and the network is good. b.The distance between the device and the router is too far. Adjust the position between the device and the router, the distance
+                                                interval is within 5m, try to avoid blocking the wall or blocking the
+                                                device. About PTZ camera Q1: What is the function of the frequently-watched
+                                            position in the camera? Function 1: After setting the "frequently-watched Location", you can
+                                                locate the location you care about anytime, anywhere, and quickly check
+                                                the changes in your home. Function 2: Select "fixed-point cruise" in the device settings, and the
+                                                camera will perform cruise monitoring according to the
+                                                frequently-watching position you set. Q2: How to add frequently watched locations? Download the mobile client, add a PTZ camera, click the "PTZ
+                                            button", select the frequently-watched position, and then add the
+                                            frequently-watched position. Q3: How many frequently-watched positions can be set for
+                                            the camera? You can set up to 256 frequently-watched positions, and you
+                                            can edit the scene name for each frequently-watched position to facilitate
+                                            subsequent viewing. Q4: How does the camera with a gimbal cruise? Panoramic cruise: turn an angle in 10 seconds, about 40 degrees, complete
+                                                a lap in 9 times, it will automatically turn off after 4 hours of
+                                                opening, and will not turn vertically, but only horizontally;Fixed-point
+                                                cruise: according to the preset points set, each run once.Fixed-point
+                                                cruise: according to the preset points set, each run once. Q5: How to correct it after physically shaking the camera? Open the camera device settings, and click "PTZ adjustment"
+                                            to correct the camera lens position. Others Q1: When adding a LAN or ID, it prompts "The device is not
+                                            online" or "The device is not registered"? 1. Make sure that the network where the device is located can access the
+                                                Internet, and the router has enabled the DHCP function; 2. If you have manually changed the network parameters of the device, it
+                                                is recommended to restore the device to the default parameters, press
+                                                and hold the Reset button on the device for 10 seconds. Q2: When the device is online and an alarm event occurs,
+                                            but the phone does not receive the message? 1. Only when the App is running backstage, and the App message
+                                                notification is allowed, then the alarm push can be received; 2. Enable message notification: Go to phone settings > application
+                                                management, find this APP and enable/allow notifications to receive
+                                                alarm push notifications. Q3: After inserting the SD card, it prompts "SD card
+                                            error". 1. Currently only supports memory cards with a capacity of less than
+                                                128GB, and the FAT32 file system, if the file system is wrong, please
+                                                format and select FAT32 format. 2. The SD card is damaged or the file system is wrong, you should
+                                                consider replacing or reformatting the SD card. Q4: Why is the content of the video playing
+                                            intermittently? In order to save the space of the SD card and prolong the
+                                            service life, the device only records when it detects activity, so there
+                                            will be intermittent siuation. Q5: Does the device support USB and power bank? It is recommended to use the power adapter that comes with
+                                            the device. If you use an external power supply, the device may be damaged
+                                            if the power supply is unstable. 版权所有：广州市可视智能技术有限公司 粤ICP备14079945号

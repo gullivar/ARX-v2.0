@@ -1,0 +1,104 @@
+O nas
+Baza wiedzy
+Dla ekspertów
+Ostrzeżenia
+Zgłoś incydent
+Zadbaj o bezpieczny telefon
+Sprawdź
+Zadbaj o bezpieczny telefon
+Uważaj na fałszywe inwestycje w sieci
+Uważaj na fałszywe załączniki w mailach
+Uważaj na fałszywe prośby o szybki przelew
+Uważaj na fałszywe sklepy online
+Zadbaj o bezpieczne hasła i logowanie
+Włącz weryfikację dwuetapową
+Aktualności
+ 13 grudnia 2025 CERT Polska  #informacja #zagrożenie
+Publiczne sieci Wi-Fi – czy jest się czego bać?
+
+Jak to jest z tym publicznym Wi-Fi? W internecie wciąż możecie trafić na informacje, że korzystanie z takiej otwartej sieci w kawiarni, hotelu lub na lotnisku, to proszenie się o kłopoty, bo hakerzy mogą w ten sposób wykraść hasła i dane. I owszem tak BYŁO. Sprawdźmy dlaczego publiczne sieci nie niosą już dziś takich zagrożeń.
+
+Czytaj więcej
+ 03 listopada 2025 Kacper Ratajczak  #nfc #analysis #android #analiza
+Analiza kampanii złośliwego oprogramowania NGate (NFC relay)
+
+W ostatnich miesiącach CERT Polska zaobserwowało nowe próbki złośliwego oprogramowania mobilnego związane z atakiem NFC Relay (NGate) wymierzonym w użytkowników polskich banków.
+
+Czytaj więcej
+ 15 października 2025 CERT Polska  #raport miesieczny #csirt nask #raport
+Dawka informacji o cyberzagrożeniach – premiera raportów miesięcznych CERT Polska
+
+Opublikowaliśmy właśnie pierwszy raport miesięczny, podsumowujący nasze działania i obserwacje za wrzesień 2025. To początek nowej formuły komunikacji – chcemy regularnie informować o najważniejszych incydentach, trendach i aktywnościach zespołu.
+
+Czytaj więcej
+ 17 września 2025 CERT Polska  #zagrożenia #phishing
+Jak rozpoznać fałszywe strony internetowe i uniknąć phishingu
+
+Współczesne ataki phishingowe wykorzystują dokładne kopie wizualne znanych serwisów, co uniemożliwia rozpoznanie oszustwa na podstawie wyglądu strony. Przedstawiamy metodę analizy adresów URL jako jedyną niezawodną technikę weryfikacji autentyczności witryn. Omawiamy również funkcje bezpieczeństwa przeglądarek wspierające użytkowników w identyfikacji prawdziwych domen.
+
+Czytaj więcej
+ 07 sierpnia 2025 CERT Polska  #rekomendacje #csirt
+Rekomendacje dla ustanawiania zespołów CSIRT
+
+Oddajemy w Państwa ręce dokument, którego podstawowym celem jest wsparcie w procesie ustanawiania CSIRT-ów oraz rozwijania ich zdolności operacyjnych. Chcemy, żeby proces tworzenia zespołów cyberbezpieczeństwa przebiegał w sposób uporządkowany, a same zespoły działały spójnie i porównywalnie.
+
+Czytaj więcej
+ 05 czerwca 2025 CERT Polska  #analiza #CVE-2024-42009 #roundcube #unc1151
+Kampania UNC1151 wykorzystująca podatność w oprogramowaniu Roundcube do kradzieży poświadczeń
+
+CERT Polska obserwuje złośliwą kampanię e-mail prowadzoną przez grupę UNC1151 przeciwko polskim podmiotom z wykorzystaniem podatności w oprogramowaniu Roundcube.
+
+Czytaj więcej
+ 22 maja 2025 CERT Polska  #informacja #moje.cert.pl #powiadomienia
+Rozwijamy moje.cert.pl - nowa funkcja już dostępna!
+
+Na początku roku uruchomiliśmy serwis moje.cert.pl, podnoszący i rozwijający cyberbezpieczeństwo dzięki szeregowi usług i narzędzi. Od startu w serwisie zarejestrowało się ponad 11 tysięcy użytkowników. To dla nich włączamy dziś nową funkcję – komunikaty o zagrożeniach.
+
+Czytaj więcej
+ 03 kwietnia 2025 CERT Polska  #raport roczny #raport
+Raport roczny z działalności CERT Polska w 2024 roku
+
+Za nami kolejny rok działania zespołu CERT Polska. Rok absolutnie rekordowy, jeśli weźmiemy pod uwagę praktycznie wszystkie statystyki przytaczane w naszych dotychczasowych raportach. Za tymi liczbami stoi codzienna praca ekspertów, którzy każdego dnia dbają o bezpieczeństwo Polaków w sieci. O tej pracy, kluczowych wyzwaniach, z którymi się mierzymy, oraz o analizowanych zagrożeniach jest tegoroczny raport.
+
+Czytaj więcej
+ 02 kwietnia 2025 CERT Polska  #zagrożenia #ostrzeżenie #oszustwo
+Przegląd kampanii phishingowych z 2024 roku
+
+Krajobraz zagrożeń występujących w polskiej cyberprzestrzeni ulega ewolucji. Z jednej strony obserwujemy dobrze znane z ostatnich lat kampanie phishingowe, których celem jest wyłudzenie loginów i haseł do popularnych usług e-mail lub serwisów społecznościowych, czy strony z fałszywymi ogłoszeniami imitujące serwisy, takie jak OLX bądź Allegro. Z drugiej strony pojawiają się nowe, interesujące z punktu widzenia cyberbezpieczeństwa kampanie.
+
+Czytaj więcej
+ 31 marca 2025 CERT Polska  #facebook #meta #reklamy #oszustwo
+Meta niedostatecznie realizuje postulaty CERT Polska
+
+Problem oszustów działających za pośrednictwem platform społecznościowych jest wciąż aktualny. Firma Meta nie zrealizowała wszystkich przedstawionych w ubiegłym roku przez ekspertów z działającego w NASK zespołu CERT Polska postulatów, które miały zwiększyć bezpieczeństwo Polaków korzystających z serwisów społecznościowych.
+
+Czytaj więcej
+1
+2
+...
+35
+»
+
+CERT Polska to zespół działający w strukturach NASK - Państwowego Instytutu Badawczego, powołany w 1996 roku do reagowania na incydenty bezpieczeństwa komputerowego. Realizuje zadania CSIRT NASK, jednego z trzech takich zespołów działających na poziomie krajowym w ramach krajowego systemu cyberbezpieczeństwa.
+
+CERT Polska
+w social mediach
+Facebook
+X
+LinkedIn
+GitHub
+Kontakt
+
+ul. Kolska 12, 01-045 Warszawa
+ePUAP: /NASK-Instytut/SkrytkaESP
+e-Doręczenia: AE:PL-60057-61611-BCEGR-11
+
+e-mail: info@cert.pl
+Zgłaszanie incydentów: incydent.cert.pl
+cert@cert.pl
+
+© 2025 NASK
+Polityka prywatności
+Deklaracja dostępności
+CSIRT GOV
+CSIRT MON

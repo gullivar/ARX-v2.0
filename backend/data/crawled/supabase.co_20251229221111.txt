@@ -1,0 +1,478 @@
+Product
+Developers
+Solutions
+
+Pricing
+
+Docs
+
+Blog
+
+95.3K
+Sign in
+Start your project
+Supabase Wrapped 2025: The year in review
+Build in a weekend
+Scale to millions
+
+Supabase is the Postgres development platform.
+Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
+
+Start your project
+Request a demo
+
+Trusted by fast-growing companies worldwide
+
+Postgres Database
+
+Every project is a full Postgres database, the world's most trusted relational database.
+
+ 100% portable
+ Built-in Auth with RLS
+ Easy to extend
+Authentication
+
+Add user sign ups and logins,
+securing your data with Row Level Security.
+
+Edge Functions
+
+Easily write custom code
+without deploying or scaling servers.
+
+$
+supabase
+functions deploy
+Storage
+
+Store, organize, and serve large files, from videos to images.
+
+Realtime
+
+Build multiplayer experiences
+with real-time data synchronization.
+
+Vector
+
+Integrate your favorite ML-models to store, index and search vector embeddings.
+
+OpenAI
+Hugging Face
+Data APIs
+
+Instant ready-to-use Restful APIs.
+
+Use one or all. Best of breed products. Integrated as a platform.
+
+Use Supabase with
+any framework
+CUSTOMER STORIES
+Trusted by the world’s most innovative companies.
+
+See how Supabase empowers companies of all sizes to accelerate their growth and streamline their work.
+
+View all stories
+View Events
+
+Maergo's Express Delivery: How Supabase Helped Achieve Scalability, Speed, and Cost Saving
+
+Bootstrapped founder builds an AI app with Supabase and scales to $1M in 5 months.
+
+Scaling securely: one million users in 7 months protected with Supabase Auth
+
+Maergo's Express Delivery: How Supabase Helped Achieve Scalability, Speed, and Cost Saving
+
+Bootstrapped founder builds an AI app with Supabase and scales to $1M in 5 months.
+
+Scaling securely: one million users in 7 months protected with Supabase Auth
+
+Start building in seconds
+
+Kickstart your next project with templates built by us and our community.
+
+View all examples
+Official GitHub library
+Stripe Subscriptions Starter
+
+The all-in-one subscription starter kit for high-performance SaaS applications, powered by Stripe, Supabase, and Vercel.
+
+View Template
+Next.js Starter
+
+A Next.js App Router template configured with cookie-based auth using Supabase, TypeScript and Tailwind CSS.
+
+View Template
+AI Chatbot
+
+An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Supabase.
+
+View Template
+LangChain + Next.js Starter
+
+Starter template and example use-cases for LangChain projects in Next.js, including chat, agents, and retrieval.
+
+View Template
+Flutter User Management
+
+Get started with Supabase and Flutter by building a user management app with auth, file storage, and database.
+
+View Template
+Expo React Native Starter
+
+An extended version of create-t3-turbo implementing authentication on both the web and mobile applications.
+
+View Template
+Stay productive and manage your app
+without leaving the dashboard
+Table Editor
+SQL Editor
+RLS Policies
+Full CRUD
+Materialized Views
+Foreign Tables
+Partitioned Tables
+Easy as a spreadsheet
+Join the community
+
+Discover what our community has to say about their Supabase experience.
+
+Join us on Discord
+
+@nerdburn
+
+It’s fun, feels lightweight, and really quick to spin up user auth and a few tables. Almost too easy! Highly recommend.
+
+@patrickc
+
+Very impressed by @supabase's growth. For new startups, they seem to have gone from "promising" to "standard" in remarkably short order.
+
+@Aliahsan_sfv
+
+Okay, I finally tried Supabase today and wow... why did I wait so long? 😅 Went from 'how do I even start' to having auth + database + real-time updates working in like 20 minutes. Sometimes the hype is actually justified! #Supabase
+
+@yatsiv_yuriy
+
+Supabase is the best product experience I've had in years.
+Not just tech - taste.
+From docs to latency to the URL structure that makes you think "oh, that's obvious"
+Feels like every other platform should study how they built it
+@supabase I love you
+
+@adeelibr
+
+@supabase shout out, their MCP is awesome. It's helping me create better row securities and telling me best practises for setting up a supabase app
+
+@TyronBache
+
+Really impressed with @supabase's Assistant.
+
+It has helped me troubleshoot and solve complex CORS Configuration issues on Pinger.
+
+@MinimEditor
+
+I’ve always used Supabase just as a database.
+
+Yesterday, I helped debug a founder’s vibe-coding project built with React + React Router — no backend server.
+The “backend” was entirely Supabase Edge Functions as the API.
+First time using Supabase this way.
+Impressive.
+
+@orlandopedro_
+
+Love @supabase custom domains
+
+makes the auth so much better
+
+@sdusteric
+
+Loving #Supabase MCP. Claude Code would not only plan what data we should save but also figure out a migration script by checking what the schema looks like on Supabase via MCP.
+
+@SteinlageScott
+
+I love @supabase's built-in Advisors. The security and performance linters improve everything and boost my confidence in what I'm building!
+
+@BowTiedQilin
+
+Working with @supabase has been one of the best dev experiences I've had lately.
+
+Incredibly easy to set up, great documentation, and so many fewer hoops to jump through than the competition.
+
+I definitely plan to use it on any and all future projects.
+
+@adm_lawson
+
+Love supabse edge functions. Cursor+Supabase+MCP+Docker desktop is all I need
+
+@gokul_i
+
+First time running @supabase in local. It just works. Very good DX imo.
+
+@dadooos_
+
+Run supabase locally and just wow in silence! I am impressed! This is the kind of tooling I would want for my team.
+
+@Rodrigo66799141
+
+After a week of diving deep into Supabase for my new SaaS project, I'm really impressed with its Auth and RLS features. It makes security much simpler for solo founders. #buildinpublic #SaaS
+
+@xthemadgeniusx
+
+Lately been using Supabase over AWS/ GCP for products to save on costs and rapid builds(Vibe Code) that do not need all the Infra and the hefty costs that come with AWS/ GCP out the door. Great solution overall.
+
+@pontusab
+
+I love everything about Supabase.
+
+@viratt_mankali
+
+Love how Supabase makes full stack features this easy. Using it with Next.js and loving the experience!
+
+@nerdburn
+
+It’s fun, feels lightweight, and really quick to spin up user auth and a few tables. Almost too easy! Highly recommend.
+
+@patrickc
+
+Very impressed by @supabase's growth. For new startups, they seem to have gone from "promising" to "standard" in remarkably short order.
+
+@Aliahsan_sfv
+
+Okay, I finally tried Supabase today and wow... why did I wait so long? 😅 Went from 'how do I even start' to having auth + database + real-time updates working in like 20 minutes. Sometimes the hype is actually justified! #Supabase
+
+@yatsiv_yuriy
+
+Supabase is the best product experience I've had in years.
+Not just tech - taste.
+From docs to latency to the URL structure that makes you think "oh, that's obvious"
+Feels like every other platform should study how they built it
+@supabase I love you
+
+@adeelibr
+
+@supabase shout out, their MCP is awesome. It's helping me create better row securities and telling me best practises for setting up a supabase app
+
+@TyronBache
+
+Really impressed with @supabase's Assistant.
+
+It has helped me troubleshoot and solve complex CORS Configuration issues on Pinger.
+
+@MinimEditor
+
+I’ve always used Supabase just as a database.
+
+Yesterday, I helped debug a founder’s vibe-coding project built with React + React Router — no backend server.
+The “backend” was entirely Supabase Edge Functions as the API.
+First time using Supabase this way.
+Impressive.
+
+@orlandopedro_
+
+Love @supabase custom domains
+
+makes the auth so much better
+
+@sdusteric
+
+Loving #Supabase MCP. Claude Code would not only plan what data we should save but also figure out a migration script by checking what the schema looks like on Supabase via MCP.
+
+@SteinlageScott
+
+I love @supabase's built-in Advisors. The security and performance linters improve everything and boost my confidence in what I'm building!
+
+@BowTiedQilin
+
+Working with @supabase has been one of the best dev experiences I've had lately.
+
+Incredibly easy to set up, great documentation, and so many fewer hoops to jump through than the competition.
+
+I definitely plan to use it on any and all future projects.
+
+@adm_lawson
+
+Love supabse edge functions. Cursor+Supabase+MCP+Docker desktop is all I need
+
+@gokul_i
+
+First time running @supabase in local. It just works. Very good DX imo.
+
+@dadooos_
+
+Run supabase locally and just wow in silence! I am impressed! This is the kind of tooling I would want for my team.
+
+@Rodrigo66799141
+
+After a week of diving deep into Supabase for my new SaaS project, I'm really impressed with its Auth and RLS features. It makes security much simpler for solo founders. #buildinpublic #SaaS
+
+@xthemadgeniusx
+
+Lately been using Supabase over AWS/ GCP for products to save on costs and rapid builds(Vibe Code) that do not need all the Infra and the hefty costs that come with AWS/ GCP out the door. Great solution overall.
+
+@pontusab
+
+I love everything about Supabase.
+
+@viratt_mankali
+
+Love how Supabase makes full stack features this easy. Using it with Next.js and loving the experience!
+
+@nerdburn
+
+It’s fun, feels lightweight, and really quick to spin up user auth and a few tables. Almost too easy! Highly recommend.
+
+@patrickc
+
+Very impressed by @supabase's growth. For new startups, they seem to have gone from "promising" to "standard" in remarkably short order.
+
+@Aliahsan_sfv
+
+Okay, I finally tried Supabase today and wow... why did I wait so long? 😅 Went from 'how do I even start' to having auth + database + real-time updates working in like 20 minutes. Sometimes the hype is actually justified! #Supabase
+
+@yatsiv_yuriy
+
+Supabase is the best product experience I've had in years.
+Not just tech - taste.
+From docs to latency to the URL structure that makes you think "oh, that's obvious"
+Feels like every other platform should study how they built it
+@supabase I love you
+
+@adeelibr
+
+@supabase shout out, their MCP is awesome. It's helping me create better row securities and telling me best practises for setting up a supabase app
+
+@TyronBache
+
+Really impressed with @supabase's Assistant.
+
+It has helped me troubleshoot and solve complex CORS Configuration issues on Pinger.
+
+@MinimEditor
+
+I’ve always used Supabase just as a database.
+
+Yesterday, I helped debug a founder’s vibe-coding project built with React + React Router — no backend server.
+The “backend” was entirely Supabase Edge Functions as the API.
+First time using Supabase this way.
+Impressive.
+
+@orlandopedro_
+
+Love @supabase custom domains
+
+makes the auth so much better
+
+@sdusteric
+
+Loving #Supabase MCP. Claude Code would not only plan what data we should save but also figure out a migration script by checking what the schema looks like on Supabase via MCP.
+
+@SteinlageScott
+
+I love @supabase's built-in Advisors. The security and performance linters improve everything and boost my confidence in what I'm building!
+
+@BowTiedQilin
+
+Working with @supabase has been one of the best dev experiences I've had lately.
+
+Incredibly easy to set up, great documentation, and so many fewer hoops to jump through than the competition.
+
+I definitely plan to use it on any and all future projects.
+
+@adm_lawson
+
+Love supabse edge functions. Cursor+Supabase+MCP+Docker desktop is all I need
+
+@gokul_i
+
+First time running @supabase in local. It just works. Very good DX imo.
+
+@dadooos_
+
+Run supabase locally and just wow in silence! I am impressed! This is the kind of tooling I would want for my team.
+
+@Rodrigo66799141
+
+After a week of diving deep into Supabase for my new SaaS project, I'm really impressed with its Auth and RLS features. It makes security much simpler for solo founders. #buildinpublic #SaaS
+
+@xthemadgeniusx
+
+Lately been using Supabase over AWS/ GCP for products to save on costs and rapid builds(Vibe Code) that do not need all the Infra and the hefty costs that come with AWS/ GCP out the door. Great solution overall.
+
+@pontusab
+
+I love everything about Supabase.
+
+@viratt_mankali
+
+Love how Supabase makes full stack features this easy. Using it with Next.js and loving the experience!
+
+Build in a weekend, scale to millions
+Start your project
+Request a demo
+Footer
+We protect your data.
+More on Security
+SOC2 Type 2
+Certified
+HIPAA
+Compliant
+Twitter
+GitHub
+Discord
+Youtube
+Product
+Database
+Auth
+Functions
+Realtime
+Storage
+Vector
+Cron
+Pricing
+Launch Week
+Solutions
+AI Builders
+No Code
+Beginners
+Developers
+Postgres Devs
+Vibe Coders
+Hackathon Contestants
+Startups
+Agencies
+Enterprise
+Innovation Teams
+Resources
+Blog
+Support
+System Status
+Become a Partner
+Integrations
+Brand Assets
+Security & Compliance
+DPA
+SOC2
+HIPAA
+Developers
+Documentation
+Supabase UI
+Changelog
+Careers
+Contributing
+Open Source
+SupaSquad
+DevTo
+RSS
+Company
+Company
+General Availability
+Terms of Service
+Privacy Policy
+Privacy Settings
+Acceptable Use Policy
+Support Policy
+Service Level Agreement
+Humans.txt
+Lawyers.txt
+Security.txt
+© Supabase Inc
+Toggle theme

@@ -1,0 +1,170 @@
+Products
+Solutions
+Pricing
+Developers
+Resources
+Partners
+En 
+Contact Us
+Try JFrog
+BLOG HOME
+Into the Sunset on May 1st: Bintray, GoCenter, and ChartCenter
+
+By Stephen Chin February 3, 2021
+
+ 5 min read
+
+SHARE:
+
+UPDATE 7/2/2024: After over three years of maintaining JCenter as a read-only repository for legacy Java packages, JFrog is moving forward with an official sunset of JCenter, and, in coordination with Maven Central, will begin automatically redirecting all JCenter requests to the Maven Central Repository. The first of several service brown-outs is scheduled for July 30th and will periodically continue until the final shutdown of JCenter on August 15th. For more details, please see JFrog’s official announcement.
+
+ 
+
+UPDATE 4/27/2021: We listened to the community and will keep JCenter as a read-only repository indefinitely. Our customers and the community can continue to rely on JCenter as a reliable mirror for Java packages.
+
+UPDATE 2/28/2021: To better support the community in this migration, JFrog has extended the JCenter new package versions submission deadline through March 31st 2021.
+
+ 
+
+JFrog is making some important changes that will impact users of Bintray, JCenter (part of Bintray), GoCenter, and ChartCenter.
+
+Bintray has provided the open source community a free, universal cloud platform for publishing and distributing binaries. Bintray helped JFrog support the Java community as the host of the JCenter repository for Java OSS libraries, packages and components. We launched GoCenter and ChartCenter to extend similar services to the Go and cloud-native communities.
+
+JFrog is evolving to meet the new challenges that developers face. Many of the services that Bintray provides are now served by the JFrog Platform for the open source community. Similarly, the Go and Helm communities have since created central repositories of their own that are drop-in replacements for our centers.
+
+To streamline the productivity of the JFrog Platform we will be sunsetting Bintray, GoCenter, and ChartCenter services on May 1st, 2021. Users of these services will need to migrate to the respective canonical repository, and we will continue to offer both trial and paid JFrog Platform cloud subscriptions that can serve other binary distribution needs. Additionally, JFrog is partnering with hubs like Docker to help ensure that infrastructure our customers and community depend upon is well maintained.
+
+ConanCenter, which we announced last January, will be going forward with additional investment to make it an even better resource for C and C++ developers relying on Conan packages. Expect continuous improvement in the developer experience for ConanCenter over the years to come.
+
+The changes are coming in these phases:
+
+When	What’s Changing
+Now	Bintray, JCenter, GoCenter, and ChartCenter service continues.
+
+Bintray/JCenter users should start migrating to a new hosting solution.
+
+
+February 28th, 2021	No more submissions will be accepted to GoCenter, and ChartCenter
+The GoCenter and ChartCenter websites will be disabled (client requests will still work).
+March 31st, 2021	No more submissions will be accepted to JCenter.
+April 12th, 26th, 2021	We will have some short service brown-outs to remind users about the services that are going away on May 1st. (Specific hours will be advertised in the Bintray status page.)
+May 1st, 2021	Bintray services will no longer be available. GoCenter, and ChartCenter services will no longer be available to non-Artifactory clients. (ConanCenter and JCenter are not affected).
+
+ 
+
+Here are some answers to questions you’re likely to have:
+
+What happens after the sunset of Bintray?
+
+On May 1, 2021, the sunset will impact all existing Bintray users. Bintray users will be blocked and will no longer be able to use the Bintray service. This includes existing software distribution, account administrative access, UI access, and the REST API.
+
+What is the community alternative for GoCenter and ChartCenter?
+
+The Go team has built a module repository for Go developers called pkg.go.dev that can be used as a direct replacement for GoCenter. Similarly the Helm community has built a chart and package library called ArtifactHub that can be used as a replacement for ChartCenter.
+
+I’m a Bintray Enterprise or Bintray Pro customer. What help should I expect?
+
+Bintray Enterprise and other select customers are being contacted by their JFrog account reps to help ensure their migration goes smoothly. They will provide sufficient support to confirm that you have successfully obtained all of your Bintray data, and validate that the content is no longer being downloaded before account disablement and data deletion.
+
+What happens to my data after Bintray is sunset?
+
+All of the data on Bintray is available for download through May 1st and we encourage you to transfer it out. JFrog will begin deleting data several weeks after the official sunset date and will not retain any Bintray data after that.
+
+I have Artifactory remote repositories configured to use JCenter, GoCenter, or ChartCenter. Will this break them?
+
+Artifactory installations with remote repositories configured against JCenter, GoCenter, and ChartCenter will not be affected by this sunset.
+
+We recommend that JFrog Cloud customers continue using jcenter.bintray.com, gocenter.io, and repo.chartcenter.io as Artifactory remote repositories going forward.
+
+JFrog self-hosted customers can also continue fetching from these repositories, but are encouraged to migrate to the canonical repositories.
+
+I have other questions about subscribing to the JFrog Platform. Who can I contact?
+
+If you need more answers, please feel free to contact us on Twitter @JFrog.
+
+Tags: conancenter  gocenter  chartcenter  bintray  jcenter
+START A TRIAL
+
+SHARE:
+
+Sign up for blog updates
+
+By submitting this form, you agree to the processing of your personal data by JFrog as described in the JFrog Privacy Notice.
+Subscribe
+Popular Tags
+CI/CD Artifactory Best Practices DevOps Xray
+Experience
+JFrog Today
+Discover how the JFrog Platform unites DevOps, DevSecOps and MLOps for secure, rapid software delivery.
+Book A Demo 
+YOU MAY ALSO LIKE
+Blog
+
+Accelerating Trusted Distribution of Software Innovation, Everywhere
+
+READ NOW
+Cheat Sheet
+
+Easy to use cheat sheets!
+
+LEARN MORE
+Solution Sheet
+
+JFrog Artifactory CDN Distribution and Peer-to-Peer Downloads
+
+READ NOW
+Products
+Artifactory
+Xray
+Curation
+Distribution
+Container Registry
+Connect
+JFrog ML
+JFrog Platform
+Start Free
+Resources
+Blog
+Security Research
+Events
+Integrations
+JFrog Help Center
+Software Supply Chain Topics
+Open Source
+JFrog Trust
+Compare JFrog
+Company
+About
+Management
+Investor Relations
+Partners
+Customers
+Careers
+Press
+Contact Us
+Brand Guidelines
+Developer
+Community
+Downloads
+Community Events
+Community Forum
+Applications
+Follow Us
+© 2025 JFrog Ltd All Rights Reserved
+Discover More
+DevOps Security Platform
+What is a Software Supply Chain?
+What is DevSecOps?
+Terms of Use
+|
+Privacy Notice
+|
+Cookies Policy
+|
+Impressum
+|
+Cookies Settings
+|
+Accessibility Notice
+|
+Accessibility Mode

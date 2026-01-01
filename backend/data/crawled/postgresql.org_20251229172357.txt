@@ -1,0 +1,117 @@
+Home
+About
+Download
+Documentation
+Community
+Developers
+Support
+Donate
+Your account
+November 13, 2025: PostgreSQL 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 Released!
+PostgreSQL: The World's Most Advanced Open Source Relational Database
+Download  New to PostgreSQL?
+New to PostgreSQL?
+
+PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+
+There is a wealth of information to be found describing how to install and use PostgreSQL through the official documentation. The open source community provides many helpful places to become familiar with PostgreSQL, discover how it works, and find career opportunities. Learn more on how to engage with the community.
+
+Learn More Feature Matrix Governance
+Latest Releases
+
+2025-11-13 - PostgreSQL 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 Released!
+
+The PostgreSQL Global Development Group has released an update to all supported versions of PostgreSQL, including 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23. This release fixes 2 security vulnerabilities and over 50 bugs reported over the last several months. You can find details on the fixes in the release notes.
+
+This is the final release of PostgreSQL 13. PostgreSQL 13 is now end-of-life and will no longer receive security and bug fixes. If you are running PostgreSQL 13 in a production environment, we suggest that you make plans to upgrade to a newer, supported version of PostgreSQL. Please see our versioning policy for more information.
+
+For the more information about this release, please review the release notes. You can download PostgreSQL from the download page.
+
+For more information on PostgreSQL 18, the latest major version of PostgreSQL, please see the full press release and translations of the release announcement in the press kit.
+
+18.1 · 2025-11-13 · Notes
+17.7 · 2025-11-13 · Notes
+16.11 · 2025-11-13 · Notes
+15.15 · 2025-11-13 · Notes
+14.20 · 2025-11-13 · Notes
+Download
+Why Upgrade? Security
+Upcoming Events
+ 2026-01-27 – 2026-01-28 · Prague PostgreSQL Developer Day 2026 / January 27-28
+ 2026-01-30 · FOSDEM PGDay 2026
+ 2026-02-06 · CERN PGDay 2026
+ 2026-03-05 – 2026-03-06 · PostgreSQL@SCaLE23x
+2026-03-10 · FOSSASIA PGDay 2026
+ 2026-03-11 – 2026-03-13 · PGConf India 2026
+ 2026-03-26 · pgDay Paris 2026
+
+ indicates that an event is recognised under the community event guidelines and is directly helping the PostgreSQL community.
+
+Check Schedule Add Your Event
+Mailing Lists
+
+The PostgreSQL mailing lists enable you to interact with active community participants on subjects related to the development of PostgreSQL, discovering how to use PostgreSQL, or learning about upcoming events and product releases.
+
+In order to manage your mailing list subscription, you need a PostgreSQL community account. Signing up is easy and gives you direct access to the global PostgreSQL community.
+
+Subscribe View Archives
+Learning Opportunities Ahead
+
+Want to learn more about PostgreSQL and help build the community? Come to one of the many events, local user groups, & training sessions where you can meet experienced PostgreSQL users and enhance your database skills.
+
+Browse Events Browse User Groups
+Latest News
+PostgreSQL 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 Released!
+ 2025-11-13
+
+The PostgreSQL Global Development Group today announced the release of PostgreSQL 18, the latest version of the world's most advanced open source database.
+
+The PostgreSQL Global Development Group has released an update to all supported versions of PostgreSQL, including 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23. This release fixes 2 security vulnerabilities and over 50 bugs reported over the last several months. You can find details on the fixes in the release notes.
+
+This is the final release of PostgreSQL 13. PostgreSQL 13 is now end-of-life and will no longer receive security and bug fixes. If you are running PostgreSQL 13 in a production environment, we suggest that you make plans to upgrade to a newer, supported version of PostgreSQL. Please see our versioning policy for more information.
+
+Release Announcement
+Release Notes
+PostgreSQL 18 Press Kit
+Versioning Policy
+Download
+Browse Archives Submit News
+credcheck v4.3 has been released
+ 2025-12-27 by HexaCluster
+PostgreSQL RPM repository now supports multiple RHEL minor versions
+ 2025-12-27 by PostgreSQL PGDG RPM Repository
+Pgpool-II 4.7.0 is now released.
+ 2025-12-23 by Pgpool Global Development Group
+New PostgreSQL Contributors December 2025
+ 2025-12-23 by PostgreSQL Contributors Team
+pgFormatter v5.9 has been released
+ 2025-12-22 by HexaCluster
+PLANET POSTGRESQL
+FOSS4GNA 2025: Summary
+ REGINA OBE  2025-12-28
+Contributions for week 53, 2025
+ Cornelia Biacsics  2025-12-28
+Improved Quality in OpenStreetMap Road Network for pgRouting
+ Ryan Lambert  2025-12-28
+New PostgreSQL Features I Developed in 2025
+ Shinya Kato  2025-12-25
+Unpublished interview
+ Oleg Bartunov  2025-12-23
+Don't give Postgres too much memory (even on busy systems)
+ Tomas Vondra  2025-12-23
+PostgreSQL Column Limits
+ Umair Shahid  2025-12-23
+PostgreSQL Santa’s Naughty Query List: How to Earn a Spot on the Nice Query List?
+ Mayur B.  2025-12-23
+PostgreSQL Performance: Latency in the Cloud and On Premise
+ Hans-Juergen Schoenig  2025-12-23
+Browse Archives
+Seeing unexpected behavior?
+
+The PostgreSQL community takes pride in releasing software that reliably stores your data. If you believe you've discovered a bug, please click the button below and follow the instructions on how to submit a bug.
+
+Submit a Bug
+Policies | Code of Conduct | About PostgreSQL | Contact
+
+
+Copyright © 1996-2025 The PostgreSQL Global Development Group

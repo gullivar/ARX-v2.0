@@ -1,0 +1,13 @@
+cihar.com
+
+ - Michal Čihař Michal Čihař - 
+
+
+    cihar.com Home Contact Blog Software Publications Photography About me Welcome, my name Michal Čihař and I live in Prague ( Czech republic ).
+I contribute to various free software projects like Debian , Weblate , phpMyAdmin or Gammu and Wammu .
+Besides that I've also written some other small tools ,
+which you can find on this website.
+If you want to know what I'm working on currently, you can check
+my weblog . Recent blog posts Spring cleanup May 29, 2019, noon Weblate blog moved May 9, 2019, 4:21 p.m. Weblate 3.6.1 April 26, 2019, 11:23 p.m. Weblate 3.6 April 20, 2019, 2:46 p.m. translation-finder 1.1 March 20, 2019, 3:40 p.m. Software I've created various software during past years, some of these are still
+alive, while others are not really developed or used anymore: Weblate Weblate is web based translation tool with tight Git integration. It features simple and clean user interface, propagation of translations across subprojects or automatic linking to source files. phpMyAdmin phpMyAdmin is a free software tool written in PHP intended to handle the administration of MySQL over the World Wide Web. phpMyAdmin supports a wide range of operations with MySQL. The most frequently used operations are supported by the user interface (managing databases, tables, fields, relations, indexes, users, permissions, etc), while you still have the ability to directly execute any SQL statement. Dictionaries for StarDict As I like StarDict much, I decided to hack scripts that will convert some useful dictionaries to it's format. GePeS Various GPS and compass based tools for Nokia N9 (Harmattan). DOF Calc Simple tool in Qt Quick to calculate depth of field for photographers for Nokia N9 (Harmattan).. Gammu, Gammu SMSD, Wammu and python-gammu Wammu is a program to manage data in your cell phone such as contacts, calendar or messages. It is built on Gammu library , which provides abstraction layer to work with different cell phones from different vendors (including Nokia, Sony-Ericsson, Motorola, Samsung, Siemens, Huawei and others). See more… Check out other my software ! Other Contents Besides above mentioned software, you can find here some publications I've made or materials
+for my presentations . Donate Did I help you? Want to appreciate my work on free software? Donate to me . Current supporters: Apartmán Cvikov Translations Česky Follow me Blog Blog RSS feed Blog Atom feed Twitter Twitter for Weblate Support me Donate me to support my activities on free software. Copyright © 2001 - 2025 Michal Čihař License Donate Search Powered by Django

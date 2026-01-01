@@ -1,0 +1,236 @@
+How It Works  View Demo Customers & Partners  Pricing Learn  Log In 
+Sign Up
+Never Miss Another Conversion
+
+Ensure that 100% of your conversions are tracked and delivered to your marketing channels like Facebook, TikTok, Google Ads, GA4, and 40+ other channels with Elevar’s server-side tracking. Plus boost Klaviyo flow performance by 2-3x with Session Enrichment.
+
+Sign up for Elevar
+
+Plans from $0 a month + 15-day free trials on all plans
+
+TRUSTED BY OVER 6,500 D2C LEADERS
+Marketers, analysts, and brand owners use Elevar for accurate conversion tracking
+If any of this sounds familiar, you need Elevar
+I need to improve tracking quality due to iOS changes
+I’m still using native Facebook or GA integrations with Shopify
+My server-side tracking is lacking
+My existing tracking in GTM, my theme, and apps is a mess
+I need a better Facebook CAPI setup for Shopify
+I need my tracking to integrate with my Consent provider
+I don't trust my Google Analytics data (or need GA4)
+I want to upgrade to Shopify Checkout Extensibility
+My agency needs me to fix my tracking for Google Ads, Facebook, GA
+I want a first party User ID to recognize returning users without relying on cookies
+Facebook is under-performing and think it could do better
+I’m missing conversions in Google Ads impacting performance
+TAGGING AUTOMATION
+Automatically track each customer journey and achieve 99% conversion accuracy
+People Click Your Ads
+
+Conversion tracking starts with knowing which channel the shopper is coming from.
+
+People Browse Your Website
+
+Conversions can be product views, add to cart, purchases, etc.
+
+Conversions Sent to Destinations
+
+Elevar pushes your conversion data server-side to marketing channels with near 100% accuracy (and GDPR compliant).
+
+ALL AROUND DATA
+3 Types of Data Collected
+
+Elevar's job is to collect the maximum amount of attributable data to send to each of your marketing destinations.
+
+Product & Order Data
+
+This is the data you'd expect to see in each of your tags that appears in pixel helpers -- product sku, price, brand, revenue, transaction IDs, etc.
+
+Watch how it works
+Customer Data
+
+This is data such as email, user identifier, customer id, phone, addresses, etc. This data collection can be integrated with consent providers like OneTrust.
+
+Watch how it works
+Attribution Data
+
+The most critical data for your marketing channels to attribute clicks to conversions. This data includes click IDs, cookie values, UTM parameters, and other data related to session stitching.
+
+Watch how it works
+Do More with 50+ Integrations With Elevar
+
+With real-time event monitoring and integrations with Facebook Conversion API, Google Ads, GA4, TikTok, and 40+ more digital marketing channels
+
+Explore Integrations
+“
+The Elevar team is responsive and eager to help. We now feel that our site analytics are in a great place, and we get so much value in working with the Elevar Team.
+
+Mark Duffy
+
+Digital Marketing Manager, Owl Labs
+“
+I have a much better understanding of how minor changes can hugely impact different KPIs. The eCommerce strategy has also been greatly beneficial to how we think about long-term strategy and how we operate day-to-day.
+
+Dylan Kim
+
+Co-Founder, Brevite
+“
+Amazing feedback, support, and optimizations. The team is extremely knowledgeable, and shares that info transparently. Education and execution are the hallmarks of the platform, but more importantly, of the team.
+
+Amit Shah
+
+Growth Marketing Manager, Buck Mason
+“
+The Elevar team is responsive and eager to help. We now feel that our site analytics are in a great place, and we get so much value in working with the Elevar Team.
+
+Mark Duffy
+
+Digital Marketing Manager, Owl Labs
+“
+I have a much better understanding of how minor changes can hugely impact different KPIs. The eCommerce strategy has also been greatly beneficial to how we think about long-term strategy and how we operate day-to-day.
+
+Dylan Kim
+
+Co-Founder, Brevite
+“
+Amazing feedback, support, and optimizations. The team is extremely knowledgeable, and shares that info transparently. Education and execution are the hallmarks of the platform, but more importantly, of the team.
+
+Amit Shah
+
+Growth Marketing Manager, Buck Mason
+“
+The Elevar team is responsive and eager to help. We now feel that our site analytics are in a great place, and we get so much value in working with the Elevar Team.
+
+Mark Duffy
+
+Digital Marketing Manager, Owl Labs
+BUILT FOR SHOPIFY
+Power your pixels and analytics with complete datasets
+
+ Instantly deploy a Google Tag Manager data layer, server-side tracking, session enrichment, and real-time performance monitoring so your marketing platforms are always fully optimized.
+
+See Use Cases
+Privacy Enabled Data Layer
+
+Our data layer and webhook integrations capture user behavior, marketing attribution data, customer data, and consent mode status.
+
+This data is then used to power server-side tracking in Elevar or tags in your own Google Tag Manager account.
+
+Learn About Data Layer for Shopify View Consent Integrations
+Client-Side & Server-Side Tracking
+
+Most marketing channels are moving to server-side tracking to ensure 100% of first party data is collected to improve performance reporting and audience automations.
+
+With Elevar, you can publish server-side tracking to Conversion APIs in a few clicks.
+
+Or if you prefer client-side tracking, then utilize Elevar’s Pre-Built Tag library to use in GTM.
+
+View All Integrations Boost Facebook Performance by 20%
+2-3x Klaviyo Flow Performance
+
+Leveraging Elevar’s Session Enrichment and Klaviyo server-side integration, our customers consistently experience a 50% or greater increase in product view and add-to-cart events.
+
+This results in more abandoned flow emails being sent and a direct boost in ROI from your Elevar integration.
+
+See How It Works
+Recognize Returning Users with Session Enrichment
+
+Boost your marketing performance: Elevar’s Session Enrichment instantly improves campaign ROI by recognizing returning users & enhancing data sent to Facebook CAPI, Klaviyo, Google Ads, and more!
+
+Launch GA4 and Enrich with Events
+
+Is GA4 setup for success ahead of the July 2023 sunset date of Universal Analytics? Elevar helps automate the setup of accurate server-side tracking for GA4 and Universal Analytics. Plus our point-and-click Chrome Extension allows you to quickly add event tracking across your website that syncs with Google Tag Manager.
+
+Launch GA4 on Shopify Chrome Extension
+Boris Hodakel
+Founder, Feel
+
+“A gift that we have something like this that can be deployed with just a couple of clicks which makes my life easier…and I don’t get anxiety when I need to add something new.”
+
+Gabriel S. Dias
+Head of Digital & Growth, Vessi
+
+“We’ve tripled in size which is quite a milestone. And our conversion rate has gone up significantly even with high volume of paid social traffic.”
+
+Dylan Kim
+Co-Founder, Brevitē
+
+“15x’d our business in 3 years since working with Elevar. Laying down the foundational work early so we could see that growth was key to our success.”
+
+ONE CENTRAL SYSTEM
+Elevar simplifies the growing complexity of tracking and user identification all in one place
+
+Your marketing team feels confident and sees their campaign performance improve. You get peace of mind, better performance, and more revenue.
+
+Improve ad performance with better analytics
+Reduce the cost to acquire new customers
+Fully managed, and DIY server-side plans
+Real-Time Conversion Reporting
+Sitewide data layer for Google Tag Manager
+CCPA and GDPR consent integrations
+Automated tracking alerts
+Facebook Conversion API
+Expert installation and setup options
+99% conversion accuracy - guaranteed
+4.9 out of 5 stars on Shopify's app store
+24 hour, 6 days a week customer support
+View Pricing & Plans
+Watch or Book a Demo
+99%
+Conversion Accuracy
+
+Implement Elevar’s fully managed server-side tracking and we guarantee 99% of your purchase data will be successfully delivered to all of your server-side marketing destinations.
+
+30
+DAY
+Money Back Guarantee
+
+Our no questions asked 30 day money back guarantee is available on all plans. We’re invested into your success.
+
+Ready to Get Started?
+
+Try free for 15 days to start increasing performance through better tracking
+
+Sign up
+View Plans
+You're In Good Hands
+
+Proud to be official partners.
+
+Elevar automates data collection
+and server-side tracking for
+D2C Shopify brands
+
+Product
+Session Enrichment
+Boost Meta by 20%
+GA4 for Shopify
+Server-Side Tracking
+Data Layer for GTM
+Conversion Monitoring
+View All Integrations
+Company
+About
+Events
+Partner Program
+Case Studies
+Watch/Book Demo
+Pricing
+Careers
+Refer a Friend
+Support
+Contact Support
+Help Docs
+Read Blog
+Our Podcast
+Headless Setup Docs
+Status Page
+Cookie Settings
+Shopify Tools
+Elevar App on Shopify
+Free Consent Checker
+
+© 2025 All Right Reserved.
+
+Accessibility GDPR Legal Privacy Policy Terms Your Privacy Choices
+Accessibility

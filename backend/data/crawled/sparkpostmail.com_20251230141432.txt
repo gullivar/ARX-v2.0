@@ -1,0 +1,402 @@
+Product
+
+Solutions
+
+Resources
+
+Company
+
+Log in
+
+Contact sales
+
+Bird Developer
+
+The most trusted Email API at global scale
+
+Send and optimize emails with the platform that delivers almost 40% of all B2B and B2C emails worldwide.
+
+Contact sales
+
+Start for free
+
+Fortune 500 companies
+
+that depend on Bird
+
+BEFORE BIRD
+
+Email challenges holding your business back.
+
+Deliverability crisis
+
+Critical emails lost to spam folders, missing opportunities and frustrating customers.
+
+Scaling limitations
+
+Traditional solutions fail during peak times when delivery is crucial.
+
+Technical overhead
+
+Email infrastructure uses developer resources and poses security risks.
+
+WITH BIRD
+
+The unified email solution that delivers.
+
+Enterprise-grade API
+
+Use one reliable API for email with 99.99% uptime and guaranteed delivery.
+
+Developer-centric design
+
+Save time with intuitive SDKs, documentation, and pre-built integrations.
+
+Future-proof infrastructure
+
+Scale endlessly as our system adapts to ISP changes.
+
+HIGH-PERFORMANCE DELIVERY
+
+Scale from 100 to billions with ease.
+
+Learn more
+
+Auto-scaling technology
+
+Maintain consistent performance whether sending hundreds or billions of messages.
+
+Marketing platform
+
+Adaptive delivery
+
+Our algorithm adjusts email traffic in real-time based on receiving server responses.
+
+Data platform
+
+Enterprise security
+
+Quickly implement authentication and notifications with our security features.
+
+Marketing automation
+
+DEVELOPER ECOSYSTEM
+
+Build faster with powerful tools.
+
+Learn more
+
+Comprehensive SDKs
+
+Access complete development kits for Node, PHP, Java, and more popular programming languages.
+
+Multichannel support
+
+Enable communications for transactions, orders, and user engagement across channels.
+
+Pre-built integrations
+
+Connect seamlessly with popular platforms through our library of integration solutions.
+
+Expand your email capabilities
+
+Powerful tools and infrastructure to optimize every aspect of your email program from sending to competitive intelligence.
+
+Start for free
+
+Contact sales
+
+Build email infrastructure 
+that fits your needs
+
+Customize and scale email sending with powerful MTA infrastructure tailored to your unique business requirements.
+
+Momentum MTA
+
+Outperform competitors with 
+market intelligence
+
+Beat competition with intelligence from 250,000+ brands across 100+ industries to benchmark and optimize performance.
+
+Competitive Tracker
+
+Get more emails delivered to the inbox
+
+Maximize inbox placement with real-time ISP monitoring, reputation insights, and automated deliverability optimization
+
+Inbox Tracker
+
+Take full control of your email delivery
+
+
+
+
+Control your email infrastructure with on-premises server software designed for high-volume senders requiring complete ownership.
+
+Power MTA
+
+ADVANCED ANALYTICS
+
+Optimize with data-driven insights.
+
+Learn more
+
+42 unique metrics
+
+Access detailed email performance metrics for deeper understanding of campaign effectiveness.
+
+Real time monitoring
+
+Track bounces, blocks, and delays instantly to make immediate adjustments to your strategy.
+
+Proactive alerts
+
+Receive instant notifications for spam traps or blocklist issues before they impact deliverability.
+
+USE CASES 
+
+Power critical communications across your business.
+
+Learn more
+
+Confirm orders instantly
+
+Send order confirmations and updates guaranteed.
+
+Welcome users seamlessly
+
+Welcome users with timely communication.
+
+Send critical alerts
+
+Notify users of key events via inbox messages.
+
+Drive engagement
+
+Deliver campaigns with optimized timing and placement.
+
+Secure accounts instantly
+
+Send security codes to users instantly.
+
+Resolve issues fast
+
+Respond to inquiries with messages that don't get lost.
+
+COMPLIANCE
+
+Protect your data and your customers.
+
+Learn more
+
+SOC II 
+
+Compliant
+
+HIPAA
+
+Compliant
+
+GDPR
+
+Compliant
+
+ISO/IEC 27001: 2022
+
+Certified
+
+Okta
+
+Single Sign-On
+
+Bird Security Policies
+
+Client versions
+
+Data security
+
+Enterprise-grade protection for your sensitive customer information.
+
+Privacy controls
+
+Maintain full compliance with global email and privacy regulations.
+
+Expert consulting
+
+Access dedicated support from top-tier deliverability specialists.
+
+Trusted by companies that demand results.
+
+View all customer stories
+
+94.4%
+
+SMS deliverability improved
+
++300%
+
+Partner onboarding efficiency
+
+161%
+
+Open rate improvement
+
+The complete AI-native platform that scales with your business.
+
+Contact sales
+
+Start for free
+
+Marketing
+
+Overview
+
+Journeys
+
+Personalization
+
+Analytics
+
+Campaigns
+
+Data
+
+Overview
+
+CDP
+
+Integration
+
+Segmentation
+
+Export & Sync
+
+Governance
+
+Automation
+
+Overview
+
+Workflows
+
+Content
+
+Approvals
+
+Dynamic Content
+
+Channels
+
+Overview
+
+Email
+
+SMS
+
+Push Notifications
+
+WhatsApp
+
+RCS
+
+Developer
+
+Email API
+
+WhatsApp API
+
+SMS API
+
+Numbers API
+
+Voice API
+
+Solutions
+
+Retail and Ecommerce
+
+Fintech B2C
+
+Fintech B2B
+
+Banking
+
+SaaS
+
+Marketplace
+
+Resources
+
+Changelog
+
+Knowledge Base
+
+Developers Hub
+
+Support Center
+
+Customers
+
+Blog
+
+Guides
+
+Integrations
+
+Press kit
+
+Company
+
+About
+
+Pricing
+
+Partners
+
+Careers
+
+Legal
+
+Terms
+
+By clicking “Accept”, you agree to the use of cookies on your device or browser to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Remove my data
+
+Privacy Statement
+
+Accept all cookies
+
+Cookie settings
+
+Coming soon
+
+Support
+
+Sales
+
+Finance
+
+HR
+
+Newsletter
+
+Stay up to date with Bird through weekly 
+updates to your inbox.
+
+Signup
+
+Social
+
+x.com
+
+Instagram
+
+LinkedIn
+
+© 2025 Bird
+
+Contact Support
+
+DEVELOPER
+     

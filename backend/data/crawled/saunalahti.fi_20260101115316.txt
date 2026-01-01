@@ -1,0 +1,1 @@
+Elisa - Verkkokauppa Ladataan sivua... Verkkokaupassa asioiminen ei onnistu yksityisellä selauksella. Ole hyvä ja kytke yksityinen selaus pois päältä ja lataa sivu uudelleen. Selaimesi ei tue JavaScriptiä Selaimesi ei tue JavaScriptiä tai JavaScript-tuki on kytketty pois päältä. Päivitä selaimesi tai kytke JavaScript-tuki päälle selaimesi asetuksista.

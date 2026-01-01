@@ -1,0 +1,58 @@
+				
+
+
+
+ESXDOS aims to be the ultimate firmware for the DivIDE/DivMMC interface. Here's a list of current features:
+
+DivIDE: Supports HDD/CDROM/ZIP/LS120 devices
+DivMMC: Supports MMC/SD/SDHC devices
+Device and filesystem abstraction layer
+Full FAT16/FAT32 read/write support (no extended partitions, no LFN).
+Virtual Disk support (up to 4 devices)
+Betadisk/TR-DOS emulation using (trimmed) .TRD files
+Provides extended BASIC commands
+BASIC files integration using +3DOS headers for FAT filesystems
+Support for seamless IM2 loading/saving, from BASIC and machine code
+System commands loaded from /BIN dir of system drive
+TAPE emulator supports reading/writing from/to TAP files. TAP attaching functions are available to external programs.
+POSIX-based API usable by .commands, external programs and NMI.SYS. Functions available on rst $08:
+open, read, write, close, opendir, readdir, seek, sync, fstat, getcwd, chdir, unlink...
+Possibility of getting absolute LBA sector and device on an opened file (for direct I/O)
+Kernel loads modules (.KO files) on demand
+NMI.SYS support (NMI system is independent, ESXDOS kernel just provides services)
+
+Get the latest version (0.8.9) here!
+
+Email all bug reports to bugs at esxdos dot org or post a report on our board.
+
+Screenshots:
+
+				
+The esxdos bios/boot screen		An esxdos cat of a FAT partition		NMI system (by ub880d)
+
+Previous Versions:
+
+ESXDOS 0.8.8 Public BETA
+ESXDOS 0.8.7 Public BETA
+ESXDOS 0.8.6 Public BETA
+ESXDOS 0.8.5 Public BETA
+ESXDOS 0.8.0 Public BETA
+ESXDOS 0.7.4 Public BETA (bugfix release)
+ESXDOS 0.7.3 Public BETA
+ESXDOS 0.7.3 Public BETA with MAPRAM fix
+
+
+Useful Tools:
+
+Zilogator's Permutor v0.0
+ZXSpectrum-Utils
+John Elliott's ZX related tools (including SPECFORM/UNSPECFORM for +3DOS Header manipulation)
+
+
+
+
+.:papaya dezign:.
+.. all rights perversed ..
+
+
+

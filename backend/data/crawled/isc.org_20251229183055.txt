@@ -1,0 +1,120 @@
+PRODUCTS
+SUPPORT
+COMMUNITY
+ABOUT ISC
+DOWNLOADS
+Open Source For an Open Internet
+
+Non-profit organization fostering the development and maintenance of Internet infrastructure and core software for the benefit of the public since 1994.
+
+DOWNLOADS 
+Open Source Means Freedom, But Also Responsibility
+
+ISC develops and distributes four open source Internet networking software packages: BIND 9, ISC DHCP, Kea DHCP, and Stork, and operates the F-Root domain server. We would love you to use our open source in your network, but first, please consider whether open source is an appropriate solution for you.
+
+Open source is for DIYers - you need to be prepared to set up a provisioning and monitoring system that will meet your specific needs. We offer some tools, including dig, and our Stork graphical management system, and our software has remote management interfaces, but you will need to make your own decisions about management tools. We publish both source tarballs and application packages for popular operating systems, but you must be prepared to select, configure and maintain your server operating system. Help is available, on our free community support mailing list, and via professional support contracts with ISC, but nobody here is going to configure or manage your systems for you.
+
+Open source is for people who want the freedom to collaborate and contribute as a member of a community. It is for people who want complete control over their network design, security, and data. It is not for everyone.
+
+BIND 9
+
+The original, complete open source DNS implementation.
+
+Learn more
+ISC DHCP
+
+Open source DHCP server, relay agent, and client software, now EOL.
+
+Learn more
+Kea DHCP
+
+Flexible, open source, dynamic IP address and static host reservation management for DHCPv4 and DHCPv6 servers.
+
+Learn more
+Stork
+
+Graphical management system for DHCP and DNS services.
+
+Learn more
+Why Choose ISC?
+
+Internet Systems Consortium (ISC) is dedicated to developing software and offering services in support of the Internet infrastructure.
+
+Quality Open Source
+
+Since 1994, ISC has offered open source software to the Internet community. Our software is professionally developed, fully supported software and it is developed in the open. We are committed to providing high-quality software to keep the Internet free and available to all.
+
+Professional Support
+
+Although open source software is available at no cost to users, many organizations seek help with installation and management. Users are encouraged to contribute to ISC’s ongoing development work by purchasing professional support from ISC’s engineers. We are financially sustained by customers who understand the importance of open source. This keeps us aligned with our core mission: supporting the Internet.
+
+Standards-Compliant
+
+ISC engineers have written over 100 of the technical standards that are essential to interoperability on the Internet. Standards-based open source has been essential to the growth of the Internet.
+
+Contact Us
+Latest News
+
+What's New from ISC
+
+Happy holidays from ISC!
+
+Computers are great, but sometimes it’s nice to go “old-school” with some handwritten messages.
+
+Read
+Meet an ISC Staff Member – Razvan Becheriu!
+
+We have done quite a few of these profiles now, but fortunately we have not yet run out of staff members!
+
+Read
+Performance Improvements in BIND 9.20 in Authoritative Configurations - December 2025
+
+BIND 9.20 is well established and stable. This is a good time to look at the performance of BIND 9.
+
+Read
+The Domain Name System Runs on Open Source Software
+
+Last week, ICANN published a report on the importance of open source in the DNS.
+
+Read
+Software
+Stork Graphical Management for Kea DHCP
+BIND 9
+Kea DHCP
+ISC DHCP
+Technical Resources
+ISC Technical Knowledgebase
+BIND 9 Vulnerability Matrix
+Source Repository
+EDNS Compliance Test Tool
+ISC Software Licenses
+DNS Tools
+ISC DHCP Tools
+Kea & IPv6 Tools
+US Government Resources
+Other ISC Services
+F-Root
+Our Company
+Blog
+Contact
+Privacy Policy
+Code of Conduct
+ISC’s Mission
+Work for ISC
+ISC's Swag Store
+RSS Feed
+ADDRESS
+
+PO Box 360
+Newmarket, NH 03857 USA
+
+CONTACT
+Email: info@isc.org
+Phone: +1 650 423 1300
+
+©2025 Internet Systems Consortium, Inc.
+
+ 
+ 
+ 
+ 

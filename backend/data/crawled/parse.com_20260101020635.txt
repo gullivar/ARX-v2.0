@@ -1,0 +1,291 @@
+Parse Platform
+FeaturesServerSDKsDashboardDocumentationCommunitySecurityDonation
+Start Building
+Build an automation tool
+for your community event
+Build a mobile app
+for your st|
+
+Parse Platform is your complete backend solution for mobile and web applications.
+Deploy anywhere, scale infinitely, own your data.
+
+Start Building Documentation 
+GitHub Stars
+Forks
+0
+SDK Platforms
+Contributors
+Powerful Features
+
+Everything you need to build modern applications
+
+Database & Storage
+
+MongoDB and PostgreSQL support with flexible file storage options including Amazon S3, Google Cloud Storage, and local storage.
+
+Real-time data synchronization
+GridFS default storage
+Multi-database support
+Authentication & Security
+
+Comprehensive user management with OAuth support, email verification, and flexible authentication options.
+
+OAuth integration
+Email verification
+Custom authentication
+APIs & Integration
+
+REST and GraphQL APIs with multi-platform SDKs for seamless integration across all major platforms.
+
+REST & GraphQL APIs
+Multi-Platform SDKs
+Custom queries & mutations
+Real-time Features
+
+Live queries for real-time data updates and built-in push notification support across all platforms.
+
+Live Queries
+Push notifications
+Real-time updates
+Cloud Functions
+
+Server-side logic execution with custom functions, database triggers, and background job processing.
+
+Custom cloud functions
+Database triggers
+Background jobs
+Self-hosting Freedom
+
+Deploy anywhere that runs Node.js. Full control over your infrastructure and data with Parse Dashboard for management.
+
+Any Node.js infrastructure
+Parse Dashboard included
+Complete data ownership
+Parse Server
+
+Core backend services and APIs for your applications
+
+Parse Server
+
+The main backend server powering all Parse Platform features.
+
+Source CodeDocumentationSchema GuideAPI Reference
+Cloud Code
+
+Custom server-side JavaScript functions for advanced business logic.
+
+Documentation
+REST API
+
+A RESTful HTTP API for interacting with all Parse Platform services.
+
+Documentation
+GraphQL API
+
+A modern GraphQL API supporting queries, mutations, and subscriptions.
+
+Documentation
+Extensions
+
+Enhance Parse Server with official and community-built extensions.
+
+Explore Extensions
+Multi-Platform SDKs
+
+Build for every platform with our comprehensive SDK collection
+
+Apple
+
+Native iOS SDK with full Parse Platform functionality
+
+Source CodeDocumentationAPI Reference
+Android
+
+Native Android SDK for Parse Platform integration
+
+Source CodeDocumentationAPI Reference
+JavaScript
+
+Universal JavaScript SDK for web and Node.js
+
+Source CodeDocumentationAPI Reference
+PHP
+
+Server-side PHP SDK for Parse Platform
+
+Source CodeDocumentationAPI Reference
+Flutter
+
+Cross-platform Flutter SDK for mobile development
+
+Source CodeDocumentationAPI Reference
+Dart
+
+Pure Dart SDK for server and command-line applications
+
+Source CodeDocumentationAPI Reference
+.NET
+
+Cross-platform .NET SDK for Parse Platform
+
+Source CodeDocumentationAPI Reference
+Swift
+
+Modern Swift SDK with async/await support
+
+Source CodeDocumentationAPI Reference
+Arduino
+
+IoT SDK for Arduino microcontrollers and ESP32/ESP8266
+
+Source CodeDocumentationAPI Reference
+Parse Dashboard
+
+Powerful web interface for managing your Parse Server data and configuration
+
+Data Browser
+
+Browse, edit, and query your application data with an intuitive table interface
+
+User Management
+
+Manage user accounts, roles, and permissions directly from the dashboard
+
+API Console
+
+Test queries and execute code directly in the dashboard with an interactive console
+
+Configuration
+
+Configure app settings, push notifications, and security parameters
+
+Get Parse Dashboard
+Parse Dashboard
+Data Browser
+objectIdusernamecreatedAt
+xK7m1Pq9user_12024-01-01
+xK7m2Pq9user_22024-01-02
+xK7m3Pq9user_32024-01-03
+3 of 127 objects
+PreviousNext
+Get Started in Minutes
+
+Deploy your Parse Server with just a few commands
+
+1
+Install
+
+Install Parse Server via npm
+
+2
+Configure
+
+Set up your database and keys
+
+3
+Deploy
+
+Launch your backend
+
+install.sh
+# Install Parse Server
+npm install -g parse-server
+
+# Start Parse Server
+parse-server --appId myAppId --masterKey myMasterKey --databaseURI mongodb://localhost:27017/dev
+
+# Your Parse Server is running on http://localhost:1337/parse
+
+Then save and find your first object using Parse Server's REST API
+
+install.sh
+# Create a new Booking object
+curl -X POST \
+  -H "X-Parse-Application-Id: myAppId" \
+  -H "X-Parse-Master-Key: myMasterKey" \
+  -H "Content-Type: application/json" \
+  -d '{"room":101,"guests":2,"nights":4}' \
+  http://localhost:1337/parse/classes/Booking
+
+# Get all bookings of room 101
+curl -X GET \
+  -H "X-Parse-Application-Id: myAppId" \
+  -H "X-Parse-Master-Key: myMasterKey" \
+  -G \
+  --data-urlencode 'where={"room":{"$eq":101}}' \
+  http://localhost:1337/parse/classes/Booking
+Documentation & Resources
+
+Comprehensive guides and references for every platform
+
+Parse Server Guide
+
+Complete guide for deploying and configuring Parse Server
+
+Read Documentation
+Postman Template
+
+Ready-to-use Postman collection for Parse Server REST API testing
+
+Coming Soon
+Client SDK Guides
+
+Platform-specific integration guides for all supported SDKs
+
+Browse SDKs
+Join Our Community
+
+Connect with developers worldwide using Parse Platform
+
+Community Forum
+
+Join discussions about Parse Platform and share your experiences
+
+Join Forum
+Chat
+
+Connect with the community on our Slack workspace for instant communication
+
+Join Slack
+Community Highlights
+
+Discover amazing community projects and tools for Parse Platform
+
+Explore Projects
+Discord
+NEW
+
+Join our Discord server for real-time chat and community support
+
+Join Discord
+GitHub
+
+Contribute to Parse Platform and report issues on GitHub
+
+View Repositories
+Follow us on X
+
+Stay updated with the latest Parse Platform news and announcements
+
+Follow @parseplatform
+Parse Platform
+
+The open source backend for building modern applications without vendor lock-in. Deploy anywhere, scale infinitely, own your data.
+
+Platform
+Parse Server
+Parse Dashboard
+Cloud Code
+REST API
+Resources
+Documentation
+Community
+Discord
+GitHub
+SDKs
+iOS
+Android
+JavaScript
+Flutter
+
+© 2025 Parse Platform

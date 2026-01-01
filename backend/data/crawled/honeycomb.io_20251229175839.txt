@@ -1,0 +1,229 @@
+Investigation times got you down? See why it’s time to switch to Honeycomb.
+LEARN MORE
+Observability Platform
+Solutions
+Learn
+Company
+Pricing
+Login
+START FOR FREE
+BOOK A DEMO
+Observability for
+what comes next
+
+Futureproof your business with the context, speed, and scale you need to build great software in the AI era
+
+START FOR FREE
+GET A DEMO
+Aha! It's this request causing the problem
+What's happening here? 🤯
+Send me the Honeycomb link
+
+Trusted by innovators and enterprises worldwide
+
+Built for answers—no dead ends, no surprise bills
+
+Other tools force you to choose between visibility, performance, and cost. Honeycomb gives you all three. We unify telemetry, deliver lightning-fast queries, and integrate with AI agents to reveal issues in seconds, not hours. Our unique event-based pricing rewards curiosity without extra costs.
+
+
+
+
+EXPLORE OUR PLATFORM
+Triggers
+Service Map
+SLOs
+BubbleUp
+ 
+ 
+Query Assistant
+Query Builder
+HONEYCOMB UNIFIED DATASTORE
+Distributed Tracing
+Log Analytics
+Custom Metrics
+Frontend Observability
+LLM Observability
+REALTIME ACCESS
+Canvas
+MCP Server
+Anomaly Detection
+HONEYCOMB INTELLIGENCE
+Logs
+Traces
+Metrics
+TELEMETRY PIPELINES
+Amazon S3
+ENHANCE
+60+ INTEGRATIONS
+Triggers
+Service Map
+SLOs
+BubbleUp
+ 
+ 
+Query Assistant
+Query Builder
+HONEYCOMB UNIFIED DATASTORE
+YOUR DATA SOURCES
+What Honeycomb helps you do
+
+Honeycomb breaks the cost curve of observability, enabling complete system visibility without tradeoffs between data quality and budget.
+
+See everything
+Get complete visibility with data available in under 90 seconds. Explore dynamic visualizations with limitless insights and no dead ends. With Honeycomb, engineers and AI agents always have the context they need to easily solve problems.
+Solve anything
+Resolve issues before they impact customers. Perform root cause analysis in under 3 minutes with BubbleUp. Run sub-10 second queries with your AI agent. Honeycomb makes every engineer an expert and every investigation instant.
+Scale infinitely
+Stop making tradeoffs between observability cost and software quality. Add unlimited fields and unlimited users at no extra cost. Our platform is OpenTelemetry-native with no vendor lock-in. Honeycomb is ready for whatever comes next in your tech stack.
+What our customers say
+
+We have predictable pricing that lets us do away with the legacy approach of sampling logs to preserve budget. Honeycomb’s event-based pricing empowers us to see every request from every service that comes through.
+
+Michael Garski
+
+Director of Platform Engineering, Fender
+
+Thanks to Honeycomb, SLO-based monitoring has proven superior for LLM reliability than traditional metrics. Given AI’s unpredictable nature, SLOs help us catch and investigate anomalies without triggering a flood of noisy alerts.
+
+Kesha Mykhailov
+
+Staff Engineer, Intercom, on Fin AI
+
+Honeycomb has really transformed how fast and how well we can coordinate across the company where we’re all working from a common point of observability insights—whether we’re troubleshooting or making capital investment decisions.
+
+Ranbir Chawla
+
+SVP of Engineering, Ritchie Bros
+
+We’re able to bring a different mentality in the way we run and manage our production systems. We were able to really help our engineering teams and change the culture.
+
+Rich Anakor
+
+Chief Solutions Architect, Vanguard
+
+We rely on Honeycomb to provide the world-class scale and resilience LaunchDarkly customers expect.
+
+Edith Harbaugh
+
+Co-founder and CEO, LaunchDarkly
+
+We have predictable pricing that lets us do away with the legacy approach of sampling logs to preserve budget. Honeycomb’s event-based pricing empowers us to see every request from every service that comes through.
+
+Michael Garski
+
+Director of Platform Engineering, Fender
+
+Thanks to Honeycomb, SLO-based monitoring has proven superior for LLM reliability than traditional metrics. Given AI’s unpredictable nature, SLOs help us catch and investigate anomalies without triggering a flood of noisy alerts.
+
+Kesha Mykhailov
+
+Staff Engineer, Intercom, on Fin AI
+
+Honeycomb has really transformed how fast and how well we can coordinate across the company where we’re all working from a common point of observability insights—whether we’re troubleshooting or making capital investment decisions.
+
+Ranbir Chawla
+
+SVP of Engineering, Ritchie Bros
+
+We’re able to bring a different mentality in the way we run and manage our production systems. We were able to really help our engineering teams and change the culture.
+
+Rich Anakor
+
+Chief Solutions Architect, Vanguard
+
+We rely on Honeycomb to provide the world-class scale and resilience LaunchDarkly customers expect.
+
+Edith Harbaugh
+
+Co-founder and CEO, LaunchDarkly
+
+Solutions for every team
+
+We created Honeycomb to solve the problems legacy monitoring couldn't address. Explore the ways Honeycomb can work for you.
+
+LLM Observability
+Get granular insight into how your LLMs behave in production, troubleshoot failures faster, and continuously improve model performance—all in real time with real data.
+Frontend Observability
+Log Management and Analytics
+Distributed Tracing
+Telemetry Pipelines
+O'Reilly Book
+New to observability? Learn from the experts.
+
+Let authors Charity Majors, Liz Fong-Jones, and George Miranda explain what observability is and how to leverage it for your organization.
+
+Get your free copy of the book
+Sign up for updates on the second edition
+Get a preview of what you’ll learn
+Learn more about the authors
+GET YOUR COPY
+Keep learning...
+
+Ken Rimple
+
+December 15, 2025
+
+Reporting Exceptions to Honeycomb with Frontend Observability
+
+Frontend
+
+Rox Williams
+
+December 11, 2025
+
+AI-Powered Observability: From Reactive to Predictive
+
+AI & LLMs
+
+Tyler Helmuth
+
+December 8, 2025
+
+Using Traces, Metrics, and Logs All in One Place, as Demonstrated by Pipeline Builder
+
+Tracing
+Logging
+Metrics
+
+Julie Neumann
+
+December 4, 2025
+
+Honeycomb Signs Three-Year Strategic Collaboration Agreement with AWS to Accelerate AI Observability in the Enterprise
+
+Press Releases
+VIEW ALL
+Ready to get started?
+START FOR FREE
+BOOK A DEMO
+Platform
+Overview
+Learn
+Why Honeycomb
+Comparisons
+Resources
+Pricing
+Office Hours
+Academy
+Integrations
+Support
+Documentation
+Support Portal
+Slack Community
+Status
+Company
+About Us
+Team
+Careers
+News
+Events
+Blog
+© 2025 Hound Technology, Inc.
+Terms of Service
+Acceptable Use Policy
+Privacy Notice
+Your Privacy Choices
+
+Sign up for updates from Honeycomb
+
+By clicking Submit, you agree to Honeycomb's Terms of Service and Privacy Policies.

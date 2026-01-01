@@ -1,0 +1,43 @@
+Bitcoin
+Liquid
+Dashboard
+Blocks
+Transactions
+Explorer API
+Latest Blocks
+Height	Timestamp	Transactions	Size (KB)	Weight (KWU)
+930112	2025-12-30 14:02:54	5000	1803.832	3993.697
+930111	2025-12-30 14:01:50	3359	1731.236	3993.557
+930110	2025-12-30 13:51:39	1772	1104.22	2653.405
+930109	2025-12-30 13:39:02	5103	1845.999	3993.597
+930108	2025-12-30 13:37:28	3136	1638.411	3993.369
+View more blocks
+Latest Transactions
+Transaction ID	Value	Size	Fee
+4c0bce3587406650f108e1d2a245b21bb5138407a003f570623703f0a6614b9c	0.00226352 BTC	295 vB	4.9 sat/vB
+7e0cb0ab36635e23ac9a13cc605155495163652207734db2ac821d8d5b57c223	0.00004473 BTC	210 vB	0.3 sat/vB
+7c6ca2259f345dd526a17163768ad7cb587afae0f6c10dee2b8ba24102c331a4	0.00088670 BTC	110 vB	3.0 sat/vB
+f4c7169c5b9fee88a4fac8369c5beea31d5853097fc7697685f6fef381665731	0.00004525 BTC	152 vB	0.3 sat/vB
+c47500436e189b54a77d6c10f305aeb9ccc0a9aacc49b1e18b270e1d8bf7e145	0.00003009 BTC	227 vB	0.3 sat/vB
+View more transactions
+English
+Português
+Deutsch
+Français
+Italiano
+Español
+Nederlands
+Български
+Русский
+Српски
+Hrvatski
+Bosanski
+Црногорски
+Svenska
+中文(简体)
+עברית
+日本語
+한국어
+Onion V3
+Terms & Privacy
+© 2025 Blockstream Corporation Inc. All rights reserved.

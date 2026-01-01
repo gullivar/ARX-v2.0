@@ -1,0 +1,26 @@
+EXPLORE
+TUTORIAL
+PRICING
+SIGN IN
+
+On Thursday, January 15, 2026, quay.io and registry.redhat.io will stop supporting the deprecated TLS 1.0 and 1.1 protocols to strengthen security. Migrate your client systems to use TLS 1.2 or 1.3 to ensure continued access. Learn more.
+
+Quay [builds, analyzes, distributes] your container images
+TRY FOR FREE ON PREMISES TRY FOR FREE ON CLOUD
+  
+Store your containers securely
+
+Ensure your apps are stored privately, with access that you control. Quay is teamwork optimized, with powerful access controls.
+
+Build & deploy new containers easily
+
+Use Quay.io to automate your container builds, with integration to GitHub, Bitbucket, and more. Robot accounts allow you to lock down automated access and audit each deployment.
+
+Automatic Security Scanning
+
+Quay continually scans your containers for vulnerabilities, giving you complete visibility into known issues and how to fix them.
+
+ Documentation Terms Privacy Security About Contact 
+All Systems Operational
+ Cookie preferences 
+Done

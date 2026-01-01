@@ -1,0 +1,132 @@
+Software Engineer
+English & Software Engineering Blog - Sean
+Total : 617,588Today : 67
+Category
+	
+분류 전체보기 (594)
+	
+Vita (12)
+	
+Review (16)
+	
+English in Movies (37)
+	
+General (20)
+	
+Assembly (11)
+	
+C, C++ (22)
+	
+C# (67)
+	
+SDL, raylib (29)
+	
+Python (58)
+	
+Algorithm Training (2)
+	
+OpenCV (39)
+	
+OpenGL (5)
+	
+Godot (40)
+	
+Unity (32)
+	
+FFmpeg (2)
+	
+Android (38)
+	
+Web Development (4)
+	
+AI, ML, DL (18)
+	
+Linux (33)
+	
+Reverse Engineering (52)
+	
+Electronics (9)
+	
+Raspberry Pi & Arduino (34)
+	
+CAD (9)
+	
+MVS(Hikvision) (5)
+Recent Posts
+[Unity2D] 2D Sprite에⋯.
+[Unity] RectTransfor⋯.
+[Unity] Transparent ⋯.
+[Unity] Input System⋯.
+Recent Comments
+딥러닝 암호걸려있어요. 익명312.13
+정말 감사드립니다... 익명212.10
+감사합니다!!!!. 익명12.09
+감사합니다.. ㅇㅇㅇㅇ12.07
+Tags
+Reversing 리눅스 opencv game ubuntu 우분투 Debug 게임 arduino pygame Camera Linux 안드로이드 파이게임 3d c# image 파이 Python 라즈베리 아두이노 engine 유니티 Android 디버깅 파이썬 엔진 SDL godot Unity
+'전체 글'에 해당되는 글 594건
+14:15:43 [Unity2D] 2D Sprite에 Text 추가하기
+[Unity2D] 2D Sprite에 Text 추가하기
+Unity 2025. 12. 29. 14:15 |
+
+2D Sprite에 Text를 추가해 보자.
+
+ 
+
+렌더러가 충돌하기 때문에 Sprite에 그냥 Text를 추가할 수 없다.
+
+ 
+
+우선 추가하려는 Sprite에 Empty 오브젝트를 하나 추가한다.
+
+ 
+
+빈 오브젝트에서 Text를 추가한다.
+
+ 
+
+Rect Transform - Width, Height를 텍스트에 맞게 조절하고 다른 옵션도 적당히 세팅한다.
+
+ 
+
+Text가 표시된다.
+
+ 
+
+좋아요공감
+공유하기
+게시글 관리
+구독하기
+저작자표시 비영리 변경금지
+(새창열림)
+'Unity' 카테고리의 다른 글
+[Unity] RectTransform with Content Size Filter  (0)	2025.12.29
+[Unity] Transparent Background Application 투명 배경 애플리케이션  (0)	2025.12.24
+[Unity] Input System Package 유니티 입력 시스템  (0)	2025.12.24
+[Unity2D] Tilemap & Sprite Collision and Shadow 타일맵 & 스프라이트 충돌 및 그림자  (2)	2025.06.02
+[Unity2D] Simple Character Controller 2D 간단한 2D 캐릭터 컨트롤러  (1)	2025.06.01
+Posted by J-sean
+Sprite, TEXT, Unity, 스프라이트, 유니티, 텍스트
+: Comment 0
+Software Engineer
+IT 분야 크리에이터
+English & Software Engineering Blog - Sean
+구독하기
+
+ : 이름
+
+ : 패스워드
+
+ : 홈페이지
+
+ 비밀글
+
+PREV 1 2 3 4 ··· 594 NEXT
+TISTORY
+
+Home : Location Log : Tag Log : Guestbook : Admin : New Post
+J-sean's BLOG IS POWERED BY DAUM / DESIGNED BY TISTORY
+
+티스토리툴바
+관리메뉴열기
+Software Engineer구독하기

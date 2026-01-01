@@ -1,0 +1,50 @@
+Frontend-first backend you call with fetch() | ReqRes ReqRes How it works Use cases Pricing Docs Get Started Frontend-first backend The easiest backend for frontend developers testers, and teams. Projects bundle collections, app users, logs, and
+                        automations — all callable with fetch(), cURL,
+                        Postman, or any HTTP client. Get Started View example app Docs Cloudflare + Postgres CORS enabled Logs built in Live activity Healthy Recent logs Last 60s GET
+                                            /app/collections/todos/records 200 POST /api/app-users/login 200 POST /api/app-users/verify 200 POST
+                                            /app/collections/todos/records 201 1 · Send magic link 2 · Verify token 3 · Fetch records 3 steps · client-only auth + scoped
+                                        data 1 Copy Designed Designed for modern frontend teams Calm visuals that mirror how projects, speed, and flows feel
+                    in production. Projects bundle everything Collections, app users, logs, automations in one
+                            place. Designed to move fast Latency-friendly defaults for every request. From UI to backend Auth → session → records, end to end. No servers. No databases. No DevOps. Just HTTP: fetch() , cURL , Postman . Pillars A real backend your frontend can own. Projects, collections, app users, and logs live together so
+                    frontends stay production-ready without backend tickets. Projects Isolated environments with keys, limits, and
+                            observability. project_id: "proj_12ab" Collections Schema-backed JSON with CRUD you call directly from
+                            the UI. POST /app/collections/todos/records App Users Magic links issue session tokens scoped to each
+                            user. Bearer <session_token> Logs & automations Every request is logged; triggers and webhooks fire
+                            on events. record.created → webhook Chapter 1 Projects bundle everything One project holds collections, app users, and
+                            automations with clear prod/dev environments. Scoped
+                            keys; searchable logs. Chapter 2 Collections are your JSON database Define schemas, write with fetch(), and read per
+                            user or admin. Pagination and search are built in. Chapter 3 App Users: real auth without backend Magic links create app users; verification returns
+                            session tokens you use to scope data. Chapter 4 Logs & automations: debug and react Every request is logged. Fire webhooks on record
+                            events to keep QA and production in sync. Project overview prod / dev Collections todos, orders, sessions App users magic links enabled Logs search & export Automations record.created webhooks todos collection schema { "title" : "string" , "completed" : "boolean" , "priority" : "number" , "app_user_id" : "uuid (optional)" } GET
+                                        /app/collections/todos/records?limit=10 200 Auth flow session token POST /api/app-users/login POST /api/app-users/verify Authorization: Bearer <session_token> GET /app/collections/todos/records Automations record.created record.created → webhook Active record.updated → automation Queued Flow The project lifecycle Six quick steps from zero to production-grade data and auth. 1 Create project Namespace keys, collections, logs. 2 Add collection Define your JSON data model. 3 Invite user Magic link creates an app user. 4 Verify token Mint a session token. 5 Read & write Scoped CRUD via Bearer token. 6 Observe & react Logs + webhooks on events. Code realism Works from any HTTP client Use fetch(), cURL, Postman, or any HTTP client for apps,
+                        QA, or lessons. Browser · Node · cURL · Postman · HTTPie · mobile ·
+                        desktop Flows Switch between authentication, CRUD, and pagination. Authentication CRUD Pagination Scope data with Authorization: Bearer <session_token> . Example app See a real app powered by ReqRes A multi-user Notes app — magic-link auth + per-user CRUD — all from fetch(). View example app → Free account required. Magic link login Session token ready Notes (per-user) Use cases Made for modern frontend teams Client-only apps, QA suites, and demos stay production-ready
+                    with the same project. Client-only SaaS Client-only Frontends call collections and auth directly; no
+                                servers to run. Ship faster with scoped tokens. QA & automation QA Predictable data, logs, and webhooks for
+                                Playwright or Cypress. Assert against real responses. Demos & MVPs Demo Present working software with persistent data
+                                and logs. Credibility without backend lift. Education Teach Teach HTTP, auth, and pagination without local
+                                setup friction. Why: focus on concepts, not tooling. Foundations Built on strong foundations Edge delivery, persistence, and observability by default. Cloudflare edge Fast, global delivery Managed TLS Persistence Postgres-backed data Logs + retention Security HTTPS + CORS Rate limits + status page Pricing Start free. Scale when you're ready. Upgrade limits without rebuilding your projects. Free Start a project with collections, app users, and
+                        logs. Get Started free Dev $12 For freelancers Higher rate limits Log retention Automations Get Started (Dev) Pro Recommended $29 For agencies Multiple projects More app users Webhooks + logs Upgrade to Pro Team $79 For teams High volume Seats + orgs SLA options Get Started (Team) @ Enterprise? Need custom limits, SSO, or data residency? Let's
+                            tailor a plan. Email > Supported by PARTNERS Appear inside real developer workflows ReqRes serves billions of API requests every month.
+                                On Free plans, we may include a small “supported by”
+                                link inside a stable _meta block—never touching data . Paid plans never include sponsorship metadata. Developer-first placement (docs-style JSON
+                                        metadata) Stable schema (no breaking changes; never
+                                        touches data ) Ideal for devtools, infra, and education
+                                        products Sponsorship metadata is never returned on paid
+                                plans. Served on infrastructure handling tens of billions
+                                of API requests per month. Free tier stays free with tasteful sponsors Partner with ReqRes View example response Devtools, infra, education, OSS-friendly products.
+                                Include your product, target audience, and budget
+                                range. {_meta} Example response shape (Free tier only) {
+      "_meta": {
+        "sponsored": [
+          {
+            "label": "Supported by",
+            "text": "Acme DevTools",
+            "url": "https://acme.dev"
+          }
+        ]
+      },
+      "data": { ... }
+    } Flow Console Try the fake data endpoints instantly Walk a single flow - auth to data - in one view. Add your key to
+                    unlock the live responses. 1 Add your key as x-api-key to see responses. No card required Built for demos + tests Example flow POST Create user (returns token) POST Verify session GET Fetch records POST Create record Show full example requests GET Single user GET Single user not found GET List <resource> GET Single <resource> GET Single <resource> not found GET Delayed response POST Register - unsuccessful POST Login - unsuccessful PUT Update PATCH Update DELETE Delete Request Request path and headers. Response Live sample response Start Build your backend from the frontend. Collections, app users, logs, and automations - ready
+                        for production teams. Get Started View example app ReqRes Docs Support © 2025 ReqRes. Frontend-first backend.

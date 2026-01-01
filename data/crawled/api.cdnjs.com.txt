@@ -1,0 +1,46 @@
+About
+Libraries
+API
+GitHub
+Status
+Home
+API Documentation
+cdnjs provides a simple API to allow anyone to quickly query the libraries we have on the CDN.
+
+We provide two main endpoints, the libraries endpoint which allows anyone to search through the full set of libraries we offer, and the libraries/:library endpoint which allows for detailed data to be ascertained for a specific library.
+
+ENDPOINTS
+Browsing all libraries on cdnjs
+Getting a specific library on cdnjs
+Getting a specific version for a library on cdnjs
+Fetch details about the cdnjs file extension whitelist
+Fetch basic statistics for cdnjs
+Error responses from the cdnjs API
+Browsing all libraries on cdnjs
+
+The /libraries endpoint will return a JSON object with three top-level properties.
+
+This API endpoint can also be used to search cdnjs for libraries, by making use of the optional search URL query parameter.
+
+The cache lifetime on this endpoint is six hours.
+
+Query Parameters
+PARAMETER	TYPE	REQUIRED	DESCRIPTION
+search	string	optional	
+
+The value to use when searching the libraries index on cdnjs.
+
+Libraries will not be ranked by search relevance when they are returned, they will be ranked using the same ranking as when no search query is provided.
+
+This ranking is done by Algolia and is primarily based on the number of stars each library's associated GitHub repo has.
+
+
+fields	comma-separated string	optional	
+
+Provide a comma-separated string of fields to return in each library object from the cdnjs Algolia index.
+
+name and latest will always be present in every object. Any field requested that does not exist will be included in each object with a null value.
+
+Currently, the following fields (case-sensitive) are published in the Algolia index for each library and can be requested via this parameter: filename, description, version, keywords, alternativeNames, fileType, github, objectID, license, homepage, repository, author, originalName, sri.
+
+The available fields are based on the SearchEntry structure in

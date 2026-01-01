@@ -1,0 +1,27 @@
+Jitsu ⚡ ⚡ Learn how Investing.com uses Jitsu to move data faster Learn more Product Resources Customers Pricing Star 3.4k Sign In Capture Event Data into Your Stack Jitsu is the fastest, most durable way to collect event data from every source - web, app, email, chatbot, CRM - into your data warehouse. 100% open-source. Purpose built, secure and ready in minutes. Get Started Book a demo Free for up to 200k events No credit card required Backed by Trusted by the best industry leaders PandaDoc PandaDoc Read our Customers Stories What Jitsu Can do HTML React <html>
+    <head>
+        <script async src="https://your-jitsu-domain.com/p.js"></script>
+    </head>
+</html> Collect data in a snap Implementation = add a Tag. That’s it. That’s the entire setup. This is the same type of anyone-can-do-it magic found in Google Analytics and Segment. Learn more Events Connectors CRM Analytics Unified data without vendor lock-in Make your data warehouse the single source of truth for your data. Jitsu is tailor-made for delivering the data to data warehouses as fast as possible. What is warehouse-first Website App API file_type_mysql Realtime event streaming Stream user behavioral data from your apps to your warehouse of your choice in real-time . Have your data ready for analysis in minutes, not hours. Learn more function.js export default async function(event, { log, props, store }) {
+  if (event.type === "identify") {
+    if (await store.set(`signup/${event.traits.email}`)) {
+      log(`User ${event.traits.email} already signed up`);
+    } else {
+      await store.set(`signup/${event.traits.email}`, true);
+      await fetch(`https://slack.com/api/chat.postMessage`, {
+        method: "POST",
+        body: JSON.stringify({
+          token: props.SLACK_TOKEN,
+          channel: props.CHANNEL_ID,
+          text: `Hooray! We have new user ${event.traits.email}`
+        })
+      });
+    }
+  }
+} Infinite Developer Flexibility Modify, filter or augment events before it is stored in your warehouse with Jitsu Functions . The functions are executed in a Javascript runtime environment, which provides access to the vast ecosystem of Javascript tools, such as npm packages, libraries, and key-value storage. Learn more about Jitsu Functions Implement Jitsu in 3 easy steps 01 Capture As easy as adding a Google Analytics Tag. Capture events from your site, your app, and everywhere else your customers engage. ./index.html <script 
+ async
+ src="https://data.yourcompany.com/p.js">
+</script> 02 Store Use a data warehouse for maximum autonomy and control. Share data with anyone in any team. file_type_mysql 03 Discover Unlimited flexibility to understand user behaviour, engagement and experience. Get and send trusted data everywhere it needs to go --get signup page views in the last day
+select * from events where
+  context_page_path = '/signup' and
+  timestamp > now() - interval '1 day' Get Started Talk to us Other features Open Source Jitsu is 100% open source (MIT license) and self-hostable. Deploy it on your own infrastructure or let us run it for you. Learn more Automatic User Identity Jitsu automatically constructs a real-time identity graph that augments your data incrementally in real-time as new information is revealed and uncovered. No complex SQL query matching needed. Learn more Clickhouse Included Use your data warehouse (Snowflake, Big Query, Redshift, Postgres, MySQL) or the one we include for free (Clickhouse). Learn more Custom Domains Minimize ad-blocker impact on understanding your users and their intent. Deploy Jitsu on your own subdomain. Learn more © Jitsu Labs, Inc Get Started Talk to us Backed by Features Realtime Event Streaming User Identity Stitching Custom Domains Developers Functions API Documentation Github Segment API Compatibility Company Pricing Terms of Services Privacy Policy Security and Compliance Community Slack Contact Us

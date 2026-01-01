@@ -1,0 +1,173 @@
+ DataTables
+ 
+ Editor
+Manual Download Login / Register 
+Search...
+ 
+All-in-one solution for upload. Process and transform files with AI capabilities. Get started.
+www.filestack.com
+Ads by EthicalAds
+Advanced interactive data grid
+for your HTML tables
+Cloud data
+CRM
+HTML tables
+internal data
+support system
+data collections
+inventory lists
+medical records
+monitoring data
+logging systems
+network monitors
+IT systems
+finance data
+HR team
+Browser NPM
+1 Include these two files 
+CSS
+JS
+2 Initialise your DataTable: 
+1
+	
+let table = new DataTable('#myTable');
+3 You get a fully interactive table 
+This table makes use of Responsive and ColumnControl.
+
+Full Getting Started Guide
+
+10
+25
+50
+100
+ entries per page
+Search:
+Name
+	
+Position
+	
+Office
+	
+Age
+
+Airi Satou	Accountant	Tokyo	33
+Angelica Ramos	Chief Executive Officer (CEO)	London	47
+Ashton Cox	Junior Technical Author	San Francisco	66
+Bradley Greer	Software Engineer	London	41
+Brenden Wagner	Software Engineer	San Francisco	28
+Brielle Williamson	Integration Specialist	New York	61
+Bruno Nash	Software Engineer	London	38
+Caesar Vance	Pre-Sales Support	New York	21
+Cara Stevens	Sales Assistant	New York	46
+Cedric Kelly	Senior JavaScript Developer	Edinburgh	22
+
+Name
+	
+Position
+	
+Office
+	
+Age
+Showing 1 to 10 of 57 entries
+«‹123456›»
+Examples
+Manual
+Reference
+Extensions
+Plug-ins
+Blog
+Forums
+Support
+FAQs
+Download
+Purchase
+Advanced tables, instantly
+
+DataTables is a Javascript HTML table enhancing library. It is a highly flexible tool, built upon the foundations of progressive enhancement, that adds all of these advanced features to any HTML table.
+
+Pagination
+Previous, next and page navigation.
+Instant search
+Filter results by text search.
+Multi-column ordering
+Sort data by multiple columns at once.
+Use your preferred framework
+Integrations for React and Vue.
+Easily theme-able
+DataTables default, Bootstrap 3/4/5, Bulma and Semantic UI.
+Wide variety of extensions:
+Editor, Buttons, Responsive and more.
+Mobile friendly
+Tables adapt to the viewport size.
+Fully internationalisable
+Easily translate DataTables into multiple languages.
+Free open source software
+MIT license! Commercial support.
+And more - see the full example list...
+You're in great company
+
+DataTables is used by people at these fine companies.
+
+Create customised, editable tables in minutes with Editor for DataTables
+
+Save your time writing yet another CRUD application - Editor is a premium extension created to produce complex, fully editable tables that take full advantage of all of the features of DataTables.
+
+Learn More About Editor
+
+What's new?
+
+The latest news from the DataTables blog and around the web.
+
+Survey Results
+21st Oct 2025
+
+If you visited this site during the period 19th September to 6th October, you'll have seen a banner at the top of each page asking you to take part in ...
+
+Using Cloudflare Turnstile in Editor
+10th Oct 2025
+
+If you visited the DataTables website over the last few weeks, you will have noticed that I ran a survey asking for feedback about DataTable, in order to help plot ...
+
+Running a survey with Editor
+24th Sep 2025
+
+Recently, you might have noticed the banner at the top of the DataTables pages, entreating you to fill in a survey about how you use DataTables. If you haven't filled ...
+
+DataTables Column Highlighter
+4th Sep 2025
+
+A fantastic addition to the posibilities DataTables provides, Evotec have published an extension for DataTables which provides cell highlighting with complex logic.
+
+Editor 2.5 and ColumnControl 1.1
+17th Aug 2025
+
+I'm delighted to announce the side-by-side release of Editor 2.5.0 and ColumnControl 1.1.0. Both are progression releases, building on the solid foundation of what has gone before. They each introduce ...
+
+Outage - post incident review
+30th Jul 2025
+
+On 29th July 2025, the DataTables.net site had a major outage as a result of an attack. This took out the main site with its examples and documentation, the support ...
+
+Pandas DataFrames to DataTable
+30th Jun 2025
+
+df2tables is a pandas.DataFrame to DataTable converter for Python.
+
+Landing page demo breakdown
+18th Jun 2025
+
+The DataTables landing page has an example table that demonstrates a range of the capabilities that the software has. The initialisation code for this example is quite interesting and I ...
+
+Themes with DataTables
+
+If you are looking for a quick way of creating stylish looking tables, integrated with the rest of your site, then there are a number of styling kits available which use DataTables.
+
+DataTables Blog Around The Web
+
+ Releases (RSS)  Blog (RSS)  BlueSky
+
+DataTables
+
+DataTables designed and created by SpryMedia Ltd.
+© 2007-2025 MIT licensed. Privacy policy. Supporters.
+SpryMedia Ltd is registered in Scotland, company no. SC456502.

@@ -1,0 +1,24 @@
+Zimbra
+Sign In
+Username  Password
+Show
+Sign In
+ Stay signed in
+Gleymt lykilorð? | Leiðbeiningar | Skilmálar
+Web App Version
+Default
+Classic
+Modern
+ 
+×
+
+Modern
+The Modern Web App delivers a responsive experience across all your devices and integrates with many popular apps.
+
+Classic
+The Classic Web App is familiar to long-time Zimbra users. It delivers advanced collaboration and calendar features popular with power users on Desktop web browsers.
+
+Default
+This will sign you in according to your saved Preference. In the Modern Web App, set this preference in Settings > General > Zimbra Version. In Classic, set it in Preferences > General > Sign In.
+
+Copyright © 2005-2025 Synacor, Inc. All rights reserved. "Zimbra" is a registered trademark of Synacor, Inc.

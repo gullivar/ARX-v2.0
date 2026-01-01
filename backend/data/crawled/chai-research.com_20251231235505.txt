@@ -1,0 +1,222 @@
+Strategic Round II
+Complete
+
+READ MORE 
+RESEARCH
+NEWS
+CLUSTER
+JOBS
+CHAI: Chat + AI
+Quant traders building AI Platform
+Palo Alto, CA
+
+Strategic Round II Complete: CHAI AI secured additional funding rounds, bringing its total investment to date to over $55M dollars to expand both compute and talent acquisition.
+
+READ MORE  ROADMAP 
+[ Daily Active Users Growth ]
+Incentives & Scale
+RESEARCH
+
+All platforms work best with the right incentives. At CHAI, we've tried paying developers, but the biggest motivators remain high-quality feedback, recognition, and the satisfaction of building a popular LLM. Our scale enables the critical mass of feedback and models needed to create strong feedback loops.
+
+ 
+OCT 2022
+APR 2023
+OCT 2023
+APR 2024
+OCT 2024
+APR 2025
+NOV 2022
+CHAI Launches on App Store
+
+We were the first to launch a consumer AI platform, allowing users to create their own ChatAIs—ahead of Character AI and ChatGPT.
+
+FEB 2023
+Deploys First In-House 6B LLM
+
+Open-sourced LLMs no longer satisfied our users' requirements, as the LLMs needed to be adapted for social and engagement purposes. We saw a +10% engagement boost from our own in-house model.
+
+MAR 2023
+Deploys Best-of-4 Reward Model
+
+We continued to iterate on RLHF (Reinforcement Learning with Human Feedback), training a reward model directly on user signals. This led to a huge boost in our day 30 user retention.
+
+APR 2023
+Larger Model Upgrade - 13B Architecture
+
+We found that a bigger model leads to better depth, therefore better retention. We re-trained our LLM from scratch and saw another +10% engagement boost.
+
+MAY 2023
+PPO Model Deployed
+
+Using Proximal Policy Optimization, a reinforcement learning technique, we optimized our base foundation model to decrease the probability a chat session ends.
+
+JUNE 2023
+Deploys Reward Model XL
+
+Continued to scale up our reward model. Trained with 100 million signals to decrease user retry rate and increase chat session length.
+
+OCT 2023
+Efficient Inference & Custom GPU Orchestration
+
+Off-the-shelf load balancing and vLLM were no longer sufficient to support our user base at 500K DAU scale. We implemented custom CUDA kernels together with our own GPU orchestration system.
+
+NOV 2023
+Increased GPU Reservation
+
+We hit a scaling issue due to high demand from our users. We reserved an additional 1,000 A100 GPUs from our provider to scale reliably.
+
+NOV 2023
+Deployed Model Blending
+
+CHAI invented model blending—ensembling different LLMs trained on different targets at the conversation level. This outperformed GPT-3 in user retention.
+
+DEC 2023
+BO8 Reward Model Deployed
+
+With increased cluster capacity, we implemented Best-of-8 rejection sampling, utilizing our upgraded reward model to its full extent.
+
+MAR 2024
+DPO Model Deployed
+
+Utilizing Direct Preference Optimization with user preference datasets, we boosted engagement by 20%. The performance stacked well with our existing reward model.
+
+AUG 2024
+Upgraded All Existing Blends to DPO
+
+Building on the success of DPO, we iterated on optimization targets and data selection, and successfully deployed DPO across all production blends.
+
+SEP 2024
+13B Reward Model Deployed
+
+With increased GPU capacity due to cluster upgrades, we were able to serve larger reward models for all users.
+
+OCT 2024
+10x 24B Models Deployed
+
+We upgraded our existing production blend to 24B models. With blending enabled, we saw a surge in daily active users and day 30 retention.
+
+JAN 2025
+Model Mesh Orchestrator Deployed
+
+To support over 1M Daily Active Users, Model Mesh—an in-house cluster orchestration platform—was deployed to handle multi-cluster, multi-GPU-type serving of hundreds of LLMs in production.
+
+MAR 2025
+GRPO Deployed
+
+GRPO (Group Relative Policy Optimization) is an upgrade from Direct Preference Optimization, resulting in a +15% engagement improvement.
+
+OCT 2024
+10x 24B Models Deployed
+
+We upgraded our existing production blend to 24B models. With blending enabled, we saw a surge in daily active users and day 30 retention.
+
+[ Product ]
+Building Platform for Social AI
+
+We believe in platforms. There is huge demand for AI that is not only factually correct but also entertaining and social.
+
+  
+IOS  ANDROID 
+CHAI WEB 
+Coming Soon...
+[ GPU Cluster ]
+1.4 EXAFLOPS GPU CLUSTER
+FOR AI INFERENCE
+CLUSTER
+
+At CHAI, we serve hundreds of in-house trained LLMs across several GPU chip types from both AMD and Nvidia. While open-source solutions such as vLLM work well for simple workloads, we've found that we can further improve upon vLLM by almost an order of magnitude through several optimizations, such as custom kernels and compute-efficient attention approximations.
+
+NUMBER OF GPUS
+5000 GPUs
+NUMBER OF TOKENS SERVED
+1.2T Tokens / Day
+NUMBER OF UNIQUE LLMS SERVED
+51K LLMs
+CLUSTER COMPUTE PERFORMANCE
+>1.4 Exaflops
+NVIDIA A100
+NVIDIA L40S
+AMD Mi325x
+AMD Mi300x
+Current openings
+JOBS
+Who we are
+NEWS
+William Beauchamp
+
+Founder / CEO
+
+Cambridge University
+
+Jacqueline Zhu
+
+Chief of Staff
+
+Harvard University
+
+Tom Lu
+
+AI Researcher
+
+Cambridge University
+
+Ex-Quant
+
+Christie-Carol Beauchamp
+
+Mobile Engineer
+
+ex-Meta
+
+Robert Irvine
+
+AI Researcher
+
+Cambridge University
+
+Alexandre Daoud
+
+Backend AI Engineer
+
+Cambridge University
+
+Vineet Mudupalli
+
+AI Engineer
+
+Cambridge University
+
+ex-Quant
+
+Zongyi Liu
+
+AI Researcher
+
+Kaggle Master
+
+ex-Quant
+
+Nischay Dhankhar
+
+AI Researcher
+
+3x Kaggle Grandmaster
+
+Ebony Zhang
+
+AI Researcher
+
+Cambridge University
+
+ATLAS - LHC - CERN
+
+Try Chai On
+iOS Android
+Resources
+App EULA Privacy Policy Support Unsubscribe
+Company
+Wikipedia Careers Research Cluster Roadmap Contact
+Socials
+LinkedIn X (Twitter) Reddit YouTube Hugging Face Facebook Instagram
+© 2025 CHAI RESEARCH CORP. ALL RIGHTS RESERVED

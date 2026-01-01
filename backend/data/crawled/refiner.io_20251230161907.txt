@@ -1,0 +1,359 @@
+IN-APP SURVEY SOFTWARE
+Get spot-on insights from your users with perfectly timed in-app surveys
+
+Run highly customizable microsurvey campaigns with advanced user targeting for segmented & specific insights. Achieve high response rates, discover invaluable user feedback, and make winning product decisions with a dedicated in-app survey software.
+
+Start free trial
+Request a demo
+
+TRUSTED BY HUNDREDS OF FAST GROWING STARTUP AND GLOBAL ENTERPRISES
+
+Unlike generic survey tools, Refiner was designed specifically to run in-app surveys in web & mobile apps
+Web App Surveys
+
+Display a prompt within a web app or website. Target users based on traits and behavior. Great for:
+
+NPS & CSAT surveys
+Product feature research
+User profiling
+In-app messages
+
+Learn more about web app surveys
+Mobile App Surveys
+
+Display a prompt in a native mobile app (iOS, Android, React Native, or Flutter). Target users based on traits and behavior. Great for:
+
+NPS & CSAT surveys
+Onboarding surveys
+Product feature research
+In-app messages
+
+Learn more about mobile app surveys
+Go beyond basic surveys
+
+Launch fully customizable microsurveys tailored to your needs: streamline customer experience, identify product weaknesses, recruit users, reduce churn, increase in-app upsells, and more.
+
+Quality survey results
+
+If you don’t target the right users, results won’t be usable. Refiner surveys can be configured really precisely to get great results leading to better decisions and quicker growth.
+
+Beautiful surveys everywhere
+
+Clunky surveys are a thing of the past. Our surveys look great on all platforms, with advanced design options to multiply your response rate and get more reliable insights.
+
+Don’t just take our word for it
+
+Hundreds of happy SaaS, Fintech, Edtech & Marketplaces are using Refiner to improve their product and accelerate growth.
+
+With its Segment integration, Refiner makes it super easy to survey fragmented user segments easily based on properties and/or events and sync results with our data warehouse for further analysis. Setting up Refiner was a child’s play and creating new surveys is a matter of minutes. 10/10 points.
+
+Alexander Schneekloth
+
+Co-Founder
+
+We discovered Refiner while using another SaaS product and we instantly fell in love with their UI / UX. So we gave it a go and were collecting user feedback for SnapShooter in no time. We are using Refiner to collect insights about how our users discovered us. The Slack notifications when someone completes a survey are a great addition to keep the team informed.
+
+Simon Bennett
+
+Founder
+
+We were looking for an in-app survey solution for our product that could flawlessly be synced with Segment. Refiner is the only solution we found that addresses data integrations as a main feature and not as an afterthought. Refiner is an incredibly flexible tool that can be used by nearly every team at Livestorm: growth and marketing, product, customer experience and support, and even sales.
+
+Thibaut Davoult
+
+Head of Growth
+
+We looked at various NPS solutions but Refiner was the only one which was built from the ground up to meet the needs of SaaS companies. Refiner gives us complete flexibility and their surveys match our UI/UX 100%.
+
+Mathieu Le Roux
+
+Voice of the Customer Manager
+
+Refiner was the only in-app survey tool that met all our requirements. Its focus on in-app surveys provides a streamlined feature set that fits our needs perfectly. We appreciate the easy integration via Google Tag Manager, allowing us to use data from our data layer and trigger surveys with GA events. Thanks to the Zapier integration, we seamlessly integrate Refiner into our automated feedback processing workflows.
+
+Fabian Lauener
+
+Lead Researcher Private Business
+
+We love using Refiner to automatically gather NPS survey results and get critical feedback we need from our trial users so we can constantly improve our word of mouth flywheel. With its Segment and Zapier integrations it fits right into our product led growth tech stack. Easy to install, tons of value and zero hassle.
+
+Paul Yacoubian
+
+Founder, CEO
+
+Refiner is a powerful in-app survey tool that allows to precisely target user segments based on our data. We tested several tools before going to Refiner and what made the big difference is that with Refiner every survey answer is directly logged into our database via Segment, and that’s a game changer! Also, the initial integration and setup were seamless and extremely easy. The templates and the ability to customize survey with our own branding and targeting specs is very much appreciated too.
+
+Margaux Reynaud
+
+Product Manager
+
+Refiner is the tool we were searching for to better profile our users, and gather feedback about our products. It’s very easy to set up, comes with a great UX for our users and the team is very reactive.
+
+Javier Escribano
+
+CPO
+
+Refiner changed the way we operate. As a data-driven online service, we needed a way to collect feedback unintrusively at scale. Their tool helped us reach this goal in no time. Bonus : it fits super well in our growth stack (Segment, Customer.io).
+
+Grégoire d’Aboville
+
+Head of Growth
+
+Super easy two-way integration with Segment and great support in setting up and launching our in-app surveys, made it a success!
+
+Coralie Blanc
+
+CRM Lead
+
+With its Segment integration, Refiner makes it super easy to survey fragmented user segments easily based on properties and/or events and sync results with our data warehouse for further analysis. Setting up Refiner was a child’s play and creating new surveys is a matter of minutes. 10/10 points.
+
+Alexander Schneekloth
+
+Co-Founder
+
+We discovered Refiner while using another SaaS product and we instantly fell in love with their UI / UX. So we gave it a go and were collecting user feedback for SnapShooter in no time. We are using Refiner to collect insights about how our users discovered us. The Slack notifications when someone completes a survey are a great addition to keep the team informed.
+
+Simon Bennett
+
+Founder
+
+We were looking for an in-app survey solution for our product that could flawlessly be synced with Segment. Refiner is the only solution we found that addresses data integrations as a main feature and not as an afterthought. Refiner is an incredibly flexible tool that can be used by nearly every team at Livestorm: growth and marketing, product, customer experience and support, and even sales.
+
+Thibaut Davoult
+
+Head of Growth
+
+We looked at various NPS solutions but Refiner was the only one which was built from the ground up to meet the needs of SaaS companies. Refiner gives us complete flexibility and their surveys match our UI/UX 100%.
+
+Mathieu Le Roux
+
+Voice of the Customer Manager
+
+Refiner was the only in-app survey tool that met all our requirements. Its focus on in-app surveys provides a streamlined feature set that fits our needs perfectly. We appreciate the easy integration via Google Tag Manager, allowing us to use data from our data layer and trigger surveys with GA events. Thanks to the Zapier integration, we seamlessly integrate Refiner into our automated feedback processing workflows.
+
+Fabian Lauener
+
+Lead Researcher Private Business
+
+We love using Refiner to automatically gather NPS survey results and get critical feedback we need from our trial users so we can constantly improve our word of mouth flywheel. With its Segment and Zapier integrations it fits right into our product led growth tech stack. Easy to install, tons of value and zero hassle.
+
+Paul Yacoubian
+
+Founder, CEO
+
+Refiner is a powerful in-app survey tool that allows to precisely target user segments based on our data. We tested several tools before going to Refiner and what made the big difference is that with Refiner every survey answer is directly logged into our database via Segment, and that’s a game changer! Also, the initial integration and setup were seamless and extremely easy. The templates and the ability to customize survey with our own branding and targeting specs is very much appreciated too.
+
+Margaux Reynaud
+
+Product Manager
+
+Refiner is the tool we were searching for to better profile our users, and gather feedback about our products. It’s very easy to set up, comes with a great UX for our users and the team is very reactive.
+
+Javier Escribano
+
+CPO
+
+In-app surveys that will get you more & better responses
+
+Without enough responses, insights don’t reflect targeted users accurately. Refiner is made to get a high response rate.
+
+Multi-channel: Display surveys in-app, on web or mobile, but also with email and link surveys.
+Customizable: Surveys seamlessly integrated into your product and experience.
+Advanced targeting: Make sure surveys are triggered only for the right users and at the right time.
+
+Explore in-app surveys
+1-click integrations to have survey responses in your favorite tools
+
+There’s so many things to do with survey responses, but only if your survey software has integrations to the tools you use.
+
+Customer data platforms: Segment & Rudderstack
+Product analytics: Amplitude & Mixpanel
+Messaging platforms: Customer.io & Userlist
+CRMs: HubSpot & Salesforce
+Automation platforms: Zapier & Make
+
+See all integrations
+In-depth insights at your fingertips
+
+Reporting is often too limited or too complex. Refiner strikes the right balance to show you valuable insights without any manual work.
+
+Reporting dashboard that shows everything you need at a glance.
+NPS, CSAT & CES ratings in timeline charts to see how your efforts bear fruit.
+Segmented results based on survey responses or data from your customer data platform or database.
+Automatic response tagging with AI to access specific response lists quickly and detect hidden patterns.
+
+Learn about reporting
+Thriday uses Refiner to improve their platform during beta and gets a whopping 57.7% response rate
+
+“If we see something that needs some work, then we’ll go on and do a couple of sprints on adding some more functionality or ironing out some little bugs or whatever it is we discover from customer feedback. And then once we’ve implemented those changes, we can then go and see how it changed the customer effort score to know we improved the feature in a measurable way.”
+
+Justin Bohlmann
+
+Head of Growth
+
+Read the customer story
+Customer satisfaction & product research surveys in one tool
+
+Survey software is often either focused on customer satisfaction or product research. Refiner isn’t taking a side. It’s a great fit for all teams.
+
+For Product Teams
+
+Measure PMF, churn, feature usage, engagement, adoption, conversion, or find strengths & weaknesses.
+
+Read more
+For Marketing Teams
+
+Set up surveys to get more reviews, upsell opportunities, or insights about attribution, pricing, and competitors among others.
+
+Read more
+For Customer Success Teams
+
+Leverage NPS, CSAT & CES to improve the performance of customer service, proactively contact unhappy customers, or find high-value accounts.
+
+Read more
+Frequently Asked Questions
+What is Refiner and who is it for?
+
+Refiner is in-app survey software for web and mobile apps, helping product and CX teams at SaaS and mobile app companies collect contextual user feedback that drives decisions.
+
+Where can I run surveys and which platforms are supported?
+
+Refiner runs surveys inside your web app, inside native mobile apps with SDKs for iOS, Android, and React Native, or outside the product using hosted link and email surveys.
+
+How does targeting and triggering work in Refiner?
+
+With Refiner, you can target users by traits, behavior, device, language, or prior responses, then trigger surveys after events or delays so they appear at the right moment in the journey.
+
+What integrations and workflows are available?
+
+Refiner lets you sync data and automate actions with a number of integrations and an API. Teams commonly connect Slack or Microsoft Teams for alerts, use Zapier and Segment for data flows, and pull responses via the API.
+
+Is Refiner secure and compliant?
+
+Yes. Refiner has a SOC 2 Type II audit and provides GDPR, CCPA, and HIPAA information and support. Details are published in the legal and security pages.
+
+What’s included in the free trial?
+
+Our free trial is designed to let you experience the full value of Refiner and confirm technical fit. You get access to all survey features and integrations. Your free trial will stay active for 30 days and is capped at 100 survey responses. We’ll be happy to extend your trial period free of charge if needed.
+
+Will we actually get higher response rates with in-app surveys?
+
+Refiner focuses on in-app delivery, customization, and precise targeting, which helps lift response rates. A customer case study reports a 57.7% response rate during beta. Results vary, but this is the type of outcome Refiner is designed to enable.
+
+Try Refiner for free
+
+Getting started is easy and takes a couple of minutes only. No credit card required. No hidden fees.
+
+Start free trial
+Request a demo
+Product
+Build surveys
+Survey Templates
+Customized Surveys
+On-brand Design
+Collect responses
+In-App Surveys
+Mobile Surveys
+Website Surveys
+Email Surveys
+Survey Links
+Uncover insights
+Reporting Dashboard
+User Segmentation
+Take action
+Team Alerts (Slack, Email, ...)
+Integrations
+Solutions
+Refiner for ...
+Product Teams
+Customer Success
+Marketing & Growth
+Popular Use Cases
+Net Promoter Survey (NPS®)
+Customer Effort Score (CES)
+Customer Satisfaction (CSAT)
+Product Market Fit (PMF)
+User Research
+How others are using Refiner
+
+We talked with some of our customers about why they chose Refiner, how they integrated it with their stack, what do they use Refiner for, and the results they’ve gotten.
+
+Read customer stories
+Integrations
+Pricing
+Resources
+Support
+Contact Support
+Documentation
+Request a demo
+System Status
+Product
+Survey Templates
+Customer Stories
+Integrations
+Product Updates
+Microsurvey Database
+NPS Cheatsheet
+Compliance
+Security Statement
+GDPR
+CCPA
+SOC 2 Type II
+HIPAA
+Company
+About Us
+Blog
+Contact Us
+Facts
+Sign in
+Request a demo
+Start free trial
+Support
+Contact Support
+Documentation
+System Status
+Product
+In-app Microsurveys
+NPS Survey Tool
+CSAT Surveys
+Product-Market Fit Surveys
+User Research Survey
+Pricing
+Product Updates
+Blog
+Best NPS Tools
+Product Feedback Tools
+How to collect In-app Feedback?
+Mobile Survey Tools
+In-App Messaging Tools
+What are In-app Surveys?
+What are Product Feedback Surveys?
+Product Survey Tools
+What are Microsurveys?
+Compare Refiner
+Satismeter Alternative
+Sprig Alternative
+Survicate vs. Refiner
+Hotjar Surveys Alternative
+GetFeedback Alternative
+Delighted Alternative
+Qualtrics Alternative
+Formbricks Alternative
+Screeb Alternative
+Qualaroo Alternative
+Wootric Alternative
+Iterate Alternative
+Company
+About us
+Contact us
+Security Statement
+SOC 2 Type II
+GDPR
+HIPAA
+Company facts
+Terms of Service
+Privacy Policy
+
+Net Promoter® and NPS® are registered trademarks of Bain & Company, Inc., Satmetrix Systems, Inc., and Fred Reichheld. Net Promoter Score℠ and Net Promoter System℠ are service marks of Bain & Company, Inc., Satmetrix Systems, Inc., and Fred Reichheld.
+
+© 2019 - 2024 Refiner. All rights reserved

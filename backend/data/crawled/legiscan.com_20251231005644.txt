@@ -1,0 +1,179 @@
+Jump to Navigation
+Main menu
+Register
+About
+Features
+Datasets
+LegiScan API
+Bill Tracking
+Search
+VOTE!
+Login
+
+Regardless if you need to focus on a single state, track any of the bills across the nation or are looking to create your own custom legislative data application, LegiScan provides the services that bring all legislative information together into a single uniform interface. With over two decades of servicing clients from public agencies, non-profit associations and national corporations; LegiScan has developed the tools and technology to save time and enhance analysis and communication in the government affairs workflow.
+
+Awareness of legislation and having information about the laws that affect daily life for all Americans is more important than ever. Start Now!
+
+Free Registration	Price List
+
+LegiScan GAITS
+
+Turnkey legislative tracking: Research to identify bills, Monitor personalized bill lists, Report and track bill status
+OneVote
+	
+OneVote+
+	
+GAITS Pro
+
+
+
+Public tracking service for concerned individuals following up to 50 bills from the states and Congress. Personal monitoring list with saved searches from the national legislative search engine and private RSS feeds to stay informed. Receive monitored email alerts, create simple dynamic reports sharable with friends and colleagues.
+
+	
+
+Introductory subscription service for more active individuals that require tracking legislation from multiple states or expanded to unlimited monitoring list slots. Gaining additional user tracking data fields and simple bill classification groups. Generate PDF reports and alerts for easier printing and sharing.
+
+	
+
+Unlimited centralized monitoring for single or multiple users. Custom issue management and expanded tracking information including executive summary, regional assignments, and the Insights browser. Advanced dynamic reporting available in PDF, Word & Excel along with daily monitoring and search email alerts.
+
+
+
+Price:	Forever Free
+Register Now!
+	
+Single State or Congress:	$25/year
+National (50 States & Congress):	$1,000/year
+	
+Single State or Congress:	$100/year
+National (50 States & Congress):	$3,000/year
+
+LegiScan API
+
+The RESTful API into the national legislative database for JSON versions of bill, text, vote and search engine results
+Public API
+	
+Pull API
+	
+Push API
+
+
+
+Public API data service mirroring the OneVote tracking, with access to the full national legislative database and 30,000 queries per month to spend on API data hooks to pull new and updated information as needed. All Dataset and Public API data is licensed under Creative Commons Attribution 4.0 terms.
+
+	
+
+Built on the same user-driven polling interface as the public service, the Pull API subscription service greatly expands the monthly query limit. Designed for specialized projects, and users with narrow scope but higher peak demand. Increasing the monthly query limit to 100,000 and optionally up to 250,000 queries each month.
+
+	
+
+Enterprise replication of the entire national database remotely with updates synchronized every 4 hours, up to every 15 minutes, as data changes. Alternative white label licensing to remove branding and attribution requirements. The Push API is used by LegiScan GAITS, and both publicly & privately powering other third party organization products and services.
+
+
+
+Price:	Forever Free
+Generate Key!
+	
+Single State or Congress:	$1,000/year
+National (50 States & Congress):	$6,000/year
+	
+Single State or Congress:	$2,000/year
+National (50 States & Congress):	$12,000/year
+
+179,246 pieces of legislation being tracked from Congress and fifty state legislatures in the active biennium.
+
+2026 Schedules
+
+Custom Tracking
+Build and control a personalized list of only the bills you are interested in, categorized into user-defined Topic or Client & Issue assignments for grouping, sorting and reporting.
+Email Alerts
+Receive email alerts when new or amended bills match your full text saved searches, and when already monitored bills have hearings, changes or updates, from weekly to daily schedules.
+Dynamic Reporting
+Create reports based on your monitoring list or issue areas that update bill data automatically and can be shared with others, available for all user levels.
+Sample: OneVote, GAITS Pro
+
+Interactive Maps
+Nationwide maps allowing interactive browsing of all legislation being tracked from your master monitoring list or just those tagged with your custom Topic labels.
+Sample: Stance Map, Volume Map
+
+Embed Widgets
+Take the dynamic reports or interactive maps created inside LegiScan and embed them externally in your own public or private website or portals with automatic updates as the data changes.
+PolitiCorps
+Create virtual legislative monitoring groups among colleagues and friends with free OneVote accounts, hold private or public forum discussions on bills as they move through the process.
+National Legislative Search
+
+View Top 50 Searches
+
+State:
+All States
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Washington D.C.
+US Congress
+Select area of search.
+Bill Number:
+Find an exact bill number.
+Full Text Search:
+Search engine query for full text search. [search help]
+ Reset
+US Congress - 119th Congress
+
+Browse / Dashboard / Datasets / Roster / Trends
+AK	AL	AR	AZ	CA	CO	CT	DE	FL	GA
+HI	IA	ID	IL	IN	KS	KY	LA	MA	MD
+ME	MI	MN	MO	MS	MT	NC	ND	NE	NH
+NJ	NM	NV	NY	OH	OK	OR	PA	RI	SC
+SD	TN	TX	UT	VA	VT	WA	WI	WV	WY
+
+DC Council	US Congress
+LegiScan LLC is an impartial and nonpartisan legislative tracking, reporting and data service utilizing LegiScan GAITS and LegiScan API
+
+Contact Us · Terms · Privacy · 800-618-2750

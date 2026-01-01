@@ -1,0 +1,2187 @@
+RPC Endpoints
+Node Snapshots
+Seed Service
+RPC Endpoints
+Fastest, free-est, and privacy first RPC endpoints for 102 blockchains. Connect reliably to Web3 with ease!
+
+Total requests
+
+Last 24 hours
+
+6,416,273,952
+
+Cached requests
+
+Last 24 hours
+
+29.07%
+
+Average req/sec
+
+Last 24 hours
+
+74,262
+
+Current req/sec
+
+Now
+
+71,062
+
+All
+Mainnet
+Testnet
+Cosmos based only
+Blockchain
+nodes
+Requests
+in 24h
+Mainnet
+hard fork
+Mainnet
+endpoint link
+Testnet
+endpoint link
+Ethereum
+49
+6
+
+1,677,190,411
+
+16,272 per second
+
+—
+
+RPC
+
+WS RPC
+
+Beacon API
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Sepolia
+
+Beacon API
+
+Hoodi
+
+RPC
+
+Hoodi
+
+WS RPC
+
+Hoodi
+
+Beacon API
+
+BNB Smart Chain
+12
+
+1,172,536,706
+
+13,923 per second
+
+—
+
+RPC
+
+WS RPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Polygon
+11
+
+710,899,697
+
+9,200 per second
+
+—
+
+Bor RPC
+
+Bor WS RPC
+
+Heimdall RPC
+
+Heimdall WS RPC
+
+Heimdall REST
+
+Amoy
+
+Bor RPC
+
+Amoy
+
+Bor WS RPC
+
+Amoy
+
+Heimdall RPC
+
+Amoy
+
+Heimdall WS RPC
+
+Amoy
+
+Heimdall REST
+
+Sui
+11
+
+455,822,909
+
+6,065 per second
+
+—
+
+RPC
+
+WS RPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Base
+18
+1
+
+338,018,530
+
+3,845 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Avalanche
+13
+
+153,740,900
+
+2,237 per second
+
+—
+
+C-Chain RPC
+
+C-Chain WS RPC
+
+P-Chain RPC
+
+X-Chain RPC
+
+Fuji
+
+C-Chain RPC
+
+Fuji
+
+C-Chain WS RPC
+
+Fuji
+
+P-Chain RPC
+
+Fuji
+
+X-Chain RPC
+
+Arbitrum
+12
+
+151,194,304
+
+1,352 per second
+
+—
+
+One
+
+RPC
+
+One
+
+WS RPC
+
+Nova
+
+RPC
+
+Nova
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Osmosis
+11
+1
+
+146,834,326
+
+1,525 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Injective
+7
+2
+
+139,931,514
+
+815 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+CHAIN STREAM
+
+REST
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+GRPC
+
+Testnet
+
+GRPC-WEB
+
+Testnet
+
+CHAIN STREAM
+
+Testnet
+
+REST
+
+Aptos
+2
+
+112,701,975
+
+1,499 per second
+
+—
+
+REST
+
+Optimism
+12
+1
+
+102,647,114
+
+1,222 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Terra Classic
+7
+1
+
+89,735,180
+
+593 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+FCD
+
+LCD
+
+Sei
+3
+1
+
+87,109,502
+
+723 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+PulseChain
+7
+
+84,883,266
+
+1,152 per second
+
+—
+
+RPC
+
+WS RPC
+
+Beacon API
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+Beacon API
+
+Solana
+12
+
+83,609,046
+
+955 per second
+
+—
+
+RPC
+
+WS RPC
+
+Yellowstone
+
+GRPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+GRPC
+
+Terra
+7
+
+83,602,923
+
+801 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+LCD
+
+dYdX
+8
+
+80,473,484
+
+586 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Linea
+5
+
+53,266,266
+
+638 per second
+
+—
+
+RPC
+
+WS RPC
+
+Beacon API
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Testnet
+
+Sepolia Beacon API
+
+Cronos
+9
+
+50,149,485
+
+756 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Unichain
+6
+
+41,210,741
+
+512 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Sonic
+9
+
+36,560,425
+
+373 per second
+
+—
+
+RPC
+
+WS RPC
+
+Blaze
+
+RPC
+
+Blaze
+
+WS RPC
+
+Blast
+3
+1
+
+33,462,491
+
+409 per second
+
+—
+
+RPC
+
+WS RPC
+
+Gnosis
+7
+2
+
+28,028,131
+
+403 per second
+
+—
+
+RPC
+
+WS RPC
+
+Beacon API
+
+Chiado
+
+RPC
+
+Chiado
+
+WS RPC
+
+Chiado
+
+Beacon API
+
+Kava
+5
+
+27,892,720
+
+265 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Coreum
+2
+
+26,724,483
+
+405 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+opBNB
+8
+1
+
+26,609,929
+
+300 per second
+
+—
+
+RPC
+
+WS RPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Cosmos
+8
+
+25,858,700
+
+214 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Bitcoin
+7
+
+25,288,275
+
+81 per second
+
+—
+
+RPC
+
+Testnet
+
+RPC
+
+Oraichain
+2
+
+24,262,619
+
+295 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Scroll
+4
+
+22,739,582
+
+294 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Berachain
+9
+
+22,317,309
+
+244 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+Beacon RPC
+
+Bepolia
+
+RPC
+
+Bepolia
+
+WS RPC
+
+Bepolia
+
+Beacon API
+
+Moonbeam
+2
+
+21,979,502
+
+254 per second
+
+—
+
+RPC
+
+WS RPC
+
+Taiko
+3
+1
+
+14,789,761
+
+160 per second
+
+—
+
+RPC
+
+WS RPC
+
+Hoodi
+
+RPC
+
+Hoodi
+
+WS RPC
+
+TRON
+5
+
+14,612,038
+
+190 per second
+
+—
+
+HTTP
+
+Solidity HTTP
+
+EVM
+
+GRPC
+
+Solidity GRPC
+
+Peaq
+2
+
+14,426,192
+
+87 per second
+
+—
+
+Peaq
+
+RPC
+
+Peaq
+
+WS RPC
+
+Agung
+
+RPC
+
+Agung
+
+WS RPC
+
+Mantle
+6
+
+13,521,296
+
+145 per second
+
+—
+
+RPC
+
+WS RPC
+
+Evmos
+8
+
+13,285,834
+
+99 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Testnet
+
+EVM RPC
+
+Testnet
+
+EVM WS RPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+GRPC
+
+Testnet
+
+GRPC-WEB
+
+Testnet
+
+REST
+
+Babylon
+2
+
+13,185,432
+
+72 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Polkadot
+4
+
+11,884,857
+
+101 per second
+
+—
+
+RPC
+
+WS RPC
+
+Chiliz
+6
+1
+
+11,002,251
+
+138 per second
+
+—
+
+RPC
+
+WS RPC
+
+Spicy
+
+RPC
+
+Spicy
+
+WS RPC
+
+Stride
+2
+
+10,671,348
+
+173 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Neutron
+2
+
+10,176,243
+
+166 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Fraxtal
+5
+1
+
+10,120,373
+
+118 per second
+
+—
+
+RPC
+
+WS RPC
+
+Hoodi
+
+RPC
+
+Hoodi
+
+WS RPC
+
+Dymension
+4
+
+9,691,880
+
+125 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Testnet
+
+EVM RPC
+
+Testnet
+
+EVM WS RPC
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+GRPC
+
+Testnet
+
+GRPC-WEB
+
+Testnet
+
+REST
+
+HAQQ
+4
+
+9,415,311
+
+100 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Celestia
+6
+
+9,202,670
+
+78 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Chihuahua
+2
+
+8,641,241
+
+89 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Kujira
+2
+
+8,332,886
+
+111 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Axelar
+2
+
+7,900,617
+
+75 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Metis
+5
+1
+
+6,880,714
+
+73 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Moonriver
+2
+
+6,846,921
+
+89 per second
+
+—
+
+RPC
+
+WS RPC
+
+Soneium
+4
+
+6,653,432
+
+110 per second
+
+—
+
+RPC
+
+WS RPC
+
+Minato
+
+RPC
+
+Minato
+
+WS RPC
+
+Juno
+2
+
+5,934,722
+
+52 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Akash Network
+2
+
+5,924,546
+
+54 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Cronos PoS Chain
+2
+
+5,322,319
+
+21 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Kusama
+2
+
+4,591,735
+
+59 per second
+
+—
+
+RPC
+
+WS RPC
+
+Elys Network
+4
+
+3,290,763
+
+37 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Testnet
+
+RPC
+
+Testnet
+
+WS RPC
+
+Testnet
+
+GRPC
+
+Testnet
+
+GRPC-WEB
+
+Testnet
+
+REST
+
+Fetch.ai
+2
+
+3,227,245
+
+12 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+AtomOne
+2
+
+3,101,617
+
+24 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Celo
+2
+1
+
+2,826,008
+
+21 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sentinel
+2
+
+2,521,461
+
+6 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Tenet
+2
+
+2,109,926
+
+30 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Stargaze
+2
+
+2,042,022
+
+6 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Nibiru
+2
+
+1,962,727
+
+11 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Somnia
+2
+
+1,929,085
+
+21 per second
+
+—
+
+RPC
+
+WS RPC
+
+IRISnet
+2
+
+1,895,391
+
+19 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Saga
+2
+
+1,760,198
+
+22 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+AssetMantle
+2
+
+1,711,945
+
+3 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+OmniFlix Network
+2
+
+1,677,144
+
+66 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Teritori
+2
+
+1,643,603
+
+13 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Avail
+4
+
+1,540,439
+
+7 per second
+
+—
+
+RPC
+
+WS RPC
+
+Turing
+
+RPC
+
+Turing
+
+WS RPC
+
+Persistence
+2
+
+1,260,782
+
+13 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Lava Network
+2
+
+1,112,766
+
+12 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Nolus
+2
+
+1,108,269
+
+6 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Sifchain
+2
+
+1,107,571
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Rebus
+2
+
+1,076,159
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Starknet
+4
+
+912,968
+
+6 per second
+
+—
+
+RPC
+
+WS RPC
+
+Sepolia
+
+RPC
+
+Sepolia
+
+WS RPC
+
+Comdex
+2
+
+852,932
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Quicksilver
+2
+
+837,460
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Shentu
+2
+
+707,370
+
+10 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+BitCanna
+2
+
+689,149
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Regen
+2
+
+650,216
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Syscoin
+4
+
+547,290
+
+7 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+Tanenbaum
+
+EVM RPC
+
+Tanenbaum
+
+EVM WS RPC
+
+RIZON
+2
+
+332,093
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+XPLA
+2
+
+230,914
+
+4 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Passage
+2
+
+222,652
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Dash
+2
+
+209,239
+
+0 per second
+
+—
+
+RPC
+
+Manta
+2
+
+205,235
+
+0 per second
+
+—
+
+Atlantic
+
+RPC
+
+Atlantic
+
+WS RPC
+
+Cheqd
+2
+
+176,337
+
+2 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Dora Factory
+2
+
+171,533
+
+2 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Celer Network
+2
+
+96,680
+
+1 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Lumera
+2
+
+48,452
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Bitway
+2
+
+40,938
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Warden
+2
+
+36,297
+
+0 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+REST
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+PIVX
+2
+
+33,374
+
+0 per second
+
+—
+
+RPC
+
+Firo
+2
+
+31,817
+
+0 per second
+
+—
+
+RPC
+
+Analog
+2
+
+21,353
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+Medibloc
+1
+1
+
+17,134
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+GRPC
+
+GRPC-WEB
+
+REST
+
+Bahamut
+2
+
+281
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+0G
+2
+
+53
+
+0 per second
+
+—
+
+EVM RPC
+
+EVM WS RPC
+
+Beacon RPC
+
+Aurora
+1
+
+0
+
+0 per second
+
+—
+
+RPC
+
+WS RPC
+
+DeFiChain
+2
+
+0
+
+0 per second
+
+—
+
+RPC
+
+Fastest, free-est, and privacy first RPC endpoints for 102 blockchains. Connect reliably to Web3 with ease!
+
+© 2022-2025 PublicNode
+
+Terms of service
+
+Privacy policy
+
+Cookies policy

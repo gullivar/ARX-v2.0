@@ -1,0 +1,388 @@
+Skip to main content
+Canonical Ubuntu
+Products
+Use cases
+Support
+Community
+Download Ubuntu
+All Canonical
+Sign in
+Open Source Storage for Enterprises
+
+A strategic handbook for cloud storage excellence, scalability, and resilience in the era of open source solutions
+
+Download Now How to reduce cloud storage costs? ›
+
+The Standard Support period for Ubuntu 20.04 LTS has ended. Discover your options.
+
+Take action today
+
+Modern enterprise open source
+
+Security, support, and managed services from
+the publisher of Ubuntu.
+
+Get Ubuntu Pro Access a 30-day free trial ›
+
+Latest news from our blog ›
+
+19 December 2025
+
+A better way to provision NVIDIA BlueField DPUs at scale with MAAS
+
+19 December 2025
+
+MicroCeph: why it’s the superior MinIO alternative (and how to use it)
+
+18 December 2025
+
+Design and Documentation clinics at FOSDEM Fringe 2026
+
+Spotlight
+
+Canonical announces Ubuntu Pro for WSL 
+Energize your engineers
+
+Better security. More packages. Newer tools. All your open source, from cloud to edge.
+
+Loved by developers and trusted by enterprises. Ubuntu is the first pick for organizations to support their software infrastructure and the OS chosen by 66% of experienced developers. (HackerEarth, Developer Survey, 2020)
+
+Authentically open source
+Secure by design
+A release cadence you can depend on
+Stability through long term support
+
+That’s why Ubuntu supports the fastest, biggest, and most successful digital operations.
+
+Download our guide to adopting Linux securely in your enterprise ›
+
+Build your AI models on Ubuntu ›
+
+Open source security
+
+Ubuntu Pro is more than Linux.
+Security and compliance for the full stack.
+
+Secure your open source apps. Patch the full stack, from kernel to library and applications, for CVE compliance. Governments and auditors certify Ubuntu for FedRAMP, FISMA and HITECH.
+
+Up to 15 years of security maintenance
+
+Kernel Livepatch for 24/7 patching with no downtime
+
+Expanded security for infrastructure and applications
+
+FIPS 140-2 cryptographic modules certified by NIST
+
+Cyber Resilience Act (CRA): Meet your CRA requirements
+
+DISA/STIG hardening for DoD compliance
+
+CIS profiles for cyber defence and malware prevention
+
+Secure all your open source
+
+Significant enterprise savings
+
+Sustainable open source at the lowest cost, everywhere.
+
+Rethink what’s possible with Linux and open source. Companies engage Canonical to drive down open source operating costs. Automate everything: multi-cloud operations, bare metal provisioning, edge clusters and IoT.
+
+No mandatory subscriptions for Ubuntu
+Security, support, and fully managed infra and apps
+Public cloud, data center, edge cluster, and appliances
+Long term maintenance commitment
+Transparent pricing for enterprise and ISV
+Switch from VMware to OpenStack
+
+Let’s talk open source
+
+Public cloud optimization
+
+Most public cloud instances are Ubuntu, for performance and security.
+
+ 
+ 
+
+Optimized kernels for AWS, Azure, Google, Oracle, IBM
+
+FIPS, CIS hardening and CVE fixes with Ubuntu Pro
+
+Minimize rolling reboots with Kernel Livepatch
+
+Network & storage performance optimization
+
+GPU enablement for machines and containers
+
+Pay-as-you-go billing, no more licenses
+
+Enterprise support and Expanded Security Maintenance
+
+Cloud workload migration service
+
+Containerization and cloud-native migration service
+
+Fully managed application service
+
+Learn more Contact us ›
+
+Multi-cloud Kubernetes and containers
+
+AKS. EKS. GKE. Kubeadm. MicroK8s. Charmed Kubernetes.
+
+All on Ubuntu.
+
+ 
+ 
+ 
+ 
+Support for all public cloud Kubernetes
+On-prem MicroK8s, Charmed K8s, kubeadm
+Fully managed Kubernetes on-prem or public cloud
+Model-driven Kubernetes Operators
+Full stack support for apps, Kubernetes and OS
+K8s architecture and deployment consulting
+Cloud-native workload migration services
+GPU enablement for AI/ML workloads
+Bare metal, OpenStack and VMware
+Pluggable CNIs, CSIs, CRIs, and third-party tools
+
+Learn more Contact us ›
+
+Carrier–grade private cloud
+
+Operate private cloud the smart way – supported or fully managed.
+
+ 
+ 
+ 
+ 
+ 
+
+15 year security maintenance and support
+
+Hyperconverged or segregated architecture
+
+Encryption at rest for GDPR, HIPAA, FedRAMP
+
+Wide choice of SDN and storage
+
+Upgrades and day-2 operations, automated
+
+Integrated logging, monitoring, and alerting
+
+Platform and infrastructure hardening
+
+High availability
+
+Carrier-grade NFVI
+
+Learn more Contact us ›
+
+Ultra secure things
+
+Ubuntu Core with transactional updates for a better embedded Linux.
+
+ 
+ 
+ 
+ 
+OTA compressed updates for apps, kernel, and OS
+Automatic rollback and data snapshots
+Managed private app stores for secure fleet management
+DevSecOps pipeline for edge app delivery
+Built-in device recovery and remote disk repair
+12 year security maintenance for every device
+Provable system and software integrity
+Secure boot backed by root of trust
+Full disk encryption with hardware keys
+Support for real-time compute
+FIPS certifiable embedded Linux
+
+Learn more Contact us ›
+
+Workstations and desktops
+
+Optimized AI/ML and cloud devops.
+The professional developer’s preference.
+
+ 
+ 
+ 
+ 
+ 
+
+Active Directory and LDAP integration
+
+Full disk encryption
+
+Security updates for the full open source stack
+
+Estate monitoring and management
+
+Configuration lockdown
+
+Local Kubernetes for offline development
+
+Instant Ubuntu on Windows and macOS with WSL and Multipass
+
+Optimized images and certified workstations
+
+Learn more Contact us ›
+
+Data center automation
+
+Turn a rack into a bare metal cloud.
+Metal-as-a-Service provisions Windows, ESXi, and Linux.
+
+ 
+ 
+ 
+ 
+ 
+
+Bare metal cloud with on-demand servers
+
+Remote edge cluster operations
+
+Infrastructure monitoring and discovery
+
+Ansible, Chef, Puppet, SALT, Juju integration
+
+Super fast install from scratch
+
+VMWare ESXi, Windows, CentOS, RHEL, Ubuntu
+
+Custom images with pre-installed apps
+
+Disk and network configuration
+
+API-driven DHCP, DNS, PXE, IPAM, provisioning
+
+LDAP authentication and RBAC
+
+Learn more Contact us ›
+
+Smart robots of all shapes and sizes
+
+From turtles to trucks, Ubuntu drives the robot revolution.
+
+ 
+ 
+ 
+ 
+ 
+
+Full support for ROS and ROS2
+
+Security patches for long-term ROS
+
+Fault tolerant over-the-air updates
+
+CIS certification
+
+Trim time-to-market with SMART START consulting
+
+Leading Robot-as-a-Platform ecosystem
+
+Curated app stores
+
+Learn more Contact us ›
+
+Multi–cloud applications – beyond PAAS
+
+Universal model-driven operators for classic and Kubernetes estate.
+
+ 
+ 
+ 
+
+Operate smoothly across public and private cloud
+
+Reusable integration code as open source packages
+
+Python Operator Framework for rapid development
+
+Bring the K8s operator pattern to classic workloads
+
+Lifecycle management and Day 2 operations
+
+Open collection of community-driven operators
+
+Learn more about universal operators
+
+OpenStack
+What is OpenStack Install Support
+Ceph
+What is Ceph Managed Consulting Docs Install
+Kubernetes
+What is Kubernetes Managed Install Docs Resources
+Managed infrastructure
+Managed apps Firefighting Support
+AI / ML
+Consulting Data Science
+Robotics
+ROS ESM What is ROS Community Docs
+IoT
+App store Embedded Linux Management
+Ubuntu Core
+Features Success stories Services Docs
+Ubuntu Desktop
+Organizations Developers Flavors WSL
+Ubuntu Server
+Hyperscale Docs
+Cloud
+What is cloud computing What is private cloud What is hybrid cloud What is multi-cloud Public cloud
+Security
+Platform Security ESM Livepatch Security standards CVEs Notices Assurances
+Landscape
+Features Managed Compare Install Docs Log in to Landscape
+Containers
+What are containers Chiseled Ubuntu Chiseled and .NET Container Build Service
+Downloads
+Desktop Server Core Cloud
+Support
+Your subscriptions Account users Pricing Discourse
+Pricing
+Desktops Devices
+Solutions
+AI
+Data
+Infrastructure
+Managed Infrastructure
+Open source security
+IoT and devices
+Cloud native development
+Sectors
+Automotive
+Industrial
+Public sector
+Telco
+Finance
+Contact us
+About us
+Community
+Careers
+Blog
+Resources
+Press centre
+ 
+ 
+ 
+ 
+ 
+ 
+
+© 2025 Canonical Ltd.
+
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+Legal information
+Data privacy
+Manage your tracker settings
+Report a bug on this site
+Go to the top of the page
+Your tracker settings
+
+We use cookies and similar methods to recognize visitors and remember preferences. We also use them to measure campaign effectiveness and analyze traffic on our websites. By selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties. For further details or to change your consent choices at any time see our cookie policy.
+
+Manage your tracker settings Accept all

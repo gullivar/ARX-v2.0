@@ -1,0 +1,176 @@
+Arch Linux
+Home Packages Forums Wiki GitLab Security AUR Download
+A simple, lightweight distribution
+
+You've reached the website for Arch Linux, a lightweight and flexible Linux® distribution that tries to Keep It Simple.
+
+Currently we have official packages optimized for the x86-64 architecture. We complement our official package sets with a community-operated package repository that grows in size and quality each and every day.
+
+Our strong community is diverse and helpful, and we pride ourselves on the range of skillsets and uses for Arch that stem from it. Please check out our forums and mailing lists to get your feet wet. Also glance through our wiki if you want to learn more about Arch.
+
+Learn more...
+
+Latest News
+NVIDIA 590 driver drops Pascal and lower support; main packages switch to Open Kernel Modules
+
+2025-12-20
+
+With the update to driver version 590, the NVIDIA driver no longer supports Pascal (GTX 10xx) GPUs or older. We will replace the nvidia package with nvidia-open, nvidia-dkms with nvidia-open-dkms, and nvidia-lts with nvidia-lts-open.
+
+Impact: Updating the NVIDIA packages on systems with Pascal, Maxwell, or older cards will fail to load the driver, which may result in a broken graphical environment.
+
+Intervention required for Pascal/older users: Users with GTX 10xx series and older cards must switch to the legacy proprietary branch to maintain support:
+
+Uninstall the official nvidia, nvidia-lts, or nvidia-dkms packages.
+Install nvidia-580xx-dkms from the AUR
+
+Users with Turing (20xx and GTX 1650 series) and newer GPUs will automatically transition to the open kernel modules on upgrade and require no manual intervention.
+
+.NET packages may require manual intervention
+
+2025-12-11
+
+The following packages may require manual intervention due to the upgrade from 9.0 to 10.0:
+
+aspnet-runtime
+aspnet-targeting-pack
+dotnet-runtime
+dotnet-sdk
+dotnet-source-built-artifacts
+dotnet-targeting-pack
+
+pacman may display the following error failed to prepare transaction (could not satisfy dependencies) for the affected packages.
+
+If you are affected by this and require the 9.0 packages, the following commands will update e.g. aspnet-runtime to aspnet-runtime-9.0:
+
+pacman -Syu aspnet-runtime-9.0
+
+pacman -Rs aspnet-runtime
+
+waydroid >= 1.5.4-3 update may require manual intervention
+
+2025-11-06
+
+The waydroid package prior to version 1.5.4-2 (including aur/waydroid) creates Python byte-code files (.pyc) at runtime which were untracked by pacman. This issue has been fixed in 1.5.4-3, where byte-compiling these files is now done during the packaging process.
+
+As a result, the upgrade may conflict with the unowned files created in previous versions. If you encounter errors like the following during the update:
+
+error: failed to commit transaction (conflicting files)
+
+waydroid: /usr/lib/waydroid/tools/__pycache__/__init__.cpython-313.pyc exists in filesystem
+
+waydroid: /usr/lib/waydroid/tools/actions/__pycache__/__init__.cpython-313.pyc exists in filesystem
+
+waydroid: /usr/lib/waydroid/tools/actions/__pycache__/app_manager.cpython-313.pyc exists in filesystem
+
+You can safely overwrite …
+
+dovecot >= 2.4 requires manual intervention
+
+2025-10-31
+
+The dovecot 2.4 release branch has made breaking changes which result in it being incompatible with any <= 2.3 configuration file.
+
+Thus, the dovecot service will no longer be able to start until the configuration file was migrated, requiring manual intervention.
+
+For guidance on the 2.3-to-2.4 migration, please refer to the following upstream documentation: Upgrading Dovecot CE from 2.3 to 2.4
+
+Furthermore, the dovecot 2.4 branch no longer supports their replication feature, it was removed.
+
+For users relying on the replication feature or who are unable to perform the 2.4 migration right now, we provide alternative …
+
+Recent service outages
+
+2025-08-21
+
+We want to provide an update on the recent service outages affecting our infrastructure. The Arch Linux Project is currently experiencing an ongoing denial of service attack that primarily impacts our main webpage, the Arch User Repository (AUR), and the Forums.
+
+We are aware of the problems that this creates for our end users and will continue to actively work with our hosting provider to mitigate the attack. We are also evaluating DDoS protection providers while carefully considering factors including cost, security, and ethical standards.
+
+To improve the communication around this issue we will provide regular updates on …
+
+Older News
+2025-08-04
+zabbix >= 7.4.1-2 may require manual intervention
+2025-06-21
+linux-firmware >= 20250613.12fe085f-5 upgrade requires manual intervention
+2025-06-20
+Plasma 6.4.0 will need manual intervention if you are on X11
+2025-06-16
+Transition to the new WoW64 wine and wine-staging
+2025-04-17
+Valkey to replace Redis in the [extra] Repository
+2025-02-17
+Cleaning up old repositories
+2025-02-03
+Glibc 2.41 corrupting Discord installation
+2025-01-16
+Critical rsync security release 3.4.0
+2024-11-19
+Providing a license for package sources
+2024-09-14
+Manual intervention for pacman 7.0.0 and local repositories required
+Package Search:
+Recent Updates (more)
+rocm-llvm 2:7.1.1-2	x86_64
+meilisearch 1:1.31.0-1	x86_64
+ginkgo-hpc 1.11.0-2	x86_64
+code 1.107.1-1	x86_64
+argocd 3.2.3-1	x86_64
+fish 4.3.1-1	x86_64
+python-tldextract 5.3.1-1	any
+python-mediafile 0.14.0-1	any
+hugo 0.153.4-1	x86_64
+inkscape 1.4.3-1	x86_64
+pmbootstrap 3.8.0-1	any
+pdfjs-legacy 5.4.530-1	any
+pdfjs 5.4.530-1	any
+firefoxpwa 2.18.0-1	x86_64
+java8-openjdk 8.472.u08-2	x86_64
+Documentation
+Wiki
+Manual Pages
+Installation Guide
+Community
+Mailing Lists
+IRC Channels
+Planet Arch
+International Communities
+Support
+Donate
+T-shirts via Freewear
+T-shirts via HELLOTUX
+Tools
+Mirrorlist Updater
+Mirror List
+Mirror Status
+Development
+Getting involved
+Dev Blog
+Projects in Git
+Developer Wiki
+Package Groups
+Todo Lists
+ISO Release List
+Visualizations
+Differences Reports
+People
+Developers
+Package Maintainers
+Support Staff
+Developer Fellows
+Package Maintainer Fellows
+Support Staff Fellows
+Signing Master Keys
+More Resources
+Press Coverage
+Logos & Artwork
+News Archives
+RSS Feeds
+ 
+
+Copyright © 2002-2025 Judd Vinet, Aaron Griffin and Levente Polyák.
+
+The Arch Linux name and logo are recognized trademarks. Some rights reserved.
+
+The registered trademark Linux® is used pursuant to a sublicense from LMI, the exclusive licensee of Linus Torvalds, owner of the mark on a world-wide basis.

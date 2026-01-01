@@ -1,0 +1,298 @@
+___
+Contact us
+833-292-7732
+Client portal login
+Products
+How we help
+Resources
+Company
+Start free trial
+Meet the world’s leading Zero Trust platform
+
+Allow what you need. Block everything else by default, including ransomware and rogue code.
+
+Book a demo
+Register today for Zero Trust World 2026!
+STOP ZERO-DAY EXPLOITS BEFORE THEY RUN.
+
+Get ironclad Zero Trust cybersecurity with granular control over every app, script, and process in your environment.
+Welcome to a world with fewer alerts, less blind spots, and a new level of control — all backed by unmatched 24/7 support.
+
+ALLOWLISTING
+
+A powerful deny-by-default solution that simplifies application control and is quick to deploy. Only trusted software is allowed. Everything else, including ransomware, is blocked. ThreatLocker Allowlisting puts you in control.
+
+Learn more 
+RINGFENCING™
+
+Your trusted application containment strategy, ensuring apps can only access the files, registry keys, network resources, and other applications they truly need to function. Nothing less, and nothing more.
+
+Learn more 
+NETWORK CONTROL
+
+Take full command over all network traffic in your environment. Lock down access by port, source IP, or dynamically with ACLs that automatically update as IP addresses change. You’re in full control—always.
+
+Learn more 
+Explore ThreatLocker Protect
+Register for upcoming webinars
+
+Explore upcoming, recent, and past ThreatLocker webinars that provide you with news about ThreatLocker, live hackings, the current state of the cybersecurity landscape, and more.
+
+Register now
+The ultimate cybersecurity support team.
+Explore Cyber Hero MDR
+
+ThreatLocker Cyber Hero® Team sets the industry standard for expert, responsive cybersecurity support. From hands-on technical help and strategic consulting to project management and active involvement in security events, we are fully committed to your success and protection.
+
+
+Based in Orlando, FL and proud to serve worldwide
+
+Available 24/7/365
+
+Lightning-fast response, typically within 60 seconds
+
+Award-winning support trusted by security professionals
+
+Delivering unmatched peace of mind for your entire organization
+
+“I feel much safer and much more secure knowing the ThreatLocker MDR team is a highly reliable partner in our holistic security program, helping us maintain strong security across the entire organization better than any other MDR I’ve worked with.”
+
+Jack Thompson
+Director of Information Security, Indianapolis Colts
+
+Access controls to
+COMBAT TODAY'S
+CYBER THREATS
+
+Streamline the way your IT professionals handle their cybersecurity, while preventing ransomware
+
+See Why ThreatLocker
+
+Achieve compliance with NIST, HIPAA, CIS, PCI, Essential Eight, and other regulations
+
+Block unwanted software from running, regardless of administrative privilege
+
+Stop known and unknown viruses, ransomware, and other malicious software
+INDUSTRY RECOGNITION
+
+#1 in Application Control
+
+CYBERSECURITY RESOURCES
+View all resources
+NEW BLOG POSTS
+LATEST DOWNLOADS
+RECENT WEBINARS
+BLOG POST
+
+Why EDR and XDR are not enough: The case for Zero Trust
+
+EDR and XDR only identify attacks after they begin. Learn how Zero Trust, allowlisting, and Ringfencing™ prevent ransomware, fileless malware, and LOTL attacks before execution.
+
+Read post
+BLOG POST
+
+React2Shell to real-world breach: How an unpatched dev server led to a Windows compromise
+
+React2Shell (CVE-2025-55182) enabled remote code execution on an unpatched dev server, leading to a Windows compromise and cryptomining activity.
+
+Read post
+BLOG POST
+
+How a hacker deleted one Gmail account and disrupted an entire business
+
+A hacker hijacked Café Melo’s sole Gmail account, wiping years of records, contracts, and customer contacts. The incident triggered a lawsuit and highlights how small businesses risk collapse when operations rely on a single account without proper cybersecurity safeguards.
+
+Read post
+Read more blogs
+HEAR FROM OUR CUSTOMERS
+
+Build your application allowlist without lifting a finger.
+
+Learning mode helped us to figure out what is our allowlist, and it built it for us without us having to do much of anything at all. Once we had that allowlist, then we were able to further benefit to know what our inventory of software was across departments.
+
+Brian Perkinson
+
+Network Engineer
+
+City of Champaign, IL
+
+See everything running in your environnment, instantly.
+
+Within the first week of implementing ThreatLocker, we were able to view our entire inventory of applications—something my team always had to do manually. Within an hour or two were able to see every learned application on our system... that doesn't happen very often.
+
+Ismael Hernandez
+
+Vice President of IT
+
+TLG Peterbilt
+
+Get a clear view of application usage and exposure.
+
+The advantage of using ThreatLocker in our organization is we now have a much better understanding of the applications that run on our estate and the potential risks of using those applications. And it helps us inform our risk score as an enterprise.
+
+Jeremy Parsons
+
+Technical Architect
+
+Heathrow Airport
+
+Get real peace of mind for your IT team.
+
+With ThreatLocker, we have the ability to centralize disparate elements in the security stack, and support from the Cyber Hero team is bar none. Leveraging ThreatLocker allows me to sleep soundly at night because I know that I'm always one step ahead of threat actors.
+
+Jack Thompson
+
+Director of Information Security
+
+Indianapolis Colts
+
+Stop lateral movement inside your network.
+
+Our servers were vulnerable once someone gained access to the network. ThreatLocker was the solution we needed. The platform makes me more conscious of what's coming in and out of our network... It gave me an opportunity to look behind the scenes.
+
+Pierre Anyansi
+
+Network Engineer
+
+Advanced Medical Transport
+
+Go beyond what an antivirus could ever do.
+
+The ThreatLocker solution was perfect for us.  With ThreatLocker Unified Audit, we get a clear description of what is allowed or denied on our network, and why. If I had a choice between an antivirus and ThreatLocker, I'd take ThreatLocker all day long.
+
+Jack Harbut
+
+IT and Systems Manager
+
+Stampede Meats
+
+Control risk across your entire organization.
+
+Before ThreatLocker, we had a lot of risk that we just couldn't control. Now, we're doing a better of a job of providing a secure environment for our patients, doctors, and manufacturers. We want to make sure we're really protecting our network. ThreatLocker lets us do that very well.
+
+Greg Gootee
+
+CISO / SVP of Information Security
+
+Asembia
+
+Customize your security to fit your environment.
+
+What we liked about ThreatLocker was how each tool built on the last, allowing us to control exactly how granular we wanted to get with locking down our environment. We had explored other options, but wWith ThreatLocker, we were able to get everything we needed from one place.
+
+Jeff Lutes
+
+Executive Vice President of Technology
+
+Orlando Magic
+
+Revolutionize your cybersecurity with powerful best-in-class tools.
+
+Prior to ThreatLocker, we didn’t have a solution in place to help with application whitelisting. Implementing it into our environment was truly game-changing because we’d never used anything like it before. It came in, took control, and significantly reduced our threat landscape.
+
+Trixy Otieno
+
+Global Cybersecurity Manager
+
+Seaboard Overseas Trading Group
+
+INDUSTRY REPORTS AND STUDIES
+
+ThreatLocker recognized in 2024 Gartner® Vendor Spectrum Report
+
+See Gartner report
+
+ThreatLocker recognized as a Strong Performer in Endpoint Protection Platforms
+
+See Gartner report
+
+The Total Economic Impact™ of ThreatLocker study 2025
+
+See Forrester study
+
+Executive View: ThreatLocker Protect
+
+See the report
+START YOUR PATH TO STRONGER DEFENSES
+
+
+
+Get a trial
+
+Try ThreatLocker free for 30 days and experience full Zero Trust protection in your own environment.
+
+Start free trial
+
+
+
+Book a demo
+
+Schedule a customized demo and explore how ThreatLocker aligns with your security goals.
+
+Book a demo
+
+
+
+Ask an expert
+
+Just starting to explore our platform? Find out what ThreatLocker is, how it works, and how it’s different.
+
+Request information
+THREATLOCKER PROTECT
+Allowlisting
+Ringfencing™
+Network Control
+ThreatLocker Protect
+GET STARTED
+Book a demo
+Try ThreatLocker
+Request information
+Explore the platform
+MORE SOLUTIONS
+Elevation Control
+Storage Control
+Detect
+Patch Management
+Web Control
+User Store
+Cloud Control
+Cloud Detect
+Third Wall™
+CAPABILITIES
+Learning Mode
+Unified Audit
+Testing Environment
+Configuration Manager
+Defense Against Configurations (DAC)
+SERVICES
+Cyber Hero MDR
+Cyber Hero Approvals
+Community
+RESOURCES
+Blogs
+eBooks
+Whitepapers
+Webinars
+Video gallery
+Keynotes & podcasts
+Press releases
+Cost of the breach
+Upcoming events
+Cybersecurity 101
+COMPANY
+About ThreatLocker
+Online newsroom
+Careers
+In the news
+Success stories
+Industry reports
+Become a partner
+Contact us
+Discover more:
+Application WhitelistingWeb ControlPatch Management
+©2024-2025 ThreatLocker, Inc. All rights reserved.  Privacy policy
+
+
+
+
+

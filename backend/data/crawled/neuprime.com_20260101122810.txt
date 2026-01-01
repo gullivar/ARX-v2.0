@@ -1,0 +1,417 @@
+Cookies & Privacy
+
+This website uses cookies to ensure you get the best experience.
+
+Read more about NeuPrime Privacy Policy
+
+We use strictly necessary session-only temporary cookie for Enrollment and Control Panel operation. Our website cannot operate without this cookie for security reasons.
+
+We use also necessary cookies for the following:
+
+Website preferences, such as language or menu selection
+
+We use optional cookies for the following:
+
+Storing Live Chat ID, so you can return to your chat
+Tracking advertising source, to improve our marketing
+We use Google Analytics, to improve our marketing
+Google use cookies for personalization of ads
+
+Google Privacy Policy and Personal Information processing terms.
+
+We appreciate you accept all cookies for best user experience.
+
+You can change your consent settings at any time at Privacy Policy page.
+
+Accept Necessary Only Accept All Cookies
+Toggle navigation  NeuPrime Cloud
+Virtual Servers
+ Windows VPS Bestseller Offers
+Windows VPS Configurator
+Windows Server 2003 - 2022, licenses included
+Frankfurt, IP included, ∞ Bandwidth, starting 9.83€/month
+ Linux VPS Bestseller Offers
+Linux KVM VPS Configurator
+Ubuntu, Debian, Centos, Arch, FreeBSD, ...
+Frankfurt, IP included, ∞ Bandwidth, starting 4.49€/month
+Custom VPS Configurator
+Services
+ Universal NFS/SFTP/SMB/... Storage
+Frankfurt, fast and reliable, starting 100GB at 2.75€/month
+ Seafile Cloud File Sync
+Private Dropbox/OneDrive -like, for Free up to 5GB per VPS!
+Free Unlimited DNS Hosting
+Documentation
+Hyper-V Virtual Servers Overview
+Microsoft Hyper-V Platform is best for Microsoft Windows
+Hyper-V – Windows Virtual Server
+Hyper-V – Linux / FreeBSD Virtual Server
+ Linux KVM Virtual Server Overview
+Linux KVM Platform is best for Linux, FreeBSD, Mikrotik, etc
+VirtIO Drivers for best Windows VPS performance
+How to use Additional IP Addresses
+VPS Email Relay Rules
+NeuPrime Automation API
+About
+NeuPrime Legal / Imprint
+Terms of Service
+Privacy Policy
+Payment Options
+Cloud Billing vs Hosting Plan options
+Partnership & Referral Programme
+Why NeuPrime Cloud?
+Contacts
+NeuPrime Customer Support Service
+Corporate and Support questions:
+support@neuprime.com
+Join Support Live Chat
+  EN
+ Englisn
+ Deutsch
+Login
+Login 
+Password 
+Login
+Password Recovery
+Login With:
+				
+New Customer?
+Sign Up a new NeuPrime Account
+Instant SSD Cloud VPS: fast & simple!
+
+NeuPrime GmbH is Frankfurt-located Cloud Hosting Provider. Our offer include Windows and Linux.
+
+With 10+ years of operation, we run cost-effective, reliable and simple to use VPS servers.
+
+All servers we offer have 100% root / administrator access. Windows VPS include Remote Desktop support.
+
+Cost-Effective Preconfigured VPS Servers with Discount
+  Entry-Level
+ Standard Linux
+ Large Linux
+ BESTSELLER!   Standard Windows
+ Large Windows
+Daily Payment
+Monthly Payment
+One Year Prepayment
+     
+Linux VPS
+€499/ month
+€449/ month
+€624/ month
+
+Standard value Linux instance
+
+60 GB SSD 4 GB RAM 1 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+-
+Sign Up
+Windows VPS
+€1092/ month
+€983/ month
+€1365/ month
+
+Standard value Windows instance
+
+120 GB SSD 8 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+-
+Sign Up
+Windows VPS
+€1322/ month
+€1190/ month
+€1653/ month
+
+Standard value Windows instance
+
+120 GB SSD 8 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+Weekly Backup
+Sign Up
+     
+Linux VPS
+€999/ month
+€899/ month
+€1249/ month
+
+Standard Linux instance
+
+120 GB SSD 8 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+-
+Sign Up
+Linux VPS
+€1499/ month
+€1349/ month
+€1874/ month
+
+Standard Linux instance
+
+200 GB SSD 12 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+Weekly Backup
+Sign Up
+Linux VPS
+€1799/ month
+€1619/ month
+€2249/ month
+
+Standard Linux instance
+
+400 GB SSD 16 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+Weekly Backup
+Sign Up
+     
+Linux VPS
+€1999/ month
+€1799/ month
+€2499/ month
+
+Powerful Linux instance
+
+320 GB SSD 20 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+-
+Sign Up
+Linux VPS
+€2999/ month
+€2699/ month
+€3749/ month
+
+Powerful Linux instance
+
+480 GB SSD 32 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+-
+Sign Up
+Linux VPS
+€3899/ month
+€3509/ month
+€4874/ month
+
+Powerful Linux instance
+
+480 GB SSD 32 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+CentOS, Ubuntu, Debian
+Weekly Backup
+Sign Up
+    
+Windows VPS
+€1955/ month
+€1760/ month
+€2444/ month
+
+Standard Windows instance
+
+240 GB SSD 16 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+-
+Sign Up
+Windows VPS
+€2300/ month
+€2070/ month
+€2875/ month
+
+Standard Windows instance
+
+240 GB SSD 16 GB RAM 2 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+Weekly Backup
+Sign Up
+Windows VPS
+€2990/ month
+€2691/ month
+€3738/ month
+
+Standard Windows instance
+
+400 GB SSD 16 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+Weekly Backup
+Sign Up
+    
+Windows VPS
+€3335/ month
+€3002/ month
+€4169/ month
+
+Powerful Windows instance
+
+320 GB SSD 24 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+-
+Sign Up
+Windows VPS
+€5060/ month
+€4554/ month
+€6325/ month
+
+Powerful Windows instance
+
+480 GB SSD 32 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+-
+Sign Up
+Windows VPS
+€5520/ month
+€4968/ month
+€6900/ month
+
+Powerful Windows instance
+
+480 GB SSD 32 GB RAM 4 CPU
+Unlimited Bandwidth, 150 Mbps
+(burstable)
+Windows Server 2003 - 2022
+Weekly Backup
+Sign Up
+
+Default Primary Location: Frankfurt, Germany.
+
+Please check Prices page for the full list of available instances and supplemental services pricing.
+
+Effective and Clean Fixed Charge Payment System
+
+NeuPrime is committed to making service consumption as smooth as possible. Pay-as-you-go with plain fixed monthly+ charges. No tricky pricing points. No post-action charges. No hidden price lines.
+
+Every quote on our Website displays final end-customer prices, including VAT. Invoicing included.
+
+We respect PayPal Buyer Protection practices and guarantee customer satisfaction. 10 days 100% money-back guarantee.
+
+Windows Hyper-V VPS - Microsoft Windows Server
+
+Microsoft operation system is best-in-class for reliable operation. It can be used for just anything, starting from Small Business Office needs, and up to large-scale Enterprise Web solutions.
+
+Windows Server up to 2022 version is available for instant operation at NeuPrime. By default 2 concurrent Desktop connections are available for free. At an additional fee, the amount of concurrent Desktop connections can be increased to any amount.
+
+Remote Connection
+
+Connect to your Server from anywhere, including your home Desktop, Laptop, Android, or IOS device.
+
+Microsoft Windows Remote Desktop Connection works great even at low Internet speed and lets you work with your server without any hassle.
+
+Desktop Productivity
+
+Your server can run any software you like.
+
+Install and License Office, Adobe, MetaTrader, or whatever required for your remote always-online working Office. Connect and work from anywhere, with all your data in a safe place.
+
+Develop & Deploy
+
+Microsoft Corporation is known to love Developers.
+
+Anything from small Pet pages to Enterprise-class projects can easily be deployed into the Windows Server ecosystem. .NET Core, node.js, powerful SQL Servers, and many more at a glance.
+
+Pre-Configured Windows VPS with Discounts .. or create Your Own Configuration with Additional Options
+Linux KVM VPS - Effective Virtual Linux Server
+
+NeuPrime offers Linux KVM virtualization for running Linux guest systems with Maximum Efficiency and 100% compatibility. Linux host is native for Linux guests, which ensures top speed and low latency.
+
+All modern Linux distros are available in 1 click install:
+
+CentOS 7, 8 Stream, 9 Stream
+Ubuntu 18 to 22, all LTS + Latest
+Debian 9, 10, 11
+Rolling Arch, Gentoo, ...
+
+For Pro users, we also offer Network Boot PXE environment with tenths of OSes for custom installation.
+
+Efficient Networking & Connectivity
+
+Frankfurt is Europe's digital capital, and with more than 10 Terabit per second peak traffic, DE-CIX Frankfurt is the world's leading Internet Exchange. Right in the heart of Europe, you can reach more than 1,000 local, regional, and global networks, and get closer to people and businesses.
+
+You can use up to 16 IP addresses per VPS automatically without approval. You can add even more via Customer Care if required.
+
+All KVM servers of a single Customer Account are also connected into zero-setup isolated virtual network. This allows building your systems such as Kubernetes clusters or any custom solutions with no reconfiguration. Your Network Plan will work at NeuPrime as it is. Free of charge Internal network is at 200 Mbps, low latency, best-effort.
+
+Easy Server Management with 1Gb Panel
+
+NeuPrime offers an in-house developed Free 1Gb Panel to manage any modern Linux server.
+
+1Gb Panel is an extremely lightweight, Bloatware-Free solution for Linux Web Server management.
+
+Supports Ubuntu (18 - 21) and Debian (9 - 11) apt, and basic features in CentOS
+Web Hosting with Apache2 / PHP from 5 to 8 / mySQL (MariaDB), PHP selection per-Website
+Manage php.ini, Linux services, CRON jobs, storage partitions, LVM and filesystems
+Free and Automated LetsEncrypt SSL Certificates installation and management
+Creation of a hierarchy of SFTP / SCP / SSH users with proper isolation
+Manage mySQL databases, users and rights, built-in phpMyAdmin
+Web-based FileManager, viewer, editor, tar support, Web-based tail for log analysis
+WebHosting Reseller Features Support
+No artificial limitations for the number of objects
+Integrated with NeuPrime Control Panel for DNS management, Domains, Email, Anti-Spam.
+
+1Gb Panel is preinstalled on any NeuPrime Linux which supports it. It does not change any default system settings and respects the Clean-Linux approach.
+
+Pre-Configured Linux VPS with Discounts .. or create Your Own Configuration with Additional Options
+Why Should You Choose our Services?
+Security & Speed
+
+Many users have already appreciated the quality of our servers. Join now.
+
+Top Intel CPUs and NVME SSDs at full speed, great Virtual Servers isolation.
+
+Fast & Simple Setup
+
+In just minutes after Signup you get access to the server, with no setup cost.
+
+Server parameters are adjustable at any time with no penalty. Grow as you go.
+
+Free Customer Care
+
+To solve problems and answer questions, including Online Live Chat.
+
+Server Management available at an additional fee, for both Linux & Windows.
+
+All Your Data in Safe, Reliable Place
+Located in Frankfurt City (Germany)
+
+The heart of the Internet in Europe, perfect connectivity and ping for customers all over the world.
+
+Hosting equipment is made by Intel, Cisco and Samsung, including the latest blade platform for maximal efficiency and best-in-class Samsung SSDs.
+
+NeuPrime GmbH is Microsoft Service Provider Licence Agreement Partner. It allows for Licensing legal security of your Windows instances.
+
+About / Legal / Imprint
+Privacy Policy
+Terms of Service
+News & Events
+Contacts and Inquiries
+Customer Care
+Join Support Live Chat
+Partnership & Referral
+© 2014-2026, NeuPrime GmbH
+Cloud Hosting Solutions Provider
+Friedrich-Karl-Klausing-Straße, 7
+60438 Frankfurt am Main
+  
+Report Abuse

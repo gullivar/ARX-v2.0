@@ -1,0 +1,78 @@
+Looking for the IPFS Project? This is the ipfs.io public gateway. The IPFS Project website is at ipfs.tech
+
+ABOUT IPFS.IO GATEWAY
+REPORT ABUSE
+GO TO IPFS.TECH
+IPFS.io Public Gateway
+
+A Public Good for Accessing the Decentralized Web
+
+We are enabling users like you to navigate through the decentralized web with unparalleled speed and security. As a conduit between the traditional web and the decentralized IPFS web, our gateway ensures that your journey through the boundless universe of decentralized data is not only seamless but also reliable and robust.
+
+GET STARTED
+Public Utility
+
+An IPFS gateway acts as a bridge between the traditional web protocol (HTTP) and the IPFS protocol. It listens for requests for IPFS content, retrieves that content via IPFS, and makes it available via HTTP. This allows anyone to access content from public IPFS networks, no matter what web browser they're using. The IPFS.io public gateway is provided for free on an as-is basis, and not intended to be part of your critical path or production infrastructure. The features it supports are listed on the docs website. It is one of several public IPFS gateways.
+
+LEARN MORE
+Acceptable Use Policy
+
+The IPFS.io public gateway allows people to access a wide variety of data, content, and materials (referred to as “Content”) uploaded to the IPFS network by third-parties. Please note that you will be solely responsible for the consequences of using, disclosing, storing, transferring, or transmitting this Content. Any Content violating this Acceptable Use policy that is served through the IPFS.io public gateway may be immediately removed or disabled without any compensation to you, such as by adding that Content's identifier to the Bad Bits denylist. The following types of Content violate the Acceptable Use policy:
+
+scams, spam, and server misuse (such as viruses, phishing/spoofing content, or spam);
+content infringing on the intellectual property, privacy, or publicity rights of others;
+unlawful obscene content; content soliciting unlawful services; child sexual abuse material or terrorist content; or
+content reasonably likely to cause or increase the risk of harm to any people/groups.
+
+LEARN MORE
+Reporting Abuse
+
+To report abuse or submit a takedown request on ipfs.io or dweb.link gateways, use the web form or email abuse@ipfs.io.
+
+Your submission should include the relevant CID or URL, and the reason for your report or request. For copyright-related requests, please include all of the required details for a DMCA takedown request. You will receive an automated system receipt. Next, someone from the takedown team will review the request to make sure it is legitimate and determine appropriate next steps based on the Acceptable Use policy above. If the takedown team decides to issue a takedown based on the Acceptable Use policy, the relevant information from the request will be added to the denylist at https://badbits.dwebops.pub/. The gateways will return a 410 error when users try to fetch the content in question. Your browser may have a local cache of the content in question and might not immediately reflect that something has been blocked on the gateways. To avoid browser caching, switch to your browser's incognito or private mode. You can also prevent caching issues by using a command-line tool such as cURL or wget.
+
+LEARN MORE
+Frequently Asked Questions
+
+Below you can find answers to the most frequently asked questions.
+
+How do the ipfs.io/dweb.link gateways work?
+
+The ipfs.io gateway runs Rainbow, an implementation of the IPFS HTTP Gateway API, to find, retrieve, and serve data. It listens for requests for IPFS content, retrieves that content via IPFS, and makes it available to the requester via HTTP. Read the IPFS docs to learn more about IPFS Gateways or other Public IPFS Utilities.
+
+Why am I getting a full response instead of streaming a large video or using an HTTP Range request?
+
+HTTP Range requests are limited to files up to 5GiB due to Cloudflare CDN restrictions. For files larger than this, you'll receive a standard HTTP 200 response instead.
+
+I'm trying to use the gateway but something else is not working, who should I talk to?
+
+The best way to get support is to describe your issue clearly and in sufficient detail on the IPFS Forum.
+
+How are these gateways funded? Who is behind this?
+
+The ipfs.io/dweb.link public gateways are maintained by Interplanetary Shipyard on behalf of the IPFS Foundation. The funds are contributed by a range of donors who wish to support digital public infrastructure. Join them, all contributions are welcome!
+
+What's the relationship between gateways and other IPFS instances?
+
+Running IPFS directly is more efficient, but not all users are able to do it today. Gateways are an interim solution. Longer term, the IPFS project aims to increase direct support for ipfs:// in browsers and applications. There will always be a role for gateways, but we anticipate that role will shrink as direct IPFS support becomes more prevalent.
+
+How does the gateway ensure whether the data they return matches the Content ID (CID) in the request? Can I access the gateways in a trustless way?
+
+The ipfs.io gateway is one of the first that verifies the data against the requested CID before being returned to users. We do however recommend that clients implement their own verification as that is a foundational part of IPFS. To simplify this, gateways support trustless content types that enable verifiable retrieval. This requires an explicit opt-in from the client at the time of the request. If you are interested in exploring this more, we recommend you experiment with inbrowser.link, a Service Worker gateway built with Helia, a JS IPFS implementation that supports trustless retrievals.
+
+How do I report abuse (phishing, illegal content, DMCA) on ipfs.io and dweb.link?
+
+To report abuse or submit a takedown request, please see the Reporting Abuse section below for detailed instructions on how to contact us with your report.
+
+How do I report abuse (phishing, illegal content, DMCA) on other gateways?
+
+Our takedown policy is only effective for removing content from the IPFS.io Gateway Service operated by the IPFS team (ipfs.io & dweb.link). While a properly-configured gateway running our open-source code will also take down anything we have actioned, we cannot guarantee that all other public gateways will be or remain properly configured. To report abuse on different domains, please contact their respective owners.
+
+LEARN MORE
+Contact Us
+
+For abuse and DMCA related inquiries, please see the Reporting Abuse section above. If you would like to run your own gateway, please see Self Hosting a Gateway in the IPFS Docs and get in touch with any questions. The ipfs.io public gateway is maintained by Interplanetary Shipyard on behalf of the IPFS Foundation. You can reach us at #waterworks-community on Filecoin Slack, on GitHub at ipshipyard/waterworks-community, and on the IPFS discussion forums at discuss.ipfs.tech.
+
+BACK TO TOP
+
+© 2025 IPFS Foundation

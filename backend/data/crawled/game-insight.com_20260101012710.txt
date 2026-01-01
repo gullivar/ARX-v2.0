@@ -1,0 +1,31 @@
+Game Insight | The leading global game developer Hiding objects in Mystery Manor You have old browser! You have old browser, please download some new one! Reload page Menu Main About Us Games Play on PC and get bonuses! Paradise Island 2 Airport City Mystery Manor The Tribez Solitaire: Treasure of Time Guns of Boom (Gods of Boom) Support Play on PC and get bonuses! GI legends are now available for you to play on desktop! Hop on and enjoy special bonuses! Paradise Island 2 Sim/Tycoon Paradise Island 2 puts you in charge of a heavenly resort. Turn your exotic tropical island into a tourist hotspot! Play Now Download * Available for Windows 10 / 11 * Available for Windows 10 / 11 Airport City Sim/Tycoon Airport City is a strategy game in which you’ll manage an international airport, as well as build the city around it. Play Now Download * Available for Windows 10 / 11 * Available for Windows 10 / 11 Mystery Manor Mind Fitness Start your detective adventure in an enigmatic mansion full of dark secrets. Download * Available for Windows 10 / 11 * Available for Windows 10 / 11 The Tribez Sim/Tycoon The Tribez puts you in the shoes of a tribal chief who’s determined to lead his people to prosperity! Download * Available for Windows 10 / 11 * Available for Windows 10 / 11 Solitaire: Treasure of Time Mind Fitness Give your brain a good exercise—uncover the secrets of the ancient civilization by solving countless puzzles. Download * Available for Windows 10 / 11 * Available for Windows 10 / 11 Guns of Boom (Gods of Boom) Hardcore Get ready for an explosive team-based shooter. It’s pure adrenaline, nothing more! Get It next page About Us “The best games in the world are free!” Tell us about yourself Your first name and last name Contact phone E-mail Additional information Attach CV pdf, doc, docx, rtf, txt, odt, pages. Max 25MB I consent to my personal data being processed by Game-Insight LLC under it’s then-current policies , including my contact details, and contents of my CV. I hereby represent and warrant, that the contents in question include only correct information about me, which is appropriate to be provided to Game-Insight LLC as part of its recruiting activities Submit Privacy Notice Cookie Notice Terms of Use 2025 © Game Insight. All rights reserved. Support Choose "Open App Installer" to download the game and enjoy your bonuses! You are one click away from enjoying the game! Click "Open App Installer" to update your game! You are one click away from enjoying the game! Select "Choose Application" Choose "Open Link" to download the game and enjoy your bonuses! You are one click away from enjoying the game! Select "Choose Application" Choose "Open Link" to update your game! You are one click away from enjoying the game! Click here to install the game! Click here to install the game! Yupe is free software. It is released under the terms of
+    the following BSD License.
+
+    Copyright © 2010-2014 by Yupe contributors.
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions
+    are met:
+    * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the
+    distribution.
+    * Neither the name of Yupe nor the names of its
+    contributors may be used to endorse or promote products derived
+    from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+    FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+    COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+    INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+    BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+    LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+    CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+    LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+    ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+    POSSIBILITY OF SUCH DAMAGE.

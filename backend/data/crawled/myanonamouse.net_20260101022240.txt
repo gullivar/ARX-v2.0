@@ -1,0 +1,25 @@
+Login | Rules | FAQ | Invite Application | IRC-Chat
+	
+Not logged in!
+
+Error: The page you tried to view can only be used when you're logged in.
+
+Note: If you have a problem logging in go to IRC-Chat
+
+Note: You need cookies enabled to log in, and excessive failed logins in a row will result in your ability to login being locked.
+
+We've detected the site CSS isn't loaded properly. You should not see this message if the css loaded properly. Try a no cache reload, or contact support on IRC
+Login
+Email:	
+Password:	
+Remember me:	Keep me logged in 
+This option will allow you to remain logged in across periods of inactivity (or closing your browser)
+
+Looking for an invite? Click here: Myanonamouse Invite Application
+To chat with us in our main IRC channel go here: IRC Chat
+If you need any help with IRC or Chatzilla go here: Chat Help
+
+
+Forgot Your Password? Recover Password
+
+© 2025 Myanonamouse

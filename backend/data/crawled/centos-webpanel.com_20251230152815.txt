@@ -1,0 +1,92 @@
+Please check our new site for the most recent informations.
+Software Partners
+Hosting Providers
+Goals
+Investors
+Wiki
+Support Forum
+Facebook
+Free DNS
+PRO Support
+Wiki | Forum | PRO Support | Contact Us
+Control Web Panel:
+is now running on 10 000+ Servers
+
+Follow Updates on Facebook
+Developers LinkedIn | YouTube
+Business services:
+AntiDDoS Proxy | Service Monitoring
+
+
+
+HOME
+FEATURES
+INSTALLATION
+CHANGELOG
+DEMO
+NOC PARTNERS
+FAQ
+FORUM
+SUPPORT
+CONTACT
+Web Server
+PHP
+WEB SERVER FEATURES
+Apache from source
+Varnish Cache Server
+suPHP & suExec
+Mod Security & OWASP rules
+Nginx reverse Proxy
+Rebuild Apache vHosts
+Status & Configuration
+User Management
+DNS
+USER MANAGEMENT
+Add, Edit, Remove Users
+User Monitoring
+Shell access management
+CWP Limits (Process num, OpenFiles, Quota, Inodes)
+CloudLinux Limits per user
+User FTP & File Manager
+Email
+Security
+EMAIL
+Postfix & Dovecot
+MailBoxes, Alias-Forwarder
+Roundcube webmail
+Postfix Mail queue
+AutoResponders,SPF-DKIM
+AntiSpam & AntiVirus
+OneClick Rebuild Postfix
+System
+MySQL
+SYSTEM
+Auto-Fix (configuration)
+ChkConfig Manager
+Services Status
+Hardware & Software info
+Disk Details
+Network Configuration
+Backup Manager
+CentOS Web Panel
+Softaculous Auto Installer
+CloudLinux
+cPanel Migration
+CENTOS WEB PANEL
+
+CentOS Web Panel – a Free Web Hosting control panel designed for quick and easy management of (Dedicated & VPS) servers minus the chore and effort to use ssh console for every time you want to do something, offers a huge number of options and features for server management in its control panel package.
+
+NEW CENTOS 7
+Home
+Wiki
+Terms of Service
+Privacy Policy
+Services Monitor
+AntiDDoS Proxy
+PRO Support
+Development Jobs
+Support Jobs
+Report BUG
+Contact
+Built with HTML5 and CSS3
+Copyright © by Control Web Panel

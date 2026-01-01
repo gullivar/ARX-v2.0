@@ -1,0 +1,8 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<Error>
+<Code>AccessDenied</Code>
+<Message>User: arn:aws:iam::488220052620:user/cclibraries-defaults-origin-production-AkamaiUser-16RME1A5JGIW5 is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::cclibraries-defaults-origin-production-va6" because no identity-based policy allows the s3:ListBucket action</Message>
+<RequestId>VYN7R76H2XTF6PV1</RequestId>
+<HostId>35YEkS7GPlCqONf8spQYHIhdWhJnk1wO60q2kl6JWCQrcj+Y7kXlZq4xCuTv1twYV0DKyE/bMb2HYtQ/2dxo1HtN0it3ZyhXsNb1Nk5fstc=</HostId>
+</Error>

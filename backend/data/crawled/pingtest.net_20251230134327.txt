@@ -1,0 +1,13 @@
+Pingtest has been discontinued
+
+Ookla is devoted to providing world-class products and services. Sometimes that means saying goodbye to old products, like Pingtest, and hello to new ones...
+
+Speedtest Desktop
+
+The best way to measure the quality of your internet connection—including ping, jitter, and packet loss—is with our free Speedtest desktop apps for macOS and Windows.
+
+To see ping, jitter, and packet loss in the desktop apps, follow these easy steps:
+
+Tap on the Results icon
+Tap a previous result for details
+Ping, Jitter, and Packet Loss are displayed in the detailed Results view

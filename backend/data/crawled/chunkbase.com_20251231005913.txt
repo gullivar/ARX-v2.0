@@ -1,0 +1,59 @@
+Home
+Apps
+Mods
+Tuts
+NEWS
+Have fun with the Mounts of Mayhem drop this holiday season! As a heads-up, the seed map generation is unchanged.
+Dec 9, 2025
+I hope everyone's enjoying the Copper Age drop! No major changes to the seed map, but if you're ever tired of searching for copper, you know where to look :)
+Oct 1, 2025
+All maps are updated for the Chase the Skies drop. Have fun!
+Jun 17, 2025
+Reduced the number of features enabled by default on the seed map. Your selection will now be remembered between sessions. Additionally, added an option to manually save and load marked locations to disk.
+Apr 16, 2025
+Added nether fossils and experimental support for 1.21.6 / 1.21.80
+Apr 15, 2025
+Another feature drop! Chunk Base maps are largely unchanged though. Only Java is getting the Pale Garden and Mansion updates already in Bedrock.
+Mar 25, 2025
+Updated Bedrock for 1.21.60, which includes changes to Pale Garden, Mansions, Spawn Point, Canyons/Ravines, and Fossils!
+Feb 12, 2025
+Added experimental versions with the upcoming changes to pale garden generation and ravines (Bedrock)
+Jan 12, 2025
+The garden awakened on Chunk Base! Check it out on chunkbase.com/apps/seed-map using Java 1.21.4 or Bedrock 1.21.50
+Dec 3, 2024
+Winter Drop (Pale Garden) is now on Chunk Base. Safe travels!
+Oct 3, 2024
+Updated seed map and related apps for 1.21. Have fun :)
+Jun 13, 2024
+ Stay up to date and join the discussion: Follow @chunkbase on Twitter!
+RECENT
+ [App] Dungeon Finder
+
+Support 1.21.120
+
+Nov 1, 2025
+ [App] Seed Map
+
+Copper Age Update
+
+Oct 1, 2025
+ [App] Fossil Finder
+
+Summer Drop Update
+
+Jun 17, 2025
+ [App] Biome Finder
+
+1.21.5 Update
+
+Mar 25, 2025
+
+© 2013-2025 chunkbase.com All Rights Reserved.
+Not an official Minecraft product. Not approved by or associated with Mojang.
+
+Site MapContactLegal NoticePrivacyTerms
+Information from your device can be used to personalize your ad experience.
+
+Do not sell or share my personal information.
+Terms of Content Use
+A RAPTIVE PARTNER SITE

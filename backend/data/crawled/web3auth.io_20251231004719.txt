@@ -1,0 +1,171 @@
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and marketing. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.
+Cookie Policy
+Privacy Policy
+
+Storage Preferences
+
+MARKETING
+PERSONALIZATION
+ANALYTICS
+Save
+Accept All
+Reject Non-Essential
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and marketing. You may change your settings at any time or accept the default settings. You may close this banner to continue with only essential cookies.
+Cookie Policy
+Privacy Policy
+
+Storage Preferences
+
+MARKETING
+PERSONALIZATION
+ANALYTICS
+Save
+Accept All
+Reject Non-Essential
+We’re thrilled to announce that Web3Auth has been acquired by Consensys Software Inc. Read more
+Products
+Developers
+Blog
+Pricing
+About
+Sign up
+We’re thrilled to announce that Web3Auth has been acquired by Consensys Software Inc. Read more
+Products
+Developers
+Blog
+Pricing
+About
+Sign up
+Build for Conversion
+Scale for your Ambition
+Wallet creation in seconds - all while keeping it secure,
+non-custodial, and seed phrase-free via Multi-Party Computation (MPC) and Account Abstraction
+Talk to us
+Try Demo
+Now part of  
+Trusted by key players in both Web2 and Web3
+Focus on Growth
+Wallets in Seconds
+2.3x
+<0.8s
+
+MPC/AA logins globally scaled
+
+more user conversions
+
+DeFi
+Wallet
+Gaming
+Loyalty
+Social
+"97% of our new users created their wallets with social logins instead of seed phrases"
+View more customers
+We support
+Solana
+Bitcoin
+SUI
+Aptos
+Cardano
+EVM-compatible chains
+dYdX
+THORChain
+TON
+NEAR
+Starknet
+EVM-compatible chains
+All your 
+wallet essentials
+Tailored solutions to support your product needs
+
+Social Logins
+Onboard users with Google, X, Email, Passkey, and more
+Native Account Abstraction
+Create smart accounts for your users effortlessly
+Multi-Factor Authentication
+Add an extra layer of security through customizable MFA
+Custom Authentication
+Use your own login providers (Firebase, Auth0, JWT) or existing Auth providers
+Wallet UI
+Save time with ready-to-deploy screens
+NFT Services
+Simplify minting and a hassle-free checkout for your users
+Native Mobile Ready
+Mobile first support for custom integration
+Telegram Mini App
+End-to-end set up for your mini app
+Blockchain Universality
+Seamless integration across every blockchain ecosystem
+Whitelabel UI
+Tailor the experience to your branding
+On-ramp Aggregator
+Over 100 local payment methods
+Wallet Pre-generation
+Send tokens directly to users’ emails/social accounts
+Built it fast or Whitelabel it
+Plug N Play
+Core Kit
+Own the experience
+Improve your user engagement, host it yourself with our headless SDKs.
+Headless SDKs
+Web SDKs (tKey JS, single factor auth, nodeJS)
+Mobile SDKs (iOS swift, android Java)
+Read docs
+Have it both ways,
+a user-friendly and decentralized account
+Go well beyond Web2.5 for your users to offer a fully self-custodial login experience with Wallet-as-a-Service (WaaS)! Empower them to reap the true benefits of being on blockchain.
+
+Powered by enterprise-grade wallet infrastructure, using the revolutionary Multi Party Computation (MPC).
+Try Demo
+Enterprise-grade
+‍security and compliance
+Non-custodial Infrastructure
+True decentralization and ownership with Wallet-as-a-service (WaaS) when it comes to all digital assets.
+SOC2, CCPA, CPRA, GDPR Compliance
+Privacy of your users matter. Designed to be compliant from ground up.
+Regularly Audited Codebase
+Both internally and externally audited regularly by the best.
+Unleash maximum
+potential today
+Create an account to get started. Free for first 1,000 MAWs on your app.
+View pricing
+Start building
+ 
+AUTHENTICATION
+Plug N Play
+Core Kit
+Account Abstraction
+Account Dashboard
+Blockchain Agnostic
+Multi-Factor Authentication
+Multi-Party Computation
+Pre-generated Wallets
+Server Side Verification
+Telegram Mini App Login
+Wallet Connectors
+POST AUTHENTICATION
+What is Wallet Services
+Wallet UI
+Fiat On-ramp Aggregator
+NFT Checkout
+DEVELOPERS
+Documentation
+Guides
+Blog
+Community Forum
+Customers
+Demo
+Dashboard
+Status
+COMPANY
+About Us
+Pricing
+Careers
+Contact Us
+Trust Center
+Brand Guide
+SUBSCRIBE TO OUR NEWSLETTER
+Stay informed on all things Web3 with updates and news from Web3auth
+© 2025 Web3Auth • A Consensys Formation
+Cookie Policy
+Privacy Policy
+Terms of Use

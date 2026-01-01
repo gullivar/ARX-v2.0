@@ -1,0 +1,10 @@
+i.image.error
+i.image.error
+i.image.error
+i.image.error
+language:
+简体中文 
+user.login
+user.forgotPass
+user.createAcont
+common.sysName V6.4.5.29

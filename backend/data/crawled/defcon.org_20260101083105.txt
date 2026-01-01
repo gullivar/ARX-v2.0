@@ -1,0 +1,267 @@
+skip to main content
+DEF CON Hacking Conference
+Home
+Home
+Recent News
+Archives »
+Archives By Show
+CTF Archive
+Tools Released
+Press Archives
+Other Video
+About »
+The Dark Tangent
+Goons
+Goon Hall of Fame
+FAQ
+Policies
+Contact
+Black Badge Hall of Fame
+Community »
+DEF CON Discord
+DEF CON Groups
+DEF CON Forums
+defcon.social
+Resources »
+Media Server
+File Downloads
+Speaker's Corner
+Reading List
+Movie List
+Hacker Mailing Lists
+Sites We Like
+SUBMIT! »
+Open Calls!
+DEF CON Singapore
+
+Apr. 28-30, 2026 at the Marina Bay Sands
+
+
+
+
+
+Website, Open Calls and News!
+
+
+Start Here.
+
+New to DEF CON?
+Find out what it's all about!
+
+DEF CON has been a part of the hacker community for over three decades. Pick up a bit of history and origin by watching DEF CON - The Documentary, and by checking out the About Page. The DEF CON FAQ has the answers to most of the common questions you might have.
+
+Get Educated.
+
+A treasure trove of hacking knowledge
+awaits in our past media!
+
+DEF CON Media Server. Speeches, music, art, and more!
+
+For the big downloaders, check out our Torrents.
+
+Infocon, the hacking con archive! Con video, podcasts, rainbow tables, and more!
+
+Get Involved.
+
+Want to participate?
+There are a myriad of ways!
+
+DEF CON is what you make it. If you'd like to do more than just attend, have a look at our Get Involved page for ideas!
+
+Year round, consider joining a local DEF CON Group, or get active on the DEF CON Forums!
+
+Future Dates
+
+DEF CON Singapore
+Apr. 28-30, 2026
+Training April 26-27, 2026
+
+
+DEF CON 34
+Aug. 6-9, 2026
+
+
+DEF CON 35
+Aug. 5-8, 2027
+
+
+Code of Conduct
+
+
+         
+.onion Links
+
+defcon.org media.defcon.org defcongroups.org
+
+
+Speaker's Corner
+
+DEF CON CFP: Thinking Back and Moving Forward
+by Nikita
+
+Bridging the Gap: Dispersing Knowledge through Research Presented at DEFCON
+by Aditya K Sood, PhD
+
+Hackers and Healthcare: A Call To Arms
+by Christian “quaddi” Dameff, MD and Jeff “r3plicant” Tully, MD
+
+The DEF CON CFP Process
+by Leah
+
+DEF CON Bittorrent Configuration Guide Announcement
+by Dark Tangent
+
+Disrupting Robotic Homeostasis And Artificial Intelligent Systems With Electromagnetic Pulse
+by Paul F. Renda
+
+'Twas the week before DEF CON
+By Zack Fasel
+
+Don't Forget About the Q&A Sessions
+by The Suggmeister
+
+How Do I Make My CFP Stand Out?
+By Nikita
+
+DCT Singapore: Available Classes
+DCT Las Vegas: Call for Trainers: Open
+
+DEF CON 34 Call for Trainers is Open!
+
+Posted 2025-12-4
+
+We're excited to announce that the Call for Trainers is now OPEN for DEF CON Training Las Vegas at DEF CON 34!
+
+Are you passionate about cybersecurity, hacking, and hands-on learning? Do you have expertise in emerging threats, defensive strategies, or cutting-edge security techniques? We want to hear from you!
+
+Visit training.defcon.org to submit your application by January 12, 2026.
+
+DEF CON Singapore Calls for Papers and Demo Labs are Open!
+
+Posted 2025-12-3
+
+Good news, everyone! The DEF CON Singapore Calls for Papers and Demo Labs are now OPEN. If you've got a presentation or an open source project that you want to share with the DEF CON community at our first ever Singapore event, it's time to get your submission ready. The deadline is Feb 15, 2026, and it will be here before you know it. Don't delay.
+
+We can't wait to see what you're cooking up.
+
+DEF CON 34 and 35 Dates!
+
+Posted 2025-10-29
+
+Good News, Everyone! We have the official dates for DEF CON 34! And to make up for the delay, we also have the dates for DEF CON 35!
+
+Please join us at the Las Vegas Convention Center August 6-9 in 2026 and August 5-8 in 2027.
+
+Save the dates, friends. It'll be here before you know it.
+
+See you there.
+
+DEF CON Singapore Call for Creators!
+
+Posted 2025-10-14
+
+DEF CON Creators alert! The Call is open for Creators! Got an idea for a Contest, Village or Community you'd like to see at DEF CON Singapore? Get your submission in and let's work together to bring your ideas to life. The info you need is on the DEF CON Singapore Call for Creators form . Let's make something amazing!
+
+DEF CON 33 Videos are Live on YouTube!
+
+Posted 2025-10-10
+
+Good thing there's a weekend coming up - the #defcon Youtube channel has dropped a few hundred DEF CON 33 videos for your leisurely perusal. Clear your schedule and let the dc33 Main Stage and Creator Stage Talks wash over your thirsty brain.
+
+Even more dc33 village and music goodness on the way.
+
+As always, enjoy and pass it on.
+
+Call for CTF Organizers!
+
+Posted 2025-10-09
+
+After four excellent years, Nautilus Institute is retiring from running the official DEF CON CTF. That means the search is on for the next team to run the world's premier CTF competition. Is it your turn? Is your crew the future of live hacking competitions?
+
+Successful applicants are:
+
+Fanatically dedicated.
+Radically resourceful.
+Diabolically clever.
+Disrespectful of boundaries.
+
+Selected crew receives:
+
+The freedom to bring your vision to the best CTF squads on Earth.
+Glory that echoes through eternity. Your name alongside immortals like Nautilus Institute, Order of the Overflow, LegitBS, DDTEK, Ghetto Hackers and The People.
+The satisfaction that comes from knowing you raised the bar and changed the CTF game forever.
+The thanks of a grateful community.
+
+If this sounds like you, get the details at The DEF CON Call for CTF Organizers Page, and take the first step towards your destiny. Glory awaits.
+
+DEF CON Singapore Call for Trainers!
+
+Posted 2025-10-07
+
+DEF CON Training is headed to Singapore!
+
+In April 2026, the first-ever DEF CON Singapore, co-hosted with @ HTX (Home Team Science & Technology Agency) and @ Centre for Strategic Infocomm Technologies (CSIT), will kick off with two days of world-class instruction on cutting edge topics.
+
+Want to join us? The Call for Trainers (CFT) is now open and accepting applications until 11:59 pm PT on November 10.
+
+Be sure to take a look at the list of topics of interest to provide your application the greatest chance of success.
+
+Send submissions and questions to training@defcon.org. We hope to see you there!
+
+DEF CON in the News!
+
+Posted 2025-09-16
+
+The DEF CON Franklin project got some coverage on NPR!
+
+To learn more about Franklin's mission to connect volunteers to under-resourced infrastructure organizations, please stop by defconfranklin.com.
+
+More News...
+
+
+
+
+
+DEF CON Singapore will be April 28-30, 2026
+at the at the Marina Bay Sands in Singapore!
+
+Website, Open Calls, & More!
+
+Coming Up
+
+
+15Feb
+DC SIngapore CFP and Demo Labs Deadline
+2.15.26 (All Day)
+28Apr
+DEF CON SINGAPORE!
+4.28.26 → 4.30.26
+6Aug
+DEF CON 34 Las Vegas
+8.6.26 → 8.9.26
+5Aug
+DEF CON 35 Las Vegas
+8.5.27 → 8.8.27
+
+Access the Con Calendar
+
+DEF CON Sites
+
+Forums 
+Groups 
+Media Server 
+InfoCon.org
+The Goods
+
+Official Swag
+
+Conference Recordings
+Past Media
+
+Torrents Page
+
+DEF CON Media Server
+
+InfoCon.org
+
+© 1992-2025 DEF CON Communications, Inc. All Rights Reserved | DEF CON Policies | DMCA Information

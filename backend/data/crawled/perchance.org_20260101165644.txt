@@ -1,0 +1,200 @@
+# Create a Random Generator
+##  Welcome to Perchance! 
+Perchance is a platform for creating and sharing random generators. To create a random generator you simply create lists which reference other lists:
+```
+output
+  Your [pack] contains [item], [item] and [item].
+
+item
+  a few coins
+  an old {silver|bronze} ring
+  a handkerchief
+  a shard of bone
+  some lint
+  a tin of tea leaves
+
+pack
+  purse
+  backpack
+  bag
+  pack
+  knapsack
+  rucksack
+
+```
+[try this example](https://perchance.org/rg4m14ri#edit)
+So, for example, whenever you write [pack], a random item from the "pack" list will be put in its place — as shown in [this animation](https://user.uploads.dev/file/bc63c883358b59575af1b8a142b90834.mp4) by [Vionet20](https://perchance.org/vionet20-gens).
+[Here's a link](https://perchance.org/rg4m14ri#edit) to a minimal perchance generator based on the above code. You can edit it, save your own version, and share it.
+You can change the odds of items like so:
+```
+pack
+  purse
+  backpack ^2
+  bag
+	...
+
+```
+
+That makes "backpack" twice as likely as the others to be chosen when we write [pack]. You can import other peoples' generators like this:
+```
+sentence
+	I need a new {import:noun}.
+	Quickly, {import:verb}!
+
+```
+
+You can also alter the capitalisation, pluralisation, tense, and other properties of your word lists. Here's how to play around with capitalisation, for example:
+```
+sentence
+	[name.titleCase], can you hear me?
+	HELLO, [name.upperCase]!
+
+name
+  patricia
+	khalid
+	anaya
+	...
+
+```
+
+There are a bunch of different shorthand notations to make common tasks easier:
+```
+sentence
+	{She|He} was about {15-20}0cm tall and was carrying {1-3} {import:concrete-noun}{s}.
+
+```
+
+If you prefer to learn via video, here's a great unofficial introduction video by YouTuber [Chaoclypse](https://www.youtube.com/@Chaoclypse) who is using Perchance to create RPG generators:
+(btw, feel free to share your own Perchance video tutorials on [the community forum](https://lemmy.world/c/perchance) - you might get featured here!)
+The above examples only show the **absolute basics** of Perchance! If you'd like to learn more, check out the [tutorial](https://perchance.org/tutorial), and start playing around with a [minimal example](https://perchance.org/minimal#edit) (or the [basic template](https://perchance.org/basic-template#edit)). Check out the [examples](https://perchance.org/examples) page and this [somewhat complexified version](https://perchance.org/aqr03wn1#edit) of the previous backpack example for some demonstration of advanced features.
+[View Creations 🔧](https://perchance.org/generators) [Start Creating ⚄](https://perchance.org/minimal#edit) [Keep Learning 📚](https://perchance.org/tutorial)
+Once you've created a generator, you can **share it** with others by simply sharing the URL. You can change the URL in the "settings" menu. You can also **download it** as a single HTML file so that you can run it offline, or even turn it into a [Twitter bot](https://perchance.org/create-a-twitter-bot) or a [Tumblr bot](https://perchance.org/create-a-tumblr-bot). It's also easy to **embed it** in your own website:
+```
+<iframe src="https://null.perchance.org/my-generator-name" style="width:100%; height:600px; border:none;"></iframe>
+
+```
+
+And a note to coders: It's also possible to [set up an API server](https://perchance.org/diy-perchance-api) for your generator, even though Perchance doesn't have an "official" API at this point. It's also possible to [set up a Discord bot](https://perchance.org/perchance-discord-bot) which will respond to messages with the output of a generator that you choose.
+We have a [Lemmy community](https://lemmy.world/c/perchance) which you might like to join. Feel free to share your creations there or ask questions if you need some help building your generator. Also check out the work-in-progress [useful generators](https://perchance.org/useful-generators) list which might have some generators that you'd find useful for importing into your own generator.
+If you're looking for a simple random generator maker that just randomly selects one of several different items that you specify, then you can still use Perchance, but it might be a bit excessive for such a simple task. That said, the advantage of using Perchance for something like this is that it makes it really easy to add different weights/chances to each item and to extend it with some additional complexity later if needed. Perchance is designed to allow you to create random generators that have a lot of complexity, without requiring any existing coding knowledge, and with a fairly simple interface.
+Perchance is based on [HTML/CSS](https://www.khanacademy.org/computing/computer-programming/html-css), and [JavaScript](https://www.khanacademy.org/computing/computer-programming/programming), and my secret mission with Perchance is to get people interested in coding with a smooth, fun learning-curve. If you enjoy using Perchance and want to take your coding skills to the next level, you might like to learn to code on [Khan Academy](https://www.khanacademy.org/computing/computer-programming), or [Scratch](https://scratch.mit.edu/).
+Finally, Perchance's structure is based on other awesome random text languages like [randomgen](http://orteil.dashnet.org/randomgen) by Orteil and [Rant](https://github.com/rant-lang/rant) by TheBerkin. Many thanks to these and other [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) creators which inspired Perchance's syntax and functionality. You might also like to check out [Chartopia](https://chartopia.d12dev.com/) - another website which allows you to make random generators. If you like the HTML/JS coding aspect of Perchance, and don't really need the generator stuff, then [neocities.org](https://neocities.org/) may also be interesting to you.
+Thanks to the contributors behind these open source software projects:
+  * [Compromise](https://github.com/nlp-compromise/compromise): A JavaScript natural language library that powers pastTense and pluralForm and the like.
+  * [Split.js](https://nathancahill.github.io/Split.js/): A library that allows you to easily split the screen up into resizable quadrants.
+  * [MongoDB](https://mongodb.com): A great document/NoSQL database. I use it for everything.
+  * [Express.js](https://expressjs.com): Helps serve you this webpage and power the internal APIs of Perchance.
+
+
+Thanks for checking out Perchance! •ᴗ•
+⚄︎
+[Privacy Policy](https://perchance.org/privacy-policy) - [Terms of Service](https://perchance.org/terms-of-service)
+  
+
+🛠️
+⚄︎
+👥︎ forum (14h)
+🌈 hub
+📚 learn
+🎲︎ generators
+➕ new
+🆕 ai chat
+🗄️ backups
+💾 save
+⚙️ settings
+🛠️ edit
+👤 account
+🔑 login
+❌
+fold
+wrap
+html plain text
+⇱︎ fullscreen ⚠︎ warnings ⟳︎ reload auto
+✨
+❓
+𝗲𝗱𝗶𝘁 the existing code write new code (𝘀𝘁𝗮𝗿𝘁 𝗳𝗿𝗲𝘀𝗵)
+⏩ redo 🔙 undo 🛠️ adjust
+wrap
+The items listed below aren't errors - they're just "warnings". Perchance generates "warnings" when it detects code in your editor panel that looks like it may be a mistake, but which is technically not "erroneous" - that is, it's valid Perchance syntax, but it's "unusual" code and so might have been an accident on your part. Feel free to ignore these warnings if you know what you're doing! ꒰•ᴗ•꒱
+close
+sign up or login to create your own generators ᕕ(ᐛ)ᕗ we **only** email you at your request (e.g. for password reset) 👍︎
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+that password is not correct (⊙.☉)7 forgot it?
+that password is too short (⌐■_■) >6 chars plz
+something seems wrong about that email address (⊙︿⊙)
+too many requests (this can sometimes be caused by VPN browser extensions)
+something went wrong on the server (✖╭╮✖) [plz post to forum](https://lemmy.world/c/perchance) if problem persists
+cancelsignup / login
+⏳ loading...
+we just sent a verification code to 
+hmm. there was a problem connecting to the server. check your internet connection?
+that code is not correct (⊙.☉)7 pls ensure you copied it exactly 👌︎
+something went wrong on the server (✖╭╮✖) [pls post to forum](https://lemmy.world/c/perchance) if problem persists
+backverify
+you're logged in! s(^‿^)-b
+close
+forgot your password? o(╥﹏╥)o that's all right! just enter the email you used to sign up and you'll be sent a reset code
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+very spooky: that account was not found (⊙.☉)7 are you sure you put in the correct email? 👻︎
+something went wrong on the server (✖╭╮✖) [pls post to forum](https://lemmy.world/c/perchance) if problem persists
+backrequest reset code
+we just sent a password reset code to 
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+that code is not correct (⊙.☉)7 pls ensure you copied it exactly 👌︎
+that password is too short (⌐■_■) >6 chars plz
+something went wrong on the server (✖╭╮✖) [pls post to forum](https://lemmy.world/c/perchance) if problem persists
+backset password
+you're logged in as 
+  * view your generators
+  * change your password
+  * change your email
+  * logout
+
+
+close
+changing your password is easy, just enter your current password and your new password:
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+the current password is not correct (⊙.☉)7
+that password is too short (⌐■_■) >7 chars pls
+something went wrong on the server (✖╭╮✖) [pls post to forum](https://lemmy.world/c/perchance) if problem persists
+backset new password
+your password has been changed!
+close
+your current email is 
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+that password is not correct (⊙.☉)7
+that new email address looks weird (⌐■_■)
+something went wrong on the server (✖╭╮✖) [plz post to forum](https://lemmy.world/c/perchance) if problem persists
+backset new email
+your email hand been changed!
+close
+🔤
+there was a problem loading your generators ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection? if the problem persists, please [post to forum](https://lemmy.world/c/perchance)
+back
+⏳ loading...
+you're viewing your generator with the url **welcome** - you can:
+  * change its url
+  * duplicate it
+  * make public
+  * download it
+  * delete it
+
+
+close
+this generator's current url is: **welcome**
+to change it, just enter a new one below. remember: you can only use lower-case letters, numbers and hyphens in your url
+**caution:** if you change it, the old url will no longer work! if your generator is popular, and others have imported it into their own, you will **break their generators!** (they will get import errors). because of this, if your generator is popular, it's better to make a copy of this generator rather than change this one's name
+sorry, the new url must be at least 4 characters long
+there was a problem connecting to the server ¯\\_(⊙_ʖ⊙)_/¯ check your internet connection?
+sorry, a generator with that name already exists (⌐■_■)
+something went wrong on the server (✖╭╮✖) [plz post to forum](https://lemmy.world/c/perchance) if problem persists
+backset new url
+your generator's url has been changed ヾ(⌐■_■)ノ♪♬
+close
+⏳ loading...
+if you click the button below, it will load a list of older versions of your generator so you can download them in case you accidentally deleted your code, or there was a system error. copies of your generator code are also backed-up to your local browser storage, so if your computer ever crashes and you hadn't saved in a while, you'll be able to come here to recover your data.
+load backup/revision history
+⏳ loading...
+hmm (⊙_☉) there was some sort of server error while trying to get your revision history. sorry! this doesn't happen very often. if it keeps happening (and you've checked your internet connection), could you please make a post on the [forum](https://lemmy.world/c/perchance)?
+close
+[AI Roleplay Chat / Chatbot](https://perchance.org/ai-chat) [AI Story Writer](https://perchance.org/story-ai) [AI Image Generator](https://perchance.org/ai-text-to-image-generator) [AI Human Generator](https://perchance.org/ai-human-generator) [AI Photo Generator](https://perchance.org/ai-photo-generator) [AI Character Description Generator](https://perchance.org/ai-character-description) [AI Text Generator](https://perchance.org/ai-text-generator) [AI Poem Generator](https://perchance.org/ai-poem-generator) [AI Lyrics Generator](https://perchance.org/ai-lyrics-generator) [AI Fanfic Generator](https://perchance.org/ai-fanfic-generator) [Perchance AI Chat](https://perchance.org/ai-character-chat) [AI Story Outline/Plot Generator](https://perchance.org/ai-story-outline) [AI Text Rewriter](https://perchance.org/ai-text-rewriter) [AI Code Generator](https://perchance.org/ai-code-generator) [AI Group Chat](https://perchance.org/ai-group-chat) [AI Insult Generator](https://perchance.org/ai-insult-generator) [AI Rap Lyrics Generator](https://perchance.org/ai-rap-lyrics-generator) [AI Chapter Name Generator](https://perchance.org/ai-title-generator?type=chapter) [Silly Light Novel Title Generator](https://perchance.org/ai-title-generator?type=funny-light-novel) [AI Caption Generator Using Keywords](https://perchance.org/ai-title-generator?type=caption) [AI Book Title Generator Using Keywords](https://perchance.org/ai-title-generator?type=book) [AI Sad Book Title Generator](https://perchance.org/ai-title-generator?type=sad-book) [AI Script Generator](https://perchance.org/ai-script-generator) [AI Plot Generator](https://perchance.org/ai-plot-generator)

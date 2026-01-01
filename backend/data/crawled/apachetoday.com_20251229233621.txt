@@ -1,0 +1,366 @@
+Your Daily Source for Apache News and Information	 	
+Breaking News	Preferences	Contribute	Triggers	Link Us	Search	About
+
+ 
+
+
+
+Linux Planet
+Linux Today
+Linux Central
+PHPBuilder
+Linux Apps
+Apache Today
+Just Linux
+Linux Programming
+BSD Today
+All Linux Devices
+Enterprise Linux Today
+Linuxnewbie.org
+BSD Central
+Linux Start
+SITE DESCRIPTIONS
+
+ 	internet.com
+
+Internet News
+Internet Investing
+Internet Technology
+Windows Internet Tech.
+Linux/Open Source
+Web Developer
+ECommerce/Marketing
+ISP Resources
+ASP Resources
+Wireless Internet
+Downloads
+Internet Resources
+Internet Lists
+International
+EarthWeb
+Career Resources
+
+Search internet.com
+Advertising Info
+Corporate Info
+
+
+
+
+Apache Module Registry
+ApacheCon
+Apache-Perl Integration Project
+The Java Apache Project
+PHP Server Side Scripting
+The Apache FAQ
+Apache XML Project
+Apache-Related Projects
+The Apache Software Foundation
+Apache Project
+The Jakarta Project
+
+linuxcentral.com: New Products
+
+
+"Mandrake Linux ProSuite Edition 8.2 (PRE-ORDER)
+"Mandrake Linux PowerPack Edition 8.2 (PRE-ORDER)
+"Linux Administration: A Beginner's Guide
+"BRU Pro 2.0
+"Building Linux Virtual Private Networks (VPNs)
+"Linux Routing
+"Mandrake Linux 8.2 (3 CD set) PRE-ORDER
+"The Book of VMware
+"Quanta Gold
+"Rekall
+
+
+Search for Linux products
+
+
+
+Serverwatch
+Newsletter
+
+ Subscribe News
+
+
+ 
+
+	
+Time Frame	Sort Order	View
+
+Right Now
+Yesterday
+2 Days Ago
+3 Days Ago
+4 Days Ago
+5 Days Ago
+6 Days Ago
+1 Week Ago
+	
+Date
+Reverse Date
+Reads
+Reverse Reads
+Talkback
+Rev. Talkback
+	
+ -= Highlighted stories above -- Normal news below =-
+
+perl.com: mod_perl in 30 minutes
+(Mar 26, 2002, 19:43 UTC) (478 reads) (0 talkbacks) (Posted by )
+"mod_perl in 30 minutes" article updated for apache_1.3.20 and mod_perl-1.26.
+
+Sun to allow open source Java implementations
+(Mar 26, 2002, 16:00 UTC) (723 reads) (0 talkbacks) (Posted by )
+The Apache Software Foundation today announced that it has reached an agreement with Sun Microsystems and members of the Java Community Process to secure the basic right to implement Java specifications in open source.
+
+SECURITY: Vulnerability in Apache for Win32 batch file processing
+(Mar 22, 2002, 17:29 UTC) (1007 reads) (0 talkbacks) (Posted by )
+Apache 1.3.24 was released. It fixes a remote command execution vulnerability.
+
+WebReference.com: mod_perl Developer's Cookbook
+(Mar 20, 2002, 15:50 UTC) (895 reads) (0 talkbacks) (Posted by )
+WebReference.com has published Chapter 4 from the newly released mod_perl Developer's Cookbook.
+
+mod_l33t added to Apache Module Registry
+(Mar 13, 2002, 21:09 UTC) (2799 reads) (0 talkbacks) (Posted by )
+mod_l33t is a fast, memory-efficient, dynamic, and limited virtual hosting module for Apache.
+
+Linux Easy Installer - Security Fixes
+(Mar 13, 2002, 21:02 UTC) (1571 reads) (0 talkbacks) (Posted by )
+Linux Easy Installer package has been update to resolve upload PHP security problem.
+
+Daemon News: Jakarta-Tomcat on FreeBSD 4.4
+(Mar 6, 2002, 17:21 UTC) (3968 reads) (0 talkbacks) (Posted by )
+"Servlets are small Java programs and are a better way to handle CGI tasks such as dynamic content and database interaction. Servlets run inside the Java Virtual Machine, which handles threads for each new request instead of the per instance model of traditional CGI programs. ... Tomcat is The Apache Group's reference implementation of a Servlet engine. It can handle both Servlets and JSPs. Tomcat can be run in stand-alone mode or with a HTTP server, such as Apache."
+
+Moto, a compilable server-side scripting language
+(Mar 5, 2002, 01:05 UTC) (3357 reads) (2 talkbacks) (Posted by )
+Moto is an embedded server-side scripting language first released about a year ago. Over the last few months, Moto has been undergoing heavy development. It has been ported to a wide variety of Unix platforms, including Mac OS X, Solaris, and FreeBSD, in addition to the many flavors of Linux it already ran on.
+
+SECURITY: Flaws Found in PHP Leave Web Servers Open to Attack
+(Mar 1, 2002, 18:56 UTC) (4145 reads) (0 talkbacks) (Posted by )
+The Computer Emergency Response Team Coordination Center (CERT/CC) Wednesday warned of multiple vulnerabilities in the PHP scripting language that allow a remote attacker to execute arbitrary code with the privileges of the PHP process on a victim's system.
+
+Everything Solaris: Apache: Handling Traffic
+(Feb 26, 2002, 04:41 UTC) (4935 reads) (1 talkbacks) (Posted by )
+"How you scale your infrastructure from here is wholly dependant on your growth needs and budget available. You will need to analyze your Website traffic and monitor your server performance characteristics closely to see how they all interelate."
+
+LinuxEasyInstaller 2.0 final release
+(Feb 26, 2002, 04:36 UTC) (5545 reads) (0 talkbacks) (Posted by )
+Linux Easy Installer is a script written in Perl that allows you to install quickly Apache, PHP, MySQL and phpMyAdmin. This script contains the sources of the programs, make the install and modify the configuration file.
+
+Apache 2.0.32 beta is available
+(Feb 19, 2002, 23:31 UTC) (5261 reads) (0 talkbacks) (Posted by )
+"The Apache HTTP Server Project is proud to announce the thirty-second release of Apache 2.0. The Apache HTTP Server Project has determined that this release is of beta quality. This makes 2.0.32 the third public beta of Apache 2.0. This release has been tested thoroughly and has been running the apache.org web site since Feb. 7, 2002."
+
+Everything Solaris: Apache: The Basics
+(Feb 19, 2002, 16:43 UTC) (4684 reads) (0 talkbacks) (Posted by )
+"... In this article, we'll cover the very basics of Apache such as what it is and what it does, getting and installing it and properly configuring it to serve your first pages. Finally, some basic maintenance that you must do to keep everything running smoothly."
+
+Apache Jakarta James Mailserver v2.0a2 Released
+(Feb 6, 2002, 22:13 UTC) (6179 reads) (0 talkbacks) (Posted by )
+James is a platform independant Java(tm) email and news server built using the Avalon application framenwork and supporting SMTP, POP3 and NNTP.
+
+PostgreSQL v7.2 Final Release
+(Feb 6, 2002, 22:06 UTC) (31818 reads) (4 talkbacks) (Posted by )
+"After almost a full year of development since PostgreSQL v7.1 was released, the PostgreSQL Global Development Group is proud to announce the availability of our latest development milestone ... PostgreSQL v7.2, another step forward for the project."
+
+Daemon News: Multiple webservers behind one IP address
+(Feb 6, 2002, 19:40 UTC) (8421 reads) (1 talkbacks) (Posted by )
+"This article discusses a network setup where multiple webservers reside behind one IP address. Such a situation may arise when you need a specific webserver for one task and a different webserver for another task, running different operating systems or webserver software. With only one IP address available from the Internet, you could simply use Network Address Translation (NAT) with port forwarding. However, this forces you to give each webserver an ugly URL with a non-standard port number. Luckily, there is a better way. In the setup described in this article, each webserver can be reached via its own fully qualified domainname on the standard HTTP port (80)."
+
+Zend Technologies launches Zend Studio 2.0
+(Feb 4, 2002, 18:38 UTC) (4652 reads) (0 talkbacks) (Posted by )
+The "all-in-one" client-sever development package conveniently integrates all the applications developers need to code, debug and deploy advanced PHP e-commerce and business applications.
+
+NuSphere first to enable development of PHP web services
+(Jan 31, 2002, 02:44 UTC) (5506 reads) (0 talkbacks) (Posted by )
+NuSphere offers integrated support for Apache, Perl, PHP and MySQL. NuSphere's PHPEd is an IDE (Integrated Development Environment) that integrates a comprehensive set of editing, debugging and deployment tools.
+
+Covalent Technologies raises $18 million in venture capital
+(Jan 28, 2002, 22:29 UTC) (3915 reads) (0 talkbacks) (Posted by )
+Covalent Technologies, a leader in enterprise solutions for the Apache Web server, will use funds to expand sales and marketing efforts, and accelerate the company's growth in all business areas, including development of new enterprise management products.
+
+Apache 1.3.23 released
+(Jan 25, 2002, 20:12 UTC) (7484 reads) (1 talkbacks) (Posted by )
+The Apache Group has released version 1.3.23 of the Apache HTTP webserver. (No security vulnerabilities were addressed in this release.)
+
+wdvl: Build Your Own Database Driven Website Using PHP and MySQL: Part 4
+(Jan 24, 2002, 18:17 UTC) (7158 reads) (0 talkbacks) (Posted by )
+Learn how to install PHP and MySQL under Windows or Linux, as well as how to build a live Web-based content management system! This final installment covers publishing MySQL data on the Web, connecting to MySQL with PHP, sending SQL queries with PHP, inserting data into the database, and even has a "homework" assignment. From SitePoint.
+
+Business 2.0: Find High Tech in the Bargain Basement
+(Jan 18, 2002, 20:29 UTC) (4319 reads) (0 talkbacks) (Posted by )
+Business 2.0 on Open Source and Apache as a Bargain
+
+Another mod_xslt added to the Apache Module Registry database
+(Jan 10, 2002, 18:33 UTC) (4941 reads) (0 talkbacks) (Posted by )
+An Apache module for parsing xml with an xsl was added to the Apache Module Registry.
+
+Netcraft Web Server Survey for December is available
+(Jan 3, 2002, 22:12 UTC) (5932 reads) (0 talkbacks) (Posted by )
+Apache continues to be the top used web server with 56.50 percent. Microsoft IIS is used by 30.75 percent, according to the survey. According to Netcraft's research, Apache runs 20,497,607 sites.
+
+O'Reilly: Apache Web-Serving with Mac OS X: Part 1
+(Dec 26, 2001, 19:26 UTC) (4692 reads) (0 talkbacks) (Posted by )
+"Most people know that Mac OS X ships with a built-in Apache web server, but don't realize that it's easy to configure and run. In fact, you can host a web site in minutes after completing just a few simple steps. ..."
+
+WDVL: Perl for Web Site Management: Part 3
+(Dec 14, 2001, 17:00 UTC) (4997 reads) (0 talkbacks) (Posted by )
+This article shows how to write CGI scripts, incorporate search engines, convert multiple text files to HTML, monitor log files, and track visitors to your site. This third and final installment looks at storing the data, the "visit" data structure, and the &store_line subroutine.
+
+Retro web application framework V1.1.0 release
+(Dec 11, 2001, 21:37 UTC) (4103 reads) (0 talkbacks) (Posted by )
+Retro uses Apache and the mod_fastcgi module to provide the same kind of web application development facilities as jsp/servlet environments, and the IIS ASP environment.
+
+Leveraging open standards such as Java, JSP, XML,J2EE, Expresso and Struts.
+(Dec 11, 2001, 21:35 UTC) (6315 reads) (1 talkbacks) (Posted by )
+"Now based on both Expresso and Apache Jakarta Struts, this move makes Jcorporate the first and only vendor in its marketplace to be based on the two dominant OSS Java Web application development frameworks in use today, a shared standard jointly comprising an estimated 850f that market."
+
+Netcraft Web Server Survey for November is available
+(Dec 4, 2001, 17:59 UTC) (7737 reads) (1 talkbacks) (Posted by )
+Apache continues to be the top used web server with 56.81 percent.
+
+FoxServ 2.0 Released
+(Dec 4, 2001, 17:53 UTC) (5654 reads) (0 talkbacks) (Posted by )
+After intensive beta stage testing and some feedback, we are proud to present FoxServ 2.0. This version has changed a lot since beta 3. It has fixed the configurator issue on php and added MySQL frontend and Python 2.1.
+
+Ace's Hardware: Building a Better Webserver in the 21st Century
+(Nov 30, 2001, 20:12 UTC) (6880 reads) (1 talkbacks) (Posted by )
+"Our old web application was written in PHP and ran on Apache, a "pre-fork" multiprocess HTTP server. Apache works by starting a parent process which then forks several child processes to listen and wait for HTTP connections. Since, each of these child processes serves one HTTP request at a time, Apache creates a pool of processes to handle connections in a timely fashion." This article talks about the hardware and software changes when upgrading a webserver. They end up using an alternative to Apache.
+
+Web Techniques: Customer Number One
+(Nov 30, 2001, 19:54 UTC) (4705 reads) (0 talkbacks) (Posted by )
+"Whether you're administering a single, dedicated Web server, or one serving hundreds of hosts, each site's client expects and deserves a certain level of support and service. ..." This article covers mod_throttle, having each site operate under its own user ID, and running several instances of Apache.
+
+Apache-Frontpage RPM project updated
+(Nov 27, 2001, 21:57 UTC) (7196 reads) (0 talkbacks) (Posted by )
+This project makes it easier for new people to get FrontPage 2002 extensions running with Apache. It is now updated to use Apache 1.3.22.
+
+CNet: Open-source approach fades in tough times
+(Nov 27, 2001, 20:15 UTC) (2682 reads) (0 talkbacks) (Posted by )
+"On the business end, companies typically seek customers with the free software and derive revenue by selling services and support. ... But that's proved easier said than done."
+
+NewsForge: VA spin-off releases first product, aims for profit
+(Nov 16, 2001, 20:19 UTC) (3036 reads) (0 talkbacks) (Posted by )
+"XAO Inc., a privately held spin off of VA Linux, announced the release of the XAO 1.0 Web server, a Web-services software package based on Apache."
+
+Apache 2.0.28 Released as Beta
+(Nov 16, 2001, 19:05 UTC) (5696 reads) (1 talkbacks) (Posted by )
+"The Apache Group is proud to announce the twenty-eighth release of Apache 2.0. This is the second public beta of Apache 2.0. This release has been tested thoroughly and has been running the apache.org web site since Nov. 9, 2001."
+
+Covalent Technologies announces industry support for Enterprise Ready Server and Apache 2.0
+(Nov 12, 2001, 20:52 UTC) (3726 reads) (1 talkbacks) (Posted by )
+"In conjunction with the launch of Enterprise Ready Server, Covalent Technologies today announced a coalition of support for its new enterprise solution for the Apache Web server. A wide range of companies support the new software product designed to enhance the reliability, security and manageability of the world's most widely used Web server."
+
+developer.com: On the Security of PHP, Part 1
+(Nov 7, 2001, 13:56 UTC) (4914 reads) (3 talkbacks) (Posted by )
+Despite the fact that PHP is designed with security in mind, a familiarity with its more dangerous aspects and conformance to common secure programming guidelines is essential to minimizing the possibility of security compromises. The aim of this document is to provide an overview of various security issues with PHP and to offer advice on secure PHP programming practices.
+
+Apache/PHP-based Content Management System Release
+(Nov 6, 2001, 12:33 UTC) (8741 reads) (0 talkbacks) (Posted by )
+Digital Spinner, a web design and applications development company, announced today the fifth release candidate
+of the GroupIT Engine, a PHP-based content management and group collaboration system capable of powering the next generation of web sites, intranets and extranets.
+
+HyperSpace Communications announces limited release of HyperSpace Accelerator software
+(Nov 5, 2001, 17:42 UTC) (3675 reads) (0 talkbacks) (Posted by )
+"HyperSpace enables content providers to dramatically accelerate the transmission and receipt of data over the Internet through a sharp reduction in bandwidth requirement. ... HyperSpace is the full-featured, commercial version of what began as Mod_gzip, a free, downloadable module the Company began offering a year ago to users of Apache servers."
+
+ -= Filtered [less interesting] news below =-
+
+ -= Highlighted=0 Regular=40 Boring=0 =-
+-= Click here to change filter settings =-
+
+	
+Your Apache Today
+Find Out Why!
+Login	
+Password	
+	
+
+Latest Feature
+
+SSL checker
+Apache mod_ssl is a web server module that helps in providing secure communication via TLS protocols. Verify TLS/SSL certificate installation errors.
+(August 12, 2024)
+
+Looking at Apache 2.0 Alpha 4
+Development continues to roll along on Apache 2.0. In his latest column, Ryan Bloom details what's new in the recently released Apache 2.0 Alpha 4.
+(Jun 30, 2000)
+ 
+Apache Today Features
+
+The Apache Web Server Documentation Project
+Over the years, a lot of people have become interested in the idea of contributing to the Apache HTTP Server project, but have hung back or remained silent because they felt only hardcore C programmers with tons of experience need apply. Some actually have contacted the Project, saying they'd like to help out but don't have the coding skills and so didn't know what they could do. And some have offered specifically to help out on the documentation, either translating it, or correcting technical nits, or improving its readability or navigability. In July of 2000, however, the Apache HTTP server project created a subproject and reorganised the documentation files so that they can be worked on directly by non-programmers. This article describes more about this, and how you can get involved.
+(Sep 27, 2000)
+ 
+Keeping Your Images from Adorning Other Sites
+Webmasters are ever searching for ways to make their sites look cool and attractive. One way is to dress it up with images, logos, and other graphics--sometimes referred to as 'eye candy.' Of course, if you happen to be in the forefront of this in any way, you run the risk of having others cadge your art in order to dress up their sites. This article shows how you can use Apache configuration directives to limit access to your art so that it's more difficult to use elsewhere.
+(Jun 14, 2000)
+ 
+E-Commerce Solutions: An Apache Overview
+With this column Martin C. Brown begin his regular coverage of Apache and E-Commerce for Apache Today. This initial column maps out the burgeoning area of E-Commerce and what every Apache Webmaster needs to know about implementing E-Commerce on their site.
+(May 31, 2000)
+ 
+An Introduction to Apache 2.0
+Apache 2.0 has already been through three alpha releases. In this preview, Ryan Bloom of the Apache Group previews Apache 2.0 and explains why it will make life easier for every Webmaster on the Internet.
+(May 28, 2000)
+ 
+Getting Started with Apache 1.3
+While you're licking your chops and waiting for Apache 2.0 to be released, you're probably facing a very real situation of having to set up an Apache Web server today. In this overview, Apache pioneer Ken Coar goes through all the steps needed to install and configure an Apache 1.3 Web server.
+(Jun 1, 2000)
+ 
+
+www.BSDtoday.com
+"Linux Journal: Why I Don't Use the GPL
+""It has Excel and Word"
+"ZDNet: Want a Windows alternative? Try BSD
+"Changes to the NetBSD Packages Collection in February 2002
+"Linux and main: Running a corporation in an open source world
+"Linux Journal: Hardening Sendmail
+"OSNews: Understanding CVSup, Mounting, Ports and Init on FreeBSD
+"ONLamp: BSDCon 2002
+"Wind River announces product rollout plans for future BSD/OS releases
+"Wind River announces BSD/OS 4.3 release
+
+
+PHPBuilder.com New Articles
+"Getting started with php and InterBase
+"Configuring PHP with ORACLE 8i Support
+"Using PHP and MySQL with Flash
+"Making PHP Applications Cache-Friendly
+"Making forms object-oriented
+"PHP programming methodologies and documentation
+"Using Webalizer to analyze Apache logs
+"Optimizing Postgresql
+"Getting Started with PHP/Ming
+"Cross-platform and Portable Development With PHP
+
+
+Linux Today
+
+
+"NewsForge: A Tale of Two Linux Bootable Business Cards
+"Java.Sun.com: Java Community Process Embraces Open Source
+"Computerworld New Zealand: Linux Wannabes Get Help
+"ZDNet UK: Stallman: Patents Victimize Developers
+"Linux Weekly News for March 28, 2002
+
+
+Search Linux Today:
+
+
+Content settings.
+
+
+
+About Triggers	Media Kit	Security	Triggers	Login
+
+
+All times are recorded in UTC.
+Linux is a trademark of Linus Torvalds.
+Powered by Linux 2.4, Apache 1.3, and PHP 4
+Copyright 2002 INT Media Group, Incorporated All Rights Reserved.
+Legal Notices,  Licensing, Reprints, & Permissions,  Privacy Policy.

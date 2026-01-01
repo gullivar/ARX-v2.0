@@ -1,0 +1,136 @@
+🚨 Smarter Audience Targeting for Healthcare—Finally, It’s Compliant
+START TARGETING
+Product
+Use Cases
+Customers
+Pricing
+Partners
+Resources
+LOG IN ➔
+GET A DEMO
+Unlock High Performance
+Marketing & Protect Patient Privacy
+
+Freshpaint bridges the gap between patient privacy and digital marketing by ensuring sensitive data is never shared with tools that aren’t HIPAA-compliant.
+
+BOOK A DEMO
+TRUSTED BY HEALTHCARE
+Purpose Built for Healthcare Marketing in a Privacy-Focused World
+Replace unsafe tracking tech
+
+Freshpaint replaces all unsafe tracking technologies with a BAA-supported platform.
+
+Learn More
+Block sensitive data by default
+
+Freshpaint blocks data to any non-compliant tool by default, reducing compliance risks caused by human error.
+
+Learn More
+Preserve the visitor journey
+
+Freshpaint creates an anonymous identification for every visitor, so you can still get a complete view of the customer journey while protecting privacy.
+
+Learn More
+Avoid high switching costs
+
+Freshpaint’s secure server-side connections make sure tools like Google Analytics and Google Ads work the way you expect without giving them access to sensitive data.
+
+Learn More
+Privacy Makes Healthcare Marketing Harder
+
+The tracking technologies on your website that power advertising and analytics are giant personal user data vacuums that put your organization at risk of violating privacy regulations. As a healthcare marketer, you need to supply data to those tools for maximum ROI, but you have to do it in a HIPAA-compliant way. Freshpaint unlocks that ability. 
+
+BOOK A DEMO
+How Do Tracking Technologies Violate HIPAA? 
+
+It all comes down to Protected Health Information, or PHI, which is any of the eighteen HIPAA identifiers combined with specific health information. 
+
+Name and email are obvious identifiers, but native trackers automatically collect IP addresses and device IDs, which are also considered identifiers.
+
+When it comes to your website, visits to a page about a specific condition, a search for a doctor, or booking an appointment would be considered health information.
+
+When you combine the two ingredients and share that data with a destination that is not HIPAA-compliant, this is where you run the risk of privacy violations. And that’s exactly what the tracking technologies on your website do.
+‍
+
+SCAN YOUR WEBSITE FOR PRIVACY RISKS
+Keep Using Existing Tools By Replacing Native Trackers With Freshpaint
+
+Freshpaint replaces all of your non-compliant tracking technologies to prevent advertising and analytics tools from ever getting PHI.
+
+BOOK A DEMO
+Collect Data Using a BAA-Supported Platform
+
+Freshpaint signs a Business Associate Agreement, or BAA, with your healthcare organization so that you can centralize website data collection in one HIPAA-compliant platform. 
+
+Learn more about centralizing data collection in a BAA-supported platform
+Make Your Entire Tech Stack Safe By Default
+
+Freshpaint eliminates human error by blocking data to tools that are not HIPAA-compliant by default. You have to opt in before any data is shared.
+
+Learn more about a privacy-first approach to data sharing
+Eliminate Sensitive Data Sharing To Web Analytics
+
+A web analytics tool like Google Analytics doesn’t need PHI to work. Freshpaint prevents all of the eighteen HIPAA identifiers from ever being shared while ensuring you get all the reporting you need to measure performance.
+
+Learn how to turn Google Analytics back on
+Do Digital Advertising Without Sharing PHI
+
+Freshpaint makes advertising tools like Facebook Ads and Google Ads HIPAA-compliant by never sharing health information.
+
+Learn how Freshpaint blocks PHI from advertising tools
+Eliminate Surprises With Monitoring For Web Trackers
+
+Freshpaint gives you better visibility about the trackers installed across your website, so you can more quickly make the decisions that keep you HIPAA-compliant..
+
+Learn how to detect new web trackers using Freshpaint
+Leverage Existing Tags To Avoid Switching Costs
+
+By leveraging your current Google Tag Manager setup, Freshpaint can help get all of your existing tools up and running again without a big time investment.
+
+Learn how to quickly restore data sharing to your ads and analytics tools
+Do The Marketing You’ve Always Imagined
+
+Improve patient lifetime value and build lasting relationships through better customer journey marketing, powered by Freshpaint's behavioral data integration with your other marketing tools.
+
+BOOK A DEMO
+Freshpaint is for digital marketing in a privacy-first world
+
+Use Freshpaint to replace all your non-compliant tracking technologies so advertising and analytics tools never get PHI.
+
+BOOK A DEMO
+Product
+BAA Supported Platform
+
+Safe By Default Approach
+
+Complete Visitor Journey
+
+Secure Server-Side Connections
+
+Web Tracker Monitoring
+Use Cases
+Analytics
+Advertising
+Maps
+Translation
+Data Warehouse
+Videos
+Resources
+Docs
+Status
+Customers
+Blog
+Pricing
+Events & Webinars
+About
+About
+Careers - we're hiring!
+Partners
+Privacy
+Terms
+Newsletter
+
+Freshpaint’s Healthcare Privacy Platform empowers healthcare companies to use the industry's best marketing tools while remaining compliant with a growing list of privacy regulations like HIPAA.
+
+© 2025 Perfalytics, Inc.
+Crafted in San Francisco

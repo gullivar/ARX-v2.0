@@ -1,0 +1,4 @@
+VRoid NEWS VRoid Studio VRoid Hub VRoid SDK VRoid Mobile VRoid WEAR VEAT 日本語 EN VRoid Studio正式版 配信中 プロモーションムービー公開中 PROMOTION MOVIE NEWS 【重要】 VRoid Studio iPad版の「テクスチャ編集の表示解像度設定」について 2025.12.4 VRChat向けオリジナル3Dモデル「ウルフちゃん」公開！着せ替え機能(XWear)向けアバターデータ無料配布 2025.12.4 【VRChat想定モデル「ウルフちゃん」公開記念】抽選で2,222円相当のpixivcobanが当たるキャンペーン 2025.11.27 【VEATセール開催中】楽曲付きテンプレートを特別価格で販売します！ もっと見る 3D創作を誰でも楽しめる世界へ VRoidプロジェクトは、「創作活動がもっと楽しくなる場所を創る」を理念とするピクシブ株式会社による3D事業です。
+誰もが個性豊かな自分の3Dキャラクターモデルを持ち、そのキャラクターを創作活動やコミュニケーションに活用することができる「1人1アバター」の世界。私たちのミッションは、その未来をテクノロジーとクリエイティブの力で実現することです。
+
+VRoidは、絵を描くようにキャラクターを作ることができる3Dモデリングソフトウェア「VRoid Studio」から生まれました。現在はこのソフトウェアをはじめとし、手軽にアバターづくりを楽しめるスマートフォンアプリや、3Dモデルを投稿できるプラットフォーム、それと連携するための開発者キット、アバターファッションを世の中に提案するブランド事業など、多方面で展開を行っています。 PRODUCT 3Dキャラクター制作ソフトウェア 3Dキャラクターのためのプラットフォーム 開発者向けUnity Package ホーム VRoid Studio VRoid Hub VRoid SDK VRoid Mobile VRoid WEAR VEAT ニュース VRoidヘルプ バグを報告 日本語 English Follow us News letter © pixiv

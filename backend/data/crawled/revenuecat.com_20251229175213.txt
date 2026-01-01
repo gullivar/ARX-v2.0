@@ -1,0 +1,415 @@
+RevenueCat
+Features
+Solutions
+Developers
+Resources
+Integrations
+Blog
+Pricing
+Log In
+Sign Up
+Build and grow your app business
+
+The world's best apps use RevenueCat to power purchases, manage customer data, and grow revenue on iOS, Android, and the web.
+
+Start for free
+Talk to sales
+50K+
+
+Apps trust RevenueCat
+
+2.5B+
+
+API requests daily
+
+$10B+
+
+Revenue processed
+
+Data and tools for every team
+
+Make reliable cross-platform data and easy-to-use growth tools accessible to everyone.
+
+Engineering
+
+Stop spending time on platform updates and edge cases — build great features instead.
+
+about Engineering
+For engineering teams
+Marketing
+
+Grow revenue with a single source of truth for your subscription data that connects with your existing marketing stack.
+
+about Marketing
+For marketing teams
+Product
+
+Streamline your product's growth with easy management of pricing, paywalls, and A/B tests, backed by actionable data.
+
+about Product
+For product teams
+Support
+
+Provide better customer support with a unified view of subscriptions, making it easy to resolve issues and tailor support.
+
+about Support
+For support teams
+Data teams
+
+Free your data team from ad-hoc requests, troubleshooting, and double-checking accuracy.
+
+about Data teams
+For data teams
+Leadership
+
+Make better decisions with an accurate view of the performance of your subscription business.
+
+Cross-platform purchases built better and faster
+
+With RevenueCat, the implementation and maintenance of purchases across mobile, Smart TV and web are simplified. Go to market quicker and spend less time supporting platform updates.
+
+Your subscription backend-in-a-box. RevenueCat simplifies purchase implementation and automates receipt validation for StoreKit, Google Play Billing, Smart TV and web transactions.
+
+Seamless web purchases. Easy online purchases that work on mobile—no coding or hosting needed.
+
+Just one API
+instead of one for each platform
+
+Stay ahead of platform changes. Our dedicated team of engineers handle updates, while you focus on developing features that matter.
+
+Get started in minutes
+
+Only pay when you earn. Usage-based pricing starts after you reach $2,500 in monthly tracked revenue.
+
+See the docs
+Pixery's case study
+
+Learn how Pixery gets back 6000+ engineerings hours per year with RevenueCat.
+
+Read case study
+Build, target & test paywalls that convert
+
+Turn-key tools for monetizing and growing your app.
+
+Launch faster with pre-built, configurable templates
+
+Designed to impress, built to customize—our paywall templates are yours to shape. You have full control with our intuitive layer-driven editor.
+
+Optimize for every audience
+
+Tailor how you monetize your app. Target your paywalls, pricing, and packaging by audience segements and in-app placement.
+
+Learn about segmentation with Targeting
+Maximize revenue with A/B testing
+
+Learn what drives growth with remotely configurable A/B test and full-funnel analytics.
+
+Learn about no-code experimentation
+Pixelcut's case study
+
+“Finding a variant that produces a 16% increase in subscribers definitely makes RevenueCat worth it.”
+
+Read case study
+Understand what drives growth & do more of it
+
+Make informed decisions faster.
+Use predictive analytics to estimate your campaign cohorts’ payback period.
+
+Get more out of your MMP investment.
+Analyze campaign performance beyond initial conversion.
+
+Maximize Web-to-App Revenue.
+Bypass fees and attribution restrictions with campaigns that convert on the web.
+
+Holywater's case study
+
+“Marketing drives 80% of our revenue. We rely on RevenueCat to optimize campaigns, evaluate creatives, and run our business.”
+
+Read case study
+Smarter support. Stronger retention
+
+Access ready-to-use growth tools that work together seamlessly to maximize your revenue.
+
+Self-serve support. Build a custom user interface in seconds to automate in-app support and show customers targeted promotional offers.
+
+Full picture at a glance. Debug and assist customers faster with centralized cross-platform data.
+
+Automate refund handling. Automatically manage Apple refund requests —powered by usage data and your preferences—to reduce auto-approvals and retain more revenue.
+
+Win back at-risk customers. Re-engage at-risk or churned customers with targeted strategies to boost retention and revenue.
+
+Dipsea's case study
+
+Learn how Dipsea reduced refund rates by 36% with automated refund handling.
+
+Read case study
+Driving results for the world’s most downloaded apps
+VSCO
+Photo Filter App
+
+“The RevenueCat and Braze integration allowed us to implement fast winback and upgrade messaging that ultimately resulted in a Membership churn reduction of almost 5%.”
+
+Shaheen Essabhoy
+Business Intelligence
+5%
+reduction in churn
+Read case study
+Photoroom
+Studio Photo Editor
+
+“RevenueCat is at the center of our stack for subscriptions. It enables us to have one single source of truth for subscriptions and revenue data and then allows us to spread that reliable data across all of the great integrations RevenueCat has with the rest of our marketing and analytics stack.”
+
+Olivier Lemarié
+Head of Growth and Marketing
+2-3x
+trial rates in Japan
+50%
+increase in upsell screen conversions
+Read case study
+ChatGPT
+AI-Powered Conversational Assistant
+
+“With RevenueCat, we never had to slow down. They made it easy to keep our focus on building the best product while ensuring our mission of accessible, safe AI for everyone.”
+
+Sara Conlon
+Head of Financial Engineering
+#1
+in the U.S. App Store within 24 hours
+Read case study
+CardPointers
+Credit Card Optimization
+
+“In just a year from shipping with RevenueCat, I was able to quit my day job to focus 100% on CardPointers. I’ve continued to grow and expand, all thanks to RevenueCat.”
+
+Emmanuel Crouvisier
+Founder
+~27%
+saved in app store fees with Stripe integration
+Read case study
+The Tapping Solution
+Emotional Freedom Techniques
+
+“(RevenueCat) really solved a lot of problems for us and I would do it again in a heartbeat. If I ever work on launching another app, I will include RevenueCat from the beginning.”
+
+Kelly Plummer
+Director
+50%
+reduction in backend engineering hours
+3.6%
+of users won back with new Braze campaigns
+Read case study
+Pixery
+Next generation mobile apps for content creators
+
+“We realized that implementing and maintaining in-app purchases ourselves had taken too much time and resources. You need dedicated people and when they leave it's difficult to replace and transition that knowledge.”
+
+Kemal Ugur
+Co-founder & CEO
+20%
+of data engineering capacity freed
+6x
+faster experimentation
+Read case study
+VSCO
+Photo Filter App
+
+“The RevenueCat and Braze integration allowed us to implement fast winback and upgrade messaging that ultimately resulted in a Membership churn reduction of almost 5%.”
+
+Shaheen Essabhoy
+Business Intelligence
+5%
+reduction in churn
+Read case study
+Photoroom
+Studio Photo Editor
+
+“RevenueCat is at the center of our stack for subscriptions. It enables us to have one single source of truth for subscriptions and revenue data and then allows us to spread that reliable data across all of the great integrations RevenueCat has with the rest of our marketing and analytics stack.”
+
+Olivier Lemarié
+Head of Growth and Marketing
+2-3x
+trial rates in Japan
+50%
+increase in upsell screen conversions
+Read case study
+ChatGPT
+AI-Powered Conversational Assistant
+
+“With RevenueCat, we never had to slow down. They made it easy to keep our focus on building the best product while ensuring our mission of accessible, safe AI for everyone.”
+
+Sara Conlon
+Head of Financial Engineering
+#1
+in the U.S. App Store within 24 hours
+Read case study
+CardPointers
+Credit Card Optimization
+
+“In just a year from shipping with RevenueCat, I was able to quit my day job to focus 100% on CardPointers. I’ve continued to grow and expand, all thanks to RevenueCat.”
+
+Emmanuel Crouvisier
+Founder
+~27%
+saved in app store fees with Stripe integration
+Read case study
+The Tapping Solution
+Emotional Freedom Techniques
+
+“(RevenueCat) really solved a lot of problems for us and I would do it again in a heartbeat. If I ever work on launching another app, I will include RevenueCat from the beginning.”
+
+Kelly Plummer
+Director
+50%
+reduction in backend engineering hours
+3.6%
+of users won back with new Braze campaigns
+Read case study
+Pixery
+Next generation mobile apps for content creators
+
+“We realized that implementing and maintaining in-app purchases ourselves had taken too much time and resources. You need dedicated people and when they leave it's difficult to replace and transition that knowledge.”
+
+Kemal Ugur
+Co-founder & CEO
+20%
+of data engineering capacity freed
+6x
+faster experimentation
+Read case study
+VSCO
+Photo Filter App
+
+“The RevenueCat and Braze integration allowed us to implement fast winback and upgrade messaging that ultimately resulted in a Membership churn reduction of almost 5%.”
+
+Shaheen Essabhoy
+Business Intelligence
+5%
+reduction in churn
+Read case study
+Photoroom
+Studio Photo Editor
+
+“RevenueCat is at the center of our stack for subscriptions. It enables us to have one single source of truth for subscriptions and revenue data and then allows us to spread that reliable data across all of the great integrations RevenueCat has with the rest of our marketing and analytics stack.”
+
+Olivier Lemarié
+Head of Growth and Marketing
+2-3x
+trial rates in Japan
+50%
+increase in upsell screen conversions
+Read case study
+ChatGPT
+AI-Powered Conversational Assistant
+
+“With RevenueCat, we never had to slow down. They made it easy to keep our focus on building the best product while ensuring our mission of accessible, safe AI for everyone.”
+
+Sara Conlon
+Head of Financial Engineering
+#1
+in the U.S. App Store within 24 hours
+Read case study
+CardPointers
+Credit Card Optimization
+
+“In just a year from shipping with RevenueCat, I was able to quit my day job to focus 100% on CardPointers. I’ve continued to grow and expand, all thanks to RevenueCat.”
+
+Emmanuel Crouvisier
+Founder
+~27%
+saved in app store fees with Stripe integration
+Read case study
+The Tapping Solution
+Emotional Freedom Techniques
+
+“(RevenueCat) really solved a lot of problems for us and I would do it again in a heartbeat. If I ever work on launching another app, I will include RevenueCat from the beginning.”
+
+Kelly Plummer
+Director
+50%
+reduction in backend engineering hours
+3.6%
+of users won back with new Braze campaigns
+Read case study
+Pixery
+Next generation mobile apps for content creators
+
+“We realized that implementing and maintaining in-app purchases ourselves had taken too much time and resources. You need dedicated people and when they leave it's difficult to replace and transition that knowledge.”
+
+Kemal Ugur
+Co-founder & CEO
+20%
+of data engineering capacity freed
+6x
+faster experimentation
+Read case study
+VSCO
+Photoroom
+ChatGPT
+CardPointers
+The Tapping Solution
+Pixery
+RevenueCat is trusted by developers globally
+4.8 / 5
+
+Capterra rating
+
+4.8 / 5
+
+G2 rating
+
+SOC2 Certified
+
+GDPR Compliant
+
+Ready to grow?
+
+Our entire suite of features comes standard and it's free to get started.
+
+Start for free
+Talk to sales
+RevenueCat
+Github
+Twitter
+Mastodon
+
+Ⓒ 2025 RevenueCat
+
+Resources
+Press Kit
+Careers
+Blog
+Podcast
+Customer Stories
+Partners
+Help Center
+Contact
+Documentation
+Quickstart Guide
+Migration Guide
+SDKs
+API Reference
+Sample Apps
+System Status
+View All Docs
+Product
+Why RevenueCat
+Integrations
+For Engineering Teams
+For Marketing Teams
+For Product Teams
+Pricing
+verifyReceipt tool
+Changelog
+Legal
+Privacy Policy
+Terms and Conditions
+GDPR
+Security and Compliance
+Fair Billing Policy
+English
+
+We use third-party cookies in order to personalize your site experience.
+
+Customize
+Reject
+Accept

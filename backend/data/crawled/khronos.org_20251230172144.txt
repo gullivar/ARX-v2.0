@@ -1,0 +1,189 @@
+Cookie Policy
+
+Clicking 'Accept All Cookies' means you agree to our cookie use and data sharing as described in our privacy policy under 'Cookies and Tracking Technologies'.
+
+  Manage cookie options
+
+Skip to main content
+
+Developers 
+Conformance 
+Membership 
+News & Events
+About
+
+Quick links to each of the Khronos Standards homepage.
+Skip to the News section.
+
+Khronos royalty-free open standards for 3D graphics, Virtual and Augmented Reality, Parallel Computing, Machine Learning, and Vision Processing
+3D Commerce
+ 
+ANARI
+ 
+COLLADA
+ 
+EGL
+ 
+glTF
+ 
+Kamaros
+ 
+KTX
+ 
+NNEF
+ 
+OpenCL
+ 
+OpenGL
+ 
+OpenGL ES
+ 
+OpenGL SC
+ 
+OpenVG
+ 
+OpenVX
+ 
+OpenXR
+ 
+Slang
+ 
+SPIR-V
+ 
+SYCL
+ 
+SYCL SC
+ 
+Vulkan
+ 
+Vulkan SC
+ 
+WebGL
+ 
+Machine Learning
+ 
+KSCAF
+Khronos News
+SIGN UP FOR OUR NEWSLETTER
+Recent news items related to Khronos Group Standards. Skip to the Khronos Members section
+LunarG Releases Vulkan SDK 1.4.335
+     December 10, 2025  vulkan    LunarG, Inc.
+
+LunarG announced the availability of Vulkan SDK 1.4.335. This release brings a long list of new extensions, improved validation tooling, clearer layer configuration, and – most notably – the first SDK-integrated version of KosmicKrisp, a Vulkan-over-Metal translation layer for Apple Silicon Macs.
+
+Read More...
+
+Notes about VK_EXT_custom_resolve Extension
+     December 4, 2025  vulkan    Igalia, S.L.    Valve Corporation
+
+Igalia's Ricardo Garcia pens this blog on the VK_EXT_cusom_resolve extension and it's role in the work Igalia has been doing to help Valve release the Steam Frame. 
+
+Read More...
+
+VK_EXT_present_timing: the Journey to State-of-the-Art Frame Pacing in Vulkan
+     December 4, 2025  vulkan
+
+VK_EXT_present_timing is conceptually simple yet powerful. The extension combines two fundamental features, which Vulkan devices can expose independently:
+
+The ability to receive timing feedback about previous presentation requests
+The ability to explicitly specify a target presentation time for each request
+
+
+It is the combination of these features that enables applications to achieve smooth, consistent animation.
+
+Read More...
+
+VeriSilicon’s NPU IP VIP9000NanoOi-FS has Achieved ISO 26262 ASIL B Certification Using OpenVX
+     December 3, 2025  opencl, openvx    Verisilicon Holdings, Co. Ltd.
+
+VIP9000NanoOi-FS provides hardware support for the OpenVX API and is compatible with a robust software stack and development tools, supporting OpenCL 3.0, OpenCL 1.2 Full Profile, OpenVX 1.3, OpenVX 1.2 Neural Network Extension, and extensions for OCL, OVX, and neural networks.
+
+As part of VeriSilicon’s VIP9000 series, the VIP9000NanoOi-FS IP is designed for automotive and edge AI applications, providing high-performance neural network processing with a safety-compliant architecture. The IP supports a wide range of AI inferencing models including Large Language Models (LLMs) and Convolutional Neural Networks (CNNs), with hardware-accelerated AI inference, enabling real-time applications such as object and scene detection, augmented reality, robotics, face and gesture tracking, visual inspection systems, video surveillance, and advanced driver-assistance systems (ADAS). It natively supports multiple data types and features a programmable SIMD vision pipeline, enabling high-performance execution of neural network layers while maintaining the deterministic latency required by ASIL B functional safety standards.
+
+Read More...
+
+Igalia Optimizes Vukan to Help Valve Power Up New Steam Devices
+     December 3, 2025  vulkan    Valve Corporation    Igalia, S.L.
+
+“We implemented many Vulkan extensions and reviewed numerous others,” said Danylo Piliaiev, an engineer on the Graphics Team. “Over the years, we ensured that D3D11, D3D12, and OpenGL games rendered correctly through DXVK, vkd3d-proton, and Zink, investigating many rendering issues along the way. We achieved higher correctness than the proprietary driver and, in many cases, Mesa3D Turnip is faster as well.”
+
+Read More...
+
+Advancing 3D Tiles and glTF in an Open Ecosystem
+     December 3, 2025  gltf    Cesium    Bentley Systems Inc
+
+Cesium's Amanda Morgan sits down with Don McCurdy for a Q&A that spans Don's years helping to create the glTF standard and tools. Sean Lilley joins the conversations to discuss open standards and what they see ahead as developers. 
+
+Read More...
+
+ALL NEWS
+SUBSCRIBE
+Khronos Members and Adopters
+
+Membership, Conformance and Khronos Blogs.
+Skip to the Khronos events section
+
+Members
+
+Khronos members are individuals, companies and academic institutes from around the world shaping the standards that are driving the world.
+
+MEMBERSHIP ABOUT KHRONOS
+Conformance
+
+See which companies and products have implemented Khronos standards and have passed the conformance tests.
+
+CONFORMANT PRODUCTS API ADOPTERS
+Khronos Blog
+Khronos Explores the Future of AI, Graphics, Spatial Computing, and Open Standards at SIGGRAPH ASIA 2025
+VK_EXT_present_timing: the Journey to State-of-the-Art Frame Pacing in Vulkan
+Boosting Ray Tracing Performance with Shader Execution Reordering: Introducing VK_EXT_ray_tracing_invocation_reorder
+VISIT KHRONOS BLOG
+Khronos videos, presentations, and upcoming events. Skip to the Khronos Quick Links section
+Presentations and Videos
+SIGGRAPH Asia 2025
+UnitedXR Europe 2025
+GISC 2025
+XDC 2025
+SIGGRAPH 2025
+Building the Foundation for Accelerated AI
+Getting Started with Slang: Reflections API
+Cesium Developer Conference 2025
+High-Performance Graphics 2025
+AWE 2025
+ALL PRESENTATIONS
+Upcoming Events
+
+January 6th
+
+ 
+
+February 9th
+
+ 
+
+February 12th
+
+ALL EVENTS
+Khronos quick links. Skip to the Khronos footer of the website
+List of Khronos Quick Links
+ 
+ 
+ 
+ 
+
+Page footer starts here. Return to main content
+
+9450 SW Gemini Drive #45043
+Beaverton, OR 97008
+United States
+Phone: +1 (415) 869-8627
+
+SIGN UP FOR OUR NEWSLETTER
+Diversity & Inclusion
+Legal Notices
+Privacy Policy
+Code of Conduct
+Trademark Usage
+Language : EN CN JP KR
+© The Khronos® Group Inc. 2025. All rights reserved.
+Khronos® and Vulkan® are registered trademarks, and ANARI™, WebGL™, glTF™, KTX™, NNEF™, OpenVX™, SPIR™, SPIR-V™, SYCL™, OpenVG™, Karamos™ and 3D Commerce™ are trademarks of The Khronos Group Inc. OpenXR™ is a trademark owned by The Khronos Group Inc. and is registered as a trademark in China, the European Union, Japan and the United Kingdom. OpenCL™ is a trademark of Apple Inc. and OpenGL® is a registered trademark and the OpenGL ES™ and OpenGL SC™ logos are trademarks of Hewlett Packard Enterprise used under license by Khronos. All other product names, trademarks, and/or company names are used solely for identification and belong to their respective owners.

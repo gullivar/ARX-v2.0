@@ -1,0 +1,133 @@
+Log in
+Create account
+Artist
+Event
+Recording
+Release
+Release group
+Series
+Work
+Area
+Instrument
+Label
+Place
+Annotation
+Tag
+CD stub
+Editor
+Documentation
+About us ▾
+About MusicBrainz
+Sponsors
+Team
+Shop
+Contact us
+Data licenses
+Social contract
+Code of Conduct
+Privacy policy
+GDPR compliance
+Copyright and DMCA compliance
+Data removal policy
+Auto-editor elections
+Privileged user accounts
+Statistics
+Timeline graph
+MusicBrainz history
+Products ▾
+MusicBrainz Picard
+AudioRanger
+Mp3tag
+Yate Music Tagger
+MusicBrainz for Android
+MusicBrainz Server
+MusicBrainz Database
+Developer resources
+MusicBrainz API
+Live Data Feed
+Search ▾
+Advanced search
+Edit search
+Tag cloud
+Top CD stubs
+Documentation ▾
+Beginners guide
+Style guidelines
+How tos
+FAQs
+Documentation index
+Edit types
+Relationship types
+Instrument list
+Genre list
+Development
+English ▾
+Deutsch
+English
+Français
+Italiano
+Nederlands
+(reset language)
+Help translate
+Welcome to MusicBrainz!
+
+MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+
+MusicBrainz aims to be:
+
+The ultimate source of music information by allowing anyone to contribute and releasing the data under open licenses.
+The universal lingua franca for music by providing a reliable and unambiguous form of music identification, enabling both people and machines to have meaningful conversations about music.
+
+Like Wikipedia, MusicBrainz is maintained by a global community of users and we want everyone — including you — to participate and contribute.
+
+More Information — FAQs — Contact Us
+
+MusicBrainz is operated by the MetaBrainz Foundation, a California based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping MusicBrainz free and open source.
+
+	
+MetaBrainz blog
+
+Latest posts:
+
+MusicBrainz Server update, 2025-12-16
+We can’t have nice things… because of AI scrapers
+MusicBrainz Server update, 2025-11-03
+Ensembling: Veena MiniVersion or Indian chordophones oh my!
+MusicBrainz Server update, 2025-10-13
+You are invited to MetaBrainz Summit 25
+
+Read more »
+
+	
+Tag your music
+MusicBrainz Picard
+AudioRanger
+Mp3tag
+Yate Music Tagger
+Quick start
+Beginners guide
+Editing introduction
+Style guidelines
+FAQs
+How to add artists
+How to add releases
+Community
+How to contribute
+Bug tracker
+Forums
+	
+MusicBrainz Database
+
+The majority of the data in the MusicBrainz Database is released into the Public Domain and can be downloaded and used for free.
+
+	
+Developers
+
+Use our XML web service or development libraries to create your own MusicBrainz-enabled applications.
+
+Recently added releases
+Recently added events
+
+DonateWikiForumsChatBug trackerBlogMastodonBlueskyUse beta site
+
+Brought to you by MetaBrainz Foundation and our sponsors and supporters.

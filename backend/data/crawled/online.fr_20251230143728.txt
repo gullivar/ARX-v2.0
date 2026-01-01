@@ -1,0 +1,256 @@
+Aller à la connexion
+Aller au contenu principal
+Aller au pied de page
+Blog
+Docs
+Contact
+ENGLISH
+EN
+FRANÇAIS
+FR
+Log in
+Sign up
+Serveurs dédiés
+Compute
+IA
+Stockage
+Network
+Data
+Outils
+Quantum
+Solutions
+Ressources
+Tarifs
+Accueil
+Dedibox
+Scaleway Dedibox : serveurs dédiés
+
+Une gamme de serveurs dédiés nouvelle génération ultra-sécurisés, idéale pour les start-ups, les PME et les grands comptes. Hébergez vos infrastructures chez Scaleway et bénéficiez d’une adaptabilité sur-mesure grâce à la personnalisation totale de votre environnement.
+
+Découvrir tous nos serveurs dédiés
+Serveur sur-mesure ? Contactez-nous
+Notre gamme de serveurs dédiés pour l’hébergement de vos environnements
+Serveur Dédié Start
+
+La solution idéale pour héberger vos applications au meilleur prix
+
+Les serveurs aux performances bluffantes et au meilleur rapport prix-performance du marché. La mémoire ECC pré-construite et trafic réseau public et privé illimité.
+
+
+
+À partir de 4,99€/mois HT
+Découvrir les serveurs Start
+Serveur Dédié Pro
+
+Conception parfaitement équilibrée
+
+Optimisez la performance de vos applications grâce à nos serveurs de production, pour un équilibre parfait entre le traitement, la mémoire et le stockage.
+
+
+
+À partir de 34.99€/mois HT
+Découvrir les serveurs Pro
+Serveur Dédié Core
+
+Performances maximales en production
+
+Profitez de la puissance de calcul de la génération 7 avec des processeurs Intel Xeon ou AMD EPYC, du stockage local NVMe ultra rapide, et une connectivité jusqu'à 25 Gbit/sec !
+
+
+
+À partir de 119.99€/mois HT
+Découvrir les serveurs Core
+Serveur Dédié Store
+
+Aux plus grands volumes de stockage
+
+Grandes capacités de stockage pour le traitement massif de données. Vous êtes libre dans votre configuration des disques gros volumes en petites quantités aux disques plus petits volumes en quantités énormes !
+
+
+
+À partir de 39.99€/mois HT
+Découvrir les serveurs Store
+Serveur Dédié GPU
+
+Spécialisé pour l'IA
+
+Une puissance GPU dédiée avec des performances fiables et une stabilité réduisant le temps d'obtention des résultats.
+
+
+
+À partir de 1274,99€/mois HT*
+
+*avec un engagement de 36 mois
+
+Découvrir les serveurs GPU
+Démarrer le serveur Dedibox
+Contactez-nous
+
+Jusqu'à 15% de réduction mensuelle.
+
+Accéder aux plans d'engagement
+Les réussites Scaleway
+
+Veryswing
+
+Depuis 2012, Veryswing fait confiance aux serveurs dédiés Scaleway Dedibox pour servir plus de 18.000 utilisateurs professionnels
+
+En savoir plus
+
+Sirdata
+
+Sirdata, l’un des leaders du traitement de données, fait confiance à Scaleway Dedibox
+
+En savoir plus
+
+NextSourcia
+
+NextSourcia fait confiance à Scaleway Dedibox pour garantir sa performance et stabilité
+
+En savoir plus
+Nos options pour serveurs dédiés
+Systèmes d'exploitation
+
+Scaleway Dedibox propose une large gamme d'OS prêts à installer sur votre serveur dédié Dedibox. Distributions Linux, CPU Microsoft® Windows® Dedibox, offre de virtualisation, offre Parallel Plesk® Panel.
+
+En savoir plus
+Stockage
+
+Scaleway vous propose des solutions adaptées aux projets de stockage, de sauvegarde et d’archivage. En quelques clics, augmentez le stockage de votre serveur dédiés Dedibox avec des volumes SAN, créez votre infrastructure de stockage avec les serveurs de la gamme Store. Découvrez également Object Storage pour stocker et archivez vos données sans limite de volume.
+
+En savoir plus
+Réseau
+
+Les serveurs Dedibox sont connectés à 2 réseaux physiquement distincts pour sécuriser les échanges de vos données (isolation physique) et apporter un maximum de performance. Le réseau public donne ainsi accès à Internet avec une connectivité garantie allant jusqu’à 25Gbps selon le modèle de serveur. Le réseau privé RPN permet les échanges entre vos serveurs sans impacter votre connectivité à Internet.
+
+En savoir plus
+
+Découvrez également notre toute nouvelle offre de serveurs dédiés, avec plus de flexibilité et de compatibilité cloud : Elastic Metal
+
+En savoir plus sur Elastic Metal
+Bénéfices clés des serveurs dédiés Dedibox
+Qualité et Fiabilité
+
+Nous gérons un parc en croissance continue de plus de 100 000 serveurs répartis dans nos datacenters en France et aux Pays-Bas.
+
+Innovation continue
+
+15 années d’innovation à vos côtés pour rendre accessibles les technologies qui participent au succès de vos infrastructures. Nous continuons à investir dans de nombreux programmes de R&D pour que vous puissiez profiter des meilleures technologies du marché.
+
+Console et API
+
+Chez Scaleway Dedibox, nous vous proposons de piloter vos services depuis :
+
+La console client, grâce à l’interface simplifiée
+L’ API pour interagir rapidement avec vos serveurs Dedibox et automatiser certaines tâches de maintenance.
+
+Réseau Premium
+
+Nous opérons un réseau performant, ultra rapide et fiable, entièrement maillé à 100 Gbit/sec. Notre réseau AS12876 s’appuie sur les équipements les plus perfectionnés du marché et dispose de plus de 8 Tbit/sec de capacité vers de multiples opérateurs et points d’échange.
+
+Datacenter Haut de Gamme
+
+Nous avons conçu des datacenters parmi les plus modernes et les plus performants au monde. Cette conception permet de garantir redondance, stabilité et économie d’énergie. Nos datacenters sont également certifiés ISO 27001, ISO 50001 et TIER 3 par l’Uptime Institute.
+
+Assistance 365/24/7
+
+L’assistance technique (multi-langues) est à votre écoute 7 jours/7 et 24 heures/24. Notre équipe vous accompagne tout au long du cycle de vie de votre serveur par ticket ou par téléphone.
+
+Infogérants à vos côtés
+
+La stabilité des nos infrastructure nous permet de gagner la confiance de plusieurs dizaines d’infogérants qui évoluent à nos côtés. Ils proposent tout un catalogue de services pour vous accompagner dans la migration, le déploiement et le maintien en conditions opérationnelles de vos services Scaleway Dedibox.
+
+Européen avec un ADN mondial
+
+Nous sommes un fournisseur européen d’infrastructures à la demande et avons la confiance de milliers de clients dans plus de 160 pays. Délivrabilité produit, outils, assistance client… tout est conçu pour être au plus proche de vous, partout dans le monde !
+
+Fun & Sérieux
+
+Les équipes Scaleway Dedibox travaillent dans un esprit positif, ouvert et dans une très grande humilité. Nous préférons la réalité du poney au fantasme de la licorne ! Nous continuons à démontrer que le Fun est compatible avec le développement d’infrastructures qui répondent aux plus grandes exigences !
+
+Commencez avec des tutoriels
+Quickstart Dedibox
+En savoir plus
+Tutorials
+Foire aux questions
+Comment louer un serveur dédié ?
+
+La location de votre serveur dédié pour entreprise chez Scaleway est simple: choisissez les spécifications qui conviennent à vos besoins tout en bénéficiant de notre engagement à réduire l'impact sur l'environnement.
+
+Pourquoi choisir Dedibox ?
+
+Le serveur dédié Dedibox combine fiabilité, performance exceptionnelle et excellent rapport qualité-prix, ce qui le rend parfaitement adapté aux professionnels exigeants.
+
+Cas d'utilisation des serveurs dédiés
+
+Qu'il s'agisse de boutiques de commerce électronique ou d'applications d'entreprise, les serveurs dédiés pour entreprise offrent la stabilité, la capacité et la sécurité nécessaires à la gestion de vos opérations critiques.
+
+Économiser sur son serveur dédié : les astuces Scaleway
+
+Pour optimiser vos dépenses sur un serveur dédié, plusieurs astuces peuvent être mises en œuvre.
+
+Optimisation des ressources : une utilisation rationnelle des ressources de votre serveur peut permettre d'économiser. Évaluez régulièrement vos besoins et ajustez les ressources de votre serveur en conséquence.
+Choix du système d'exploitation : le choix de Linux comme système d'exploitation peut vous faire économiser les frais de licence associés à Windows.
+Consommation énergétique : les serveurs dédiés modernes sont plus économes en énergie. Envisagez une mise à jour si votre serveur est ancien.
+Externalisation de certaines tâches : des tâches comme l'envoi d'e-mails peuvent être externalisées pour réduire la charge sur votre serveur.
+Utilisation de solutions d'automatisation : ces solutions peuvent réduire le temps passé à gérer votre serveur, d'où une économie indirecte.
+Réduction du trafic inutile : en utilisant des outils pour bloquer les bots malveillants, vous pouvez réduire le trafic inutile sur votre serveur.
+
+Produits
+Betas
+Bare Metal
+Dedibox
+Elastic Metal
+Instances virtuelles
+GPU Instances
+Containers
+Object Storage
+Block Storage
+Ressources
+Documentation
+Changelog
+Blog
+Feature Requests
+Slack Community
+Contacter
+Créer un ticket
+Report Abuse
+Status
+Dedibox Console online.net
+Support
+Kit de communication
+Entreprise
+A propos
+Marketplace
+Events
+Leadership environnemental
+Responsabilité sociale
+Modèle de responsabilité partagé
+News
+Carrières
+Scaleway Learning
+Temoignages clients
+Labs
+
+Suivez-nous
+
+linkedIn
+YouTube
+x
+instagram
+slack
+Contrats
+Mentions Légales
+Politique de confidentialité
+Cookies
+Nos mesures de sécurité
+Déclaration d'accessibilité
+Accords de niveau de service
+© 1999-2025 - Scaleway SAS
+Cookie time!
+
+Nous utilisons des cookies pour améliorer notre site web et vous offrir une meilleure expérience. Vous pouvez également consulter notre Politique d’utilisation des cookies.
+
+Je paramètre mes choix
+Tout accepter
+Tout rejeter

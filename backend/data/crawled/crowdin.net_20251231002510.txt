@@ -1,0 +1,369 @@
+We value your privacy
+
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+
+Customize
+Reject All
+Accept All
+Product 
+Demo
+AI
+Pricing
+Customers
+Enterprise
+search
+Contact
+Log in
+Sign up
+Crowdin is localization software for teams and businesses
+
+Your whole company —
+multilingual
+
+Sign Up for Crowdin
+Best for individuals and teams
+Need a Demo? 
+30-day trial
+Start a free Crowdin Enterprise
+Best for multilingual organizations
+
+Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 700+ apps and integrations
+
+❤️ by modern companies around the world
+
+Ready-to-publish
+AI Translations
+
+Localize your projects with a personal AI translator. Get accurate, context-aware translations quickly. Our AI language translator merges the best of technology providers and human insight. Plus, AI trains on your resources and feedback for continuous improvement.
+
+Try Crowdin AI
+
+*You purchase tokens from the provider at their price. There is no markup in Crowdin.
+
+AI as MT
+Provide Context
+Fine Tuning
+Provider Options
+Prompt Engineering
+No Extra Cost
+Read Case Study
+Achieving Up to 75% of Translations Ready for Publication with AI
++
+Continuous localization
+for all your content
+Software
+
+Set an automated process once and receive continuous localization in parallel with development.
+
+Integrate content
+Deliver translation
+Manage and monitor work
+Translate efficiently
+Mobile Apps
+
+Seamlessly integrate localization during any phase of your development cycle and automate the whole process.
+
+Websites
+
+Create a multilingual website by integrating Crowdin and your website's CMS.
+
+Marketing content
+
+Scale your marketing efforts through localization. Connect your marketing tools to automate the process.
+
+Help center
+
+Translate your Help Center articles to offer the same support to customers speaking different languages.
+
+Games
+
+Easily translate your game into multiple languages, ensuring that players worldwide can enjoy your creation.
+
+"I18n can be scary for any company, but Crowdin made it incredibly easy to onboard and offboard both translators and proofreaders. Without Crowdin’s generous open source plan, we would likely not be supporting over 35 languages in our Cal.com app."
+
+Peer Richelsen
+Co-founder
+
+Freshdesk
+
+Customer Service
+
+Slack
+
+Team Chat & Notifications
+
+Google Drive
+
+File Management & Storage
+
+HubSpot
+
+Marketing
+
+Salesforce Marketing Cloud
+
+Marketing
+
+Braze
+
+Marketing
+
+Unity
+
+Gaming
+
+Paligo
+
+CMS
+
+HelpScout
+
+Customer Service
+
+Magento
+
+eCommerce
+
+Marketo
+
+Marketing
+
+Contentful
+
+CMS
+
+Figma
+
+Design
+
+Document360
+
+Customer Service
+
+GitHub
+
+Development
+
+Pendo
+
+Marketing
+
+Wistia
+
+Marketing
+
+GitLab
+
+Development
+
+Notion
+
+CMS
+
+Iterable
+
+Marketing
+
+Intercom
+
+Customer Service
+
+Yespo
+
+Marketing
+
+Dropbox
+
+File Management & Storage
+
+Prismic
+
+CMS
+
+Zendesk Guide
+
+Customer Service
+
+Azure Repos
+
+Development
+
+Courier
+
+Marketing
+
+Visit Crowdin Store
+No more copy-pasting or missing features. Automate content sync with 700+ apps
+
+Over more than a decade, we've seen all kinds of feature requests and integration needs. The Crowdin localization platform works right after you sign up and also serves as a platform for you to provide enough flexibility to build the exact solution for your business using a large store of existing add-ons and APIs to build your own.
+
+Go global with scalable localization software
+Start Free Trial
+View 4-Minute Video
+Manage your multilingual content in one place
+
+Connect integrations, upload 70+ file formats, add new strings to existing files, customize your localization workflow using API, CLI, and webhooks.
+
+Leverage AI
+
+Use Crowdin's AI assistant to get context-aware machine translations, generate term definitions, and leverage prompt engineering.
+
+Collaborate on translations online
+
+All the tools a linguist needs to deliver high-quality translations. Provide context via screenshots, comments, in-context preview. Run QA checks, enable Glossary, and leverage your Translation Memory.
+
+Assign jobs to translators of your choice
+
+Bring your own translators, choose a vendor from Crowdin Store, invite your community, leverage Machine Translations, or combine these strategies in one translation project.
+
+Build reports to advocate for localization
+
+Use reports for budget planning, cost calculation, and to track translation progress.
+
+Manage translations at scale with Enterprise-level localization platform
+
+Start owning your localization process. Gain more control over vendor management, AI adoption, terminology management, quality control, and more. Scale and customize your localization projects.
+
+Contact Sales Team
+Learn More about Enterprise
+none
+Start
+playlist_add_check
+Source text review
+chrome_reader_mode
+TM Pre-translation
+To: 3 languages
+2 assignees
+Auto-substitution: on
+Perfect-match
+g_translate
+MT Pre-translation
+To: 3 languages
+Crowdin Translate
+translate
+Translate by Agency
+To: 9 languages
+translate
+Proofread by Agency
+To: 2 languages
+2 assignees
+none
+End
+Create flexible localization workflows
+
+Traditionally, localization has been managed by tasks. Workflows are an alternative way to orchestrate work. Tasks are still available for fine-grained control.
+
+Source Text Review
+
+Proofreading
+
+Crowdsourcing
+
+Translation
+
+Custom Code
+
+Translation by Vendor
+
+Switch Source Language
+
+Translation by API Vendor
+
+Role-based permissions
+SCIM
+99.9% uptime
+Two-factor authentication
+Audit logs and Activity feed
+SAML 2.0
+Granular access control
+Keep your data secure
+
+We respect your privacy and offer protection for your projects, files, and translations with Crowdin's security features.
+
+More about Security 
+
+High security standards
+
+Technical support 24/7
+
+Onboarding calls
+
+Implementation guidance
+
+Slack support
+
+24/7 chat and email support
+
+Knowledge Base
+
+Community
+
+Webinars, eBooks, Checklists
+
+"Crowdin streamlined our translation process with a tight GitLab integration. By automatically presenting new strings to our community for translation, we’re able to save time and get our community engaged quickly. The integration also allows us to immediately present new translations in a new merge request when they get approved by our community proofreaders, helping us integrate new translations quickly. We’re big fans!"
+
+Jeremy Watson
+Product Manager
+Try Crowdin for free today
+
+Join thousands of people already making their products multilingual
+
+Sign Up for Free
+Start a Free Enterprise Trial
+100+
+
+supported file formats
+
+249K+
+
+localization projects
+
+3,0M+
+
+registered users
+
+160+
+
+customer countries
+
+  
+ 
+
+CROWDIN
+
+Why Crowdin?
+Crowdin Features
+AI for Translation
+Request Demo
+Apps & Integrations
+Explore public projects
+Pricing
+Enterprise
+
+SUPPORT
+
+Contact us
+Help center
+Developer Portal
+Changelog
+Community
+
+COMPANY
+
+About us
+Blog
+Customers
+Security
+
+LEGAL
+
+Terms and Conditions
+Cookies Statement
+Privacy Policy
+
+FOLLOW US
+
+LISTEN ON
+
+ Status
+crowdin.com

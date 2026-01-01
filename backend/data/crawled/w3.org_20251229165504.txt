@@ -1,0 +1,95 @@
+Skip to content
+
+We have a new logo! Learn more.
+
+日本語ホームページ
+Japanese website
+简体中文首页
+Chinese website
+Visit the W3C homepage
+Standards & groups
+Get involved
+Resources
+News & events
+Support us
+About
+Search
+Sign in
+Making the web work
+
+Happy holidays 2025! The World Wide Web Consortium wishes you all the best for 2026!
+
+The World Wide Web Consortium (W3C) develops standards and guidelines to help everyone build a web based on the principles of accessibility, internationalization, privacy and security.
+
+Read more about W3C
+Pause
+Working with stakeholders of the web
+
+A range of organizations join the World Wide Web Consortium as Members to work with us to drive the direction of core web technologies and exchange ideas with industry and research leaders. We rotate randomly a few of our Member organizations' logos underneath.
+
+The Web Consortium and its members, with help from the public and the web community, focus on a range of business ecosystems that the web transforms, including E-commerce, Media & Entertainment, Publishing and several other areas.
+
+Discover how W3C supports these organizations
+W3C 30th anniversary
+
+1 October 2024 was W3C's 30th anniversary. We celebrated at our annual TPAC our three decades, advances in the web, the impact of our standards on the world, imagined a bright future, and enjoyed ourselves at an authentic evening of talks and a gala.
+
+TPAC, our major annual event, gathers our community for thought-provoking discussions and coordinated work to advance the invaluable work of our Groups, and resolve challenging technical and social issues that the web faces.
+
+TPAC brings together W3C Members and technical groups, the Board of Directors, the Advisory Board, and the Technical Architecture Group.
+
+W3C@30 video & mementos
+Web standards
+
+Web standards are the building blocks of a consistent digitally connected world. They are implemented in browsers, blogs, search engines, and other software that power our experience on the web.
+
+W3C is an international community where Members, full-time staff, and the public work together to develop web standards.
+
+Learn more about web standards
+Get involved
+
+W3C works at the nexus of core technology, industry needs, and societal needs. Everyone can get involved with the work we do.
+
+There are many ways individuals and organizations can participate in the Web Consortium to advance web standardization.
+
+Ways to get involved
+Latest news
+
+Latest entries from across our News, Press Releases or Blog. 
+
+W3C Invites Implementations of IMSC Text Profile 1.3
+
+IMSC 1.3 defines a text-only profile of [ttml2] intended for subtitle and caption delivery applications worldwide.
+
+News
+
+Updated Candidate Recommendation: Dubbing and Audio description Profiles of TTML2
+
+This specification defines DAPT, a TTML-based file format for the exchange of timed text content in transcription and translation workflows used in the production of dubbing scripts, audio description, translation subtitles and hard of hearing subtitles (also known as closed captions).
+
+News
+
+TPAC 2025 Breakouts recap
+
+This post gives highlights about the kind of breakout sessions held at TPAC 2025 and the improvements made this time.
+
+Blog
+
+Updated Candidate Recommendation: CSS Color Adjustment Module Level 1
+
+This module introduces a model and controls over automatic color adjustment by the user agent to handle user preferences, such as "Dark Mode", contrast adjustment, or specific desired color schemes.
+
+News
+
+Home
+Contact
+Help
+Support us
+Legal & Policies
+Corporation
+System Status
+W3C on Mastodon
+W3C on GitHub
+
+Copyright © 2025 World Wide Web Consortium.
+W3C® liability, trademark and permissive license rules apply.

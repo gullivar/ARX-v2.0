@@ -1,0 +1,30 @@
+Test IPv6 FAQ Mirrors
+stats
+Test your IPv6 connectivity.
+For the Help Desk
+Summary Tests Run
+
+	test-ipv6.com will stay online! see status.test-ipv6.com
+
+	Your IPv4 address on the public Internet appears to be 221.138.189.189
+
+	Your Internet Service Provider (ISP) appears to be SKB-AS SK Broadband Co Ltd
+
+	No IPv6 address detected [more info]
+
+	You appear to be able to browse the IPv4 Internet only. You will not be able to reach IPv6-only sites.
+
+	To ensure the best Internet performance and connectivity, ask your ISP about native IPv6. [more info]
+
+	Your DNS server (possibly run by your ISP) appears to have IPv6 Internet access.
+Your readiness score
+0/10	for your IPv6 stability and readiness, when publishers are forced to go IPv6 only
+
+Click to see Test Data
+
+(Updated server side IPv6 readiness stats)
+This instance (osaka.test-ipv6.com) is hosted at Linode.
+
+Copyright (C) 2010, 2024 Jason Fesler. All rights reserved. Version 1.1.1024 (4b66a53)
+Mirrors | Source | Attributions | en_US
+This is a mirror of test-ipv6.com. The views expressed here may or may not reflect the views of the mirror owner.

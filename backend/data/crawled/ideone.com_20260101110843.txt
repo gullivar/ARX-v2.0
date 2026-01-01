@@ -1,0 +1,15 @@
+Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 70+ other compilers and interpreters - Ideone.com Ideone.com requires JavaScript to work. new code samples recent codes sign in New user? Sign up Sign in Can't sign in? Log in with Facebook enter your source code or insert template or sample or your template clear shortcuts /* package whatever; // don't place package name! */
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Ideone
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+	}
+} Your source code is too long. Maximum only 64KB. enter input (stdin) clear Your input is too long. It will be cut to 64 KB. syntax highlight time limit: 5s 15s enter your note clear Java popular Bash Pascal C Perl C# PHP C++ Python C++14 Python 3 Haskell Ruby Java SQLite Objective-C Swift Pascal VB.net others Ada95 CoffeeScript Intercal Prolog Assembler 32bit Common Lisp Java Prolog Assembler 32bit Common Lisp JavaScript Python Assembler 64bit D JavaScript Python 3 nbc AWK D Julia R AWK D Kotlin Racket BC Dart Lua Rust Brainf**k Elixir Nemerle Scala C Erlang Nice Scheme C# F# Nim Scheme C++ 4.3.2 Fantom Node.js Scheme C++14 Forth Objective-C Smalltalk C99 Fortran OCaml TCL Clips Go Octave Text Clojure Gosu Perl Unlambda Cobol Groovy Pico Lisp VB.NET COBOL 85 Icon Pike Whitespace stdin more options fewer options Run Discover > Sphere Engine API The brand new service which powers Ideone! Discover > IDE Widget Widget for compiling and running the source code in a web browser! What is Ideone? Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages. How to use Ideone? Choose a programming language, enter the source code with optional input data... and you are ready to go! Having problems? Check the samples to see how to write code which works correctly.To find out more visit our FAQ section . Sphere Engine™ We are proud to present our Sphere Engine™ technology, which allows you to execute programs on a remote serverin a secure way within a complete runtime environment. Visit the Sphere Engine™ website to find out more. Follow us Follow @ideone × Shortcuts Global ⌘ + Enter run Ace editor ⌘ + Enter run Textarea ⌘ + Enter run OK Sphere Research Labs .
+					Ideone is powered by Sphere Engine™ Home API Language FAQ Credits desktop mobile Terms of Service Privacy Policy GDPR Info Feedback & Bugs Popular languages: Bash Pascal C Perl C# PHP C++ Python C++14 Python3 Haskell Ruby Java SQLite Objective-C Swift VB.net List of all supported programming languages × Report bug / make suggestion Close submit × Choose your language English Hindi Hungarian Mongolian Polish Russian Spanish Traditional Chinese close

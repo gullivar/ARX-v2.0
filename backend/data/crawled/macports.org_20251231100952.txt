@@ -1,0 +1,20 @@
+The MacPorts Project -- Home The MacPorts Project Skip to Content Download MacPorts Home Installing MacPorts Available Ports Documentation Support & Development Contact Us News Donate Available Downloads MacPorts FAQ Report a Bug Bug reporting Guidelines Git Repository MacPorts Team Becoming a Member The MacPorts Project Official Homepage The MacPorts Project is an open-source community initiative to design an easy-to-use system for compiling, installing,
+    and upgrading either command-line, X11 or Aqua based open-source software on the Mac
+    operating system . To that end we provide the command-line driven MacPorts software package under a 3-Clause BSD License , and through it easy access to thousands of ports
+    that greatly simplify the task of compiling and installing open-source software on your Mac. We provide a single software tree that attempts to track the latest release of every software title (port) we distribute,
+    without splitting them into “stable” Vs. “unstable” branches, targeting mainly macOS Ventura v13 and later
+    (including macOS Tahoe v26 on both Intel and Apple Silicon).
+    There are thousands of ports in our tree, distributed among different categories, and more are being added on a regular basis. Getting started For information on installing MacPorts please see the installation section of this site and
+    explore the myriad of download options we provide and our base system requirements. If you run into any problems installing and/or using MacPorts we also have many options to help you, depending on how
+    you wish to get get in touch with us . Other important help resources are our online documentation,
+    A.K.A The MacPorts Guide , and our Trac Wiki
+    server & bug tracker . Latest MacPorts release : 2.11.6 Getting involved: Students A good way for students to get involved is through the Google Summer of Code . GSoC is a program to encourage students' participation in Open Source development and offers a stipend to work on the project with an organization for three months. MacPorts has been participating in the program since 2007! We shall participate next year as well. You may find past GSoC projects here . We have a list of ideas with possible tasks for MacPorts and additional information about the process at wiki/SummerOfCode . We are always open to new ideas. Research on the idea, draft an initial proposal and get it reviewed. Getting involved There are many ways you can get involved with MacPorts and peer users, system administrators & developers alike.
+    Browse over to the “ Contact Us ” section of our site and: Explore our mailing lists , either if it is for some general user support or to
+        keep on top of the latest MacPorts developments and commits to our software repository. Check out our Support & Development portal for some bug reporting and live
+        tutorials through the integrated Wiki server. Or simply come join us for a friendly IRC chat if you wish for more direct contact
+        with the people behind it all. If on the other hand you are interested in joining The MacPorts Project in any way, then don't hesitate to contact the
+    project's management team, “ PortMgr ”, to explain your particular interest
+    and present a formal application. We're always looking for more helping hands that can extend and improve our ports tree
+    and documentation, or take MacPorts itself beyond its current limitations and into new areas of the vast software packaging
+    field. We're eager to hear from you! Copyright © 2002–2025, The MacPorts Project .
+            All rights reserved.

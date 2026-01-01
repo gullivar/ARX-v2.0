@@ -1,0 +1,80 @@
+Video Editor
+ 
+Add Subtitles to Video
+ 
+Compress Video
+ 
+GIF Editor
+ 
+Text to Speech
+ 
+Video Translator
+Sign Up
+Login
+Convert
+OCR
+API
+Pricing
+Help
+File Converter
+Convert your files to any format
+We've converted 3,191,036,609 files with a total size of 58,299 TB
+Choose Files 
+ 
+ 
+ Drop files here. 100 MB maximum file size or Sign Up
+
+300+ formats supported
+
+We support more than 25600 different conversions between more than 300 different file formats. More than any other converter.
+
+Fast and easy
+
+Just drop your files on the page, choose an output format and click "Convert" button. Wait a little for the process to complete. We aim to do all our conversions in under 1-2 minutes.
+
+In the cloud
+
+All conversions take place in the cloud and will not consume any capacity from your computer.
+
+Custom settings
+
+Most conversion types support advanced options. For example with a video converter you can choose quality, aspect ratio, codec and other settings, rotate and flip.
+
+Security guaranteed
+
+We delete uploaded files instantly and converted ones after 24 hours. No one has access to your files and privacy is 100% guaranteed. Read more about security.
+
+All devices supported
+
+Convertio is browser-based and works for all platforms. There is no need to download and install any software.
+
+Conversion API
+
+With passion to Developers
+
+Documentation PHP Example Get an API Key
+
+Overall conversion quality rating      4.6 (29,625,032 votes)
+You need to convert and download at least 1 file to provide feedback!
+Converted Files:
+3,191,036,609 58,299 TB
+About
+Security
+Formats
+Help
+Video Converter
+Audio Converter
+Document Converter
+Image Converter
+OCR
+Developers API
+API Docs
+CLI Docs
+API Pricing
+English
+
+© 2014–2025 Convertio ltd. All rights reserved.
+
+ Terms of Use Privacy Policy
+Rate Conversion Quality!
+    

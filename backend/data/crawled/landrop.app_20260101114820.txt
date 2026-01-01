@@ -1,0 +1,76 @@
+LANDrop
+FeaturesDownloadsFAQPrivacy
+LANDrop
+
+Drop any files to any devices on your LAN
+
+ Download Now
+ Community Donate
+Features
+LANDrop automatically detects other devices running LANDrop on the same Wi-Fi network, so you don't need to enter IP addresses manually. Unlike other apps, there's no need to set up a server. LANDrop handles everything behind the scenes—just like AirDrop, but cross-platform.
+ Cross-Platform
+
+We mean it—iOS, Android, macOS, Windows, Linux, Android TV, and more. LANDrop works seamlessly across all major platforms.
+
+ Ultra-Fast & Secure
+
+LANDrop uses advanced protocols to deliver line-rate transfer speeds along with military-grade encryption and authentication for top-notch security.
+
+ No Data Usage
+
+On the go? No worries—LANDrop works with your personal hotspot, without using cellular data.
+
+ Lossless Transfers
+
+LANDrop transfers your photos and videos without any compression, ensuring they remain high quality.
+
+ Nearby Sharing
+
+LANDrop can detect nearby devices even if they're not on the same Wi-Fi network. Using WebRTC, it enables file transfers to those devices.
+
+ Trusted Devices
+
+Add trusted devices in LANDrop and automatically accept file transfers from them without needing approval each time.
+
+Download LANDrop
+iOSAndroid/TVmacOSWindowsLinux
+v
+macOS >= 10.15
+Frequently Asked Questions
+I can't find other devices. What should I do?
+My Windows computer can't receive files from my phone. What should I do?
+LANDrop is slow. How can I fix it?
+Can LANDrop transfer files between devices on different networks?
+Does LANDrop upload my files to the cloud?
+Does LANDrop use my data plan?
+Does LANDrop compress my photos and videos?
+I have more questions. How can I contact you?
+Privacy Policy
+
+Thank you for using LANDrop!
+
+SkyArc LLC is committed to protecting your privacy. This Privacy Policy outlines how we handle your personal data.
+
+Data Storage and Usage:
+
+We do not collect, share, or store any of your personal data.
+All personal data required for the normal operation of the app are stored entirely and exclusively on your device.
+
+File Transfers:
+
+When you send or receive files to or from other devices, your device's name, type, and/or local IP address may be shared with the other party.
+You can choose not to actively share this information by turning off "Discoverable" in the app.
+This information is not collected, shared, or stored by SkyArc LLC in any way and is only used for the necessary operation of the app.
+
+Analytics and Usage Data:
+
+To better serve our customers, we may gather analytics and usage data. This data helps us understand how our app is used and improve its performance and functionality.
+The analytics and usage data collected will be anonymized and will not include any personal data.
+
+If you have any questions regarding this privacy policy, please send an email to privacy@landrop.app.
+
+Thank you for your trust in LANDrop!
+
+SkyArc LLC
+
+Copyright © 2021-2024, SkyArc LLC

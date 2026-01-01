@@ -1,0 +1,59 @@
+TeX Users Group (TUG) (via DuckDuckGo ) TeX Users Group The TeX Users Group (TUG) is a membership-based not-for-profit
+organization, founded in 1980, for anyone who uses the TeX typesetting
+system created by Donald Knuth and/or is interested in typography and font design. Join or
+renew with TUG ( trial
+memberships available for new members)
+to support use and development of TeX and friends.  All TUG memberships
+are for the calendar year, and include all benefits for the year no
+matter when you join. If you're new to TeX , we
+recommend installing TeX Live ( Windows , macOS , GNU/Linux/Unix ). The Learn LaTeX site provides an
+interactive online tutorial for creating documents with LaTeX. Our getting started page contains additional
+resources for beginners. If you're looking for help , you can get community
+support via: q&a site (tex.stackexchange.com), forum (latex.org), public mailing list (texhax), reddit ,
+and in other ways . Subscribe to our
+monthly newsletter if you like (open to all,
+automatically sent to members). News ( blogs ) The Great Tikzlings
+    Christmas Extravaganza 2025 has just been released. Guided
+    by William Shakespeare and Dante Alighieri you are going to meet a
+    hallucinating meerkat and Wagnerian bats. You will learn things
+    about Canada and find out where all the flowers have gone. You will
+    listen to “Silent Night” on steel drums and see your
+    favourite Tikzlings on holiday in France. There are ducks on ice,
+    termite soup and reminiscences of Alfred Hitchcock, and some of the
+    participants are hopping mad and, and, and … Have a look! TUGboat 46:3 has been mailed to current TUG members; it is also available
+      online and from the TUG store . In addition, prior TUGboat issue 46:2 is now publicly available. Submissions for the next
+      issue are welcome and encouraged; the deadline
+      is March 20, 2026. TeX Live 2025 and MacTeX 2025 have been released.
+    They are primarily distributed online through CTAN ( TL , MacTeX ). Upcoming events ( meeting list ) The Shape of Letters: From Leonardo da Vinci to Donald
+  Knuth , an invited talk (Jan. 4) by Étienne Ghys at
+  the Joint Mathematics Meetings, January 4-7, 2026, Washington DC. GUTenberg
+  Exposés mensuels , online video presentations, in French: January 8, 2026, Jean Abou Samra will give a presentation on Lilypond . DANTE spring meeting , March 12-14, 2026, at WiWa GmbH,
+  Lahnau, Germany (pre-meeting get-together on March 11). EuroBachoTeX
+2026 , in Bachotek, Poland, April 29-May 3, 2026. OSSConf 2026 , July 1-3, 2026, at the University of
+  Žilina, Slovakia, will have a dedicated TeX+R session.  The
+  conference will be multilingual. TUG 2026 , Alt Hotel Calgary East Village, Calgary, Canada, July 17-19 (Friday-Sunday), with a LaTeX developers' workshop
+  on Thursday, July 16.
+  The registration form and more information will be posted when
+      available. ConTeXt
+  Meeting 2026 : Maibach, Germany, August 24-29, 2026,
+  Theme: “Focussing”. (Other topics also welcome!) Recent events GUTenberg general assembly , online,
+  November 16, 2025 at 3 p.m. December 4, 2025, Valentin Dao
+  will give a presentation on his intexgral package and expl3
+  syntax. GuIT
+  2025 , Pisa, Italy, November 5, 2025. Journeé GUTenberg 2025 annual meeting,
+  École normale supérieure, Paris,
+  November 8, 2025. GUTenberg:
+  Exposés mensuels , online, September 10, 2025.
+  Videoconference, in French, by Didier Verna on “Traitement des
+  problèmes de similarité dans la justification de
+  paragraphe : une extension du Knuth-Plass”. TUG is a not-for-profit organization by, for, and of its
+members , also representing the interests of TeX users worldwide.
+If you use any TeX-related programs (TeX, LaTeX , ConTeXt , Metafont , MetaPost , Texinfo , et al. ), please consider joining TUG (or another
+TeX user group ). Memberships and donations are tax-deductible in the US. TUG membership benefits include
+our journal TUGboat (available both in
+print and online). TUG also runs an annual TeX
+conference , and supports updates to the TeX Collection software: TeX Live , MacTeX , snapshot of CTAN , among other activities. The Comprehensive TeX Archive Network (CTAN) is the primary repository for TeX-related software on the
+Internet. CTAN has many thousands of items; its package list , topic cloud , and CTAN search page can help you
+find what you need. Latest CTAN updates - l3kernel-dev - lua-visual-debug - maine-thesis - beamertheme-gotham - reledmac - gckanbun - ProfLycee - rwth-ci - CreationBoites - biblatex-software - codedescribe - tzplot - luamplib - authorarchive - drawmgr - l3kernel - pst-sphericaltrochoid - KKran - l3build - intexgral - KKsymbols - LinguisTiX - glossaries-ukrainian - pst-nutation - systeme - pst-fourbarlinkage - luatexko TUG membership Join/renew with TUG TUG member area Institutional members About TUG Contact us Make a donation Tax exempt Aims & benefits Board , Committees Elections New to TeX? Getting started FAQ History of TeX Software Downloads/CTAN TeX Live - MacTeX MiKTeX TeX around the web TUG activities TUGboat Project funding Bookstore/reviews TUG store Lucida fonts Interviews TeX worldwide User groups Conferences Journals/Publications Mailing lists Working groups Stickers & publicity Typography Font Catalogue TeX showcase Fonts for TeX Videos Typography museums Jobs Consultants for hire Job openings Contact Us TeX Users Group PO Box 2311 Portland, OR 97208-2311 USA Sophia Laakso, office manager voice: +1 503-223-9994 fax: +1 815-301-3568 administrative email: office@tug.org web site email: webmaster@tug.org TeXnical support links above facebook - mastodon - twitter Many thanks to all the individual and institutional members, as well as our donors , who keep TUG going.  If you're not already a
+member, please consider joining TUG or making a donation , and
+thanks. Updated: $Date: 2025/12/26 20:41:03 $

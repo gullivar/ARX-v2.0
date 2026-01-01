@@ -1,0 +1,114 @@
+System status
+Support
+Login
+Platform
+Supported devices
+Solutions
+Developers
+Pricing
+Contact sales
+Application infrastructure for intelligent devices
+Start for free
+LATEST
+Order your Tachyon now!
+
+Embed intelligence into anything, anywhere with Particle's 5G-connected, AI-accelerated single-board computer.
+
+Ship software to hardware.
+Built for developer productivity, observability, and reliability.
+Edge infrastructure
+Embedded intelligence
+Reliably deploy over-the-air software and model updates to any device — from KB-scale microcontrollers to GB-scale edge computers and AI accelerators.
+Bare metal runtime
+Drivers and libraries
+Particle on Linux NEW
+Device protection NEW
+OTA software updates
+Network and connectivity
+Wireless connectivity that just works
+Connectivity shouldn't require a Ph.D in radios and protocols. Particle provides an abstracted communications layer that works reliably across a wide range of radios: LTE, 5G, Wi-Fi, satellite, and LoRaWAN.
+"It just works" connectivity
+EtherSIM
+Particle.publish()
+EtherSIM+ NEW
+Encryption
+Multi-radio transport NEW
+Cloud infrastructure
+Turning data into actions and insights
+Machine data are only useful if they get used. Turn data into immediate action and helpful insights through Particle's real-time data automation infrastructure.
+Event Bus
+Location Fusion
+Ledger
+REST API
+Logic
+Integrations
+Management and oversight
+Complete control of your devices in the field
+Monitor and manage every device, every bit of software, and every ounce of data you collect through a single portal.
+Console
+Security and compliance
+Software releases
+Configuration COMING SOON
+Vitals
+Insights COMING SOON
+Application development
+Software-defined everything
+Particle puts you in control with a developer-friendly application framework spanning the device and the cloud, supported by thousands of libraries, hundreds of integrations, and world-class documentation.
+Blueprints BETA
+Command line interface (CLI)
+Workbench
+Edge ML NEW
+Web IDE
+Supported devices
+Hardware abstraction, not hardware ignorance
+Particle's edge-to-cloud infrastructure is tightly integrated with supported devices — from our own modules and gateways to popular edge computing platforms like Raspberry Pi, NVIDIA Jetson, and BeagleBone.
+Development kits
+Gateways
+System-on-Modules (SoMs)
+Single-board computers (SBCs) NEW
+Particle is everywhere
+
+60 Billion
+
+Messages delivered per month
+
+12 Million
+
+OTA software updates per month
+
+240,000
+
+Developers building with Particle
+
+"As the world’s first platform offering logistics players smart, light electric vehicles as a service, IoT-enabled asset tracking capabilities are critical to our business and Particle has been a trusted solution provider and strong partner."
+
+– Mina Nada, CEO of Zoomo
+
+Get started with a development board today
+The best way to see what’s possible with Particle is to start building. Get your hands on a development board today to and join the community.
+Browse the store
+Muon
+
+Gen 4 MCU + multi-radio
+
+In stock
+Tachyon
+
+Gen 5 5G SBC + AI accelerator
+
+In stock
+Boron
+
+Gen 3 MCU + LTE
+
+In stock
+Photon 2
+
+Gen 4 MCU + Wi-Fi
+
+In stock
+Monitor One
+
+Gen 3 MCU + LTE gateway
+
+In stock

@@ -1,0 +1,189 @@
+Resilience Skip to content Light posting through January 4th. Happy Holidays from Resilience! Insight and inspiration in turbulent times. resilience SUBSCRIBE Resilience is a program of the nonprofit organization Post Carbon Institute . Menu Topics All Latest Articles Energy Economy Environment Food & Water Society Featured Topics Editor’s Picks Podcasts Human Nature Odyssey Crazy Town Holding the Fire What Could Possibly Go Right? Power About About Resilience Resilience Fundamentals Submission Guidelines Contact Donate Resilience+ Log in / Sign Up Deep Dives Events Online Course Think Resilience Donate SUBSCRIBE Menu Latest Energy Economy Environment Food & Water Society More ▼ Topics All Latest Articles Energy Economy Environment Food & Water Society Featured Topics Editor’s Picks Podcasts Human Nature Odyssey Crazy Town Holding the Fire What Could Possibly Go Right? Power About About Resilience Resilience Fundamentals Submission Guidelines Contact Donate Resilience+ Log in / Sign Up Deep Dives Events Online Course Think Resilience ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47485,47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’b\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ Behavioral Thermodynamics Part 1: Beyond the 4th Law? Nate Hagens , The Great Simplification ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47485,47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’c\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ Managing Water Differently: Algeria Facing Hydrological Extremes El Habib Ben Amara , Resilience.org ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47485,47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’a\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ The end of 2025 must be the end of the inane rule of climate ‘optimism’ Rupert Read , Resilience.org We should admit that widely-mandated climate optimism has been actively harmful to the needful acknowledgement of reality – and to the active collective self-protection that we now desperately need to get serious about making happen. Live Event Nourishing a Bioregional Economy January 29, 2026 In this first event of the year, Donna Morton (Salmon Returns) and Michael Shuman (community economist) share their expertise on investing locally and building bioregional institutions. Register now! Podcasts Human Nature Odyssey Crazy Town Holding the Fire What Could Possibly Go Right? Sign up to get Resilience delivered — daily or weekly. Subscribe to the Digest Editor’s Picks ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8990) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ Human Nature Odyssey: Time Machine 2126 (Part 2) – Techno-Utopia or Apocalypse? Alex Leff , Human Nature Odyssey ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8990) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 1, 1′ Human Nature Odyssey: Time Machine 2126 (Part 1) – Has Green Energy Saved Us Yet? Alex Leff , Human Nature Odyssey Latest ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts 
+					 WHERE 1=1  AND ( 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47485,47486)
+			)
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 3′ Ditching Dualism #6: Maybe Monism? Tom Murphy , Do the Math Behavioral Thermodynamics Part 1: Beyond the 4th Law? Nate Hagens , The Great Simplification Managing Water Differently: Algeria Facing Hydrological Extremes El Habib Ben Amara , Resilience.org See All Recent Articles Energy ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8995) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ The fusion future that may never arrive Kurt Cobb , Resource Insights ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8995) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 1, 3′ A New Oilsands Pipeline? What Politicians Won’t Admit Andrew Nikiforuk , The Tyee Fear of spending (and those darn electricity costs!) Eliza Daley , By my solitary hearth Inflation, Deflation, & Simplification: The 8 Things That Influence Prices Nate Hagens , The Great Simplification Economy ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8994) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ The tyranny of beer Gunnar Rundgren , Garden Earth ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8994) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 1, 3′ Mutual aid in motion: One participant’s story Lannie Duong , Shareable Tools for growing the commons Michel Rauchs , Growing the Commons Sunk Cost and the Superorganism Nate Hagens , The Great Simplification Environment ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8996) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 3′ Winter Solstice 2025 Eliza Daley , By my solitary hearth Kali’s Totem: The Anthropocene Gary Horvitz , Resilience.org Afro-Descendant Communities Offer a Living Blueprint for Amazon Conservation Reynard Loki , Resilience.org Food & Water ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (8997) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 3′ Managing Water Differently: Algeria Facing Hydrological Extremes El Habib Ben Amara , Resilience.org The challenge of food ecomodernism: a puzzle outlined Chris Smaje , Resilience.org The Tehran snapshot Ben Shread-Hewitt , The Geopolitical Climate Society ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (9001) 
+  AND 
+  wp_posts.ID NOT IN (
+				SELECT object_id
+				FROM wp_term_relationships
+				WHERE term_taxonomy_id IN (47486)
+			)
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 3′ Ditching Dualism #6: Maybe Monism? Tom Murphy , Do the Math The end of 2025 must be the end of the inane rule of climate ‘optimism’ Rupert Read , Resilience.org Ditching Dualism #5: Revolutions Tom Murphy , Do the Math Featured Topics Beyond the Brink Imagining a better future is an act of bravery, especially when you’re aware of all the challenges we face in the present. Envisioning a better world is essential, can be empowering, and is how our actions become the building blocks of real, transformative change. Bioregioning Millions of people are searching for a way to live that can meet their needs without undermining the life-support systems of the planet. Although there are no easy solutions to planetary overshoot or quick fixes to the culture behind it, bioregioning offers a deeply positive and systemic way forward. Troubled Waters Microplastic pollution is an issue that’s easy to overlook, but it’s deceptively threatening to both ocean and human health. Microscopic plastic particles are now found in nearly everything on the planet—from the deepest parts of the ocean to inside the cells of living beings. Acceptance and Agency at the End of Modernity Modernity is a story of inevitable growth and progress deeply embedded in the consciousness of our culture and institutions. But now both the story and the real-world manifestations of modernity may be expiring. Where the Wild Things Were We are experiencing a devastating loss of wild nature—both the habitats that have been left unaltered by human activity and the species that have historically inhabited those places. Where the Wild Things Were offers a place to start for addressing this crisis. The Great Unraveling Environmental and social challenges are now compounding to threaten the very systems that support the world we know. What does this Great Unraveling mean for both human civilization and the global ecosystem, and what we can do in response? Online Course Think Resilience Start doing something about climate change and our other sustainability challenges—starting in your own community. Think Resilience features twenty-two short video lectures by Richard Heinberg, one of the world’s foremost experts on the urgency of transitioning away from fossil fuels. Register for Free Podcasts Crazy Town Holding the Fire What Could Possibly Go Right? Resilience+ Deep Dives Deep Dive: Building Emotional Resilience Panel event with Lise van Susteren and Dekila Chungyalpa (recording) 2 recorded interviews with emotional resilience experts 3 articles by Richard Heinberg and Rachel Donald Additional curated resources See What’s Inside Add to Cart $0 USD Scholarships available Private: Deep Dive: Surviving Political Polarization Panel event with experts on polarization and belonging (live/recorded) Facilitated discussion to exchange ideas & resources (live/recorded) 2 recorded interviews with experts and on-the-ground practitioners 2 articles by Richard Heinberg Additional curated resources See What’s Inside Add to Cart $0 USD Scholarships available Private: Deep Dive: Navigating Climate Unraveling Panel event with renowned experts (live/recorded) Facilitated discussion to exchange ideas & resources (live/recorded) 3 recorded interviews with on-the-ground practitioners 3 articles by Richard Heinberg Additional curated resources See What’s Inside Add to Cart $0 USD Scholarships available Resilience+ ‘SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					 FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id) INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )
+					 WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47473)
+) AND ( 
+  ( wp_postmeta.meta_key = \’homepage_featured\’ AND wp_postmeta.meta_value = \’no\’ )
+) AND wp_posts.post_type = \’post\’ AND ((wp_posts.post_status = \’publish\’))
+					 GROUP BY wp_posts.ID
+					 ORDER BY wp_posts.post_date DESC
+					 LIMIT 0, 1′ Resilience+ Nourishing a Bioregional Economy Private: Deep Dive: Navigating Climate Unraveling Panel event with renowned experts (live/recorded) Facilitated discussion to exchange ideas & resources (live/recorded) 3 recorded interviews with on-the-ground practitioners 3 articles by Richard Heinberg Additional curated resources See What’s Inside Add to Cart $0 USD Scholarships available At Resilience+ Private: Deep Dive: Navigating Climate Unraveling Panel event with renowned experts (live/recorded) Facilitated discussion to exchange ideas & resources (live/recorded) 3 recorded interviews with on-the-ground practitioners 3 articles by Richard Heinberg Additional curated resources See What’s Inside Add to Cart $0 USD Scholarships available Podcasts Crazy Town Holding the Fire What Could Possibly Go Right? Sign up to get Resilience delivered—daily or weekly. Subscribe to the Digest Online Course Think Resilience Start doing something about climate change and our other sustainability challenges—starting in your own community. Think Resilience features twenty-two short video lectures by Richard Heinberg, one of the world’s foremost experts on the urgency of transitioning away from fossil fuels. Register for Free Podcasts Holding the Fire What Could Possibly Go Right? Crazy Town Resilience is a program of Post Carbon Institute , a nonprofit organization dedicated to helping the world transition away from fossil fuels and build sustainable, resilient communities. Reposting Policy | Privacy Policy About us Contact Donate Subscribe RSS

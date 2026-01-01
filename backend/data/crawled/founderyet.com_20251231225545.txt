@@ -1,0 +1,22 @@
+What is this domain? Ad-Shield This domain is a part of the Ad-Shield (ad-shield.io) platform, providing digital publishers with DMCA-compliant access controls. Our technology supports the recovery of ad-supported content through a privacy-first architecture that adheres to global copyright regulations. Learn more Operational Impact This domain is integrated into the core rendering path of client
+                websites to facilitate the delivery of essential web assets. It is
+                utilized to manage access control and resource integrity, ensuring
+                the site functions as intended. Note on Blocking: Because this domain delivers
+                critical display elements and content, blocking it may result in
+                unexpected site behavior, missing user interface components, or
+                restricted access to necessary resources. Privacy & Security All scripts and resources are executed within a sandboxed environment, ensuring that cross-site tracking cannot be performed. Ad-Shield provides sandbox technology that enables sites to run their business logic in a secure and isolated execution environment. This technology prevents cross-site tracking by design, as each sandbox instance is isolated and cryptographic keys are automatically rotated on a regular basis. As a result, identifiers cannot be shared, reused, or correlated across different sites or sessions. Legal Notice Intentional interference with this domain (including its addition to
+              automated ad-blocking filter lists or firewall blacklists) actively
+              disrupts the delivery of copyrighted content and the authorized
+              business operations of the publisher. Such actions may constitute an
+              unauthorized modification of the website’s intended presentation and
+              functionality. Consequently, systematically blocking this domain may result in a
+              direct violation of the publisher's Terms of Service, which strictly
+              prohibit tampering with site operations or circumventing access
+              controls. Furthermore, this obstruction may be classified as unlawful
+              interference with business relations and copyright infringement; the
+              operator of this service reserves the right to pursue legal remedies
+              against entities or maintainers that actively disrupt service
+              availability. Inquiries We are committed to transparency and security. If you have
+                identified a potential issue or have questions regarding the
+                function of this domain, please direct your inquiry to our security
+                team via the form below. Name Company Email Message Submit Inquiry

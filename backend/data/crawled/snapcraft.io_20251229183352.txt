@@ -1,0 +1,142 @@
+Skip to main content
+Canonical Snapcraft
+Snap Store
+About
+Learn
+IoT
+Forum
+All Canonical
+Sign in 
+The app store for Linux
+Search
+Search
+Snaps you may like
+Featured
+Development
+Games
+Server
+josm
+
+Michael Vogt
+
+Editor for OpenStreetMap
+
+vault
+
+Canonical
+
+Vault is a tool for securely accessing secrets.
+
+artikulate
+
+KDE
+
+Artikulate Pronunciation Trainer
+
+View all featured snaps
+View all snaps
+Official snaps from major publishers
+Learn how to snap an app in 30 minutes
+Choose
+your language:
+  Python
+  Pre-built apps
+  C/C++
+  Go
+  Java
+  Node.js
+  Electron
+  Flutter
+  Ruby
+  Rust
+  MOOS
+  ROS
+  ROS 2
+Why are snaps good for Python projects?
+Easy to discover and install by millions using the Snap Store or command-line every day
+Automatically updated to the latest stable version of your app
+Revert to the previous version if an update fails, preserving data
+Isolation ensures no conflicts between applications
+Identical behaviour across Linux distributions, even with library dependencies
+
+With PyPI you can distribute apps to other developers, but it’s not tailored to end users. Virtualenv lets you install an app’s dependencies in isolation, but it’s not automatically used for installs from PyPI. Snaps let you distribute a dependency-isolated Python app in an app store experience for end users.
+
+In just a few steps, you’ll have an example Python app in the Snap Store.
+
+Here's how liquidctl defines snapcraft.yaml:
+name: liquidctl
+summary: a status and control utility to for power, cooling and LED components
+description: |
+  liquidctl is a command-line tool to monitor and control […]
+version: test
+base: core22
+confinement: strict
+
+parts:
+  liquidctl:
+    plugin: python
+    source: .
+    stage-packages:
+      - python3-usb
+
+apps:
+  liquidctl:
+    command: bin/liquidctl
+    plugs:
+      - raw-usb
+      - hardware-observe
+Show more 
+Continue ›
+Testimonials
+“The auto-updating feature is huge”
+
+Due to the nature of our platform, we release updates more than daily which admittedly can be annoying for our users to constantly update.
+
+Therefore, having them done seamlessly in the background makes life for our users so much easier. It’s great to see snaps as the first serious attempt to try and unify the community.
+
+Jeff Dickey
+CLI engineer, Heroku
+“Starting with snaps
+is easy”
+
+We definitely find Snapcraft easier as it is yaml based and provides details of what artifacts are needed. Debian packaging has things that need to be followed which can be distribution specific, which creates complication.
+
+The modular containment is what appealed about snaps and [we] can see it will be a lot more flexible. Starting with snaps is easy and the resources that are provided are clean and structured which aids adoption.
+
+Lee Coward and Rakesh Singh
+.NET (Microsoft)
+“A major software discovery tool”
+
+The Snap store provides additional exposure to our tools for many of our existing and potential users. The decision to use it came quite naturally. We believe the store will be a major software discovery tool on Linux, so the more people find out about our tools naturally and install them more easily, the better for everyone.
+
+Aleksey Rostovskiy
+Engineer, JetBrains
+Showcase to millions
+
+Reach beyond your existing audience with a listing on the Snap Store, the front page for app discovery on Ubuntu and other popular distros.
+
+Browse the Snap Store
+
+Measure user growth
+
+Make data-driven decisions with active install metrics. Watch as automatic updates migrate users to your latest release. Understand your audience with geographic and version breakdowns.
+
+Back to top 
+
+© 2025 Canonical Ltd.
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+Powered by Charmed Kubernetes
+
+Join the forum, contribute to or report problems with, snapd, Snapcraft, or this site.
+
+Share on Twitter Share on Facebook Share on YouTube
+Terms of Service  Data privacy  Manage your tracker settings  Service status  Other functions  Contact us
+Your tracker settings
+
+We use cookies and similar methods to recognise visitors and remember preferences. We also use them to measure campaign effectiveness and analyse site traffic.
+
+By selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties.
+
+For further details or to change your consent choices at any time see our cookie policy.
+
+Accept all and visit site Manage your tracker settings

@@ -1,0 +1,222 @@
+LogicMonitor + Catchpoint: Enter the New Era of Autonomous IT
+
+Learn more
+Partners
+Customer Center
+Login
+Docs
+LM Community
+Platform 
+Solutions 
+Pricing
+Resources 
+Company 
+Try it free
+Hybrid Observability for the Agentic AI Era
+
+Prevent disruptions, resolve issues faster, and safeguard critical services with the unified observability platform built for predictive, AI-powered IT operations.
+
+Try it free
+On-demand demo
+TRUSTED BY ADMIRED BRANDS AROUND THE WORLD
+The platform that empowers CIOs to deliver business transformation
+
+LogicMonitor Envision offers end-to-end observability
+across the modern data center.
+
+Explore the platform
+Infrastructure monitoring
+Empower your team with contextual visibility into your ever-expanding and dynamic IT landscape.
+Learn more
+Agentic AIOps with Edwin AI
+Don’t wait for a failure to trigger a response—anticipate, act, and adapt before issues escalate.
+Dive in
+Cloud and multi-cloud
+Maximize your investment in AWS, Azure, and GCP with real-time visibility into the performance of your cloud deployments.
+Explore Cloud
+Log analytics and troubleshooting
+Correlate relevant logs alongside performance metrics, devices, resources, groups, and alerts in one view.
+See more
+Observability built to support ITOPs and the modern data center
+
+Complex IT needs a unified platform.
+
+Agentic AI for IT operations
+
+Resolve incidents faster with Edwin AI unified event intelligence
+
+Meet Edwin
+Go live in days
+
+Collector-based monitoring gives full visibility to hybrid environments quickly, providing unparalleled time to value
+
+Explore platform
+Best-in-class coverage
+
+Over 3,000 out-of-the-box integrations that span on-premises and multi-cloud in a single pane of glass
+
+See integrations
+Edwin AI: Your AI Agent for predictive ITOps
+
+Get to the root cause faster with unified event intelligence, streamlined troubleshooting, and incident management—all in one place.
+
+Get a demo
+Self-guided tour
+
+60%
+
+improvement in MTTR
+
+2+ hours
+
+saved per incident
+
+90%
+
+less alert noise
+
+RECOGNIZED BY THE INDUSTRY'S MOST CREDIBLE SOURCES
+
+SOLUTIONS
+
+Observability solutions tailored to industries, teams, and business outcomes
+Discover how LM Envision meets the unique needs of your business.
+View all solutions
+Solutions by Industry
+
+Purpose-built observability for the unique challenges of industries from finance to healthcare, retail, manufacturing, and more.
+
+Learn more
+Solutions by Team
+Solutions by Business Outcome
+
+90%
+
+Less alert noise
+
+FROM OUR CUSTOMERS
+
+Trusted by teams powering the world’s most critical infrastructure
+
+Real results. Real voices. See how IT leaders use the LM Envision platform, including Edwin AI, Service Insights, and more, to reduce alert noise, resolve issues faster, and cut MTTR across hybrid environments.
+
+View all case studies
+"Capital Group has 1,000+ alerts/ day. LogicMonitor will eliminate that noise."
+Shawn Landreth
+VP of Networking and Reliability Engineering of Capital Group
+"Edwin AI cut noise by 90% & ITSM incidents by 76%, enabling better customer service."
+Joshua Powell
+Managed Services Lead of Nexon
+"The single pane of glass across all of our regions enables us to act more proactively."
+Dominik Hunn
+Systems Engineer of Franke Group
+"Edwin AI delivered value within an hour of implementation."
+Kris Manning
+Global Head of IT Networks of Syngenta
+
+RESOURCES
+
+Stay up-to-date on your ITOps knowledge
+
+Explore guides, blogs, and best practices for maximizing performance, reducing downtime, and evolving your observability strategy.
+
+View all resources
+BLOG
+NEWS & ANNOUNCEMENTS
+Better Together: Building the Self-Healing Enterprise
+AI-driven visibility meets Internet performance insight as LogicMonitor and Catchpoint join forces to make outages optional and digital operations truly self-healing.
+December 2, 2025
+Learn more
+BLOG
+OBSERVABILITY
+AI Observability: How to Keep LLMs, RAG, and Agents Reliable in Production
+When dashboards light up but don’t tell you what’s actually at risk, it’s time for a different approach to observability.
+November 20, 2025
+Learn more
+BLOG
+AIOPS & AUTOMATION
+What Are AI Workloads? Everything Ops Teams Need to Know
+Build AI infrastructure that actually works—scalable, efficient, and observable across cloud, edge, and on-prem to keep your workloads performing.
+November 20, 2025
+Learn more
+
+CONTACT US
+
+Start your journey with LogicMonitor today
+
+Our experts are ready to help whether you’re exploring AI-powered observability or ready to optimize your hybrid environment.
+
+Try it free
+Contact us
+Product
+Platform
+Infrastructure
+Cloud & Multi-Cloud
+Digital Experience
+Log Management
+Edwin AI
+Enterprise
+Demo
+Pricing
+How We Compare
+Datadog
+Dynatrace
+Zenoss
+Solarwinds
+PRTG
+ScienceLogic
+About
+Careers
+Our Partners
+Leadership
+Newsroom
+Security
+Sustainability
+Legal
+Documentation
+Docs Hub
+Release Notes
+Security
+Support Center
+Resources
+Resource Library
+LM Academy
+Blog
+Case Studies
+Customer Education
+Connect
+Contact & Locations
+Submit a Ticket
+Events
+LM Community
+Careers
+Privacy Policy
+Terms of Use
+Preference Center
+Do Not Sell My Information
+
+© 2025 LogicMonitor
+
+English
+14-day access to the full LogicMonitor platform
+View all
+Platform
+Infrastructure
+Cloud & Multi-Cloud
+Log Management
+Edwin AI
+Solution
+Automation
+Tool Consolidation
+Reduce MTTR
+Cost Optimization
+Industry
+Healthcare
+Financial Services
+Public Sector
+MSP
+Role
+CIO
+ITOps
+CloudOps
+AIOps

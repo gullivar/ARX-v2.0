@@ -1,0 +1,347 @@
+SOLUTIONS
+BUILDERS
+BRIDGE
+USERS
+RESOURCES
+MEDIA
+
+From apps to chains, Arbitrum delivers the performance and tooling your business needs to launch faster and scale further.
+
+Build an App
+Launch a Chain
+
+Where Finance
+Moves Onchain, at Scale
+
+Arbitrum is your enterprise-grade infrastructure for global finance. See how liquidity, world-class developer talent, and Ethereum’s security can drive impact for your company.
+
+Learn about Arbitrum Finance
+
+Where Big Ideas
+Meet Mass Adoption
+
+Building a consumer app that millions will love requires a network that feels invisible. Arbitrum provides the near-instant speed, low costs, and scale to make your onchain experience feel as smooth and intuitive as the best Web2 apps.
+
+Learn about Arbitrum Consumer
+
+Build Games
+Without Limits
+
+Arbitrum enables you to create the games you've always dreamed of with near-instant transaction speeds, scale, and a seamless experience for your players.
+
+Learn about Arbitrum Gaming
+
+USD.AI
+
+Ostium
+
+Session
+
+The Beacon
+
+Wildcard
+
+Golden Tides
+
+Otherside
+
+USDT0
+
+Variational
+
+USDC
+
+Uniswap
+
+Aave
+
+Pendle
+
+GMX
+
+Morpho
+
+Robinhood
+
+Build alongside hundreds of finance, consumer, and gaming applications.
+
+Explore the Ecosystem
+
+The Onchain Standard
+
+Arbitrum consistently leads the industry in key metrics, reflecting the maturity, reliability, and adoption of the platform. Join the ecosystem where innovation meets proven performance.
+
+$17B+ Total Value Secured
+
+Source
+
+A testament to the trust and liquidity driving the next era of blockchain innovation.
+
+197K+ Daily Active Wallets
+
+Source
+
+A steady base of users who return to Arbitrum for their daily onchain activity.
+
+$11B+ Gas Fees
+Saved
+
+Source
+
+Low-cost infrastructure keeps value with users, developers, and the companies building the onchain future.
+
+View Live Data
+
+A FLEXIBLE PLATFORM
+
+Build an App, Launch a Chain
+
+Ship an application or launch a chain using Arbitrum’s suite of fully customizable solutions to build your vision without compromise.
+
+BUILD AN APP
+
+Deploy your app on Arbitrum One with Solidity or Stylus (Rust, C, C++). Built for blockchain-native and institutional developers.
+
+Learn About Apps
+
+LAUNCH A CHAIN
+
+Use the Arbitrum stack to launch your own chain and configure it end-to-end, from custom gas token and governance to access controls and privacy.
+
+Is a Chain Right For You?
+
+CASE STUDIES
+
+Proven in Production, Trusted at Scale
+
+Discover why the world’s most innovative companies are building on Arbitrum.
+
+How Lit Protocol Coordinates Decentralized Key Management with Stylus
+
+How Variational is Reinventing Derivatives Onchain with Arbitrum
+
+Robinhood is realizing the crypto vision
+
+How Talos is Using Arbitrum to Build the First Fully Autonomous Treasury
+
+USD.AI: Accessible AI Infra Financing
+
+GMX: An In-Depth Look at Arbitrum’s Leading Permissionless Exchange for On-Chain Leverage Trading
+
+El Dorado’s Stablecoin-powered SuperApp is Driving Tether Adoption on Arbitrum in LATAM
+
+Rho on Arbitrum: Bringing Interest Rate Derivatives Onchain
+
+Plug Into a Thriving Sovereign Nation
+
+Join a dynamic network of active users, digital culture, and economic activity. Arbitrum is the vibrant hub where consumers connect, interact, and transact.
+
+Finance
+Gaming
+Consumer
+Learn More
+
+Aave
+
+Aave is a decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers.
+
+Learn More
+
+Pendle
+
+Pendle enables the permissionless tokenization and trading of yield, unlocking various strategies such as obtaining fixed yield, long crypto yields, or trade yields of any assets on Pendle.
+
+Learn More
+
+GMX
+
+GMX: the on-chain Decentralised Perpetual Exchange with deep liquidity and low fees.
+
+Learn More
+
+Variational
+
+The most rewarding place to trade perps. Enjoy zero fees while earning loss refunds, spread discounts, and platform credits from your normal trading activity.
+
+Learn More
+
+Ostium
+
+Trade any strategy on any asset: from indices and currencies to metals, energy, and crypto.
+
+Learn More
+
+Ethereal
+
+Next generation decentralized spot and perpetuals trading powered by USDe.
+
+Learn More
+
+USD.AI
+
+USD.AI is a yield-bearing synthetic dollar protocol backed by GPU mortgages.
+
+Learn More
+
+Morpho
+
+Lend and borrow using the most secure, efficient, flexible lending protocol on Arbitrum.
+
+Learn More
+
+The Beacon
+
+Dive into The Beacon, a roguelite RPG game in development. Experience the thrilling demo now at play.thebeacon.gg and become part of our growing community!
+
+Learn More
+
+Otherside
+
+Where the swamp ends, Otherside begins.
+
+Learn More
+
+Wildcard
+
+2v2 Collectible Card Action Game where strategy and skill collide. Choose your champion, craft your deck, cast summons, and battle for victory in epic arenas.
+
+Learn More
+
+L3E7
+
+World's First 3D LBS (Location-Based Service) Game. Cloning the Whole Earth into a Cyberpunk Metaverse.
+
+Learn More
+
+Golden Tides
+
+Build a crew and set sail to compete against 31 other teams in a quest-packed race for treasure. Plunge into this free-to-play fantasy pirate Adventure MOBA!
+
+Learn More
+
+My Pet Hooligan
+
+An interactive entertainment experience from AMGI Studios. Social-action multiplayer game in Early Access! Launching on Xbox.
+
+Learn More
+
+Hyve
+
+Hyve Labs is building rewarding social GameFi experiences that you can play seamlessly across any platform.
+
+Learn More
+
+RIFTSTORM
+
+Riftstorm is a co-op looter-shooter with roguelite that charges players with the defense of our world from mythic threats.
+
+Learn More
+
+BlackBird
+
+Rewards, access, and benefits at restaurants you love.
+
+Learn More
+
+El Dorado
+
+La SuperApp de Stablecoins para Latinoamérica.
+
+Learn More
+
+Farcaster
+
+A sufficiently decentralized social network.
+
+Learn More
+
+Peanut
+
+Peanut is the easiest way to send and receive crypto payments cross-chain via secure links.
+
+Learn More
+
+Berry
+
+With Berry, you can invest in stocks and assets you use every day, including ETFs like the S&P 500.
+
+Learn More
+
+OpenSea
+
+Buy, sell, & discover the internet of goods.
+
+Learn More
+
+Forkast
+
+Forkast is prediction markets at the intersection of gaming culture, sports betting, and crypto trading.
+
+Learn More
+
+T-Rex
+
+Purpose-built blockchain for entertainment and culture.
+
+View all Projects
+
+Ready to start building on Arbitrum?
+
+Get in Touch
+
+TECHNOLOGY THAT SCALES
+
+Build with Confidence
+
+Access clear documentation, robust SDKs, and a global community designed to accelerate your build. Features like Stylus (smart contracts in Rust, C, and C++) unlock new levels of flexibility and performance.
+
+Explore Documentation
+Start Building
+Get in Touch
+Join our Community
+
+Subscribe for the latest updates.
+
+SOLUTIONS
+
+FINANCE
+GAMING
+CONSUMER
+
+BUILDERS
+
+ARBITRUM 101
+BUILD APP
+LAUNCH CHAIN
+GRANTS
+DOCS
+GITHUB
+
+USERS
+
+PORTAL
+BRIDGE
+AMBASSADOR
+
+RESOURCES
+
+EXPLORER
+JOBS
+STATUS
+GOVERNANCE
+FORUM
+BUG BOUNTY
+
+MEDIA
+
+BLOG
+PRESS
+TALKS
+BRAND KIT
+
+LEGAL
+
+PRIVACY POLICY
+TERMS OF SERVICE
+
+STAY IN TOUCH

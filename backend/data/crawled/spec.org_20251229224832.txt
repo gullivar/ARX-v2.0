@@ -1,0 +1,45 @@
+Products 
+Results 
+News 
+Info 
+Welcome to SPEC
+A global leader in trusted standards for performance and analysis.
+
+The Standard Performance Evaluation Corporation (SPEC) a non-profit corporation, establishes and maintains standardized, vendor-agnostic benchmarks and tools to evaluate performance and energy efficiency for the newest generations of computing systems.
+
+SPEC will be closed December 25 & 26, 2025 and January 1, 2026, in observance of year-end holidays.
+
+Development Update on Our New Benchmark for Cloud Workloads
+
+The SPEC Cloud Committee is currently developing a novel system-level benchmark for datacenters that mimics emerging cloud use-cases and exercises all the relevant components of the modern infrastructure. The primary objective of the benchmark is to establish a comprehensive suite of real-world, cloud-enabled workloads and key performance indicators that adequately capture the performance of modern datacenter systems at scale. The benchmark will also provide valuable insights that will help in the design of future generations of computing platforms. Beyond performance characterization, the benchmark is expected to model portability, reproducibility, transparency and observability, with the help of integrated telemetry and detailed reporting, thereby fostering broad industry-wide adoption.
+
+SPEC Advocacy to Clarify U.S. Position on Inclusive Approach to Global Technology Standards Development
+
+In 2020, regulatory changes from the U.S. government inadvertently affected SPEC’s efforts to establish and promote global standardized benchmarks related to energy efficiency. The changes also had the unintended consequence of impacting U.S.-based computing system manufacturers. However, a dedicated group of internationally based SPEC International Standards Group (ISG) members worked tirelessly – and successfully – to clarify the U.S. government’s position, consequently, ensuring SPEC could continue enabling governments and businesses to more effectively achieve sustainable development and carbon emission reduction goals.
+
+Wrapping Up ICPE 2025: A Milestone Event in Performance Engineering
+
+We are delighted to share highlights from the recently concluded 16th annual ACM/SPEC International Conference on Performance Engineering (ICPE) 2025, held May 5-9 in Toronto, Canada. ICPE has been the flagship conference in the area of performance engineering over the years and has a tradition of bringing together both academic scholars and industrial practitioners to discuss recent advances in the area.
+
+The SPEC CPU 2017 Benchmark and Hardware Simulation – A User Story
+
+One of the difficulties in processor simulation is finding workloads that are based on real applications. The gem5 simulator, combined with SPEC CPU 2017, has recently helped to highlight complex areas of processor design related to moving data more efficiently.
+
+The State of AI/ML Benchmarking: Addressing Gaps and Driving Progress
+
+In the rapidly evolving field of artificial intelligence (AI) and machine learning (ML), enhancing the accuracy and computational efficiency of large models remains a critical challenge. As of 2024, there are over 100 commercial large language models worldwide, with OpenAI’s ChatGPT boasting more than 500 million users. The swift development of these models is driving significant advances in AI capabilities.
+
+SPECworkstation 4.0 Benchmark Measures Latest Workstation Hardware, Adds AI/ML Workloads
+
+I’m extremely excited that SPEC has announced the release of the SPECworkstation 4.0 benchmark, a major update to SPEC’s comprehensive tool designed to measure all key aspects of workstation performance. This significant upgrade from version 3.1 incorporates cutting-edge features to keep pace with the latest workstation hardware and the evolving demands of professional applications, including the increasing reliance on AI and machine learning (ML).
+
+SPEC Information
+Product Info
+Order Products
+SPEC Blog
+About SPEC
+Contact Us
+
+© 1995 - 2025 Standard Performance Evaluation Corporation
+
+Privacy | Trademarks | Fair Use

@@ -1,0 +1,397 @@
+Topics
+Spotlight: Cloud Security
+Latest
+Newsletters
+Resources
+Buyer’s Guides
+Events
+Latest from today
+Feature
+Top 5 real-world AI security threats revealed in 2025
+
+Security researchers uncovered a range of cyber issues targeting AI systems that users and developers should be aware of — some as demo attacks and others already a threat in the wild.
+
+By Lucian Constantin
+Dec 29, 2025
+7 mins
+Artificial Intelligence
+Risk Management
+Threat and Vulnerability Management
+Feature
+7 SASE certifications to validate converged network and security skills
+By Denise Dubie
+Dec 26, 2025
+9 mins
+Careers
+Certifications
+Network Security
+Feature
+CERN: how does the international research institution manage risk?
+By María Ramos Domínguez
+Dec 25, 2025
+7 mins
+Government
+Laws and Regulations
+Security
+Feature
+The CSO guide to top security conferences
+By CSO Staff
+Dec 29, 2025
+5 mins
+C-Suite
+CSO and CISO
+Events
+News
+High severity flaw in MongoDB could allow memory leakage
+By Lynn Greiner
+Dec 26, 2025
+2 mins
+Development Tools
+Security
+Vulnerabilities
+Opinion
+Implementing NIS2 — without getting bogged down in red tape
+By Christoph Ebeling
+Dec 24, 2025
+11 mins
+Compliance
+Security
+News
+Hackers exploit Microsoft OAuth device codes to hijack enterprise accounts
+By Gyana Swain
+Dec 22, 2025
+5 mins
+Access Control
+Authentication
+Identity and Access Management
+Feature
+What CISOs should know about the SolarWinds lawsuit dismissal
+By Cynthia Brumfield
+Dec 22, 2025
+9 mins
+CSO and CISO
+Government
+Laws and Regulations
+Opinion
+The 5 power skills every CISO needs to master in the AI era
+By Sabine Frömling
+Dec 15, 2025
+9 mins
+IT Leadership
+IT Management
+Staff Management
+More security news
+News
+React2Shell: Anatomy of a max-severity flaw that sent shockwaves through the web
+
+The explosive, easy-to-trigger vulnerability was exploited within hours of disclosure, exposing the risks of default framework trust.
+
+By Shweta Sharma
+Dec 29, 2025
+6 mins
+Security
+Vulnerabilities
+News
+Webrat turns GitHub PoCs into a malware trap
+
+The known RAT aimed at gamers is now targeting security professionals searching GitHub for PoCs and exploit codes.
+
+By Shweta Sharma
+Dec 24, 2025
+4 mins
+Cybercrime
+Malware
+Security
+News
+ServiceNow’s $7.75 billion cash deal for Armis illustrates shifting strategies
+
+ServiceNow is planning yet another cybersecurity acquisition, a signal that both CIOs and CISOs have to rethink enterprise strategy in an AI world.
+
+By Evan Schuman
+Dec 23, 2025
+8 mins
+Industry
+Mergers and Acquisitions
+Security
+News
+Interpol sweep takes down cybercrooks in 19 countries
+
+Operation Sentinel decrypted six ransomware strains, broke links to thousands of malicious websites, and resulted in hundreds of arrests.
+
+By Howard Solomon
+Dec 23, 2025
+7 mins
+Cybercrime
+Malware
+Ransomware
+News
+MacSync Stealer malware bypasses macOS Gatekeeper security warnings
+
+A new infostealer variant targets Apple user enterprise credentials.
+
+By John E. Dunn
+Dec 23, 2025
+3 mins
+Cybercrime
+MacOS Security
+Malware
+News
+Amazon has stopped 1,800 job applications from North Korean agents
+
+The company states that it has seen several recurring patterns in the applications.
+
+By Viktor Eriksson
+Dec 23, 2025
+2 mins
+Security
+Show more
+Video on demand
+Video
+Inside Visa’s Cyber Defense: CISO Subra Kumaraswamy on blending AI and Human Defense
+
+In this episode of Cyber Sessions, Visa CISO Subra Kumaraswamy takes us inside the company’s 24/7 Cyber Fusion Centers, where AI-driven defenses block 90 million attacks and 11 million phishing emails each month. He shares how his team achieves “zero breach, zero disruption” across 200+ countries—and what lessons other security leaders can learn from Visa’s global approach to resilience.
+
+By Joan Goodchild
+Dec 15, 2025
+26 mins
+Application Security
+CSO and CISO
+CISO Reality: Record Pay, Rising Pressure, and Retention Risk
+By Joan Goodchild
+Dec 10, 2025
+27 mins
+CSO and CISO
+Security Infrastructure
+The Future of Cybersecurity Leadership: AI, Governance & Education | Kevin Powers, Boston College
+Nov 19, 2025
+23 mins
+Cyberattacks
+Cybercrime
+Risk Management
+Inside Black Hat: Andy Ellis on vendor buzzwords, AI hype, and the future of the CISO role
+By Joan Goodchild
+Nov 12, 2025
+31 mins
+Black Hat
+CSO and CISO
+Cyberattacks
+See all videos
+Explore a topic
+
+Generative AI
+Application Security
+Business Continuity
+Business Operations
+Careers
+Cloud Security
+Compliance
+Critical Infrastructure
+Cybercrime
+Identity and Access Management
+Industry
+IT Leadership
+Network Security
+Physical Security
+View all topics
+Spotlight: Making the most of multicloud
+ARTICLES
+BUYER’S GUIDE
+
+For IT leaders navigating multicloud environments, success depends on strategic alignment across business units, robust governance frameworks, and proactive security postures. While multicloud offers agility and vendor flexibility, it also introduces challenges in visibility, compliance, and developer productivity. In this special report, you’ll learn how to take advantage of benefits of using multiple clouds, avoid common pitfalls, and ensure that multicloud is worth the investment.
+
+View all
+Popular topics
+Generative AI
+News analysis
+Managing agentic AI risk: Lessons from the OWASP Top 10
+By Maria Korolov
+Dec 19, 2025
+8 mins
+Application Security
+Artificial Intelligence
+Generative AI
+Opinion
+Demystifying risk in AI
+By Rangel Rodrigues
+Dec 16, 2025
+10 mins
+Generative AI
+IT Governance
+IT Governance Frameworks
+Feature
+Cybersecurity leaders’ top seven takeaways from 2025
+By Aimee Chanthadavong
+Dec 15, 2025
+7 mins
+Generative AI
+Security Software
+Threat and Vulnerability Management
+View topic
+Cybercrime
+News
+Think you can beat ransomware? RansomHouse just made it a lot harder
+By Shweta Sharma
+Dec 22, 2025
+3 mins
+Cybercrime
+Malware
+Ransomware
+News
+Iranian APT Prince of Persia returns with new malware and C2 infrastructure
+By Lucian Constantin
+Dec 19, 2025
+5 mins
+Advanced Persistent Threats
+Cyberattacks
+Cybercrime
+News
+‘Ink Dragon’ threat group targets IIS servers to build stealthy global network
+By John E. Dunn
+Dec 17, 2025
+3 mins
+Cyberattacks
+Cybercrime
+Government
+View topic
+Careers
+Opinion
+Cybersecurity isn’t underfunded — It’s undermanaged
+By JC Gaillard
+Dec 11, 2025
+7 mins
+C-Suite
+CSO and CISO
+IT Strategy
+Feature
+Coach or mentor: What you need depends on where you are as a cyber leader
+By Deb Radcliff
+Dec 4, 2025
+8 mins
+C-Suite
+CSO and CISO
+Mentoring
+News
+Microsoft gives Windows admins a legacy migration headache with WINS sunset
+By John E. Dunn
+Dec 1, 2025
+6 mins
+Endpoint Protection
+Network Administrator
+Windows Security
+View topic
+IT Leadership
+Opinion
+The innovative CISO’s bucket list: Human-led transformation at the core
+By Lior Div
+Dec 18, 2025
+7 mins
+Artificial Intelligence
+IT Leadership
+Staff Management
+How-to
+How to justify your security investments
+By Chritstoph Schuhwerk
+Dec 11, 2025
+6 mins
+C-Suite
+CSO and CISO
+IT Leadership
+Opinion
+How can staff+ security engineers force-multiply their impact?
+By Priyank Desai and Snahil Singh
+Dec 10, 2025
+10 mins
+IT Leadership
+IT Management
+Staff Management
+View topic
+In depth
+Feature
+Who owns your data? SaaS contract security, privacy red flags
+
+Companies looking to use SaaS solutions should involve the security team in the procurement process and pay attention to contract language.
+
+By Andrada Fiscutean
+Mar 27, 2024
+10 mins
+Data and Information Security
+Read the Article
+Podcasts
+Podcasts
+Cyber Sessions with Joan Goodchild
+
+Cybersecurity is constantly evolving, and so are the leaders who shape it. Hosted by veteran journalist Joan Goodchild, Cyber Sessions brings candid conversations with top CISOs, strategists, and industry influencers. Each episode cuts through the noise to explore the trends, challenges, and leadership insights that define the future of security.
+
+4 episodes
+Security
+Security Practices
+Ep. 05
+Inside Visa’s Cyber Defense: CISO Subra Kumaraswamy on blending AI and Human Defense
+By Joan Goodchild
+Jun 28, 2023
+26 mins
+Application Security
+Ep. 04
+CISO Reality: Record Pay, Rising Pressure, and Retention Risk
+By Joan Goodchild
+Jun 28, 2023
+27 mins
+CSO and CISO
+Security Infrastructure
+Show me more
+Latest
+Articles
+Podcasts
+Videos
+News
+Scammers use AI to make fake art seem real
+By Viktor Eriksson
+Dec 22, 2025
+2 mins
+Artificial Intelligence
+Podcast
+Inside Visa’s Cyber Defense: CISO Subra Kumaraswamy on blending AI and Human Defense
+By Joan Goodchild
+Dec 15, 2025
+26 mins
+Application Security
+Video
+CSO Executive Sessions Australia with Daisy Wong, Head of Security Awareness at Medibank
+Dec 14, 2025
+38 mins
+CSO and CISO
+
+Sponsored Links
+
+Solve your most complex IT challenges with solutions that simplify your modernization journey.
+Join IGEL Now & Next in Miami, March 30–April 2. This is ultimate event to discover what’s next in endpoint cybersecurity & innovation. Register now!
+About
+About Us
+Advertise
+Contact Us
+Editorial Ethics Policy
+Foundry Careers
+Reprints
+Newsletters
+BrandPosts
+Join the Foundry Expert Contributor Network!
+Policies
+Terms of Service
+Privacy Policy
+Cookie Policy
+Copyright Notice
+Member Preferences
+About AdChoices
+Your California Privacy Rights
+Privacy Settings
+Our Network
+CIO
+Computerworld
+Infoworld
+Network World
+Facebook
+X
+YouTube
+Google News
+LinkedIn
+© 2025 FoundryCo, Inc. All Rights Reserved.

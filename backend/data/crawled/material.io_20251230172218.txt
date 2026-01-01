@@ -1,0 +1,84 @@
+Skip to main content
+search
+material_design
+Home
+apps
+Get started
+code
+Develop
+book
+Foundations
+palette
+Styles
+add_circle
+Components
+pages
+Blog
+play_arrow
+pause
+dark_mode
+light_mode
+Material Design
+Material Design 3 is Google’s open-source design system for building beautiful, usable products.
+Get started
+pause
+M3 Expressive: Design with emotion
+
+Build more usable and engaging products with emotion-driven UX. M3 Expressive adds vibrant colors, intuitive motion, adaptive components, flexible typography, and contrasting shapes.
+
+Updated: Figma M3 Design Kit
+Quickly create design mockups and prototypes with the latest Material 3 Expressive components and styles
+New: Motion physics
+Easier-to-implement motion system for more customizable transitions—powered by tokens
+Expanded: Shape library
+New set of 35 shapes to add decorative visual elements, with built-in shape morph motion
+Blog: Guide to our latest update
+Get a full introduction to the latest evolution of Material, including new components and style updates
+Blog: Research Insights
+Dive into the three years of research that influenced the evolution of Material Design’s Expressive update
+Expressive components
+New: Toolbars
+Flexible component to display frequently used actions. Toolbars hold a variety of controls like buttons, and can also be paired with a FAB.
+New: Split button
+Pair a button with related actions in a connected menu. Split buttons leverage expressive shape and motion strategies.
+Updated: Progress indicators
+An eye-catching way to show the status of a process in real time. Customize waveform and thickness to show progress with style.
+New: Button groups
+A new way to organize related buttons—with shape-shifting buttons that bump and react to each other
+See all expressive components
+Check out all 14 new and updated M3 Expressive components
+How to apply M3 Expressive
+Blog: Using motion physics
+Learn how the motion scheme works, the changes to existing APIs, and what you need to know to leverage it
+Watch: Build with M3 Expressive
+Discover how to use Material’s emotional design patterns to boost usability and desire for your product
+Popular resources
+Material blog
+News, tutorials, and inspiration from the Material team
+Figma M3 Design Kit
+Customizable styles and components to help you design with Material 3
+Get started
+Guides, videos, and tools to start building with Material
+Develop
+Code and developer documentation for building with Material
+material_design
+
+Material Design is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, Material Design streamlines collaboration between designers and developers, and helps teams quickly build beautiful products.
+
+Social
+GitHub
+X
+YouTube
+Blog RSS
+Libraries
+Android
+Compose
+Flutter
+Web
+Archived versions
+Material Design 1
+Material Design 2
+Privacy Policy
+Terms of Service
+Join research studies
+Feedback

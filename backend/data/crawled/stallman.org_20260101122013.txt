@@ -1,0 +1,312 @@
+Richard Stallman's Personal Page Richard Stallman's Personal Site The photo comes from wikimedia.org "Richard_Stallman_at_LibrePlanet_2019" by Ruben Rodriguez I 
+continue to be the Chief GNUisance of the GNU Project. This is my long-term commitment and I plan to continue. You may have heard or read critical statements about me; please make up your own mind. It's the Grav-Mass season! Grav-Mass is the celebration of physical laws. December 25 Isaac Newton's birthday. ¡Feliz Gravidad! Joyeuse Gravité. Веселого Тяжіньства (Transliteration: Veseloho Tyazhinʹstva) Political Articles | Political Notes | Talks | Airlines | Anti-Glossary | Archive | Ban face recognition | Books | Comics | Empire of the Megacorporations | Fiction | Glossary | GPG Key | Humor | Humorous Bio | Links | Media/Press/Bio | Non-Political Articles | The Four Factors of the Apocalypse | There Ought to Be a Law | Travel Experiences | Travel Photos | How I Do My Computing | RMS personal FAQ | Sayings | Scientific Links | Stallman on Love | Thanks | Site search: advanced Send comments/questions about the search engine to: rms at gnu dot org What's bad about: Airbnb | Amazon | Amtrak | Ancestry | Apple | Change.org | ChatGPT | Cloudflare | Discord | Disney | Ebooks | Eventbrite | Evernote | Ex-Twitter | Facebook | FLIXbus | Frito-Lay | Frontier | Google | Gofundme | Grubhub | In-N-Out Burger | Intel | LinkedIn | Lyft | Meetup | Microsoft | Netflix | Patreon | Pay Toilets | Privatization | Reddit | Ryan Air | Skype | Slack | Spotify | Tesla | Threads | Ticketmaster | Uber | Wendy's | WhatsApp | Zoom | RSS site feed for the most recent
+      political notes and new material. This is the personal web site of Richard Stallman. The views expressed here are my personal views, not those of
+      the Free Software Foundation or
+      the GNU Project . For the sake of separation, this site has always been
+      hosted elsewhere and managed separately. I am thinking of making another trip to Europe during February - April.
+      If you would like to invite me to speak during that trip, please write
+      to me at rms-invitation@gnu.org with "feb-apr" as the subject. If you want to send me GPG-encrypted mail, do not trust key
+      servers!
+      Some of them have phony keys under my name and email address,
+      made by someone else as a trick.
+      See gpg.html for my real key. Richard Stallman has cancer.  Fortunately it is slow-growing and
+      manageable follicular lymphoma.  Treatment put it into
+      remission, and he can expect to live many more years.  However,
+      he now has to be even more careful not to catch Covid-19. FSF Giving Guide Canadians: I suggest you seek election advice at a local chapter of a
+group that pushes to curb global heating and has the courage to say,
+"Canada should stop exporting fossil fuel."  It will at least use the
+right goals to suggest who to vote for in your area. Join
+	a Friday
+	climate strike . That page is made by scraping Fridays for Future so you
+	can get the information without running any Javascript code.
+	I would be very glad if they made the information on their own
+	site accessible from the Free World; then we could simply
+	refer people to their site and do without the scraping etc. I am limiting the number of new political notes per day so as not
+	to overload the volunteers who install new notes.
+        If you'd like to help, please write to rms at gnu period org. Is your bank pressuring you to use biometric ID?
+	If so, please write to rms at gnu dot org.
+	It could be useful if you document what is happening. Please join the Free Software Foundation to support its work
+      for your freedom. "They" is plural —
+	for singular antecedents, use singular gender-neutral pronouns . Link Policy The largest part of the site is the political notes , and they 
+     are typically updated every day. I'm looking for people to learn how to HTML-craft and remotely-install political notes send me examples of how proprietary programs have been designed to be addictive. check a few sites for me regularly
+        and show me any new articles that I would like to see or link to. help me in maintaining stallman.org by occasionally looking for articles on a given point in the news . send me examples of how proprietary programs have been
+    designed to cause programmed obsolescence of products. write site-specific Firefox extensions or local scripts to operate specific web sites. help maintain and operate savannah.gnu.org. experiment to find good ways to attach
+        fruits to a Grav-mass tree . help web sites put free licenses
+        on their Javascript code. If you would like to help me in any of these ways, please write to rms at gnu dot o r g. Civil Liberties Minute Upcoming talks [ No upcoming talks. ] Urgent action items US citizens: call on Congress to impeach Kristi Noem . US citizens: Join with this campaign to address this issue. To phone your congresscritter about this, the
+main switchboard is +1-202-224-3121 . Please spread the word. US citizens: call for limiting denaturalization to people who
+committed atrocious crimes before gaining US citizenship. US citizens: call on Congress to restore USAID humanitarian funding —
+help poor countries against hunger and plagues. US citizens: Join with this campaign to address this issue. To phone your congresscritter about this, the
+main switchboard is +1-202-224-3121 . Please spread the word. US citizens: call on world leaders to turn climate pledges into enforceable action and build a livable future instead of climate
+disaster. US citizens: call on Congress to impeach Federal Communications
+Commission (FCC) Chair Brendan Carr. US citizens: call on the UN Security Council to condemn Israel's
+killing of journalists. Demand accountability, and defend the right to report news, by protecting
+the people who do that. US citizens: Denounce the bully's proposed deep surveillance of visitors to the US. Here is a list of some consumer boycotts mounted by progressives.
+I mostly support them, but sometimes for different reasons. I have boycotted Amazon absolutely for many years.  If a friend wants to
+give me a gift, I ask per to please not obtain it from Amazon (and not
+tell _any_ company my name or address, even for delivery purposes!). I have always avoided Spotify since it was first set up, because it requires the
+customer to run nonfree software (for DRM !)
+and to identify perself.  Likewise all other streaming dis-services . I would boycott Home Depot except I don't know anywhere else around
+here where I could buy some of their products.  However, I don't buy
+there often. I support the boycott of Starbucks, to support the union, but that
+makes no direct economic difference since their products don't appeal
+to my tastes. I support the boycott Tesla , not just because of I detest the musket
+but especially because of its surveillance and remote control, which
+ought to be illegal.
+However, since I do not have a car and don't intend to
+have one, my support does not make direct economic difference. The article says that some progressives choose to buy from Costco
+because it has stood up to the bully .  I appreciate that, but Costco's
+practice of demanding that customers identify themselves makes it
+unacceptably unjust. Most stores invite people to identify themselves, either by
+registering their identity or using digital payments or both.  But
+most of them continue to permit a customer to pay cash anonymously.
+This builds an enormous database of personal activities, which the
+persecutor's henchmen are now using to build up an "enemies list". Don't be tracked -- pay cash, and insist on anonymity! US citizens: call on the EPA to restore the truth  about climate [disaster]
+on its web sites. US citizens: call on the Pentagon to stop trying to punish Senator
+Mark Kelly for upholding the Constitution and rule of law, and start
+helping to uphold them. US citizens: Applaud U.S. diplomats standing up for the rule of law instead of trumpish arbitrary rule. I'm looking for a cartoonist who would like to draw
+cartoons for me once in a while. If you're
+interested, please write to rms, which refers to me, at the location gnu period org. Boycott Chevron, in the name of Steven Donziger . Recording of Guantanamero Listen to the recording of Guantanamero ,
+     a protest song written in Spanish.  The recording is in
+     Ogg Vorbis format.  To install an Ogg Vorbis player,
+     see the FSF's Ogg Players page . There Ought to Be a Law *   Abandoned coalmines and oil and gas wells are now one of the biggest sources of the powerful greenhouse gas methane, new data shows, and
+      little effort is being made to clean them up.* I expect that the fossil fuel companies to divest themselves from old
+      mines and wells in ways that will avoid liability for them — just as
+      they sometimes disconnect themselves from responsibility for
+      supporting former workers. So I suggest making it a felony to implement a restructuring of
+      business or assets in a way that is likely to result predictably in
+      strand assets that carry financial responsibilities with no one
+      capable of shouldering the responsibilities. A pitifully weak attempt to solve a real problem: asking for a federal
+law that would permit victims of domestic abuse and stalking to demand
+    that data brokers delete information about them . Data, once collected, will be abused.  The way to prevent that abuse is to
+facilitate refusing to hand it over in the first place. Here is my proposal for protecting the specific people known to be in
+particular danger, and everyone else who could be harmed if
+individuals, businesses or governments use their personal data
+against them without a search warrant: require services to be available
+anonymously. The regulation of toxic chemicals in the US is hamstrung by laws that
+    enable companies to keep their use and their presence in any place
+      secret . The selfish interest of those who keep trade secrets is rational but
+      antisocial.  In many cases the only harm it does is to hold back the
+      general advance of technology.  But sometimes it does really nasty
+      things.  For digital hardware and software, it often gives companies a
+      way to subjugate their users.  Regarding use of toxic chemicals, it
+      endangers public health. Why would legislators pass laws to "protect" companies instead of
+      protecting the people they harm?  I suspect it is partly because these
+      companies are influential and the legislators seek their support,
+      and partly because the legislators ask them for campaign funds. But it is also partly the result of the mindset of "trickle down", which
+      assumes that the only way to get more funds for the state is to
+      let increase the size of the economy by letting companies have what
+      they want.  Unfortunately, what they want is often to be allowed to
+      harm the public. Most Democrats in Congress got corrupted this way in the 80s and 90s.
+      (The exceptions are the progressive Democrats.)  Now in the UK
+      Starmer is guiding Labour into that sort of corruption. Clearly our laws should say that any public need to know about the
+      presence of toxic substances in a business facility overrides the
+      desire to keep them secret. *China-owned British Steel said to have requested £600m of taxpayer
+      support .* Whether the owners are Chinese is a question that there is no need to
+      ask, because the state should never give money to a business "to
+      support it."
+      Instead it should offer to lend money to the company for suitable
+      repayment, or else buy equity at a fair price. These two ways of supporting a company avoid giving the owners an
+      opporunity to rip off the state -- which the company's owners are likely
+      to try to do, if they can, regardless of which country they are from. With a policy like this, it wouldn't matter which country the
+      company's owners are from. More items where there
+     ought to be a law. Quotes Here are some quotations that I particularly like. Most recent Political
+	  Notes and News Items ( RSS Feed ) You can now read the political notes on Mastodon . Snoop-phone cameras "adjust" photos 30 December 2025 Snoop-phone cameras "adjust" all photos by default to make them more
+visually attractive.  This falsifies everyone thus photographed. I think that this contributes one more factor that would lead people
+to prefer to interact through phones rather than in physical presence. Father tells children truth about Santa Claus lie 30 December 2025 A father writes that he told his children the truth about Christmas presents ,
+rather than the usual Santa Claus lie, so they won't feel
+judged if some year he can't afford to get them any presents. I think that is a good reason.  But I still feel that telling the
+usual lie is wrong as well.  And when parents bully me into speaking
+to their children as if Santa Claus existed, it puts me in a painful
+moral dilemma: either butt in and cause a family crisis, or join in
+lying.  I don't want to do either. Migrants from Mauritania fear deportation 30 December 2025 Migrants from Mauritania in the US fear being deported back there to
+live under a form of apartheid system with slavery. Episode of 60 Minutes on El Salvador prison pulled from air 30 December 2025 *60 Minutes episode on brutal El Salvador prison, pulled from air by
+CBS, appears online.* This article summarizes much of its description
+of the torture in the Cecot prison.  It is clearly meant to destroy
+    the prisoners' bodies and minds ,
+   though not quickly. US citizens of foreign origin carrying their passports 30 December 2025 US citizens of foreign origin have been terrorized by the deportation thugs' violence, and their rush to deport people without allowing time
+for justice or even fact-checking.  Many now carry their passports all the time ,
+hoping the thugs will check those before brutalizing or
+jailing them. Violence against news reporters increased 30 December 2025 Violence against news reporters increased greatly this year .
+  In many cases they were attacked while covering actions of the
+deportation thugs .  Many of the attacks were committed by thugs. US general said he would obey orders to attack people inside US 30 December 2025 A US general, ultra-loyal to the bully , said he would obey orders to attack people that the bully calls "terrorist" inside the US. The phrase "confident in the lawful order" is not clear.  It invites
+us to comfort ourselves by believing that this general would make sure
+the order is lawful, but doesn't explicitly say so.  I distrust that
+vagueness. Economists call for going easy on Sri Lanka's debt 30 December 2025 Leading world economists call for going easy on Sri Lanka's debt after the recent devastating storm.
+  Even before that, Sri Lanka's debt was crushing and unjust . Iranian dress code for women 30 December 2025 For the moment, Iranian women have the government's clothing rules enforcers cowed even as it continues to bluster. Offices of two important newspapers destroyed in Bangladesh 30 December 2025 Violent mobs have rampaged across Bangladesh, and destroyed by fire the offices of two important newspapers . The article does not say what cause or side the mobs support, but they
+may be Islamist extremists. High price of medicines in the US 30 December 2025 Medicines are terribly expensive in the US because the US helps Big
+Pharma gouge on medicine and does little to resist them.  The
+bullshitter claims that the prices are high in the US because other well-off
+countries have national medical systems that negotiate lower bulk prices.
+Prices are high in the US because it fails to do that .
+  By attacking those countries' bulk prices with economic warfare, he
+helps Big Pharma in yet another way, while distracting and confusing
+the Americans who heed him. Biden made a start at using government power to reduce drug prices in the US.
+            He was limited in what he could do, because Congress
+  was dominated by Republicans and plutocratist Democrats .
+  Nonetheless, his price-reduction measures helped millions of
+non-rich Americans afford the medicines they needed to stay alive. Please join me in supporting a national medical system in the US .
+  We also need to stop the ways Big Pharma corrupts the medical system and medical research ,
+  take controlled experiments on drugs' effectiveness and safety
+out of the hands of Big Pharma,
+  and weaken the time span and power of patents on medicines. Antimuslimist threats in Australia 30 December 2025 After the antisemitic killings in Australia follows a wave of antimuslimist threats . These two forms of hatred are aimed at different religions, but they
+are basically similar in form: stirring up hatred of an "other" to make
+people panic and start to fertilize fascist movements with more hared. Let's be mature enough not to bite that hook. Governments have eased pressure on Israel 30 December 2025 The adoption of the "peace plan" for Gaza has not brought peace or a
+cease fire, nor ended the siege of Gaza, but governments around the
+world have made it as an excuse to remove all pressure on Israel and
+Netanyahu to cease their crimes. Trump and Putin share craving for status 30 December 2025 *Trump and Putin share a craving for status .  That's why they both want
+to destroy Europe.* US dropped plan to deport whistleblower to China 30 December 2025 The US has dropped its politically-motivated plan to deport
+whistleblower Guan Heng to China. Urgent: Impeach Kristi Noem 29 December 2025 US citizens: call on Congress to impeach Kristi Noem . US citizens: Join with this campaign to address this issue. To phone your congresscritter about this, the
+main switchboard is +1-202-224-3121 . Please spread the word. Urgent: Limit denaturalization 29 December 2025 US citizens: call for limiting denaturalization to people who
+committed atrocious crimes before gaining US citizenship. Urgent: Restore USAID humanitarian funding 29 December 2025 US citizens: call on Congress to restore USAID humanitarian funding —
+help poor countries against hunger and plagues. US citizens: Join with this campaign to address this issue. To phone your congresscritter about this, the
+main switchboard is +1-202-224-3121 . Please spread the word. Contrast between right-wing and left-wing approaches 29 December 2025 Madrid and Barcelona present a contrast between right-wing and left-wing approaches to the problem of high rents for housing. Right-wingers claim that radical deregulation will bring rents down.
+That article shows that it doesn't have that result. It also shows that countries should block the sell-off of public
+housing to private entities.  Under Thatcher, Britain started selling
+public housing houses and apartments to their residents, who then
+resold them.  The long-term result has been disaster.  Madrid has sold
+off public housing en masse to private equity.  The result is disaster. Supreme Court decision on TikTok 29 December 2025 *The [Supreme Court] decision means TikTok now operates under the
+threat that it could be forced offline with a stroke of [ the bully's ]
+pen.* The four factors of the apocalypse: global heating, global hating, global eating, global mating. [More Cartoons] Copy this button (courtesy of R.Siddharth)
+    to express your rejection of Facebook. E-books Non-oppressive Commercial
+E-books Don't use Facebook Facebook's face
+recognition demonstrates a threat to everyone's privacy. I
+therefore ask people not to put photos of me on Facebook; you
+can do likewise. Of course, Facebook is bad for
+many other reasons as well. Boycott Harry Potter Books, Movies, etc. Internet Music EULAS Business Supremacy Treaties Countries to Stay Away From No national identity cards I'd like to make a list of countries that do not require a national
+identity card, and have no plans to adopt one. If you live in or have
+confirmed knowledge of such a country, please send email to rms at
+gnu.org. Here's my list of countries with no national ID cards
+and no plans for one: Australia, Canada, New Zealand, UK.
+Australia's previous government tried to
+institute national ID cards, but the Labor government dropped
+the plan. India has mostly finished imposing a national biometric ID number
+in a grand act of oppression. Switzerland has national ID cards which are optional,
+but they or some other government ID card are needed for some purposes. Iceland doesn't have ID cards as such, but they
+have ID numbers that citizens are forced to use frequently.
+For example, the national ID number is often required to
+rent a video or use a gym. Denmark issues non-photo ID cards with a "person number", and many
+services use this card to identify people. Norway will impose a national biometric
+ID card . Ireland - national ID card by stealth. ACLU: the five dangers of national ID cards . Wikipedia has a list of identity card policies by country . Borders Stay away from certain countries because of their bad
+immigration policies . Flight connections Avoid flight connections in these airports because
+of their treatment of passengers . The Lifelong Activist People often ask how I manage to continue devoting myself to
+progressive activism (such as the free software movement) for
+years without burning out.  The best way I can answer is by
+recommending a book, The Lifelong Activist by Hillary Rettig. I disagree with the book on one theoretical point in the last
+part of the book: we shouldn't think of political activism as being marketing and sales, because those terms refer to
+business, and politics is something much more
+important than mere business.  However, this doesn't diminish
+the value of the book's practical advice about borrowing
+techniques from marketing and sales. Disclosure: I am friends with the author. Bob Chassell Writing (mostly science fiction) by my
+friend Bob Chassell who recently died. Solidarity Economy and Free Software Personal Declaration of Richard Stallman and Euclides Mance
+on Solidarity Economy and Free Software. Falkvinge articles I have reposted some of Rick Falkvinge's articles. As posted on his site, you can't see them in a browser
+without running some nonfree Javascript code which is apparently
+non-free.  These versions show the same text, without the obstacle. Long-term action items Political Articles These are my political articles that are not related to the GNU
+      operating system or free software. For GNU-related articles, see
+      the GNU philosophy
+      directory .
+
+      You can also download copies of my
+      book, Free 
+      Software, Free Society, 3rd edition . A way to recognize
+	    misleading political propaganda (July 2024) Fight Modern
+	    Slavery, but Leave Astronomy Alone (May 2024) Let Benevolence
+	    Shine (December 2023) What I learned
+	    about gender and language from talking about the Virgin of
+	    Emacs, and how I made use of that in practice (October
+	    2023) Many governments invite schools to invite companies to snoop on students (June 2022) To Endure, Peace Needs to Weaken Putin But Not Ruin Him (March 2022) The Russian Army has become the Putin Forces (March 2022) The definition of "racism" must not be formulated based on who the perpetrators are (February 2022) Why we should get rid of corporate landlords, and an easy method (August 2021) Worker-owned internet services can still be dis-services (June 2021) Necessary Changes in Society (March 2021) On the Firing of Jeffrey Toobin (November 2020) The Broken Trust Model of Policing Police (October 2020) An Extinction Rebellion activist comments about the London police
+	    by Clark Killick (October 2020) What sort of laws would give us real privacy? (December 2019) My Talk at
+	Microsoft (September 2019) Surveillance Ordinance (November 2018) How the Ramayana endorses caste bias (April 2018) Better
+  Genderless Pronouns in English (April 2018) A radical
+	proposal to keep your personal data safe. (April 2018) What Mary Had (May
+	2017) Anonymous
+	internet payments using pay phones (Apr 2017) When people are conscripted
+	  by the DMCA into the War on Sharing . (Dec 2016) If you feel your organization needs
+	a "presence" in
+	Facebook .
+	(Dec 2016) How Much Surveillance Can Democracy Withstand? Yes, You Have
+	Something to Fear . (August 2016) A proposal for resolving the dispute over the South China
+	  Sea.  (July 2016) Is duckduckgo.com partially enforcing the "celebrity threesome
+	injunction"? (May 2016) Adapting the Marseillaise to the greatest threat to civilization . Proposing the Logo Sea
+    Turtle — for Whales (October 2015) Controlling
+    When the Cameras Record (August 2015) A few words to Greece (June 2015) Fixing Too
+    Big To Fail (Apr 2015) Enslaved Workers What I said about
+    Hrant Dink in my talks in Turkey (Apr 2015) Earth under attack from planet Koch . Fine government
+    contractors for hiring ex-officials (Feb 2015) Suggestion to the target of a
+    witch hunt (Feb 2015) Nonexistence (Feb 2015) The Thermocene
+    Epoch (Feb 2015) Digital Voting. (Jan 2015) My letter asking the judge not to sentence Jeremy Hammond to prison . (Jan 2015) It is a bad idea to have computers count
+    the votes in public elections . Internet Voting: don't even think of it! The patent system is, at best, not worth keeping .  (February 2014) Why We Need A
+    State (November 2013) We can put an end to "too big to fail" with an innovative tax that also defeats corporate tax-dodging. (August 2013) Exxon and the Letter Exx. (April 1,
+    2013) Fixing too big to fail (February 2013) Why
+    internet music "sale" is a bad deal. (January 2013) On-line education is using a flawed Creative Commons license
+    (September 2012) French
+    Translation Redistributable Scientific Publishing (April 2012) My Doctor's Office Asked me to
+    Lie (August 2011) Responding to Beggars UK extreme pornography law . My criticism of the The Zeitgeist Movement .
+	The Venus Project is more or less the same idea. The states need to form a
+        union . Additional
+      Political Articles are on a separate page Political notes "Those who profess to favor freedom, yet depreciate agitation, are
+      men who want crops without plowing up the ground. They want rain without
+      thunder and lightning. They want the ocean without the awful roar of its
+      many waters. This struggle may be a moral one; or it may be a physical
+      one; or it may be both moral and physical; but it must be a struggle.
+      Power concedes nothing without a demand. It never did and it never
+      will." Frederick
+        Douglass , American Abolitionist, Letter
+        to an associate, 1849 Here are notes about various issues I care about, usually with links to
+      more information.  The current notes are here .  For all previous
+      notes, see this page . See this page for
+      information on efforts to maintain links in the political notes. Political notes about the 2001 G8 summit in Genoa, Italy are being
+      archived on their own page . Media/Press/Bios Richard Stallman's bio and publicity photos, and other things
+      of interest to the press, have been moved to a separate page . Travel experiences How it happened that I
+      planned speeches at Israeli universities, then cancelled them. Richard Stallman's travel blog and restaurants reviews My visit to Machu Picchu Stories about visits to Tikal and Greece Photos about my travels Photos of me working on my 
+	    laptop at various places All of my photos , organized by 
+	location, from my trips. Photos people like best ,
+	among those I have taken and posted here. OSCON More
+      Photos from OSCON my visit to Switzerland in May 2003 (and the same photos at the original photographer's site .) Some pictures from Vaasa where I slipped on icy
+      ground in the airport, broke my elbow, and gave my speech by telephone from 
+      the hospital bed my trips to Greece In Singapore in March 2001, a lovely parrot (50k jpeg) became enamored of me, while others enjoyed my recorder playing (91k jpeg) my visit to China in May/June 2000. I also visited Tibet unawares, because nobody told me
+      that JiuZhaiGou was part of Tibetan territory annexed by China since the
+      conquest my visit to Brazil: some from Rio de Janeiro and some from Porto Alegre where the
+      Software Livre 2000 event was held. my trip to Slovenia A photo of me by Blake Livingston (may be used under CC-BY-SA). Scientific Links Homeopathy debunked , and thoroughly, as pseudoscience. Some humor The berry torture . The Free Software Song , by Richard M. Stallman. You can listen to a performance of the song: Free Software Song performed by Thor Here is a variant of this song called "The Free Firmware Song" . Earth under attack from planet Koch . On doxing , and how to spell it. Futon Physics A Spanish cartoon: La Ruleta
+    Española. The
+    Night before M-x-mas Here I am wearing my "power tie" . Wine
+      snobs get their comeuppance. Here I am struggling to open a bottle of water . My application to an join Marian Henley's ex-boyfriends list . My funny poetry and song parodies . A song parody, Colors of the Lisp , by Jefferson Carpenter. The text to a filk song, Johnny v. N. ,
+       by Paul Rubin. My Cartoons My Puns in English ( Little Leaguer , August 2019). My Puns in Spanish (New pun: Apostasía April 2019) My Puns in French (New pun: Microsoft à l'école July 2019) My Puns in Portuguese My Puns in Italian (New pun: Quale pesce fa
+    starnutire? New 10/2018) My Puns in German (New 02/2016) Linguistic Swifties (Now with: Wintu, Penutian, Cochiti, Taos, and Towa.) -- Saint
+      IGNUcius -- The Church of Emacs will soon
+      be officially listed by at least one person as his religion for
+      census purposes. There are no godfathers in the Church of Emacs, since there are no gods,
+      but you can be someone's editorfather . Stallman Does Dallas : "I have to warn
+      you that Texans have been known to have an adverse reaction to my
+      personality…" The Dalai Lama today announced the
+      official release of Yellow Hat GNU/Linux. Pre-Zen Studies. I found a funny song about the Mickey Mouse
+      Copyright Act (officially the Sonny Bono Copyright Act) which
+      extended copyright retroactively by 20 years on works made as early as
+      the 1920s. If you are a geek and read Spanish, you will love Raulito el Friki,
+    who said "Hello, world!" immediately after he was born.  Here's an archive of this now-defunct comic strip . Sleeping with Stallman at MIT. Un malentendido gracioso . ESR's favorite programming language: Objectivist C . American
+    Extremists My Small Mouth The huns and the writs . No Kludges in Cluj (June 2014) Hammer into Anvil Fiction Made for You (December 2012)
+    ( local
+    copy ) Esperanto
+    translation A science fiction story: Jinnetic
+    Engineering ( in 
+    Portuguese , Farsi , Spanish , Armenian , Russian , French , and Italian ). The Right to 
+    Read Books My book of essays about the philosophy of Software Freedom,
+    is available from the GNU Press . Stallman on Love Love and Dance My Childhood Sweetheart Made for You My Former Personal Ad Non-Political Articles Am I Doctor Stallman? Avec des
+       chapeaux French song parody. My radio program of Music from
+	Georgia , originally broadcast on WUOG in Athens, Georgia on
+      Oct 13, 2014. Resolving the trolley
+    problem Quantum Theory and
+    Abortion Rights A proposal for gender neutrality in Spanish , suitable for both
+    speech and writing. Origin of the POSIX name. On Hacking : In June 2000, while
+      visiting Korea, I did a fun hack that clearly illustrates the original
+      and true meaning of the word "hacker". My Childhood Sweetheart Love and Dance Predicting the attack on Pearl Harbor Certificate of confusion Links Thanks I would like to thank: Positive Internet for hosting this web site. Graziano Sorbaioli for improving the layout of the main
+          page. Please send comments on these web pages to rms at gnu period org . Copyright © 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+      2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013,
+      2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+      Richard Stallman Verbatim copying and redistribution of this entire page are
+      permitted provided this notice is preserved. Verbatim copying and redistribution of any of the photos in the photos subdirectory is permitted under the Creative
+      Commons Noderivs license version 3.0 or later.  You can copy and
+      redistribute the photo of me playing music to
+      the butterfly under the Creative Commons Noderivs
+      Nocommercial license version 3.0 or later.  Any other photos of
+      me in this (the toplevel) directory may be copied and redistributed under
+      the Creative Commons Noderivs license version 3.0

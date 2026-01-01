@@ -1,0 +1,130 @@
+AboutTechnologyIssuesFAQ
+Full-Text Search Engine
+
+
+103 million scholarly articles (1665-2025)
+22 million with PDFs
+
+
+
+• impact factors
+• who cited?
+• where cited?
+• trends in research
+Profiles
+Journals
+Authors
+Institutions
+Schools
+
+
+
+Tools
+Reference Formating
+Research Trends
+Reference Finder
+
+
+
+Search Engines
+Advanced Search
+Medical Search
+Chemicals Search
+Title
+Abstract
+Text
+Figure Caption
+author
+All Types
+Articles
+Communications
+Reviews
+Discussions
+Case Reports
+with PDF only
+Search
+Top Journals by Keyword
+
+Find which journals publish the most about a given keyword.
+
+
+GO
+Top Authors by Keyword
+
+Find which authors have more papers for a given keyword.
+
+
+GO
+Research Trends by Keyword
+
+Check the trends of keywords by number of publications over years.
+
+
+GO
+Find an Author by ORCID
+
+Full analysis of each author including who and where cited.
+
+
+GO
+Find Authors by Name
+
+Search for an author by name (firstname lastname).
+
+
+GO
+Find Paper by DOI
+
+If you look for the statistical analysis (who cited? where cited?) of a single paper, you can lookup by its DOI.
+
+GO
+What is exaly?
+
+This is a non-profit endeavour to address the absence of a comprehensive, unbiased, and independent bibliographic database.
+
+The project is absolutely independent with no link with publishers, research institutions, funding agencies, etc. whatsoever.
+
+The project is funded by individuals, and no public/corporate fund has been used.
+How does it work?
+
+The entire system has been designed and developed from scratch, including all programmes, scripts, system architecture, and natural language processing (NLP) tools, and no third-party data resources were used.
+
+All the scientometric indices, such as impact factor, h-index, etc., are calculated by counting the citations captured by the system, and authors, institutions, etc., were detected by the native NLP tools.
+
+Creative Commons
+
+All the materials are publicly available to anyone, and no subscription or registration is required to access any part of the website.
+
+As noted in the Terms of Service and footnote of every page, all raw and visualised data are licenced under Creative Commons Attribution-ShareAlike, and you are free to re-use them for any purposes.
+
+
+EXALY
+About
+Technology
+Contact
+Privacy Policy
+Terms of Service
+Statistics
+PROFILES
+Authors
+Journals
+Institutions
+Schools
+Online Resources
+Datasets
+Software Packages
+FIELDS
+Disciplines
+Topics
+Departments
+SEARCH ENGINES
+Advanced Search
+Medical Search
+Chemicals Search
+TOOLS
+Reference Formatting
+Research Trends
+Author Finder
+Institution Finder
+Journal Finder
+site/software © exaly; All materials licenced under CC by-SA.

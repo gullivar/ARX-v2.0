@@ -1,0 +1,408 @@
+Skip to:
+Home
+Content
+Footer navigation
+
+Turn your slow data into fast data--and keep it in sync with Redis Cloud
+
+Join the RDI Public Preview
+LangCache
+Products
+PRODUCTS
+
+Redis Cloud
+Fully managed and integrated with Google Cloud, Azure, and AWS
+
+Redis Software
+Self-managed software with enterprise-grade compliance and reliability
+
+Redis Open Source
+In-memory database for caching & streaming
+
+Redis for AI
+Faster GenAI apps start here
+
+TOOLS
+
+Redis LangCache
+
+Redis Insight
+
+Redis Data Integration
+
+Clients & Connectors
+
+GET REDIS
+Downloads
+Resources
+LEARN
+
+Tutorials
+
+Quick starts
+
+Commands
+
+University
+
+Knowledge Base
+
+Resource Center
+
+Blog
+
+Demo Center
+
+Developer Hub
+
+CONNECT
+
+Customer Stories
+
+Partners
+
+Support
+
+Community
+
+Events & Webinars
+
+Professional Services
+
+LATEST
+
+Releases
+
+News & updates
+
+LEARN HOW TO BUILD
+Visit our Developer Hub
+Docs
+Pricing
+Login
+Book a meeting
+Try Redis
+YOUR APP IS ABOUT TO GET FASTER
+
+Build AI apps with more speed, memory, and accuracy.
+
+Try Redis for free
+Get a demo
+Trusted by fast companies across the globe
+Think fast. Build faster.
+Redis for AI
+
+We’re the fast memory layer for chatbots and AI agents. Get ready-to-use tools for building AI apps today.
+
+Vector database
+AI agent memory
+Semantic search
+Redis LangCache
+
+Lower latency and LLM costs with fully managed semantic caching.
+
+Caching
+
+Obviously.
+
+Redis Insight
+
+Develop, debug, and visualize with our free graphical user interface and dev tool.
+
+Redis Flex
+
+Cache 5X more—at no extra cost.
+
+Redis Query Engine
+
+Run powerful data queries & search in real-time.
+
+Redis Data Integration
+
+Sync data from your existing database instantly.
+
+Deploy anywhere
+In the cloud
+
+Build on any cloud while we manage Redis for you.
+
+Learn more
+On-prem/hybrid cloud
+
+Get the best Redis on the market and manage your own deployments.
+
+Learn more
+Redis Open Source
+
+Download Redis 8 and build with free open source software.
+
+Download now
+Works with
+your tech stack
+AWS
+Azure
+Google Cloud
+Vercel
+Heroku
+NodeJS
+Java
+Javascript
+Golang
+PHP
+.Net
+Python
+Langchain
+Kubernetes
+Docker
+C++
+See all integrations
+Start building in minutes
+
+Connect with Redis using trusted libraries in your language of choice.
+
+JAVASCRIPT
+JAVA
+PYTHON
+PHP
+.NET
+GO
+import { createClient } from 'redis';
+
+const client = createClient();
+await client.connect();
+
+await client.json.set('user:1', '$', {
+  name: 'Alice',
+  emails: ['alice@example.com', 'alice@work.com'],
+  address: { city: 'NYC', zip: '10001' }
+});
+
+console.log(await client.json.get('user:1', { path: '$' }));            // { name: 'Alice', emails: [...], address: {...} }
+console.log(await client.json.get('user:1', { path: '$.name' }));       // "Alice"
+console.log(await client.json.get('user:1', { path: '$.emails[0]' }));  // "alice@example.com"
+console.log(await client.json.get('user:1', { path: '$.address.zip' })); // "10001"
+
+await client.quit();
+Copied!
+The features you need all in one place
+
+Build the way you want. We manage scaling so everything just works.
+
+Explore docs
+Active-Active Geo Distribution
+
+Get 99.999% uptime and local sub-millisecond latency.
+
+Automatic failover
+
+Seamlessly switch to a replica with no downtime if your primary server fails.
+
+Multiple modern data structures
+
+Work with 18 modern data structures, including vector sets, JSON, and more.
+
+Clustering
+
+Automatically split your data across multiple nodes to improve uptime.
+
+Data integration (CDC)
+
+Keep Redis updated with real-time changes from your system of record.
+
+Flexible deployment
+
+Run Redis anywhere—cloud, on-prem, or hybrid. You’re in control.
+
+Join the Redis community
+
+By developers, for developers
+
+GitHub
+Discord
+@arsh_goyal
+
+Meesho transitioned from Amazon ElastiCache to Redis Cloud on Google Cloud Platform (GCP), here is what I feel this could benefit
+
+@mjovanovictech
+
+Most people think Redis is just used for caching.
+
+But it can do so much more!
+
+@KevinBaldwinSF
+
+Game changer!
+
+@ayshriv
+
+Just integrated Redis with Java and the performance boost is incredible. Blazing-fast caching, session management, and real-time data handling.
+
+Tech Stack: Java + Spring Boot + Redis
+
+Say goodbye to latency.
+
+@hwchase17
+
+In case you missed it: OpenGPTs is an open source alternative to GPTs, where you own and control the infra. In this case, a lot of the infra is built on top of Redis
+
+@deleteman123
+
+This is why I love Redis so much, it's super versatile and powerful. You can use it on almost every scenario.
+
+@advoworks
+
+Redis is awesome
+
+@bytebytego
+
+Most people think Redis is just for caching.
+
+But Redis can do so much more than that. It is good for:
+
+- Session store 
+- Distributed lock 
+- Counter 
+- Rate limiter 
+- Ranking/leaderboard
+
+@UnstructuredIO
+
+Redis is a versatile Vector Database, primarily known for its speed, and flexibility. The LangChain Template is a game-changer, offering standard formats for easy deployment with LangServe, simplifying app creation, modification, and understanding.
+
+@StonkyOli
+
+I love redis
+
+@knowclarified
+
+Redis. Yeah. That’s the tweet.
+
+@defunkt
+
+Redis is still one of my favorite software projects. Not only did
+@ezmobius introduce me to it, his redis-rb project opened the door for all us Rubyists. Redis solved so many problems for early GitHub.
+
+@arsh_goyal
+
+Meesho transitioned from Amazon ElastiCache to Redis Cloud on Google Cloud Platform (GCP), here is what I feel this could benefit
+
+@mjovanovictech
+
+Most people think Redis is just used for caching.
+
+But it can do so much more!
+
+@KevinBaldwinSF
+
+Game changer!
+
+@ayshriv
+
+Just integrated Redis with Java and the performance boost is incredible. Blazing-fast caching, session management, and real-time data handling.
+
+Tech Stack: Java + Spring Boot + Redis
+
+Say goodbye to latency.
+
+@hwchase17
+
+In case you missed it: OpenGPTs is an open source alternative to GPTs, where you own and control the infra. In this case, a lot of the infra is built on top of Redis
+
+@deleteman123
+
+This is why I love Redis so much, it's super versatile and powerful. You can use it on almost every scenario.
+
+@advoworks
+
+Redis is awesome
+
+@bytebytego
+
+Most people think Redis is just for caching.
+
+But Redis can do so much more than that. It is good for:
+
+- Session store 
+- Distributed lock 
+- Counter 
+- Rate limiter 
+- Ranking/leaderboard
+
+@UnstructuredIO
+
+Redis is a versatile Vector Database, primarily known for its speed, and flexibility. The LangChain Template is a game-changer, offering standard formats for easy deployment with LangServe, simplifying app creation, modification, and understanding.
+
+@StonkyOli
+
+I love redis
+
+@knowclarified
+
+Redis. Yeah. That’s the tweet.
+
+@defunkt
+
+Redis is still one of my favorite software projects. Not only did
+@ezmobius introduce me to it, his redis-rb project opened the door for all us Rubyists. Redis solved so many problems for early GitHub.
+
+Get started
+
+Speak to a Redis expert and learn more about enterprise-grade Redis today.
+
+Try Redis
+Talk to sales
+Trust
+Privacy
+Terms of use
+Legal notices
+English
+Español
+Français
+Deutsch
+한국어
+Italiano
+Português
+Use cases
+Vector database
+Feature stores
+Semantic cache
+Caching
+NoSQL database
+Leaderboards
+Data deduplication
+Messaging
+Authentication token storage
+Fast data ingest
+Query caching
+Redis Query Engine
+All solutions
+Industries
+Financial Services
+Gaming
+Healthcare
+Retail
+All industries
+Compare
+Redis vs. ElastiCache
+Redis vs. Memcached
+Redis vs. Memorystore
+Redis vs. Redis Open Source
+Company
+Mission & values
+Careers
+News
+Connect
+Community
+Events & Webinars
+Partners
+Amazon Web Services
+Google Cloud
+Azure
+All partners
+Support
+Professional Services
+Support
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+Manage Settings
+Accept
+     

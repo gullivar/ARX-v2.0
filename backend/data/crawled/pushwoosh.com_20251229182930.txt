@@ -1,0 +1,186 @@
+Platform
+Industries
+Integrations
+Pricing
+Company
+Resources
+Contact sales
+Log in
+One platform for complete user journey
+
+Turn customer data into high-converting campaigns with advanced segmentation and omnichannel messaging.
+
+CONTACT SALES
+START FOR FREE
+Reach the right users — and your revenue goals
+Convert new users
+Retain high-value clients
+Recover churn
+Maximize ARPU
+Secure recurring revenue
+
+Boost app adoption with personalized onboarding informed by user acquisition data. Drive ROI faster with targeted offers based on initial in-app behavior and preferences.
+
+“Pushwoosh’s targeting is precise, effective, and as easy as sending broadcasts and scheduled pushes.”
+
+Javier Bosque, Head of E-Commerce & Media, Telepizza
+
+Their success is our track record
+Precision targeting, fail-proof omnichannel delivery
+Unify customer data
+
+Turn fragmented data into a revenue engine—track user behavior, preferences, and history in one place.
+
+Activate targeted campaigns
+
+Reach the right user at the right moment—boost retention, reduce churn, and increase monetization.
+
+Optimize for growth
+
+Scale engagement without scaling costs. Track impact, A/B/n test, and continuously improve conversions.
+
+Everything you need for data-driven engagement
+Flexible segmentation
+Personalized messaging
+Omnichannel campaigns
+Automation at scale
+Actionable analytics
+
+Reach high-value, revenue-driving audiences with minimal effort. Define segments based on real-time user behavior, historical data, and RFM criteria—more accurately than ever!
+
+Tags & attributes — segment by user profile data
+Events — target based on in-app or on-site actions
+Uploaded lists — import audiences from external sources
+Grouped filters — build nested groups with AND / OR logic inside and between them
+Seamless integration with your data ecosystem
+
+Get a complete view of your customer by seamlessly integrating data from your favorite platforms. Pushwoosh connects effortlessly with tools like Adjust, Amplitude, Appsflyer, Mixpanel, Segment, and Shopify, empowering advanced segmentation and highly targeted messaging that maximizes retention and monetization.
+
+HOW TO BECOME PARTNER
+Our customers see success
+7x
+higher engagement with push notifications
+25x
+higher conversion into target action
+30x
+higher in-app activity
+Customer success stories
+
+Read more stories →
+
+E-Commerce
+
+Bantoa drives up to 91.9% CTRs with personalized push, keeping 94% of subscribers active monthly.
+
+Bantoa's Case
+Fintech
+
+AvaTrade has converted 12% of anonymous users to real account registration through omnichannel messaging.
+
+AvaTrade's Case
+News
+
+GB News engages 1.2M users with targeted real-time push notifications, achieving an 8.55% retention on Day 30.
+
+GB News's Case
+Gaming
+
+Bladestorm has boosted revenue by 4.58% using automated flows in Pushwoosh Customer Journey Builder.
+
+Bladestorm's Case
+You can trust our stability & support
+
+We work on privately owned enterprise-grade server hardware and don’t use any third-party cloud hosting solutions. We offer detection and prevention system, anti-DDoS protection, and isolated dedicated infrastructure for Private Offering setup. Our infrastructure is built in a way to ensure continuous availability and highest-level performance.
+
+99.9% service uptime
+
+Pushwoosh Enterprise Cloud employs state-of-the-art supercomputer technologies used by the companies like CERN and NASA. The cloud is fully redundant to prevent and minimize downtime.
+
+GDPR compliance
+
+For European clients, we guarantee our datacenter location within EU (Germany), as well as compliance with GDPR, Bundesdatenschutzgesetz (Data Protection Acts), and ISO 27 001. More details
+
+24/7 available support
+
+Let your developers take care of your product, and we will help you integrate it with Pushwoosh and provide a full technical review of the software.
+
+Available on all platforms
+
+One tool to collect data and deliver messages across all known platforms.
+
+15 minutes to integrate our SDK
+
+One tool to collect data and deliver messages across all known platforms.
+
+Advance to the next level
+
+Learn how to build effective cross-channel communications and drive conversions. See the platform in action for different marketing cases. Our experienced team will answer your questions and offer the best plan for your business needs.
+
+REQUEST DEMO
+START FOR FREE
+MESSAGING
+Customer Journey Builder
+Mobile push notifications
+Web push notifications
+In-App Messaging
+Email
+SMS
+WhatsApp
+CUSTOMER DATA PLATFORM
+Pushwoosh API
+Actionable CDP
+Audience segmentation
+Campaign analytics
+Integrations
+Data safety
+INDUSTRIES
+Gaming
+Fintech & banking
+Mobility & delivery
+Media
+Subscription-based apps
+E-commerce
+COMPARE PUSHWOOSH
+Pushwoosh vs. Customer.io
+Pushwoosh vs. MoEngage
+Pushwoosh vs. CleverTap
+Pushwoosh vs. Braze
+Pushwoosh vs. OneSignal
+Pushwoosh vs. Firebase
+BEST TOOLS
+Best omnichannel messaging platforms
+Best customer engagement tools
+Best user segmentation tools
+Best mobile push notification services
+Best email automation software
+Best in-app messaging platforms
+Best WhatsApp marketing tools
+EMAIL MARKETING HUB
+Email marketing templates
+Drag-and-drop email builder
+Promotional emails
+Transactional emails
+Email deliverability
+HIPAA-compliant emails
+GDPR-compliant emaiils
+FOR USERS & DEVELOPERS
+Product Documentation
+Developer Documentation
+Help Center
+Support
+GitHub
+GET IN TOUCH
+About Pushwoosh
+Contact sales
+Talk to support
+Pricing
+Partner with Pushwoosh
+Pushwoosh affiliate program
+© 2025 Pushwoosh Inc. All rights reserved.
+Terms of service
+Privacy policy
+Affiliate support
+We use cookies to improve your experience. You can opt out
+of certain cookies. Find out more in our Cookie Policy.
+Manage cookies
+Accept All

@@ -1,0 +1,5 @@
+ViMbAdmin ViMbAdmin :: Virtual Mailbox Administration About Login Login to ViMbAdmin Welcome to ViMbAdmin , a web application for managing your virtual mailboxes, domains and aliases. Email Password Remember me on this computer Lost Password Are you a user (mailbox owner) looking to change your password? If so, please click on this button: Mailbox Password Change Copyright © 2011 - 2025 Open Source Solutions Limited .
+            This Program is provided AS IS, without warranty. ViMbAdmin V3.2.1 .
+            Licensed under the GNU General Public License V3 . Keep up with ViMbAdmin | 
+            Get the source at GitHub | 
+            Learn more about Open Solutions | Announcements and Discussion Mailing Lists

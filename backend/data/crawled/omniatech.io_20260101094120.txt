@@ -1,0 +1,219 @@
+DePIN for AI Agents and RPC Nodes
+
+Build and Deploy Secure AI Agents on DePIN Infrastructure for 100% Uptime.
+
+AI Brain Platform
+Get Public RPC
+_
+WE ARE PROUD OF
+DePIN for Autonomous AI Agents
+
+OMNIA ensures strong security by embedding robust security policies into the RPC used by your wallet. This prevents hacks, scams, and other malicious attacks, safeguarding your transactions and data integrity.
+
+Intelligent RPC with High Availability
+
+OMNIA’s intelligent RPC, with high availability, leverages LLM to provide a natural language interface to easily understand blockchain activity. Secure RPC ensures your wallet stays protected while interacting with blockchain networks.
+
+Strong Security and Consumer Protection
+
+OMNIA embeds strong security policies in your wallet’s RPC, preventing hacks and safeguarding transactions.
+
+DePIN for Autonomous AI Agents
+
+OMNIA ensures strong security by embedding robust security policies into the RPC used by your wallet. This prevents hacks, scams, and other malicious attacks, safeguarding your transactions and data integrity.
+
+Intelligent RPC with High Availability
+
+OMNIA’s intelligent RPC, with high availability, leverages LLM to provide a natural language interface to easily understand blockchain activity. Secure RPC ensures your wallet stays protected while interacting with blockchain networks.
+
+OUR COMMUNITY
+OMNIA in numbers
+75+
+Supported networks
+7,495,284
+Monthly active users
+35+
+Projects using OMNIA
+100%
+Uptime
+1B+
+RPC Calls/Day
+$3B+
+Monthly processed volume
+SUBSCRIBE TO OUR LATEST NEWS
+Subscribe to ensure you get every update on Omnia's progress
+THEY TRUST US
+THEY USE OMNIA
+Generating API endpoint
+
+Generate a secure connection to blockchain for your wallet or app
+
+Managing API endpoints
+
+You have full control over all secure connections you have generated
+
+Front-running protection
+
+Your DEX transactions will not be seen by hungry sandwich bots in the public mempool
+
+PUBLIC RPC
+Fast, Free and Secure Public RPC endpoints with Enhanced Privacy and High Availability guarantees
+Ethereum
+
+https://endpoints.omniatech.io/v1/eth/mainnet/publicrpc
+
+Copy URL
+Add to MetaMask
+ROADMAP
+Product and token roadmap
+Q2 2021
+Pioneering Privacy
+Exploring cutting-edge privacy solutions
+Uncovering the divide between on-chain and off-chain privacy
+Q3 2021
+Innovation in Design
+Researching market needs and use cases
+Conceptualizing the ultimate product
+Securing seed funding
+Q4 2021
+Unleashing the MVP
+Launching strategic and private sales
+Making HTTP endpoints available
+Providing node management through OMNIA
+Q1 2022
+Early Adopter Access
+Expanding support to more blockchain networks (Polygon & Avalanche)
+Offering DeFi frontrunning protection
+Enabling private transactions for DeFi
+Q2 & Q3 2022
+HODL & Building for the Future
+Introducing WebSockets support
+Enhancing stability with sticky sessions
+Expanding support to more blockchain networks (Arbitrum, Optimism)
+Dynamic subscription parameters validation
+Q4 2022
+Introducing KYT Suite
+Releasing OMNIA Smart Guard from KYT compliance suite
+Expanding support to more blockchain networks (Solana)
+Fine-tuning load balancer parameters for optimal performance
+Q1 2023
+Strengthening Compliance
+Releasing OMNIA Smart Spectator from KYT compliance suite
+Integrating various payment methods (card, stablecoins, etc.)
+Expanding support to more blockchain networks (Near, Aurora, Fantom, Gnosis)
+Adding connectors for external node providers
+Implementing CDN clustering
+Q2 2023
+Test Token Launch
+Launching testnet
+Releasing OMNIA Smart Insight from KYT compliance suite
+Enabling staking (testnet) for node providers
+Expanding support to more blockchain networks (community requests)
+NFT Launch
+Q3 2023
+Optimizing Performance
+Introducing caching mechanism
+Enabling node verification protocol
+Expanding support to more blockchain networks (community requests)
+Capturing the good MEV and returning it back to users (PoC)
+Q4 2023
+Leap Forward
+Implementing request batching
+Expanding support to more blockchain networks (community requests)
+Enabling generic private transactions
+Offering system wide stateful subscriptions
+Q1 & Q2 2024
+Achieving Omnipotence
+Offering staking and rewards for node providers
+Providing use-case tailored node relaying (i.e. speed tailored, etc)
+Expanding support to more blockchain networks (community requests)
+Introducing multi-chain private mempools
+RPC aggregator and balancer
+DeFi tools to boost DEX volumes
+Q3 2024
+Double down on security
+2FA for transactions
+Customizable security policies
+Integrated TX flow security
+Provider services aggregation via plugins
+Taping the restaking & AVS operator lanscape
+Releasing OMNIA Tap Game
+Q4 2024
+Mainnet & Token listing
+Token launch and exchange listing
+Liquidity incentives programs
+Node dePIN staking
+Data integrity checks via consensus
+Tapping into L2 ZKP ecosystem
+AI Brain platform launch
+2025
+Expanding DePIN into AI Agents Market
+Convert userbase in paying customers
+AI natural language assistant to understand onchain exposure
+Launch of AI Agents platform
+Secure the decentralized data integrity checks with restaking
+LATEST NEWS
+BeInCrypto publication - OMNIA Technical Review
+OMNIA AI Agents Vision
+Token Metrics
+OMNIA Protocol helped secure the privacy of 21M users
+FEATURED
+JOIN US!
+FOLLOW US!
+JOIN US!
+FOLLOW US!
+LET'S CONNECT!
+SUBSCRIBE!
+
+Secure, Private and Compliant Infrastructure
+
+Menu
+ERC20 Token
+BEP20 Token
+ETH-BSC Bridge
+OMNIA ERC20 Claim
+OMNIA BEP20 Claim
+ETH Staking
+BSC Staking
+Tokenomics
+Whitepaper
+APY Calculator
+CMC
+Blog
+Product
+Docs
+Have I Been Frontrunned?
+Atomic transactions
+Frontrunning protection
+Honeypot protection
+Token Approval Protection
+Registering nodes FAQ
+Deploy nodes
+Custom RPC
+Developers
+Token Audit
+Security Profile
+Networks
+Ethereum
+Binance
+Arbitrum
+Polygon
+Solana
+Fantom
+Algorand
+Avalanche
+Near
+Harmony
+Legal
+Privacy Policy
+Terms & Conditions
+Risk Disclaimer
+Terms of Use of OMNIA
+Social
+Medium
+Github
+Twitter-X
+Telegram
+Linkedin
+Discord
+Youtube

@@ -1,0 +1,104 @@
+    Login
+Get data
+ 
+How-to
+ 
+Tools
+ 
+Community
+ 
+About
+GBIF | Global Biodiversity Information Facility
+Free and open access to biodiversity data
+OCCURRENCES
+SPECIES
+DATASETS
+PUBLISHERS
+RESOURCES
+Search
+What is GBIF?
+About GBIF Korea, Republic of
+Velvet worm (Diemenipatus taiti) observed in Tasmania, Australia by Gonzalo Giribet (CC BY-NC 4.0)
+3,583,146,553
+Occurrence records
+119,643
+Datasets
+2,619
+Publishing institutions
+13,867
+Peer-reviewed papers using data
+What is GBIF?
+
+GBIF—the Global Biodiversity Information Facility—is an international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
+
+ Learn more
+News
+News
+GBIF seeks senior software data engineer (contractor)
+News
+GBIF seeks temporary data administrator
+News
+2025 BID call for proposals: regional and cross-regional biodiversity data mobilization projects
+Event
+Open Q&A session for the BID regional and cross-regional call
+ 13 January 2026
+09:30 - 16:30 CET
+News
+GBIF data use surges globally, powering more than 12,000 studies across 180 countries
+Taskforce on Nature-based Financial Disclosures calls for more biodiversity data from businesses via GBIF
+News
+Call for proposals for 2026 Capacity Enhancement Support Programme
+News
+Ethiopia joins the GBIF network as an Associate Participant
+Data use
+previous
+Climate change
+3,102
+Peer-reviewed papers using data
+
+Biodiversity loss and climate change interact in many ways, reflecting two sides of the same problem: humanity’s unsustainable relationship with the natural world. Explore the research relying on data from the GBIF network to understand and assess the growing impact that changing temperatures, precipitation and other climate-related phenomena are having on biodiversity.
+
+Featured See all
+next
+slide 1 of 4, currently active
+slide 2 of 4
+slide 3 of 4
+slide 4 of 4
+Thematic communities
+
+GBIF's data, infrastructure and services support cross-disciplinary research, creating new opportunities for evidence-based science and decision-making. With guidance from the GBIF Science Committee, we monitor signals from who's sharing and using data to pursue strategic opportunities with impact, continuously seeking to improve the quality, relevance and utility of biodiversity data for a wide array of communities across science, technology and policy.
+
+Learn more
+Programmes and projects
+previous
+Hosted portals
+58
+Hosted portals
+
+GBIF hosted portals offer simple, customizable websites that support biodiversity data use and engagement at national, institutional, regional and thematic scales. This service, which Participant nodes and their partners can apply to anytime, lowers the technical demands for delivering relevant biodiversity data to communities around the world.
+
+Learn more
+next
+slide 1 of 5, currently active
+slide 2 of 5
+slide 3 of 5
+slide 4 of 5
+slide 5 of 5
+Resources and documentation
+Beginner's guide to the GBIF API
+All you need to know about GRSciColl
+Community forum
+
+Join the conversation and get answers to data use related questions
+
+Learn about the technical support hour for nodes
++
+-
+5000 km
+Generated 2 days ago © OpenStreetMap contributors, © OpenMapTiles, GBIF.
+EXPLORE    
+Any year 1600 - 2025 
+What is GBIF? API FAQ Newsletter Privacy Terms and agreements How to cite? Code of Conduct Acknowledgements
+Contact GBIF Secretariat Universitetsparken 15 DK-2100 Copenhagen Ø Denmark
+ GBIF is a Global Core Biodata Resource
+      

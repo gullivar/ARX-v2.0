@@ -1,0 +1,188 @@
+Skip to main content
+Solutions
+Products
+Pricing
+Developers
+Resources
+Company
+Log in
+Contact us
+Sign up for free
+Do Cloud Right, Explained
+Explore our new series on accelerating delivery, optimizing ROI, and strengthening security at scale.
+Watch now
+Do cloud right
+Take a unified approach to hybrid cloud with Infrastructure and Security Lifecycle Management.
+Meet The Infrastructure Cloud
+
+TRUSTED BY LEADING ORGANIZATIONS
+
+HashiCorp Cloud Platform
+A smarter approach to infrastructure operations
+
+HashiCorp helps organizations do cloud right with The Infrastructure Cloud, an integrated platform that turns Infrastructure Lifecycle Management and Security Lifecycle Management into code, automates workflows, and serves as your central system of record.
+
+Whether you choose to implement it through the HashiCorp Cloud Platform or self-managed solutions — or a combination of the two — The Infrastructure Cloud automates provisioning, enforces policies, and standardizes how teams work across your hybrid environment.
+
+Learn more
+Try HCP
+HashiCorp Cloud Platform
+Get started in minutes
+
+Move faster and get more value from the cloud with all the right controls in place. The HashiCorp Cloud Platform (HCP) is a unified suite of SaaS products that automate the lifecycle management of the infrastructure and security supporting your most critical applications. HCP powers The Infrastructure Cloud and is one of the most popular ways that organizations use HashiCorp products.
+
+Learn more
+Try it now
+SOLUTIONS
+What happens when you start doing cloud right?
+
+Take control of your workflows with scalable, automated processes that reduce cloud infrastructure costs and risk while keeping you ahead of the competition. Here’s how HashiCorp helps you move faster and get more value from the cloud with all the right controls in one place.
+
+Accelerate
+Optimize
+Strengthen
+Accelerate delivery and innovation
+
+Go to market 5x faster without compromising security. HashiCorp helps you do cloud right with self-service tools, built-in guardrails, and automated workflows that accelerate app delivery across hybrid cloud environments.
+
+Learn more
+Integrated lifecycle management for modern infrastructure
+
+Infrastructure and Security Lifecycle Management (ILM and SLM) are the foundation of The Infrastructure Cloud. They work together to streamline infrastructure provisioning and secure access for consistency, automation, and compliance across every environment. 
+
+Infrastructure
+
+Lifecycle Management
+
+Implement enterprise-grade infrastructure as code to automate policy enforcement, reduce manual effort, and improve consistency across hybrid environments. All at the scale today's modern organizations need.
+
+Learn more
+Terraform
+Provision infrastructure
+Packer
+Image management
+Nomad
+Workload orchestration
+Waypoint
+Developer platform
+
+Security
+
+Lifecycle Management
+
+Take control of your hybrid cloud security with enterprise-hardened, identity-based access controls and secrets management that shrink your attack surface, strengthen governance, and lower your risk of a breach.
+
+Learn more
+Vault
+Secrets management
+Boundary
+Secure access
+Consul
+Service networking
+
+PARTNERS & INTEGRATIONS
+
+Built to work with your ecosystem
+
+We understand that success doesn't happen in isolation. That's why HashiCorp products integrate with the technologies you trust to power your business.
+
+Our ecosystem
+Find integrations
+
+930+
+
+Partners
+
+4,000+
+
+Integrations
+
+500+
+
+Systems integrators
+
+PRODUCT CERTIFICATIONS
+Join a global network of certified experts
+
+How well does your team know products like Terraform, Vault, and Consul? HashiCorp product certifications are a smart way for engineers, architects, and operators to advance their careers while supporting enterprise-wide best practices.
+
+Get certified
+View documentation
+RESOURCES & EVENTS
+Insights and guidance to do cloud right
+What's new
+Webinars & events
+
+Secure every identity in the AI era
+
+Non-human identities (NHI) now outnumber humans by up to 50x. Read the KuppingerCole report to see why HashiCorp has been named a leader in NHI management across hybrid and multi-cloud environments.
+
+Learn how leaders are overcoming cloud complexity
+
+Our new Cloud Complexity Report reveals how global enterprise leaders are tackling fragmentation, tool sprawl and AI readiness. Get the full report now.
+
+Cloud ROI falling short?
+
+80% of organizations aren’t seeing the results they expect from the cloud. This white paper walks you through how to build a scalable foundation with automation, security, and governance that helps you do cloud right.
+
+Unified identity, simplified security
+
+Discover how HashiCorp and IBM are transforming identity management with an "identity fabric" — a unified approach that bridges human and machine identities to enhance visibility, governance, and security across your entire landscape.
+
+Accelerate speed, reduce risk, and maximize ROI
+
+Learn how Global 2000 organizations are strengthening security, accelerating delivery, and cutting costs across hybrid cloud.﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌‍‌​‌‍​‌‌﻿‌​‌‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍‌‍‍​‌﻿‌​‌﻿‌​‌﻿​​‌﻿​﻿​﻿‍‍​‍﻿﻿​‍﻿﻿‌‍‍​‌‍​‌‌﻿​﻿‌‍‍​‌‍‍‌‌‍​﻿‌‍﻿﻿‌﻿​‍‌﻿​​​‍﻿‍‌‍​‌‌‍‌​‌‍﻿‌‌‍‍‌‌‍﻿‍​‍﻿‍‌‍‌​‌‍​‌‌﻿‌​‌‍﻿﻿‌‍​﻿‌‍﻿‌‌﻿​﻿​‍﻿‍‌‍​﻿‌‍﻿﻿‌‍﻿‌​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​‌‍﻿﻿‌﻿​‍​‍﻿﻿‌‍‍‌‌﻿‌​‌‍‌‌‌‍﻿‌‌‌﻿﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌‌﻿​﻿​‍﻿﻿‌​‍‍‌​﻿​‌​​‍‌‌​‌‌‍‌​‌‍﻿‍​﻿‍​‌﻿​‍‌‌‌​‌‍‍​‌‍‌‌‌‌﻿﻿‌​​﻿‌‍‌‍‌‌​​‌​‍‌‌‌​​‌‌​​‌‌‍‍‌​﻿‌‌​﻿‍‌﻿‌﻿​‍﻿﻿‌‍‍‌‌﻿‌​‌‍‌‌‌‍﻿‌‌﻿​﻿​‍﻿﻿‌​﻿​‌‍﻿﻿‌﻿‌﻿‌​‌‍‌​​‌‌﻿‍​‌‍‍‍‌​‌​‌‌​‌‌​﻿​‌‌​﻿‌‍‍﻿‌​​‌​﻿​​‌​﻿﻿​﻿‍​‌‍‌‌‌​‍‌​﻿​​‌‍‌‌‌‍‍​‌‍‌﻿​‍​﻿‌‍‌‍‌‍‍‌‌‍‌‌‌‍﻿​‌‍‌​‌‌​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌​‌‍‌‌‌﻿​﻿‌‍​﻿‌﻿​‍‌‍‍‌‌﻿​​‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​‍​‍‌﻿﻿‌
+
+Get the white paper
+Talk to us
+Sign up for HashiCorp news
+Send me news about HashiCorp products, releases, and events.
+By submitting this form, you acknowledge and agree that HashiCorp will process your personal information in accordance with the Privacy Policy.
+Subscribe
+PRODUCTS
+Terraform
+Packer
+Vault
+Consul
+Nomad
+Waypoint
+Vagrant
+Boundary
+RESOURCES
+White papers
+Events
+Webinars
+Support
+Community
+Podcast
+Training
+Professional services
+DEVELOPERS
+Docs
+Tutorials
+Integrations
+Resource library
+Community
+Become a partner
+Partner portal login
+COMPANY
+About
+Press
+Careers
+Blog
+Investors
+Brand
+Contact us
+English
+System Status
+Cookie Manager
+Terms of use
+Trust center
+Trademark policy
+Trade controls
+GitHub
+X
+Youtube
+LinkedIn
+Facebook
+Meetup

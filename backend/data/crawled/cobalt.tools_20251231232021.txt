@@ -1,0 +1,1 @@
+cobalt cobalt uses javascript for api requests and ui interactions, but it's not available in your browser. you can still navigate around cobalt, but most functionality won't work. got it save β remux settings donate updates about supported services >> auto audio mute paste paste and download by continuing, you agree to terms and ethics of use

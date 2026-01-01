@@ -1,0 +1,43 @@
+Looking for the Unified ID Solution?
+Control Over Your Personal Information
+
+By following the instructions below, you may request The Trade Desk limit its (a) use of your personal information for targeted advertising purposes and (b) sale or sharing of your personal information.
+
+In response to browser and device providers changing their support for identifiers currently used for advertising, such as third-party cookies and device ids, it may be possible that you have more than one identifier associated with each browser or device. To enhance the scope of your choices related to targeted advertising and sale or sharing of your personal information, you should follow each of the instructions below.
+
+This page explains opt-out choices for The Trade Desk’s advertising platform. You can also control ad targeting cookies we may deploy on our corporate websites by following the instructions behind the footer link titled "Cookies Settings" on The Trade Desk websites that you visit.
+
+Cookie Based Opt-Out
+
+Some things to keep in mind when using the cookie opt-out:
+
+If you use more than one computer, browser or browser profile, you will need to opt-out of cookies on every browser you use
+If you clear or delete your cookies, this will result in the deletion of your Trade Desk opt-out cookie, meaning you will need to re-set the opt-out following the deletion
+Even after opting out, you may continue to receive advertising through our services, but those ads may be less relevant
+After you opt-out, your browser's Trade Desk advertising cookie will be set to all zeros meaning your Trade Desk browser cookie will no longer allow us to target advertising to your interests based on this cookie
+
+Please note that if you block or otherwise restrict cookies this can affect choices, such as The Trade Desk opt-out, that are reliant on such cookies
+
+YOU CAN OPT-OUT OF TARGETED ADVERTISING BASED ON THE TRADE DESK'S BROWSER COOKIE BY CLICKING HERE.
+Industry Opt Out Pages
+
+The online advertising industry provides opportunities for you to take control over the use of cookie-based identifiers created by companies, including The Trade Desk, that participate in industry self-regulatory programs. You may access these pages as follows:
+
+For US based opt-outs use www.aboutads.info/choices and/or www.networkadvertising.org/choices
+For Canadian based opt-outs use www.youradchoices.ca/choices
+For European based opt-outs use www.youronlinechoices.com
+Device/Apps Opt Out
+
+Some devices and apps don't have access to web-based browser cookie opt-outs
+
+To learn more about the advertising opt-outs provided by your mobile device's operating system (like iOS and Android) or the device manufacture, click here.
+To learn more about to the advertising opt-outs provided by Connected TV streaming devices, click here.
+Opting Out of Other Identifiers
+
+You can learn more about your options to opt-out of targeted advertising from other identifiers by following the links below:
+
+For LiveRamp Identity Link: liveramp.com/opt-out
+For UID2: transparentadvertising.org
+For EUID: transparentadvertising.eu
+
+For additional information and to review our full Services Privacy Policy, click here.

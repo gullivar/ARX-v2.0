@@ -1,0 +1,64 @@
+An opentracker project
+
+Serving the BitTorrent community since 2013
+
+Tracker Endpoints
+IPv4 Tracker
+
+For IPv4 networks
+
+udp://open.demonii.com:1337
+Works on both IPv4 and IPv6 networks
+IPv6 Tracker
+
+IPv6-only networks
+
+udp://open6.demonii.com:1337
+For IPv6-only networks
+0
+Peers Online
+Updated: Dec 29, 2025 14:05:02
+0
+Seeders
+0.0% of peers
+0
+Leechers
+0.0% of peers
+0
+Torrents
+0.0 peers/torrent
+24-Hour Statistics
+Peers
+Loading...
+Seeders
+Active Torrents
+Top 10 Active Torrents
+Last 24 hours
+INFO HASH	SEEDERS	LEECHERS	COMPLETED
+No active torrents found
+
+Click on an info hash to search for the torrent on BTDigg
+
+About Demonii Tracker
+
+Demonii.com is a bittorrent tracker free for anyone to use. You don't need to register, upload or index a torrent anywhere, all you have to do is to include the Demonii.com tracker URL in your torrent.
+
+How to use
+
+When you create a torrent file the application will ask you for a tracker address, then simply type in one of the Demonii.com tracker URLs:
+
+Why use the Demonii tracker?
+
+There are only a few open independent stable trackers out there, most of the trackers that can be used openly are either unstable or in some way connected to a bittorrent indexing site. We felt there was a need for a free, no strings attached, stable bittorrent tracker.
+
+Other open bittorrent trackers
+
+We encourage you to use multiple trackers, this will increase your torrents accessibility. OpenTrackr and Cyberia.is are other free, no strings attached, stable bittorrent set of trackers.
+
+udp://tracker.opentrackr.org:1337/announce
+udp://tracker.cyberia.is:6969/announce
+I already have .torrent files, how can I add your tracker?
+
+For one or a few torrent files you can use a simple torrent editing service like Torrent Editor.
+
+Last updated: An error occurred. Please try again later.

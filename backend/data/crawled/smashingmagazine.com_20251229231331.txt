@@ -1,0 +1,210 @@
+Skip to main content
+Jump to list of all articles
+Jump to all topics
+Articles
+Books
+Events
+Membership
+Newsletter
+More
+Accessibility
+UX
+CSS
+JavaScript
+Performance
+Design
+Figma
+Wallpapers
+React
+Vue
+Round-Ups
+Web Design
+Guides
+Business
+Career
+Privacy
+Jump to all articles ↬
+Paul Boag wrote
+Giving Users A Voice Through Virtual Personas
+dec 23, 2025 in User Research, UX, Design
+
+Turn scattered user research into AI-powered personas that give anyone consolidated multi-perspective feedback from a single question.
+
+Continue reading ↬
+
+Vitaly Friedman / dec 19, 2025 in UX, Design, Tools
+How To Measure The Impact Of Features
+Andy Clarke / dec 17, 2025 in SVG, CSS, Design
+Smashing Animations Part 7: Recreating Toon Text With CSS And SVG
+Email Newsletter
+
+Useful front-end & UX tips, delivered once a week.
+
+With tools to help you get your work done better. Subscribe and get Vitaly’s Smart Interface Design Checklists PDF delivered straight into your inbox. 🎁
+
+Your (smashing) email
+
+On front-end & UX. Trusted by 182,000+ folks.
+
+Accessible Front-End Components
+
+Reliable accessible UI components: :focus styles, modals, date pickers, navigation, tables, buttons, SVGs.
+
+Explore Accessible Components
+CSS Generators & Tools
+
+Useful CSS tools for animations, shadows, cubic-bezier curves, easing gradients, filters, overlays, type scales.
+
+Explore CSS Generators
+Front-End Boilerplates & Starter Kits
+
+HTML boilerplates, CSS resets, forms, dev themes, gitignore, CSS snippets, static sites, style guides.
+
+Explore Front-End Boilerplates
+SEE ALL GUIDES
+LATEST POSTS
+Ari Stiles wrote
+Accessible UX Research, eBook Now Available For Download
+
+We’ve got exciting news! eBook versions of “Accessible UX Research,” a new Smashing Book by Michele A. Williams, are now available for download! Which means soon the book will go to the printer. Order the eBook for instant download now or reserve your print copy at the presale price.
+
+december 9, 2025 in UX, Accessibility, Smashing Books
+
+Brecht De Ruyte wrote
+State, Logic, And Native Power: CSS Wrapped 2025
+
+CSS Wrapped 2025 is out! We’re entering a world where CSS can increasingly handle logic, state, and complex interactions once reserved for JavaScript. Here is an unpacking of the standout highlights and how they connect to the bigger evolution of modern CSS.
+
+december 9, 2025 in CSS, Tools, Techniques
+
+Paul Boag wrote
+How UX Professionals Can Lead AI Strategy
+
+Lead your organization’s AI strategy before someone else defines it for you. A practical framework for UX professionals to shape AI implementation.
+
+december 8, 2025 in UX, Workflow, AI
+
+Victor Yocco wrote
+Beyond The Black Box: Practical XAI For UX Practitioners
+
+Explainable AI isn’t just a challenge for data scientists. It’s also a design challenge and a core pillar of trustworthy, effective AI products. Victor Yocco offers practical guidance and design patterns for building explainability into real products.
+
+december 5, 2025 in UX, Design, AI
+
+Join 1,916 Smashing Members
+
+A friendly community for people who design and build the web. With books, workshops, goodies and early-birds — for just 1 coffee a month. Take a look around.
+
+Join the community ↬
+Already have an account? Sign in!
+
+Patrick Brosset wrote
+Masonry: Things You Won’t Need A Library For Anymore
+
+CSS Masonry is almost here! Patrick Brosset takes a deep dive into what this long-awaited feature means for web developers and how you could make use of it in your own work.
+
+december 2, 2025 in CSS, Design, Techniques
+
+Cosima Mielke wrote
+A Sparkle Of December Magic (2025 Wallpapers Edition)
+
+With December just around the corner, how about some new desktop wallpapers to welcome the last month of the year — and the holiday season, if you’re celebrating? Our latest edition of monthly wallpapers has got you covered. Enjoy!
+
+november 30, 2025 in Wallpapers
+
+Eleanor Hecks wrote
+The Accessibility Problem With Authentication Methods Like CAPTCHA
+
+CAPTCHAs were meant to keep bots out, but too often, they lock people with disabilities out, too. From image classification to click-based tests, many “human checks” are anything but inclusive. There’s no universal solution, but understanding real user needs is where accessibility truly starts.
+
+november 27, 2025 in Accessibility, Captcha, Usability
+
+Ari Stiles wrote
+Design System Culture: What It Is And Why It Matters (Excerpt)
+
+We’re so happy to announce that “Maturing Design Systems”—a Smashing book by Ben Callahan — will soon be joining the Smashing Library! Ben’s insights and advice are so powerful, we thought you might like to read an excerpt from the book. Subscribe to our Smashing newsletter to be notified when orders are open.
+
+november 25, 2025 in Smashing Books, Design Systems
+
+SEE MORE LATEST ARTICLES
+That’s The Smashing Family.
+Smashing Magazine is so much more than articles.
+
+Smashing Books
+
+14 printed books and 67 eBooks. Written for web developers, designers and marketeers.
+
+Jump to books ↬
+Free airmail shipping wordlwide. No ifs or buts.
+
+Smashing Workshops
+
+Online workshops with experts. Broken into 2.5h-segments, with interactive, live sessions.
+
+Jump to workshops ↬
+2.5h live sessions, with video recordings and Q&A.
+
+Smashing Job Board
+
+Helping designers and developers find great jobs, and connect with great companies.
+
+Jump to jobs ↬
+Freelancers and full-time, in front-end & UX.
+
+Smashing Membership
+
+A friendly community for people who design and build the web. With discounts, goodies and fancy cats.
+
+Jump to Membership ↬
+For just 1 coffee a month.
+
+Smashing Newsletter
+
+Weekly tips on front-end & UX, delivered straight to your inbox. Just practical stuff that you can use.
+
+Jump to Newsletter ↬
+You can unsubscribe with 1 click any time.
+
+WINTER 2025–2026 • NEW WORKSHOPS
+Boost Your Skills Online,
+On Front-End, Design & UX
+
+Meet Smashing Workshops, with practical, actionable insights from experts — live. With interactive exercises, slides, video recordings and a friendly Q&A.
+
+Explore all speakers and topics →
+COMMUNITY LINKS
+PERSON OF THE WEEK
+
+Yegor Gilyov is a product design leader specializing in complex B2B products. He has 25 years of hands-on experience in the design industry and most recently drove the conceptual design of one of the world’s leading collaborative work management platforms as a Chief UX Architect at Wrike. Championing clear conceptual models and rapid prototyping as the cornerstones of good design, Yegor developed Intent Prototyping, an AI-assisted workflow for building prototypes that truly reflect a designer’s vision while avoiding the common pitfalls of modern AI tools. Thank you for everything you do for the community, dear Yegor!
+
+Kevin Powell wrote
+Guide To Modern CSS Colors
+
+december 19, 2025 — There have been a lot of changes to colors in CSS in the last few years. Kevin Powell explains how the new color features can help developers who don’t necessarily focus on design.
+
+Joan León wrote
+WebPerf Snippets
+
+december 18, 2025 — Joan León created a list of useful web performance snippets that you can use in the browser console or directly in Chrome DevTools to get metrics for Core Web Vitals, interaction, and loading.
+
+Parvaneh Toghiani wrote
+How To Stop The Stakeholder Swirl
+
+december 17, 2025 — It’s frustrating when design reviews turn into endless cycles of feedback without clear decisions. Parvaneh Toghiani outlines a practical framework to make design reviews more systematic and productive.
+
+Jérôme Benoit wrote
+Building Smarter Figma Components
+
+december 16, 2025 — How do you clean up a design system that has gotten heavy and slow? Jérôme Benoit shares insights into how the Doctolib team tackled the task, along with valuable tips for building smarter Figma components.
+
+Barry Pollard wrote
+Preloading Responsive Images
+
+december 15, 2025 — Preloading responsive images can let your images load significantly faster. Barry Pollard and Yoav Weiss explain how it works, along with common use cases and practical effects.
+
+Fabricio Teixeira wrote
+Lessons Of Design
+
+december 11, 2025 — After almost 20 years in design, Fabricio Teixeira decided to pause for a moment to write down what he finds compelling about his craft. The result is Lessons of Design, a treasure chest of design wisdom.
+
+MORE LINKS ON TWITTER

@@ -1,0 +1,46 @@
+# System & OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+backend/uvicorn.log
+backend/watchdog.log
+*watchdog*.log
+
+# Python / Backend
+backend/venv/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+backend/.env
+backend/.pytest_cache/
+
+# Database (SQLite)
+*.db
+*.db-shm
+*.db-wal
+
+# Frontend / Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Vector Database (ChromaDB Persist Directory if local)
+backend/data/chroma/
+
+# ChromaDB & Large Files
+backend/data/chroma_db/
+backend/data/chroma/
+*.sqlite3
+*.bin

@@ -1,0 +1,31 @@
+Sign In Sign Up Now
+ENGLISH
+prev
+next
+Notices
+Notice on Changes Related to Minor Regulation Compliance Tab and API
+2025-12-29
+
+Hello! This is the Galaxy Store Seller Portal team. Thank you for using Seller Portal and for your continued interest. Regarding the provision of the Minor Regulation Compliance Tab and API in accordance with the Texas ASAA bill, which was scheduled to take effect on January 1, 2026, the implementation has been suspended pending a final decision, as the appropriateness of the bill is currently under review by the U.S. federal court following a ruling on December 23, 2025. As a result, the relevant feature will be hidden through the update on December 30, 2025. All previously submitted information will be deleted after initializing the database, and we will notify you when the feature is reopened. Apps that have already submitted for exception processing or significant change notification are requested to resubmit accordingly at the time of feature resumption. The existing notice has also been updated for your reference. - Reference: https://seller.samsungapps.com/notice/getNoticeDetail.as?csNoticeID=0000010444 - Reference: https://seller.samsungapps.com/notice/getNoticeDetail.as?csNoticeID=0000010541 If you have any questions, please select Seller Portal > Support > Contact us. Thank you. Galaxy Store Seller Portal Team
+
+Notice on the Designation of In-App Item Types for Samsung In-App Purchase
+2025-12-03
+
+Hello! This is the Galaxy Store Seller Portal team. Thank you for using Seller Portal and for your continued interest. When registering in-app items using Seller Portal, item types will be categorized as consumable or non-consumable through the end of 2025. Starting from January 2026, the consumability of newly registered items will be determined based on the method called after purchase. Fixing the item type (consumable or non-consumable) during registration reduces development flexibility and may cause compatibility issues when importing item information from the Play Store. To address this, starting in January 2026, the consumability of an item will be determined by the method called upon purchase. For more details, please refer to the link below. - Reference: https://developer.samsung.com/iap/programming-guide.html ■ Effective Date : January 2026 ■ Implementation Details The consumability of items will be determined based on the method called when an in-app item purchase occurs. ㆍ For items defined as consumable, when a purchase is made, calling the consumePurchasedItems API to process consumption allows users to repurchase the item. ㆍ For items defined as non-consumable, when a purchase is made, calling the acknowledgePurchases API to finalize the purchase means users cannot repurchase the item but can use it indefinitely without an expiration date. ■ Frequently Asked Questions (FAQ) Q1. Will the type of existing registered in-app items (consumable or non-consumable) change based on the method called after purchase? A1. Starting from July 2025, Galaxy Store has already been supporting in-app item registration as follows: For existing consumable items, if the acknowledgePurchases API is called after purchase, they function as non-consumable, allowing indefinite use without an expiration date and preventing repurchase. If the consumePurchasedItems API is called after purchasing an item registered as non-consumable, an error occurs, and the purchase is not finalized. Q2. From 2026, will the getIsConsumable() method, which checks if an item is consumable, no longer be available? A2. The use of getIsConsumable() will no longer be supported. Since in-app items will be registered without distinguishing between consumable and non-consumable, instead of calling getIsConsumable() in the app, the seller must decide if the registered item can be repurchased (consumable or non-consumable). Q3. What happens if neither the consumePurchasedItems nor the acknowledgePurchases API is called after an in-app item is purchased? A3. By default, the item will be treated as consumable. If the consumePurchasedItems API is not called, the user will not be able to repurchase the in-app item they bought. If you have any questions, please select Seller Portal > Support > Contact us. Thank you. Galaxy Store Seller Portal Team
+
+[Important] Guidelines for Submitting Licenses for Games Distributed in Vietnam (Update)
+2025-10-31
+
+Hello! This is the Galaxy Store Seller Portal team. Thank you for using Seller Portal and for your continued interest. According to the regulations of the Ministry of Culture, Sports and Tourism of Vietnam, starting November 19, 2025, when registering or updating games for distribution on the Vietnam Galaxy Store, you must submit a G1~G4 license. The submission of licenses for games will also be retroactively applied to existing games. Games without a submitted license by February 18, 2026, are scheduled to be excluded from distribution in Vietnam. If you are a developer who has distributed or plans to distribute games on the Vietnam Galaxy Store, please update your app information and submit the G1~G4 license. ■ Important: The license content must include the exact game name along with the sales platform specified as Galaxy Store. ■ For inquiries regarding compliance: Authority of Broadcasting and Electronic Information (ABEI) - URL: https://english.mic.gov.vn/authority-of-broadcasting-and-electronic-information-197114276.htm ■ Official legal document (Vietnamese): Nghị định số 147/2024/NĐ-CP của Chính phủ: Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng ■ License submission schedule for new registrations/updates: Starting November 19, 2025 ■ Deadline for existing games: February 18, 2026 Games distributed in Vietnam without a submitted license by the deadline will be excluded from distribution in Vietnam. We kindly ask you to proceed with updates to ensure uninterrupted service. Thank you. Galaxy Store Seller Portal Team
+
+More
+prev
+next
+Terms and Conditions
+Privacy Policy
+Seller Portal Policy
+Guides
+
+Copyright© 2009-2025 SAMSUNG All Rights Reserved.
+
+Related Sites

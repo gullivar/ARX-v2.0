@@ -1,0 +1,501 @@
+Menu
+ 
+DaniWeb
+Log In Sign Up
+Read
+Contribute
+Meet
+Search
+Search
+Connect with 1,278,315 developers, IT pros, digital marketers, and tech enthusiasts.
+Be a part of our friendly, industry-focused community of professionals meeting, networking, learning, and sharing knowledge via articles, Q&As, discussion forums, and realtime chats.
+Ask a question or start a discussion …
+Topic Title
+ Start New Topic
+ Hardware & Software
+ Microsoft Windows
+ Linux and Unix
+ macOS
+ Information Security
+ Networking
+ Hardware
+ Mobile and Wearables
+
+ Cloud-based Apps
+ Programming
+ Software Development
+ Web Development
+ Mobile Development
+ Game Development
+ Databases
+ Computer Science
+ Digital Media
+ UI / UX Design
+ Digital Marketing
+ Search Engine Strategies
+ Community Center
+ Say Hello!
+ Geeks' Lounge
+ Meta DaniWeb
+WEB DEVELOPMENT
+Tool that compares a webpage before and after javascript execution
+
+I was thinking of building a little tool that compares a webpage's DOM structure before and after javascript execution and performs a diff. I know that the functionality is already …
+
+javascript
+web-design
+ Featured Discussion / Question
+COMMUNITY CENTER
+What do you think of self-driving cars?
+
+My latest post got me thinking about self-driving cars and so I thought I'd ask the community if you'd ever consider using one and/or purchasing one.
+
+What do you …
+
+off-topic
+ Featured Discussion / Question
+WEB DEVELOPMENT
+Customizing Cloudflare's managed challenge error page
+
+This question is probably more suited for Cloudflare's community forums, but I figured I might as well ask it here (and there), and worst case, I get an answer there …
+
+cdn:cloudflare
+javascript
+ Featured Discussion / Question
+HARDWARE
+What was your first computer?
+
+Mine was an Apple IIGS, Woz edition. These days I am lucky to live just up the road from Woz. We spot him in his car from time-to-time driving past …
+
+hardware-purchase
+posting-games
+ Featured Discussion / Question
+PROGRAMMING
+GPT-5 URL hallucination
+
+As some of you may know, I've been playing a lot with prompt engineering lately. Something I've discovered is that, while using the OpenAI API with the GPT-5 model, I …
+
+artificial-intelligence-llm
+ Featured Discussion / Question
+COMPUTER SCIENCE
+Teaching programming today
+
+Should we still be teaching C and C++ to new programmers in 2025? If you could change the way programming is taught today, what would you change?
+
+This question is …
+
+school-education
+ Featured Discussion / Question
+WEB DEVELOPMENT
+Google Analytics Consent Mode
+
+Does anyone have any experience with Google Analytics consent mode?
+
+In the HTML head, I have:
+
+gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied',
+    'wait_for_update': 500
+});
+…
+google-analytics
+google-api
+ Answered Question
+DIGITAL MEDIA
+Privacy policies
+
+As you may have seen, I've made a lot of changes over the past few days to the DaniWeb UI. The project was sparked by a need to make sure, …
+
+cybersecurity
+legal
+ Featured Discussion / Question
+DIGITAL MEDIA
+Attn Publishers: Do you block AI bots?
+
+Digital Publishers:
+
+Do you block AI bots either via robots.txt, with HTTP 403s, or both? Why or why not?
+
+Currently on the fence about it and looking to get opinions …
+
+artificial-intelligence-llm
+digital-publishing
+seo
+ Featured Discussion / Question
+PROGRAMMING
+How can I use AI to categorize forum threads?
+
+Here at DaniWeb, we use a combination of a forum structure for top-level categories (web development, digital marketing, etc.), as well as a tags to denote specific technologies (php, etc.).
+
+…
+artificial-intelligence-llm
+php
+ Featured Discussion / Question
+SEARCH ENGINE STRATEGIES
+July 2025 core update
+
+How did everyone fare? We came out slightly ahead.
+
+algorithm-pseudocode
+google
+seo
+ Featured Discussion / Question
+PROGRAMMING
+What's the first thing you ever programmed?
+
+Aside from all the tinkering and learning I did as a self-taught elementary school student in the 1980s, the first real fully-functioning app I've ever programmed from soup to nuts …
+
+assembly
+visual-basic
+ Featured Discussion / Question
+MICROSOFT WINDOWS
+HP laptop: web pages, app, everything loading slowly or not at all
+
+This morning my hp laptop running windows 11 booted up however I had a blank screen. After restarting a few times, the desktop finally was displayed. However web pages open …
+
+laptop
+ Answered Question
+COMMUNITY CENTER
+I have a lot of startup ideas
+
+Hello everyone, I have a lot of startup ideas, constantly generating and researching, but due to depression, I can't seem to get back into software. I'm a former software developer …
+
+business-entrepreneurship
+ Answered Question
+PROGRAMMING
+Are coding bootcamps worth it in 2025? Do they even still exist?
+
+A decade ago, I remember coding bootcamps were all the rage. They were only a few months long and guaranteed entry-level programming jobs, and I feel like everyone and their …
+
+career
+off-topic
+ Featured Discussion / Question
+PROGRAMMING
+What do you think programming will look like 10 years from now?
+
+Is traditional coding becoming obsolute with tools like ChatGPT? I read an article recently on Reddit - I need to find it again - that said that while most programmers …
+
+artificial-intelligence-llm
+career
+ Featured Discussion / Question
+WEB DEVELOPMENT
+CSS has an if() function!
+
+At long last!! Rejoice!
+
+Now only if most browsers supported the darn thing.
+
+html-css
+ Featured Discussion / Question
+WEB DEVELOPMENT
+Build a Fast MB → KB Image Compressor HTML5 Canvas
+
+Reducing image file size is a common task for both developers and everyday users. Whether you're submitting a form, uploading a profile photo, or optimizing a webpage, you’ll often run …
+
+html-css
+web-browser
+ Tutorial
+MOBILE DEVELOPMENT
+Android Native - How To Request Notification Permissions
+Introduction
+
+In a previous tutorial, we learned how to create a notification on Android. In that tutorial, we did not have to request any permission because applications did not …
+
+api
+google:android-development
+ Tutorial
+DATABASES
+Delete unused MySQL indexes
+
+How can I identify and delete unused MySQL indexes? I have a large table that has somehow accumulated way too many indexes over the years, and I'd now like to …
+
+mysql
+ Answered Question
+PROGRAMMING
+Underrated programming languages
+
+What’s the most underrated programming language, and why do you think it deserves more love?
+
+Of course, my first instinct is to say PHP because it gets such a bad …
+
+off-topic
+php
+ Featured Discussion / Question
+WEB DEVELOPMENT
+What is one library you just refuse to give up?
+
+For me, it's jQuery, of course. It just works and I don't think it's as much of a performance hit as everyone seems to think. Google Analytics 4 comes in …
+
+off-topic
+ Featured Discussion / Question
+SEARCH ENGINE STRATEGIES
+Incorrect SEO advice
+
+What is some totally incorrect SEO advice you've heard of? Anything bizarre?
+
+Heads up, people: There is NO SUCH THING as rel="follow" or rel="do-follow"!! There is rel="nofollow" and rel="ugc" and …
+
+seo
+ Featured Discussion / Question
+LINUX AND UNIX
+Open source 3D printer will copy itself
+
+Those clever boffins at the University of Bath, England have managed to develop a machine called RepRap which can, effectively, replicate itself. The boffins themselves describe it as …
+
+open-source
+pc-peripheral:printer
+robotics
+ News Story
+PROGRAMMING
+Why do you like programming?
+
+For me, I fell in love with web development because of the instant gratification of how I can come up with an idea for something in the morning, code it …
+
+business-entrepreneurship
+career
+ Featured Discussion / Question
+COMMUNITY CENTER
+What about a "tech tax"?
+
+Would you support a "tech tax" on companies that automate human jobs?
+
+career
+finance
+ Featured Discussion / Question
+WEB DEVELOPMENT
+I cannot seem to figure out why a dropdown isn't working on mobile
+
+I've been racking my brain on this one for a good 30 minutes already, and I don't know why I'm just not seeing it. Instead of posting a bunch of …
+
+html-css:bootstrap
+javascript:jquery
+ Answered Question
+DIGITAL MARKETING
+Digital Marketing
+
+What are the new tools to increase the visibility of our website and genrate more business through Digital Marketing ?
+Which activity will improve the SERP max .... ?
+
+digital-publishing
+seo
+ Answered Question
+WEB DEVELOPMENT
+What do you use to manage spam?
+
+For those of you with blogs, forums, etc: What do you use to manage spam and are you happy with your existing solution? I know Akismet is really popular among …
+
+abuse-scam-spam
+api
+php:wordpress
+ Featured Discussion / Question
+HARDWARE
+Desktop or laptop?
+
+Over the past few years, I've switched from a super-powerful Dell workstation tower to a Macbook Pro hooked up to my dual 4K displays and mechanical keyboard. I just about …
+
+hardware-purchase
+laptop
+ Featured Discussion / Question
+PROGRAMMING
+My first foray into OpenAI ... which model do I pick?
+
+So I've gotten past step one: Creating an account with OpenAI API. However, I'm completely overwhelmed by all of the models. How do I know which one to pick? …
+
+artificial-intelligence-llm
+python
+ Featured Discussion / Question
+DIGITAL MARKETING
+Digital Marketing - the growing need of the hour
+
+Digital marketing is the latest buzzword. However, it often leaves one wondering what it is all about. More significantly, there is much confusion over how effective and useful it really …
+
+advertising
+pay-per-click
+seo
+ Discussion / Question
+PROGRAMMING
+What programming language or tech stack do you enjoy working with the most?
+
+What programming language or tech stack did you enjoy working with the most in your career, and why? For me, once I discovered PHP, I never looked back. I …
+
+career
+php
+ Featured Discussion / Question
+HARDWARE
+What’s the oldest piece of tech you still use regularly?
+
+I've been spring cleaning lately and recently came across my Psion Series 7 and all its accessories, so it got me thinking about old hardware that people still use. OMG …
+
+off-topic
+ Featured Discussion / Question
+MICROSOFT WINDOWS
+What do you know about control strings?
+
+Control strings can be considered as an alternative to asymmetric encryption.
+
+Unlike solutions that use public and private secret keys, here, session cryptographic protocols are exchanged implicitly.
+
+In practice, a …
+
+encryption
+microsoft:windows-10-11
+security
+ Answered Question
+UI / UX DESIGN
+How do I get better in design?
+
+I am a web developer and I have built many websites. And over the years my designs is getting better but now I can't seem to figure out how to …
+
+user-interface
+web-design
+ Discussion / Question
+WEB DEVELOPMENT
+Any jQuery 4 users?
+
+Just as the topic title suggests, any jQuery 4 beta users out there who could let me know what it's like?
+
+The wait for v4 gold release is killing me. …
+
+javascript:jquery
+ Featured Discussion / Question
+COMMUNITY CENTER
+Ridiculous feature requests
+
+I don't do any consulting, but for those of you who do, what's the most ridiculous feature request you've ever gotten from a client? Something tells me you all have …
+
+business-entrepreneurship
+ Featured Discussion / Question
+MOBILE DEVELOPMENT
+How much does it cost to build an Food Delivery Android app?
+
+Hey
+I want to Develop A mobile app in android for my food business.
+Can anyone suggest me any company and the cost of the App?
+
+Thanks
+
+google:android-development
+ Discussion / Question
+WEB DEVELOPMENT
+Custom font on Cloudflare error page
+
+As you may know, yuo can customize the error pages in Cloudflare, such as for a WAF block, etc.
+
+For some reason, since the switchover to the new error pages …
+
+cdn:cloudflare
+cybersecurity
+html-css:bootstrap
+ Featured Discussion / Question
+SOFTWARE DEVELOPMENT
+Optimizing working with big data
+
+What are some best practices for optimizing memory management when working with large datasets?
+
+I am tagging this topic both with php (because that is my language of choice, and …
+
+c++
+ Featured Discussion / Question
+WEB DEVELOPMENT
+What web technology will be outdated in the next couple of years?
+
+Any predictions for the next Macromedia/Adobe Flash?
+
+off-topic
+ Featured Discussion / Question
+LINUX AND UNIX
+Is linux your daily driver?
+
+Linux has come a long way, but it's still primarily a server OS, correct? How many of you linux fanboys and girls use it as your primary operating system for …
+
+linux-kernel
+open-source
+operating-system
+ Featured Discussion / Question
+SOFTWARE DEVELOPMENT
+How has programming changed over the years?
+
+... and I don't just mean things like 40 years ago I used punch cards, and today I use Python. Walk us through the more human side of your career. …
+
+career
+ Featured Discussion / Question
+WEB DEVELOPMENT
+What's the first website you ever built?
+
+Back in the day, I was a high schooler and daniweb.com was a website about my Yorkie and Maltese!! However, I couldn't help my nerdiness and interest in web development, …
+
+off-topic
+ Featured Discussion / Question
+DIGITAL MARKETING
+Which is the best email marketing tool you ever used?
+
+I have only heard about mailchimp any other you will like to recommend?
+
+advertising
+email
+ Discussion / Question
+DIGITAL MARKETING
+How Can I Create a Long-Term SEO Strategy for a New Website in 2025?
+
+Hi everyone,
+
+I'm currently working on a new website in a moderately competitive niche and I'm looking to build a sustainable, long-term SEO strategy that works in 2025 and beyond.
+
+…
+business-entrepreneurship
+digital-publishing
+seo
+ Answered Question
+WEB DEVELOPMENT
+How do I create a porn website
+
+And is it bad or what because sometimes I think I might get carried out
+
+off-topic
+ Discussion / Question
+SEARCH ENGINE STRATEGIES
+How to get organic traffic in a website?
+
+I want to grow organic traffic in my website. In my website organic traffic in decrease day by day. I am doing off page SEO and SMM marketing. Which can …
+
+seo
+ Discussion / Question
+SEARCH ENGINE STRATEGIES
+What SEO tool can you not live without?
+
+It has to be Screaming Frog for me. What tools can't you live without?
+
+seo
+ Featured Discussion / Question
+FORUMS
+Forum Index
+Hardware & Software
+Programming
+Digital Media
+Community Center
+RECENT
+Recommended Topics
+Newest Topics
+Latest Topics
+Latest Posts
+Latest Comments
+Top Tags
+TOOLS
+Writing
+Social
+APIs
+RESOURCES
+Community Rules
+DaniWeb Premium
+FAQ
+About Us
+Advertise
+Contact Us
+LEGAL
+Terms of Service
+Privacy Policy
+ Your Privacy Choices
+© 2025 DaniWeb® LLC

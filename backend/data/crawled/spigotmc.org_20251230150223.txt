@@ -1,0 +1,186 @@
+Want a better Minecraft server?
+Read about SpigotMC here!
+
+Home
+Recent Posts
+Recent Activity
+Forums
+Resources
+Wiki
+Team
+Downloads
+Discord
+Hub
+Issues
+Donate
+Log in
+Sign up
+Spigot & BungeeCord 1.21.11
+17
+10,494
+by md_5 : Dec 9, 2025 at 4:34 PM
+Hi All
+
+Mojang recently released Minecraft 1.21.11 and the first builds of Spigot for this version are now available. This is a generally minor release which predominantly focuses on adding new blocks, items and entities from the "Mounts of Mayhem" game drop, including the nautilus, zombie nautilus, nautilus armor, spears, netherite horse armor, camel husks, parched, and zombie horsemen.
+
+Plugin Updates
+Other than some changes to GameRule API, there are currently no significant API changes since 1.21.10. Other than in relation to removed GameRules (eg, doFireTick and allowFireTicksAwayFromPlayer), no runtime breakages expected for plugins using non-deprecated, non-experimental API in this release. As always, plugins using the API should be preferred for this reason. As a server owner or developer please always consider the things you can do to increase API usage (eg, making feature or pull requests, preferring API-driven plugins). As we continue to work on making improvements to the API, there may be significant breakages of non-API plugins at any time. Further detail can be found in the below developer post.
+
+Backups
+Please make sure you have recent and tested backups for your server before upgrading. As always it is not possible to downgrade your server to an earlier version.
+
+Bug Reports
+If you are reporting a bug to JIRA, please make sure that you read the guidelines and have compared the results between Vanilla & Spigot, and also the 1.21.10 versions before reporting — this speeds up the process for us immensely and ensures more bugs get fixed more quickly. Please report bugs, or issues you think might be bugs, to JIRA and not in this thread, Discord, or any place other than JIRA. We prefer good quality but uncertain reports...
+Continue...
+Spigot & BungeeCord 1.21.9/1.21.10
+47
+47,586
+by md_5 : Sep 30, 2025 at 4:25 PM
+Update 7 October 2025: 1.21.10 has been released, which is a client-compatible update and completely supersedes 1.21.9.
+
+Hi All
+
+Mojang recently released Minecraft 1.21.10 and the first builds of Spigot for this version are now available. This is a generally minor release which predominantly focuses on adding new blocks, items and entities from "The Copper Age".
+
+Plugin Updates
+Other than removal of the recently added SPAWN_CHUNK_RADIUS GameRule and the addition of data to certain particles, there are currently no significant API changes since 1.21.8 and no runtime breakages expected for plugins using non-experimental API in this release. As always, plugins using the API should be preferred for this reason. As a server owner or developer please always consider the things you can do to increase API usage (eg, making feature or pull requests, preferring API-driven plugins). As we continue to work on making improvements to the API, there may be significant breakages of non-API plugins at any time. Further detail can be found in the below developer post.
+
+Backups
+Please make sure you have recent and tested backups for your server before upgrading. As always it is not possible to downgrade your server to an earlier version.
+
+Bug Reports
+If you are reporting a bug to JIRA, please make sure that you read the guidelines and have compared the results between Vanilla & Spigot, and also the 1.21.8 versions before reporting — this speeds up the process for us immensely and ensures more bugs get fixed more quickly. Please report bugs, or issues you think might be bugs, to JIRA and not in this thread, Discord, or any place other than JIRA. We prefer good quality but uncertain reports over no reports at all.
+
+Downloading / Installing
+In order to...
+Continue...
+Spigot & BungeeCord 1.21.6/1.21.7/1.21.8
+61
+63,120
+by md_5 : Jun 17, 2025 at 4:25 PM
+Update - 18 July 2025: 1.21.8 is released. This is a client only release and the server is identical to 1.21.7 (other than version number).
+Update - 1 July 2025: 1.21.7 has been released. This is a trivial release which should be used in place of 1.21.6.
+
+Hi All
+
+Mojang recently released Minecraft 1.21.7 and the first builds of Spigot for this version are now available. This is a generally minor release which predominantly focuses on adding a small number of "Chase the Skies" features.
+
+Plugin Updates
+There are currently no significant API changes since 1.21.5 and no runtime breakages expected for plugins using non-experimental API in this release. As always, plugins using the API should be preferred for this reason. As a server owner or developer please always consider the things you can do to increase API usage (eg, making feature or pull requests, preferring API-driven plugins). As we continue to work on making improvements to the API, there may be significant breakages of non-API plugins at any time. Further detail can be found in the below developer post.
+
+Backups
+Please make sure you have recent and tested backups for your server before upgrading. As always it is not possible to downgrade your server to an earlier version.
+
+Bug Reports
+If you are reporting a bug to JIRA, please make sure that you read the guidelines and have compared the results between Vanilla & Spigot, and also the 1.21.5 versions before reporting — this speeds up the process for us immensely and ensures more bugs get fixed more quickly. Please report bugs, or issues you think might be bugs, to JIRA and not in this thread, Discord, or any place other than JIRA. We prefer good quality but uncertain reports over no reports at all.
+
+Downloading / Installing
+In order to...
+Continue...
+Spigot & BungeeCord 1.21.5
+67
+77,064
+by md_5 : Mar 25, 2025 at 4:21 PM
+Hi All
+
+Mojang recently released Minecraft 1.21.5 and the first builds of Spigot for this version are now available. This is a generally minor release which predominantly focuses on adding a small number of "Spring to Life" features to supplement the previous "winter drop".
+
+Plugin Updates
+There are currently no significant API changes since 1.21.4 and no runtime breakages expected for plugins using non-experimental API in this release. As always, plugins using the API should be preferred for this reason. As a server owner or developer please always consider the things you can do to increase API usage (eg, making feature or pull requests, preferring API-driven plugins). As we continue to work on making improvements to the API, there may be significant breakages of non-API plugins at any time. Further detail can be found in the below developer post.
+
+Backups
+Please make sure you have recent and tested backups for your server before upgrading. As always it is not possible to downgrade your server to an earlier version.
+
+World Upgrading
+Although upgrades from between any two version pairs are technically possible, it is recommended that all upgrades are conducted from 1.21.4. This means that you should first upgrade your world completely on 1.21.4 using the --forceUpgrade server argument, and then do the same on 1.21.5.
+
+Bug Reports
+If you are reporting a bug to JIRA, please make sure that you read the guidelines and have compared the results between Vanilla & Spigot, and also the 1.21.4 versions before reporting — this speeds up the process for us immensely and ensures more bugs get fixed more quickly. Please report bugs, or issues you think might be bugs, to JIRA and not in this thread, Discord, or any place other than JIRA. We prefer good quality but...
+Continue...
+Spigot & BungeeCord 1.21.4
+49
+106,577
+by md_5 : Dec 3, 2024 at 4:41 PM
+Hi All
+
+Mojang recently released Minecraft 1.21.4 and the first builds of Spigot for this version are now available. This is a minor release which predominantly focuses on moving the "winter drop" features from experimental to general availability.
+
+Plugin Updates
+With the exception of some minor changes to experimental features, there are currently no significant API changes since 1.21.3 and no runtime breakages expected for plugins using non-experimental API in this release. As always, plugins using the API should be preferred for this reason. As a server owner or developer please always consider the things you can do to increase API usage (eg, making feature or pull requests, preferring API-driven plugins). As we continue to work on making improvements to the API, there may be significant breakages of non-API plugins at any time. Further detail can be found in the below developer post.
+
+Backups
+Please make sure you have recent and tested backups for your server before upgrading. As always it is not possible to downgrade your server to an earlier version.
+
+World Upgrading
+Although upgrades from between any two version pairs are technically possible, it is recommended that all upgrades are conducted from 1.21.3. This means that you should first upgrade your world completely on 1.21.3 using the --forceUpgrade server argument, and then do the same on 1.21.4.
+
+Bug Reports
+If you are reporting a bug to JIRA, please make sure that you read the guidelines and have compared the results between Vanilla & Spigot, and also the 1.21.3 versions before reporting — this speeds up the process for us immensely and ensures more bugs get fixed more quickly. Please report bugs, or issues you think might be bugs, to JIRA and not in this thread, Discord, or any place other...
+Continue...
+Page 1 of 30
+1
+2
+3
+4
+5
+6
+→
+30
+Next >
+SPONSORS
+Sign up now!
+DONATE
+The SpigotMC project is run entirely in the spare time of our wonderful developers. If you like what we are doing, and wish to support us, please do so by donating below.
+
+
+
+ 
+$ USD
+
+
+Please enter an optional message, and the amount you wish to contribute, and then click the donate button.
+
+Note: your donation is processed manually, usually within 24-48 hours.
+
+
+NEW POSTS
+Dedicated Server specs for 500+ players (MySQL/Redis)
+Latest: Adnan321, 13 minutes ago
+Systems Administration
+Help for nickname
+Latest: arcraft1gamer, 14 minutes ago
+BungeeCord Discussion
+Question Need Help with LuckPerms Prefix Setup
+Latest: Rengorr, Today at 4:46 AM
+Feedback & Suggestions
+Need Help with LuckPerms Prefix Setup
+Latest: Rengorr, Today at 4:45 AM
+Spigot Plugin Help
+Worldguard : region data failed to load for this world
+Latest: mrfloris, Yesterday at 9:29 PM
+Spigot Plugin Help
+MEMBERS ONLINE NOW
+samiadi, Hensu1, KonMD, Arifxyz, dipsybipsy, LengYiChun, CoolAllRounder, Justin9932, FFrex, Moja_Craft123, BobbyTowers, Hypernetical, gunsyu, salad_spinner, Midmines, freshy124, iKilledEveryone, aditya451, AiisaacDSF, YuShen06, Belitation, CjCool3003, dsfwgrht, dfsdfdf, parayaa, Ayushraturi, lonlyboy22, DylanLH, vkys, KrOySi, nullific, LeDevin_YT, Vita1111, raher12344, NotZerxyy, COREGAMEROG, Doencan, ghmfghnfghn, Neonchik1, TastyPommesLul, SoyKey, Marotheit, jacob123jake, WertS00, skyarrowss, 67mangotuff, TebroxDE, 7myaznn, Niilokisss, mrfloris, Gamethedayaway, SoyRabYT, dzakwan_iqbal, Kwazedilla, zsDiv, TheTkeck, kianlemon, Aiixz, daimc3101, Codepilot, NevenFishd, itsme696969, Puspraj, Shiryu, POLARISCRAFT, Welies, Judik_Player, liuyihao, Allure45, reater20, AnimeNa1, RickTastisch, KindCora, xifamox1488, Vaskel, Hoangng190, 35P, angelgr01114, bestwrldwhite, cpr061, Satsuki0390, Sidd642, Dozz3s, MinemoraNetwork, Sebasorova, Takarrito, darshak, Matwood1, FNTPGamer, TheKillerV2, Dexxxx, dzaycrazy, asenthd, Amlboss, Ugean, AzniDev, DaceBruh, MineXingMC, Barracuda60, indiangamer
+... and 154 more
+Total: 8,179 (members: 274, guests: 7,093, robots: 812)
+FORUM STATISTICS
+Discussions:
+371,445
+Messages:
+3,723,755
+Members:
+2,053,584
+User Record:
+46,304
+Latest Member:
+AyaanBhai07
+SpigotMC
+FAQ
+Contact Us
+Terms
+Rules
+Privacy Policy
+ 
+© 2012-2025 SpigotMC Pty. Ltd.
+Not an official Minecraft product or service. Not approved by Mojang or Microsoft.
+Theme designed by ThemeHouse.

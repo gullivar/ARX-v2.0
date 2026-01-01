@@ -1,0 +1,307 @@
+NETWORK SITES:
+ Our Summit Series - Every Wednesday in October. Learn More
+LOG IN
+JOIN
+MOORE'S LOBBY PODCAST
+
+Powering EVs: Microgrids & DC Charging Solutions
+
+0:00 / 0:00
+PODCAST
+LATEST
+SUBSCRIBE
+ARTICLES
+FORUMS
+EDUCATION
+TOOLS
+VIDEOS
+DATASHEETS
+GIVEAWAYS
+PARTNER CONTENT HUB
+ 
+LATEST
+NEWS
+Renesas Hits the Gas on SDV Innovation With New Automotive SoC
+
+About 8 hours ago by Luke James
+
+TECHNICAL ARTICLES
+Understanding the Limitations of the Second-Order Type-1 PLL With a Lag Filter
+
+December 21, 2025 by Dr. Steve Arar
+
+NEWS
+ST Spins Out Op Amp Boasting High Accuracy, Speed, and Stability
+
+one day ago by Jake Hertz
+
+NEWS
+Our 2025 Top Trend: AI Assimilates
+
+2 days ago by Dale Wilson
+
+Do you remember when supercomputers were described by their processing power? That was so 2024. Today, we talk about the power for processing. Goodbye terraops, hello terrawatt-hours!
+
+NEW INDUSTRY PRODUCTS
+Amphenol LTW SnapQD Connectors | New Product Brief
+
+one day ago by Mouser Electronics
+
+Amphenol LTW SnapQD Connectors provide a high-flow, leak-free cooling solution designed for durability and ease of use in demanding environments. Watch and learn all about their features, specs, applications, and more!
+
+CATEGORIES
+AI/Neural Networks
+Analog
+Audio
+Automotive
+Cloud Computing
+Connectors
+Consumer Electronics
+Cooling
+Cybersecurity / Identification
+Digital ICs
+Digital Signal Processing
+EDA Tools
+Electromechanical
+Embedded
+IC Design
+Industrial Automation
+IoT
+IT / Networking
+Lighting
+Medical & Fitness
+Memory
+Military/Aero/Space
+Motor Control
+Optoelectronics
+Passives
+PCBs
+Power
+RISC-V
+Sensors
+Smart Grid/Energy
+Telecom
+Test & Measurement
+Wearables
+Wireless/RF
+PARTNER CONTENT HUB
+DIY Keyboard Project
+
+Content from Transfer Multisort Elektronik
+
+Smart Pressure Sensing in HVAC—Predictive Maintenance and Environmental Control
+
+Content from Würth Elektronik eiSos GmbH & Co. KG
+
+D-Mode GaN Remains a Natural Fit for High-Voltage Applications
+
+Content from Renesas Electronics
+
+Nvidia, Menlo Micro Collaboration Speeds up AI Chip Testing
+
+Content from Menlo Microsystems, Inc.
+
+Data Centers Evolve to Meet AI’s Massive Power Needs
+
+Content from Texas Instruments
+
+INDUSTRY WEBINARS
+Memory Market Outlook 2026
+
+December 23, 2025 by MEMPHIS Electronic
+
+Semiconductor memory is entering a new cycle with disruption and opportunity, likely lasting through 2026. This webinar breaks down the good, bad, and ugly—and how to navigate it.
+
+NEWS
+Our Top 2025 Research Stories: Rubber CMOS, Washable Electronics, and More
+
+4 days ago by Jeff Child
+
+NEWS
+From 124-Layer PCBs to the 555 Timer: Our Favorite Content of the Year
+
+5 days ago by Dale Wilson
+
+LATEST FORUM THREADS
+D
+“arduino , old or new”
+drjohsmith
+S
+“Inverter ground potential jumping”
+solvej
+J
+“Voltage Divider”
+Jibebuoy
+“The times, they are a changing”
+SamR
+“Design Review: Custom C13/C14 Power Cable Assembly”
+Jmyers12
+View All
+INDUSTRY ARTICLES
+The Configurable Matrix Computer: A New Alternative to the von Neumann Architecture
+
+December 23, 2025 by GP Singh, Ambient Scientific
+
+INDUSTRY UPDATES
+Understanding Power Integrity in PCB Design: Power Analyzer by Keysight
+INDUSTRY WHITE PAPERS
+Sustainable Motion Control Solutions for High-Performance Servo Drives
+INDUSTRY WEBINARS
+Sensors in the Energy Systems of the All Electric Society
+INDUSTRY WHITE PAPERS
+MORE INDUSTRY UPDATES
+NEWS
+Roger Harrington: The Man With the Key to Unlock Maxwell’s Equations
+
+December 24, 2025 by Lianne Frith
+
+Today, we celebrate Roger F. Harrington as he turns 100 years old. His method of moments became the key for engineers in the modern world to put Maxwell's equations into action.
+
+INDUSTRY WEBINARS
+onsemi’s High-Efficiency Power Products Empower Next-Generation AI Data Center Power Supply Systems
+
+In partnership with Avnet
+
+NEWS
+Lattice’s New FPGAs Expand Possibilities for Control and Connectivity
+
+December 22, 2025 by Duane Benson
+
+NEWSLETTERS
+Join our Community!
+
+Sign-up and receive our weekly updates including the latest news, technical articles and industry updates.
+
+Subscribe
+CONTROL.COM
+LATEST
+Slim M12 Splitters Simplify Sensor Wiring in Tight Enclosures
+MAKER PRO
+LATEST
+7 Things to Check When Choosing PCB Stencil Manufacturers
+EE POWER
+LATEST
+Our 2025 Top Trend: AI Assimilates
+NEWS
+AWS Touts Its ‘Most Powerful and Efficient’ CPU Yet
+
+December 19, 2025 by Jake Hertz
+
+New Graviton5-based EC2 M9g instances push performance, core density, and security design to the next level.
+
+NEWS
+MAX232: The Single-Supply Transceiver That Shrunk RS-232 to One Chip
+
+December 19, 2025 by Luke James
+
+NEWS
+Tiny Connectors With Big Jobs in Automotive and Industrial Applications
+
+December 18, 2025 by Joshua Tidwell
+
+NEWS
+Q.ANT’s New Photonic Processor Pushes AI and HPC Beyond Silicon’s Limits
+
+December 18, 2025 by Joshua Tidwell
+
+Q.ANT has debuted NPU 2 with enhanced nonlinear optical processing, delivering major gains in efficiency and performance for next-generation AI and HPC workloads.
+
+INDUSTRY ARTICLES
+Building a DIY Probe Station
+
+December 17, 2025 by Mary O’Kane, Ossila
+
+This how-to guide outlines everything you'll need to build a basic probe station on a budget.
+
+NEWS
+Using Synopsys Tools, Complex AI SoC Achieves Verification in 5 Weeks
+
+December 17, 2025 by Duane Benson
+
+NEWS
+Light Research, Heavy Implications: LEDs for Medicine, Displays, & Optics
+
+December 16, 2025 by Luke James
+
+NEWS
+Renesas Reveals First Wi-Fi 6 and Wi-Fi/BLE Combo MCUs for Smart Homes
+
+December 16, 2025 by Jake Hertz
+
+RA6W1 is a dual-band Arm Cortex-M33 platform that targets low-power connected devices.
+
+Load More
+PRODUCTS
+Latest
+Analog
+Connectors
+Cooling
+Digital IC’s
+EDA Tools
+Electromechanical
+Embedded
+IC Design
+Memory
+Optoelectronics
+Passives
+PCB’s
+Power
+RISC-V
+Sensors
+Test & Measurement
+Wireless/RF
+View All 
+APPLICATIONS
+AI/Neural Networks
+Audio
+Automotive
+Cloud Computing
+Consumer Electronics
+Cybersecurity / Identification
+Digital Signal Processing
+Industrial Automation
+IOT
+IT / Networking
+Lighting
+Medical & Fitness
+Military / Aero / Space
+Motor Control
+Smart Grid / Energy
+Telecom
+View All 
+CONTENT
+BOM Tool
+Calculators
+Datasheets
+Giveaways
+Industry Articles
+Summit Series
+Virtual Workshops
+Industry Webinars
+IC Design Center
+New Products
+News
+Podcast
+Projects
+Tech Chats
+Partner Content Hub
+Technical Articles
+Test Equipment
+Textbook
+Video Lectures
+Worksheets
+WHO WE ARE
+More about us 
+CONNECT WITH US
+Contact Us
+Advertise
+Write For Us
+MORE FROM OUR NETWORK
+SIGN UP
+Register
+© EETech Group, LLC. All rights reserved
+Privacy Policy
+·
+Terms of Service
+·
+User Agreement

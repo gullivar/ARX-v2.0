@@ -1,0 +1,264 @@
+Account Login
+Email  Password 
+
+ Forgot Password
+
+Features
+Pricing
+Mobile
+Support
+Sign Up
+BatchGeo Home Page 
+Features
+Pricing
+Mobile
+Support
+blog
+Log In
+Sign Up
+We are the fastest way to map data
+Example Address	City	State	Zip	Name	Phone Number	Group	URL
+1 Crossgates Mall Road	Albany	NY	12203	Apple Store Cross Gates	(518) 869-3192	Example Group 1	https://www.apple.com/retail/crossgates/
+Duke Rd & Walden Ave	Buffalo	NY	14225	Apple Store Walden Galleria	(716) 685-2762	Example Group 2	https://www.apple.com/retail/walden/
+630 Old Country Rd.	Garden City	NY	11530	Apple Store Roosevelt Field	(516) 248-3347	Example Group 3	https://www.apple.com/retail/rooseveltfield/
+160 Walt Whitman Rd.	Huntington Station	NY	11746	Apple Store Walt Whitman	(631) 425-1563	Example Group 3	https://www.apple.com/retail/waltwhitman/
+9553 Carousel Center Drive	Syracuse	NY	13290	Apple Store Carousel	(315) 422-8484	Example Group 2	https://www.apple.com/retail/carousel/
+2655 Richmond Ave	Staten Island	NY	10314	Apple Store Staten Island	(718) 477-4180	Example Group 1	https://www.apple.com/retail/statenisland/
+7979 Victor Road	Victor	NY	14564	Apple Store Eastview	(585) 421-3030	Example Group 1	https://www.apple.com/retail/eastview/
+1591 Palisades Center Drive	West Nyack	NY	10994	Apple Store Palisades	(845) 353-6756	Example Group 2	https://www.apple.com/retail/palisades/
+125 Westchester Ave.	White Plains	NY	10601	Apple Store The Westchester	(914) 428-1877	Example Group 3	https://www.apple.com/retail/thewestchester/
+103 Prince Street	New York	NY	10012	Apple Store SoHo	(212) 226-3126	Example Group 2	https://www.apple.com/retail/soho/
+
+Map many addresses at once using our tool above. Download our Excel spreadsheet template, or try it out with our sample data.
+
+ 
+
+Done: columns, rows - scroll down to Validate & Set Options
+
+
+
+We have made our best guess at your data, but if anything seems off you can modify your header mapping or other settings below.
+
+Validate & Set Options
+Basic options
+Region 
+International
+Argentina
+Austria
+Australia
+Belgium
+Brazil
+Canada
+China
+Croatia
+Czech Republic
+Denmark
+Finland
+France
+Germany
+Greece
+Hungary
+Indonesia
+India
+Ireland
+Israel
+Italy
+Japan
+South Korea
+Latvia
+Malaysia
+Mexico
+Morocco
+Netherlands
+Norway
+New Zealand
+Poland
+Portugal
+Philippines
+Romania
+Saudi Arabia
+Singapore
+South Africa
+Spain
+Sweden
+Switzerland
+Taiwan
+Ukraine
+United Kingdom
+United Arab Emirates
+United States
+Location / Address 
+none
+City / County 
+none
+State / Province / Postcode 
+none
+Zip / Postcode / Country 
+none
+Group By / Thematic Value 
+Single Color
+Marker box preview
+
+Show Advanced Options
+
+Advanced options
+Title 
+ 
+Marker Description 
+All Columns
+Country Field 
+ 
+URL 
+Use Google Maps
+Image URL 
+ 
+E-mail 
+NONE
+Latitude 
+none
+Longitude 
+none
+ 
+Label each marker  
+none
+letters
+numbers
+ Select a default map view to show  
+street
+satellite
+hybrid
+terrain
+  Enable clustering for high density markers  Calculate (straight line) distance from first address in  
+miles
+kilometers
+  Hide map addresses / Limit zoom in  Disable KML export  Links open a new Window  Don't combine groups into ranges  Enable boundary validation
+Troubleshooting
+ Filter road types before geocoding  Clear cache before geocoding
+Marker colors
+Color	Group name
+
+ 
+	Template group
+Marker shape
+
+Upload a custom marker 
+
+Recommended dimensions: 36 x 36
+Maximum filesize: 10KB
+
+Uploading file
+
+Change marker
+
+Remove this file so you can upload another in its place.
+
+Map style
+
+ 
+
+See your map below. If you find any markers out of place - just drag and drop them to the correct location.
+
+Save & Continue View Pricing
+
+Title
+
+Enter a short title for your map, what is it?
+Description
+
+
+Email
+
+Enter this in case you want to EDIT your map later.
+Privacy
+Public Unlisted Password Protect (Pro Only) If you select "Unlisted" your map will be saved to a unique URL that will be kept private to you, it will not be listed anywhere on the site. You can read up on map privacy in our features section.
+Map Mode
+ I have read and agree to the BatchGeo Terms of Service.
+ Please contact me about special offers on BatchGeo Pro.
+From spreadsheet to map in three simple steps
+1. Copy your data
+
+From spreadsheets, to tables in web pages, databases—anywhere you can visualize a table with location data you can map multiple locations with BatchGeo. If you are starting from scratch, we recommend using our Spreadsheet Template to get started with your data, then simply copy the data over to BatchGeo to create a pin map.
+
+2. Set options
+
+We make our best guess at your intended columns like the address, city, state, zip code, or latitude / longitude. You may want to set the options yourself if you don't like the default behavior.
+
+3. Map Addresses
+
+We plot your postcodes / addresses and make your multi pin map. It may take a few minutes depending on how many addresses you have, if you already had latitude and longitude in your data it will map instantly. After you are done mapping the addresses you can save to a web page using the "Continue & Save" option.
+
+68,837
+
+Active Users
+
+19,264,672
+
+Google Maps Created
+
+1,485,252
+
+Live Maps
+
+Used by
+Get more with Pro
+Street View Integration
+Heat Map Layer
+No Ads
+Multi Point Routing
+10 Users Included
+Advanced Features
+Enhanced Security
+Advanced Data Selection
+More Data & Groups
+
+Get Started
+
+Sales Mapping
+
+Map customers, leads, suppliers, and more using our tools.
+
+Real Estate
+
+Agents list your properties, optimize your clients house tours.
+
+Store Locator
+
+Help your customers find your products in the nearest store.
+
+Main
+Make Maps
+Features
+Pricing
+Mobile
+Support
+Blog
+Learn More
+About BatchGeo
+Example Maps
+Map Excel Data
+Privacy
+Terms
+Developers
+Embedding Maps
+Store Locators
+Languages
+Chinese
+English
+French
+Dutch
+German
+Italian
+Japanese
+Korean
+Portuguese
+Russian
+Spanish
+© 2025 BatchGeo LLC All Rights Reserved Privacy Policy Terms & Conditions
+
+Error loading resource. Please reload page.
+
+Reload Page
+
+×
+
+We use cookies to improve user experience, and analyze website traffic. For these reasons, we may share your site usage data with our analytics partners. By continuing to the site, you consent to store on your device all the technologies described in our Privacy Policy. Please read our Terms and Conditions and Privacy Policy for full details.

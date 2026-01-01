@@ -1,0 +1,231 @@
+Product
+Solutions
+Resources
+Docs
+Pricing
+Contact
+Log in
+Stytch has joined Twilio to build the intelligent identity layer for the internet
+
+The identity platform for
+
+humans & AI agents
+
+One integration for authentication, authorization, and security,
+
+making your app enterprise-ready and agent-ready.
+
+Watch demo
+Talk to an expert
+Scales from your first user to Fortune 100 customers
+Embeddable admin portal
+
+Let your enterprise customers self-serve authentication configuration, SSO setup, SCIM, and organization settings.
+
+Enterprise-grade authentication
+
+From passkeys, to breach-resistant passwords, to SAML SSO.
+
+SMS and email provider failover
+
+Reliable and timely delivery of login or authentication emails and text messages.
+
+Connect your users to other applications
+
+Power cross-application integrations, secure data sharing, AI workflows, and more with Connected Apps.
+
+Machine-to-machine authentication
+
+Enable your services to communicate and authenticate without any human involvement.
+
+Turnkey multi-tenancy
+
+Including organization authentication policies, IdP-driven role mapping, JIT Provisioning controls, SCIM and more.
+
+Bot and fraud protection with intelligent rate limiting
+
+Secure your application with zero-day device intelligence, 99.99% bot detection accuracy, and reverse engineering protection.
+
+Web & mobile UI components
+
+Customize your login experience with pre-built components.
+
+Device-aware multifactor auth
+
+Device fingerprint-powered invisible CAPTCHA and MFA removes login friction.
+
+Teams powering AI agents with Stytch
+Built BioMCP for secure LLM access to trusted medical data.
+Enable AI tools like Cursor, Claude & Devin to spin up new projects.
+Built a universal context layer for AI, powered by MCP.
+The Stytch difference
+
+Full control of your login experience
+
+Pre-built frontend, headless SDKs, and backend APIs to offload as much or as little as you need.
+
+Multi-tenant and user-focused data models, so you don’t have to write custom logic to make your auth vendor work with your app.
+
+Fine-grained API access to auth features, so you can easily tailor functionality for every customer and organization.
+
+Build once, scale effortlessly
+
+MFA, JIT, RBAC, SCIM, SSO — enterprise auth features that are easier to implement and scale out-of-the-box.
+
+Embeddable admin portal for your customers to self-serve auth settings, SSO, SCIM, and more, all from your dashboard.
+
+Native multi-tenancy, so SCIM is ready to use with RBAC, auth settings are easily configured per org—everything just works.
+
+AI agent identity & security—handled
+
+A turnkey platform for AI agent authentication, authorization, and consent management.
+
+The most advanced toolkit for MCP authentication and authorization.
+
+Detect and stop malicious and misbehaving agents.
+
+Real-time fraud and abuse protection
+
+The industry’s most accurate bot detection, to stop account takeover, credential stuffing, and the latest AI-driven threats.
+
+Built-in enforcement tools including security verdicts, invisible CAPTCHA, and intelligent rate limiting.
+
+Device level traffic shaping ensures valid users are undisturbed while bad actors and bots are removed.
+
+Your next auth feature – just a PUT request away
+
+Single sign on
+
+Support both SAML and OIDC protocols for SSO with ease
+SSO set up
+
+Multi-factor auth
+
+Role-based access control
+
+JIT provisioning
+
+curl --request PUT \
+  --url
+https://test.stytch.com/v1/b2b/organizations/{ORGANIZATION_ID} \
+  -d '{
+    "allowed_auth_methods": ["sso"],
+    }'
+Turnkey multi-tenancy
+
+Organization-first features
+
+Auth features that are native to multi-tenancy, for easily handling any customer requirement: per-org auth settings, multiple SSO IdPs, and SCIM settings that works out-of-the-box with RBAC.
+
+Embeddable admin portal
+
+An SDK to embed complex auth settings and user/org management into your dashboard, letting customers self-serve SSO, SCIM, and other complex auth features without involving your team.
+
+What engineering teams are saying
+
+The Stytch team has been a great partner. We’ve really appreciated the open and responsive way they worked with us, and how they’re continually improving and expanding the product. Having the world move forward without me having to move it forward myself is really nice.
+
+Wade Tandy
+Staff Software Engineer
+See customer stories
+Build natively in the stack of your choice
+See all frameworks
+Resources
+
+Example apps
+
+B2B Next.js
+B2B React
+Consumer Next.js
+
+Quickstarts
+
+B2B quickstarts
+Consumer quickstarts
+Migration guides
+
+Stytch guides
+
+Multi-tenancy for B2B auth
+Passwords
+SAML SSO with Okta
+See how Stytch compares
+
+Auth0
+
+Fingerprint
+
+Amazon Cognito
+
+Expert support at every step
+
+Get started
+with Stytch
+
+Start building for free
+Explore our docs
+Authentication & Authorization
+
+For consumer applications
+
+For B2B SaaS applications
+
+Admin Portal
+
+Connected Apps
+
+Single sign-on
+
+Fraud & Risk Prevention
+
+Fingerprinting
+
+Active risk assessment
+
+Fine-grained enforcement
+
+Why Stytch
+
+Stytch vs. Auth0
+
+Stytch vs. Firebase
+
+Stytch vs. Cognito
+
+Stytch vs. Fingerprint
+
+Company
+
+About us
+
+Careers
+
+Contact
+
+Resources
+
+Pricing
+
+Docs
+
+Changelog
+
+Product roadmap
+
+API status
+
+Blog
+
+Community
+
+Slack community
+
+Technical support
+
+Customer stories
+
+© 2025 Stytch. All rights reserved.
+
+Terms of use
+
+Privacy Policy

@@ -1,0 +1,114 @@
+INKSCAPE
+Draw Freely.
+
+🎉 Inkscape 1.4.3 is out! 🎉
+
+English
+
+Log in
+
+Register
+
+ 
+ABOUT
+ 
+DOWNLOAD
+ 
+NEWS
+ 
+COMMUNITY
+ 
+LEARN
+ 
+CONTRIBUTE
+ 
+DEVELOP
+ 
+SUPPORT US
+
+Inkscape's Path-Artist's Blossom by Inkonic
+
+Expand Your Creative Universe by Chris Hildenbrand
+
+A New Dawn by Fabian Mosakowski
+
+Creating Together by Sreya Saju
+
+Download Now!
+Get the professional vector graphics editor!
+	
+Explore Features
+Find out what Inkscape is capable of
+	
+Community Gallery
+Showcase of creations from the community
+	
+Learning Resources
+HowTos, Videos, Tutorials and more...
+ 
+Inkscape is a powerful, free design tool
+
+Whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery, Inkscape is for you!
+
+Flexible drawing tools
+Broad file format compatibility
+Powerful text tool
+Bezier and spiro curves
+
+Want to find out more about how Inkscape can help you? Look at the full set of features or try it!
+
+Join our thriving community
+
+We can always use help from more people. If you can write code, you may be able to involve in development; if you can't, there are still lots of things we can use help with. Take a look at our Contribute section.
+
+Become our Sponsor
+Blogs
+July and August 2025 Bug Accelerator
+
+Sept. 10, 2025
+
+The Bug Accelerator Program for 1.4 continues.
+
+Read more...
+
+May Bug Accelerator 2025
+
+June 4, 2025
+
+This marks the third month of the Bug Accelerator Program for 1.4, with the 1.4.2 completed we're targeting 1.4.3.
+
+Read more...
+
+ 
+
+	
+Recent News
+Bugs banished – Inkscape 1.4.3 is out!
+
+Dec. 26, 2025
+
+Introducing Inkscape 1.4.3 - our latest maintenance and bugfix release.
+
+This new minor release patches critical bugs and crashes. Update to benefit from more than 120 bug and crash fixes, 23 improved user interface translations, and even a few new features.
+
+Read more...
+
+IndiaFOSS 2025
+
+Oct. 12, 2025
+
+The Inkscape project sent four contributors (Anunay, Ishaan, Manpreet, and Vaibhav) to attend IndiaFOSS 2025 which took place on September 20 and 21, 2025, in Bengaluru. The event provided a platform for Indian FOSS contributors to discuss their projects, future collaborations, and more...
+
+Read more...
+
+Libre Graphics Meeting 2025
+
+June 8, 2025
+
+Right after Inkscape Summit in Nuremberg, from May 28th to the 31st, the team attended to the Libre Graphics Meeting 2025, also in Nuremberg. It was a great opportunity to learn and share, and a unique experience to see how Inkscape contributes to the Libre Graphics scenario globally...
+
+Read more...
+
+Inkscape is Free and Open Source Software licensed under the GPL.
+
+With thanks to: Fastly OSUOSL Sponsors The Authors

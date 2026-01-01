@@ -1,0 +1,2 @@
+TON Center - TON HTTP API TON Center Fast and reliable HTTP API for The Open Network Using API without API key is limited to 1 request per second. Register your API key in the @toncenter to get access
+        with higher limits. API V3 Indexer Documentation API V2 Documentation JavaScript SDK Testnet API Source Code Terms and Conditions

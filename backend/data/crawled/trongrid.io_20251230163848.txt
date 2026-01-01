@@ -1,0 +1,86 @@
+TronGrid
+Documents
+Pricing
+ChangeLog
+Developers
+Nile
+Shasta
+Log In
+Sign Up
+TronGrid v1.9.0: Complete internal transaction query capabilities
+EASY ACCESS TO THE BLOCKCHAIN
+
+— TronGrid offers an easy to use hosted API, load balanced full nodes, secure and reliable developer tools with direct access to the TRON and BTTC Network.
+
+Get Started
+Reliable and Scalable
+Blockchain Based
+Solidity Nodes
+RELIABLE AND POWERFUL
+~10K
+Requests per second
+1B+
+Transactions per day
+Create API Key Easily with TronGrid Dashboard
+
+Sign up for TronGrid and create your API key on the dashboard to access TRON Network data. You can quickly check your API key request data on the dashboard.
+
+Try out TronGrid
+Why TronGrid?
+
+TronGrid offers an ideal enviroment for developers to access important tools to develop decentralized applications on the TRON protocol.
+
+01
+
+TRON Network Infrastructure
+
+Easy access to APIs, with no need for developers to deploy nodes
+02
+
+Quick and Easy
+
+Quick creation of API requests with API key
+03
+
+Load Balance
+
+Stable and efficient service powered by a number of server clusters
+04
+
+Comprehensive and Powerful
+
+Access to all APIs of TRON and BTTC nodes with continuous upgrade and extra integrated interface services
+Thousands of developers and applications trust TronGrid
+Connect to the TRON Network with TronGrid
+
+It's easy to get started with TronGrid, simply point to any of these URLs for all of your API calls.
+
+Query the latest block information
+
+// HTTP GET
+curl  --request GET https://api.trongrid.io/wallet/getnowblock 
+--header 'TRON-PRO-API-KEY: 25f66928-0b70-48cd-9ac6-da6f8247c663'
+Query the latest block
+Query address information
+Explore the documents
+
+Click to view all TronGrid plans and choose a data solution that suits you best
+
+Got it
+TronGrid
+TRONGRID
+Home
+Terms of Use
+ChangeLog
+Help
+DEVELOPERS
+Nile
+Shasta
+Documents
+JOIN US ON DISCORD
+
+Stay up-to-date with TronGrid
+
+DISCORD
+© 2025 TronGrid. All rights reserved.
+TRON Developer Suite

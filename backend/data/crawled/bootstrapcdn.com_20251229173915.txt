@@ -1,0 +1,37 @@
+BootstrapCDN
+Font Awesome CDN
+Bootstrap Icons CDN
+Bootswatch CDN
+Bootlint CDN
+GitHub Project
+Resources
+BootstrapCDN
+
+The recommended CDN for Bootstrap, Font Awesome, Bootswatch and Bootstrap Icons
+
+Quick Start
+
+Get your production ready CDN links below. You can also automate your upgrades by pulling the latest versions from our API.
+
+v5.3.3
+CSS
+Click to copy
+JavaScript
+Click to copy
+JavaScript Bundle
+Click to copy
+v4.6.2
+CSS
+Click to copy
+JavaScript
+Click to copy
+JavaScript Bundle
+Click to copy
+LEARN MORE
+
+Check what makes us production ready
+
+Powered by jsDelivr and Globalping network testing platform
+Sponsored by Cloudflare, Fastly, NS1, BunnyCDN & Dmitriy Akulov
+About
+Privacy Policy

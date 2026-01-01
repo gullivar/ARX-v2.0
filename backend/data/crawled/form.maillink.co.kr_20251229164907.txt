@@ -1,0 +1,3 @@
+<%
+response.sendRedirect("https://www.maillink.co.kr");
+%>

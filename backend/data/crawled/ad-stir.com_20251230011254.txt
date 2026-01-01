@@ -1,0 +1,133 @@
+adstir
+CONTACT
+ 
+SIGN UP
+ 
+LOG IN
+ 
+EN
+ 
+JP
+
+adstir
+
+Features of adstir
+ 
+How to Start
+ 
+adstir Exchange
+
+Totally FREE !!
+
+Register now
+
+Features of adstir
+TECHNOLOGY
+	
+CONSULTING
+	
+FORMAT
+FEATURES
+TECHNOLOGY
+We will introduce the cutting edge technologies of adstir which has evolved ad technology from the dawn of RTB, as the start of our service in 2011.
+RTB
+
+As a pioneer of SSP specializing in smartphones, we are connected with domestic/global DSPs and offering the largest RTB marketplace in Japan.
+
+ 
+PMP
+
+Through our PMP marketplace, we deliver high-priced and premium ads.
+
+ 
+Automatic Yield Optimization
+
+We do CPM evaluation and optimisation from a fair perspective on the basis of the number of requests distributed by adstir, not the number of impressions counted independently by Ad Network.
+
+ 
+No Fill Detection
+
+In order not to waste any single impression, we would automatically redirect the traffic in case we detect that there are no available ads from the ad network to another network.
+
+ 
+Industry Standard Measures against Invalid Traffic
+
+We are working on ads.txt, sellers.json, and Supply Chain Object in order to follow the industry standards of fraud prevention measures to improve the transparency of the digital advertising market. Besides that, adstir can detect Invalid Traffic (IVT) and exclude it.
+
+By these industry standard measures, we can provide advertising services which is reliable to both media and publishers.
+
+If you need any assistance in implementation of the items mentioned above, we offer our best technical support.
+
+CONSULTING
+As one of the largest SSPs in Japan, we will provide all our know-hows for monetisation to increase our publishers revenue to the next level.
+Case Studies
+
+Regardless of the genre of publishers, adstir has a wide range of case studies, so we can conduct a consultation based on the accumulated know-how.
+
+ 
+Procurement of Advertisement Matched to Publishers
+
+By independently procuring advertising campaigns suitable for media, we maximize advertising effectiveness of advertisers and maximize revenue of the publishers.
+
+ 
+Consulting of Advertisement Space
+
+In addition to suggesting new advertisement space and reviewing advertisement leads, we will propose also improvement of users duration time, migration rate and provide overall support.
+
+ 
+Technical Support
+
+We will respond quickly to all technical issues and support.
+
+FORMAT
+In the world of rapidly changing ad techologies, adstir will provide new value to the publishers through fulfillment of ad formats and multi-device correspondence.
+Cross-Device Advertising
+
+adstir support ad formats available for diffrent devices(PC, Smartphone, Tablet)
+
+ 
+Various Ad Formats
+
+adstir supports various kinds of ad formats such as banners, native ads, video ads and interstitial ads.
+
+ 
+AMP Compatible
+
+We responded quickly to Google's mobile page acceleration project "AMP". We are responding not only to "AMP" but also to market trends with speed.
+
+HOW TO START
+Account Registration
+
+Please check the terms of use and fill out the necessary information and we will issue your adstir dashboard account.
+
+Registration of Media and Ad Spaces
+
+Register information about your site/app and ad spaces from adstir dashboard.
+
+JS Tag or SDK Implementation
+
+Once our evaluation is done, the ads will be delivered right away if you implement our JS tag or SDK.
+
+Register now
+
+If you already have an account,
+please log in from here.
+
+LOG IN
+Top
+ 
+Terms of Use
+ 
+Privacy Policy
+ 
+Ad Quality Policy
+ 
+Introduction to CPM
+ 
+Technology
+ 
+About optout
+ 
+Corporate Information
+
+© UNITED Marketing Technologies, Inc. All rights reserved.

@@ -1,0 +1,507 @@
+English
+Resilient CISO Inner Circle
+Sales: 1-877-600-2295 • sales@absolute.com
+Login
+Products
+Secure Endpoint:
+Secure Endpoint - Overview
+
+Securing your endpoints through proactive and remedial measures.
+
+Absolute Visibility
+
+Serves as your source of truth for device and application health.
+
+Absolute Control
+
+Provides you a lifeline to protect at-risk devices and data.
+
+Absolute Resilience
+
+Delivers application self-healing and confident risk response.
+
+Absolute Rehydrate
+
+Eliminate downtime costs with automated remote recovery.
+
+
+Absolute Resilience for Security
+
+Provides seamless and proactive patch management.
+
+Absolute Resilience for Automation
+
+Offers remediation of security vulnerabilities through automated workflows.
+
+Absolute Ransomware Response
+
+Boosts ransomware preparedness and time-to-recovery.
+
+Secure Access:
+Secure Access - Overview
+
+Reliable, resilient SSE for the anywhere workforce.
+
+Absolute Core
+
+Built from ground up for mobility and the modern edge.
+
+Absolute Edge
+
+Delivers the best user experience for the software-defined perimeter.
+
+Absolute Enterprise
+
+Comprehensive SSE provides security controls and threat protection across web, cloud, and private apps.
+
+Absolute Insights for Network
+
+Boosts diagnostics and remediation for digital experience monitoring.
+
+Absolute Secure Web Gateway
+
+Web security that protects data, prevents threats, and secures access to cloud apps.
+
+The Absolute Platform
+
+Learn about the components that power Absolute product capabilities.
+
+Absolute Rehydrate
+
+Restore endpoints back to full compliance.
+
+Quick Links:
+Absolute Persistence
+Device Compatibility
+Requirements
+Security Practices
+Certifications
+Home & Small Office Solutions
+Compare Product Packages
+Solutions
+For Your Team:
+IT Management
+
+Reduce complexities across endpoints, applications, and network access that are causing inefficiencies and risk exposure.
+
+Cybersecurity & Compliance
+
+Minimize your risk exposure and stay compliant in support of your anywhere workforce.
+
+Enable the Business
+
+Maximize your workforce’s productivity wherever they work.
+
+The Resilient CISO Inner Circle
+New
+
+Explore insights, tools, and strategies for unstoppable business continuity.
+
+Industries:
+Education
+Finance
+Government
+Healthcare
+Legal
+Professional Services
+Public Safety
+Transportation
+Utilities
+Quick Links:
+Use Cases
+Absolute Product Demo Webinar Series
+
+Sign up for an overview of Absolute’s self-healing, intelligent security solutions with a live Q&A.
+
+Beyond Stopping Breaches Webinar
+
+Join Absolute & CrowdStrike to discover self-healing security and fast, automated recovery.
+
+Absolute Resilience for MSPs
+
+Secure your clients’ endpoints with self-healing, visibility, and control.
+
+Resources
+Resource Center:
+Resource Library
+Product Tours
+Absolute Blog
+Events & Webinars
+Research Reports
+Customer Success Stories
+Featured Resources:
+Workspace security insights
+
+Explore trends shaping workspace security strategies with insights from Gartner® Hype Cycle™ for Workspace Security.
+
+Zero-trust technology report
+
+Discover key insights to strengthen your strategy with insights from Gartner® Hype Cycle™ for Zero-Trust Technology.
+
+Partners
+Partner Ecosystem:
+Partner Overview
+Find a Partner
+Become a Partner
+Our Partnerships:
+Device Manufacturers
+
+Firmware-embedded by these leading systems manufacturers.
+
+Service Providers
+
+Manage and secure customer devices.
+
+Resellers
+
+Purchase through authorized partners.
+
+Distributors
+
+Find Absolute products worldwide.
+
+Network Operators
+
+Powering the next revolution in enterprise mobility.
+
+Technology Alliances
+
+Integrate with leading security solutions.
+
+Quick Links:
+Partner Portal
+Device Compatibility
+Absolute Resilience for MSPs
+
+Secure your clients’ endpoints with self-healing, visibility, and control.
+
+Align Dashboards to Your Unique Requirements
+
+Create custom dashboards aligned to your organization’s unique device, security and compliance requirements
+
+Company
+Overview:
+About
+
+Learn about Absolute, the only provider of self-healing, intelligent security solutions.
+
+Leadership
+
+Learn how industry and operational experience is fundamental to our success.
+
+Careers
+
+We're the world’s only provider of self-healing, intelligent security solutions – and we're growing.
+
+Contact Us
+Press:
+Press Releases
+
+View recent and archived press releases from Absolute.
+
+In The News
+
+See recent mentions and discussions about Absolute in the media.
+
+Support
+Customer Support:
+Support Center
+
+Learn about Absolute, the only provider of self-healing, intelligent security solutions.
+
+Absolute Knowledge Base
+
+Find answers by searching support articles and other helpful documents and guides.
+
+Absolute Community
+
+Get answers, help others, and stay up to date with product news and events in our community.
+
+Professional & Managed Services
+
+We're the world’s only provider of self-healing, intelligent security solutions – and we're hiring.
+
+Stay Up-To-Date:
+Release Updates
+
+View recent and archived press releases from Absolute.
+
+Product and Security Advisories
+
+See recent mentions and discussions about Absolute in the media.
+
+Agreements
+
+Find Agreements and other legal documents.
+
+Quick Links:
+Secure Endpoint Customer Console
+Secure Access Customer Portal
+Product Maintenance Schedule
+Device Compatibility
+Requirements
+Contact Support
+Request a demo
+ABSOLUTE SECURITY CYBER RESILIENCE PLATFORM
+We Stop DowntimeSM
+
+Resilient CISOs trust us to prevent and minimize business disruption and recover in minutes from cyber incidents.
+
+
+Tour the platform
+Request a demo
+The latest news, reports and events
+Future-Proof Workspace Security
+
+Strengthen security and risk management with insights from Gartner® Hype Cycle™ for Workspace Security.
+
+Get the report →
+Beyond Stopping Breaches Webinar
+
+Join Absolute & CrowdStrike to discover self-healing security and fast, automated recovery.
+
+Register now →
+INNOVATION SPOTLIGHT: Absolute Rehydrate
+
+Remotely recover compromised endpoints after an IT or security event occurs.
+
+Learn more →
+Few organizations fully recover from a cyber incident
+
+"Cyber incidents are now a normal — even mundane — occurrence."
+
+
+"As a result, CISOs must prepare for what senior leadership will want (resilience) over what they once wanted (protection)."
+
+Read the full report
+
+Source: Gartner Research, Maverick Research: CISOs Must Transform Their Role or Become Obsolete, Will Candrick, 19 June 2025.
+
+
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+
+
+$400B
+
+annual cost of downtime
+(Splunk + Oxford Economics, 2024)
+
+$5.08M
+
+average ransomware/extortion cost
+(IBM/Ponemon, 2025)
+
+$4.88M
+
+average data breach cost
+(IBM/Ponemon, 2024)
+
+61%
+
+of supply chain breaches are from third-party vulnerabilities
+(Verizon DBIR, 2024)
+
++$670K
+
+breach cost in shadow AI-heavy organizations
+(IBM/Ponemon, 2025)
+
+THE FUTURE OF CYBERSECURITY:
+Resilience Over Protection
+
+The future of cybersecurity requires a bold shift from mere protection to resilience, where CISOs need to transform from being “chief protection officers” into Chief Cyber Resilience Officers. With cyber incidents now an unavoidable and accepted cost of doing business, CISOs’ focus can no longer be on just preventing every attack, but rather on building the ability to anticipate, withstand, adapt, and quickly recover. Modern CISOs understand that the business impact of cyber incidents is the cost of downtime, and by prioritizing resilience, they minimize disruption, maintain continuity, and turn challenges into opportunities.
+
+Join the Resilient CISO Inner Circle
+You need an enterprise platform that drives resiliency across your security stack
+Always ON
+Always CONNECTED
+Always PROTECTED
+Tour the platform
+Platform overview
+The industry's only firmware to cloud platform for endpoints, servers, apps and access
+
+Operates un-deletable at the BIOS level, the only resilience platform you can't remove.
+
+Remotely recovers devices in minutes to a trusted state—not days—without IT delays.
+
+Self-heals before downtime or breaches spread, across endpoints and applications.
+
+Automates patching and vulnerability remediation with 100% control and resilience, for endpoints and servers.
+
+
+Delivers AI-powered, audit-ready security and compliance with 100% confidence, for CISOs.
+
+
+30+ years of enterprise
+‍cyber resilience
+600M
+
+devices with
+Absolute embedded
+
+28
+
+global
+PC OEMs
+
+3.1B
+
+daily API calls
+from endpoints
+
+227
+
+patents
+worldwide
+
+300M
+
+monthly application
+health scans
+
+Stop downtime in minutes, not hours or days
+Firmware-embedded persistence
+Automated OS image recovery
+Remote remediation at scale — without delay
+Business continuity without disruption
+Learn more about Absolute Rehydrate
+The Absolute Security difference
+Persistence
+
+Only Absolute Security's patented persistence technology is embedded in the firmware of over 600 million devices.
+
+Resilience
+
+Only Absolute Security creates an unbreakable connection between device firmware and the Absolute platform.
+
+
+Intelligence
+
+Only Absolute Security's platform and data uniquely delivers cyber resilience across your entire security stack.
+
+Explore Persistence technology
+Resilient CISOs and CIOs
+rely on us
+“Resilience is so important to how you as a CIO or CISO ensure that your organization can weather a breach, ransom attack, or pandemic.”
+John Zangardi
+CEO Redhorse Corporation, Board Member, and former CIO of DHS
+“I can sleep at night because of Absolute Security. As a CIO, Absolute Secure Endpoint gives me peace of mind. It has strengthened our security posture, allowing us to stay in compliance and giving us that extra level of comfort.”
+George Gunther
+CIO, Asplundh
+See all customer stories
+Recognition, validation,
+‍and certifications
+
+Recognized in Gartner® Hype Cycle™ for Zero-Trust Technology, 2025
+
+Recognized in Gartner® Hype Cycle™ for Workspace Security, 2025
+
+GigaOm Radar Report Leader, Patch Management Solutions, 2025
+
+GigaOm Radar Report Outperformer, Patch Management Solutions, 2025
+
+Recognized as a Leader in Frost Radar™ for Endpoint Security, 2025
+
+Frost & Sullivan Competitive Strategy & Leadership Award 2025
+
+FedRAMP authorization to operate (ATO)
+
+Certified ISO/IEC 27001
+
+Service Organization Control 2 (SOC2) compliant
+
+Endpoint Management and Zero Trust Networking Leader, Enterprise, G2, Fall 2025
+
+Zero Trust Networking, Enterprise, G2, Fall 2025
+
+GARTNER is a registered trademark and service mark and HYPE CYCLE is a trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.​
+
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+
+Trusted worldwide for
+‍business continuity
+190
+of Fortune 500
+enterprises
+20
+of the top 40 Fortune 500 healthcare providers
+15
+of the top 60
+global banks
+48
+of the top 50 US local governments
+4
+of the top 5 US
+airlines
+Become a resilient
+‍organization, today
+Request a demo
+
+Learn why Absolute Security is the global leader in self-healing, intelligent security solutions.
+
+Request a demo
+Take the product tour
+
+See how Absolute Security works—interactive, fast, and no signup required.
+
+
+Tour the platform
+Products
+The Absolute Platform
+Compare Products
+System Requirements
+Release Updates
+Security Information
+
+Absolute for Home
+Solutions
+IT Solutions
+Security Solutions
+Enable The Business
+
+Use Cases
+Industries
+Education
+Financial Services
+Government
+Healthcare
+Legal
+
+Professional Services
+Public Safety
+Transportation
+
+Utilities
+Partners
+Our Partners
+Device Compatibility
+Become A Partner
+Partner Portal Login
+
+Resources
+Blog
+Resource Center
+Events & Webinars
+Customer Success Stories
+Support
+
+Absolute Community
+
+About
+About Absolute
+Leadership Team
+Investor Relations
+Press Releases
+In The News
+
+Legal
+Careers
+Contact
+©2025 Absolute Software Corporation. All rights reserved. Use of this website signifies your agreement to our Terms & Conditions and Privacy & Cookie Policy.
+‍
+Manage cookie preferences
+Need assistance?
+Language
+Privacy Policy
+Terms of Service
+Cookies Settings

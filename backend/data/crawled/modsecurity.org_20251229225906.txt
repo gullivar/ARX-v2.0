@@ -1,0 +1,74 @@
+Skip to content
+BLOG
+VIDEOS
+DOCUMENTATION
+DEVELOPERS
+FAQS
+DONATE
+OWASP
+MODSECURITY PROJECT
+Open Source Web Application Firewall
+
+ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the “Swiss Army Knife” of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.
+
+GET LATEST V2: 2.9.12 GET LATEST V3: 3.0.14
+The most widespread open source WAF
+
+Used by businesses, government organizations, internet service providers, and commercial WAF vendors alike on millions of domains all over the world. The engine, coupled with OWASP CRS - the dominant WAF rule set, undeniably raises the level of protection against HTTP attacks to a higher level.
+
+BECOME A PART OF IT!
+MODSECURITY UNDER OWASP'S CUSTODIANSHIP
+OWASP® Foundation, the leading open community dedicated to application security, is already responsible for the Core Rule Set, the dominant WAF rule set on the market. By joining the ModSecurity WAF to their repertoire, OWASP can now steer ModSecurity’s development with a holistic view, fostering even tighter integration between the core rule set and the underlying framework.
+GETTING STARTED
+USAGE SCENARIOS
+
+Real-time application security monitoring and access control
+Full HTTP traffic logging
+Continuous passive security assessment
+Web application hardening
+
+DOWNLOAD
+
+PRINCIPLES
+
+Flexibility
+Passiveness
+Predictability
+Quality over quantity
+
+GETTING STARTED
+COMMUNITY
+
+👋 Be part of a vibrant and welcoming community.
+
+🗺️ Join us on Slack for discussions, see GitHub for our projects, or follow us on Twitter.
+
+🤙 We are always looking for new contributors and developers.
+
+COMMUNITY
+LATEST BLOG POSTS
+Improper error handling: CVE-2025-54571 - 2025 August
+DoS vulnerability: CVE-2025-52891 - 2025 July
+DoS vulnerability: CVE-2025-48866 - 2025 June
+
+Blog
+
+All posts
+News
+
+Documentation
+
+Installing
+Configuration
+Support
+
+Sections
+
+Videos
+Developers
+FAQs
+Donate
+
+Copyright © 2025 Modsecurity Project. All Rights Reserved.
+
+Edit this page on GitHub

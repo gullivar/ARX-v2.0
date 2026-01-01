@@ -1,0 +1,102 @@
+Documentation
+Galaxy
+Forum
+Resources
+Ansible Automation Platform
+Ansible Collaborative
+A gathering space to build automation skills and success
+
+Welcome to the Ansible® Collaborative, a destination for Ansible users, customers, partners, and vendors to learn and share automation content.
+
+Join the Ansible forum
+Looking for the enterprise product?
+
+Learn about Red Hat® Ansible Automation Platform.
+
+What is Ansible?
+
+No matter your role, or your automation goals, Ansible can help you connect teams and deliver efficiencies.
+
+Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes. It is free to use, and the project benefits from the experience and intelligence of its thousands of contributors.
+
+Red Hat Ansible Automation Platform combines more than a dozen upstream projects into a unified, security-hardened enterprise platform for mission-critical automation. It builds on the foundation of the open source project to create an end-to-end automation experience for cross-functional teams.
+
+How Ansible works
+Automate Policy as Code for consistency and compliance
+
+Ansible’s automated Policy as Code capabilities will help you automate compliance and policy enforcement across the full operational life cycle that now includes AI—from creating automation to managing IT processes at scale. Join the Ansible Policy as Code advocacy group to learn best practices, share your ideas with others, and help to shape this technology as it develops.
+
+Customers
+Partners
+Learn Ansible skills
+Documentation
+Introduction to Ansible
+Start automating with Ansible
+Create a playbook
+Explore Ansible concepts
+Build an inventory
+Interactive labs
+Writing first Ansible playbook
+Intro to Ansible automation controller
+Get started with ansible-navigator
+Get started with ansible-builder
+Get started with Event-Driven Ansible and Ansible rulebooks
+Explore Red Hat Ansible Automation Platform learning materials and tools
+Ready to move from patchwork to platform?
+
+You already know the benefits of upstream Ansible tools. But if your organization is ready to take automation to the next level, it's time to consider Red Hat Ansible Automation Platform. It delivers more capabilities-like event-driven automation and generative AI-that reduce manual effort and increase efficiency, as well as enhanced security and end-to-end technical support.
+
+Get the details
+
+Ansible collections
+
+With Ansible Galaxy, you can jump-start your automation with pre-packaged roles and collections. Use this content in Ansible Playbooks to automate your work faster and improve productivity.
+
+Featured collections
+middleware_automation
+
+Build, deploy, and manage multi-cloud application infrastructure at scale by automating Kafka, WildFly, Infinispan, Keyclock and more with the Ansible Middleware Collections.
+
+Learn more
+kubernetes.core
+
+Automate the provisioning and maintenance of Kubernetes and OpenShift clusters as well as the management of applications with the kubernetes.core Collection.
+
+Learn more
+community.vmware
+
+Manage all your VMWare infrastructure, including vSphere, the Datacenters, Clusters and your Virtual Machines with the Ansible community.vmware Collection.
+
+Learn more
+Explore all collections on Ansible Galaxy
+Automation adoption
+
+Expanding automation in your organization requires expertise in both technology and culture. Red Hat excels in creating and supporting successful communities, and we can help you build yours.
+
+Learn how to build a CoE
+Ansible ecosystem
+
+The projects in the Ansible collaborative let you expand automation to an unlimited set of use cases.
+
+Ansible Core
+
+Learn about the Ansible programming language, automation tooling, and architectural framework.
+
+Read the docs
+Event-Driven Ansible
+
+Subscribe to event sources to scale automation and deliver more efficient IT operations.
+
+Read the docs
+Developer tools
+
+Use tooling to develop and test Ansible content for consistent, trusted automation.
+
+Read the docs
+View all projects
+
+© 2025 Red Hat
+
+About Red HatPrivacy statementTerms of useAll policies and guidelinesDigital accessibility Cookie preferences
+
+Sponsored by 

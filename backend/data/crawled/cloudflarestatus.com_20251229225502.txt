@@ -1,0 +1,1619 @@
+Support Log in Sign up
+Cloudflare System Status
+All Systems Operational
+About This Site
+
+Cloudflare provides performance and security to website owners via its intelligent global network. This is the system status for the Cloudflare service, both edge network and dashboard/APIs for management.
+
+Status information is also available through Cloudflare Status API here: https://www.cloudflarestatus.com/api.
+
+ Cloudflare Sites and Services ?
+Operational
+ Africa
+Accra, Ghana - (ACC)
+Partially Re-routed
+Algiers, Algeria - (ALG)
+Operational
+Annaba, Algeria - (AAE)
+Operational
+Antananarivo, Madagascar - (TNR)
+Operational
+Cape Town, South Africa - (CPT)
+Operational
+Dakar, Senegal - (DKR)
+Operational
+Dar Es Salaam, Tanzania - (DAR)
+Re-routed
+Djibouti City, Djibouti - (JIB)
+Re-routed
+Durban, South Africa - (DUR)
+Re-routed
+Gaborone, Botswana - (GBE)
+Operational
+Harare, Zimbabwe - (HRE)
+Operational
+Johannesburg, South Africa - (JNB)
+Operational
+Kigali, Rwanda - (KGL)
+Operational
+Lagos, Nigeria - (LOS)
+Operational
+Luanda, Angola - (LAD)
+Partially Re-routed
+Maputo, Mozambique - (MPM)
+Operational
+Mombasa, Kenya - (MBA)
+Partially Re-routed
+Nairobi, Kenya - (NBO)
+Operational
+Oran, Algeria - (ORN)
+Operational
+Ouagadougou, Burkina Faso - (OUA)
+Re-routed
+Port Louis, Mauritius - (MRU)
+Operational
+Tunis, Tunisia - (TUN)
+Operational
+Kinshasa, DR Congo - (FIH)
+Re-routed
+Cairo, Egypt - (CAI)
+Operational
+Windhoek, Namibia - (WDH)
+Re-routed
+Yamoussoukro, Ivory Coast - (ASK)
+Operational
+Abidjan, Ivory Coast - (ABJ)
+Re-routed
+Kampala, Uganda - (EBB)
+Operational
+Saint-Denis, Réunion - (RUN)
+Operational
+Dar es Salaam, Tanzania - (DAR)
+Operational
+Djibouti, Djibouti - (JIB)
+Operational
+Lusaka, Zambia - (LUN)
+Operational
+Addis Ababa, Ethiopia - (ADD)
+Re-routed
+Lilongwe, Malawi - (LLW)
+Re-routed
+Constantine, Algeria - (CZL)
+Operational
+ Asia
+Ahmedabad, India - (AMD)
+Operational
+Almaty, Kazakhstan - (ALA)
+Operational
+Bangalore, India - (BLR)
+Partially Re-routed
+Bangkok, Thailand - (BKK)
+Partially Re-routed
+Bandar Seri Begawan, Brunei - (BWN)
+Re-routed
+Cebu, Philippines - (CEB)
+Operational
+Chandigarh, India - (IXC)
+Partially Re-routed
+Changde, China - (CGD)
+Operational
+Chennai, India - (MAA)
+Operational
+Chittagong, Bangladesh - (CGP)
+Operational
+Colombo, Sri Lanka - (CMB)
+Operational
+Dhaka, Bangladesh - (DAC)
+Partially Re-routed
+Foshan, China - (FUO)
+Operational
+Fukuoka, Japan - (FUK)
+Operational
+Fuzhou, China - (FOC)
+Operational
+Guangzhou, China - (CAN)
+Operational
+Haikou, China - (HAK)
+Operational
+Hanoi, Vietnam - (HAN)
+Operational
+Hengshui, China - (SJW)
+Operational
+Ho Chi Minh City, Vietnam - (SGN)
+Operational
+Hong Kong - (HKG)
+Operational
+Hyderabad, India - (HYD)
+Operational
+Islamabad, Pakistan - (ISB)
+Re-routed
+Jakarta, Indonesia - (CGK)
+Operational
+Jinan, China - (TNA)
+Operational
+Johor Bahru, Malaysia - (JHB)
+Operational
+Kanpur, India - (KNU)
+Operational
+Kaohsiung City, Taiwan - (KHH)
+Operational
+Karachi, Pakistan - (KHI)
+Operational
+Kathmandu, Nepal - (KTM)
+Operational
+Kolkata, India - (CCU)
+Operational
+Krasnoyarsk, Russia - (KJA)
+Operational
+Kuala Lumpur, Malaysia - (KUL)
+Operational
+Langfang, China - (PKX)
+Operational
+Macau - (MFM)
+Operational
+Malé, Maldives - (MLE)
+Re-routed
+Manila, Philippines - (MNL)
+Partially Re-routed
+Mumbai, India - (BOM)
+Operational
+Nagpur, India - (NAG)
+Operational
+Naha, Japan - (OKA)
+Operational
+New Delhi, India - (DEL)
+Operational
+Osaka, Japan - (KIX)
+Operational
+Patna, India - (PAT)
+Operational
+Phnom Penh, Cambodia - (PNH)
+Partially Re-routed
+Qingdao, China - (TAO)
+Operational
+Seoul, South Korea - (ICN)
+Operational
+Shanghai, China - (SHA)
+Operational
+Singapore, Singapore - (SIN)
+Operational
+Surat Thani, Thailand - (URT)
+Operational
+Taipei - (TPE)
+Operational
+Tokyo, Japan - (NRT)
+Operational
+Ulaanbaatar, Mongolia - (ULN)
+Operational
+Vientiane, Laos - (VTE)
+Operational
+Xinyu, China - (KHN)
+Operational
+Yerevan, Armenia - (EVN)
+Operational
+Yogyakarta, Indonesia - (JOG)
+Operational
+Cagayan de Oro, Philippines - (CGY)
+Operational
+Kochi, India - (COK)
+Operational
+Denpasar, Indonesia - (DPS)
+Re-routed
+Kannur, India - (CNN)
+Operational
+Shenzhen, China - (SZX)
+Operational
+Guiyang, China - (KWE)
+Operational
+Shaoxing, China - (HGH)
+Operational
+Changzhou, China - (CZX)
+Operational
+Kunming, China - (KMG)
+Operational
+Chiang Mai, Thailand - (CNX)
+Operational
+Zhengzhou, China - (CGO)
+Operational
+Yangquan, China - (TYN)
+Operational
+Changsha, China - (CSX)
+Operational
+Dalian, China - (DLC)
+Operational
+Beihai, China - (BHY)
+Operational
+Chongqing, China - (CKG)
+Operational
+Xiangyang, China - (XFN)
+Operational
+Da Nang, Vietnam - (DAD)
+Operational
+Jiaxing, China - (JXG)
+Operational
+Tarlac City, Philippines - (CRK)
+Operational
+Thimphu, Bhutan - (PBH)
+Operational
+Baoji, China - (XIY)
+Operational
+Astana, Kazakhstan - (NQZ)
+Re-routed
+Nanning, China - (NNG)
+Operational
+Zibo, China - (TNA)
+Operational
+Kuching, Malaysia - (KCH)
+Operational
+Aktobe, Kazakhstan - (AKX)
+Operational
+Chengmai, China - (HAK)
+Operational
+Nanchang, China - (KHN)
+Operational
+Male, Maldives - (MLE)
+Operational
+Tongren, China - (TEN)
+Operational
+Taizhou, China - (HYN)
+Operational
+Shijiazhuang, China - (SJW)
+Operational
+Xining, China - (XNN)
+Operational
+Bishkek, Kyrgyzstan - (FRU)
+Operational
+Malang, Indonesia - (MLG)
+Operational
+Lahore, Pakistan - (LHE)
+Partially Re-routed
+Chengdu, China - (CTU)
+Operational
+Agra, India - (AGR)
+Re-routed
+Coimbatore, India - (CJB)
+Re-routed
+ Europe
+Amsterdam, Netherlands - (AMS)
+Operational
+Athens, Greece - (ATH)
+Operational
+Barcelona, Spain - (BCN)
+Operational
+Belgrade, Serbia - (BEG)
+Operational
+Berlin, Germany - (TXL)
+Operational
+Bratislava, Slovakia - (BTS)
+Operational
+Brussels, Belgium - (BRU)
+Operational
+Bucharest, Romania - (OTP)
+Operational
+Budapest, Hungary - (BUD)
+Operational
+Chișinău, Moldova - (KIV)
+Operational
+Copenhagen, Denmark - (CPH)
+Operational
+Dublin, Ireland - (DUB)
+Operational
+Düsseldorf, Germany - (DUS)
+Operational
+Frankfurt, Germany - (FRA)
+Operational
+Geneva, Switzerland - (GVA)
+Operational
+Gothenburg, Sweden - (GOT)
+Operational
+Hamburg, Germany - (HAM)
+Operational
+Helsinki, Finland - (HEL)
+Operational
+Istanbul, Turkey - (IST)
+Operational
+Izmir, Turkey - (ADB)
+Re-routed
+Kyiv, Ukraine - (KBP)
+Operational
+Lisbon, Portugal - (LIS)
+Partially Re-routed
+London, United Kingdom - (LHR)
+Operational
+Luxembourg City, Luxembourg - (LUX)
+Operational
+Madrid, Spain - (MAD)
+Operational
+Manchester, United Kingdom - (MAN)
+Operational
+Marseille, France - (MRS)
+Operational
+Milan, Italy - (MXP)
+Operational
+Minsk, Belarus - (MSQ)
+Operational
+Moscow, Russia - (DME)
+Operational
+Munich, Germany - (MUC)
+Operational
+Nicosia, Cyprus - (LCA)
+Operational
+Oslo, Norway - (OSL)
+Operational
+Palermo, Italy - (PMO)
+Operational
+Paris, France - (CDG)
+Operational
+Prague, Czech Republic - (PRG)
+Operational
+Reykjavík, Iceland - (KEF)
+Operational
+Riga, Latvia - (RIX)
+Operational
+Rome, Italy - (FCO)
+Operational
+Saint Petersburg, Russia - (LED)
+Operational
+Sofia, Bulgaria - (SOF)
+Operational
+Stockholm, Sweden - (ARN)
+Operational
+Stuttgart, Germany - (STR)
+Operational
+Tallinn, Estonia - (TLL)
+Operational
+Tbilisi, Georgia - (TBS)
+Operational
+Thessaloniki, Greece - (SKG)
+Operational
+Tirana, Albania - (TIA)
+Operational
+Vienna, Austria - (VIE)
+Operational
+Vilnius, Lithuania - (VNO)
+Operational
+Warsaw, Poland - (WAW)
+Operational
+Zagreb, Croatia - (ZAG)
+Operational
+Lyon, France - (LYS)
+Operational
+Bordeaux, France - (BOD)
+Operational
+Skopje, North Macedonia - (SKP)
+Re-routed
+Zurich, Switzerland - (ZRH)
+Operational
+Wroclaw, Poland - (WRO)
+Operational
+Santa Venera, Malta - (MLA)
+Re-routed
+ Latin America & the Caribbean
+Americana, Brazil - (QWJ)
+Operational
+Arica, Chile - (ARI)
+Re-routed
+Asunción, Paraguay - (ASU)
+Operational
+Belém, Brazil - (BEL)
+Operational
+Belo Horizonte, Brazil - (CNF)
+Operational
+Blumenau, Brazil - (BNU)
+Operational
+Bogotá, Colombia - (BOG)
+Re-routed
+Brasilia, Brazil - (BSB)
+Partially Re-routed
+Buenos Aires, Argentina - (EZE)
+Operational
+Caçador, Brazil - (CFC)
+Re-routed
+Campinas, Brazil - (VCP)
+Operational
+Córdoba, Argentina - (COR)
+Operational
+Curitiba, Brazil - (CWB)
+Operational
+Florianopolis, Brazil - (FLN)
+Operational
+Fortaleza, Brazil - (FOR)
+Partially Re-routed
+Georgetown, Guyana - (GEO)
+Operational
+Goiânia, Brazil - (GYN)
+Re-routed
+Guatemala City, Guatemala - (GUA)
+Operational
+Guayaquil, Ecuador - (GYE)
+Operational
+Joinville, Brazil - (JOI)
+Operational
+Juazeiro do Norte, Brazil - (JDO)
+Operational
+Lima, Peru - (LIM)
+Operational
+Manaus, Brazil - (MAO)
+Operational
+Medellín, Colombia - (MDE)
+Operational
+Neuquén, Argentina - (NQN)
+Re-routed
+Panama City, Panama - (PTY)
+Operational
+Paramaribo, Suriname - (PBM)
+Operational
+Porto Alegre, Brazil - (POA)
+Partially Re-routed
+Quito, Ecuador - (UIO)
+Operational
+Recife, Brazil - (REC)
+Operational
+Ribeirao Preto, Brazil - (RAO)
+Operational
+Rio de Janeiro, Brazil - (GIG)
+Operational
+San José, Costa Rica - (SJO)
+Operational
+Santiago, Chile - (SCL)
+Operational
+Santo Domingo, Dominican Republic - (SDQ)
+Operational
+São José do Rio Preto, Brazil - (SJP)
+Operational
+São José dos Campos, Brazil - (SJK)
+Operational
+São Paulo, Brazil - (GRU)
+Partially Re-routed
+Sorocaba, Brazil - (SOD)
+Operational
+Tegucigalpa, Honduras - (TGU)
+Operational
+Timbó, Brazil - (NVT)
+Re-routed
+Uberlândia, Brazil - (UDI)
+Re-routed
+Vitoria, Brazil - (VIX)
+Re-routed
+Campos dos Goytacazes, Brazil - (CAW)
+Re-routed
+Chapeco, Brazil - (XAP)
+Operational
+Bridgetown, Barbados - (BGI)
+Operational
+St. George's, Grenada - (GND)
+Re-routed
+Santiago de los Caballeros, Dominican Republic - (STI)
+Operational
+La Paz, Bolivia - (LPB)
+Operational
+San Juan, Puerto Rico - (SJU)
+Operational
+Barranquilla, Colombia - (BAQ)
+Operational
+Palmas, Brazil - (PMW)
+Operational
+Aracatuba, Brazil - (ARU)
+Operational
+Port of Spain, Trinidad and Tobago - (POS)
+Operational
+Salvador, Brazil - (SSA)
+Operational
+Timbo, Brazil - (NVT)
+Operational
+Neuquen, Argentina - (NQN)
+Operational
+Goiania, Brazil - (GYN)
+Operational
+Cuiaba, Brazil - (CGB)
+Operational
+Cacador, Brazil - (CFC)
+Operational
+Uberlandia, Brazil - (UDI)
+Operational
+Cali, Colombia - (CLO)
+Operational
+San Pedro Sula, Honduras - (SAP)
+Operational
+Bogota, Colombia - (BOG)
+Partially Re-routed
+Concepción, Chile - (CCP)
+Operational
+ Middle East
+Amman, Jordan - (AMM)
+Operational
+Astara, Azerbaijan - (LLK)
+Operational
+Baghdad, Iraq - (BGW)
+Partially Re-routed
+Baku, Azerbaijan - (GYD)
+Operational
+Basra, Iraq - (BSR)
+Operational
+Beirut, Lebanon - (BEY)
+Operational
+Dammam, Saudi Arabia - (DMM)
+Operational
+Doha, Qatar - (DOH)
+Operational
+Dubai, United Arab Emirates - (DXB)
+Operational
+Erbil, Iraq - (EBL)
+Operational
+Haifa, Israel - (HFA)
+Operational
+Jeddah, Saudi Arabia - (JED)
+Partially Re-routed
+Kuwait City, Kuwait - (KWI)
+Partially Re-routed
+Manama, Bahrain - (BAH)
+Operational
+Muscat, Oman - (MCT)
+Operational
+Najaf, Iraq - (NJF)
+Operational
+Nasiriyah, Iraq - (XNH)
+Operational
+Ramallah - (ZDM)
+Operational
+Riyadh, Saudi Arabia - (RUH)
+Operational
+Sulaymaniyah, Iraq - (ISU)
+Operational
+Tel Aviv, Israel - (TLV)
+Operational
+ North America
+Ashburn, VA, United States - (IAD)
+Operational
+Atlanta, GA, United States - (ATL)
+Operational
+Boston, MA, United States - (BOS)
+Operational
+Buffalo, NY, United States - (BUF)
+Operational
+Calgary, AB, Canada - (YYC)
+Operational
+Charlotte, NC, United States - (CLT)
+Operational
+Chicago, IL, United States - (ORD)
+Operational
+Columbus, OH, United States - (CMH)
+Operational
+Dallas, TX, United States - (DFW)
+Operational
+Denver, CO, United States - (DEN)
+Operational
+Detroit, MI, United States - (DTW)
+Operational
+Honolulu, HI, United States - (HNL)
+Operational
+Houston, TX, United States - (IAH)
+Operational
+Indianapolis, IN, United States - (IND)
+Operational
+Jacksonville, FL, United States - (JAX)
+Re-routed
+Kansas City, MO, United States - (MCI)
+Operational
+Las Vegas, NV, United States - (LAS)
+Operational
+Los Angeles, CA, United States - (LAX)
+Operational
+Memphis, TN, United States - (MEM)
+Operational
+Mexico City, Mexico - (MEX)
+Operational
+Miami, FL, United States - (MIA)
+Operational
+Minneapolis, MN, United States - (MSP)
+Operational
+Montréal, QC, Canada - (YUL)
+Operational
+Nashville, United States - (BNA)
+Operational
+Newark, NJ, United States - (EWR)
+Operational
+Norfolk, VA, United States - (ORF)
+Re-routed
+Omaha, NE, United States - (OMA)
+Operational
+Ottawa, Canada - (YOW)
+Operational
+Philadelphia, United States - (PHL)
+Operational
+Phoenix, AZ, United States - (PHX)
+Operational
+Pittsburgh, PA, United States - (PIT)
+Operational
+Portland, OR, United States - (PDX)
+Operational
+Queretaro, MX, Mexico - (QRO)
+Operational
+Richmond, VA, United States - (RIC)
+Operational
+Sacramento, CA, United States - (SMF)
+Operational
+Salt Lake City, UT, United States - (SLC)
+Operational
+San Diego, CA, United States - (SAN)
+Operational
+San Jose, CA, United States - (SJC)
+Operational
+Saskatoon, SK, Canada - (YXE)
+Operational
+Seattle, WA, United States - (SEA)
+Operational
+Sioux Falls, SD, United States - (FSD)
+Operational
+St. Louis, MO, United States - (STL)
+Operational
+Tallahassee, FL, United States - (TLH)
+Operational
+Toronto, ON, Canada - (YYZ)
+Operational
+Vancouver, BC, Canada - (YVR)
+Operational
+Winnipeg, MB, Canada - (YWG)
+Operational
+San Francisco, United States - (SFO)
+Operational
+Kingston, Jamaica - (KIN)
+Operational
+Bangor, United States - (BGR)
+Operational
+Austin, United States - (AUS)
+Operational
+Albuquerque, United States - (ABQ)
+Operational
+Guadalajara, Mexico - (GDL)
+Operational
+San Antonio, United States - (SAT)
+Operational
+Cleveland, United States - (CLE)
+Operational
+Durham, United States - (RDU)
+Operational
+Oklahoma City, United States - (OKC)
+Operational
+Tampa, United States - (TPA)
+Operational
+Anchorage, United States - (ANC)
+Re-routed
+Halifax, Canada - (YHZ)
+Operational
+ Oceania
+Operational
+Scheduled Maintenance
+GIG (Rio de Janeiro) on 2026-01-06
+Jan 6, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GIG (Rio de Janeiro) datacenter on 2026-01-06 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:51 UTC
+ARI (Arica) on 2026-01-06
+Jan 6, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in ARI (Arica) datacenter on 2026-01-06 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 11:57 UTC
+EZE (Buenos Aires) on 2026-01-06
+Jan 6, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in EZE (Buenos Aires) datacenter on 2026-01-06 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 11:51 UTC
+IAD (Ashburn) on 2026-01-06
+Jan 6, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-06 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:09 UTC
+UIO (Quito) on 2026-01-06
+Jan 6, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in UIO (Quito) datacenter on 2026-01-06 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:05 UTC
+DFW (Dallas) on 2026-01-06
+Jan 6, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-01-06 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:35 UTC
+DEN (Denver) on 2026-01-06
+Jan 6, 2026 09:00-13:00 UTC
+We will be performing scheduled maintenance in DEN (Denver) datacenter on 2026-01-06 between 09:00 and 13:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:33 UTC
+SJC (San Jose) on 2026-01-06
+Jan 6, 2026 10:00-14:00 UTC
+We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2026-01-06 between 10:00 and 14:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:19 UTC
+HKG (Hong Kong) on 2026-01-06
+Jan 6, 2026 18:00-23:00 UTC
+We will be performing scheduled maintenance in HKG (Hong Kong) datacenter on 2026-01-06 between 18:00 and 23:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 02:51 UTC
+ZAG (Zagreb) on 2026-01-07
+Jan 7, 2026 01:00-09:00 UTC
+We will be performing scheduled maintenance in ZAG (Zagreb) datacenter on 2026-01-07 between 01:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 19, 2025 - 09:40 UTC
+GIG (Rio de Janeiro) on 2026-01-07
+Jan 7, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GIG (Rio de Janeiro) datacenter on 2026-01-07 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:55 UTC
+SCL (Santiago) on 2026-01-07
+Jan 7, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2026-01-07 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 13:03 UTC
+GRU (São Paulo) on 2026-01-07
+Jan 7, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2026-01-07 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:05 UTC
+YYZ (Toronto) on 2026-01-07
+Jan 7, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in YYZ (Toronto) datacenter on 2026-01-07 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:35 UTC
+IAD (Ashburn) on 2026-01-07
+Jan 7, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-07 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:15 UTC
+DFW (Dallas) on 2026-01-07
+Jan 7, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-01-07 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:21 UTC
+AUS (Austin) on 2026-01-07
+Jan 7, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in AUS (Austin) datacenter on 2026-01-07 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:41 UTC
+ICN (Seoul) on 2026-01-07
+Jan 7, 2026 17:00-23:00 UTC
+We will be performing scheduled maintenance in ICN (Seoul) datacenter on 2026-01-07 between 17:00 and 23:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 10, 2025 - 18:28 UTC
+SCL (Santiago) on 2026-01-08
+Jan 8, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in SCL (Santiago) datacenter on 2026-01-08 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 16:36 UTC
+GRU (São Paulo) on 2026-01-08
+Jan 8, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2026-01-08 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:13 UTC
+BUF (Buffalo) on 2026-01-08
+Jan 8, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in BUF (Buffalo) datacenter on 2026-01-08 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:59 UTC
+IAD (Ashburn) on 2026-01-08
+Jan 8, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-08 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:25 UTC
+YYZ (Toronto) on 2026-01-08
+Jan 8, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in YYZ (Toronto) datacenter on 2026-01-08 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:37 UTC
+CLT (Charlotte) on 2026-01-08
+Jan 8, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in CLT (Charlotte) datacenter on 2026-01-08 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:05 UTC
+DFW (Dallas) on 2026-01-08
+Jan 8, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2026-01-08 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:41 UTC
+BNA (Nashville) on 2026-01-08
+Jan 8, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in BNA (Nashville) datacenter on 2026-01-08 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:57 UTC
+LAX (Los Angeles) on 2026-01-08
+Jan 8, 2026 10:00-14:00 UTC
+We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2026-01-08 between 10:00 and 14:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 12:37 UTC
+ICN (Seoul) on 2026-01-08
+Jan 8, 2026 17:00-23:00 UTC
+We will be performing scheduled maintenance in ICN (Seoul) datacenter on 2026-01-08 between 17:00 and 23:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 10, 2025 - 18:30 UTC
+GRU (São Paulo) on 2026-01-09
+Jan 9, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2026-01-09 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:17 UTC
+JAX (Jacksonville) on 2026-01-09
+Jan 9, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in JAX (Jacksonville) datacenter on 2026-01-09 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:14 UTC
+PIT (Pittsburgh) on 2026-01-09
+Jan 9, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in PIT (Pittsburgh) datacenter on 2026-01-09 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:34 UTC
+IAD (Ashburn) on 2026-01-09
+Jan 9, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-09 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:27 UTC
+DTW (Detroit) on 2026-01-09
+Jan 9, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in DTW (Detroit) datacenter on 2026-01-09 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:08 UTC
+MSP (Minneapolis) on 2026-01-09
+Jan 9, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in MSP (Minneapolis) datacenter on 2026-01-09 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:28 UTC
+MEM (Memphis) on 2026-01-09
+Jan 9, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in MEM (Memphis) datacenter on 2026-01-09 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 15:18 UTC
+STL (St. Louis) on 2026-01-09
+Jan 9, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in STL (St. Louis) datacenter on 2026-01-09 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 16:42 UTC
+GRU (São Paulo) on 2026-01-12
+Jan 12, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2026-01-12 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:19 UTC
+IAD (Ashburn) on 2026-01-12
+Jan 12, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-12 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:29 UTC
+TLH (Tallahassee) on 2026-01-12
+Jan 12, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in TLH (Tallahassee) datacenter on 2026-01-12 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 16:52 UTC
+QRO (Queretaro) on 2026-01-12
+Jan 12, 2026 08:00-12:00 UTC
+We will be performing scheduled maintenance in QRO (Queretaro) datacenter on 2026-01-12 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 17:00 UTC
+GRU (São Paulo) on 2026-01-13
+Jan 13, 2026 05:00-09:00 UTC
+We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2026-01-13 between 05:00 and 09:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:23 UTC
+IAD (Ashburn) on 2026-01-13
+Jan 13, 2026 07:00-11:00 UTC
+We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2026-01-13 between 07:00 and 11:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Posted on Dec 22, 2025 - 14:31 UTC
+Past Incidents
+Dec 29, 2025
+YUL (Montréal) on 2025-12-29
+Completed - The scheduled maintenance has been completed.
+Dec 29, 09:30 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 29, 06:00 UTC
+Scheduled - We will be performing scheduled maintenance in YUL (Montréal) datacenter on 2025-12-29 between 06:00 and 09:30 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 29, 04:12 UTC
+MAN (Manchester) on 2025-12-29
+Completed - The scheduled maintenance has been completed.
+Dec 29, 06:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 29, 01:45 UTC
+Scheduled - We will be performing scheduled maintenance in MAN (Manchester) datacenter on 2025-12-29 between 01:45 and 06:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 29, 01:36 UTC
+Dec 28, 2025
+
+No incidents reported.
+
+Dec 27, 2025
+
+No incidents reported.
+
+Dec 26, 2025
+
+No incidents reported.
+
+Dec 25, 2025
+
+No incidents reported.
+
+Dec 24, 2025
+
+No incidents reported.
+
+Dec 23, 2025
+Incorrect IP Geolocation on Cloudflare Dashboard
+Resolved - This incident has been resolved.
+Dec 23, 16:02 UTC
+Update - We are continuing to investigate this issue.
+Dec 23, 10:47 UTC
+Investigating - Cloudflare is aware of minor inaccuracies in geolocation data for a very limited number of IP addresses. This may result in some traffic being misidentified as "Unknown" or having an incorrect country/region assignment in the Cloudflare Dashboard.
+Dec 23, 10:42 UTC
+Network Route Leak in South America
+Resolved - This incident has been resolved.
+Dec 23, 07:07 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 23, 06:41 UTC
+Identified - The issue has been identified and a fix is being implemented.
+Dec 23, 06:32 UTC
+Investigating - One of Cloudflare's upstream transit providers experienced a route leak, affecting network performance in South America.
+
+We are working to mitigate impact to Internet users in this region.
+Dec 23, 05:54 UTC
+Dec 22, 2025
+STL (St. Louis) on 2025-12-22
+Completed - The scheduled maintenance has been completed.
+Dec 22, 22:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 22, 18:00 UTC
+Scheduled - We will be performing scheduled maintenance in STL (St. Louis) datacenter on 2025-12-22 between 18:00 and 22:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 22, 17:46 UTC
+Workers AI experiencing degraded availability in some models
+Resolved - This incident has been resolved.
+Dec 22, 16:39 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 22, 16:25 UTC
+Identified - The issue has been identified and a fix is being implemented.
+Dec 22, 15:38 UTC
+Investigating - Cloudflare is aware of and investigating Workers AI experiencing degraded availability in some models.
+
+Impacted models: 
+- @cf/openai/gpt-oss-120b
+- @cf/baai/bge-base-en-v1.5
+Dec 22, 14:59 UTC
+GRU (São Paulo) on 2025-12-22
+Completed - The scheduled maintenance has been completed.
+Dec 22, 10:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 22, 05:00 UTC
+Scheduled - We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2025-12-22 between 05:00 and 10:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 19, 09:08 UTC
+Elevated number of 5xx errors in BOM
+Resolved - Between 06:16-06:33 UTC, customers reaching Mumbai, IN, may have experienced an elevated number of 5xx errors and increased latency due to congestion.
+Dec 22, 06:16 UTC
+Dec 21, 2025
+
+No incidents reported.
+
+Dec 20, 2025
+Network Performance Issues
+Resolved - This incident has been resolved.
+Dec 20, 14:55 UTC
+Update - A fix has been implemented, and we are continuing to monitor the results.
+Dec 20, 11:39 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 19, 17:35 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 16:55 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 16:29 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 16:10 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 15:45 UTC
+Investigating - Cloudflare is investigating intermittent issues with network performance. Customers might observe unexpected errors. We are working to analyze and mitigate this problem. More updates to follow shortly.
+Dec 19, 15:06 UTC
+Dec 19, 2025
+MCI (Kansas City) on 2025-12-19
+Completed - The scheduled maintenance has been completed.
+Dec 19, 22:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 19, 10:00 UTC
+Scheduled - We will be performing scheduled maintenance in MCI (Kansas City) datacenter on 2025-12-19 between 10:00 and 22:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 18, 22:00 UTC
+Degradation in time to acquire Containers
+Resolved - This incident has been resolved.
+Dec 19, 17:49 UTC
+Investigating - We are investigating a degradation in the time it takes to acquire Containers.
+Dec 19, 17:23 UTC
+SEA (Seattle) on 2025-12-19
+Completed - The scheduled maintenance has been completed.
+Dec 19, 15:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 19, 10:00 UTC
+Scheduled - We will be performing scheduled maintenance in SEA (Seattle) datacenter on 2025-12-19 between 10:00 and 15:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 18, 14:48 UTC
+Network Performance Issues
+Resolved - This incident has been resolved.
+Dec 19, 13:55 UTC
+Update - We are continuing to monitor for any further issues
+Dec 19, 13:06 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 19, 12:34 UTC
+Update - Efforts to remediate and restore performance continue.
+Dec 19, 12:22 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 11:53 UTC
+Update - We are continuing to investigate this issue.
+Dec 19, 11:31 UTC
+Investigating - Cloudflare is investigating intermittent issues with network performance. Customers might observe unexpected errors. We are working to analyze and mitigate this problem. More updates to follow shortly.
+Dec 19, 11:19 UTC
+GRU (São Paulo) on 2025-12-19
+Completed - The scheduled maintenance has been completed.
+Dec 19, 10:01 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 19, 05:01 UTC
+Scheduled - We will be performing scheduled maintenance in GRU (São Paulo) datacenter on 2025-12-19 between 05:00 and 10:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 19, 01:22 UTC
+DUR (Durban) on 2025-12-19
+Completed - The scheduled maintenance has been completed.
+Dec 19, 07:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 19, 01:01 UTC
+Scheduled - We will be performing scheduled maintenance in DUR (Durban) datacenter on 2025-12-19 between 01:00 and 07:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 18, 09:42 UTC
+MAD (Madrid) on 2025-12-19
+Completed - The scheduled maintenance has been completed.
+Dec 19, 05:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 19, 01:01 UTC
+Scheduled - We will be performing scheduled maintenance in MAD (Madrid) datacenter on 2025-12-19 between 01:00 and 05:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 18, 14:48 UTC
+SIN (Singapore) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 19, 01:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 17:00 UTC
+Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter between 2025-12-18 17:00 and 2025-12-19 01:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 17, 17:31 UTC
+Dec 18, 2025
+DUR (Durban) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 22:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 20:00 UTC
+Scheduled - We will be performing scheduled maintenance in DUR (Durban) datacenter on 2025-12-18 between 20:00 and 22:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 18, 17:10 UTC
+Network Performance Issues in Haikou, China (HAK)
+Resolved - This incident has been resolved.
+Dec 18, 16:52 UTC
+Update - We are continuing to monitor for any further issues.
+Dec 18, 16:37 UTC
+Update - We are continuing to monitor for any further issues.
+Dec 18, 16:21 UTC
+Update - We are continuing to monitor for any further issues.
+Dec 18, 15:49 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 18, 15:39 UTC
+Update - We are continuing to investigate this issue.
+Dec 18, 15:05 UTC
+Investigating - Cloudflare is investigating issues with Network Performance in (HAK) Haikou, China.
+
+We are working to analyze and mitigate this problem. More updates will follow shortly.
+Dec 18, 15:04 UTC
+LAX (Los Angeles) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 15:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 09:00 UTC
+Scheduled - We will be performing scheduled maintenance in LAX (Los Angeles) datacenter on 2025-12-18 between 09:00 and 15:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 17, 15:48 UTC
+Cloudflare Zero Trust: Gateway Issues
+Resolved - This incident has been resolved.
+Dec 18, 14:13 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 18, 13:36 UTC
+Update - We are continuing to investigate this issue.
+Dec 18, 12:52 UTC
+Investigating - Cloudflare is investigating an issue causing increased latency for users connected to Cloudflare Gateway. The issue is in Sacramento - United States.
+
+We are working to understand the full impact and mitigate this problem. More updates to follow shortly.
+Dec 18, 12:15 UTC
+PDX (Portland) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 14:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 10:00 UTC
+Scheduled - We will be performing scheduled maintenance in PDX (Portland) datacenter on 2025-12-18 between 10:00 and 14:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 10, 18:38 UTC
+DFW (Dallas) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 12:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 08:01 UTC
+Scheduled - We will be performing scheduled maintenance in DFW (Dallas) datacenter on 2025-12-18 between 08:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 17, 13:42 UTC
+Network Error Logging Issues
+Resolved - Customers using our Last Mile Insights / Network Error Logging feature will observe missing report data between 2025-12-18 11:00 and 11:50 UTC due to an outage impacting the report delivery pipeline.
+Dec 18, 12:00 UTC
+DUR (Durban) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 08:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 01:00 UTC
+Scheduled - We will be performing scheduled maintenance in DUR (Durban) datacenter on 2025-12-18 between 01:00 and 08:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 13:10 UTC
+SOF (Sofia) on 2025-12-18
+Completed - The scheduled maintenance has been completed.
+Dec 18, 06:30 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 18, 00:30 UTC
+Scheduled - We will be performing scheduled maintenance in SOF (Sofia) datacenter on 2025-12-18 between 00:30 and 06:30 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 17, 02:44 UTC
+Elevated number of 5xx errors in MAD
+Resolved - Between 6:15-6:20 UTC, customers reaching Madrid, ES would have experienced an elevated number of 4xx/5xx errors and latency.
+Dec 18, 06:15 UTC
+SIN (Singapore) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 18, 02:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 17:01 UTC
+Update - We will be performing scheduled maintenance in SIN (Singapore) datacenter between 2025-12-17 17:00 and 2025-12-18 02:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 23:26 UTC
+Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter on 2025-12-17 between 17:00 and 20:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 23:18 UTC
+Dec 17, 2025
+Network Congestion
+Resolved - This incident has been resolved.
+Dec 17, 20:58 UTC
+Update - We are continuing to monitor for any further issues.
+Dec 17, 20:28 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 17, 20:23 UTC
+Investigating - Cloudflare is observing possible network congestion in the western North America. We are working to mitigate impact to Internet users in this region. Stream users may see elevated error rates in delivery and upload paths. Video upload or viewing requests may need to be retried due to server side errors.
+Dec 17, 19:55 UTC
+ZAG (Zagreb) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 17:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 14:00 UTC
+Scheduled - We will be performing scheduled maintenance in ZAG (Zagreb) datacenter on 2025-12-17 between 14:00 and 17:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 13:24 UTC
+Issues with DNS resolution in China
+Resolved - This incident has been resolved.
+Dec 17, 14:37 UTC
+Investigating - Cloudflare is aware of, and investigating issues with DNS resolution to incorrect Cloudflare IPs affecting multiple customers.
+
+We are working to analyze and mitigate this problem. More updates to follow shortly.
+Dec 17, 12:14 UTC
+YUL (Montréal) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 14:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 09:01 UTC
+Scheduled - We will be performing scheduled maintenance in YUL (Montréal) datacenter on 2025-12-17 between 09:00 and 14:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 17, 08:48 UTC
+SJC (San Jose) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 13:45 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 09:00 UTC
+Scheduled - We will be performing scheduled maintenance in SJC (San Jose) datacenter on 2025-12-17 between 09:00 and 13:45 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 15:10 UTC
+Network Performance Issues in Dallas
+Resolved - This incident has been resolved.
+Dec 17, 12:00 UTC
+Monitoring - A fix has been implemented and we are monitoring the results.
+Dec 17, 11:44 UTC
+Investigating - Cloudflare is investigating issues with Network Performance
+
+We are working to analyze and mitigate this problem. More updates to follow shortly.
+Dec 17, 10:35 UTC
+ATL (Atlanta) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 12:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 07:00 UTC
+Update - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2025-12-17 between 07:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 9, 16:29 UTC
+Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter between 2025-12-17 07:00 and 2025-12-18 00:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 9, 15:37 UTC
+FRA (Frankfurt) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 07:01 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 00:00 UTC
+Scheduled - We will be performing scheduled maintenance in FRA (Frankfurt) datacenter on 2025-12-17 between 00:00 and 07:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 14, 23:18 UTC
+HEL (Helsinki) on 2025-12-17
+Completed - The scheduled maintenance has been completed.
+Dec 17, 04:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 17, 00:01 UTC
+Scheduled - We will be performing scheduled maintenance in HEL (Helsinki) datacenter on 2025-12-17 between 00:00 and 04:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 15, 12:42 UTC
+SIN (Singapore) on 2025-12-16
+Completed - The scheduled maintenance has been completed.
+Dec 17, 01:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 16, 16:00 UTC
+Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter between 2025-12-16 16:00 and 2025-12-17 01:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 11, 07:58 UTC
+Dec 16, 2025
+Elevated number of 5xx errors in BKK
+Resolved - Between 14:36-14:44 UTC, customers reaching Bangkok, TH may have experienced an elevated number of 5xx errors.
+Dec 16, 14:30 UTC
+GraphQL Issues
+Resolved - This incident has been resolved.
+Dec 16, 13:53 UTC
+Identified - The issue has been identified and a fix is being implemented.
+Dec 16, 12:04 UTC
+Investigating - Cloudflare is aware of, and investigating an issue which potentially impacts multiple customers: Customers querying our GraphQL API may experience errors querying data.
+We are working to resolve the issue, more updates to follow shortly.
+Dec 16, 11:09 UTC
+Cache Purging Delays in Western Europe
+Resolved - This incident has been resolved.
+Dec 16, 13:09 UTC
+Investigating - Cloudflare single-file cache purging (purge by URL) called via the Dashboard/API is experiencing delays in the Western Europe region. We are working to resolve this issue as soon as possible. More updates to follow.
+Dec 16, 12:28 UTC
+ATL (Atlanta) on 2025-12-16
+Completed - The scheduled maintenance has been completed.
+Dec 16, 12:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 16, 07:00 UTC
+Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2025-12-16 between 07:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 9, 16:29 UTC
+Increased Error Rates Accessing R2 from ENAM
+Resolved - This incident has been resolved.
+Dec 16, 11:52 UTC
+Update - We are continuing to investigate this issue.
+Dec 16, 08:55 UTC
+Investigating - We are currently investigating an issue where users accessing R2 and dependent services from ENAM will see an increase in HTTP 5xx error responses.
+Dec 16, 08:55 UTC
+LHR (London) on 2025-12-16
+Completed - The scheduled maintenance has been completed.
+Dec 16, 08:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 16, 00:30 UTC
+Scheduled - We will be performing scheduled maintenance in LHR (London) datacenter on 2025-12-16 between 00:30 and 08:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 16, 00:22 UTC
+NQN (Neuquen) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 16, 04:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 04:00 UTC
+Scheduled - We will be performing scheduled maintenance in NQN (Neuquen) datacenter between 2025-12-15 04:00 and 2025-12-16 04:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 15, 03:14 UTC
+BOM (Mumbai) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 16, 01:01 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 20:30 UTC
+Scheduled - We will be performing scheduled maintenance in BOM (Mumbai) datacenter between 2025-12-15 20:30 and 2025-12-16 01:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 15, 17:44 UTC
+SIN (Singapore) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 16, 01:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 16:00 UTC
+Scheduled - We will be performing scheduled maintenance in SIN (Singapore) datacenter between 2025-12-15 16:00 and 2025-12-16 01:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 11, 07:58 UTC
+Dec 15, 2025
+AUS (Austin) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 15, 17:30 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 12:30 UTC
+Scheduled - We will be performing scheduled maintenance in AUS (Austin) datacenter on 2025-12-15 between 12:30 and 17:30 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 10, 18:26 UTC
+ATL (Atlanta) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 15, 12:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 07:00 UTC
+Scheduled - We will be performing scheduled maintenance in ATL (Atlanta) datacenter on 2025-12-15 between 07:00 and 12:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 9, 15:35 UTC
+IAD (Ashburn) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 15, 11:30 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 04:30 UTC
+Update - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2025-12-15 between 04:30 and 11:30 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 12, 10:16 UTC
+Scheduled - We will be performing scheduled maintenance in IAD (Ashburn) datacenter on 2025-12-15 between 04:30 and 09:30 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 12, 08:00 UTC
+ARN (Stockholm) on 2025-12-15
+Completed - The scheduled maintenance has been completed.
+Dec 15, 05:00 UTC
+In progress - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Dec 15, 01:00 UTC
+Scheduled - We will be performing scheduled maintenance in ARN (Stockholm) datacenter on 2025-12-15 between 01:00 and 05:00 UTC.
+
+Traffic might be re-routed from this location, hence there is a possibility of a slight increase in latency during this maintenance window for end-users in the affected region. For PNI / CNI customers connecting with us in this location, please make sure you are expecting this traffic to fail over elsewhere during this maintenance window as network interfaces in this datacentre may become temporarily unavailable.
+
+You can now subscribe to these notifications via Cloudflare dashboard and receive these updates directly via email, PagerDuty and webhooks (based on your plan): https://developers.cloudflare.com/notifications/notification-available/#cloudflare-status.
+Dec 10, 08:40 UTC
+Network Connectivity Degradation in Mumbai
+Resolved - Between 4:10 and 4:47 UTC today, 2025-12-15, customers may have observed network connectivity degradation for traffic through our Mumbai (BOM) facility.
+Dec 15, 04:00 UTC
+← Incident History
+Powered by Atlassian Statuspage
+What We Do
+Plans
+About Us
+App Services
+Network
+Community
+Case Studies
+Blog
+Partners
+Developers
+Support
+Help Center
+Community
+Contact Us
+About Us
+Team
+Careers
+Press
+Legal
+Connect
+Twitter
+Facebook
+LinkedIn
+Instagram

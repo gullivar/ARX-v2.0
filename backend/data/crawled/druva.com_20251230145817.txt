@@ -1,0 +1,307 @@
+___
+Platform
+Solutions
+Customers
+Resources
+Partners
+Company
+Get Started
+Search queries sent to third parties.
+Support
+Login
+Cyber Resilience,
+Simplified
+
+We’ve got you covered with no complexity and no compromise! Druva’s true cloud-native, 100% SaaS platform practically runs itself, delivering unmatched cyber resilience, automated threat response, and recovery in an instant. Rest easy, your data’s safe with us.
+
+Free Trial
+Take a Tour
+Druva is a 2025 Gartner® Magic Quadrant™ Leader
+Get the Report
+
+
+
+Transforming real-world security intelligence into cyber resilience.
+
+Visit ReconX Labs
+Ransomware
+Recovery Hub
+Recover Faster
+Tired of
+Veeam
+Jenga?
+See the Difference
+Druva Data Security Cloud
+
+Secure All Your Data & Workloads with Just One Cloud Native Solution
+
+Data Protection
+eDiscovery & Compliance
+Cyber Response & Recovery
+Sensitive Data Governance
+Bounce back from cyber attacks with data that is always safe and ready.
+Secure by
+Design
+MDDR with
+24x7 Monitoring
+Auto-tuning
+& Self-Healing
+Gen AI
+Assisted
+Out of Box
+Integrations
+7B+
+
+Backups / year
+
+$10M
+
+Data Resilience Guarantee
+
+91
+
+Certified NPS
+
+21
+
+Global Regions
+
+450PB+
+
+Data Under Management
+
+Ideal for Every Enterprise Use Case
+
+Secure SaaS Apps with Ease
+
+Respond & Recover Quickly Across Clouds
+
+Govern Sensitive Data with Confidence
+
+Streamline Data Center & M&A Migrations
+
+Ensure Compliance with End User Governance
+
+Simplify Data Center & Remote Office Management
+
+Cyber Resilience, Enterprise-Grade
+
+One vendor, one true cloud-native data security platform. Backup, protection, fast recovery, and AI-driven data insights? Covered. Built on proven cloud infrastructure? Check. A frictionless SaaS model that runs itself? Absolutely. No silos, no stress, just total control.
+
+Savings
+
+Save big, work less. Scale on demand and slash costs by up to 40% compared to clunky legacy backup. Only pay for the storage you use, and say goodbye to hidden fees!
+
+See How Customers Achieve 224% ROI
+Security
+
+Spot risks fast, respond faster, and bounce back to clean data. With end-to-end encryption, air-gapped backups, SIEM/SOAR integrations, and proactive alerts — detect, respond, and recover effortlessly.
+
+Explore Our $10M Guarantee
+Simplicity
+
+No infrastructure or maintenance needed. Get always-on security, scalable storage, and seamless recovery — no complex management required.
+
+Legacy Headaches? You Deserve Better!
+Druva for Everyone
+Druva for IT
+Druva for Security
+Druva for Compliance
+Make data security a no-brainer
+
+Cut costs, secure your systems, and never worry about recoverability again. With
+the cloud, deploy fully in just minutes and scale as you grow. Plus, with centralized
+management, monitor all your data from just one menu and say goodbye to juggling
+10 apps at a time. Protect your org and level up with Druva now!
+
+Secure it all in just minutes
+Hear From Our Customers
+End-user & endpoint protection
+10 hours management / week saved
+25 fewer IT tickets / month
+Read the case study
+Accelerate incident response
+$100K annual savings for VMware and Windows data
+Threat Hunting for proactive cybersecurity
+Read the case study
+Meet global compliance needs
+2,000+ PCs fully secured for end-users
+Recovery, legal hold, and eDiscovery across devices
+Read the case study
+Microsoft, AWS, & SaaS workloads
+2,000+ Microsoft 365 users’ data secured
+98% faster file share restore and 30% less TCO
+Read the case study
+Data centers & remote offices
+2 hours for full VM restore
+10 minutes / day to manage backups (vs. hours with Commvault)
+Read the case study
+Cross, public & hybrid cloud
+5x storage savings across clouds (Azure, VMware, Windows, NAS, SQL)
+24 hours for full ransomware recovery
+Read the case study
+End-user & endpoint protection
+10 hours management / week saved
+25 fewer IT tickets / month
+Read the case study
+Accelerate incident response
+$100K annual savings for VMware and Windows data
+Threat Hunting for proactive cybersecurity
+Read the case study
+Meet global compliance needs
+2,000+ PCs fully secured for end-users
+Recovery, legal hold, and eDiscovery across devices
+Read the case study
+Microsoft, AWS, & SaaS workloads
+2,000+ Microsoft 365 users’ data secured
+98% faster file share restore and 30% less TCO
+Read the case study
+Data centers & remote offices
+2 hours for full VM restore
+10 minutes / day to manage backups (vs. hours with Commvault)
+Read the case study
+Cross, public & hybrid cloud
+5x storage savings across clouds (Azure, VMware, Windows, NAS, SQL)
+24 hours for full ransomware recovery
+Read the case study
+Leading the Industry Forward
+Druva Recognized as a 2025 Gartner® Peer Insights™ Customers' Choice
+
+Explore Druva's peer ratings in the 2025 Voice of the Customer report.
+
+See the analyst report
+Druva is a Strong Performer in The Forrester Wave™: Data Resilience Solutions, Q4 2024
+
+See how Druva stacks up versus the competition as the only pure SaaS vendor.
+
+See the analyst report
+G2 Comparison: Druva Security Cloud vs. Veeam Data Platform
+
+Hear from G2 reviewers about their experiences with both Druva and Veeam.
+
+See the analyst report
+Gartner® Magic Quadrant™ for Enterprise Backup & Recovery Software Solutions
+
+Druva is a 2025 Gartner® Magic Quadrant™ Leader
+
+See the analyst report
+Got 5 Minutes?
+
+Experience the data security cloud platform firsthand
+
+Take a Tour
+Contact Us
+Druva Data Security Cloud
+Overview
+Plans & Pricing
+Trust Center
+Meet Dru: Action Made Simple | Investigate & Respond to Cyber Threats
+The Druva Platform
+Autonomous Protection
+Rapid Response
+Guaranteed Recovery
+Data Protection
+Public Cloud Backup
+Hybrid Cloud Backup
+SaaS Apps Data Protection
+Cyber Response & Recovery
+Accelerated Ransomware Recovery
+Security Posture & Observability
+Managed Data Detection & Response
+eDiscovery & Compliance
+Sensitive Data Governance
+eDiscovery & Legal Hold
+Cloud Archive & Retention
+Modernize Data Protection
+Protect multi-cloud deployments
+Reduce Cost & Complexity
+End User Protection
+SaaS Apps Data Protection
+Local Backup and Recovery
+Druva vs. Veeam: See the SaaS Advantage
+Accelerate Data Security
+Cyber Recovery Readiness
+Threat Hunting
+Sensitive Data Governance
+eDiscovery & Legal Hold
+Public Sector
+Financial Services
+Managed Data Detection & Response
+Assess Cyber Resilience
+Key Technologies
+AWS
+Amazon EC2
+Amazon RDS
+Microsoft & Azure
+Azure VM
+Microsoft 365
+Microsoft 365 Backup Express
+Microsoft Dynamics 365
+Microsoft Entra ID
+Microsoft SQL
+Google Workspace
+Salesforce
+End User Protection
+VMware
+Hyper-V
+Nutanix
+SAP HANA
+Oracle
+NAS/files
+Customers
+Customers
+Resources
+Analyst Research
+Cloud Data Protection
+Datasheets
+Data Resilience
+Product Demos
+eBooks
+Glossary of Terms
+Infographics
+Ransomware Recovery
+Solution Briefs
+Tipsheets
+Videos
+White Papers
+Partners
+AWS
+Dell
+Microsoft
+Security Integrations
+Technology Partners
+Partner+ Program
+Managed Service Providers
+Company
+Company
+Investors
+Leadership
+Corporate Responsibility
+Inclusion
+Blog
+Careers
+Newsroom
+Events
+Privacy Policy
+Modern Slavery Act
+Legal and Compliance
+
+Americas
+
+1-800-375-0160
+
+EMEA
+
++44 (0) 20 3750 9440
+
+More regions
+
+Contact us
+
+© 2025 Druva Inc. and/or its affiliates. All rights reserved. Various trademarks held by their respective owners.
+Privacy Policy | SaaS Backup Privacy Policy | Disclosure Policy | Cookie Policy | Terms of Use | Deutsch |
+
+By using this site, you agree with our use of cookies.
+Manage Settings
+Accept
+Decline

@@ -1,0 +1,530 @@
+Skip to main content
+Notification Message
+Hai Agentic - Smarter AI for Faster Risk Reduction |
+
+Learn More
+User account menu
+Login
+Leaderboard
+Contacted by a hacker?
+Main navigation
+Platform
+Bug Bounty
+
+Continuous Researcher-led Testing
+
+Pentest as a Service
+
+Programmatic, On-demand Pentests
+
+Response
+
+Vulnerability Disclosure Program (VDP)
+
+Challenge
+
+Time-bound Offensive Testing
+
+AI Red Teaming
+
+Testing AI for Safety & Security
+
+Code
+
+Expert Code Review and Guidance
+
+Platform Overview
+Why HackerOne
+Hai Agentic AI
+Data and Analytics
+Hai Triage
+Live Hacking Events
+Integrations
+Services
+Researcher Community
+Solutions
+Use Cases
+Adversarial Exposure Validation
+AI Security, Safety & Trust
+Application Security
+Cloud Security
+Continuous Security Testing
+Continuous Vulnerability Discovery
+Crowdsourced Security
+CTEM
+Vulnerability Management
+Web3
+Industries
+Automotive & Transportation
+Crypto & Blockchain
+Financial Services
+Public Sector
+Healthcare
+Retail & E-Commerce
+Hospitality & Entertainment
+US Federal
+UK Government
+Heading
+The Future of AI
+Sub Heading
+A Security Guide
+CTA Component
+Download now
+Partners
+Partner Overview
+Technology Alliance
+Hackerone and AWS
+Find A Channel Partner
+Partner Portal
+Integration Partners
+Researchers
+HackerOne for Hackers
+Learn to hack
+Ambassador World Cup
+Opportunities
+Leaderboard
+Researcher Community
+Resources
+Heading
+Research Report
+Sub Heading
+Benchmarks & insights from 500K vulnerability reports.
+CTA Component
+Download the Report
+Events
+Event Calendar
+Live Hacking Events
+Ambassador World Cup
+Learn
+Blog
+Resource Center
+Customer Stories
+Vulnerability Disclosure Policy Map
+Platform Documentation
+Company
+Company Overview
+Why HackerOne
+Leadership
+Careers
+Security & Trust
+Public Policy
+Newsroom
+Get Started
+Secure at scale with humans + AI
+
+Reduce risk continuously with AI and human-verified threat exposure management that uncovers, validates, and prioritizes your most critical vulnerabilities.
+
+Get Started
+Explore the Platform
+Image
+We protect the world's top innovators.
+
+Our partnerships are rooted in trust, powered by innovation, and deliver measurable impact.
+
+Customer Story
+How Snap is pioneering AI with HackerOne AI Red Teaming
+Read Snap's story
+Customer Story
+Adobe's formula for staying ahead of risk, with HackerOne's global research community
+Read Adobe's story
+The HackerOne Platform
+One platform for continuous exposure reduction
+
+AI and human insight working together to continuously find, validate, and help you fix the vulnerabilities that matter.
+
+AI Red Teaming
+Test and secure your AI systems against security, safety, and trust issues.
+Bug Bounty
+Uncover novel and elusive vulnerabilities missed by other controls with continuous researcher-led testing.
+Code
+Catch vulnerabilities earlier in development with AI and expert human review.
+Pentest as a Service
+Access methodology-based pentesting with real-time insights and reporting.
+Challenge
+Discover critical vulnerabilities with focused, time-bound offensive testing.
+Response
+Manage and resolve vulnerabilities with the industry’s leading Vulnerability Disclosure Program (VDP).
+Hai
+HackerOne’s agentic AI system that turns vulnerability noise into validated, prioritized, and remediated outcomes, helping security teams reduce risk at scale.
+What's new at HackerOne
+Image
+Agentic AI: The Future of Exposure Management
+Read Now
+Image
+Research Report
+The 9th annual Hacker-Powered Security Report
+Download the Report
+Image
+Guide
+Securing the Future of AI
+Get the free guide
+Numbers that speak for themselves
+$4M+
+ROI
+
+per critical vulnerability before breach
+
+1
+critical vulnerability
+
+found every hour
+
+210%
+increase
+
+in AI vulnerability reports in 2025
+
+90%
+of customers
+
+have Hai AI agent enabled
+
+600k+
+bugs
+
+found & more discovered every day
+
+1300+
+companies
+
+trust HackerOne
+
+Success Stories
+Hear what our customers have to say
+
+Over the past decade, [HackerOne has] built an ecosystem that values customer and researcher feedback. Their pace of innovation, particularly in AI features, has been impressive.
+
+Jim Higgins
+Chief Information Security Officer @ Snap Inc.
+
+The program with HackerOne has surfaced the most interesting results across all of our AI testing and is by far the most cost-effective.
+
+Anonymous Security Leader
+San Francisco based AI Research and Development company
+
+Hai gives us actionable suggestions that have eliminated busy work, so we can complete tasks faster and think strategically about continuously improving our overall cybersecurity posture.
+
+Clara Andress
+Bug Bounty Operations Manager, Zoom
+
+At TikTok, we always want to be proactive rather than reactive. We aim to shift left, finding bugs at an early stage to ensure the safety of our environment before it goes live.
+
+Suhana Hyder
+Vulnerability Management Leader, TikTok
+
+Security is at the core of everything Coinbase does. HackerOne is essential to our ability to build a strong community and safe customers through engaging and rewarding the best ethical security researchers.
+
+Philip Marten
+VP of Security, Coinbase
+
+Adobe's products are more secure thanks to our security team's collaboration with HackerOne and the security researchers we get to work with.
+
+Jeff Sass
+Senior Engineering Manager - Product Security and Incident Response, Adobe
+
+We see the bug bounty program as a permanent part of our security program. Our developers are blown away by the ingenuity of the researchers.
+
+Neil Matatall
+Security Engineer, GitHub
+
+Every organization has blind spots. Having the hacker community on the other side of the screen looking at those things you’ve missed means you can close those holes.
+
+Matt Southworth
+CISO, Priceline
+Get in touch
+Speak with a security expert
+
+We can help you detect and resolve vulnerabilities before they are exploited. 
+
+*
+First Name:
+*
+Last Name:
+*
+Business Email:
+*
+Company:
+*
+Job Title:
+*
+What is your security objective?
+Select...
+Identify and remediate vulnerabilities faster
+Fix security issues during development
+Scale my organization's security operations or skillsets
+Prove compliance
+Eliminate cloud misconfigurations
+Something else
+I don't work in security
+*
+Country:
+Select...
+United States
+United Kingdom
+Canada
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Cape Verde
+Cayman Islands
+Central African
+Chad
+Chile
+China
+Clipperton Island
+Colombia
+Comoros
+Congo
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Fiji
+Finland
+France
+French Guiana
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guatemala
+Guinea
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kosovo
+Kuwait
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Martinique
+Mauritania
+Mauritius
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Navassa Island
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Romania
+Russia
+Russian Federation
+Rwanda
+Saba
+Saint Barthelemy
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Eustatius
+Sint Maarten
+Slovakia
+Slovenia
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sandwich Islands
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+Uruguay
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Zambia
+Zimbabwe
+We will handle your contact details in line with our Privacy Policy. If you prefer not to receive marketing emails from us, you can opt-out of all marketing communications or customize your preferences here!
+Submit
+Image
+Security Researchers
+Hack for Good
+
+Earn money, learn skills, be at the forefront of innovative technology:
+
+Compete and collaborate with top ethical hackers
+Earn rewards, while making the internet a safer place
+Build your skills at live events
+Start hacking
+Visit the leaderboard
+Contacted by a hacker?
+Menu 1
+Company
+Leadership
+Careers
+Partners
+Newsroom
+Contact Us
+Menu 2
+Knowledge Center
+Application Security
+Penetration Testing
+AI Red Teaming
+Hacking
+Cybersecurity Attacks
+CTEM
+Menu 3
+Resources
+Blog
+Documentation
+Leaderboard
+Partner Portal
+Resources
+Facebook
+X
+Linkedin
+Instagram
+Menu Bottom
+Cookie Preferences
+Policies
+Terms
+Privacy
+Security
+Trust
+This site uses cookies and related technologies, as described in our privacy policy, for purposes that may include site operation, analytics, enhanced user experience, or advertising. You may choose to consent to our use of these technologies, or manage your own preferences.
+OK Cookie Settings
+
+Privacy Policy
+Right Reserved
+©2025 HackerOne All rights reserved.

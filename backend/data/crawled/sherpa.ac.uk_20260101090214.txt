@@ -1,0 +1,17 @@
+Sherpa services is now Jisc's open policy finder
+
+Find the new site here:
+
+https://openpolicyfinder.jisc.ac.uk
+
+API users
+
+We are currently working on building a new API solution, however our APIs are still accessible at the legacy Sherpa endpoints.
+
+API documentation
+
+Need to get in touch?
+
+Email our team with the subject header 'Jisc open policy finder' and we will get back to you.
+
+help@jisc.ac.uk

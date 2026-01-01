@@ -1,0 +1,62 @@
+Search RFCs
+Advanced Search
+RFC Editor
+
+The RFC Series
+
+The RFC Series (ISSN 2070-1721) contains technical and organizational documents about the Internet, including the specifications and policy documents produced by five streams: the Internet Engineering Task Force (IETF), the Internet Research Task Force (IRTF), the Internet Architecture Board (IAB), Independent Submissions, and Editorial.
+
+Browse the RFC Index
+
+HTML (ascending) • HTML (descending) • TXT • XML
+Note: These files are large.
+
+Browse RFCs by Status
+
+Official Internet Protocol Standards
+
+Best Current Practice
+
+Informational • Experimental • Historic
+
+Uncategorized (Early RFCs)
+
+• • • • •
+
+RFC Status Changes
+
+
+
+The Series
+Document Retrieval
+Errata
+FAQ
+Format Change FAQ
+History
+About Us
+Other Information
+For Authors
+Publication Process
+Publication Queue
+Style Guide
+I-D Author Resources
+Independent Submissions
+Mailing Lists
+
+rfc-dist@rfc-editor.org is for RFC publication announcements. rfc-interest@rfc-editor.org is for discussion of the RFC series and related functions.
+
+Sponsor
+ Recent RFCs
+RFC 9847: IANA Registry Updates for TLS and DTLS
+RFC 9886: DRIP Entity Tags (DETs) in the Domain Name System
+RFC 9899: Extensions to the YANG Data Model for Access Control Lists (ACLs)
+RFC 9911: Common YANG Data Types
+RFC 9909: Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Stateless Hash-Based Digital Signature Algorithm (SLH-DSA)
+RFC 9937: Proportional Rate Reduction (PRR)
+RFC 9902: A YANG Data Model for IS-IS Segment Routing over the MPLS Data Plane
+RFC 9903: A YANG Data Model for OSPF Segment Routing over the MPLS Data Plane
+RFC 9887: Terminal Access Controller Access-Control System Plus (TACACS+) over TLS 1.3
+RFC 9900: Updates to NETCONF Transport Port Numbers
+
+IAB • IANA • IETF • IRTF • ISE • ISOC • IETF Trust
+Reports • Privacy Statement • Site Map • Contact Us

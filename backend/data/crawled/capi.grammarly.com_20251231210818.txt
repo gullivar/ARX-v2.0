@@ -1,0 +1,4 @@
+HTTP ERROR 404 No endpoint GET /.
+URI:	http://capi.grammarly.com/
+STATUS:	404
+MESSAGE:	No endpoint GET /.

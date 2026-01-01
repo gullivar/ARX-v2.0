@@ -1,0 +1,69 @@
+An official website of the United States government
+Here's how you know 
+OFFICIAL U.S. TIME
+
+ALASKA STANDARD TIME
+AKST (UTC-9)
+	07:03:48 A.M.
+ALEUTIAN STANDARD TIME
+HAST (UTC-10)
+	06:03:48 A.M.
+HAWAII STANDARD TIME
+HST (UTC-10)
+	06:03:48 A.M.
+SAMOA STANDARD TIME
+SST (UTC-11)
+	05:03:48 A.M.
+CHAMORRO STANDARD TIME
+CHST (UTC+10)
+	02:03:48 A.M.
+	
+ 
+PACIFIC STANDARD TIME
+PST (UTC-8)
+	08:03:48 A.M.
+MOUNTAIN STANDARD TIME
+MST (UTC-7)
+	09:03:48 A.M.
+CENTRAL STANDARD TIME
+CST (UTC-6)
+	10:03:48 A.M.
+EASTERN STANDARD TIME
+EST (UTC-5)
+	11:03:48 A.M.
+ARIZONA MOUNTAIN
+STANDARD TIME
+MST (UTC-7)
+	09:03:48 A.M.
+	
+24-Hour Clock Display
+
+Coordinated Universal Time (UTC)
+
+16:03:48
+
+UTC IS ALWAYS DISPLAYED AS A 24-HOUR CLOCK.
+
+Your Device's Clock (UTC+9)
+
+
+Today: 12/31/2025
+
+01:03:45 A.M.
+
+Your clock is off by:
+-2.024 s
+
+ATLANTIC STANDARD TIME
+PUERTO RICO / US VIRGIN ISLANDS
+AST (UTC-4)
+	12:03:48 P.M.
+About/Contact
+FAQ
+ = DAYLIGHT SAVING TIME NOT OBSERVED
+
+CLOCKS ARE CORRECTED FOR NETWORK DELAY
+
+	
+Privacy Statement  Privacy Policy  Security Notice  Accessibility Statement  NIST Privacy Program  NIST No Fear Act Policy  Navy No Fear Act Policy  Disclaimer  NIST FOIA  Navy FOIA  Environmental Policy Statement  Cookie Disclaimer  Scientific Integrity Summary  NIST Information Quality Standards
+ 

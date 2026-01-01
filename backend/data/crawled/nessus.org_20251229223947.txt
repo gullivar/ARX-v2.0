@@ -1,0 +1,274 @@
+Skip to Main Navigation
+Skip to Main Content
+Skip to Footer
+Platform
+Products
+Solutions
+Why Tenable
+Resources
+Partners
+Support
+Company
+contact_icon
+Try
+Buy
+Products
+Nessus
+Tenable Nessus®
+The first tool in your cybersecurity toolbox
+
+Expose and close weaknesses across your constantly changing attack surface with the industry’s most trusted vulnerability assessment solution.
+
+Try Tenable Nessus for free
+Unlimited vulnerability assessments you can use anywhere
+Know
+your vulnerabilities
+
+Identify software flaws, missing patches, and misconfigurations across operating systems, devices, and applications with fast, accurate scans that eliminate blind spots.
+
+Expose
+the threats that matter
+
+Cut through the noise by highlighting the vulnerabilities that pose the greatest risk, with built-in compliance checks, CVSS and EPSS risk scoring, and easy-to-read reports to guide focus.
+
+Close
+the gaps faster
+
+Move from findings to fixes with clear remediation guidance and streamlined collaboration between IT and security teams to reduce risk quickly.
+
+The global gold standard in vulnerability assessment
+Nessus Professional
+Unlimited IT vulnerability assessments
+Vulnerability scoring with CVSS v4, EPSS and VPR (for Top 10 Vulns)
+Configuration, compliance and security audits
+Use anywhere
+Configurable reports
+Community support
+Advanced support (available as an option)
+On-demand training (available as an option)
+Web application scans (5 FQDNs with the option to add more)
+External attack surface scans
+Try
+Buy
+Learn more
+Nessus Expert
+Unlimited IT vulnerability assessments
+Vulnerability scoring with CVSS v4, EPSS and VPR (for Top 10 Vulns)
+Configuration, compliance and security audits
+Use anywhere
+Configurable reports
+Community support
+Advanced support (available as an option)
+On-demand training (available as an option)
+Web application scans (5 FQDNs with the option to add more)
+External attack surface scans
+Try
+Buy
+Learn more
+Tenable Nessus ranks at the top
+#1
+in accuracy
+Nessus has the industry's lowest false positive rate with six-sigma accuracy.
+
+*.32 defects per 1 million scans
+
+Try now
+#1
+in coverage
+Nessus has the deepest and broadest vulnerability coverage in the industry.
+See how
+#1
+in adoption
+Nessus is trusted by tens of thousands of organizations, with 2 million downloads worldwide.
+Learn more
+#1
+in hearts and minds
+Don't just take our word for it. Security practitioners around the world put their trust in Nessus.
+See more
+
+See how Nessus compares to other solutions on the market.
+
+Nessus is #1 For Vulnerability Assessment
+
+From the beginning, we've worked hand-in-hand with the security community. We continuously optimize Nessus based on community feedback to make it the most accurate and comprehensive vulnerability assessment solution in the market. Twenty-five years later and we're still laser focused on community collaboration and product innovation to provide the most accurate and complete vulnerability data — so you don't miss critical issues which could put your organization at risk.
+
+Today, Nessus is trusted by tens of thousands of organizations worldwide as one of the most widely deployed security technologies on the planet — and the gold standard for vulnerability assessment.
+
+See for yourself - explore the product here
+
+113K+
+CVEs
+295,000+
+plugins
+100+
+new plugins
+released weekly
+
+Tenable’s Zero Day Research provides 24/7 updates into new and emergent vulnerabilities so you’ll always have full situational awareness.
+
+Tenable Nessus reviews
+Tenable is the only vendor to be named a Customers’ Choice in the 2025 Gartner® Peer Insights™ Voice of the Customer for Vulnerability Assessment
+
+Read the Report
+Explore the reviews
+Built by practitioners
+
+Nessus is built from the ground-up with a deep understanding of how security practitioners work. Every feature in Nessus is designed to make vulnerability assessment simple, easy and intuitive. The result: less time and effort to assess, prioritize and remediate issues. Learn more about the features here.
+
+Deploy on any platform
+
+You can deploy Nessus on a variety of platforms, including Raspberry Pi. Nessus is there with you, no matter where you are, where you’re headed or how distributed your environment is.
+
+Read the press release
+
+Efficiency and accuracy
+Zero in on threats that matter most
+Pre-built policies and templates
+Customizable reporting & troubleshooting
+Live results
+Ease of use
+Grouped view
+Key use cases for Nessus
+
+Nessus is the world’s No. 1 vulnerability scanning solution. Learn how Tenable customers put it to work in a range of critical situations.
+
+Network pen tester
+Cybersecurity education programs faculty and students
+Consultant
+SMB Security admin
+Network pen testers play a unique role in the IT security ecosystem.
+
+Before executing full breach simulations, pen testers use Nessus first to find where those major vulnerabilities are hiding.
+
+Read more
+
+To learn more about Nessus features and functionality, visit our Nessus documentation page.
+To learn more about purchasing options, please contact your preferred reseller or visit our online store.
+
+Nessus Professional—
+Built for security professionals like you
+
+Get the world’s most widely deployed vulnerability assessment solution.
+
+Try for free
+Buy Nessus Pro
+
+Buy a multi-year license and save. Add Advanced Support for access to phone, community and chat support 24 hours a day, 365 days a year.
+
+Select your license
+
+Buy a multi-year license and save.
+
+ 1 Year - $4,390
+ 2 Years - $8,560.50 (Save )
+ 3 Years - $12,511.50 (Save )
+Add support and training
+ Advanced Support - $400
+
+24x365 Access to phone, email, community, and chat support. More info.
+
+ On-Demand Training - $275
+
+1 Year Access to the Nessus Fundamentals On-Demand Video Course for 1 person. More info.
+
+Buy now
+Renew an existing license
+Find a reseller
+Customers rely on Nessus to stay safe
+American Eagle Outfitters
+Virtustream
+World Wide Technology
+Learn more
+Nessus Professional data sheet
+Download the data sheet
+Nessus frequently asked questions
+Visit the FAQ
+Nessus Expert data sheet
+Download the data sheet
+Related products
+Tenable One Exposure Management Platform
+
+Improve attack prevention with less effort.
+
+Request a demo
+
+
+Data sheet
+Tenable Vulnerability Management
+
+Close vulnerability exposures with the world’s #1 Vulnerability Management solution.
+
+Try for free
+
+
+Data sheet
+Tenable Security Center
+
+Identify and prioritize vulnerabilities based on risk to your business. Managed on premises.
+
+Request a demo
+
+
+Data sheet
+Tenable Nessus
+Featured products
+Tenable One Exposure Management Platform
+Tenable Cloud Security (CNAPP)
+Tenable Cloud Vulnerability Management
+Tenable CIEM
+Tenable Vulnerability Management
+Tenable Security Center
+Tenable Web App Scanning
+Tenable Patch Management
+Tenable Enclave Security
+Tenable Attack Surface Management
+Tenable Nessus
+Tenable AI Exposure
+Tenable OT Security
+Tenable Identity Exposure
+View all
+Featured solutions
+Active Directory
+Building management systems
+Cloud security posture management
+Compliance
+Exposure management
+Banks and financial services
+Generative AI
+Healthcare
+Hybrid cloud security
+IT/OT
+Ransomware
+State / Local / Education
+US federal
+Vulnerability management
+Zero trust
+View all
+Customer resources
+Resource library
+Exposure management resources
+Community & support
+Customer education
+Tenable Research
+Documentation
+Cybersecurity guide
+Why Tenable
+Trust
+System status
+Connections
+Blog
+Contact us
+Careers
+Investors
+Tenable Ventures
+Events
+Media
+Privacy policy
+Do not sell/share my personal information
+Legal
+508 compliance
+
+© 2025 Tenable®, Inc. All rights reserved
+
+×
+Contact our sales team

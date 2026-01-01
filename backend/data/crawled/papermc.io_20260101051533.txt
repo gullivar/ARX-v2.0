@@ -1,0 +1,66 @@
+ 
+Software 
+Paper
+Folia
+Velocity
+Waterfall 
+Plugins  Docs  News Team Contribute
+  
+Modern software.
+Built to perform.
+
+PaperMC improves Minecraft's ecosystem with fast, secure software and an expanding plugin API, providing quick releases and helpful support as the most widely used, performant, and stable software available.
+
+Downloads Documentation
+$
+Your server deserves the best.
+Paper
+
+Paper is a Minecraft game server based on Spigot, designed to greatly improve performance and offer more advanced features and API.
+
+Velocity
+
+Velocity is a high-performance, scalable Minecraft proxy server that allows players to connect to multiple Minecraft servers under the proxy.
+
+Folia
+
+Folia is a new fork of Paper that adds regionized multithreading to the server allowing for better performance and scalability.
+
+A diverse plugin ecosystem
+
+Crafted by the PaperMC team & contributors, Hangar is our own dedicated plugin repository, now in open beta! A place for developers to host their creations, and server owners to enrich their player's gameplay. From Administration Tools, to Minigames, you'll find it all on Hangar.
+
+Check out Hangar
+Powering players
+
+PaperMC's software powers hundreds of thousands of Minecraft servers on a daily basis, from small single-servers setups to massive Minecraft server networks. Designed with utility and performance in mind, it can handle whatever you throw at it.
+
+The promise of stability
+
+Our software is designed with security and stability in mind. We have consistently been among the first to fix vulnerabilities in the Minecraft space for years, so you can rest assured that PaperMC software is a good choice.
+
+Getting Started
+Downloads
+Documentation
+Javadocs
+Community
+Our Community
+GitHub
+Discord
+Forums
+Twitter
+PaperMC
+Our Team
+Contribute
+Sponsors
+News
+Hangar
+Terms
+Terms
+Privacy Policy
+Legal Notice
+Hangar Terms
+Hangar Privacy Policy
+Community Guidelines
+© 2025 The PaperMC Team PaperMC/website @ 695a984
+This website is not an official Minecraft website and is not associated with Mojang Studios or Microsoft. All product and company names are trademarks or registered trademarks of their respective holders. Use of these names does not imply any affiliation or endorsement by them.

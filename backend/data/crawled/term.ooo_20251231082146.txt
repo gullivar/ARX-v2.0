@@ -1,0 +1,4 @@
+Descubra as palavras certas. Depois de cada
+ tentativa, as peças mostram o quão perto você está da solução. Descubra a palavra certa em 6 tentativas.
+ Depois de cada tentativa, as peças mostram o quão perto você está da solução. T U R M A A letra T faz parte da palavra e está na
+  posição correta. V I O L A A letra O faz parte da palavra mas em outra posição. P U L G A A letra G não faz parte da palavra. Os acentos são preenchidos automaticamente, e não são considerados nas dicas. As palavras podem possuir letras repetidas. Uma palavra nova aparece a cada dia.

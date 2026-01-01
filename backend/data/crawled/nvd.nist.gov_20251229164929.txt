@@ -1,0 +1,134 @@
+   An official website of the United States government Here's how you know 
+ NVD MENU
+Information Technology Laboratory
+NATIONAL VULNERABILITY DATABASE
+General
+Expand or Collapse
+Vulnerabilities
+Expand or Collapse
+Vulnerability Metrics
+Expand or Collapse
+Products
+Expand or Collapse
+Developers
+Expand or Collapse
+Contact NVD
+Other Sites
+Expand or Collapse
+Search
+Expand or Collapse
+
+New Communications Page
+
+CVSS v4.0 Support
+
+2.0 APIs
+
+The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics.
+
+For information on how to cite the NVD, including the database's Digital Object Identifier (DOI), please consult NIST's Public Data Repository.
+
+
+Legal Disclaimer:
+
+Here is where you can read the NVD legal disclaimer.
+
+Last 20 Scored Vulnerability IDs & Summaries
+CVSS Severity
+
+CVE-2023-53971 - WebTareas 2.4 contains a file upload vulnerability that allows authenticated users to upload malicious PHP files through the chat photo upload functionality. Attackers can upload a PHP file with arbitrary code to the /files/Messages/ directory and... read CVE-2023-53971
+Published: December 22, 2025; 5:16:02 PM -0500
+
+CVE-2021-47715 - Hasura GraphQL 1.3.3 contains a server-side request forgery vulnerability that allows attackers to inject arbitrary remote schema URLs through the add_remote_schema endpoint. Attackers can exploit the vulnerability by sending crafted POST requests... read CVE-2021-47715
+Published: December 22, 2025; 5:15:59 PM -0500
+
+CVE-2021-47713 - Hasura GraphQL 1.3.3 contains a denial of service vulnerability that allows attackers to overwhelm the service by crafting malicious GraphQL queries with excessive nested fields. Attackers can send repeated requests with extremely long query strin... read CVE-2021-47713
+Published: December 22, 2025; 5:15:58 PM -0500
+
+CVE-2023-53944 - EasyPHP Webserver 14.1 contains a path traversal vulnerability that allows remote users with low privileges to access files outside the document root by bypassing SecurityManager restrictions. Attackers can send GET requests with encoded directory... read CVE-2023-53944
+Published: December 18, 2025; 3:15:53 PM -0500
+
+CVE-2023-53941 - EasyPHP Webserver 14.1 contains an OS command injection vulnerability that allows unauthenticated attackers to execute arbitrary system commands by injecting malicious payloads through the app_service_control parameter. Attackers can send POST req... read CVE-2023-53941
+Published: December 18, 2025; 3:15:52 PM -0500
+
+CVE-2023-53970 - Screen SFT DAB 600/C Firmware 1.9.3 contains a weak session management vulnerability that allows attackers to bypass authentication controls by reusing IP-bound session identifiers. Attackers can exploit the vulnerable deviceManagement API endpoin... read CVE-2023-53970
+Published: December 22, 2025; 5:16:01 PM -0500
+
+CVE-2023-53969 - Screen SFT DAB 600/C firmware 1.9.3 contains a session management vulnerability that allows attackers to bypass authentication controls by exploiting IP address session binding. Attackers can reuse the same IP address and issue unauthorized reques... read CVE-2023-53969
+Published: December 22, 2025; 5:16:01 PM -0500
+
+CVE-2023-53967 - Screen SFT DAB 600/C firmware 1.9.3 contains an authentication bypass vulnerability that allows attackers to change the admin password without requiring the current credentials. Attackers can exploit the userManager.cgx API endpoint by sending a c... read CVE-2023-53967
+Published: December 22, 2025; 5:16:01 PM -0500
+
+CVE-2023-53968 - Screen SFT DAB 600/C Firmware 1.9.3 contains a session management vulnerability that allows attackers to bypass authentication controls by exploiting IP address session binding. Attackers can reuse the same IP address and issue unauthorized reques... read CVE-2023-53968
+Published: December 22, 2025; 5:16:01 PM -0500
+
+CVE-2023-7328 - Screen SFT DAB 600/C firmware versions up to and including 1.9.3 contain an improper access control on the user management API allows unauthenticated requests to retrieve structured user data, including account names and connection metadata such a... read CVE-2023-7328
+Published: November 14, 2025; 6:15:43 PM -0500
+
+V3.1: 5.3 MEDIUM
+
+
+CVE-2005-10004 - Cacti versions prior to 0.8.6-d contain a remote command execution vulnerability in the graph_view.php script. An authenticated user can inject arbitrary shell commands via the graph_start GET parameter, which is improperly handled during graph re... read CVE-2005-10004
+Published: August 30, 2025; 10:15:32 AM -0400
+
+V3.1: 8.8 HIGH
+
+
+CVE-2023-53974 - D-Link DSL-124 ME_1.00 contains a configuration file disclosure vulnerability that allows unauthenticated attackers to retrieve router settings through a POST request. Attackers can send a specific POST request to the router's configuration endpoi... read CVE-2023-53974
+Published: December 22, 2025; 5:16:02 PM -0500
+
+CVE-2023-53980 - ProjectSend r1605 contains a remote code execution vulnerability that allows attackers to upload malicious files by manipulating file extensions. Attackers can upload shell scripts with disguised extensions through the upload.process.php endpoint ... read CVE-2023-53980
+Published: December 22, 2025; 5:16:03 PM -0500
+
+CVE-2025-56086 - OS Command Injection vulnerability in Ruijie RG-EW1200 EW_3.0(1)B11P227_EW1200_11130208RG-EW1200 V1.00 allowing attackers to execute arbitrary commands via a crafted POST request to the module_get in file /usr/local/lua/dev_sta/networkConnect.lua.
+Published: December 11, 2025; 1:16:20 PM -0500
+
+CVE-2025-56085 - OS Command Injection vulnerability in Ruijie RG-EW1200 EW_3.0(1)B11P227_EW1200_11130208RG-EW1200 V1.00 allowing attackers to execute arbitrary commands via a crafted POST request to the module_set in file /usr/local/lua/dev_config/config_retain.lua.
+Published: December 11, 2025; 1:16:20 PM -0500
+
+CVE-2025-56087 - OS Command Injection vulnerability in Ruijie RG-BCR RG-BCR600W allowing attackers to execute arbitrary commands via a crafted POST request to the run_tcpdump in file /usr/lib/lua/luci/controller/admin/common_tcpdump.lua.
+Published: December 11, 2025; 1:16:20 PM -0500
+
+CVE-2025-56107 - OS Command Injection vulnerability in Ruijie RG-BCR RG-BCR600W allowing attackers to execute arbitrary commands via a crafted POST request to the submit_wifi in file /usr/lib/lua/luci/controller/admin/common_quick_config.lua.
+Published: December 11, 2025; 2:15:56 PM -0500
+
+CVE-2025-56096 - OS Command Injection vulnerability in Ruijie RG-BCR RG-BCR600W allowing attackers to execute arbitrary commands via a crafted POST request to the restart_modules in file /usr/lib/lua/luci/controller/admin/common.lua.
+Published: December 11, 2025; 2:15:55 PM -0500
+
+CVE-2025-56082 - OS Command Injection vulnerability in Ruijie RG-BCR RG-BCR600W allowing attackers to execute arbitrary commands via a crafted POST request to the check_changes in file /usr/lib/lua/luci/controller/admin/common.lua.
+Published: December 11, 2025; 1:16:20 PM -0500
+
+CVE-2025-56077 - OS Command Injection vulnerability in Ruijie RG-RAP2200(E) 247 2200 allowing attackers to execute arbitrary commands via a crafted POST request to the module_set in file /usr/local/lua/dev_sta/nbr_cwmp.lua.
+Published: December 11, 2025; 1:16:20 PM -0500
+
+Created September 20, 2022 , Updated August 27, 2024
+X
+(link is external)
+ 
+facebook
+(link is external)
+ 
+linkedin
+(link is external)
+ 
+youtube
+(link is external)
+ 
+rss
+ 
+govdelivery
+(link is external)
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+(301) 975-2000
+
+Webmaster | Contact Us | Our Other Offices
+Incident Response Assistance and Non-NVD Related
+Technical Cyber Security Questions:
+US-CERT Security Operations Center
+Email: soc@us-cert.gov
+Phone: 1-888-282-0870
+
+Site Privacy | Accessibility | Privacy Program | Copyrights | Vulnerability Disclosure | No Fear Act Policy | FOIA | Environmental Policy | Scientific Integrity | Information Quality Standards | Commerce.gov | Science.gov | USA.gov

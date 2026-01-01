@@ -1,0 +1,117 @@
+ Csper
+Pricing
+Products 
+Blog
+Docs
+Login
+Start Free Trial
+Secure Content Security Policy
+
+The most advance set of Content Security Policy tools. Built for engineers who care deeply about user security.
+
+Start Free Trial Pricing
+
+Why Use Csper?
+
+Csper makes deploying and monitoring Content Security Policy a breeze. With automated tools and actionable insights, you'll be protecting your users in no time.
+
+Policy Generator
+
+Generate a Content Security Policy in minutes with our browser extensions, then view the results on Csper.
+
+ View on Chrome Extension Store View on Firefox Addon Store
+
+Content Security Policy (CSP) Generator Browser Extension.
+
+Features
+
+Advance features to help you deploy and monitor CSP in minutes.
+
+Report Grouping
+
+Similar reports are automatically grouped together — no more sifting through thousands or millions of individual violation reports.
+
+Report Classifier
+
+The report classifier allows you to filter out the reports that don't matter, such as extensions and bots.
+
+Realtime
+
+View your reports as they are happening. Sub-second realtime events allow you to act faster.
+
+Alerts
+
+Get alerted on suspicious violation reports or when there's a spike of reports.
+
+Policy Evaluator
+
+Get security recommendations and insights on your policies to stay up to date with the latest best practices.
+
+Automatic Policy Generator
+
+Csper automatically generates secure policies based on previously seen reports.
+
+Scan a website for CSP
+
+Csper will check if the website has Content Security Policy enabled.
+
+Scan website
+What is Content Security Policy?
+
+Content Security Policy (CSP) is a security feature built into all the major web browsers that helps website owners keep their users safe from attacks such as Cross Site Scripting.
+
+Historical it's been difficult to setup and use Content-Security-Policy correctly[1]. But now with Csper it's easier than ever.
+
+Top Articles
+
+Not sure what Content Security Policy is? Read the articles on best practices
+
+An Introduction To Content Security Policy
+
+This article is a very introductory background to Content Security Policy, it is intended for individuals who have some technical experience, but have never dug into content security policy.
+
+Getting Started with Content Security Policy using NodeJS/Express and Csper
+
+This guide covers building and installing content security policy (CSP) on a nodejs express server. This guide covers content security policy, generating a content security policy, report-uri, inline scripts, and deployment.
+
+Other Security Features of Content Security Policy
+
+Other security features of content security policy including upgrade-insecure-requests, block-all-mixed-content, frame-ancestors, sandbox, form-actions, and more.
+
+Find out why over 30,000 websites are using Csper
+
+Start Free TrialView pricing
+
+Csper LLC 2019-2025
+
+Making security easy by data driven insights
+
+Made with ♥ in NYC, along with dmarcdefender.io
+
+Company
+
+Pricing
+About Us
+Privacy
+Terms
+
+
+Products
+
+Report Collector
+Policy Generator
+Policy Evaluator
+
+Resources
+
+Docs
+Blog
+FAQs
+Badges
+
+
+Contact
+
+Contact
+Demo
+@csper_io

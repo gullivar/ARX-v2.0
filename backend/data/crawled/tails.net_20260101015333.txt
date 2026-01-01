@@ -1,0 +1,19 @@
+Tails - Home Skip to main content Tails Search Donate Free the internet Support tools that break the chains of censorship and surveillance. Donate to the Tor Project today. Donate now Home How Tails works Install Tails Documentation Support News Home English Català Deutsch Español Français Italiano Português Русский Improve translations Home Tails is a portable operating system that protects against surveillance and censorship. Avoid surveillance, censorship, advertising, and viruses Tails uses the Tor network to protect your privacy online and help you avoid
+censorship. Enjoy the Internet like it should be. Your secure computer anywhere Shut down the computer and start on your Tails USB
+stick instead of starting on Windows, macOS, or Linux. Tails leaves no trace on the computer when shut down. Digital security toolbox Tails includes a selection of applications to work on sensitive documents and communicate
+securely. Everything in Tails is ready-to-use and has safe defaults. Free Software You can download Tails for free and independent security researchers can verify our
+work. Tails is based on Debian GNU/Linux. How Tails works Install Tails Who uses Tails Activists use Tails to hide their identities, avoid censorship, and communicate
+securely. Journalists and their sources use Tails to publish sensitive information
+and access the Internet from unsafe places. Domestic violence survivors use Tails to escape surveillance at home. You whenever you need extra privacy
+in this digital world. Recommended by Tails is part of the Tor
+Project , a global nonprofit developing tools for online privacy and
+anonymity. To better protect you, the same people are building the Tor
+network, the Tor Browser , and Tails. Tor Project and Tails joined forces in 2024. If you look at the way post-2013 whistleblowers have been caught,
+it is clear the absolute most important thing you can do to maintain
+your anonymity is reduce the number of places in your operational
+activity where you can make mistakes. Tor and Tails still do precisely
+that. — Edward Snowden , NSA whistleblower One of the most robust ways of using the Tor network is through a
+dedicated operating system that enforces strong privacy- and
+security-protective defaults. That operating system is Tails. — EFF , Electronic Frontier Foundation Supporters The Tor Project is funded by donations from people like you and
+organizations that support Internet freedom. Meet our
+supporters. English Català Deutsch Español Français Italiano Português Русский Improve translations Tails Home How Tails works Install Tails Documentation Support News Support FAQs Known issues Warnings Security advisories Accessibility Upgrade Contribute Contribute Report an error Translate Source code GitLab Donate About us Contact Mission and values Social contract Supporters Code of conduct License Jobs News Subscribe to our newsletter Subscribe Tails is made by the Tor Project .

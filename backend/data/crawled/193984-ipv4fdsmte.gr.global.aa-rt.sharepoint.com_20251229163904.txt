@@ -1,0 +1,1 @@
+Farm uris with the host in the path are not allowed.

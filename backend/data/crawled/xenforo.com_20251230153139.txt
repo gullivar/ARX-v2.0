@@ -1,0 +1,179 @@
+Features
+Solutions
+Community
+Account
+Help
+Demo
+Pricing
+XenForo® logo
+Compelling Community Platform
+There is no better platform upon which to grow your community.
+Try a free demo Buy XenForo Cloud Buy XenForo self-hosted
+Some of our clients
+ScrewFix Direct Ltd.
+IGN Entertainment, Inc
+Unity Technologies
+Tom's Hardware
+MSI
+TFN, LLC.
+Engage your customers with the premium community experience.
+Take advantage of our unrivaled reliability, flexible deployment and data security.
+Engage your audience
+Provide a forum where your customers can interact with you.
+
+They will tell you what they like, and how you could do better.
+
+Crowd-source support
+Lighten the load on your support team.
+
+Customers can answer each others' questions and share their experience.
+
+Provide a safe space
+You are the master of your own data.
+
+Your customers will be reassured that their information is not being sold off to big tech.
+
+Recover content
+User-generated content is priceless.
+
+Allow it to be easily found again, any time. Yesterday's facts are no less valuable than today's.
+
+Share knowledge
+Discussions on your forum contain a wealth of information.
+
+Assemble your content into an invaluable knowledge base for your subject matter.
+
+Build your own
+Leverage state-of-the-art software architecture.
+
+Create rich integrations and add-on systems to your own specification.
+
+Ready to try XenForo?
+Start your community Find out more
+XenForo add-on products
+Tools to get even more out of the ultimate community solution
+Media Gallery
+A complete media manager for XenForo
+
+The XenForo Media Gallery provides a central hub for users to upload, manage, organize, share and exhibit their media, including video.
+
+Media can be tagged and assigned to albums and showcases making full use of the rich discussion features native to XenForo.
+
+See an example >
+
+Resource Manager
+Organize downloads, tutorials, and more
+
+The XenForo Resource Manager allows your community to organize downloads, tutorials, guides, and more.
+
+XenForo's powerful discussion features provide a place to give feedback, ask questions, and interact with the resource author.
+
+See an example >
+
+Enhanced Search
+Better results, faster searches
+
+By employing a state-of-the-art engine, XenForo Enhanced Search improves all aspects of your community's search experience.
+
+Even if you have many millions of posts, search results will be returned in a flash.
+
+Buy XenForo add-on products
+Highlights from our community
+Announcing XenForo Cloud
+
+Jun 2, 2021 by XenForo in Announcements
+
+Submit your site to the official customer showcase!
+
+Jul 2, 2021 by Kier in Forum showcase and critiques
+
+XenForo 2.2.6 Patch 2 and Add-On Updates Released
+
+Jul 7, 2021 by XenForo in Announcements
+
+New video series: Building with XenForo 2
+
+May 4, 2021 by XenForo in Have you seen...?
+
+XenForo architecture in ten minutes
+
+May 17, 2021 by XenForo in Have you seen...?
+
+XenForo Insights Episode 7 'Communicating with your users' now available on YouTube
+
+Jul 1, 2021 by XenForo in Announcements
+
+Forum and thread types
+
+Jun 17, 2020 by XenForo in Have you seen...?
+
+Article thread and forum updates and improvements
+
+Aug 6, 2020 by XenForo in Have you seen...?
+
+Progressive web app
+
+Jun 8, 2020 by XenForo in Have you seen...?
+
+Activity summary email
+
+Jun 10, 2020 by XenForo in Have you seen...?
+
+Text editor and attachment manager improvements
+
+Jun 15, 2020 by XenForo in Have you seen...?
+
+What's new for developers in XF 2.2?
+
+Jun 19, 2020 by XenForo in Have you seen...?
+
+Keep your users involved
+
+Make it easy for your users to get notified with updates that are applicable to them. They'll receive alerts whenever someone replies to them, reacts to one of their posts, and more. Users can even have notifications pushed to their devices so they can see them without being on your site.
+
+Discover new content
+
+Make sure your users can see the latest updates on your forum with the dedicated "What's new" section or by browsing the news feed to see all of the latest happenings, beyond just the messages being posted.
+
+More than just likes
+
+Let your users react to posts with more than just a like. They could be laughing, surprised, upset, or more. Setup reactions for any sentiment you want, with a custom icon and color for each reaction. Let reactions contribute to a score to help you identify your most engaging users.
+
+Control access your way
+
+Use XenForo's powerful permission system to control who can access certain areas and features. Create a forum that only project members can access. Prevent a troublemaker from posting in a specific forum. XenForo can be setup to fit your needs.
+
+Styled to fit your brand
+
+XenForo's look and feel can be totally customized to fit your brand. Quickly change the colors and logo to make your site directly from the control panel, no code changes necessary. Want more control? All of the HTML and CSS can be customized.
+
+Built to be extended
+
+XenForo has been built from the ground up to be extended and customized. Our community has released over 1000 add-ons. Or if you want to build something yourself, you can use our REST API or build your custom functions directly into the XenForo framework, taking advantage of all of the systems that are built in.
+
+Explore XenForo's features
+Buy XenForo Try a demo
+ @XenForo  XenForo
+Products
+Forum
+Media gallery
+Resource manager
+Enhanced search
+Importers
+Sales
+Features
+Buy XenForo
+Pre-sales questions
+Admin demo
+Customers
+Account area
+Get support
+Community
+License validation
+Help
+Manual
+Developer docs
+Help
+Contact us
+© 2010-2025 XenForo Ltd.
+License agreement Cloud service agreement Privacy policy

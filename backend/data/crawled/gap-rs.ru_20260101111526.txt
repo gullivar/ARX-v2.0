@@ -1,0 +1,1 @@
+Outlook To use Outlook, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn't support scripts, you can download Windows Internet Explorer for access to Outlook.

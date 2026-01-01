@@ -1,0 +1,94 @@
+DOCUMENTATION
+SIGN UP
+CONTACT
+IP Geolocation API
+Fast, accurate, reliable
+
+Free for non-commercial use, no API key required
+
+Easy to integrate, available in JSON, XML, CSV, Newline, PHP
+
+Serving more than 1 billion requests per day, trusted by thousands of businesses
+
+API DOCUMENTATION
+
+API Demo
+
+Search any IP address/domain
+
+SEARCH
+{
+    "query": "106.254.248.154",
+    "status": "success",
+    "continent": "Asia",
+    "continentCode": "AS",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "district": "",
+    "zip": "043",
+    "lat": 37.5332,
+    "lon": 126.9692,
+    "timezone": "Asia/Seoul",
+    "offset": 32400,
+    "currency": "KRW",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "asname": "LGDACOM",
+    "mobile": false,
+    "proxy": false,
+    "hosting": false
+}
+{
+    "dns": {
+        "geo": "Hong Kong - Google LLC",
+        "ip": "172.253.237.30"
+    }
+}
+Frequently Asked Questions
+How often do you update your database?
+
+We update our database as soon as we have new information about an IP block. For each API request, you will always have the most accurate location data, without having to worry about updating a local database.
+
+Are you still going to be here next year? Can I use your API in production?
+
+IP-API has been running since 2012 and we are now providing one of the most popular and reliable IP Geolocation API.
+
+Do I need an API key for the free endpoint?
+
+We will never require an API key or registration and the API schema will not change.
+
+How many requests can I do?
+
+Our endpoints are limited to 45 HTTP requests per minute from an IP address. If you go over this limit your requests will be throttled (HTTP 429) until your rate limit window is reset.
+If you need unlimited queries, please see our pro service.
+
+What is the average response time of the API?
+
+With dedicated servers in US, EU and APAC, a network based on Anycast technology, and highly optimized software we achieve real response times of under 50 milliseconds in most parts of the world.
+
+Can I use your API on my commercial website?
+
+We do not allow commercial use of the free endpoint. Please see our pro service for SSL access, unlimited queries, usage statistics and commercial support.
+
+Go pro
+
+Get unlimited queries, SSL and commercial use
+
+SIGN UP CONTACT
+Response Formats
+JSON
+XML
+CSV
+Newline
+PHP
+API
+Batch API
+DNS API
+Data Correction
+© 2022 ip-api.com. All rights reserved.
+Terms and Policies
+Service status

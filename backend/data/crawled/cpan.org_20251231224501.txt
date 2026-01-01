@@ -1,0 +1,6 @@
+The Comprehensive Perl Archive Network - www.cpan.org Comprehensive Perl Archive Network Over 20 years of Perl libraries at your fingertips Home Modules Ports Perl Source FAQ Mirrors Search : Welcome to CPAN The Comprehensive Perl Archive Network (CPAN) currently
+                has 225,425
+                Perl modules in 46,221 distributions,
+                written by 14,646 authors, mirrored on 1 servers. The archive has been online since October 1995 and is constantly growing. Search CPAN via metacpan.org Recent Uploads DBIx-Auto-Migrate-0.6 Getopt-EX-Config-1.0201 DBD-Patroni-0.03 Getopt-EX-Config-1.02 App-Greple-10.01 Sim-OPT-0.785 Dancer2-Plugin-WebService-4.8.3 BeamerReveal-20251230.2042 DBIx-Auto-Migrate-0.5 DBIx-Quick-0.7 more... Getting Started Installing Perl Modules Learn Perl How to contribute Read this Visit https://pause.perl.org/ Perl Resources The Perl Programming language Perl Documentation Mailing Lists Perl FAQ Yours Eclectically, The Self-Appointed Master Librarians ( OOK! ) of the CPAN. © 1995-2010 Jarkko Hietaniemi.
+                   © 2011-2024 Perl.org .
+                   All rights reserved. Disclaimer . Master mirror hosted by and

@@ -1,0 +1,1 @@
+GRYPHLINE cookiesModal.mainText cookiesModal.policyButtonText cookiesModal.pleaseRead cookiesModal.agreeButtonText cookiesModal.rejectButtonText

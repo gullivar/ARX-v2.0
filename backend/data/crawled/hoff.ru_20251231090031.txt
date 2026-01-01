@@ -1,0 +1,13 @@
+403 Error.
+Forbidden
+
+Доступ к сайту hoff.ru запрещен.
+
+Попробуйте зайти на hoff.ru позже, или обратитесь к администрации сайта.
+
+Мы рекомендуем выключить VPN для правильной работы сайта
+
+IP: 221.138.189.189
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Locale: KR
+Timestamp: 1767139230829

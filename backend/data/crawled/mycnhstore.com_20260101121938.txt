@@ -1,0 +1,36 @@
+PLEASE SELECT YOUR COUNTRY OR LANGUAGE
+North America
+USA
+Canada (English)
+Canada (French)
+Europe
+United Kingdom | United Kingdom
+Spain | Espana
+France | France
+Germany | Deutschland
+Italy | Italia
+Ireland | Ireland
+English
+French | Français
+German | Deutsch
+Portuguese | Português
+Italian | Italiano
+Swedish | Svenska
+Russian | Русский
+Danish | Dansk
+Dutch | Nederlands
+Polish | Polski
+Africa, Middle East, Asia
+English
+Turkish | Türk
+Russian | Русский
+Hindi | बदलें
+French | Français
+Chinese | 中国
+South America
+Brazil | Brasil
+English
+Portuguese | Português
+Spanish | Español
+Australia and New Zealand
+English

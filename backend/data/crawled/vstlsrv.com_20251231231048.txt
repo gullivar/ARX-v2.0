@@ -1,0 +1,18 @@
+Page not found (404)
+Request Method:	GET
+Request URL:	http://vstlsrv.com/
+
+Using the URLconf defined in BasicLogging.urls, Django tried these URL patterns, in this order:
+
+gotalog [name='gotalog']
+v2/ftplog [name='ftplogv2']
+v2/tvlog [name='tvlogv2']
+v1/ftplog [name='ftplogv1']
+v1/tvlog [name='tvlogv1']
+InsertDB.aspx [name='tvlogv']
+FTPUpdateInfo.aspx [name='ftplog']
+^logging\/(?P<path>.*)$
+
+The empty path didn’t match any of these.
+
+You’re seeing this error because you have DEBUG = True in your Django settings file. Change that to False, and Django will display a standard 404 page.

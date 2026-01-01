@@ -1,0 +1,224 @@
+Skip to content
+Products
+Use cases
+Resources
+Partners
+Pricing
+Schedule a demo
+Start a trial
+Log in
+
+OVERVIEW
+
+Manage and secure your Windows and macOS devices from anywhere
+
+PDQ Connect
+
+Cloud-based endpoint management
+
+Remote device management
+Patch management
+Vulnerability management
+Software deployment
+Asset management
+Software inventory management
+
+OTHER PDQ PRODUCTS
+
+Configure new devices, discover and manage endpoints, deploy software, and secure your fleets
+
+Product suite
+PDQ Deploy & Inventory
+
+On-prem device management
+
+SmartDeploy
+
+Device imaging
+
+Compare products
+
+See PDQ Connect in action
+
+No sign-up or strings attached
+
+INDUSTRIES
+
+Scalable solutions for every sector
+
+Education
+Finance
+Manufacturing
+Nonprofit
+Government
+
+WHY PDQ
+
+Actual proof, results, and comparisons
+
+Case studies
+PDQ vs. Others
+Security & Trust
+
+Are you an MSP?
+
+Explore the tools and features built exclusively with MSPs in mind
+
+LEARN
+
+Insights to get the most out of PDQ
+
+Blog
+Help Center
+PowerShell library
+Webinars
+Support
+
+ENGAGE
+
+Connect with other sysadmins like you
+
+Community
+PDQ Live
+PDQ Discord
+The PowerShell Podcast
+State of Sysadmin
+
+State of Sysadmin report
+
+Read our 2025 State of Sysadmin Administration report
+
+VALUE ADDED RESELLERS
+
+Empower your customers and grow your margins
+
+Resellers
+
+MANAGED SERVICE PROVIDERS
+
+Streamline client management and cut IT busywork
+
+MSPs
+
+Join our partner program
+
+Discover why partners love working with PDQ — and how easy it is to join
+
+Healthy, up-to-date machines — automatically
+
+Simplify your Windows patch management and software deployment processes — whether you manage 50 machines or 5,000.
+
+Business email
+Start a trial
+Device management that's simple, secure, and pretty damn quick
+AGENT-BASED SOLUTION
+PDQ Connect
+
+Agent-based Windows device management for your remote and local devices.
+
+Save time with automated deployments, prebuilt + custom packages, and essential inventory tools.
+
+Secure devices with vulnerability management and automatic vulnerability patching.
+
+Support your end users with remote desktop capability.
+
+Try Connect for 14 days
+Learn more
+Prefer to keep things on-prem?
+
+PDQ Deploy & Inventory are ideal for on-prem or air-gapped environments. Fast, reliable, and trusted by IT pros for over a decade.
+
+Try Deploy & Inventory
+Learn more
+No more managing devices on hard mode
+Reduce complexity
+
+Get all the device information you need in a matter of clicks — and fix any issues with just a few more. Your boss will be so impressed. 
+
+Improve efficiency
+
+Ensure all of your machines are up-to-date and secure at all times — even when you’re away. You can finally take a vacation.
+
+Enhance control
+
+Free yourself from those pesky, repetitive IT tasks with robust automation & scripting options. How did you live without us?
+
+IT products sysadmins actually love
+
+(and we all know that’s a pretty rare thing...)
+
+Start a 14-day trial
+Schedule a demo
+
+4.8 of 5 stars on Capterra
+
+95% likely to recommend to others 
+
+4.9 of 5 stars on G2
+
+If I had to go back... I couldn’t do it. We would have to bring on several more people just to do what I do with PDQ. 
+
+DOUG RESSLER
+DIRECTOR OF IT, UNIVERSITY OF UTAH
+
+Alternate solutions didn’t have the flexibility I was looking for. It would take me a week and a half to outfit a new lab previously. Now, with PDQ, it takes me a couple hours. 
+
+MICHAEL ELSON
+DISTRICT TECHNOLOGY COORDINATOR, SOUTH AMBOY PUBLIC SCHOOLS
+
+Being able to manage our remote computers and have deployments go out exactly how and when we want them to, reliably, has been huge.
+
+JAMES DAVIS
+NEI ELECTRIC POWER ENGINEERING, INC
+
+Check out our case studies ->
+
+For sysadmins, by sysadmins
+
+Our goal is to make the lives of sysadmins easier — because we are sysadmins. (It’s a little self-serving and more than a little corny, but it’s true.) Here are some resources we’ve put together to help you stay patched and happy. 
+
+Blog
+Getting started videos
+Help Center
+Live weekly webcast
+Sound too good to be true? Try it for yourself.
+Free 14-day trial
+Schedule a demo
+
+2200 S Main St STE 200
+South Salt Lake, Utah 84115
+
+© 2025 PDQ.com Corporation
+
+Products
+
+Overview
+PDQ Connect
+PDQ Deploy & Inventory
+PDQ Detect
+SimpleMDM
+SmartDeploy
+Downloads
+
+Resources
+
+Blog
+Help Center
+Solutions
+Contact us
+Tax documents
+
+Company
+
+About
+Careers
+Sitemap
+EULA
+Privacy Policy
+Terms of Use
+Additional Policies
+Security
+Cookie settings
+By clicking “Accept all”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and improve your experience.
+Cookie settings
+Accept all

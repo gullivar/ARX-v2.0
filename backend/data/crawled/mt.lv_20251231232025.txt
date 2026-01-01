@@ -1,0 +1,53 @@
+MikroTik
+                    · Routers and Wireless Skip to main content Hardware New Search Ethernet routers Switches Wireless systems Wireless for home and office LTE/5G products IoT products 60 GHz products RouterBOARD Enclosures Interfaces Accessories Antennas SFP/QSFP Software Downloads Changelogs RouterOS WinBox Mobile apps Back to Home Connectivity Distributors Buy something (find a distributor) Sell something (become a distributor) Made for MikroTik Support Documentation Consultants Forum Help Security Warranty Training About Schedule Training centers & trainers Academies Train the trainer Certificate Search About Contacts Company Our Logo Vacancies Hardware New Search Ethernet routers Switches Wireless systems Wireless for home and office LTE/5G products IoT products 60 GHz products RouterBOARD Enclosures Interfaces Accessories Antennas SFP/QSFP Software Downloads Changelogs RouterOS WinBox Mobile apps Back to Home Connectivity Distributors Buy something (find a distributor) Sell something (become a distributor) Made for MikroTik Support Documentation Consultants Forum Help Security Warranty Training About Schedule Training centers & trainers Academies Train the trainer Certificate Search About Contacts Company Our Logo Vacancies hAP ax³ Our top-of-the-line AX home access point. With all the processing power and speed 
+your household might ever need.
+Gen 6 wireless, 2.5 Gigabit Ethernet, PoE, WPA3, and more! 2.5G ethernet PoE-In/Out 4 x 1G ethernet 802.11ax + Wave 2 Strong Dual-Band, Dual-Chain wireless USB 3 port for storage & file sharing Details Find retailer ROSE Data server (RDS) RDS is a high-performance, all-in-one storage, 100G networking, and container
+platform designed for enterprise environments.  Featuring 20 U.2 NVMe storage slots and a special RouterOS Edition for Storage & Compute (ROSE). 20 x U.2 NVMe's 100G high-speed networking 16-core 2 GHz ARM CPU 32GB DDR4 RAM ROSE (RouterOS Edition) Container-ready Dual hot-swappable power supplies Details Find retailer hEX S (2025) A compact, affordable wired router featuring a 2.5G SFP port, 5x Gigabit Ethernet, PoE out, USB, and a fast dual-core CPU — ideal for homes, offices, or underfunded labs that need reliable performance. 2.5G SFP uplink 5 x 1G ethernet (bonding support) PoE-In & PoE-Out USB 3 port for storage & file sharing Dual-Core ARM CPU + 512 MB RAM Flexible powering (12–57 V) Details Find retailer CRS812 DDQ This switch  is your next leap forward –  a powerful, efficient, and cost-effective way to bring 50G, 200G, and 400G into your rack. Quad-core 2 GHz ARM CPU, dual-redundant power supplies and 4x hot-swap cooling fans, 2x 10G Ethernet, 8x 50G SFP56, 2x 200G QSFP56, and 2x 400G QSFP56-DD ports. 2 x 400G QSFP56-DD, 2 x 200G QSFP56 8 x 50G SFP56 1G/10G Ethernet ports 4 GB of RAM Quad-core 2 GHz ARM CPU Dual-redundanthot-swap power supplies 4 x hot-swap cooling fans Details Find retailer hAP ax³ ROSE Data server (RDS) hEX S (2025) CRS812 DDQ Hardware Enhance Your Network With Hardware That Works Harder MikroTik offers routers, switches, and wireless systems for every type of network – from home offices and small businesses to carrier-grade ISP infrastructure. Whether you're building a setup for a few users or thousands, there's a MikroTik device that fits your needs and your budget. Ethernet Routers Switches Wireless Systems Wireless Home & Office LTE/5G IoT products 60 GHz products RouterBOARD View All Video Blog Know our tech Back to Home VPN by MikroTik Free secure VPN access anywhere –
+unleash the power of your router!
+
+Back To Home sets up your MikroTik device for secure VPN access to your home router and network... even if your router doesn't have a public IP or is behind a NAT or a Firewall! More than a VPN: Quick & easy filesharing, avoiding content region locks, or adding a safety layer for truly anonymous browsing - BTH can do it all and even more!
+
+Also see the latest BTH feature: File upload! https://youtu.be/BaT965nHPsg Interface the bigger QSFP form factor with older SFP28, SFP+ equipment In this example you will see 3 different ways how you could connect your 100G capable QSFP28 device with an older SFP+ device. The same advice generally applies to all QSFP/QSFP+/QSFP28/QSFP56 that need to be connected to SFP28, SFP+ and even regular SFP, but the exact conversion capabilities are determined by the specification of the interface modules that are used.
+
+Equipment seen in video:
+https://mikrotik.com/product/xq_85mp01d
+https://mikrotik.com/product/xq_bc0003_xs_
+https://mikrotik.com/product/xs_85lc01d
+https://mikrotik.com/product/xq_cm0000_xs_
+
+https://mikrotik.com/product/crs504_4xq_in
+https://mikrotik.com/product/rb5009upr_s_in
+
+Documentation:
+https://help.mikrotik.com/docs/spaces/ROS/pages/220233794/MikroTik+wired+interface+compatibility KNOT Embedded LTE4: industrial automation and tracking on a budget! Industrial LTE/BLE/GNSS connectivity that fits anywhere. 
+Originally designed for coffee and vending machines – perfect 
+for all kinds of industrial automation.
+
+https://www.mt.lv/knot_emb_pdf netPower Lite 8P: an outdoor switch with UPS functionality Compact PoE switch with a built-in UPS and smart battery charger – because your CCTV cameras and access points deserve true off-the-grid resilience. 
+
+Add an external battery of your choice:
+compatible with flooded, AGM, gel, and LiFePO₄ packs!
+
+
+https://www.mt.lv/ups_netpower_pdf Some gifts don’t come with ribbons. Soon™ Set up a secure Tor port on your router! (DoHoT included) It is time to explore some wild RouterOS possibilities again! Follow along as Druvis deploys our exclusive socksify feature to funnel all traffic from an Ethernet port through the Tor network, including DNS-over-HTTPS, resulting in DoHoT.
+
+https://help.mikrotik.com/docs/spaces/ROS/pages/343244851/Socksify
+
+0:00 Intro
+1:24 Hardware requirements
+1:50 Interfaces
+2:05 DHCP server and basic DNS
+2:32 masquarade and defconf changes
+3:06 Docker registry
+3:16 Pull alpine:latest
+3:32 Tor setup
+4:05 Make IP static
+4:32 Socksify service and NAT
+5:09 Check Tor port
+5:35 DNS-over-HTTPS
+6:22 DoH root certificate
+6:45 DoH-over-Tor
+7:29 DoHoT with simple DNS
+8:46 Firewall rules
+9:49 Start Tor on boot
+10:23 Outro TikTube YouTube Newsletter Highlights Newsletter #130 | December 2025 New gear, real-world stories, and practical tips – straight from the MikroTik lab and the field. This edition brings compact industrial LTE, compact PoE with built-in backup power/battery option, and a distributor story that proves performance doesn’t need enterprise pricing. Plus: free VPN tools, fresh videos, and MikroTips you can actually use. Happy holidays! To ensure smooth order processing before the holidays, please place purchase orders in advance. MikroTik warehouse will be closed on Dec 24–28 and Dec 31–Jan 4. On Dec 23 and Dec 30, shipment pickups are available until 14:30 (GMT+2). Newsletter #129 | November 2025 Meet the new hAP ax S, explore the industrial KNOT LR9G kit, see how MikroTik Connectivity is evolving, and check out new Rose Data Server use cases. Plus the Latvian quantum research milestone, our conference and Olympiad highlights, and plenty of new videos and #MikroTips. Newsletter #128 | September 2025 This month’s newsletter dives into our biggest leap yet – from the first 400-Gigabit switch to the Wi-Fi 6 rackmount CRS. Plus: the heavy-duty GPERx6, new 400G accessories, real-world server setups, fresh #MikroTips, YouTube reviews, and more eSIM Connectivity Seamless Networking with latest eSIM-enabled devices designed for IoT, enterprise, mobile networking, and more. Mobile Back to Home App Free secure VPN access anywhere - unleash the power of your router! Desktop WinBox Our Pro desktop app with endless configuration possibilities is available for all operating systems. Mobile Home App Simple and easy way to manage your home router. For Android and iOS available for download. View all Mikrotik Certified Training Program MikroTik training sessions are organized and provided by MikroTik Training Centers at various locations around the World. They are attended by network engineers, integrators and managers, who would like to learn about routing and managing wired and wireless networks using MikroTik RouterOS. Training Schedule Trainers & Academies MikroTik Academies are educational institutions – such as universities, technical schools, colleges, and vocational programs – that offer semester-based networking courses for their students using MikroTik RouterOS as a learning tool. Locate Trainer Graduation Each year, more than 30,000 MikroTik certificates are issued for students who graduate from our certified training courses worldwide. MikroTik certificates are internationally recognized and represent solid, practical knowledge in network administration and infrastructure, MikroTik hardware and RouterOS software. Subscribe to our newsletter Hardware New Search Ethernet routers Switches Wireless systems Wireless for home and office LTE/5G products IoT products 60 GHz products RouterBOARD Enclosures Interfaces Accessories Antennas SFP/QSFP Software Downloads Changelogs RouterOS WinBox Mobile apps Back to Home Connectivity Distributors Buy something (find a distributor) Sell something (become a distributor) Made for MikroTik Support Documentation Consultants Forum Help Security Warranty Training About Schedule Training centers & trainers Academies Train the trainer Certificate Search About Contacts Company Our Logo Vacancies Subscribe to our newsletter Privacy Policy

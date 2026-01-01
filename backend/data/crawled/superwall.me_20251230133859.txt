@@ -1,0 +1,146 @@
+Features
+Solutions
+Inspiration
+Docs
+Learn
+Pricing
+Sales
+Log in
+Sign Up
+Superwall Ships! 2025 Year in Review
+The paywall experimentation platform for mobile apps.
+
+No-code paywalls, A/B testing, and business analytics in 2 lines of code.
+
+The paywall experimentation platform for mobile apps.
+
+No-code paywalls, A/B testing, and business analytics in 2 lines of code.
+
+The paywall experimentation platform for mobile apps.
+
+No-code paywalls, A/B testing, and business analytics in 2 lines of code.
+
+The paywall experimentation platform for mobile apps.
+
+No-code paywalls, A/B testing, and business analytics in 2 lines of code.
+
+Start for free
+Trusted by over 4,000 apps
+Powering over 100,000 paywalls for apps like these
+Build & deploy paywalls without coding
+
+Drag and drop paywall builder
+
+A/B testing with advanced targeting
+
+Track revenue, subscriptions, and more
+
+Target users with different paywalls
+Show paywalls based on behavior, demographics, and more.
+Boost your revenue with A/B testing
+Test paywall variations and track performance, all in one platform.
+Start from scratch, or from a template
+200+ paywall templates to choose from, 100% free of charge. Edit everything from text and fonts to colors and images.
+One unified subscriber management platform
+Manage subscribers, revenue and entitlements in one place.
+Track revenue, subscriptions, and more
+Get real-time insights into your app's performance, including revenue, subscriptions, and more.
+Integrate in minutes
+Open-source SDKs for iOS & Android built in Swift, Kotlin, React Native, and Flutter.
+
+Swift
+
+Kotlin
+
+Expo
+
+React Native
+
+Flutter
+
+Thanks to Superwall, we were able to 2x our iOS app profitability in just six months. It has greatly assisted our growth team in achieving exceptional results by facilitating high-frequency experimentation.
+
+Mojo
+Bernard Bontemps, Head of Growth
+
+Superwall lets us move 10x faster on our monetization strategy. We can build and launch multiple paywall iterations without the need for client releases or complicated deploys. Our product iteration loop is days, rather than months because of Superwall.
+
+Citizen
+Jon Rhome, Head of Product
+
+Really excited about the progress we made recently on paywalls with Superwall. We got more than 50% increase in conversion for upsell screens. This is crazy.
+
+Photoroom
+Matthieu Rouif, CEO
+Simple, transparent pricing
+Start free and scale as you grow.
+Indie
+$ 0
+/ month
+Up to $10k MAR, then 1% of total MAR 
+Get Started
+Includes:
+Charts
+Webhooks
+Integrations
+IAP SDK
+Paywalls
+Campaigns
+Audiences
+Templates
+Most Popular
+Startup
+$ 49
+/ month
++ 1% of MAR 
+Get Started
+Everything in Indie, plus:
+Surveys
+Localization
+AI Powered Localization
+Collaborators
+Scale
+$ 199
+/ month
++ 1% of MAR 
+Get Started
+Everything in Startup, plus:
+Dedicated Account Manager
+Demand Score
+Refund Protection
+Transaction Abandon
+AI Audience Gen
+Saved Snippets
+Enterprise
+Custom
+100% Custom Flat-Rate Pricing
+Contact Us
+Everything in Scale, plus:
+Implementation Support
+Dedicated Slack Support Channel
+Monthly Syncs
+SSO
+Custom SLA
+Signed Contract
+Legal
+Privacy Policy
+Terms of Use
+GDPR
+DPA
+Product
+Sign Up
+Log In
+Pricing
+System Status
+Company
+Twitter
+team@superwall.com
+Book a demo
+Careers
+Resources
+Docs
+SDK Reference
+GitHub
+Inspiration
+
+© 2025 Superwall. All rights reserved.

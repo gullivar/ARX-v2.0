@@ -1,0 +1,38 @@
+ Rplant pool
+Stats Updated       FAQ Settings
+English
+Русский
+How to set the payout threshold
+ Dark mode
+
+ Enable notifications
+
+ Show estimate coins/day
+
+
+Show coins:
+ CPU
+
+ GPU
+
+ ASIC
+
+ FPGA
+
+apply
+
+Default webpassword
+ set
+Clear all data
+API
+The API is work in progress and is subject to change during development.
+
+NOMP style:
+/api/stats global pool stats
+/api/blocks global block stats
+YIIMP style:
+/api/currencies - stats like YIIMP for poolexplorers
+/api/wallet/coin/address - miner stat
+     ex: /api/wallet/koto/k16WgTvSLLvLDG64JZVocVJu4YvTuQNUj1s
+/api/walletEx/coin/address/password - full miner stat
+     ex: /api/wallet/koto/k16WgTvSLLvLDG64JZVocVJu4YvTuQNUj1s/pwd123

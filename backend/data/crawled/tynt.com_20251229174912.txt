@@ -1,0 +1,10 @@
+<%= csrf_meta_tags %>
+We've Moved!
+Your favorite traffic and monetization platform has a new look and more insights!
+You will be automatically re-directed in 10 seconds
+
+Already have an account?
+
+Click here to login
+
+© 2016 33ACROSS INC. ALL RIGHTS RESERVED | CONTACT US

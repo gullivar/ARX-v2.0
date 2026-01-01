@@ -1,0 +1,41 @@
+Need a robust API to Geolocate IPs and fetch other crucial information? Try IPinfo.io.
+What Is My IP Address? - ifconfig.me
+	
+	
+Your Connection
+IP Address	106.254.248.154
+User Agent	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Language	
+Referer	
+Method	GET
+Encoding	gzip, deflate, br, zstd
+MIME Type	text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Charset	
+X-Forwarded-For	106.254.248.154,34.160.111.145
+Command Line Interface
+$ curl ifconfig.me	⇒	106.254.248.154
+$ curl ifconfig.me/ip	⇒	106.254.248.154
+$ curl ifconfig.me/ua	⇒	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+$ curl ifconfig.me/lang	⇒	
+$ curl ifconfig.me/encoding	⇒	gzip, deflate, br, zstd
+$ curl ifconfig.me/mime	⇒	text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+$ curl ifconfig.me/charset	⇒	
+$ curl ifconfig.me/forwarded	⇒	106.254.248.154,34.160.111.145
+$ curl ifconfig.me/all	⇒	ip_addr: 106.254.248.154
+remote_host: unavailable
+user_agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+port: 39786
+language:
+referer:
+connection:
+keep_alive:
+method: GET
+encoding: gzip, deflate, br, zstd
+mime: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+charset:
+via: 1.1 google
+forwarded: 106.254.248.154,34.160.111.145
+
+
+$ curl ifconfig.me/all.json	⇒	{"ip_addr":"106.254.248.154","user_agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","port":"39786","method":"GET","encoding":"gzip, deflate, br, zstd","mime":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","via":"1.1 google","forwarded":"106.254.248.154,34.160.111.145"}
+© 2024 ifconfig.me

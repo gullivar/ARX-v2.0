@@ -1,0 +1,74 @@
+PLATFORM
+SOLUTIONS
+KITCHEN SINK
+DOCS
+PRICING
+SIGN IN
+LOGIN
+GET DEMO
+GET A DEMO
+GET STARTED
+SIGN UP
+Marketing Mode
+Want to connect with the folks building Sentry? Join us on Discord.  ➔
+Code 
+breaks,
+ fix it faster
+
+Application monitoring software considered "not bad" by 4 million developers.
+
+TRY SENTRY FOR FREE
+EXPLORE THE SANDBOX
+
+150,000+ GROWING TEAMS USE SENTRY TO FIND PROBLEMS FAST
+
+When your app breaks, fix it faster with Sentry
+Error Monitoring
+Tracing
+Session Replay
+Code Coverage
+ERROR MONITORING
+Identify, debug, and resolve
+Prioritize what matters
+
+Triage issues based on impacted customers
+
+READ THE DOCS
+PRIORITIZE WHAT MATTERS
+Find the root cause
+
+Get all the context. Sentry will tell you the environment, device, OS, even the very commit that introduced the error - down to the broken line of code.
+
+LEARN MORE
+FIND THE ROOT CAUSE
+Automate everything
+
+Keep your entire team informed with custom alerts in Slack, two-way sync issues with Jira, and track releases from GitHub, Vercel, or Netlify.
+
+LEARN MORE
+AUTOMATE EVERYTHING
+TRACING
+Don't just observe. Take action.
+Find and fix the problem, no matter where it occurs
+
+With Tracing, see the complete, end-to-end path that data takes through your distributed system to pinpoint the exact origin of an issue. Navigate to a trace from a correlated metric, specific issue, or search.
+
+LEARN MORE
+FIND AND FIX THE PROBLEM, NO MATTER WHERE IT OCCURS
+Solve slow, fast
+
+Sentry automatically detects and notifies you of critical performance issues so you can trace every slow transaction to a poor-performing API call or DB query.
+
+LEARN MORE
+SOLVE SLOW, FAST
+Investigate known problems
+
+Pinpoint the specific operations that may be causing issues by searching for traces matching criteria like a route, API endpoint, or user ID—or get a quick overview of how your application is performing.
+
+LEARN MORE
+INVESTIGATE KNOWN PROBLEMS
+SESSION REPLAY
+See what your users are seeing
+Debug with visual context
+
+Navigate your application's cons

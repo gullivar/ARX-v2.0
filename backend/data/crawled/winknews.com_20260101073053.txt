@@ -1,0 +1,1906 @@
+WINK | News and Weather in Southwest Florida Skip to main content Watch Now Home News Team Contact Us Terms of Use Privacy Policy Help Desk Weather News Charlotte County Collier County DeSoto County Glades County Hendry County Lee County State Nation/World WINK Smart Most Wanted Wednesday WINK Stop Crime Health & Medical Making Ends Meet Lifestyle Weather Traffic WINK Listens Investigations Business Sports Submit News Tip Site search Search Facebook YouTube Instagram iOS App Android App Menu Search Open user controls Log In Using Your Account Log In Don't have an account? Sign Up Today My Account Dashboard Profile Saved items Logout Site search Search 43° Clear Fort Myers, FL (33916) Today Abundant sunshine. High 63F. Winds NNW at 10 to 15 mph.. Tonight Clear skies. Cold. Low 41F. Winds N at 5 to 10 mph. Updated: December 31, 2025 @ 5:02 am Full Forecast Watch Now Home Help Desk News Team Terms of Use Privacy Policy Contact Us News Charlotte County Collier County DeSoto County Glades County Hendry County Lee County State Nation/World WINK Smart Most Wanted Wednesday WINK Stop Crime Health & Medical Making Ends Meet Lifestyle Weather Traffic WINK Listens WINK Smart Investigations Submit News Tip Weather Alert Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Collier County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Collier County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Collier County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from East Cape Sable to Chokoloskee FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Collier County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 7 AM EST THIS
+MORNING...
+
+* WHAT...North winds 15 to 20 kt with gusts up to 25 kt and seas
+3 to 6 ft expected.
+
+* WHERE...In Gulf of America, Coastal waters from Chokoloskee to
+Bonita Beach FL out 20 NM and Waters from Chokoloskee to
+Bonita Beach FL from 20 to 60 NM.
+
+* WHEN...From 4 AM Tuesday to 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-31T00:52:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Hendry County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Hendry County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Glades County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Sarasota County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Charlotte County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Charlotte Harbor and Pine Island Sound state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Highlands County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Coastal Lee County state_name: Florida Weather Alert Bulletin: ...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 AM EST WEDNESDAY...
+
+* WHAT...North winds 15 to 20 knots with gusts up to 30 knots
+and seas 4 to 6 feet.
+
+* WHERE...Portions of Gulf of America.
+
+* WHEN...Until 7 AM EST Wednesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&& Info: Type: Small Craft Advisory start_time_local: 2025-12-30T14:57:00-05:00 end_time_local: 2025-12-31T07:00:00-05:00 county_name: state: headline: Small Craft Advisory until WED 7:00 AM EST county_fips: category: Met url: urgency: Expected severity: Minor certainty: Likely geographicname: Coastal waters from Bonita Beach to Englewood FL out 20 NM state_name: Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT UNTIL 9 AM EST THIS
+MORNING...
+
+* WHAT...Very cold wind chills as low as 29 expected.
+
+* WHERE...Inland Palm Beach County, Glades, Hendry, and Inland
+Collier County Counties.
+
+* WHEN...Until 9 AM EST this morning.
+
+* IMPACTS...Patchy frost is possible in some sheltered locations.
+Very low temperatures and wind chills could damage cold sensitive
+vegetation.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T01:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 1:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Hendry County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida Weather Alert Bulletin: ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Info: Type: Cold Weather Advisory start_time_local: 2025-12-31T00:00:00-05:00 end_time_local: 2025-12-31T09:00:00-05:00 county_name: state: FL headline: Cold Weather Advisory from WED 12:00 AM EST until WED 9:00 AM EST county_fips: category: Met url: urgency: Expected severity: Moderate certainty: Likely geographicname: Inland Lee County state_name: Florida WINK The Weather Authority +3 Weather Explainers Coldest air of the season headed to Southwest Florida for New Year’s You might have better luck with a New Year’s kiss this holiday, as many will be huddling together for warmth amid the coldest air of the season, which is set to arrive… Read more Coldest air of the season headed to Southwest Florida for New Year’s Charlotte County Southwest Florida braces for upcoming cold snap, several shelters open Due to an upcoming cold front, several shelters within Southwest Florida have activated its cold weather strategies, as temperatures are expected to plummet 40 to 50 degrees in less than 48 hours. Read more Southwest Florida braces for upcoming cold snap, several shelters open State Florida bear hunt ends; Fort Myers groups debate conservation impact The Florida Fish and Wildlife Conservation says 52 bears have been killed during the 2025 Florida bear hunt. Read more Florida bear hunt ends; Fort Myers groups debate conservation impact Lee County SWFL residents injured in New Orleans attack continue legal battle Two Southwest Floridians, Steele Idelson and Elle Eisele, were among the dozens injured during a terrorist attack on Bourbon Street in New Orleans on New Year's Day last year. Read more SWFL residents injured in New Orleans attack continue legal battle +2 Investigations $183K lost to unregistered rentals: Fort Myers Beach steps up enforcement The Town of Fort Myers Beach will begin issuing violation notices in the coming weeks to short-term rental properties that are operating without the required town registration, after new software revealed widespread noncompliance across the island. Read more $183K lost to unregistered rentals: Fort Myers Beach steps up enforcement Lee County Southwest Florida braces for cold; Fort Myers shelters ready to help A cold front has swept through Southwest Florida, bringing unusually chilly temperatures to the region. Read more Southwest Florida braces for cold; Fort Myers shelters ready to help View All News +2 Disco Bean brings coffee, vinyl, and retro vibes to Bonita Springs If your morning coffee comes with a side of groovy beats and disco balls, you might be at Bonita Springs’ newest hotspot. Read more Disco Bean brings coffee, vinyl, and retro vibes to Bonita Springs Bayside Veterans Park Concert Series New Year's event cancelled due to upcoming cold snap Due to an upcoming cold front, the New Year’s Eve with Guilty Pleasure event held by Bayside Concert has been cancelled. Read more Bayside Veterans Park Concert Series New Year's event cancelled due to upcoming cold snap Hendry County man wins $5M from scratch off ticket A Hendry County man is $5 million richer after purchasing a scratch-off ticket from a gas station located in Naples. Read more Hendry County man wins $5M from scratch off ticket Velocity Naples helping people cycle into the new year Velocity Naples has a big plan to ring in the new year. Read more Velocity Naples helping people cycle into the new year Protecting yourself from high-blood pressure In a sudden health scare, Marissa Colon, a music teacher at Sabal Palm Elementary School, experienced a stroke on Dec. 1 at the age of 40. Read more Protecting yourself from high-blood pressure Naples family celebrates new home as Habitat Collier crosses milestones A new chapter unfolded for Habitat for Humanity of Collier County and a Naples family as volunteers raised the walls on the final home in a brand-new neighborhood. Read more Naples family celebrates new home as Habitat Collier crosses milestones Not your average mushroom: Turning fungi into flavor What starts as a dream of opening an Italian deli turns into something entirely different for Jor’El and Sheth Schustrin. Read more Not your average mushroom: Turning fungi into flavor Sign Up For Newsletters Latest local news delivered to your inbox daily. Success! An email has been sent to with a link to confirm list signup. Error! There was an error processing your request. Daily Headlines Have the latest local news delivered every afternoon so you don't miss out on updates. News Alerts We'll send breaking news and news alerts to you as they happen! This Week's Most Popular Best trending stories from the week. WINK Smart Delivers consumer tips, money-saving advice, and alerts to help you make informed decisions. You must select at least one email list. Please enter a valid email address. Sign up Manage your lists Weather Watchers Latest Photos Trending Articles Videos Articles Death investigation underway after body found near Midpoint Bridge President Trump posts over 100 times on Truth Social during Christmas I-75 lanes reopen after 3-vehicle crash in Collier County FBI launches case after Coast Guard ends search for Iona pair What’s open and closed on Christmas Day in SWFL Traffic stop leads to arrest of man accused of possessing $33k in fake checks Coldest air of the season headed to Southwest Florida for New Year’s Hendry County man wins $5M from scratch off ticket U-Haul van used in Walmart theft; 4 suspects arrested Southwest Florida on track for one of its driest years on record Videos Links Mentioned on WINK Weather 1 Weather Alert See All > Weather Alert ...COLD WEATHER ADVISORY REMAINS IN EFFECT FROM MIDNIGHT TONIGHT TO
+9 AM EST WEDNESDAY...
+
+* WHAT...Very cold wind chills as low as 27 expected.
+
+* WHERE...Portions of southwest and west central Florida.
+
+* WHEN...From midnight tonight to 9 AM EST Wednesday.
+
+* IMPACTS...Wind chill values can lead to hypothermia with prolonged
+exposure.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Use caution while traveling outside. Wear appropriate clothing, a
+hat, and gloves.
+
+Keep pets indoors as much as possible.
+
+&& Currently in Fort Myers 43° Clear 64° / 43° 6 AM 41° 7 AM 40° 8 AM 41° 9 AM 44° 10 AM 49° View All Latest Media 2:31 Florida bear hunt ends; Fort Myers groups debate conservation impact 2:34 SWFL residents injured in New Orleans attack continue legal battle 1:26 Stay safe this New Year's Eve in Fort Myers 2:41 $183K lost to unregistered rentals: Fort Myers Beach steps up enforcement View All Investigations +2 $183K lost to unregistered rentals: Fort Myers Beach steps up enforcement The Town of Fort Myers Beach will begin issuing violation notices in the coming weeks to short-term rental properties that are operating without the required town registration, after new software revealed widespread noncompliance across the island. Read more $183K lost to unregistered rentals: Fort Myers Beach steps up enforcement Fort Myers federal judge asked to inspect Alligator Alcatraz conditions Alligator Alcatraz, a state-run immigration detention center in the Everglades, is still open and holding people set for deportation. Read more Fort Myers federal judge asked to inspect Alligator Alcatraz conditions +2 RSW audit alleges issues; county leader pushes back A new audit of Southwest Florida International Airport is raising questions about airport operations, but county leaders are divided over the findings. Read more RSW audit alleges issues; county leader pushes back Charlotte County man with Parkinsons seeks answers after state takes driver's license An Arcadia man with Parkinson’s disease says he has been wrongly barred from getting a Florida driver license, even after his doctor cleared him to drive and the state sent a letter appearing to confirm his eligibility. Read more Charlotte County man with Parkinsons seeks answers after state takes driver's license Gov. Desantis suggests ending tolls for Florida residents, how it could impact Southwest Florida CAPE CORAL, Fla. (WINK) - Florida Gov. Ron DeSantis has proposed a plan that could eliminate tolls for permanent state residents, potentially impacting millions of drivers across the state. Read more Gov. Desantis suggests ending tolls for Florida residents, how it could impact Southwest Florida Mother’s search for help reveals gaps in pediatric mental health care across Southwest Florida FORT MYERS, Fla (WINK) - A Cape Coral mother is raising concerns about the lack of specialized mental health options for children in Southwest Florida. Read more Mother’s search for help reveals gaps in pediatric mental health care across Southwest Florida Audit of Lee County Port Authority finds FAA rule violations A recent audit of the Lee County Port Authority [LCPA] may raise concerns about how things are being managed at the airport. Read more Audit of Lee County Port Authority finds FAA rule violations View All Gulfshore Business Rising costs reshape SWFL new, used car markets With new car prices topping $50,000 for the first time, dealerships across Southwest Florida are adapting. Local leaders say tight inventory, higher reconditioning costs and shifting buyer behavior are reshaping both new and used car sales. Read more Rising costs reshape SWFL new, used car markets +7 Family car dealers hold strong amid industry consolidation Amid sweeping consolidation in the auto industry, four longtime Southwest Florida family-owned dealerships continue to thrive. While corporate groups expand their footprints, local leaders say legacy, culture and customer loyalty remain their competitive edge. Read more Family car dealers hold strong amid industry consolidation +4 Aqua in Naples gets fresh look, signature chandeliers Aqua Seafood, Steaks & Raw Bar on Fifth Avenue South in Naples reopened after a full remodel featuring custom Italian chandeliers. Owner Gordon Stojkoski says the lighting design has become a signature element across all Aqua locations. Read more Aqua in Naples gets fresh look, signature chandeliers +5 Bonita Fish Co. set to open Nov. 3 at Fisherman’s Wharf Bonita Fish Co. opens Nov. 3 at Fisherman’s Wharf on San Carlos Island after 10 months of renovations. The HM Restaurant Group concept features a new menu, waterfront dining, a private events space and plans for a 30-slip marina. Read more Bonita Fish Co. set to open Nov. 3 at Fisherman’s Wharf +2 B&I Contractors breaks ground on $28M Fort Myers HQ B&I Contractors broke ground on a $28 million expansion of its Fort Myers headquarters, a project that will more than double its campus size and boost manufacturing capacity while adding up to 100 new jobs by 2027. Read more B&I Contractors breaks ground on $28M Fort Myers HQ +4 Florida Conquer Volleyball opens Fort Myers training hub Florida Conquer Volleyball Club opened an 18,000-square-foot training and competition facility in Fort Myers, marking a major step in the club’s growth and in coach J.D. Malone’s career shift from high school to full-time club coaching. Read more Florida Conquer Volleyball opens Fort Myers training hub +5 Raising Cane’s plans first Southwest Florida location A long-vacant Lone Star Steakhouse site at U.S. 41 and Cypress Lake Drive in south Fort Myers has been cleared to make way for Southwest Florida’s first Raising Cane’s Chicken Fingers restaurant. Read more Raising Cane’s plans first Southwest Florida location Latest Iran appoints new central bank governor after record currency fall and mass protests Today in History: December 31, Edison demonstrates incandescent lights in Menlo Park Channel Tunnel power malfunction fixed, but rail delays may linger Bulgaria to become the 21st country to join the euro, deepening EU ties despite fears Huge crowds join funeral prayers for former Prime Minister Khaleda Zia in Bangladesh See the world in vertical: Top photos by AP photojournalists Hong Kong rings in 2026 without fireworks after deadliest blaze in decades Pakistan's polio cases fell by half in 2025 despite attacks on vaccination teams View All State News Southwest Florida braces for upcoming cold snap, several shelters open Due to an upcoming cold front, several shelters within Southwest Florida have activated its cold weather strategies, as temperatures are expected to plummet 40 to 50 degrees in less than 48 hours. Florida bear hunt ends; Fort Myers groups debate conservation impact The Florida Fish and Wildlife Conservation says 52 bears have been killed during the 2025 Florida bear hunt. Southwest Florida braces for cold; Fort Myers shelters ready to help A cold front has swept through Southwest Florida, bringing unusually chilly temperatures to the region. Proving Florida residency: Tips to avoid hefty tax bills for snowbirds A couple who split their time between New York and Florida found themselves facing a $60,000 New York tax bill. They were unable to prove that Florida was their primary residence. View All Health & Medical Protecting yourself from high-blood pressure In a sudden health scare, Marissa Colon, a music teacher at Sabal Palm Elementary School, experienced a stroke on Dec. 1 at the age of 40. Read more Protecting yourself from high-blood pressure Young women face alarming breast cancer rates, study reveals An alarming rise in breast cancer cases among younger women has doctors in Southwest Florida concerned. Read more Young women face alarming breast cancer rates, study reveals New liver cancer treatment at Lee Health: No incisions, just sound waves Lee Health has become the first in Southwest Florida to offer a groundbreaking noninvasive procedure for treating liver tumors. The new technology, known as histotripsy, uses focused sound waves to destroy tumors without any incisions. Read more New liver cancer treatment at Lee Health: No incisions, just sound waves Health advisory still active at Bowditch Park A health advisory is currently in effect at Bowditch Park on the north end of Fort Myers Beach. Read more Health advisory still active at Bowditch Park +2 Naples man survives rare infection, urges awareness of Vibrio risks A Naples man, Albert Allison, is battling a rare and dangerous infection from Vibrio vulnificus, often referred to as "flesh-eating bacteria." The incident unfolded after a seemingly normal fishing trip at Naples Bay. Read more Naples man survives rare infection, urges awareness of Vibrio risks Opinions mixed over Gov. DeSantis and Dr. Ladapo's proposed ending Florida vaccine mandates Florida may soon become the first state to eliminate vaccine mandates for children in schools and daycares. Read more Opinions mixed over Gov. DeSantis and Dr. Ladapo's proposed ending Florida vaccine mandates New test in Fort Myers offers hope for early esophageal cancer detection More than 22,000 Americans are diagnosed with esophageal cancer this year, with men being three to four times more likely to develop it. Read more New test in Fort Myers offers hope for early esophageal cancer detection View All WINK Sports PHPA ratifies Collective Bargaining Agreement; ECHL resumes season starting Tuesday The Professional Hockey Players’ Association has announced the ratification of a new, five-year collective bargaining agreement with the ECHL. Read more PHPA ratifies Collective Bargaining Agreement; ECHL resumes season starting Tuesday Everblades strike nears end; fans and businesses await games ESTERO, Fla. - The work stoppage impacting the Florida Everblades and the ECHL appears to be nearing an end. Read more Everblades strike nears end; fans and businesses await games +2 Alva youth baseball returns as league revives in 2026 ALVA Fla. - Youth baseball is making a comeback in the Alva community after several years without a recreational league. Read more Alva youth baseball returns as league revives in 2026 ECHL players on the verge of strike amid CBA negotiations The Florida Everblades are preparing to start a five-game homestand at Hertz Arena on Saturday night, but the players might not be hitting the ice. Instead, they could be on strike. Read more ECHL players on the verge of strike amid CBA negotiations Moore Haven's Sa'Nyree Myers ranked first in points per game in the state Moore Haven, a small town in Southwest Florida, is home to the state's top scorer in girls' high school basketball. Sa'Nyree Myers, a senior point guard at Moore Haven High School, is making waves with her impressive average of 33 points per game. This not only ranks her first in the state b… Read more Moore Haven's Sa'Nyree Myers ranked first in points per game in the state Bishop Verot beats Barron Collier in Hugh Thimlar Tribute Game Southwest Florida basketball teams, Bishop Verot and Barron Collier, faced off in the annual Hugh Thimlar Tribute game at the City of Palms Classic. This event is known as one of the premier high school basketball tournaments. Read more Bishop Verot beats Barron Collier in Hugh Thimlar Tribute Game FGCU's Alico Arena buzzes as South Carolina Gamecocks come to town FGCU Women's Basketball recently hosted a marquee matchup against the South Carolina Gamecocks at Alico Arena. Read more FGCU's Alico Arena buzzes as South Carolina Gamecocks come to town View All Politics Senate rejects extension of health care subsidies as costs are set to rise for millions of Americans WASHINGTON (AP) - The Senate on Thursday rejected legislation to extend Affordable Care Act tax credits, essentially guaranteeing that millions of Americans will see a steep rise in costs at the beginning of the year. Read more Senate rejects extension of health care subsidies as costs are set to rise for millions of Americans Former Rep. Madison Cawthorn eyes Southwest Florida congressional seat Former U.S. Rep. Madison Cawthorn, a Republican who previously represented North Carolina, announced Wednesday he will run for Congress in southwest Florida. Read more Former Rep. Madison Cawthorn eyes Southwest Florida congressional seat Putin says he and Trump reached an 'understanding,' but neither offers details on Ukraine war talks U.S. President Donald Trump and Russian President Vladimir Putin are currently in discussions during a high-stakes summit in Alaska that could determine the trajectory of the war in Ukraine and the fate of European security. Read more Putin says he and Trump reached an 'understanding,' but neither offers details on Ukraine war talks Trump says he will meet Putin next Friday in Alaska to discuss ending the Ukraine war President Donald Trump said Friday that he will meet with Russian President Vladimir Putin next Friday in Alaska to discuss ending the war in Ukraine, a potential major milestone after expressing weeks of frustration that more was not being done to quell the fighting Read more Trump says he will meet Putin next Friday in Alaska to discuss ending the Ukraine war New Hampshire judge to pause Trump’s birthright citizenship order A federal judge in New Hampshire said Thursday he will certify a class action lawsuit including all children who will be affected by President Donald Trump’s executive order ending birthright citizenship and issue a preliminary injunction blocking it. Read more New Hampshire judge to pause Trump’s birthright citizenship order +2 Florida Republicans sell 'Alligator Alcatraz' merchandise Supporters of Florida's new temporary detention center, known as "Alligator Alcatraz," are turning their support into a fashion statement. Read more Florida Republicans sell 'Alligator Alcatraz' merchandise The House gives final approval to Trump's big tax bill and sends it to him to sign WASHINGTON (AP) - House Republicans propelled President Donald Trump’s $4.5 trillion tax breaks and spending cuts bill to final congressional passage Thursday, overcoming multiple setbacks to approve his signature second-term policy package before a Fourth of July deadline. Read more The House gives final approval to Trump's big tax bill and sends it to him to sign Facebook Twitter YouTube TikTok Instagram News Team Contact WINK Privacy Policy Help Desk EEO Report Upload Files Public File Employment Terms of Use × Browser Compatibility Your browser is out of date and potentially vulnerable to security risks. We recommend switching to one of the following browsers: Microsoft Edge Google Chrome Firefox Copyright ©2025 WINK News | WINK Digital Media Powered by BLOX Content Management System from BLOX Digital .

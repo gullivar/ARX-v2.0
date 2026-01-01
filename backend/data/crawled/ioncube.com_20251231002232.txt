@@ -1,0 +1,141 @@
+Products 
+Pricing
+Online Licensing New! 
+Support
+Purchase
+News
+Login
+ionCube Encoder 15 released. See what's new.
+PHP ENCODER 15
+WITH PHP 8.4 SUPPORT
+NEW PHP 8.5 runtime support - try the Beta Loader now
+Secure your code with the most widely trusted PHP protection tool
+Unlimited Encoding
+|
+Unlimited Runtime Machines
+|
+PHP 5, 7 & 8 Support
+Buy Now
+Find Out More
+Free Trial
+Bytecode Protection
+Safeguard your intellectual property
+CI/CD Pipeline Support
+Seamless integration into modern devops
+Online Licensing
+Control access with flexible, powerful licensing
+Advanced Protection
+Use powerful dynamic encryption keys with custom generators to protect code
+CLI and GUI Options
+Command-line support for all platforms and GUI support on Win/MacOS
+Find out why developers use ionCube
+I've been using ionCube technology since 2012 to encode and protect my code.
+Lukasz Mazur from www.stat4seo.pl
+I wholeheartedly recommend this software to anyone in need of encoding. The customer support from ionCube is world-class.
+Joe A
+It’s a critical asset for maintaining the integrity of my work.
+Trung Huynh, Freelancer
+This technology enables us to safeguard our PHP server, ensuring the protection of our educational content when distributed via USB drives.
+Benoit D - assimo.com
+I highly recommend ionCube to any developer looking for an effective and easy-to-use source code protection solution.
+Nguyen Tien Minh, Founder, 1001gr.com
+ionCube has become an integral part of our everyday development cycle. It's an indispensable tool for us.
+Anton F, deinconsultant.de
+We are using ionCube in off the shelf products to protect our source code and business logic for 10 years. I highly recommend ionCube...
+Ahmet H, inosas.com.tr
+It also works smoothly on many hosting panels. Cpanel, Directadmin, Plesk.
+Hakan D, Senior Developer, Ofismo.com
+ionCube helped us implement an authorization solution based on IP address, Mac address, and domain name.
+Attwell Wang, Founder, www.zentao.net
+ionCube has been crucial in the delivery of our product, as code protection is of utmost importance.
+Remy Swaab, Business Development, NexorONE.com
+We have been using ionCube products to protect our code since 2017, and we never had any issues. It proved to be an invaluable tool, very straightforward to use!
+Vesna, Director WCL
+Your software has accompanied, optimized, and helped secure our software, which has never failed so far, and is why we continue to use it.
+Chan - EzyGold.com
+ionCube helped protect our intellectual property, improve the security of our applications.
+Leandro Farias, Idalus Internet Solutions
+From the developer standpoint, integrating ionCube into our workflows was straightforward and easy. If we had questions, ionCube support was there to assist us at every step.
+Sibin Grasic - CTO, oblak.host
+We use ionCube encoder to protect our intellectual code which we deploy on our customers server. In using ionCube we make sure that none of our source code gets leaked and destroys our Business.
+Michael L, futec-gmbh.de
+Included shell tools let us easily integrate ionCube encoder into release mechanisms, pulling unencoded sources from repositories and generating encrypted packages on the fly.
+Michael Stauber, Solarspeed.net
+ionCube has never caused a bug or altered the behavior of the code, which shows that ionCube is a very reliable choice.
+Dominik Bauer, Lead Developer, tenantos.com
+We highly recommend ionCube for any PHP project that needs effective source code protection. I've been using ionCube for over ten years.
+Gabriel M., ASSP Deluxe for cPanel
+Highly effective in preventing the illegal sale of our products. We have seen a significant reduction in unauthorized copying and distribution of our products.
+Breno Costa – CEO, lugsoft.com.br
+ionCube is a crucial part of our workflow in protecting our software from being altered or pirated.
+Mark E, Product Developer
+The perfect tool to develop quality modules without risk for our company. Now our entire team is very satisfied.
+Yhonatan Q., desarrollador de Módulos WHMCS
+Straightforward and well-documented. Thanks to ionCube, we've successfully protected our unique code from unauthorized sharing.
+Prashant Telang - TransPacific Software
+For projects where we employ a time-based billing model, ionCube's time-limited license provision proves invaluable in safeguarding our revenue streams.
+Oleg R, Founder, Mersibo Technologies
+The ability to automatically generate licenses on the server using the applications provided by ionCube for servers is a fantastic and easy-to-implement solution.
+Rafał Z, presta-mod.pl
+I've been using ionCube technology since 2012 to encode and protect my code.
+Lukasz Mazur from www.stat4seo.pl
+I wholeheartedly recommend this software to anyone in need of encoding. The customer support from ionCube is world-class.
+Joe A
+It’s a critical asset for maintaining the integrity of my work.
+Trung Huynh, Freelancer
+This technology enables us to safeguard our PHP server, ensuring the protection of our educational content when distributed via USB drives.
+Benoit D - assimo.com
+I highly recommend ionCube to any developer looking for an effective and easy-to-use source code protection solution.
+Nguyen Tien Minh, Founder, 1001gr.com
+ionCube has become an integral part of our everyday development cycle. It's an indispensable tool for us.
+Anton F, deinconsultant.de
+We are using ionCube in off the shelf products to protect our source code and business logic for 10 years. I highly recommend ionCube...
+Ahmet H, inosas.com.tr
+It also works smoothly on many hosting panels. Cpanel, Directadmin, Plesk.
+Hakan D, Senior Developer, Ofismo.com
+Online Licensing Suite
+Manage Licensing with Ease
+Add licensing protection for your code and set restrictions online with our ready-made license manager (optional add-on for Pro and Cerberus Edition products).
+•Create and download licenses directly at ioncube.com.
+•Setup projects with default passphrases, properties and expiry.
+•Create project variants and versions with customised settings.
+•Create users with server restrictions and apply to licenses.
+•View licenses and their expiry status in our overview.
+
+Watch below and learn more about Online Licensing
+
+Try Online Licensing with an ionCube Encoder free trial
+or click Learn More to access an online demo.
+
+Offer: 2 months free included with new Pro/Cerberus purchases
+Learn More
+Get Free Trial
+ionCube Online Encoder
+Protect PHP Code with Our Low-Cost Solution for Smaller Projects
+Upload
+Set PHP Version
+Encode
+Our simplified encoding solution is perfect for smaller projects, providing quick protection and preventing unauthorized access.
+Go to Online Encoder
+ionCube Loader
+Need to run a plugin or app?
+ionCube Loader is required to run encoded PHP files and is available on many popular web hosts by default. With support for over 10 platforms as standard, it's easy for end users to set up.
+•Upload the Loader Wizard script for assisted installation
+•Run it in your browser to detect your setup
+•Follow the steps to install and configure
+
+Get the Loader
+ionCube 24
+Service Monitoring, Website Security and Error Capture
+Essential website utilities all in one suite.
+•Protect against malware and website defacement.
+•Real-Time detection and management.
+•Unexpected new or modified files instantly blocked.
+•Real-time PHP and JS error reporting.
+
+Find Out More
+
+About ionCube  |  News  |  Jobs  |  Partners  |  Consultancy  |  Terms and Conditions  |  Privacy & Cookies Policy  |  Acknowledgements
+
+Copyright 2002-2025 ionCube Ltd. VAT GB-814942816.  All rights reserved. ionCube and the ionCube logo are registered trademarks of ionCube Ltd.
+Prices exclude VAT. VAT is applied if purchasing from the UK or from the European Union by a non-business customer. The shopping cart will show any VAT due based on your country before the purchase is finalized.

@@ -1,0 +1,211 @@
+Skip to content
+Products
+Solutions
+Our Company
+Support
+Learning & community
+Buy now
+End-to-end Database DevOps
+
+Unlock the value of the database
+
+Request a demoDiscover more
+
+Solve the complex challenges of database management across the DevOps lifecycle on any database, any platform, anywhere.
+
+25 years
+as industry leader of database solutions
+
+92% of the Fortune 100
+use Redgate software
+
+200,000 customers
+rely on Redgate worldwide
+
+WATCH OUR KEYNOTE
+
+The database professional of the future
+
+NEW PRODUCT
+
+Redgate Test Data Manager: Transform your software delivery with Test Data Management
+Redgate's end-to-end solutions
+Reliably solve the complex challenges of database management and ensure security across the DevOps lifecycle
+Security and compliance
+
+Ensure data security and compliance with data masking, monitoring, and change traceability
+
+Database monitoring and observability
+
+Monitor and understand your databases with full visibility into performance and change
+
+Database change management
+
+Build, test, and deploy database changes with confidence
+
+Productivity and workflow automation
+
+Simplify and speed up database development workflows
+
+AI data readiness
+
+Prepare reliable data foundations for AI initiatives
+
+Database modernization
+
+Simplify and secure database modernization across platforms
+
+Efficiency and cost optimization
+
+Control costs and boost efficiency in database operations
+
+Cloud migration and workload optimization
+
+Simplify and speed up cloud database transformation
+
+Get an overview of our solutions
+
+“We've freed up the DBA team by 70-80%. That's the ROI, and the leadership team can understand that too.”
+
+Chris Yates, Assistant Vice President, Republic Bank
+
+“Code goes from months to deploy, to days. When we want to bring out new functionality for the customer, we can do it really quick. That's the real benefit.”
+
+Jon Forster, Senior Global Program Manager, Fitness First
+
+“We knew the investment made sense and we were going to recover the cost fast. The best proof is that all the developers love Redgate's solution and use it on a daily basis. It's become a standard part of our development process.”
+
+Arnold Dieterle, Development Manager, VEGA Grieshaber
+
+“We were doing one database update a week, which took almost a full day. Now it takes ten minutes. We've automated 90% of the process, and we can now scale our application to more servers and markets without increasing our overhead.”
+
+Luis Abreu, CTO, Nmbrs
+
+“Redgate has helped LumiData deliver a foolproof development cycle rivaling that of any company, Microsoft included. We can now have major database revisions or releases out in minutes and distributed to all of our clients' databases.”
+
+John Trumbul, Senior Software Engineer, Lumidata
+Previous
+Next
+Our products
+
+Reliable and secure test data provisioning.
+
+Redgate Flyway
+
+Bring stability and speed to database deployments.
+
+Redgate Monitor
+
+Real-time multi-platform performance monitoring, with alerts and diagnostics.
+
+See all our products
+
+World class support and expert resources at every turn
+
+From scoping to implementation and beyond, we help you get value fast and ensure long term success.
+
+WEBINAR
+
+Redgate Product Launch: Transform your software delivery with Test Data Management
+
+WEBINAR
+
+PostgreSQL 101: Database monitoring and optimization
+
+BLOG
+
+The ten habits for highly successful compliant database DevOps
+
+CASE STUDY
+
+Streamlining database deployments with Redgate
+
+Discover all the latest insights
+
+Compliance & certification
+
+Redgate is ISO 27001:2022 certified.
+
+For more information on privacy, security, certifications, and compliance, see our trust center.
+
+Community is always at the heart of Redgate
+
+For over 25 years we've collaborated with, learnt from, and supported the data community. Together solving the complex challenges of database management.
+
+See our latest events
+
+Read our latest Simple Talk articles
+
+NEW REPORT
+
+2025 State of the Database Landscape
+
+The 2025 State of the Database Landscape Report sheds light on the current state of database management and offers valuable insights into how organizations can navigate and simplify the growing complexities.
+
+Download the report
+
+FREE BOOK
+
+Introduction to PostgreSQL for the data professional
+
+From getting your first instance, to server configurations, we cover the PostgreSQL basics.
+
+Get your free copy
+
+Products
+Redgate Monitor
+Redgate Flyway
+Redgate Test Data Manager
+SQL Toolbelt Essentials
+SQL Prompt
+SQL Compare
+Solutions
+Security and compliance
+Database monitoring and observability
+Database change management
+Productivity and workflow automation
+Cloud migration and workload optimization
+Database modernization
+Efficiency and cost optimization
+AI data readiness
+Support
+Forums
+Contact product support
+Find my licenses
+Download older versions
+Our Company
+Careers
+Contact us
+Redgate Blog
+Our values
+Leadership
+Trust Center
+License agreement
+Privacy and cookies
+Modern slavery statement
+CCPA 
+Accessibility
+Community
+Podcast
+Simple Talk
+Redgate Advocates
+SQL Server Central
+Learning
+Product Articles
+Events
+University
+Books
+Partners
+Resellers
+Consulting partners
+Follow us
+Copyright 1999 - 2025 Red Gate Software Ltd
+Cookies on red-gate.com
+
+This website stores cookies on your computer.
+
+These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media.
+
+To find out more about the cookies we use, see our Privacy Policy.
+
+Accept additional cookiesReject additional cookiesCustomize additional cookies

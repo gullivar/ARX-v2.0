@@ -1,0 +1,35 @@
+This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.Learn moreOK, got it
+The Chromium Projects
+Search
+⌘
+K
+Home
+Chromium
+ChromiumOS
+Quick links
+Report bugs
+Discuss
+Other sites
+Chromium Blog
+Google Chrome Extensions
+Except as otherwise noted, the content of this page is licensed under a Creative Commons Attribution 2.5 license, and examples are licensed under the BSD License.
+Privacy
+Edit this page
+
+The Chromium projects include Chromium and ChromiumOS, the open-source projects behind the Google Chrome browser and Google ChromeOS, respectively. This site houses the documentation and code related to the Chromium projects and is intended for developers interested in learning about and contributing to the open-source projects.
+
+Chromium
+
+Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web. This site contains design documents, architecture overviews, testing information, and more to help you learn to build and work with the Chromium source code.
+
+Looking for Google Chrome?
+
+Download Google Chrome
+
+ChromiumOS
+
+ChromiumOS is an open-source project that aims to provide a fast, simple, and more secure computing experience for people who spend most of their time on the web. Learn more about the project goals, obtain the latest build, and learn how you can get involved, submit code, and file bugs.
+
+Looking for Google ChromeOS devices?
+
+Visit the Google ChromeOS site

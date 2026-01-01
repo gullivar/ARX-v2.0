@@ -1,0 +1,2 @@
+Welcome to OpenResty! Welcome to OpenResty! If you see this page, the OpenResty web platform is successfully installed and
+working. Further configuration is required. For online documentation and support please refer to our openresty.org site Commercial support is available at openresty.com . We have articles on troubleshooting issues like high CPU usage and large memory usage on our official blog site . Thank you for flying OpenResty .

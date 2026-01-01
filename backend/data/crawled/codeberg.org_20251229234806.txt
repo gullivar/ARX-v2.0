@@ -1,0 +1,89 @@
+Codeberg has changed its Terms of Use to allow more licenses for your projects. For more information, read our blog post.
+Dismiss
+Explore
+About
+FAQ
+Help
+Donate
+Register
+Sign in
+Software development, but free!
+
+Codeberg is a non-profit, community-led effort that provides Git hosting and other services for free and open source projects.
+
+BLOG
+DOCS
+NON-PROFIT
+
+Codeberg is maintained by the non-profit organization Codeberg e.V., based in Berlin, Germany. For us, supporting the commons comes first.
+
+Its future is in the hands of its users. You can help too!
+
+COMMUNITY
+
+We are more than just Git hosting: Our community is comprised of like-minded developers, artists, academics, hobbyists and professionals.
+
+We celebrate free culture, openness and creativity.
+
+RESPECT
+
+No tracking. No third-party cookies. No profiteering. Everything runs on servers that we control. Your data is not for sale.
+
+Hosted in Europe, we welcome the world.
+
+Register now.
+PROJECTS
+
+361697
+
+USERS
+
+239999
+
+e.V. MEMBERS
+
+1300+
+
+POWERED BY
+
+Your support helps us grow!
+Become a member
+
+Our non-profit structure reinforces our independence. Your donations and contributions sustain our community. Help us achieve our mission by joining Codeberg e.V. as a supporting or active member with full voting rights!
+
+Fund our project
+
+Free as in freedom, not as in beer! Maintaining our systems and developing our software has its costs, which are backed by optional donations. We appreciate them a lot, as they help provide a better service for everyone.
+
+Develop Codeberg
+
+Powered by Free Software! Get involved with Codeberg and help improve your experience. We are always looking for contributions to our projects and services.
+
+Powered by
+
+with modifications
+Codeberg
+Blog
+Documentation
+Community Issues
+Contributing
+Report Abuse
+Association
+Who are we?
+Bylaws / Satzung
+Donate
+Join / Support
+Contact
+Services
+Codeberg Pages
+Codeberg Translate
+Woodpecker CI
+Forgejo API
+Status Page
+Legal
+Imprint / Impressum
+Privacy Policy
+Licenses
+Terms of Use
+Mastodon | Matrix Space (Web link) 
+English

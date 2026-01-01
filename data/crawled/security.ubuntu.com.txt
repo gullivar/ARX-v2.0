@@ -1,0 +1,94 @@
+Skip to main content
+Canonical Ubuntu
+Products
+Use cases
+Support
+Community
+Download Ubuntu
+All Canonical
+Sign in
+Security
+Platform Security
+ESM
+Livepatch
+Security standards
+CVEs
+Notices
+Assurances
+Ubuntu Security Notices
+
+Developers issue an Ubuntu Security Notice when a security issue is fixed in an official Ubuntu package. You can find additional guidance for high-profile vulnerabilities in the Ubuntu Vulnerability Knowledge Base section.
+
+To report a security vulnerability in an Ubuntu package, please contact the Security Team.
+
+The Security Team also produces OVAL files for each Ubuntu release. These are an industry-standard machine-readable format dataset that contain details of all known security vulnerabilities and fixes relevant to the Ubuntu release, and can be used to determine whether a particular patch is appropriate. OVAL files can also be used to audit a system to check whether the latest security fixes have been applied.
+
+Subscribe for updates  
+
+Mailing list
+Atom
+RSS
+Search USNs
+
+USN ID, name, description or CVE ID contains
+
+Search
+Search
+
+Filter by Ubuntu releases
+
+All maintained releases
+24.04 LTS noble
+22.04 LTS jammy
+
+Still maintained with Ubuntu Pro
+
+20.04 LTS focal
+18.04 LTS bionic
+16.04 LTS xenial
+14.04 LTS trusty
+
+Show unmaintained releases
+
+Apply filters
+Clear all filters
+
+1 - 10 of 10128 results
+
+USN-7940-1: Linux kernel (Azure FIPS) vulnerabilities
+
+17 December 2025
+
+Several security issues were fixed in the Linux kernel.
+
+Ubuntu 24.04 LTS
+
+CVE ID
+
+CVE-2025-22060, CVE-2025-39682, CVE-2025-22018 + 70 others
+
+USN-7939-2: Linux kernel (Azure FIPS) vulnerabilities
+
+16 December 2025
+
+Several security issues were fixed in the Linux kernel.
+
+Ubuntu 20.04 LTS
+
+CVE ID
+
+CVE-2024-56664, CVE-2025-21727, CVE-2023-52854 + 20 others
+
+USN-7939-1: Linux kernel (Azure) vulnerabilities
+
+16 December 2025
+
+Several security issues were fixed in the Linux kernel.
+
+Ubuntu 20.04 LTS, 18.04 LTS
+
+CVE ID
+
+CVE-2024-50067, CVE-2025-40300, CVE-2025-39993 + 20 others
+
+US

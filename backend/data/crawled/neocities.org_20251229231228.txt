@@ -1,0 +1,101 @@
+Neocities
+Websites
+Activity
+Learn
+Support Us
+Sign In
+Create your own free website.
+Unlimited creativity, zero ads.
+
+Neocities is a social network of 1,406,900 web sites that are bringing back the lost individual creativity of the web. We offer free static web hosting and tools that allow you to create your own web site. Join us!
+
+Powerful features to help you build
+
+We’ve made it easy to build your web site and explore other sites. Neocities features an in-browser HTML editor, a command line tool, custom domain support, fast site performance, easy file uploading, RSS feeds, and so much more.
+
+Share your web creation with the world
+
+It's your web site, your vision. Make it as normal or crazy as you want. You're the artist, you're in control.
+
+Sign up for free
+Username
+ .neocities.org
+Tags (your interests, site topics)
+Password
+Email
+Confirm you are human
+Featured Sites
+Browse more sites
+Our mission: To make the web fun again by giving you back control of how you express yourself online.
+ HTML editor, right in your browser
+
+No tools needed. With our easy-to-use HTML editor, you're ready to start building your awesome website right now.
+
+If you'd rather use your favorite desktop editor, no problem. Uploading files is as easy as drag-n-drop.
+
+ Welcome back, web surfing
+
+All Neocities sites are viewable and easily surfable in our website gallery.
+
+Using tags (our version of Web Rings) you can easily discover new sites related to your interests.
+
+ Follow your favorite Neocities sites
+
+Keep track of all your favorite sites by following them. Any changes to the sites automatically show up in your news feed. You'll also see what sites they follow.
+
+ Web creativity plus community
+
+Interact with your favorite web builders by posting comments, and sharing their sites on your social network of choice.
+
+Zero Advertising, Zero AI Data Selling
+
+Neocities will never sell your data for AI training or put advertising on your site. Instead, we are funded directly by people just like you with supporter accounts and donations.
+
+Fast Site Loading
+
+Neocities operates our own caching anycast CDN in over a dozen datacenters all over the world to quickly serve your site to visitors with strong SSL and support for HTTP/2. Our strict focus on static web hosting allows us to routinely out-perform the pricey cloud services on reliability, speed and uptime.
+
+Developer Tools
+
+Our fast static hosting comes with a great in-browser HTML editor, easy file uploading, a command line tool, RSS feeds for every site, APIs for building developer applications, and much more!
+
+Open Source
+
+We publish the code that powers the site for inspection. We want to win your trust—not lock you in.
+
+46,783,893,283
+Site Hits
+12,693,678,701
+Site Visitors
+294,668,033
+Site Updates
+Rather than a constantly rushing river of information, Neocities sites are like homes where users fix them up, spend time on them, and invite others to visit.
+— Rosy Hearts, Polygon. View All Press »
+What are you waiting for? Start building your website now!
+Support Us
+
+Neocities doesn't have investors. Since 2013, we have been 100% powered by supporters and donations from people just like you.
+
+Donate
+About Us
+
+Neocities is here to bring back the creativity and free expression to the world wide web that made it great.
+
+More About Us
+News
+
+The latest news on Neocities can be found on our blog.
+
+Read More Posts
+
+Neocities is open source. Follow us on Bluesky
+
+ABOUT
+DONATE
+CLI
+BLOG
+API
+PRESS
+STATUS
+TERMS
+CONTACT

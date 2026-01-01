@@ -1,0 +1,320 @@
+ページの先頭です
+
+ページ内移動用のリンクです
+サイト内共通メニューへ移動します
+ヘッダーメニューへ移動します
+本文へ移動します
+
+法人のお客様
+個人のお客様
+企業情報
+技術情報
+IR情報
+サステナビリティ
+採用情報
+
+検索
+
+お問合せ
+
+English
+
+メニュー
+IIJセキュリティドクター
+企業の“かかりつけ医”としてお客様に最適化された
+セキュリティ対策を伴走支援
+サービスページを見る
+Recruit
+IIJと、インターネット・ITの未来を
+共に切り拓いていく仲間を募集しています。
+IIJの採用情報を見る
+3分でわかるIIJ
+IIJは高い技術力をもとに、企業・官公庁から個人のお客様まで
+広くインターネットサービスを提供しています。
+IIJについて詳しく知る
+Internet Infrastructure Review（IIR）
+日々のサービス運用から得られる各種データをまとめた定期観測情報や、
+IIJで研究・開発している幅広い技術を紹介する季刊技術レポートです。
+
+Vol.68 2025年12月
+・IIJインフラから見たインターネットの傾向〜2025年
+・DNSフルリゾルバbowlineの設計と実装
+・古くて新しい衛星インターネット、Starlinkが変えていく世界
+・生成AIによる社内RAG基盤とマルチエージェント連携への拡張 〜 実装技術と業務効率化の成果、今後の展望 〜
+Vol.68を見る
+IIJセキュリティドクター
+企業の“かかりつけ医”としてお客様に最適化された
+セキュリティ対策を伴走支援
+サービスページを見る
+Recruit
+IIJと、インターネット・ITの未来を
+共に切り拓いていく仲間を募集しています。
+IIJの採用情報を見る
+3分でわかるIIJ
+IIJは高い技術力をもとに、企業・官公庁から個人のお客様まで
+広くインターネットサービスを提供しています。
+IIJについて詳しく知る
+Internet Infrastructure Review（IIR）
+日々のサービス運用から得られる各種データをまとめた定期観測情報や、
+IIJで研究・開発している幅広い技術を紹介する季刊技術レポートです。
+
+Vol.68 2025年12月
+・IIJインフラから見たインターネットの傾向〜2025年
+・DNSフルリゾルバbowlineの設計と実装
+・古くて新しい衛星インターネット、Starlinkが変えていく世界
+・生成AIによる社内RAG基盤とマルチエージェント連携への拡張 〜 実装技術と業務効率化の成果、今後の展望 〜
+Vol.68を見る
+IIJセキュリティドクター
+企業の“かかりつけ医”としてお客様に最適化された
+セキュリティ対策を伴走支援
+サービスページを見る
+Previous
+1
+2
+3
+4
+一時停止
+Next
+News
+プレスリリース
+IRニュース
+サービス
+技術・研究開発
+お知らせ
+
+2025/12/29
+
+IIJグループ
+プレスリリース
+九州フィナンシャルグループ、肥後銀行、鹿児島銀行とのデジタル通貨の活用に関する共同検討について【ディーカレットDCP】
+
+2025/12/26
+
+IIJグループ
+プレスリリース
+国内初のトークン化預金によるセキュリティトークン決済の実発行検証に関する協業開始について【ディーカレットDCP】
+
+2025/12/25
+
+IIJグループ
+プレスリリース
+役員体制に関するお知らせ【ディーカレットDCP】
+
+2025/12/19
+
+IIJグループ
+プレスリリース
+トークン化預金活用によるクリエイターエコノミーの実現【ディーカレットDCP】
+
+2025/12/18
+
+IIJ
+プレスリリース
+法人向け端末販売サービス「IIJモバイルサプライサービス」において、サークル・ワン製「IP無線機 コスモトーク C580-MTR」、Samsung製タブレット「Samsung Galaxy Tab A11+ 5G」、NECプラットフォームズ製ルータ「Aterm HT100LN」を販売開始
+
+プレスリリース 一覧へ
+
+Event
+イベント・セミナー 一覧へ
+情シス・DX部門向け IT投資評価スキル習得ワークショップ
+2026年2月25日（水）
+会場：
+東京
+攻撃面の見える化と従業員の行動改善で守る効果的な対策とは？
+2026年1月14日（水）
+会場：
+オンライン
+“つなぐだけ”で業務効率化！desknet’s NEOと社内システムをノーコードで連携
+2026年1月22日（木）
+会場：
+オンライン
+情シス・DX部門向け IT投資評価スキル習得ワークショップ
+2026年2月25日（水）
+会場：
+東京
+攻撃面の見える化と従業員の行動改善で守る効果的な対策とは？
+2026年1月14日（水）
+会場：
+オンライン
+“つなぐだけ”で業務効率化！desknet’s NEOと社内システムをノーコードで連携
+2026年1月22日（木）
+会場：
+オンライン
+情シス・DX部門向け IT投資評価スキル習得ワークショップ
+2026年2月25日（水）
+会場：
+東京
+Previous
+一時停止
+Next
+Service & Solution
+
+これまで培ったコア技術とサービスで、IIJはネットワーク社会の基盤を支えています。
+
+法人のお客様向けサービス・ソリューション
+検索する
+課題・テーマ別
+モバイル・テレワーク
+ネットワーク
+クラウド・データセンター
+セキュリティ
+メール・Web・DNS
+IoT
+動画・配信
+グローバル
+プライバシー
+特定業種向け
+システムインテグレーション
+法人向けサービスを見る
+最新事例
+インフォテクノスコンサルティング株式会社 様
+
+社内システムのMicrosoft Azure移行・運用に関するよろず相談を実施
+各システムの特性に合わせ、AzureとAWSを使い分けたクラウド基盤を構築
+
+#Microsoft Azure
+#AWS
+#マルチクラウド
+#よろず相談
+恒栄電設株式会社 様
+
+内部不正によるセキュリティリスクをIIJのワークショップで可視化
+クラウド型IT資産管理ツールでセキュリティ対策強化と管理負荷軽減を実現
+
+#無料ワークショップ
+#IT資産管理
+#LANSCOPE
+#エンドポイント対策
+導入事例一覧を見る
+個人のお客様向けサービス
+個人向けインターネットサービス
+「IIJmio」
+話題のeSIMや5G対応をはじめ、各種サービスも充実。
+好きな機能を選んで使えて、おトクにスマホを利用できます。
+個人向けサービスを見る
+Technology
+Topics
+IIJ Engineers Blog
+IIJ TECHアドベントカレンダー
+クリスマスに向けて、IIJグループのエンジニアが技術情報をリレー形式でお届けします。
+お役立ち情報
+IIJインターネット図鑑
+普段あまり意識しないネットの裏側や歴史を解説！
+wizSafe
+サポート詐欺サイトへのアクセス増加に伴う注意喚起
+IIJが分析したサポート詐欺の手口と対処についてポイントをまとめました。
+IIJ Engineers Blog
+土の中のデータを読む～IoTと柑橘農業
+IIJが愛媛県で取り組む農業DXをご紹介します。
+IIJ Engineers Blog
+IIJ TECHアドベントカレンダー
+クリスマスに向けて、IIJグループのエンジニアが技術情報をリレー形式でお届けします。
+お役立ち情報
+IIJインターネット図鑑
+普段あまり意識しないネットの裏側や歴史を解説！
+wizSafe
+サポート詐欺サイトへのアクセス増加に伴う注意喚起
+IIJが分析したサポート詐欺の手口と対処についてポイントをまとめました。
+IIJ Engineers Blog
+土の中のデータを読む～IoTと柑橘農業
+IIJが愛媛県で取り組む農業DXをご紹介します。
+IIJ Engineers Blog
+IIJ TECHアドベントカレンダー
+クリスマスに向けて、IIJグループのエンジニアが技術情報をリレー形式でお届けします。
+お役立ち情報
+IIJインターネット図鑑
+普段あまり意識しないネットの裏側や歴史を解説！
+wizSafe
+サポート詐欺サイトへのアクセス増加に伴う注意喚起
+IIJが分析したサポート詐欺の手口と対処についてポイントをまとめました。
+Previous
+一時停止
+Next
+IIJアカデミー
+未来のネットワーク社会を担うトップエンジニア育成のために、IIJは実践的な知識・スキルを習得できる学びの場を提供をいたします。
+IIJ Engineers Blog
+開発・運用の現場から、IIJのエンジニアが技術的な情報や取り組みについて執筆する公式ブログです。
+つなぎ、つながる、物語 ～ The IIJ Stories ～
+人と人とをつなげるネットワーク。そこには必ず「物語」が生まれます。
+「つなぎ、つながる、物語」。さまざまなIIJサービスの開発エピソードや、担当者の思いを紹介しています。
+IIJ BizRisポータル
+IIJ ビジネスリスクマネジメントポータルは世界のプライバシー保護規制対応を支援する情報を発信しています。
+車いすフェンシング　CAT.B日本代表笹島貴明
+IIJ所属パラアスリート笹島の活動・コラム記事を紹介します。
+About IIJ
+企業情報
+株主・投資家向け情報
+サステナビリティ
+IIJ.news（広報誌）
+Vol.191 December 2025
+特集　導入事例に学ぶDX―― 価値創造のためのデジタル実装
+最新号はこちら
+連載記事・バックナンバーはこちら
+Recruit
+IIJと、インターネット・ITの未来を
+共に切り拓いていく仲間を募集しています。
+採用情報
+採用コラム
+Contact
+ご相談やご質問など
+どんなことでもお気軽にお問い合わせください
+お問い合わせはこちら
+SNS
+公式アカウント一覧
+
+ここからフッターメニューです
+
+法人のお客様
+サービスを探す
+導入事例
+最新のITを知る・学ぶ
+パートナープログラム
+ご契約中のお客様へ
+個人のお客様
+IIJmio
+セキュリティ教育プログラム
+IIJプライバシー研修
+IIJについて
+企業情報
+情報発信
+IIJアカデミー
+海外ITトレンド情報
+IR情報
+経営方針
+IRライブラリー
+ESGへの取り組み
+財務ハイライト
+統合報告ポータル
+株式情報
+個人投資家の皆様へ
+IRイベント
+その他IR情報
+サステナビリティ
+トップメッセージ
+サステナビリティへの考え方
+IIJの重要課題
+ガバナンス
+統合報告
+社会貢献
+技術情報
+採用情報
+お問い合わせ
+IIJのセキュリティに関する取り組み
+IIJが送受信するメールの添付ファイルに関するポリシー
+
+個人情報保護ポリシー
+情報セキュリティ基本方針
+サイトについて
+利用者情報の外部送信について
+Privacy Settings
+© Internet Initiative Japan Inc.
+
+ページの終わりです
+
+ページの先頭へ戻る
+
+We use cookies and other tracking technologies (Cookies) on our website to enhance its functionality, provide content and advertisements tailored to your interests, offer social media features and improve our website through access analysis. The data regarding your use of our website collected through these Cookies may be shared with our partners that provide advertising, social media and/or analytics services. These partners may combine the data shared by us with other data that you have provided to them or that they have collected from your use of their services or other websites to analyze and optimize advertisements delivered to you by businesses other than us on the internet. If you wish to reject the use of all Cookies except for Strictly Necessary Cookies, please click "Reject All". If you want to continue browsing with Cookies enabled, please click "OK". To select your preferences for each purpose, please click "Privacy Settings". You can change your consent or through the "Privacy Settings" button (or link) located in our Cookie Policy or the website footer.
+Privacy Settings
+Reject All
+OK
+Powered by Internet Initiative Japan Inc.

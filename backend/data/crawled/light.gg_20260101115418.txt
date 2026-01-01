@@ -1,0 +1,1739 @@
+light.gg Destiny 2 Database, God Rolls, Loadouts, Collection Manager, and Collection Leaderboard
+light.gg
+ 
+Heroic Settings
+Dark Mode
+Change Accounts
+Sign Out
+Home
+Sign In
+Database
+Renegades
+All New Items
+Equilibrium Gear
+Lawless Frontier Gear
+New Exotics
+New Armor
+New Weapons
+New Subclasses ?
+New Cosmetics
+New Quests
+Trials Gear
+Iron Banner Gear
+Vanguard
+Crucible
+Full Destiny 2 Database
+All Items
+Exotics
+Weapons
+All Armor
+Titan Gear
+Hunter Gear
+Warlock Gear
+Cosmetics
+Inventory Items
+Quests
+Bounties
+Craftable Weapons
+Weapon Recipes
+Subclasses
+Legend
+Patterns & Catalysts
+Collections
+Triumphs
+Badges
+Titles
+Vendors
+Loadouts
+Loadout Analytics
+High-level stats on what loadouts are most popular among high-skill players in the global Destiny 2 Community.
+Loadout Database
+Comprehensive list of thousands of individual loadouts from high-skill players across endgame activities.
+Frequently Asked Questions
+Learn how the Loadouts system works, what it's trying to accomplish, and more.
+Give Feedback
+Let us know what you think of the new Loadouts system, report bugs, and suggest improvements by joining our Discord.
+God Rolls
+Popular Weapons
+All Weapons
+Auto Rifles
+Combat Bows
+Fusion Rifles
+Glaives
+Grenade Launchers
+Hand Cannons
+Linear Fusion Rifles
+Machine Guns
+Pulse Rifles
+Rocket Launchers
+Scout Rifles
+Shotguns
+Sidearms
+Sniper Rifles
+Submachine Guns
+Swords
+Trace Rifles
+Tools
+Popular Trait Combos
+Visualization of what Trait Combos (Perks 3+4) are most popular among the global Destiny 2 Community, broken down by original season.
+God Roll Hub
+In-depth stats on what perks, weapons, and more are most popular among the global Destiny 2 Community to help you find your personal God Roll.
+Roll Appraiser
+Assess your entire arsenal with all perks in one place. Compare your rolls against what's popular in the community with S thru F Popularity Ranks or against theorycrafter opinions with God Roll tags.
+God Roll Finder
+Flexible tool to find which weapons can drop with specific combinations of perks. Tons of filters to drill to specifically what you're looking for.
+Tools
+Season Pass Tracker
+Track your progress through this season's pass with Estimated Completion, XP/Hour, and more.
+Bounty & Quest Tracker
+Track the progress of all of your bounties, quests, milestones, catalysts, and more in one place.
+API Update Tracker
+Detailed breakdown of what API elements change with each update from Bungie.
+Item Comparer
+Compare stats and possible perks for multiple weapons at once.
+Collection
+Collection Manager
+Complete your collection with custom scoring and objectives across all activity types.
+Renegades
+Edge of Fate
+Trials
+Raids
+Lore
+Exotic Gear
+Vanguard
+The Crucible
+Iron Banner
+Emblems
+Checklists
+Collection Leaderboards
+See how your collection stacks up against other members of the light.gg community.
+Overall
+Renegades
+Edge of Fate
+Trials
+Raids
+Lore
+Exotic Gear
+Vanguard
+Crucible
+Iron Banner
+Emblems
+More
+Rolldle
+Wordle-inspired game for Destiny 2 fans. Given a weapon and a popularity rank, guess the roll! Test your perk knowledge with the daily challenge, or see how long you can last in infinite mode!
+Heroic Membership
+Support the community and gain exclusive benefits, such as ad-free browsing, private servers, exclusive merch, and more.
+Report a Bug
+Hit a snag? Contact us on our bug report Discord to get help.
+Please consider disabling your ad blocker.
+Or, become Heroic and browse ad-free for $2/mo.
+Remove All Ads PLAY
+Armor 3.0 Set Bonus Guide
+All current Set Bonuses and more details about the new system.
+GO
+New tool: Popular Weapons
+Dive into what weapons are most popular – by weapon type, archetype, and overall.
+LAUNCH
+New tool: Popular Trait Combos
+Learn More
+LAUNCH
+Loadout Analytics is back!
+Learn More
+LAUNCH
+ 
+Roll Appraiser now integrates with DIM!
+Learn More
+LAUNCH
+THE SIEVE Inactive
+Next @ 0:29:43
+Full Schedule
+LOST SECTORS
+Cosmodrome
+Exodus Garden 2A
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Dreaming City
+Bay of Drowned Wishes
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+EDZ
+Excavation Site XII
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Europa
+Bunker E15
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Moon
+K1 Crew Quarters
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Neomuna
+Hydroponics Delta
+THREATS 
+CHAMPS  
+OVERCHARGE 
+Nessus
+The Conflux
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Pale Heart
+The Blooming Deep
+THREATS 
+SHIELDS  
+CHAMPS  
+OVERCHARGE 
+Throne World
+Sepulcher
+THREATS 
+SHIELDS  
+CHAMPS  
+OVERCHARGE 
+LOST SECTORS
+Collapse
+Time Remaining
+14:05:43
+Cosmodrome
+ Exodus Garden 2A
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Dreaming City
+ Bay of Drowned Wishes
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+EDZ
+ Excavation Site XII
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Europa
+ Bunker E15
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Moon
+ K1 Crew Quarters
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Neomuna
+ Hydroponics Delta
+THREATS 
+CHAMPS  
+OVERCHARGE 
+Nessus
+ The Conflux
+THREATS 
+SHIELDS 
+CHAMPS  
+OVERCHARGE 
+Pale Heart
+ The Blooming Deep
+THREATS 
+SHIELDS  
+CHAMPS  
+OVERCHARGE 
+Throne World
+ Sepulcher
+THREATS 
+SHIELDS  
+CHAMPS  
+OVERCHARGE 
+THE SIEVE
+Collapse Full Schedule
+Current Status: Inactive
+0:29:43
+Upcoming Windows
+Windows are in your local time
+12:24 PM
+2:38 PM
+4:52 PM
+7:06 PM
+9:20 PM
+11:34 PM
+THE PORTAL
+ Double Bonus Focus
+14:05:43  105  17                       
+VANGUARD
+Birthplace of the Vile
+REWARD 
+110:05:43               
+HUNTER  75  75  75  75   75  75  75  75 
+TITAN  75  75  75  75   75  75  75  75 
+WARLOCK  75  75  75  75   75  75  75  75 
+VANGUARD ARSENAL
+Collapse
+New Weapons
+110:05:43
+Grandmaster Vanguard Alert
+BIRTHPLACE OF THE VILE
+Sarpedon-D
+UPGRADED
+Vanguard Arsenal: Weapons
+  
+Nox Sidereal IV
+  
+Nox Sidereal IV
+  
+Nox Sidereal IV
+  
+Nox Sidereal IV
+  
+Nox Sidereal IV
+Vanguard Arsenal: Armor
+Hunter
+  75
+Ferropotent Mask
+ 20  30  25
+ 0  0  0
+  75
+Ferropotent Grips
+ 25  0  30
+ 0  0  20
+  75
+Ferropotent Cuirass
+ 20  30  25
+ 0  0  0
+  75
+Ferropotent Strides
+ 0  0  20
+ 30  25  0
+  75
+Ferropotent Cloak
+ 25  20  30
+ 0  0  0
+ 
+  75
+Wild Anthem Mask
+ 25  20  30
+ 0  0  0
+  75
+Wild Anthem Grips
+ 0  30  25
+ 0  0  20
+  75
+Wild Anthem Vest
+ 0  20  0
+ 0  30  25
+  75
+Wild Anthem Strides
+ 0  25  20
+ 0  0  30
+  75
+Wild Anthem Cloak
+ 20  0  0
+ 0  30  25
+Titan
+  75
+Ferropotent Head
+ 0  30  25
+ 0  0  20
+  75
+Ferropotent Gauntlets
+ 30  0  20
+ 25  0  0
+  75
+Ferropotent Plate
+ 30  20  0
+ 25  0  0
+  75
+Ferropotent Greaves
+ 0  30  25
+ 0  20  0
+  75
+Ferropotent Mark
+ 20  0  0
+ 30  25  0
+ 
+  75
+Wild Anthem Helm
+ 30  20  0
+ 25  0  0
+  75
+Wild Anthem Gauntlets
+ 0  0  20
+ 30  25  0
+  75
+Wild Anthem Plate
+ 0  30  25
+ 0  0  20
+  75
+Wild Anthem Greaves
+ 30  20  0
+ 25  0  0
+  75
+Wild Anthem Mark
+ 0  0  0
+ 20  30  25
+Warlock
+  75
+Ferropotent Cover
+ 20  0  0
+ 0  30  25
+  75
+Ferropotent Gloves
+ 20  0  0
+ 0  30  25
+  75
+Ferropotent Robes
+ 0  20  0
+ 30  25  0
+  75
+Ferropotent Boots
+ 20  30  25
+ 0  0  0
+  75
+Ferropotent Bond
+ 30  0  0
+ 25  20  0
+ 
+  75
+Wild Anthem Cover
+ 20  0  0
+ 30  25  0
+  75
+Wild Anthem Gloves
+ 30  20  0
+ 25  0  0
+  75
+Wild Anthem Robes
+ 0  0  0
+ 20  30  25
+  75
+Wild Anthem Boots
+ 25  20  30
+ 0  0  0
+  75
+Wild Anthem Bond
+ 0  30  25
+ 0  0  20
+THE PORTAL
+Collapse
+Time Remaining
+14:05:43
+Options and rewards may vary depending on your Power Level
+Double Bonus Focus
+The first Bonus Focus awarded per day drops a second time.
+Solo Ops
+ Quickplay
+ Typhon Imperator
+ 3
+ The Salt Mines
+ 2
+ The Conflux
+ 3
+ Creation
+ K1 Logistics
+ 2
+ Skywatch
+ 3
+ Caldera
+ 3
+Fireteam Ops
+ Quickplay
+ The Sunless Cell
+ Exodus Crash
+ The Arms Dealer
+ 2
+ Birthplace of the Vile
+ Defiant Battleground: EDZ
+ Fallen S.A.B.E.R.
+ HyperNet Current
+ The Insight Terminus
+ 3
+ Battleground: Core
+ Battleground: Delve
+ 2
+ Battleground: Conduit
+ 3
+ 2
+ Expedition: Cosmodrome
+ 2
+ Battleground: Behemoth
+ 3
+ Battleground: Foothold
+ 3
+ Battleground: Oracle
+ 3
+ The Warrior
+ The Technocrat
+ The Dark Priestess
+ 2
+ The Devils' Lair
+ 3
+ The Glassway
+ 3
+ The Inverted Spire
+ 2
+ Liminality
+ 3
+ Proving Grounds
+ 3
+ Savathûn's Spire
+Arena Ops
+ Quickplay
+ 3
+ Ketchcrash
+ 3
+ 2
+ Astral Alignment
+ 3
+ Nightmare Containment
+ 2
+Pinnacle Ops
+ Derealize
+ Vox Obscura
+ Locus of Wailing Grief
+ 2
+ //node.ovrd.AVALON//
+ 3
+ Encore
+ 3
+ Kell's Fall
+ 3
+ Presage
+ 2
+ Starcrossed
+ 3
+ 2
+ The Whisper
+ 3
+ Nightmare of Gahlran
+ 3
+ Beneath the Necropolis
+ 2
+ Midtown
+ 3
+Crucible Ops
+ Control
+ 3
+ Competitive
+BANSHEE-44
+110:05:43            
+          
+SUROS           
+HAKKE         
+ADA-1
+Shaders   
+HUNTER  53  52  52  54 
+TITAN  52  50  52  52 
+WARLOCK  50  50  50  53 
+ADA-1
+Collapse
+New Inventory
+110:05:43
+Shaders
+Dark Omolon
+S11—Season of Arrivals
+Echoes of Io
+S1—The Red War
+Dead Orbit Vision
+S3—Warmind
+Legacy Armor
+Hunter  53  52  52  54  0
+Titan  52  50  52  52  0
+Warlock  50  50  50  53  0
+BANSHEE-44
+Collapse
+New Weapons
+110:05:43
+Featured
+ 
+Targeted Redaction
+ 
+Enyo-D
+ 
+Gridskipper
+ 
+Gallu RR3
+ 
+Geodetic HSm
+ 
+Rose
+Weapons
+ 
+Multimach CCX
+ 
+Compass Rose
+ 
+The Hothead (Adept)
+ 
+Indebted Kindness
+ 
+VS Chill Inhibitor
+Focused Decoding
+SUROS           
+HÄKKE         
+DARES
+Weapons            
+HUNTER          
+TITAN          
+WARLOCK          
+EVERVERSE
+DUST                                           
+SILVER                                                                                                                                                                                               
+EVERVERSE
+Collapse
+Time Remaining
+110:05:43
+Bright Dust
+Featured > Bright Dust
+ 3250
+Steamy-bara
+Emote
+ 2000
+Dawning Lights
+Ship
+ 300
+Dawning Brilliance
+Shader
+ 300
+Dawning Mirth
+Shader
+ 300
+Dawning Tranquility
+Shader
+ 450
+Snowy Entrance
+Transmat Effect
+ 450
+Sweet Entrance
+Transmat Effect
+ 700
+Graceful Spin
+Emote
+Events
+ 6000
+Astral Stasis Drake Hunter Set
+Package
+ 6000
+Astral Stasis Drake Titan Set
+Package
+ 6000
+Dendrite Shimmer Hunter Set
+Package
+ 6000
+Frostreach Warlock Set
+Package
+ 6000
+Froststrike Titan Set
+Package
+ 6000
+Lucent Night Hunter Set
+Package
+ 6000
+Lucent Night Titan Set
+Package
+ 6000
+Lucent Night Warlock Set
+Package
+ 6000
+Northlight Hunter Set
+Package
+ 6000
+Northlight Titan Set
+Package
+ 6000
+Northlight Warlock Set
+Package
+ 6000
+Polar Predator Hunter Set
+Package
+ 6000
+Polar Wolf Set
+Package
+ 6000
+Polar Wolf Set
+Package
+ 6000
+Polar Wolf Set
+Package
+ 6000
+Pruina Luster Hunter Set
+Package
+ 6000
+Pruina Luster Titan Set
+Package
+ 6000
+Pruina Luster Warlock Set
+Package
+ 6000
+Snowplume Titan Set
+Package
+ 6000
+Winterhart Hunter Set
+Package
+ 6000
+Winterhart Titan Set
+Package
+ 4800
+Winterhart Warlock Set
+Package
+Archive
+ 6000
+Doki Doki Destiny Hunter Bundle
+Package
+ 6000
+Doki Doki Destiny Titan Bundle
+Package
+ 6000
+Doki Doki Destiny Warlock Bundle
+Package
+Bright Dust > Items
+ 1250
+Cold Cheer
+Weapon Ornament
+ 4250
+Toboggan Buddies
+Multiplayer Emote
+ 2850
+Painted Elytra Shell
+Ghost Shell
+ 2000
+Soaring Kaolin
+Ship
+ 2500
+Forward Erebus
+Vehicle
+ 1500
+Snowfolk Projection
+Ghost Projection
+ 700
+Puck Drill
+Emote
+Bright Dust > Flair
+ 300
+Celestia
+Shader
+ 300
+Justified Cobalt
+Shader
+ 450
+Piled High
+Transmat Effect
+Silver
+Items marked with may be sold for Bright Dust at some point this season. Decide carefully before spending your Silver!
+Seasonal
+ 600
+Hypergolic Ribcage
+Titan Ornament
+ 600
+Grit Blasted
+Titan Ornament
+ 600
+Dragon's Might
+Hunter Ornament
+ 600
+Auspicious Prickle
+Hunter Ornament
+ 600
+Triplicate Nornwear
+Warlock Ornament
+ 600
+Electro-Brass
+Warlock Ornament
+ 700
+Anointed
+Weapon Ornament
+ 700
+Nerium Oleander
+Weapon Ornament
+ 1000
+Bee Wary
+Emote
+ 1000
+Best-Seller
+Emote
+ 1000
+Under the Blossoms
+Emote
+ 1200
+Fairy Godmother
+Multiplayer Emote
+ 1200
+Saw What?
+Multiplayer Emote
+ 1200
+Twelve-Pounder
+Multiplayer Emote
+ 600
+Ancient Splendor Shell
+Ghost Shell
+ 600
+Tyrian Shell
+Ghost Shell
+ 600
+War Beast Shell
+Ghost Shell
+ 800
+Baroque Pearl
+Ship
+ 800
+Cry Havoc
+Ship
+ 800
+Quickdagger
+Ship
+ 800
+Ametrine SP-11
+Vehicle
+ 800
+Forewing
+Vehicle
+ 800
+Lap of Luxury
+Vehicle
+ 800
+Speedbeast
+Vehicle
+ 700
+Collapse Dynamic
+Weapon Ornament
+ 700
+Hawkesbury Devil
+Weapon Ornament
+ 700
+Korosec's Fear
+Weapon Ornament
+ 700
+Executive Aide
+Weapon Ornament
+ 600
+Hypergolic Cranium
+Titan Universal Ornament
+ 600
+Sand Scoured
+Titan Universal Ornament
+ 600
+Auspicious Prickle Strides
+Hunter Universal Ornament
+ 600
+Dragon's Mane
+Hunter Universal Ornament
+ 600
+Triplicate Nornwear Robes
+Warlock Universal Ornament
+ 600
+Electro-Fluorite
+Warlock Universal Ornament
+ 800
+Boom!
+Finisher
+ 1000
+Aquamarine Assistant Pack
+Package
+ 600
+Exquisite Weapon Pack
+Package
+ 1900
+Golden Scrollwork Pack
+Package
+ 1000
+Lawless Satin Shader Pack
+Package
+ 800
+Lawless Shader Pack
+Package
+ 1400
+Lawless Starter Pack
+Package
+ 1900
+Promise of Entropy Pack
+Package
+ 1900
+Release the War Hounds Pack
+Package
+ 500
+Confetti Cannon
+Emote
+ 500
+Dunce Cap
+Emote
+Legends
+ 1200
+Remote Training Session
+Emote
+ 1200
+Winning Beat
+Emote
+ 1400
+Fated Duel
+Multiplayer Emote
+ 1400
+Infantry Practice
+Multiplayer Emote
+ 800
+DS-2 Shell
+Ghost Shell
+ 800
+Inferno Shell
+Ghost Shell
+ 800
+Mechanical Assassin Shell
+Ghost Shell
+ 1000
+Advanced Prototype Jumpship
+Ship
+ 1000
+Cargo Runner
+Ship
+ 1000
+Silent Vendetta
+Ship
+ 1000
+Crescent Infiltrator
+Vehicle
+ 1000
+Marshal's Colt
+Vehicle
+ 1000
+Repulsorlift Jumpspeeder
+Vehicle
+ 800
+Gilded Birthright
+Weapon Ornament
+ 1000
+Autonomous Counterstrike
+Finisher
+ 1000
+Paracausal Pitch
+Finisher
+ 1000
+Riot Control
+Finisher
+ 1000
+Unlimited Power
+Finisher
+ 2500
+Clandestine Cargo Set
+Package
+ 2000
+Covert Ranger Set
+Package
+ 2000
+Devoted Warrior Set
+Package
+ 2500
+Galactic Imperial Set
+Package
+ 2500
+Galactic Tech Set
+Package
+ 3700
+Interstellar Warfare Emotes Bundle
+Package
+ 2700
+Interstellar Warfare Finishers Bundle
+Package
+ 1000
+Jewel of Power Set
+Package
+ 2000
+Noble Partisan Set
+Package
+ 1000
+Praxic Embellishment Set
+Package
+ 1000
+Reefblade Set
+Package
+ 2000
+Royal Protector Set
+Package
+ 2000
+Shock Enforcer Set
+Package
+ 2000
+Singular Mercenary Set
+Package
+Events
+ 700
+Cold Cheer
+Weapon Ornament
+ 700
+Merry Maker
+Weapon Ornament
+ 1000
+Card Shuffle
+Emote
+ 1000
+Cozy Cat
+Emote
+ 1000
+Downhill Skiing
+Emote
+ 1000
+Giving
+Emote
+ 1000
+Ice Carving
+Emote
+ 1000
+Protecting Teammates
+Emote
+ 1000
+Sad Tree
+Emote
+ 1000
+Sneaky Thief
+Emote
+ 1000
+Snowboard Tricks
+Emote
+ 1000
+Steamy-bara
+Emote
+ 1000
+Turbulent Weather
+Emote
+ 1200
+Frosty Friend
+Multiplayer Emote
+ 1200
+Shaky Skating
+Multiplayer Emote
+ 1200
+Toboggan Buddies
+Multiplayer Emote
+ 600
+Emberwick Shell
+Ghost Shell
+ 600
+Festive Shell
+Ghost Shell
+ 600
+Frost Dragon Shell
+Ghost Shell
+ 600
+Hard-Packed Shell
+Ghost Shell
+ 600
+Icy Elegance Shell
+Ghost Shell
+ 600
+Muffled Shell
+Ghost Shell
+ 600
+Ornamental Shell
+Ghost Shell
+ 600
+Painted Elytra Shell
+Ghost Shell
+ 600
+True North Shell
+Ghost Shell
+ 600
+Winterview Shell
+Ghost Shell
+ 600
+Wintry Neigh-bor Shell
+Ghost Shell
+ 800
+A History of Starlight
+Ship
+ 800
+Africtional Cooler
+Ship
+ 800
+Amnestia-S2
+Ship
+ 800
+Dawning Lights
+Ship
+ 800
+Glad Tidings
+Ship
+ 800
+Home Away
+Ship
+ 800
+Icechime
+Ship
+ 800
+Silkivory Vanish
+Ship
+ 800
+Silverwing Kestrel
+Ship
+ 800
+Sleepless Flight
+Ship
+ 800
+Soaring Kaolin
+Ship
+ 800
+Cardinal Directive
+Vehicle
+ 800
+Forward Erebus
+Vehicle
+ 800
+Gift Giver
+Vehicle
+ 800
+Gift Wrapped
+Vehicle
+ 800
+Holiday Cheer
+Vehicle
+ 800
+Icicle Rush
+Vehicle
+ 1200
+Lupine Aurora
+Vehicle
+ 800
+Peppermint Condition
+Vehicle
+ 800
+Porcelain Gorgeous
+Vehicle
+ 800
+Supercool Moto
+Vehicle
+ 800
+The Lost Engine
+Vehicle
+ 800
+The Mirthmobile
+Vehicle
+ 700
+Brumal Dawn
+Weapon Ornament
+ 700
+Cheerspreader
+Weapon Ornament
+ 700
+Compliance
+Weapon Ornament
+ 700
+Frostborne
+Weapon Ornament
+ 700
+Glee Barrage
+Weapon Ornament
+ 800
+Chill Out
+Finisher
+ 800
+Cooked
+Finisher
+ 800
+Ether Cane Pain
+Finisher
+ 800
+Happy Trails
+Finisher
+ 800
+Perfect Ten
+Finisher
+ 800
+Slapshot
+Finisher
+ 800
+Snow Throw
+Finisher
+ 1500
+Astral Stasis Drake Hunter Set
+Package
+ 1500
+Astral Stasis Drake Titan Set
+Package
+ 1500
+Astral Stasis Drake Warlock Set
+Package
+ 800
+Aurora
+Package
+ 800
+Dawning 2025 Shader Pack
+Package
+ 1500
+Dendrite Shimmer Hunter Set
+Package
+ 1500
+Dendrite Shimmer Titan Set
+Package
+ 1500
+Dendrite Shimmer Warlock Set
+Package
+ 1500
+Frostreach Warlock Set
+Package
+ 1500
+Froststrike Titan Set
+Package
+ 1500
+Frostveil Hunter Set
+Package
+ 1500
+Lucent Night Hunter Set
+Package
+ 1500
+Lucent Night Titan Set
+Package
+ 1500
+Lucent Night Warlock Set
+Package
+ 2200
+Lupine Aurora Skimmer Pack
+Package
+ 1500
+Northlight Hunter Set
+Package
+ 1500
+Northlight Titan Set
+Package
+ 1500
+Northlight Warlock Set
+Package
+ 1500
+Opulent Strix Warlock Set
+Package
+ 1500
+Polar Predator Hunter Set
+Package
+ 1500
+Polar Wolf Set
+Package
+ 1500
+Polar Wolf Set
+Package
+ 1500
+Polar Wolf Set
+Package
+ 1900
+Powder Blue Porcelain Pack
+Package
+ 1500
+Pruina Luster Hunter Set
+Package
+ 1500
+Pruina Luster Titan Set
+Package
+ 1500
+Pruina Luster Warlock Set
+Package
+ 1900
+Snow Day Pack
+Package
+ 1500
+Snowplume Titan Set
+Package
+ 1500
+Winterhart Hunter Set
+Package
+ 1500
+Winterhart Titan Set
+Package
+ 1200
+Winterhart Warlock Set
+Package
+ 500
+Graceful Spin
+Emote
+ 500
+Ho Ho Hum
+Emote
+ 500
+Holiday Dance
+Emote
+ 500
+Puck Drill
+Emote
+ 500
+Slippery Patch
+Emote
+ 500
+Tacky Sweater
+Emote
+ 800
+Chest Bump
+Multiplayer Emote
+ 800
+Fist Bump
+Multiplayer Emote
+ 800
+High Five
+Multiplayer Emote
+DARES OF ETERNITY
+Collapse
+New Loot Pool
+110:05:43
+Weapons
+Dire Promise
+S10—Season of the Worthy
+True Prophecy
+S10—Season of the Worthy
+Enigma's Draw
+S10—Season of the Worthy
+Escape Velocity
+S10—Season of the Worthy
+Friction Fire
+S12—Beyond Light / Season of the Hunt
+Arsenic Bite-4b
+S4—Forsaken / Season of the Outlaw
+Timelines' Vertex
+S10—Season of the Worthy
+Deafening Whisper
+S12—Beyond Light / Season of the Hunt
+Jian 7 Rifle
+S10—Season of the Worthy
+Royal Chase
+S12—Beyond Light / Season of the Hunt
+Blast Battue
+S12—Beyond Light / Season of the Hunt
+Corsair's Wrath
+S12—Beyond Light / Season of the Hunt
+Legacy Armor
+Hunter          
+Titan          
+Warlock          
+DAWNING 2025
+ 
+Weapons
+ Permafrost
+Stasis Wave Grenade Launcher
+ Fimbulwinter Stitch
+Arc Precision Sidearm
+ Mistral Lift
+Void Burst Linear Fusion
+All Dawning Items
+All Cosmetics
+Ghost Shells
+Sparrows
+Ships
+Emotes
+Eva LevanteEvent Vendor
+New Quests
+Title: Star Baker
+Objectives
+RENEGADES
+Changed Items All New Items
+The links below are being updated as items become visible in the Bungie API. Check back often!
+Equilibrium
+Weapons
+Armor
+Cosmetics
+The Lawless Frontier
+Weapons
+Armor
+Cosmetics
+New Exotics
+Equilibrium Gear
+New Weapons
+Heat Weapons
+Upgraded Weapons
+New Armor
+New Cosmetics
+Origin Traits
+Enhanced Perks
+Season Pass Rewards
+New Vendors
+New Legend Entries
+New Collectibles
+New Triumphs
+New Mods
+New Perks
+New Quests
+Lawless Frontier Gear
+Trials Gear
+Vanguard Gear
+Crucible Gear
+Iron Banner Gear
+Eververse Items
+ASH & IRON
+Changed Items All New Items
+The links below are being updated as items become visible in the Bungie API. Check back often!
+Epic Raid
+Weapons
+Armor
+Cosmetics
+New Exotics
+Epic Raid Gear
+New Weapons
+Craftable Weapons
+New Armor
+New Cosmetics
+Origin Traits
+Enhanced Perks
+New Vendors
+New Legend Entries
+New Collectibles
+New Triumphs
+New Mods
+New Perks
+New Quests
+Ritual Gear
+Trials Gear
+Vanguard Gear
+Crucible Gear
+Iron Banner Gear
+Eververse Items
+THE EDGE OF FATE
+Changed Items All New Items
+The links below are being updated as items become visible in the Bungie API. Check back often!
+The Desert Perpetual
+Weapons
+Armor
+Cosmetics
+Systems Changes
+Featured Items
+Armor 3.0: Set Bonuses
+New Weapon Archetypes
+New Exotics
+The Desert Perpetual Gear
+New Weapons
+Craftable Weapons
+New Armor
+New Cosmetics
+Origin Traits
+Enhanced Perks
+Season Pass Rewards
+New Vendors
+New Legend Entries
+New Collectibles
+New Triumphs
+New Mods
+New Perks
+New Quests
+New Bounties
+Ritual Gear
+Trials Gear
+Vanguard Gear
+Crucible Gear
+Iron Banner Gear
+Eververse Items
+LOADOUT DATABASE β
+Loadout Database Loadout Analytics
+Loadouts from high-skill players. Updated hourly. Learn More
+Last Updated: 64 min ago
+Portal Loadouts
+ Derealize
+   
+ Quickplay: Normal
+   
+ Birthplace of the Vile
+   
+Solo Lost Sector Loadouts
+ Bay of Drowned Wishes: Master
+   
+ Bay of Drowned Wishes: Expert
+   
+ Hydroponics Delta: Expert
+   
+Trials Loadouts
+ Midtown
+   
+ Midtown
+   
+ Midtown
+   
+Competitive Loadouts
+ The Citadel
+   
+ The Dead Cliffs
+   
+ Radiant Cliffs
+   
+Hot Items
+Views, Today
+1
+Qua Vinctus IV
+2
+Fimbulwinter Stitch
+3
+Mistral Lift
+4
+Permafrost
+5
+Gizmo Weft
+6
+Psi Aeterna IV
+Trending Items
+Views, This Week
+1
+Corundum Hammer
+2
+Fimbulwinter Stitch
+3
+Qua Vinctus IV
+4
+Mistral Lift
+5
+Permafrost
+6
+The Martlet
+Rising Items
+Views, This Week
+1
+The Martlet
+2
+Gizmo Weft
+3
+High Tyrant
+4
+Zealous Ideal
+5
+Uncivil Discourse
+6
+M-17 "Fast Talker"
+Most Popular
+Usage, Past Two Weeks
+1
+Mistral Lift
+2
+Fimbulwinter Stitch
+3
+Permafrost
+4
+Uncivil Discourse
+5
+Compact Defender
+6
+M-17 "Fast Talker"
+PREVIOUS SEASONS
+light.gg
+
+Welcome to light.gg, home of the most powerful Destiny 2 Database & Tools on the Internet
+
+Trusted by more than 35 million guardians, light.gg is the premier resource to learn what's new with the latest Destiny 2 patch, find weapon god rolls, research theorycrafter recommended perks, read reviews of your favorite items (or write your own), compete on collection leaderboards, and much more.
+
+Sign In & Get Started
+Sign in @ Bungie
+
+Season 28 Leaderboard
+1
+Standen
+PC
+3,337 pts
+2
+Ledian00
+PC
+3,332 pts
+3
+Troparisto
+PC
+3,319 pts
+4
+Just Chemistry
+XB
+3,319 pts
+5
+Tioli009
+XB
+3,296 pts
+6
+Lee
+PC
+3,289 pts
+7
+JB
+PC
+3,287 pts
+8
+JLarks
+PC
+3,280 pts
+9
+H.Tee
+PC
+3,275 pts
+10
+Dani3108
+PC
+3,275 pts
+11
+Commander AM
+XB
+3,271 pts
+12
+iam78yrsold
+XB
+3,260 pts
+13
+:(
+PC
+3,259 pts
+14
+stapesuk
+PS
+3,249 pts
+15
+Keith
+PC
+3,248 pts
+16
+TrinityOrg
+PS
+3,247 pts
+17
+djo-78mtk
+PS
+3,246 pts
+18
+Mailey_86
+PS
+3,244 pts
+19
+MeIsTentWookie
+PS
+3,243 pts
+20
+SimodaXeda
+PC
+3,240 pts
+21
+Desons
+XB
+3,231 pts
+22
+alkaledh
+PS
+3,222 pts
+23
+Fieldy HD
+XB
+3,218 pts
+24
+EvilFirefly01
+PS
+3,216 pts
+25
+Shockwave_C-137
+PS
+3,215 pts
+26
+InfiniteDirtNaps
+PS
+3,214 pts
+27
+MrKing21
+PC
+3,206 pts
+28
+DragonMatz
+XB
+3,196 pts
+29
+lSagrevyuml
+XB
+3,189 pts
+30
+AshlynDreams180
+XB
+3,188 pts
+31
+xx3azizxx
+PS
+3,186 pts
+32
+thadija_
+PS
+3,176 pts
+33
+Ibiza125
+PC
+3,175 pts
+34
+tuskzero
+PS
+3,175 pts
+35
+Omega Alex1
+PC
+3,175 pts
+36
+【ツ】VЯO【ツ】
+PC
+3,170 pts
+37
+RNatiN.
+PC
+3,170 pts
+38
+Mir7anA-Rises
+PS
+3,169 pts
+39
+Cpt. John Price
+PC
+3,167 pts
+40
+ToserOneLA420_MX
+PS
+3,165 pts
+41
+CatOnMyCat
+PC
+3,159 pts
+42
+NinjaTommyB
+XB
+3,159 pts
+43
+Signman712
+PS
+3,158 pts
+44
+Hater Blocka2
+XB
+3,154 pts
+45
+Bail
+PC
+3,152 pts
+46
+Black Grenade
+XB
+3,150 pts
+47
+xHSHC
+XB
+3,147 pts
+48
+Bad Turn
+PC
+3,144 pts
+49
+hoppefalcon
+XB
+3,142 pts
+50
+XRAMBO FOXTROT
+XB
+3,142 pts
+Rank My Collection
+Recent Tweets from @lightdotgg
+Tweets by lightdotgg 
+Remove All Ads PLAY 
+
+Destiny 2 & all related media © Bungie
+Destiny 2: Renegades content ™ & © Lucasfilm
+Terms / Privacy
+© 2025 - light.gg v2.2.9484.22612 (Node: VENUS)
+Follow us:
+Twitter
+YouTube
+Discord
+Patreon
+ 

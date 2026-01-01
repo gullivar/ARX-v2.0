@@ -1,0 +1,133 @@
+Jenkins Jenkins Build great things at any scale The leading open source automation server, Jenkins provides
+hundreds of plugins to support building, deploying and automating
+any project. Download Documentation Redesigned Jenkins header and UI Jenkins' UI has been redesigned and updated for a more modern look and feel. Read more about the background and various changes in Jan Faracik's blog post. Read here Jenkins 2025 Community Awards The Jenkins 2025 Community Awards winners have been announced! Congratulations to all the winners and thank you for all of your contributions. Thanks to the community for voting and making this possible. Read more about the awards and winners in our blog. Jenkins wins DevOps Dozen award Jenkins has been awarded the "Most innovative DevOps Open Source project" distinction by DevOps Dozen. More info Meet the driving forces behind Jenkins as we showcase the top contributors shaping the future of continuous integration and delivery. More info Jenkins Stories! We are looking for experiences of Jenkins users from around the world showcasing how they are building, deploying, and automating great software with Jenkins. Check out their user stories and share yours More info Participate and Contribute! Jenkins is a community-driven project. We invite everyone to join us and move it forward. Any contribution matters: code, documentation, localization, blog posts, artwork, meetups, and anything else. If you have five minutes or a few hours, you can help! More info Continuous Integration and Continuous Delivery As an extensible automation server, Jenkins can be used as a simple
+CI server or turned into the continuous delivery hub for any project. Easy installation Jenkins is a self-contained Java-based program, ready to run
+out-of-the-box, with packages for Windows, Linux, macOS and other
+Unix-like operating systems. Easy configuration Jenkins can be easily set up and configured via its web interface,
+which includes on-the-fly error checks and built-in help. Plugins With hundreds of plugins in the Update Center, Jenkins integrates
+with practically every tool in the continuous integration and
+continuous delivery toolchain. Extensible Jenkins can be extended via its plugin architecture, providing
+nearly infinite possibilities for what Jenkins can do. Distributed Jenkins can easily distribute work across multiple machines,
+helping drive builds, tests and deployments across multiple
+platforms faster. Recent posts 2025 Jenkins Board and Officer Election Results The Jenkins community has completed the 2025 elections.
+On behalf of the Jenkins community and the elections committee,
+we congratulate all newly elected board members and officers!
+We also thank all candidates and voters who participated this year.
+
+
+Election results:
+
+
+
+
+Daniel Krämer joins Alexander Brandes, Valentin Delaye, Alex Earl and Basil Crow on the Jenkins Governance Board
+
+
+Stefan Spieker will serve as Events Officer (uncontested)
+
+
+Tim Jacomb... Alexander Brandes December 29, 2025 Jenkins 2.543 and 2.541.1: New Linux Repository Signing Keys Beginning December 23, 2025 with 2.543, the Jenkins weekly releases will use new repository signing keys for the Linux installation packages.
+The same change will be made in Jenkins LTS releases beginning January 21, 2026.
+Administrators of Linux systems must install the new signing keys on their Linux servers before installing Jenkins Jenkins weekly 2.543 or Jenkins LTS 2.541.1.
+
+
+Debian/Ubuntu
+
+
+Update Debian compatible operating... Mark Waite Damien DUPORTAL December 23, 2025 Announcing the new Jenkins Bug Bounty Program It is with great pleasure that we announce the new Jenkins Bug Bounty Program!
+The European Commission (EC OSPO) has partnered with YesWeHack to launch bug bounty programs for several open source projects.
+The Jenkins project was selected as a valuable asset for public administration across the European Union.
+
+
+The program will run for one year, rewarding security researchers who find and responsibly... Wadeck Follonier December 10, 2025 Automating Jenkins on Android with Infrastructure as Code From Manual to Automated
+
+
+In March 2023, I explored running Jenkins on Android devices using Termux, demonstrating that it’s technically possible to transform aging smartphones into CI/CD infrastructure. The manual setup worked, but it required 2-3 hours of configuration and was error-prone.
+
+
+Fast-forward to 2025: I’ve automated the entire process using Infrastructure as Code principles. What once took hours of manual configuration... Bruno Verachten October 31, 2025 Advancing the Jenkins Tekton Client Plugin through CRD Generation, JUnit 5 Modernization, and Automated CI The Jenkins Tekton Client Plugin bridges Jenkins and Kubernetes-native Tekton pipelines, allowing Jenkins users to trigger and manage Tekton resources directly from their existing CI/CD workflows. Over the course of Google Summer of Code 2025, significant progress was made in modernizing, stabilizing, and extending the plugin’s capabilities.
+
+
+This project introduced end-to-end CI automation, migrated tests to JUnit 5, implemented large-scale CRD-to-Java... Maeve Ho October 19, 2025 GSoC 2025 Final Term: Build Retooling of jenkins.io This post marks the successful completion of my Google Summer of Code 2025 project: Complete Build Retooling of jenkins.io. Over the past months, we’ve transformed the Jenkins documentation infrastructure from legacy systems to a modern, performant, and well-organized platform.
+
+
+Table of Contents
+
+
+
+
+Project Recap
+
+
+Post-Midterm Achievements
+
+
+
+Non-Versioned Site (Vite.js) Completion
+
+
+Versioned Site (Antora) Enhancements
+
+
+
+
+
+Technical Implementation Deep Dive
+
+
+Challenges & Learnings
+
+
+Future Roadmap
+
+
+Acknowledgments
+
+
+Project Resources
+
+
+
+
+
+
+Project Recap
+
+
+The initiative set out... Birajit Saikia October 19, 2025 Revamped Tests UI in Jenkins The JUnit plugin has received a major redesign, focusing on a cleaner and more consistent UI. This work draws directly
+from the Pipeline Graph View plugin and the Jenkins Design Library, bringing much-needed polish to one of Jenkins'
+oldest plugins.
+
+
+
+So what’s new?
+
+New user interface
+
+
+The plugin has been redesigned to make test results easier to understand at a glance. Pages have been streamlined,
+components... Jan Faracik October 16, 2025 Hacktoberfest 2025 The annual Hacktoberfest is back!
+Please join us as we celebrate and support open-source during the month of October.
+Contributors can earn badges and improve their open source contribution skills.
+
+
+The Jenkins project will participate once again in the event.
+We invite you to contribute to the Jenkins project but also, as maintainers, to welcome and help newcomers.
+
+
+Contributors
+
+
+This is what contributors need to know... Kris Stern September 24, 2025 Introducing the Gradle Convention Plugin for Jenkins Plugin Development Building Jenkins plugins with Gradle just got easier!
+Meet the modern, Kotlin-first, and convention-based Jenkins Gradle Convention Plugin. Plugin development made effortless 🏄‍♂️🏎️.
+🌀 Try it today on the Gradle Plugin Portal
+
+
+Today’s Jenkins Plugin Development Landscape
+
+
+Apache Maven remains the primary and officially recommended build tool for Jenkins plugin development, powering the vast majority of plugins in the ecosystem. Its strong integration with... Aarav Mahajan August 31, 2025 We thank the following organizations for their major commitments to
+support the Jenkins project. CD.Foundation_LogoMaster We thank the following organizations for their support of the Jenkins
+project through free and/or open source licensing programs. Atlassian Datadog DigitalOcean Discourse Fastly IBM Netlify PagerDuty Sentry Tsinghua University XMission Belnet RWTH Aachen University Hostico FreeDif Servana Yamagata University Thank you MarkEWaite for making
+133
+pull requests to the repository-permissions-updater , audit-trail-plugin , platformlabeler-plugin , kubernetes-credentials-plugin , dtkit-plugin , subversion-plugin , jquery-plugin , ssh-steps-plugin , parameterized-remote-trigger-plugin , oauth-credentials-plugin , packaging , bom , docker-confluence-data , gitlab-plugin , job-dsl-plugin , jakarta-xml-bind-api-plugin , jakarta-mail-api-plugin , jakarta-activation-api-plugin , commons-compress-api-plugin , implied-labels-plugin , pipeline-groovy-lib-plugin , envinject-plugin , envinject-api-plugin , eddsa-api-plugin , prometheus-plugin , rebuild-plugin , pipeline-stage-view-plugin , pipeline-github-lib-plugin , node-iterator-api-plugin , next-build-number-plugin , jsch-plugin , jjwt-api-plugin , handy-uri-templates-2-api-plugin , external-monitor-job-plugin , docker-commons-plugin , command-launcher-plugin , publish-over-ssh-plugin , git-server-plugin , jenkins , extended-read-permission-plugin , ssh-credentials-plugin , pam-auth-plugin , display-url-api-plugin , build-with-parameters-plugin , workflow-durable-task-step-plugin , gitlab-branch-source-plugin , jdk-tool-plugin , mapdb-api-plugin , kubernetes-plugin , ws-cleanup-plugin , xunit-plugin , workflow-step-api-plugin , workflow-job-plugin , workflow-cps-plugin , workflow-api-plugin , workflow-aggregator-plugin , trilead-api-plugin , token-macro-plugin , timestamper-plugin , throttle-concurrent-builds-plugin , thin-backup-plugin , theme-manager-plugin , text-finder-plugin , structs-plugin , sshd-plugin , ssh-agent-plugin , plugin-usage-plugin , plain-credentials-plugin , pipeline-milestone-step-plugin , mina-sshd-api-plugin , groovy-plugin , credentials-plugin , nexus-artifact-uploader-plugin , dependency-check-plugin , bitbucket-branch-source-plugin , credentials-binding-plugin , durable-task-plugin repos in November 2025!

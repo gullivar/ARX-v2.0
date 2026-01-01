@@ -1,0 +1,109 @@
+AMP
+About
+Documentation
+Community
+Events
+Blog
+Support
+EN
+DE
+FR
+AR
+ES
+IT
+ID
+JA
+KO
+PT
+RU
+TR
+ZH
+PL
+VI
+AMP is a web component framework to easily create user-first experiences for the web.
+AMP Websites
+Easily create websites with a great page experience out-of-the-box using AMP’s ready-to-go web components.
+Get started
+All about AMP Websites
+Web Stories
+Immerse readers in visual and tappable stories they can share anywhere on the open web.
+All about Web Stories
+AMP Emails
+Send emails of the future with personalized dynamic content and interactive elements that engage readers.
+All about AMP Emails
+AMP Ads
+Serve lightning fast and secure eye-catching creatives.
+All about AMP Ads
+The latest news
+
+Don't want to miss any of the great stuff that happens around AMP? Then always be first in line and subscribe to our newsletter!
+
+Subscribe
+Stories
+Web Story Forms unlock more ways to engage your audience
+February 28, 2022
+Bento
+Introducing Bento
+December 8, 2021
+Stories
+Web Stories call to action buttons get an upgrade
+September 15, 2021
+Websites
+Easy TikTok embedding with the new amp-tiktok
+September 13, 2021
+Stories
+Richer interactions in Web Stories
+August 26, 2021
+Stories
+Better video performance in Web Stories
+August 24, 2021
+Explore AMP success stories
+
+Don’t take our word for it - read case studies from industry success stories and see how AMP has produced positive results.
+
+See all success stories
+websites
+AMP helps the Washington Post increase returning users from mobile search by 23%
+Publishers
+websites
+Teads brings AMP'd mobile video inventory to nearly 100 publishers
+Advertisers
+websites
+Carved increases conversion rate by 75% with AMP and PWA
+E-Commerce
+websites
+WompMobile consistently improves e-commerce clients’ conversion rates with AMP sites
+E-Commerce
+Of course, this site is made with AMP!
+Follow us
+Overview
+AMP Framework
+Use Cases
+Success stories
+Functionality
+Docs
+Get Started
+Guides and Tutorials
+Components
+Examples
+Design Templates
+Tools
+Community
+Platform and Vendor Partners
+Contribute
+Roadmap
+OpenJS Foundation
+The OpenJS Foundation
+OpenJS Foundation Bylaws
+Trademark Policy
+Trademark List
+Events
+AMP Conf 2020
+AMP Contributor Summit 2019
+AMP Brand Materials
+Styleguide
+Logos
+Terms of Use Privacy Policy Cookie Policy
+© OpenJS Foundation and AMP Project contributors. All rights reserved. The OpenJS Foundation has registered trademarks and uses trademarks. For a list of trademarks of the OpenJS Foundation, please see our Trademark Policy and Trademark List. Trademarks and logos not indicated on the list of OpenJS Foundation trademarks are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
+The services available at cdn.ampproject.org are provided by Google and the respective privacy policy applies.

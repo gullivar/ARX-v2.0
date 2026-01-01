@@ -1,0 +1,11 @@
+We are sorry for the inconvenience you have experienced viewing the GVA website.  We see that your IP address (221.138.189.189) has been blocked.  There are several reasons that this may be the case, most of which are not under GVA's control, including use of a VPN that does not work well with AWS/Cloudflare, high load network server traffic, or - in some cases - a bot or script intended to scrape the site.
+
+Please contact us at inquiry@gvadata.org and let us know that your IP address [include the address ] has been blocked so that we can investigate and determine why this has happened.  We will restore service to you as fast as possible.
+
+1718 M Street, N.W. PMB #126
+Washington, DC 20036-4504
+inquiry@gvadata.org
+
+© Copyright 2018
+Gun Violence Archive
+All rights reserved.

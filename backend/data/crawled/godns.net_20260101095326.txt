@@ -1,0 +1,1 @@
+GoDNS hostmaster RFC 2142 Address contact abuse -at- godns.net RFC 5321 Address contact postmaster -at- godns.net NIC Handle Whois LAC98

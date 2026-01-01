@@ -1,0 +1,175 @@
+Product
+Pricing
+Resources
+Log in
+Fearless Deployments. Faster Fixes.
+
+Frictionless error monitoring and performance insights for your entire app stack.
+‍
+Know about errors before your users even notice. Installs in minutes.
+
+Start Free Trial
+
+4.7 Rating
+
+Trusted by 1600+ organizations:
+Why Airbrake?
+Developer Centric
+
+From testing to production, Airbrake Error Monitoring has your back:
+
+Notifiers for all major languages and frameworks
+Integrates with your favorite apps
+Single Sign-On
+Immediate Value
+
+It’s simple to get up and running with Airbrake Error Monitoring and Performance Monitoring:
+
+Installs in minutes
+Real-time error alerts
+Discover errors right down to line of code
+Lightweight
+
+Gain visibility into the health of your entire app stack with agentless and serverless architecture:
+
+Open-source SDK-based install
+Low maintenance
+Near-zero technical debt
+Start Free Trial
+Installs in Minutes in any Language
+JavaScript
+Include the library via a script tag:
+Initialize the library with your account credentials:
+ 
+const airbrake = new Notifier(
+{ projectId: 123,
+projectKey:'abcdefgh12345678'
+});
+
+Python
+Install our library:
+ 
+pip install -U pybrake
+
+Import the package and initialize with your account credentials:
+ 
+import pybrakenotifier = pybrake.Notifier(
+project_id=123, 
+project_key='abcdefgh12345678')
+
+Ruby
+Add our gem to your project:
+ 
+gem install airbrake-ruby
+
+Initialize the library with your account credentials:
+ 
+require 'airbrake-ruby'Airbrake.configure do |c|   c.project_id =   c.project_key = ''end
+
+.Net
+Angular
+Django
+Ember
+Express
+Flask
+Golang
+Java
+Magento
+After signing up just add your product key and that's it...
+More Languages
+EFFORTLESS ERROR MONITORING
+Never miss an error with Airbrake
+
+Airbrake Error Monitoring and Performance Monitoring catches all your project errors, intelligently groups them and points you to the issue in the code so you can quickly fix the bug before customers are impacted. Hotspots and insights flag high risk files and errors.
+
+Learn more
+
+“Airbrake probably has cut our error response times in half because it is much simpler to isolate and identify issues and root causes.”
+
+Mike Biang, VP of Operations
+
+POWERFUL PERFORMANCE MONITORING
+Simple performance metrics that developers care about
+
+Airbrake Error Monitoring and Performance Monitoring’s lightweight APM enables developers to track the performance and availability of their application through metrics like HTTP requests, response times, error occurrences, and user satisfaction.
+
+Learn more
+
+“Airbrake is a rough measure of quality and a part of our continuous improvement process.”
+
+Tom Tuddenham, Senior Software Engineer
+
+FEARLESS DEPLOYMENTS
+Correlate errors with Deployments
+
+Track trends, fix bad deploys, and improve code quality with Airbrake Error Monitoring and Deployment Tracking.
+
+Learn more
+
+“Sometimes we forget to test a specific case but we can always count on Airbrake to let us know and get some tests written to cover those.”
+
+Chris Oliver, Lead Engineer
+
+Integrate with your favorite tools
+
+Airbrake’s seamless integrations ensure you receive real-time notifications in your preferred collaboration tool, messaging app or e-mail inbox, so you can stay on top of bugs (and bugs stay off your back).
+
+Learn more
+Developers Love Airbrake
+"Airbrake is incredibly easy to integrate with a variety of platforms. I've personally integrated it with both Ruby on Rails (via a simple to use Gem), and PHP (via composer library). I get email notices whenever an error occurs, and I don't have to dig through logs to isolate the issues."
+Mike B
+VP of Operations
+"Very easy to setup! We had absolutely no trouble setting airbrake on our Rails 6 application. Response times are immediate and it has helped us a lot migrating our application to newer versions! Easy to use UI."
+Esteban R
+Software Consultant
+"Airbrake has revolutionized how our Software Development team receives and responds to exceptions."
+Don T
+President/CEO, Industrial Automation
+Deploy Fearlessly with Airbrake
+Start Free Trial
+“Perfect for Error Management. It really helps to find odd issues that otherwise would be hidden. We even need it alongside other logging solutions because it’s really made for Developers.”
+TrustRadius verified review
+Score 10 out of 10
+98 San Jacinto Blvd, Suite 1300 Austin, TX  78701
+support@airbrake.io
+Featured Blog Posts
+Airbrake & LogicMonitor = Awesome Sauce!
+Have a JavaScript Module Not Found Error? Have you Checked Your Paths?
+405 Method Not Allowed: What It Is and How to Fix It
+A Developer in DevOps Land: My Experience at DevOps Days
+Blinkist Depends on Airbrake Slack Integration to Triage Incidents
+302 Found: What It Is and How to Fix It
+401 Unauthorized Error: What It Is and How to Fix It
+Languages
+Sinatra
+Ruby
+React
+Rails
+Python
+PHP
+Node.js
+.Net
+Magento
+JavaScript
+Java
+Golang
+… and more
+Resources
+Airbrake Docs
+About
+API
+Contact Airbrake
+Blog
+The 2022 Airbrake Error Data Report
+Terms of Service
+Privacy Policy
+Airbrake DPA
+Airbrake Sponsorships
+Customers
+
+Airbrake - A LogicMonitor Company - © 2024 - All Rights Reserved
+
+Product
+Pricing
+Resources
+Log in

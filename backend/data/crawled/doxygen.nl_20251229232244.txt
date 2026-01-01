@@ -1,0 +1,74 @@
+Docs
+Changelog
+Extensions
+Examples
+ Download
+
+
+€ (EUR)
+$ (USD)
+
+Version 1.15.0 is now available! Release date: 22 October 2025
+
+Code Documentation.
+
+Automated.
+
+Free, open source, cross-platform.Software documentation templates
+
+Show dark mode output
+
+Doxygen is a widely-used documentation generator tool in  software development. It automates the generation of documentation from source code comments, parsing information about classes, functions, and variables to produce output in formats like HTML and PDF. By simplifying and standardizing the documentation process, Doxygen enhances collaboration and maintenance across diverse programming languages and project scales.
+
+Multiple formats
+Markdown
+C++
+Cross-referencing
+Diagrams
+Configuration
+Multiple output formats
+
+Doxygen can generate documentation in various output formats, such as HTML, PDF (via LaTeX), Word (via RTF), and XML. Cross-platform software solutions
+
+This flexibility allows developers to choose the format that best suits their needs or integrate the documentation into different systems.
+
+Markdown
+
+Markdown support in Doxygen allows you to combine the simplicity of Markdown with the powerful features of Doxygen for documenting code.
+
+Next to Markdown, Doxygen supports many commands like \param, \return, \brief, etc., to provide additional information about functions, parameters, and return values.Custom documentation generation
+
+C++
+
+Doxygen provides robust support for documenting C++ code, recognizing the intricacies of the language and generating comprehensive documentation.
+
+Next to C++, Doxygen also supports C, Python, PHP, Java, C#, Objective-C, Fortran, VHDL, Splice, IDL, and Lex.
+
+Cross-referencing
+
+Doxygen provides cross-referencing capabilities, allowing users to navigate between different parts of the documentation. Software documentation solutions
+
+Doxygen generates hyperlinks to related elements, making it easy to explore the codebase and understand the relationships between different components.
+
+Diagrams
+
+Doxygen can generate graphical representations of class hierarchies and collaboration diagrams, providing a visual overview of the relationships between classes and functions. Documentation process consulting
+
+Configuration
+
+Doxygen provides a configuration file (Doxyfile) that allows users to customize the documentation generation process. You can control various settings, such as the output format, file inclusion/exclusion, and more.
+
+Sponsored links
+(not related to doxygen)
+home cleaning
+bookmakers
+Domestic cleaning service
+Betrouwbare buitenlandse casinos
+Nieuwe Online Casino
+Casino zonder Registratie
+onlinecasino.amsterdam
+Follow @doxygen
+Be notified
+Support
+Privacy
+License

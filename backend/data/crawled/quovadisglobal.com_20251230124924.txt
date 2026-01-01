@@ -1,0 +1,140 @@
+Certificates
+PKI Platform
+IoT Platform
+Signing Solutions
+Support & Tools
+ 
+
+Belgium
+
+ 
+
+Email:
+
+ 
+
+qv.info.be@digicert.com
+qv.sales.be@digicert.com
+qv.support.be@digicert.com
+nl.validation@digicert.com
+
+ 
+
+Bermuda
+Phone:+1-441-278-2800
+Datacenter:+1-441-278-2807
+
+ 
+
+Germany
+Phone:+49-89-452-4585-0
+or email:
+
+ 
+
+qv.sales.de@digicert.com
+qv.support.de@digicert.com
+
+ 
+
+Netherlands
+Phone: +31 (0) 30-232-43-20
+
+ 
+
+or email:
+qv.sales.nl@digicert.com
+qv.support.nl@digicert.com
+nl.validation@digicert.com
+
+Switzerland
+Phone: +41 71 228 98 00
+
+ 
+
+or email:
+qv.sales.ch@digicert.com
+qv.support.ch@digicert.com
+qv.register.ch@digicert.com
+
+ 
+
+United Kingdom
+Email: qv.support.uk@digicert.com
+
+ 
+
+Certificate Emergency Support
+Email: quovadis.support@digicert.com
+Phone: +1-651-229-3456
+
+ 
+	
+ 
+
+CertCentral Login
+
+Global Reach.
+Local Expertise.
+The highest assurance certificates. The most modern infrastructure. Award-winning support.
+All in your country.
+Select a Country Office
+Global
+Belgium
+Germany
+Netherlands
+Switzerland
+United Kingdom
+QTSP certificates and signing solutions
+
+QuoVadis is Europe’s leading qualified trust service provider.
+Now powered by DigiCert, QuoVadis is the only CA to offer the world’s most powerful PKI solutions with local compliance.
+
+With DigiCert+QuoVadis, you can deploy and manage eIDAS-compliant QWACs and QeSeals for encryption and digital signatures/non-repudiation, securing all users, networks, documents and devices.
+
+Sign, validate, identify and time-stamp documents and records according to European eIDAS and Swiss ZertES standards.
+
+Identity. Security. Trust.
+
+As a leader in encryption and trusted identity, QuoVadis+DigiCert maintains a suite of accreditations and independent audits. Protect your systems and users with the highest levels of assurance, including certification as a qualified CSP under ETSI standards.
+
+VIEW ALL
+Trusted to secure the world’s most valuable data
+DigiCert+QuoVadis solutions are trusted to secure:
+100
+of the top Global 2000 banks in Europe
+ 
+77
+of the top e-commerce sites in Europe
+ 
+89
+of Fortune 500 companies worldwide
+Certificate Lookup
+Search for Digital Certificates issued to individuals.
+ 
+News & Announcements
+Accelerating Standards for Online ID Verification
+About
+
+Founded in 1999, QuoVadis is a leading global certification authority with operations in Switzerland, the Netherlands, Belgium, Germany, the United Kingdom and Bermuda. In 2019, QuoVadis was acquired by DigiCert, the world’s leading provider of TLS/SSL, IoT and other PKI solutions.
+
+  
+Site
+Certificates
+PKI Platform
+Signing Solutions
+Secure Software Manager
+IoT Platform
+ Company
+About
+Accreditations
+Locations
+Contact
+Careers
+ Legal
+Legal Repository
+Download Roots/CRL
+Certificate Revocation
+Terms of Use
+Privacy Policy
+Cookie Settings

@@ -1,0 +1,129 @@
+Link in Bio
+Developers
+Support
+Log in
+Get Started Now
+Your Free Profile For The Web
+
+Transform your email address into your digital passport – one avatar, one bio, social connections, and verified links.
+
+Get Started Now
+
+GRAVATAR IS USED BY
+
+WordPress
+GitHub
+Slack
+OpenAI
+Atlassian
+Figma
+Mailchimp
+Stack Overflow
+Coinbase
+Update Once, Sync Everywhere
+
+When you update your avatar or profile, your changes appear instantly across thousands of platforms. Save time and maintain a consistent online presence effortlessly.
+
+Your Profile, Your Way
+
+Share your social media profiles, portfolio, website, and other relevant links easily. Your Gravatar profile works like a digital business card — simple, elegant, and uniquely you. Perfect for your link-in-bio.
+
+Claim Your Free Profile
+Manage Multiple Identities
+
+Gravatar links your identity to an email address, not your name. Seamlessly manage your work, personal, and anonymous profiles.
+
+Privacy First Design
+
+You're in control. Make your profile private or choose what you share and when. With Gravatar, your data is yours and yours alone.
+
+PROFILES-AS-A-SERVICE
+For Developers
+
+Customize user experiences and bootstrap your community with verified user profiles, including avatars, social links, and more. Integrating Gravatar is effortless with our REST API, SDKs, and easy-to-follow tutorials.
+
+Learn More About Our APIs
+example.js
+example.php
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+const sha256 = require( 'js-sha256' );
+
+function getGravatarURL( email ) {
+  // Trim leading and trailing whitespace from
+  // an email address and force all characters
+  // to lower case
+  const address = String( email ).trim().toLowerCase();
+
+  // Create a SHA256 hash of the final string
+  const hash = sha256( address );
+
+  // Grab the actual image URL
+  return `https://gravatar.com/avatar/${ hash }`;
+}
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+function get_gravatar_url( $email ) {
+  // Trim leading and trailing whitespace from
+  // an email address and force all characters
+  // to lower case
+  $address = strtolower( trim( $email ) );
+
+  // Create an SHA256 hash of the final string
+  $hash = hash( 'sha256', $address );
+
+  // Grab the actual image URL
+  return 'https://gravatar.com/avatar/' . $hash;
+}
+You Asked, We Answered
+Is Gravatar really free?
+Can I use a custom domain?
+How does Gravatar compare with other link-in-bio services?
+Can I have multiple Gravatars?
+Who owns Gravatar?
+Claim Your Free Gravatar Profile Today!
+Get Started Now
+Languages
+Features
+Link-in-bio
+Custom Domains
+WordPress Plugin
+Developers
+Developer Dashboard
+Developer Docs
+GitHub
+Support
+Docs
+Report Abuse
+Company
+About
+Press
+Terms of Service
+Privacy Policy
+Powered by
+Create a Site
+An
+venture
+Work With Us

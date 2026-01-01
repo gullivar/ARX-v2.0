@@ -1,0 +1,11 @@
+Burp Collaborator Server Burp Collaborator is a service that is used by Burp Suite when testing web applications for security
+vulnerabilities. Some of Burp Suite's tests may cause the application being
+tested to interact with the Burp Collaborator server, to enable Burp Suite
+to detect various security vulnerabilities. The Burp Collaborator server does not itself initiate any interactions with
+any system, and only responds to interactions that it receives from other
+systems. If you are a systems administrator and you are seeing interactions with the
+Burp Collaborator server in your logs, then it is likely that someone is
+testing your web application using Burp Suite. If you are trying to identify
+the person responsible for this testing, you should review your web server
+or applications logs for the time at which these interactions were initiated
+by your systems. For further details about Burp Collaborator, please see the full documentation .

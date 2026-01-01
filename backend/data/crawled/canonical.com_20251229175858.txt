@@ -1,0 +1,161 @@
+Skip to main content
+Canonical
+Products
+Solutions
+Partners
+Careers
+Company
+Trusted
+open source
+
+Simple, cost-effective, supported – expand the Ubuntu philosophy to every layer of your enterprise stack.
+
+Discover our solutions Get in touch
+New security research
+
+9 out of 10 organizations prefer to source packages from their OS
+
+Find out why in IDC’s latest research 
+Innovate on your own terms
+
+Build your stack your way with composable open source solutions, all backed by the experts behind the world’s leading Linux. At the nexus of open source innovation and enterprise support, you can move fast without compromises.
+
+Start with Ubuntu
+Take control of your infrastructure
+Build apps at speed and stay secure
+Get an optimized stack for data and AI
+Deploy smart things at the edge
+
+Build with confidence on the world’s most popular open source OS, move faster with certified hardware, and empower your developers with access to trusted repositories for all your open source packages.
+
+Why innovators prefer Ubuntu
+Get full-stack security, support, and compliance
+
+Canonical gives you a trusted open source supply chain with a consistent set of security guarantees.
+
+With a single subscription, you can simplify compliance, offload CVE management, and let your teams focus on innovation for 15 years.
+
+Discover Ubuntu Pro Secure your open source supply chain
+Do more with trusted open source
+Scale with confidence
+Gain efficiency
+Ensure continuity
+Enhance security
+Simplify compliance
+Unlocking economies of scale
+with open source infrastructure
+
+“Canonical’s open source software sits at the heart of BT Group’s network cloud infrastructure, underpinning our 5G mobile core capability and providing the stability and flexibility required to support the increasing convergence of BT services with confidence.”
+
+Learn how BT unlocked scalability
+
+Greg McCall
+
+Chief Networks Officer,
+BT Group
+
+Accelerate innovation on any platform
+
+Access an ecosystem of integrated solutions. Deliver innovation at speed and at scale.
+
+Cloud
+
+
+Silicon
+
+
+Hardware
+
+Get the scalability and performance you need with Ubuntu across clouds.
+
+Discover our public cloud partners 
+ 
+ 
+ 
+ 
+
+Go to market faster with Canonical’s silicon ecosystem.
+
+Unleash the power of silicon 
+ 
+ 
+ 
+ 
+ 
+
+Build your cloud swiftly and get optimal performance with Ubuntu Certified Hardware.
+
+The right hardware makes all the difference 
+ 
+ 
+ 
+ 
+ 
+ 
+News and insights from the source
+Latest stories
+ 
+Webinars and events
+ 
+Guides and research
+Canonical to distribute AMD ROCm AI/ML and HPC libraries in Ubuntu
+
+Canonical is pleased to announce an expanded collaboration with AMD to package and maintain AMD…
+
+AMI and Canonical announce partnership
+
+Today, Canonical, the publisher of Ubuntu, announced a partnership with AMI, a provider of…
+
+83% of organizations see value in adopting open source, but report major gaps in security and governance
+
+A new Linux Foundation report reveals how organizations worldwide are adopting, using, and…
+
+A data lake on your cloud with Spark, Kubernetes and OpenStack
+
+Learn more about the benefits of the data lake architecture, and how you can adopt it at scale.
+
+What is defense in depth?
+
+Understand Defense in Depth and how you can apply this approach with Ubuntu.
+
+Re-inventing distroless with Chiselled Ubuntu containers
+
+Discover Chisel, a novel pattern for building distroless-like container images from the ground up.
+
+The architect’s guide to picking the right database
+
+Considerations to choose the best database management system for your use case.
+
+Prepare your devices for the CRA
+
+Learn how Ubuntu can help device manufacturers comply with the EU Cyber Resilience Act.
+
+Cloud-native network transformation and the 5G edge
+
+Joint research with Omdia shows that 96% of telcos will have commercial 5G edge computing in the next 2 years.
+
+Contact information
+Legal information
+Improve this site
+Projects
+Manage your tracker settings
+ 
+ 
+ 
+ 
+ 
+ 
+
+© 2025 Canonical Ltd.
+
+Ubuntu and Canonical are registered trademarks.
+All other trademarks are the property of their respective owners.
+
+For further information on data collection,
+please refer to our privacy policy.
+
+Your tracker settings
+
+We use cookies and similar methods to recognize visitors and remember preferences. We also use them to measure campaign effectiveness and analyze traffic on our websites. By selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties. For further details or to change your consent choices at any time see our cookie policy.
+
+Manage your tracker settings Accept all

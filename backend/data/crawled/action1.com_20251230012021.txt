@@ -1,0 +1,289 @@
+Platform
+Solutions
+Pricing
+Resources
+Company
+Roadmap
+API
+Free Edition
+Partners
+Login
+Patching That Just Works
+
+Autonomous endpoint management with a scalable and secure
+cloud-native platform configurable in 5 minutes, with no VPN needed
+Setup in minutes to reduce your cyber risks and costs:
+START NOW
+WATCH DEMO 
+
+^ Automated cross-OS and third-party apps vulnerability remediation
+^ Continuous patch compliance for servers and workstations
+^ Real-time scalability for distributed enterprise networks
+^ Secure and trusted: SOC 2 Type II, ISO 27001:2022 and GDPR
+
+Action1 + Tenable Quick Start Guide
+
+Third-Party Patching
+
+Automate patching of numerous software titles with real-time progress status, even if your endpoints are offline. Includes 99% patching coverage for most enterprise environments.
+
+LEARN MORE
+
+START NOW
+
+Cross-OS Patching
+
+Update Windows and macOS consistently on all your workstations and servers, even if they are not on a corporate network, disconnected from a company VPN, or not joined to a domain.
+
+LEARN MORE
+START NOW
+Vulnerability Management
+
+Prevent security breaches and ransomware attacks. Detect vulnerabilities in OS and applications in real-time. Leverage built in vulnerability remediation in a single solution.
+
+LEARN MORE
+START NOW
+Enterprise-grade Patch Management
+
+Enable IT security and operations teams to detect, prioritize, and remediate vulnerabilities to ensure continuous compliance – all while reducing costs and making your enterprise secure.
+
+Detect
+
+Real-time visibility into missing critical updates for OS (such as macOS and Windows) and third-party apps.
+
+Remediate
+
+Bandwidth-efficient P2P update distribution. Patching of offline endpoints as they go online.
+
+Comply
+
+99% patch compliance in hours, not months. Real-time compliance reporting.
+
+Action1 ranks as America’s #1 fastest-growing private software company on the Inc. 5000 list.
+
+Industry Awards
+
+COMMITMENT-FREE INTERACTIVE WAY TO SEE THE PRODUCT IN ACTION
+
+Join Our Live Demo:
+Patching That Just Works with Action1
+This Wednesday | 12 PM EST / 4 PM CET
+
+SAVE MY SPOT
+
+Trusted by many Fortune 500 companies
+
+99%
+
+Patch Success Rate
+
+10,000,000+
+
+Endpoints Patched
+
+<1%
+
+Non-Compliant Endpoints
+
+See #1 cloud-native patch management in action
+
+What Experts Say
+
+“Proper patch management requires your organization to evaluate, test, and approve patches. What’s really going to save your bacon, however, is automating patch deployment. If you haven’t already automated patch pushes, use the threat of ransomware as the political cover you need to make it happen.”
+
+“According to Gartner’s Hype Cycle for Endpoint Security, 2022, security and risk leaders must prepare to select next-wave technology to continue to protect endpoints from attacks and breaches.”
+
+“Are zero day attacks real? Absolutely. Are they the biggest issue for most organisations? No. The top issue in vulnerability management is that organizations aren’t prioritizing their patching and compensating controls to align to vulnerabilities targeted by threat actors.”
+
+“Action1 helps to discover, prioritize, and remediate vulnerabilities in a single solution to prevent security breaches and ransomware attacks. It automates patching of third-party software and operating systems, ensuring continuous patch compliance and remediation of security vulnerabilities before they are exploited.”
+
+Testimonials
+
+It could have taken two people, three hours each to update third-party applications in a single library branch. With Action1, it can be done remotely for all branches in one hour by a single person. This allows us to be far more proactive in ensuring security.
+
+Andrew Inbody
+
+Systems Specialist, Lincoln City Libraries
+
+Action1 empowers us to increase operational efficiency dramatically by streamlining our remote IT management. We were able to fully automate our workstation build process — making it 9 times faster whilst increasing quality.
+
+Chris Barlow
+
+Managing Director, Priority One
+
+With Action1, I’m saving hours every week and bringing in better control and consistency across everything that we do. It was also very easy to deploy; I was able to quickly install it and ensure nothing was missed.
+
+Chris Weis
+
+Senior Systems Engineer, Razzoo’s Cajun Cafe
+
+Action1 saves us both time and money — it enables us to manage updates and software across all our endpoints more effectively. Also, its built-in remote desktop empowers us to provide IT support, which saves us $10,000 a year as we do not have to purchase an additional remote support platform.
+
+Jeremy Campbell
+
+IT Manager, Seyer Industries
+
+With Action1, I am confident that we can keep our customers’ remote devices properly updated and patched, troubleshoot any problem that users experience, and provide high-quality support. Connections are stable and reliable, and we can scale the platform up as much as we need.
+
+Mario Domeniconi
+
+Chief Technology Officer, Netability
+
+Action1 fully meets my needs in remote monitoring and management and enables me to provide our remote employees with office-quality IT support, while being an affordable solution. It’s hard to quantify the amount of money Action1 saves us, but the time savings are huge.
+
+Chris Delez
+
+Information Systems & Building Manager, Area Agency on Aging of Broward County
+
+READ FULL SUCCESS STORIES
+Stay Tuned
+
+Subscribe to the Action1 newsletter for tips, news and more exclusive resources.
+
+SUBSCRIBE
+
+ 
+
+PLATFORM
+
+Autonomous Endpoint Management
+
+Patch Management
+
+Third-Party Patching
+
+Vulnerability Management
+
+Software Deployment
+
+Remote Access
+
+Unattended Access
+
+Endpoint Management
+
+Reports and Alerts
+
+Solution for MSPs
+
+Product Demo
+
+One-to-One Demo
+
+Free Edition
+
+Pricing
+
+Replacement Program
+
+SOLUTIONS
+Compliance Overview
+
+PCI DSS
+
+HIPAA
+
+SOC 2
+
+CIS CSC
+
+ACSC Essential Eight
+
+GLBA/FFIEC
+
+Education
+
+RESOURCES
+
+Support
+
+Documentation
+
+Developer API
+
+Integrations
+
+Roadmap
+
+Service Releases
+
+Top 5 Free Apps
+
+Research and Guides
+
+Blog
+
+FAQ
+
+Status
+
+COMPANY
+
+Contact Us
+
+About Us
+
+Case Studies
+
+Testimonials
+
+Analyst Coverage
+
+Leadership
+
+Request Quote
+
+News
+
+Careers
+
+Login
+
+Sign Up
+
+LEGAL
+
+Security
+
+Vulnerability Disclosure
+
+Website Terms of Use
+
+Privacy Policy
+
+Cookie Policy
+
+GDPR Compliance
+
+Service License Agreement
+
+Support Policy
+
+Data Processors
+
+3rd Party Components
+
+Sitemap
+
+CONTACTS
+
+	
++1-346-444-8530
+
+	
+Toll Free: 833-444-8530
+
+	
+2929 Allen Parkway Suite 200, Houston, TX 77019
+Follow
+Follow
+Follow
+Follow
+Follow
+Follow
+Copyright © Action1 Corporation 2025
+The Capterra, SoftwareAdvice and GetApp logos are service marks of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.
+By clicking "Accept All Cookies" you agree to the storing of cookies on your device to enhance your experience on our website and assist in our marketing efforts. You can read more about our Privacy Policy
+Manage Cookies
+Accept All Cookies
+Reject Cookies

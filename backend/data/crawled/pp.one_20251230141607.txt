@@ -1,0 +1,1284 @@
+Researched coins: 1,511
+Exchanges: 1,027
+Market Cap: 3.3T
+24h Vol: 152.1B
+EN
+Cryptocurrencies
+Articles
+About
+Live Crypto Prices & Market Cap Charts
+
+View live market data across 17,000+ cryptocurrencies and 1,000+ exchanges. Pied Piper presents real-time updates on prices, market caps, and 24-hour trading volumes. You'll also see ranked lists of the top gainers and losers over the past day sorted by actual price movement. Each listed asset includes its current price, recent performance over 1-hour, 24-hour, and 7-day intervals, as well as key metrics such as market capitalization and liquidity. Charts display short-term trends at a glance.
+
+$3,259,208,341,601
+Market Cap
+$152,066,243,346
+24h Trading Volume
+Largest Gainers
+Banana Gun
+BANANA
+~$8.12
+35.91%
+Harvest Finance
+FARM
+~$21.75
+27.11%
+Parcl
+PRCL
+~$0.023
+27.038%
+Largest Losers
+World Friendship Cash
+WFCA
+~$0.026
+-28.81%
+Housecoin
+HOUSE
+~$0.002
+-12.17%
+Alchemist AI
+ALCH
+~$0.14
+-11.35%
+#
+	
+Coin
+Price
+	
+Last 7 days
+	
+1h %
+	
+24h %
+	
+7d %
+	
+Market Cap
+	
+Volume (24h)
+
+1	
+Tether
+USDT
+~$1
+	
+	
+0.000068%
+	
+0.0058%
+	
+-0.018%
+	$ 186.8B	$ 42.8B
+2	
+Bitcoin
+BTC
+~$87,464
+	
+	
+-0.049%
+	
+0.82%
+	
+0.61%
+	$ 1.7T	$ 24.9B
+3	
+Ethereum
+ETH
+~$2,926.69
+	
+	
+-0.038%
+	
+0.31%
+	
+3.048%
+	$ 353.3B	$ 12.1B
+4	
+USDC
+USDC
+~$1
+	
+	
+-0.011%
+	
+0.0027%
+	
+-0.00065%
+	$ 76.5B	$ 7.2B
+5	
+Solana
+SOL
+~$122.03
+	
+	
+0.021%
+	
+0.52%
+	
+-0.71%
+	$ 68.7B	$ 2.2B
+6	
+USD1
+USD1
+~$1.001
+	
+	
+0.027%
+	
+-0.021%
+	
+0.22%
+	$ 3.1B	$ 1.7B
+7	
+XRP
+XRP
+~$1.87
+	
+	
+-0.074%
+	
+0.95%
+	
+1.26%
+	$ 113.4B	$ 1.6B
+8	
+Binance Bridged USDT (BNB Smart Chain)
+BSC-USD
+~$1
+	
+	
+-0.0017%
+	
+-0.006%
+	
+0.0065%
+	$ 9B	$ 1.1B
+9	
+First Digital USD
+FDUSD
+~$1
+	
+	
+0.024%
+	
+0.014%
+	
+0.033%
+	$ 515.5M	$ 762.4M
+10	
+BNB
+BNB
+~$840.64
+	
+	
+0.028%
+	
+0.59%
+	
+0.9%
+	$ 115.8B	$ 709.2M
+11	
+Zcash
+ZEC
+~$446.39
+	
+	
+-0.22%
+	
+9.19%
+	
+13.035%
+	$ 7.3B	$ 700.4M
+12	
+USDT0
+USDT0
+~$1
+	
+	
+0.00057%
+	
+-0.012%
+	
+-0.035%
+	$ 4.1B	$ 550M
+13	
+TRON
+TRX
+~$0.28
+	
+	
+-0.31%
+	
+-1.64%
+	
+0.63%
+	$ 26.4B	$ 527.6M
+14	
+Dogecoin
+DOGE
+~$0.13
+	
+	
+0.018%
+	
+-0.051%
+	
+1.76%
+	$ 21.4B	$ 525.1M
+15	
+Cardano
+ADA
+~$0.36
+	
+	
+-0.32%
+	
+0.22%
+	
+-1.61%
+	$ 13.1B	$ 365.4M
+16	
+Bitcoin Cash
+BCH
+~$586.37
+	
+	
+-0.15%
+	
+2.54%
+	
+10.47%
+	$ 11.7B	$ 336.6M
+17	
+Sui
+SUI
+~$1.41
+	
+	
+-0.044%
+	
+0.42%
+	
+0.52%
+	$ 5.3B	$ 329.5M
+18	
+Litecoin
+LTC
+~$76.79
+	
+	
+0.074%
+	
+1.4%
+	
+1.98%
+	$ 5.9B	$ 327.3M
+19	
+Wrapped SOL
+SOL
+~$122.07
+	
+	
+0.057%
+	
+0.51%
+	
+-0.69%
+	$ 1.5B	$ 308.3M
+20	
+Chainlink
+LINK
+~$12.23
+	
+	
+-0.23%
+	
+0.55%
+	
+-0.077%
+	$ 8.7B	$ 273.9M
+21	
+Tether Gold
+XAUT
+~$4,489.78
+	
+	
+0.42%
+	
+-0.039%
+	
+3.8%
+	$ 2.3B	$ 273.7M
+22	
+Uniswap
+UNI
+~$5.81
+	
+	
+0.7%
+	
+2.25%
+	
+18.28%
+	$ 3.7B	$ 270.6M
+23	
+Aave
+AAVE
+~$151.37
+	
+	
+0.58%
+	
+2.55%
+	
+-14.48%
+	$ 2.3B	$ 240.5M
+24	
+Quq
+QUQ
+~$0.0024
+	
+	
+0.057%
+	
+0.059%
+	
+-19.9%
+	$ 2.4M	$ 231M
+25	
+Avalanche
+AVAX
+~$12.26
+	
+	
+0.21%
+	
+2.009%
+	
+4.4%
+	$ 5.3B	$ 230.9M
+26	
+Aptos
+APT
+~$1.65
+	
+	
+-0.44%
+	
+5.46%
+	
+11.69%
+	$ 1.2B	$ 193.5M
+27	
+Wrapped BNB
+WBNB
+~$840.58
+	
+	
+0.024%
+	
+0.62%
+	
+0.91%
+	$ 1.2B	$ 175.9M
+28	
+Pepe
+PEPE
+~$0.000004
+	
+	
+-0.0033%
+	
+3.12%
+	
+3.64%
+	$ 1.7B	$ 168.6M
+29	
+Coinbase Wrapped BTC
+CBBTC
+~$87,430
+	
+	
+0.0072%
+	
+0.74%
+	
+0.74%
+	$ 6.3B	$ 158.1M
+30	
+Binance Bridged USDC (BNB Smart Chain)
+USDC
+~$1
+	
+	
+0.00038%
+	
+-0.0015%
+	
+-0.0014%
+	$ 1.3B	$ 156.7M
+31	
+Lava Network
+LAVA
+~$0.15
+	
+	
+-0.16%
+	
+9.25%
+	
+1.038%
+	$ 41M	$ 152M
+32	
+Arbitrum Bridged WETH (Arbitrum One)
+WETH
+~$2,925.97
+	
+	
+0.14%
+	
+0.17%
+	
+3.26%
+	$ 522M	$ 137M
+33	
+Official Trump
+TRUMP
+~$4.93
+	
+	
+-0.23%
+	
+1.88%
+	
+-2.66%
+	$ 986.9M	$ 133.4M
+34	
+L2 Standard Bridged WETH (Base)
+WETH
+~$2,926.88
+	
+	
+0.13%
+	
+0.2%
+	
+3.029%
+	$ 609.9M	$ 129M
+35	
+Act I The AI Prophecy
+ACT
+~$0.04
+	
+	
+1.65%
+	
+2.58%
+	
+54.65%
+	$ 37.4M	$ 119.4M
+36	
+Hyperliquid
+HYPE
+~$24.61
+	
+	
+-0.041%
+	
+3.32%
+	
+1.84%
+	$ 5.9B	$ 118.2M
+37	
+NEAR Protocol
+NEAR
+~$1.48
+	
+	
+-0.43%
+	
+2.7%
+	
+0.61%
+	$ 1.9B	$ 116.2M
+38	
+Ethena USDe
+USDE
+~$1
+	
+	
+-0.04%
+	
+-0.0039%
+	
+-0.017%
+	$ 6.3B	$ 113.6M
+39	
+Movement
+MOVE
+~$0.04
+	
+	
+1.21%
+	
+-1.89%
+	
+22.69%
+	$ 111.4M	$ 113M
+40	
+Toncoin
+TON
+~$1.51
+	
+	
+-0.34%
+	
+3.83%
+	
+2.33%
+	$ 3.7B	$ 108.1M
+41	
+PAX Gold
+PAXG
+~$4,494.64
+	
+	
+0.093%
+	
+-0.21%
+	
+3.55%
+	$ 1.6B	$ 107.8M
+42	
+Pudgy Penguins
+PENGU
+~$0.009
+	
+	
+-0.04%
+	
+4.66%
+	
+-1.89%
+	$ 568.3M	$ 97.9M
+43	
+Polkadot
+DOT
+~$1.73
+	
+	
+-0.28%
+	
+0.25%
+	
+-3.96%
+	$ 2.9B	$ 91.7M
+44	
+Solayer
+LAYER
+~$0.2
+	
+	
+2.27%
+	
+22.91%
+	
+18.24%
+	$ 40.9M	$ 91.5M
+45	
+Stellar
+XLM
+~$0.21
+	
+	
+-0.5%
+	
+-0.29%
+	
+1.38%
+	$ 6.9B	$ 88.7M
+46	
+Shiba Inu
+SHIB
+~$0.0000072
+	
+	
+-0.16%
+	
+2.26%
+	
+-3.58%
+	$ 4.3B	$ 87.6M
+47	
+Wrapped AVAX
+WAVAX
+~$12.26
+	
+	
+0.1%
+	
+2.085%
+	
+4.5%
+	$ 206.8M	$ 87.2M
+48	
+pippin
+PIPPIN
+~$0.47
+	
+	
+-1.14%
+	
+-1.33%
+	
+9.73%
+	$ 474.6M	$ 87.1M
+49	
+Monero
+XMR
+~$444.45
+	
+	
+0.78%
+	
+2.087%
+	
+2.46%
+	$ 8.2B	$ 87.1M
+50	
+Ethena
+ENA
+~$0.2
+	
+	
+-0.23%
+	
+3.49%
+	
+0.76%
+	$ 1.6B	$ 85.8M
+51	
+dogwifhat
+WIF
+~$0.32
+	
+	
+-0.62%
+	
+1.52%
+	
+-7.51%
+	$ 321.5M	$ 83.2M
+52	
+Bittensor
+TAO
+~$221.98
+	
+	
+0.26%
+	
+7.28%
+	
+-2.46%
+	$ 2.1B	$ 82M
+53	
+Dash
+DASH
+~$39.69
+	
+	
+-0.11%
+	
+8.36%
+	
+4.39%
+	$ 497.3M	$ 77.8M
+54	
+Wrapped Bitcoin
+WBTC
+~$87,403
+	
+	
+0.1%
+	
+1.0031%
+	
+0.81%
+	$ 10.9B	$ 74.7M
+55	
+Arbitrum
+ARB
+~$0.19
+	
+	
+-0.55%
+	
+2.74%
+	
+4.055%
+	$ 1.1B	$ 74.6M
+56	
+PayPal USD
+PYUSD
+~$1
+	
+	
+0.011%
+	
+-0.078%
+	
+-0.075%
+	$ 3.7B	$ 74M
+57	
+Hedera
+HBAR
+~$0.11
+	
+	
+-0.13%
+	
+2.96%
+	
+3.061%
+	$ 4.8B	$ 72.3M
+58	
+Conflux
+CFX
+~$0.073
+	
+	
+0.84%
+	
+7.39%
+	
+8.082%
+	$ 378.6M	$ 66.5M
+59	
+Filecoin
+FIL
+~$1.27
+	
+	
+-0.62%
+	
+0.13%
+	
+4.59%
+	$ 926.9M	$ 66M
+60	
+KOGE
+KOGE
+~$47.98
+	
+	
+0.026%
+	
+0.034%
+	
+0.0099%
+	$ 162.2M	$ 63.5M
+61	
+Banana Gun
+BANANA
+~$8.12
+	
+	
+4.041%
+	
+35.91%
+	
+26.85%
+	$ 32.7M	$ 57.2M
+62	
+WETH
+WETH
+~$2,927.33
+	
+	
+0.14%
+	
+0.21%
+	
+3.32%
+	$ 7.5B	$ 57.1M
+63	
+Animecoin
+ANIME
+~$0.009
+	
+	
+0.79%
+	
+-8.28%
+	
+70.87%
+	$ 49.8M	$ 53.9M
+64	
+Artificial Superintelligence Alliance
+FET
+~$0.21
+	
+	
+-0.62%
+	
+4.011%
+	
+4.19%
+	$ 489.4M	$ 53.5M
+65	
+Internet Computer
+ICP
+~$3.08
+	
+	
+-0.2%
+	
+3.68%
+	
+6.43%
+	$ 1.7B	$ 53.3M
+66	
+Worldcoin
+WLD
+~$0.5
+	
+	
+-0.5%
+	
+3.42%
+	
+0.023%
+	$ 1.3B	$ 53.3M
+67	
+Curve DAO
+CRV
+~$0.38
+	
+	
+-0.34%
+	
+3.11%
+	
+7.32%
+	$ 546.4M	$ 52.8M
+68	
+Polygon PoS Bridged DAI (Polygon POS)
+DAI
+~$1
+	
+	
+-0.0038%
+	
+0.0012%
+	
+0.015%
+	$ 633.5M	$ 52.4M
+69	
+Optimism
+OP
+~$0.26
+	
+	
+-0.52%
+	
+0.14%
+	
+-3.79%
+	$ 510.3M	$ 51.3M
+70	
+Chiliz
+CHZ
+~$0.035
+	
+	
+-0.37%
+	
+0.58%
+	
+20.97%
+	$ 355.7M	$ 49.7M
+71	
+Bitget Token
+BGB
+~$3.45
+	
+	
+0.054%
+	
+-0.36%
+	
+0.00021%
+	$ 2.4B	$ 47.6M
+72	
+Websea
+WBS
+~$1.67
+	
+	
+-0.38%
+	
+-1.61%
+	
+2.85%
+	$ 0	$ 47.6M
+73	
+Mantle
+MNT
+~$1.043
+	
+	
+-0.074%
+	
+1.37%
+	
+-13.9%
+	$ 3.4B	$ 47.6M
+74	
+Virtuals Protocol
+VIRTUAL
+~$0.7
+	
+	
+-0.21%
+	
+4.16%
+	
+2.4%
+	$ 457.8M	$ 46.3M
+75	
+Metis
+METIS
+~$6.44
+	
+	
+2.16%
+	
+21.21%
+	
+24.12%
+	$ 44M	$ 46.1M
+76	
+Wrapped HYPE
+WHYPE
+~$24.62
+	
+	
+0.052%
+	
+3.37%
+	
+2.76%
+	$ 237.7M	$ 46M
+77	
+Dai
+DAI
+~$1
+	
+	
+-0.044%
+	
+-0.0085%
+	
+0.048%
+	$ 4.2B	$ 45M
+78	
+Sonic
+S
+~$0.073
+	
+	
+-1.12%
+	
+6.086%
+	
+-6.97%
+	$ 277.3M	$ 44.3M
+79	
+Origin LGNS
+LGNS
+~$7.08
+	
+	
+-1.43%
+	
+-0.06%
+	
+0.86%
+	$ 0	$ 44M
+80	
+Wrapped stETH
+WSTETH
+~$3,578.41
+	
+	
+-0.052%
+	
+0.3%
+	
+3.33%
+	$ 11.4B	$ 43.8M
+81	
+Bonk
+BONK
+~$0.0000079
+	
+	
+-0.2%
+	
+1.59%
+	
+-1.66%
+	$ 655.3M	$ 43.8M
+82	
+Ripple USD
+RLUSD
+~$1
+	
+	
+-0.012%
+	
+0.015%
+	
+0.037%
+	$ 1.4B	$ 43.5M
+83	
+Fartcoin
+FARTCOIN
+~$0.29
+	
+	
+0.15%
+	
+6.35%
+	
+3.49%
+	$ 294.5M	$ 42.8M
+84	
+THORChain
+RUNE
+~$0.55
+	
+	
+-0.041%
+	
+0.84%
+	
+-4.59%
+	$ 193.7M	$ 42.3M
+85	
+Wrapped Tron
+WTRX
+~$0.28
+	
+	
+-0.28%
+	
+-1.37%
+	
+0.63%
+	$ 0	$ 41.9M
+86	
+Starknet
+STRK
+~$0.082
+	
+	
+-0.52%
+	
+5.24%
+	
+-5.088%
+	$ 406.6M	$ 41.4M
+87	
+POL (ex-MATIC)
+POL
+~$0.11
+	
+	
+-0.25%
+	
+0.97%
+	
+-0.7%
+	$ 1.1B	$ 38.9M
+88	
+Arbitrum Bridged WBTC (Arbitrum One)
+WBTC
+~$87,249
+	
+	
+0.026%
+	
+0.77%
+	
+0.65%
+	$ 702.7M	$ 37.8M
+90	
+SQD
+SQD
+~$0.061
+	
+	
+-0.48%
+	
+5.61%
+	
+50.67%
+	$ 57M	$ 35M
+91	
+Algorand
+ALGO
+~$0.12
+	
+	
+-0.82%
+	
+5.24%
+	
+5.4%
+	$ 1B	$ 34.8M
+92	
+Binance Bitcoin
+BTCB
+~$87,495
+	
+	
+-0.0027%
+	
+0.9%
+	
+0.83%
+	$ 0	$ 34.3M
+93	
+Ondo
+ONDO
+~$0.38
+	
+	
+0.23%
+	
+0.76%
+	
+-2.31%
+	$ 1.2B	$ 32.9M
+94	
+Lido DAO
+LDO
+~$0.56
+	
+	
+-0.17%
+	
+7.31%
+	
+9.22%
+	$ 502.3M	$ 32.2M
+95	
+Ethereum Classic
+ETC
+~$12.01
+	
+	
+-0.38%
+	
+1.36%
+	
+0.26%
+	$ 1.9B	$ 32M
+96	
+WhiteBIT Coin
+WBT
+~$56.54
+	
+	
+-0.016%
+	
+0.29%
+	
+-3.27%
+	$ 12.1B	$ 31.3M
+97	
+JUST
+JST
+~$0.038
+	
+	
+-0.33%
+	
+-3.081%
+	
+-4.41%
+	$ 377.5M	$ 31.1M
+98	
+Avalanche Bridged BTC (Avalanche)
+BTC.B
+~$87,412
+	
+	
+-0.12%
+	
+0.77%
+	
+0.81%
+	$ 341.8M	$ 30.5M
+99	
+Particle Network
+PARTI
+~$0.11
+	
+	
+-1.27%
+	
+9.053%
+	
+3.86%
+	$ 24.5M	$ 30M
+100	
+Basic Attention
+BAT
+~$0.22
+	
+	
+0.55%
+	
+8.49%
+	
+0.45%
+	$ 327.2M	$ 29.5M
+101	
+Cosmos Hub
+ATOM
+~$2
+	
+	
+-0.27%
+	
+3.65%
+	
+4.64%
+	$ 971.4M	$ 29.5M
+1
+2
+3
+4
+...
+16
+Pages
+Cryptocurrencies
+Articles
+About
+Terms
+Privacy Policy
+Community
+X/Twitter
+Telegram News
+
+Data updates in real-time from over 1,000 exchange APIs. Live price action, market cap, and other numbers free of charge.
+
+Displayed values are subject to source accuracy.
+
+Disclaimer: Is an educational and informational platform only. We do not provide financial, investment, legal, or tax advice. Nothing on this site should be construed as an offer, solicitation, recommendation, or endorsement to buy, sell, or hold any cryptocurrency or other financial product. Data and content are provided “as is” and may be incomplete or delayed. You should seek independent professional advice before making any financial decisions. Cryptocurrency markets are volatile and carry significant risk of loss.
+
+Risk Warning: Trading cryptocurrencies involves significant risk of loss
+
+© 2025 PiedPiper | All rights reserved

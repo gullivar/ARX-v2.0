@@ -1,0 +1,623 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Allow all cookies
+Allow selection
+Use necessary cookies only
+Community
+0
+Webshop
+Vertriebsteam kontaktieren
+Deutsch
+Lösungen
+Branchen
+Stahlbetonbau
+Spannbetonbau
+Stahlbau
+Holzbau
+Mauerwerksbau
+Aluminium- und Leichtbau
+Gebäude
+Industriebauten und Anlagenbau
+Rohrleitungen
+Brückenbau
+Krane und Kranbahnen
+Türme und Masten
+Glasbau
+Membranbau und Textilbau
+Mehr anzeigen
+Anwendungsbereiche
+Tragwerksplanung
+Finite-Elemente-Berechnungen (FEM)
+Windsimulation & Windlastgenerierung
+Spannungsberechnungen
+Nichtlineare Berechnungen
+Stabilitätsanalysen
+Nichtlineare Beulanalysen
+Wölbkrafttorsionsanalysen
+Dynamische und seismische Analysen
+Nichtlineare Dynamik
+Pushover-Analysen
+Formfindung und Zuschnitt
+Stahlanschlüsse
+BIM-orientierte Planung
+Mehr anzeigen
+Normen
+Eurocodes (EC)
+Deutsche Normen (DIN)
+Britische Normen (BS EN, BS)
+Italienische Normen (NTC)
+US-Normen
+Kanadische Normen (CSA)
+Australische Normen (AS)
+Schweizer Normen (SIA)
+Chinesische Normen (GB, HK)
+Indische Normen (IS)
+Mexikanische Normen (RCDF, CFE Sismo 15)
+Russische Normen (SP)
+Südafrikanische Normen (SANS)
+Brasilianische Normen (NBR)
+Online-Dienste
+Karten zu Schneelasten, Windgeschwindigkeit und Erdbebenlasten
+Cloud-Berechnungen
+Statik-Wiki
+Querschnittswerte von Stahlprofilen und Querschnitten
+Tragwerksplanung für Solaranlagen
+
+Dlubal Software unterstützt Sie bei der Erstellung und Überprüfung beliebiger Solar-Montagesysteme. Arbeiten Sie effizient mit Stahl-, Aluminium- und Betonkonstruktionen in einer einzigen Umgebung.
+
+TOOLS ERKUNDEN
+Dlubal API
+
+Der neue Dlubal API-Dienst (gRPC) bietet Ihnen eine flexible Schnittstelle zur Statiksoftware auf Basis von Python und C# mit direktem Zugriff auf die gesamte Dlubal-Produktpalette.
+
+EINSTIEG MIT API
+Produkte
+RFEM 6
+ Die einzige FEA-Software, die Sie für Ihre Projekte brauchen
+
+RFEM 6 bildet die Basis der modularen Programmfamilie und dient zur Definition von Strukturen, Materialien und Einwirkungen für Platten-, Scheiben-, Schalen- und Stabtragwerke sowie für Volumen- und Kontaktelemente.
+
+Weitere Infos
+Add-Ons
+Zusätzliche Analysen
+Dynamische Analysen
+Sonderlösungen
+Bemessung
+Anschlüsse
+RSTAB 9
+ Das ikonische Stabwerksprogramm
+
+Mit RSTAB 9 steht dem anspruchsvollen Tragwerksplaner eine 3D-Stabwerkssoftware zur Verfügung, die den Anforderungen im modernen Ingenieurbau gerecht wird und die den aktuellen Stand der Technik widerspiegelt.
+
+Weitere Infos
+Add-Ons
+Zusätzliche Analysen
+Dynamische Analysen
+Sonderlösungen
+Bemessung
+RSECTION 1
+ Benutzerdefinierte Querschnittsberechnungen
+
+RSECTION unterstützt Tragwerksplaner, indem es Profilkennwerte für unterschiedlichste Querschnitte ermittelt und eine anschließende Spannungsanalyse ermöglicht.
+
+Weitere Infos
+Add-Ons
+Effektive Querschnitte
+RWIND 3
+ CFD-Software für digitale Windkanäle
+
+RWIND 3 ist ein digitaler Windkanal zur Simulation von Windströmungen um beliebige Gebäudegeometrien und zur Berechnung der Windlasten auf deren Oberflächen.
+
+Weitere Infos
+Dlubal API
+ Ihr Tor zur parametrischen Modellierung und Automatisierung
+
+Der neue Dlubal API-Service (gRPC) bietet Ihnen eine flexible Schnittstelle zur Statiksoftware auf Basis von Python und C#, mit direktem Zugriff auf die gesamte Dlubal-Produktpalette. Profitieren Sie von einer nahtlosen und leistungsstarken Integration in Ihre Dlubal-Software – ideal für parametrische Modellierung und komplexe Optimierungsaufgaben.
+
+API entdecken
+API Dokumentation
+Index
+Erste Schritte
+Anwendungen
+Modellobjekte
+Abos & Preise
+Beispiele
+FEM für Stahlverbindungen
+
+Entwerfen und analysieren Sie Stahlverbindungen mit CBFEM gemäß EN 1993-1-8 und AISC 360, vollständig integriert in RFEM 6 für schnellere und genauere Arbeitsabläufe in der Tragwerksplanung.
+
+MEHR ERFAHREN
+Dlubal Community
+
+Diese Plattform bietet Raum für technische Fragen, interessante Diskussionen über statische Berechnungen und Bemessungen, Funktionsvorschläge und den direkten Austausch mit dem Dlubal-Team und anderen Anwendern.
+
+JETZT BEITRETEN
+Überholte Produkte
+Support
+Support
+Häufig gestellte Fragen (FAQs)
+Knowledge Base
+Produkt-Features
+Lizenzierung
+Individuelle Frage stellen
+Unser Team für den Support
+Gewünschte Funktion oder Idee einreichen
+Problemlösungen zur Lizenzierung & Autorisierung
+Problem oder Fehler melden
+Programmaktualisierungen
+Programmprobleme
+Formeln | Mathematik macht Spaß!
+Schulungen
+Erste Schritte mit RFEM
+Erste Schritte mit RSTAB
+Online Schulungen
+Ausbildung in Dlubal
+Individualschulungen
+Videos
+E-Learning-Videos
+Webinare - online informieren und lernen
+Online Kurse
+Service
+Kostenloser Support / Service
+Extranet | Mein Konto
+Projektsupport
+Servicevertrag
+Geo-Zonen-Tool für Lastermittlung
+Updates und Upgrades
+Ältere Programmversionen
+Verkauf
+Webshop
+Unser Team für den Verkauf
+Vertriebsteam kontaktieren
+Online-Produktdemo vereinbaren
+Warum Dlubal software
+KI Support Assistentin
+Mia – Ihre KI-Assistentin rund um die Uhr
+Entdecken Sie Ihre persönliche KI-Assistentin
+Kostenloser Support und Service
+
+Brauchen Sie Hilfe? Nutzen Sie unsere kostenlosen Support-Optionen, darunter KI-Unterstützung rund um die Uhr, E-Mail-Support und Webinare.
+
+MEHR ERFAHREN
+Schnell Antworten finden
+
+Finden Sie schnelle Antworten auf häufig gestellte Fragen zu Dlubal Software. Durchsuchen oder filtern Sie Hunderte von FAQs, um Probleme im Handumdrehen zu lösen.
+
+FAQ ANZEIGEN
+News
+Neuigkeiten
+Aktuelle Nachrichten
+Neue Produkt-Features
+Newsletter abonnieren
+Neue Programme
+Dlubal Blog
+Schulungen
+Online-Schulungen
+Individualschulungen
+Events
+Veranstaltungsübersicht
+Messen/Seminare
+Webinare
+Meistern Sie das Ingenieurwesen mit Webinaren
+
+Schließen Sie sich Branchenführern an und entdecken Sie Lösungen im Bereich Tragwerksplanung und Software. Erweitern Sie Ihre Kenntnisse mit unseren Live-Veranstaltungen!
+
+NÄCHSTE WEBINARE ANZEIGEN
+Entfesseln Sie die Kraft der Innovation
+
+Entdecken Sie innovative Tools und Verbesserungen, die Ihren technischen Arbeitsablauf optimieren.
+
+NEUE FEATURES ENTDECKEN
+Ressourcen
+Vollversion herunterladen
+
+Möchtest du die Leistungsfähigkeit der Dlubal Software Programme ausprobieren? Du hast die Möglichkeit! Mit der kostenlosen 90-Tage-Vollversion kannst du alle unsere Programme vollständig testen.
+
+Jetzt Testversion starten
+Dlubal Gratisbereich
+
+Im Dlubal-Gratisbereich erhältst du Zugang zu Webinaren, Artikeln und Testmöglichkeiten der Software – alles kostenfrei und übersichtlich an einem Ort vereint.
+
+Weitere Infos
+Beispiele
+Statikmodelle zum Herunterladen
+Statikmodell einreichen
+Einführungs- und Übungsbeispiele
+Verifikationsbeispiele
+Bilderübersicht
+Dokumente
+Online-Handbücher
+Handbücher
+Referenzen
+Kundenprojekte
+Warum Kundenprojekt einreichen?
+Wie Kundenprojekt einreichen?
+Kundenprojekt einreichen
+Kostenlose Modelle zum Download
+
+Entdecken Sie Tausende gebrauchsfertige Strukturmodelle. Um Ihren Bemessungsprozess zu beschleunigen, können Sie diese herunterladen, anpassen und als Vorlagen verwenden.
+
+MODELLE ENTDECKEN
+Kostenfreie Zone von Dlubal Software
+
+Sie können sich jederzeit fachkundig helfen lassen. Als Benutzer von Service Contract Pro profitieren Sie von kostenloser KI-Unterstützung, E-Mail-Support, Live-Webinaren und Premium-Diensten.
+
+SUPPORT ERHALTEN
+Bildung
+E-Learning
+RFEM 6 für Einsteiger
+RFEM 6 für Studenten
+Programmieren mit RFEM 6 und Python
+RFEM 6 mit Rhino & Grasshopper
+RFEM 5 für Einsteiger
+Modellieren mit RFEM 5
+Statik-Lernvideos für Studenten
+Schnelle Tutorials für die Dlubal-Programme
+Die besten Tipps und Tricks in RFEM
+Aufzeichnungnen zu Dlubal-Online-Schulungen
+Aufgezeichnete Dlubal-Webinare
+Studenten und Schulen
+Statiksoftware für Studenten kostenlos
+Kostenlose Studentenversion anfordern bzw. verlängern
+Antrag auf kostenlose Version für Lehrkräfte
+Abschlussarbeit einreichen
+Warum Abschlussarbeit einreichen?
+Abschlussarbeiten mit Dlubal-Statiksoftware
+Statiksoftware für Hochschulen kostenlos
+Schulpaket anfordern
+Gratis-Einführungsschulung für Hochschulen
+Schulungstermin anfordern
+Knowledge Platform
+Erste Schritte mit RFEM
+Videos
+Online-Handbücher
+Statik-Wiki
+Knowledge Base
+Häufig gestellte Fragen (FAQs)
+Infotainment
+Podcast
+Dlubal Blog
+Einführung in die Tragwerksplanung
+Erste Schritte mit RFEM 6
+
+Machen Sie Ihre ersten Schritte mit RFEM 6 und entdecken Sie, wie schnell Sie Modelle erstellen und Berechnungen durchführen können. Passen Sie das Programm mit Add-Ons an, um noch mehr Funktionen zu nutzen.
+
+ERSTE SCHRITTE
+Statiksoftware für Studenten gratis
+
+Tausende Studenten weltweit profitieren bereits von Dlubal Software. Genießen Sie während Ihres gesamten Studiums kostenlosen Zugang, Schulungen und kompetenten Support.
+
+KOSTENLOSE LIZENZ ERHALTEN
+Unternehmen
+Über uns
+Historie und Zahlen
+Firmenphilosophie
+Warum Dlubal Software?
+Produktvergleich
+Qualitätspolitik
+Unser Team
+Kontakt
+Dlubal-Standorte weltweit
+Autorisierte Dlubal-Reseller
+Referenzen
+Kundenrezensionen
+Kundenprojekte
+Warum Kundenprojekt einreichen?
+Verifikationsbeispiele
+Ihre Rezension
+Beteiligung an Forschungsprojekten
+Unsere Kunden
+
+Wir präsentieren unsere Kunden, die ihre Projekte mit Dlubal Software realisieren. Erfahren Sie, wie unsere Kunden weltweit innovative Lösungen im Bauwesen und Ingenieurwesen mithilfe fortschrittlicher Werkzeuge für statische und dynamische Analysen umsetzen.
+
+Unsere Kunden ansehen
+Gemeinsam Erfolg schaffen
+
+Entdecken Sie, wie führende Ingenieure weltweit auf unsere Lösungen vertrauen, um ihre Projekte gemeinsam mit uns voranzubringen.
+
+UNSERE KUNDEN
+Finden Sie Ihren Traumjob
+
+Werden Sie Teil eines weltweit führenden Anbieters von Ingenieursoftware und bringen Sie Ihre Karriere auf ein neues Niveau.
+
+OFFENE STELLEN ENTDECKEN
+Karriere
+Gemeinsam schaffen wir mehr
+Karriere bei Dlubal
+Teams
+Produktentwicklung
+Kundenservice
+Vertrieb
+Marketing
+Softwareentwicklung
+Administration
+Jobs
+Alle Offene Stellen
+Produktentwicklung
+Kundensupport
+Vertrieb
+Marketing
+Softwareentwicklung
+Administration
+Praktikanten
+Andere
+Neuigkeiten aus dem Dlubal-Team
+Team-Geschichten
+Gestalten Sie Ihre Zukunft mit uns
+
+Entdecken Sie, wie unser Team die Zukunft des Ingenieurwesens gestaltet. Erleben Sie Innovation, Wachstum und spannende Herausforderungen.
+
+IHRE KARRIEREMÖGLICHKEITEN
+Treffen Sie die Experten
+
+Unsere engagierten Ingenieure stehen Ihnen jederzeit und überall bei der Modellierung, Bemessung und bei technischen Herausforderungen zur Seite.
+
+MIT DEM SUPPORT IN VERBINDUNG TRETEN
+90 Tage kostenlos testen
+Statiksoftware für Tragwerksplaner & Ingenieure
+
+Seit mehr als 35 Jahren entwickelt Dlubal Software fortschrittliche Statiksoftware, die von Bauingenieuren und Berechnungsingenieuren hoch geschätzt wird. Die Kernprodukte RFEM und RSTAB werden in 132 Ländern weltweit eingesetzt und zeichnen sich durch hohe Präzision, Zuverlässigkeit und Benutzerfreundlichkeit aus.
+
+Mehr als 130.000 Anwender vertrauen auf die Kompetenz von Dlubal Software. 13.000 Unternehmen nutzen unsere Software für ihre alltägliche Arbeit.
+
+90 Tage kostenlos testen
+Beratungstermin vereinbaren
+Entdecken Sie die Softwarelösungen von Dlubal
+RWIND 3: Effiziente Windlastsimulation mit CFD für jede Gebäudeform
+RFEM 6: Ihre All-in-One-Lösung für die Analyse von Stahlverbindungen
+Statische Berechnung und Bemessung von PV-Tragwerken und Montagesystemen
+Umfassende Gebäudeanalyse mit seitlicher und Gravitationsanalyse
+Berechnung und Bemessung von Glasflächen für Fassaden und Öffnungen
+Frohe Festtage und einen erfolgreichen Start ins Jahr 2026!
+
+Ob ruhig und gemütlich oder dynamisch und aufregend – das Team von Dlubal Software wünscht Ihnen frohe Festtage, eine erholsame Zeit mit Ihren Lieben und ein Jahr voller erfolgreicher Projekte und neuer Chancen.
+
+Lassen Sie uns 2026 Großes in der Statik erreichen!
+
+Weltweit von führenden Ingenieuren geschätzt
+
+Mehr als 13.000 Kunden weltweit vertrauen bei der statischen Berechnung und Bemessung auf Dlubal Software.
+
+Beliebte Hauptprodukte und Lösungen
+RFEM6
+
+Die Flaggschiff-FEM-Lösung von Dlubal bietet umfassende statische Berechnungen und Bemessungen von Konstruktionen aus Stäben, Flächen und Volumenkörpern.
+
+RFEM 6 ENTDECKEN
+RSTAB9
+
+Das innovative 3D-Programm ermöglicht die statische Berechnung und Bemessung von Rahmen-, Balken- und Fachwerkkonstruktionen aus Beton, Stahl, Holz und anderen Materialien.
+
+RSTAB 9 ENTDECKEN
+RWIND3
+
+RWIND ermöglicht die Simulation von Windströmungen in einem digitalen Windkanal und die Generierung präziser Windlasten für Konstruktionen mit unterschiedlichen Formen, Größen und Geometrien.
+
+IN RWIND 3 SIMULIEREN
+RSECTION
+
+Das eigenständige Programm RSECTION berechnet Querschnittswerte und Spannungen von dünnen und massiven Querschnitten vieler verschiedener Arten von Konstruktionen.
+
+RSECTION TESTEN
+API
+
+Verwenden Sie die Dlubal API, um Prozesse zu automatisieren, externe Tools zu integrieren und benutzerdefinierte Workflows zu erstellen, die sorgfältig auf Ihre spezifischen Projektanforderungen zugeschnitten sind.
+
+MIT API BAUEN
+GEO-ZONEN-TOOL
+
+Der Dlubal-Onlinedienst bietet Zonenkarten zur schnellen Ermittlung von Schneelasten, Windgeschwindigkeiten und seismischen Daten.
+
+LASTZONEN PRÜFEN
+3D-MODELLE
+
+Sie haben die Wahl zwischen einer Vielzahl von Statikmodellen, die von Dlubal-Ingenieuren erstellt wurden und die Sie zum Üben oder als Inspiration nutzen oder direkt als Vorlagen in Ihren eigenen Projekten verwenden können.
+
+3D-MODELLE DURCHSUCHEN
+QUERSCHNITTS-ANWENDUNG
+
+Nutzen Sie präzise Querschnittswerte aus unserer Bibliothek und integrieren Sie diese nahtlos in Ihren Arbeitsablauf.
+
+BIBLIOTHEK ANSEHEN
+Cloud-Berechnung
+
+Führen Sie Ihre Berechnungen auf einem externen Server durch, damit Ihr Computer für andere Aufgaben uneingeschränkt verfügbar bleibt.
+
+IN DER CLOUD AUSFÜHREN
+Erleben Sie Präzision in der statischen Berechnung und Bemessung
+
+Erfahren Sie, wie RFEM 6 Ingenieuren die Möglichkeit gibt, Projekte jeder Größenordnung mit Zuversicht und Präzision anzugehen. Modellieren Sie uneingeschränkt, bringen Sie Lasten automatisch auf und führen Sie anspruchsvolle FEM-Berechnungen in einer modernen Programmumgebung durch. Die Kombination aus intuitiver Modellierung, integrierten Bemessungswerkzeugen und Normkonformität gewährleistet Effizienz und Zuverlässigkeit, während nahtlose BIM-Konnektivität und moderne Technologie reibungslose Arbeitsabläufe vom Konzept bis zur Fertigstellung unterstützen.
+
+WEITERE INFORMATIONEN
+Entdecken Sie die Online-Dienste von Dlubal
+
+Entdecken Sie die Vorteile der Dlubal-Community! Werden Sie Teil einer engagierten Nutzergemeinschaft und erleben Sie, wie unsere fortschrittlichen Online-Dienste Ihre Software-Erfahrung bereichern können.
+
+Dlubal Community
+
+Dlubal API
+
+Kostenlose Modelle zum Herunterladen
+
+Querschnittsbibliothek
+
+Geo-Zonen-Tool: Schneelastzonen, Windzonen und Erdbebenzonen
+
+Dlubal-Webinare
+
+Kostenlose Statiksoftware für Studenten
+
+Podcasts: Innovationen im Bauwesen
+
+... und vieles mehr
+
+Konzepte in die Realität umsetzen
+
+Abgeschlossene Projekte sprechen für sich. Verschaffen Sie sich einen Einblick in Kundenprojekte und erfahren Sie, wie Dlubal Software die Planung und Analyse von Bauwerken weltweit unterstützt.
+
+Konstruktion des tschechischen Nationalpavillons - EXPO 2025
+
+Der Kunde A2 Timber s.r.o. nutzte RFEM und RWIND, um das erste Holzgebäude seiner Art ohne Metallstruktur in Japan zu entwerfen. Der 12 Meter hohe spiralförmige Pavillon aus vorgefertigten BSP-Platten und Glasfassadenelementen wurde mithilfe eines digitalen Windkanals und FEM-Modellierung auf Wind- und Erdbebenlasten analysiert.
+
+Osaka, Japan
+Bergstation/Garagenhalle Zinsbergbahn
+
+Eine 30 m lange freitragende Stahlhalle, die nur von drei Stützen getragen wird, stellte große bauliche und logistische Herausforderungen dar. Die Grabner Stahl und Maschinenbau GmbH setzte RFEM 6 mit dem Add-On Stahlbemessung ein, um die strukturelle Leistungsfähigkeit, minimale Verformung und eine transportoptimierte Montage im alpinen Gelände sicherzustellen.
+
+Brixen im Thale, Österreich
+BORA Flagship Store
+
+Mit seiner dynamischen Form und der freitragenden Stahl-Glas-Konstruktion ist der neue BORA-Showroom ein visuelles und technisches Wahrzeichen. Werkraum Ingenieure ZT verwendete RFEM 6 für die Analyse der Stahlkonstruktion, des Stahlbetonfundaments und der dynamischen Effekte.
+
+Herford, Deutschland
+Gitterschale aus Holz der Parkarena
+
+Gitterschale aus Holz der Parkarena
+Diese innovative Holzgitterschale in Furth im Wald wurde für die Landesgartenschau 2025 entworfen und zeichnet sich durch polygonale Geometrie, demontierbare Anschlüsse und fast 1.900 CNC-gefertigte Elemente aus. Die Konstruktion wurde in Rhino/Grasshopper modelliert und in RFEM berechnet.
+
+Furth im Wald, Deutschland
+Längste Fußgängerhängebrücke der Welt
+
+Diese rekordverdächtige Hängebrücke, die sich über 721 m zwischen zwei Bergkämmen erstreckt, wurde von TAROS NOVA a.s. mit RFEM entworfen. Mehrere Berechnungsmodelle und eine nichtlineare Analyse halfen dabei, die seilgestützte Konstruktion hinsichtlich Wind, Schnee und großen Verformungen zu optimieren.
+
+Dolní Morava, Tschechische Republik
+Suzhou Olympic Sports Centre Stadium
+
+Für die Bemessung der geschwungenen Fassade und der Seildachkonstruktionen setzte Huana Engineering Consulting RSTAB mit dem Add-On Stahlbemessung ein. Das einlagige Seilnetz überspannt das größte membranbedeckte Stadiondach Ostasiens und prägt dieses multifunktionale Sport-Wahrzeichen.
+
+Suzhou, China
+Sky Walk in Dolní Morava
+
+In 58,5 m Höhe über dem Gelände schlängelt sich dieser Aussichtspfad aus Holz und Stahl durch drei Türme, die in einer dreieckigen Anordnung verankert sind. TAROS-NOVA s.r.o. verwendete RSTAB für die Bemessung der Brettschichtholz- und Stahlfachwerkkonstruktion, die starken Winden und Eislasten in alpinen Bedingungen ausgesetzt ist.
+
+Dolní Morava, Tschechien
+Bluebonnet in Dallas
+
+Das öffentliche Großkunstwerk „Bluebonnet“ ist ein beeindruckendes Projekt von CRAFT | Engineering Studio, einem Kunden von Dlubal. Die Konstruktion wurde von der Staatsblume von Texas inspiriert und besteht aus 570 einzeln lasergeschnittenen Aluminiumrohren, die jeweils in unterschiedlichen Winkeln und Längen gebogen sind.
+
+Nord-Dallas, Texas, USA
+Innenhofüberdachung des SMS Campus
+
+Der Kunde formTL verwendete RFEM mit dem Add-On Stahlbemessung, um das 82 Meter breite, seilgestützte Kuppeldach nach dem Geiger-Prinzip zu bemessen. Die 5.100 m² große Spann- und Stahlkonstruktion verbindet fünf Bürogebäude und bietet über 2.000 Mitarbeitern Wetterschutz.
+
+Mönchengladbach, Deutschland
+Kuhdammbrücke
+
+Um diese Bogenbrücke für einen verbesserten Güterverkehrszugang zu verbreitern, hat die VIC Planen und Beraten GmbH mit RFEM Bewehrungen entworfen, das Verhalten der Hänger analysiert und das Schwingungsverhalten überprüft. Die Stahlkonstruktion überspannt nun 76,6 m mit neuer Geometrie und neuen Dämpfungssystemen.
+
+Wustermark, Deutschland
+ALLE KUNDENPROJEKTE ANZEIGEN
+Dlubal Software.
+40 Jahre Erfahrung
+treffen auf Innovation.
+
+Seit 1987 kombiniert Dlubal Software Fachwissen und Innovation, um intuitive Lösungen für die Statik und CFD-Analyse anzubieten, unterstützt von über 330 Mitarbeitern an 10 Standorten weltweit.
+
+ÜBER DAS UNTERNEHMEN
+Für Ingenieure entwickelt. Weltweit bewährt.
+130.000+
+Anwender
+
+Über 130.000 Anwender vertrauen auf Dlubal Software für die statische Berechnung und Bemessung.
+
+13.000+
+Kunden
+
+Über 13.000 Kunden weltweit nutzen unsere Software, um Konstruktionen mit Zuversicht zu planen.
+
+130+
+Länder
+
+Globaler Akteur im Bereich der Statiksoftware, der in mehr als 130 Ländern tätig ist
+
+330+
+Mitarbeiter
+
+Mehr als 330 Teammitglieder sorgen für kontinuierliche Weiterentwicklung und professionellen Support.
+
+Dlubal-Newsfeed
+News
+Bevorstehende Events
+Aufgezeichnete Webinare
+Dlubal-Team
+🎄 Frohe Weihnachten und ein gutes neues Jahr 2026! 🎆
+Aktuelle Nachrichten
+Produktfeatures – Stabtyp 'Lastübertragung'
+Aktuelle Nachrichten
+🌍 Kundenprojekt-Highlight | Steel Membrane Roofing – Nairobi, Kenya
+Aktuelle Nachrichten
+Neues Kundenprojekt aus Australien 🔨🌏
+Aktuelle Nachrichten
+Struktur- und Tageslichtperformance eines innovativen Gitterschalensystems
+Aktuelle Nachrichten
+Neues Kundenprojekt aus Italien 🔨🏟️​
+Aktuelle Nachrichten
+Überwachung von Brückenkonstruktionen mit digitalem Zwilling
+Aktuelle Nachrichten
+Statikmodelle
+Aktuelle Nachrichten
+Abschlussarbeit
+Abschlussarbeiten
+BIM World München 2025
+Aktuelle Nachrichten
+Stahlhalle mit Fachwerkträgern, China
+Aktuelle Nachrichten
+Effiziente Nutzung Ihres Dlubal-Kontos
+Aktuelle Nachrichten
+Moderne Membranbedachung mit fortschrittlicher technischer Analyse
+Aktuelle Nachrichten
+Effiziente mechanische Verbindungen in Stahlkonstruktionen – Abschlussarbeit
+Aktuelle Nachrichten
+Aussichtsturm mit Baumwipfelpfad, Bachledka, Slowakei
+Kundenprojekt
+Statische Berechnung und Bemessung einer Förderbandbrücke aus Stahl
+Aktuelle Nachrichten
+MEHR ANZEIGEN
+Statik-Software für Statiker und Tragwerksplaner
+Dlubal Software GmbH
+
+Am Zellweg 2
+93464 Tiefenbach
+Deutschland
+
+Dlubal-Standorte 
+Kontakt
++49 9673 9203-0
+info@dlubal.com
+Lösungen
+Stahlbetonbau
+Stahlbau
+Holzbau
+Stahlanschlüsse
+Produkte
+RFEM 6
+RSTAB 9
+RSECTION 1
+RWIND 3
+Support
+Häufig gestellte Fragen (FAQs)
+Individuelle Frage stellen
+Geo-Zonen-Tool für Lastermittlung
+Vertriebsteam kontaktieren
+News
+Newsletter abonnieren
+Aktuelle Nachrichten
+Veranstaltungsübersicht
+Online-Schulungen
+Ressourcen
+Vollversion zum Testen herunterladen
+Kundenprojekt einreichen
+Kundenprojekte
+Online-Handbücher
+Werde auch Du Teil des Dlubal-Teams
+© 2001-2025 Dlubal Software GmbH | Alle Rechte vorbehalten
+Rechtliche Hinweise
+Über uns
+Sitemap
+Deutsch

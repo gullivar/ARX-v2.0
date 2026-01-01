@@ -1,0 +1,57 @@
+RadioBrowser
+Apps
+GeoMap
+By popularity
+By category
+Contribute
+Help
+de2
+🇩🇪
+What is radio-browser?
+
+This is a community driven effort (like wikipedia) with the aim of collecting as many internet radio and TV stations as possible. Any help is appreciated!
+
+Free for ALL!
+Data license: public domain, software license: GPL, server software: open source
+Open API for usage in own apps
+Everyone is free to use the collected data (station names, tags, links to stream, links to homepages, language, country, state) in their works. I give all the rights I have at the accumulated data to the public domain.
+A big THANKS to Netlify for providing free high performance hosting of this website.
+
+Statistics
+
+Station count at the moment: 50074
+Station clicks last hour: 3112
+Station clicks last day: 136290
+Distinct tags: 10510
+Distinct countries: 238
+Distinct languages: 594
+
+What can radio-browser do for you?
+
+I want to listen to radio
+Please have a look at the list of apps that use this service by clicking on "Apps" in the header bar. You can also just use the search field on this webpage to find streams you want to listen to. Maybe you want a list of the most clicked streams of this service?
+
+I want to add a stream to the database
+Just click "New station" and add the stream. This service is completely automatic. More information in the FAQ.
+
+I am the owner of a stream
+You can add your stream. Streams can only be changed at the moment by the owner. Please follow the tutorial if you want to change your stream.
+
+I want to help with the database, but I am not an owner of a stream
+To change/delete streams from the database please go to this project on gitlab and add your changes to a new files. The changes will be reviewed and merged in a few days. There is documentation in the README.md of the project and you can look at the changes that are already there to get an idea on how to do it.
+
+I am an app developer
+Have a look at the API documentation at api.radio-browser.info
+
+I want to give money to the cause (sponsoring) to keep the servers running
+I have a page at KO-FI where you can do one-time or recurring sponsoring. Thank you a lot in advance.
+
+Reporting bugs
+I found a bug and want to report it:
+This website
+Backend / Server
+Legal
+
+I'm not in any way responsible for the entries on this webpage because this is a community-driven effort (like Wikipedia for example). Nor am I responsible for the radio stations that can be found here themselves.
+
+Admin: Mail

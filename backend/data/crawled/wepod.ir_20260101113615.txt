@@ -1,0 +1,16 @@
+Error 502  | Bad Gateway
+Website server is temporarily inaccessible.
+
+Please try again in a few minutes.
+
+In case the problem still exists contact wepod.ir support.
+
+Time: 2026-01-01 02:36:15 UTC|Error Code: 502|Server Code: 7710|Domain: wepod.ir|Your IP: 221.138.189.189
+خطای ۵۰۲  | Bad Gateway
+سرور وب‌سایت به طور موقت از دسترس خارج شده است.
+
+پس از چند دقیقه دوباره امتحان کنید.
+
+اگر مشکل رفع نشد با پشتیبانی wepod.ir تماس بگیرید.
+
+Time: 2026-01-01 02:36:15 UTC|Error Code: 502|Server Code: 7710|Domain: wepod.ir|Your IP: 221.138.189.189

@@ -1,0 +1,140 @@
+Cross-reference search
+Products
+Applications
+Design & development
+Quality & reliability
+Ordering resources
+About TI
+My cart
+The future starts with the first
+
+Our newest 300mm fab, in Sherman, Texas, is now in production, marking an important milestone as we build the technology the world relies on today and dreams of tomorrow
+
+Read now
+The newest Analog Design Journal is out now
+
+Learn the latest on analog circuit design and emerging applications from our technical experts
+
+Read now
+The technology shaping the autonomous driving experience
+
+From advancing safety with sensor fusion to enhancing convenience with over-the-air updates, our automotive technologies are building the foundation for tomorrow’s autonomous vehicles
+
+Read more
+Innovate what’s next at CES 2026
+ 
+January 6-9
+
+At CES 2026, we're innovating what's next in how we move, live and work – transforming automotive experiences, bringing edge AI capabilities to everyday environments and reimagining what’s next in automation and AI
+
+Learn more
+ 
+Get support
+ 
+Find reference designs
+ 
+Design & development
+ 
+Cross-reference search
+New products
+View all new products
+TPS1686
+NEW
+EFUSES (INTEGRATED HOT SWAPS)
+TPS1686
+
+9V to 80V, 15mΩ, 10A eFuse with accurate and fast current monitor
+
+Approx. price (USD) 1ku | 2.00
+
+REF30E
+NEW
+SERIES VOLTAGE REFERENCES
+REF30E
+
+20 ppm°/C drift, 24uA Iq in SOT-23-3 package series voltage reference
+
+Approx. price (USD) 1ku | 0.39
+
+LMG5126
+NEW
+AC/DC & DC/DC CONVERTERS (INTEGRATED FET)
+LMG5126
+
+42V VIN, 2.5MHz synchronous GaN boost converter with output voltage tracking
+
+Approx. price (USD) 1ku | 4.00
+
+TMUX182-SEP
+NEW
+ANALOG & PRECISION SWITCHES & MUXES
+TMUX182-SEP
+
+Radiation Tolerant, 8:1, one-channel multiplexer with 1.8V Logic
+
+BZX884C6V8-Q1
+NEW
+ZENER DIODES
+BZX884C6V8-Q1
+
+Automotive 6.8V Zener diode in 0402 package
+
+Approx. price (USD) 1ku | 0.03
+
+DP83TD530-Q1
+NEW
+ETHERNET PHYS
+DP83TD530-Q1
+
+10BASE-T1S OA PMD Transceiver
+
+Approx. price (USD) 1ku | 0.90
+
+17 DEC 2025 | COMPANY BLOG
+The future starts with the first: Our newest 300mm wafer fab is in production
+The journey to first production in Sherman, Texas marks an important milestone in TI’s legacy of firsts as we build the technology the world relies on today and dreams of tomorrow
+Read more
+Our passion
+
+At our core, we have a passion to create a better world by making electronics more affordable through semiconductors. This passion is alive today as we continue to pioneer advances in integrated circuits. Each generation of innovation builds upon the last to make technology smaller, more efficient, more reliable and more affordable – opening new markets and making it possible for semiconductors to go into electronics everywhere. We think of this as Engineering Progress.
+
+Who we are
+What we do
+Join our team
+
+Our work is challenging and fast-paced, and it’s our people that make us great. Do you want to change the world and love your job? Join us.
+
+Search open jobs
+Our commitment to corporate citizenship
+Download our "2024 Corporate Citizenship Report"
+90%
+
+Percentage of shipped semiconductor products considered green that meet low-halogen industry requirements.
+
+
+31%
+
+of water was reused by our global manufacturing operations in 2024.
+
+
+30+
+
+Honors for talent development and workforce programs.
+
+
+29%
+
+Reduction of our greenhouse gas (GHG) emissions from 2015 to 2024 - making progress towards our 25% reduction goal.
+
+
+88%
+
+of solid waste materials generated were diverted from landfills in 2024.
+
+
+$57 million
+
+in philanthropic giving, in partnership with the TI Foundation, TI employees and retirees, to support our local communities.
+
+
+*Numbers accurate as of 2024

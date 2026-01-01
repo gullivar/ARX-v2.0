@@ -1,0 +1,410 @@
+État des services
+Blogue
+(€) EUR 
+ France - FR
+ Hébergement mutualisé
+ Serveur dédié Cloud
+ Noms de domaine
+ À propos
+ Nous contacter
+ CONNEXION
+Renforcez votre présence en ligne avec un hébergement Web de PlanetHoster
+
+Profitez d'un hébergeur Web humain à votre écoute depuis 2007
+
+À partir de
+6 € /mois
+Commandez votre hébergement
+La troisième année d’enregistrement offerte pour tout enregistrement de nom de domaine en .fr, .re, .yt, .pm, .wf et le .tf supérieur à 2 ans
+Profitez de l'offre
+Comparatif de nos offres d'hébergement web
+The World
+
+Hébergement web multi-sites isolés à 100 %
+
+À partir de
+6 € /mois
+Nombre de sites : illimité
+1 nom de domaine offert .be, .ca, .ch, .de, .es, .eu, .fr, .pm, .re, .tf, .wf et .yt.
+ESPACE DISQUE
+100 GB inclus | Extensible à plusieurs TB
+RESSOURCES
+8 CPU (extensible jusqu'à 1 024)
+16 Go RAM (extensible jusqu'à 2 048 GB)
+16 Mo/s en I/O (extensible jusqu'à 2 048 MB/s)
+PERFORMANCES
+Haute disponibilité (99.99% en moyenne)
+Apache avec accélération Litespeed (LSCache)
+Instances dédiées Redis
+Instances dédiées Memcached
+FONCTIONNALITÉS
+Créer des comptes d'hébergement uniques, isolés et redondants
+Caching Pro inclus et accélération LSCache native, activée par défaut
+Installateur de CMS en un clic
+Plusieurs versions de PHP, Python, Node.js et Ruby
+Support 24/7 et activation instantanée
+Commander maintenant
+The World Pro
+
+Hébergement web multi-sites isolés à 100 % sur environnement semi-dédié
+
+À partir de
+8 € /mois
+Nombre de sites : illimité
+1 nom de domaine offert .be, .ca, .ch, .de, .es, .eu, .fr, .pm, .re, .tf, .wf et .yt.
+ESPACE DISQUE
+100 GB inclus | Extensible à plusieurs TB
+RESSOURCES
+8 CPU (extensible jusqu'à 1 024)
+16 Go RAM (extensible jusqu'à 2 048 GB)
+16 Mo/s en I/O (extensible jusqu'à 2 048 MB/s)
+PERFORMANCES
+Litespeed Entreprise avec LSCache et LiteMage
+Instances dédiées Redis
+Instances dédiées Memcached
+FONCTIONNALITÉS
+Créer des comptes d'hébergement uniques, isolés et redondants
+Caching Pro inclus et accélération LSCache native, activée par défaut
+Installateur de CMS en un clic
+Plusieurs versions de PHP, Python, Node.js et Ruby
+Support 24/7 et activation instantanée
+Commander maintenant
+HybridCloud
+
+Hébergement web dédié et infogéré 24/7
+
+À partir de
+70 € /mois
+Nombre de sites : illimité
+1 nom de domaine offert .be, .ca, .ch, .de, .es, .eu, .fr, .pm, .re, .tf, .wf et .yt.
+ESPACE DISQUE
+Jusqu'à 16 TB SSD/NVMe
+RESSOURCES
+Jusqu'à 32 cores CPU et 256 GB RAM
+Auto Peak Power (APP)
+PERFORMANCES
+Trafic et bande passante illimité
+Processeur AMD EPYC
+FONCTIONNALITÉS
+Infrastructure évolutive Premium
+Panneau N0C, PHP, MySQL, Apache et bien plus
+Protection Anti-DDoS
+Infrastructure évolutive Premium
+100 % infogéré par notre équipe qualifiée 24/7 et mise en service immédiate
+Commander maintenant
+PlanetHoster : un des 10 meilleurs hébergeurs web en 2023 et 2024!
+
+Depuis plus de 15 ans, la réputation de PlanetHoster n’a cessé de croître. En 2023, Futura Science et les10meilleurs ont classé PlanetHoster premier parmi les meilleurs hébergeurs Web. En 2024, c’était au tour de pme-web.com et LeParisien.fr de faire la même constatation!
+
+Performance et haute disponibilité
+
+Vous pouvez gérer de manière optimale les ressources allouées pour chacun de vos comptes d’hébergement.
+
+Sécurité, confidentialité et cyberdéfense
+
+Le Web possède un potentiel positif puissant, mais ses risques constituent un danger réel. PlanetHoster vous propose des technologies et un support technique hors pair pour vous aider à vous protéger.
+
+Techniciens PlanetHoster qualifiés 24/7
+
+Les opérations sont gérées en interne in-house. Il n’y a aucune sous-traitance à PlanetHoster : cela permet d’offrir une qualité de service exceptionnelle à tous nos clients.
+
+Responsabilité environnementale
+
+Grâce à un savoir-faire de qualité et une démarche de RSE maîtrisée, PlanetHoster s’est bâti une excellente réputation dans le domaine de l’hébergement Web écologique.
+
+100 %
+Énergie verte
+96.8 %
+De satisfaction client
+< 15 min.
+Temps de réponse moyen
+500000
+Sites hébergés
+Nos clients apprécient l'excellence!
+TrustScore 4.7 | 5013 reviews
+Google reviews 4.9 | 1,312 reviews
+Hostadvice reviews 4.9 | 460 reviews
+Toute l’histoire de PlanetHoster
+
+Dès ses débuts, nous avons fait le choix de la performance, de la souveraineté technologique et du support internalisé. Chaque brique de notre offre est développée et opérée par les équipes.
+
+Nous refusons les solutions prêtes à l’emploi sous-traitées ou les raccourcis économiques. Tous nos environnements sont utilisés en production au sein même de notre écosystème.
+
+Les bases de connaissances kb.planethoster.com et kb.n0c.com sont hébergées sur notre environnement The World.
+Le site principal www.planethoster.ca repose sur notre solution HybridCloud.
+Nos développeurs travaillent exclusivement sur notre PrivateCloud interne.
+Tous les noms de domaine PlanetHoster sont enregistrés via notre propre accréditation.
+Le réseau est défendu en continu par notre cellule de cyberdéfense contre toutes formes d’attaques DDoS.
+
+Cette approche « in house » valorise la maîtrise totale complète du système. Elle garantit une cohérence technique et une qualité d’exécution que seule une architecture contrôlée de bout en bout permet d’atteindre.
+
+LES CERTIFICATIONS ET LES ACCRÉDITATIONS
+AFNIC (.fr).
+CIRA (.ca).
+ICANN.
+Identity Digital.
+TIER III / TIER IV.
+SSAE 16, SOC 2, ISO 27001.
+
+2024
+
+Déploiement de la technologie de nuage privé et de l’HybridCloud N0C.
+
+2023
+
+Interconnexion réseau Europe–Canada à faible latence
+
+2022
+
+Déploiement du module N0C Storage.
+
+2021
+
+Extension en Suisse avec un datacenter à Lausanne.
+
+2019
+
+Mise en production de la plateforme N0C.
+
+2018
+
+Lancement d’une technologie anti-DDoS.
+
+2017
+
+Déploiement d’un système centralisé de sécurité logicielle.
+
+2014
+
+Accréditations ICANN, CIRA, Afnic, DNSbe, DNSlu, Eurid, Redes et Switch.
+
+2012
+
+Arrivée de nos activités à Paris en France
+
+2007
+
+Création de l’entreprise au Québec au Canada
+
+Centres de données en Europe (France + Suisse) et au Canada (Québec)
+
+L’infrastructure de PlanetHoster est distribuée à travers ses installations en Europe (France + Suisse) et au Canada (Québec). Un centre de données externe apporte de nombreux avantages à votre entreprise. Outre la sécurité de votre système, cette infrastructure assure une externalisation réussie et plusieurs services connexes. De par son infrastructure de premier plan, PlanetHoster vous aide à profiter d’un centre de données haut de gamme. Obtenez la meilleure latence entre Paris et Montréal grâce à nos installations sur les câbles sous-marins express qui offrent 69 ms!
+
+Un hébergement complet pour vous
+
+Investir dans un hébergement de qualité assure la tranquillité d'esprit. En faisant confiance à nos solutions d'hébergement Web, vous économisez en temps et en ressources humaines. PlanetHoster propose des services personnalisés, un hébergement adapté à chaque personne et à chaque entreprise, le tout agrémenté d'un réseau Internet de qualité. Vous bénéficiez aussi de notre expertise et de notre savoir-faire pour sécuriser vos données.
+
+Un centre de données sécurisé
+
+Le réseau Internet propriétaire vous permet d'optimiser la sécurité de vos données avec un protocole strict. PlanetHoster propose des infrastructures de qualité à haute redondance avec une faible latence. Vous bénéficiez ainsi d'un délai de communication réseau minimal pour accéder à vos données et optimiser votre système informatique. Nos protections repoussent les attaques par déni de service distribué (DDoS) qui peuvent affecter la disponibilité et le fonctionnement de votre site Web. Vous pouvez notamment compter sur notre assistance personnalisée en cas de problèmes.
+
+Une externalisation réussie de votre système Internet
+
+PlanetHoster gère l'entretien et les mises à jour de votre serveur, tout en assurant sa sécurité. Vous pouvez externaliser la gestion technique de vos données Internet. Concentrez-vous sur la construction de vos sites Web et augmentez votre productivité. De plus, PlanetHoster est propriétaire de son réseau Internet, ce qui assure des services de qualité, une sécurité renforcée et des infrastructures performantes pour votre système informatique.
+
+Convivialité
+Canada
+
+Raffinement
+France
+
+Précision
+Suisse
+
+Nos produits
+
+Plus de 60 000 clients utilisent les produits de PlanetHoster
+Hébergement Web de qualité
+
+Multi-sites isolés à 100 %
+
+Créer des comptes d'hébergement uniques, isolés et redondants
+Caching Pro inclus et accélération LSCache native, activée par défaut
+Installateur de CMS en un clic
+Plusieurs versions de PHP, Python, Node.js et Ruby
+Support 24/7 et activation instantanée
+À partir de
+6 € /mois
+Découvrir
+Serveurs dédiés et services dans le nuage cloud
+
+Infrastructure dédiée et infogérée 24/7
+
+Auto Peak Power (APP)
+Infrastructure évolutive Premium
+100 % infogéré par notre équipe qualifiée 24/7
+Panneau N0C, PHP, MySQL, Apache et bien plus
+Jusqu’à 32 cores CPU, 256 GB RAM et 16 TB SSD/NVMe
+À partir de
+70 € /mois
+Découvrir
+
+Espace de stockage massif
+
+Augmentez la capacité de stockage de votre hébergement The World ou HybridCloud, une plateforme conçue pour gérer les fichiers massifs.
+Découvrir
+ PrivateCloud
+
+99,99 % de disponibilité/uptime
+Le PrivateCloud, ou cloud privé, est une solution d'informatique en nuage dédiée exclusivement à une seule organisation. Elle permet aux entreprises de bénéficier de l'agilité et de l'évolutivité du nuage tout en gardant un contrôle total sur leurs données, leurs applications et leurs ressources informatiques.
+
+Si votre organisation manipule des données sensibles ou qui ont des besoins stricts en matière de confidentialité et de contrôle d’accès, c’est la solution parfaite.
+
+En savoir plus
+ Noms de domaine
+Chercher
+PlanetHoster est un bureau d’enregistrement accrédité par l’ICANN.
+Bénéficiez d’une solution fiable et conforme aux normes internationales pour enregistrer, transférer ou gérer vos noms de domaine.
+Migrez facilement votre nom de domaine chez PlanetHoster en profitant d’une gestion centralisée et d’une interface sécurisée.
+Commander
+ Un survol de la sécurité et de la fiabilité
+
+Pour la tranquillité d'esprit des utilisateurs, PlanetHoster s'engage à offrir un service d'hébergement Web alliant sécurité et fiabilité. Ainsi, nous déployons des technologies avancées prévenant les menaces en ligne et assurant la confidentialité des informations sensibles. Nos sauvegardes régulières permettent de restaurer rapidement les données en cas d’incident. Nous nous appuyons sur une infrastructure redondante et des centres de données ultramodernes. Notre équipe surveille en permanence nos serveurs, détectant et résolvant rapidement toute anomalie. Enfin, notre support technique est accessible 24/7.
+
+Protection DDoS
+PlanetHoster met en œuvre des systèmes de protection avancés contre les attaques par déni de service distribué (DDoS). Ces systèmes détectent et neutralisent les menaces en temps réel, assurant ainsi la continuité des services sans interruption.
+Pare-feu et filtrage
+Les serveurs de PlanetHoster sont protégés par des pare-feu matériels et logiciels sophistiqués qui filtrent le trafic malveillant. Ils utilisent également des systèmes de détection et de prévention des intrusions (IDS/IPS) pour identifier et bloquer les tentatives d'accès non autorisées.
+Chiffrement SSL
+Tous les sites hébergés bénéficient de certificats SSL/TLS, garantissant que les données échangées entre le serveur et les utilisateurs sont cryptées et sécurisées contre les interceptions. Ces certificats sont aussi renouvelés régulièrement pour une sécurité accrue.
+Sauvegardes régulières
+PlanetHoster effectue des sauvegardes automatiques et régulières de toutes les données hébergées. En cas de perte ou de corruption de données, une restauration rapide et complète est possible via nos interfaces, minimisant ainsi les perturbations pour les utilisateurs.
+Mises à jour et correctifs
+L'infrastructure de PlanetHoster est régulièrement mise à jour avec les derniers correctifs de sécurité. Cela inclut les logiciels de base ainsi que les applications spécifiques aux clients, garantissant une protection continue contre les vulnérabilités.
+
+Temps de fonctionnement uptime garanti
+
+PlanetHoster offre une garantie de temps de disponibilité uptime de 99,9 %, assurant ainsi que les sites Web de nos clients soient accessibles en permanence. Cette fiabilité est soutenue par une infrastructure redondante et des centres de données de pointe.
+
+ Approche respectueuse de l’environnement
+
+Certains chercheurs estiment que d'ici 2030, l'Internet pourrait devenir la principale source de pollution mondiale. En pensant à long terme, il est crucial de considérer que les générations futures pourraient nous reprocher, avec raison, notre manque de responsabilité. Heureusement, de nombreuses initiatives visant à atténuer cette crise émergent à travers le monde. Si chacun contribue, les petits efforts collectifs peuvent conduire à des changements significatifs. PlanetHoster s'engage à aller au-delà de cette contribution et aspire à devenir un leader dans ce domaine.
+
+En savoir plus 
+Centres de données écoénergétiques
+
+Nous adoptons des pratiques écoresponsables pour minimiser notre empreinte carbone. Nos centres de données utilisent des serveurs à haute efficacité énergétique et des technologies de pointe permettant de réduire la consommation d'énergie. Ces mesures permettent de diminuer significativement les émissions de CO₂. Nous nous engageons également à utiliser des sources d'énergie renouvelable.
+
+Encouragement des pratiques durables
+
+Chez PlanetHoster, nous nous engageons non seulement à réduire notre propre impact environnemental, mais aussi à sensibiliser nos clients pour qu'ils adoptent eux aussi des pratiques écologiques. Ensemble, nous pouvons construire un avenir plus vert et durable pour les générations futures.
+
+ Optimisez vos profits avec le programme d’affiliation
+
+En faisant la promotion de nos produits , vous recevrez 25 % du montant de chaque vente. Vous pourrez gérer facilement votre compte via votre panneau de contrôle. Une superbe gamme de bannières sera mise à votre disposition. Enfin, vous pourrez définir les modalités du cycle de paiement mensuel.
+
+En savoir plus 
+Ambassadeur
+
+Un ambassadeur s’engage à promouvoir activement les produits ou services de PlanetHoster auprès de son réseau ou de sa communauté. Par exemple, certains youtubeurs et influenceurs sont des ambassadeurs de PlanetHoster.
+
+Revendeur
+
+Un revendeur vend les services d’hébergement Web de sa propre marque. Il achète auprès de PlanetHoster des services d’hébergement Web à tarifs réduits et les revend ensuite à ses propres clients à son prix.
+
+Partenaire
+
+Un partenaire est une personne qui est à la fois ambassadeur et revendeur, ou encore un autre type de partenaire. Cela peut inclure des agences, des développeurs Web ou des concepteurs graphiques, par exemple, qui recommandent les services de PlanetHoster à leurs clients.
+
+FAQ PlanetHoster : Réponses à vos questions fréquentes
+
+Vous vous posez des questions sur nos services d'hébergement web ? Cette foire aux questions vous apporte toutes les réponses essentielles sur PlanetHoster, nos solutions d'hébergement, notre infrastructure et notre support client.
+
+Où se trouve PlanetHoster et depuis quand existe l'entreprise ?
+PlanetHoster est un hébergeur web fondé en 2007 avec une expertise de plus de 15 ans dans le domaine. Nous sommes fiers d'avoir bâti notre réputation sur la qualité de service et l'accompagnement humain de nos clients. Notre siège social se trouve au Canada, et nous opérons avec une équipe technique qualifiée disponible 24h/24 et 7j/7.
+Combien de clients font confiance à PlanetHoster ?
+Pourquoi PlanetHoster est-il reconnu comme l'un des meilleurs hébergeurs ?
+Où sont situés les centres de données PlanetHoster ?
+Quelle est la garantie de disponibilité des services ?
+Quelles sont les principales offres d'hébergement PlanetHoster ?
+Pourquoi les tarifs de PlanetHoster sont-ils compétitifs ?
+Quels sont les modes de paiement acceptés ?
+Quelles mesures de sécurité PlanetHoster met-il en place ?
+Comment sont protégées mes données chez PlanetHoster ?
+PlanetHoster offre-t-il des performances élevées ?
+Quelles technologies sont supportées ?
+Comment contacter le support technique PlanetHoster ?
+Quel est le niveau de réactivité du support ?
+Comment migrer mon site existant vers PlanetHoster ?
+Puis-je essayer les services PlanetHoster sans risque ?
+Puis-je faire évoluer mon hébergement selon mes besoins ?
+PlanetHoster propose-t-il un programme de parrainage ?
+Quelle est l'approche écologique de PlanetHoster ?
+Je souhaite transférer mon hébergement web mutualisé vers un serveur dédié HybridCloud, comment faire ?
+Notre équipe est là pour vous aider 24/7/365
+
+Notre équipe est ravie de vous assister! Pour toute question ou problème technique, nous vous recommandons d’ouvrir un billet : réponse assurée en moins de 15 minutes!
+
+Contactez nous
+Clavarder
+Billets sécurisés
+Téléphone
+Inscrivez-vous à notre newsletter
+Enregistrement
+
+Fort de plus de 15 ans d'expertise dans l'hébergement web, PlanetHoster garantit votre succès en ligne grâce à des performances inégalées, un support client exceptionnel et une sécurité renforcée.
+
+Nous contacter
+Payer une facture
+
+SOLUTIONS D'HÉBERGEMENT
+
+Hébergement web mutualisé
+Serveur dédié infogéré
+PrivateCloud Bientôt
+
+PRODUITS CONNEXES
+
+Noms de domaines
+Serveur VPS
+Serveur dédié Linux
+VPN Bientôt
+Éducation/étudiant(e)s
+Cyberdéfense Bientôt
+
+AFFILIATION
+
+Informations générales
+Bannières
+Logothèque
+Connexion à l'affiliation
+
+À PROPOS
+
+La société
+Le réseau internet
+Centre de données
+Nous contacter
+Infogérance
+Hébergement web vert et écologique
+Recrutement
+Créer un site Internet
+
+OUTILS DE PLANETHOSTER
+
+Base de connaissances
+Base de connaissances N0C
+Ns-lookup
+IMAPCopy
+Aide
+Whois
+RDAP
+
+ACTUALITÉS
+
+Bulletin d'information
+Forum
+Blogue
+Travaux en cours
+ 
+Copyright © 2025 PlanetHoster Inc. Tous droits réservés.
+Modifier vos préférences de cookies
+Conditions d'utilisation
+Politique de confidentialité
+RGPD
+
+Nous utilisons des témoins (aussi appelés cookies) pour nous assurer que vous bénéficiez de la meilleure expérience possible sur notre site web. En continuant à utiliser notre site, vous acceptez notre politique en matière de témoins.
+
+Termes de la politique
+Refuser
+Accepter

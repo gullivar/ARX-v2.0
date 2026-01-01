@@ -1,0 +1,110 @@
+Skip to content
+Solutions
+Products
+Global Network
+Partners
+Resources
+Sign in
+Get started
+The world's Hyperconnected Cloud
+Power AI innovation with distributed inference and unmatched global reach & connectivity
+Get started
+Deploy anywhere, connect anything
+on the world's hyperconnected cloud
+50+
+Countries
+300+
+Edge Nodes
+180+
+Tbps Networks
+300+
+Cloud Onramps
+10,000+
+Global Peers
+Deploy applications close to users
+Bare Metal 
+100% dedicated servers with high-performance Intel® Xeon® processors.
+Learn more
+Virtual Machine 
+Highly scalable, affordable compute starting at $0.02/hr.
+Learn more
+Run applications on regionally optimized networks
+
+Our global network is blended from 50+ high-performance transit carriers and 10,000+ direct peering sessions, all optimized by intelligent routing.
+
+See how real-time communications provider Zego reduced latency by 25% and increased user satisfaction by 35%.
+
+Test network latency
+Private global network
+
+Avoid public internet congestion and set up your layer 2 point-to-point or layer 3 full mesh network on our private backbone.
+
+Multi-clouds made easy
+
+Move your workloads in real time and create seamless multi-cloud networks.
+
+Interconnect workloads across regions and clouds on our private backbone
+See how global exchange operator ICE uses Zenlayer & AWS to accelerate real-time financial data.
+Choose your terms and deploy instantly
+Instantly deploy
+Get your applications and network up and running with Terraform, APIs, or our web console.​
+Try zenConsole
+Flexible billing terms
+Choose from pay as you go and multiple bandwidth pricing models.​ 
+Global service, local support
+24/7 live technical support included
+< 15 minute
+response time
+95% of tickets are
+resolved in < 4 hours
+VPN Provider expands footprint to serve more users
+“Zenlayer has been an incredible asset to our company. We are a VPN company with compute instances around the world. Their team is experienced, and their service is remarkable. With Zenlayer as a part of our team, we have expanded our footprint into locations we weren’t able to without them.”
+
+Lisa Steele, PrivadoVPN
+Partnered with industry leaders
+Ready to improve your user experience?
+Contact us today
+Subscribe to our newsletter
+New PoPs, upcoming events, product news, and more.
+Email*
+Contact
+Sales
+Support
+Become a Partner
+Get a Demo
+Products
+Bare Metal
+Virtual Machines
+Cloud Connect
+Cloud Router
+Private Connect
+Virtual Edge
+IP Transit
+Global Accelerator
+Turbo
+CDN
+Edge Colocation
+Solutions
+Multi-cloud Connectivity
+AWS Direct Connect
+Gaming
+VPN Providers
+Blockchain
+CDN & Cloud Service Providers
+Americas
+Asia-Pacific
+EMEA
+Resources
+Global Locations
+Network Performance
+Blog
+Documentation
+Customer Stories
+Status Page
+Company
+About Us
+Press
+Careers
+Legal
+
+Missed our webinars? Watch the on-demand recordings here!

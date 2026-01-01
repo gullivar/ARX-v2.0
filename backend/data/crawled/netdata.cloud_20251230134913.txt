@@ -1,0 +1,199 @@
+GitHub
+Support
+Contact Sales
+Log In
+Product
+Features
+Solutions
+Pricing
+Resources
+Company
+Live Demo
+> Book a free demo
+Real-time infrastructure monitoring
+The fastest path to full stack observability.
+
+Zero-config observability with an on-call AI partner. Per-second metrics that stay on-prem; Netdata AI investigates, explains root cause, and guides fixes in plain English.
+
+Sign up for a free trial
+
+Request a demo
+
+Trusted by 1000+ companies
+
+Complete observability to slash downtime and keep your infrastructure running reliably.
+
+AI Troubleshooting
+
+Infrastructure
+
+Applications
+
+Synthetic tests
+
+Networks
+
+Logs
+
+Metrics
+
+Skip the manual investigation. Get instant answers about what’s wrong, why it happened, and how to fix it.
+Observe Everything
+
+Monitor everything from bare metal to multi-cloud with Netdata’s 800+ integrations that collect, visualize, and analyze every metric every second while maintaining complete data sovereignty and zero sampling.
+
+Sign up for a free trial
+
+Request a demo
+
+Per-Second Truth (No Sampling)
+
+Every metric. Every second. No BS.
+
+AI That Actually Helps
+
+Not another chatbot. Real answers from your actual metrics, explaining problems and fixes in plain English.
+
+Unparalleled Visibility
+
+1800x more visibility with 30x more metrics collected per second.
+
+Lightweight Edge-Native Design
+
+40x better storage efficiency. 22x faster responses. 15% of the resources. Native horizontal scalability
+
+Predictable Costs That Won’t Punish Growth
+
+All observability data as close to the edge as possible. 80%+ observability and cost reduction
+
+Amazing Operations Efficiency
+
+A single pane of glass, eliminating 90% of admin console access in day-to-day operations.
+
+Your Data, at your Premises.
+
+Complete data sovereignty and regulatory compliance
+
+Transportation
+
+Barcelona’s public transit achieves holistic infrastructure monitoring
+> Read case study
+
+80%
+
+Of problems solved with 20% of effort
+
+Validated by experts, chosen by engineers
+
+See all reviews
+
+“So easy to setup, the graphs looks clean and sleek, and super easy to dive into. The app is super easy to use, and I love having a history and being able to look back at my data/usage.”
+
+See full review
+
+Very easy to set up and configure, lots of metrics that are very accessible, super useful for a small team of researchers using a few large workstations for data analysis and machine learning. We mainly use it to help with load balancing and optimising code (memory and I/O as things scale)
+
+See full review
+
+Observability without surprise bills starts now.
+
+Why keep guessing what your observability will cost—when you can monitor everything at a flat, predictable price?
+
+No surprise bills
+
+No usage-based traps
+
+No compromises on visibility
+
+> Book a free demo
+PRODUCT
+Live Demo
+Netdata Agents
+Netdata Parents
+Netdata Cloud SaaS
+Netdata Cloud On-Prem
+Netdata UI
+Mobile Apps
+Integrations
+PRICING
+Pricing Plans
+ROI Calculator
+Contact Sales
+Partnerships
+For Enthusiasts
+Referral Program
+AI & ML
+AIOps
+AI Co-Engineer
+AI Reporting
+AI Chat (MCP)
+Root Cause Analysis
+Blast Radius Detection
+Anomaly Advisor
+ARCHITECTURE
+Zero Configuration
+Algorithmic Dashboards
+Real-Time at Scale
+Infinite Scalability
+DATA PLATFORM
+Metrics Management
+Logs Management
+BUILT FOR
+DevOps
+SREs
+SysAdmins
+Platform Engineers
+Operations Centers
+Developers
+Freelancers
+MSPs
+ENTERPRISE
+Access Control
+Team Collaboration
+Data Sovereignty
+Zero Downtime
+SUCCESS STORIES
+Case Studies
+INDUSTRIES
+Finance
+Healthcare
+Gaming
+Government
+Technology
+TECHNOLOGIES
+Kubernetes
+AWS
+Linux
+Windows
+USE CASES
+Infrastructure Monitoring
+Container Monitoring
+Database Monitoring
+Application Performance
+RESOURCES
+Documentation
+Blog
+Academy
+Monitoring 101
+Support
+Community
+Comparisons
+COMPANY
+About Us
+Our Values
+Open Source
+Join Us
+Contact Us
+Terms of Service
+Privacy Policy
+Fair Usage Policy
+
+© 2025 Netdata Inc.
+
+GitHub
+LinkedIn
+YouTube
+Twitter
+Facebook
+Reddit
+Discord

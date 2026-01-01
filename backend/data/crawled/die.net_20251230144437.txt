@@ -1,0 +1,40 @@
+Online since 1996, die.net hosts the collective 'net projects of a few dozen friends in the U.S.
+
+2017
+May 20 Added a CDN to improve page load time
+2014
+Oct 12 Switched to responsive CSS to improve mobile experience
+Apr 13 Dictionary.die.net shut down
+2013
+Nov 18 Removed gadgets for now-defunct iGoogle
+2011
+Mar 05 Added Home Price Graph, a tool for checking housing price changes in your area
+2009
+Nov 17 Added Reducing Junk Mail, my short guide on freeing my home's mailbox from unwanted piles of paper
+2007
+Apr 05 Added Trace Explorer, an Internet routing visualization tool
+Jan 27 The World Sunlight Map and Moon Phase images now look a bit better
+Jan 23 Added a World Sunlight Map gadget and Moon Phase gadget
+2006
+Oct 28 Optimizing page load time added and was quickly featured on Slashdot, Digg, etc.
+May 25 Moved secondary nameserver to Cyberverse's Dallas datacenter
+Boing
+2005
+Jan 13 The New York Times ran a short blurb about the World Sunlight Map
+2003
+Jul 14 Google ads added to dictionary.die.net and Linux man pages
+Jun 17 Linux man pages reformatted nicely
+Feb 27 Dictionary.die.net online dictionary added
+Jan 08 United States National Debt analysis added
+2002
+Dec 05 TCP tarpit module accepted by maintainers of Linux iptables
+
+web@die.net
+
+Site Search
+Library
+linux docs
+linux man pages
+Toys
+world sunlight
+moon phase

@@ -1,0 +1,78 @@
+PRODUCTS
+SOLUTIONS
+ABOUT
+en
+GO TO CertManager
+We are using cookies
+OK
+CONTACT
+NEWS
+TOOLS
+GUIDES
+HTTPS your site
+Get yout Server Certificate
+Protect your documents
+Learn more about eSeals
+PRODUCTS
+PKI Products focused on your needs
+Server Certificates
+
+SSL/TLS Server Certificates are used to properly secure websites so that data transmitted between users and your website is encrypted.
+
+Learn More
+Email Certificates
+Secure the authenticity of your email address and the contents of your email messages.
+Learn More
+Code Signing
+Sign your Software with a Code Signing Certificate and earn public trust by securing the authenticity of your Software and its Publisher.
+Learn More
+eSignatures
+
+Use a “Qualified” electronic signature to digitally sign documents according to the eIDAS regulation.
+
+Learn More
+eSeals
+
+Use a “Qualified” electronic seal to digitally sign your organization’s documents according to the eIDAS regulation.
+
+Learn More
+SOLUTIONS
+PKI Solutions for All Business Types
+For Individuals
+Get your Personal Digital Certificate for "Qualified" or "Advanced" eSignatures to sign legally-binding e-documents. You may also secure your personal web site with a server (SSL/TLS) Certificate for Individuals.
+Learn More
+For Small Business
+Get Digital Certificates for "Qualified" or "Advanced" eSignatures and eSeals for your Company, to sign legally-binding documents. You may also secure one or more of your Company web sites with server (SSL/TLS) Certificates.
+Learn More
+For Enterprise
+Take control and secure your Enterprise units by issuing unlimited SSL/TLS Server and/or Client Certificates (for S/MIME, eSignatures). Use Code Signing Certificates to publish trusted code executables.
+Learn More
+HARICA AFFILIATES
+Our Partners Are Secure
+◀
+▶
+SECURITY & TRUST
+Why should you trust HARICA?
+HARICA is currently the only "Root CA Operator" in Greece that participates in all major Global "ROOT CA" Trust Programs (Adobe, Apple, Microsoft, Mozilla), and operates as a "Trust Anchor" in widely used Application Software and Operating Systems (Adobe, Apple, Google, Microsoft, Mozilla, Linux).
+
+It has received a successful Conformance Assessment Report fulfilling the requirements of Regulation (EU) 910/2014 (also known as eIDAS) in the areas of "Qualified" electronic Signatures, Seals and Time Stamps. This Certification ensures that HARICA's Certificates for Qualified eSignatures/eSeals are legally binding in Greece, in all European Union Member States, and non-EU Countries that have a bi-lateral agreement with the European Union.
+
+ 
+
+Learn More
+Trust
+Policy
+Resellers/Partners
+Data Privacy Statement
+GREEK UNIVERSITIES NETWORK (GUnet)
+General Commercial Registry Number: 160729401000,
+University of Athens – Network Operation Center,
+Panepistimiopolis Ilissia,
+Postcode: 157 84 Athens, Greece
+support@harica.gr
+HARICA is the Hellenic Academic & Research Institutions Certification Authority. It participates in all major Global 'ROOT CA' Trust Programs, and operates as a 'Trust Anchor' in widely used Application Software and Operating Systems.
+
+It has received a successful Conformance Assessment Report fulfilling the requirements of Regulation (EU) 910/2014 (also known as eIDAS) in the areas of "Qualified" Certificates for electronic Signatures/Seals, website authentication, and "Qualified" Timestamps.
+
+
+© 2025 HARICA. All Rights Reserved.

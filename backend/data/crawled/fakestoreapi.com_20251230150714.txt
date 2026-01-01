@@ -1,0 +1,152 @@
+Home
+Docs
+GitHub
+Buy us a coffee
+Fake Store API
+
+Realistic E-Commerce Data. Instantly.
+
+A free RESTful API for developers, ideal for prototyping, testing, or teaching.
+No backend setup required.
+
+Read Docs
+View on Github
+Tired of fake JSON and Lorem Ipsum?
+
+FakeStoreAPI gives you clean, realistic e-commerce data: products, carts, users, and more. accessible in seconds via REST.
+
+Example Request
+Javascript
+Python
+Curl
+Java
+fetch('https://fakestoreapi.com/products/1')
+            .then(res=>res.json())            
+            .then(json=>console.log(json))
+API Response
+{
+  "id": 1,
+  "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+  "price": 109.95,
+  "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+  "category": "men's clothing",
+  "rating": {
+    "rate": 3.9,
+    "count": 120
+  }
+}
+Resources
+
+FakeStoreAPI provides the 4 essential resources commonly used in e-commerce apps. Use them to build realistic flows for your frontend or backend prototypes.
+
+Products
+List of items with title, price, category, description and image
+20 products
+Cart
+Includes full user profiles (name, email, address, etc.)
+20 carts
+Users
+Simulates shopping cart logic: user + list of product IDs + quantity
+10 users
+Login Token
+Returns a JWT token for testing authentication
+JWT token
+View Details on Docs
+❤️ Loved by Millions of Developers
+
+This is just a small glimpse of your incredible support. so much more kindness and trust has been shared over these 5 amazing years with FakeStoreAPI.
+
+Thank you for being part of this journey!
+
+Juan Canelon
+Today I've been practicing with React-Redux making this kinda e-commerce app with https://fakestoreapi.com
+2021-11-14
+Shrey Vijay Vargiya
+Top 4 Free Fake API: Fake store rest API for your e‑commerce or shopping website prototype.
+2022-11-22
+Malik Haziq
+10 APIs for your projects: Fake Store API is a free and public web API that provides simulated data for an e‑commerce store.
+2023-02-27
+Mahmoud Saleh
+5 Outstanding Fake API Providers for Mobile Developers to Streamline Testing: Fake Store API is a free online REST API that developers can use to make test orders, eCommerce, and cart integrations.
+2023-11-05
+PeanutSquare
+Understanding the FakeStoreApi – a primer for ecommerce app development.
+2023-08-14
+Olitt Blog
+5 Best Free eCommerce APIs and Store API Solutions for Developers: Fake Store API is a fantastic option for developers looking to create a shopping website prototype or test their e‑commerce applications.
+2024-05-11
+PeanutSquare
+Exploring FakeStoreAPI for ecommerce apps – essential component for our Flutter ecommerce app.
+2023-07-21
+Sami Maxhuni
+🚀 New Feature in ChatWise: Now Powered by Model Context Protocol (MCP) … In this example, we’ve integrated the FakeStoreAPI. ✅ Fetch product data in real time ✅ Display the results in a beautiful interactive carousel ✅ Filter the results via natural language – e.g., “Show me all products under 50 USD”
+2025-07-24
+Chris Staudinger
+An e-commerce store is a great project to have and it just got easier with Fake Store API.
+
+Forget about spinning up the backend and database and focus on building cart, wishlists, recommendations and other functionalities💡
+
+👉 https://fakestoreapi.com
+2023-02-15
+Nikoletta
+You want to practice or test REST API?
+
+Here is the list of websites with fake APIs that can save your time in creating dummy data. 👇
+
+https://jsonplaceholder.typicode.com
+https://fakestoreapi.com
+https://pokeapi.co
+https://reqres.in
+https://dummyapi.io
+2022-01-18
+Oumar FALL
+Hello devs here is an application that I had to realize with flutter.
+Here I made some request to with an api to be able to get these data
+Le repo
+https://github.com/omar6260/flutter_rest_api
+
+Api http://fakestoreapi.com
+@galsendev221
+@FlutterSenegal
+2022-03-09
+Joel Kanyi
+For those asking for the API, here is the URL:
+
+https://fakestoreapi.com
+2022-06-16
+Lemonr
+Online store app using jetpack compose #JetpackCompose ,for api here is the link https://fakestoreapi.com and the source code https://github.com/Ronexlemon/Store any changes is allowed
+
+2022-07-01
+Ramg
+Check out the project I have been working on. An Android app that consumes FAKESTORE API
+https://fakestoreapi.com .You can find the project on GitHub https://github.com/Collince-Okeyo/Shoppa
+Contributions are welcomed🤗
+#100DaysOfCode
+#Android
+#Kotlin
+
+2022-10-18
+Haider
+🔗 https://fakestoreapi.com
+2022-12-10
+Sheikh Naim
+Today i learn about how to search product by Category with HTML, CSS, and JavaScript... uses the fakestoreapi.com API to fetch a list of products…
+2024-07-01
+Abhishek Kumar Mehta
+🚀 Excited to Share: Fetching Data from Fake Store API… Created a simple webpage that fetches product data from the Fake Store API…
+2024-06-05
+Let’s Connect
+Have questions or feedback?
+  
+Home
+Docs
+Github
+Buy us a coffee
+
+© 2025 Fake Store API - All Rights Reserved
+
+v2.1.11
+
+Made with ♥ by MohammadReza Keikavousi

@@ -1,0 +1,644 @@
+	
+	
+Cost Of Living
+Cost Of Living
+Cost of Living Comparison
+Cost of Living Calculator
+Cost Of Living Index (Current)
+Cost Of Living Index
+Cost Of Living Index By Country
+Food Prices
+Prices By City
+Prices By Country
+Basket of Goods and Services
+Taxi Fare Calculator
+Gas Prices Calculator
+Methodology and Motivation
+Salary Calculator
+Update Data for Your City
+Property Prices
+Property Prices
+Property Prices Comparison
+Property Price Index (Current)
+Property Price Index
+Property Price Index By Country
+Quality Of Life
+Quality of Life
+Quality of Life Comparisons
+Quality of Life Index (Current)
+Quality of Life Index
+Quality of Life Index by Country
+Crime
+Crime Index (Current)
+Crime Index
+Crime Index by Country
+Health Care
+Health Care Index (Current)
+Health Care Index
+Health Care Index by Country
+Pollution
+Pollution Index (Current)
+Pollution Index
+Pollution Index by Country
+Traffic
+Traffic Index (Current)
+Traffic Index
+Traffic Index by Country
+Premium
+Data API
+Data License
+Bulk Data Download
+Historical Data Explorer
+Cost of Living Estimator
+Insight Reports
+Global Salary Equivalent Calculator
+Relocation Salary Calculator
+
+
+
+ Cost of Living
+Cost of Living
+Numbeo is the world's largest cost of living database and a crowdsourced global resource for quality of life data. It provides insights into cost of living, housing price indicators, perceived crime rates, healthcare quality, transport quality, and various other key statistics.
+9,673,155 prices in 12,577 cities entered by 868,857 contributors
+Select Location: 
+ Or 
+---Select Country---
+Afghanistan
+Aland Islands
+Albania
+Alderney
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia And Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong (China)
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo (Disputed Territory)
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao (China)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Republic of the Congo
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Vincent And The Grenadines
+Saint-Pierre And Miquelon
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Us Virgin Islands
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Your city is not here? Tell us about cost of living in your city!
+Cost of Living Index (Current, By City)
+New York,
+NY
+Prague
+Sydney
+London
+Berlin
+Beijing
+Delhi
+Rio de
+Janeiro
+Tokyo
+0
+25
+50
+75
+100
+City	Cost of Living Index
+New York, NY	100
+Prague	59.29
+Sydney	75.05
+London	87.58
+Berlin	69.94
+Beijing	37.83
+Delhi	22.91
+Rio de Janeiro	32.47
+Tokyo	54.25
+Recent prices added:
+Fresh White Bread (500 g Loaf) in Grenada costs 2.30€ (about 8 minutes ago)
+Meal at an Inexpensive Restaurant in Woonsocket, RI costs 15.00$ (about 37 minutes ago)
+1 Bedroom Apartment in City Centre in Hay River, NT costs 2,200.00C$ (about 44 minutes ago)
+Milk (Regular, 1 Liter) in Zephyrhills, FL costs 1.32$ (about 1 hour ago)
+Meal for Two at a Mid-Range Restaurant (Three Courses, Without Drinks) in Sixth of October City (6th of October) costs 450.01EG£ (about 1 hour ago)
+Combo Meal at McDonald's (or Equivalent Fast-Food Meal) in Bangkok costs 200.00฿ (about 1 hour ago)
+Price per Square Meter to Buy Apartment in City Centre in San Francisco, CA costs 14,531.28$ (about 2 hours ago)
+Price per Square Meter to Buy Apartment Outside of Centre in San Diego, CA costs 10,763.91$ (about 3 hours ago)
+Price per Square Meter to Buy Apartment in City Centre in San Jose, CA costs 14,531.28$ (about 3 hours ago)
+1 Bedroom Apartment in City Centre in Huntsville, AL costs 3,000.00$ (about 3 hours ago)
+
+Numbeo is an online platform that allows users to explore, share, and compare cost of living data worldwide. It offers a range of features, including:
+
+viewing up-to-date price information
+utilizing the wisdom of the crowd (crowdsourcing) to ensure the highest possible accuracy
+providing tools for conducting systematic research on cost of living and property markets
+calculating key indices such as the Cost of Living Index and Local Purchasing Power
+offering a platform for conducting other systematic economic research on an extensive global dataset
+
+If you find Numbeo useful, you can contribute by sharing local price information to further help improve the accuracy and reliability of the data.
+
+Countries:
+A
+Afghanistan
+Aland Islands
+Albania
+Alderney
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+
+B
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia And Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+
+C
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+	
+D
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+
+E
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+
+F
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+
+G
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+
+H
+Haiti
+Honduras
+Hong Kong (China)
+Hungary
+
+I
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Ivory Coast
+	
+J
+Jamaica
+Japan
+Jersey
+Jordan
+
+K
+Kazakhstan
+Kenya
+Kiribati
+Kosovo (Disputed Territory)
+Kuwait
+Kyrgyzstan
+
+L
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+
+M
+Macao (China)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+
+N
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+	
+O
+Oman
+
+P
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+
+Q
+Qatar
+
+R
+Republic of the Congo
+Reunion
+Romania
+Russia
+Rwanda
+
+S
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Vincent And The Grenadines
+Saint-Pierre And Miquelon
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+	
+T
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+
+U
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Us Virgin Islands
+Uzbekistan
+
+V
+Vanuatu
+Venezuela
+Vietnam
+
+W
+Wallis And Futuna
+Western Sahara
+
+Y
+Yemen
+
+Z
+Zambia
+Zimbabwe
+
+Numbeo data has been cited in the following publications:
+This Page in Other Languages:
+DeutschLebenshaltungskosten
+PortuguêsCusto de Vida
+ItalianoCosto della vita
+FrançaisCoût de la vie
+EspañolCoste de vida
+About Numbeo in the News Newsletter Advertise Premium API
+
+Copyright © 2009-2025 Numbeo. Your use of this service is subject to our Terms of Use and Privacy Policy

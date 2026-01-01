@@ -1,0 +1,194 @@
+Try   Gitea Cloud   ☁️   free for 30 days  → Accelerate your Dev & Deploy!
+
+Gitea
+Products
+Resources
+Community
+Pricing
+Cloud
+Sign In
+   
+Contact Us
+Private, Fast, Reliable DevOps Platform
+
+Great self-hosted option that brings teams and developers high-efficiency, but easy operations from planning to production.
+
+Gitea Cloud
+Choose your provider and region.
+For individual developers and enterprise users.
+The fastest way to have it!
+
+Start Free Gitea Cloud Trial→
+
+Gitea Enterprise
+Deploy an enhanced Gitea anywhere.
+Designed for enterprise users.
+Enjoy an enhanced experience!
+
+Start Free Gitea Enterprise Trial→
+
+Docker Pulls
+299
+M+
+Github Stars
+49
+K+
+Installations
+399
+K+
+Contributors
+1,420
++
+Dev/Deploy faster
+
+Everything you need to develop/deploy your application
+
+Code Hosting
+Gitea enables the creation and management of repositories based on Git. It also makes code review incredibly easy and convenient, enhancing code quality for users and businesses.
+CI/CD
+Gitea features an integrated CI/CD system, Gitea Actions, that is compatible with GitHub Actions. Users can create workflows using the familiar YAML format or utilize over 20K existing plugins.
+Projects
+You can efficiently manages requirements, features and bugs through issue tasks, labeling and kanban boards. These tools help plan and track the progress of your development by incorporating branches, tags, milestones, assignments, time tracking and dependencies.
+Packages
+Gitea supports more than 20 different kinds of public or private package management, including: Cargo, Chef, Composer, Conan, Conda, Container, Helm, Maven, NPM, NuGet, Pub, PyPI, RubyGems, Vagrant, etc.
+Trusted by the world’s most innovative teams
+Run Gitea Anywhere
+
+Gitea offers universal compatibility and flexible deployment options.
+
+Run Anywhere Universally compatible with diverse operating systems and environments, including Linux, Windows, macOS, FreeBSD, Kubernetes, and etc. Compatible with multiple architectures, such as x86 and arm64.
+Supported Frequent Databases Offers seamless integration with various databases, including SQLite, MySQL, PostgreSQL, TiDB, MS SQL, and etc.
+Flexible Deployment Provides flexible deployment options, supporting both single server setups and replication configurations.
+Test, Deploy Faster
+
+Powerful built-in CI/CD
+
+Gitea Actions is an internal CI/CD system, offering near compatibility with GitHub Actions.
+
+Integrated UI An integrated UI with no extra configuration make it easy to use
+Workflow/Action Syntax Compatible Workflow/Action Syntax Compatible with GitHub Actions
+Reuse Github Actions Reuse Thousands of GitHub Actions in your Gitea instances.
+Integrated with Your Favorite Tools
+
+Boost your workflow with Gitea's versatile integrations
+
+Chat Tool Integration Sync seamlessly with tools like Slack, Discord, MS Teams, Lark, and more.
+External CI/CD Service Compatibility Improve workflows with integrations like Github Actions, Drone, Woodpecker, ArgoCD, and Jenkins, among others.
+API and Webhooks Extend Gitea's functionality with our API and webhooks, creating custom workflows to match your unique needs. More integration possibilities await.
+Testimonials
+
+We have worked with thousands of amazing people
+
+“Gitea is an excellent and easy to use version control system. It provides a clean and intuitive interface that makes it easy for teams to collaborate and manage code projects. Gitea also has abundant features, including issue tracking, code review, and continuous integration, which can improve team efficiency and code quality. Both individual developers and corporate teams can benefit from Gitea — it's truly a useful tool. ”
+
+AppleBoy
+@appleboy
+
+“We have been using gitea for several years and have found it to be an essential part of our workflow for hosting git repositories. Gitea has quite a few features and is under active development bringing new functionality. ”
+
+Dan K.
+@dan_k
+
+“wow. just wow. I wanted to see how "painless" this was but figured it would still take a week to learn everything and setup. 2 hours! from downloading it to configuring it and setting it up as a windows service and setting up active directory integration.”
+
+Tony Brix
+@tonybrix
+
+“Best Open-Source and self-hosting platform for version control: Gitea.”
+
+Kaviraj R.
+@kaviraj_r
+
+“Easy to use, open source, can be hosted on any platform, ditributed source code management, multiple developers can clone code, change it and commit it from different machines, can have your self-hosted git repository.”
+
+Sachin R.
+@sachin_r
+
+Pricing plans for teams of all sizes
+
+Management Mode
+Self Managed
+Cloud Managed
+Open Source
+
+Free, self-hosted Git service under the MIT license. Full control, unlimited users and repositories.
+
+Free
+
+Download Now
+Free features:
+Code hosting
+Issue tracking
+Pull requests
+Project management
+Gitea Actions(CI/CD)
+Packages
+Rapid updates
+Active contributions
+Community supports
+Enterprise
+
+Dedicated support and infrastructure for your company.
+
+$9.5
+$19
+*
+/user/month
+
+Start your 30-day free trial
+Contact Sales
+* 1 year commitment required with online payment
+Everything in Free, and additionally:
+All the great functionality of Gitea
+SAML SSO Integration
+Audit Logs
+Kubernetes AutoScaling Runners
+other Enhanced enterprise-level features and experiences [1]
+Discounts available for non-profits and small companies
+Easily add or remove users at any time as your team grows or changes.
+Priority security bug fix notifications
+Priority email and online support with SLA
+Installation/Upgrade Assistant Service
+Emergency telephone/remote support
+Want product news and updates?
+
+Sign up for our newsletter.
+
+Email address
+Subscribe
+
+We care about your data. Read our privacy policy.
+
+Footer
+
+Private, Fast, Reliable DevOps Platform
+
+LinkedIn
+X
+GitHub
+Gitea
+
+© 2025 CommitGo, Inc. All rights reserved.
+
+Products
+Gitea Cloud
+Gitea Enterprise
+Gitea
+Gitea Runner
+Tea Command-line Tool
+Support
+Pricing
+Documentation
+Tutorials
+API
+Blog
+Forum
+Chatroom
+About Us
+What is DevOps
+Why Gitea
+Contact Us
+Compliance
+Legal
+Privacy
+Terms

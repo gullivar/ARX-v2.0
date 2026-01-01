@@ -1,0 +1,114 @@
+wheelofnames.com
+Customize
+New
+Open
+Save
+Share
+Gallery
+More
+English
+Report bad ad
+Close ads
+Click to spin
+or press ctrl+enter
+Entries
+8
+Results
+0
+Hide
+Shuffle
+Sort
+Add image
+Advanced
+Ali
+Beatriz
+Charles
+Diya
+Eric
+Fatima
+Gabriel
+Hanna
+Version 388
+New!
+Changelog
+What is the wheel spinner for?
+Every day we hear from people who use our website in new ways:
+Random name picker in the classroom: pick which student will answer the next question. How to use it in the classroom
+If you are a retailer, spin the wheel to pick which loyal customer will get the monthly giveaway.
+When you give a presentation, use the wheel spinner to pick a lucky winner among the attendees who turned in the survey.
+Random name picker at work: in your daily standup meeting at work, randomize who speaks first.
+If you are overwhelmed by your to do items, put them on a wheel and spin to find which one to start with.
+Lucky draw name picker at a party: put all your friends' names on the wheel and spin to pick who will go first in a game.
+If you can't agree on what to have for dinner, put the alternatives on the wheel and spin.
+How to use the wheel spinner
+
+It's easy: type in your entries in the textbox to the right of the wheel, then click the wheel to spin it and get a random winner. To make the wheel your own by customizing the colors, sounds, and spin time, click 
+ Customize at the top of the page.
+
+Video reviews and tutorials by users
+
+Activity in 2025
+Wheel spins
+0
+
+
+Hours of spinning
+0
+
+
+Is the wheel truly random?
+
+Yes, but don't just take our word for it. We are so confident in our code that we built a tool to let you prove it yourself. You can run 10,000 spins in seconds and see the results.
+
+Run 10,000 Spins
+
+How We Guarantee Randomness: To ensure genuinely unpredictable results, this site does not use the standard Math.random() function. Instead, the wheel's physics are driven by crypto.getRandomValues(), a specialized, high-security function built into modern web browsers. This cryptographically secure function uses high-entropy sources from your operating system, like hardware timings, mouse movements, and keyboard delays, to generate truly unpredictable results.
+
+This secure random number isn't just used to pick a winner from a list. It's used within the physics simulation of the wheel, ensuring the outcome is genuinely random and impossible to predict.
+
+How Come I Got the Same Result Twice? This is a great question, and it's actually a normal part of true randomness. Think of it like flipping a fair coin. It's entirely possible to get "Heads" three times in a row. Each spin of the wheel is a completely new, independent event. Past results have zero influence on the next outcome.
+
+If you want to make sure that a winner doesn't get picked again, remove the winner after each spin by clicking the Remove button.
+
+Is my data private?
+
+We are committed to protecting and respecting your privacy and the security of your data. We comply with GDPR, CCPA, SB 190, SB 1392, and we closely monitor changes to them. We follow industry best practices for data encryption and backups.
+
+How we safeguard your privacy
+
+Can I close the ads?
+
+We rely on ads to keep the website free for everyone. However, we show fewer ads than most other websites, and allow you to easily close all ads for the duration of your session. Simply press the x next to "Close ads" above the ads, and they go away.
+
+Ads policy
+
+Can I use the wheel in OBS or Streamlabs?
+
+Yes! You can add the wheel as a browser source in streaming software. Go to the streaming control panel to manage the wheel for your broadcast.
+
+Common streamer uses:
+
+In-game challenges: Spin to pick a random handicap, like "pistol only."
+Character builds: Let the wheel choose your class, skills, or starting weapon.
+Viewer giveaways: Spin to randomly pick a winner from your chat.
+Try our Discord bot
+
+Use our Discord bot to spin the wheel directly in your Discord server. You can use the bot's commands to spin all kinds of different wheels.
+
+Spin with the members of your server
+Spin with members that have a specific role
+Spin with members that reacted to a message
+Spin any of your shared wheels
+Or spin with any entries you want!
+
+Add the Discord bot
+
+Terms & conditions
+Privacy policy
+FAQ
+Feedback
+Discord server
+Discord bot
+API
+Streaming
+ada4 / ada4

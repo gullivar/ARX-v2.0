@@ -1,0 +1,190 @@
+Features
+Download
+Support
+Get Involved
+About
+Jobs
+Store
+Donate
+Features
+Download
+Support
+Get Involved
+About
+Jobs
+Store
+ Donate
+Blender 5.0 is here!
+A new beginning full of color.
+Download Blender 5.0
+What's New
+Latest News
+NEWS
+Introducing Blender Lab
+MERCH
+Check out the new Blender T-shirts!
+Blender Development
+Geometry Nodes Workshop: September 2025
+
+Summary of what was discussed at the Geometry Nodes workshop in September 2025.
+
+Google Summer of Code 2025 Results
+
+See the outcome of the eight projects to be part of Google Summer of Code 2025.
+
+Volume Grids in Geometry Nodes
+
+In Blender 5.0, Geometry Nodes support for volumetric data will be significantly better.
+
+Bundles and Closures
+
+Introducing bundles and closures in Geometry Nodes in Blender 5.0.
+
+Blender Studio
+Storm has been released!
+The character Storm has been released and is available for download!
+BCON25 Studio presentations
+Rewatch the Blender Studio talks from BCON25 and get inspired!
+BCON25 Festival Interstitials
+Download the Blender conference 2025 festival interstitials.
+New Training: DOGWALK Asset Creation Workflow
+Discover and learn the new DOGWALK Asset Creation Workflow training
+Free and Open Source
+
+Blender is a public project hosted on blender.org, licensed as GNU GPL, owned by its contributors.
+
+
+For that reason Blender is Free and Open Source software, forever. Learn more
+
+Part of the industry
+
+Blender is a member of ASWF, Khronos, Linux Foundation and OIN. It’s also well supported by major hardware vendors such as AMD, Apple, Intel, NVIDIA, and Qualcomm.
+
+It’s about people.
+
+Designers, developers, engineers, artists. All driven by passion. All using Blender to make an impact.
+
+Connecting Blender Community
+Showcasing Blender at industry events
+Creating Worlds at BCON19
+The demo scene is back with Nodevember
+
+The Ecosystem
+
+Countless communities and thriving businesses are built around Blender.
+
+Together, these tutorial makers and content creators, add-on developers and global marketplaces form an ever-expanding ecosystem.
+
+Find Blender Communities
+
+Everything You Need
+Cycles Render Engine
+
+Cycles is Blender’s built-in powerful unbiased path-tracer engine that offers stunning ultra-realistic rendering.
+
+· Real-time viewport preview
+· CPU & GPU rendering
+· PBR shaders & HDR lighting support
+· VR rendering support
+
+ 
+
+Modeling, Sculpt, UV
+
+Blender’s comprehensive array of modeling tools make creating, transforming and editing your models a breeze.
+
+· Full N-Gon support
+· Edge slide, inset, grid and bridge fill, and more
+· Advanced sculpting tools and brushes
+· Multi-resolution and Dynamic subdivision
+· 3D painting with textured brushes and masking
+· Python scripting for custom tools and add-ons
+VFX
+
+VFX professionals say: “Probably the best tracker in the market”. Blender includes production ready camera and object tracking. Allowing you to import raw footage, track the footage, mask areas and see the camera movements live in your 3D scene. Eliminating the need to switch between programs.
+
+· Auto and Manual tracking
+· Powerful camera reconstruction
+· Real-time preview of your tracked footage and 3D scene
+· Support for Planar tracking and Tripod solvers
+Animation & Rigging
+
+Thanks to the high quality rigging and animation tools, Blender is being used for numerous short films, advertisements, TV series and feature films now.
+
+· Envelope, skeleton and automatic skinning
+· B-spline interpolated bones
+· Curve editor and dope sheets
+· Custom bone shapes for fast input
+· Sound synchronization
+Story Art, Drawing 2D in 3D
+
+Really! Drawing directly in a 3D viewport makes a lot of sense. It opens unsurpassed workflow freedom for story-boarders and 2D artists.
+
+· Combine 2D with 3D right in the viewport
+· Full Animation Support with Onion Skinning
+· Layers & Colors for Stroke and Fill
+· Sculpt brush strokes & Parent to 3D objects
+Make it Your Own
+
+Blender has a flexible Python controlled interface. Layout, colors, size and even fonts can be adjusted. Use hundreds of add-ons by the community or create your own using Blender’s accessible Python API.
+
+· Customize the interface layout and colors
+· Hi-res/Retina screen support
+· Create your own tools and add-ons
+· Draw over the OpenGL viewport
+· Connect with Blender’s Render API
+
+The Freedom to Create.
+
+Download Blender
+
+Download
+Latest Blender
+Blender LTS
+Blender Benchmark
+Previous Versions
+Experimental Builds
+Source Code
+Release Notes
+Requirements
+Organization
+People
+Jobs
+About
+Blender Foundation
+Blender Institute
+Blender Studio
+License
+Logo & Trademark
+Credits
+Privacy Policy
+Articles
+News
+Press Releases
+User Stories
+Get Involved
+Dashboard
+Development
+Documentation
+Education
+Blender Studio
+Films
+Training
+Support
+Manual
+Community
+FAQ
+Developers
+Get Started
+Projects
+Docs
+Blog
+Forum
+YouTube
+Python API
+Blender Conference
+Follow Blender
+Support Blender
+ Donate
+One-time Donation
+Artistic freedom starts with Blender  The Free and Open Source 3D Creation Suite

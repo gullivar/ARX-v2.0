@@ -1,0 +1,188 @@
+If you click "Accept All Cookies", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+
+Privacy Policy
+Accept All Cookies
+Reject All
+Cookie Settings
+Products
+Use Cases
+Developers
+Company
+Support
+Pricing
+Talk to Us
+Get Started
+New Podcast Episode! From Code to Cosmos: The First AI Astrologer
+How developers build
+real-time experiences
+Conversational AI · Video · Voice · Chat
+Flexible APIs supported by the only global network engineered for live interaction.
+Talk to Us
+Get Started
+
+The expert trusted worldwide
+by 1700+ leading organizations
+Easily integrate real-time communication and conversational AI
+Agora’s flexible, modular APIs allow you to create unique and engaging user experiences in your app.
+Conversational AI Engine
+Video Calling
+Voice Calling
+Interactive Live Streaming
+Broadcast Streaming
+Chat
+Interactive Whiteboard
+Signaling
+IoT
+View All Products
+
+Discover unrivaled reliability and quality with Agora’s Real-Time Network
+Engineered for intelligent routing and optimized for ultra-low latency.
+Hyper scalability
+Withstand sudden spikes in traffic gracefully and scale from one to millions of concurrent users as your app and business grow.
+Mission-critical reliability
+99.99%
+UPTIME
+24/7
+SUPPORT
+Ultra-low latency
+<40ms average (intra region)
+Global coverage
+Users in 200+ countries
+and regions
+Enterprise ready
+Compliant with SOC2, GDPR, & HIPAA regulations for seamless integration with your existing enterprise systems.
+Cross-platform compatibility
+Easy integration
+Explore Agora Advantages
+Choose how to get started
+with real-time interaction
+SDK
+NO CODE
+Android
+iOS/macOS
+Windows
+Web
+Electron
+Flutter
+React Native
+Unity
+Unreal
+1RtcEngineConfig config = new RtcEngineConfig();
+2config.mAppId = "Your app ID";
+3RtcEngine agoraEngine = RtcEngine.create (config);
+4agoraEngine.setupLocalVideo(new VideoCanvas(new SurfaceView(getBaseContext(), VideoCanvas.RENDER_MODE_HIDDEN, 0));
+5agoraEngine.enableVideo();
+6agoraEngine.startPreview();
+7agoraEngine.joinChannel("<Your token>", "<Your channel name>", 1, new ChannelMediaOptions());
+SDK Quickstart
+Add powerful functionality—fast
+Agora Analytics
+Improve quality of experience with real-time monitoring, measurement, alerts, and diagnostics.
+Recording
+Flexible options to record audio streams, video streams, and web pages for archive, review, or distribution.
+Real-Time Speech to Text
+Add live captions to calls and streams, generate transcripts, and integrate with large language models (LLMs).
+AI Noise Suppression
+Reduce background noise for real-time audio and video.
+Extensions
+Marketplace
+Easily Integrate powerful, fun and interactive features into your real-time app
+GROW WITH THE LEADING PLATFORM
+POWERING
+80 BILLION MINUTES OF
+VIDEO & VOICE
+EVERY MONTH
+POWERING
+‍80 BILLION MINUTES OF
+VIDEO & VOICE
+EVERY MONTH
+USE CASES
+Bring any experience to life with Agora
+View All
+
+Provide remote healthcare in
+real time
+Telehealth
+Accelerate sales with
+live shopping
+Live Shopping
+Build custom virtual
+learning experiences
+Education
+Intensify gaming with real-
+time engagement
+Gaming
+Make your media experience social and interactive
+Entertainment
+People
+Agora
+“With the Agora App Builder, we transitioned our codebase quickly and were able to manage many customizations easily. It has been an extremely cost-effective solution.”
+Michael Glenn Williams
+CTO, TotalVU
+“Agora’s Adaptive Video Optimization (AVO) drastically improved the real-time video experience in our app. Users get smooth, high-quality video without freezes—even on slow connections and older devices. Since implementing AVO, we’ve seen a 30% increase in session length and engagement."
+Ellard Capiral
+VP of Engineering, KUMU
+“We really wanted to create a unique customer experience, and Agora allowed us to do a lot of customization while other platforms just had one out-of-the-box solution.”
+Gil Margolin
+CTO, Talkspace
+"At LiSA, we believe that the future of online shopping is social, community-driven, real-time engagement. Implementing this on our live platform has resulted in conversion rates of up to 35% and engagement rates of up to 90%."
+Philippe Frères
+Co-Founder and CPO, LISA
+“Agora’s customizable APIs allowed us to optimize real-time connectivity and network traffic while reducing latency to milliseconds during live streaming and interactive sessions between creators and fans.”
+Saurabh Singh Kushwah
+Co-Founder, Fanory
+“The Agora RTE solution is the platform needed to bridge the virtual and physical world, providing everyone a unique view into what’s happening. Its ease of use is an important piece of our innovation puzzle in creating meaningful human connections.”
+Cher Wang
+CEO, HTC
+Success Stories
+HTC Vive
+
+HTC’s VIVE Sync VR app bridges the gap between the physical and virtual world with Agora’s real-time streaming.
+
+View their story
+View All
+Get started with
+10,000 free minutes
+Sign up and start building! You don’t pay until you scale.
+Try for Free
+Talk to Us
+Whether you have questions about Agora’s technology, development, pricing or partnerships, we’re here to help.
+Contact Sales
+Developer Resources
+Start building with Agora SDKs. Access guides, sample apps, SDK downloads, documentation, API reference, FAQs and more.
+Go to Docs
+CONTACT
++1 408 879 5885
+Contact Us
+2804 Mission College Blvd.
+Santa Clara, CA, USA 95054
+WHY AGORA
+Agora Advantage
+Products
+Solutions
+Partners
+Success Stories
+COMPANY
+About Us
+Blogs
+Compliance & Privacy
+Management
+Events
+Careers
+Newsroom
+Investor Relations
+GET STARTED
+Login
+Pricing
+Support Plans
+Get Started
+Documentation
+Talk to Us
+Privacy Policy
+Cookie Policy
+Terms of Service
+Acceptable Use Policy
+Sitemap
+Report Abuse of Our Terms of Service
+Manage My Cookies
+Copyright © 2025 Agora    |    All rights reserved.

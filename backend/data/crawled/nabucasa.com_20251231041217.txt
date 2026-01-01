@@ -1,0 +1,56 @@
+About us
+Privacy
+Configuration
+Pricing
+FAQ
+Support
+Jobs
+Start Trial
+Login
+HOME ASSISTANT CLOUD
+
+Get the best extras for Home Assistant while supporting its development. Securely access Home Assistant anywhere, connect voice assistants, and much more. Made by the team driving the development of Home Assistant.
+
+Start your 31-day trial today
+
+After the trial, it will charge a monthly or annual fee; for more details, see our pricing.
+
+Access from anywhere
+
+No longer worry if you left everything on when you’re out. Quickly and securely access your Home Assistant instance from your phone from anywhere.
+
+All data is fully encrypted between your device and your Home Assistant instance, keeping your smart home secure on the go. Not even Nabu Casa can see your smart home data.
+
+Easily connect to voice assistants
+
+Easily connect both Google Assistant and Amazon Alexa to Home Assistant and control almost any device using an Amazon Echo or Google Home.
+
+Or ditch big tech and run our privacy-focused voice assistant, Assist. Our cloud voice processing allows Assist to run smoothly on even low-powered Home Assistant hardware.
+
+Seamless backup and restore
+
+Keep your smart home running without a hitch. Cloud backs up your Home Assistant on a secure server.
+
+If the worst happens, or even if you move to new hardware, Cloud can restore your full system right on the first boot.
+
+Official Home Assistant hardware
+
+Get the best experience with hardware made by the team building Home Assistant. Home Assistant Green is the best way to get started with Home Assistant, while Home Assistant Yellow is powerful and expandable hardware for advanced users. With our Home Assistant Connect ZBT-1, you can easily connect your Zigbee or Thread devices directly. Home Assistant Voice Preview Edition is our privacy-focused voice assistant hardware. Home Assistant Connect ZWA-2 is the ultimate way to connect Z-Wave devices to Home Assistant.
+
+Support the development of the Open Home
+
+Both Home Assistant and ESPHome are now part of the Open Home Foundation, along with multiple projects that support the Open Home. Nabu Casa is a commercial partner of the foundation. Through the sale of official Home Assistant hardware and Home Assistant Cloud subscriptions, Nabu Casa funds the foundation's work.
+
+ 
+
+Privacy first
+
+Home Assistant Cloud is the privacy-focused cloud. Your smart home data travels across Cloud’s remote connection and backup servers encrypted, and Nabu Casa will never be able to view this data. Speech processing is never stored or used to train any models. Click here to learn more.
+
+Extra features
+
+In addition to remote connection, cloud backup, and voice assistant support, Home Assistant Cloud has multiple other great extras, including Webhooks support and better WebRTC. Read about all our features here.
+
+   
+© Nabu Casa, Inc. - 1500 Valley House Drive Suite 210, Rohnert Park, CA 94928
+Support - Contact Us - Privacy Policy - Terms of Service

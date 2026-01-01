@@ -1,0 +1,373 @@
+Topics
+Week's top
+Latest news
+Unread news
+Subscribe
+Jobs
+Science X Account
+Sign In
+
+Sign in with   
+
+Forget Password?
+
+Not a member? Sign up
+
+Learn more
+
+LAST UPDATE
+
+Passengers' brain signals may help self-driving cars make safer choices , 4 hours ago
+Date
+Rank
+LiveRank
+Popular
+
+Automotive
+
+Passengers' brain signals may help self-driving cars make safer choices
+
+Cars from companies like Tesla already promise hands-free driving, but recent crashes show that today's self-driving systems can still struggle in risky, fast-changing situations.
+
+4 HOURS AGO
+
+0
+
+0
+
+Robotics
+
+New robotic skin lets humanoid robots sense pain and react instantly
+
+If you accidentally put your hand on a hot object, you'll naturally pull it away fast, before you have to think about it. This happens thanks to sensory nerves in your skin that send a lightning-fast signal to your spinal ...
+
+9 HOURS AGO
+
+0
+
+87
+
+Featured
+Last Comments
+Popular
+New robotic skin lets humanoid robots sense pain and react instantly
+
+9 HOURS AGO
+
+0
+
+Unlocking corrosion-free Zn/Br flow batteries for grid-scale energy storage
+
+DEC 24, 2025
+
+2
+
+All-optical chip achieves 100-fold speed boost over top-tier NVIDIA chips
+
+DEC 22, 2025
+
+0
+
+Ionic liquids slow perovskite degradation: Solar cells retain 90% performance at 90°C
+
+DEC 21, 2025
+
+0
+
+AI's 2025 carbon footprint may match New York City, report estimates
+
+DEC 18, 2025
+
+1
+
+New AI model accurately grades messy handwritten math answers and explains student errors
+
+A research team affiliated with UNIST has unveiled a novel AI system capable of grading and providing detailed feedback on even the most untidy handwritten math answers—much like a human instructor.
+
+6 HOURS AGO
+
+0
+
+43
+
+New sensor measures strain, strain rate and temperature with single material layer
+
+Researchers from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences have developed an innovative flexible sensor that can simultaneously detect strain, strain rate, and temperature using a single active ...
+
+9 HOURS AGO
+
+0
+
+22
+
+AI models stumble on basic multiplication without special training methods, study finds
+
+These days, large language models can handle increasingly complex tasks, writing complex code and engaging in sophisticated reasoning. But when it comes to four-digit multiplication, a task taught in elementary school, even ...
+
+DEC 29, 2025
+
+0
+
+28
+
+Engineering
+
+New generator uses carbon fiber to turn raindrops into rooftop electricity
+
+A research team affiliated with UNIST has introduced a technology that generates electricity from raindrops striking rooftops, offering a self-powered approach to automated drainage control and flood warning during heavy ...
+
+DEC 29, 2025
+
+0
+
+29
+
+Hardware
+
+New ultrathin ferroelectric capacitors show promise for compact memory devices
+
+An ultrathin ferroelectric capacitor, designed by researchers from Japan, demonstrates strong electric polarization despite being just 30 nm thick including top and bottom electrodes—making it suitable for high-density ...
+
+DEC 29, 2025
+
+0
+
+13
+
+Technology news
+
+ENGINEERING
+
+New AI-based technology offers real-time electric vehicle state estimation for safer driving
+
+A research team led by Professor Kanghyun Nam from the Department of Robotics and Mechanical Engineering at DGIST has developed a physical AI-based vehicle state estimation technology that accurately estimates the driving ...
+
+DEC 29, 2025
+
+0
+
+57
+
+ROBOTICS
+
+The origami wheel that could explore lunar caves
+
+Beneath the moon's cratered surface lie networks of lava tubes and deep pits, natural caves that could shelter future lunar bases from cosmic radiation and wild temperature swings. These underground structures represent some ...
+
+DEC 29, 2025
+
+0
+
+0
+
+ENERGY & GREEN TECH
+
+AI device with ion gel and graphene cuts machine learning power use 100-fold
+
+In recent years, power consumption by machine learning technologies, represented by deep learning and generative artificial intelligence (AI), has increased exponentially, creating a serious social challenge. To address this ...
+
+DEC 29, 2025
+
+0
+
+28
+
+INTERNET
+
+Google is at last letting users swap out embarrassing Gmail addresses without losing their data
+
+Google has finally answered users' cries, allowing Gmail users to swap out embarrassing teenage email addresses.
+
+DEC 29, 2025
+
+0
+
+3
+
+ROBOTICS
+
+Researchers create world's smallest programmable, autonomous robots
+
+Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their ...
+
+DEC 25, 2025
+
+4
+
+241
+
+BUSINESS
+
+How ChatGPT could change the face of advertising, without you even knowing about it
+
+Online adverts are sometimes so personal that they feel eerie. Even as a researcher in this area, I'm slightly startled when I get a message asking if my son still needs school shirts a few hours after browsing for clothes ...
+
+DEC 25, 2025
+
+0
+
+3
+
+ENERGY & GREEN TECH
+
+Unlocking corrosion-free Zn/Br flow batteries for grid-scale energy storage
+
+Scientists have found a way to push zinc–bromine flow batteries to the next level. By trapping corrosive bromine with a simple molecular scavenger, they were able to remove a major barrier to the performance and lifespan ...
+
+DEC 24, 2025 REPORT
+
+2
+
+47
+
+BUSINESS
+
+AI overestimates how smart people are, according to economists
+
+Scientists at HSE University have found that current AI models, including ChatGPT and Claude, tend to overestimate the rationality of their human opponents—whether first-year undergraduate students or experienced scientists—in ...
+
+DEC 24, 2025
+
+0
+
+89
+
+ENERGY & GREEN TECH
+
+Redesigned carbon molecules boost battery safety, durability and power
+
+Research published in the Journal of the American Chemical Society demonstrates a new way to make carbon-based battery materials much safer, longer lasting, and more powerful by fundamentally redesigning how fullerene molecules ...
+
+DEC 24, 2025
+
+0
+
+7
+
+ENERGY & GREEN TECH
+
+For computational devices, talk isn't cheap: Research reveals unavoidable energy costs across all communication channels
+
+Every task we perform on a computer—whether number crunching, watching a video, or typing out an article—requires different components of the machine to interact with one another. "Communication is massively crucial for ...
+
+DEC 24, 2025
+
+0
+
+36
+
+AI agents arrived in 2025—here's what happened and the challenges ahead in 2026
+
+6 HOURS AGO
+
+I grew up in the world's coldest city without central heating. Here's what the world can learn from us
+
+7 HOURS AGO
+
+Decompression sickness in fish reveals hidden risks of hydropower operations
+
+7 HOURS AGO
+
+From individuals to crews, AI brings teamwork into construction productivity analysis
+
+8 HOURS AGO
+
+Meta buys China-founded AI agent Manus
+
+10 HOURS AGO
+
+Analyzer delivers real-time insights for US power grid
+
+11 HOURS AGO
+
+New England unions push back against Trump administration's move to freeze offshore wind projects
+
+20 HOURS AGO
+
+The evolution of digital nomadism: From hi-tech hacker spaces to crypto coworking
+
+DEC 29, 2025
+
+Two-way electric vehicle charging at scale could stop renewable energy being wasted—here's how it works
+
+DEC 29, 2025
+
+Deepfakes leveled up in 2025—here's what's coming next
+
+DEC 29, 2025
+
+Bio-inspired copper composite achieves zero thermal expansion and high heat transfer
+
+DEC 29, 2025
+
+They graduated from Stanford: Due to AI, they can't find a job
+
+DEC 29, 2025
+
+California crypto company accused of illegally inflating Katy Perry NFTs and fraud
+
+DEC 29, 2025
+
+Toys are talking back thanks to AI, but are they safe around kids?
+
+DEC 29, 2025
+
+China's BYD poised to overtake Tesla in 2025 EV sales
+
+DEC 29, 2025
+
+ServiceNow $12 billion deal spree is 'deja vu' of CEO's SAP says
+
+DEC 29, 2025
+
+New electrification technology converts high-emission metal heat treatment into a carbon-free process
+
+DEC 29, 2025
+
+First Bond game in a decade hit by two-month delay
+
+DEC 24, 2025
+
+Rome pushes Meta to allow other AIs on WhatsApp
+
+DEC 24, 2025
+
+Federal judge halts Texas app store age verification law
+
+DEC 24, 2025
+
+More News
+Phys.org
+
+Daily science news on research developments and the latest scientific innovations
+
+Medical Xpress
+
+Medical research advances and health news
+
+Science X
+
+The most comprehensive sci-tech news coverage on the web
+
+Newsletters
+Subscribe
+Science X Daily and the Weekly Email Newsletter are free features that allow you to receive your favorite sci-tech news updates in your email inbox
+Follow us
+Top
+Home
+Search
+Mobile version
+Help
+FAQ
+About
+Contact
+Support us
+Science X Account
+Newsletter
+Archive
+Android app
+iOS app
+Jobs
+Push notification
+© Tech Xplore 2014 - 2025 powered by Science X Network
+Privacy policy Terms of use

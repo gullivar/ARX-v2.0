@@ -1,0 +1,350 @@
+Premi Opzione+1 per la modalità lettore dello schermo, Opzione+0 per annullare
+Guida all'accessibilità per lettori dello schermo, feedback e segnalazione dei problemi | Nuova finestra
+×
+Notice
+
+We and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for other purposes as specified in the cookie policy.
+
+Use the “Accept” button to consent. Use the “Reject” button or close this notice to continue without accepting.
+
+Learn more and customize
+Reject
+Accept
+Created with iubenda
+(link opens in a new tab)
+English 
+Login
+Sign up
+PRODUCTS
+SOLUTIONS
+RESOURCES
+PARTNER WITH US
+PRICING
+DEMO
+Create new
+Easily get your site or app on the road to online legal compliance
+
+With an all-in-one solution that covers your privacy and cookie policy, cookie banners, terms and conditions, and consent preferences.
+
+Get started for free
+
+“Our experience has been positive across the board”
+
+Helping 150k+ clients since 2011
+
+“It’s become our go-to software”
+
+Simplify your online privacy hurdles
+
+Regulations and guidelines are a winding maze. Start your compliance journey with a trusted suite of features that do the hard work for you.
+
+Cookie and Consent Banner
+Privacy and Cookie Policy
+Terms and Conditions
+NEW
+Website Accessibility
+Advanced Solutions
+Privacy Controls and Cookie Solution
+
+Easily add a cookie and consent banner to your site or app to automatically block cookies and manage user preferences with Google Consent Mode built in.
+
+Take a look
+Automated Site Scanner
+
+Our smart scanner analyzes your site, identifies compliance issues, and suggests fixes automatically. We continuously monitor your site and alert you when new issues arise.
+
+Auto-Configuration Wizard
+
+After scanning your site and answering a few questions, we create your compliance plan with auto-configured solutions and guided setup checklists.
+
+Built-in Support for Google Consent Mode
+
+Get more out of your ads and analytics. Install our Google-certified Consent Management Platform (CMP) and you’re all set with Google Consent Mode thanks to our built-in integration.
+
+Integrated with IAB’s TCF
+
+Get full compatibility with IAB's TCF 2.2 framework. As an IAB-validated Consent Management Platform (CMP), we ensure your consent collection meets the highest industry standards.
+
+Simple Pricing
+
+Tired of complex pricing plans? We make it easy. Choose from a free forever plan that covers the basics, or three paid plans based on usage. That way, you just pay for what you need – with a 14-day money-back guarantee.
+
+Far-Reaching Legislation Coverage
+
+We offer extensive legislation coverage – including geolocation-based consent collection – on an international scale.
+
+Automatic Updates
+
+Get the peace of mind that comes from automatic updates. So you’re always in line with new laws, regulations, and provider guidelines.
+
+Multiple Languages Covered
+
+All our documents and solutions are available in 15 languages (and counting). And all text is professionally translated (we don’t use messy machine translation).
+
+Centralized Management
+
+Manage all solutions from one easy-to-use dashboard. Plus, multiple projects can be managed from the same dashboard – an ideal solution for resellers.
+
+White-Label Options
+
+Don’t want a commercial reference to iubenda? That’s no problem. Our solutions can be white labeled to suit your needs.
+
+Multi-User Accounts
+
+Let multiple users work in your iubenda projects with role-based access to complete common tasks. It’s a way to delegate compliance and save time while retaining control, visibility and accountability.
+
+Backed by Lawyers
+
+Our international team of lawyers keeps our solutions up to date, always. We cover as many clauses and use cases as possible – so you can count on us for the highest quality.
+
+On-Brand Customization
+
+We focus on well-designed, customizable compliance. Tailor our solutions to be on-brand so everything looks like it belongs to you
+
+High-Performance Metrics
+
+Our CMP outperforms competitors on Google’s INP Core Web Vitals metric, making SEO performance a priority.
+
+Automatic Cookie Blocking
+
+Our Privacy Controls and Cookie Solution detects – and blocks – the most common third-party scripts installing nonessential cookies. You can also set up cookie blocking via manual tagging, Google Tag Manager, or PHP class.
+
+Multiple Integration Options
+
+We offer native plug-ins for popular platforms like WordPress, Joomla!, PrestaShop, and Magento. Plus, step-by-step integration guides for breezy setup and Zapier integration.
+
+Rejection Recovery
+
+Our rejection recovery prompts get consent from users who opted out. Prompts are triggered when users access restricted sections, creating a smoother experience.
+
+Comprehensive Privacy Controls
+
+Have complete control over privacy preferences. Create a fully customizable cookie and consent banner – and collect, store, and manage your users’ privacy preferences.
+
+Detailed Analytics
+
+Optimize your setup to improve consent rates – using detailed analytics from an intuitive dashboard.
+
+2-way sync
+
+Automatically synchronize consent status across all your tools – from iubenda’s Consent Database to CRM systems and email marketing platforms. Wherever consent is changed, you’ll be working with real-time data in every platform and a single source of truth.
+
+ COMING SOON
+Legal Center
+
+Our Legal Center helps you build your reputation for transparency and empower your users with an at-a-glance view of all things compliance – from cookie and privacy preferences to your terms and conditions.
+
+Patrick A.
+
+Hellenic Technologies
+
+"iubenda’s powerful tools, especially its robust support for server-side tracking with prior consent blocking, have enabled us to meet strict GDPR and ePrivacy standards while ensuring precise data collection for marketing and analytics."
+
+“Consent Mode is just a few clicks away with iubenda”
+
+The easy way to get Google Consent Mode
+
+With iubenda, Google Consent Mode comes pre-configured and ready to use: just install our Consent Management Platform (CMP) and you're good to go.
+
+Already activated Consent Mode? Make sure it's up and running with our free scanner.
+
+Check now Learn more
+
+“We rely on iubenda”
+
+We’re trusted by tens of thousands for a reason
+Minimise the Risk of Fines
+
+Stay ahead of fines with an easy-to-use solution that gives you confidence in your site or app's compliance.
+
+Keep in the Loop
+
+Stay up to date with international laws, thanks to our continuous, automatic updates.
+
+Don’t Break the Bank
+
+Rely upon a professional, lawyer-backed, and customizable compliance solution that’s fairly priced.
+
+Google-certified CMP Partner
+with Consent Mode built in
+
+IAB-validated CMP
+with Transparency & Consent Framework (TCF 2.2) support
+
+All our products are WCAG Level AAA compliant
+and iubenda is ISO 27001:2017 compliant.
+
+“Quality and reliability”
+
+Backed by lawyers, designed with care
+2.5+ million
+self-updating documents generated
+100+
+countries where clients are using iubenda’s online privacy solutions
+7+ billion
+pages run our cookie banner every month
+
+“They stay ahead of the evolving regulatory landscape”
+
+Is my country covered?
+
+Our solutions are in line with the strictest privacy requirements around.
+
+US Privacy Laws like CCPA+CPRA,
+CalOPPA, VCDPA (and more)
+
+EU & UK GDPR, EU ePrivacy
+
+Brazil's LGPD
+
+Switzerland's FADP
+
+“Peace of mind on every project”
+
+Is your site compliant?
+
+Scan your site to identify compliance issues in seconds. Then fix them easily with our smart auto-configuration wizard.
+
+Scan now
+
+“Customer support is always available”
+
+We're here for you
+
+Feeling supported goes a long way. Our customer care goes above and beyond to look after your needs.
+
+Talk to us
+Live chat or email options to get queries solved quickly and efficiently
+Multiple languages to support our global client base
+Extensive resources and guides that go miles above typical documentation
+Installation calls for support
+
+“They’re ready to answer any questions”
+
+FAQs
+What is data privacy compliance?
+
+Data privacy laws and regulations focus on the collection and processing of personal data, including data that’s collected and processed online. Complying with these legislations includes – but isn’t limited to – creating policies, collecting and handling consent in line with the requirements, and putting measures in place to process data legally.
+
+How does the Site Scanner work?
+
+The Site Scanner analyzes your website for data privacy-related issues. It identifies gaps in your privacy and cookie policies, terms and conditions, and consent collection and handling, providing a detailed report, an auto-configuration wizard, and recommended fixes.
+
+Which legislations do iubenda solutions cover?
+
+We offer extensive legislation coverage – including geolocation-based consent collection – on an international scale. We are in line with the strictest privacy requirements around: EU & UK GDPR, EU ePrivacy, US privacy laws like CCPA+CPRA, Switzerland’s nFADP, and Brazil's LGPD.
+
+What are the consequences of non-compliance with privacy laws?
+
+Non-compliance with privacy laws could potentially result in significant fines, legal action, and damage to your brand’s reputation. We remove the complexity of creating privacy documentation so you can easily comply with privacy laws.
+
+How often should I update my privacy policies?
+
+Privacy policies should be reviewed and updated regularly, especially when there are changes in data processing practices, new regulations, or updates to existing laws. Our solutions automatically keep you up to date so you can focus on other tasks.
+
+What types of data processing activities need to be documented?
+
+Any activity that involves collecting, storing, processing, or sharing personal data must be documented. This includes, but is not limited to, activities like data collection through forms or tracking cookies, email marketing, and data sharing with third parties.
+
+Can I use iubenda if my business operates in multiple countries?
+
+Yes, iubenda's solutions are designed to comply with international privacy laws. We offer multilingual support and geolocation-based consent collection to help get you on the road to compliance.
+
+How secure are iubenda's solutions for storing user data?
+
+iubenda’s solutions are hosted securely with robust encryption and access controls to protect user data. We’re fully compliant with international security standards, such as ISO 27001.
+
+Can iubenda's solutions help with email marketing compliance?
+
+Yes, we offer tools like the Newsletter Opt-in Booster to help you collect and manage consent for email marketing, ensuring compliance with regulations like the ePrivacy Directive and more.
+
+Can iubenda solutions be customized to match my brand?
+
+Yes, we know how important brand consistency is. Our solutions are designed with on-brand customization options, allowing you to tailor compliance tools to match your site’s look and feel. And if you don’t want a commercial reference to iubenda, that’s no problem. Our solutions can be white-labeled to suit your needs.
+
+Can iubenda solutions be used for both small businesses and large enterprises?
+
+Yes, iubenda's solutions are scalable and designed to cater to businesses of all sizes, from small start-ups to large enterprises. The flexible pricing plans and customizable features ensure that every business can find a solution that fits their specific needs.
+
+How does iubenda keep its solutions user-friendly despite the complexity of compliance?
+
+Ease is always best, right? We prioritize simplicity and ease of use in all our solutions. We offer features and tools that are designed to support your journey such as the auto-configuration wizard and step-by-step guides to help you navigate complex compliance requirements.
+
+What is web accessibility compliance?
+
+Ease is always best, right? We prioritize simplicity and ease of use in all our solutions. We offer features and tools that are designed to support your journey such as the auto-configuration wizard and step-by-step guides to help you navigate complex compliance requirements.
+
+How does WayWidget help improve website accessibility?
+
+WayWidget is an AI-powered widget that automatically enhances your website's accessibility features without rebuilding your site. The tool helps address common accessibility barriers with minimal setup time, supporting your journey toward meeting EAA requirements before the June 28, 2025 deadline while improving user experience for all visitors.
+
+What are the business benefits of improving website accessibility?
+
+Beyond compliance, an accessible website delivers valuable business benefits. It can improve your SEO rankings, enhance brand reputation, and open your business to new markets. With people with disabilities representing $1.9 trillion in annual spending power, accessibility improvements can help you attract more customers while demonstrating your commitment to inclusivity.
+
+“Our experience has been positive across the board”
+
+Helping 150k+ clients since 2011
+
+“iubenda is indispensable”
+
+Kick off your compliance journey today
+
+There’s a reason we’ve helped over 150k clients with online privacy compliance since 2011. Ready to join them? Start generating your privacy and cookie policy, T&Cs, and cookie and consent banner in a few clicks.
+
+Get started for free
+PRODUCTS AND SERVICES
+
+Compliance for websites and apps
+
+Privacy and Cookie Policy Generator
+Privacy Controls and Cookie Solution
+Terms and Conditions Generator
+WayWidget
+Consent Database
+Compliance Monitor
+Register of Data Processing Activities
+Whistleblowing Management Tool
+Data Subject Rights Management Tool
+Newsletter Opt-in Booster
+iubenda Stats
+Pricing
+ 
+Free site scan
+ 
+Agencies
+
+We use a selection of positive reviews on this site that have been sourced from actual customers or partners. These reviews have been adjusted to better fit the content of each page, while preserving their original meaning. For the full list of reviews for iubenda solutions, please refer to platforms such as Capterra, Trustpilot, and G2. For more information on how we source and use customer reviews, click here.
+
+COMPANY
+Work with us
+Blog
+Get certified as a Compliance Expert
+Partner directory
+Earn with iubenda
+LEGAL
+Whistleblower policy
+Accessibility
+Imprint/Impressum
+ Your Privacy Choices
+Notice at Collection
+Consent Database Privacy Notice
+Privacy Controls and Cookie Solution Privacy Notice
+HELP
+Documentation
+Feedback & support forum
+Contact support
+Our CMP Support Commitment
+COUNTRY
+South Korea
+ 
+iubenda s.r.l Via San Raffaele, 1 - 20121 Milan (Italia) EU VAT No: IT07347120961 UK VAT No: GB370904694 Milan Chamber of Commerce SC: 12,795.78 Eur (fully paid up)
+Help Center
+Getting started guide
+Open a ticket
+Live Chat
+Receive our updates
+Book a demo
+Talk to us
+Elevio by Dixa
+Help

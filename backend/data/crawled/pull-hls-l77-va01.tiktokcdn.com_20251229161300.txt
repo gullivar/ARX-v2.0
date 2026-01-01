@@ -1,0 +1,12 @@
+ERROR 502
+Bad Gateway
+CDN77 server is unable to reach website's origin server.
+If you're a Visitor...
+
+Please try again in a few minutes. If the problem persists for more than 30 minutes, try contacting website owner via a different channel.
+
+As the Website administrator...
+
+Please make sure the firewall on your origin server is disabled. It might be blocking the requests from the CDN77 servers.
+
+If that is not the case, take a look at the article on troubleshooting error messages in our knowledgebase.

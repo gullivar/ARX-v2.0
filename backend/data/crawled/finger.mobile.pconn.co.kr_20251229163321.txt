@@ -1,0 +1,9 @@
+HTTP Status 409 - not found zone exception
+
+type Status report
+
+message not found zone exception
+
+description The request could not be completed due to a conflict with the current state of the resource.
+
+Apache Tomcat/7.0.32

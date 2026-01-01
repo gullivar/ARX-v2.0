@@ -1,0 +1,15 @@
+ 
+?
+EN
+EN
+RU
+DE
+IT
+TR
+KeenDNS service provides you with a permanent customizable domain name that makes services running on your Keenetic router accessible from the Internet. Dynamic or non-external IP address? ISP is blocking HTTP(S) port? Not a problem anymore!
+With KeenDNS you're able to set up public or restricted access to particular applications on and services of your home network, using a name of your choice, e.g.: sunnydale.keenetic.link.
+Read more:
+KeenDNS Quick Start Guide
+Wi-Fi for Your Smart Home and Business
+© 2010-2025 Keenetic GmbH
+Legal Information

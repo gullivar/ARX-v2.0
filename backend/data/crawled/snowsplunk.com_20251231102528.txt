@@ -1,0 +1,1 @@
+handshake error: bad "Upgrade" header

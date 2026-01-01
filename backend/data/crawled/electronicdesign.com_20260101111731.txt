@@ -1,0 +1,177 @@
+The independent technology information source for electronics developers
+
+TECHNOLOGIES
+MARKETS
+TOP STORIES OF THE WEEK
+SPECIAL REPORTS
+INSIDE ELECTRONICS
+University of Gothenburg (generated with AI)
+ANALOG
+Light Drives Micrometer-Sized Motor and Gear Train
+Motors and gear trains with micrometer dimensions and powered by light are fabricated using semiconductor lithography and processes.
+Dreamstime_Sergej57_73433375
+ALTERNATIVE ENERGY
+Examining Solar Panels, Power Density, and Weather Resilience
+EDA
+NPU is Built Around RISC-V Core
+Dreamstime_Erchog_253681370
+AUTOMOTIVE
+48-V Systems: A Sweet Spot for Traditional and Mild-Hybrid Vehicles
+ID 139754885 | In © jpg1902 | Dreamstime.com
+NONLINEARITIES
+FCC Bans Foreign-Made Drones, Drone Parts...Plus Motors and Batteries?
+Trending
+My December 2025 Card for You All
+Examining Solar Panels, Power Density, and Weather Resilience
+Top Stories of the Week: Dec. 22-Dec. 26, 2025
+Sign up for our eNewsletters
+Get the latest news and updates
+SIGN UP
+Editor's Choice
+VIEW MORE
+ID 335429031 - 2025 © Prazis - Dreamstime.com
+TECHXCHANGE
+Top Stories of the Week: Dec. 29-Jan. 2, 2025
+Check out the best stories, videos, and podcasts from the week of Dec. 29 and overall from 2025.
+Dec. 29, 2025
+ID 272875076 © Bruno Coelho - Dreamstime.com | Consumer Technology Association
+TECHXCHANGE
+At the 2026 Consumer Electronic Show
+Check out the latest tech at this year's CES from behind the scenes.
+Dec. 29, 2025
+Dreamstime and EndeavorB2B
+MEMBERS ONLY
+The Next Decade of Tactile Sensing eBook (Download)
+Download the eBook that delves into the manufacturing breakthroughs, rising demand, new applications, and strategic partnerships that are set to revolutionize the future of tactile...
+Dec. 17, 2025
+Dreamstime_Busakorn-Pongparnit_76323466
+MEMBERS ONLY
+The Internet of Wireless Things eBook (Download)
+Download the eBook of this special report collecting together articles that dive into the challenges and engineering solutions behind today’s multiprotocol wireless IoT devices...
+Dec. 8, 2025
+Learning Resources
+SPONSORED
+Basics of Eye Pattern Analysis
+Discover how eye pattern analysis with a sampling oscilloscope helps you qualify high-speed optical transceivers. Learn key metrics, jitter and mask tests using Anritsu BERTWave...
+Dec. 19, 2025
+SPONSORED
+OTN-What is Important to Test?
+Unlock faster, more reliable OTN performance with advanced testing insights. Learn how evolving optical transport networks demand new methods to ensure quality, reduce troubleshooting...
+Dec. 19, 2025
+SPONSORED
+eBook: The Tuite Suite (Vol. 1) on: Amplifiers
+Some of the best work of now-retired Electronic Design power & analog editor Tuite, these articles blend foundational principles with practical guidance for today’s mixed-signal...
+Nov. 21, 2025
+Texas Instruments
+SPONSORED
+How is DLP Tech Powering the Next Wave of Packaging Innovation?
+Sponsored by Texas Instruments: Maskless lithography using digital micromirror devices is becoming a cost-effective and adaptable option for equipment manufacturers.
+Nov. 20, 2025
+Featured Media
+VIEW MORE
+POWER
+Ambient Energy Manager Handles Two Energy-Harvesting Sources
+Find out how e-peas’ PMIC supports energy harvesting from two sources.
+Dec. 19, 2025
+EDA
+A Quick Look at Keysight’s PHY Designer
+The Chiplet PHY Designer can model and analyze D2D PHY chiplet systems from transmitter to receiver.
+Dec. 10, 2025
+POWER
+SiC Power Electronics Empower EV Drivetrain Efficiency
+ROHM shows off a collaborative effort with Schaeffler, a leading German automotive supplier, on a new high-voltage inverter brick equipped with ROHM’s SiC MOSFETs.
+Dec. 5, 2025
+BATTERIES
+Bidirectional Battery Charger Uses Three-Phase Two-Level PFC
+The STEVAL-11BID1KCB from STMicroelectronics — an 11-kW bidirectional battery charger —represents a complete solution for high-voltage charging in both industrial and automotive...
+Dec. 4, 2025
+Inside Electronics Podcast
+VIEW MORE
+Technology Advancements
+VIEW MORE
+ID 1877136 © Dariusz Sas | Dreamstime.com
+INSIDE ELECTRONICS
+What’s New in PCI Express Gen 8?
+PCIe Gen 8 doubles the bandwidth to 256 GT/s. PCI-SIG’s President and Chair discusses that aspect and other next-generation features.
+Dec. 23, 2025
+Hyundai Motor Group
+AUTOMOTIVE
+Hydrogen Fuel-Cell Trucks to Support Port Newark Drayage Operations
+Rutgers University's CAIT research center received a grant to test heavy-duty hydrogen fuel-cell trucks from Hyundai Motor Group.
+Dec. 19, 2025
+Dreamstime_Ndq20114_283228114
+EMBEDDED
+New Touch-Sensing Tech Leads to Larger, Thinner, and Foldable Displays
+Multi-frequency-region parallel sensing (MFRPS) is poised to enable larger-sized, thinner, and more responsive touchscreens.
+Dec. 17, 2025
+Dreamstime_Lightpoet_123453836
+AUTOMOTIVE
+Mastering Motor Control in 48-V EV Thermal-Management Systems
+The shift from 12-V supply rails to 48-V power systems is pushing power levels under the hood to new highs. But it opens the door to a unique set of issues that extend to xEV ...
+Dec. 16, 2025
+Products and Solutions
+VIEW MORE
+Analog Devices
+IDEAS FOR DESIGN
+Regulation Loop Without a Resistive Divider
+This new control-loop architecture, usable with both linear and switching regulators, is designed to generate very low noise voltages and the level of noise becomes independent...
+Dec. 22, 2025
+Renesas
+WIRELESS
+Wi-Fi 6 and Wi-Fi/BLE Combo MCUs Bring Integration to IoT, Smart-Home Apps @ Microwaves & RF
+These low-power wireless microcontrollers support a raft of connectivity applications in smart-home, industrial, medical, and consumer settings.
+Dec. 19, 2025
+Dreamstime_Artinun-Prekmoung_114186274
+ANALOG
+Automotive Amp Isolates High Voltages, Yields Ratiometric Output
+This automotive-qualified analog isolation amplifier tolerates kilovolts and delivers a single-ended ratiometric output voltage.
+Dec. 17, 2025
+Dreamstime_Artinun-Prekmoung_146637837
+POWER
+Surface-Mount X-, Y-Capacitors First to Carry AEC-Q200 Rating
+These X- and Y-capacitors in surface-mount housings, built to suppress EMI, reduce cost, and simplify production.
+Dec. 9, 2025
+Industry Insights
+VIEW MORE
+Dreamstime_Jenifoto406_41431314
+POWER
+Thirsty Silicon: The Hidden Costs of Big Tech’s AI Boom (Part 1)
+How the AI boom is quietly creating regional water crises and inflating consumers’ electricity bills.
+Dec. 23, 2025
+Tony Vitolo/EndeavorB2B
+MEMBERS ONLY
+Holiday Gifts for the Engineer eBook (Download)
+Looking for last-minute gifts for the engineers in your life? This eBook presents several gift guides to help you get started.
+Dec. 22, 2025
+Cabe Atwell
+ENGINEERING ON FRIDAY
+My December 2025 Card for You All
+Cabe’s cartoon and reflections for this year's holiday season.
+Dec. 22, 2025
+Dreamstime_Craig-Ikegami_869021
+POWER
+Modernizing the AC Power Grid for Future Stability
+Rising electricity demand from EVs and AI is stressing a grid built of centralized, rotating generators. Renewables can provide fill the rising demand, but are they “grid friendly...
+Dec. 19, 2025
+The independent technology information source for electronics engineers, programmers and developers.
+Newsletters
+The top stories, industry insights and relevant research, assembled by our editors and delivered to your inbox.
+SIGN UP
+Connect
+Follow us for the latest industry news and insights.
+https://www.facebook.com/ElectronicDesign
+https://www.linkedin.com/company/electronic-design-magazine
+https://twitter.com/ElectronicDesgn
+https://www.youtube.com/channel/UCXKEiQ9dob20rIqTA7ONfJg
+Affiliated Brands
+MICROWAVES & RF
+MACHINE DESIGN
+CONTROL DESIGN
+MILITARY & AEROSPACE ELECTRONICS
+MORE BRANDS
+About Us
+Advertise
+Do Not Sell or Share
+Privacy Policy
+Terms & Conditions
+© 2026 All rights reserved.

@@ -1,0 +1,218 @@
+Skip welcome & menu and move to editor
+Close welcome panel
+New bin
+ 
+Textarea editor mode
+JS Bin features
+Getting started
+Keyboard Shortcuts
+Exporting/importing gist
+ 
+Pro features
+Private bins
+Vanity URLs
+Upgrade to pro now
+ 
+Blog
+The Return and The Refactor
+Help
+Versions: Processors & core libraries
+Gists: how to import a gist
+ 
+Donate to JS Bin ❤
+Support JS Bin to keep the project open source & MIT for all
+Follow @js_bin on twitter
+By using JS Bin you agree to our legal terms
+File
+Add library
+None
+-------------
+jQuery WIP (via git)
+jQuery 3.1.0
+jQuery 3.0.0
+jQuery 2.2.4
+jQuery 2.1.4
+jQuery 2.0.3
+jQuery 1.12.4
+jQuery 1.11.3
+jQuery 1.10.2
+jQuery 1.9.1
+jQuery 1.8.3
+jQuery 1.7.2
+jQuery 1.6.4
+-------------
+jQuery UI WIP (via git)
+jQuery UI 1.12.1
+jQuery UI 1.11.4
+jQuery UI 1.10.4
+jQuery UI 1.9.2
+-------------
+jQuery Mobile WIP (via git)
+jQuery Mobile 1.4.2
+jQuery Mobile 1.3.2
+jQuery Mobile 1.2.1
+jQuery Mobile 1.1.2
+-------------
+Bootstrap Latest
+Bootstrap 2.3.2
+-------------
+Prototype latest
+Prototype 1.7.1
+Prototype 1.6.1.0
+script.aculo.us latest
+script.aculo.us 1.8.3
+-------------
+YUI 3.10.0
+YUI 2.9.0
+-------------
+MooTools 1.5.0
+MooTools 1.5.0 (without 1.2+ compatibility layer)
+MooTools 1.4.5
+-------------
+Dojo latest
+Dojo 1.8.4
+Dojo 1.7.4
+Dijit latest (Claro)
+Dijit 1.8.4 (Claro)
+Dijit 1.7.4 (Claro)
+-------------
+Kendo UI Core 2015.2.624
+Kendo UI Core 2014.3.1411
+-------------
+QUnit
+-------------
+RequireJS
+-------------
+Zepto latest
+Zepto 1.0
+-------------
+Angular 1.4.0 Stable
+Angular 1.4.0 Stable Uncompressed
+Angular 1.3.15 Stable
+Angular 1.3.15 Stable Uncompressed
+Angular 1.2.26 Legacy
+Angular Latest
+Angular Latest Uncompressed
+Angular Animate Latest
+Angular Aria Latest
+Angular Messages Latest
+Angular Resource Latest
+Angular Route Latest
+Angular Sanitize Latest
+-------------
+React + React DOM 15.1.0
+React with Add-Ons + React DOM 15.1.0
+React + React DOM 0.14.7
+React with Add-Ons + React DOM 0.14.7
+React 0.13.3
+React with Add-Ons 0.13.3
+-------------
+core-js
+ES5 shim 2.0.8
+-------------
+Bliss 1.0.2
+Vue.js 1.0.16
+Vue.js 2.0.3
+Ractive.js
+Autoprefixer
+Backbone 1.1.2
+MarionetteJS latest
+Bonsai 0.4.latest
+CoffeeScript
+Normalize.css 3.0.2
+ext-core 3.1.0
+Foundation 5.5.2
+Handlebars.js 1.0.0
+Knockout 3.3.0
+Less 1.3.3
+Modernizr Development latest
+Detectizr 1.5.0
+Prefixfree 1.0.7
+Processing 1.4.1
+Highcharts latest
+Raphaël 2.1.0
+Chartist.js latest
+Sammy 0.7.4
+Sencha Touch
+Traceur
+TwitterLib
+underscore
+CanJS 2.0.3
+Three.js r82
+HTML5 shiv
+Polymer 0.3.3
+Material Design Lite 1.2.1
+Font Awesome 4.0.3
+Paper.js 0.9.12
+OpenUI5 CDN (belize Theme, mobile library)
+GSAP 1.11.7
+Phaser 2.0.5
+Video.js 5.11.x
+AUI (Atlassian UI) 5.7.0
+Firebase 2.0.2
+Ionic 1.0.0-beta-13
+OpenTok v2.x (latest)
+Riot + Compiler (latest 2.6.x)
+Blaze CSS (latest)
+Ramda 0.22.1
+Semantic UI 2.2.2
+-------------
+Enyo latest
+Enyo 2.2.0
+-------------
+Bluebird 1.2.2
+Promise 4.0.0
+Q 1.0.1
+RSVP 3.0.6
+-------------
+Ember.js 1.13.5
+Ember Data 1.13.6
+-------------
+lodash 4.x
+lodash fp 4.x
+lodash 3.x
+-------------
+D3 4.2.3
+D3 3.5.6
+-------------
+RxJS 5.0.3
+rx.all 4.0.6
+rx.all.compat 4.0.6
+rx.testing 4.0.6
+rx.dom 7.0.3 (requires 4.x)
+-------------
+Popcorn.js 1.5.6 (Core)
+Popcorn.js 1.5.6 (Core + Extensions)
+-------------
+Immutable 3.7.3
+mori 0.3.2
+-------------
+PouchDB (latest)
+-------------
+Moment 2.14.1
+Moment 2.14.1 (with locales)
+-------------
+Velocity JS 1.2.3
+Velocity UI Pack 1.2.3
+Share
+HTMLCSSJavaScriptConsoleOutput
+Login or Register
+Blog
+Help
+HTMLSaved
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+​
+</body>
+</html>
+Output 
+Run with JS Auto-run JS
+640px
+All-in-one solution for upload. Process and transform files with AI capabilities. Get started free.
+Ads by EthicalAds

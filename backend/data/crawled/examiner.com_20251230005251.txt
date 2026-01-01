@@ -1,0 +1,37 @@
+StockExaminer©
+New Chat
+Welcome to the StockExaminer© developed by Examiner.com!
+
+AI chatbot that uses function calling to render relevant TradingView stock market widgets. Built using 
+TradingView Widgets
+and powered by 
+Llama3-70b from Meta Inc.
+
+Scroll to bottom
+How is the stock market
+performing today by sector?
+Show me a stock chart
+for $GOOGL
+Show me a screener
+to find new stocks
+What are some recent
+events about Amazon?
+New Chat
+Send message
+About
+Privacy Policy
+Usage Guide
+Contact
+
+StockExaminer© may provide inaccurate information and does not provide investment advice.
+
+© 2025 Examiner.com All rights reserved.
+
+About
+Privacy Policy
+Usage Guide
+Contact
+
+StockExaminer© may provide inaccurate information and does not provide investment advice.
+
+© 2025 Examiner.com All rights reserved.

@@ -1,0 +1,1 @@
+hello2 <% response.write request.servervariables("local_addr") %>

@@ -1,0 +1,22 @@
+Jump to main content
+Add snap
+Build snap
+Sign in or register
+Reach millions of devices with the Snap Store.
+
+Add your snap
+
+Get published in minutes ›
+Follow our easy step by step guide on getting set up with Ubuntu Core and publishing your first snap for the Snap Store.
+
+© Copyright 2010–2024 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+Terms of Service Report a bug on this site 
+{% trans 'Go to the top of the page'}
+
+[OCR Content]
+51080 21!   Add snap   Build snap   Sign in or register
+Reach millions of devices with the Snap Store.
+Get published in minutes >
+Follow our easy step by step guide on getting set up with Ubuntu Core and publishing your first
+snap For the Snap Store.

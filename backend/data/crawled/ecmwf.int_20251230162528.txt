@@ -1,0 +1,162 @@
+help_outline
+Help
+login
+Log in
+Main navigation
+Home
+ 
+About
+ 
+Forecasts
+ 
+Computing
+ 
+Research
+ 
+Learning
+ 
+Publications
+ 
+Anniversary
+Advancing global NWP through international collaboration
+2m Temperature: Weekly mean anomalies
+
+Base Time: Mon 29 Dec 2025 00 UTC T+168 Valid time: Mon 29 Dec 2025 00 UTC - Mon 05 Jan 2026 00 UTC
+
+Weekly mean anomalies have been calculated relative to a 20-year model climatology.  The areas where the ensemble forecast is not significantly different from the climatology, according to a WMW-test, are blanked.
+
+Note that shaded areas are at 10%, contours are at 1% significant level.
+
+For further details of Sub-seasonal range output and products, please visit ECMWF Forecast User Guide.
+
+View all chartschevron_right
+NEWS
+News highlights 2025
+
+Highlights from across 2025, including the launch of AIFS, opening ECMWF’s entire Real-time Catalogue to all, global and European climate insights, digital twins and a leadership transition in ECMWF’s 50th anniversary year.
+
+19 December 2025
+Visit our Media Centrechevron_right
+NEWS
+Closing ECMWF’s 50th anniversary
+
+ECMWF concluded its 50th anniversary year with three days of events in Reading, UK, bringing together Member States, partners and former leaders to reflect on key scientific advances, showcase European progress in machine learning, and celebrate five decades of collaboration and innovation.
+
+15 December 2025
+SCIENCE BLOG
+The eye of the storm: how EarthCARE is helping to evaluate hurricane physics in ECMWF forecasts
+
+EarthCARE’s overpass of Hurricane Humberto captured the first space-based view of vertical winds and precipitation inside an eyewall, offering unprecedented insight into storm structure and updrafts that will help ECMWF improve hurricane understanding, intensity prediction and forecasts.
+
+10 December 2025
+IN FOCUS
+In focus
+
+Browse our fact sheets on topics such as Destination Earth and the role of the Copernicus Atmosphere Monitoring Service, and read about some of the opportunities and challenges for ML and weather forecasting.
+
+30 September 2025
+Forecast charts and data
+
+We provide current forecasts, climate reanalyses and specific datasets. These are available via the web, point-to-point dissemination, data servers and broadcasting.
+
+Charts
+Datasets
+Quality of our forecasts
+Documentation
+Access to forecasts
+Datasets
+
+Forecasts, analyses, climate reanalyses, re-forecasts and multi-model data are available from our archive (MARS) or via dedicated data servers or via point-to-point dissemination.
+
+Accessing forecasts
+
+Researchers, WMO members, commercial users and satellite data providers can gain access to ECMWF forecast products under one of our various licence agreement types.
+
+AIFS BLOG
+Does better mean better forecasts for everyone?
+
+Are improvements from the ML-based AIFS system distributed evenly worldwide or do some regions benefit more than others?
+
+9 December 2025
+Serving meteorology
+
+International collaboration is fundamental to the work of ECMWF, working with the EU and the meteorological community at large, including the World Meteorological Organization, space agencies, and scientists around the world.
+
+Serving meteorology
+chevron_right
+Contributing to European Programmes
+Copernicus Climate Change Service (C3S)
+Copernicus Atmosphere Monitoring Service (CAMS)
+Copernicus Emergency Management Service (CEMS)
+Destination Earth
+Working with space agencies
+Observations
+Data monitoring
+Observation Monitoring Dashboardchevron_right
+Supporting WMO programmes
+World Meteorological Centre
+Data archives
+Severe weather forecasting
+Workshops and education
+
+Education is a key element of our work at ECMWF, enabling our partners to get the most from ECMWF's services and develop an advanced understanding of forecasting.
+
+Training
+Workshops
+Seminars
+14 January	Informal Seminar: Disentangling regional impacts of teleconnections using causal representation learning
+20 January	Evaluating operational seasonal forecasts in the extratropics: improvements, challenges, and interesting problems
+February 2 – 5	Training course: Use and interpretation of ECMWF products
+11 February	WeatherGenerator Dissemination Workshop
+February 10 – 12	WeatherGenerator General Assembly
+February 23 – 27	Training course: Machine learning and Destination Earth
+March 2 – 6	Training course: Parametrization of subgrid physical processes
+19 March	AI Weather Quest: DJF Awards Webinar
+
+ECMWF workshops are open to the worldwide meteorological community, though some training is restricted to member states.
+
+Full calendar of events
+expand_less
+expand_more
+About
+Who we are
+What we do
+Jobs
+Media centre
+Suppliers
+Grants
+Location
+Forecasts
+Charts
+Datasets
+Quality of our forecasts
+About our forecasts
+Access to forecasts
+Computing
+Our facilities
+Access to computing facilities
+Software
+Service status
+Research
+Data assimilation
+Modelling and Prediction
+Climate reanalysis
+Projects
+Special Projects
+Learning
+Training
+Workshops
+Seminars
+Publications
+Newsletter
+Technical memoranda
+Reports
+IFS documentation
+
+© European Centre for Medium-Range Weather Forecasts
+
+Footer link
+Accessibility 
+Privacy 
+Terms of use 
+Contact

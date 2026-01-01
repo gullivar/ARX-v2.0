@@ -1,0 +1,84 @@
+Skip to content
+Showcase
+Docs
+Blog
+Templates
+Enterprise
+Search documentation...
+⌘K
+Deploy
+Learn
+Important
+Security Advisory: React2Shell & two new vulnerabilities
+Find out more
+The React Framework for the Web
+
+Used by some of the world's largest companies, Next.js enables you to create high-quality web applications with the power of React components.
+
+Get Started
+Learn Next.js
+▲ ~ npx create-next-app@latest
+What's in Next.js?
+
+Everything you need to build great products on the web.
+
+ORIGINAL
+1440PX
+375PX
+Built-in Optimizations
+Automatic Image, Font, and Script Optimizations for improved UX and Core Web Vitals.
+Data Fetching
+Make your React component async and await your data. Next.js supports both server and client data fetching.
+Server Actions
+Run server code by calling a function. Skip the API. Then, easily revalidate cached data and update your UI in one network roundtrip.
+Advanced Routing & Nested Layouts
+Create routes using the file system, including support for more advanced routing patterns and UI layouts.
+Dynamic HTML Streaming
+Instantly stream UI from the server, integrated with the App Router and React Suspense.
+CSS Support
+Style your application with your favorite tools, including support for CSS Modules, Tailwind CSS, and popular community libraries.
+Route Handlers
+Build API endpoints to securely connect with third-party services for handling auth or listening for webhooks.
+Middleware
+Take control of the incoming request. Use code to define routing and access rules for authentication, experimentation, and internationalization.
+React Server Components
+Add components without sending additional client-side JavaScript. Built on the latest React features.
+Client and Server Rendering
+Flexible rendering and caching options, including Incremental Static Regeneration (ISR), on a per-page level.
+Next.js 16
+The power of full-stack to the frontend. Read the release notes.
+Resources
+Docs
+Support Policy
+Learn
+Showcase
+Blog
+Team
+Analytics
+Next.js Conf
+Previews
+Evals
+More
+Next.js Commerce
+Contact Sales
+Community
+GitHub
+Releases
+Telemetry
+Governance
+About Vercel
+Next.js + Vercel
+Open Source Software
+GitHub
+Bluesky
+X
+Legal
+Privacy Policy
+Cookie Preferences
+Subscribe to our newsletter
+
+Stay updated on new releases and features, guides, and case studies.
+
+Subscribe
+
+© 2025 Vercel, Inc.

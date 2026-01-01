@@ -1,0 +1,1 @@
+{"detail":{"error":1,"message":{"required":{"params":["client_id","redirect_uri"]}}}}

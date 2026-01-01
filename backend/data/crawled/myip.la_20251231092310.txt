@@ -1,0 +1,98 @@
+MyIP.la - A Simple IP Address And IP Geolocation API MyIP.la A Simple Public IP Address And IP Geolocation API Current IP: 221.138.189.189 [Republic of Korea Seoul ] Why use? Do you need to get the public IP address or IP Geolocation programmatically? Do you have the requirements to obtain the servers’ public IP address? Do you need to get the location of your servers? Whatever the reason,sometimes a public IP address and IP Geolocation API are useful. You should use MyIP.la because: You can initiate requests without any limit. You can get the english or chinese location data. Does not record the visitor information. Lastly, MyIP.la is sponsored by IPIP.NET and will exist in long-term stability, please feel free to use it. API Usage Using MyIP.la is ridiculously simple.  You have two options. Address location support English and Chinese.
+                            You can get your public IP directly (in plain text), you can get your
+                            public IP in JSON format. - API URI Type Sample Output (IPv4) Sample Output (IPv6) get IP https://api.myip.la text 8.8.8.8 2001:4860:4860::8888 get XFF(X-Forwarded-For) https://api.myip.la/xff text 8.8.8.8 2001:4860:4860::8888 get IP Location(English) https://api.myip.la/en?json json {
+    "ip":"172.104.94.100",
+    "location":{
+        "country_code":"JP",
+        "country_name":"Japan",
+        "province":"Tokyo",
+        "city":"Shinagawa",
+        "latitude":"35.6130514",
+        "longitude":"139.7344198"
+    }
+} {
+  "ip": "2001:19f0:7001:5607:5400:1ff:fec7:13a9",
+  "location": {
+    "city": "Tokyo",
+    "country_code": "JP",
+    "country_name": "Japan",
+    "latitude": "35.709026",
+    "longitude": "139.731993",
+    "province": "Tokyo"
+  }
+} get IP Location(Chinese Simplified) https://api.myip.la/cn?json json {
+    "ip":"172.104.94.100",
+    "location":{
+        "country_code":"JP",
+        "country_name":"日本",
+        "province":"东京都",
+        "city":"品川区",
+        "latitude":"35.6130514",
+        "longitude":"139.7344198"
+    }
+} {
+  "ip": "2001:19f0:7001:5607:5400:1ff:fec7:13a9",
+  "location": {
+    "city": "东京",
+    "country_code": "JP",
+    "country_name": "日本",
+    "latitude": "35.709026",
+    "longitude": "139.731993",
+    "province": "东京都"
+  }
+} Gets the information for the request. - API URI Type Sample Output get Request Header https://api.myip.la/header text GET /header HTTP/1.1
+Host: api.myip.la
+Accept: */*
+User-Agent: curl/7.54.0 Examples This section contains some common usage patterns from a variety of programming languages. Email me! Bash #!/bin/bash
+
+ip=$(curl -s https://api.myip.la)
+echo "My public IP address is: $ip" Python # This example requires the requests library be installed.  You can learn more
+# about the Requests library here: http://docs.python-requests.org/en/latest/
+from requests import get
+
+ip = get('https://api.myip.la').text
+print('My public IP address is: {}'.format(ip)) Ruby require "net/http"
+
+ip = Net::HTTP.get(URI("https://api.myip.la"))
+puts "My public IP Address is: " + ip PHP <?php
+    $ip = file_get_contents('https://api.myip.la');
+    echo "My public IP address is: " . $ip;
+?> Java try (java.util.Scanner s = new java.util.Scanner(new java.net.URL("https://api.myip.la").openStream(), "UTF-8").useDelimiter("\\A")) {
+    System.out.println("My current IP address is " + s.next());
+} catch (java.io.IOException e) {
+    e.printStackTrace();
+} Perl use strict;
+use warnings;
+use LWP::UserAgent;
+
+my $ua = new LWP::UserAgent();
+my $ip = $ua->get('https://api.myip.la')->content;
+print 'My public IP address is: '. $ip; C# var httpClient = new HttpClient();
+var ip = await httpClient.GetStringAsync("https://api.myip.la");
+Console.WriteLine($"My public IP address is: {ip}"); NodeJS var http = require('http');
+
+http.get({'host': 'api.myip.la', 'port': 80, 'path': '/'}, function(resp) {
+  resp.on('data', function(ip) {
+    console.log("My public IP address is: " + ip);
+  });
+}); Go package main
+
+import (
+        "io/ioutil"
+        "net/http"
+        "os"
+)
+
+func main() {
+        res, _ := http.Get("https://api.myip.la")
+        ip, _ := ioutil.ReadAll(res.Body)
+        os.Stdout.Write(ip)
+} Connection Request-Header GET / HTTP/1.0
+Host: www.myip.la
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.5
+Connection: close
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+X-Client-Ip: 221.138.189.189
+X-Real-Ip: 221.138.189.189 © 2018 - 2025 IPIP.net

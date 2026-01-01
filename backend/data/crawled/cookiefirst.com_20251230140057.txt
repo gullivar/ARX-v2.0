@@ -1,0 +1,211 @@
+Press Option+1 for screen-reader mode, Option+0 to cancel
+Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
+Skip to main content
+Menu
+account
+Start using Google Consent Mode v2 & Microsoft Consent Mode for UET / Ads
+
+More conversions. Better data. Increase your ROI with Google Consent Mode v2, Microsoft UET Consent Mode and CookieFirst.
+
+Google Consent Mode v2
+Microsoft Consent Mode UET
+Cookie consent management platform CMP
+
+CookieFirst offers automated cookie consent, periodic cookie scans, an automated cookie policy generator in 44+ languages. Our software integrates with Google Tag Manager & Consent Mode v2 and is platform agnostic. We offer many other consent management features for compliance with international privacy laws like the GDPR, ePrivacy, LGPD, CCPA, Law 25 and PDPA.
+
+Cookie banner and Consent Management Panel
+Completely customizable cookie banner
+Easily compliant with the GDPR, LGPD , Law 25 and CCPA
+Manage your cookies and third party scripts
+View consent statistics and optimize your opt-in rate
+Start your Free trial
+
+Trusted by organisations of all sizes
+Get consent before loading third-party tracking scripts
+Google Consent Mode v2
+
+CookieFirst also integrates with Google Consent Mode. Read more in our article on Google Consent Mode
+
+Cookie consent features
+Cookie consent
+
+Custom cookie consent for your site. Be fully compliant with the GDPR, LGPD and CCPA quick and easily
+
+Cookie Scanner
+
+CookieFirst offers a comprehensive cookie scanner and analyses your website on a monthly basis. A list of cookies and local storage items  is generated from the cookie scan.
+
+Cookie consent manager
+
+Easily integrate and manage all the cookies that are present on your site with our extensive consent management platform.
+
+Quick and easy set-up
+
+Simply replace all your tracking and third party scripts with our single code snippet or install the plugin.
+
+Granular opt-in
+
+Enable your website visitors to give consent with a granular opt-in for the third-party cookies you use.
+
+Logged consent
+
+CookieFirst lets you monitor your visitor’s consent for third-party scripts on your site. Your visitor’s consents are logged and placed in an anonymous and encrypted database.
+
+Cookie Consent Manager | Take a 2 week free trial
+Take a 2 week free trial for our paid plans or create a free account …
+Start your Free TrialView our pricing plans
+GDPR Compliant in minutes…
+
+1
+Create your account and start your Free Trial
+Create your account in a matter of minutes with our quick and easy signup process.
+2
+Manage your third-party tracking scripts or use Autoblock
+We scan your site for cookies and third-party trackers. Simply configure the settings for your third-party service and customise your cookie banner.
+3
+Obtain consent
+Your third-party (tracking) scripts are loaded AFTER your visitors give consent - Compliant with the GDPR, ePrivacy and other privacy.
+Pricing
+Start your 2 week Free Trial | Get 1 Month for Free with Annual Plans
+Free
+€ 0.00 Per Month
+Upgrade any time
+ 1 Third party script
+ Only cookie banner
+ One time cookie scan
+ One language
+ Support response <96 hrs*
+ External collaborators
+ Banner customization
+ Whitelabel banner
+ Consent statistics
+ Cookiescan-reports
+ Whitelabel panel
+ Consent audit trails
+ Opt-in rate optimization
+ Scanner settings
+ IAB TCF 2.2 Support
+Get Free
+Basic
+€ 9 Per Month
+€99 Per Year
+ All Third party scripts
+ Cookie banner or box
+ Monthly cookie scan
+ Multiple languages
+ Support response <72 hrs*
+ External collaborators
+ Banner customization
+ White label banner
+ Consent statistics
+ Cookiescan reports
+ White label panel
+ Consent audit trails
+ Opt-in rate optimization
+ Scanner settings
+ IAB TCF 2.2 Support
+Try Basic
+Plus
+RECOMMENDED
+€ 19 Per Month
+€209 Per Year
+ All Third party scripts
+ Cookie banner or box
+ Monthly cookie scan
+ Multiple languages
+ Support response <24 hrs*
+ External collaborators
+ Banner customization
+ White label banner
+ Consent statistics
+ Cookiescan reports
+ White label panel
+ Consent audit trails
+ Opt-in rate optimization
+ Scanner settings
+ IAB TCF 2.2 Support
+Try Plus
+Enterprise
+€ N/A Per Month
+or Per Year
+Do you have a lot of domains and / or specific requirements? We offer tailored enterprise solutions with extensive api integration support.
+Apply here
+
+Prices are ex VAT
+*Support response times on business days
+
+
+Are you an agency, web developer or another reseller?
+Earn 30% commission, take a look at our reseller model or the affiliate program – contact us for the possibilities.
+Calculate your revenue
+What are cookies?
+
+Cookies are text files with tiny pieces of information. This data can be used for many different purposes. An example of this type of data are login details like a username and password combination. Internet cookies can be very useful for browsing the internet. Apart from remembering which sites an internet user has visited, cookies also form information to make browsing and filling in digital forms more quickly and efficiently. Without cookies, navigation on websites would be less convenient and interactive for users.
+
+Read more about cookies in our article ‘What are cookies?‘
+
+What does CookieFirst do?
+
+We provide GDPR, LGPD and CCPA compliant cookie banners and consent managing solutions for websites. In a few minutes you can set up a compliant cookie banner and policy for your website and rebrand it in your favourite styles. Stop worrying about your website’s compliance to the GDPR and the CCPA we handle that for you. Simply select the third party services you use, upload our scripts to your website et voila.
+
+What is the GDPR legislation?
+
+The General Data Protection Regulation is in effect since the 25th of May 2018. Later this year (2019) the ePrivacy act will be in play as well. These two regulations are meant to guarantee and protect the personal data privacy of EU citizens.
+
+Among other things this legislation means that website owners need to be fully aware of the cookies and third party tracking technology used on their website.
+
+What is the CCPA?
+
+Since May last year, we have all been familiar with the European GDPR legislation. But also in the US people are getting ready for privacy protection laws. In 2020, the California Consumer Privacy Act (CCPA) will become effective, a bill that protects the privacy rights of consumers in the US state. CCPA and GDPR not only have a sounding abbreviation in common, both laws are extraterritorial and, in other words, also valid outside their own territory. (E-mail) marketers should therefore be better prepared for the arrival of CCPA. We have ten simple tips and advice about cookie consent management which will help you on your way with CCPA Compliance.
+
+Does my website need a cookie notice and policy?
+
+Most of the websites need a cookie banner and policy. In short if you use any of the following your website probably needs a compliant cookie banner and policy:
+
+Social media buttons
+Youtube videos or other third party video embeds
+Remarketing
+Goal tracking in Adwords, Facebook, LinkedIn, Twitter and others
+Advertising
+A/B Testing for marketing purposes.
+Is a cookie notice and policy only needed for EU websites?
+
+The GDPR applies not only to EU websites but to all organisations websites who serve users from the EU or monitor the behaviour of EU data subjects. So whatever the location of your business, if your website processes data from subjects residing in the European Union you’ll have to comply with the GDPR regulation.
+
+Do you need a cookie banner under Law 25 in Quebec?
+
+Effective September 22, 2023, Quebec’s privacy landscape is set for a transformative shift with the enactment of the second set of amendments from Law 25. Of these new changes, one stands out markedly: the mandatory implementation of cookie banners. Any organization operating within Quebec must now transparently disclose their use of technologies like non-essential cookies that identify, locate, or profile users. The emphasis is on clear user consent, necessitating that cookie consent tools be set up, ensuring tracking technologies are inactive by default. In essence, user privacy is paramount, and organizations are urged to adapt promptly. Given the steep penalties for non-compliance, including potential fines amounting to millions, the significance of these changes—especially the importance of cookie banners—cannot be overstated. Read more about the impact of Law 25 for your organization here.
+
+Agencies / Resellers
+
+Yes! We also offer Agency / Reseller plans. Offer our GDPR, LGPD and CCPA compliance services to your customers and set your own pricing. The more sites you connect to your reseller plan the higher the discount. Curious?
+
+Calculate your revenue
+Our Privacy Blog
+Global Privacy Control: all You need to Know about enforcement
+CookieFirst Now Supports WordPress Consent API: Enhanced Plugin Experience
+Microsoft Consent Mode UET and CookieFirst
+Cookie Consent Manager
+Features
+Pricing
+GDPR & Cookies
+Blog
+Contact
+Reseller / Affiliate model
+Free Trial
+English
+English
+Privacy policy | Information
+Consent to Cookies
+
+We may place these cookies for analysis of our visitor data, to improve our website, show personalised content and to give you a great website experience. For more information about the cookies we use open the settings.
+
+Data is collected for the purpose of advertising personalization and measuring the effectiveness of advertising campaigns. Data may be shared with Google LLC, more information can be found here.
+
+Necessary
+Performance
+Functional
+Advertising
+Accept
+Adjust
+Deny

@@ -1,0 +1,233 @@
+This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.
+
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+Accept
+Decline
+Products
+Applications
+Customers
+Pricing
+Support
+Company
+Buy Now
+Secure networking solutions for the home
+
+ 
+
+The world’s most popular, feature-rich and robust firewall, router and VPN solutions. Ideal for personal users, professional users, and organizations looking for easy-to-use, powerful, flexible, proven solutions for safely connecting to the Internet.
+
+Home
+Office
+Cloud
+Get Started
+Prioritized office, IoT, and entertainment traffic
+Prevent intrusions into your personal network
+Secure network access for work-from-home
+Stay connected with speed and reliability
+Affordable next-gen firewall protection
+Secure remote access to other offices and cloud
+High-speed inter- or intra-cloud connectivity
+Protect cloud-hosted applications and data
+Run your own VPN service, or setup high speed site-to-cloud secure connections
+Find the Right Secure Networking Software for Your Needs
+
+Netgate offers two very powerful, but different, secure networking solutions - pfSense Plus and TNSR.
+
+All-in-one network firewall, router, and VPN solution
+
+
+
+
+Ideal for home, remote worker, business, and service provider network connectivity and protection
+
+Equipped with many router and firewall features typically found only in expensive commercial routers
+Flexible VPN solution options
+Known for robustness and stability
+Highly extensible with 3rd party packages to support block lists, content filtering, intrusion prevention, policy-based routing and more
+Easy to install and maintain via web GUI
+Available for on-premises and cloud deployment
+Learn MoreCompare with TNSR
+"We've been using pfSense for our Firewall/IDS for five years - across multiple work sites with HA CARP configured - and it is outstanding. Just does most things exceptionally well."
+Stephen D.
+FINANCIAL SERVICES
+High-performance software router with industry-leading price-performance, scalability
+
+Ideal for demanding service provider and business edge, campus, data center and cloud connectivity environments - where high-speed routing and encrypted traffic handling are required
+
+Vector Packet Processing (VPP) with Data Plane Development Kit (DPDK) enable up to two orders of magnitude speed gain over traditional kernel-based packet processing solutions
+Software scalable to 10, 25, 40, 100 Gbps and beyond
+Suitable for edge and core routing, site-to-site VPN, cloud connectivity, large scale NAT applications
+Managed through CLI and/or RESTCONF API
+Achieves super-scale routing without the six-figure price tag.
+Contact sales for pricing. 
+Learn MoreCompare with pfSense Plus
+"I really put TNSR through the paces. What I found was that I’m incapable of generating enough traffic to stress the box - without a lot of effort - and that frankly, I’ll never generate real-world traffic anywhere near its capacity."
+Torstein S.
+SOFTWARE DEVELOPMENT
+Secure Networking Bases Covered
+
+Whether at home or in the office, safely connecting to the digital world requires three fundamental capabilities at the network edge.
+
+Firewall Protection
+
+Monitor incoming and outgoing network traffic and configure settings to allow or block specific traffic based on a defined set of security rules.
+
+pfSense Plus
+
+Secure VPN
+
+Encrypt your traffic so no one can see what you do online, or interfere with your traffic - to and from your location, across the Internet, to its far-end destination.
+
+
+
+pfSense Plus
+
+TNSR
+
+Routing Control
+
+Connect computers and other devices to the home or business to the world, choose the best route for your information to travel, and decide which computers get priority over others.
+
+pfSense Plus
+
+TNSR
+
+Deploy How You Like and Where You Need
+
+Netgate secure networking solutions can be deployed virtually or physically on premises, and virtually in the cloud.
+
+Appliance
+Software
+Cloud
+1100
+2100
+4200
+6100
+8200
+8300
+Netgate 1100
+
+The Netgate 1100 is the ideal microdevice for the home and small office network with up to 1 Gbps routing and 607 Mbps of firewall throughput.
+
+ Cost-efficient / Low power
+ Sleek, compact
+ Silent operation (fanless)
+
+Put on a desktop, shelf, or wall
+1100 with pfSense+
+pfSense+ Appliances
+TNSR Appliances
+Compare All Appliances
+Customer Stories
+
+Read customer stories to learn how pfSense Plus and TNSR software empower their businesses while saving precious budget.
+
+All Customer Stories
+By Solution
+Firewall
+Router
+VPN
+Attack Prevention
+
+ 
+
+High-Performance Edge Routing
+High-Throughput Site-to-Site IPsec
+By Industry
+Construction
+Defense
+Education
+Healthcare
+IT Services
+Featured Story
+USNS Mercy
+
+U.S. Navy deploys pfSense Plus software on the Netgate 1537 and AWS Cloud for network security and management.
+
+Read Full Story
+Why Netgate?
+Industry-Leading Open
+Source Contribution and Leverage
+
+The power of open source software is evident. Netgate closes the gap between open source projects and ready-to-deploy, business-assured solutions.
+
+Price-Performance that is
+second to none
+
+Cutting-edge packet processing performance and feature sets with no-frills, flat-rate pricing that crushes proprietary alternatives.
+
+Champion of low total
+cost of ownership
+
+No hidden costs. No vendor lock-in. Easily integrated into your existing management framework.
+
+Enterprise-class
+customer support
+
+24x7 TAC Support with SLAs included to provide the business assurance you need.
+
+Proven and Trusted the
+World Over
+
+Over seven million firewall, VPN, and router installs worldwide. Netgate can fulfill virtually any day-to-day or mission-critical secure networking need.
+
+Strong Commitment to the Open Source Movement
+
+Ongoing contribution to numerous secure-networking open source projects including Clixon, DPDK, FD.io, FreeBSD, FRR, pfSense, strongSwan, and VPP.
+
+Featured Netgate Resources
+Solution Briefs
+5 Reasons Security Teams Choose pfSense Plus Firewalls
+Download Now
+Whitepapers
+Open Networking Survey Report
+Download the Report
+Latest Resources
+pfSense, FreeBSD
+Security Advisory: Potential remote command execution via DNSSL router advertisement messages
+pfSense, Releases
+Netgate Releases pfSense Plus Software Version 25.11
+TNSR, Cloud, AWS
+TNSR on AWS: A High-Performance, Cost-Saving NAT Gateway Enhancement
+See More Resources
+Change your secure networking destiny.
+Get Started
+Products
+Appliances
+pfSense Plus
+TNSR
+Applications
+pfSense Plus
+TNSR
+Customers
+Stories
+Pricing
+Appliances
+pfSense Plus
+TNSR
+Training & Professional Services
+Support
+FAQ
+Resources Library
+Professional Services
+Training
+Community Forum
+Documentation
+Contact Support
+Security
+Company
+About Us
+Blog
+Press
+Careers
+Partners
+Legal
+Privacy Policy
+Contact Us
+Subscribe to Email Updates
+ 
+ 
+ 
+ 
+Copyright 2025 Rubicon Communications LLC (Netgate). All rights reserved.

@@ -1,0 +1,786 @@
+Produto
+Empresa
+Planos
+Login
+Comece agora
+Aviso de Cookies seguro e intuitivo
+
+Adeque seus sites com a melhor plataforma de gestão de cookies e consentimentos da LGPD.
+
+Atenda a 40+ legislações em menos de 10 minutos!
+
+Experimente agora
+Falar com especialista
+
+Melhor CMP
+
+Adequando mais de 40.000 sites pelo mundo
+Você não está sozinho na adequação à LGPD
+
+Afinal, consentimento é coisa séria!
+
+Na AdOpt priorizamos a privacidade, a transparência e a usabilidade em todos os momentos, valorizando o design do seu site.
+
+Seu site seguro
+
+Uma plataforma de gestão de consentimentos completa para todos os tipos e tamanhos de sites ou empresas
+
+Comece agora
+
+Gestão descomplicada
+
+Configure e gerencie todos os seus scripts de forma simples e intuitiva. Coloque o seu aviso de cookies no ar em poucos minutos
+
+Comece agora
+
+Design moderno
+
+Leve, simples e enxuto. Mantenha a experiência de navegação do seu site, sem comprometer a segurança e tempo de carregamento
+
+Comece agora
+
+Suporte humanizado
+
+Nosso chat é praticamente uma consultoria em LGPD. Temos vídeos tutoriais, artigos no blog e newsletters feitos pra você, sem advoguês!
+
+Comece agora
+A Plataforma de Gestão de Consentimentos
+mais fácil de usar do G2
+
+A AdOpt recebe excelentes avaliações por sua tecnologia, facilidade de implementação e suporte ao cliente, feitas por startups e até grandes empresas.
+
+Agendar com um especialista
+Nossos Planos
+
+Qual é o tamanho do seu desafio?
+
+Tecnologia de ponta trabalhando 24/7 pela melhor comunicação,
+
+registro e armazenamento criptografado dos seus consentimentos.
+
+Anual (-20%)
+Mensal
+
+Starter
+
+grátis
+
+pra sempre
+
+Começar
+1 aviso de cookies
+5.000 visitantes únicos/mês
+Customização básica
+Multilegislações
+Multi-idiomas
+Registro de consentimentos
+Escâner de cookies
+Relatório de cookies
+Bloqueio de tags de terceiros
+Bloqueio automático de vídeos
+Tags e scripts inativos por padrão
+Verificação manual da instalação
+Integração com o GTM
+Notificações do DPO
+Gerador de documentos
+Google Consent Mode v2
+SLA de até 48 horas
+Suporte via ticket e e-mail
+Recursos adicionais (add-ons)
+RECOMENDADO
+
+Business
+
+U$ 12 / mês
+
+pagamento anual
+
+Começar
+Até 3 avisos de cookies
+50K visitantes únicos/mês
+Ícone personalizado
+Indicadores e métricas
+Personalização dos textos do aviso
+Template moderno
+Ocultar controlador após o aceite
+Relatório mensal de consentimentos
+Baixar relatório de consentimentos
+Escâner mensal de cookies
+Relatório mensal de cookies
+Bloqueio automático de tags
+Verificação mensal da instalação
+Links de documentos customizados
+Atualizações automáticas da política de cookies
+Página de requisições (opt-out)
+Convidar membros
+TCF 2.2
+SLA de até 36 horas
+Recursos adicionais (add-ons)
+
+Pro
+
+U$ 29 / mês
+
+pagamento anual
+
+Começar
+Até 10 avisos de cookies
+500K visitantes únicos/mês
+Personalização avançada
+Tema claro e escuro
+Preferências de idiomas
+Registro de auditoria
+Página de requisições personalizada
+Módulos para atualizar o consentimento
+Acessibilidade
+Consent wall
+Tempo de vida do consentimento
+Consentimento entre sites
+Versionamento do aviso de cookies
+Múltiplas organizações
+SLA de até 24 horas
+Suporte via chat
+Recursos adicionais (add-ons)
+
+Enterprise
+
+U$ 59 / mês
+
+pagamento anual
+
+Começar
+Até 30 avisos de cookies
+1M visitantes únicos/mês
+Gerente de conta dedicado
+Relatório semanal de consentimentos
+Escâner semanal de cookies
+Relatório semanal de cookies
+Escâner autenticado
+Verificação semanal da instalação
+APIs
+Callbacks e webhooks
+SSO (single sign-on)
+SLA de até 12 horas
+Recursos adicionais (add-ons)
+
+Temos planos personalizados para a sua empresa. Fale com um especialista.
+
+Comparar planos
+Trabalhamos 24/7 pela sua adequação
+47.064
+Usuários na plataforma
+8.382.891.797
+Consentimentos
+23.101
+Empresas seguras
+Algumas de nossas funcionalidades
+Personalize o estilo do seu aviso
+
+Customize as cores, ícone e posicionamento do seu aviso de cookies para melhor se adequar à identidade visual do seu site.
+
+Você também pode editar os textos do aviso, nos mais de 40 idiomas disponíveis, em poucos cliques.
+
+Personalize tudo como desejar:
+
+Defina a posição e formato do aviso.
+
+Altere as cores dos elementos, incluindo botões e links.
+
+Personalize o ícone do controlador com seu logo.
+
+Customize os textos e fontes.
+
+Opções separadas para os temas claro e escuro.
+
+Identifique as tags do seu site
+
+Utilize nosso escâner automático para a buscar todas as tags que ativam rastreadores, como cookies, local storage e session storage.
+
+Classifique as tags por finalidade, conforme as leis exigem, e facilite o entendimento dos usuários:
+
+Cookies necessários para o funcionamento do site.
+
+Cookies das plataformas de marketing.
+
+Cookies para coleta de estatísticas.
+
+Cookies para melhorar a performance.
+
+Cookies funcionais.
+
+Gerencie indicadores e métricas
+
+Acesse diversos gráficos de consentimentos, acessos únicos e solicitações dos titulares num único lugar, separados por aviso e por organização.
+
+Os dados são dinâmicos, atualizados diariamente e prontos para serem compartilhados em reuniões ou exportados como relatórios, facilitando a tomada de decisões e a gestão dos dados.
+
+Contagem de visitantes únicos
+
+Números totais de consentimentos fornecidos.
+
+Solicitações dos titulares de dados.
+
+Organizado por aviso e por organização.
+
+Atualização diária.
+
+Tudo no seu devido lugar
+
+Gerencie as informações, métricas, indicadores e equipes em ambientes distintos. Solução ideal para Agências de Marketing e equipes que administram múltiplos sites de clientes.
+
+Organize sua equipe de forma simples, atribuindo permissões de acordo com a função de cada membro. Tudo bem organizado por perfil de acesso, sem complicações.
+
+Tipos de membros e suas funções:
+
+Dono - Gerencia os usuários e faturamento da conta.
+
+Administrador - Configuração e manutenção da plataforma.
+
+DPO - Recebe notificações com as requisições dos titulares.
+
+Analista - Visualiza métricas e atualiza relatórios.
+
+Apenas visualização - Ideal para clientes de agências.
+
+Aviso multilegislações e idiomas
+
+Com a AdOpt, sua empresa estará em conformidade com mais de 40 leis de proteção de dados internacionais, incluindo LGPD, GDPR e CCPA. O aviso de cookies se ajusta automaticamente à legislação do país de acesso.
+
+Sem a necessidade de configurações adicionais, os textos do aviso, da política de privacidade e da página de requisições de dados são exibidos conforme o idioma do navegador do usuário.
+
+Veja como funciona:
+
+Identifica o idioma do navegador do usuário e exibe os textos na linguagem correta.
+
+Ajusta o conteúdo à regulamentação local com base na geolocalização do usuário do seu site.
+
+Atualiza automaticamente para todas as leis de proteção de dados do mundo!
+
+Conecte com seus serviços
+
+Com a nossa API e webhooks você pode alimentar seu CRM, ERP, gerenciador de tarefas ou outro sistema com os dados da AdOpt.
+
+Algumas das nossas integrações:
+
+Google Tag Manager (GTM) e Google Consent Mode.
+
+TCF (Transparency & Consent Framework).
+
+GPC (Global Privacy Control) e GPP (Global Privacy Platform).
+
+Plugins para Tray e Wordpress.
+
+Callbacks, webhooks e APIs.
+
+Adequação a todas as leis de proteção de dados, em + de 40 países e idiomas.
+
+LGPD
+
+PIPEDA
+
+Law 25
+
+PIPA
+
+TDPSA
+
+FDBR
+
+OCPA
+
+CPA
+
+CCPA
+
+UCPA
+
+VCPA
+
+CTDPA
+
+GDPR
+
+CNIL
+
+nFADP
+
+UK-GDPR
+
+PIPL
+
+DPDPA
+
+APPI
+
+PDPL
+
+PDP
+
+PDPA
+
+PDPA
+
+POPIA
+
+APA
+
+CNIL
+
+nFADP
+
+UK-GDPR
+
+PIPL
+
+DPDPA
+
+APPI
+
+PDPL
+
+PDP
+
+PDPA
+
+PDPA
+
+POPIA
+
+APA
+
+LGPD
+
+PIPEDA
+
+Law 25
+
+PIPA
+
+TDPSA
+
+FDBR
+
+OCPA
+
+CPA
+
+CCPA
+
+UCPA
+
+VCPA
+
+CTDPA
+
+GDPR
+
+Como funciona a instalação?
+
+Um aviso de cookies em 7 passos
+1
+Cadastre as URLs do aviso de cookies
+2
+Escolha as cores, textos e estilo
+3
+Suba ou gere os documentos e políticas
+4
+Defina o DPO para o Opt-out
+5
+Escaneie o site e classifique as tags
+6
+Revise o bloqueio dos cookies
+7
+Instale no seu site e pronto!
+Não deixe para depois!
+
+Pare de procrastinar essa tarefa, e risque logo essa pendência da sua lista.
+
+Começar agora
+Aprenda mais sobre a LGPD e cookies em nosso blog
+Tudo sobre a Lei Geral de Proteção de Dados (LGPD)
+
+Lei Geral de Proteção de Dados – LGPD: o que é, por que ela existe, como funciona, a quem se aplica, multas, adequação, seus princípios e muito mais...
+
+lgpd
+encarregado de dados
+
+20 Mai 2022
+
+Como escolher um banner de cookies para o seu site?
+
+Qual o melhor banner de cookies para o seu site, e como escolher em meio as tantas opções do mercado? Vamos te ajudar!
+
+aviso de cookies
+cookies
+
+20 Mai 2022
+
+Qual a política de privacidade ideal para a sua empresa?
+
+Será que existe uma Política de Privacidade à prova de falhas? Já te respondo prontamente: Não. E, vou te ajudar e entender o porquê!
+
+lgpd
+dpo
+
+20 Mai 2022
+
+Conheça nosso blog
+Depoimentos de alguns dos nossos clientes
+
+Excelente ferramenta de Gestão de Consentimento e Privacidade conforme os preceitos da LGPD
+
+A AdOpt garante a conformidade com a LGPD gerenciando o consentimento do usuário para a coleta de dados. Sua interface fácil de usar permite uma configuração rápida e total personalização do banner de cookies. A AdOpt prioriza a privacidade, segurança e confiança do usuário, oferecendo suporte eficiente para uma implementação e uso contínuos.
+
+Alexandro C.
+
+5 / 5
+
+Uma solução simples e eficiente para gestão de cookies
+
+A AdOpt simplifica o gerenciamento da conformidade com cookies por meio de uma interface intuitiva e opções de personalização, garantindo a conformidade com o GDPR e a LGPD. A ferramenta aumenta a transparência, confiança e segurança, enquanto protege contra riscos legais. O excelente suporte ao cliente ajuda os usuários com a configuração e personalização avançada para uma experiência sem interrupções.
+
+William H.
+
+5 / 5
+
+Boa plataforma, eficiente e fácil de usar
+
+A plataforma AdOpt é fácil de usar, com uma implementação suave, mesmo para usuários não técnicos. Ela oferece excelente suporte ao cliente, proporcionando segurança e confiança aos usuários. A plataforma se integra bem com outros dispositivos e atende aos padrões de privacidade e proteção de dados, aumentando a confiança e credibilidade para os negócios.
+
+Vitória C.
+
+5 / 5
+
+Grande ajuda na implementação da LGPD
+
+O que mais gosto na AdOpt é sua simplicidade e intuição, além da versão de teste gratuita inicial, que nos permitiu testar a ferramenta. A equipe de suporte tem sido incrivelmente útil. Ela resolveu nossas necessidades de conformidade com a LGPD, gerenciando o consentimento dos usuários para os cookies, nos protegendo de multas e garantindo conformidade legal.
+
+Vanessa P.
+
+5 / 5
+
+Completo!
+
+O que mais gosto na AdOpt é seu sistema abrangente, que verifica todas as etapas necessárias para a conformidade com a LGPD, oferecendo facilidade de uso, instalação e suporte gratuito. No entanto, sinto falta da capacidade de analisar os cookies em todo o site e enfrentei problemas com a instalação do GTM em um site estático. A AdOpt ajuda a garantir uma gestão de privacidade clara e organizada para os visitantes do site, cumprindo os requisitos da LGPD.
+
+Daniel Ubaldo A.
+
+5 / 5
+
+Segurança, facilidade e conformidade em poucos cliques
+
+A AdOpt simplifica o gerenciamento de consentimento, garantindo a conformidade com a LGPD. Sua interface intuitiva, fácil implementação e banner de cookies personalizável aumentam a segurança e a transparência sem complicações. A equipe de suporte está sempre disponível, tornando-o uma solução ideal para empresas que buscam conformidade e confiança.
+
+Willy A.
+
+5 / 5
+
+AdOpt O melhor banner de cookies para a conformidade do seu site!
+
+A AdOpt oferece o melhor banner de cookies para conformidade, ajudando as empresas a gerenciar o consentimento e a cumprir com as regulamentações de privacidade. Ele fornece uma ferramenta personalizável que simplifica o gerenciamento de privacidade, oferecendo uma solução contínua para desabilitar a coleta de cookies enquanto garante a conformidade legal.
+
+Jesus M.
+
+5 / 5
+
+Excelente plataforma!!!
+
+A AdOpt se destaca pela facilidade de uso, implementação rápida e excelente suporte ao cliente, tornando-se essencial para as operações diárias. Ele simplifica a conformidade com a LGPD e aumenta a confiança do consumidor. Embora a plataforma seja eficaz, melhorar a localização das diretrizes de uso poderia aprimorar ainda mais a experiência.
+
+Nathalia S.
+
+5 / 5
+
+AdOpt: Gestão Eficiente de Consentimento e LGPD
+
+A AdOpt é uma solução essencial e intuitiva para conformidade com a LGPD, oferecendo gerenciamento personalizável de consentimento e cookies. Ele garante conformidade legal, transparência e segurança de dados, com excelente suporte técnico. Embora a integração possa exigir ajustes avançados, tutoriais para iniciantes seriam úteis para novos usuários.
+
+Leonardo d.
+
+5 / 5
+
+Simplicidade e Eficiência em Gestão
+
+A AdOpt oferece uma solução prática e intuitiva para conformidade legal e proteção de dados, ajudando a evitar multas e aumentar a confiança do usuário. Seus planos acessíveis e interface fácil de usar tornam a criação e o gerenciamento de avisos simples e eficientes, garantindo que o compromisso com a privacidade seja claro.
+
+Deusdete F.
+
+5 / 5
+
+AdOpt: Uma solução simples e eficaz para conformidade
+
+A AdOpt foi um divisor de águas para nossas necessidades de conformidade com a privacidade, simplificando o gerenciamento de consentimento e garantindo a adesão legal. A configuração fácil, a integração sem falhas e as opções de personalização tornam-no uma excelente ferramenta. Tem sido confiável, com suporte excepcional ao cliente ajudando a adaptar a solução às nossas necessidades.
+
+Rafael O.
+
+5 / 5
+
+Facilidade de configuração e implementação
+
+A AdOpt se destaca pela fácil implementação e tutoriais úteis, tornando o processo de configuração simples. As atualizações regulares focam na melhoria da conformidade com a LGPD e nas ferramentas de controle. Oferece grande valor para pequenas empresas ao equilibrar custos de aquisição e implementação, garantindo total conformidade com as leis brasileiras de proteção de dados.
+
+Reginaldo P.
+
+5 / 5
+
+Configuração e integração fácil ao site
+
+A AdOpt oferece uma plataforma intuitiva e visualmente atraente, com etapas claras e artigos úteis sobre conformidade com a LGPD. O suporte gratuito é excelente, oferecendo dicas valiosas mesmo no plano gratuito. Ele ajuda a construir confiança com os visitantes, garantindo conformidade com a LGPD, CCPA e GDPR. Uma opção de barra de rodapé horizontal seria uma ótima adição.
+
+Reginaldo F.
+
+5 / 5
+
+Instalamos o Adopt e estamos muito confiantes nos resultados
+
+A AdOpt nos impressionou pela facilidade de uso, interface intuitiva de consentimento e excelente suporte ao cliente. Tem sido crucial na nossa adaptação à LGPD, gerenciando o consentimento do usuário para cookies e garantindo a conformidade legal. Esta solução ajuda a evitar multas, proporcionando maior segurança e transparência para nossos clientes.
+
+Marcelo Wilson F.
+
+5 / 5
+
+Ótima ferramenta e fácil instalação
+
+A AdOpt se destaca pela interface amigável, gerenciamento eficiente de consentimento e excelente suporte ao cliente. Tem sido essencial na nossa conformidade com a LGPD, garantindo a adesão legal e o gerenciamento do consentimento de cookies. Esta solução melhora a segurança e transparência, ajudando a evitar multas potenciais.
+
+Thallissom D.
+
+5 / 5
+
+Eficaz e Fácil de usar!
+
+A AdOpt oferece um banner simples e elegante que não interfere na identidade visual ou na experiência do usuário do site. A configuração rápida e intuitiva e o suporte excepcional personalizado tornaram a conformidade com a LGPD fácil de alcançar. Ele gerencia eficazmente o rastreamento de cookies e as políticas de proteção de dados, oferecendo uma solução eficiente e sem interrupções.
+
+Romário M.
+
+5 / 5
+
+Fácil, rápido e eficiente
+
+A AdOpt oferece eficiência excepcional, com instalação e manutenção fáceis que permitem aos desenvolvedores colocar a ferramenta em funcionamento rapidamente. Ele garante conformidade com a LGPD, simplifica o gerenciamento de cookies e permite que os desenvolvedores criem fluxos de trabalho complexos sem a necessidade de conhecimentos técnicos. Altamente eficaz, é uma recomendação de primeira linha!
+
+Ana Luisa C.
+
+5 / 5
+
+Ótima ferramenta para LGPD
+
+A ferramenta GoAdopt é essencial para a conformidade com a LGPD, oferece instalação e personalização fáceis, reforça a confiança do usuário e possui um excelente suporte.
+
+Caio N.
+
+5 / 5
+
+Excelente empresa e excelente atendimento ao cliente.
+
+A AdOpt é altamente intuitivo, com excelente suporte disponível até no plano gratuito. Ele nos ajuda a alinhar nosso site aos padrões de privacidade, garantindo a conformidade com a LGPD e protegendo nossa empresa. Não tenho pontos negativos a mencionar – é uma ferramenta valiosa para manter a privacidade e a segurança.
+
+Renan M.
+
+5 / 5
+
+AdOpt é excelente para garantir a conformidade com a LGPD!
+
+Como Analista de Segurança da Informação, aprecio a AdOpt pela sua funcionalidade, design amigável e forte foco na segurança do cliente. Tem sido uma solução crucial para a conformidade da nossa empresa com a LGPD em Pompéia/SP, resolvendo questões como encontrar um fornecedor seguro e oferecendo suporte pós-compra confiável. A ferramenta simplificou um processo de conformidade complexo.
+
+Wallace T.
+
+5 / 5
+
+Muito simples de usar, robusto e com um suporte fabuloso.
+
+A AdOpt me impressionou pela fácil instalação e personalização, permitindo controle total sobre o design do meu banner de cookies, mesmo no plano gratuito. O suporte foi excepcional, entrando em contato de forma proativa, sem nenhuma pressão de vendas. A AdOpt ajuda a garantir a conformidade com as leis de privacidade e cookies, oferecendo uma solução sem complicações.
+
+Vanda C.
+
+5 / 5
+
+Melhor gerenciador de cookies que já usamos
+
+A AdOpt é a melhor solução que usamos para conformidade com a LGPD, oferecendo recursos exclusivos que outras ferramentas não têm. É perfeito para nossas necessidades no setor de saúde, permitindo opções personalizáveis para os usuários gerenciarem seus dados. Não temos reclamações e recomendamos muito pela sua eficácia e adaptabilidade.
+
+Naiane N.
+
+5 / 5
+
+Eficiência em todos os aspectos.
+
+A AdOpt desempenha um papel fundamental na garantia da conformidade com as regulamentações de privacidade, promovendo confiança e transparência no manuseio de dados pessoais. Ele auxilia em auditorias da LGPD, criação de políticas e desenvolvimento de melhores práticas. A ferramenta oferece proteção legal para a empresa, beneficiando os clientes ao garantir sua conformidade e tranquilidade.
+
+Otavio C.
+
+5 / 5
+
+Ótima ferramenta para uso, pois é simples e fácil de configurar.
+
+A AdOpt se destaca pelo seu design intuitivo, facilidade de uso e excelente suporte ao cliente. Ele oferece mais funcionalidades do que outros plugins que testei, incluindo configuração fácil, personalização, suporte a idiomas e gerenciamento eficiente de consentimento. Tem sido inestimável para garantir a conformidade com as leis de privacidade.
+
+Alexandre C.
+
+5 / 5
+
+Fiquei impressionado!
+
+A AdOpt se destaca pelo seu processo de implementação simples e passo a passo, facilitando o início rápido na conformidade com a LGPD. A plataforma agrega valor significativo e oferece excelente suporte, mesmo para usuários do plano gratuito. Tem sido crucial para me ajudar a atender aos requisitos da nova Lei Geral de Proteção de Dados do Brasil.
+
+Luiz Fernando O.
+
+5 / 5
+
+Fácil de implementar e serviço de excelência
+
+A AdOpt é o melhor plugin de LGPD que encontrei, com fácil implementação e um atendimento excepcional durante todo o processo — pré-venda, suporte e pós-venda. A equipe me deu total confiança nos aspectos legais de usar o plugin. Ele ajuda a garantir que nosso site esteja em conformidade com as regulamentações de privacidade.
+
+Carlos M.
+
+5 / 5
+
+Sistema completo, fácil e rápido de implementar!
+
+A AdOpt oferece o melhor custo-benefício entre as soluções de gerenciamento de cookies, com um painel fácil de usar e orientações claras para implementação. Ele garante conformidade com a LGPD e o GDPR, promovendo transparência e autonomia enquanto segue as melhores práticas de privacidade e proteção de dados. O sistema é eficiente, abrangente e altamente benéfico para as organizações.
+
+Marcelo C.
+
+5 / 5
+
+Simplicidade no atendimento e suporte que transmite segurança para iniciantes na internet.
+
+O excelente serviço e suporte da AdOpt foram cruciais para manter a conformidade com a LGPD e o GDPR. Sua plataforma fácil de usar economiza tempo, reduz riscos legais e melhora a experiência do usuário, permitindo que eu me concentre no crescimento dos negócios enquanto garante a privacidade e confiança com os clientes.
+
+Tamires Peppinelli C.
+
+5 / 5
+
+A melhor solução em gerenciamento de cookies.
+
+A AdOpt é um aliado essencial na gestão de múltiplas empresas e sites, oferecendo uma interface fácil de usar e garantindo a conformidade com as diretrizes da ANPD. Suas atualizações constantes sobre regulamentações e a equipe de suporte excepcional agilizam as operações, reduzem os riscos e oferecem tranquilidade. A única área a ser melhorada é a documentação.
+
+Renato F.
+
+5 / 5
+
+Simples, prático e altamente funcional
+
+A AdOpt é uma ferramenta fácil de usar que oferece conformidade rápida com as leis de proteção de dados, mesmo para leigos como eu. Seu excelente suporte e plataforma rica em recursos permitem uma implementação simples e análise eficaz de dados. No geral, é uma ferramenta fantástica, sem reclamações.
+
+Kaique S.
+
+5 / 5
+
+Muito bom!
+
+A AdOpt se destaca pelo excelente suporte técnico, oferecendo soluções rápidas e confiáveis, especialmente para aqueles sem profundo conhecimento técnico sobre regulamentações de cookies. Ele me permite focar no meu negócio principal enquanto garante a conformidade com a segurança. Uma área de melhoria é a documentação, mas isso não afeta a qualidade geral.
+
+Dennyson O.
+
+5 / 5
+
+Simples, prático e com ótimo atendimento!
+
+A AdOpt é uma ferramenta fácil de usar que simplifica a conformidade com a LGPD, tornando fácil para aqueles sem conhecimento técnico atender aos requisitos de proteção de dados. O excelente suporte técnico facilita ainda mais a instalação e implementação. Ele garante a conformidade com as leis de cookies, beneficiando a segurança jurídica do meu site.
+
+Rafael N.
+
+5 / 5
+
+GoAdopt: Do MVP à Solução Definitiva em Consentimentos e Cookies
+
+A AdOpt atende efetivamente aos padrões da LGPD e GDPR, simplificando o gerenciamento de cookies e consentimento. Com uma interface amigável, economiza tempo ao identificar automaticamente novas tags e categorizá-las. Seu preço justo, forte suporte técnico e foco no feedback dos usuários fazem dele uma solução confiável e eficiente.
+
+Francis T.
+
+5 / 5
+
+Uma das melhores soluções para a lei de proteção de dados
+
+A AdOpt oferece uma configuração fácil via Google Tag Manager, com recursos como download de dados, solicitações de exclusão de dados e uploads de modelos de políticas. A plataforma ajuda a garantir a conformidade com a LGPD, proporcionando segurança e tranquilidade para os clientes. Uma melhoria poderia ser planos mais flexíveis para agências e faturamento em múltiplas moedas.
+
+Lincoln C.
+
+5 / 5
+
+Simples, fácil e leve
+
+A AdOpt oferece atualizações e configurações fáceis de usar, com suporte rápido e eficaz. A capacidade de personalizar o widget com a identidade visual da empresa é um ótimo recurso. Ele ajuda a garantir a conformidade com a LGPD. Uma melhoria sugerida seria permitir a configuração de múltiplos domínios no plano gratuito. Altamente recomendado!
+
+Ismael D.
+
+5 / 5
+
+Eu odeio Cookies, mas eu amo a ADOPT
+
+A AdOpt oferece recursos completos com excelente suporte, facilitando a implementação em vários sites. Embora possa levar algum tempo para entender, vale muito a pena o esforço, pois supera outros softwares de cookies. Ele aborda de forma eficaz os requisitos globais de legislação sobre cookies, beneficiando os usuários ao garantir conformidade.
+
+Simon W.
+
+5 / 5
+
+Perguntas Frequentes
+Por que eu devo usar a AdOpt?
+
+AdOpt é a melhor opção para os sites que utilizam cookies, e que optaram pelo Consentimento como a Base Legal que ampare a a coleta de dados pessoais.
+
+Nosso sistema, planejado dentro dos conceitos de Privacy by Design, informa os usuários do seu site, de maneira transparente, quais dados são coletados e gerencia todos os consentimentos atualizados, como é exigido na LGPD. Isso garante que você fique seguro e cria uma relação de confiança com seus usuários.
+
+Para maiores informações, separamos esses artigos para você:
+
+Tudo sobre a Lei Geral de Proteção de Dados - LGPD
+Entenda o que são as Bases Legais da LGPD
+Como escolher um banner de cookies para o seu site?
+Meu site precisa de um aviso de cookies?
+Por que não usar aqueles avisos: "Ao continuar navegando, você concorda com o uso de cookies…"?
+Vou estar completamente seguro para a LGPD usando a AdOpt?
+Preciso de um programador para configurar?
+Quais dados do usuário eu tenho acesso com a AdOpt?
+Quais as formas de pagamento?
+Seu site adequado em minutos!
+
+Somos a melhor Plataforma de Gerenciamento de Consentimento (CMP).
+
+Simples, direta e sempre em conformidade.
+
+Comece agora
+
+Endereço: 7345 W Sand Lake Road, Ste 210 Office 5898 Orlando, FL 32819
+
+EIN: 86-3965064
+
+Telefone: +1 (407) 768-3792
+
+AdOpt
+
+Página Inicial
+Benefícios
+Planos
+Perguntas Frequentes
+
+Recursos
+
+Blog
+Documentação
+Integrações
+Termos de Uso
+Política de Privacidade
+
+Produto
+
+Callbacks e APIs
+Customização Avançada
+Escâner de Tags
+Escâner Autenticado
+Gerador de Documentos
+Google Consent Mode
+Google Tag Manager
+Indicadores e Métricas
+Notificações DPO
+Multilegislações
+Portal de Privacidade
+Rede de Consentimentos
+Registros de Auditoria
+Reset de Consentimentos
+Times e Organizações
+White Label
+
+Certificações
+
+© GO ADOPT, LLC desde 2020 • Feito por pessoas que amam🍪

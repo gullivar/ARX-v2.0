@@ -1,0 +1,55 @@
+Comprehensive Perl Archive Network
+
+YOU CAN NEVER HAVE TOO MANY PERL MODULES
+
+
+
+Home
+Modules
+Ports
+Perl Source
+FAQ
+Mirrors
+Search:  
+
+
+Welcome to CPAN
+
+The Comprehensive Perl Archive Network (CPAN) currently has 225,413 Perl modules in 46,219 distributions, written by 14,646 authors, mirrored on 1 servers.
+
+The archive has been online since October 1995 and is constantly growing.
+
+Search CPAN via
+metacpan.org
+	
+Recent Uploads
+OpenAPI-Modern-0.119
+App-cpm-0.998003
+Astro-SpaceTrack-0.171_01
+Term-ANSIEncode-1.60
+IO-Async-Pg-0.001001
+CPANSA-DB-20251228.001
+Crypt-SecretBuffer-0.017
+Geo-GeoNames-1.15
+App-Test-Generator-0.24
+PAGI-0.001011
+more...
+	
+Getting Started
+Installing Perl Modules
+Learn Perl
+How to contribute
+Read this
+Visit https://pause.perl.org/
+Perl Resources
+The Perl Programming language
+Perl Documentation
+Mailing Lists
+Perl FAQ
+
+
+
+Yours Eclectically, The Self-Appointed Master Librarians (OOK!) of the CPAN.
+© 1995-2010 Jarkko Hietaniemi. © 2011-2024 Perl.org. All rights reserved. Disclaimer.
+
+Master mirror hosted by  and 

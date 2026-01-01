@@ -1,0 +1,15 @@
+ZOSTAŁEŚ ZABLOKOWANY
+
+Brak dostępu na stronę www.sts.pl
+
+Dlaczego to widzę?
+
+Nasz system wykrył nietypowy ruch z Twojej sieci komputerowej i zablokował dostęp do naszego serwisu. Opisywany ruch może być generowany przez złośliwe oprogramowanie, wtyczkę przeglądarki lub skrypt wysyłający zautomatyzowane żądania.
+
+Co mogę zrobić?
+
+Jeśli korzystasz ze współdzielonego połączenia sieciowego, poproś o pomoc administratora - wina może leżeć po stronie innego komputera, który używa tego samego adresu IP. W razie wątpliwości skontaktuj się z naszą pomocą techniczną pod adresem kontakt@sts.pl, podając w treści poniższe informacje:
+
+Twoje IP: 221.138.189.189
+
+Ray ID: 9b65cadec81b89c0

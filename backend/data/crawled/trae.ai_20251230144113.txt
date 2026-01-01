@@ -1,0 +1,168 @@
+Product
+Pricing
+Blog
+Docs
+Changelog
+Community
+Log in
+Download
+⚡️ TRAE SOLO is generally available.
+Explore now
+heIng
+Ship Faster with TRAE
+
+Understand. Execute. Deliver.
+
+TRAE is your 10x AI Engineer who can independently build software solutions for you.
+
+Download TRAE
+Explore SOLO
+All Downloads
+TRAE 3.0
+Go SOLO with TRAE
+The responsive coding agent that ships at full speed.
+Explore SOLO
+What You'll Unlock
+with TRAE
+[00]
+[01]
+[02]
+[03]
+From Idea to Launch: AI Integrated Into the Entire Development Lifecycle
+Ship Autonomously with TRAE SOLO
+Seamless Switch Between IDE and SOLO
+Multi Agents for Better Problem-Solving
+TRAE understands your vision, plans the development workflow, utilizes the right tools, executes with precision and deploys production-ready code, turning your ideas into software.
+SOLO is our most advanced coding agent. It is truly responsive to your ideas, your context, and your workflow. Delegate tasks and watch it ship complete solutions with the right context and tools. You stay visually in control while AI handles the complexity.
+We give you granular control over how you work with AI. IDE mode brings agentic capabilities into your traditional coding workflow. SOLO mode unleashes a fully autonomous coding agent that drives the entire development process from start to finish.
+Built-in agents come with their own expertise right out of the box. Customize your own agents that can handle specific tasks. Your agents can plan, execute, and act as sub-agents to tackle complex challenges together. TRAE also supports an open agent ecosystem where you can share and discover community-built agents.
+Ship Faster with TRAE
+
+TRAE IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.
+
+Build your own agent team
+TRAE gives you a powerful, open agent framework. Start with built-in agents for common tasks, or create custom agents tailored to your specific workflow—define their tools, skills, and logic to make them true specialists. Deploy them as standalone agents or as sub-agents that other agents can call upon. Build an AI team that truly works for you.
+Smart tool integration
+TRAE agents adapt by pulling in exactly what they need, when they need it. Through Model Context Protocol (MCP), agents can access external resources on demand. The built-in preview tab turns browser into a development tool—agents can interact with elements, read console logs, and debug in real-time. Everything responds intelligently to your workflow's changing context.
+More context, more accuracy
+TRAE can deeply understand your development context through your code repositories on the IDE, as well as external information from online searches and documents that you share.You can customize rules to precisely tailor AI behavior to your workflow, enabling it to execute tasks exactly as you envision.
+Predicts your next edit with a single Tab
+CUE understands your intent deeper and anticipates your next move with just one keystroke. Hit Tab to jump to the next change, or apply smart suggestions across multiple lines at once. We've optimized our model to think ahead with you. Just Tab.
+Loved by Devs
+TRAE is popular among developers worldwide.
+TRAE has already reached 2.0, with a brand new look and a big splash. One reason I like @Trae_ai is its gorgeous, thoughtful design. These nuanced details make it feel like a carefully crafted product
+Elliot
+My team has been using @Trae_ai for 2 months now, and it's been a pretty solid experience. As our codebase got bigger and more complex, we needed a tool that could actually understand our codebase and pull in outside context. That's where SOLO really started to shine. Our productivity has gone way up with SOLO
+Hendrix
+I'm super happy with how @Trae_ai performs. If you haven't tried you're missing out man.
+Néstor
+To cut to the chase, the SOLO mode is way more powerful than I imagined. From requirements definition to implementation, DB integration, deployment—everything is handled by AI
+Nogu
+I'm seriously using Trae more than Cursor From experience, it thinks longer, deeper, and more accurately than Cursor Even for heavy tasks that involve complex changes like tinkering with parts of the architecture, it often completes them all the way to the end
+Taishi
+I recently spent a fair amount of time hacking with TRAE...lots of innovative UI/UX improvements and super stable and decently fast
+Michael
+I'm experimenting with AI tools. I've built a full-fledged application in two weeks. I know there are tools that can build it with a prompt, but doing it incrementally feels more satisfying. @Trae_ai
+AlexS
+Tested multiple AI coding platforms and I have to say @Trae_ai has surpassed them all. Massive applause and respect for the effort!
+Ast JXS
+@Trae_ai is the most beautiful code editor I've ever used. And it works as well as it looks. It's by far my best VSCode replacement right now.
+Miracleio✨
+I am impressed with @Trae_ai . I've used competitors for a while now, I can confidently say TRAE is my new favorite daily driver. Not only is it quick, it's stylish! I love the way it looks, refreshing to work in and extremely responsive.
+0xKerryu
+TRAE has already reached 2.0, with a brand new look and a big splash. One reason I like @Trae_ai is its gorgeous, thoughtful design. These nuanced details make it feel like a carefully crafted product
+Elliot
+My team has been using @Trae_ai for 2 months now, and it's been a pretty solid experience. As our codebase got bigger and more complex, we needed a tool that could actually understand our codebase and pull in outside context. That's where SOLO really started to shine. Our productivity has gone way up with SOLO
+Hendrix
+I'm super happy with how @Trae_ai performs. If you haven't tried you're missing out man.
+Néstor
+To cut to the chase, the SOLO mode is way more powerful than I imagined. From requirements definition to implementation, DB integration, deployment—everything is handled by AI
+Nogu
+I'm seriously using Trae more than Cursor From experience, it thinks longer, deeper, and more accurately than Cursor Even for heavy tasks that involve complex changes like tinkering with parts of the architecture, it often completes them all the way to the end
+Taishi
+I recently spent a fair amount of time hacking with TRAE...lots of innovative UI/UX improvements and super stable and decently fast
+Michael
+I'm experimenting with AI tools. I've built a full-fledged application in two weeks. I know there are tools that can build it with a prompt, but doing it incrementally feels more satisfying. @Trae_ai
+AlexS
+Tested multiple AI coding platforms and I have to say @Trae_ai has surpassed them all. Massive applause and respect for the effort!
+Ast JXS
+@Trae_ai is the most beautiful code editor I've ever used. And it works as well as it looks. It's by far my best VSCode replacement right now.
+Miracleio✨
+I am impressed with @Trae_ai . I've used competitors for a while now, I can confidently say TRAE is my new favorite daily driver. Not only is it quick, it's stylish! I love the way it looks, refreshing to work in and extremely responsive.
+0xKerryu
+TRAE is hands down my favorite AI IDE—smarter, sleeker, and outpacing Cursor and Windsurf every time. Just waiting on those model settings for new and local models to unlock its full potential. Ps: Love the UI/UX
+sapienapp
+You know what, @Trae_ai is my best mate now! He's teaching me Rust and it's the best experience I've had so far with AIs!
+Nikita Kakuev
+I've been using @Trae_ai code edit since they launched. Wow, they have one of the greatest developer experience amongst IDEs and the productivity gain from the Builder mode really making me a 10x engineer. Great product.
+György Márk Varga
+TRAE is an AI-powered code editor that stands out for its pleasant interface and responsive features. The Builder mode enables efficient development of complete projects.
+Vincent DELBEAU
+TRAE enhances coding efficiency with smart autocompletion, making development faster and smoother!
+Colin
+Writing code has never been that easier! TRAE helps me generate efficient code on the fly. A game-changer!
+Gary
+TRAE is so freaking amazing that I'm starting to worry my job's gonna vanish into thin air.
+IndieMike
+In terms of code generation speed, TRAE is quite impressive when the network connection is good. It can quickly generate code snippets according to my requests, improving my productivity.
+ChristineCT
+The speed is quite fast. For the codes I can't understand, I just let AI translate it for me.
+newton_ls
+Switching from VS Code to TRAE is super smooth.
+James Conlon
+TRAE is hands down my favorite AI IDE—smarter, sleeker, and outpacing Cursor and Windsurf every time. Just waiting on those model settings for new and local models to unlock its full potential. Ps: Love the UI/UX
+sapienapp
+You know what, @Trae_ai is my best mate now! He's teaching me Rust and it's the best experience I've had so far with AIs!
+Nikita Kakuev
+I've been using @Trae_ai code edit since they launched. Wow, they have one of the greatest developer experience amongst IDEs and the productivity gain from the Builder mode really making me a 10x engineer. Great product.
+György Márk Varga
+TRAE is an AI-powered code editor that stands out for its pleasant interface and responsive features. The Builder mode enables efficient development of complete projects.
+Vincent DELBEAU
+TRAE enhances coding efficiency with smart autocompletion, making development faster and smoother!
+Colin
+Writing code has never been that easier! TRAE helps me generate efficient code on the fly. A game-changer!
+Gary
+TRAE is so freaking amazing that I'm starting to worry my job's gonna vanish into thin air.
+IndieMike
+In terms of code generation speed, TRAE is quite impressive when the network connection is good. It can quickly generate code snippets according to my requests, improving my productivity.
+ChristineCT
+The speed is quite fast. For the codes I can't understand, I just let AI translate it for me.
+newton_ls
+Switching from VS Code to TRAE is super smooth.
+James Conlon
+Privacy and Security
+
+TRAE prioritize protecting users' privacy and data security, adhering to the principle of "local-first" and "minimal data collection".
+
+Data Privacy Protection
+
+Codebase files are stored locally. For indexing, files may be temporarily uploaded for embedding. After processing, all plaintext is deleted. You can also use tools like Privacy Mode and the "ignore" function to limit how your data is used.
+
+Secure Data Access
+
+Strict access control and encrypted transmission are enforced to prevent unauthorized access and reduce exposure to security risks.
+
+Regional Deployment
+
+User data and infrastructure are deployed based on account location, stored in the United States, Singapore, and Malaysia, with isolation in place to meet local data regulations.
+
+Get Started with TRAE
+Try it for Free
+Download TRAE
+Terms
+Terms of Service
+Privacy Policy
+Cookie Policy
+Resources
+Docs
+Blog
+Changelog
+Connect
+Feedback
+Discord
+Reddit
+Partnerships
+
+©2025 TRAE. All rights reserved.
+
+Back to top

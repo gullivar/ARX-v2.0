@@ -1,0 +1,74 @@
+RouteViews Archive Project Page University of Oregon RouteViews Archive Project Please see www.routeviews.org for a description of the RouteViews project, bibliography, and
+    additional information. For asn.routeviews.org zone files click here or ftp from: ftp.routeviews.org/dnszones/ Data Archives MRT
+     format RIBs and UPDATEs (FRR bgpd, from route-views2.oregon-ix.net) MRT format
+	RIBs and UPDATEs (FRR bgpd, from route-views3.routeviews.org) MRT format
+	RIBs and UPDATEs (FRR bgpd, from route-views4.routeviews.org) MRT format
+	RIBs and UPDATEs (FRR bgpd, from route-views5.routeviews.org) v6 MRT
+	format RIBs and UPDATEs (FRR bgpd, from route-views6.oregon-ix.net) MRT format
+	RIBs and UPDATEs (FRR bgpd, from route-views7.routeviews.org) MRT format
+    RIBs and UPDATEs (FRR bgpd, from route-views8.routeviews.org) MRT format
+        RIBs and UPDATEs from AMS-IX (FRR bgpd, from amsix.ams.routeviews.org) MRT format
+        RIBs and UPDATEs from CIX-ATL (FRR bgpd, from cix.atl.routeviews.org) MRT format
+        RIBs and UPDATEs from CRIX (FRR bgpd, from crix.sjo.routeviews.org) MRT format
+        RIBs and UPDATEs from GETAFIX (FRR bgpd, from getafix.mnl.routeviews.org) MRT format
+        RIBs and UPDATEs from HKIX (FRR bgpd, from hkix.hkg.routeviews.org) MRT format
+        RIBs and UPDATEs from Netnod (Stockholm/Copenhagen) (FRR bgpd, from netnod.mmx.routeviews.org) MRT format
+        RIBs and UPDATEs from BDIX (FRR bgpd, from route-views.bdix.routeviews.org) MRT format
+        RIBs and UPDATEs from BKNIX (FRR bgpd, from route-views.bknix.routeviews.org) MRT format
+        RIBs and UPDATEs from Chicago (FRR bgpd, from route-views.chicago.routeviews.org) MRT format
+        RIBs and UPDATEs from NIC.cl Collector (FRR bgpd, from route-views.chile.routeviews.org) MRT format
+	RIBs and UPDATEs from Equinix Ashburn (FRR bgpd, from route-views.eqix.routeviews.org) MRT format
+        RIBs and UPDATEs from FL-IX (FRR bgpd, from route-views.flix.routeviews.org) MRT format
+        RIBs and UPDATEs from GIXA (FRR bgpd, from route-views.gixa.routeviews.org) MRT format
+        RIBs and UPDATEs from GOREX (FRR bgpd, from route-views.gorex.routeviews.org) MRT format
+        RIBs and UPDATEs from Interlan-IX (FRR bgpd, from interlan.otp.routeviews.org) MRT format
+        RIBs and UPDATEs from IIX Jakarta (FRR bgpd, from iix.cgk.routeviews.org) MRT format
+	RIBs and UPDATEs from IRAQ-IXP (FRR bgpd, from iraq-ixp.bgw.routeviews.org) MRT format
+	RIBs and UPDATEs from ISC (PAIX) (FRR bgpd, from route-views.isc.routeviews.org) MRT format
+	RIBs and UPDATEs from IXPN Lagos (IXPN) (FRR bgpd, from ixpn.los.routeviews.org) MRT format
+	RIBs and UPDATEs from KINX (FRR bgpd, from kinx.icn.routeviews.org) MRT format
+	RIBs and UPDATEs from NAMEX (FRR bgpd, from namex.fco.routeviews.org) MRT format
+	RIBs and UPDATEs from KIXP (FRR bgpd, from route-views.kixp.routeviews.org) MRT format
+	RIBs and UPDATEs from JINX (FRR bgpd, from route-views.jinx.routeviews.org) MRT format
+        RIBs and UPDATEs from LOCIX (FRR bgpd, from route-views.amsix.routeviews.org) MRT format
+	RIBs and UPDATEs from LINX (FRR bgpd, from route-views.linx.routeviews.org) MRT format
+	RIBs and UPDATEs from MWIX (FRR bgpd, from route-views.mwix.routeviews.org) MRT format
+	RIBs and UPDATEs from NAPAfrica (FRR bgpd, from route-views.napafrica.routeviews.org) MRT format
+	RIBs and UPDATEs from NWAX (FRR bgpd, from route-views.nwax.routeviews.org) MRT format
+	RIBs and UPDATEs from PacWave (FRR bgpd, from pacwave.lax.routeviews.org) MRT format
+	RIBs and UPDATEs from PIT Chile (FRR bgpd, from pit.scl.routeviews.org) MRT format
+	RIBs and UPDATEs from PIT MX (FRR bgpd, from pitmx.qro.routeviews.org) MRT format
+	RIBs and UPDATEs from PhOpenIX (FRR bgpd, from route-views.phoix.routeviews.org) MRT format
+	RIBs and UPDATEs from TELXATL (FRR bgpd, from route-views.telxatl.routeviews.org) MRT format
+	RIBs and UPDATEs from DIXIE (WIDE) (FRR bgpd, from
+	route-views.wide.routeviews.org) MRT format
+	RIBs and UPDATEs from SYDNEY (FRR bgpd, from route-views.sydney.routeviews.org) MRT format
+	RIBs and UPDATEs from SAOPAULO (formerly route-views.saopaulo.routeviews.org)
+        (FRR bgpd, from ix-br.gru.routeviews.org) MRT format
+        RIBs and UPDATEs from SAOPAULO 2nd collector (formerly route-views2.saopaulo.routeviews.org) 
+        (FRR bgpd, from ix-br2.gru.routeviews.org) MRT format
+	RIBs and UPDATEs from SINGAPORE (FRR bgpd, from route-views.sg.routeviews.org) MRT format
+	RIBs and UPDATEs from PERTH (FRR bgpd, from route-views.perth.routeviews.org) MRT format
+	RIBs and UPDATEs from PERU (FRR bgpd, from route-views.peru.routeviews.org) MRT format
+	RIBs and UPDATEs from SFMIX (FRR bgpd, from route-views.sfmix.routeviews.org) MRT format
+	RIBs and UPDATEs from SIEX (FRR bgpd, from route-views.siex.routeviews.org) MRT format
+	RIBs and UPDATEs from SOXRS/Serbia (FRR bgpd, from route-views.soxrs.routeviews.org) MRT format
+        RIBs and UPDATEs from RIO (FRR bgpd, from route-views.rio.routeviews.org) MRT format
+        RIBs and UPDATEs from FORTALEZA (FRR bgpd, from route-views.fortaleza.routeviews.org) MRT format
+        RIBs and UPDATEs from UAEIX (FRR bgpd, from route-views.uaeix.routeviews.org) MRT format
+        RIBs and UPDATEs from DE-CIX (NY) (FRR bgpd, from route-views.ny.routeviews.org) MRT format
+        RIBs and UPDATEs from DE-CIX JHB (FRR bgpd, from decix.jhb.routeviews.org) ipv6 data split out from the above files (multiple collectors) 'sh ip bgp'
+     format RIBs from route-views.route-views.org ( to now ) route
+     dampening data from route-views.route-views.org ( to March 2008 ) 'sh ip bgp'
+     format RIBs from route-views3.routeviews.org ( to May 2012 ) route
+     dampening data from route-views3.route-views.org ( to August 2012 ) The collector script that gathers the Cisco data was writted by Sean Mccreary. Note: MRT RIB and UPDATE files have internal timestamps in
+the standard Unix format, however the file names are constructed
+based on the time zone setting of the collector. The collectors
+had their time zones set to Pacific Time prior to Feb 3, 2003 at
+approximately 19:00 UTC. At that time all but one of the existing
+collectors had their time zones reset to UTC. The one exception
+was routeviews.eqix which was not reset to UTC until Feb 1, 2006
+at approximately 21:00 UTC. CLI Cisco CLI access is available on route-views.routeviews.org FRR/Quagga CLI access telnet port 23 on hosts decix.jhb.routeviews.org (ipv4 / ipv6) , iraq-ixp.bgw.routeviews.org (ipv4 / ipv6) , pacwave.lax.routeviews.org (ipv4 / ipv6) , pit.scl.routeviews.org (ipv4 / ipv6) , pitmx.qro.routeviews.org (ipv4 / ipv6) , route-views2.routeviews.org (ipv4) , route-views3.routeviews.org (ipv4 / ipv6) , route-views4.routeviews.org (ipv4 / ipv6) , route-views5.routeviews.org (ipv4 / ipv6) , route-views6.routeviews.org (ipv6) . route-views.amsix.routeviews.org (ipv4 / ipv6) route-views.chile.routeviews.org (ipv4 / ipv6) route-views.eqix.routeviews.org (ipv4 / ipv6) , route-views.flix.routeviews.org (ipv4 / ipv6) route-views.gorex.routeviews.org (ipv4 / ipv6) , route-views.isc.routeviews.org aka. PAIX (ipv4 / ipv6) , route-views.jinx.routeviews.org (ipv4 / ipv6) , route-views.kixp.routeviews.org (ipv4 / ipv6) , route-views.linx.routeviews.org (ipv4 / ipv6) , route-views.mwix.routeviews.org (ipv4 / ipv6) route-views.napafrica.routeviews.org (ipv4 / ipv6) , route-views.nwax.routeviews.org (ipv4 / ipv6) , route-views.ny.routeviews.org (ipv4 / ipv6) route-views.perth.routeviews.org (ipv4 / ipv6) route-views2.saopaulo.routeviews.org (ipv4 / ipv6) , route-views.sfmix.routeviews.org (ipv4 / ipv6) route-views.soxrs.routeviews.org (ipv4 / ipv6) route-views.sg.routeviews.org (ipv4 / ipv6) , route-views.sydney.routeviews.org (ipv4 / ipv6) , route-views.telxatl.routeviews.org (ipv4 / ipv6) , route-views.uaeix.routeviews.org (ipv4 / ipv6) route-views.wide.routeviews.org (ipv4 / ipv6) , Note: collection timestamps on the original Cisco router 
+ route-views.routeviews.org
+ were changed from PDT to UTC on Mar 4, 2003
+ at ~1:00 PDT. 16 April 2024 help@routeviews.org

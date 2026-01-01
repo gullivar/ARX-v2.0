@@ -1,0 +1,78 @@
+Greenhost Meteen naar inhoud open the menu Producten Virtual Private Server Domeinnamen en webhosting Managed Services Performance Hosting Helpdesk Uw Account Domeinbeheer E-mail Hosting Virtual Private Server Over ons Blog Internetvrijheid Duurzaamheidsrapport Contact Vacatures Login Webmail Service Centre EN Virtual private server Gebruik de duurzaamste cloud VPS infrastructuur Servers in Nederland Snel en betrouwbaar Duurzame webhosting Compleet service centre, eenvoudige WordPress installatie Snel en meervoudig uitgevoerd Milieuvriendelijk en privacybewust Managed Services Alle zorgen uit handen Duurzaam platform SLA tot 24/7 mogelijk Virtual private server Duurzame webhosting Managed Services Check! Waarom hosten met Greenhost? Duurzame hosting Groene en duurzame webhosting, van kleine en simpele websites tot en met grote
+                complexe projecten met meerdere VPS'en. Dat is de basis van Greenhost. We zijn
+                al meer dan vijftien jaar koploper op dit gebied, en we streven nog steeds naar
+                maximale duurzaamheid in alle stappen van ons productieproces. Dit gaat zowel over kleine keuzes, zoals welke koffie we drinken of meubilair we
+                gebruiken, als over grote keuzes, zoals welke hardware we kopen of welke
+                energieleverancier wij kiezen. Lees ons duurzaamheidsrapport om te zien hoe we
+                hebben gepresteerd. lees meer... Libre hosting Het internet als een gratis en open ruimte staat elke dag onder druk. Greenhost
+                      ziet het internet als een middel om vrij toegankelijke informatie te
+                      verkrijgen, een platform voor samenwerkingsverbanden en een forum om meningen te
+                      uiten en te vormen. Om dat in stand te houden dient de gedistribueerde opzet van het internet
+                      beschermd te worden. Daarom spelen we een actieve rol in verscheidene projecten
+                      over digitale veiligheid en mensenrechten. Dit doen wij door kennis te delen,
+                      samenwerkingsverbanden te ondersteunen en zelf nieuwe open source applicaties te
+                      ontwikkelen. lees meer... Data privacy Het internet brengt vragen met zich mee over digitale privacy. Data is
+                      ontzettend waardevol geworden. Greenhost heeft privacy hoog in het vaandel en wij zullen er alles aan doen om
+                      data en privacy op ons platform te beschermen. Wij staan bij elke beslissing
+                      die wij nemen stil bij de vraag of we privacy wel kunnen blijven garanderen. lees meer... Grensverleggende infrastructuur Wij bezitten de hardware die we gebruiken zelf en selecteren deze zorgvuldig.
+                      Dit zorgt ervoor dat we onafhankelijk blijven van derde partijen. Daarnaast
+                      garandeert dit juiste toegangscontrole.
+                      Op onze hardware draaien wij ons eigen volledig gevirtualiseerde platform. Wij
+                      staan voor een Open Internet, en wij hebben altijd open source software omarmd. Met SSD, Ceph en Xen als hoekstenen kan Greenhost pronken met een stabiel, snel
+                      en schaalbaar platform gecombineerd met hoge connectiviteit. lees meer... Duurzaam Het internet en de IT-sector zijn mondiaal verantwoordelijk voor
+            veel verspilling van energie en milieuvervuiling. Wij zijn ons daarvan bewust en
+            proberen een verschil te maken door te streven naar duurzaamheid in elke stap
+            van ons productieproces. Dit begint bij hosting: onze servers zijn gehost bij het duurzame IronMountain datacentrum en onze clusters gebruiken alleen in Nederland opgewekte windenergie. We selecteren onze
+            hardware specifiek op energiegebruik en milieuimpact. Bovendien wordt
+            er efficiënt gebruik gemaakt van onze hardware doordat we deze gecentraliseerd
+            hebben. Met virtualisatie kunnen we continu ons systeem aan de eisen van dat
+            moment aanpassen. Naast onze infrastructuur is duurzaamheid ook diep geworteld in onze
+            dagelijkse routine. Het kantoor van Greenhost is in het CO₂-neutrale gebouw Patch 22 in Amsterdam.
+            Dit gebouw is voornamelijk gemaakt van duurzame materialen. De ruimtes en het
+            water worden verwarmd door een centrale pelletkachel waarin in plaats van gas
+            duurzaam en lokaal gegroeid hout gestookt wordt. Onze lunch is biologisch en
+            vegetarisch met veel veganistische opties. De meesten van ons komen op de fiets
+            naar het kantoor. Ons meubilair is voornamelijk tweedehands of duurzaam
+            geproduceerd en het kantoor is voorzien van groene, Nederlandse zon- en
+            windenergie. Er is een permanent team van medewerkers om ervoor te zorgen dat
+            het "green" in "Greenhost" blijft en dat ook in de toekomst keuzes gemaakt
+            zullen worden met oog voor de sociale gevolgen en de milieu-impact van die
+            keuzes. Lees ons duurzaamheidsrapport om te zien hoe we
+            hebben gepresteerd: lees meer... 100% Hernieuwbare energie van lokale windmolens We doen mee aan meerdere duurzaamheidsprojecten Duurzaam houten kantoorgebouw We nemen stappen om onze CO₂-voetafdruk te verkleinen Infrastructuur Wij bezitten de hardware die we gebruiken zelf en selecteren deze zorgvuldig.
+            Dit zorgt ervoor dat we onafhankelijk blijven van derde partijen. Daarnaast
+            garandeert dit juiste toegangscontrole. Greenhost gebruikt momenteel voor het grootste gedeelte van ons netwerk
+            HP en IBM/Lenovo hardware. Allereerst staan deze merken er bekend om dat zij
+            stabiele en snelle producten leveren. Daarnaast scoren ze op het gebied
+            van duurzaamheid ook hoog volgens de richtlijnen van de gids van Greenpeace "Guide to Greener Electronics" . Bij software gaat onze voorkeur altijd uit naar open source. De lijst van
+            applicaties die we gebruiken is lang, maar een paar van onze favorieten zijn
+            Ceph, Xen, HAProxy en GitLab. De hoeksteen van onze opslag is Ceph . Ceph is een
+            gedistribueerd opslagsysteem met goede prestaties, betrouwbaarheid
+            en schaalbaarheid. Onze virtualisatie draait voornamelijk op Xen . Met Xen gebruiken wij de relatief nieuwe paravirtualisatie met geassisteerde hardware virtualisatie (PVH) modus. Deze
+            modus heeft het beste van beide werelden als het gaat om prestaties en
+            veiligheid. Omdat we Xen in combinatie met Ceph gebruiken zijn we niet afhankelijk
+            van lokale opslag. Op deze manier kunnen we een flexibel en schaalbaar platform
+            aanbieden en daarbij het aantal punten waarop het kan falen limiteren. Alle
+            nodes gebruiken (moderne) Xeon CPUs om fantastische CPU-prestaties te kunnen
+            leveren. Met onze zelfgemaakte applicaties en service panel kunnen we snel reageren op
+            nieuwe eisen en functies uitbreiden zonder afhankelijk te zijn van derde
+            partijen. Greenhost is lid van RIPE en APNIC. We bezitten onze eigen IPv4 en IPv6 adressen
+            en hebben de volledige controle over het gebruik en "routen" van deze adressen.
+            Onze primaire transit providers zijn FiberRing en IX-reach .
+            Daarnaast zijn wij lid van AMS-IX. Omdat we meerdere transit- en
+            peering-aanbieders gebruiken kan geen enkele derde partij een limiterende factor
+            zijn. Dit waarborgt flexibiliteit en onafhankelijkheid. lees meer... Redundante & snelle SSD opslag Redundant energie- en netwerkontwerp Moderne Intel Xeon E5 CPUs Flitsend snelle switches Neem het niet van ons aan … maar lees wat deze mensen te zeggen hebben over onze diensten. Zowel als mens als als webbouwer kan ik wellicht een verschil maken in
+                  de vergroening van het web. Greenhost past daarbij heel goed. Door
+                  hernieuwbare energiebronnen te gebruiken, het energieverbruik te
+                  minimaliseren en actief onderzoek te doen (o.a. met UvA) over hoe het
+                  allemaal nog groener kan. Daarnaast ondersteunt Greenhost ook sociale
+                  organisaties en digitale vrijheid en bieden ze voor een lage prijs
+                  makkelijke techniek en vriendelijke, snelle support. Ik ben blij en
+                  trots dat J Ontwerp cobrandingspartner is van deze eigenzinnige en
+                  groeiende partij. Janneke Tromp - J Ontwerp Neem ons advies ter harte en kies een goede domeinnaam en laat deze
+                      meteen registeren bij een goede host als Greenhost. Merel - de Groene Meisjes Als webdesigner heb ik veel ervaring met hostingpartijen en ik word er
+                      telkens weer in bevestigd waarom ik al sinds 2012 trouwe klant ben bij
+                      Greenhost. Hun groene visie, uitvoering en bijsturing waar nodig is
+                      onovertroffen! Het supportteam denkt altijd mee en waar problemen zijn
+                      worden deze opgelost. Greenhost onderneemt al jaren écht met een groen
+                      hart en zet zich in voor een betere (digitale) wereld. Ja, daar wil ik
+                      graag mijn hosting onderbrengen. Hanneke Laaning - Studio Vensterbank Greenhost Blog Contact Werken bij Greenhost Partners Juridisch Producten Domeinnamen en hosting Virtual Private Server Managed Services Performance Hosting Helpdesk Account Domeinbeheer E-mail Hosting VPS Service Status Taal Nederlands English Privacyverklaring Algemene voorwaarden Responsible disclosure

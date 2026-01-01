@@ -1,0 +1,10 @@
+404 Not Found
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: error.html
+RequestId: 2QQDYHW0F71Q5FGV
+HostId: s2L1WBNC0b6KjTt3AfDlFwRB80tmUu9RgSOaJ1T1wPqUNySXEaYiKb55iGcuJs+r8BYml8AZMm0=
+An Error Occurred While Attempting to Retrieve a Custom Error Document
+Code: NoSuchKey
+Message: The specified key does not exist.
+Key: error.html

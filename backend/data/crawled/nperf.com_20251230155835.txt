@@ -1,0 +1,236 @@
+ 
+
+Sign in
+
+Sign in
+Forgot password ?
+Not received our inscription mail ?
+
+Create an account
+
+Create new account
+Applications
+
+Run a speed test
+
+Web speed test
+Mobile applications
+PC / Mac applications
+Host a server
+Maps
+
+Discover our maps
+
+Coverage map
+Speed map
+5G map
+Publications
+
+Learn more about nPerf
+
+nPerf Awards
+All nPerf publications
+Solutions
+
+Network optimization solutions
+
+Analytics : crowdsourced statistics
+Fleet : drive test solution
+Probes : FTTx network testing
+
+Custom solutions
+
+Custom web app
+Custom web maps
+Custom mobile app
+SDK
+
+Awards & marketing solutions
+
+Awards
+About us
+
+Get in touch
+
+Who we are
+Press resources
+Contact us
+
+nPerf servers network
+
+Host a server
+Blog
+
+Stay updated
+
+nPerf Award & Barometers
+News
+Network optimization solutions
+All the articles
+
+PC / Mac Applications available
+
+Be the first one to test our app for Mac or PC with streaming and browsing tests included.
+
+Try it now
+Internet speed test (speedtest)
+Test your ADSL, xDSL, cable, optical fiber or satellite broadband connection bandwidth.
+Loading, please wait...
+
+Loading component …
+
+Download our apps for mobile, tablet and desktop
+Android applications
+
+Learn more about the nPerf Android app
+
+iPhone / iPad applications
+
+Learn more about the nPerf IOS app
+
+PC / Mac applications
+
+Learn more about the nPerf desktop app
+
+Discover nPerf
+Awards
+
+Awards for the best performances around the world
+
+2G
+3G
+4G
+4G+
+5G
+Coverage map
+
+Check out the mobile coverage in your area
+
+Host a server
+
+Get involved in the nPerf project
+
+What's nPerf speed test ? How does it work ?
+
+Download bitrate
+
+Indicates the amount of data your connection can receive in one second from the nPerf server. The highest the measured value, the best is the bitrate of your connection.
+
+Upload bitrate
+
+Indicates the amount of data your connection can send in one second to the nPerf server. The highest the measured value, the best is the bitrate of your connection.
+
+Latency (ping)
+
+Indicates the delay a small packet of data requires to make a round-trip from your computer to the nPerf server. The shorter the delay, the most reactive is your connection.
+
+nPerf qualify accurately your internet connection's performances.
+
+This speed test relies on an exclusive algorithm allowing you to measure accurately download bitrate, upload bitrate and latency of your connection.
+
+nPerf uses a worldwide dedicated servers network, which is optimized to deliver enough bitrate to saturate your connection, so that we can measure its bitrate accurately.
+
+nPerf speed test is compatible with all broadband and mobile connections: ADSL, VDSL, cable, optical fiber FTTH / FTTB, satellite, wifi, wimax, cellular 2G / 3G / 4G (LTE), 5G.
+
+The nPerf speed test has been designed by telecom enthusiasts to enable you to accurately measure the speed of your Internet connection easily, in only one click! Oh... and this speed test is absolutely free of ads! Enjoy it ... and if you like it, spread the word :)
+
+What is a good test result ?
+1
+What minimum download capacity do I need to check and send my emails quickly?
+2
+What connection performance is recommended for listening to music online without interruptions?
+3
+What download capacity do I need to load web pages quickly and access all types of online content?
+4
+What bandwidth is required to watch streaming videos without losing quality?
+5
+What bandwith is needed for an optimal online gaming experience?
+6
+What download and upload performance are required for smooth video calls?
+7
+What connection level is ideal for using social media and watching video content?
+8
+What is the ideal throughput for quickly downloading or sharing files on the cloud?
+9
+What latency is needed for video calls?
+10
+What role does latency play in the quality of my internet connection?
+EN
+
+Choose your language
+
+A-D
+
+AF
+AR
+BG
+BN
+BS-BA
+CS
+DA
+DE
+
+E-H
+
+EL
+EN
+ES
+FA
+FI
+FR
+HE
+HI
+HR
+HU
+
+I-L
+
+ID
+IS
+IT
+JA
+KO
+LO
+LT
+LV
+
+M-P
+
+MG
+MS
+MY
+NL
+NO
+PL
+PT
+
+Q-T
+
+RO
+RU
+SK
+SL
+SQ
+SR
+SV
+TH
+TR
+
+U-X
+
+UK
+UR
+VI
+
+Y-Z
+
+ZH-CN
+ZH-TW
+Privacy policy
+CGU
+Cookie
+© nPerf 2014-2025
+
+By browsing nPerf.com, you consent to our Privacy and Cookies Usage Policy as well as our nPerf test End User License Agreement.
+
+OK

@@ -1,0 +1,1 @@
+{"version":5,"release":84,"queue_length":0,"peers":223,"node_state_latency":2,"network":"arweave.N.1","height":1827273,"current":"beEydEZheZ54HbfdipDkS-nsfUV66trqLgzNafGSRwEaLk2u5hVsCiOyocCC3TfL","blocks":1827274}

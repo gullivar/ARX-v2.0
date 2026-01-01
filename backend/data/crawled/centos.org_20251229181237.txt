@@ -1,0 +1,128 @@
+Download
+ About
+ Community
+ Documentation
+The CentOS Project
+Community-driven free software effort focused on delivering a robust open source ecosystem around a Linux platform.
+Learn more 
+Contribute
+Forums
+Mailing Lists
+Chat
+Events
+Calendar
+Blog
+Submit Bug
+ 
+CentOS Stream
+
+Continuously delivered distro that tracks just ahead of Red Hat Enterprise Linux (RHEL).
+
+ Download
+ 
+CentOS Hyperscale
+
+CentOS stability built for massively large-scale deployments.
+
+Learn more 
+ 
+CentOS Connect
+
+Join us in Brussels January 29-30 for our annual contributor conference, part of the FOSDEM Fringe.
+
+Learn more 
+Special Interest Groups
+
+CentOS Special Interest Groups create CentOS distributions, develop and package additional software on top of CentOS, and help the CentOS project with documentation and outreach.
+
+ 
+Alternative Images
+
+Live ISO images, WSL images, and images that include different software.
+
+Learn more 
+ 
+Automotive
+
+Public, in-development preview of the upcoming Red Hat In-Vehicle Operating System.
+
+Learn more 
+ 
+Cloud
+
+Builds of OKD Kubernetes, RDO OpenStack, and Stream CoreOS.
+
+Learn more 
+ 
+Hyperscale
+
+CentOS stability built for massively large-scale deployments
+
+Learn more 
+ 
+Integration
+
+Verifying products and services built on top of RHEL or CentOS Stream
+
+Learn more 
+ 
+ISA
+
+Evaluating the benefits of enabling new CPU features.
+
+Learn more 
+ 
+Kmods
+
+Kernel modules for the stock Enterprise Linux kernel, as well as Fedora flavored kernels for Enterprise Linux distributions.
+
+Learn more 
+ 
+Storage
+
+Storage solutions for enterprise environments, including Ceph, Gluster, NFS Ganesha, and Samba.
+
+Learn more 
+ 
+Virtualization
+
+User-consumable full stack of virtualization technologies.
+
+Learn more 
+Artwork — Artwork and design to support the CentOS project.
+Docs — Documentation for CentOS Stream and the CentOS SIGs.
+Infrastructure — Providing a working group to manage all CentOS infrastructure.
+NFV — Platform for the deployment and testing of virtual network functions (VNFs) and NFV component packages on CentOS.
+Promo — Event planning, social media, and other activities to promote the CentOS project.
+Proposed Updates — Faster critical updates for running CentOS Stream in production
+
+All Special Interest Groups
+
+News
+CentOS Board Meeting Recap, December 2025
+
+by shaunm @ 2025-12-15 14:12:38
+
+December 2025 News
+
+by shaunm @ 2025-12-10 22:43:39
+
+CentOS Board Meeting Recap, November 2025
+
+by shaunm @ 2025-11-17 16:21:46
+
+CentOS Board Meeting Recap, October 2025
+
+by shaunm @ 2025-11-04 16:19:16
+
+Videos
+CentOS Stream - a preview of RHEL, a solid base for CentOS SIGs
+Watch 
+Something for SIGs: Story of Packit and CBS Koji
+Watch 
+Creating content collections for CentOS SIGs
+Watch 
+Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon.
+ Sponsors
+CentOS would not be possible without the support of our sponsors. We would like to thank the following product/service for being a CentOS sponsor. If you value our work, please consider becoming a sponsor!
+Copyright © 2025 The CentOS Project LegalPrivacySite source

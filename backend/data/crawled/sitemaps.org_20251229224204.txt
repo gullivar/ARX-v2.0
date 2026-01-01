@@ -1,0 +1,36 @@
+sitemaps.org
+FAQ
+Protocol
+Home
+Language: 
+Dansk
+Deutsch
+English
+English (UK)
+Español
+Français
+Italiano
+Nederlands
+Norsk
+Polski
+Português
+Suomi
+Română
+Svenska
+Türkçe
+Русский
+中文（简体）
+中文（繁體）
+日本語
+한국어
+What are Sitemaps?
+
+Sitemaps are an easy way for webmasters to inform search engines about pages on their sites that are available for crawling. In its simplest form, a Sitemap is an XML file that lists URLs for a site along with additional metadata about each URL (when it was last updated, how often it usually changes, and how important it is, relative to other URLs in the site) so that search engines can more intelligently crawl the site.
+
+Web crawlers usually discover pages from links within the site and from other sites. Sitemaps supplement this data to allow crawlers that support Sitemaps to pick up all URLs in the Sitemap and learn about those URLs using the associated metadata. Using the Sitemap protocol does not guarantee that web pages are included in search engines, but provides hints for web crawlers to do a better job of crawling your site.
+
+Sitemap 0.90 is offered under the terms of the Attribution-ShareAlike Creative Commons License and has wide adoption, including support from Google, Yahoo!, and Microsoft.
+
+Last Updated: 17 April 2020
+
+Terms and conditions

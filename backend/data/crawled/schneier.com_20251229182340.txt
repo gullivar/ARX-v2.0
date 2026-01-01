@@ -1,0 +1,256 @@
+Schneier on Security
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me
+Search
+
+Powered by DuckDuckGo
+
+ 
+ Blog  Essays  Whole site
+Subscribe
+
+Friday Squid Blogging: Squid Camouflage
+
+New research:
+
+Abstract: Coleoid cephalopods have the most elaborate camouflage system in the animal kingdom. This enables them to hide from or deceive both predators and prey. Most studies have focused on benthic species of octopus and cuttlefish, while studies on squid focused mainly on the chromatophore system for communication. Camouflage adaptations to the substrate while moving has been recently described in the semi-pelagic oval squid (Sepioteuthis lessoniana). Our current study focuses on the same squid’s complex camouflage to substrate in a stationary, motionless position. We observed disruptive, uniform, and mottled chromatic body patterns, and we identified a threshold of contrast between dark and light chromatic components that simplifies the identification of disruptive chromatic body pattern. We found that arm postural components are related to the squid position in the environment, either sitting directly on the substrate or hovering just few centimeters above the substrate. Several of these context-dependent body patterns have not yet been observed in S. lessoniana species complex or other loliginid squids. The remarkable ability of this squid to display camouflage elements similar to those of benthic octopus and cuttlefish species might have convergently evolved in relation to their native coastal habitat.
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+Blog moderation policy.
+
+Tags: academic papers, squid
+
+Posted on December 26, 2025 at 5:08 PM • 13 Comments
+
+not connected to Facebook
+not connected to Twitter
+IoT Hack
+
+Someone hacked an Italian ferry.
+
+It looks like the malware was installed by someone on the ferry, and not remotely.
+
+Tags: France, hacking, Internet of Things, malware
+
+Posted on December 26, 2025 at 7:02 AM • 7 Comments
+
+not connected to Facebook
+not connected to Twitter
+Urban VPN Proxy Surreptitiously Intercepts AI Chats
+
+This is pretty scary:
+
+Urban VPN Proxy targets conversations across ten AI platforms: ChatGPT, Claude, Gemini, Microsoft Copilot, Perplexity, DeepSeek, Grok (xAI), Meta AI.
+
+For each platform, the extension includes a dedicated “executor” script designed to intercept and capture conversations. The harvesting is enabled by default through hardcoded flags in the extension’s configuration.
+
+There is no user-facing toggle to disable this. The only way to stop the data collection is to uninstall the extension entirely.
+
+[…]
+
+The data collection operates independently of the VPN functionality. Whether the VPN is connected or not, the harvesting runs continuously in the background.
+
+[…]
+
+What gets captured:
+
+Every prompt you send to the AI
+Every response you receive
+
+Conversation identifiers and timestamps
+Session metadata
+The specific AI platform and model used
+
+BoingBoing post.
+
+EDITED TO ADD (12/15): Two news articles.
+
+Tags: eavesdropping, privacy, surveillance, VPN
+
+Posted on December 24, 2025 at 7:03 AM • 7 Comments
+
+not connected to Facebook
+not connected to Twitter
+Denmark Accuses Russia of Conducting Two Cyberattacks
+
+News:
+
+The Danish Defence Intelligence Service (DDIS) announced on Thursday that Moscow was behind a cyber-attack on a Danish water utility in 2024 and a series of distributed denial-of-service (DDoS) attacks on Danish websites in the lead-up to the municipal and regional council elections in November.
+
+The first, it said, was carried out by the pro-Russian group known as Z-Pentest and the second by NoName057(16), which has links to the Russian state.
+
+Slashdot thread.
+
+Tags: cyberattack, denial of service, Denmark, hacking, infrastructure, Russia
+
+Posted on December 23, 2025 at 7:02 AM • 4 Comments
+
+not connected to Facebook
+not connected to Twitter
+Microsoft Is Finally Killing RC4
+
+After twenty-six years, Microsoft is finally upgrading the last remaining instance of the encryption algorithm RC4 in Windows.
+
+of the most visible holdouts in supporting RC4 has been Microsoft. Eventually, Microsoft upgraded Active Directory to support the much more secure AES encryption standard. But by default, Windows servers have continued to respond to RC4-based authentication requests and return an RC4-based response. The RC4 fallback has been a favorite weakness hackers have exploited to compromise enterprise networks. Use of RC4 played a key role in last year’s breach of health giant Ascension. The breach caused life-threatening disruptions at 140 hospitals and put the medical records of 5.6 million patients into the hands of the attackers. US Senator Ron Wyden (D-Ore.) in September called on the Federal Trade Commission to investigate Microsoft for “gross cybersecurity negligence,” citing the continued default support for RC4.
+
+Last week, Microsoft said it was finally deprecating RC4 and cited its susceptibility to Kerberoasting, the form of attack, known since 2014, that was the root cause of the initial intrusion into Ascension’s network.
+
+Fun fact: RC4 was a trade secret until I published the algorithm in the second edition of Applied Cryptography in 1995.
+
+Tags: algorithms, Applied Cryptography, encryption, Microsoft, RC4, Windows
+
+Posted on December 22, 2025 at 12:05 PM • 10 Comments
+
+not connected to Facebook
+not connected to Twitter
+Friday Squid Blogging: Petting a Squid
+
+Video from Reddit shows what could go wrong when you try to pet a—looks like a Humboldt—squid.
+
+As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.
+
+Blog moderation policy.
+
+Tags: squid
+
+Posted on December 19, 2025 at 5:06 PM • 60 Comments
+
+not connected to Facebook
+not connected to Twitter
+AI Advertising Company Hacked
+
+At least some of this is coming to light:
+
+Doublespeed, a startup backed by Andreessen Horowitz (a16z) that uses a phone farm to manage at least hundreds of AI-generated social media accounts and promote products has been hacked. The hack reveals what products the AI-generated accounts are promoting, often without the required disclosure that these are advertisements, and allowed the hacker to take control of more than 1,000 smartphones that power the company.
+
+The hacker, who asked for anonymity because he feared retaliation from the company, said he reported the vulnerability to Doublespeed on October 31. At the time of writing, the hacker said he still has access to the company’s backend, including the phone farm itself.
+
+Slashdot thread.
+
+Tags: AI, hacking, marketing, phones
+
+Posted on December 19, 2025 at 7:02 AM • 8 Comments
+
+not connected to Facebook
+not connected to Twitter
+Someone Boarded a Plane at Heathrow Without a Ticket or Passport
+
+I’m sure there’s a story here:
+
+Sources say the man had tailgated his way through to security screening and passed security, meaning he was not detected carrying any banned items.
+
+The man deceived the BA check-in agent by posing as a family member who had their passports and boarding passes inspected in the usual way.
+
+Tags: air travel, social engineering
+
+Posted on December 18, 2025 at 11:41 AM • 6 Comments
+
+not connected to Facebook
+not connected to Twitter
+Deliberate Internet Shutdowns
+
+For two days in September, Afghanistan had no internet. No satellite failed; no cable was cut. This was a deliberate outage, mandated by the Taliban government. It followed a more localized shutdown two weeks prior, reportedly instituted “to prevent immoral activities.” No additional explanation was given. The timing couldn’t have been worse: communities still reeling from a major earthquake lost emergency communications, flights were grounded, and banking was interrupted. Afghanistan’s blackout is part of a wider pattern. Just since the end of September, there were also major nationwide internet shutdowns in Tanzania and Cameroon, and significant regional shutdowns in Pakistan and Nigeria. In all cases but one, authorities offered no official justification or acknowledgment, leaving millions unable to access information, contact loved ones, or express themselves through moments of crisis, elections, and protests.
+
+The frequency of deliberate internet shutdowns has skyrocketed since the first notable example in Egypt in 2011. Together with our colleagues at the digital rights organisation Access Now and the #KeepItOn coalition, we’ve tracked 296 deliberate internet shutdowns in 54 countries in 2024, and at least 244 more in 2025 so far.
+
+This is more than an inconvenience. The internet has become an essential piece of infrastructure, affecting how we live, work, and get our information. It’s also a major enabler of human rights, and turning off the internet can worsen or conceal a spectrum of abuses. These shutdowns silence societies, and they’re getting more and more common.
+
+Shutdowns can be local or national, partial or total. In total blackouts, like Afghanistan or Tanzania, nothing works. But shutdowns are often targeted more granularly. Cellphone internet could be blocked, but not broadband. Specific news sites, social media platforms, and messaging systems could be blocked, leaving overall network access unaffected—as when Brazil shut off X (formerly Twitter) in 2024. Sometimes bandwidth is just throttled, making everything slower and unreliable.
+
+Sometimes, internet shutdowns are used in political or military operations. In recent years, Russia and Ukraine have shut off parts of each other’s internet, and Israel has repeatedly shut off Palestinians’ internet in Gaza. Shutdowns of this type happened 25 times in 2024, affecting people in 13 countries.
+
+Reasons for the shutdowns are as varied as the countries that perpetrate them. General information control is just one. Shutdowns often come in response to political unrest, as governments try to prevent people from organizing and getting information; Panama had a regional shutdown this summer in response to protests. Or during elections, as opposition parties utilize the internet to mobilize supporters and communicate strategy. Belarusian president Alyaksandr Lukashenko, who has ruled since 1994, reportedly disabled the internet during elections earlier this year, following a similar move in 2020. But they can also be more banal. Access Now documented countries disabling parts of the internet during student exam periods at least 16 times in 2024, including Algeria, Iraq, Jordan, Kenya, and India.
+
+Iran’s shutdowns in 2022 and June of this year are good examples of a highly sophisticated effort, with layers of shutdowns that end up forcing people off the global internet and onto Iran’s surveilled, censored national intranet. India, meanwhile, has been the world shutdown leader for many years, with 855 distinct incidents. Myanmar is second with 149, followed by Pakistan and then Iran. All of this information is available on Access Now’s digital dashboard, where you can see breakdowns by region, country, type, geographic extent, and time.
+
+There was a slight decline in shutdowns during the early years of the pandemic, but they have increased sharply since then. The reasons are varied, but a lot can be attributed to the rise in protest movements related to economic hardship and corruption, and general democratic backsliding and instability. In many countries today, shutdowns are a knee-jerk response to any form of unrest or protest, no matter how small.
+
+A country’s ability to shut down the internet depends a lot on its infrastructure. In the US, for example, shutdowns would be hard to enforce. As we saw when discussions about a potential TikTok ban ramped up two years ago, the complex and multifaceted nature of our internet makes it very difficult to achieve. However, as we’ve seen with total nationwide shutdowns around the world, the ripple effects in all aspects of life are immense. (Remember the effects of just a small outage—CrowdStrike in 2024—which crippled 8.5 million computers and cancelled 2,200 flights in the US alone?)
+
+The more centralized the internet infrastructure, the easier it is to implement a shutdown. If a country has just one cellphone provider, or only two fiber optic cables connecting the nation to the rest of the world, shutting them down is easy.
+
+Shutdowns are not only more common, but they’ve also become more harmful. Unlike in years past, when the internet was a nice option to have, or perhaps when internet penetration rates were significantly lower across the Global South, today the internet is an essential piece of societal infrastructure for the majority of the world’s population.
+
+Access Now has long maintained that denying people access to the internet is a human rights violation, and has collected harrowing stories from places like Tigray in Ethiopia, Uganda, Annobon in Equatorial Guinea, and Iran. The internet is an essential tool for a spectrum of rights, including freedom of expression and assembly. Shutdowns make documenting ongoing human rights abuses and atrocities more difficult or impossible. They are also impactful on people’s daily lives, business, healthcare, education, finances, security, and safety, depending on the context. Shutdowns in conflict zones are particularly damaging, as they impact the ability of humanitarian actors to deliver aid and make it harder for people to find safe evacuation routes and civilian corridors.
+
+Defenses on the ground are slim. Depending on the country and the type of shutdown, there can be workarounds. Everything, from VPNs to mesh networks to Starlink terminals to foreign SIM cards near borders, has been used with varying degrees of success. The tech-savvy sometimes have other options. But for most everyone in society, no internet means no internet—and all the effects of that loss.
+
+The international community plays an important role in shaping how internet shutdowns are understood and addressed. World bodies have recognized that reliable internet access is an essential service, and could put more pressure on governments to keep the internet on in conflict-affected areas. But while international condemnation has worked in some cases (Mauritius and South Sudan are two recent examples), countries seem to be learning from each other, resulting in both more shutdowns and new countries perpetrating them.
+
+There’s still time to reverse the trend, if that’s what we want to do. Ultimately, the question comes down to whether or not governments will enshrine both a right to access information and freedom of expression in law and in practice. Keeping the internet on is a norm, but the trajectory from a single internet shutdown in 2011 to 2,000 blackouts 15 years later demonstrates how embedded the practice has become. The implications of that shift are still unfolding, but they reach far beyond the moment the screen goes dark.
+
+This essay was written with Zach Rosson, and originally appeared in Gizmodo.
+
+Tags: denial of service, Internet
+
+Posted on December 17, 2025 at 7:02 AM • 26 Comments
+
+not connected to Facebook
+not connected to Twitter
+Chinese Surveillance and AI
+
+New report: “The Party’s AI: How China’s New AI Systems are Reshaping Human Rights.” From a summary article:
+
+China is already the world’s largest exporter of AI powered surveillance technology; new surveillance technologies and platforms developed in China are also not likely to simply stay there. By exposing the full scope of China’s AI driven control apparatus, this report presents clear, evidence based insights for policymakers, civil society, the media and technology companies seeking to counter the rise of AI enabled repression and human rights violations, and China’s growing efforts to project that repression beyond its borders.
+
+The report focuses on four areas where the CCP has expanded its use of advanced AI systems most rapidly between 2023 and 2025: multimodal censorship of politically sensitive images; AI’s integration into the criminal justice pipeline; the industrialisation of online information control; and the use of AI enabled platforms by Chinese companies operating abroad. Examined together, those cases show how new AI capabilities are being embedded across domains that strengthen the CCP’s ability to shape information, behaviour and economic outcomes at home and overseas.
+
+Because China’s AI ecosystem is evolving rapidly and unevenly across sectors, we have focused on domains where significant changes took place between 2023 and 2025, where new evidence became available, or where human rights risks accelerated. Those areas do not represent the full range of AI applications in China but are the most revealing of how the CCP is integrating AI technologies into its political control apparatus.
+
+News article.
+
+Tags: AI, censorship, China, human rights, privacy, reports, surveillance
+
+Posted on December 16, 2025 at 7:02 AM • 20 Comments
+
+not connected to Facebook
+not connected to Twitter
+← Earlier Entries
+
+Sidebar photo of Bruce Schneier by Joe MacInnis.
+
+Powered by WordPress Hosted by Pressable
+
+About Bruce Schneier
+
+I am a public-interest technologist, working at the intersection of security, technology, and people. I've been writing about security issues on my blog since 2004, and in my monthly newsletter since 1998. I'm a fellow and lecturer at Harvard's Kennedy School, a board member of EFF, and the Chief of Security Architecture at Inrupt, Inc. This personal website expresses the opinions of none of those organizations.
+
+Featured Essays
+The Value of Encryption
+Data Is a Toxic Asset, So Why Not Throw It Out?
+How the NSA Threatens National Security
+Terrorists May Use Google Earth, But Fear Is No Reason to Ban It
+In Praise of Security Theater
+Refuse to be Terrorized
+The Eternal Value of Privacy
+Terrorists Don't Do Movie Plots
+
+More Essays
+
+Blog Archives
+Archive by Month
+100 Latest Comments
+Blog Tags
+3d printers9/11A Hacker's MindAaron Swartzacademicacademic papersaccountabilityACLUactivismAdobeadvanced persistent threatsadwareAESAfghanistanAIair marshalsair travelairgapsal QaedaalarmsalgorithmsalibisAmazonAndroidanonymityAnonymousantivirusApacheAppleApplied Cryptography
+
+More Tags
+
+Latest Book
+
+More Books
+
+Blog
+Newsletter
+Books
+Essays
+News
+Talks
+Academic
+About Me

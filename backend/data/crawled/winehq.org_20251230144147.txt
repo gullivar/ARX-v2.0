@@ -1,0 +1,74 @@
+WineHQ
+Wiki
+AppDB
+Bugzilla
+Forums
+	
+What is Wine?
+
+Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
+
+
+
+Latest Releases
+Stable:
+Wine 10.0 (shortlog)
+Development:
+Wine 11.0-rc4 (shortlog)
+
+
+Previous
+Next
+About
+Learn about the Wine project.
+Download
+Install the latest Wine.
+News
+What is going on lately?
+Application Database
+Does your application work with Wine?
+Support
+Get help using Wine.
+Get Involved
+Improve and develop Wine.
+Donate
+Donate to the Wine project.
+News and Updates
+
+Wine 11.0-rc4 Released
+
+December 26, 2025
+
+The Wine development release 11.0-rc4 is now available.
+
+What’s new in this release:
+
+Bug fixes only, we are in code freeze.
+
+Wine 11.0-rc3 Released
+
+December 19, 2025
+
+The Wine development release 11.0-rc3 is now available.
+
+What’s new in this release:
+
+Bug fixes only, we are in code freeze.
+
+Wine 11.0-rc2 Released
+
+December 12, 2025
+
+The Wine development release 11.0-rc2 is now available.
+
+What’s new in this release:
+
+Bug fixes only, we are in code freeze.
+
+ News Archive    World Wine News
+
+ English (Change Language)
+Privacy Policy
+If you have a privacy inquiry regarding this site, please write to privacy@winehq.org
+
+Hosted By 

@@ -1,0 +1,70 @@
+Got it!
+
+This website uses cookies to ensure you get the best experience on our website More info
+
+Overview Player Articles FAQ GitHub Documentation
+The free open source
+HTML 5 video player
+Skip ad
+00:00 / 00:00
+00:00 / 00:00
+00:00 / 00:00
+00:00 / 00:00
+00:00 / 00:00
+00:00 / 00:00
+Pre-roll
+In-video banner
+Thumbnail
+Livestreaming
+API
+Discover more
+Overview
+Compatible with video advertising
+industry standards VAST and VPAID
+Integrate our WordPress Plugin
+and CDN hosted player
+Enables easy manipulation of a number
+of properties after initialisation
+Video streaming support for
+MPEG-DASH and HLS streaming protocols
+VR support
+Support for dynamic frontend frameworks
+including Vue.js, React and Angular
+Read Documentation
+Player Builder
+
+Use the builder to see how easy it is to customize Fluid Player while seeing your changes in real-time in the video player
+on the left, cut and paste the code created in the code generator box below the player to insert into your website
+
+00:00 / 00:00
+Copy code
+Controls
+Style
+On-pause html
+Advertising
+Autoplay
+Mute On load
+Theatre mode
+Autohide controls
+Play/Pause animation
+Playback speed
+Download
+Show play button
+Articles
+Fluid Player vs Video.JS
+
+In this article we compare Fluid Player’s features with Video.JS, both are great video players, we test them both to show you the pros and cons in order to help you decide which one to use as your website’s video player.
+
+Fluid Player vs JW Player
+
+Monetizing video content needs a good HTML video player that has industry standard features. Click to read our comparison of these two market leaders.
+
+Fluid Player 101 for Publishers
+
+Everything you need to know about Fluid Player and how to use it as your video player to monetize your video content with industry standard video advertising.
+
+
+
+See all articles
+Sponsored by
+Privacy policy Terms & Conditions

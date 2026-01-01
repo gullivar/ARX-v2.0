@@ -1,0 +1,362 @@
+2MINERS.COM
+Mining pools for professionals by professionals
+EN
+BlogPoolsFAQ
+Total hashrate of 2Miners pools
+ETHash
+64.05
+TH/s
+EquiHash
+1.25
+GS/s
+EquiHash 144,5
+180.20
+KS/s
+RandomX
+9.40
+MH/s
+Cuckoo
+6.75
+KGps
+KAWPOW
+2.15
+TH/s
+BeamHash
+119.13
+KS/s
+Eaglesong
+13.88
+PH/s
+Autolykos v2
+1.68
+TH/s
+KHeavyHash
+6.73
+PH/s
+SHA256
+33.73
+PH/s
+2hrsRegular payouts every 2 hours
+1%—1,5%Fees — 1,0% for PPLNS and 1,5% for SOLO
+$161.5 KPaid to miners
+Last 24 hours
+14499Miners
+online
+News
+21 December 2025
+
+Clore pools have been stopped. The developers migrated the coin to an ERC token. No additional payouts are possible. Use 2CryptoCalc to find a more profitable coin.
+
+29 October 2025
+
+Karlsen (KLS) delisting on November 1st. Use 2CryptoCalc and find the most profitable coins to mine.
+
+8 October 2025
+
+Flux (ZelCash) Mining Ends on October 20, 19:00 UTC. Check 2CryptoCalc for the most profitable coin.
+
+5 October 2025
+
+ERGO (ERG) mining rewards have decreased following the emission schedule. The block reward is now 9 ERG instead of 12 ERG. 2CryptoCalc has been updated.
+
+Mining: POOL SOLO
+Ravencoin
+1.95 TH/s
+KAWPOW
+Miners Online
+5549
+Luck
+82%
+Minimum Payout
+10RVN
+Payouts in Bitcoin
+Yes
+Status
+Active
+Ethereum Classic
+63.03 TH/s
+ETCHASH
+Miners Online
+2672
+Luck
+143%
+Minimum Payout
+0.1ETC
+Payouts in Bitcoin
+Yes
+Status
+Active
+Kaspa
+5.79 PH/s
+KHEAVYHASH
+Miners Online
+1169
+Luck
+4%
+Minimum Payout
+50KAS
+Payouts in Bitcoin
+Yes
+Status
+Active
+Ergo
+1.60 TH/s
+AUTOLYKOS
+Miners Online
+1025
+Luck
+66%
+Minimum Payout
+1ERG
+Payouts in Bitcoin
+Yes
+Status
+Active
+Zcash
+1.15 GS/s
+EQUIHASH
+Miners Online
+962
+Luck
+16%
+Minimum Payout
+0.1ZEC
+Payouts in Bitcoin
+Yes
+Status
+Active
+GRIN
+2.56 KGps
+CUCKOO
+Miners Online
+326
+Luck
+196%
+Minimum Payout
+50.0GRIN
+Payouts in Bitcoin
+No
+Status
+Active
+Neurai
+108.91 GH/s
+KAWPOW
+Miners Online
+275
+Luck
+4%
+Minimum Payout
+1000XNA
+Payouts in Bitcoin
+Yes
+Status
+Active
+Ethereum PoW
+599.90 GH/s
+ETHASH
+Miners Online
+270
+Luck
+29%
+Minimum Payout
+0.1ETHW
+Payouts in Bitcoin
+Yes
+Status
+Active
+Beam
+114.62 KS/s
+BEAMHASH
+Miners Online
+250
+Luck
+43%
+Minimum Payout
+3BEAM
+Payouts in Bitcoin
+No
+Status
+Active
+Bitcoin GOLD
+166.98 KS/s
+EQ 144,5
+Miners Online
+233
+Luck
+0%
+Minimum Payout
+0.1BTG
+Payouts in Bitcoin
+No
+Status
+Active
+Neoxa
+27.36 GH/s
+KAWPOW
+Miners Online
+201
+Luck
+63%
+Minimum Payout
+10NEOX
+Payouts in Bitcoin
+No
+Status
+Active
+Cortex
+6.52 KGps
+CUCKOO
+Miners Online
+151
+Luck
+60%
+Minimum Payout
+3CTXC
+Payouts in Bitcoin
+No
+Status
+Active
+Zephyr
+2.48 MH/s
+RANDOMX
+Miners Online
+144
+Luck
+11%
+Minimum Payout
+0.1ZEPH
+Payouts in Bitcoin
+No
+Status
+Active
+Nervos
+12.51 PH/s
+EAGLESONG
+Miners Online
+139
+Luck
+298%
+Minimum Payout
+500CKB
+Payouts in Bitcoin
+No
+Status
+Active
+Bitcoin Cash
+12.83 PH/s
+SHA256
+Miners Online
+103
+Luck
+33%
+Minimum Payout
+0.05BCH
+Payouts in Bitcoin
+Yes
+Status
+Active
+MimbleWimbleCoin
+2.09 KGps
+CUCKOO
+Miners Online
+70
+Luck
+47%
+Minimum Payout
+0.115MWC
+Payouts in Bitcoin
+No
+Status
+Active
+Nexa
+32.83 GH/s
+NEXAPOW
+Miners Online
+66
+Luck
+57%
+Minimum Payout
+50000NEXA
+Payouts in Bitcoin
+Yes
+Status
+Active
+Aeternity
+3.12 KGps
+CUCKOO
+Miners Online
+51
+Luck
+12%
+Minimum Payout
+5AE
+Payouts in Bitcoin
+No
+Status
+Active
+Clore.ai
+0.00 H/s
+KAWPOW
+Miners Online
+0
+Luck
+26%
+Minimum Payout
+10CLORE
+Payouts in Bitcoin
+Yes
+Status
+Inactive
+Cryptocurrency Mining Pool
+
+The most profitable mining pool for GPU and ASIC. Regular payments, tutorials, reliable servers, rig monitoring bot. Fully compatible with Nicehash.
+
+High Availability
+
+Data center in Europe, US, Asia: real dedicated servers and DDOS protection.
+
+Nicehash support: dedicated port (100% compatible with Nicehash stratum). 2Miners is Nicehash officially recommended pool.
+
+Email and Telegram notifications: rig monitoring and new block notifications for all the pools. Free of charge for any amount of rigs.
+
+@Pool2MinersBot — rig monitoring: rig's offline notifications.
+Low Ping
+Top Destinations
+Stockholm
+24 ms
+Helsinki
+30 ms
+Warsaw
+31 ms
+Berlin
+34 ms
+Top Countries
+Sweden
+24 ms
+Finland
+30 ms
+Poland
+31 ms
+Germany
+34 ms
+Comprehensive Statistics
+Help & Support For Our Miners
+Telegram Chat
+@chat2miners
+
+Community 24/7 Support: 12 000+ miners are chitchatting
+
+Helpdesk
+helpdesk.2miners.com
+
+An outstanding knowledge base for miners
+
+Choose Pool and Start Mining
+2MINERS.COM
+Pools statusAPIBlogAboutCoin ListingFAQ
+Support
+2017-2025, 2Miners.com
+Fully compatible 
+Mining Pool ComparisonPrivacy Policy Terms and Conditions
+
+2Miners_PPLNS, 2Miners_SOLO

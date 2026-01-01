@@ -1,0 +1,446 @@
+Manage Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behaviour or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Accept
+Cookie Policy
+Bitmovin Privacy Policy
+Products
+Resources
+Blog
+Pricing
+Developers
+Partners
+Contact Us
+Get Started
+Solutions for live and on-demand video workflows
+
+Bitmovin empowers businesses to expand their viewer reach and stream video globally with unmatched reliability, scalability, and the highest quality across the broadest range of devices.
+
+Start your trial
+ 
+Contact us
+
+OVER 100,000 HOURS OF CONTENT PROCESSED EVERY MONTH
+
+CLOUD NATIVE
+
+Reduce operating expense
+
+Stream video in the highest quality while cutting costs with Bitmovin’s cloud-native solutions. The VOD Encoder optimizes file sizes and accelerates content processing, saving up to 50% on storage and bandwidth, while the Live Encoder ensures 24/7 broadcast-grade reliability and resiliency for events and linear channels. With dedicated SDKs, the Bitmovin Player guarantees seamless playback on all devices, reducing maintenance costs. Observability provides deep insights to enhance performance and minimize downtime. Together, these products boost efficiency, automate processes, and lower your total cost of ownership. Plus, with Cloud Connect, you can use existing cloud credits in your private instances on major cloud providers, further minimizing costs.
+
+AD INSERTION
+
+Generate new revenue
+
+Unlock new revenue streams with Bitmovin’s monetization capabilities, supporting AVOD, SVOD, and hybrid monetization workflows. Seamlessly integrate dynamic ads with support for both Server-Side Ad Insertion (SSAI) and Client-Side Ad Insertion (CSAI) for on-demand content, and utilize SCTE-35 markers for precise ad insertion during live broadcasts, turning your streams into profitable opportunities. Enhance ad playback with a dedicated ad module that keeps viewers engaged while gaining insights into ad performance, helping you maximize advertising opportunities and significantly boost revenue.
+
+FLAWLESS VIDEO
+
+Retain and grow subscribers
+
+Stream unparalleled viewing experiences with Bitmovin to retain and grow your subscriber base. Deliver flawless video while supporting the latest codecs for high-quality streaming, even in lower bandwidth environments. Provide a superior viewing experience across any screen with support for every major device, and gain insights into viewer behavior to analyze each session, boosting engagement and ensuring your audience keeps coming back.
+
+END-TO-END VIDEO WORKFLOWS
+
+Solutions to power modern OTT video infrastructure
+
+Deploy Bitmovin’s leading solutions seamlessly within your workflow and stream content in the highest quality anywhere in the world. Integrated with every major cloud and solution provider, Bitmovin ensures seamless integration, unmatched reliability, and scalability, enhancing your viewer’s experience and helping you reduce costs.
+
+VOD Encoder workflow
+
+Live Encoder workflow
+
+VOD Encoder
+
+Process your entire content library in up to 100x real-time and minimize file size while maintaining the highest quality with support for the latest codecs.
+
+Learn more
+
+Live Encoder
+
+Power your live experiences with unbeatable reliability and exceptional quality that scales to your needs, ensuring you can support and stream any event size
+
+Learn more
+
+Player
+
+Stream in the highest quality and reach the largest audience across the widest range of devices, ensuring the best experience for your viewers
+
+Learn more
+
+Observability
+
+Observe, analyze, and optimize every playback session in real time with Bitmovin Observability for QoS and QoE.
+
+Learn more
+
+BETTER TOGETHER
+
+Bitmovin Innovators Network
+
+A community of industry-leading technology vendors, resellers, consultants, and technology researchers to simplify live and on-demand media workflows for every organization and use case.
+
+View our list of partners
+
+CASE STUDY
+
+OneFootball
+
+OneFootball is a powerhouse app that offers a personalized soccer experience with soccer content, products, and services to its global community of soccer fans. OneFootball is committed to pushing the boundaries of live streaming and deployed Bitmovin’s Live Encoder, which runs on Akamai Cloud Computing, to ensure high-speed delivery and stunning visual quality.
+
+View case studies
+Latest news & events
+PRESS
+Alpha Networks partners with Bitmovin to enhance live streaming experience
+BLOG
+Delivering Playback at Super Bowl Scale: FOX’s Streaming Success
+EVENT
+Meet us at Mile High Video, Denver
+February 2nd - 5th
+
+FEW KEY NUMBERS
+
+6m+
+
+minutes of VOD content processed every month
+
+10m+
+
+live minutes encoded
+every month
+
+2bn+
+
+player impressions across every device every month
+
+1bn+
+
+viewer sessions analyzed
+every month
+
+What are our customers saying
+3 years ago
+Full blown solution with many features and stable for all required devices.
+Show more
+Walter H.
+CEO Small-Business (50 or fewer emp.)
+3 years ago
+Bitmovin is an exceptional company with an amazing product
+Show more
+DD
+Dan D.
+CEO Small-Business (50 or fewer emp.)
+3 years ago
+Great API to encode, play & stream your video service
+Show more
+Gerald Z.
+CEO & Co-Founder Small-Business (50 or fewer emp.)
+2 years ago
+One Stop Shop for Live and On-Demand Media Streaming
+Show more
+John W.
+Small-Business (50 or fewer emp.)
+2 years ago
+Great video player/ knowledgeable super helpful team
+Show more
+Diluk D.
+Release Train Manager (Contract) Mid-Market (51-1000 emp.)
+2 years ago
+Great player and support across all platforms!
+Show more
+Jugal D.
+Mid-Market (51-1000 emp.)
+3 years ago
+Deep experience helped us meet customer needs.
+Show more
+Sean L.
+Founder/CEO Mid-Market (51-1000 emp.)
+2 years ago
+Super fast integration, stunning video quality
+Show more
+Alex C.
+CEO & Co-founder Mid-Market (51-1000 emp.)
+3 years ago
+Technology Leader and Engineering Excellence
+Show more
+Enterprise (> 1000 emp.)
+2 years ago
+Transcoding speeds that will blow you away
+Show more
+Mid-Market (51-1000 emp.)
+2 years ago
+Great encoding and exceptional support
+Show more
+HM
+Harold M.
+Small-Business (50 or fewer emp.)
+2 years ago
+Great API, documentation and examples
+Show more
+Rafael I.
+Software Engineer Small-Business (50 or fewer emp.)
+3 years ago
+Overall best product on the market
+Show more
+Alexander M.
+CEO Small-Business (50 or fewer emp.)
+3 years ago
+Full blown solution with many features and stable for all required devices.
+Show more
+Walter H.
+CEO Small-Business (50 or fewer emp.)
+3 years ago
+Bitmovin is an exceptional company with an amazing product
+Show more
+DD
+Dan D.
+CEO Small-Business (50 or fewer emp.)
+3 years ago
+Great API to encode, play & stream your video service
+Show more
+Gerald Z.
+CEO & Co-Founder Small-Business (50 or fewer emp.)
+2 years ago
+One Stop Shop for Live and On-Demand Media Streaming
+Show more
+John W.
+Small-Business (50 or fewer emp.)
+2 years ago
+Great video player/ knowledgeable super helpful team
+Show more
+Diluk D.
+Release Train Manager (Contract) Mid-Market (51-1000 emp.)
+2 years ago
+Great player and support across all platforms!
+Show more
+Jugal D.
+Mid-Market (51-1000 emp.)
+3 years ago
+Deep experience helped us meet customer needs.
+Show more
+Sean L.
+Founder/CEO Mid-Market (51-1000 emp.)
+2 years ago
+Super fast integration, stunning video quality
+Show more
+Alex C.
+CEO & Co-founder Mid-Market (51-1000 emp.)
+3 years ago
+Technology Leader and Engineering Excellence
+Show more
+Enterprise (> 1000 emp.)
+2 years ago
+Transcoding speeds that will blow you away
+Show more
+Mid-Market (51-1000 emp.)
+2 years ago
+Great encoding and exceptional support
+Show more
+HM
+Harold M.
+Small-Business (50 or fewer emp.)
+2 years ago
+Great API, documentation and examples
+Show more
+Rafael I.
+Software Engineer Small-Business (50 or fewer emp.)
+3 years ago
+Overall best product on the market
+Show more
+Alexander M.
+CEO Small-Business (50 or fewer emp.)
+2 years ago
+Powerful player and great support
+Show more
+AY
+Alvin Y.
+Product Manager Mid-Market (51-1000 emp.)
+3 years ago
+Cutting edge encoding technology
+Show more
+Small-Business (50 or fewer emp.)
+3 years ago
+Great UX and top quality output!
+Show more
+Gernot G.
+Inhaber Small-Business (50 or fewer emp.)
+2 years ago
+Support as biggest advantage
+Show more
+Filip .
+Software Engineer Small-Business (50 or fewer emp.)
+3 years ago
+Top Company, top product
+Show more
+Small-Business (50 or fewer emp.)
+3 years ago
+Business accelerator!
+Show more
+Cedric M.
+CEO Small-Business (50 or fewer emp.)
+2 years ago
+OTT recurrent user
+Show more
+Jorge B.
+Engenheiro de Sistemas de Televisão Pleno Enterprise (> 1000 emp.)
+7 years ago
+HTML5 video player
+Show more
+Troy D.
+Account Executive Internet Mid-Market (51-1000 emp.)
+2 years ago
+Web Video Player
+Show more
+Enterprise (> 1000 emp.)
+3 years ago
+Great experience
+Show more
+Mid-Market (51-1000 emp.)
+2 years ago
+Saved us time
+Show more
+Gonzalo L.
+Android Dev
+2 years ago
+Todo Correcto
+Show more
+JG
+Jordi G.
+Small-Business (50 or fewer emp.)
+3 years ago
+HTML Player
+Show more
+Markus S.
+Eigentümer Semantic Service Solutions GmbH Small-Business (50 or fewer emp.)
+2 years ago
+Powerful player and great support
+Show more
+AY
+Alvin Y.
+Product Manager Mid-Market (51-1000 emp.)
+3 years ago
+Cutting edge encoding technology
+Show more
+Small-Business (50 or fewer emp.)
+3 years ago
+Great UX and top quality output!
+Show more
+Gernot G.
+Inhaber Small-Business (50 or fewer emp.)
+2 years ago
+Support as biggest advantage
+Show more
+Filip .
+Software Engineer Small-Business (50 or fewer emp.)
+3 years ago
+Top Company, top product
+Show more
+Small-Business (50 or fewer emp.)
+3 years ago
+Business accelerator!
+Show more
+Cedric M.
+CEO Small-Business (50 or fewer emp.)
+2 years ago
+OTT recurrent user
+Show more
+Jorge B.
+Engenheiro de Sistemas de Televisão Pleno Enterprise (> 1000 emp.)
+7 years ago
+HTML5 video player
+Show more
+Troy D.
+Account Executive Internet Mid-Market (51-1000 emp.)
+2 years ago
+Web Video Player
+Show more
+Enterprise (> 1000 emp.)
+3 years ago
+Great experience
+Show more
+Mid-Market (51-1000 emp.)
+2 years ago
+Saved us time
+Show more
+Gonzalo L.
+Android Dev
+2 years ago
+Todo Correcto
+Show more
+JG
+Jordi G.
+Small-Business (50 or fewer emp.)
+3 years ago
+HTML Player
+Show more
+Markus S.
+Eigentümer Semantic Service Solutions GmbH Small-Business (50 or fewer emp.)
+Ready to get started?
+
+Access your free account today by signing up for a trial
+
+Start your trial
+USA
+
+1900 N Grant St
+
+Suite 610 (Floor 6)
+
+Denver, CO 80203
+
+AUSTRIA
+
+Schleppeplatz 7, Top 4.3
+
+9020 Klagenfurt
+
+FOLLOW US
+PRODUCTS
+Playback
+Player
+Observability
+Stream Lab
+VOD Encoder
+Live Encoder
+Streams
+AI Scene Analysis
+Pricing
+COMPANY
+About Us
+Press Room
+Partners
+Careers
+Contact Us
+CSR
+PLAYER SDKS
+HTML5 Web
+Android & Android TV
+iOS & tvOS
+Smart TVs
+Roku
+Gaming Consoles
+React Native
+Set Top Boxes
+Flutter
+RESOURCES
+Blog
+Downloads
+Webinars
+Case Studies & Testimonials
+Industry Use Cases
+Events
+Research
+Video Developer Report
+Video Glossary
+Community
+COMPARE
+vs ExoPlayer
+vs AVPlayer
+vs Shaka Player
+vs Video.js
+vs Dash.js
+vs hls.js
+vs Hybrik
+vs AWS MediaConvert
+vs In-House
+vs Zencoder
+Status | Terms of Service | Privacy Policy | Copyright © 2025 Bitmovin Inc. All rights reserved.

@@ -1,0 +1,148 @@
+Skip to main content
+
+New
+
+Forrester Wave Leader, Q2 2025
+
+Access report
+About us
+Partners
+Support
+|
+EN
+Login
+Elasticsearch
+Solutions
+Enterprise
+Resources
+Pricing
+Docs
+Search
+Start free trial
+Contact sales
+Download and provision Elastic
+
+Download Elasticsearch to get started with search, observability, and security for free. Deploy on Elastic Cloud (hosted or serverless), run it yourself on-premises, or use our official Kubernetes operator.
+
+Elasticsearch
+
+Store structured, unstructured, and vector data. Build AI apps with superior relevance and control. All through one flexible API.
+
+Provision on Elastic Cloud
+Download Elasticsearch
+Observability
+
+Unify your logs, metrics, traces, and profiling at scale in a single platform.
+
+Provision on Elastic Cloud
+Download APM Server
+Security
+
+Protect, investigate, and respond to threats with AI-driven security analytics — the future of SIEM.
+
+Provision on Elastic Cloud
+Elasticsearch — the most widely deployed vector database
+Copy to try locally in two minutes
+Copy to clipboard
+curl -fsSL https://elastic.co/start-local | sh
+Read docs
+OR
+Deploy for production
+Start free cloud trial
+
+Or, download on-prem
+
+Open source Elasticsearch
+
+With Elasticsearch, you can bring in data from any source, in any form. Self-manage and deploy quickly with our Docker image to start building your next search experience.
+
+Elastic Agent
+
+Use a single agent for logs, metrics, security data, and threat prevention.
+
+Download
+Beats
+Collect, parse, and ship in a lightweight fashion.
+Download
+Logstash
+Ingest, transform, enrich, and output.
+Download
+Connectors
+
+Connect popular databases, file systems, collaboration tools, and more.
+
+Download
+Clients
+
+Connect your apps with HTTP APIs.
+
+Explore clients 
+Open Crawler
+
+Discover, extract, and index web content with Elastic Open Web Crawler.
+
+Download
+Didn't find what you were looking for? Try below.
+Kibana
+Clients connectors and more
+Elastic Enterprise Search
+Archived plugins
+Visualize all your data
+Kibana on Elastic Cloud
+Deploy
+Kibana on-premises
+Download
+
+General Information: The export control information provided on this Website may not reflect the most current legal or regulatory developments and Elastic does not represent, warrant, or guarantee that it is complete, accurate or up to date. It is not intended as legal advice or as an exhaustive interpretation of the export control laws and regulations. For specific guidance, you should consult with your legal counsel, export professional or relevant governmental authorities.
+
+Export Control Classification: The Export Control Classification Number ("ECCN") for Elastic products are provided in order to help facilitate export operations. Our products and services, including encryption software, are subject to export control laws and regulations, which may include licensing requirements and restrictions on destinations, end-users, and end-uses. The ECCN and applicable controls for each product may vary. It is your responsibility to ensure compliance with the relevant export control requirements.
+
+No Elastic products or service may be sold, exported or re-exported, to an individual or entity located in an embargoed country or on any applicable government sanctions lists, including the U.S. Treasury Department’s list of Specially Designated Nationals, or on the U.S. Commerce Department’s Denied Persons List or Entity List. Such prohibition includes the following countries: Cuba, Iran, North Korea, Syria, Russia, Belarus, and the Crimea, Luhansk, and Donetsk regions of Ukraine. You are responsible for obtaining all required licenses or other governmental approvals related to your use, or transfer of, any Elastic products or services. By downloading or using Elastic's products or services, you certify that you are not prohibited from using such products or services as a result of any trade or export restrictions, and you further certify that you are not located in an embargoed country or otherwise listed on any applicable government sanctions list.
+
+By accessing and using the export control information on this Website, you agree to release Elastic from any liability related to your compliance or non-compliance with applicable export control laws and regulations.
+
+Need a hand? We're here for you.
+
+We offer support, consulting, training, and useful features that take your Elastic experience to a whole new level.
+
+Contact us
+FOLLOW US
+ABOUT US
+About Elastic
+Leadership
+Blog
+Newsroom
+JOIN US
+Careers
+Career portal
+How we hire
+PARTNERS
+Find a partner
+Partner login
+Request access
+Become a partner
+TRUST & SECURITY
+Legal
+Trust center
+Privacy
+Trade Compliance
+Ethics & Compliance
+INVESTOR RELATIONS
+Investor resources
+Governance
+Financials
+Stock
+EXCELLENCE AWARDS
+Previous winners
+Elastic{ON} Tour
+Become a sponsor
+All events
+TrademarksTerms of UsePrivacySitemap
+
+© 2025. Elasticsearch B.V. All Rights Reserved
+
+This website and all associated content, software, discussion forums, products, and services are intended for professional use only. No consumer use of this website or its content is intended or directed.
+
+Elastic, Elasticsearch, and other related marks are trademarks, logos, or registered trademarks of Elasticsearch B.V. in the United States and other countries.
+
+Apache, Apache Lucene, Apache Hadoop, Hadoop, HDFS and the yellow elephant logo are trademarks of the Apache Software Foundation in the United States and/or other countries. All other brand names, product names, or trademarks belong to their respective owners.

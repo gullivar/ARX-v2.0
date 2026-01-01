@@ -1,0 +1,27 @@
+Slim Framework - Slim Framework Toggle navigation Slim Blog User Guide Support Contribute Slim a micro framework for PHP Slim is a PHP micro framework that helps you quickly write simple
+            yet powerful web applications and APIs. <?php
+use Psr\Http\Message\ResponseInterface as Response;
+use Psr\Http\Message\ServerRequestInterface as Request;
+use Slim\Factory\AppFactory;
+
+require __DIR__ . '/../vendor/autoload.php';
+
+$app = AppFactory::create();
+
+$app->get('/hello/{name}', function (Request $request, Response $response, array $args) {
+    $name = $args['name'];
+    $response->getBody()->write("Hello, $name");
+    return $response;
+});
+
+$app->run(); Blog User Guide Community Contribute Download & Install We recommend you install the Slim Framework with the Composer dependency manager. The easiest way to start working with Slim is to create a project using Slim-Skeleton as a base
+        by running this bash command: $ composer create-project slim/slim-skeleton [my-app-name] Replace [my-app-name] with the desired directory name for your new application. You can then run it with PHP's built-in webserver: $ cd [my-app-name]; php -S localhost:8080 -t public Features HTTP Router Slim provides a fast and powerful router that maps
+                    route callbacks to specific HTTP request methods and
+                    URIs. It supports parameters and pattern matching. Middleware Build your application with concentric middleware to tweak
+                    the HTTP request and response objects around your Slim app. PSR-7 Support Slim supports any PSR-7 HTTP message implementation
+                    so you may inspect and manipulate HTTP message method,
+                    status, URI, headers, cookies, and body. Dependency Injection Slim supports dependency injection so you
+                    have complete control of your external tools.
+                    Use any PSR-11 ContainerInterface implementation. Latest News Nov 21, 2025 Slim 4.15.1 released We are pleased to release Slim 4.15.1 today, with official support for PHP 8.5 which was released yesterday. Aug 24, 2025 Slim 4.15.0 released Slim 4.15.0 has been released. Jun 13, 2024 Slim 4.14.0 released We are pleased to have released Slim 4.14.0. As a mature release, there aren’t many changes and all are minor and
+can be seen here . Older News Subscribe with RSS Community You can chat with other Slim Framework developers to share code or troubleshoot tricky issues using
+        either Slack or Discourse. Slack We can be found on Slack at slimphp.slack.com . Get Access to the Slack Channel Discourse forum We also have a Discourse forum at discourse.slimframework.com/ for when you have a more in depth question. Visit the forum Created and maintained by Josh Lockhart , Andrew Smith , Rob Allen , Pierre Bérubé , and the Slim Framework Team

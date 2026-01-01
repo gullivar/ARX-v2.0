@@ -1,0 +1,7 @@
+Sign in to www.buzzfeed.io
+
+You may sign in with any of these Okta accounts:
+buzzfeed.com, buzzfeednews.com, huffpost.com, huffpost.jp, valmorgan.com.au, id.buzzfeed.co.uk, id.huffpost.co.uk
+
+Sign in with Okta
+Secured by SSO

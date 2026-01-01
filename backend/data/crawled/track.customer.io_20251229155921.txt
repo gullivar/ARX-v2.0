@@ -1,0 +1,3 @@
+Welcome to the Customer.io API.
+
+Go to API documentation

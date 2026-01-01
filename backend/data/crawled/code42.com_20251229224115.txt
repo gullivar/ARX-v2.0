@@ -1,0 +1,194 @@
+EN    CAREERS SUPPORT LOGIN CONTACT
+Solutions
+Products
+Partners
+Resources
+Why Mimecast
+GET A QUOTE
+INCYDR
+See & Stop Data Loss From Insiders
+
+Protect critical data from exposure, loss, leak and theft, while accelerating incident response times.
+
+GET A QUOTE SEE IT IN ACTION 
+​​
+INCYDR
+GET A QUOTE
+Home  Products Incydr
+The way we work has changed. It’s time data protection changed too
+Let’s face it. Data protection is a mandate, but not often a successful initiative. The research is clear: employee-driven data loss is frequent, impactful, costly, and uncontrolled – even when organizations have multiple solutions in place today. Learn why Incydr is a more effective and efficient way to solve for data loss.
+GenAI has increased data exfiltration
+86% of security leaders fear employees are leaking data to GenAI tools
+Data loss is costly
+The average cost of a single insider threat incident is $15M. (Code42 DER 2024)
+Insider risk events persist
+Insider-driven data events are increasing, despite 99% of companies using traditional DLP solutions.
+Secure critical data without the traditional perimeter
+Eliminate
+blind spots
+
+Detect data theft and IP leaks immediately with unmatched visibility – no complex policies needed.
+
+Automate
+effective response
+
+Automatically correct mistakes, block unacceptable activity, and document and contain insider threats.
+
+Never disrupt
+productivity
+
+Deploy Incydr confidently, knowing it won't affect device performance or restrict legitimate file activity.
+
+Incydr at a glance
+
+Effective risk prioritization
+Eliminate blind spots and focus on the threats that matter with Incydr's intelligent PRISM system to prioritize both your known and unknown data risks.
+Comprehensive coverage
+Native response controls
+30+ integrations
+
+FEATURED USE CASE
+
+Stay ahead of data leaks via GenAI tools
+
+Generative AI tools put your sensitive data at risk through actions like copy-pasting or file uploads. Mimecast Incydr protects your organization by monitoring these activities in real time and sending instant alerts to prevent data loss.
+
+OUR APPROACH
+Unlock the ROI of Incydr in just 6 months, according to Forrester TEI™ results
+DOWNLOAD STUDY
+The Incydr difference
+ROI in less than 6 months
+
+Unlike policy-driven solutions which take months to deploy and fine-tune, half of Incydr customers spend less than 4 hours a week – and have no dedicated headcount.
+
+Better coverage & results
+
+Rather than stitch DLP, CASB, and UEBA together for the coverage and context you need, Incydr delivers better detection in a single solution. It detects more and prioritizes better – helping companies reduce time to investigate high-risk incidents by 50%.
+
+
+
+
+
+Seamlessly integrates with your existing tech stack
+
+With so many exfiltration points across modern organizations, integrate with Mimecast to respond and control insider risks across your organization.
+
+Mimecast detects unusual data activity, enabling controls to correct and contain risk by isolating endpoints by isolating endpoints in CrowdStrike
+LEARN MORE
+Automate risk detection using threat indicators and coordinated response through Mimecast and Palo Alto Networks Cortex XSOAR
+LEARN MORE
+Strengthen insider risk response with CyberArk and Incydr to monitor high-value users and control access to organizational resources.
+LEARN MORE
+A Mimecast plan that fits your organization’s needs
+
+Mimecast offers multiple plans designed to meet your organization’s needs and enable you to keep ahead of evolving threats.
+
+EXPLORE PLANS
+Trusted by over 42k customers
+
+Mimecast is proud to protect and support 42,000+ organizations globally, helping them navigate the ever-expanding threat landscape since 2003.
+
+Mimecast
+Email Security Platforms (Transitioning to Email Security)
+4.5
+607 Ratings 
+Submit a review
+As of 29 Dec 2025
+Okta Chooses Incydr Over CASB to Avoid Data Leak from Cloud File Sharing
+READ STORY
+
+"Incydr stood out for how quickly it could be implemented and see value within the month. Incydr’s direct, API-to-API approach to integrate with cloud and email systems meant Okta would not need to set up and manage a proxy server in order to avoid accidental data leak via cloud file sharing and email. "
+
+ Matheo Lord-Martinez
+
+
+
+
+IT Security Director at Okta
+
+Banked Protects Source Code and Employee Trust with Incydr
+READ STORY
+
+"If people are going to trust our products with their own financial information, we need to make sure we don't have significant security events like source code leaking.”
+
+Jamal Issouquaein
+
+
+
+
+IT Engineer
+
+Lyft Uses Incydr to “Take the Blinders Off” of High-Value Data Movement
+READ STORY
+
+"The big thing we were trying to solve was that we had no idea where our data was going. We just had no visibility whatsoever. It was honestly just like running around with blinders on."
+
+Jae Ward
+
+
+
+
+Security Analyst
+
+How UserTesting Protects Their Data Without Traditional Perimeters
+READ STORY
+
+"With the insight Incydr provides, we are able to quickly and easily determine what is normal behavior and what is an indicator of insider risk."
+
+Dustin Fritz
+
+
+
+
+Senior Security Architect
+
+
+The Human Risk Management Platform
+
+To effectively safeguard an organization’s collaboration, a unified platform with integrated protection across all communication channels—email, chat, and file-sharing—is essential. This approach ensures comprehensive threat detection and mitigation, eliminating gaps in security and streamlining operations.
+
+OUR PLATFORM
+Ready to get started?
+
+Keep ahead of the ever-evolving threat landscape with Mimecast
+
+CONNECT WITH SALES
+
+About Us
+
+Overview
+Careers
+Leadership
+
+Products
+
+All Products
+Education
+Partners
+
+Resource Center
+
+Newsroom
+Events
+Resources
+Customer Stories
+Blog
+Trust Center
+Media Kit
+
+Contact Us
+
+Global Locations
+Get a Quote
+Contact Support
++1 617 393 7000
+Contracts
+Privacy Statement
+Legal
+Privacy Preferences
+Responsible Disclosure
+
+© 2003 - 2025 Mimecast Services Limited
+
+This website uses cookies in order to provide you with the best possible experience and to monitor and improve the performance of the site. We have published a new cookie policy which explains what cookies are and which types of cookies this website uses. By continuing to use this site, you are agreeing to the use of cookies, unless you have disabled them. Privacy Statement
+Cookies Settings Accept All Cookies

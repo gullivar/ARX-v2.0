@@ -1,0 +1,2 @@
+deSEC – Free Secure DNS Modern DNS Hosting for Everyone deSEC is a free DNS hosting service, designed with security in mind . Running on open-source software and supported by SSE ,
+        deSEC is free for everyone to use. 🛑 Warning deSEC requires JavaScript for accessing the control panel for DNS management. Please enable JavaScript for this site to proceed. Hint: Accessing the API documentation does not require JavaScript.

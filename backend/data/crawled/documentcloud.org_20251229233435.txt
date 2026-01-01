@@ -1,0 +1,24 @@
+	
+Sign In Sign Up
+Embed documents on your site and publish to our growing archive. 
+Upload documents. 
+Extract, analyze and search text. 
+Annotate, redact and edit. 
+
+DocumentCloud is an all-in-one platform used by newsrooms around the world to manage primary source documents. You can use the platform to organize, analyze, annotate, search and embed these resources as needed.
+
+DocumentCloud is a service of MuckRock Foundation, whose privacy policy and terms of service apply to all users on this site.
+
+Who can use DocumentCloud?
+
+Anyone is welcome to search public documents and organize interesting documents into projects.
+
+Newsrooms and independent journalists can upload documents for annotation and publishing. If you are seeking to upload and publish documents, you need to create an account at https://accounts.muckrock.com  and request verification.
+
+Archives and academic projects may also be able to upload documents for annotation and publishing. To get started,  please create an account at https://accounts.muckrock.com and request verification.
+
+DocumentCloud has a full API that you can use to manage large-volume projects and an extensive suite of Add-Ons that facilitate bulk operations and powerful analysis.
+
+Learn more about how to use our API in our  full API documentation | Check out our Add-Ons
+
+If you want to stay abreast of updates to our services, definitely subscribe to our newsletter. DocumentCloud is a project of the MuckRock Foundation, a 501c3 organization that is committed to trust, transparency, and civic engagement.

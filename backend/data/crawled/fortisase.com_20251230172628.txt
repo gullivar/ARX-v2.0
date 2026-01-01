@@ -1,0 +1,38 @@
+FortiSASE
+
+Comprehensive cloud-delivered security and networking solution for users everywhere
+
+Log in with FortiCloud SSO
+Register
+Current version: 25.4.88 ( Release notes | What's new )
+What is FortiSASE?
+
+The Fortinet secure access service edge (SASE) solution enables secure access to the web, cloud, and applications for the hybrid workforce, while simplifying operations. It combines software-defined wide area network (SD-WAN) with FortiSASE cloud-delivered security service edge (SSE) to extend the convergence of networking and security from the network edge to remote users.
+
+Learn more about FortiSASE
+
+Preview
+FortiSASE is SOC2-certified
+
+FortiSASE complies with the AICPA standards for security, high availability and confidentiality. Learn more about the process, available reports, and key principles.
+
+To request compliance reports, go to our Trust Resource Center.
+
+Documentation: 4-D resources
+
+Use the Fortinet Document Library to learn how to define, design, deploy, and demo your security solutions through FortiSASE.
+
+Videos: Use cases
+FortiGuard Forensics
+FortiSASE offers detailed analyses of endpoints through FortiGuard Forensics. This service generates reports on evidence of any suspicious activities and allows taking action to prevent, respond to, and recover from potential cybersecurity incidents.
+SOC-as-a-Service
+Perfect for smaller organizations without the space nor specialized personnel to run a security operations center (SOC), you can forward logs to Fortinet’s SOC-as-a-Service for real-time analysis of endpoints and alert administrators about potential threats to be remediated.
+
+Copyright © 2025 Fortinet, Inc. All Rights Reserved.
+
+Terms of Service
+Privacy Policy
+Notice for California Residents
+Do Not Sell Or Share My Personal Information
+GDPR
+Canadian Accessibility

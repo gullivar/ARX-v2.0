@@ -1,0 +1,23 @@
+Matplotlib — Visualization with Python Skip to main content Back to top Ctrl + K Plot types User guide Tutorials Examples Reference Contribute Releases Gitter Discourse GitHub Plot types User guide Tutorials Examples Reference Contribute Releases Gitter Discourse GitHub Matplotlib: Visualization with Python Matplotlib is a comprehensive library for creating static, animated,
+          and interactive visualizations in Python. Matplotlib makes easy things
+          easy and hard things possible. Create publication quality plots . Make interactive figures that can zoom, pan, update. Customize visual style and layout . Export to many file formats . Embed in JupyterLab and Graphical User Interfaces . Use a rich array of third-party packages built on Matplotlib. Try Matplotlib (on Binder) Getting Started Examples Reference Cheat Sheets Documentation News # Dec 13, 2024 Matplotlib 3.10.0 Released We thank the 128 authors for the 337 pull requests that comprise the 3.10.0 release. May 30, 2024 GSOC 2024: Bivariate Colormaps A warm welcome to Trygve Magnus Ræder, who is working on bivariate colormapping . May 16, 2024 Matplotlib 3.9.0 Released We thank the 175 authors for the 450 pull requests that comprise the 3.9.0 release. Older Announcements Resources # Be sure to check the Users
+            guide and the API
+            docs . The full text search is a
+            good way to discover the docs including the many examples. Join our community at discourse.matplotlib.org to get help, share your work, and discuss contributing &
+            development. Check out the Matplotlib tag on StackOverflow . Meet us at our monthly call for new contributors to the Matplotlib
+            project. Subscribe to our community calendar at Scientific Python to get access to all our community meetings. Short questions related to contributing to Matplotlib may be posted on the gitter channel. Domain Specific Tools # A large number of third party packages extend and build on Matplotlib
+          functionality, including several higher-level plotting interfaces
+          (seaborn, HoloViews, ggplot, ...), and a projection and mapping
+          toolkit (Cartopy). More Domain-Specific Tools seaborn Cartopy DNA Features Viewer plotnine WCS Axes seaborn seaborn is a high level interface for drawing statistical graphics
+              with Matplotlib. It aims to make visualization a central part of
+              exploring and understanding complex datasets. statistical data visualization Cartopy Cartopy is a Python package designed for geospatial data
+              processing in order to produce maps and other geospatial data
+              analyses. Cartopy DNA Features Viewer DNA Features Viewer is a Python library to visualize DNA features,
+              e.g. from GenBank or Gff files, or Biopython SeqRecords. DNA Features Viewer plotnine plotnine is an implementation of a grammar of graphics in Python.
+              The grammar allows users to compose plots by explicitly mapping
+              data to the visual objects that make up the plot. plotnine WCSAxes WCSAxes is a framework for making plots of Astronomical data in
+              Matplotlib. WCSAxes Support Matplotlib # Contribute Matplotlib is a community project maintained for and by its users You can help by answering questions on discourse ,
+              reporting a bug or requesting a feature on GitHub , or improving the documentation and code ! Join us on Discourse Join us on GitHub Cite Matplotlib is the result of development efforts by John Hunter
+              (1968–2012) and the project's many contributors . If Matplotlib contributes to a project that leads to a scientific
+              publication, please acknowledge this work by citing the project! Ready made citation Donate If you would like to support Matplotlib financially you can
+              donate by sponsoring Matplotlib on GitHub or making a (USA) tax-deductible donation through NumFOCUS . Sponsor on GitHub Donate to Matplotlib Matplotlib Donate to Matplotlib © 2012 – 2025 The Matplotlib development team Matplotblog Code of Conduct License Governance NumFOCUS Fiscally Sponsored Project Latest Stable Release docs | changelog Development version docs

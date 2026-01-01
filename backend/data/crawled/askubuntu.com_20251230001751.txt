@@ -1,0 +1,247 @@
+Skip to main content
+Log in
+Sign up
+Home
+Questions
+Unanswered
+AI Assist
+Tags
+Chat
+Users
+Companies
+STACK INTERNAL
+
+Stack Overflow for Teams is now called Stack Internal. Bring the best of human thought and AI automation together at your work.
+
+Try for free Learn more
+Explore our questions
+Ask Question
+bootnetworkingcommand-line14.04driversaptdual-boot16.04server12.04 more tags
+Active
+Hot
+Week
+Month
+3
+votes
+1
+answer
+6k
+views
+Ubuntu 18.04.1 LTS VERY, VERY slow boot
+18.04
+Community
+Bot
+1
+modified 13 mins ago
+0
+votes
+2
+answers
+60
+views
+Boot hangs with black screen after update to kernel 5.15.0-164
+kernel22.04
+eltomito
+151
+answered 17 mins ago
+5
+votes
+2
+answers
+2k
+views
+How to compare 2 files and extract the particular sequence using ID in first file and print the out put
+grepperl
+Ed Morton
+480
+modified 41 mins ago
+1
+vote
+1
+answer
+16
+views
+Weird terminal formatting (Ubuntu 24.04)
+24.04gnome-terminal
+John Scott Stensland
+17.9k
+answered 1 hour ago
+0
+votes
+0
+answers
+10
+views
+udiskctl mount - how is target location/directory determined?
+mountfstabudisks
+Jeremy Bradshaw
+1
+asked 1 hour ago
+5
+votes
+1
+answer
+14k
+views
+Can't uninstall dash to dock
+20.04dockdash-to-dock
+Community
+Bot
+1
+modified 1 hour ago
+3
+votes
+3
+answers
+246
+views
+Match a list of patterns to be excluded and remove the pattern and the following line
+command-linetext-processing
+Ed Morton
+480
+answered 1 hour ago
+0
+votes
+0
+answers
+8
+views
+Shared folders not accessible despite smbstatus showing connections
+networkingnautilussamba
+Paul Jurczak
+1,277
+modified 1 hour ago
+1
+vote
+3
+answers
+5k
+views
+apt install no longer works for kubernetes. snap install also fails
+aptsnapkubernetes
+Community
+Bot
+1
+modified 2 hours ago
+0
+votes
+2
+answers
+1k
+views
+Canon MG2550 printer: "check your printer configuration"
+driversprintinglibreofficecanon
+David Parker
+1
+answered 2 hours ago
+12
+votes
+3
+answers
+80k
+views
+Accessing an Ubuntu 24.04 machine via rdp port selection
+xrdprdp24.04
+AleSuarez
+1
+modified 2 hours ago
+2
+votes
+3
+answers
+2k
+views
+Mobile app development issues with qmlviewer not being found?
+application-developmentqt-creatorqml
+adrian dekker
+1
+modified 2 hours ago
+0
+votes
+2
+answers
+23
+views
+How to change directories to where Wine is located
+winessd
+david
+1,197
+answered 2 hours ago
+0
+votes
+0
+answers
+720
+views
+Ubuntu Macbook Pro Sound Card problems Cirrus Logic 8409
+driverssoundmacbook
+Pablo Romero
+1
+modified 3 hours ago
+Browse more Questions
+Report this ad
+Hot Network Questions
+A regular circle of images
+Why doesn't Strecker synthesis produce AHAs instead?
+Daily interest - is this being calculated correctly?
+How to confirm the original server IP behind a CDN?
+How can I make an object shadowless?
+WCF 5.3: What does it mean that God uses means and can work without, above and against them?
+Why doesn't the HDMI port on an HP EliteBook Ultra G1i work as an output port?
+Would Hofstadter's critique of the theory of types apply to modern type theories as well?
+Is the 2013 "photo" of a hydrogen atom with an electron orbiting real?
+What are the international agreements that Russia has recently terminated with 11 European countries?
+What is the benefit of letting an in-progress espagnole sauce rest overnight?
+How I reattach trim that has come loose between my ceiling and cabinets?
+How do we define the intersection volume of two intersecting unit spheres
+Do Orlando hotel prices spike at the last minute?
+In what way is Jesus' burden light?
+Greek transliteration of the Latin word, parma
+How is the disc identifier found in .cda files computed?
+Why does my sidewalk accumulate ice over a drain pipe?
+Is a hyphen in "almost(-)<adjective>" compound modifier needed, optional, or wrong?
+What does the command 'recoverydiagnose' do?
+Is the Canonical Decomposition of Functions Canonical?
+Is it possible/advisable to teach my child's coach how to teach?
+Word: the beginning
+Which incarnation of the Doctor is Kate Lethbridge-Stewart referring to in The War Between the Land and the Sea?
+ Recent questions feed
+ASK UBUNTU
+Tour
+Help
+Chat
+Contact
+Feedback
+COMPANY
+Stack Overflow
+Stack Internal
+Stack Data Licensing
+Stack Ads
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+STACK EXCHANGE NETWORK
+Technology
+Culture & recreation
+Life & arts
+Science
+Professional
+Business
+API
+Data
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+Site design / logo © 2025 Stack Exchange Inc; user contributions licensed under CC BY-SA . rev 2025.12.22.38265
+
+Ubuntu and the circle of friends logo are trade marks of Canonical Limited and are used under licence.
+By continuing to use this website, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy. By exiting this window, default cookies will be accepted. To reject cookies, select an option from below.
+Necessary cookies only
+Customize settings

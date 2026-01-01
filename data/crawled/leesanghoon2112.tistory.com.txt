@@ -1,0 +1,58 @@
+코딩하는 훈이
+검색
+메뉴
+전체 글
+
+Programming/eGovFramework 전자정부프레임워크
+
+2023.09.22
+
+Swing2
+
+2023.03.23
+
+Swing 윈도우 프로그래밍1
+
+2023.03.23
+
+Interface
+
+2023.03.21
+
+Programming/eGovFramework 전자정부프레임워크
+
+#egovFramework - eGovFramework 란 ? 등장배경 및 목적 개발프레임워크는 정보시스템 개발을 위해 필요한 기능 및 아키텍쳐를 미리 만들어 제공함으로써 효율적인 어플리케이션 구축을 지원합니다. "전자정부 표준프레임워크"는 공공사업에 적용되는 개발프레임워크의 표준 정립으로 응용 SW 표준화, 품질 및 재 사용성 향상을 목표로 합니다. 이를 통해 "전자정부 서비스의 품질향상" 및 정보화 투자 효율성 항샹"을 달성하고, 대·중소기업이 동일한 개발기반 위에서 공정 경쟁이 가능하게 됩니다. ※ 표준프레임워크는 기존 다양한 플랫폼(.NET, php 등) 환경을 대체하기 위한 표준은 아니며, java 기반의 정보시스템 구축에 활용하실 수 있는 개발·운영 표준 환경을 제공하기 위한 것입니다. 특징 ..
+
+카테고리 없음
+2023. 9. 22. 13:22
+
+Swing2
+
+package day15; import java.awt.Container;... 참고로 import 할 클래스들이 생길 경우 컨트롤 쉬프트 "o"키를 누르면 자동 import 됩니다. class ButtonTest2 extends JFrame{ ButtonTest2(){ JButton b1 = new JButton("1"); JButton b2 = new JButton("2"); JButton b3 = new JButton("3"); JButton b4 = new JButton("4"); JButton b5 = new JButton("5"); JButton b6 = new JButton("6"); JButton b7 = new JButton("7"); JButton b8 = new JButton("8")..
+
+카테고리 없음
+2023. 3. 23. 18:39
+
+Swing 윈도우 프로그래밍1
+
+윈도우 프로그래밍에 필요한 윈도우 구성요소를 보유한 클래스(JFrame)를 상속받아 추가기능 탑재 형식의 개발을 진행합니다. 생성자에서 최초하면을 구성합니다. 그리고 화면에 표시하는 명령을 맨 마지막에 실행하는 형식입니다. class ButtonTest extends JFrame{ ... ButtonTest(){ ... } ... } 생성자에 입력된 텍스트를 한 가운데 표시한 버튼을 생성합니다. 아직 화면에 버튼이 보이는 상태는 아닙니다. 생성만 해서 아직 배치하고나 보여주는 단계는 아닙니다. 버튼 또는 그 외 컨트롤들은 윈도우에 배치되고 위치를 잡아 올라가고 윈도우가 화면에 보여질 때 같이 표시됩니다. JButton male = new JButton("남자"); JButton female = new J..
+
+카테고리 없음
+2023. 3. 23. 18:20
+
+Interface
+
+자바 언어에서 제공하는 상속 기능은 단일 상속만을 지원한다. 하나의 클래스는 하나의 부모클래스를 가질 수 있습니다. (여러개의 클래스를 상속할 수 없음) 예 ) class SubA extends SuperA, SuperB {} -> 에러 위 내용을 상속의 상속을 거쳐서 구현은 가능합니다. 예) class SuperA extends SuperB{} / class SubA extends Super A 다중 상속을 위해 만들어진 interface 1. 인터페이스도 클래스입니다. 다만 제약이 있는 클래스입니다. 2. 인터페이스는 멤버필드로 public static final 멤버만 가질 수 있습니다.★★★★ 3. 일반 멤버변수와 일반 멤버메서드를 가질 수 없습니다.★★★★ 4. 인터페이스는 멤버메서드로 publ..
+
+자바
+2023. 3. 21. 18:55
+
+페이징
+ 이전
+1
+다음 
+패밀리사이트
+TISTORY
+코딩하는 훈이 © Magazine Lab
+    
+티스토리툴바

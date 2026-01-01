@@ -1,0 +1,10 @@
+ This action has been blocked!
+Our WAF identified malicious activity, if you believe it was a false positive, release the URI on your dashboard.
+
+ More information
+
+Unique ID: 176701787972.877272
+
+Your IP: 95.211.126.56
+
+URI: /

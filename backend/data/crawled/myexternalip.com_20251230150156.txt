@@ -1,0 +1,274 @@
+home
+about
+news
+howto
+raw
+My External IP address is ...
+Port: 41480
+Need a robust API to Geolocate IPs and fetch other crucial information? Try IPInfo.io.
+What is My External IP all about?
+
+Every device connected to a network which uses the Internet Protocol has an unique IP address assigned to it. The global pool of such interconnected networks is known the internet.
+
+Sometimes, when looking at it from the outside of the network, the IP address of a device seems to be different from the one assigned in the original (sub)network. This is due some mechanisms such as NAT.
+
+My External IP displays the IP address of the device as it seems from the outside (hence external).
+
+News / New Features
+2016-07-10 Added: Show RIPE information about the IP number.
+2015-10-30 Added: FreeBSD fetch sample.
+2015-08-03 Added: AutoHotkey sample.
+2015-02-23 Added: Erlang and Elixir samples
+2015-01-07 Enabled: ipv4.myexternalip.com and ipv6.myexternalip.com.
+
+I switched on ipv4.myexternalip.com which answers only to requests coming in via IPv4. ipv6.myexternalip.com will do the same for IPv6. This might come in handy when you test your setup or toy around with IPv6.
+
+Btw: Happy 2015!
+
+2014-12-08 myexternalip.com in the wild
+
+Here are some clever uses of myexternalip.com I've seen in the wild:
+
+ipgetter - Utility to fetch your external IP address
+Dyn53 - Update DNS records dynamically with Amazon Route 53
+CLOUDFLARE AND DYNAMIC DNS - Tom CHapman's Blog
+Minecraft Forum
+Raspberry PI - direct webserver (JBoss) to URL
+2014-12-04 Support for JSON / JSON-P
+
+I added support for JSON / JSON-P to make retrieving the IP via Javascript a little bit easier. There are two options:
+
+JSON: http://myexternalip.com/json
+JSON-P: http://myexternalip.com/json?jsonp=yourCallback
+2014-08-26 Flattr and throttle
+
+Flattr: I created a flattr-account and start accepting donations (small, big, does not matter). If you want to donate by other means: contact me.
+
+Throttle: some folks out there have either running curl in a while-loop or a crazy understanding of how often their external ip changes or they need some tool to help keeping a line busy. Whatever the case might be: 20+ requests / second is way too often and thus I decided to throttle the answer a little bit. The good folks among you won't hardly notice it at all, the .. strange .. folks might.
+
+2014-03-11 Introducing access rate
+
+Usually this service runs very low profile and without much handholding. Recently I watched at the load and then on some logs and on some more logs and on some tcpdumps: One machine out there wanted to know it's IP at the rate of ~ 100 times a second. Heart-warming. Especially when the IP does not change at all. And especially when the user agent looks like "/tmp/.botc3 / 82d7f55ef6a49ab4e49d89caa5ea10ba"
+
+So, the new access rate for everyone is around 1/s.
+
+And you, young fella at 118.175.31.x ... you are banned! :)
+
+2013-09-29 activated IPv6
+
+'My External IP' can be reached via IPv6 now as well.
+
+With IPv6 the whole NATting is kind of pointless and most devices will have a 'real' IP address with IPv6 but you still can use myexternalip.com to check if your network works as expected.
+
+Looks like you are using IPv4.
+
+2013-08-16 added 'My-External-Ip' header
+
+Whenever you HEAD http://myexternalip.com, you will find your IP will be there (hint: in the 'my-external-ip' header)!
+
+Checkout some of the examples on how to make use of that feature
+
+How to use My External IP - API
+
+So, how to use this site in your environment (other than just surfing it with a browser)?
+
+Rate limit: if you exceed the rate limit of 30 requests/minute, you will receive status code 429 If you continue to exceed that limit and start to annoy me you will get banned at the IP filter level. Sorry, but I do not see the need to retrieve the IP more than maybe once every minute, 30 requests per minute is good will on my behalf.
+
+API-Endpoints:
+
+GET /raw
+Plain IP address
+GET /json
+IP address in JSON format
+GET /json?jsonp=callback
+IP address as JSONP-ready script ("function call"). 'callback' must fit the following constraints:
+Max-length: 64
+Begins with [_a-zA-Z]
+Continues with [_a-zA-Z0-9]
+
+Here is a list of ideas to get you started:
+
+CURL(HEAD)
+WGet
+Fetch
+NetCat(HEAD)
+BITS (Windows only)
+Powershell 2.0 (Windows only)
+Golang
+Javascript via NodeJS
+Javascript via NodeJS + Request
+Javascript (jQuery)
+Python(One-Liner)(using 'request')(using 'request' + HEAD)
+Ruby(One-Liner)
+Perl(One-Liner)
+F#
+Php
+Common Lisp
+Erlang
+Elixir - httpc
+Elixir - HTTPoison
+AutoHotkey (AHK)
+CURL
+
+to quote from the homepage of 'curl':
+
+curl is a command line tool for transferring data with URL syntax, supporting FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTMP and RTSP. curl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP form based upload, proxies, cookies, user+password authentication (Basic, Digest, NTLM, Negotiate, kerberos...), file transfer resume, proxy tunneling and a busload of other useful tricks.
+RAW
+$> curl "http://myexternalip.com/raw"
+HEAD
+$> curl -I "http://myexternalip.com"
+WGET
+
+to quote from the homepage of 'wget':
+
+GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP, the most widely-used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
+$> wget -q -O - "http://myexternalip.com/raw"
+FETCH
+
+to quote from the homepage of 'fetch':
+
+fetch -- retrieve a file by Uniform Resource Locator
+$> fetch -q -o - "http://myexternalip.com/raw"
+NETCAT
+
+often cited as the "Swiss Army Knife for TCP/IP" you can use netcat to obtain your external ip. this approach also works with netcat-alikes such as socat or even with telnet:
+
+$> echo -ne "GET /raw HTTP/1.1\r\n\r\n" | \
+    nc myexternalip.com 80
+NETCAT, HEAD method
+
+just like the regular netcat version, just ask the server to deliver just the HEAD-information
+
+$> echo -ne "HEAD / HTTP/1.1\r\n\r\n" | \
+    nc myexternalip.com 80
+Microsoft Windows
+Powershell
+
+Powershell is the replacement for the 'old' cmd.exe, it is a builtin of the Windows OS since Windows7 and Windows Server 2008 R2. It is also available as an additional feature for WindowsXP, WindowsVista and Windows Server.
+
+$> $wc = new-object System.Net.WebClient
+$> $url="http://myexternalip.com/raw"
+$> $wc.DownloadString($url)
+BITS
+
+BITS stands for "Background Intelligent Transfer Service", it is a builtin tool of the Windows OS.
+
+$> set URL="http://myexternalip.com/raw"
+$> bitsadmin /transfer "myip" "%URL%" "%TEMP%"\myip.txt
+$> type "%TEMP%"\myip.txt
+Golang
+package main
+
+import ( "io"; "net/http"; "os" )
+
+func main() {
+    resp, err := http.Get("http://myexternalip.com/raw")
+    if err != nil {
+        os.Stderr.WriteString(err.Error())
+        os.Stderr.WriteString("\n")
+        os.Exit(1)
+    }
+    defer resp.Body.Close()
+    io.Copy(os.Stdout, resp.Body)
+}
+Javascript
+NodeJS
+var http = require('http');
+var url = 'http://myexternalip.com/raw';
+http.get(url, function(r) {
+  r.setEncoding('utf8');
+  r.on('data', console.log.bind(console));
+});
+NodeJS + request
+var request = require('request');
+var url = 'http://myexternalip.com/raw';
+request(url, function (err, resp, myip) {
+  console.log(myip);
+});
+jQuery (JSONP)
+jQuery.ajax({jsonp: 'jsonp',
+  dataType: 'jsonp',
+  url: 'http://myexternalip.com/json',
+  success: function(myip) {alert(myip); }
+});
+Python
+Python One-Liner
+$> python -c "import urllib;
+    url = 'http://myexternalip.com/raw';
+    print urllib.urlopen(url).read()"
+Python
+import urllib
+url = 'http://myexternalip.com/raw'
+myip = urllib.urlopen(url).read()
+
+print myip
+Python with 'request'
+import requests
+
+url = 'http://myexternalip.com/raw'
+r = requests.get(url)
+ip = r.text
+Python with 'request', HEAD method
+import requests
+url = 'http://myexternalip.com'
+r = requests.head(url)
+ip = r.headers['my-external-ip']
+Ruby
+Ruby
+require 'net/http'
+url = URI('http://myexternalip.com/raw')
+ip = Net::HTTP.get(url)
+
+print ip
+Ruby One-Liner
+$> ruby -ropen-uri -e \
+    'puts open http://myexternalip.com/raw", &:read'
+    
+Perl
+use LWP::Simple;
+$ip = (get "http://myexternalip.com/raw");
+
+print $ip;
+Perl One-Liner
+$> perl -e 'use LWP::Simple; \
+    $url = "http://myexternalip.com/raw";
+    print (get $url);'
+F#
+open FSharp.Data
+
+printfn "%s" (Http.RequestString("http://myexternalip.com/raw"))
+Php
+$> php -r '$u = "http://myexternalip.com/raw";
+echo file_get_contents($u);'
+Common Lisp
+(ql:quickload 'drakma')
+(print (drakma:http-request "http://myexternalip.com/raw"))
+Erlang - Native
+inets:start(),
+{ok, {_, _, IP}} = httpc:request(get, {"http://myexternalip.com/raw", []}, [], []),
+io:format("~s", [IP]).
+Elixir - httpc
+:inets.start
+:httpc.request(:get, {'http://myexternalip.com/raw', []}, [], [] ) 
+|> elem(1) |> elem(2) |> IO.puts
+Elixir - HTTPoison
+HTTPoison.start
+{:ok, req} = HTTPoison.get("http://myexternalip.com/raw")
+IO.puts req.body
+AutoHotkey (AHK)
+WhatIsMyIP()
+{
+    request := ComObjCreate("WinHttp.WinHttpRequest.5.1")
+
+    timeoutVal := 59000
+    request.SetTimeouts(timeoutVal, timeoutVal, timeoutVal, timeoutVal)   
+    request.Open("GET", "http://myexternalip.com/raw")
+    request.Send()
+
+    return request.ResponseText
+}
+Contact
+
+If you wish to contact us, please mail to webmaster@myexternalip.com.
+
+© 2012 - 2023 myexternalip.com

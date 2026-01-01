@@ -1,0 +1,145 @@
+About cookies on this site
+
+We use cookies to collect and analyze information on site performance and usage, to provide social media features and to enhance and customize content and advertisements.
+
+Learn more
+
+Cookie settings
+ALLOW ALL COOKIES
+Products
+Community
+Learn
+Resources
+ 
+Sign In
+Get started
+The Future of AI Relies on API Quality
+
+Swagger enables design, governance, and testing across the full AI-enabled API lifecycle, ensuring quality at every step.
+
+Build APIs ready for humans, LLMs, agents, and continuous innovation.
+
+Find your tool
+Read the docs
+
+TRUSTED BY
+
+FEATURES
+
+Scale your API with confidence
+Design
+
+Faster Development
+
+Document
+
+Fewer support tickets
+
+Functional Test
+
+Increased confidence
+
+Contract Test
+
+Safer deployments
+
+EMPOWERING API DEVELOPMENT
+
+Streamline your workflow with unparalleled API specification support
+API Specifications
+
+Swagger places API specifications such as OpenAPI, AsyncAPI, and JSON Schema at the core of its architecture, which are crucial for guiding teams through the entire lifecycle of API design and documentation. This strategic focus ensures that our suite, including open source tools and Swagger Enterprise, delivers unparalleled efficiency and a seamless user experience.
+
+Explore the API Specifications 
+
+Swagger Open Source Tools
+
+Discover the power of Swagger’s open source tools, built upon the core of API specifications and in collaboration with the community, which offer a rich set of features that address the unique challenges of API design and development. These open source offerings include:
+
+Swagger Editor
+
+Craft your APIs directly in your browser with real-time feedback and syntax auto-completion. 
+
+Swagger UI
+
+Visualize and interact with the API's resources without having any of the implementation logic in place. 
+
+Swagger Codegen
+
+Generate client libraries, server stubs, and API documentation from an OpenAPI Specification. 
+
+Explore Open Source Tools 
+
+Swagger
+
+Swagger is built for teams of all sizes, integrating the core functionality of Swagger open source tools with advanced capabilities to support teamwork, enterprise API development and API discoverability.
+
+Standards & Governance
+
+Enforce consistent API design standards across your organization to simplify development and ensure compliance.
+
+Team Collaboration
+
+Streamline your API development with role-based access controls and sophisticated collaboration tools.
+
+Effortless Integration
+
+Deploy directly to popular API gateways, version control systems, webhooks, and more, ensuring your APIs are ready to scale.
+
+Discover Swagger 
+
+SmartBear Named a Leader by Gartner® in the 2024 Magic Quadrant™ for API Management
+
+Learn More
+Swagger and OpenAPI go hand‑in‑hand.
+
+Swagger offers powerful and easy to use tools to take full advantage of the OpenAPI Specification. See how we do it 
+
+SmartBear is committed to open source development. Create more with us.
+Learn More
+
+CONTACT US
+
+USA
++1 617-684-2600
+EUR
++353 91 398300
+AUS
++61 391929960
+
+COMPANY
+
+About
+Careers
+Contact Us
+Newsroom
+Partners
+Responsibility
+
+RESOURCES
+
+OpenAPI Specification
+Resource Center
+Blog
+Docs
+
+PRODUCTS
+
+Swagger
+Swagger Editor
+Swagger Codegen
+Swagger UI
+
+LEGAL
+
+Privacy
+Security
+Terms of Use
+Website Terms of Use 
+Facebook
+Instagram
+Linkedin
+X
+YouTube
+
+© 2025 SmartBear Software. All Rights Reserved.

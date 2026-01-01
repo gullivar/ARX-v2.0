@@ -1,0 +1,21 @@
+Safing Portmaster - Easy Privacy Safing .io Download Features Pricing SPN About Wiki & FAQ Sign Up Sign In Get Peace of Mind with Easy Privacy Portmaster is a free and open-source application firewall that does the heavy lifting for you.
+      Restore privacy and take back control over all your computer's network activity. Windows (.exe) Free Download Windows Debian/Ubuntu (.deb) Free Download Ubuntu Fedora (.rpm) Free Download Fedora Version: V2 Github Stars: Monitor All Network Activity Discover everything that is happening on your computer. Expose every
+          connection your applications make and detect evil ones. Finally get
+          the power to act accordingly. Discover More features Auto-Block Trackers System-Wide Protect your whole computer, not just your browser. Block all
+          advertisements and trackers for every application. Easily add
+          your own rules and block individual domains. Discover More features Set Global & per‑App Settings Make your own rules. Completely cut off applications from the
+          Internet. Or block all p2p connections except for certain apps.
+          Or never connect to specific countries. Portmaster has you
+          covered. Discover More features Protect Your Device Today Portmaster is not only very powerful, but is also free & open source. Windows (.exe) Free Download Windows Debian/Ubuntu (.deb) Free Download Ubuntu Fedora (.rpm) Free Download Fedora Seen and featured on Follow Us Blog, Podcast & Videos Blogs Podcast Videos Portmaster Development Roadmap: 2025 Survey Results BLOG -
+        
+        24. Oct 2025 Help Shape the Future of Portmaster: Take the 2025 User Survey BLOG -
+        
+        26. Aug 2025 Portmaster v2 is Here: Foundation for the Future BLOG -
+        
+        23. Jul 2025 Safing Joins Forces with IVPN: A New Chapter Begins BLOG -
+        
+        3. Dec 2024 Company Journey Update Jan BLOG -
+        
+        2. Jan 2024 Portmaster v1.6 BLOG -
+        
+        11. Dec 2023 Company About Us Business Model Support Community Code of Conduct Blog Podcast Videos Discord Github Twitter YouTube Portmaster Download Features Wiki & FAQ Source Code vs GlassWire vs Simplewall vs Pi-hole SPN Features Whitepaper Source Code vs VPNs vs Tor © 2025 Safing ICS Technologies GmbH Terms of Service Privacy Policy Contact & Notice Companies mentioned are by way of example and are an opinion only, not based on fact.

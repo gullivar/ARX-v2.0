@@ -1,0 +1,101 @@
+Security Affairs - Read, think, share … Security is everyone's responsibility Home Cyber Crime Cyber warfare APT Data Breach Deep Web Hacking Hacktivism Intelligence Artificial Intelligence Internet of Things Laws and regulations Malware Mobile Reports Security Social Networks Terrorism ICS-SCADA Crypto POLICIES Contact me MUST READ ESA disclosed a data breach, hackers breached external servers | Singapore CSA warns of maximun severity SmarterMail RCE flaw | MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs | Coupang announces $1.17B compensation plan for 33.7M data breach victims | Mustang Panda deploys ToneShell via signed kernel-mode rootkit driver | Lithuanian suspect arrested over KMSAuto malware that infected 2.8M systems | U.S. CISA adds a flaw in MongoDB Server to its Known Exploited Vulnerabilities catalog | Romania’s Oltenia Energy Complex suffers major ransomware attack | Korean Air discloses data breach after the hack of its catering and duty-free supplier | MongoBleed flaw actively exploited in attacks in the wild | Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor | Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk | Stolen LastPass backups enable crypto theft through 2025 | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77 | Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION | LangChain core vulnerability allows prompt injection and data exposure | NPM package with 56,000 downloads compromises WhatsApp accounts | Trust Wallet warns users to update Chrome extension after $7M security loss | Pro-Russian group Noname057 claims cyberattack on La Poste services | Aflac confirms June data breach affecting over 22 million customers | Home Cyber Crime Cyber warfare APT Data Breach Deep Web Hacking Hacktivism Intelligence Artificial Intelligence Internet of Things Laws and regulations Malware Mobile Reports Security Social Networks Terrorism ICS-SCADA Crypto POLICIES Contact me Hacking December 31, 2025 MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs Cyber Crime December 29, 2025 Romania’s Oltenia Energy Complex suffers major ransomware attack Data Breach December 28, 2025 Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk LATEST NEWS VIEW ALL Security ESA disclosed a data breach, hackers breached external servers Pierluigi Paganini December 31, 2025 ESA confirmed a data breach after a hacker offered to sell stolen data, confirming that external science servers were compromised.
+
+
+
+The European Space Agency (ESA) disclosed a data breach after a t ... Security Singapore CSA warns of maximun severity SmarterMail RCE flaw Pierluigi Paganini December 31, 2025 Singapore’s CSA warns of CVE-2025-52691, a critical SmarterMail flaw enabling unauthenticated remote code execution via arbitrary file upload.
+
+
+
+Singapore’s  Cyber Security Agency of Singapore ( ... Hacking MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs Pierluigi Paganini December 31, 2025 MongoBleed (CVE-2025-14847) lets attackers remotely leak memory from unpatched MongoDB servers using zlib compression, without authentication.
+
+
+
+A critical vulnerability, CVE-2025-14847 (MongoBleed) ... Security Coupang announces $1.17B compensation plan for 33.7M data breach victims Pierluigi Paganini December 30, 2025 Coupang will spend about $1.17B to compensate 33.7 million users affected by a data breach, providing purchase vouchers to those impacted.
+
+
+
+Coupang announced it will spend about $1.17 billion to co ... 1 2 3 ... 4492 4493 4494 top articles Experts found an unsecured 16TB database containing 4.3B professional records December 14, 2025 GhostPairing campaign abuses WhatsApp device linking to hijack accounts December 18, 2025 Pro-Russian group Noname057 claims cyberattack on La Poste services December 26, 2025 Stolen LastPass backups enable crypto theft through 2025 December 28, 2025 Spotify cracks down on unlawful scraping of 86 million songs December 26, 2025 newsletter Subscribe to my email list and stay up-to-date! most popular VIEW ALL Security ESA disclosed a data breach, hackers breached external servers December 31, 2025 Security Singapore CSA warns of maximun severity SmarterMail RCE flaw December 31, 2025 Hacking MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs December 31, 2025 Security Coupang announces $1.17B compensation plan for 33.7M data breach victims December 30, 2025 Security Mustang Panda deploys ToneShell via signed kernel-mode rootkit driver December 30, 2025 recent articles Security ESA disclosed a data breach, hackers breached external servers ESA confirmed a data breach after a hacker offered to sell stolen data, confirming that external science servers were compromised.
+
+
+
+The European Space Agency (ESA) disclosed a data breach after a t ... Pierluigi Paganini December 31, 2025 Security Singapore CSA warns of maximun severity SmarterMail RCE flaw Singapore’s CSA warns of CVE-2025-52691, a critical SmarterMail flaw enabling unauthenticated remote code execution via arbitrary file upload.
+
+
+
+Singapore’s  Cyber Security Agency of Singapore ( ... Pierluigi Paganini December 31, 2025 Hacking MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs MongoBleed (CVE-2025-14847) lets attackers remotely leak memory from unpatched MongoDB servers using zlib compression, without authentication.
+
+
+
+A critical vulnerability, CVE-2025-14847 (MongoBleed) ... Pierluigi Paganini December 31, 2025 Security Coupang announces $1.17B compensation plan for 33.7M data breach victims Coupang will spend about $1.17B to compensate 33.7 million users affected by a data breach, providing purchase vouchers to those impacted.
+
+
+
+Coupang announced it will spend about $1.17 billion to co ... Pierluigi Paganini December 30, 2025 Security Mustang Panda deploys ToneShell via signed kernel-mode rootkit driver China-linked APT Mustang Panda used a signed kernel-mode rootkit driver to load shellcode and deploy its ToneShell backdoor.
+
+
+
+China-linked APT Mustang Panda (aka Hive0154, HoneyMyte, Camaro Dragon ... Pierluigi Paganini December 30, 2025 Malware Lithuanian suspect arrested over KMSAuto malware that infected 2.8M systems A Lithuanian national was arrested for allegedly spreading KMSAuto malware that stole clipboard data and infected 2.8 million Windows and Office systems.
+
+
+
+A Lithuanian man (29) was arrested for all ... Pierluigi Paganini December 30, 2025 Hacking U.S. CISA adds a flaw in MongoDB Server to its Known Exploited Vulnerabilities catalog U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds a MongoDB Server flaw to its Known Exploited Vulnerabilities catalog.
+
+
+
+The U.S. Cybersecurity and Infrastructure Security Agency (C ... Pierluigi Paganini December 30, 2025 Cyber Crime Romania’s Oltenia Energy Complex suffers major ransomware attack A ransomware attack hit Romania’s Oltenia Energy Complex on December 26, knocking out IT systems at the country’s largest coal power producer.
+
+
+
+A ransomware attack disrupted Oltenia Energy Comp ... Pierluigi Paganini December 29, 2025 Data Breach Korean Air discloses data breach after the hack of its catering and duty-free supplier Korean Air employee discloses a data breach after a hack of its catering and duty-free supplier, KC&D, affecting thousands of staff.
+
+
+
+Korean Air suffered a data breach after its in-flight cater ... Pierluigi Paganini December 29, 2025 Hacking MongoBleed flaw actively exploited in attacks in the wild A recently disclosed MongoDB flaw (MongoBleed) is under active exploitation, with over 87,000 potentially vulnerable instances exposed worldwide.
+
+
+
+A newly disclosed MongoDB vulnerability, tracked a ... Pierluigi Paganini December 29, 2025 APT Evasive Panda cyberespionage campaign uses DNS poisoning to install MgBot backdoor China-linked APT Evasive Panda used DNS poisoning to deliver the MgBot backdoor in targeted cyber-espionage attacks in Türkiye, China, and India.
+
+
+
+Kaspersky researchers spotted the China-linked AP ... Pierluigi Paganini December 29, 2025 Data Breach Condé Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk Hacker claims Condé Nast breach, leaking 2.3M WIRED subscriber records and threatening to expose up to 40M more from other brands.
+
+
+
+A hacker known as “Lovely” claims to have leaked personal da ... Pierluigi Paganini December 28, 2025 Crypto Stolen LastPass backups enable crypto theft through 2025 Stolen vault backups from the 2022 LastPass breach are still being cracked, allowing attackers to steal crypto as late as 2025.
+
+
+
+The blockchain intelligence firm TRM Labs warns that encrypted vault ... Pierluigi Paganini December 28, 2025 Malware SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 77 Security Affairs Malware newsletter includes a collection of the best articles and research on malware in the international landscape
+
+
+
+Malware Newsletter
+
+
+
+Choose Your Fighter: A New Stage in the  ... Pierluigi Paganini December 28, 2025 Breaking News Security Affairs newsletter Round 556 by Pierluigi Paganini – INTERNATIONAL EDITION A new round of the weekly Security Affairs newsletter has arrived! Every week, the best security articles from Security Affairs are free in your email box.
+
+
+
+Enjoy a new round of the weekly Security ... Pierluigi Paganini December 28, 2025 Hacking LangChain core vulnerability allows prompt injection and data exposure A critical flaw in LangChain Core could allow attackers to steal sensitive secrets and manipulate LLM responses via prompt injection.
+
+
+
+LangChain Core (langchain-core) is a key Python package in the ... Pierluigi Paganini December 27, 2025 Malware NPM package with 56,000 downloads compromises WhatsApp accounts An NPM package with over 56,000 downloads stole WhatsApp credentials, hid its activity, and installed a backdoor.
+
+
+
+Koi Security researchers warned that the NPM package ‘Lotusbail’, a WhatsApp W ... Pierluigi Paganini December 27, 2025 Cyber Crime Trust Wallet warns users to update Chrome extension after $7M security loss Trust Wallet urged users to update its Chrome extension after a security incident caused about $7 million in losses.
+
+
+
+Trust Wallet warned users to update its Google Chrome extension after a securit ... Pierluigi Paganini December 26, 2025 Hacktivism Pro-Russian group Noname057 claims cyberattack on La Poste services Pro-Russian hacking group Noname057 claimed responsibility for the cyberattack that recently disrupted La Poste's digital banking and online services.
+
+
+
+This week, the French national postal service ... Pierluigi Paganini December 26, 2025 Data Breach Aflac confirms June data breach affecting over 22 million customers A June data breach exposed the personal information of more than 22 million Aflac customers, the company confirmed.
+
+
+
+A data breach in June exposed the information of more than 22 million Aflac cust ... Pierluigi Paganini December 26, 2025 To contact me write an email to: Pierluigi Paganini : [email protected] LEARN MORE QUICK LINKS Home Cyber Crime Cyber warfare APT Data Breach Deep Web Hacking Hacktivism Intelligence Artificial Intelligence Internet of Things Laws and regulations Malware Mobile Reports Security Social Networks Terrorism ICS-SCADA Crypto POLICIES Contact me Copyright@securityaffairs 2024 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent. Cookie Settings Accept All Manage consent Close Privacy Overview This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience. Necessary Necessary Always Enabled Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information. Non-necessary Non-necessary Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website. SAVE & ACCEPT

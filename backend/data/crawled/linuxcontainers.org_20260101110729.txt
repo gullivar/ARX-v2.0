@@ -1,0 +1,25 @@
+Linux Containers Menu Close menu Jump to main content Home Home Page Jobs Incus Introduction Announcement Try it online News Documentation Downloads GitHub Forum Image server IncusOS Introduction Documentation Download GitHub Forum LXC Introduction News Getting started Documentation Manpages Contribute Security Downloads GitHub Forum Image server LXCFS Introduction News Getting started Manpages Contribute Downloads GitHub Forum distrobuilder Introduction News Documentation Contribute Downloads GitHub Forum Language English 日本語 Deutsch 简体中文 Indonesia Français Home Home Page Container and virtualization tools linuxcontainers.org is the umbrella project behind Incus, LXC,
+         LXCFS, Distrobuilder and more. The goal is to offer a distro and vendor neutral environment
+        for the development of Linux container technologies. Our focus is providing containers and virtual machines that run
+        full Linux systems. While VMs supply a complete environment,
+        system containers offer an environment as close as possible to
+        the one you'd get from a VM, but without the overhead that comes
+        with running a separate kernel and simulating all the hardware. Active projects Incus Incus is a container and virtual-machine manager. Based on LXC for containers and QEMU for virtual machines, it offers a
+        seamless cloud-like experience scaling from a developer's laptop to a
+        full cluster of up to 50 servers. In addition to managing containers and VMs, Incus also provides
+        a variety of options to manage storage and network. Learn more Try it online IncusOS IncusOS is a modern immutable OS platform designed to run Incus. Built from the ground up with one goal in mind, running Incus as
+        consistently and reliably as possible. It relies on modern
+        security technologies to offer a safe environment with strong boot
+        security and full disk encryption. Its immutable base with an A/B update scheme makes it perfect
+        for those who just want a reliable virtualization platform, whether at
+        home or at datacenter scale. Learn more Download LXC LXC is a well-known Linux container runtime that consists of
+        tools, templates, and library and language bindings. It's pretty
+        low level, very flexible and covers just about every containment
+        feature supported by the upstream kernel. Learn more LXCFS LXCFS is a userspace (FUSE) filesystem which offers: Overlay files for cpuinfo, meminfo, stat and uptime. A cgroupfs compatible tree allowing unprivileged writes. It's designed to work around the shortcomings of procfs, sysfs
+        and cgroupfs by exporting files that match what a system
+        container user would expect. Learn more distrobuilder distrobuilder is an image building tool for containers and virtual machines: Complex image definition as a simple YAML document. Multiple output formats (chroot, LXD, LXC). Support for a lot of distributions and architectures. distrobuilder's modern design utilises pre-built official images whenever available,
+        uses a declarative image definition (YAML) and supports a variety of
+        modifications on the base image. Learn more Deprecated projects CGManager CGManager was a cgroup manager daemon
+        designed to allow nested unprivileged containers
+        to be able to create and manage their
+        cgroups through a DBus API. Learn more › Project infrastructure sponsored by Zabbly . Improve this website Back to top Content under Creative Commons CC BY-NC-SA

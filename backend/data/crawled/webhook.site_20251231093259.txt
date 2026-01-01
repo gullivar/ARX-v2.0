@@ -1,0 +1,41 @@
+Webhook.site - Test, transform and automate Web requests and emails Toggle navigation Webhook.site Docs & API Features & Pricing Terms , Privacy & Security Support Copy URL {{ getUrl() }} URL (Subdomain) {{ getUrlSubdomain() }} Email Address {{ getEmail() }} DNSHook {{ getDnshook() }} ID {{ token.uuid }} Edit New Login Sign Up Now {{ token.expires_at | humanDate:'rel-xs' }} {{ token.alias ? token.alias : token.uuid.substring(0, 8) }} {{ tokenHistoryItem.alias ? tokenHistoryItem.alias : tokenHistoryItem.uuid }} {{ tokenHistoryItem.description }} All URLs... Clear History Share Schedule Form Builder CSV Export Custom Actions Replay XHR Redirect Redirect Now More Mark all as read Auto Navigate Hide "Don't Save" Requests Delete all requests... Delete URL... Delete HTTP Request responses {{forceTutorial ? 'Hide' : 'Show'}} Intro Inbox ({{ requests.total || 0 }}{{ !token.premium ? '/' + appConfig.MaxRequests : '' }}) {{ sorting === 'oldest' ? 'Oldest First' : 'Newest First' }} Waiting for first request No results Previous Page {{ request.custom_action_errors.length }} Webhook.site {{ request.method
+                                    }} Mail DNS {{ request.method }} #{{ request.uuid.substring(0, 5) }} {{ request.ip
+                                    }} {{ request.sender }} {{ request.ip }} {{ localDate(request.created_at) }} Next page First ← Prev Next → Last Upgrade to a Webhook.site account to unlock unlimited requests This URL received the maximum of {{ appConfig.MaxRequests }} requests and can't accept more
+                        requests, emails or DNSHooks.
+
+                        New requests sent to this URL will return HTTP status code 410 Gone or 429 Too Many Requests and
+                        won't be logged. Also note that it is against our terms of service to use Webhook.site for any
+                        kind of load testing or benchmarking. Upgrade Now This URL is not associated with your account, doesn't have upgraded features enabled
+                    and will be deleted in {{ diffInDays(token.expires_at) }} days. Add to account This URL expires in {{ diffInHours(token.expires_at) }} hours.
+                    {{ user.team.subscribed ? 'Add it to your Webhook.site account' : 'Sign up' }} to avoid losing data. {{ user.team.subscribed ? 'Add to account' : 'Sign Up Now' }} Your unique URL {{ getUrl()
+                                            }} Open in new tab Examples Your unique email address {{ getEmail() }} Open in mail client Your unique DNS name *.{{ getDnshook() }} About DNSHook Proxy bidirectionally with Webhook.site CLI whcli forward --token={{ token.uuid }}
+                                            --target=https://localhost Info & installation Star on GitHub Follow @webhooksite on 𝕏 What is Webhook.site? Webhook.site generates free, unique URLs and e-mail addresses
+                                    and lets you see everything that’s sent there instantly. Benefits of upgrading to a Webhook.site account Webhook.site takes away the frustration of building software and solutions that interact
+                                    with cloud services or connect via webhooks. Keep webhook history, share it or replay it.
+                                    Make sure data does not get lost.
+                                    Save time and development costs by running workflows on our cloud. Unlimited requests, emails, DNSHooks Receive endless webhooks with addresses that can be managed
+                                        in your account and never expire.
+                                        View a history of the latest 10.000 items. Forward and Transform Transform data and resend to different URLs or emails – with retry
+                                        and error notifications. Fetch data with our easy to use API . Workflows and Automations Click, drag and drop or use AI to create workflows that run on each incoming request.
+                                    Go back and see what happened and run again
+                                        with Error Log, Replay and notifications. Native integrations including Google Sheets, Excel, Slack, S3, Dropbox, SFTP, push notifications, databases, and much
+                                            more . More Features Schedules & Cronjobs: Set your workflows to run every minute, day, week.
+                                        Use as an uptime & SSL monitor. Databases: Running in our secure cloud, our Postgres-compatible databases
+                                        work great for building workflows. Multi-user & SSO: Onboard your org instantly. Roles and user levels.
+                                    Connect to e.g. Google Workspace, Microsoft Entra. Custom Domains & URLs: Bring your own domain,
+                                        and name your Webhook.site URLs and email addresses so they're easy to remember. Sign Up Now – from $7.5/month Read more about
+                                        benefits About Us Documentation FAQ Request Details & Headers Permalink API URL Open in {{ type }} Copy as {{ type }} Delete {{ currentRequest.method
+                                                    }} {{ currentRequest.url }} Host Whois Shodan Netify Censys VirusTotal Location {{ currentRequest.country_code | countryFlag }} {{ currentRequest.city }}, {{ currentRequest.region === currentRequest.city ? '' : currentRequest.region + ', ' }} {{ currentRequest.country }} Host {{ currentRequest.hostname }} Whois Shodan Netlify Censys Sender {{ currentRequest.sender }} Date {{ localDate(currentRequest.created_at) }}
+                                                    ({{ relativeDate(currentRequest.created_at) }}) Size {{ friendlyBytes(currentRequest.size) }} Time {{ (currentRequest.time | number:3) }} sec ID {{ currentRequest.uuid }} Note Add Note {{ currentRequest.note }} {{ checkName }} {{ checkValue ? 'Passed' : 'Failed' }} {{ headerName }} {{ values.join(', ') }} Query strings None {{ name }} {{ value === '' ? '(empty)' : value }} Form values None {{ name }} {{ value === '' ? '(empty)' : value }} Files {{ fileId }} {{ fileProps['filename'] }} ({{ fileProps['content_type'] }},
+                                                    {{ friendlyBytes(fileProps['size']) }}) Request Content No content Word-Wrap Copy Text Content Word-Wrap Copy HTML Content Format JSON Word-Wrap Copy Raw Content Cannot show content due to size. Download
+                                                original email. Custom Actions Output No action output Create Custom Action Replay Actions Deleted Action
+                                            (#{{ id.substring(0, 5) }}) #{{ getAction(id).order }}
+                                            {{ getAction(id).name
+                                                    ? getAction(id).name
+                                                    : actionNames[getAction(id).type]}} Delayed HTTP Requests & Responses HTTP Request #{{ response.uuid.substring(0, 5) }} {{ response.method
+                                                    }} {{ response.url }} Custom Action #{{ getAction(response.action_id).order }}
+                                                {{ getAction(response.action_id).name ? getAction(response.action_id).name : actionNames[getAction(response.action_id).type]
+                                                }} Deleted Action
+                                                (#{{ response.action_id.substring(0, 5) }}) Date {{ localDate(response.created_at)
+                                                }}
+                                                ({{ relativeDate(response.created_at) }}) Request Headers {{ headerName }} {{ value === '' ? '(empty)' : value }}{{ $last ? '' : ', ' }} No request content Response Details URL {{ response.url }} Status code Error {{ response.status }} Time {{ response.request_time | number:3 }} sec Response Headers {{ headerName }} {{ value === '' ? '(empty)' : value }}{{ $last ? '' : ', ' }} No response content

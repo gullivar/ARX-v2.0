@@ -1,0 +1,66 @@
+SubWallet - Highly secure and comprehensive Web3 wallet Overview Security Dotinsights User guide English 中文 Download Overview Security Dotinsights User guide Comprehensive Polkadot, Substrate & Ethereum
+                                    wallet Empower the next blockchain revolution with a
+                                        one-stop-shop for the multichain Extension iOS & Android Web Dashboard Empower Multichain Crypto Use Manage multiple seed phrases with only one master password.
+                                SubWallet supports 150+ networks, 450+ tokens, and 80+ dApps. Explore now Where The Next Blockchain Revolution Happens All the functions you need. In one SubWallet. Download SubWallet Where Your Security Is Prioritized Security is at the center of everything we do. We uphold the core
+                        values of Web3: privacy and self-custody. Non-custodial Wallet Only you have access to your accounts, funds, private keys
+                                    and data. We cannot help you restore once they are lost. Read the docs Respected User Privacy We do not track any personal identifiable information, your
+                                    account addresses or asset balances. View our policy Fully Open Source As a Web3 project, we keep our GitHub open-sourced so that
+                                    anyone can audit our codes. Probe our GitHub Independent Audit We have officially passed independent security audit 02 times and received certification. Check the reports Cold Wallet Support You can use Polkadot Vault, Ledger and Keystone with
+                                    SubWallet to better secure your assets. Read the docs Phishing Prevention We have integrated phishing lists from Polkadot {.js} and
+                                    ChainPatrol to protect you from scams. Read the docs Web3 Natives Love SubWallet We collaborate closely with our partners to ensure that you receive
+                                        the best possible experience. Download for free Contact to integrate “ As a daily user of SubWallet, I can attest to its reliability,
+                                                        ease of use, and overall impact on my workflow. Upon discovering
+                                                        SubWallet, I was immediately impressed with their commitment to
+                                                        advancing the blockchain space through a seamless, secure, and
+                                                        user-friendly wallet solution. Marvin Tong
+                                                                    // @marvin_tong Co-founder
+                                                                    of Phala Network “ As a person working in the blockchain industry,
+                                                        I am very cautious with security and UX for any wallet interaction.
+                                                        After finding SubWallet last year, it became my go-to non-custodial
+                                                        wallet since then. I am impressed with its token-centric focus,
+                                                        and continuous improvements the team has made. Justin Pham // @justinphamnz Co-founder
+                                                                    of Bit.Country “ SubWallet team expertise in building secure and user-friendly
+                                                        wallet solutions has changed the way users interact with Astar.
+                                                        With their innovative features and commitment to user
+                                                        experience, SubWallet has become an indispensable tool for
+                                                        seamless transactions and asset management. Maarten // @henskensm Head of Astar
+                                                                    Foundation “ SubWallet truly elevates the user experience within the Polkadot
+                                                        ecosystem. The simplicity of cross-chain transfers (XCM),
+                                                        comprehensive NFT support, straightforward crowdloan
+                                                        participation, and intuitive staking processes make even
+                                                        advanced technologies approachable. Dmitry Zhelezov // @dmitry-zhelezov Co-founder of
+                                                                    Subsquid “ SubWallet is a user-friendly and open-source wallet for the
+                                                        Polkadot and Kusama ecosystem. It supports a wide range of
+                                                        parachains and assets. With its intuitive interface and
+                                                        commitment to open-source principles, SubWallet offers a
+                                                        reliable option for those seeking a versatile and accessible
+                                                        wallet. Bryan Chen // @XiliangChen Co-founder of
+                                                                    Acala “ Onboarding users to web3 products can be a challenge. Working
+                                                        with SubWallet for the release of our first season of Awesome
+                                                        Ajuna Avatars, made this a breeze! The combination of a fluid
+                                                        user experience and focus on security makes SubWallet an ideal
+                                                        partner for our AAA and more! Nicholas // @nickdouz Co-founder of
+                                                                    Ajuna Network “ Thanks to the xcm transfer feature of SubWallet, xcRHEE can
+                                                        finally say goodbye to polkadot.js extension wallet, which was
+                                                        supposed to be used by the developers in most cases. Now, I no
+                                                        longer have to search for different applications from different
+                                                        parachains interfaces when I want to cross-transfer my assets! Sang Hyun Rhee // @RHEE_UNION Head of East
+                                                                    Asia of Polkadot “ I recommend SubWallet for three reasons. SubWallet has a cool
+                                                        UI/UX design. The UI is intuitively navigable. Finally, I trust
+                                                        the SubWallet team. They sincerely listen to user feedback and
+                                                        provide quick updates. I have high expectations for SubWallet's
+                                                        future evolution as a trusted "Crypto Wallet" for users. Takeshi // @tsarah0822 Astar Ambassador “ I am impressed with Subwallet's intuitive design. Navigating the
+                                                        interface was a breeze. Features are well-organized, and the
+                                                        user experience is clearly at the heart of its design, making
+                                                        asset management straightforward and efficient. What sets
+                                                        Subwallet apart, however, is its dedication to staying ahead of
+                                                        the curve. Muddleebee // @muddleebee Polkadot
+                                                                    Ambassador “ I really like the work that SubWallet has been doing, helping
+                                                        new users onboard the Polkadot Ecosystem with an easy-to-use and
+                                                        outstanding desktop extension UI, as well as the mobile wallet.
+                                                        I love Dotinsights; it provides great information that helps us
+                                                        better understand the direction of the entire project. Maarmapa // @maarmapa Polkadot LATAM
+                                                                    Head Ambassador Give It A Try One SubWallet. On multiple platforms: WebApp, Extension and
+                        Mobile. Extension Seamless access to all your Polkadot & Ethereum assets from
+                                your browser. Chrome Brave FireFox MS Edge Mobile Use your phone to explore Polkadot and Ethereum on the go! App Store Google Play TestFlight Web Dashboard The one-stop dashboard to manage your assets with full
+                                control. SubWallet Product Overview Download Security Support Docs & Wiki Social Twitter LinkedIn Youtube Telegram Discord Resources Blog Brand Kit Terms of Use GitHub © SubWallet, 2023

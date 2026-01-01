@@ -1,0 +1,135 @@
+Home
+Stats
+Developers
+PulseChain
+
+In
+
+The faster, smarter, energy-efficient crypto network.
+Decentralized, censorship-resistant, primed for growth.
+
+Take control of your finances and your future.
+Get Started
+PulseChain.com
+Day 964
+24h
+7d
+30d
+3m
+6m
+1y
+ATL
+$
+PLS
+Gas Token
+.
+.
+.
+.
+.
+PLSX
+Buy & Burn
+.
+.
+.
+.
+.
+INC
+Incentive
+.
+.
+.
+.
+.
+HEX
+Mining Protocol
+.
+.
+.
+.
+.
+Prepare Your Wallet
+Wallets, such as Internet Money, MetaMask, and Brave Wallet , interact with PulseChain.
+
+
+Set Up Wallet
+More Details
+Install a wallet (Internet Money, MetaMask, or Brave Wallet)
+Find the Switch Network button in your wallet software and search for a Add Custom Network. Enter the network settings below.
+
+After installing, some wallets will let you add PulseChain by clicking here.
+Find the Custom Network button and add the following settings:
+Network Name: PulseChain
+RPC URL: https://rpc.pulsechain.com
+Chain ID: 369
+Currency Symbol: PLS
+Block Explorer URL: https://ipfs.scan.pulsechain.com
+Buy PLS
+PLS is required for all transactions and can be bought directly via bank-to-crypto platforms, such as 0xCoast or Rampnow.
+
+Existing crypto users can use LibertySwap, Gibs Finance, or other methods.
+
+
+Buy PLS Today
+More Details
+
+PLS is the native gas token of PulseChain and is required for all transactions, including sends, swaps, and interacting with contracts.
+
+Buy with a Bank
+PulseChain can be bought directly via bank on 0xCoast or Rampnow
+
+Swap/Bridge Crypto
+Already own tokens on other networks, such as Ethereum, BSC, Base, or Arbitrum?
+Swap or bridge from other networks using one of the services below.
+PulseChain Bridge (Ethereum)
+Gibs Finance (Ethereum)
+Liberty Swap (Base, Ethereum, BSC, Arbitrum)
+Tokens Express (Binance)
+Coming from a chain not listed above? First bridge/swap into ETH using one of the cross-chain swaps below, then bridge to PulseChain.
+deBridge or LlamaSwap (Cross-Chain Swap)
+Allbridge (TRON to Ethereum)
+Need ETH to bridge?
+You can also buy ETH to bridge to PulseChain using mainstream platforms such as Kraken or Coinbase and then bridge over using the PulseChain Bridge.
+Trade on PulseX
+Connect your wallet to PulseChain's premier and most liquid exchange, PulseX, to swap for other tokens.
+
+
+Start Trading
+More Details
+PulseX is PulseChain's exchange
+PulseX is PulseChain's premier exchange, offering the most liquidity on PulseChain, and works just like any other exchange or swap platform.
+Visit PulseX
+Click on the IPFS link to access the latest version of the PulseX interface
+Connect your wallet and start trading
+Ready to start using PulseChain?
+Buy with a Bank Account
+0xCoast
+Rampnow
+Cross-chain Swap
+BRIDGE
+SWAP
+LAUNCH
+MINE
+Add to your Wallet
+Connect to PulseChain
+Helpful Community Tools
+Gibs Finance
+Multi-chain bridge and onramp for PulseChain
+LibertySwap
+Quickly, easily swap tokens from other networks to PulseChain
+0xCoast
+Buy PLS, PLSX, INC, or HEX directly with money in a bank
+PulseChain Stats
+In-depth stats, analytics, and insights on PulseChain
+PulseChain Dashboard
+An open-source, privacy-oriented portfolio viewer for PulseChain
+Full Disclaimer
+Download Branding Resources
+PulseChain Telegram
+PLSX:
+0x95B303987A60C71504D99Aa1b13B4DA07b0790ab
+INC:
+0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d
+HEX:
+0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39
+Copyright © 2026 All Rights Reserved

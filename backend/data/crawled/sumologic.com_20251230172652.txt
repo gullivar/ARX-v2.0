@@ -1,0 +1,235 @@
+___
+Skip to content
+Products
+Solutions
+Pricing
+Docs
+Learn
+About
+Support
+ Login
+Get started
+Products
+Solutions
+Pricing
+Docs
+Learn
+About
+Login
+Free trial
+Support
+The Platform
+
+Monitor, troubleshoot, automate, and defend
+
+Powered by AI/ML
+
+Proprietary algorithms, machine learning, and generative AI
+
+What’s new
+
+See our latest releases
+
+Dojo AI
+NEW
+Multi-agent AI platform
+Intelligent Security Operations
+Cloud SIEM
+
+Discover threats faster and respond smarter
+
+Logs for Security
+
+Unlock cloud security with powerful log visibility
+
+Intelligent Cloud Operations
+Monitoring and Troubleshooting
+
+Log analytics to detect and resolve issues fast
+
+Powerful integrations
+Trusted and certified
+
+NEW
+Sumo Logic Dojo AI
+
+→
+more
+Intelligent SecOps for the AI era
+
+Agentic AI-powered Cloud SIEM and security analytics to automate, detect and investigate at the speed of now.
+
+Get a demo
+
+Ready to test our log analytics? Start a trial.
+
+30 DAY TRIAL. NO CREDIT CARD.
+
+80%
+Decrease in MTTR and MTTD
+60%
+Reduction in price per GB
+376%
+Three year ROI
+Monitor, troubleshoot, automate, and defend.
+
+AI insights fueled by the atomic level of logs. Powering MTTR to zero.
+
+450+
+Powerful
+Integrations
+Explore apps
+SOC 2 Type II
+FedRAMP Moderate Authorized
+ISO 27001
+GDPR
+HIPAA
+PCI DSS 3.2
+CCPA
+Secure
+by design
+Trusted and certified
+Sumo Logic Dojo AI
+
+Discover a multi-agent AI platform built to power intelligent security operations and incident response.
+
+Get a demo
+Explore Dojo AI
+
+SEE HOW IT WORKS
+
+Transform complexity into insights
+
+Cloud SIEM
+
+Speed up incident investigations by automatically triaging alerts and correlating threats through log analytics.
+
+Explore Cloud SIEM
+
+Logs for Security
+Monitoring and Troubleshooting
+Dojo AI
+Flex Licensing
+“The ROI with Sumo Logic is extremely high. You get value for every dollar you spend. More importantly, it provides peace of mind, knowing you have the ability to perform deep forensic investigations when needed.
+
+Alvin Lim
+
+Head of Information Security
+
+90% reduction
+in alert investigation time
+Products used
+Cloud SIEM
+View customer story
+“It’s been a while since I last worked with a technology company and thought, ‘Wow, these guys really know what they’re doing,’ and Sumo Logic is very, very easy to work with.
+
+Paul Dyson
+
+Co-founder and CTO
+
+22%
+improvement in response time
+Products used
+Platform, Cloud SIEM
+View customer story
+“In particular, Sumo Logic’s powerful query functions serve as a competitive function, providing insightful results, like identifying similar errors or software versions with frequent issues.
+
+Youngjip Kim
+
+EVP, Head of AI Team
+
+35 TB
+average daily log ingest volume
+Products used
+Application reliability
+View customer story
+“Logs are like gold when you’re trying to troubleshoot an issue. So, make sure you have visibility into your logs to quickly see issues and address them to reduce your mean time to resolution.
+
+Omar Koncobo
+
+IT Director of e-commerce/Digital and Marketing Systems
+
+$2
+billion growth
+Products used
+Application reliability, Infrastructure monitoring, Audit and compliance
+View customer story
+“Sumo Logic proactively helps us understand an alert, whether it’s important or not and, in some cases, automatically disposes of the alert.
+
+Ryan Breed
+
+Senior Security Engineer
+
+10,000
+clouds monitored and secured
+Products used
+Infrastructure monitoring, Threat detection, investigation, and response
+View customer story
+Endowus
+Singletrack
+Samsung
+Ulta Beauty
+Hashicorp
+Get started with Sumo Logic
+Start free trial
+Request a demo
+COMPANY
+About us
+Careers
+WE’RE HIRING
+Leadership
+Newsroom
+Partners
+Contact Us
+RESOURCES
+Blog
+Customer Stories
+Demos
+Webinars
+Events
+Glossary
+Guides
+PRODUCTS
+Overview
+Dojo AI
+NEW
+Cloud SIEM
+Logs for Security
+Monitoring and Troubleshooting
+New Features
+Compare
+SUPPORT & LEARN
+Documentation
+Community
+Support
+Training
+Platform Status
+Security Trust Center
+INTEGRATIONS
+AWS CloudTrail
+Amazon S3 Audit
+Apache
+Kubernetes
+Linux
+NGINX
+PCI Compliance
+View all
+INITIATIVE
+Modernizing SecOps
+Cloud migration
+Application modernization
+Digital customer experience
+Tool consolidation
+
+©2025 Sumo Logic
+
+—
+Legal
+Privacy statement
+Terms of use
+CA Privacy Notice
+English
+By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. More Information
+Manage preferences
+Reject All
+Allow all

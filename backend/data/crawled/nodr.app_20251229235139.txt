@@ -1,0 +1,70 @@
+To main content
+	
+MarketplaceRoadmapFeaturesBlogContacts
+Every day you pay for bandwidth you don’t use when offline
+NODR sells it
+and brings your
+money back
+I'd like to sell my bandwidth
+New NODR
+New client
+I'd like to buy bandwidth
+Every time you press "play" on a video streaming platform, a group of CDNs delivers the video to your device. The broadcaster pays the CDN for every megabyte of video that your device receives. Roughly $ 80 billion has been spent on CDNs in 2021.
+Only 10% of the Internet bandwidth that you buy every month for your home or office is used by your devices. The rest stays idle while you are offline. There are thousands of online businesses & apps that are dreaming to utilize this bandwidth.
+Ever wondered?
+Did you know?
+Meet NODR
+The first blockchain-driven decentralized CDN Marketplace
+NODR is the application that allows you to sell unused bandwidth to internet companies that want to deliver their content — video, music, DLC, images, documents and others — to their users that are nearby you. For leasing your idle bandwidth you’ll get rewarded with the new NDR cryptocurrency.
+NODR CDN Marketplace
+Demand and Supply Sides
+The demand side:
+The supply side:
+Every day our clients require additional 150 Tb of traffic to consume
+This is the additional traffic channel of 20.000 Mbps we need from NODR users on a daily basis
+NODR Community
+NODR networks is growing, join to serve the growing traffic demand!
+Testnet Program
+Learn more about the NODR tech requirements, testing phases and the reward, please dowload the NODR Testnet Program
+August, 1 2023 — July, 31 2024
+12 months
+Up to 50'000 of NODR apps
+30 Mbps is the minimum requirement for bandwidth
+November, 1 2022 — July, 31 2023
+9 months
+Additional 1'000 NODR apps
+200 Mbps is the minimum requirement for bandwidth
+April,1 2022 — September, 30 2022
+6 months
+Only first 100 NODR apps
+500 Mbps is the minimum requirement for bandwidth
+NODR Testnet Roadmap
+Why NODR is a great source of traffic for any, let’s say, OTT video streaming service
+Save your content delivery budget
+Bring the majority of video traffic into the NODR network, decreasing the load on in-house CDN to serve 5x times larger audience with the same amount of bandwidth. Decrease traffic flow from external CDN to save up to 50% of delivery budget in a long term.
+Provide the best quality to every viewer
+Keep consistently high quality, no matter how many viewers are watching your video. Get rid of buffering and playback failures with multiple download sources. Outperform your competitors by introducing higher bitrates with zero investments in your existing CDN.
+Scale to millions
+of viewers
+Unlike traditional CDNs, which always have a limited number of servers, NODR network scales in align with the audience growth. Your streaming website and application will handle audience spikes of any size, even unexpected and record-breaking ones.
+Terminate pirate restreams whenever they are, in real time. Secure your content with DRM and watermarks of your choice and control the content distribution with Teleport Global AG patented solution.
+Protected against
+piracy
+NODR, our project for a decentralized blockchain-driven CDN marketplace launched in 2018, is aimed to serve people who want to install software and become a node of the NODR CDN, receiving crypto tokens as a payment for the lease of their unused bandwidth.
+Since 2016, Teleport Global AG is developing distributed video delivery solution for OTT media helping them stream to an unlimited number of concurrent viewers with the highest video quality at the lowest cost, under the Teleport Media brand.
+About NORD
+I'd like to buy bandwidth
+New client
+New NODR
+I'd like to sell my bandwidth
+Join blockchain driven Decentralized CDN Marketplace
+Teleport Global AG
+c/o eMBe Finanz GmbH
+Bahnhofstrasse 20
+6300 Zug, Switzerland
+
+Andy Klimenko
+linkedin.com/in/klimenkoandrey
+andy@teleport.media
+© 2023. Teleport Global AG. All rights reserved.
+Terms of Use & Privacy Policy

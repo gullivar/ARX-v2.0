@@ -1,0 +1,247 @@
+CODEPROJECT
+
+For Those Who Code
+
+Sign in
+Home
+Articles
+FAQ
+Community
+A Hub For Developers
+ASK A QUESTION
+POST AN ARTICLE
+All
+AI
+DevOps
+Mobile
+.NET
+Java
+C++
+Database
+Just published
+How to Integrate Penetration Testing in Your CI/CD Pipelines
+
+Explains how to integrate penetration testing into CI/CD pipelines, why continuous pentesting matters, and which tools help secure fast, modern software delivery.
+
+pipeline
+cybersecurity
+web-security
+testing
+security
+by james.miller45900
+
+3 days ago
+
+37
+
+5
+
+retro_clock: A retro digital clock with Internet time sync and a configuration portal
+
+Make your Lilygo "TTGO" T1-Display into a retro styled digital clock that automatically keeps time
+
+NTP
+WiFi
+IoT
+ESP32
+clock
+by honey the codewitch
+
+6 days ago
+
+270
+
+0
+
+A snippet showing how to export table to CSV in ASP.net
+
+You will learn how to use a better method to export table to CSV instead of to excel which lead to common error as "file is corrupt" and unable to download it from your mobile device seamlessly
+
+WebForms
+Advanced
+data
+ASP:NET
+Visual-Studio
+IIS
+.NET
+ASP.NET
+C#
+by Micah Ebohon
+
+8 days ago
+
+368
+
+3
+
+Goodbye TCP, Hello QUIC
+
+A discussion on QUIC and applications for it
+
+C++
+HTML
+UDP
+HTML5
+TCP
+by Michael Chourdakis
+
+9 days ago
+
+391
+
+5
+
+Read more
+Popular Articles
+How to develop your own Boot Loader
+
+This article describes the first steps in low-level programming on the example of developing of simple boot loader
+
+Windows
+ASM
+COM
+Architect
+Visual-Studio
+VS2005
+VS2008
+C++
+by Alex Kolesnyk
+
+1 year ago
+
+876k
+
+4.85
+
+Factory Design Pattern in C++
+
+In this article we examine two implementations of the factory design pattern.
+
+design-patterns
+C++
+patterns
+Factory
+by YasIkeda
+
+1 year ago
+
+298k
+
+5
+
+A CMake build issue fixed using pkg-config utility
+
+Intermediate
+C++Builder
+cmake
+Dev
+C++
+by YasIkeda
+
+1 year ago
+
+251k
+
+0
+
+C++ CMake Build Issue with SQLite3 Fixed Using pkg-config Utility
+
+Fix was released. When I ran find_package( SQLite3 REQUIRED ) in my CMake script three weeks ago, it failed and output an error. Here's how I solved it.
+
+C++
+script
+cmake
+by YasIkeda
+
+1 year ago
+
+248k
+
+0
+
+Read more
+Hot Discussions
+Some More Advanced GraphQL Concepts with HotChocolate
+
+Understanding more advanced concepts in GraphQL with HotChocolate
+
+C#
+Microservices
+graphql
+by Nicolas DESCARTES
+
+1 year ago
+
+4k
+
+3.11
+
+ROPC and Refresh Token with ASP.NET Core Identity
+
+Implement Resource Owner Password Credentials Grant and Refreshing Token with ASP.NET Core Identity through strongly typed API
+
+C#
+authentication
+OAuth2
+JWT
+by Zijian
+
+1 year ago
+
+7k
+
+5
+
+Error Handling in the Practical Type System (PTS)
+
+Error-handling is important, but nobody wants to do it!
+
+error-handling
+type-system
+PTS
+by ChristianNeumanns
+
+1 year ago
+
+4k
+
+3
+
+AI Book Translator
+
+This app will translate a text file using OpenAI or Anthropic API.
+
+VB
+AI
+by Igor Krupitsky
+
+1 year ago
+
+4k
+
+0
+
+Read more
+NEWS
+
+Vibe Code Guide
+
+Machine Learning for C++ Developers
+
+ 
+
+CODEPROJECT
+
+For Those Who Code
+
+Advertise
+About Us
+Privacy
+Cookies
+Terms Of Service
+Copyright 1999-2025 © CodeProject. All Rights Reserved.
+
+We use cookies to enhance your experience, analyze site usage, and improve our services. You can accept or reject all non-essential cookies. Essential cookies are always on.
+
+Reject all
+Accept all

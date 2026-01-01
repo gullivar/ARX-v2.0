@@ -1,0 +1,4 @@
+Edgewall Software: Home Home Trac Genshi Babel Posterity Bitten Edgewall News Archived Projects Python Sidebar Posterity Genshi Python toolkit for generating output for the web Babel Python library for I18n/L10n in web applications Bitten Continuous integration plugin for Trac Trac Web-based lightweight project management
+     system Welcome to edgewall.org edgewall.org is a place where a community of software developers collaborate 
+on creating exciting open source software based on the Python programming language. 
+It is best known for the popular web-based project management tool Trac . Copyright © 2003-2017 Edgewall Software. All rights reserved.

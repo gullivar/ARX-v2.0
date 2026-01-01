@@ -1,0 +1,208 @@
+Skip to content
+Try our free employee tracking app! Sign up now – click here
+BFCM discount limited time 25% off on our life-time plans using code: LMT25
+Try our free employee tracking app! Sign up now – click here
+BFCM discount limited time 25% off on our life-time plans using code: LMT25
+00
+Days
+	
+11
+Hours
+	
+58
+Minutes
+	
+57
+Seconds
+Features
+Open Features
+Add-ons
+Cloud VPS
+Managed WordPress
+Resources
+Open Resources
+Login
+Get Started Free
+v2.4.4
+Latest Stable Release
+The World's Fastest Free Web Hosting Control Panel
+
+Powered by OpenLiteSpeed, CyberPanel delivers 10x faster performance with enterprise-grade features. No license fees. Ever.
+
+Get Started Free
+Documentation
+500K+
+Active Servers
+2M+
+Downloads
+180+
+Countries
+4.8/5
+User Rating
+10x Faster Than Apache. Free Forever.
+
+Start free with OpenLiteSpeed, then enhance with premium modules. The .htaccess Module adds Apache compatibility, while Add-ons unlock advanced management tools.
+
+OpenLiteSpeed
+$0 / forever
+10x faster than Apache
+Built-in page caching
+HTTP/3 & QUIC support
+LiteSpeed Cache for WordPress
+Unlimited websites
+Free SSL certificates
+Install CyberPanel Free
+.htaccess Module
+$59 / year
+Everything in OpenLiteSpeed, plus:
+Full Apache .htaccess support
+Security headers & CORS
+PHP directives (php_value, php_flag)
+Built-in brute force protection
+<1ms performance overhead
+Learn More
+CyberPanel Add-ons
+$59 / year
+Premium management tools:
+SSL V2 - Enhanced certificate management
+WordPress Manager Pro
+Backup V2 - Advanced backup system
+Rspamd Manager + Email Debugger
+Root File Manager
+Learn More
+Everything You Need to Manage Servers Like a Pro
+
+CyberPanel comes packed with all the tools you need to deploy, manage, and scale your web applications.
+
+Unlimited Websites
+
+Create unlimited websites with one-click SSL via Let's Encrypt. Perfect for agencies and resellers.
+
+Email Server
+
+Full-featured email with Postfix + Dovecot, built-in Rspamd spam filtering, DKIM, SPF, and DMARC.
+
+Database Management
+
+MySQL/MariaDB with phpMyAdmin, remote access, one-click backups, and performance optimization.
+
+Docker Apps
+
+Deploy n8n, Redis, MongoDB, and 20+ applications with one click using our Docker manager.
+
+Security Suite
+
+ModSecurity WAF, CSF Firewall, fail2ban, automatic SSL renewal, and brute force protection.
+
+Backup System
+
+Local, remote SFTP, S3, and Google Drive backups with flexible scheduling and one-click restore.
+
+WordPress Hosting, Supercharged
+
+The most powerful WordPress management suite for CyberPanel. Install, manage, and optimize WordPress sites with enterprise-grade tools.
+
+One-click WordPress installation
+Auto-updates for core, themes & plugins
+Staging environments & site cloning
+LiteSpeed Cache optimization
+WP-CLI integration & Git Manager
+One-Click Deployment
+Built-in n8n Manager for Workflow Automation
+
+Deploy powerful workflow automation with n8n directly from CyberPanel. No Docker expertise required - everything is configured automatically.
+
+One-click n8n deployment via Docker
+Automatic MySQL database setup
+WebSocket support for real-time workflows
+Resource allocation (CPU & RAM limits)
+Free SSL via Let's Encrypt included
+Learn More
+Built for Shared Hosting Providers
+
+Enterprise-grade resource management using cgroups v2. Perfect for reseller hosting and multi-tenant environments.
+
+CPU Limits
+Memory Limits
+I/O Throttling
+Inode Limits
+Process Limits
+Connection Limits
+View Documentation
+CPU Usage
+35% of 2 cores
+Memory
+1.24 GB of 2 GB
+Disk Usage
+28 GB of 100 GB
+I/O Bandwidth
+4.5 MB/s of 10 MB/s
+DEPLOY YOUR FAVORITE TECHNOLOGIES IN SECONDS
+WordPress
+Laravel
+Node.js
+Python
+PHP 8.3
+Docker
+n8n
+Redis
+MySQL
+Let's Encrypt
+Trusted by 500,000+ Servers Worldwide
+
+See what our community has to say about CyberPanel.
+
+"The support goes over and beyond for any issue! I was struggling on one of the sites, and the issue was not even related to CyberPanel, but the support staff helped me out none the less! Very Impressed!"
+
+A
+Abdel hadi Touil
+
+Owner, Touil's Agency
+
+"CyberPanel is one of the best things I found on the internet! It can compare to cPanel functions easily and is completely free! The performance with OpenLiteSpeed is incredible."
+
+S
+Scaz
+
+Community Member
+
+"CyberPanel support is too good. I seriously wasn't expecting such fast and timely responses. It's a great option, easy to use, very fast and with constant updates. Great job team!"
+
+N
+Nitesh Kunnath
+
+Digital Entrepreneur
+
+Ready to Deploy Your First Server in 5 Minutes?
+
+Join 500,000+ servers running CyberPanel. Free forever, no credit card required.
+
+Get Started Free
+Read Documentation
+Ubuntu 20.04+
+AlmaLinux 8/9
+Rocky Linux
+CloudLinux
+Facebook
+ 
+Twitter
+ 
+Linkedin-in
+ 
+Youtube
+Other Projects
+Have a project in mind?
+[Free ] Test Emailer Delivery
+Company
+Write For Us
+About Us
+Support
+Source Code
+Privacy Policy
+Knowledge Base
+Resources
+Features
+Blog
+Documentation
+Community Forums
+Release Logs

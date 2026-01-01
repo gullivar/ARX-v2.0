@@ -1,0 +1,73 @@
+Login
+Sign up
+The Gateway to DeFi
+
+Axiom is the only trading platform you'll ever need.
+
+Start Trading
+Backed by
+Advanced Features to videoline Your Trading.
+From wallet tracking to real-time analytics, we've got you covered.
+Order Execution Engine
+Trade with confidence.
+Wallet and Twitter Tracker
+Trade and track all in one place.
+Hyperliquid Perpetuals
+Trade leveraged Perps.
+Yield
+Earn while you sleep.
+Land in ≤ 1 Block
+Our limit order execution engine is the fastest in the market.
+With our proprietary order execution engine and colocated nodes, our limit orders land in ≤ 1 block.
+Migration Sniper
+Buy and sell any migrating token, landing in ≤ 1 block.
+With our migration sniper, you're never too late to the party. Be the first to get in or secure profits.
+s
+No MEV Triggers
+Never get your limit orders triggered by MEV again.
+Axiom utilizes MEV-resistant execution paths with frontrunning and sandwiching protection, meaning your limit orders are safe with us.
+Auto-Strategies
+Set your entire trading strategy in motion with a single click.
+Advanced trading strategies lets you buy and place your limit orders in one click. We'll handle the rest.
+Deep Liquidity
+Instant Fills
+Powered by
+Up to 15% APY
+Instant Withdrawals
+Powered by
+Marginfi
+Try Advanced Ordering
+Rewards
+Get paid to trade.
+Rewards
+Earn SOL from trading.
+Progress through the Ranks
+Earn higher reward rates.
+Referrals
+Earn points and SOL from your friends.
+Axiom Points
+Earn points through trading, referrals, and quests.
+Architecture
+Integrations
+Axiom integrates all the different protocols and applications you use, giving you a seamless trading experience.
+Non-Custodial
+The Axiom wallet is fully non-custodial, secured by Turnkey's scalable infrastructure for managing private keys across blockchains. With air-gapped architecture, it ensures robust security, seamless recovery, and protection from vulnerabilities.
+FAQ
+What is Axiom?
+Axiom is a trading platform designed to be the only application you need to trade onchain. We offer a suite a integrations that allow you to trade the hottest assets, all in one place.
+How secure is Axiom?
+Axiom uses industry-leading security measures including non-custodial infrastructure, secure key management, and encryption to ensure your security. To learn more about our wallet infrastructure, visit our partner Turnkey.
+Can I buy crypto on Axiom?
+Yes, through our partnership with Coinbase, Axiom users have the ability to buy up to $500 worth of crypto per week, no-KYC.
+How does Axiom offer yield?
+Axiom offers a seamless way to earn passive income. We offer up to 15% APY on your assets, with instant withdrawals. To learn more, visit our partner Marginfi.
+Is Axiom decentralized?
+Yes, Axiom is decentralized. We integrate directly with decentralized protocols and applications. Your funds and transactions are fully onchain and your funds are always in your control.
+Optimize Your Trades with the Right Tools
+Launch Axiom
+© 2025 Axiom. All rights reserved.
+Contact
+Docs
+Privacy Policy
+•
+Terms of Service

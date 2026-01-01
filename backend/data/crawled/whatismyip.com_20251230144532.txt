@@ -1,0 +1,236 @@
+WhatIsMyIP.com
+🔍
+News
+Pricing
+API
+Sign Up
+Login
+Help
+What Is My IP?
+IP Address Lookup
+IP Whois Lookup
+IP Tools
+Privacy Tools
+Network Tools
+Email Tools
+Popular
+✕
+Home
+IP Lookup
+WHOIS
+DNS Lookup
+Speed Test
+Tools
+News
+Pricing
+API
+Login
+Sign Up
+Help
+What Is My IP?
+My IPv4:
+59.15.130.228
+My IPv6:
+Not Detected
+MY IP LOCATION INFORMATION
+City:
+Seongnam
+State/Region:
+Gyeonggi-do
+Postal Code:
+13118
+Country:
+Korea (the Republic of)
+ISP:
+KT Corporation
+ASN:
+4766
+Time Zone:
+UTC +09:00
+Secure My Connection With a VPN
+Popular Tools
+What Is My IP
+IP Address Lookup
+Proxy Check
+IP Blacklist Check
+DNS Lookup
+IP Whois Lookup
+Internet Speed Test
+Port Scanner
+IP Hostname Lookup
+Data Breach Check
+Reverse DNS Lookup
+Email Header Analyzer
+Screen Resolution
+What is an IP address?
+
+An IP address (Internet Protocol address) is a unique identifier assigned to every device connected to the Internet. It allows devices to send and receive data across the web or within a local network. Your IP address can reveal your approximate location and the Internet service provider (ISP) you're using to connect. Learn more about how IP addresses work »
+
+How does an IP address work?
+
+When your device connects to the Internet, your Internet Service Provider (ISP) assigns it an IP address. This address acts like a return address for data—allowing websites, apps, and services to send information back to you. IP addresses help route traffic to the correct destination, whether you're browsing the web, streaming video, or sending emails. Without an IP, your device wouldn’t be able to communicate with other systems on the network.
+
+What is a private IP address?
+
+A private IP address is assigned to devices within a local network, like your home or office WiFi. These addresses are used for internal communication and are not directly accessible from the Internet. Private IPs typically start with 10, 172, or 192 and are reserved by the Internet Assigned Numbers Authority (IANA). Unlike public IPs, which are visible online, private IPs stay hidden behind your router or firewall. Learn more about private IP addresses »
+
+What is the difference between IPv4 and IPv6?
+
+IPv4 and IPv6 are two versions of the Internet Protocol used to assign IP addresses. IPv4 uses 32-bit addresses (like 192.168.1.1), allowing about 4.3 billion unique addresses. IPv6 uses 128-bit addresses (like 2600:1512:5c3a:7020:41fa:b723:956e:b762), providing an almost unlimited number of unique addresses. IPv6 was developed to solve the address exhaustion problem of IPv4 and offers better performance, security, and efficiency in modern networks.
+
+Is my IP address static or dynamic?
+
+Most home users have dynamic IP addresses, which change periodically. Static IP addresses remain the same and are typically used for business servers, hosting, or advanced networking setups. You can learn more about the differences between static and dynamic IPs here or ask your ISP which type you have.
+
+How do I find my IP address?
+
+Your public IP address is shown at the top of this page—it’s the one assigned to you by your Internet Service Provider (ISP) and used when you access websites or online services. If you want to find your local or private IP address, it depends on the device you’re using.
+
+Find your IP address on Windows »
+Find your IP address on Mac »
+Find your IP address on iPhone »
+Find your IP address on iPad »
+Why does my IP address keep changing?
+
+If your IP address keeps changing, it’s likely because your ISP uses dynamic IP addressing. Most providers assign IPs temporarily using DHCP, meaning your address can change when you restart your router, connect to a different tower, or after a lease period expires. This is normal and doesn’t usually affect your Internet access or performance.
+
+Should I change my IP address?
+
+In most cases, there’s no need to change your IP address—but doing so can help improve your privacy, access region-specific content, or troubleshoot connection issues. One of the most reliable ways to change your IP is by using a VPN or other IP-changing method, which masks your real IP and assigns a new one. If you’re concerned about online tracking or restricted content, changing your IP is a simple and effective strategy.
+
+Should I hide my IP address?
+
+Hiding your IP address can help protect your online privacy, especially when using public WiFi or accessing sensitive content. Many users choose to use a VPN, proxy server, or Tor browser to mask their real IP and reduce tracking. While not always necessary, hiding your IP is a common step for improving anonymity and avoiding targeted ads or geographic restrictions. Explore ways to hide your IP address »
+
+What does my IP reveal about me?
+
+Your IP address reveals your general location—typically your city, region, or ZIP code—and the name of your Internet Service Provider (ISP). It may also show whether you're on a mobile or residential connection and can sometimes indicate your approximate device type. However, it does not reveal personal information like your name, street address, or exact device details. Your IP is mainly used to route traffic and enable services like content delivery, geolocation, and advertising.
+
+Who can use my IP address?
+
+Your IP address can be seen by websites you visit, online services you use, and sometimes by advertisers or trackers. However, it can’t be used to directly access your device or personal files. Most people who “use” your IP address are simply using it to identify your general location or provide localized services. To keep your IP private, you can use a VPN, proxy, or firewall.
+
+What happens if someone gets my IP?
+
+In most cases, nothing harmful happens if someone knows your IP address. They might see your ISP and general location, but they can’t access your personal files or take control of your device. Still, it’s smart to protect your IP to reduce tracking, avoid potential abuse, and stay anonymous while browsing online.
+
+How do I protect my IP address?
+
+To protect your IP address from being tracked or exposed, you can use a VPN, proxy, or other IP-hiding method. These tools mask your real IP by routing your traffic through an encrypted connection. Avoid clicking suspicious links or using unsecured public WiFi without protection, as they can leak your IP to third parties.
+
+Can someone find me with my IP address?
+
+Not exactly. While your IP address can reveal general information—like your city, region, or Internet Service Provider—it doesn’t expose your exact physical address. IP addresses are designed to help route online traffic, not to pinpoint your location. Even with your IP, others can’t track you down personally without access to additional private data. Learn more about IP privacy and tracking »
+
+Can I trace someone’s IP address?
+
+You can use an IP address to find general location information—such as the country, city, and ISP—by using an IP address lookup tool. However, you won’t be able to trace someone’s exact address or identity just from their IP. For privacy and legal reasons, detailed user info is only available to ISPs or law enforcement under specific circumstances.
+
+Learn About IP Addresses
+
+Beginner
+
+📘What is an IP Address?
+🛑How do I hide my IP Address?
+🔄Why Does My IP Change?
+🧭What Is A VPN?
+🏠Public IP vs Private IP Address
+
+Intermediate
+
+♻️How to Change My IP Address
+✉️How to Trace an Email Address
+🔗What Is DNS?
+🚪What Is Port Forwarding?
+📍Can I be found with my IP?
+
+Advanced
+
+🎭What Is IP Spoofing?
+🧱Should I Use A VPN?
+📡Network Protocols
+🗃️Types of DNS Servers
+🔌What Is TCP/IP?
+Trusted Since 1999
+
+For over two decades, WhatIsMyIP.com® has helped millions check their IP address, protect their privacy, and make smarter online decisions.
+
+As featured in
+
+Used by:
+Network administrators
+VPN providers
+Privacy-conscious users
+Developers
+
+Lookup Tools
+
+🌐
+IP Address Lookup
+🗺️
+IP Whois Lookup
+📡
+DNS Lookup
+
+Security Checks
+
+🛡️
+Proxy Check
+⛔
+IP Blacklist Check
+🕵️
+Data Breach Check
+
+Security & Privacy Guides
+
+📝
+Protect Your Online Privacy
+🔊
+Social Media Privacy Tips
+🚨
+Cybersecurity Mistakes to Avoid
+
+Managed by InternetAdmins.com
+501 Union St Ste 545 PMB 94218
+Nashville, TN 37219-1876, US
+Contact Us
+Mon-Fri 9AM-5PM (ET, USA)
+
+WhatIsMyIp.com®
+
+WhatIsMyIP.com® makes it easy to find your public IP address and understand its role in your online experience. From network troubleshooting to privacy protection, we provide reliable tools and expert tips to help you stay informed and in control.
+
+Useful Links
+
+Home
+Cuál es mi IP?
+About Us
+Qual è il Mio IP?
+Tools
+Quel Est Mon IP?
+Advertising
+Wie Ist Meine IP?
+
+Explore & Learn
+
+Find answers fast. Search WhatIsMyIP.com ®
+
+Copyright © 2025 WhatIsMyIP.com ®
+
+Terms
+Do Not Sell My Info
+Privacy Policy
+Sitemap
+
+All trademarks and registered trademarks are the property of their respective owners.
+
+Get IP Geolocation service from IP2Location.com.
+
+ipdata.co also offers geolocation services.
+
+Anonymous Proxy database available at IP2Proxy.com.
+
+✕
+You have blocked Push Notifications. Follow these instructions to enable Push Notifications.
+⚡ by
+ Webpushr

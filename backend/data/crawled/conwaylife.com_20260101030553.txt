@@ -1,0 +1,29 @@
+A community for Conway's Game of Life and related cellular automata
+Home  •  LifeWiki  •  Book  •  Catagolue  •  Forums  •  Discord  •  Golly
+Choose pattern: 
+Copperhead
+Gosper glider gun
+Sir Robin
+ Clear LifeViewerShow Advanced Options
+Current Pattern: Copperhead
+The first spaceship to be found that travels 1 cell per 10 generations. Won 2nd place in the 2016 Pattern of the Year contest. More info on LifeWiki
+What is Conway's Game of Life?
+
+Conway's Game of Life is a cellular automaton that is played on a 2D square grid. Each square (or "cell") on the grid can be either alive or dead, and they evolve according to the following rules:
+
+Any live cell with fewer than two live neighbours dies (referred to as underpopulation).
+Any live cell with more than three live neighbours dies (referred to as overpopulation).
+Any live cell with two or three live neighbours lives, unchanged, to the next generation.
+Any dead cell with exactly three live neighbours comes to life.
+
+The initial configuration of cells can be created by a human, but all generations thereafter are completely determined by the above rules. The goal of the game is to find patterns that evolve in interesting ways – something that people have now been doing for over 50 years.
+
+How Can I Learn About It?
+
+The best way to first learn about the game is to play it, either via the LifeViewer above, or by downloading the Life simulation program Golly. Draw some patterns and then press the "Play" button to see how they evolve. Once you have gotten comfortable with the game, you can have a look at LifeWiki or Catagolue to browse what is known about it, or you can read the book for a more directed guide to the world of Life.
+
+Where Can I Talk with Others About It?
+
+Most new Life discoveries are announced and discussed on the ConwayLife.com forums and on the Conwaylife Lounge Discord server.
+
+Website created and maintained by Nathaniel Johnston • LifeViewer by Chris Rowett • Privacy policy

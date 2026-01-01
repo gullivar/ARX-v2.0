@@ -1,0 +1,3 @@
+# Pixalate, Inc. - info@pixalate.com
+User-agent: *
+Disallow: /

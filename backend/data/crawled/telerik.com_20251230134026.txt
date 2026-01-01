@@ -1,0 +1,184 @@
+Join the Progress AI Observability Platform Early Access Program - observe, evaluate and improve your AI agents!
+
+SKIP NAVIGATION
+All Products 
+DEMOS
+SERVICES
+BLOGS
+DOCS & SUPPORT
+PRICING
+GET A FREE TRIAL
+UNPRECEDENTED PRODUCTIVITY WITH TELERIK AND KENDO UI MCP SERVERS
+Modern UI Made Easy
+
+Build feature-rich, modern experiences for Web, Cross-Platform, Mobile and Desktop, faster
+than ever with AI-powered Telerik and Kendo UI component libraries.
+
+Download DevCraft Trial
+
+DevCraft includes all Telerik .NET and Kendo UI JavaScript components, Embedded Reporting and productivity tools.
+
+ Demos
+UI COMPONENTS
+Web
+Components
+Desktop
+Components
+Mobile
+Components
+DEVELOPER SOLUTIONS
+Reporting &
+Dashboards
+Testing &
+Debugging
+UI/UX Tools
+PRODUCT BUNDLES
+Telerik® DevCraft
+
+.NET controls, Kendo UI JavaScript components, embedded reporting, automated testing and productivity tools.
+
+More About DevCraft
+Kendo UI®
+
+UI components for JavaScript frameworks including
+jQuery, Angular, React, and Vue.
+
+More About Kendo UI
+LATEST NEWS
+Meet the Telerik Agentic AI UI Generator — the fastest way to turn prompts into fully designed, production-ready pages. Five specialized AI tools — for layout, components, styling, icons and full-page generation — work in an orchestrated flow to deliver clean code, on-brand themes and enterprise-ready UIs in seconds. It’s an orchestration-first approach that handles the repetitive work for you, so teams can ship polished screens faster and focus on real product logic.
+LATEST NEWS
+Check out our latest release: Telerik and Kendo UI 2025 Q4 helps teams save at least 30% of the development cycle with AI-generated UI, 12 AI Coding Assistants, MCP debugging, .NET 10 support and so much more. At its core, this release is about giving developers, team leads and enterprises a partner they can trust: AI tools that understand the Telerik and Kendo UI libraries inside-out.
+LATEST NEWS
+Meet the Telerik Agentic AI UI Generator — the fastest way to turn prompts into fully designed, production-ready pages. Five specialized AI tools — for layout, components, styling, icons and full-page generation — work in an orchestrated flow to deliver clean code, on-brand themes and enterprise-ready UIs in seconds. It’s an orchestration-first approach that handles the repetitive work for you, so teams can ship polished screens faster and focus on real product logic.
+LATEST NEWS
+Check out our latest release: Telerik and Kendo UI 2025 Q4 helps teams save at least 30% of the development cycle with AI-generated UI, 12 AI Coding Assistants, MCP debugging, .NET 10 support and so much more. At its core, this release is about giving developers, team leads and enterprises a partner they can trust: AI tools that understand the Telerik and Kendo UI libraries inside-out.
+Feature-rich UI components for all .NET and JavaScript frameworks
+ 
+Professionally designed components and themes for beautiful, engaging and always modern apps
+ 
+Industry leading support delivered from the engineers who built the product
+AI Coding Assistants for ultimate developer productivity
+ 
+Performance, accessibility, localization and security guaranteed
+ 
+Continuous innovation to cover your needs today and tomorrow
+See Standardization Benefits
+      
+Your Success is Our Success
+Challenge
+
+The demand for better user experiences continues to grow, while the time you have to develop a high quality, modern and engaging application continues to shrink. Stop sweating over UI and focus on the parts of the application where you can truly make a difference.
+
+Partnership and Community
+
+Like you, we are developers. Our purpose in life is to make developers superheroes by enabling you to deliver more than expected, faster than expected. For nearly two decades, we have been partnering with our community of over four million developers to help cut down on development time, increase productivity, and make it easy to embrace the latest technologies and user experience trends.
+
+Deliver More Than Expected
+
+By using the modern, feature-rich and professionally designed UI components from Telerik and Kendo UI, you will be armed with everything you need to deliver outstanding web, mobile and desktop experiences in less time.
+With the backing of our legendary technical support, provided directly by the developers who build the products, you can be confident that you have the best partner to rely on in your journey.
+
+Explore our Portfolio
+ 
+See Pricing
+Awards
+
+Greatness—it’s one thing to say you have it, but it means more when others recognize it. Progress Telerik is proud to hold the following industry awards.
+
+ 
+
+G2 Leader Enterprise Grid Summer 2025
+
+ 
+
+G2 Momentum Grid leader Summer 2025
+
+ 
+
+G2 Users Love Us
+
+ 
+
+G2 EMEA Regional Leader Summer 2025
+
+ 
+
+Progress included in Three Gartner Magic Quadrants
+
+ 
+
+Telerik is the Winner of 2 Forbes Business Awards
+
+275K+ customers
+3.5M+ developers
+400+ awards
+What Developers Say
+
+Using Telerik UI, we were able to boost our speed to production by over 50%. The ability to create rich, interactive UI's without the hassle of rolling our own controls has been incredibly valuable. It should also be noted that Telerik's online documentation is rich with examples, tutorials, and real-working demos. When using competing products, I found their example's to be demo-ware, and not as easily converted to actual production-ready solutions.
+
+Jerry Sevier
+ENTERPRISE ARCHITECT, CHAPARRAL ENERGY
+  
+News & Updates
+RELEASE
+The Telerik and Kendo UI 2025 Q4 Release Is Here—See What’s New!
+ 
+BLOGPOST
+Turn Prompts into Pages: Telerik Agentic AI UI Generator
+ 
+BLOGPOST
+Using Fiddler Everywhere with gRPC and .NET Core Clients
+Check out our Blogs
+COMPLETE .NET TOOLBOX
+Telerik DevCraft
+COMPLETE JAVASCRIPT TOOLBOX
+Kendo UI
+GET PRODUCTS
+Free Trials
+Pricing
+RESOURCES
+DX Hub
+Demos
+Documentation
+Release History
+Forums
+Blogs
+Webinars
+Videos
+Professional Services
+Partners
+Virtual Classroom
+Events
+FAQs
+RECOGNITION
+Success Stories
+Testimonials
+GET IN TOUCH
+Contact Us
+USA: +1 888 679 0442
+UK: +44 13 4483 8186
+India: +91 406 9019447
+Bulgaria: +359 2 8099850
+Australia: +61 3 7068 8610
+165k+
+50k+
+17k+
+4k+
+14k+
+
+Telerik and Kendo UI are part of Progress product portfolio. Progress is the leading provider of application development and digital experience technologies.
+
+CompanyTechnologyAwardsPress ReleasesMedia CoverageCareersOffices
+
+Copyright © 2025 Progress Software Corporation and/or its subsidiaries or affiliates. All Rights Reserved.
+
+Progress and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See Trademarks for appropriate markings. All rights in any other trademarks contained herein are reserved by their respective owners and their inclusion does not imply an endorsement, affiliation, or sponsorship as between Progress and the respective owners.
+
+Terms of UseSite FeedbackPrivacy CenterTrust Center
+DO NOT SELL OR SHARE MY PERSONAL INFORMATION
+
+Powered by Progress Sitefinity
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. Some of these cookies also help improve your user experience on our websites, assist with navigation and your ability to provide feedback, and assist with our promotional and marketing efforts. Please read our Cookie Policy for a more detailed description and click on the settings button to customize how the site uses cookies for you.
+COOKIES SETTINGS
+ACCEPT COOKIES

@@ -1,0 +1,189 @@
+For Vendors
+Help
+Create
+Join
+Login
+Business Software
+Open Source Software
+SourceForge Podcast
+Resources
+The Complete Software Platform
+Compare B2B software & read B2B software reviews to find the best tools.
+Create, collaborate & distribute to nearly 20 million users worldwide.
+This Week: 14,032,887Downloads 5,908Code Commits
+Compare & Review Business Software
+
+SourceForge is a complete business software and services comparison platform where buyers find, compare, & review business software and IT services. Selling software? You're in the right place. We'll help you reach millions of intent-driven software and IT buyers and influencers every day.
+
+Browse Business Software
+
+SourceForge Podcast Latest Episode
+Make Your Projects Come To Life
+
+With the tools we provide, developers on SourceForge have created over 500,000 software projects; we host over 2.1 million registered users. Our popular directory connects nearly 20 million visitors and serves more than 2.6 million software downloads a day.
+
+Join & Create
+
+
+
+Popular Software
+Vertex AI
+     783 Ratings
+Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case. Through Vertex AI Workbench, Vertex AI is natively integrated with BigQuery, Dataproc, and Spark. You can use BigQuery ML to create and execute machine learning models in BigQuery using standard SQL queries on existing business intelligence tools and spreadsheets, or you can export datasets from BigQuery directly into Vertex AI Workbench and run your models from there. Use Vertex Data Labeling to generate highly accurate labels for your data collection. Vertex AI Agent Builder enables developers to create and deploy enterprise-grade generative AI applications. It offers both no-code and code-first approaches, allowing users to build AI agents using natural language instructions or by leveraging frameworks like LangChain and LlamaIndex.
+Learn More Visit Website
+NinjaOne
+     3,935 Ratings
+NinjaOne automates the hardest parts of IT, delivering visibility, security, and control over all endpoints for more than 20,000 customers. The NinjaOne automated endpoint management platform is proven to increase productivity, reduce security risk, and lower costs for IT teams and managed service providers. The company seamlessly integrates with a wide range of IT and security technologies. NinjaOne is obsessed with customer success and provides free and unlimited onboarding, training, and support.
+Learn More Visit Website
+Google Cloud Platform
+     60,425 Ratings
+Google Cloud is a cloud-based service that allows you to create anything from simple websites to complex applications for businesses of all sizes. New customers get $300 in free credits to run, test, and deploy workloads. All customers can use 25+ products for free, up to monthly usage limits. Use Google's core infrastructure, data analytics & machine learning. Secure and fully featured for all enterprises. Tap into big data to find answers faster and build better products. Grow from prototype to production to planet-scale, without having to think about capacity, reliability or performance. From virtual machines with proven price/performance advantages to a fully managed app development platform. Scalable, resilient, high performance object storage and databases for your applications. State-of-the-art software-defined networking products on Google’s private fiber network. Fully managed data warehousing, batch and stream processing, data exploration, Hadoop/Spark, and messaging.
+Learn More Visit Website
+Open Source Projects of the Month
+Staff Choice TurboVNC
+TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org. It contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads. TurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance. TurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative. TurboVNC forked from TightVNC in 2004 and still covers all of the TightVNC 1.3.x features, but TurboVNC contains numerous feature enhancements and bug fixes relative to TightVNC, and it compresses 3D and video workloads much better than TightVNC while using generally only 5-20% of the CPU time of the latter. Using non-default settings, TurboVNC can also be made to compress 2D workloads as "tightly" as TightVNC.
+14 Reviews
+Downloads: 127,238 This Week
+Last Update: 2024-01-13
+See Project
+Community Choice MyPhoneExplorer
+Connect your phone via WiFi, cable or bluetooth and you'll be surprised how easy and efficient it will be to manage your Android based smartphone with our software. Since it's first release MyPhoneExplorer evolved into the most popular freeware tool for smartphones. The software is constantly updated with new features. In opposite to many other solutions MyPhoneExplorer does work complete locally without using any third-party server!
+17 Reviews
+Downloads: 1,562 This Week
+Last Update: 2025-11-04
+See Project
+Business Software of the Month
+Google AI Studio
+Google AI Studio is a comprehensive, web-based development environment that democratizes access to Google's cutting-edge AI models, notably the Gemini family, enabling a broad spectrum of users to explore and build innovative applications. This platform facilitates rapid prototyping by providing an intuitive interface for prompt engineering, allowing developers to meticulously craft and refine their interactions with AI. Beyond basic experimentation, AI Studio supports the seamless integration of AI capabilities into diverse projects, from simple chatbots to complex data analysis tools. Users can rigorously test different prompts, observe model behaviors, and iteratively refine their AI-driven solutions within a collaborative and user-friendly environment. This empowers developers to push the boundaries of AI application development, fostering creativity and accelerating the realization of AI-powered solutions.
+See Software
+Pipedrive
+Pipedrive is a web-based sales CRM (customer relationship management) software that lets sales teams track pipelines, optimize leads, manage deals and automate their entire sales process to focus on selling. Pipedrive’s simple interface empowers salespeople to streamline workflows and unite sales tasks in one workspace. Unlock instant sales insights with Pipedrive’s visual sales pipeline and fine-tune your strategy with robust reporting features and a personalized AI Sales Assistant. Reach the right contacts at the right time with intelligent lead segmenting and activity reminders that tell you when to take action. When it’s time to seal the deal, compose instant, irresistible sales emails in just one click. With Pipedrive, winning has never been easier.
+See Software
+SuperOps
+SuperOps is a future-ready, unified PSA-RMM platform for fast-growing MSPs. Powered with the goodness of AI and intelligent automation, SuperOps is packed with all the features and tools that a modern MSP needs, including project management and IT documentation. MSPs no longer need to toggle between tools to manage different pieces of their work. With SuperOps, MSPs can break free from disjointed, legacy tools and experience a platform that’s built for the cloud and designed to make MSPs’ work and life easier.
+See Software
+HubSpot CRM
+HubSpot brings your marketing, sales, and service teams together on the same AI-powered customer platform. HubSpot's Customer Platform is not just a tool; it's the heartbeat of your business. Designed with passion and precision, our CRM stands out as the ultimate solution for empowering your team to build deeper customer relationships. It transforms the way you engage with your clients by offering a seamlessly integrated, all-in-one platform for sales, marketing, and customer service. With HubSpot's CRM, you gain unparalleled insights into your customer interactions, all organized in an intuitive, easy-to-navigate dashboard that promises to skyrocket your team's efficiency. Our platform is engineered to grow with you, offering scalable solutions that adapt to your evolving business needs. What's more, HubSpot's Customer Platform includes a robust free version, packed with essential features, making it the perfect choice for ambitious businesses of all sizes.
+See Software
+Nexo
+Nexo is a premier digital assets wealth platform designed to empower clients to grow, manage, and preserve their crypto holdings. Our mission is to lead the next generation of wealth creation by focusing on customer success and delivering tailored solutions that build enduring value, supported by 24/7 client care. Since 2018, Nexo has provided unmatched opportunities to forward-thinking clients in over 200 jurisdictions. With over $7 billion in AUM and $320 billion processed, we bring lasting value to millions worldwide. Our all-in-one platform combines advanced technology with a client-first approach, offering high-yield flexible and fixed-term savings, crypto-backed loans, sophisticated trading tools, and liquidity solutions, including the first crypto debit/credit card. Built on deep industry expertise, a sustainable business model, robust infrastructure, stringent security, and global licensing, Nexo champions innovation and long-lasting prosperity.
+See Software
+Popular Projects
+InfraRecorder
+CD/DVD burning solution for Microsoft Windows.
+See Project
+KeePass
+A lightweight and easy-to-use password manager
+See Project
+7-Zip
+A free file archiver for extremely high compression
+See Project
+CrystalDiskMark
+A simple disk benchmark software
+See Project
+Staff Picks
+MinGW-w64 - for 32 and 64 bit Windows
+A complete runtime environment for gcc
+See Project
+Code::Blocks
+A free C, C++ and Fortran IDE
+See Project
+CrystalDiskInfo
+A HDD/SSD utility software
+See Project
+HWiNFO
+Comprehensive Hardware Analysis, Monitoring and Reporting for Windows
+See Project
+Business Categories
+Advertising
+Application Development
+Artificial Intelligence
+Blockchain
+Business Intelligence
+Collaboration
+Communications
+Compliance
+Construction Management
+Content Management
+CRM
+Crypto
+Customer Service
+Data Management
+Document Management
+eCommerce
+Education
+Engineering
+Event Management
+Field Service Management
+Finance
+Government
+Hardware
+Healthcare
+Human Resources
+Insurance
+IT Management
+IT Security
+Legal
+Logistics
+Manufacturing
+Marketing
+Multimedia
+Network Management
+Nonprofit
+Operations Management
+Productivity
+Project Management
+Real Estate
+Retail Management
+Sales
+System Utilities
+Trading
+Travel
+Vertical Market
+Web Hosting
+Open Source Categories
+Artificial Intelligence
+Blockchain
+Business
+Communications
+Database
+Desktop Environment
+Education
+Formats and Protocols
+Games
+Internet
+Mobile
+Multimedia
+Printing
+Productivity
+Religion and Philosophy
+Scientific/Engineering
+Security
+Social sciences
+Software Development
+System
+Terminals
+Text Editors
+SourceForge
+Create a Project
+Open Source Software
+Business Software
+Add Your Software
+Top Downloaded Projects
+Company
+About
+Team
+SourceForge Headquarters
+1320 Columbia Street Suite 310
+San Diego, CA 92101
++1 (858) 422-6466
+
+    
+Resources
+Support
+Site Documentation
+Site Status
+SourceForge Reviews
+© 2025 Slashdot Media. All Rights Reserved.
+Terms Privacy Opt Out Advertise
+×

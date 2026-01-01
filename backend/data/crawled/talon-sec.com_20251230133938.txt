@@ -1,0 +1,385 @@
+Why Prisma SASE
+How Prisma SASE Works
+Products
+Solutions
+Resources
+Get Started
+PRISMA BROWSER
+Browse bravely on
+any device in minutes.
+
+
+Request a Demo
+See how Prisma Browser works
+Trusted by the best
+LEADING SECURITY
+USE CASES
+KEY FEATURES
+CUSTOMERS
+RESOURCES
+Request a Demo
+Volume
+Play
+Leading the industry with unparalleled,
+frictionless security
+Powered by Precision AI®
+
+Each day we analyze up to
+
+5.43B
+
+events from
+70,000 customers
+
+Each day we prevent up to
+
+450K
+
+new and unique
+malicious files
+
+Each day we identify up to
+
+8.95M
+
+new and unique
+threats
+
+Each day we prevent up to
+
+347K
+
+new and unique
+malicious URLs
+
+Security that's built-in, not added on
+Meet the only secure browser natively integrated with SASE.
+
+
+Prisma Browser extends SASE protection seamlessly to every device, bringing unmatched agility, security, and control to your business.
+Existing Prisma Access customers may be eligible for a free license upgrade that includes Prisma Browser
+Claim Offer
+
+USE CASES
+
+Unleash the power of the browser to safely enable
+
+USE CASES
+
+Unleash the power of the browser to safely enable
+Independent Workers
+Save 85% versus shipping laptops and enable secure remote access. Apply Zero Trust access policies and granular data controls.
+
+
+Discover more
+BYOD
+90% of organizations enable access to corporate data from personal devices. Secure work on BYOD and protect sensitive data.
+
+
+More info
+GenAI Usage
+65% of organizations have no visibility on user activity in GenAI apps. Protect enterprise data in GenAI tools and block Shadow AI.
+
+
+Full details
+VDI Reduction
+Lower TCO by up to 80% compared to VDI solutions. Reduce cost and complexity while enabling secure work in any application.
+
+
+Learn more
+The Secure Browser for both
+managed and unmanaged devices
+close
+minimize
+expand
+Home Screen
+Secure Workspace
+Visibility & Control
+User Experience
+See how customers browse bravely with the only SASE-native secure browser.
+See all Customer Stories
+A full-stack insurance company needed a way to secure remote access to its enterprise systems.
+Read the full story
+99%
+
+Decrease in onboarding time
+
+8.95
+
+new and unique attacks identified
+
+"It’s the central part of our Zero Trust strategy. It’s both the entry to the outside world and the gatekeeper of anything coming into the company."
+
+- Jonathan Jaffe
+
+Chief Information Security Officer,
+Lemonade Insurance
+
+This leading data infrastructure company needed a single way to provide consistent protection across managed and unmanaged devices.
+Watch the video
+347K
+
+New and unique malicious urls blocked
+
+237K
+
+New and unique malicious files blocked
+
+"I can control who has access to what and what they do. That aligns with Zero Trust…It’s like a one-size-fits-all solution for our environment."
+
+- Sarah Mignona Coté
+
+Chief Information Security Officer,
+NetApp
+
+This education company needed to quickly onboard and offboard contractors into their secure environment.
+Read the full story
+85%
+
+Reduction in onboarding costs
+
+1,000
+
+Hours saved in IT ticketing time
+
+“One of the great things about Prisma Browser is that it’s so easy to deploy. Distribution of the secure browser was automatic as each tutor was onboarded.”
+
+- Brian Kramps
+
+Director IT Operations,
+Amplify
+
+This global leader in IoT technology needed to quickly connect 650 new employees from 30 countries following an acquisition.
+Read the full story
+$1.9M
+
+Saved on manual configuration and maintenance
+
+650
+
+Employees onboarded in just minutes
+
+“We extended Zero Trust to every one of the 650 devices in minutes. People were productive straight away without any complexity.”
+
+- Itzik Menashe
+
+Chief Information Security Officer, Telit Cinterion
+
+Leading cybersecurity ratings firm needed a way to protect its distributed workforce from the wider attack surface for threats.
+Read the full story
+100K+
+
+User events visible in just seven days.
+
+>90%
+
+Of all endpoints secured within 30 days.
+
+"Prisma Browser is easy to deploy and easy to consume, which allows us to continue to scale the business while maintaining the security of our business and our data."
+
+- Aleksandr Yampolskiy
+
+Founder and CEO, SecurityScorecard
+
+Global gaming provider needed a simple and secure solution to connect its hybrid workforce, increase visibility and control, and safeguard against threats
+Read the full story
+100%
+
+Faster device deployment with zero learning curve.
+
+80%
+
+increase in apps discovered.
+
+"Prisma Browser is the ideal lightweight secure browser, with a native look and feel and robust security."
+
+- Oren Zenescu
+
+CISO, Plarium
+
+Leading digital healthcare company needed a way to ensure secure access to the company’s apps and web services for both employees and contractors working onsite and remotely, while ensuring compliance with healthcare regulatory requirements.
+Read the full story
+79%
+
+Lower costs compared to alternate evaluated VDI solutions
+
+6
+
+Regulatory bodies are able to quickly be compliant with Prisma Browser
+
+"It’s a game changer for productivity, security and HIPAA compliance in our healthcare environment."
+
+- Chief Information Security Officer
+
+Digital Healthcare Company
+
+Leading cybersecurity company wanted a solution to protect company data and work across managed and unmanaged devices with consistent security policies.
+Read the full story
+95%
+
+Reduction in data leakage instances
+
+20,000
+
+Endpoints onboarded in two months
+
+"Prisma Browser allows us to get visibility into employee browser interactions across different device forms, whether managed or unmanaged."
+
+- Shivneet Singh
+
+Vice President, Infrastructure Palo Alto Networks
+
+Pause
+Unmute
+Current Time 
+0:00
+/
+Duration 
+7:17
+Loaded: 0.00%
+Picture-in-Picture
+Fullscreen
+Play Video
+play
+Lemonade Insurance
+play
+NetApp
+Amplify
+Telit
+SecurityScorecard
+Plarium
+Digital Healthcare Company
+Palo Alto Networks
+Previous
+Next
+SASE solution trusted by the best
+10top utilities & energy providers
+10top manufacturing companies
+9top high tech companies
+9top financial companies
+8top healthcare providers
+10top retail companies
+
+“The advanced research that Palo Alto does significantly helped us be better prepared for attacks. The number of attacks, especially through email phishing, that was coming through has been significantly reduced because they’ve been stopped in the cloud.”
+
+– Cecil McMaster, Chief Information Officer, NYC Dept of Environmental Protection
+
+Stay ahead with our resources.
+Research & Analyst Reports
+Ebooks & Infographics
+Datasheets
+Solution Briefs & Whitepapers
+Blogs
+Videos
+RESEARCH REPORT
+Frost Radar™: Global Zero Trust Browser Security (ZTBS) Market 2025
+RESEARCH REPORT
+3x Leader in 2025 Gartner Magic Quadrant for SASE Platforms
+RESEARCH REPORT
+Gartner®, Innovation Insight: Secure Enterprise Browsers
+RESEARCH REPORT
+Omdia's The State of Workforce Security: Key Insights for IT and Security Leaders
+ANALYST REPORT
+Palo Alto Networks Recognized by Gartner as a Leader in SSE
+ANALYST REPORT
+Palo Alto Networks Recognized by Forrester as a Leader in SSE
+Previous
+Next
+Meet with us
+
+Contact our team of Prisma Browser experts today. We’ll help you determine which services are right for your browser journey.
+
+Job Level
+Country
+Sign me up to receive news, product updates, sales outreach, event information and special offers about Palo Alto Networks and its partners.
+
+By submitting this form, I understand my personal data will be processed in accordance with Palo Alto Networks Privacy Statement and Terms of Use.
+
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Sign up
+Products and Services
+AI-Powered Network Security Platform
+Secure AI by Design
+Prisma AIRS
+AI Access Security
+Cloud Delivered Security Services
+Advanced Threat Prevention
+Advanced URL Filtering
+Advanced WildFire
+Advanced DNS Security
+Enterprise Data Loss Prevention
+Enterprise IoT Security
+Medical IoT Security
+Industrial OT Security
+SaaS Security
+Next-Generation Firewalls
+Hardware Firewalls
+Software Firewalls
+Strata Cloud Manager
+SD-WAN for NGFW
+PAN-OS
+Panorama
+Secure Access Service Edge
+Prisma SASE
+Application Acceleration
+Autonomous Digital Experience Management
+Enterprise DLP
+Prisma Access
+Prisma Browser
+Prisma SD-WAN
+Remote Browser Isolation
+SaaS Security
+AI-Driven Security Operations Platform
+Cloud Security
+Cortex Cloud
+Application Security
+Cloud Posture Security
+Cloud Runtime Security
+Prisma Cloud
+AI-Driven SOC
+Cortex XSIAM
+Cortex XDR
+Cortex XSOAR
+Cortex Xpanse
+Unit 42 Managed Detection & Response
+Managed XSIAM
+Threat Intel and Incident Response Services
+Proactive Assessments
+Incident Response
+Transform Your Security Strategy
+Discover Threat Intelligence
+Company
+About Us
+Careers
+Contact Us
+Corporate Responsibility
+Customers
+Investor Relations
+Location
+Newsroom
+Popular Links
+Blog
+Communities
+Content Library
+Cyberpedia
+Event Center
+Manage Email Preferences
+Products A-Z
+Product Certifications
+Report a Vulnerability
+Sitemap
+Tech Docs
+Unit 42
+Do Not Sell or Share My Personal Information
+Privacy
+Trust Center
+Terms of Use
+Documents
+
+Copyright © 2025 Palo Alto Networks. All Rights Reserved
+
+EN
+This site uses cookies essential to its operation, for analytics, and for personalized content and ads. Please read our privacy statement for more information.Privacy statement
+Cookies Settings
+Reject All
+Accept All

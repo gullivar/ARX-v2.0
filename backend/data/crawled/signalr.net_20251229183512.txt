@@ -1,0 +1,93 @@
+Skip to main content
+Microsoft
+.NET
+Why .NET Features Learn Docs Downloads Community LIVE TV
+All Microsoft
+Home
+ASP.NET
+SignalR
+Missed .NET Conf 2025?
+Catch up on all of the fun and educational .NET sessions, with our on-demand videos.
+Watch videos
+×
+Real-time ASP.NET with SignalR
+
+Incredibly simple real-time web for ASP.NET
+
+Get started
+Read docs
+
+Supported on macOS, Windows, and Linux
+
+Bring your ASP.NET apps to life with SignalR
+
+Today's modern apps are expected to deliver up-to-date information without hitting a refresh button. Add real-time functionality to your dashboards, maps, games and more.
+
+What is real-time functionality? It's the ability to have your server-side code push content to connected clients as it happens, in real-time.
+
+Part of the ASP.NET Framework
+
+SignalR hubs can be written in C# code and added to your ASP.NET app, alongside your pages and APIs.
+
+The simple programming model integrates seamlessly with other ASP.NET features like dependency injection, authentication, authorization, and scalability.
+
+What can you do with ASP.NET and SignalR?
+
+While chat is often used as an example, you can do a whole lot more. Any time a user refreshes a web page to see new data, or the page implements Ajax long polling to retrieve new data, it's a candidate for using SignalR.
+
+SignalR also enables completely new types of applications that require high-frequency updates from the server, such as real-time gaming.
+
+Open source, open protocol
+
+SignalR is open-source on GitHub, just like the rest of .NET. In addition to the source code, the protocol specification for communication between hubs and clients is open too.
+
+SignalR on GitHub 
+
+Connect from everywhere
+
+With client SDKs for JavaScript, .NET (C#, F#, and Visual Basic), Java, and Swift, you can connect to your SignalR hub and start receiving real-time messages on almost any platform including web, mobile, desktop, and games.
+
+SignalR will use WebSockets when it's available, and gracefully falls back on other technologies when it isn't, while your application code stays the same.
+
+SignalR is fast and scalable
+
+Like the rest of ASP.NET, SignalR was built for high performance and is one of the fastest real-time frameworks around.
+
+Scale out across servers with built-in support for using Redis, SQL Server, or Azure Service Bus to coordinate messages between each instance.
+
+Azure SignalR service
+
+You can host the SignalR app yourself or use Azure SignalR Service for a fully managed platform. Azure SignalR Service handles concerns like performance, scalability, and availability and has a 99.9% service-level agreement.
+
+Learn about Azure SignalR Service 
+
+Ready to get started?
+
+Our step-by-step tutorial will help you get ASP.NET with SignalR running on your computer.
+
+Get started
+
+Follow us
+Feedback
+English (United States)
+Español
+Français (France)
+Indonesia (Indonesia)
+Italiano (Italia)
+日本語
+한국어
+Português (Brasil)
+Русский (Россия)
+中文（简体）
+中文（台灣）
+Dark mode
+Dark mode off
+Your Privacy Choices
+Consumer Health Privacy
+Powered by .NET 10.0.1
+Contact Microsoft
+Support
+Privacy & Cookies
+Terms of Use
+Trademarks
+© Microsoft 2025

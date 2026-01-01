@@ -1,0 +1,15 @@
+@opentrackr - Donate on Patreon!
+Transparency
+Donate (BTC): bc1qqzqzvjlv0xkqz3prar4273sf9zqnjkadr2eh5p
+Donate (ETH): 0x0CEB654c6C19272C219f09963f58556D29a41FB4
+
+
+
+OpenTrackr - Free to use Torrent tracker
+How to use
+To use OpenTrackr in (one of your) torrents you can add udp://tracker.opentrackr.org:1337/announce to your tracker list.
+
+
+ 
+ 
+(You're connected to the new server - v11)

@@ -1,0 +1,31 @@
+ 
+Help | Site Map | Text size: - +
+  
+Report Spam Blocking List Statistics Login
+SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers. By reporting spam, you have a positive impact on the problem. Reporting unsolicited email also helps feed spam filtering systems, including, but not limited to, SpamCop's own service.
+
+	
+REPORT SPAM
+
+Report spam to help Internet providers cut spam off at the source.
+Register Now
+
+USE FREE BLOCKING LIST
+Use the SpamCop DNS-based Blocking List with your own mailserver and get safe and effective spam filtering for free.
+Learn How
+Legal / Technical description
+	
+REPORTED FOR SPAMMING?
+
+Find out about SpamCop reports and spam blocking, email deliverability problems and what you can do to ensure that your mail will get through.
+Learn More
+
+GET HELP
+
+Get information from SpamCop's extensive FAQ and active user community.
+Help Home
+
+
+NEWS: Postmasters, please limit forgery blow-back:
+Delayed bounces, virus notices, vacation messages More..
+© 2025 Cisco Systems, Inc. All rights reserved. HTML4 / CSS2 Firefox recommended - Policies and Disclaimers

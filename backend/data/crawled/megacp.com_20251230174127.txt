@@ -1,0 +1,158 @@
+A weboldal cookie-kat (sütiket) használ a jobb felhasználó élmény valamint a weboldal funkcióinak biztosítása miattTovábbi információElfogadom
+
+3 in 1 Hosting Bt.
+			      
+
+
+Főoldal
+Domain
+Interworx tárhely
+CPanel tárhely
+VPS szerver
+Egyebek
+Információk
+Ügyfélkapu
+Kosár
+Üdvözöljük a 3 IN 1 HOSTING honlapján!
+
+Jelenlegi akciók, újdonságok
+
+
+
+ÓRIÁSI .EU ÉS .HU DOMAIN AKCIÓ!!!
+Visszavonásig ÚJ .eu domain nevet
+netto 1500 Ft/1. év áron, míg .hu domain nevet
+netto 2500 Ft/2 év áron lehet regisztrálni!
+FONTOS!!!
+.EU domain névnél a több éves regisztrációnál a 1. év felett
+minden további év netto 2000 Ft!
+
+Új magyar cPanel szerver!
+2021. február 15-én új cPanel-es szervert üzemeltünk be!
+A szerveren létrehozott új tárhelyekhez alapból php 8.0.x kerül beállításra!
+A szerverben 2 db Intel 10 magos CPU, 128 GB memória és RAID10-be rendezett SSD-k találhatóak!
+A hálózati kapcsolat 10 Gbit-es a webszerver és a mysql adatbázis szerver között!
+További részletek / megrendelés:
+Magyar cPanel tárhely csomagok
+
+Új magyar, nem klaszter Interworx szerver!
+2021. március 8-án új magyar Interworx-es szervert üzemeltünk be.
+Az új, egy szerveres Interworx csomagok nagy tárhelyet biztosítanak alacsony áron. Az új szerverben villámgyors SSD-k vannak RAID-ben valamint alapból minden új tárhely php 7.4.x (de php 8.0.x is kérhető!) és mysql 5.7.x kerül beállításra.
+További részletek / megrendelés itt:
+Új Interworx nem klaszter tárhely csomagok
+
+Új, VIP Interworx tárhely csomagjaink!
+Villámgyors SSD meghajtókat (min 4 db-ot RAID10-be rendezve!!!) tartalmazó szerverre MAX. 50 db tárhely került létrehozásra!
+Az új szerveren alapból php 7.4.x és mysql 5.7.x
+érhető el.
+decemberbe 31-ig akár 20% kedvezménnyel!
+További részletek / megrendelés:
+Új magyar VIP Interworx tárhely csomagok
+
+2017. január 25-től kezdve MINDEN
+cégünknél lévő tárhelyen INGYEN biztosítunk SSL tanúsítványt a tárhelyhez
+kapcsolódó domain nevekhez!
+
+
+
+	
+.hu domain regisztráció
+
+3 db ingyenes névszerver
+ingyenes email szűrés
+ingyenes backup MX
+tárhellyel kérve ajándék
+regisztráció 2 nap alatt
+2500 Ft + ÁFA / 2 év
+MEGRENDELEM
+
+
+Mikro VI csomag (Interworx)
+
+2.5 GB tárhely
+korlátlan kezelhető domain
+1 db ajándék domain
+Interworx felület
+magyar normál szerver
+5500 Ft + ÁFA / év
+MEGRENDELEM
+
+
+Indulo I csomag (cPanel)
+
+1.3 GB tárhely
+korlátlan kezelhető domain
+1 db ajándék domain
+cPanel felület
+magyar szerver
+4700 Ft + ÁFA / év
+MEGRENDELEM
+
+
+Mikro I csomag (Interworx)
+
+2.5 GB tárhely
+korlátlan kezelhető domain
+1 db ajándék domain
+Interworx felület
+magyar, klaszter szerver
+7200 Ft + ÁFA / év
+MEGRENDELEM
+	
+.eu domain regisztráció
+
+3 db ingyenes névszerver
+ingyenes email szűrés
+ingyenes backup MX
+tárhellyel kérve ajándék
+regisztráció 1 nap alatt
+1500 Ft + ÁFA / 1. év
+MEGRENDELEM
+
+
+.at domain regisztráció
+
+3 db ingyenes névszerver
+ingyenes email szűrés
+ingyenes backup MX
+tárhellyel kérve ajándék
+regisztráció 1 nap alatt
+4500 Ft + ÁFA / 1. év
+MEGRENDELEM
+
+
+Mikro VII csomag (Interworx)
+
+5 GB tárhely
+korlátlan kezelhető domain
+1 db ajándék domain
+Interworx felület
+magyar VIP szerver
+20 000 Ft + ÁFA / év
+MEGRENDELEM
+
+
+Kosár
+
+0 tétel a kosárban
+Kosár megtekintése
+Kosár kiürítése
+
+
+Cégünk akkreditációi:
+
+         
+    
+
+Főoldal |  Tárhelyek |  Domainok |  Támogatás / tikett rendszer |  Belépés |  Regisztráció |  ÁSZF |  Adatvédelmi tájékoztató
+Datanet szervertermében IPv6 elérhetőség
+2017-11-30
+Datanet-el történő folyamatos technikai egyeztetés eredményeképpen saját IPv6-os tartományunkat a Datanet elérhetővé tette a rackszervereink / hálózatunk számára. Iszonyatos sok IP címet jelent ez (/32-es IPv6-os tartományról van szó), így az IPv6-al nagyon-nagy lehetőség áll rendelkezésünkre. Az elkövetkező néhány hónapban folyamatosan fogjuk a szervereket / szolgáltatásainkat IPv6-os címmel is ellátni.
+server8.iworx-host.com klaszter storage szerver memória bővítés
+2017-10-26
+A server8.iworx-host.com klaszter rendszerünkben az adattároló / storage szerverünkben megdupláztuk a memóriát (eddig 32 GB helyett már 64 GB memória található meg benne)
+Processzor csere jó néhány szerverben
+2017-08-02
+Az elmúlt 2-3 hónapban ~10-12 db régebbi szerverünkben CPU-t / processzort cseréltünk. Az új processzorok a korábbiaknál jóval erőssebbek, így a webkiszolgálás valamint a mysql kiszolgálás is gyorsulni fog a csere miatt.
+
+Copyright © 2005-2025 3 in 1 Hosting Bt.. Minden jog fenntartva.

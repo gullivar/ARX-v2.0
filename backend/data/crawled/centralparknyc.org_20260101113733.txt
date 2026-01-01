@@ -1,0 +1,252 @@
+Your Official Guide to Central Park I… | Central Park Conservancy High contrast Default colors Email Signup Join/Renew Central Park Conservancy Visit Map Things To Do About Us Support Magazine Shop Search Open the Navigation Menu Central Park Conservancy Visit Map Things To Do About Us Support Magazine Shop Search Close the Navigation Menu Central Park is located in New York City, and stretches from 59th Street to 110th Street, between Fifth Avenue and Central Park West. Plan Your Visit Guide to the Drives Visitor Centers Restrooms Alerts and Closures Help Center Popular Places To See Park Tours Central Park Shop Davis Center Search Park Features Landscapes & Points of Interest Playgrounds Woodlands Architectural Features Bridges & Arches Statues & Ornamental Features Water Bodies Quiet Zones Activities & Amenities Restrooms Visitor Information Recreation & Cultural Facilities Central Park Shop Dining Downloadable Maps Area North Mid-Park South In the Park? Find locations near you 29° F Park Hours 6:00 am – 1:00 am Browse all Search - Calendar Activities & Guides Tours Events Interest Kids & Families Staff Picks Digital Guide Bloom & Tree Guide Ice Skating Official Central Park Tours Our Work Leadership Newsroom Jobs Contact Us Park History Restoration Five Borough Program Sustainability Women's Committee Seneca Village The Davis Center The Park Needs Us Donate Become a Member Give Monthly Tribute Giving Gift Membership Create a Fundraiser Adopt-A-Bench Donate Flowers Adopt-A-Tree Dedicate a Paving Stone Corporate Programs Planned Giving Benefit Events Volunteer Other Ways to Give Help the Central Park Conservancy keep the Park beautiful and vibrant by making a gift today. $100 $200 $500 $1,000 Other Amount Topics About the Conservancy Health and Fitness Park History Park Information Plants and Trees Programs and Events Q&As Restoration and Maintenance Things to See and Do Tips for Visiting Wildlife – Browse all From Volunteers to Stewards: The People Who Fell in Love with Central Park November 19, 2025 Visit ${scope.openAccordionSection == 'visit' ? 'Collapse' : 'Expand'} the Visit Menu Plan Your Visit Guide to the Drives Visitor Centers Restrooms Alerts and Closures Help Center Places To See Park Tours Central Park Shop Davis Center Map Search Park Features Landscapes & Points of Interest Playgrounds Woodlands Architectural Features Bridges & Arches Statues & Ornamental Features Water Bodies Quiet Zones Activities & Amenities Restrooms Visitor Information Recreation & Cultural Facilities Central Park Shop Dining Downloadable Maps Area North Mid-Park South Things to do ${scope.openAccordionSection =='things-to-do' ? 'Collapse' : 'Expand'} the Things to Do Menu 29° F Park Hours 6:00 am – 1:00 am Browse all Search Calendar Activities & Guides Tours Events Interest Kids & Families Staff Picks Digital Guide Bloom & Tree Guide Ice Skating About Us ${scope.openAccordionSection =='about-us' ? 'Collapse' : 'Expand'} the About Us Menu Our Work Leadership Newsroom Jobs Contact Us Park History Restoration Five Borough Program Sustainability Women's Committee Seneca Village Support ${scope.openAccordionSection =='support' ? 'Collapse' : 'Expand'} the Support Menu Donate Become a Member Give Monthly Tribute Giving Gift Membership Create a Fundraiser Adopt-A-Bench Donate Flowers Adopt-A-Tree Dedicate a Paving Stone Corporate Programs Planned Giving Benefit Events Volunteer Other Ways to Give $100 $200 $500 $1,000 Other Amount Magazine ${scope.openAccordionSection =='articles' ? 'Collapse' : 'Expand'} the Magazine Menu About the Conservancy Health and Fitness Park History Park Information Plants and Trees Programs and Events Q&As Restoration and Maintenance Things to See and Do Tips for Visiting Wildlife – Browse all Shop Join/Renew High contrast Default colors Email Signup See all alerts 29°
+									F Park map 5X YOUR IMPACT—ONLY HOURS LEFT Midnight is almost here—help keep Central Park thriving. Give Now! .text-custom-color,
+		.text-white,
+		.group-focus\:text-custom-color:focus,
+		.group-hover\:text-custom-color:hover,
+		.focus\:text-custom-color:focus,
+		.hover\:text-custom-color:hover,
+		.group-focus\:text-white:focus,
+		.group-hover\:text-white:hover,
+		.focus\:text-white:focus,
+		.hover\:text-white:hover {
+			color: #ffffff;
+		}
+
+		.text-alt-custom-color,
+		.text-alt-blue-800,
+		.group-focus\:text-alt-custom-color:focus,
+		.group-hover\:text-alt-custom-color:hover,
+		.focus\:text-alt-custom-color:focus,
+		.hover\:text-alt-custom-color:hover,
+		.group-focus\:text-blue-800:focus,
+		.group-hover\:text-blue-800:hover,
+		.focus\:text-blue-800:focus,
+		.hover\:text-blue-800:hover {
+			color: #0069B1;
+		}
+
+		.bg-custom-color,
+		.bg-blue-800,
+		.group-hover\:bg-custom-color:hover,
+		.group-focus\:bg-custom-color:focus,
+		.focus\:bg-custom-color:focus,
+		.hover\:bg-custom-color:hover,
+		.group-hover\:bg-blue-800:hover,
+		.group-focus\:bg-blue-800:focus,
+		.focus\:bg-blue-800:focus,
+		.hover\:bg-blue-800:hover {
+			background-color: #0069B1;
+		}
+
+		.bg-alt-custom-color,
+		.bg-alt-white,
+		.group-hover\:bg-alt-custom-color:hover,
+		.group-focus\:bg-alt-custom-color:focus,
+		.focus\:bg-alt-custom-color:focus,
+		.hover\:bg-alt-custom-color:hover,
+		.group-hover\:bg-white:hover,
+		.group-focus\:bg-white:focus,
+		.focus\:bg-white:focus,
+		.hover\:bg-white:hover {
+			background-color: #ffffff;
+		} Lace Up Your Skates Add a little magic to your holiday season with a visit to the brand-new Gottesman Rink at the Davis Center. Join us for open Community Skate, lessons, hockey, and special holiday events with a live DJ. Join Us .text-custom-color,
+		.text-blue-950,
+		.group-focus\:text-custom-color:focus,
+		.group-hover\:text-custom-color:hover,
+		.focus\:text-custom-color:focus,
+		.hover\:text-custom-color:hover,
+		.group-focus\:text-blue-950:focus,
+		.group-hover\:text-blue-950:hover,
+		.focus\:text-blue-950:focus,
+		.hover\:text-blue-950:hover {
+			color: #002E5D;
+		}
+
+		.text-alt-custom-color,
+		.text-alt-blue-300,
+		.group-focus\:text-alt-custom-color:focus,
+		.group-hover\:text-alt-custom-color:hover,
+		.focus\:text-alt-custom-color:focus,
+		.hover\:text-alt-custom-color:hover,
+		.group-focus\:text-blue-300:focus,
+		.group-hover\:text-blue-300:hover,
+		.focus\:text-blue-300:focus,
+		.hover\:text-blue-300:hover {
+			color: #92C1E9;
+		}
+
+		.bg-custom-color,
+		.bg-blue-300,
+		.group-hover\:bg-custom-color:hover,
+		.group-focus\:bg-custom-color:focus,
+		.focus\:bg-custom-color:focus,
+		.hover\:bg-custom-color:hover,
+		.group-hover\:bg-blue-300:hover,
+		.group-focus\:bg-blue-300:focus,
+		.focus\:bg-blue-300:focus,
+		.hover\:bg-blue-300:hover {
+			background-color: #92C1E9;
+		}
+
+		.bg-alt-custom-color,
+		.bg-alt-blue-950,
+		.group-hover\:bg-alt-custom-color:hover,
+		.group-focus\:bg-alt-custom-color:focus,
+		.focus\:bg-alt-custom-color:focus,
+		.hover\:bg-alt-custom-color:hover,
+		.group-hover\:bg-blue-950:hover,
+		.group-focus\:bg-blue-950:focus,
+		.focus\:bg-blue-950:focus,
+		.hover\:bg-blue-950:hover {
+			background-color: #002E5D;
+		} Snow Day Magic Starts Here When Central Park transforms into a winter wonderland, adventure follows. Discover where to sled, skate, and explore on this perfect snow day. Explore the Snow Guide .text-custom-color,
+		.text-white,
+		.group-focus\:text-custom-color:focus,
+		.group-hover\:text-custom-color:hover,
+		.focus\:text-custom-color:focus,
+		.hover\:text-custom-color:hover,
+		.group-focus\:text-white:focus,
+		.group-hover\:text-white:hover,
+		.focus\:text-white:focus,
+		.hover\:text-white:hover {
+			color: #ffffff;
+		}
+
+		.text-alt-custom-color,
+		.text-alt-blue-800,
+		.group-focus\:text-alt-custom-color:focus,
+		.group-hover\:text-alt-custom-color:hover,
+		.focus\:text-alt-custom-color:focus,
+		.hover\:text-alt-custom-color:hover,
+		.group-focus\:text-blue-800:focus,
+		.group-hover\:text-blue-800:hover,
+		.focus\:text-blue-800:focus,
+		.hover\:text-blue-800:hover {
+			color: #0069B1;
+		}
+
+		.bg-custom-color,
+		.bg-blue-800,
+		.group-hover\:bg-custom-color:hover,
+		.group-focus\:bg-custom-color:focus,
+		.focus\:bg-custom-color:focus,
+		.hover\:bg-custom-color:hover,
+		.group-hover\:bg-blue-800:hover,
+		.group-focus\:bg-blue-800:focus,
+		.focus\:bg-blue-800:focus,
+		.hover\:bg-blue-800:hover {
+			background-color: #0069B1;
+		}
+
+		.bg-alt-custom-color,
+		.bg-alt-white,
+		.group-hover\:bg-alt-custom-color:hover,
+		.group-focus\:bg-alt-custom-color:focus,
+		.focus\:bg-alt-custom-color:focus,
+		.hover\:bg-alt-custom-color:hover,
+		.group-hover\:bg-white:hover,
+		.group-focus\:bg-white:focus,
+		.focus\:bg-white:focus,
+		.hover\:bg-white:hover {
+			background-color: #ffffff;
+		} Latest From Our Magazine From the Archives: Winter in Central Park MEANINGFUL GIFTS, MADE FOR THE NEW YEAR Make shopping a walk in the most beautiful Park. Swing by the Dairy Visitor Center & Gift Shop or the Columbus Circle Holiday Market for unique gifts that celebrate and support our shared backyard. Shop Now .text-custom-color,
+		.text-blue-950,
+		.group-focus\:text-custom-color:focus,
+		.group-hover\:text-custom-color:hover,
+		.focus\:text-custom-color:focus,
+		.hover\:text-custom-color:hover,
+		.group-focus\:text-blue-950:focus,
+		.group-hover\:text-blue-950:hover,
+		.focus\:text-blue-950:focus,
+		.hover\:text-blue-950:hover {
+			color: #002E5D;
+		}
+
+		.text-alt-custom-color,
+		.text-alt-blue-300,
+		.group-focus\:text-alt-custom-color:focus,
+		.group-hover\:text-alt-custom-color:hover,
+		.focus\:text-alt-custom-color:focus,
+		.hover\:text-alt-custom-color:hover,
+		.group-focus\:text-blue-300:focus,
+		.group-hover\:text-blue-300:hover,
+		.focus\:text-blue-300:focus,
+		.hover\:text-blue-300:hover {
+			color: #92C1E9;
+		}
+
+		.bg-custom-color,
+		.bg-blue-300,
+		.group-hover\:bg-custom-color:hover,
+		.group-focus\:bg-custom-color:focus,
+		.focus\:bg-custom-color:focus,
+		.hover\:bg-custom-color:hover,
+		.group-hover\:bg-blue-300:hover,
+		.group-focus\:bg-blue-300:focus,
+		.focus\:bg-blue-300:focus,
+		.hover\:bg-blue-300:hover {
+			background-color: #92C1E9;
+		}
+
+		.bg-alt-custom-color,
+		.bg-alt-blue-950,
+		.group-hover\:bg-alt-custom-color:hover,
+		.group-focus\:bg-alt-custom-color:focus,
+		.focus\:bg-alt-custom-color:focus,
+		.hover\:bg-alt-custom-color:hover,
+		.group-hover\:bg-blue-950:hover,
+		.group-focus\:bg-blue-950:focus,
+		.focus\:bg-blue-950:focus,
+		.hover\:bg-blue-950:hover {
+			background-color: #002E5D;
+		} Go Walking in a Winter Wonderland Slow down and savor the season with our guided Winter Forest Bathing Walk. Wander through the Arthur Ross Pinetum—the Park’s four-acre arboretum filled with pine trees—to calm your mind, move your body, and connect to the present moment. Book Now .text-custom-color,
+		.text-blue-300,
+		.group-focus\:text-custom-color:focus,
+		.group-hover\:text-custom-color:hover,
+		.focus\:text-custom-color:focus,
+		.hover\:text-custom-color:hover,
+		.group-focus\:text-blue-300:focus,
+		.group-hover\:text-blue-300:hover,
+		.focus\:text-blue-300:focus,
+		.hover\:text-blue-300:hover {
+			color: #92C1E9;
+		}
+
+		.text-alt-custom-color,
+		.text-alt-blue-950,
+		.group-focus\:text-alt-custom-color:focus,
+		.group-hover\:text-alt-custom-color:hover,
+		.focus\:text-alt-custom-color:focus,
+		.hover\:text-alt-custom-color:hover,
+		.group-focus\:text-blue-950:focus,
+		.group-hover\:text-blue-950:hover,
+		.focus\:text-blue-950:focus,
+		.hover\:text-blue-950:hover {
+			color: #002E5D;
+		}
+
+		.bg-custom-color,
+		.bg-blue-950,
+		.group-hover\:bg-custom-color:hover,
+		.group-focus\:bg-custom-color:focus,
+		.focus\:bg-custom-color:focus,
+		.hover\:bg-custom-color:hover,
+		.group-hover\:bg-blue-950:hover,
+		.group-focus\:bg-blue-950:focus,
+		.focus\:bg-blue-950:focus,
+		.hover\:bg-blue-950:hover {
+			background-color: #002E5D;
+		}
+
+		.bg-alt-custom-color,
+		.bg-alt-blue-300,
+		.group-hover\:bg-alt-custom-color:hover,
+		.group-focus\:bg-alt-custom-color:focus,
+		.focus\:bg-alt-custom-color:focus,
+		.hover\:bg-alt-custom-color:hover,
+		.group-hover\:bg-blue-300:hover,
+		.group-focus\:bg-blue-300:focus,
+		.focus\:bg-blue-300:focus,
+		.hover\:bg-blue-300:hover {
+			background-color: #92C1E9;
+		} A few of our favorite places Get the latest from the Park, direct to your inbox. Email Address This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Central Park Conservancy 717 Fifth Avenue New York, NY 10022 212.310.6600 The Central Park Conservancy is a private, not-for-profit organization, and is tax exempt under Section 501(c)(3) of the Internal Revenue Code. Federal EIN (tax ID) number 13-3022855. Privacy Policy Governance Central Park Conservancy Central Park tiktok account Central Park youtube account Central Park facebook account Central Park instagram account Central Park twitter account Top Central Park Conservancy New York Presbyterian Official Hospital of Central Park Conservancy

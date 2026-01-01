@@ -1,0 +1,81 @@
+jQuery
+jQuery UI
+jQuery Mobile
+Sizzle
+QUnit
+Plugins
+Contribute
+Events
+Support
+OpenJS Foundation
+jQuery CDN
+jQuery Core
+jQuery UI
+jQuery Mobile
+jQuery Color
+QUnit
+PEP
+jQuery CDN – Latest Stable Versions
+Powered by 
+jQuery Core
+
+Showing the latest stable release in each major branch. See all versions of jQuery Core.
+
+jQuery 3.x
+jQuery Core 3.7.1: uncompressed, minified, slim, slim minified
+jQuery 2.x
+jQuery Core 2.2.4: uncompressed, minified
+jQuery 1.x
+jQuery Core 1.12.4: uncompressed, minified
+jQuery Migrate
+jQuery Migrate 3.6.0: uncompressed, minified
+jQuery UI
+
+Showing the latest stable release for the current and legacy release families. See all versions of jQuery UI.
+
+jQuery UI 1.14
+jQuery UI 1.14.1: uncompressed, minified
+Themes: base black-tie blitzer cupertino dark-hive dot-luv eggplant excite-bike flick hot-sneaks humanity le-frog mint-choc overcast pepper-grinder redmond smoothness south-street start sunny swanky-purse trontastic ui-darkness ui-lightness vader
+jQuery UI 1.13
+jQuery UI 1.13.3: uncompressed, minified
+Themes: base black-tie blitzer cupertino dark-hive dot-luv eggplant excite-bike flick hot-sneaks humanity le-frog mint-choc overcast pepper-grinder redmond smoothness south-street start sunny swanky-purse trontastic ui-darkness ui-lightness vader
+jQuery Mobile
+
+Showing the latest stable release for jQuery Mobile. See all versions of jQuery Mobile.
+
+jQuery Mobile 1.4.5 - uncompressed, minified, theme (structure only)
+jQuery Color
+
+Showing the latest stable release for jQuery Color. See all versions of jQuery Color.
+
+jQuery Color 3.0.0: uncompressed, minified
+jQuery Color SVG Color Names 3.0.0: uncompressed, minified
+jQuery Color With Names (last two together) 3.0.0: uncompressed, minified
+QUnit
+
+Showing the latest stable release for QUnit. See all versions of QUnit.
+
+QUnit 2.24.3 - script, stylesheet
+PEP
+
+Showing the latest stable release for PEP. See all versions of PEP.
+
+PEP 0.4.3 - uncompressed, minified
+BOOKS
+Learning jQuery Fourth Edition
+Karl Swedberg and Jonathan Chaffer
+jQuery in Action
+Bear Bibeault, Yehuda Katz, and Aurelio De Rosa
+jQuery Succinctly
+Cody Lindley
+Learning Center
+ 
+Chat
+ 
+Twitter
+ 
+GitHub
+
+Copyright 2025 OpenJS Foundation and jQuery contributors. All rights reserved. See jQuery License for more information. The OpenJS Foundation has registered trademarks and uses trademarks. For a list of trademarks of the OpenJS Foundation, please see our Trademark Policy and Trademark List. Trademarks and logos not indicated on the list of OpenJS Foundation trademarks are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. OpenJS Foundation Terms of Use, Privacy, and Cookie Policies also apply.
+
+Web hosting by Digital Ocean | CDN by Fastly | Powered by WordPress

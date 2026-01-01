@@ -1,0 +1,204 @@
+Products 
+Pricing
+Docs
+Sign up
+Log in
+Error and Crash Reporting for Games & Mobile Apps
+
+Any Platform · Any Engine · At Any Scale
+
+Create an account
+var btClient = BacktraceClient.Initialize(
+  url: serverUrl,
+  databasePath: "${Application.persistentDataPath}/sample/backtrace/path",
+  gameObjectName: "game-object-name",
+  attributes: attributes);
+- - - 
+catch (Exception exception){
+  var report = new BacktraceReport(
+     exception: exception,
+     attributes: new Dictionary<string, string>() { { "key", "value" } },
+     attachmentPaths: new List<string>() { @"file_path_1", @"file_path_2" } );
+  btClient.Send(report); 
+}
+Improve game quality across platforms
+Explore now
+I develop games using...
+Unity
+Unreal
+Custom
+Retain Players and Improve Ratings
+Monitoring
+24/7
+Uptime
+99.99%
+Devs  Backtrace
+Fred Gill
+Technical Director at Respawn Entertainment
+
+“We recently started ingesting crashes from one of our PS4 games into Backtrace, and we now have a single place where we can view all quality issues impacting Star Wars Jedi: Fallen Order across desktop and game consoles. This visibility will help propel our software quality management practices to the next level.”
+
+Christopher Swiedler
+Senior Engineer, Roblox
+
+“Backtrace has cut down on the time it takes to generate crash reports while increasing their accuracy. It’s nice to be able to send people links to Backtrace crash reports and searches.”
+
+Nicolas “Rikus” Maier
+CTO, Nimble Giant
+
+"Only a mad person would try to develop and release a videogame without using Backtrace. You will save a lot of time, frustration and really bad experiences. On another note, we stopped using the phrase ‘if it only happened once then there’s no bug’ because it’s there, it’s on Backtrace, the bug exists, it happened once and it will happen again, now we know how to fix it.”
+
+Brent Lamb
+Senior Producer, Perfect World
+
+"Backtrace has changed the way we explore and use crash data. Everyone feels comfortable running queries and understanding the health of our games."
+
+Trusted by
+
+The community for game developers - like you
+Ask a question
+discord
+email
+Search our knowledge base
+
+Visual Studio Extension Guide (C++ and Crashpad)
+
+View article
+
+Crashpad Integration Guide
+
+View article
+
+Coresnap Integration Guide
+
+View article
+
+Breakpad Integration Guide
+
+View article
+
+Web Console - What's New
+
+View article
+
+Web Console Overview
+
+View article
+
+Triage
+
+View article
+
+Explore
+
+View article
+
+Create an account
+Improve game quality across platforms
+View supported platforms
+I develop games using...
+Unity
+Unreal
+Custom
+Get started within minutes
+
+Start using Backtrace for Unity today! See how easy it is to integrate Backtrace so you can quickly detect and resolve the errors that impact your players.
+
+Watch the Video
+var btClient = BacktraceClient.Initialize(
+  url: serverUrl,
+  databasePath: "${Application.persistentDataPath}/sample/backtrace/path",
+  gameObjectName: "game-object-name",
+  attributes: attributes);
+- - - 
+catch (Exception exception){
+  var report = new BacktraceReport(
+     exception: exception,
+     attributes: new Dictionary<string, string>() { { "key", "value" } },
+     attachmentPaths: new List<string>() { @"file_path_1", @"file_path_2" } );
+  btClient.Send(report); 
+}
+Copy Code
+Detect and resolve every kind of Unity error
+
+Capture and report debug log errors, handled and unhandled exceptions, native crashes, hangs, and out of memory events. Backtrace helps you cut through the noise to prioritize and debug the game errors that matter most.
+
+Learn about Backtrace + Unity
+Keep your players playing longer
+
+Build long-term relationships with your players, and encourage them to interact with your team to make your product better.
+
+Version
+
+2018 LTS- 2022.2
+
+Advanced features for seamless gaming
+Explore all features
+Custom Attributes
+
+Add runtime data, like level/map or server, to your crash reports for more insightful prioritization.
+
+Query & Search
+
+No need to export. Built-in filter, search, and analysis across all error report data.
+
+Flexible Deployment
+
+Fully supported on-premise and cloud-hosted environments.
+
+Web Debug
+
+Fully integrated debugging UI, with no-hassle symbol management, and advanced dump analysis for seamless debugging.
+
+Data Scrubbing
+
+Scrub PII and sensitive information from dumps in a compliant fashion.
+
+Flexibile, Customizable Retention
+
+Handle retention for dumps and metadata independent of one another. Retention can be based on both time, error group, and attribute information.
+
+Backtrace integrates into your workflow
+
+Incorporate debug data into your existing workflow for SCM, alerting, ticket tracking, messaging, and more to enable seamless error management.
+
+Create an account
+Subscribe to our newsletter
+
+Stay updated on the latest industry news, technology, events, and all things Backtrace.
+
+Sign up for the Backtrace email newsletter
+Subscribe
+Engine
+Unity
+Unreal Engine
+Custom Engine
+Mobile
+Android
+iOS
+PC
+Windows
+Mac
+Linux
+Web
+Console
+Sony PlayStation
+Microsoft Xbox
+Nintendo Switch
+Google Stadia
+Company
+Product
+Pricing
+About
+Contact
+Terms of Service
+Privacy Policy
+More
+Blog
+Gaming
+Languages
+Support
+FAQs
+Mobile Non-Gaming
+
+Backtrace I/O | 450 Sansome Street, 9th Floor, San Francisco, CA 94111 USA | © 2025 Sauce Labs Inc. All rights reserved.

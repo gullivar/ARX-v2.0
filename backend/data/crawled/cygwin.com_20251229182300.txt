@@ -1,0 +1,71 @@
+Cygwin
+Install Cygwin
+Update Cygwin
+Search Packages
+Licensing Terms
+Cygwin/X
+Community
+Reporting Problems
+Mailing Lists
+Newsgroups
+IRC channels
+Gold Stars
+Mirror Sites
+Donations
+Documentation
+FAQ
+User's Guide
+API Reference
+Acronyms
+Contributing
+Source in Git
+Cygwin DLL
+Cygwin Packages
+Cygwin Apps
+Related Sites
+Cygwin
+
+Get that Linux feeling - on Windows
+
+This is the home of the Cygwin project
+What...
+...is it?
+
+Cygwin is:
+
+a large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows.
+a DLL (cygwin1.dll) which provides substantial POSIX API functionality.
+...isn't it?
+
+Cygwin is not:
+
+a way to run native Linux apps on Windows. You must rebuild your application from source if you want it to run on Windows.
+a way to magically make native Windows apps aware of UNIX® functionality like signals, ptys, etc. Again, you need to build your apps from source if you want to take advantage of Cygwin functionality.
+Cygwin version
+
+The most recent version of the Cygwin DLL is 3.6.5.
+
+The Cygwin DLL currently works with all recent, commercially released x86_64 versions of Windows, starting with Windows 8.1. For more information see the FAQ.
+
+Note to users of older Windows versions
+
+Cygwin 3.4.10 was the last Cygwin version supporting Windows 7, Windows 8, Windows Server 2008 R2 and Windows Server 2012. If you need Cygwin on these or even older systems, consider using the Cygwin Time Machine.
+
+Installing Cygwin
+
+Install Cygwin by running the Cygwin Installer
+
+Use the setup program to perform a fresh install or to update an existing installation.
+
+Keep in mind that individual packages in the distribution are updated separately from the DLL so the Cygwin DLL version is not useful as a general Cygwin distribution release number.
+
+Support for Cygwin
+
+For all Cygwin-related questions, observations, suggestions and bug reports, please check the resources available at this site, such as the FAQ, the User's Guide and the mailing list archives. If you've exhausted these resources then please send email to the appropriate mailing list.
+
+Please send notification of technical problems (bad html, broken links) concerning these web pages to the Cygwin mailing list.
+
+Please do not send personal email with "quick questions" to individual Cygwin contributors. The Cygwin mailing lists are the places for all questions. Really. I mean it.
+
+The Cygwin DLL and utilities are Copyright © Cygwin authors. Other packages have other copyrights.
+UNIX ® is a registered trademark of the Open Group in the United States and other countries.

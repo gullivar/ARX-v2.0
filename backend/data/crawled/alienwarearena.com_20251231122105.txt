@@ -1,0 +1,23 @@
+Alienware Arena Discover Alienware News Blogs Videos Wallpapers Alienware.com Games Giveaways Community Giveaways Arena Arcade BETA Quests Steam Events Community Relay Leaderboard Hive Discord FAQ Rewards What is Arena Marketplace Game Vault Redeem Code Admin Show all notifications Dell Reward Opt In × This reward requires that you opt in to the Dell Rewards program. You have previously opted out and will need to visit Dell.com to opt back in. Opt me in to the Dell Rewards program. CANCEL CONFIRM 25 ARP 12/31 25 ARP 1/01 25 ARP 1/02 LOG IN Login Discover Alienware News Blogs Videos Alienware.com Games Giveaways Community Giveaways Arena Arcade BETA Quests Steam Events Community Relay Leaderboard Hive Discord FAQ Rewards What is Arena Marketplace Game Vault Redeem Code EXFIL Steam Game Key Giveaway Another batch of keys added! Claim your Steam game key while supplies last... Tier 5 Giveaway NARAKA: BLADEPOINT FEST Key Giveaway Unlock the NARAKA FEST Giveaway and claim 2x Score Keeper Cards. Get Key Warframe Exclusive Game Pack Claim your key and unlock the Gazal Armor Set and more! Get Key Check Out the Festivities Starting 12/15! Celebrate with us! Community Event! From 12.15-12.30 Join Now! Previous Next What's New? EXFIL Steam Game Key Giveaway Alienware Arena 2025 Recap NARAKA: BLADEPOINT FEST Key Giveaway Warframe Exclusive Game Pack Key Giveaway Phantom Blade Zero - Official Release Date Announcement Trailer | 2026.9.9 Worldwide + Wishlist Now Aaero2: Black Razor Edition | Launch Trailer Aaero2: Arcade Paradise and Lania Kea Music Packs are OUT NOW! EXODUS – The Rise of Jun Aslan | Official Trailer Everdream Village Launches December 12th! In The Black® – Hardcore Space Combat Simulator | Early Access Trailer BASELESS Official Launch Trailer - OUT NOW! Den of Wolves - Community Hands-On Trailer | PC Gaming Show 2025 Marketplace Start earning ARP by watching Something went wrong We're sorry, but something went wrong. Please let us know what you were doing when this error occurred. We will fix it as soon as possible. Sorry for any inconvenience caused. Click here to return to the homepage. Copyright 2020 Dell Technologies. All Rights Reserved. if (Object.keys(fallback).length === 0) {
+            fallback.user_login = 'alienware'
+        }
+        const isApp = typeof(window.ReactNativeWebView) != 'undefined';
+        let opts = {
+            channel: fallback.user_login,
+            parent: ['www.alienwarearena.com'],
+            autoplay: !isApp
+        }
+        let player = new Twitch.Player('twitch-player', opts)
+        player.addEventListener(Twitch.Player.READY, function () {
+            console.log("Player Is Ready")
+            //player.play()
+        })
+        player.addEventListener(Twitch.Player.PLAY, function () {
+            console.log("PLAY")
+            console.log(player.getChannel())
+        })
+    }) Hello there
+TF2 played but but not recognized as owned. Sebastian_Crenshaw Steam quests not working today bonkers0g Is there a Steam DB trick we need to get the Team Fortress 2 steam quest to work, like the broken DOTA 2 quest last week? Whitcut They really should have thought about making achievements that create a lot of spam...
+
+
+(yes this is a post to get achievement...) Gwarsbane I have installed Team Fortress 2, but it doesn't apeare between my games here anjosa Go to Relay Follow us on Social Media FAQ/Support Terms of Service Privacy Policy About Us Game Partnership Copyright 2023 Dell Technologies. All Rights Reserved. ×

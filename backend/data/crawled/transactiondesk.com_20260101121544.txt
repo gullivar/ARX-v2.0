@@ -1,0 +1,1 @@
+Please Wait {{app.label}} {{app.description}} {{app.label}} {{app.description}} {{app.appInstances[0].label}} {{instance.label}} Try the next evolution of TransactionDesk. Create transactions with Lone Wolf Transact. Get started ➔ Welcome, {{userName}} TransactionDesk                     | Powered by Lone Wolf Technologies | © 2026 Please Wait Uploading... Cancel

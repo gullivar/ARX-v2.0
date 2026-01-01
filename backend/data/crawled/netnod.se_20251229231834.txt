@@ -1,0 +1,168 @@
+Skip to main content
+Main navigation
+Products
+IX
+Netnod One Port
+Remote IX
+Cloud Connect
+Closed user group
+Private VLAN
+Cross-IX
+Reach
+IX Locations
+Pricing
+DNS
+ccTLD
+gTLD
+Enterprise
+Public sector
+Find a Partner
+Become a partner
+Time
+Free time services
+Premium time services
+Transport
+Regional
+Metro
+Domain Management
+Registrar services
+Tech Centre
+Events
+About us
+Blog
+Netnod Management Team
+Netnod's history
+Work at Netnod
+Public policies and statements
+Newsroom
+Secondary navigation
+Search
+Contact us
+Login
+We provide robustness for digitalised organisations
+
+We ensure a stable and secure internet across the Nordics and beyond by providing technology, expertise, and legislative insights to build a more resilient and robust internet.
+
+Working for the good of the internet
+
+As a neutral non profit our core goal is rock solid, a standard of robustness impossible within a commercial framework. We make profits to reinvest in our core mission – tech, knowledge and input on legislation to create robust organisations in Sweden and beyond.
+
+ 
+
+We provide services at the core of the internet
+IX
+Internet Exchange
+Join the largest IX in Northern Europe and peer across all Netnod Internet Exchanges with just one port.
+NETNOD TIME
+Time Services
+Providing Both Premium (PTP) and Free (NTP and NTS) Time services.
+DNS
+DNS Services
+Providing secondary DNS services to partners, enterprises and some of the largest TLDs in the world.
+Transport services
+28 May 2024
+Using a state-of-the-art DWDM network, Netnod provides flexible connection options, fast provisioning and redundant routes.
+I-ROOT
+I-root
+The root name servers are a critical part of the Internet’s infrastructure. Since 2000, Netnod has operated i.root-servers.net, the first root server to be located outside of the United States.
+One port
+4 Oct 2024
+Netnod's One Port solution makes it easier for you to order, aggregate and administer your Netnod services.
+Pioneering digital  infrastructure since 1996
+
+We started off as internet pioneers and ended up as a non profit that allowed us to focus all of our energy into building robust digital infrastructure. Our work also resulted in us developing the skills and culture to run an incident proof organisation. 
+
+About Netnod
+News
+
+Here you can find news and media appearances amongst other things we are up to. 
+
+View news and press releases
+Public policies and statements
+
+We provide expert input in policy, regulatory and governance discussions that directly impact the context within which we operate. 
+ 
+
+Read more
+Events
+
+We host our own events in Sweden and participate on stage, as sponsors and as attendees all around the world during the year. 
+
+View all events
+Unlocking the power of ports
+
+We talk with Björn Stromgard, Product Owner at Netnod, about maximising the value of connecting to a Netnod IX and making life easier for customers. 
+
+Read more
+Knowledge Base
+
+What is an Internet Exchange?
+How does time distibution work?
+Educate yourself about the core of the internet.
+
+Visit Knowledge Base
+Tech Centre
+
+Netnod´s Tech Centre is a resource providing detailed technical specifications ang information about Netnod´s range of services.
+
+Visit Tech Centre
+Inquiries?
+Your Name
+Your Email
+Subject
+Message
+Submit
+Social
+    
+CONTACT
+
+Greta Garbos väg 13
+169 40  Solna
+Sweden
+Phone: +46 (0)8 562 860 00
+
+Registration number: 556534-0014
+Registered office: Stockholm
+
+Contact Netnod
+
+Press
+
+#netnod
+
+SUPPORT
+
+General: info@netnod.se
+Technical & network: noc@netnod.se
+Web: webmaster@netnod.se
+
+Fault report
+Report abuse
+Whistleblower report
+
+Peering with Netnod
+Route servers
+NTP servers
+Data privacy policy
+
+ABOUT
+
+About Netnod
+
+Netnod knowledge base
+
+Blog
+
+History
+
+Netnod Staff
+
+Netnod Board
+
+Work at Netnod
+
+Netnod DNS Data Retention and Web policies
+
+Sign up for Newsletter
+
+© Netnod 2025

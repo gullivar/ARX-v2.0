@@ -1,0 +1,201 @@
+CS
+Klientská sekce
+CLOUD
+KUBERNETES
+MANAGED SERVERY
+AWS
+AZURE
+AI
+PRODUKTY
+ŘEŠENÍ
+Úvodní stránka
+Kubernetes cluster řešení
+
+Komplexní plně spravované řešení.
+Flexibilní orchestrace kontejnerových aplikací přesně na míru.
+Posuňte svůj projekt na další level s Kubernetes!
+
+VÍCE INFORMACÍ
+Managed servery
+
+Kompletní zajištění provozu serverů na klíč.
+Od výběru a pořízení až po samotnou správu serveru.
+Nechte si připravit nezávaznou nabídku ještě dnes!
+
+VÍCE INFORMACÍ
+Správa serverů
+
+Profesionální správa serverů a clusterových řešení
+Čtvrtstoletí zkušeností a moderní technologické zázemí
+Svěřte své servery do rukou zkušených profesionálů!
+
+VÍCE INFORMACÍ
+Levný hosting a flexibilní cloud VPS
+Levný hosting
+Easy
+
+Webhosting pro jednotlivce i firmy
+Profesionální podpora 24/7/365
+
+Vyhrazené systémové prostředky
+SSL certifikát zdarma
+Až 2 měsíce navíc zdarma
+Garance vrácení peněz do 14 dnů
+
+20 Kč / měsíc
+
+24 Kč / měsíc s DPH
+
+OBJEDNAT
+Cloud VPS
+Low Tier
+
+Flexibilní cloud VPS
+Profesionální podpora 24/7/365
+
+1 vCPU, 2 GB RAM
+20 GB SSD / NVMe
+Garance vrácení peněz do 14 dnů
+
+od 122 Kč / měsíc
+
+148 Kč / měsíc s DPH
+
+OBJEDNAT
+Cloud VPS
+Standard Tier
+
+Flexibilní cloud VPS
+Profesionální podpora 24/7/365
+
+2 vCPU, 2 GB RAM
+40 GB SSD / NVMe
+Garance vrácení peněz do 14 dnů
+
+od 294 Kč / měsíc
+
+356 Kč / měsíc s DPH
+
+OBJEDNAT
+Přizpůsobujeme se zákazníkům a jejich individuálním potřebám
+Správa serverů
+
+Kompletní správa serverů od profesionálních administrátorů
+
+VÍCE INFORMACÍ
+Dedikované servery
+
+Fyzické servery pro náročné projekty včetně dodání a správy
+
+VÍCE INFORMACÍ
+Služby pro cloud
+
+Zvýšení výkonu, dostupnosti
+a pružnosti aplikací
+
+VÍCE INFORMACÍ
+
+Jsme úspěšná společnost s více než 20 lety zkušeností v oblasti poskytování online služeb a produktů.
+
+Zaměřujeme se na individuální potřeby zákazníka, kvalitu a bezpečnost poskytovaných služeb.
+
+U nás si můžete být jisti, že vaše problémy skutečně řešíme hned.
+
+Novinky
+PF 2026: Spolehlivá infrastruktura pro váš růst
+
+Vážíme si každé spolupráce a každého projektu, který jsme s vámi v roce 2025 mohli budovat. Do roku 2026 vstupujeme s jasným cílem: poskytovat služby,…
+
+ZOBRAZIT ČLÁNEK
+Startup a Spinoff program, rychlý start vašeho projektu
+
+Spouštíme Startup & Spinoff program, který je navržený pro všechny, kdo chtějí uvést svůj nový projekt do provozu efektivně a bez složitostí. Program nabízí přístup…
+
+ZOBRAZIT ČLÁNEK
+Managed Cloudflare – Profesionální ochrana webu bez starostí
+
+Managed Cloudflare je snadná cesta, jak získat profesionální, certifikovanou a důvěryhodnou volumetrickou ochranu pro vaše webové aplikace – bez nutnosti zásahu do vývoje, nasazování ani…
+
+ZOBRAZIT ČLÁNEK
+Nepřetržitý bezpečnostní dohled a reakce na incidenty 24/7
+
+Bezpečnostní dohled je komplexní služba rozšířeného dohledu, která posouvá provozní režim na úroveň 24/7. Umožňuje nejen reaktivní opatření, ale také možnost rozšíření na plně proaktivní…
+
+ZOBRAZIT ČLÁNEK
+Novinky, které posunou vaše IT na novou úroveň
+
+Nové features v našem portfóliu služeb: cloudové portfólio rozšířené o silné modely, které zásadním způsobem rozšiřují možnosti vašich aplikací, pokročilé možnosti antispam a antivir ochrany…
+
+ZOBRAZIT ČLÁNEK
+Nové možnosti v našem cloudu: Bezpečnost, výkon a flexibilita, která přináší skutečný rozdíl
+
+Nové features v našem portfóliu služeb: rozšíření maintenance plánů o balíčky zajišťující plnění požadavků regulátora v rámci subjektu podléhající NIS-2 a DORA, ultrarychlé RDP instance…
+
+ZOBRAZIT ČLÁNEK
+BUTCA 2.0: Cyber-range as a Service nová éra kybernetického vzdělávání díky podpoře od MPO a EU
+
+NETHOST s.r.o. se podílí na vývoji budoucnosti kybernetické bezpečnosti společně s VUT v Brně. Ve spolupráci s Vysokým učením technickým v Brně jsme se zapojili do revolučního projektu Cyber-range…
+
+ZOBRAZIT ČLÁNEK
+Nethostí newsletter pro říjen 2023
+
+Bezpečí s nejmodernějším lovcem bezpečnostních děr Tenable Nessus Nessus security scanner, je cenným nástrojem pro zajištění bezpečnosti a ochrany serverů a infrastruktury, který pomáhá identifikovat a řešit…
+
+ZOBRAZIT ČLÁNEK
+I banální nedostatek místa dokáže napáchat pěknou paseku
+
+Povinná autoscale politika a pokročilé technologie umožnující změnu místa na serverových instancích za chodu dělá z našich managed služeb jasnou výhodu pro naše zákazníky. V době kdy…
+
+ZOBRAZIT ČLÁNEK
+Nethost
+Aktuality
+Klientská sekce
+O nás
+Technologie
+Sídlo společnosti
+Bankovní spojení
+Povinné informace
+Vzdálená podpora
+Hosting
+Virtuální server VPS
+Webhosting
+Kubernetes
+Aplikační server hosting
+DDoS ochrana a Firewall
+Domény
+SSL certifikáty
+FTP server
+VPN server
+Produkty a řešení
+AI & Machine Learning
+Dohledové centrum
+DDoS ochrana
+Spongefinger WAF
+Spongefinger IPFW
+Zálohování PDS
+Levný hosting
+Domény
+Sponge S3 storage
+Projekty
+TAČR
+MPO
+MVČR
+Kontakt
+
+EMAIL:
+info@nethost.cz
+obchod@nethost.cz
+TEL.:
++420 233 321 891
+IČ: 26226979
+DIČ: CZ26226979
+
+© 2025 Nethost s.r.o.
+
+Používáme cookies
+
+Abychom Vám zpříjemnili práci s webem, používáme soubory cookies. Kliknutím na tlačítko Přijmout vše s tímto souhlasíte.
+
+Přijmout vše
+Odmítnout vše
+Nastavení

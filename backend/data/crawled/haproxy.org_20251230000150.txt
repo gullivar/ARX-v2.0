@@ -1,0 +1,191 @@
+HAProxy
+The Reliable, High Performance TCP/HTTP Load Balancer
+		  Mirror Sites: Master
+  Language: English
+
+Quick links
+Quick News
+Recent News
+Description
+Performance
+Reliability
+Security
+Documentation
+Project on GitHub
+Download sources / doc
+Packages / Images / Distros
+Live demo
+They use it!
+Enterprise Features
+Third party extensions
+Commercial Support
+Contacts
+External links
+Discussions
+Slack channel
+Mailing list
+Coding style
+Open Issues
+Known bugs
+Signing keys
+
+HATop: Ncurses Interface
+Herald: load feedback agent
+haproxystats: stats collection
+Alpine-based Docker images
+Debian-based Docker images
+RHEL-based Docker images
+Debian/Ubuntu packages
+Performance packages
+
+
+Site served using:
+   HTTP version: 2
+   Transport: TLSv1.3+TCP
+   Network: IPv4
+Your computer is not IPv6-ready
+ visitors online
+  
+Thanks for your support !
+
+
+		
+Latest versions
+
+Branch	Release date	End of life	Latest version	Changelog	Links
+3.4-dev	~2026-Q2	2031-Q2 (dev » LTS)	3.4-dev1	2025-12-10	git / web / dir / announce
+3.3	2025-11-26	2027-Q1 (stable)	3.3.1	2025-12-19	git / web / dir / announce / bugs
+3.2	2025-05-28	2030-Q2 (LTS)	3.2.10	2025-12-18	git / web / dir / announce / bugs
+3.1	2024-11-26	2026-Q1 (stable)	3.1.12	2025-12-22	git / web / dir / announce / bugs
+3.0	2024-05-29	2029-Q2 (LTS)	3.0.14	2025-12-22	git / web / dir / announce / bugs
+2.8	2023-05-31	2028-Q2 (LTS)	2.8.18	2025-12-25	git / web / dir / announce / bugs
+2.6	2022-05-31	2027-Q2 (critical fixes only)	2.6.23	2025-10-03	git / web / dir / announce / bugs
+2.4	2021-05-14	2026-Q2 (critical fixes only)	2.4.30	2025-10-03	git / web / dir / announce / bugs
+Hide/Show unmaintained
+
+Quick News
+
+Dec, 3rd, 2025 : HAProxy Technologies' Performance Packages
+
+It's no news that many users have been hit by the massive performance cost caused by the switch to OpenSSL 3.x a few years ago. Even if things are less dramatic with 3.1-3.6 than they were with 3.0 -- and we're actively working with the OpenSSL team to help improve the situation --, the cost of leaving OpenSSL 1.1.1 is still important for large-scale users. We've also been working with alternatives such as WolfSSL and AWS-LC that provide excellent performance (even beyond OpenSSL 1.1.1), but neither is packaged in mainstream distros. For this reason, HAProxy Technologies decided to provide a set of Performance Packages for latest Debian, Ubuntu, and soon RHEL, containing the latest HAProxy stable version built against the latest AWS-LC stable version, which currently happens to be the most feature-complete and versatile alternative to OpenSSL. We hope this will save power users from having to decide between maintaining their own packages and dependencies or doubling the number of servers.
+
+Nov, 26th, 2025 : HAProxy 3.3.0 release
+
+This stable release as usual introduces significant advancements in performance, reliability, and observability. Key highlights include experimental QUIC backend support for improved interoperability, persistent stats across reloads for uninterrupted monitoring, and KTLS integration for zero-copy TLS data transfer. The default load balancing algorithm now switches to the lightweight "random(2)" for better scalability, while CPU performance is enhanced with automatic "performance" policy, per-thread-group counters and reduced locking (particularly in stick-tables and peers). ACME has been improved with automatic certificate generation, DNS-01 challenge support via dataplane API, and a new cert-dumping script. User privacy is improved with TLS ECH that permits clients to encrypt the SNI. A few long-deprecated keywords were dropped, and more config traps are detected and lead to warnings. As usual this short summary misses a lot, so it's better to read the details on the HAProxyTech's blog, and the mailing-list announcement.
+
+Jun, 24th, 2025 : HAProxy 3.2.0 release
+
+This LTS release improves in a lot of areas. First, many improvements were made to scale much better on large CPUs with many cores. The load balancing algorithms, the queues, the stick-tables, the peers are now thread-group aware and will reduce their sharing between CPUs of different groups, and these groups can now be formed automatically to match the hardware topology thanks to the new CPU binding policies. Outgoing connections may now pick an idle connection from another thread group instead of creating a new connection, resulting in a higher TCP reuse ratio and a lower resource usage. Memory pools are merged more intelligently and contribute to memory usage reduction. The latency induced by heavy configs has been further reduced. Various HTTP improvements such as checking idle connections using PING frames, rules to drop trailers, health checks over idle connections, and improved convergence of H2 and H3 processing. SSL is easier to configure thanks to the ssl-f-use rules that are common to multiple "bind" lines, and the early support of the ACME protocol for certificates renewal. QUIC pacing is now really performant and enabled by default, QUIC rx buffers are automatically sized to support much faster (30x) uploads, and Tx memory size can now be capped while being adjusted to match the maximum link speed. OpenSSL 3.5's QUIC API is supported. Lua supports receive timeout and queued events, permitting to implement interactive applications (a game is provided as an example). And many improvements were made to help with live troubleshooting (CLI, glitch counters descriptions, various new "show" commands). It's better to read the details on the HAProxyTech's blog, and the mailing-list announcement.
+
+Feb, 26th, 2025 : HAProxyConf 2025 Early birds registration
+
+Early birds registration for HAProxy Conf 2025 is now available! Please check the link to book your tickets.
+
+Older news...
+
+Description
+
+HAProxy is a free, very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. It is particularly suited for very high traffic web sites and powers a significant portion of the world's most visited ones. Over the years it has become the de-facto standard opensource load balancer, is now shipped with most mainstream Linux distributions, and is often deployed by default in cloud platforms. Since it does not advertise itself, we only know it's used when the admins report it :-)
+
+The HAProxy core team maintains multiple versions in parallel. Since version 1.8, two major version are emitted every year. The first digit usually indicates a breaking change (config format etc) but in practice rarely changes. The second digit indicates new features. Both constitute a branch. One extra number appears after these digits to indicate the bug fix release.
+
+The core team deploys a lot of efforts backporting fixes to older releases while being extremely careful not to break anything. For this reason, it is really important to stay up to date within one branch, i.e. having the highest possible number on the last digits.
+
+Branches with an even number are called "LTS" (for "long term support") and area maintained for 5 years after their release. During this time they will receive fixes for bugs that are discovered after the release. These branches are aimed at general users who seek extreme stability and do not want to qualify a new version too often but still want to receive fixes.
+
+Branches with an odd number are only called "stable", they're aimed at highly skilled users who prefer to upgrade often to benefit from modern features, and who are also able to roll back in case of problem. These versions are maintained between 12 and 18 months. The duration is short and purposely not strict so that the maintenance cycle is decided with users based on feedback, and so that these versions do not end up in embedded products. It may happen that a few features are backported to these version if there is some reasonable demand and the operation is considered riskless enough.
+
+Everyone used to dealing with production knows that it's difficult to upgrade components in field when one has to plan and advertise upwards of any operation. For this reason, the HAProxy core team doesn't insist on users to upgrade, will not ask someone to switch to a new branch (unless they ask for a feature that is part of that other branch), but will often ask the user to re-check with the latest version of their branch before reporting a problem, because nobody likes to troubleshoot a problem a second time. It's often suggested to use the versions that come with the operating system when it follows the official maintenance cycle, and depending on the expected level of stability or exposure, some users may want to update as soon as an update is available while others may prefer to wait a few weeks to a month to be sure the update is reliable enough for them.
+
+Here's a very rough history of changes in each major version:
+
+version 3.3 : QUIC on the backend, persistent stats, more seamless ACME, Kernel TLS+splicing, TLS ECH, improved performance and observability
+version 3.2 : ACME & SSL management, improved CPU scalability, QUIC performance, improved troubleshooting
+version 3.1 : troubleshooting, improved config reliability, improved QUIC and H2 performance, new SPOE engine, finer error reporting
+version 3.0 : crt-stores, persistent stats, syslog load balancing, JSON&CBOR log encoding, virtual maps &acls, zero-copy from the cache, H2/H3 protocol-level protections
+version 2.9 : reverse-http, log backends, zero-copy forwarding, memory usage reduction, increased bandwidth, better general scalability, AWS-LC support, QUIC openssl compat layer, PROXY protocol manipulation
+version 2.8 : QUIC now prod ready, Lua-based mailers, OCSP auto updates, LetsEncrypt, wolfSSL support, RFC7239 "forwarded", listeners on more than 64 threads, perf/usability/reliability/observability improvements
+
+Hide/Show older ones ...
+
+Performance
+
+As shown in this test run on AWS ARM-based Graviton2, HAProxy scales very well with threads and was shown to be able to reach 2 million requests/s over SSL and 100 Gbps for forwarded traffic.
+
+This is made possible thanks to its event-driven architecture that allows to react extremely quickly to I/O events, its parallelism on SMP machines provided by light multi-threading, a task scheduler that permanently composes between low-latency and high throughput, and generally speaking a permanent quest of resource savings at every single architecture layer. These efforts tend to cost a bit in development time but are immediately valued by users who are able to reduce their number of machines upgrade after upgrade. For the vast majority of common loads, the HAProxy process is simply not noticed, which tends to make its users forget it, sometimes resulting in questions regarding extremely old versions.
+
+Please consult this section for more information on the architecture details and some performance test results.
+
+Reliability - keeping high-traffic sites online since 2002
+
+HAProxy is first known for being extremely robust. The core team developers tend to be irritated by certain bugs they fix, but this is because their job is to see them all. Most users report having never ever faced any single crash and claim that HAProxy is the most solid part of their infrastructure. Finding machines with HAProxy processes being up for more than 3 years is not exceptional at all!
+
+All this is not an accident, though. A lot of efforts are made in that direction, to provide excellent observability on what is happening, and an amazing number of protections against bad behaviors. HAProxy is built with many checks for unacceptable situations (impossible conditions, endless loops, etc) that in other products might result in service outages or data corruption, but in HAProxy will immediately result in a crash with a dump of the problem. This rigor pays off since most users have never faced such an issue, thanks to the few who faced them and provided useful reports allowing to fix the problem early.
+
+The development process also encourages quality, with a long term maintenance cycle: versions are maintained for 5 years by the same developers who code the new features. This encourages them to write high quality code and commit messages that correspond to the highest standards. A regression testing suite is used and run along development by all developers and before merging code, as well as after on a wide variety of platforms thanks to the continuous integration (CI) system.
+
+The principle of "eating one's dog's food" applies here as well: haproxy.org runs on the latest development release. This usually helps spot a bug or two per major version before it hits a release. But in addition it maintains a permanent pressure on the development team to release something they're confident in.
+
+The program having been designed from its early age to be extremely conservative on resource usage, a significant number of settings are calculated at startup time and enforce many limits on number of sockets, connections, streams etc, guaranteeing that any processing that was started will complete.
+
+Security - Hardened by default
+
+Security is a very important concern when deploying a software load balancer, because it runs at the edge and takes all the dirty traffic. It is possible to harden the OS, to limit the number of open ports and accessible services, but the load balancer itself stays exposed. The unified and non-fantasist coding style aims at avoiding common traps when writing or reviewing code. Some high standards are sought when it comes to dealing with unvalidated data. Non-portable functions and those having unreliable behaviors are avoided or replaced. Input data gets sanitized very early in the lower layers. Resource usage is carefully controlled. Dangling pointers are forbidden in the code via careful release functions. These standards already help eliminate a great deal of uncertainty in the code itself.
+
+Since zero-bug is not reasonable, the product embarks a number of defensive measures, such as chroot, privilege drops, fork prevention, strict protocol validation, checks for impossible states and detailed traces in case of violation detection, etc. All these usually result in an attempt to exploit a real bug in a failure or possibly a crash. These measures have to be purposely disabled by the user using sufficiently evocative commands so that the reason for doing so has to be regularly questioned.
+
+Complete Download Matrix
+
+Here you will find a quick access to downloadable contents by type and version. Just click on the desired format to access the content in that format.
+
+	dev	3.3	3.2	3.1	3.0	2.9	2.8	2.7	2.6	2.5	2.4	2.3	2.2	2.1	2.0	1.9	1.8	1.7	1.6	1.5	1.4	1.3	1.2	1.1	1.0
+Git repository	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web	Git / Web
+Latest snapshot	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz	tar.gz	-
+Latest release	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	tar.gz / Log	-
+Browsable dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir
+Known bugs	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web	Web
+Starter guide	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	-	-	-	-	-	-
+Configuration manual	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	txt	txt	txt	txt
+Management guide	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	-	-	-	-	-	-
+Lua ref. manual	html	html	html	html	html	html	html	html	html	html	html	html	html	html	html	html	html	html	html	-	-	-	-	-	-
+Lua arch. guide	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt	html / txt
+Browsable doc	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir	Dir
+
+Please note that official docs are the pure-text ones and directly come from the project, except for the Lua reference manual that is maintained by Thierry Fournier. The HTML versions are direct translations from the text version automatically performed by Cyril Bonté's excellent documentation converter, dconv. A TeX-oriented variant able to produce PDFs was also created by Pavel Lang for versions 1.4 and 1.5 but it is not maintained anymore.
+
+Commercial Support and availability
+
+If you think you don't have the time and skills to setup and maintain a free load balancer, or if you're seeking for commercial support to satisfy your customers or your boss, you have the following options :
+
+contact HAProxy Technologies to hire some professional services or subscribe a support contract ;
+install HAProxy Enterprise load balancer, which is a long-term maintained HAProxy package accompanied by a well-polished collection of software, scripts, configuration files and documentation which significantly simplifies the setup and maintenance of a completely operational solution ; it is particularly suited to Cloud environments where deployments must be fast.
+try an ALOHA appliance (hardware or virtual), which will even save you from having to worry about the system, hardware and from managing a Unix-like system.
+I also find it important to credit Loadbalancer.org. I am not affiliated with them at all but like us, they have contributed a fair amount of time and money to the project to add new features and they help users on the mailing list, so I have some respect for what they do. They're a UK-based company and their load balancer also employs HAProxy, though it is somewhat different from the ALOHA.
+
+Contacts
+
+Feel free to contact us for any questions or comments :
+
+
+mailing-list : haproxy@formilux.org
+Read the list archives on mail-archive
+Read the list pre-2009 archives on Marc.info
+
+Subscribe to the list : haproxy+subscribe@formilux.org
+Unsubscribe from the list : haproxy+unsubscribe@formilux.org
+HAProxy site in HTTPS (needed for HTTP/3 and HTTP/2) : https://www.haproxy.org/
+Willy' main site : http://1wt.eu/
+e-mail : w@1wt.eu
+
+Some people regularly ask if it is possible to send donations, so I have set up a Paypal account for this. Click here if you want to donate.
+
+An IRC channel for HAProxy has been opened on Libera.Chat:
+
+
+irc://irc.libera.chat/%23haproxy
+A Slack Workspace for HAProxy exists as well:
+
+https://slack.haproxy.org/
+
+	
+

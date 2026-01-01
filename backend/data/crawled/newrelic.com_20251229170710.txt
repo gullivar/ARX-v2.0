@@ -1,0 +1,265 @@
+Cookie Consent
+We use cookies and other tracking technologies - provided by other companies with whom we share your data - to make our website work, improve your experience, and support our marketing efforts, as explained in our Privacy Notice. By using our website, you agree to our Website Terms of Use.
+Skip to main content
+Infrastructure
+Cloud
+Full-stack
+Web
+Security
+Intelligent Observability
+
+Maximize business uptime and drive engineering excellence in the AI era.
+
+Get Started Free
+Get Demo
+eBook
+22 Winning Observability Strategies
+Discover how leading global companies innovate with confidence using New Relic.
+Download the eBook
+50+ capabilities in one
+Monitor your full stack. 
+Transaction 360
+Catalog & Scorecards
+Cloud Cost Intelligence
+Engagement Intelligence
+Streaming Video & Ads Intelligence
+eAPM
+Security RX
+Logs
+Integrations
+Database Monitoring
+Serverless
+Host Monitoring
+Kubernetes
+Cloud Monitoring
+Network Monitoring
+Traces
+APM
+Browser
+Synthetics
+Mobile
+New Relic AI
+Alerts
+Anomalies
+Dashboards
+Remediation
+System Health
+Explore Platform
+Get up to 5x the value with New Relic.
+Only pay for what you use. 
+Users and data, not tools. 
+Actual—not peak—usage. 
+No overages or penalties.
+Large Engineering Team
+150 Engineers
+225 APM Hosts
+350 Infra Hosts
+20K Logs Ingest
+Source
+Get up to 3x more value when you switch to New Relic.
+View Pricing
+Request Quote
+Midsize Engineering Team
+65 Engineers
+125 APM Hosts
+200 Infra Hosts
+10K GB Logs Ingest
+Source
+Get up to 3x more value when you switch to New Relic.
+View Pricing
+Request Quote
+Small Engineering Team
+25 Engineers
+20 APM Hosts
+50 Infra Hosts
+2.5K GB Logs Ingest
+Source
+Get up to 5x more value when you switch to New Relic.
+View Pricing
+Request Quote
+Free Tier
+
+Start today with the most generous free tier in the industry—no credit card required.
+
+The data speaks for itself—the value provided to customers is clear.
+Bloomberg Capital Markets
+780+ integrations including Agentic AI. Start now for free.
+Java
+Install
+Node.js
+Install
+.NET
+Install
+PHP
+Install
+MySQL
+Install
+Python
+Install
+View All Integrations
+Build up engineers. Tear down silos. 
+	
+	
+The world’s best teams run on New Relic.
+New Relic gives us one platform that we can look at and get a complete picture. It’s absolutely crucial.
+Scott Favelle
+Technology Director, Seven West Media
+With errors inbox, we expect our MTTR to be within 15 minutes. We want every customer to have a good experience.
+Tommy Harke
+VP Engineering, Vault Health
+We're able to integrate a lot of tools with New Relic, but we're also able to bring our product teams and engineers a lot closer together.
+Stefan Kolesnikowicz
+Principal Engineer, Achievers
+New Relic has dramatically impacted our culture, giving us the ability to be extremely data driven.
+Aviran Mordo
+VP Engineering, WIX
+Using New Relic is like moving from an acoustic guitar to an electric guitar.
+Erik Bak-Mikkelsen
+Head of Cloud Ops, Share Now
+Tokopedia is now able to achieve end-to-end observability of our platform, especially our mobile app.
+Ryan de Melo
+VP Engineering, Tokopedia
+New Relic . . . [enables] us to scale our systems based on how traffic is moving, without compromising on performance, cost, or the customer experience.
+Abhijit Khasnis
+VP Technology, HealthifyMe
+The transparency, predictability, and flexibility of New Relic pricing are hugely beneficial, and we only pay for what we use.
+Joshua McLean
+CIO, World Kinect.
+New Relic gives us one platform that we can look at and get a complete picture. It’s absolutely crucial.
+Scott Favelle
+Technology Director, Seven West Media
+With errors inbox, we expect our MTTR to be within 15 minutes. We want every customer to have a good experience.
+Tommy Harke
+VP Engineering, Vault Health
+We're able to integrate a lot of tools with New Relic, but we're also able to bring our product teams and engineers a lot closer together.
+Stefan Kolesnikowicz
+Principal Engineer, Achievers
+New Relic has dramatically impacted our culture, giving us the ability to be extremely data driven.
+Aviran Mordo
+VP Engineering, WIX
+Using New Relic is like moving from an acoustic guitar to an electric guitar.
+Erik Bak-Mikkelsen
+Head of Cloud Ops, Share Now
+Tokopedia is now able to achieve end-to-end observability of our platform, especially our mobile app.
+Ryan de Melo
+VP Engineering, Tokopedia
+New Relic . . . [enables] us to scale our systems based on how traffic is moving, without compromising on performance, cost, or the customer experience.
+Abhijit Khasnis
+VP Technology, HealthifyMe
+The transparency, predictability, and flexibility of New Relic pricing are hugely beneficial, and we only pay for what we use.
+Joshua McLean
+CIO, World Kinect.
+New Relic gives us one platform that we can look at and get a complete picture. It’s absolutely crucial.
+Scott Favelle
+Technology Director, Seven West Media
+With errors inbox, we expect our MTTR to be within 15 minutes. We want every customer to have a good experience.
+Tommy Harke
+VP Engineering, Vault Health
+We're able to integrate a lot of tools with New Relic, but we're also able to bring our product teams and engineers a lot closer together.
+Stefan Kolesnikowicz
+Principal Engineer, Achievers
+New Relic has dramatically impacted our culture, giving us the ability to be extremely data driven.
+Aviran Mordo
+VP Engineering, WIX
+Using New Relic is like moving from an acoustic guitar to an electric guitar.
+Erik Bak-Mikkelsen
+Head of Cloud Ops, Share Now
+Tokopedia is now able to achieve end-to-end observability of our platform, especially our mobile app.
+Ryan de Melo
+VP Engineering, Tokopedia
+New Relic . . . [enables] us to scale our systems based on how traffic is moving, without compromising on performance, cost, or the customer experience.
+Abhijit Khasnis
+VP Technology, HealthifyMe
+The transparency, predictability, and flexibility of New Relic pricing are hugely beneficial, and we only pay for what we use.
+Joshua McLean
+CIO, World Kinect.
+Read Customer Stories
+Trusted, enterprise-level security protects your data.
+View Certifications
+View Certifications
+GDPR
+Compliant
+A–LIGN
+27001 Certified
+SOC2
+Type II Verified
+FEDRAMP
+Compliant
+Get started today for free
+Get Started Free
+Get Demo
+New Relic Now
+Discover the latest features and capabilities shaping observability and driving growth.
+Watch On Demand
+Platform
+Pricing
+Solutions
+Enterprise
+Developers
+Resources
+Search toggle
+Log in
+Get Started Free
+COMPANY
+About Us
+Careers
+Leadership
+Social Impact
+Code of Conduct
+ESG
+Suppliers Portal
+AI Principles
+PRODUCT
+Integrations
+Platform
+Security
+VALUE
+Pricing
+New Relic Free Tier
+New Relic vs Datadog
+New Relic vs Dynatrace
+New Relic vs Splunk
+RESOURCES
+Blog
+Customer Case Studies
+Community Forum
+Documentation
+Press Releases
+New Relic University
+Partner Program
+2025 Observability Forecast
+Professional Services
+FAQS
+What is Infrastructure Monitoring?
+What is Observability?
+What is Kubernetes?
+Six steps for achieving business observability
+Log management best practices
+Why you need a single tool for infrastructure monitoring and APM
+A quick guide to getting started with New Relic
+Why you need IAST
+Contact Us
+Terms of Service
+DMCA Policy
+Privacy Policy
+Website Terms
+Your Privacy Choices
+Cookie Policy
+Modern Slavery Statement
+Patent Notice
+English
+©2008-25 New Relic, Inc. All rights reserved
+
+How can New Relic help you better monitor your stack?
+
+Start with 100 GB + 1 user free.
+
+Get Started Free
+
+Get a guided product tour.
+
+Watch Demo
+
+Simple, transparent pricing.
+
+Request Pricing

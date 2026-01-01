@@ -1,0 +1,3113 @@
+powered by:
+Cookie Information
+This website uses cookies
+
+Some are used for statistical purposes and others are set up by third party services. By clicking 'Accept all', you accept the use of cookies. Further information about our use of cookies can be found in our cookie policy.
+
+3Shape's Cookie Policy
+Google's Privacy Policy
+About cookies
+
+DECLINE ALL UNNECESSARY COOKIES
+ACCEPT ALL
+Show details
+Strictly necessary
+Strictly necessary cookies help make a website navigable by activating basic functions such as page navigation and access to secure website areas. Without these cookies, the website would not be able to work properly.
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConfig
+Provider:
+policy.app.cookieinformation.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.community.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.learn.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+learn.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.community.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+learn.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Used to share consent across domains.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent_xxx
+Provider:
+policy.app.cookieinformation.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.learn.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Pending
+Data Processor Privacy Policy:
+Expiry:
+15 minutes
+Name:
+OpenIdConnect.nonce.xxx
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.3shapelink-dev.powerappsportals.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Amazon Web Services
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://aws.amazon.com/privacy/
+Expiry:
+7 days
+Name:
+AWSALBCORS
+Provider:
+widget-mediator.zopim.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+14 days
+Name:
+CookieInformationConsent
+Provider:
+design-qa.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+14 days
+Name:
+CookieInformationConsent
+Provider:
+signup-qa.3shapedesign.services
+Data Processor:
+Purpose:
+Pending
+Data Processor Privacy Policy:
+Expiry:
+15 minutes
+Name:
+OpenIdConnect.nonce.xxx
+Provider:
+help.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+help.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.help.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.help.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+portal.3shapecommunicate.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Collects information about the website and its contents for reporting and security purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+.AspNetCore.Antiforgeryxxx
+Provider:
+identity.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+unite.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.triosroi.3shape.com
+Data Processor:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.f5.com/company/policies/privacy-policy
+Expiry:
+Session
+Name:
+BIGipServerxxx
+Provider:
+app-nld101.marketo.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+triosroi.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.triosroi.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+triosroi.3shape.com
+Data Processor:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.f5.com/company/policies/privacy-policy
+Expiry:
+35 minutes
+Name:
+BIGipServerxxx
+Provider:
+nld1rtp1.marketo.com
+Data Processor:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.f5.com/company/policies/privacy-policy
+Expiry:
+35 minutes
+Name:
+BIGipServerxxx
+Provider:
+nld1rtp1-cdn.marketo.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.www.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+www.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.www.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+design.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.partner.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.partner.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+partner.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+partner.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.proxy-prod-webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.webshop.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.proxy-prod-webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.my.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+my.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.my.3shape.com
+Data Processor:
+BIG-IP, F5
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.f5.com/company/policies/privacy-policy
+Expiry:
+Session
+Name:
+BIGipServerxxx
+Provider:
+pages.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+support.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASPSESSIONIDxxx
+Provider:
+lms.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ApplicationGatewayAffinity
+Provider:
+lms.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ApplicationGatewayAffinityCORS
+Provider:
+lms.3shape.com
+Data Processor:
+Purpose:
+Pending
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.nonce.xxx
+Provider:
+community.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+community.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+community.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+lms-webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.lms-webshop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.lms-webshop.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+www.3shapediscover.com
+Data Processor:
+Cloudflare
+Purpose:
+Pending
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+Session
+Name:
+_cfuvid
+Provider:
+.vimeo.com
+Data Processor:
+PHP
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+#
+Expiry:
+a day
+Name:
+PHPSESSID
+Provider:
+www.3shapediscover.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+configurator.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.configurator.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+configurator.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.automate.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.automate.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.shop.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+shop.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.shop.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+shop.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+signup.3shapedesign.services
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.audio.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.audio.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+audio.3shape.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ASP.NET_SessionId
+Provider:
+audio.3shape.com
+Data Processor:
+PHP
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+#
+Expiry:
+a month
+Name:
+PHPSESSID
+Provider:
+3shapeonlinedemoscheduling.as.me
+Data Processor:
+Stripe
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://stripe.com/us/privacy
+Expiry:
+a year
+Name:
+__stripe_mid
+Provider:
+.3shapeonlinedemoscheduling.as.me
+Data Processor:
+Stripe
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://stripe.com/us/privacy
+Expiry:
+30 minutes
+Name:
+__stripe_sid
+Provider:
+.3shapeonlinedemoscheduling.as.me
+Data Processor:
+Stripe
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://stripe.com/us/privacy
+Expiry:
+a year
+Name:
+m
+Provider:
+m.stripe.com
+Data Processor:
+Cloudflare
+Purpose:
+Pending
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+Session
+Name:
+_cfuvid
+Provider:
+.support.fullcontour.com
+Data Processor:
+Microsoft, ASP.NET
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+__RequestVerificationToken
+Provider:
+link.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinity
+Provider:
+.link.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Required for the website to perform properly.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+Session
+Name:
+ARRAffinitySameSite
+Provider:
+.link.3shape.com
+Data Processor:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://cookieinformation.com/cookie-and-privacy-policy/
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Provider:
+link.3shape.com
+Functional
+Functional cookies make it possible to save information that changes the way the website appears or acts. For instance your preferred language or region.
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+learn.3shape.com
+Data Processor:
+Zendesk
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.zendesk.com/company/customers-partners/privacy-policy
+Expiry:
+7 days
+Name:
+AWSALB
+Provider:
+widget-mediator.zopim.com
+Data Processor:
+Zendesk
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.zendesk.com/company/customers-partners/privacy-policy
+Expiry:
+a year
+Name:
+__zlcmid
+Provider:
+.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+triosroi.3shape.com
+Data Processor:
+Cloudflare
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+30 minutes
+Name:
+__cf_bm
+Provider:
+.app-nld101.marketo.com
+Data Processor:
+Cloudflare
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+30 minutes
+Name:
+__cf_bm
+Provider:
+.pages.3shape.com
+Data Processor:
+Microsoft
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+MSPTC
+Provider:
+.bing.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+corporate#lang
+Provider:
+www.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+partner.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+webshop.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+my.3shape.com
+Data Processor:
+Cloudflare
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+11 minutes
+Name:
+__cf_bm
+Provider:
+.twitter.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+community.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+lms-webshop.3shape.com
+Data Processor:
+Cloudflare
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+28 minutes
+Name:
+__cf_bm
+Provider:
+.vimeo.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+configurator.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+shop.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+Session
+Name:
+xxx#lang
+Provider:
+audio.3shape.com
+Data Processor:
+Zendesk
+Purpose:
+Collects information about the users and their activity on the website, which is used to deliver personalized customer service and content.
+Data Processor Privacy Policy:
+https://www.zendesk.com/company/customers-partners/privacy-policy
+Expiry:
+Session
+Name:
+_help_center_session
+Provider:
+support.fullcontour.com
+Data Processor:
+Cloudflare
+Purpose:
+Supports the website's technical functions.
+Data Processor Privacy Policy:
+https://www.cloudflare.com/privacypolicy/
+Expiry:
+30 minutes
+Name:
+__cf_bm
+Provider:
+.support.fullcontour.com
+Statistical
+Statistical cookies help the website owner understand how visitors interact with the website by collecting and reporting information.
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+FPID
+Provider:
+.3shape.com
+Data Processor:
+Segment
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://segment.com/docs/legal/privacy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.learn.3shape.com
+Data Processor:
+Typeform
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.typeform.com/help/a/what-happens-to-my-data-360029581691/
+Expiry:
+Session
+Name:
+__tld__
+Provider:
+.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga
+Provider:
+.3shape.com
+Data Processor:
+Sitecore
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.sitecore.com/trust/privacy-policy
+Expiry:
+a year
+Name:
+SC_ANALYTICS_GLOBAL_COOKIE
+Provider:
+.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+20 hours
+Name:
+FPLC
+Provider:
+.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+learn.3shape.com
+Data Processor:
+Segment
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://segment.com/docs/legal/privacy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.learn.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+help.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+help.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga
+Provider:
+.portal.3shapecommunicate.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.portal.3shapecommunicate.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+www.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a day
+Name:
+_gid
+Provider:
+.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+www.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a minute
+Name:
+_gat
+Provider:
+.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a day
+Name:
+_clsk
+Provider:
+webshop.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_clck
+Provider:
+.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.webshop.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+webshop.3shape.com
+Data Processor:
+Typeform
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.typeform.com/help/a/what-happens-to-my-data-360029581691/
+Expiry:
+Session
+Name:
+__tld__
+Provider:
+.webshop.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a day
+Name:
+_clsk
+Provider:
+.webshop.3shape.com
+Data Processor:
+Segment
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://segment.com/docs/legal/privacy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.webshop.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a day
+Name:
+_clsk
+Provider:
+.3shape.com
+Data Processor:
+Typeform
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.typeform.com/help/a/what-happens-to-my-data-360029581691/
+Expiry:
+Session
+Name:
+__tld__
+Provider:
+.support.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+support.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.support.3shape.com
+Data Processor:
+Segment
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://segment.com/docs/legal/privacy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.support.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+29 minutes
+Name:
+ai_session
+Provider:
+lms.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+lms.3shape.com
+Data Processor:
+Segment
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://segment.com/docs/legal/privacy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.community.3shape.com
+Data Processor:
+Typeform
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.typeform.com/help/a/what-happens-to-my-data-360029581691/
+Expiry:
+Session
+Name:
+__tld__
+Provider:
+.community.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a day
+Name:
+_clsk
+Provider:
+community.3shape.com
+Data Processor:
+Microsoft Clarity
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a day
+Name:
+_clsk
+Provider:
+.community.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga
+Provider:
+.3shapediscover.com
+Data Processor:
+Google Analytics
+Purpose:
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga_xxx
+Provider:
+.3shapediscover.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+audio.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+audio.3shape.com
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a few seconds
+Name:
+_gat_gtag_UA_xxx_xxx
+Provider:
+.as.me
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a day
+Name:
+_gid
+Provider:
+.as.me
+Data Processor:
+Google Analytics
+Purpose:
+Collects anonymous information about the users and their activity on the website for analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+_ga
+Provider:
+.as.me
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+ai_user
+Provider:
+link.3shape.com
+Data Processor:
+Microsoft Azure
+Purpose:
+Collects information about the users, which is used for market analytics and reporting purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+30 minutes
+Name:
+ai_session
+Provider:
+link.3shape.com
+Marketing
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and interesting to the individual user and thus more valuable for publishers and third-party advertisers.
+Data Processor:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.linkedin.com/legal/privacy-policy
+Expiry:
+6 months
+Name:
+li_gc
+Provider:
+.linkedin.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a year
+Name:
+MUID
+Provider:
+.bing.com
+Data Processor:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.linkedin.com/legal/privacy-policy
+Expiry:
+a day
+Name:
+lidc
+Provider:
+.linkedin.com
+Data Processor:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.linkedin.com/legal/privacy-policy
+Expiry:
+a year
+Name:
+bcookie
+Provider:
+.linkedin.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a day
+Name:
+_uetsid
+Provider:
+.3shape.com
+Data Processor:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+6 months
+Name:
+__Secure-YNID
+Provider:
+.youtube.com
+Data Processor:
+Google
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+3 months
+Name:
+_gcl_au
+Provider:
+.3shape.com
+Data Processor:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+6 months
+Name:
+VISITOR_INFO1_LIVE
+Provider:
+.youtube.com
+Data Processor:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+6 months
+Name:
+VISITOR_PRIVACY_METADATA
+Provider:
+.youtube.com
+Data Processor:
+Marketo
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Data Processor Privacy Policy:
+https://documents.marketo.com/legal/privacy
+Expiry:
+a year
+Name:
+_mkto_trk
+Provider:
+.3shape.com
+Data Processor:
+Facebook
+Purpose:
+Identifies browsers for the purposes of providing advertising and site analytics services.
+Data Processor Privacy Policy:
+https://www.facebook.com/privacy/explanation
+Expiry:
+3 months
+Name:
+_fbp
+Provider:
+.3shape.com
+Data Processor:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+Session
+Name:
+YSC
+Provider:
+.youtube.com
+Data Processor:
+Youtube, Google
+Purpose:
+Supports the integration of a third-party platform on the website.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+6 months
+Name:
+__Secure-ROLLOUT_TOKEN
+Provider:
+.youtube.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+.3shape.com
+Data Processor:
+Google Marketing Platform
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+a year
+Name:
+IDE
+Provider:
+.doubleclick.net
+Data Processor:
+Google Marketing Platform
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+15 minutes
+Name:
+test_cookie
+Provider:
+.doubleclick.net
+Data Processor:
+TikTok
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.tiktok.com/legal/page/eea/privacy-policy/en
+Expiry:
+3 months
+Name:
+_tt_enable_cookie
+Provider:
+.3shape.com
+Data Processor:
+TikTok
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.tiktok.com/legal/page/eea/privacy-policy/en
+Expiry:
+3 months
+Name:
+_ttp
+Provider:
+.3shape.com
+Data Processor:
+Twitter
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://twitter.com/en/privacy
+Expiry:
+a year
+Name:
+personalization_id
+Provider:
+.twitter.com
+Data Processor:
+TikTok
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Data Processor Privacy Policy:
+https://www.tiktok.com/legal/page/eea/privacy-policy/en
+Expiry:
+3 months
+Name:
+_ttp
+Provider:
+.tiktok.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+webshop.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a day
+Name:
+_uetsid
+Provider:
+webshop.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+support.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a day
+Name:
+_uetsid
+Provider:
+support.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a day
+Name:
+_uetsid
+Provider:
+community.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+community.3shape.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Data Processor Privacy Policy:
+https://www.microsoft.com/en-us/privacy/privacystatement
+Expiry:
+a day
+Name:
+_uetsid
+Provider:
+.3shapediscover.com
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+.3shapediscover.com
+Data Processor:
+Facebook
+Purpose:
+Identifies browsers for the purposes of providing advertising and site analytics services.
+Data Processor Privacy Policy:
+https://www.facebook.com/privacy/explanation
+Expiry:
+3 months
+Name:
+_fbp
+Provider:
+.3shapediscover.com
+Data Processor:
+Google
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+3 months
+Name:
+_gcl_au
+Provider:
+.3shapediscover.com
+Data Processor:
+Marketo
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Data Processor Privacy Policy:
+https://documents.marketo.com/legal/privacy
+Expiry:
+a year
+Name:
+_mkto_trk
+Provider:
+.3shapediscover.com
+Data Processor:
+Loom, Inc.
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the users across the web.
+Data Processor Privacy Policy:
+https://www.loom.com/privacy-policy
+Expiry:
+a year
+Name:
+ajs_anonymous_id
+Provider:
+.3shapediscover.com
+Data Processor:
+Hotjar
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Data Processor Privacy Policy:
+https://www.hotjar.com/legal/policies/privacy/
+Expiry:
+30 minutes
+Name:
+_hjSession_xxx
+Provider:
+.3shape.com
+Data Processor:
+Hotjar
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the users across the web.
+Data Processor Privacy Policy:
+https://www.hotjar.com/legal/policies/privacy/
+Expiry:
+a year
+Name:
+_hjSessionUser_xxx
+Provider:
+.3shape.com
+Data Processor:
+Google
+Purpose:
+Supports the integration of a third-party platform on the website to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://policies.google.com/technologies/partner-sites?hl=en
+Expiry:
+3 months
+Name:
+_gcl_au
+Provider:
+.3shapedesign.services
+Data Processor:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Data Processor Privacy Policy:
+https://privacy.microsoft.com/en-us/privacystatement
+Expiry:
+a year
+Name:
+_uetvid
+Provider:
+audio.3shape.com
+Unclassified
+We are in the process of classifying unclassified cookies together with the providers of the individual cookies.
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a year
+Name:
+WMF-Uniq
+Provider:
+.upload.wikimedia.org
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timezoneoffset
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+Dynamics365PortalAnalytics
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timeZoneCode
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTSupport
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTObserved
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ContextLanguageCode
+Provider:
+3shapehelp-center-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTSupport
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timeZoneCode
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+Dynamics365PortalAnalytics
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timezoneoffset
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ContextLanguageCode
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTObserved
+Provider:
+3shapelink-dev.powerappsportals.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ContextLanguageCode
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timezoneoffset
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+Dynamics365PortalAnalytics
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timeZoneCode
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTSupport
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTObserved
+Provider:
+help.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+30 minutes
+Name:
+trwsa.sid
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a year
+Name:
+trwv.uid
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+_rdt_uuid
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+partnerportal#lang
+Provider:
+partner.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a year
+Name:
+NAC
+Provider:
+.naver.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+7 days
+Name:
+goal_930b52c5-8d01-4c31-92a7-fa2b8c017a1a
+Provider:
+www.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a year
+Name:
+_fwb
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+ttcsid_CL8UL1JC77UCSEKC7K3G
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+ttcsid
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 days
+Name:
+_helpjuice_session_v2
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+current_user_language
+Provider:
+support.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+15 minutes
+Name:
+OpenIdConnect.cv.goPVhvgUOzn32BCeQpq%2F1yoNpvNdHeTrpKPq4jlOaks%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.b4r%2BkTe3QQUsjQse0NaqzyWaoPyB%2Fay5Cko5mf%2Bp5FA%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.PvVVV2TTGWceAn6i0PhVfcphy4Hxay%2F7aOHOA2yPNbk%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.GESWQ9BhIkcaT0sQScqqDh82nQ7wkajAjGk%2Bfcfg%2Fe0%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.fzAocToD0AXJUE8vU%2FHo5lygDGGsfVfrQb9qxhhNMz0%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.9Ijv25bSySvJJW3%2FylhizlWcz1WokIjCBKH2FFTW3v0%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.hKQkCC6JJ%2Fj42hPKsB%2FqkpV5D76X%2BQGKAgIaYGrVc0g%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.ve5Zu2PLFrnTRtCqn8F1nRBLlVokmhXy6N2kL2AHNas%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.ls4kxkN%2BSWCo65SD0tsq3cfF7XhUjcwzK2JSSunMkXA%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.m1xiMt7uD8%2FBQzu2JU7F%2FTtJCntYryCyoi2WDHJr%2ByU%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+15 minutes
+Name:
+OpenIdConnect.cv.3XQhYDyslQLHinxetXyUEtADfGEmtR7R%2BAqfx0W1JAo%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.WG8QRhwSRoZ5GxTArQd%2BX8O60haE4vuZhMAV2SweUjc%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.GVmzaNdYF8Lznd2Un00R7yQsdHtFiZC4CNLcHue90Ak%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.atNqTHW145tpqET4mqztnV%2F9b%2BW2NyLoXb3Ym50c1wQ%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.XzZ1UETStD%2BRjvABPilOxGwSFu6ujoSWN63LCa3d9nk%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.T%2FuXzigRvDXBYzgMwm%2F7Fi5jDRG%2BpGPn5bAsWmSQx3k%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.xKKd6UoSmlv67S9O%2BDJifyeu2EOuxUDvljW9vLFSQHc%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.rbwByZNMprD716PQF150xsRmafrRgSS0QOAnFeiDvTM%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.y%2BiO4HjFyFy%2BNqN8N%2FE1cAEmbDOJnMcyMl1%2FH%2FgTPyI%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.En02ytN5AQuIEnDX5Q51bm73M4WWJj%2Fnt1ta%2FuIemmc%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.f%2FyquzNDu97%2BPA0OapebtB8IxzFTErDtcQFtrD9AuZw%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.QN6LxJIFZwy2XrEZTxTmLNROic7Q1zXpjyuLLDk3pkQ%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.4tQ7O6l8OCgzyTIyI911M4FVEen%2FzzAZoYa3owW0Akg%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.MBDNiKQ35Ujk4DF9WEc1ps892LiroyZev8jTJqcgcKE%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.%2B01ZcPtR2bE1FrakVBdAHVvb5oSGUQ8DvHDbicvL3Mg%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.QFaib33skZEx2x0JxEAkY9DW6914qeOi5j%2FrSOaTy2U%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.ojNPzRklbtDwBS4Bg3teGH88cpEepAYs0maY2J1eDcw%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.Fn8Uj8gOl3cj2BiRmSJVKqIpFHgmEHp30k6ppwOfbQE%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+14 minutes
+Name:
+OpenIdConnect.cv.0UErzRw%2B2dOCuCXZmPsiJQr4Su9zCMQRuO%2B23CjDvNw%3D
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+prod_alanguage
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+prod_acountry
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+an hour
+Name:
+acart
+Provider:
+.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a day
+Name:
+cw_country_code
+Provider:
+www.3shapediscover.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a day
+Name:
+cw_country
+Provider:
+www.3shapediscover.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+a year
+Name:
+language
+Provider:
+www.3shapediscover.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+3S-ConfiguratorCORS
+Provider:
+configurator.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+3S-Configurator
+Provider:
+configurator.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+RequestVerificationToken
+Provider:
+automate.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+3S-e-BusinessCORS
+Provider:
+shop.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+3S-e-Business
+Provider:
+shop.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+15 minutes
+Name:
+_dd_s
+Provider:
+3shapeonlinedemoscheduling.as.me
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+7 days
+Name:
+SS_ANALYTICS_ID
+Provider:
+.3shapeonlinedemoscheduling.as.me
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+3 months
+Name:
+Dynamics365PortalAnalytics
+Provider:
+link.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTSupport
+Provider:
+link.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+ContextLanguageCode
+Provider:
+link.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timeZoneCode
+Provider:
+link.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+isDSTObserved
+Provider:
+link.3shape.com
+Data Processor:
+Purpose:
+Data Processor Privacy Policy:
+Expiry:
+Session
+Name:
+timezoneoffset
+Provider:
+link.3shape.com
+Strictly necessary
+Functional
+Statistical
+Marketing
+NEWS
+CAREERS
+CONTACT US
+SCANNERS
+SOFTWARE
+SERVICES
+RESOURCES
+ABOUT US
+SUPPORT
+REQUEST DEMO
+SHOP
+Is there a better way to do dentistry than digital?
+
+Award-winning digital dentistry solutions to help you deliver superior dental care, for every patient, every time. Explore our scanners and software, or find inspiration and guidance to elevate the way you work.
+
+I want to:
+
+Understand digital dentistry
+Explore TRIOS scanners
+Discover lab solutions
+Get support & training
+The latest from 3Shape
+	
+	
+
+NEW product
+
+Dx Plus: AI-assistive software
+
+Revolutionize your patient checkups with AI-assistive Dx Plus digital diagnostic software.
+
+DISCOVER DX PLUS
+
+Event
+
+Join us at AEEDC in Dubai Jan 19-21, 2026, and experience our latest innovations.
+
+MEET AT AEEDC
+
+Webinar
+
+Your new Dx dental checkup! See AI-assistive Dx Plus software in action.
+
+WATCH NOW
+News & Updates
+18 Dec 2025
+New: check out our improved Learning & Support website!
+16 Dec 2025
+What's new in Implant Studio
+15 Dec 2025
+3Shape Clinical Class: Discover All-on-X Scanning with TRIOS
+04 Dec 2025
+Dental System 2025: see all new features and improvements
+Ways digital tools are transforming dentistry
+It increases comfort.
+And precision.
+
+With intraoral scanning, patients can wave goodbye to a lot of discomfort and time in the chair. Precise digital impressions (with proven TRIOS accuracy) support treatment outcomes and help you with monitoring and prevention of dental health issues.
+
+It transforms smiles.
+And builds trust.
+
+Experience the difference with 3Shape.
+
+Our digital imaging turns consultations into meaningful conversations, helping patients visualize their dental journey. From "before" to "after," they can clearly see the care journey ahead, fostering trust and connection with their dentist every step of the way.
+
+
+It drives practice growth
+It’s not just your treatments and your end customer that will benefit from digital tools. Increased efficiency impacts your bottom line, too. Calculate your predicted return on investment with TRIOS 5 here.
+CALCULATE MY ROI
+Digital dentistry: a brief introduction
+
+Deep dive
+
+Digital dentistry starts with a digital impression of the patient’s oral situation. This 3D model on screen can serve as the starting point for patient conversation, treatment planning and lab collaboration.
+
+From impression to treatment software
+
+We’re very passionate about digitizing dentistry - and we’ve invested heavily in building knowledge about how it works and what it does. The articles below take you through precisely that, from all angles: what it is, who it is for, and how it can be applied in dentistry consultations and treatments.
+
+Digital dentistry
+Intraoral scanners
+Dental lab scanners
+Digital dentures
+Digital Impressions
+Dental treatment plan
+Dental software
+Implant surgical guide
+Virtual smile design
+Orthodontic software
+Clear aligners
+
+COLLAPSE
+
+ⓘ Contact us or ask your reseller regarding availability of 3Shape products in your region.
+
+ABOUT US
+
+Contact Us
+Careers
+News & Press
+FAQ
+3Shape Audio
+AGM – 2025
+
+TRAININGS
+
+Academy
+Online Learning Hub
+3Shape Learning & Support
+Events
+
+RESOURCES
+
+Blog
+Case Studies
+Clinical Studies
+Support documentation
+3Shape products for research
+
+TOOLS
+
+ROI Calculator
+eCommerce
+Submit for Onboarding
+
+Copyright © 3Shape A/S • Privacy Policy • Privacy Policy CCPA  • Whistleblower • Data Ethics Policy • Cookies Policy • Privacy FAQ • support@3shape.com • Virtual Patent Marking
+
+
+
+
+Office, mail & delivery address: Niels Juels Gade 13, 1059 Copenhagen K, Denmark • P: +45 7027 2620
+
+Invoice/Billing address: Holmens Kanal 7, 1060, Copenhagen K, Denmark
+
+
+
+
+Tell us where you are, so we can show you relevant content.
+3Shape Global
+American English
+British English
+Português
+Deutsch
+Español
+Français
+Italiano
+日本語
+中文
+한국어
+Türkçe
+عربي

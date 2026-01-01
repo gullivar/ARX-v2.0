@@ -1,0 +1,611 @@
+내용으로 건너뛰기
+
+Snowflake Intelligence, 지금 바로 확인하세요.
+
+모든 직원의 손끝까지 닿는 엔터프라이즈 인사이트.
+
+솔루션 살펴보기
+제품
+솔루션
+SNOWFLAKE를 사용해야 하는 이유
+리소스
+개발자
+요금
+
+언어
+
+Português
+
+Italiano
+
+한국어
+
+日本語
+
+Español
+
+Deutsch
+
+Français
+
+English
+
+영업 담당자에게 문의하기
+무료로 시작하기
+
+AI 데이터 클라우드
+
+SNOWFLAKE INTELLIGENCE
+세상의 모든 지식.
+신뢰할 수 있는 단 하나의
+엔터프라이즈 에이전트.
+
+Snowflake Intelligence를 통해 엔터프라이즈 데이터를 즉각적인 인사이트로 전환하세요.
+
+SNOWFLAKE INTELLIGENCE 체험하기
+블로그에서 발표 내용 확인하기
+무료 온라인 이벤트
+BUILD 2025: 주요 발표, 신규 기능 및 최신 소식
+AI 데이터 클라우드에서 혁신의 한계를 넘을 준비가 되셨나요? 최신 제품 혁신을 만들어가는 제품 및 엔지니어링 팀의 발표를 직접 들어보세요.
+지금 시청하기
+
+플랫폼
+
+엔터프라이즈
+데이터 및 AI 간소화
+
+데이터의 수집, 처리, 분석, 모델링에서부터 데이터 및 AI 애플리케이션의 구축 및 공유에 이르기까지, Snowflake는 데이터로 더 빠르게 혁신하고 더 많은 성과를 달성할 수 있도록 지원합니다.
+
+SNOWFLAKE를 사용해야 하는 이유
+요금 알아보기
+편의성
+데이터 및 AI 전략 실현
+
+다양한 데이터 유형 및 클라우드 전반에 걸쳐 통합된, 사용하기 쉬운 완전 관리형 플랫폼을 활용하여 인프라를 구축, 구성 및 튜닝하는 데 드는 시간을 절약할 수 있습니다.
+
+연결성
+비즈니스 생태계 연결
+
+Snowflake의 풍부한 생태계 및 개방형 테이블 형식과의 상호운용성 덕분에 모든 데이터, 앱 및 모델의 가치를 극대화할 수 있습니다. 
+
+신뢰성
+보편적 비즈니스 연속성 보장
+
+클라우드 또는 리전에 관계없이 상시 가동되는 통합 보안, 거버넌스, 옵저버빌리티 및 재해 복구 기능을 통해 가장 까다로운 워크로드도 문제 없이 지원합니다. 
+
+AI 데이터 클라우드
+
+아키텍처 간소화
+데이터 사일로 해소
+DATA ENGINEERING
+
+원하는 프로그래밍 언어로 안정적이고 연속적인 엔터프라이즈 데이터 파이프라인을 대규모로 구축하세요.
+
+자세히 알아보기
+ANALYTICS
+
+최적의 가격과 니어 제로 유지 관리로 데이터 분석을 더 빠르게 수행하세요.
+
+자세히 알아보기
+AI
+
+데이터에 맞춤화된 LLM 및 ML 모델을 안전하게 구축하고 배포하세요.
+
+자세히 알아보기
+APPLICATIONS & COLLABORATION
+
+클라우드와 조직 간에 라이브 데이터를 공유하고 앱을 손쉽게 개발, 배포 및 확장하세요.
+
+자세히 알아보기
+완전 관리형
+크로스 클라우드
+상호운용성
+보안
+거버넌스
+AI 데이터 클라우드
+
+완전 관리형 서비스인 Snowflake Platform은 사용 편의성과 폭넓은 연결성을 바탕으로 전 세계 수천 개 고객사로부터 신뢰를 받고 있습니다.
+
+PLATFORM 살펴보기
+SNOWFLAKE INTELLIGENCE
+
+모든 사용자가 개인화된 엔터프라이즈 인텔리전스 에이전트를 통해 자연어만으로 복잡한 질문에 대한 답변을 얻을 수 있도록 지원합니다.
+
+솔루션 살펴보기
+
+고객
+
+SNOWFLAKE와 함께
+앞서 나가는 선도 기업
+고객사 보기
+
+Pfizer
+
+Intercontinental Exchange
+
+Siemens Energy
+
+AT&amp;T
+
+Merkle
+
+헬스케어 및 라이프사이언스
+
+Snowpark로 데이터 처리 속도를 4배 높이고 인사이트 가속화를 실현한 Pfizer
+
+Pfizer는 Snowflake로 마이그레이션함으로써 비즈니스 단위 통합, 인사이트에 대한 접근성 개선, 데이터 공유 원활화를 달성하는 동시에 총소유비용(TCO)을 절감했습니다.
+
+사례 읽기
+
+19,000시간
+더 빠른 데이터 처리에 따른 연간 절약 시간
+57%
+이전 솔루션 대비 TCO 절감률
+
+금융 서비스
+
+Snowpark로 비용을 최적화한 ICE와 NYSE
+
+ICE(Intercontinental Exchange)는 Snowflake를 통해 비용을 절감하면서 운영 효율성을 높이는 동시에, 뉴욕 증권거래소(NYSE)와 같은 글로벌 거래소의 규제 준수 및 보고를 지원하고 있습니다.
+
+사례 읽기
+
+80%
+애드혹 쿼리 성능 개선율
+50% 이상
+NYSE 규제 보고 워크로드 비용 절감률
+
+테크놀로지
+
+Cortex AI를 사용하여 문서 챗봇을 구축한 Siemens Energy
+
+Siemens Energy는 Snowflake와 Cortex AI를 활용하여 종이 기반 정보를 실행 가능한 데이터로 변환하고, AI 챗봇을 통해 수십만 페이지에 달하는 문서에 즉시 액세스하여 더 빠르게 인사이트를 도출합니다.
+
+동영상 시청하기
+
+80만 이상
+현재 챗봇을 통해 액세스 가능한 페이지 수
+
+통신
+
+연간 예상 비용(EAC)을 84% 절감하면서도 인사이트를 더 빠르게 제공하는 AT&T
+
+업계 선도 기업인 AT&T는 Snowflake로 전환함으로써 비용 절감과 성능 개선을 실현하는 동시에 의사 결정 및 고객 경험 제고를 위해 더 많은 사내 팀들이 강력한 인사이트에 거의 실시간으로 액세스할 수 있도록 지원합니다. 
+
+사례 읽기
+
+84%
+결과 캐싱을 통한 연간 예상 비용 절감률
+1초 미만
+셀프서비스 대시보드를 통해 사용자 쿼리의 90%에 응답하는 데 소요되는 시간
+
+광고, 미디어 및 엔터테인먼트
+
+데이터 거버넌스 및 보안을 제공하는 동시에 고객 경험을 개선하는 Merkle
+
+Merkle(dentsu 자회사)은 Snowflake로 민감 데이터를 통합하고 클라이언트와 협업하여 데이터 액세스 속도를 높이고 위험을 최소화하는 더욱 효율적이고 신뢰할 수 있는 데이터 환경을 구현합니다.
+
+사례 읽기
+
+64%
+데이터 개발 주기 단축률
+20%
+예상 비용 절감률
+
+영향력 확대
+
+SNOWFLAKE
+생태계
+SNOWFLAKE PARTNER NETWORK
+
+통합 기술에서 마이그레이션 전문가에 이르기까지, Snowflake의 파트너, 앱 또는 솔루션 중 하나를 선택해 Snowflake 배포를 극대화하세요.
+
+파트너 자세히 알아보기
+개발자 커뮤니티
+
+참조 아키텍처를 찾거나, Snowflake 스킬 세트를 향상시키거나, Snowflake가 지원하는 오픈소스를 확인해보세요.
+
+개발자 센터 방문하기
+
+리소스 및 뉴스
+
+SNOWFLAKE
+최신 소식
+
+추천
+
+뉴스
+
+이벤트
+
+웨비나
+
+가상 이벤트
+
+SNOWFLAKE를 통한 신속한 ROI 실현
+지금 등록하기
+
+EBOOK
+
+AI 에이전트 실무 가이드
+지금 다운로드하기
+
+가상 이벤트
+
+AI IN ACTION: 프로덕션 가속화 방법
+지금 등록하기
+
+보도 자료
+
+스노우플레이크, 크런치데이터 인수… 포스트그레SQL 통합한 ‘스노우플레이크 포스트그레스’ 출시
+더 보기
+
+보도 자료
+
+스노우플레이크, PAAS 사업자로 금융보안원 CSP 안전성 평가 완료
+더 보기
+
+보도 자료
+
+스노우플레이크, “데이터 협업 위한 플랫폼 도입 제조업체, 2년 간 416% 증가”
+더 보기
+BUILD KOREA: AI 데이터 개발자 컨퍼런스
+
+AI 시대, 전에 없던 개발을 위한 가장 혁신적인 솔루션 구축 방법을 Snowflake BUILD KOREA에서 확인해보세요!
+
+ 
+
+라이브 스트리밍 ㅣ 12월 9일 (화)
+
+Virtual
+
+SNOWFLAKE SUMMIT 베스트 세션 - 지금 바로 온디맨드로 만나보세요
+
+On-Demand
+
+Virtual
+
+DATA ENGINEERING CONNECT: ZEROOPS를 통한 데이터 파이프라인 워크플로우 간소화(영문)
+
+On-Demand
+
+Virtual
+
+가상 핸즈온 랩
+
+가격 데이터를 활용한 시계열 분석 및 LLM 기반 챗봇(영문)
+지금 등록하기
+
+가상 핸즈온 랩
+
+SNOWFLAKE SUMMIT 기조연설 온디맨드(영문)
+지금 등록하기
+
+가상 핸즈온 랩
+
+SNOWFLAKE NOTEBOOKS에서 SNOWPARK로 데이터 엔지니어링 파이프라인 구축하기(영문)
+지금 등록하기
+WHERE DATA
+DOES MORE
+30일 무료 평가판
+신용카드 불필요
+언제든지 취소 가능 
+무료로 시작하기
+데모 시청하기
+
+월간 뉴스레터 구독하기
+
+Snowflake의 최신 제품 정보, 전문가 인사이트 및 유용한 리소스를 이메일로 편리하게 받아보세요.
+
+Country
+United States
+Canada
+United Kingdom
+Germany
+France
+Australia
+Japan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo The Democratic Republic of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire (Ivory Coast)
+Croatia (Hrvatska)
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard and McDonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea Republic of (South)
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia Federated States of
+Moldova Republic of
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russian Federation
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and The South Sandwich Island
+Spain
+Sri Lanka
+Suriname
+Svalbard and Jan Mayen Islands
+Swaziland
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania United Republic of
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis and Futuna Islands
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Add me to the list to receive dedicated product updates and general availability emails.
+By submitting this form, I understand Snowflake will process my personal information in accordance with their Privacy Notice. 
+SUBSCRIBE NOW
+
+제품
+
+Platform
+Data Engineering
+Analytics
+AI
+Applications & Collaboration
+요금
+
+Support
+
+Support (EN)
+우선 지원 (EN)
+지원 현황 (EN)
+
+산업용
+
+광고, 미디어 및 엔터테인먼트
+금융 서비스
+헬스케어 및 라이프사이언스
+제조
+공공 부문
+리테일/소비재
+테크놀로지
+
+회사
+
+Snowflake 소개
+리더십 및 이사진 (EN)
+채용 (EN)
+투자자 관계 (EN)
+Trust Center (EN)
+브랜드 가이드라인 (EN)
+연락처
+뉴스룸
+ESG (EN)
+Snowflake Ventures (EN)
+데이터 불평등 종식 (EN)
+
+학습
+
+리소스 라이브러리
+라이브 데모 (EN)
+Fundamentals
+교육 (EN)
+자격 인증
+Snowflake University (EN)
+개발자가이드
+설명서 (EN)
+개인정보 처리방침
+사이트 이용 약관
+이메일 수신 설정
+Cookies Settings
+개인 정보를 공유하지 않습니다.
+법률
+© 2025 Snowflake Inc. All Rights Reserved ㅣ 스노우플레이크코리아 유한회사 ㅣ 대표자: 마이클파스콸스카펠리 ㅣ 주소: 서울특별시 강남구 테헤란로 142, 5층(역삼동) ㅣ 사업자등록번호: 523-87-02399
+
+*PrPr, † PuPr, ‡ 출시 예정
+
+12025년 7월 31일 기준
+
+22025년 7월 31일 현재. 총 고객 수에 대한 정의와 설명은 2025 회계연도 2분기 수익 보도 자료를 참조하십시오.
+
+SNOWFLAKE'S USE OF COOKIES
+We use cookies to enhance your experience and to analyze site traffic as described in our Cookie Statement. By accepting, you consent to our use of cookies.Cookie Statement.
+Cookies Settings
+REJECT ALL
+ACCEPT ALL COOKIES

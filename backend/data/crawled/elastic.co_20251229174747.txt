@@ -1,0 +1,149 @@
+Skip to main content
+
+New
+
+Forrester Wave Leader, Q2 2025
+
+Access report
+About us
+Partners
+Support
+|
+EN
+Login
+Elasticsearch
+Solutions
+Enterprise
+Resources
+Pricing
+Docs
+Search
+Start free trial
+Contact sales
+Supercharge your skills at ElasticON – join us at an event near you. Register now!
+The open source platform that powers search, observability, security, and more ...
+
+Build with Elasticsearch
+
+Start free trial
+Explore Elastic
+ELSER now available on EIS
+The easiest path to an end-to-end, GPU-powered semantic search is now available on Elastic.
+Sear-ious performance without memory limits
+DiskBBQ serves billions of vectors with sizzling speed and predictable cost—no RAM limits, just perfectly grilled performance.
+Build context-aware agents on Elasticsearch
+Introducing Agent Builder — quickly build agents on all your data with custom tools powered by our best-in-class relevance.
+AutoOps for self-managed is here
+Real-time insights and prescriptive recommendations, now included at no extra cost with your Enterprise subscription.
+IDC names Elastic a Leader in XDR MarketScape
+IDC highlights Elastic's strength in search, AI, and unified XDR capabilities.
+Elastic{ON} is back! Let's forge the future together
+Get hands-on with new features and learn how to build for what's next.
+TRUSTED BY 50% OF THE FORTUNE 500 TO DRIVE INNOVATION
+See all customer stories
+The Search AI Platform
+
+Get relevant results at unprecedented speed with open and flexible enterprise solutions. Accelerate business outcomes with the combination of powerful search and generative AI.
+
+Search AI Platform overview
+Search
+
+Build powerful AI and machine learning enabled search applications for your customers and employees.
+
+Search overview
+Security
+
+Modernize SecOps with AI-driven security analytics to detect, investigate, and respond before threats have a chance.
+
+Security overview
+Observability
+
+Accelerate problem resolution with open, flexible, and unified observability powered by advanced ML and analytics.
+
+Observability overview
+Agentic AI
+
+Explore Elastic Agent Builder to easily build reliable context-driven AI agents in Elasticsearch with your data.
+
+Agent Builder overview
+Want results like these?
+Try Elastic.
+10X
+
+faster at half the price of other observability solutions
+
+62
+%
+
+reduction in overall risk to stop ransomware and advanced threats
+
+Launch and scale faster with Elastic
+Start free trial
+View pricing
+Elasticsearch — the most widely deployed vector database
+Copy to try locally in two minutes
+Copy to clipboard
+curl -fsSL https://elastic.co/start-local | sh
+Read docs
+OR
+Deploy for production
+Start free cloud trial
+
+Or, download on-prem
+
+Discover everything you can do with Elastic
+
+Stay up to date on all the latest from Elastic
+
+Read news
+
+Expand your expertise
+
+Explore events
+
+Keep up with our growing community
+
+View blog
+Ready to put your data to work?
+Start free trial
+Get in touch
+FOLLOW US
+ABOUT US
+About Elastic
+Leadership
+Blog
+Newsroom
+JOIN US
+Careers
+Career portal
+How we hire
+PARTNERS
+Find a partner
+Partner login
+Request access
+Become a partner
+TRUST & SECURITY
+Legal
+Trust center
+Privacy
+Trade Compliance
+Ethics & Compliance
+INVESTOR RELATIONS
+Investor resources
+Governance
+Financials
+Stock
+EXCELLENCE AWARDS
+Previous winners
+Elastic{ON} Tour
+Become a sponsor
+All events
+TrademarksTerms of UsePrivacySitemap
+
+© 2025. Elasticsearch B.V. All Rights Reserved
+
+This website and all associated content, software, discussion forums, products, and services are intended for professional use only. No consumer use of this website or its content is intended or directed.
+
+Elastic, Elasticsearch, and other related marks are trademarks, logos, or registered trademarks of Elasticsearch B.V. in the United States and other countries.
+
+Apache, Apache Lucene, Apache Hadoop, Hadoop, HDFS and the yellow elephant logo are trademarks of the Apache Software Foundation in the United States and/or other countries. All other brand names, product names, or trademarks belong to their respective owners.

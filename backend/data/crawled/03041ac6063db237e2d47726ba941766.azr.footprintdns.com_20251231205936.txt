@@ -1,0 +1,1 @@
+qro qro21prdapp01 qro21prdapp01-canary VmssX64 0 0 19da628b-3cc5-488e-abb0-b5fdd7fc8d27 10.8.0.21 1.0.5.1355

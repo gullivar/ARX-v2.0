@@ -1,0 +1,170 @@
+Skip to main content
+Skip to footer
+
+GPT-Image-1.5
+
+Available Now
+Features
+Solutions
+Learn
+For Teams
+For Developers
+Pricing
+Contact
+Launch App
+Creativity, Unleashed.
+Leverage generative AI with a unique suite of tools to convey your ideas to the world.
+Get Started
+Developer API
+For Creators
+Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.
+For Teams
+Bring your team's best ideas to life at scale, with our intuitive AI-first creative suite designed for collaboration and built for business.
+For Developers
+Experience content creation excellence with Leonardo.AI's API. With unmatched scalability, effortlessly tailor outputs to your brand guideline
+As Featured In
+Use Leonardo today for
+Inspiration
+Character Design
+Game Assets
+Concept Art
+Graphic Design
+Fashion
+Marketing
+Advertising
+Product Photography
+Architecture
+Interior Design
+And much more
++18 Million Creators using Leonardo.Ai
+Our users love using Leonardo to build their marketing assets. We empower them to create assets at scale, faster than ever, with cutting-edge technology.
+Join them today
+I like to describe it as "photoshop on steroids." Leonardo.Ai's advanced capabilities enable us to seamlessly blend and enhance images. These stills are then seamlessly integrated back into the workflow using Leonardo.Ai, resulting in highly detailed and expressive visual assets.
+Christophe Mes
+Chief of Staff, Springbok Group
+Leonardo’s Toolkit
+Image Generation
+AI Canvas
+3D Texture Generation
+Image Generation
+Envision The Extraordinary
+
+ Take creativity a step further with the transformative power of our AI Image Generation tool. It’s not just about bringing your concepts to life — redefine the impossible. From beginners to professionals, we offer a spectrum of settings that can be intuitively tailored to your needs.
+
+Discover an unprecedented fusion of simplicity and power, designed to cater to creative minds at all levels.
+
+Unveil New Creative Horizons with Fine-tuned Models
+Leonardo Anime XL
+A new high-speed Anime-focused model that excels at a range of anime, illustrative, and CG styles.
+Leonardo Lightning XL
+Our new high-speed generalist image gen model. Great at everything from photorealism to painterly styles.
+Leonardo Kino XL
+A model with a strong focus on cinematic outputs. Excels at wider aspect ratios, and does not need a negative prompt.
+Leonardo Diffusion XL
+The next phase of the core Leonardo model. Stunning outputs, even with short prompts.
+Leonardo Vision XL
+A versatile model that excels at realism and photography. better results with longer prompts.
+AlbedoBase XL
+A great generalist model that tends towards more CG artistic outputs. By albedobond.
+PhotoReal
+Leonardo PhotoReal is our latest innovation, a powerful pipeline designed to generate hyper-realistic photos and lifelike portraits.
+RPG v5
+Anashel returns with another great model, specialising in RPG characters of all kinds.
+DreamShaper v7
+Lykon is back with another update. this model is great at a range of different styles.
+SDXL 1.0
+Diffusion-based text-to-image generative model
+SDXL 0.9
+The latest Stable Diffusion model, currently in Beta.
+3D Animation Style
+Great at 3D film vibes, capable of complex scenes with rich color. Storyboard time!
+Absolute Reality v1.6
+A photorealistic style model from Lykon. Great at all sorts of photorealism.
+Leonardo Diffusion
+A model with incredible shading and contrast, great at both photos and artistic styles, by cac0e.
+DreamShaper v6
+A new update to an incredibly versatile model, excels at both people and environments, by Lykon.
+Deliberate 1.1
+A powerful model created by XpucT that is great for both photorealism and artistic creations.
+Vintage Style Photography
+This model can generate a broad range of imagery with a vintage style as if it was taken from a film camera.
+DreamShaper 3.2
+This model by Lykon is great at a range of portrait styles as well as artistic backgrounds.
+RPG 4.0
+From whimsical fairy-like beings to mythical creatures, create unique cute spirit characters.
+Luna
+For the best result keep Guidance Scale between 3-11.
+Paper art style
+Paper art style.
+Ilustration V2
+It is another model of artistic and illustrative images with different styles.
+Spirit Creatures
+From whimsical fairy-like beings to mythical creatures, create unique cute spirit characters.
+Character Portraits
+A model that's for creating awesome RPG characters of varying classes in a consistent style.
+At Leonardo, we has just launched Image Guidance, a transformative addition to our ControlNet suite. This feature greatly improves the way you style and structure your images, allowing for intricate adjustments with diverse ControlNet settings. It also offers a plethora of benefits, including new tools, independent weighting, and the ability to use multiple ControlNet options simultaneously.
+Isometric Fantasy
+Create all sorts of isometric fantasy environments. Try appending "3d vray render, isometric" and using a guidance scale of 6. For the negative pro...
+Isometric Scifi Buildings
+Great at creating scifi buildings of varying themes. Append the word isometric to your prompt to ensure an isometric view. "3d vray render" also here.
+Cute Animal Characters
+Perfect for creating adorable and cute animal characters - loveable and playful designs.
+Shields
+Create a variety of impressively varied and detailed shield designs. Allows for an incredible range of material types.
+Magic Items
+Create a wide range of magical items like weapons, shields, boots, books. Very versatile.
+Platform Gallery
+Load More
+#3 Discord Server in the World
+Be part of a creative community! 🌎
+Join Discord Server
+A community of over 4 million is waiting for you
+Leonardo's power extends beyond our revolutionary tools — we are anchored in one of the largest and most supportive AI communities worldwide, and we're deeply committed to it.
+"Leonardo gave me a way of expressing myself in a completely new and different way. Without AI I was only a consumer. Now I can create."
+Malakai030
+“Leo is suitable for those who are just starting their way in the world of AI images, as well as for professionals, who are offered a wide range of tools to work with.”
+Raini Studios
+“With its powerful fined tuned models Leonardo makes A.I art a breeze. The community is also the best I've found to date!”
+Dee Does A.I
+Our Partners
+Create your next artwork, with the power of Leonardo Ai
+Start using Leonardo
+No credit card needed
+Solutions
+Blueprints
+AI Image Generator
+AI Art Generator
+AI Video Generator
+Transparent PNG Generator
+AI Marketing Tools
+AI Graphic Design
+AI Print on Demand
+AI Photography
+AI Interior Design
+AI Architecture
+About
+Pricing
+API
+FAQ
+Blog
+Support
+Contact us
+Careers
+Leonardo Creator Program
+Affiliate Program
+Leonardo Imagination Fund
+Get the App
+Stay Tuned
+Leonardo
+.Ai
+Leonardo Interactive Pty Ltd
+ABN: 56 662 209 485
+
+Leonardo.Ai is fully SOC 2 Type I and Type II accredited, demonstrating our commitment to the highest standards of security, availability, and data integrity. This ensures our customers can trust that their data is handled with enterprise-grade protection and compliance.
+
+© 2025 All Rights Reserved, Leonardo Interactive Pty Ltd®
+Privacy Policy
+Terms of Service
+Cookie Policy
+DPA
+DMCA

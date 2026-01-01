@@ -1,0 +1,4 @@
+{
+  "error": "Short URL could not be found."
+}
+

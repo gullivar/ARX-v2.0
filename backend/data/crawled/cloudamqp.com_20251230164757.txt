@@ -1,0 +1,168 @@
+×
+Close
+Give LavinMQ a shot. Your queues will thank you! Try LavinMQ
+CloudAMQP
+Tour
+Pricing
+Documentation
+Support
+Blog
+Login
+Get Started
+Queue starts here.
+Managing the largest fleet of LavinMQ and RabbitMQ clusters worldwide
+
+Get a managed message broker Contact us
+
+ 
+Top 3 CloudAMQP features
+Fully Managed LavinMQ and RabbitMQ clusters
+
+CloudAMQP automates the entire setup, operation, and scaling of LavinMQ and RabbitMQ clusters and is available for all major cloud and application platforms around the world. Let your team focus on what they do best - building your product. Leave server management and monitoring to the experts.
+
+Easy Monitoring & Custom Alarms
+
+Our control panel offers various tools for monitoring and alarms. Address performance issues promptly and automatically, before they impact your business. CloudAMQP makes it easy to set up custom alarms via email, webhooks, and external services.
+
+Exceptional Support
+
+CloudAMQP has unmatched operation experience from a wide variety of customers all over the world who count on us for 24/7 support. There's no scaling or implementation problem we can't solve.
+
+Take a Tour
+
+13,000+ users including these smart companies
+Reasons you will love CloudAMQP
+Message Queues in the Cloud
+
+CloudAMQP installs and manages LavinMQ and RabbitMQ clusters for you. RabbitMQ supports multiple protocols such as AMQP, MQTT, HTTPS, STOMP, and WebSockets over STOMP, MQTT.
+
+Scaling & Upgrading
+
+At CloudAMQP you can scale your cluster without downtime. The same goes for upgrading your server to a new Erlang or RabbitMQ version, just click a button and relax.
+
+RabbitMQ Diagnostic Tool
+
+The RabbitMQ Diagnostic Tool helps you identify common errors in your RabbitMQ cluster. The tool checks your setup and gives you suggestions on how to improve your cluster.
+
+Invite your Team
+
+Invite your co-workers and enjoy separate CloudAMQP accounts for everyone with the same set of instances to manage. You decide where to send notifications and who will pay the bill.
+
+Plug-ins at your Service
+
+Easily enable common plugins from CloudAMQP’s control panel and find top community plug-ins that are installed to your server with just a click.
+
+Additional nodes in your cluster
+
+For dedicated instances in AWS and Azure you can specify the number of nodes you need. On dedicated plans you can also choose to create your cluster in a dedicated VPC.
+
+CloudAMQP is available in
+10 plans 5 clouds 128 regions
+Supported Cloud Platforms
+Also available through
+
+Learn more about our plans and the available regions on our pricing page.
+
+Pricing and Availability
+
+Join thousands of happy customers
+
+Lukas Hoeck
+
+Viessmann
+
+"The step to trust everything to CloudAMQP was quite big, to be honest, but we have never regretted doing so. It just works."
+
+Mathias Meyer
+
+Travis-CI.org
+
+"Travis CI streams hundreds of build log chunks per second and we can rely on CloudAMQP to deliver them. We use several RabbitMQ clusters from CloudAMQP, and both the infrastructure and the service have been rock-solid."
+
+Franklin Anderson de Amorim
+
+Picnic Technologies
+
+"Since its implementation in 2016, RabbitMQ has played a crucial role in Picnicʼs operations, handling millions—if not billions—of messages daily. Every placed order triggers messages that inform supply chain systems, warehouse fulfillment, and even data lakes for analytics."
+Meet our Customers
+Trust CloudAMQP with your data
+SOC2, GDPR and HIPAA compliant
+
+We are proud to be compliant with SOC 2 by AICPA. We are constantly audited against the Security (common criteria) and Availability Trust Services Criteria.
+
+CloudAMQP also comply with the European General Data Protection Regulation (GDPR) as well as The Health Insurance Portability and Accountability Act (HIPAA).
+
+Security is our top priority
+
+A well built environment start with high coding standards. That's why we have rigorous processes for code reviews and testing to maintain highest level of security.
+
+For extra protection we always have developers on duty to react quickly in an ever changing world.
+
+Encryption
+
+To secure data in transit, we offer SSL/TLS. Instances are isolated from each other on a network level. And on some clouds we offer the possibility to define a Virtual Private Cloud (VPC).
+
+Read our Security Policy for additional security options such as encryption for data at rest and IP allowlisting.
+
+CloudAMQP - industry leading RabbitMQ as a service
+
+We are here to assist you with any questions or inquiries you may have.
+CloudAMQP is 100% free to try.
+
+Questions? Reach out to us.
+Contact Us
+New to LavinMQ?
+
+Learn about LavinMQ technology and how to implement it.
+
+Blog
+
+Documentation
+
+LavinMQ Guide
+
+Ebook
+
+New to RabbitMQ?
+
+Learn about RabbitMQ technology and how to implement it.
+
+Blog
+
+Documentation
+
+RabbitMQ Guide
+
+Ebook
+
+MENU
+Home
+Tour
+Pricing
+Documentation
+Support
+Blog
+Customers
+About Us
+RESOURCES
+Changelog
+FAQ
+Legal and Policies
+Security and Compliance
+Status
+NEED HELP?
+Contact Support
+
+Open 24 hours a day, 7 days a week.
+
+TALK TO SALES
++1 812 461 6841
+
+Sales inquiries only. Open: 8-5 CST
+
+BROUGHT TO YOU BY
+www.84codes.com
+WE ARE THE TEAM BEHIND
+lavinmq.com
+
+© Copyright 2011-2025 CloudAMQP. RabbitMQ and the RabbitMQ Logo are trademarks of Broadcom, Inc.

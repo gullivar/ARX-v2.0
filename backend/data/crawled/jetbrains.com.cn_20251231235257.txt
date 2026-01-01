@@ -1,0 +1,650 @@
+AI
+AI 工具与服务
+JetBrains AIJetBrains 的软件开发 AI 生态系统
+IDE 中的 AI直接在您的 IDE 中获得所有 JetBrains AI 功能
+Matter产品团队的 AI 开发伴侣
+AI Enterprise对面向企业的 AI 工具进行精细控制
+AI Assistant内置于您的工作流中的智能编码辅助
+JunieIDE 中的编码智能体
+AI 博客我们最新的 AI 新闻和产品动态
+JetBrains AI
+
+使用为您打造的 AI 自定义您的工作流
+
+开发者工具
+JETBRAINS IDE
+所有 IDE
+CLion
+DataGrip
+DataSpell
+Fleet
+GoLand
+IntelliJ IDEA
+PhpStorm
+PyCharm
+Rider
+RubyMine
+RustRover
+WebStorm
+插件和服务
+所有插件
+IDE 中的 AI
+IDE 主题
+大数据工具
+Code With Me
+RiderFlow
+Scala
+Toolbox App
+Grazie
+Junie
+.NET 和 VISUAL STUDIO
+Rider
+ReSharper
+ReSharper C++
+dotCover
+dotMemory
+dotPeek
+dotTrace
+.NET 工具插件
+语言与框架
+Kotlin
+Koog
+Ktor
+Exposed
+MPS
+Compose Multiplatform
+不确定哪个工具最适合您？
+
+无论您使用什么技术，JetBrains 都有一款适合您的工具。
+
+寻找适合您的工具
+DataGrip
+
+感受使用一款工具处理多种数据库的不同
+
+Junie (JetBrains)
+
+适用于 JetBrains IDE 的编码智能体
+
+团队工具
+云端和本地部署解决方案
+Datalore您的数据团队用于探索、分析、直观呈现和共享数据的平台
+TeamCity开箱即用的强大持续集成
+Matter产品团队的 AI 开发伴侣
+YouTrack为所有团队提供强大的项目管理
+Qodana适用于团队的代码质量平台
+扩展程序
+TeamCity 插件
+YouTrack 扩展
+JetBrains Hub
+Datalore
+
+感受协作分析的不同
+
+YouTrack
+
+为所有团队提供强大的项目管理
+
+教育
+学习
+课程目录130 多门课程，学习编程、AI、数据科学等
+大学项目通过 JetBrains 奖学金在欧洲学习
+实习机会立即申请加入我们的团队
+团队基于项目的学习，助力提升团队技能
+教授
+使用 JetBrains IDE 教学创建面向下一代开发者的课程
+Kotlin 教育使用 Kotlin 教授计算机科学
+免费许可证
+面向学生
+面向教师
+教育机构
+训练营和课程
+社区
+ICPC 协作活动、新闻和优惠
+JetBrains Academy
+
+通过必备开发者技能开启职业生涯
+
+解决方案
+按行业和技术
+远程开发供您和您的团队使用的远程开发工具
+游戏开发游戏开发工具用于任何平台
+DevOps工具和集成用于任何基础结构
+JetBrains Kotlin 生态系统用于为目标平台进行构建的统一技术栈
+汽车开发适用于任何平台的汽车开发的工具
+JetBrains AI 解决方案AI 赋能的开发者工具
+JetBrains for Data适用于整个数据工作流的智能工具
+JetBrains IDE Services组织规模的开发者工作效率
+多平台开发使用 Kotlin 进行灵活的跨平台开发
+推荐
+适合您的业务的 JetBrains 工具
+All Products Pack
+.NET 工具
+所有 JetBrains 产品
+JetBrains Marketplace
+为您的业务打造的开发者工具
+
+助力高效开发的专业工具
+
+JetBrains for Data
+
+感受每个数据任务的不同
+
+支持
+产品和技术支持
+支持中心
+产品特定的信息
+产品文档
+直播
+新闻
+抢先体验
+博客
+常见任务
+管理帐户
+管理许可证
+联系销售人员
+授权常见问题解答
+下载并安装
+联系我们
+在线商店
+开发者工具
+个人使用
+适用于团队和组织
+特别优惠和计划
+服务与插件
+JetBrains AI
+Marketplace
+学习工具
+JetBrains Academy
+团队工具
+TeamCity
+YouTrack
+Datalore
+Qodana
+协作开发
+Code With Me
+销售支持
+联系销售人员
+采购条款
+常见问题及解答
+合作伙伴和经销商
+All Products Pack
+
+获取所有 JetBrains 桌面工具，包括 11 种 IDE、
+2 种分析器和 3 种扩展程序
+
+更多优势
+AI
+AI 工具与服务
+JetBrains AIJetBrains 的软件开发 AI 生态系统
+IDE 中的 AI直接在您的 IDE 中获得所有 JetBrains AI 功能
+Matter产品团队的 AI 开发伴侣
+AI Enterprise对面向企业的 AI 工具进行精细控制
+AI Assistant内置于您的工作流中的智能编码辅助
+JunieIDE 中的编码智能体
+AI 博客我们最新的 AI 新闻和产品动态
+JetBrains AI
+
+使用为您打造的 AI 自定义您的工作流
+
+开发者工具
+JETBRAINS IDE
+所有 IDE
+CLion
+DataGrip
+DataSpell
+Fleet
+GoLand
+IntelliJ IDEA
+PhpStorm
+PyCharm
+Rider
+RubyMine
+RustRover
+WebStorm
+插件和服务
+所有插件
+IDE 中的 AI
+IDE 主题
+大数据工具
+Code With Me
+RiderFlow
+Scala
+Toolbox App
+Grazie
+Junie
+.NET 和 VISUAL STUDIO
+Rider
+ReSharper
+ReSharper C++
+dotCover
+dotMemory
+dotPeek
+dotTrace
+.NET 工具插件
+语言与框架
+Kotlin
+Koog
+Ktor
+Exposed
+MPS
+Compose Multiplatform
+不确定哪个工具最适合您？
+
+无论您使用什么技术，JetBrains 都有一款适合您的工具。
+
+寻找适合您的工具
+DataGrip
+
+感受使用一款工具处理多种数据库的不同
+
+Junie (JetBrains)
+
+适用于 JetBrains IDE 的编码智能体
+
+团队工具
+云端和本地部署解决方案
+Datalore您的数据团队用于探索、分析、直观呈现和共享数据的平台
+TeamCity开箱即用的强大持续集成
+Matter产品团队的 AI 开发伴侣
+YouTrack为所有团队提供强大的项目管理
+Qodana适用于团队的代码质量平台
+扩展程序
+TeamCity 插件
+YouTrack 扩展
+JetBrains Hub
+Datalore
+
+感受协作分析的不同
+
+YouTrack
+
+为所有团队提供强大的项目管理
+
+教育
+学习
+课程目录130 多门课程，学习编程、AI、数据科学等
+大学项目通过 JetBrains 奖学金在欧洲学习
+实习机会立即申请加入我们的团队
+团队基于项目的学习，助力提升团队技能
+教授
+使用 JetBrains IDE 教学创建面向下一代开发者的课程
+Kotlin 教育使用 Kotlin 教授计算机科学
+免费许可证
+面向学生
+面向教师
+教育机构
+训练营和课程
+社区
+ICPC 协作活动、新闻和优惠
+JetBrains Academy
+
+通过必备开发者技能开启职业生涯
+
+解决方案
+按行业和技术
+远程开发供您和您的团队使用的远程开发工具
+游戏开发游戏开发工具用于任何平台
+DevOps工具和集成用于任何基础结构
+JetBrains Kotlin 生态系统用于为目标平台进行构建的统一技术栈
+汽车开发适用于任何平台的汽车开发的工具
+JetBrains AI 解决方案AI 赋能的开发者工具
+JetBrains for Data适用于整个数据工作流的智能工具
+JetBrains IDE Services组织规模的开发者工作效率
+多平台开发使用 Kotlin 进行灵活的跨平台开发
+推荐
+适合您的业务的 JetBrains 工具
+All Products Pack
+.NET 工具
+所有 JetBrains 产品
+JetBrains Marketplace
+为您的业务打造的开发者工具
+
+助力高效开发的专业工具
+
+JetBrains for Data
+
+感受每个数据任务的不同
+
+支持
+产品和技术支持
+支持中心
+产品特定的信息
+产品文档
+直播
+新闻
+抢先体验
+博客
+常见任务
+管理帐户
+管理许可证
+联系销售人员
+授权常见问题解答
+下载并安装
+联系我们
+在线商店
+开发者工具
+个人使用
+适用于团队和组织
+特别优惠和计划
+服务与插件
+JetBrains AI
+Marketplace
+学习工具
+JetBrains Academy
+团队工具
+TeamCity
+YouTrack
+Datalore
+Qodana
+协作开发
+Code With Me
+销售支持
+联系销售人员
+采购条款
+常见问题及解答
+合作伙伴和经销商
+All Products Pack
+
+获取所有 JetBrains 桌面工具，包括 11 种 IDE、
+2 种分析器和 3 种扩展程序
+
+登录
+
+JetBrains IDEs go AI
+
+为开发者、团队和企业打造的专业工具
+
+从无限制的代码补全到自主编码智能体，所有改进的 AI 功能现在都可以在您的 IDE 中免费使用。
+
+立即试用
+面向开发者团队工具商业用途
+面向{开发者}
+
+轻松构建软件
+
+提供出色开发者体验的丰富工具套件
+IntelliJ IDEA
+
+适用于 Java 和 Kotlin 的 IDE
+
+PyCharm
+
+适用于 Python 的 IDE
+
+对非商业用途免费
+DataGrip
+
+适用于多个数据库的工具
+
+对非商业用途免费
+WebStorm
+
+适用于 JavaScript 的 IDE
+
+对非商业用途免费
+Rider
+
+适用于 .NET 和游戏开发的 IDE
+
+对非商业用途免费
+CLion
+
+面向 C 和 C++ 开发者的 IDE
+
+探索 JetBrains IDE 和代码编写工具
+精选
+受到超过 1500 万开发者的信赖
+完全就绪，开箱即用
+
+任务关键型工具和各种受支持的语言和框架都触手可及，无需另外安装插件。
+
+简化复杂任务
+
+IDE 对您的代码了如指掌，并利用这些知识在每个上下文中提供极快的导航和相关建议。
+
+内置工具
+
+无需离开 IDE 和代码视图即可运行、调试和测试应用程序。所有重要工具都触手可及。
+
+可定制且可扩展
+
+您的 IDE 可以根据您的品味和偏好进行配置，并帮助您在编码期间保持专注。
+
+PyCharm
+完全就绪，开箱即用
+
+任务关键型工具和各种受支持的语言和框架都触手可及，无需另外安装插件。
+
+PyCharm
+简化复杂任务
+
+IDE 对您的代码了如指掌，并利用这些知识在每个上下文中提供极快的导航和相关建议。
+
+WebStorm
+内置工具
+
+无需离开 IDE 和代码视图即可运行、调试和测试应用程序。所有重要工具都触手可及。
+
+IntelliJ IDEA
+可定制且可扩展
+
+您的 IDE 可以根据您的品味和偏好进行配置，并帮助您在编码期间保持专注。
+
+Rider
+1/1
+JetBrains Kotlin
+生态系统
+
+为 Kotlin 编程语言构建的强大工具集合、库和集成，可帮助您高效开发现代应用程序。
+
+浏览
+面向团队
+
+最大限度减少摩擦并提高工作效率
+
+通过快速的软件交付流确保高效协作并维护高质量代码库
+TeamCity
+
+开箱即用的强大持续集成
+
+YouTrack
+
+面向所有团队的项目管理
+
+Qodana
+
+由高级静态分析驱动的代码质量平台
+
+Datalore
+
+面向团队的自托管数据科学平台
+
+等等
+精选
+全球许多最有活力的团队认为 JetBrains 工具极大地提高了他们的创造力和效率
+
+Gradle Inc. 打造了数百万开发者使用的流行开源构建自动化工具 Gradle Build Tool。过去十年，Gradle Build Tool 团队一直在 CI/CD 流程中使用 TeamCity，每天运行数万次绿色构建并保持高构建成功率。
+
+阅读完整的案例研究
+
+Qodana 可以帮助我们的所有开发者写出更好的代码，无论他们有多少经验，它也帮助我们的高级开发者保证预期代码质量。考虑到它提供的各类检查，我们希望 Qodana 除了帮助维护产品中的代码质量标准之外，还可以充当开发者的教练。
+
+阅读 Qodana 案例研究
+
+TeamCity
+
+CI/CD 的新方式
+
+更快的自我优化管道和智能建议将确保您始终高效工作。您可以专注于打造出色成果，把其他的交给我们。
+
+了解详情
+我们的产品不受限于具体技术，并支持您的团队和项目现在或将来可能使用的多种语言和其他工具。
+
+VB.net
+
+Java
+
+Kotlin
+
+Android
+
+JavaScript
+
+TypeScript
+
+PHP
+
+C#
+
+Python
+
+Go
+
+HTML
+
+Scala
+
+VB.net
+
+Java
+
+Kotlin
+
+Android
+
+JavaScript
+
+TypeScript
+
+PHP
+
+C#
+
+Python
+
+Go
+
+HTML
+
+Scala
+
+探索并找到合适的 JetBrains 团队工具！
+
+面向企业
+
+助力团队成长，取得企业成功
+
+JetBrains IDE Services
+
+大规模管理开发者工具
+
+为整个组织中的所有设备集中配置 IDE。安全管理 AI 赋能的开发工作。
+
+了解详情
+随着您的成长而扩缩的解决方案
+提升开发者体验
+
+按自己的需求利用 AI，从而确保合规性。提高软件团队的满意度和工作效率。
+
+保持竞争力
+
+培养编码最佳做法并确保代码更干净、更易维护。
+
+最小化风险
+
+通过企业级支持确保业务连续。
+
+控制成本
+
+通过灵活的许可和成本控制促进业务增长。最大程度利用现有技术投资。
+
+经过验证的合规性与安全性
+
+JetBrains 工具遵循行业领先的安全标准，包括 SOC 2 认证，确保贵组织的数据得到保护，并且我们的产品符合全球法规。我们的信任中心提供了所有必要文档，包括安全报告、政策和认证。
+
+探索让企业投资购买 JetBrains 工具的更多理由
+了解详情
+受到超过 300000 个组织的信赖
+
+包括 88 家使用 JetBrains 产品交付优质软件的《财富》全球 100 强公司。
+
+发现更多
+选择您的 IDE
+探索我们的 IDE
+联系支持
+获取帮助
+与销售人员交谈
+联系我们
+年度亮点
+查看报告
+AI
+JetBrains AI
+AI Assistant
+Junie
+IDE 中的 AI
+AI Enterprise
+AI 新闻
+开发者工具
+所有产品
+IDE
+.NET 和 Visual Studio
+团队工具
+插件 Marketplace
+Toolbox App
+解决方案
+企业
+数据
+IDE Services
+远程开发
+游戏开发
+DevOps
+计划
+Kotlin
+开源
+JetBrains Research
+JetBrains Mono
+MPS
+教育
+学生
+教师
+训练营
+团队
+课程目录
+大学计划
+商店
+方案和定价
+All Products Pack
+dotUltimate
+合作伙伴和经销商
+客户和奖项
+支持
+技术支持
+联系销售人员
+文档
+JetBrains Account
+资源
+博客
+抢先体验
+活动和直播
+新闻
+行业报告
+Inspectopedia
+桌面艺术
+社区
+用户小组
+开源合作
+开发者认可
+内容创作者
+公司
+关于我们
+联系方式
+招贤纳士
+品牌资产
+周边商品
+信任中心
+简体中文
+沪公网安备 31010102007601 号沪 ICP 备 2021006743 号-1隐私与安全隐私声明使用条款归属法律信息正版工具选择退出
+捷并思（上海）信息技术有限责任公司 上海市黄浦区蒙自路 757 号 35 楼 A51 室 邮编: 200023
+Copyright © 2000-2025 JetBrains s.r.o.
+Developed with drive and IntelliJ IDEA

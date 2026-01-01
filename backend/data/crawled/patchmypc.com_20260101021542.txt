@@ -1,0 +1,139 @@
+Solutions
+Use Cases
+Resources
+Pricing
+Partner
+Support
+Sign In
+Demo
+ENDPOINT MANAGEMENT SOFTWARE
+Automate Third-Party Patch Management in Microsoft ConfigMgr and Intune
+
+Install thousands of apps with a few clicks and let us discover, test and package updates for you.
+
+4.8
+500+ reviews
+Book a Demo
+Request a Quote
+Trusted by over 8,600 Enterprises on Over 26.5 Million Endpoints
+Three solutions to resolve all of your security, compliance, cost, and stability headaches with automation
+Patch Management
+
+Manual patching wastes time, risks errors, and leaves systems vulnerable for longer. Our automated solutions for ConfigMgr, Intune, and WSUS deliver secure, efficient, and error-free updates.
+
+Save Time
+Increase Security
+Mitigate Risk
+Simplify Complexity
+Learn more
+Application Management
+
+Manual application management drains resources and delays progress. Our solutions automate the application lifecycle, integrating with ConfigMgr and Intune to streamline and accelerate rollouts.
+
+Quick App Creation
+Seamless Integration
+Minimal Training Required
+Fast Deployment
+Learn More
+Endpoint Analytics
+
+Traditional reporting tools fail to deliver the insights you need, leaving your devices vulnerable and performance unclear. Our solutions sift through data to reveal threats, trends, and real-time risks.
+
+User-Friendly Dashboards
+Advanced Device Insights
+Real-Time Patch Compliance
+Actionable Risk Mitigation
+Vulnerability/Threat Analytics
+Learn More
+8,600
+Customers
+26.5
+Million Devices
+3034
+Supported Products
+How can Patch My PC help you
+
+By automating the patch management process, you no longer need to manually search for, package, and install applications and updates, saving valuable time and resources.
+
+Products
+
+Deep dive into our products and offerings.
+
+Roles
+
+Whether IT professional or MSP we’ve got what you’re looking for.
+
+Popular Features
+
+Common Intune and ConfigMgr missing features that PMPC easily resolves.
+
+Technology
+
+Find out our solutions and products based on the technology you’re using
+
+Products that get you there
+Advanced Insights
+
+Converting complex ConfigMgr report information into delightfully eye-catching visuals.
+
+Learn More
+Intune Apps for Patch My PC Cloud
+
+One SaaS portal to manage all application updates.
+
+Learn More
+Patch My PC Publisher
+
+The comprehensive solution for managing third-party application updates in your enterprise environment.
+
+Learn More
+What Customers Say About our products
+View All Reviews
+The best way to deploy and update third-party apps on Windows
+What do you like best about the product?Whether your Windows machines are managed with Intune or SCCM, Patch My PC is the easiest, most flexible way to deploy and update third-party apps. Features like custom pre- and post-install scripts and disabling built-in updaters help distinguish the product from its competitors. However, the responsive and helpful support team is what really sets Patch My PC apart.What…
+Read the full Patch My PC review
+    
+29/11/2022
+Ryan Steele
+The Best Third-Party Patching Service and SCCM Guidance!
+What do you like best about the product?I've used various tools for deploying third-party patching tools such as Chocolatey or something built into an RMM, but none perform as well as Patch My PC. I've used Patch My PC with Intune and SCCM and the experience with them was terrific. You can customize so many options when it comes to deploying updates and what the…
+Read the full Patch My PC review
+    
+12/05/2023
+Dan Slauter
+Reliable, seamless patching integration with low management overhead
+What do you like best about the product?We have never had a problem with PatchMyPC in all the years we've used it. It is a great tool that integrates with our existing patching deployments. We are a very lean organization, and maintaining another tool outside of MECM to patch 3rd party apps would have been a dealbreaker. With PatchMyPC, we just integrated the patches into…
+Read the full Patch My PC review
+    
+13/10/2022
+Harlan Gross
+Patch My PC has made our software catalog simple to maintain and up to date
+The software is very well polished. PMPC has thought of everything you may need to adjust settings wise and has an option for configuration. The supported software catalog out of the box was extensive which allows us to utilize PMPC for as many software packages as possible. Set up and use of the product is extremely easy and the agent (Kristee) that assisted with the…
+Read the full Patch My PC review
+    
+18/10/2024
+James Henry
+Made life easy
+What do you like best about the product?We have been a no patching workplace for a very long time and now that we have the right people in the correct positions patching has been our primary focus. Coming from a no patching workplace, Patch My PC has made this so easy to us to make sure everything is up to date. The ease of use…
+Read the full Patch My PC review
+    
+14/04/2023
+Jim Richard
+Deploying PMPC in the Enterprise for the first time
+What do you like best about the product?PMPC possesses a very intuitive scanning ability to determine what applications you're already running and can easily add them to your existing or new patching groups/ADRs. This gives me the flexibility to cover a variety of software titles and automate those patches while manually targeting higher priority targets.What do you dislike about the product?We're still underway…
+Read the full Patch My PC review
+    
+02/11/2022
+Richard Sheridan
+Awesome Third Party Application Management
+What do you like best about the product?PMPC was very easy to use and was linked into our MECM environment in no time, allowing us to see all the products we had that could be managed by PMPC. A few Automatic Deployment rules later, and we were updating software that usually would have taken days to get sorted.What do you dislike about the product?It would…
+Read the full Patch My PC review
+    
+23/11/2021
+Sean Firmston
+Ready to get started?
+
+See how automated application installations and updates can make your life easier.
+
+Book a Demo
+Try For Free

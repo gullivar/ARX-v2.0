@@ -1,0 +1,4 @@
+{
+"message":"No static resource .",
+"status":"404"
+}
