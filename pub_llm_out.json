@@ -1,0 +1,234 @@
+[
+    {
+        "fqdn": "topsuper.website",
+        "url": "https://topsuper.website",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.3,
+        "summary": "The site returned a 403 Forbidden error, so its content cannot be determined."
+    },
+    {
+        "fqdn": "catholic.org",
+        "url": "https://catholic.org",
+        "category_main": "Religion",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "This is a Catholic religious organization website featuring news, prayers, and information about saints."
+    },
+    {
+        "fqdn": "yellowpages.ca",
+        "url": "https://yellowpages.ca",
+        "category_main": "Directory",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "A business directory service for finding local businesses and services in Canada."
+    },
+    {
+        "fqdn": "larkplayerapp.com",
+        "url": "https://larkplayerapp.com",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "The official website for Lark Player, a free music and video player app."
+    },
+    {
+        "fqdn": "fromsoftware-game.net",
+        "url": "https://fromsoftware-game.net",
+        "category_main": "Gaming",
+        "is_malicious": false,
+        "confidence_score": 0.90,
+        "summary": "An official site related to FromSoftware games (Dark Souls, Armored Core), currently showing a 404 page."
+    },
+    {
+        "fqdn": "whathifi.com",
+        "url": "https://whathifi.com",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A reputable technology review site focusing on audio and visual equipment."
+    },
+    {
+        "fqdn": "debian.net",
+        "url": "https://debian.net",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "Community-driven site for Debian Linux, offering news, wiki, and support."
+    },
+    {
+        "fqdn": "openfoodfacts.org",
+        "url": "https://openfoodfacts.org",
+        "category_main": "Food & Beverage",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "an open database of food products with ingredients, allergens, and nutrition facts."
+    },
+    {
+        "fqdn": "bitrix24.kz",
+        "url": "https://bitrix24.kz",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "The Kazakhstan regional site for Bitrix24, a business collaboration and CRM platform."
+    },
+    {
+        "fqdn": "reqres.in",
+        "url": "https://reqres.in",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A hosted REST-API service for frontend developers to test their applications."
+    },
+    {
+        "fqdn": "augmentcode.com",
+        "url": "https://augmentcode.com",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "An AI coding platform providing context-aware code completion and assistance."
+    },
+    {
+        "fqdn": "teamup.com",
+        "url": "https://teamup.com",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A shared calendar application for groups and teams to schedule and manage events."
+    },
+    {
+        "fqdn": "pandi.id",
+        "url": "https://pandi.id",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "The Indonesian Internet Domain Name Registry (PANDI), managing .id domains."
+    },
+    {
+        "fqdn": "inlinemanual.com",
+        "url": "https://inlinemanual.com",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "A digital adoption platform for creating user guides and onboarding walkthroughs."
+    },
+    {
+        "fqdn": "wmagazine.com",
+        "url": "https://wmagazine.com",
+        "category_main": "News & Media",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A fashion and culture magazine featuring style, beauty, and entertainment news."
+    },
+    {
+        "fqdn": "wmata.com",
+        "url": "https://wmata.com",
+        "category_main": "Travel",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "Official website of the Washington Metropolitan Area Transit Authority (Metro)."
+    },
+    {
+        "fqdn": "p24.hu",
+        "url": "https://p24.hu",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.90,
+        "summary": "Corporate site for Central Médiacsoport Zrt., a Hungarian media company."
+    },
+    {
+        "fqdn": "opencorporates.com",
+        "url": "https://opencorporates.com",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "An open database of corporate data, providing company information and verification."
+    },
+    {
+        "fqdn": "net2fast.com",
+        "url": "https://net2fast.com",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.85,
+        "summary": "A website for IP2UP, claiming to be an IP solution provider (requires JS to view)."
+    },
+    {
+        "fqdn": "solscan.io",
+        "url": "https://solscan.io",
+        "category_main": "Cryptocurrency",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "A blockchain explorer for the Solana network."
+    },
+    {
+        "fqdn": "deriv.com",
+        "url": "https://deriv.com",
+        "category_main": "Finance",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "An online trading platform for CFDs, options, forex, and cryptocurrencies."
+    },
+    {
+        "fqdn": "typecho.org",
+        "url": "https://typecho.org",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "Official site for Typecho, a lightweight open-source blogging platform."
+    },
+    {
+        "fqdn": "okmeter.io",
+        "url": "https://okmeter.io",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "A server monitoring SaaS solution for infrastructure metrics."
+    },
+    {
+        "fqdn": "noblogs.org",
+        "url": "https://noblogs.org",
+        "category_main": "News & Media",
+        "is_malicious": false,
+        "confidence_score": 0.90,
+        "summary": "A privacy-oriented, non-commercial blog platform for radical communities."
+    },
+    {
+        "fqdn": "hydrogenaudio.org",
+        "url": "https://hydrogenaudio.org",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A discussion forum dedicated to audio technology and software like foobar2000."
+    },
+    {
+        "fqdn": "linkiesta.it",
+        "url": "https://linkiesta.it",
+        "category_main": "News & Media",
+        "is_malicious": false,
+        "confidence_score": 0.5,
+        "summary": "An Italian news site (currently showing a Cloudflare/security check)."
+    },
+    {
+        "fqdn": "evraz.com",
+        "url": "https://evraz.com",
+        "category_main": "Business",
+        "is_malicious": false,
+        "confidence_score": 0.5,
+        "summary": "Corporate site (likely efficient steel/mining) currently behind a captcha challenge."
+    },
+    {
+        "fqdn": "badoocdn.com",
+        "url": "https://badoocdn.com",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.2,
+        "summary": "CDN domain for Badoo (dating app), failed to crawl due to technical issues."
+    },
+    {
+        "fqdn": "allegroimg.com",
+        "url": "https://allegroimg.com",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.9,
+        "summary": "Image hosting domain for Allegro, an e-commerce platform (empty content)."
+    }
+]

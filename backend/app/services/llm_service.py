@@ -1,8 +1,15 @@
+
+print("DEBUG: LOADED NEW LLM_SERVICE MODULE WITH EXTERNAL HOST FIX V3")
 import requests
 import logging
 import json
-import socket
-from typing import Optional, Dict, Any
+import os
+import random
+import asyncio
+from typing import Optional, Dict, Any, List
+from dotenv import load_dotenv
+
+load_dotenv()
 
 logger = logging.getLogger(__name__)
 
@@ -11,260 +18,112 @@ class LLMService:
         self.internal_host = "192.168.8.190"
         self.external_host = "106.254.248.154"
         self.port = 17311
-        self.model = "llama3:latest"
-        self.base_url = None # Lazy init to avoid startup blocking
-
-    def _check_host(self, host: str, timeout: float = 2.0) -> bool:
-        try:
-            url = f"http://{host}:{self.port}/api/version"
-            requests.get(url, timeout=timeout)
-            return True
-        except:
-            return False
+        self.local_model = "llama3:latest"
+        self.base_url = None 
+        self.use_public_llm = False
+        print(f"DEBUG: LLMService Initialized. External Host: {self.external_host}")
 
     def refresh_connection_status(self):
-        """
-        Periodic check to optimize connection path.
-        - Prioritizes Internal (Direct) IP if available for speed.
-        - Fallbacks to External (Port Forwarding) if Internal is unreachable.
-        """
-        logger.info("Optimizing LLM Connection Path...")
-        
-        # 1. Try Internal First
-        if self._check_host(self.internal_host, timeout=1.0):
-            new_url = f"http://{self.internal_host}:{self.port}"
-            if self.base_url != new_url:
-                logger.info(f"✅ Switched LLM Connection to INTERNAL (Direct): {new_url}")
-            self.base_url = new_url
-            return
-
-        # 2. Try External
-        if self._check_host(self.external_host, timeout=3.0):
-            new_url = f"http://{self.external_host}:{self.port}"
-            if self.base_url != new_url:
-                logger.warning(f"⚠️ Switched LLM Connection to EXTERNAL (Relay): {new_url}")
-            self.base_url = new_url
-            return
-
-        logger.error("❌ Both Internal and External LLM connections failed.")
-
-    def _determine_base_url(self) -> str:
-        """
-        Check connectivity to internal IP first, then fallback to external IP.
-        """
-        urls_to_try = [
-            f"http://{self.internal_host}:{self.port}",
-            f"http://{self.external_host}:{self.port}"
-        ]
-
-        for url in urls_to_try:
-            try:
-                # Increased timeout to 3s to allow for latency
-                requests.get(f"{url}/api/version", timeout=3.0)
-                logger.info(f"LLM Service connected via: {url}")
-                return url
-            except Exception as e:
-                logger.warning(f"LLM Connection failed for {url}: {e}")
-                continue
-        
-        logger.error("Could not connect to LLM Service on any known address. Defaulting to External for safety.")
-        return f"http://{self.external_host}:{self.port}" # Default to External if both fail (better chance when remote)
+        print(f"DEBUG: Checking connectivity to {self.external_host}...")
+        if self._check_host(self.external_host):
+            self.base_url = f"http://{self.external_host}:{self.port}"
+            print(f"✅ Connected to External GPU LLM: {self.base_url}")
+        elif self._check_host(self.internal_host):
+            self.base_url = f"http://{self.internal_host}:{self.port}"
+            print(f"✅ Connected to Internal GPU LLM: {self.base_url}")
+        else:
+            print("❌ Failed to connect to any GPU LLM Host.")
+            self.base_url = None
+            
+    def _check_host(self, host: str, timeout: float = 10.0) -> bool:
+        try:
+            url = f"http://{host}:{self.port}/api/version"
+            resp = requests.get(url, timeout=timeout)
+            return resp.status_code == 200
+        except Exception as e:
+            print(f"DEBUG: Connection Error to {host}: {e}")
+            return False
 
     def get_base_url(self):
-        if not self.base_url:
-            self.base_url = self._determine_base_url()
+        if self.base_url: return self.base_url
+        self.refresh_connection_status()
         return self.base_url
 
-    def check_health(self) -> bool:
-        url = self.get_base_url()
-        try:
-            requests.get(f"{url}/api/version", timeout=3.0)
-            return True
-        except:
-            # Force re-determination
-            self.base_url = self._determine_base_url()
-            return True # Assume new URL might work, next call will verify
-            
-    def analyze_content(self, title: str, content: str, category_definitions: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
-        """
-        Send content to LLM for classification.
-        category_definitions: Dict where key=CategoryName, value=Description
-        """
-        # Retry logic wrapper
-        for attempt in range(2):
-            url = self.get_base_url()
-            
-            # Construct Category Prompt Part
-            category_prompt = ""
-            if category_definitions:
-                category_prompt = "Select the single most appropriate category from the list below based on the definitions:\n"
-                for cat, desc in category_definitions.items():
-                    desc_text = f": {desc}" if desc else ""
-                    category_prompt += f"- {cat}{desc_text}\n"
-            else:
-                # Fallback default if not provided
-                category_prompt = "Determine the Main Category (e.g., Shopping, Banking, Gambling, Phishing, Malware, News, Tech, Uncategorized)."
-
-            prompt = f"""
-            Analyze the following webpage content and classify it for a threat intelligence database.
-            
-            Title: {title}
-            Content Snippet: {content[:4000]}
-            
-            Task:
-            1. {category_prompt}
-            2. Determine if it is malicious (True/False).
-            3. Provide a confidence score (0.0 to 1.0).
-            4. Provide a 1-sentence summary.
-            
-            Output valid JSON only:
-            {{
-                "category_main": "CategoryName",
-                "is_malicious": false,
-                "confidence_score": 0.9,
-                "summary": "This site is..."
-            }}
-            """
-            
-            payload = {
-                "model": self.model,
-                "prompt": prompt,
-                "stream": False,
-                "format": "json"
-            }
-            
-            try:
-                # Timeout 30s for analysis (Fail Fast)
-                response = requests.post(f"{url}/api/generate", json=payload, timeout=30)
-                if response.status_code == 200:
-                    result = response.json()
-                    llm_response = result.get("response", "{}")
-                    data = json.loads(llm_response)
-                    data["llm_model_used"] = self.model
-                    return data
-                else:
-                    logger.error(f"LLM API Error: {response.text}")
-                    return None
-            except requests.exceptions.RequestException as e:
-                logger.warning(f"LLM Request Failed (Attempt {attempt+1}): {e}")
-                # Force refresh connection for next attempt
-                self.base_url = None
-                self.refresh_connection_status()
-                continue
-            except Exception as e:
-                logger.error(f"LLM Analysis Failed: {e}")
-                return None
-        return None
-
-    def simple_chat(self, prompt: str) -> str:
-        """
-        Generic chat completion.
-        """
-        for attempt in range(2):
-            url = self.get_base_url()
-            
-            payload = {
-                "model": self.model,
-                "prompt": prompt,
-                "stream": False
-            }
-            
-            try:
-                # 60s timeout for chat
-                response = requests.post(f"{url}/api/generate", json=payload, timeout=60)
-                if response.status_code == 200:
-                    result = response.json()
-                    return result.get("response", "No response from LLM.")
-                return f"LLM Error: {response.text}"
-            except requests.exceptions.RequestException as e:
-                logger.warning(f"LLM Chat Failed (Attempt {attempt+1}): {e}")
-                self.base_url = None
-                self.refresh_connection_status()
-                continue
-            except Exception as e:
-                logger.error(f"LLM Chat Failed: {e}")
-                return f"System Error: {str(e)}"
-        
-    async def get_async_client(self):
-        """
-        Lazy init of persistent async client
-        """
-        import httpx
-        if not hasattr(self, "_async_client") or self._async_client is None:
-            limits = httpx.Limits(max_keepalive_connections=10, max_connections=20)
-            timeout = httpx.Timeout(120.0, connect=10.0)
-            self._async_client = httpx.AsyncClient(limits=limits, timeout=timeout, verify=False)
-        return self._async_client
-
     async def analyze_content_async(self, title: str, content: str, category_definitions: Optional[Dict[str, str]] = None) -> Dict[str, Any]:
-        """
-        Async version using persistent HTTPX client
-        """
-        client = await self.get_async_client()
+        return await self._analyze_with_local(title, content, category_definitions)
+
+    async def analyze_batch_async(self, items: List[Dict[str, str]]) -> List[Dict[str, Any]]:
+        if not items: return []
         
-        for attempt in range(2):
+        prompt = "Analyze the following websites and return a JSON list.\n"
+        prompt += "Output format: [{'fqdn': '...', 'category_main': '...', 'is_malicious': bool, 'summary': '...'}, ...]\n\n"
+        
+        for item in items:
+            prompt += f"--- Site: {item['fqdn']} ---\n"
+            prompt += f"Title: {item['title'][:100]}\n"
+            prompt += f"Content: {item['content'][:300]}\n\n" # Reduced context even more
+            
+        prompt += "RETURN ONLY JSON LIST. NO EXTRA TEXT."
+        
+        try:
+            import httpx
             url = self.get_base_url()
-            
-            # Construct Category Prompt Part
-            category_prompt = ""
-            if category_definitions:
-                category_prompt = "Select the single most appropriate category from the list below based on the definitions:\n"
-                for cat, desc in category_definitions.items():
-                    desc_text = f": {desc}" if desc else ""
-                    category_prompt += f"- {cat}{desc_text}\n"
-            else:
-                category_prompt = "Determine the Main Category (e.g., Shopping, Banking, Gambling, Phishing, Malware, News, Tech, Uncategorized)."
+            if not url: return []
 
-            prompt = f"""
-            Analyze the following webpage content and classify it for a threat intelligence database.
+            print(f"Sending Batch Request (Size {len(items)}) to {url}...")
+            client = httpx.AsyncClient(timeout=180.0)
+            payload = {"model": self.local_model, "prompt": prompt, "stream": False, "format": "json"}
             
-            Title: {title}
-            Content Snippet: {content[:4000]}
+            resp = await client.post(f"{url}/api/generate", json=payload)
+            await client.aclose()
             
-            Task:
-            1. {category_prompt}
-            2. Determine if it is malicious (True/False).
-            3. Provide a confidence score (0.0 to 1.0).
-            4. Provide a 1-sentence summary.
-            
-            Output valid JSON only:
-            {{
-                "category_main": "CategoryName",
-                "is_malicious": false,
-                "confidence_score": 0.9,
-                "summary": "This site is..."
-            }}
-            """
-            
-            payload = {
-                "model": self.model,
-                "prompt": prompt,
-                "stream": False,
-                "format": "json"
-            }
-            
-            try:
-                response = await client.post(f"{url}/api/generate", json=payload)
+            if resp.status_code == 200:
+                res = resp.json()
+                print(f"DEBUG: Raw LLM Response: {str(res)[:200]}...") # Print snippet
+                response_text = res.get("response", "[]")
+                print(f"DEBUG: Extracted Text: {response_text[:200]}...")
                 
-                if response.status_code == 200:
-                    result = response.json()
-                    llm_response = result.get("response", "{}")
-                    data = json.loads(llm_response)
-                    data["llm_model_used"] = self.model
-                    return data
-                else:
-                    logger.error(f"LLM API Error (Async): {response.text}")
-                    return None
-            except Exception as e:
-                logger.warning(f"LLM Async Request Failed (Attempt {attempt+1}): {e}")
-                self.base_url = None
-                self.refresh_connection_status()
-                continue
-        return None
+                try:
+                    data = json.loads(response_text)
+                    if isinstance(data, list):
+                        return data
+                    elif isinstance(data, dict):
+                        # Handle potential wrapper (results, sites, data, etc.)
+                        for key in ["sites", "results", "data", "items"]:
+                            if key in data and isinstance(data[key], list):
+                                return data[key]
+                        
+                        # Fallback: if it has meaningful fields, treat as single item list
+                        if "fqdn" in data or "category_main" in data:
+                            return [data]
+                        
+                        print(f"DEBUG: Dictionary response but no known list key found. Keys: {list(data.keys())}")
+                        return []
+                except Exception as e:
+                    print(f"Failed to parse JSON: {e}")
+                    return []
+            else:
+                print(f"Batch Request Failed: {resp.status_code} - {resp.text}")
+                    
+        except Exception as e:
+             print(f"Local Batch LLM Failed: {e}")
+        return []
 
-    # Helper to close client on shutdown
-    async def close(self):
-        if hasattr(self, "_async_client") and self._async_client:
-            await self._async_client.aclose()
+    async def _analyze_with_local(self, title: str, content: str, category_definitions: Optional[Dict[str, str]]) -> Dict[str, Any]:
+        import httpx
+        url = self.get_base_url()
+        if not url: return None
+        client = httpx.AsyncClient(timeout=60.0)
+        prompt = f"Analyze: {title}\n{content[:2000]}\nJSON Output keys: category_main, is_malicious, summary."
+        payload = {"model": self.local_model, "prompt": prompt, "stream": False, "format": "json"}
+        try:
+            resp = await client.post(f"{url}/api/generate", json=payload)
+            await client.aclose()
+            if resp.status_code == 200:
+                res = resp.json()
+                return json.loads(res.get("response", "{}"))
+        except:
+            await client.aclose()
+        return None
 
 llm_service = LLMService()

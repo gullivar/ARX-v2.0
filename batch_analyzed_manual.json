@@ -1,0 +1,34 @@
+[
+    {
+        "fqdn": "kempinski.com",
+        "url": "https://kempinski.com",
+        "category_main": "Travel",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "Official website for Kempinski Hotels, a luxury five-star hotel and resort chain."
+    },
+    {
+        "fqdn": "bloomberg.net",
+        "url": "https://bloomberg.net",
+        "category_main": "Finance",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "Gateway for Bloomberg L.P., providing financial information, news, and the Bloomberg Terminal service."
+    },
+    {
+        "fqdn": "bytro.com",
+        "url": "https://bytro.com",
+        "category_main": "Gaming",
+        "is_malicious": false,
+        "confidence_score": 0.95,
+        "summary": "Domain redirecting to playsupremacy.com, associated with Bytro Labs game development."
+    },
+    {
+        "fqdn": "example-worker-1.com",
+        "url": "https://example-worker-1.com",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.0,
+        "summary": "Auto-generated placeholder for batch"
+    }
+]

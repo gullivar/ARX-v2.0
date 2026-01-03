@@ -1,0 +1,42 @@
+[
+    {
+        "fqdn": "unstoppabledomains.com",
+        "url": "https://unstoppabledomains.com",
+        "category_main": "Cryptocurrency",
+        "is_malicious": false,
+        "confidence_score": 0.98,
+        "summary": "A blockchain domain name provider allowing users to buy decentralized domains (NFTs) for crypto payments and web3 identity."
+    },
+    {
+        "fqdn": "ruckus.cloud",
+        "url": "https://ruckus.cloud",
+        "category_main": "Technology",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "The login portal for RUCKUS One, a cloud-managed networking service by CommScope."
+    },
+    {
+        "fqdn": "sxsw.com",
+        "url": "https://sxsw.com",
+        "category_main": "Entertainment",
+        "is_malicious": false,
+        "confidence_score": 0.99,
+        "summary": "Official website for the South by Southwest (SXSW) conference and festivals featuring film, interactive media, and music."
+    },
+    {
+        "fqdn": "example-skipped-1.com",
+        "url": "https://example-skipped-1.com",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.0,
+        "summary": "Placeholder for demonstration batch items."
+    },
+    {
+        "fqdn": "example-skipped-2.com",
+        "url": "https://example-skipped-2.com",
+        "category_main": "Uncategorized",
+        "is_malicious": false,
+        "confidence_score": 0.0,
+        "summary": "Placeholder for demonstration batch items."
+    }
+]
